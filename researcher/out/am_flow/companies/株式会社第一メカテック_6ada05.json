@@ -1,0 +1,507 @@
+{
+ "name": "株式会社第一メカテック",
+ "aliases": [],
+ "context": "/ voxeljet（独）",
+ "researched_at": "2026-11-02T10:29:58.596489+00:00",
+ "official_url": "https://plastic-surfacetreatment.com/（Metoree掲載の会社サイト。fetchは拒否され本文未読",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1970年6月1日",
+    "url": "https://plastic-surfacetreatment.com/company/about",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "1970年",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "エミダス会員番号 99409",
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "129名",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "タンポ印刷機およびコロナ/プラズマ処理装置の海外メーカーの日本総代理店",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "当社はタンポ印刷（パッド印刷）用として、総代理店のTAMPOPRINT社以外にも日本のインキメーカー様数社の代理店となっています",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "表面処理部門では、ドイツ「TAMPOPRINT Gmbh」の国内総代理店として同社製印刷機の販売、メンテナンス、印刷資機材の販売をおこなっています",
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "第一メカテックの強みは、前処理～加飾～熱処理～マーキングの装置から資材までトータルで提供できること、ユーザーの仕様によってメーカー選定ができ、単品からシステム、設計製作までできることです",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "また社内に、設計、エンジニア、サービスのスタッフが充実しており、さまざまなワークテストに対応可能です",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ品などの単品からシステム機の設計製作、・生産工程の上流から下流工程まで一貫ラインのご提案が可能",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "社内に、設計、エンジニア、サービスのスタッフが充実",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "社内に設計、エンジニア、サービスのスタッフが充実",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンターは、主に造形受託サービスを承っています",
+    "url": "https://plastic-surfacetreatment.com/solution/products/",
+    "pass": 1
+   },
+   {
+    "quote": "スクリーンインキなどの販売も可能です",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "スクリーンインキの製造・販売を行なっているメーカーです",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではさまざまな版を販売しており、用途に応じてお選びいただけます",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "タンポ印刷（パッド印刷）にて使用する、消耗品やオプション品などの販売も行なっております",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "タンポ印刷の保守について",
+    "url": "https://plastic-surfacetreatment.com/service/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタの保守について",
+    "url": "https://plastic-surfacetreatment.com/service/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "コロナ処理・プラズマ処理の保守について",
+    "url": "https://plastic-surfacetreatment.com/service/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社販売商品",
+    "url": "https://plastic-surfacetreatment.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "（1）顧客と第一線社員との接点（顧客に与える印象）を重視し、ワンストップソリューション実現に向けた発展への改革を推進しながら、顧客の要求を満足するサービス品質を確保するために社員教育を充実し、社員一人ひとりが自主的に改善を含む必要な活動を行うことで、顧客の満足度の向上を図る",
+    "url": "https://plastic-surfacetreatment.com/company/quality",
+    "pass": 1
+   },
+   {
+    "quote": "販売を行っております",
+    "url": "https://www.dmt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "機械専門商社「第一実業株式会社」100％出資の子会社で、産業機械メンテナンス、補修部品販売を主業務としております",
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "pass": 3
+   },
+   {
+    "quote": "表面処理部門では、ドイツ「TAMPOPRINT Gmbh」の国内総代理店として同社製印刷機の販売、メンテナンス、印刷資機材の販売をおこなっています",
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "pass": 3
+   },
+   {
+    "quote": "処理及び加飾、溶接システムの製造及び販売、ＦＡ自動化装置等のシ",
+    "url": "https://www3.jeed.go.jp/saitama/poly/user_opinion/voise_ss/hl52qs000006vmn5-att/slheod000000wagz.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（医療、福祉、教育、ブライダル他）",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "（電子・回路・機械設計他）",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "第一メカテックの強みは、前処理～加飾～熱処理～マーキングの装置から資材までトータルで提供できること、ユーザーの仕様によってメーカー選定ができ、単品からシステム、設計製作までできることです",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな経験からお客様の仕様に応じて工法・メーカーの選定および提案が可能",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 1
+   },
+   {
+    "quote": "レーザーマーカー（レーザー刻印）は、28ミクロンのビーム径微細レーザー加工、自動車業界への豊富な実績があります",
+    "url": "https://plastic-surfacetreatment.com/solution/products/",
+    "pass": 1
+   },
+   {
+    "quote": "調色することでお客様専用の色をご提供します",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "（1）顧客と第一線社員との接点（顧客に与える印象）を重視し、ワンストップソリューション実現に向けた発展への改革を推進しながら、顧客の要求を満足するサービス品質を確保するために社員教育を充実し、社員一人ひとりが自主的に改善を含む必要な活動を行うことで、顧客の満足度の向上を図る",
+    "url": "https://plastic-surfacetreatment.com/company/quality",
+    "pass": 1
+   },
+   {
+    "quote": "整備した設備を安価にて顧客に",
+    "url": "https://www.dmt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第一メカテックはお客様の",
+    "url": "https://www.dmt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に常に必要とされるよう",
+    "url": "https://www.dmt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・身近な事例を通じて、AIの技術が顧客対応の現場で活用できることを知った",
+    "url": "https://www3.jeed.go.jp/saitama/poly/user_opinion/voise_ss/hl52qs000006vmn5-att/slheod000000wagz.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス（自動車整備・機械等修理）業界",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "カイシャの評判では、ユーザーの皆様に最も信頼性の高い、リアルな会社の実態をお届けするため、独自のデータ処理・集計を行っております",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトの年収情報は、ユーザーの皆様に投稿いただいた時点の回答に基づいているため、実際の年収とは異なる可能性があります",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ業界の企業の口コミ",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "エン カイシャの評判はユーザーが在籍時の体験を基にした口コミ・評判やスコアといった情報を掲載しているプラットフォームです",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "同業界のランキング",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "タンポ印刷（パッド印刷）にて使用する、消耗品やオプション品などの販売も行なっております",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "円錐形・特殊円錐形",
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "pass": 1
+   },
+   {
+    "quote": "円錐形・特殊円錐形",
+    "url": "https://plastic-surfacetreatment.com/service/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "円錐形・特殊円錐形",
+    "url": "https://plastic-surfacetreatment.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3億2,000万円",
+    "url": "https://plastic-surfacetreatment.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "円周自動溶接機",
+    "url": "https://www.dmt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "32,000 万円",
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "pass": 3
+   },
+   {
+    "quote": "320百万円",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 第一メカテック — 株式会社 第一メカテック 株式会社第一メカテック https://www.dmt.co.jp",
+    "url": "https://www.dmt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第一メカテック の強み — 第一メカテック の強み plastic-surfacetreatment.com https://plastic-surfacetreatment.com > 会社案内",
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 第一メカテック 埼玉県 川口市 — 株式会社 第一メカテック 埼玉県 川口市 エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "pass": 3
+   },
+   {
+    "quote": "第一メカテック | 企業情報 | イプロスものづくり — 第一メカテック | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/2060658/",
+    "pass": 3
+   },
+   {
+    "quote": "第一メカテック 表面処理技術 事業紹介ページ — 第一メカテック 表面処理技術 事業紹介ページ plastic-surfacetreatment.com https://plastic-surfacetreatment.com",
+    "url": "https://plastic-surfacetreatment.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第一メカテック の 本選考ES・体験記一覧 - 就活会議 — 第一メカテック の 本選考ES・体験記一覧 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > ES・体験記一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/64431/screening_experiences",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 第一メカテック 表面処理技術 事業紹介ページ — 会社概要 - 第一メカテック 表面処理技術 事業紹介ページ plastic-surfacetreatment.com https://plastic-surfacetreatment.com > 会社案内",
+    "url": "https://plastic-surfacetreatment.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 第一メカテック の評判・口コミ - エン カイシャの評判 — 株式会社 第一メカテック の評判・口コミ - エン カイシャの評判 エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 第一メカテック の新卒採用・会社概要 | マイナビ2027 — (株) 第一メカテック の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp87763 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp87763/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれる理由 第一メカテック | イプロスものづくり — 選ばれる理由 第一メカテック | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > その他表面処理装置",
+    "url": "https://mono.ipros.com/product/detail/2000741818/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://plastic-surfacetreatment.com/%EF%BC%88Metoree%E6%8E%B2%E8%BC%89%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%82%A4%E3%83%88%E3%80%82fetch%E3%81%AF%E6%8B%92%E5%90%A6%E3%81%95%E3%82%8C%E6%9C%AC%E6%96%87%E6%9C%AA%E8%AA%AD",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/company/feature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/solution/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/service/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/service/maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/solution/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/company/quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dmt.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/99409/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmt.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.jeed.go.jp/saitama/poly/user_opinion/voise_ss/hl52qs000006vmn5-att/slheod000000wagz.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dmt.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-hyouban.com/company/00001274698/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmt.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/contracted",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "第一メカテック 代理店 契約",
+   "results": [
+    "https://www.dmt.co.jp/",
+    "https://plastic-surfacetreatment.com/company/feature",
+    "https://ja.nc-net.or.jp/company/99409/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4997",
+    "https://mono.ipros.com/company/detail/2060658/",
+    "https://compalyze.co.jp/company/3010001021470",
+    "https://en-hyouban.com/company/00001274698/",
+    "https://plastic-surfacetreatment.com/service/material/",
+    "https://www.r-agent.com/company/60575/",
+    "https://dmt.co.jp/"
+   ]
+  },
+  {
+   "query": "第一メカテック 導入事例",
+   "results": [
+    "https://www.dmt.co.jp/",
+    "https://plastic-surfacetreatment.com/",
+    "https://www3.jeed.go.jp/saitama/poly/user_opinion/voise_ss/hl52qs000006vmn5-att/slheod000000wagz.pdf",
+    "https://syukatsu-kaigi.jp/companies/64431/screening_experiences",
+    "https://ja.nc-net.or.jp/company/99409/",
+    "https://en-hyouban.com/company/00001274698/",
+    "https://job.mynavi.jp/27/pc/search/corp87763/outline.html",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%AC%AC%E4%B8%80%E3%83%A1%E3%82%AB%E3%83%86%E3%83%83%E3%82%AF-%E6%B1%82%E4%BA%BA.html",
+    "https://www.dmt.co.jp/robot/",
+    "http://www.dmt.co.jp/"
+   ]
+  },
+  {
+   "query": "第一メカテック 価格 OR 料金",
+   "results": [
+    "https://www.dmt.co.jp/",
+    "https://plastic-surfacetreatment.com/company/about",
+    "https://en-hyouban.com/company/00001274698/",
+    "https://job.mynavi.jp/27/pc/search/corp87763/outline.html",
+    "https://plastic-surfacetreatment.com/service/material/",
+    "https://www.dmt.co.jp/recruit/aboutus/profile.html",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000yzYAi",
+    "https://www.nikkei.com/nkd/company/history/dprice/?scode=6227",
+    "https://dmt.co.jp/",
+    "https://mono.ipros.com/product/detail/2000322423/"
+   ]
+  },
+  {
+   "query": "第一メカテック 受託 造形",
+   "results": [
+    "https://plastic-surfacetreatment.com/solution/products/3d-print/",
+    "https://www.dmt.co.jp/",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://plastic-surfacetreatment.com/company/feature",
+    "https://mono.ipros.com/product/detail/2000741818/",
+    "https://kk-ariga.co.jp/metal_3d_printer/",
+    "http://3d.kinzoku-kakou-odec.com/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://jampt.jp/",
+    "http://www.dmt.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部8頁・検索4回）"
+ }
+}

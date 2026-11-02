@@ -1,0 +1,1421 @@
+{
+ "name": "日本鋳造株式会社",
+ "aliases": [],
+ "context": "BLT-S450(8レーザ)導入、半導体向け生産能力拡大(見出しのみ確認) / BLT",
+ "researched_at": "2026-11-02T10:21:13.582662+00:00",
+ "official_url": "https://www.nipponchuzo.co.jp/",
+ "identified_by": "search:yahoo_jp:日本鋳造",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1920年（大正9年）9月1日",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "304名（2026年３月末）",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "300名",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "大型鋳鋼類・特殊鋳鋼類・建築向け鋳鋼、鋼材類・鋳鉄類・新鋳造技術・鋳造機械の素形材事業 支承・伸縮装置のエンジニアリング事業 NCベース・構造物の建材事業",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "素形材事業・エンジニアリング事業",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "お取引先の皆様へ",
+    "value": "CSR調達ガイドライン(Corporate Social Responsibility 企業の社会的責任)",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、設計の自由度を引き上げています",
+    "url": "https://www.nipponchuzo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース新着",
+    "url": "https://www.nipponchuzo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "京浜工業地帯の生みの親である浅野総一郎により、大正9年、造船向けの鋳造品を製造・販売する会社として創業した日本鋳造",
+    "url": "https://www.nipponchuzo.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/greet/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/rinen/",
+    "pass": 1
+   },
+   {
+    "quote": "製造実力の向上、鋳造方案作成技術の継承、個別採算の見える化、人材育成教育等、鋳造会社としての基本的な力を向上させるのを目的に取り組んでいきます",
+    "url": "https://www.nipponchuzo.co.jp/company/rinen/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/housin/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "主に橋梁の支承や伸縮装置を設計・製造するエンジニアリング事業",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、都市機能を充足させる一助となっています",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "設計から組立てまでの一貫生産体制を確立しています",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "京浜工業地帯の中心に位置する川崎工場は、日本鋳造の主力工場として、設計から製品の組立にいたる鋳造製品の一貫生産体制を確立した総合プラントです",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "また、長年の経験と蓄積された技術を基に、橋梁機材であるゴム支承及び鋼製支承等全ての支承類、大伸縮・高機能の伸縮装置、落橋防止装置など、さらに、建築資材として空間構造物のジョイント類や柱脚などを、高度な品質管理のもとに開発から設計・製造まで一貫して行っております",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/sosiki/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械部品等炭素鋼鋳鋼品、半導体・液晶製造装置部品等合金鋼鋳鍛鋼品、プラント関連部品等合金鋳造品、合金鋳鉄品及び三次元積層造形品の設計・開発及び製造",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁用支承、橋梁用伸縮装置の設計・開発、製造及び据付",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベース、建築金物の設計・開発、製造及び据付",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "上記製品の販売",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁用支承、橋梁用伸縮装置の設計・開発及び製造",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベース、建築金物の設計・開発及び製造",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "日本鋼管川崎製鉄所よりプラグ類の生産販売業務を継承し、特殊鋳鋼工場を建設して生産開始",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁の支承や伸縮装置を設計・製造するエンジニアリング事業",
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "建築構造物の接合金物を設計・製造するほか固定柱脚工法を取り扱う建材事業",
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、設計の自由度を引き上げています",
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "pass": 1
+   },
+   {
+    "quote": "橋梁の支承や伸縮装置を設計・製造するエンジニアリング事業",
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建築構造物の接合金物を設計・製造するほか固定柱脚工法を取り扱う建材事業",
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "pass": 1
+   },
+   {
+    "quote": "主に橋梁の支承や伸縮装置を設計・製造するエンジニアリング事業",
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、都市機能を充足させる一助となっています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/jisseki/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/download/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター受託サービス",
+    "url": "https://www.nipponchuzo.co.jp/product/download/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース｜日本鋳造株式会社",
+    "url": "https://www.nipponchuzo.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "お知らせ｜ニュースリリース｜日本鋳造株式会社",
+    "url": "https://www.nipponchuzo.co.jp/release/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/release/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/invester/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/business/sokeizai/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、設計の自由度を引き上げています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/sokeizai/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "主に橋梁の支承や伸縮装置を設計・製造するエンジニアリング事業",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "設計から製造までを行える一貫体制を構築",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、設計の自由度を引き上げています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、都市機能を充足させる一助となっています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "設計技術と鋳造技術で高度なニーズにも対応",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "求められる要件を確実に達成できる設計技術と、設計した内容を高精度に再現できる鋳造技術",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "建築金物・景観部では主に建築構造物の接合金物を設計・製造",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な設計・鋳造技術と先進の発想がいきる製品及び工法は、ランドマークとなるような大規模な建築構造物に強さと美しさをあたえ、設計の自由度を引き上げています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B5%E3%83%89%E3%83%AB/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベースP（角形・円形鋼管柱用露出型弾性固定柱脚工法）",
+    "url": "https://www.nipponchuzo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な鋳造技術をいかしながら、時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "26億2797万3千円",
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "日本鋳造株式会社 創立 （資本金100万円）",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "新資本金5,000万円",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "新資本金19億2000万円",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "韓国大円社と直鋳鋳型の製造技術に関する技術協力契約調印",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社京浜機械株式会社を吸収合併 合併後資本金21億円となる",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "日立建機株式会社から第三者割当増資の払い込みを受け、増資後の資本金が2,627（百万円）となる",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベースP（角形・円形鋼管柱用露出型弾性固定柱脚工法）",
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベースP（角形・円形鋼管柱用露出型弾性固定柱脚工法）",
+    "url": "https://www.nipponchuzo.co.jp/product/products/",
+    "pass": 1
+   },
+   {
+    "quote": "時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/sokeizai/",
+    "pass": 1
+   },
+   {
+    "quote": "時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "鋼製・ゴム支承、伸縮装置、ダンパー、サドル、ケーブルバンドにくわえ、排水桝など、各種橋梁アクセサリを幅広く取り扱い、求められる機能や意匠にあわせて総合的に提案しています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "建材部では「NCベースP（角形・円形鋼管柱用露出型弾性固定柱脚工法）」を専門に取り扱う",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "「NCベースP」は、国内で唯一、下ナット方式を採用した角形・円形鋼管柱用露出型弾性固定柱脚工法で、すぐれた剛性と耐力にくわえ、幅広い製品展開と徹底した施工管理により、鉄骨造の建築構造物に確かな耐震性を付加しています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "時代のニーズを取り入れつくりあげた数々の製品によって、人と物の安全で円滑な移動を日々支え続けています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベースP（角形・円形鋼管柱用露出型弾性固定柱脚工法）",
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89/",
+    "pass": 1
+   },
+   {
+    "quote": "日本鋳造 - 鋼構造品［サドル］｜製品情報｜事業・製品情報｜日本鋳造株式会社",
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B5%E3%83%89%E3%83%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング - 鋼構造品［サドル］",
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B5%E3%83%89%E3%83%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "NCベースP（角形・円形鋼管柱用露出型弾性固定柱脚工法）",
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B5%E3%83%89%E3%83%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "特別損益については2026年７月に発生した倉庫火災について災害による損失34百万円を計上しました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内訳は、当中間会計期間末までに発生した臨時費用等13百万円、および今後発生が見込まれる残存物撤去",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "費用 20百万円です",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上時期がずれたエンジニアリング関連の案件は、年度内の出荷を見込み、通期では145億円の売上を",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益については730百万円の経常利益を予想しております",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 百万円 百万円 百万円 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（百万円未満切捨て）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円 銭 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 百万円 ％",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（参考）自己資本 2027年3月期中間期11,963百万円 2026年3月期11,685百万円",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円 銭 円 銭 円 銭 円 銭 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間会計期間における当社 の業績は、売上高は6,527百万円（前年同期比8.8％増）、経常利益は567百万円",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "７月に発生した倉庫火災につきましては、原因調査、復旧を進め、災害による損失 34百万円を特別損失に計上",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内訳は、当中間会計期間末までに発生した臨時費用等 13百万円、および今後発生が見込まれる残存物",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "撤去費用 20百万円です",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果より、中間純利益は354百万円となっております",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総資産は、製品及び仕掛品の増加などにより、前年度末に比べ増加し21,693百万円となりました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負債の部は、長期借入金の返済などにより9,729百万円となりました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "した実質有利子負債残高は2,294百万円となり、前年度末に比べ476百万円増加となりました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "純資産は中間純利益と配当金の支払により11,963百万円となり、自己資本比率は55.1％となりました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：百万円）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 品種別製品生産実績 （百万円）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 品種別製品受注状況 （百万円）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 品種別販売実績 （百万円）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の期末配当金は、１株につき25円を予想しておりましたが、上記の通期個別業績予想を踏まえ、",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "30円に修正いたします",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 百万円 百万円 百万円 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円 銭 円 銭 円 銭 円 銭 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年間配当金（円）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（百万円未満切捨て）",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円 銭 円 銭",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 百万円 ％",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（参考）自己資本 2027年3月期第1四半期11,534百万円 2026年3月期11,685百万円",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客のニーズに即応する開発部門、そして基盤技術の集積と革新的技術の探究を目的とする研究部門により、社会に貢献すべく努力をしています",
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、購買活動の推進にあたっては、すべてのお取引先と良きビジネスパートナーとして、",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は広く世界に目を向け、競争力のある国内外のすべてのお取引先に公平に機会を提供いたします",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお取引先と相互理解と信頼関係の維持向上に努めるとともに、",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "4.お取引先の選定",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお取引先の選定にあたっては、品質、技術、価格、納期、安定供給力、信頼性、経営の安定性およびCSR活動への取組み姿勢を総合的に勘案し、常に適切な品質管理・品質保証が徹底されていることを前提に経済合理性に基づき判断いたします",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は事業活動に関わるお取引先を含めたサプライチェーン全体でCSRに取り組む、CSR調達を推進します",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ：CSR調達ガイドライン(Corporate Social Responsibility 企業の社会的責任)",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではビジネスパートナーであるお取引先の皆様と社会的責任意識を共有し、CSRに関する取り組みをサプライチェーン全体で推進して行きたいと考えております",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様におかれましても、以下の項目についてご理解頂き、積極的に推進していただきますようご協力をよろしくお願いいたします",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様が事業活動を行っている国・地域の法令・社会規範の遵守",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様の事業活動において、基本的な人権を尊重し、また、あらゆる差別を排除するとともに、",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "万が一お取引先の皆様の事業活動においてコンプライアンス違反が発生した場合は、",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "くわえて、溶鉄鋼の中の酸素や窒素を除去する真空脱ガス設備「LAVD」、砂型内を減圧または真空状態にする雰囲気調整型鋳造設備「CAC」を導入し、高清浄により高品質を獲得した鋳造品を製造して、高度化・多様化するお客様のニーズにこたえ続けています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/sokeizai/",
+    "pass": 1
+   },
+   {
+    "quote": "鋼とゴム、どちらの材料にも精通することによって、より多様かつより適正な課題解決を導きだし、お客様のニーズに応える提案を可能にしています",
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "（２）鋳物メーカーの取引基本契約書が取引先に承認されるかどうかではなく、先ず我々鋳造業界の",
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "① 発注側の論理に基づいており、受注側（鋳造業界）として受容不可",
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "③ 鋳造業界の長年の懸案事項である・価格是正・模型（型）保管管理・鋳造業界の技術（方案、",
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "業界の自ら（甲）の権利主張なくしては、今後の発展はありえない",
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造株式会社の導入事例｜経費精算システム「ハーモス経費」",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   },
+   {
+    "quote": "業界：鋳造業界",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   },
+   {
+    "quote": "特に今期は、顧客・社員・協力企業・地域社会など多様なステークホルダーにとっての価値向上を重視し、新技術導入そのものではなく「誰にどのような価値を生むか」を問い続け、設備技術を価値へ転換する仕組みを探求します",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造設備研究部会は、鋳造設備に関する情報交換や技術交流を行い、鋳造業界の発展に貢献するために活動しています",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "2．ロボット導入事例とIoTの取り組みについて",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "「協働ロボットの特長と安全規格及び導入事例」",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる就活・業界研究",
+    "url": "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "高効率なものづくり手法の活用を顧客企業に促す",
+    "url": "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "関連企業・業界",
+    "url": "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様仕様のチルベント形状にてバイメタル化が可能です",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、株式会社フジでは造形性の良い銅合金の選定、またお客様のニーズに応えるため、材料メーカー様と鋼種の開発を進めております",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の想定されている造形品および金属粉末を教えてください",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "試験結果の可否は材料・用途・部品によって異なりますので、ご判断はお客様に委ねております",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社はお取引先の選定にあたっては、品質、技術、価格、納期、安定供給力、信頼性、経営の安定性およびCSR活動への取組み姿勢を総合的に勘案し、常に適切な品質管理・品質保証が徹底されていることを前提に経済合理性に基づき判断いたします",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスの提供にあたっては、常に安全性の確保と、競争力ある品質・価格・納期での安定供給をお願いいたします",
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "pass": 1
+   },
+   {
+    "quote": "価格改定による売上増があり、全社ではほぼ予想どおりとなりました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益は、販売価格の改定および相対的に利益率の高い製品の売上が増えたことにより、予想を上回",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2)会計方針の変更・会計上の見積りの変更・修正再表示",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 会計上の見積りの変更 ： 無",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売価格改定および生産増による損益の良化は想定を上回っており、高架橋向け鋳鉄品の大口案件も上期で予定通り",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 金額は販売価格によっております",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、資材高騰による販売価格改定の一部について、交渉中のため業績予想に含んでおりませ",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "んでしたが、販売価格の改定が決定し業績予想に織り込みました",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益については、販売価格の改定がある一方で、資材価格の高騰や生産増による納期対応のための外",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、受注増加および販売価格改定による損益への影響は、主として下期から発生する見込みであり、",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2)会計方針の変更・会計上の見積りの変更・修正再表示",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 会計上の見積りの変更 ： 無",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６月から出荷も増加しておりますが、販売価格改定、売上増が本格的に損益に寄与するのは７月以降を見込み",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、資材高騰による販売価格改定の一部について、交渉中のため業績予想に含んでおりませんでしたが、販売価格",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益については、販売価格の改定がある一方で、資材価格の高騰や生産増による納期対応のための外注費増など",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、受注増加および販売価格改定による損益への影響は、主として下期から発生する見込みであり、第２四半",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 金額は販売価格によっております",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2)会計方針の変更・会計上の見積りの変更・修正再表示",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2025/10/Nck_kessanntanshin_220251028.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 会計上の見積りの変更 ： 無",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2025/10/Nck_kessanntanshin_220251028.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品の出荷増による挽回があり、合理化、販売価格改定も進捗しましたが、通期においても厳しい状況が継続する見",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2025/10/Nck_kessanntanshin_220251028.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 金額は販売価格によっております",
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2025/10/Nck_kessanntanshin_220251028.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 鋳造業界の長年の懸案事項である・価格是正・模型（型）保管管理・鋳造業界の技術（方案、",
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "システム刷新を決めてから5社から説明を聞き見積を取りました",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造業はエネルギーや原材料価格の高騰、環境規制、人材不足、災害や地政学リスクなど多面的な課題に直面しており、設備や生産技術には単なる生産手段を超えて将来の競争力を支える基盤として進化することが求められています",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "1．金属粉末積層造形法の概論と大阪府立産技研における研究開発",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンターでは金属粉末をレーザーで焼き固め、層を積み重ねて立体物へと形...",
+    "url": "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "集束させた熱エネルギーを利用して、材料を溶融して結合、堆積させるプロセス（JIS B 9441による）レーザー（熱源）をワークに照射し、金属粉末を吹き付け溶融・凝固させ積み重ねます",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "熱エネルギーを利用して粉末床選択的に",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "溶融凝固するプロセス（JIS B 9441による）粉末金属を薄く敷き詰め、造形部分にレーザー（もしくは電子ビーム）を照射し、溶融・凝固させます",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "液状の結合剤を選択的に供給して粉末材料を結合するプロセス（JIS B 9441による）粉末金属を薄く敷き詰め、造形部分に液体の結合剤（バインダー）吹き付け、固体化させます",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末流量センサ",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末キャリブレーションセンサ",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "※チタンやアルミ粉末は造形手法上、粉塵爆発の可能性があるので対応不可となります",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の想定されている造形品および金属粉末を教えてください",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・ご注文",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアリングさせて頂いた内容でお見積りをご提出させていただきます",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "実績のない金属粉末は材料メーカーへの問い合わせになる場合も御座います",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて、都度お打ち合わせをお願いしております",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.金属粉末からの積層品は、インゴット品と比較して密度や組織に違いはないのでしょうか？",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "日立建機株式会社との資本業務提携及び日立建機株式会社を割当先とする第三者割当による新株式発行を決定",
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発による経費精算システムを入れ替え、2015年4月に「ハーモス経費」を導入いただいた",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと弊社の旅費規程に合わせて自社開発した経費精算システムを使っていました",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 日本鋳造 」の 代理店 8社 注目ランキング【2026年】| Metoree — 「 日本鋳造 」の 代理店 8社 注目ランキング【2026年】| Metoree Metoree https://metoree.com > 会社一覧 > 日本鋳造株式会社",
+    "url": "https://metoree.com/companies/21277/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造 株式会社 — 日本鋳造 株式会社 日本鋳造株式会社 https://www.nipponchuzo.co.jp",
+    "url": "https://www.nipponchuzo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造商品取引基本 契約 書 | 一般社団法人 日本鋳造 協会 — 鋳造商品取引基本 契約 書 | 一般社団法人 日本鋳造 協会 一般社団法人 日本鋳造協会 https://foundry.jp > about-jfs_inc > basic-agreement",
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造 （株） 2025年度 個人投資家向け会社説明 - YouTube — 日本鋳造 （株） 2025年度 個人投資家向け会社説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=w4jZOy1OVU8",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造 中期経営計画（2024-2026年度）説明資料 - IRTV — 日本鋳造 中期経営計画（2024-2026年度）説明資料 - IRTV irtv.jp PDF https://irtv.jp > wp-content > uploads > 2024/07",
+    "url": "https://irtv.jp/wp-content/uploads/2024/07/%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0-%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%EF%BC%882024-2026%E5%B9%B4%E5%BA%A6%EF%BC%89%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造 株式会社の 導入事例 ｜経費精算システム「ハーモス ... — 日本鋳造 株式会社の 導入事例 ｜経費精算システム「ハーモス ... HRMOS https://hrmos.co > ... > 導入事例",
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "pass": 3
+   },
+   {
+    "quote": "技術力｜ 日本鋳造 の強み — 技術力｜ 日本鋳造 の強み 日本鋳造株式会社 https://www.nipponchuzo.co.jp > advantage > technology",
+    "url": "https://www.nipponchuzo.co.jp/advantage/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造設備研究部会 | 研究部会 | 公益社団法人 日本鋳造 工学会 — 鋳造設備研究部会 | 研究部会 | 公益社団法人 日本鋳造 工学会 公益社団法人 日本鋳造工学会 https://jfs.or.jp > 研究部会",
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "pass": 3
+   },
+   {
+    "quote": "研究資料 | 一般社団法人 日本鋳造 協会 — 研究資料 | 一般社団法人 日本鋳造 協会 一般社団法人 日本鋳造協会 https://foundry.jp > publications > kenkyu-shiryo",
+    "url": "https://foundry.jp/publications/kenkyu-shiryo/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター｜ 日本鋳造 株式会社 — 3Dプリンター｜ 日本鋳造 株式会社 日本鋳造株式会社 https://www.nipponchuzo.co.jp > ...",
+    "url": "https://www.nipponchuzo.co.jp/3d_printer",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造 、3Dプリンターで部品 99%の鉄で 造形 - 日本経済新聞 — 日本鋳造 、3Dプリンターで部品 99%の鉄で 造形 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本鋳造 社、3Dプリンター技術を活用した新鋳造技術を実用化 — 日本鋳造 社、3Dプリンター技術を活用した新鋳造技術を実用化 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属材料",
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/nipponchuzo-250109/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nipponchuzo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/greet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/rinen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/housin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/base/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/sosiki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/purchasging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/enkaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/jisseki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/release/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/invester/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/business/sokeizai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/business/engineer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/business/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/product/products/%E3%82%B5%E3%83%89%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nipponchuzo.co.jp/pdf/calender.pdf?v=2026",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/20261027_info.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/10/nck_kessanntanshin_20261027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NCkoshirase_20260729.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2026/07/NcKkessantansin_20260729.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2025/10/Nck_oshirase_20251028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/cms/wp-content/uploads/sites/4/2025/10/Nck_kessanntanshin_220251028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/pdf/calender.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/img/company/img07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nipponchuzo.co.jp/img/product/to_jisseki.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/21277/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kakounet.com/cast/cast/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nic-jpn.com/casting/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本鋳造",
+   "results": [
+    "https://www.nipponchuzo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5609",
+    "https://www.youtube.com/channel/UClRCANwYUpbPLNxnVOhfgqw",
+    "https://ja.wikipedia.org/wiki/日本鋳造",
+    "https://ja.m.wikipedia.org/wiki/日本鋳造",
+    "https://finance.yahoo.co.jp/quote/5609.T",
+    "https://finance.yahoo.co.jp/quote/5609.T/profile",
+    "https://minkabu.jp/stock/5609/news",
+    "https://r.nikkei.com/nkd/company/kessan/?scode=5609"
+   ]
+  },
+  {
+   "query": "日本鋳造 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/21277/distributors/",
+    "https://www.nipponchuzo.co.jp/",
+    "https://foundry.jp/about-jfs_inc/basic-agreement/",
+    "https://www.youtube.com/watch?v=w4jZOy1OVU8",
+    "https://irtv.jp/wp-content/uploads/2024/07/%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0-%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%EF%BC%882024-2026%E5%B9%B4%E5%BA%A6%EF%BC%89%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "https://finance.logmi.jp/articles/382662",
+    "https://www.nihon-ma.co.jp/news/20250319_5609-1/",
+    "https://www.qualica.co.jp/ja/service/manufact/jscast/1192746_1415.html",
+    "https://tenshoku.mynavi.jp/jobinfo-350953-2-3-1/",
+    "https://biz.moneyforward.com/contract/basic/4317/"
+   ]
+  },
+  {
+   "query": "日本鋳造 導入事例",
+   "results": [
+    "https://hrmos.co/info/customers/keihi_nipponchuzo/",
+    "https://www.nipponchuzo.co.jp/advantage/technology/",
+    "https://jfs.or.jp/workshop/chuuzou-setsubi/",
+    "https://www.youtube.com/watch?v=w4jZOy1OVU8",
+    "https://www.jfs-web.co.jp/case-studies/",
+    "https://finance.logmi.jp/articles/382662",
+    "https://foundry.jp/",
+    "https://www.chubu.meti.go.jp/b21jisedai/chubudx/efforts/06/index.html",
+    "https://www.nikkei.com/article/DGXZQOUC318D10R30C26A8000000/",
+    "https://www.nipponchuzo.co.jp/"
+   ]
+  },
+  {
+   "query": "日本鋳造 価格 OR 料金",
+   "results": [
+    "https://www.nipponchuzo.co.jp/",
+    "https://www.kakounet.com/cast/cast/price.html",
+    "https://www.nic-jpn.com/casting/individual/",
+    "https://ijima-tokyo.co.jp/castingpriceinfo.html",
+    "https://foundry.jp/publications/kenkyu-shiryo/",
+    "https://www.nikkei.com/nkd/company/?scode=5609",
+    "https://www.nikkan.co.jp/articles/view/26004",
+    "https://kiwa-industry.net/cast/",
+    "https://ja.wikipedia.org/wiki/日本鋳造",
+    "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html"
+   ]
+  },
+  {
+   "query": "日本鋳造 受託 造形",
+   "results": [
+    "https://www.nipponchuzo.co.jp/3d_printer",
+    "https://www.nikkei.com/article/DGKKZO89556500T20C25A6TB1000/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://news.sharelab.jp/3dp-news/metal-materials/nipponchuzo-250109/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.youtube.com/watch?v=dsXr6xWI_44",
+    "https://www.nipponchuzo.co.jp/release/wp-content/uploads/sites/4/2025/11/20251105.pdf",
+    "https://nittetu-steel.co.jp/st/wp-content/uploads/2019/10/14be15dd30a78a71e5ae266e59826158.pdf",
+    "https://jampt.jp/case/amlist/hybrid-am/",
+    "https://www.nipponchuzo.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部8頁・検索5回）"
+ }
+}

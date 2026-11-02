@@ -1,0 +1,949 @@
+{
+ "name": "東レ・プレシジョン株式会社",
+ "aliases": [],
+ "context": "後処理(サポート除去・研磨・微細加工)/ORIXと受託連携；金属3Dプリンター受託造形。タングステン等の受託、大型造形。材料：Ni合金、Ti、純W/Ta/Mo、SUS316L/630、ステライト6、マルエージング、SKD61、SKH51、スーパーインバー、AlSi10Mg等 /",
+ "researched_at": "2026-11-02T10:22:50.477491+00:00",
+ "official_url": "https://www.tpc.toray/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年",
+    "value": "1955年",
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1955年 2月11日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密部品・デバイスの製造販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "熱インプリント受託加工",
+    "url": "https://www.tpc.toray/",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/",
+    "pass": 1
+   },
+   {
+    "quote": "大型金属3Dプリンター「EOS M 400-4 (Dual Setup Station)」を導入し、金属3Dプリンター受託造形サービスを拡充します",
+    "url": "https://www.tpc.toray/",
+    "pass": 1
+   },
+   {
+    "quote": "機械設計・製作サポート-豊富な実績でお客様をサポート致します | 東レ・プレシジョン株式会社",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・プレシジョン株式会社は、豊富な実績をもとに、機械設計・製作を通じてお客さまの ものづくりをサポート致します",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "塗布用、紡糸用ノズルなどの各種ノズル、コーティング用ダイなどを設計・製作したい",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ディスペンサーノズルの設計・製造-様々な用途に最適なノズル | [部品] ノズル | 東レ・プレシジョン株式会社",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "吐出液の性能や孔形状を考慮した設計で、",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "加味した高精度·高品位なノズル設計と加工技術が必要です",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の状況に合わせ、設計提案も可能",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計→製作→検査までをトータルサービスでご提供",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "耐摩耗・離型性等を考慮した設計提案",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密微細部品を試作→小ロットで製作していきたい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種ノズルを設計、製作したい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットノズルの設計・製造-塗布ばらつきや詰まりが少ない | [部品] ノズル | 東レ・プレシジョン株式会社",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密微細部品を試作→小ロットで製作していきたい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種ノズルを設計、製作したい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイドでの設計・製造も対応します",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "半世紀以上に渡り、設計・製造しており、東レの繊維製品の品質を支えています",
+    "url": "https://www.tpc.toray/product/nozzle/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "噴霧性能を最大限に活かす設計・製造をします",
+    "url": "https://www.tpc.toray/product/nozzle/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "芯出し精度を極限まで向上する設計を行います",
+    "url": "https://www.tpc.toray/product/nozzle/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイの組み付け・調整が容易に行えるよう使いやすさに配慮した構造設計を行っています",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "メンテナンスのしやすい設計・提案をします",
+    "url": "https://www.tpc.toray/product/die/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/plate/pla_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/plate/pla_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/plate/pla_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/product/plate/pla_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では営業・技術・生産部門が揃って対応するため、用途に合わせた設計や、生産ラインでの導入を想定したカスタマイズなど最適なご提案をいたします",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "自由設計のレイアウト",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "用途に合わせて材質、サイズ、孔径、ピッチ、吸着エリアなどを自由に設計可能です",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、ワークの外側周囲の吸着力を高めたい等、吸着エリアを分けて制御する設計も可能です",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計から提案可能",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイド設計の高精度な吸着プレート",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作サポート",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "新規で設計製作したい",
+    "url": "https://www.tpc.toray/product/nozzle/noz_007.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/product/nozzle/noz_007.html",
+    "pass": 1
+   },
+   {
+    "quote": "熱インプリント受託加工サービス",
+    "url": "https://www.tpc.toray/product/nozzle/noz_007.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "機械設計・製作サポート-豊富な実績でお客様をサポート致します | 東レ・プレシジョン株式会社",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力でお客様に最適なディスペンサーノズルをご提供します",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望に合わせたカスタマイズ対応",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の状況に合わせ、設計提案も可能",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望に応じた様々なノズル孔形状に対応し、お客様の課題解決に向けたインクジェットノズルの製作に貢献します",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、お客様の要望に合わせた高品位で高精細を実現するノズルを製作しており、その特長は下記のとおりです",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストレート、テーパー、またはストレートとテーパーを合わせた形状など、お客様の要望に合わせて断面形状をカスタマイズ",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/plate/pla_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/nozzle/noz_007.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・プレシジョンでは、お客様の要望に合った材質・形状でマスクを製作します",
+    "url": "https://www.tpc.toray/product/inspection/ins_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/inspection/ins_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "形状はお客様のご要望に沿った形状に加工します",
+    "url": "https://www.tpc.toray/product/inspection/ins_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/inspection/ins_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望に合わせて特殊機器の設計、製作します",
+    "url": "https://www.tpc.toray/product/inspection/ins_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/inspection/ins_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・プレシジョンでは、高精度が求められる特殊なモジュールをお客様の要望に合わせて設計・製造しています",
+    "url": "https://www.tpc.toray/product/inspection/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/light/lig_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/mold/mol_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "無振動のため、リニアフィーダエンドをお客様の次工程と直結可能",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "トレフィーダ®ISは、トレフィーダ®の基本的な特長を網羅しつつ、ワークを整流機能部から検査テーブルへ無振動・シームレスに移乗し、お客様ご指定（応相談）の計測・検査デバイスの検査結果に応じてワークをNG排出／OK回収までを自動で行う自立型の計測・検査装置です",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客指定ケースへ移載可能",
+    "url": "https://www.tpc.toray/product/parts-feeder/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パーツフィーダー導入事例（用途・業界別）",
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引実績・取引先",
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田精工……最も導入実績社数が多い会社として選出しました",
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "また丸孔の場合、形状が真円に近いこと",
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "・加工製品例（鏡面加工／サブマイクロニードル加工など）",
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "・加工製品例（鏡面加工／サブマイクロニードル加工など）",
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "・加工製品例（鏡面加工／サブマイクロニードル加工など）",
+    "url": "https://www.tpc.toray/product/die/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "吸着プレート上の500円玉の浮遊",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "角溝、半円溝、格子溝、台形溝、ディンプル等、多様な溝形状に対応",
+    "url": "https://www.tpc.toray/product/light/lig_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "・加工製品例（鏡面加工／サブマイクロニードル加工など）",
+    "url": "https://www.tpc.toray/product/mold/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "《円盤形状ワーク（Φ20mm） 整列供給装置》",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "表裏合せの一例として、円形ワーク（Φ20mm）の裏面をセンサで検出し、左図のように下面からワーク端をエアで吹き付け“ちゃぶ台返し”のようにワークを反転させる機構があります",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "表面実装部品（SMD）、各種受動素子、フェライト部品（インダクタ部品（ドラム、スリーブ、アレイ等各種形状））、樹脂コネクタ、円柱・円盤形状部品等、トレフィーダ®で整列可能なワーク全般",
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_004.html",
+    "pass": 1
+   },
+   {
+    "quote": "2円盤独立回転制御",
+    "url": "https://www.tpc.toray/product/parts-feeder/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "角溝、半円溝、格子溝、台形溝、ディンプル加工",
+    "url": "https://precisionmachining-hikaku.com/pickup/toray/",
+    "pass": 3
+   },
+   {
+    "quote": "6億2100万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "47億6500万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "63億1200万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "本提携により、東レ・プレシジョンの金属加工技術を用いた精度の高い造形品の製作が可能となり、受託から精密加工まで一貫したサービスを提供することで、お客さまの円滑な製品開発を支援します",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/160513_ORIXG.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お打ち合わせの時には営業・技術・生産部門が揃って対応するため、仕様、納期、価格などを考慮した最適なご提案が可能です",
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "pass": 1
+   },
+   {
+    "quote": "パーツフィーダの価格・相場は？",
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "自社開発の微細孔加工技術を利用し、サブミクロンの孔径精度とバリの少ない仕上がりを実現します",
+    "url": "https://www.tpc.toray/product/mold/mol_001.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発した精密プレス加工",
+    "url": "https://precisionmachining-hikaku.com/pickup/toray/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーを工作物に書写して融解させる加工方法で、東レ・プレシジョンでは自社開発の技術で高密度な精密微細孔加工を行うことができます",
+    "url": "https://precisionmachining-hikaku.com/pickup/toray/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの造形受託サービスで提携",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/160513_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテック株式会社（本社：東京都品川区、社長：岡本 雅之）と東レ・プレシジョン株式会社（本社：滋賀県大津市、社長：藤本 節）は、このたび、金属3Dプリンターによる造形受託および造形品の仕上げ加工サービスで提携しましたのでお知らせします",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/160513_ORIXG.html",
+    "pass": 3
+   },
+   {
+    "quote": "本提携により、東レ・プレシジョンの金属加工技術を用いた精度の高い造形品の製作が可能となり、受託から精密加工まで一貫したサービスを提供することで、お客さまの円滑な製品開発を支援します",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/160513_ORIXG.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 東レ ・ プレシジョン 」の 代理店 1社 注目ランキング【2026年】 — 「 東レ ・ プレシジョン 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > ... > 東レ・プレシジョン株式会社",
+    "url": "https://metoree.com/companies/5398/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ プレシジョン 株式会社-超精密微細加工技術のパイオニア — 東レ ・ プレシジョン 株式会社-超精密微細加工技術のパイオニア 東レ・プレシジョン株式会社 https://www.tpc.toray",
+    "url": "https://www.tpc.toray/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ プレシジョン — 東レ ・ プレシジョン precisionmachining-hikaku.com https://precisionmachining-hikaku.com > pickup > toray",
+    "url": "https://precisionmachining-hikaku.com/pickup/toray/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ プレシジョン 株式会社 滋賀県 大津市 - NCネットワーク — 東レ ・ プレシジョン 株式会社 滋賀県 大津市 - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/99666/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ プレシジョン - パーツフィーダすゝめの書 — 東レ ・ プレシジョン - パーツフィーダすゝめの書 パーツフィーダすゝめの書 https://www.partsfeeder-practice.com > list > tore",
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ プレシジョン - Wikipedia — 東レ ・ プレシジョン - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 東レ・プレシジョン",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "【 東レ ・ プレシジョン 】商品の通販 【AXEL】 アズワン — 【 東レ ・ プレシジョン 】商品の通販 【AXEL】 アズワン AXEL https://axel.as-1.co.jp > メーカー一覧",
+    "url": "https://axel.as-1.co.jp/asone/maker/MH12964/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 受託造形 サービス-サービス詳細 — 金属3Dプリンター 受託造形 サービス-サービス詳細 東レ・プレシジョン株式会社 https://www.tpc.toray > additive-print > add_service",
+    "url": "https://www.tpc.toray/technology/additive-print/add_service/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 受託造形 サービス - 東レ・プレシジョン — 金属3Dプリンター 受託造形 サービス - 東レ・プレシジョン 東レ・プレシジョン株式会社 https://www.tpc.toray > technology > additive-print",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ プレシジョン 株式会社 - 出展社詳細 — 東レ ・ プレシジョン 株式会社 - 出展社詳細 SPEXA -[国際] 宇宙ビジネス展 https://www.spexa.jp > ホーム > 前回 出展社/製品検索",
+    "url": "https://www.spexa.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%9D%B1%E3%83%AC%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-9441f4a5-04c3-4c59-8256-8bb976cf3531.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEエンジニアリングと 東レ ・ プレシジョン が事業提携 ～金属 ... — JFEエンジニアリングと 東レ ・ プレシジョン が事業提携 ～金属 ... JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > ... > ニュースリリース：2022年",
+    "url": "https://www.jfe-eng.co.jp/news/2022/20220523.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tpc.toray/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/purpose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/support/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/nozzle/noz_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/nozzle/noz_003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/mold/mol_002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/nozzle/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/die/die_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/die/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/plate/pla_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/plate/pla_002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/plate/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/nozzle/noz_007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/inspection/ins_003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/inspection/ins_002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/inspection/ins_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/inspection/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/light/lig_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/light/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/mold/mol_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/mold/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/parts-feeder/fee_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/parts-feeder/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/fiber/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/electronics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/product/medical/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/5398/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5651",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://precisionmachining-hikaku.com/pickup/toray/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.partsfeeder-practice.com/list/tore.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axel.as-1.co.jp/asone/maker/MH12964/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/160513_ORIXG.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東レ・プレシジョン 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/5398/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5651",
+    "https://www.tpc.toray/",
+    "https://precisionmachining-hikaku.com/pickup/toray/",
+    "https://ja.nc-net.or.jp/company/99666/",
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=132319345920_1792195200167",
+    "https://www.manufacturing-world.jp/osaka/ja-jp/search/2026mdk1008/directory/directory-details.org-0682e348-9e05-45f0-bb93-1cebdfbd788c.html",
+    "https://metoree.com/companies/3567/distributors/",
+    "https://www.partsfeeder-practice.com/list/tore.html",
+    "https://www.toray.co.jp/network/"
+   ]
+  },
+  {
+   "query": "東レ・プレシジョン 導入事例",
+   "results": [
+    "https://www.tpc.toray/",
+    "https://precisionmachining-hikaku.com/pickup/toray/",
+    "https://www.partsfeeder-practice.com/list/tore.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "https://www.iij.ad.jp/svcsol/case/toray.html",
+    "https://www.youtube.com/@TorayPrecision",
+    "https://www.intra-mart.jp/case-study/006456.html",
+    "https://www.water.toray/ja/knowledge/casestudy/",
+    "https://www.nikkan.co.jp/articles/view/396461",
+    "https://pvi.preferred-networks.jp/customers-toray-precision.html"
+   ]
+  },
+  {
+   "query": "東レ・プレシジョン 価格 OR 料金",
+   "results": [
+    "https://www.tpc.toray/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3",
+    "https://axel.as-1.co.jp/asone/maker/MH12964/",
+    "https://ja.nc-net.or.jp/company/99666/",
+    "https://precisionmachining-hikaku.com/pickup/toray/",
+    "https://www.partsfeeder-practice.com/list/tore.html",
+    "https://mono.ipros.com/product/detail/2000213654/",
+    "https://www.tpc.toray/product/",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/10/13/160000_1"
+   ]
+  },
+  {
+   "query": "東レ・プレシジョン 受託 造形",
+   "results": [
+    "https://www.tpc.toray/technology/additive-print/add_service/",
+    "https://www.orix.co.jp/grp/company/newsroom/newsrelease/160513_ORIXG.html",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.spexa.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%9D%B1%E3%83%AC%E3%83%97%E3%83%AC%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-9441f4a5-04c3-4c59-8256-8bb976cf3531.html",
+    "https://www.jfe-eng.co.jp/news/2022/20220523.html",
+    "https://precisionmachining-hikaku.com/pickup/toray/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://eigyo-mfg.com/service/navi/company/t1iU1h7bmTLQ",
+    "https://hikaku-hub.com/metal-3d-printing/list/toray-precision/",
+    "https://mono.ipros.com/product/detail/2000233744/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部7頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部7頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部7頁・検索4回）"
+ }
+}

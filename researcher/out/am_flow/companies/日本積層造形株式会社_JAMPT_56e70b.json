@@ -1,0 +1,1334 @@
+{
+ "name": "日本積層造形株式会社 (JAMPT)",
+ "aliases": [],
+ "context": "受託(金属PBF・EBM)/粉末製造/技術サービス；金属3Dプリンター受託造形・DfAM支援・材料開発。保有：Arcam A2X/Q20/Q20 Plus、Concept Laser M2/XLINE 2000R、EOS M280/M400-4。純銅・Ti・CoCr・Inconel・超硬。双日・コイワイ出資 / Arcam, EOS, Concept Laser(GE)",
+ "researched_at": "2026-11-02T10:21:44.562454+00:00",
+ "official_url": "https://jampt.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2017年10月18日",
+    "url": "https://jampt.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2017年10月18日",
+    "url": "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "金属3Dプリンター用粉末製造販売 金属3Dプリンター受託造形サービス 金属3Dプリンターによる実用品・量産品開発",
+    "url": "https://jampt.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "金属3DプリンターのAM技術による受託造形サービス | 日本積層造形株式会社",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービス",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "材料開発支援サービス",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発支援サービス",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "材料開発、試作品の造形から",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、金属粉末の開発・製造から、造形・加工・検査、そして量産対応までのあらゆるサービスを一貫して提供することが可能な金属3Dプリンティング(３Dプリンターを用いた試作品の製造・造形)の専業サービスビューロです",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、金属3Dプリンティングの専業サービスビューロとして一貫した造形サービスを提供します",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学金属材料研究所との連携による粉末材料開発支援",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「試作・受託サービス」「製品開発支援サービス」「材料開発支援サービス」の",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート設計",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トポロジー最適化設計：EV車アップライト造形",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クレーンの「ジブ先端部品」の大型造形試作の取り組み",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービス",
+    "url": "https://jampt.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "材料開発支援サービス",
+    "url": "https://jampt.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発支援サービス",
+    "url": "https://jampt.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービス",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "材料開発支援サービス",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発支援サービス",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から製品実用化、量産化までの一貫サービスを提供いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "既存の部品を金属3Dを利用して軽量化を図りたいが、ベストな設計方法がわからない",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、金属3Dプリンターの分野において、日本で初めて粉末開発・製造から試作品造形・量産対応までワンストップのサービスを提供することが可能なサービスビューロ（SB）です",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "国内SBの草分け的存在である株式会社コイワイの金属積層造形技術と東北大学・千葉晶彦特任教授（未来科学技術共同研究センター）の学術的裏付けを基とした技術サポート、双日株式会社のグローバルネットワークと情報力を大きな強みとして、金属3Dプリンターの分野で先進的な機能を発揮していきます",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は粉末開発・製造から試作品造形、評価・分析そして量産対応までワンストップのサービスを提供することが可能です",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品造形 ⇒ 評価・分析 ⇒ レシピ最適化というプロセスを繰り返し重ねることで、最終的に金属3Dプリンターによる実用品・部品製造を目指す事ができます",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "連携による材料開発支援",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では、東北大学および真壁技研と産学連携の材料開発支援を行っています",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスアトマイズ法等の高効率な粉末製造技術と、当社の3Dプリンター専用の高品質な粉末技術ならびに幅広い材料に対応できる造形技術を融合して、お客様の新たな材料開発ニーズに対し、粉末試作から造形・評価まで、ワンストップでサービスを提供いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、試作造形のみならず量産品も含め、国際基準に準拠した、一貫して顧客要求品質を満足する3D造形工程の体制およびオペレーション能力が証明されました",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の試作開発ステージにおいて、試作品を短納期で対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "100種類以上の粉末の対応実績をもとに、お客様オリジナルの材料での試作にも対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービスについて",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品開発ステージにおいて、試作・評価のお手伝いをいたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターならではの設計（DfAM）により、さらなる形状・材料の最適化をご提案いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "当社で開発する金属3Dプリンター用の真球度が高く、ガス欠陥がなく、かつサテライト付着がない高品質な粉末（PREP粉末）を生産・販売いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービス | 日本積層造形株式会社",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービス",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "材料開発支援サービス",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発支援サービス",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービスとは",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターならではの設計・形状の最適化をご提案",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙業界・機械産業・医療分野・自動車産業分野での実績を持つ日本積層造形 / JAMPT（ジャンプ）では、金属3Dプリンターを用いて、お客様の3Dデータを基に金属積層を試作・作製いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の試作開発ステージにおいて、試作品を短納期で対応いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "100種類以上の粉末の対応実績をもとに、お客様オリジナルの材料での試作にも対応いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターならではの設計（DfAM）により、更なる形状・材料の最適化をご提案いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では100種以上の粉末での造形実績があり、東北大学 千葉晶彦特任教授からの技術サポートのもと、独自のパラメーター開発により各種造形に対応します",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターで試作・造形をするメリット",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターを活用することで、完成品に近い試作品を手に取ることができ、どのような仕上がりになるかが具体的に確認いただけます",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターを用いた試作は、計算上では確保できたはずの強度や耐久性を最終製品化の前に検証することができ、大きなトラブルを未然に防げます",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "通常の金属加工の工程では、設計変更を繰り返して量産に至るのが一般的ですが、試作品の製作は小ロットでも大きな手間やコストがかかっていました",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、金属3Dプリンターを用いた試作は、データがあれば短期間で簡単に試作が可能で、設計変更はデータを修正するだけで改良を重ねることが可能です",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製作や設計変更にかかる時間の削減により、人件費を抑制できます",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品（造形品）",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・受託造形サービス",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "材料開発支援サービス",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発支援サービス",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "ワンストップで設計から製造までを支援",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では、協力企業との技術提携を通じて、金属3Dプリンティング技術と設計・解析技術を融合することで、部品形状の最適化・軽量化、熱マネジメント、複数部品の一体化など、金属3Dプリンティング技術の特徴を最大限に活かした製品開発、ならびに部素材の機能や構造の最適化解析などのデザイン・設計から製造までの一貫した製品開発（DfAM）支援サービスを提供しています",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品開発ステージにおいて、試作・評価のお手伝いをいたします",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターならではの設計（DfAM）により、 さらなる形状・材料の最適化をご提案いたします",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "今まで培った知見と技術を用いて幅広く柔軟な対応でお客様のニーズに応えます",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、国内最大規模の金属3Dプリンター保有台数(7台)を誇り、お客様の多様なニーズにお応えします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、豊富な装置ラインナップ及び熟練した技術スタッフにより、一般的な材料以外の特殊材料や、お客様が選定または新たに開発された材料での金属積層造形にも日々挑戦し、更なる造形ノウハウを蓄積しています",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスアトマイズ法等の高効率な粉末製造技術と、当社の3Dプリンター専用の高品質な粉末技術ならびに幅広い材料に対応できる造形技術を融合して、お客様の新たな材料開発ニーズに対し、粉末試作から造形・評価まで、ワンストップでサービスを提供いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、試作造形のみならず量産品も含め、国際基準に準拠した、一貫して顧客要求品質を満足する3D造形工程の体制およびオペレーション能力が証明されました",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の試作開発ステージにおいて、試作品を短納期で対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "100種類以上の粉末の対応実績をもとに、お客様オリジナルの材料での試作にも対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品開発ステージにおいて、試作・評価のお手伝いをいたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の金属3Dプリンター用材料開発において、小ロットでの製粉に対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が開発中の金属3Dプリンター用材料粉末の試験造形・比較評価を請け負います",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のオリジナル材料での造形、機械的特性の試験・評価に対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙業界・機械産業・医療分野・自動車産業分野での実績を持つ日本積層造形 / JAMPT（ジャンプ）では、金属3Dプリンターを用いて、お客様の3Dデータを基に金属積層を試作・作製いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の試作開発ステージにおいて、試作品を短納期で対応いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "100種類以上の粉末の対応実績をもとに、お客様オリジナルの材料での試作にも対応いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、ATOSをはじめX線CTなどの装置を保有してお客様からのニーズにお応えしております",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品開発ステージにおいて、試作・評価のお手伝いをいたします",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーである真壁技研の高効率な粉末製造技術と、日本積層造形株式会社 / JAMPT（ジャンプ）の3Dプリンター専用の高品質な粉末技術ならびに幅広い材料に対応できる造形技術を融合して、お客様の新たな材料開発ニーズに対し、粉末試作から造形・評価まで、ワンストップでサービスを提供いたします",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の金属3Dプリンター用材料開発において、小ロットでの製粉に対応します",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が開発中の金属3Dプリンター用材料粉末の試験造形・比較評価（数リッター程度の粉末があれば試験造形可能）",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のオリジナル材料での造形、機械的特性の試験・評価に対応します",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、東北大学ベンチャーパートナーズの参画も得て、お客様の多様な造形需要に真摯に向き合う中で金属造形技術を磨き上げ、着実に歩みを進めてまいりました",
+    "url": "https://jampt.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "欧米が先行した業界ではありますが、日本積層造形株式会社 / JAMPT（ジャンプ）は日本に根付く優れたものづくりの力と最先端技術を融合させ、新たな価値の創造にチャレンジします",
+    "url": "https://jampt.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は挑み続け、お客様の思いを形にし、ものづくりの未来を創りあげてまいります",
+    "url": "https://jampt.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "常に安全・安心を第一義に考え、QCDの向上を目指し、顧客満足度を高め、魅力ある製品を提供する",
+    "url": "https://jampt.jp/company/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "強い意志をもってやり遂げ、お客様と共に発展する",
+    "url": "https://jampt.jp/company/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙業界における",
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層品の需要が見込まれる航空宇宙分野において、実用品の開発・製造に向けたQCD顧客満足の向上に努めています",
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "pass": 1
+   },
+   {
+    "quote": "それを米国ではAS 9100, EUではEN 9100、そして日本ではJIS Q 9100:2016の航空宇宙業界における世界標準の品質マネジメント規格として制定しました",
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "pass": 1
+   },
+   {
+    "quote": "QMSに関する顧客監査が省略または簡略化される",
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の要求品質を満たす製品を製造できる体制を運用する、",
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT （ジャンプ）は、「高品質なAM部品の造形技術の基礎となる要件を示すこと」「顧客の要求仕様の要件を満たす基盤を確立すること」を目的として、国際標準規格 ISO/ASTM 52920:2023 を取得しました",
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "pass": 1
+   },
+   {
+    "quote": "特に航空宇宙、自動車、医療分野においては、製品の軽量化や高性能化に貢献できる技術として産業界からも注目されています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 1
+   },
+   {
+    "quote": "地域の産業界や大学・研究機関との連携をさらに深め、新たな産業クラスターの形成や地域イノベーションの核として、社会的にも経済的にも意義ある発展を遂げられることを心より願っております",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙もさることながら、今後はあらゆる産業界で、この最新技術の導入の広がりが期待されています",
+    "url": "https://jampt.jp/company/challenge-to-space/",
+    "pass": 1
+   },
+   {
+    "quote": "まずは金属積層造形(AM)に興味をもつユーザーに真摯に向き合い、この技術のメリット・デメリットを理解してもらいながらユーザーのニーズに応えるべく丁寧に伴走していきたいと考えています",
+    "url": "https://jampt.jp/company/challenge-to-space/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形(AM)は、装置や技術の進化がめまぐるしい業界です",
+    "url": "https://jampt.jp/company/challenge-to-space/",
+    "pass": 1
+   },
+   {
+    "quote": "試験段階での成功率は当初は5割を下回り、テスト造形を繰り返して社内試験を合格した製品でもお客様側の耐圧試験で不合格となるケースもありました",
+    "url": "https://jampt.jp/technology/titanium-pipe/",
+    "pass": 1
+   },
+   {
+    "quote": "最適な造形条件を探りながら、造形精度を高めるとともに社内試験内容も厳格化して、継続的なお客様側でのテストの合格を経て、実機搭載可能な製品を出荷することに成功しました",
+    "url": "https://jampt.jp/technology/titanium-pipe/",
+    "pass": 1
+   },
+   {
+    "quote": "安定供給体制を構築するまでに2年以上の年月を要しましたが、このような業界環境の中で、お客様にも鍛えられ、今やJAMPTとして誇れる技術分野となっています",
+    "url": "https://jampt.jp/technology/titanium-pipe/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは多くの金属の中でも数多くの特性を持つ材料で、優れた特徴が多く、さまざまな業界で使用されています",
+    "url": "https://jampt.jp/column/titanium-3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "認証取得企業は、顧客満足を実現できる製造体制が機能していると評価されています",
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "最後に出荷検査をクリアしたら、いよいよお客様の元へ納品です",
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで、産業界の3Dプリント製品へは品質保証に関する規格がなく3Dプリント製品の普及や量産化が遅れているという背景があったが、2023年6月に提供が開始された",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形社は今回の認証取得を受け、顧客の3Dプリント製品の量産化への取り組み支援と、品質・コスト・納期改善による満足度を高めることに努めると発表している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、金属粉末の開発・製造から、造形・加工・検査、そして量産対応までのあらゆるサービスを一貫して提供することが可能な金属3Dプリンティング(３Dプリンターを用いた試作品の製造・造形)の専業サービスビューロです",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学金属材料研究所との連携による粉末材料開発支援",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス欠陥なく、真球度が高いPREP粉末の製粉技術",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター用PREP粉末について",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "かんたんWEBお見積",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "するだけで概算見積りを算出",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属積層造形におけるPREP粉末の重要性」 〜疲労強度と粉末品質について〜",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "新規開発粉末で造形をしたい",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "真球度の高い粉末や造形性をよくするための敷性の良い粉末を探している",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、金属3Dプリンターの分野において、日本で初めて粉末開発・製造から試作品造形・量産対応までワンストップのサービスを提供することが可能なサービスビューロ（SB）です",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は粉末開発・製造から試作品造形、評価・分析そして量産対応までワンストップのサービスを提供することが可能です",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末造形実績",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は、創業から累計で100種類を超える金属粉末での造形実績があります",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスアトマイズ法等の高効率な粉末製造技術と、当社の3Dプリンター専用の高品質な粉末技術ならびに幅広い材料に対応できる造形技術を融合して、お客様の新たな材料開発ニーズに対し、粉末試作から造形・評価まで、ワンストップでサービスを提供いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "PREP粉末の製粉技術",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "PREP法は、プラズマにより溶融した電極棒先端の金属液滴が、高速回転で飛散することによって粉末化される製粉技術です",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "大気圧条件で製粉され、金属液滴へのガスの巻き込みが無いため、内部ガス欠陥が無く、真球度が高く、サテライト付着が無い、クリーンな粉末として知られています",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "100種類以上の粉末の対応実績をもとに、お客様オリジナルの材料での試作にも対応いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が開発中の金属3Dプリンター用材料粉末の試験造形・比較評価を請け負います",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "数リッター程度の粉末があれば試験造形が可能です",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "当社で開発する金属3Dプリンター用の真球度が高く、ガス欠陥がなく、かつサテライト付着がない高品質な粉末（PREP粉末）を生産・販売いたします",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "100種類以上の粉末の対応実績をもとに、お客様オリジナルの材料での試作にも対応いたします",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "新規開発粉末で造形対応してくれるところがない",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では100種以上の粉末での造形実績があり、東北大学 千葉晶彦特任教授からの技術サポートのもと、独自のパラメーター開発により各種造形に対応します",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/service/prototype/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーである真壁技研の高効率な粉末製造技術と、日本積層造形株式会社 / JAMPT（ジャンプ）の3Dプリンター専用の高品質な粉末技術ならびに幅広い材料に対応できる造形技術を融合して、お客様の新たな材料開発ニーズに対し、粉末試作から造形・評価まで、ワンストップでサービスを提供いたします",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が開発中の金属3Dプリンター用材料粉末の試験造形・比較評価（数リッター程度の粉末があれば試験造形可能）",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）で開発する金属3Dプリンター用の真球度が高く、ガス欠陥がなく、かつサテライト付着がない高品質な粉末（PREP粉末）の製造・販売",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "新規開発粉末でテスト造形を実施したいが、初期必要粉末量が多く手間がかかり、コストが合わない",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "独自開発した小型ユニット使用により、通常数十㎏程度必要な初期粉末量が数㎏程度でテスト造形を可能にしています",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "造形物のガス欠陥を少なくするための真球度の高い粉末を探している",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では、日本ではほとんどないPREP(プラズマ回転電極)法による、真球度が高く、ガス欠陥がなく、かつサテライト付着がない粉末を独自製粉します",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "造形性をよくするための敷性の良い粉末を探している",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "当社で製粉するPREP粉末は真球度が高く、結果として粉末を平滑に敷くことが可能になるため、造形面は滑らかになります",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では材料開発や造形、品質評価まで一貫して対応し、短納期での粉末開発を実現します",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "PREP製法による金属粉末を",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "真球度が高く、サテライト粉末がなく、粉末内部にガス欠陥のない高品質な金属粉末については、PREP特設サイトでご紹介しています",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/service/am-material/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積りはこちらから",
+    "url": "https://jampt.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積",
+    "url": "https://jampt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBお見積シミュレーション",
+    "url": "https://jampt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学・千葉晶彦特任教授（未来科学技術共同研究センター）の学術的裏付けを基とした技術サポート、双日の総合商社としてのネットワークと多岐にわたるビジネスでの知見、そしてコイワイの試作研究用開発部品事業の経験や技術力を融合し、金属粉末の開発・製造から試作品造形・量産対応までワンストップサービスを提供し続けています",
+    "url": "https://jampt.jp/company/",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）では、協力企業との技術提携を通じて、金属3Dプリンティング技術と設計・解析技術を融合することで、部品形状の最適化・軽量化、熱マネジメント、複数部品の一体化など、金属3Dプリンティング技術の特徴を最大限に活かした製品開発、ならびに部素材の機能や構造の最適化解析などのデザイン・設計から製造までの一貫した製品開発（DfAM）支援サービスを提供しています",
+    "url": "https://jampt.jp/service/dfam/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のSLIMプロジェクトは東北大学 未来科学技術共同研究センターの千葉晶彦特任教授とも提携しました",
+    "url": "https://jampt.jp/company/challenge-to-space/",
+    "pass": 1
+   },
+   {
+    "quote": "初期投資をかけずに金属AMの技術に触れ、自社製品の開発に活かす",
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事を参考に、自社製品に適合した金属3Dプリントサービスを探してみてください",
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "自転車サドル",
+    "url": "https://jampt.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "99,000千円",
+    "url": "https://jampt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "数千万円から数億円以上と高額",
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "で、導入のハードルが高いことが課題です",
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本積層造形 株式会社: 金属3DプリンターのAM技術による ... — 日本積層造形 株式会社: 金属3DプリンターのAM技術による ... 日本積層造形株式会社 https://jampt.jp",
+    "url": "https://jampt.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形 が3Dプリントの国際規格「AM製造サイト認証 ... — 日本積層造形 が3Dプリントの国際規格「AM製造サイト認証 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形 株式会社（ JAMPT ） - 双日 — 日本積層造形 株式会社（ JAMPT ） - 双日 双日株式会社 https://www.sojitz.com > ... > 主要グループ会社",
+    "url": "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形 株式会社（ JAMPT ）【公式】 (@jampt_official) / X — 日本積層造形 株式会社（ JAMPT ）【公式】 (@jampt_official) / X X https://x.com > jampt_official",
+    "url": "https://x.com/jampt_official",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで技術革新を支える～ 日本積層造形 株式会社 — 金属3Dプリンターで技術革新を支える～ 日本積層造形 株式会社 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > voice > jampt_interview",
+    "url": "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "pass": 3
+   },
+   {
+    "quote": "製造 事例 | 金属3DプリンターのAM技術による受託 造形 サービス — 製造 事例 | 金属3DプリンターのAM技術による受託 造形 サービス 日本積層造形株式会社 https://jampt.jp > case",
+    "url": "https://jampt.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 日本積層造形株式会社 — 会社案内 - 日本積層造形株式会社 日本積層造形株式会社 https://jampt.jp > company",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング技術紹介 | 日本積層造形 株式会社 — 金属3Dプリンティング技術紹介 | 日本積層造形 株式会社 日本積層造形株式会社 https://jampt.jp > technology",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/service/prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/service/dfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/service/am-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/qualityassurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/chiba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/challenge-to-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/info-4098/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/info-4006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/info-lpm450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/technology/titanium-pipe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/case/caselist/topology-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/case/caselist/case01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/titanium-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/stainless-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/metal-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://jampt.jp/wp/pdf/A_method_to_manipulate%20non-steady-state%20columnar-to-equiaxed1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/Ball-milling_treatment_of-gas-atomized_Ti%E2%80%9348Al%E2%80%932Cr%E2%80%932Nb_powder_and-its.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/Cracking_behavior_of_Ti-48Al-2Cr-2Nb_alloy_in_powder_bed_fusion_electron.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/Detection,_classification_and_prediction_of_internal_defects_from_surface2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/Development_of_macro-defect-free_PBF-EB-processed_Ti%E2%80%936Al%E2%80%934V_alloys_with.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/Effect_of_mechanical_ball_milling_on_the_electrical_and_powder_bed.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/Factors_determining_the_flowability_and_spreading_quality_of_gas-atomized.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/wp/pdf/In-situ_observation_of_powder_spreading_in_powder_bed_fusion_metal.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAKAAQAAAABV4VjMAAAAAnRSTlMAAHaTzTgAAACsSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACPBlqeAAGJrX/JAAAAAElFTkSuQmCC",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jampt_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jampt_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jampt_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本積層造形 (JAMPT) 代理店 契約",
+   "results": [
+    "https://jampt.jp/",
+    "https://news.sharelab.jp/3dp-news/ir/jampt-am-240124/",
+    "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "https://x.com/jampt_official",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "https://mono.ipros.com/company/detail/2073816/",
+    "https://jampt.jp/company/",
+    "https://initial.inc/companies/A-31435"
+   ]
+  },
+  {
+   "query": "日本積層造形 (JAMPT) 導入事例",
+   "results": [
+    "https://jampt.jp/",
+    "https://x.com/jampt_official",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "https://jampt.jp/case/",
+    "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "https://www.nikkei.com/article/DGXZQOCC282SK0Y5A920C2000000/",
+    "https://mono.ipros.com/product/detail/2000518268/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000162763.html"
+   ]
+  },
+  {
+   "query": "日本積層造形 (JAMPT) 価格 OR 料金",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "https://x.com/jampt_official",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://jampt.jp/company/",
+    "https://www.firstcvc.jp/company/jampt.jp",
+    "https://www.nikkei.com/article/DGKKZO91789550X01C25A0L01000/",
+    "https://mono.ipros.com/product/detail/2000518268/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000162763.html",
+    "https://jampt.jp/column/column_488/"
+   ]
+  },
+  {
+   "query": "日本積層造形 (JAMPT) 受託 造形",
+   "results": [
+    "https://jampt.jp/",
+    "https://x.com/jampt_official",
+    "https://www.sojitz.com/jp/corporate/group/company_13006.html",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://jampt.jp/technology/",
+    "https://rs-miyagi.net/change/202601_jampt.html",
+    "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "https://mono.ipros.com/product/detail/2000518268/",
+    "https://www.firstcvc.jp/company/jampt.jp",
+    "https://jampt.jp/service/prototype/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式22頁／PDF・画像9件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式22頁／PDF・画像9件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式22頁／PDF・画像9件／外部8頁・検索4回）"
+ }
+}

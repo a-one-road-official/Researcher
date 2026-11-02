@@ -1,0 +1,1198 @@
+{
+ "name": "アビスト（3Dプリント事業本部）",
+ "aliases": [],
+ "context": "金属造形（Ti、Al、Inconel、マルエージング）＋表面処理、樹脂も /",
+ "researched_at": "2026-11-02T10:35:19.263078+00:00",
+ "official_url": "https://www.abist.co.jp/index.html（イプロス記載。本文未読",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2006年3月17日",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上",
+    "value": "106億円（2025年9月単体）",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "1,342 名（2025年9月末現在）",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1166名",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "1166名",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・工業設計技術サービス事業【請負、技術者派遣】 （機械設計開発、システム・ソフトウェア開発、電気・電子設計開発、AIソリューション） ・3D-CAD教育事業 （取引先のエンジニア教育、工業系大学の3D-CAD教育受託　他） ・不動産賃貸事業 ・美容・健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "●市光工業(株)●パナソニック(株)●MHIさがみハイテック(株)●(株)日立ソリューションズ●(株)小糸製作所●(株)日立ソリューションズ・クリエイト●日野自動車(株)●スタンレー電気(株)●(株)日野ヒューテック●トヨタ自動車(株)●(株)本田技術研究所●(株)トヨタシステムズ●マツダ(株)●（株）トヨタカスタマイジング＆ディベロップメント●三菱電機エンジニアリング(株)●トヨタ自動車九州(株)●矢崎部品(株)●トヨタ自動車東日本(株)●トヨタ車体(株)\nその他100社以上（敬称略） (順不同・敬称略) ※設計部門での取引先含む",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "label": "主要取引先",
+    "value": "●市光工業(株)●パナソニック(株)●MHIさがみハイテック(株)●(株)日立ソリューションズ●(株)小糸製作所●(株)日立ソリューションズ・クリエイト●日野自動車(株)●スタンレー電気(株)●(株)日野ヒューテック●トヨタ自動車(株)●(株)本田技術研究所●(株)トヨタシステムズ●マツダ(株)●（株）トヨタカスタマイジング＆ディベロップメント●三菱電機エンジニアリング(株)●トヨタ自動車九州(株)●矢崎部品(株)●トヨタ自動車東日本(株)●トヨタ車体(株)\nその他100社以上（敬称略） (順不同・敬称略) ※設計部門での取引先含む",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/index.html%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E8%A8%98%E8%BC%89%E3%80%82%E6%9C%AC%E6%96%87%E6%9C%AA%E8%AA%AD",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/index.html%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E8%A8%98%E8%BC%89%E3%80%82%E6%9C%AC%E6%96%87%E6%9C%AA%E8%AA%AD",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/news_release/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/news_release/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "業務形態（派遣・請負） ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に応じて、「受託型請負」、「常駐型請負」、「派遣」の形態で柔軟に対応致します",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "受託型請負業務",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "受託型請負業務とは、クライアントから依頼・委託された業務を弊社に持ち帰り、弊社事業所内の技術社員が対応する業務形態です",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の各事業所には、ハイエンドモデルを含めた複数種類の3D-CADを備えた「設計室」を設けており、規模の大きな業務にも対応できる体制を整えています",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "業務自体は請負契約に基づいて遂行するため、受託業務をクライアントの拠点内で実施するイメージです",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "機械系技術領域 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先であるメーカーの設計開発部門（特に上流工程）において以下の業務のサポートを行っています",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "機械設計開発",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "コスト・質量・強度を考慮し、形状検討・構造検討・レイアウト検討など、クライアントの要望に応じたCAD設計支援を行います",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品設計",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "輸送機器設計",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "電気機器設計",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器設計",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "情報系技術領域 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "金融業、製造業、公共システム等の各業種の情報システムにおけるシステム設計、構築から運用・保守に至るまでの業務を行います",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "個別の要件定義に基づいた設計開発を実施し、高度なプログラムやパッケージソフトウェアのカスタマイズによる最適なソリューションを提供いたします",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "電気系技術領域 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/electronic/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/electronic/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/electronic/",
+    "pass": 1
+   },
+   {
+    "quote": "ハード設計で必要とされる回路設計開発の業務を行います",
+    "url": "https://www.abist.co.jp/service/electronic/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "学校法人でCAD教育に携わるインストラクターや企業で実務に従事している3D-CADエンジニアへの教育・研修を行っております",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CADのような専門性の高い技術は、通常業務の中で体系的に教育・研修を行うことが難しい場合もあります",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、技術力向上のためには継続的な教育・研修が重要です",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、これまで複数の企業から教育・研修を受託し、実施してきた実績があります",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "きめ細かい指導を大切にし、各企業ごとのニーズに合わせた柔軟な教育・研修プログラムをご提案いたします",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "現場に即した実践的な教育・研修についてぜひご相談ください",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、2000年度より現在まで大手自動車メーカーを中心に、サプライヤーやその他メーカーの社員教育を受託し実施しています",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年度より近畿大学工学部および、当時の広島国際学院大学工学部において、当社のインストラクターが担当する3D-CADによる機械設計の講義（必修科目）がスタートしました",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "以降、多数の工業系大学から講義を受託し実施しています",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "CATIA-V5、NX、I-DEAS、Creo Elements/Pro（旧Pro/ENGINEER Wildfire）、SolidWorks、Inventorをベースに総数100台を超えるハイエンドCAD端末を保有し、各種多様な3D-CADの教育に対応いたします",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産 / 賃貸事業 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/service/rent/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/service/rent/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/service/rent/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ごあいさつ ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "美容健康商品製造販売事業",
+    "url": "https://www.abist.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が主力事業とする設計開発アウトソーシング事業において、大きなシェアを占めている自動車産業では「カーボンニュートラル」の実現、「CASE」への対応など100年に1度の変革期を迎えております",
+    "url": "https://www.abist.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "創業の精神「設計技術者が自らのために、ともに働き合う設計技術者集団の確立」にあるように、技術者が夢や希望を持ち、いきいきと働ける環境を提供することでサスティナブルな社会の実現に貢献してまいります",
+    "url": "https://www.abist.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "企業理念 ｜ 機械設計、システム・ソフトウェア開発 株式会社アビスト",
+    "url": "https://www.abist.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CAD 教育事業",
+    "url": "https://www.abist.co.jp/company/philosophy/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のご要望に応じて、「受託型請負」、「常駐型請負」、「派遣」の形態で柔軟に対応致します",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先であるメーカーの設計開発部門（特に上流工程）において以下の業務のサポートを行っています",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "（取引先のエンジニア教育、工業系大学の3D-CAD教育受託 他）",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "）では、お客様の個人情報の保護に厳重な注意を払っています",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "以下は、お客様の個人情報の取り扱いについての弊社の考え方です",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が、弊社WEBサイトのサービスを利用するために、弊社が取得したお客様の個人情報は本プライバシーポリシーに従って管理されます",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、適用される法令及び規範を遵守のうえ、お客様より取得した個人情報を以下の目的の範囲内において取得および利用します",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の商品やサービスをお客様に紹介するため",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の商品やサービスに対するご意見やご感想のご提供をお客様にお願いするため",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "必要に応じてお客様に連絡をするため",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、以下のいずれかに該当する場合を除き、弊社が取り扱う個人情報を、あらかじめお客様の同意を得ないで、第三者に開示または提供しません",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、弊社に対し、個人情報保護法において認められる範囲において、利用目的の通知を求め、または、個人情報もしくは第三者提供記録の開示を請求することができます",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が弊社に提供された個人情報の開示等の請求に関しては、こちらをご覧ください",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、ご本人の個人情報につき、「6. 個人情報開示等のご請求」に定める手続に従って、個人情報の訂正、追加及び削除を請求することができます",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、ご本人の個人情報につき、「6. 個人情報開示等のご請求」に定める手続に従って、個人情報の利用の停止または第三者の提供の停止を請求することができます",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "重要な変更が発生した場合は、弊社WEBサイト上で提示を行い、お客様へお知らせします",
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社のビジョンである「デジタル技術を活用し、顧客の潜在ニーズに応えるソリューション提案型企業」の実現に向けて、デジタル",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）当社を主要な取引先とする者又はその業務執行取締役、執行役、執行役員又は支配人その他の使用人（以下「業務執行者」という",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）当社の主要な取引先又はその業務執行者",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は持続可能な発展のために、お客様、取引先、株主、従業員、地域社会等のすべて",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "車業界におけるクリーンエネルギー車の開発等に設計開発技術で貢献すること、日々の",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この規程に則り、新規取引先との取引契約締結時においては、外部調査機関の活用および取引金融機関からの情報の収集等、反社会的勢力と",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、既存の取引先につきましても、定期的に情報収集を行い、必要に応じてよ",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社全体としては、「信頼の和の六輪づくり」を掲げ、お客様、大学関係者、その他社外関係者の皆様、当社所属社員と事業拠点、事業拠点と本社、本社内において信頼の和の向上に取り組んでおります",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "（取引先のエンジニア教育、工業系大学の3D-CAD教育受託 他）",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "※設計部門での取引先含む",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の製品開発を",
+    "url": "https://www.abist-design-room.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CATIA、SolidWorks、Auto CADなどお客様のニーズに合わせたCADを多数ご用意しています",
+    "url": "https://www.abist-design-room.com/",
+    "pass": 3
+   },
+   {
+    "quote": "取扱ができない3DCADデータをお客様が扱うことができる3DCADデータに変換致します",
+    "url": "https://www.abist-design-room.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第一東京支店(受託型請負業務に限る)は「ISO/IEC27001」の取得・運用をしており、お客様よりご提供頂いた情報は細心の注意を払って取扱わせて頂いております",
+    "url": "https://www.abist-design-room.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社全体としては、「信頼の和の六輪づくり」を掲げ、お客様、大学関係者、その他社外関係者の皆様、当社所属社員と事業拠点、事業拠点と本社、本社内において信頼の和の向上に取り組んでおります",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "（取引先のエンジニア教育、工業系大学の3D-CAD教育受託 他）",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "※設計部門での取引先含む",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/company/detail/2055493/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://www.ipros.com/company/detail/2055493/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要望に合わせ、樹脂製品やダイカスト製品の詳細構造検討、仕様図作成、",
+    "url": "https://www.abist-design-room.com/design/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お見積もりやご相談など",
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりやご相談など",
+    "url": "https://www.abist.co.jp/service/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりやご相談など",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりやご相談など",
+    "url": "https://www.abist.co.jp/service/electronic/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりやご相談など",
+    "url": "https://www.abist.co.jp/service/cad/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりやご相談など",
+    "url": "https://www.abist.co.jp/service/rent/",
+    "pass": 1
+   },
+   {
+    "quote": "（iii）取締役の報酬は、株主総会で承認された年額を限度とした取締役報酬規程に基づく取締役報酬基準をベースにし、各取締役の役割・責任に",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "体的には、定期的に開催される会計監査人とのミーティング、内部監査を実施した都度開催される監査報告会に加え、監査室による内部監査報",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役を除く）の報酬限度額は550,000千円以内（うち、社外取締役分年額30,000千円以内",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "締役の報酬限度額は50,000千円以内（うち、社外取締役分年額20,000千円以内",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③派遣料金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_tokyo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額－派遣労働者の賃金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_tokyo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額マージン率 =",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_tokyo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③派遣料金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_utsunomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額－派遣労働者の賃金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_utsunomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額マージン率 =",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_utsunomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③派遣料金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_shizuoka.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額－派遣労働者の賃金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_shizuoka.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額マージン率 =",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_shizuoka.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③派遣料金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_toyota.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額－派遣労働者の賃金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_toyota.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額マージン率 =",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_toyota.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③派遣料金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_nagoya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額－派遣労働者の賃金の平均額",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_nagoya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額マージン率 =",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_nagoya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライセンス及び技術者の空き状況によって異なります",
+    "url": "https://www.abist-design-room.com/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ頂いた内容でお見積りを作成致します",
+    "url": "https://www.abist-design-room.com/design/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "ミドルウェア",
+    "url": "https://www.abist.co.jp/service/system/",
+    "pass": 1
+   },
+   {
+    "quote": "10億2,665万円",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "106億円（2025年9月単体）",
+    "url": "https://www.abist.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "100億円以上1000億円未満",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報酬等の総額が1億円以上である者が存在しないため、有価証券報告書に役員ごとの報酬等の総額は記載しておりません",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役を除く）の報酬限度額は550,000千円以内（うち、社外取締役分年額30,000千円以内",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "締役の報酬限度額は50,000千円以内（うち、社外取締役分年額20,000千円以内",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．株主総会の活性化及び議決権行使の円滑化に向けての取組み状況",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "33,110 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_tokyo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20,260 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_tokyo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "33,729 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_utsunomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "19,660 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_utsunomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "32,064 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_shizuoka.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "19,669 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_shizuoka.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "33,277 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_toyota.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "21,256 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_toyota.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "32,122 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_nagoya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20,282 円",
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_nagoya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、2023年9月期第2四半期における当該事業の売上比率は0.90%で、部門損失は1400万円です",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "シャルレが希望退職者募集で25名の削減へ、特損4億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "山梨・甲斐の「合同タクシー」が破産申請へ、負債2億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "福島の造園・リフォーム業「春光園」が破産へ、負債4.4億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "島精機製作所の27年3月期は51億円の最終赤字へ、競争激化で",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "木徳神糧の26年12月期は50億円の赤字へ、25年産米の損失で",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "横浜冷凍の26年9月期は138億円の最終赤字へ、海外事業損失",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "WOWOWの27年3月期は52億円の営業赤字へ、Lemino承継で",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・河内長野の建築業「雅」に破産決定、負債1.1億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "京都の建築金物製造「吉田金属」が民事再生法、負債15億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "山形・飯豊「神乃湯ホテル」経営会社に破産決定、負債2.2億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "岩手の水産物加工「山岸冷蔵」に破産開始決定、負債6.6億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "栃木の陶器販売「益子焼窯元共販」に破産決定、負債8.5億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川「ダイハツ新湘南販売」に破産開始決定、負債10億円",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "ベトナム法人 Rikkeisoft Company社と業務提携",
+    "url": "https://www.abist.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アビストが3Dプリント事業を廃止、他事業に注力で 国内リストラ - 不... — Jun 14, 2023 · なお、2023年9月期第2四半期における当該事業の売上比率は0.90%で、部門損失は1400万円です。 また、この事業廃止に伴う連結業績への影響は軽微です。 3Dプリント事業廃止に関するお知らせ：アビスト",
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アビスト 3Dプリント事業本部3DCAD (3次元設計)の株式会社アビストアビスト | 企業情報 | イプロスものづくり3D設計｜3DCAD (3次元設計)の株式会社アビスト — 設計から製造までワンストップ対応の実現。 当事業本部は、創立時から対応している機械・ソフト設計技術サービスから新たな挑戦として、金属・樹脂の3Dプリント造形機を豊橋市・海老名市の事業所に導入し、造形サービスを行っている部署です。 3DCAD (3次元設計)・CAE解析・データ変換を行う株式会社アビストの公式ホームページ。 設計技術者集団がお客様の製品開発を質の高いサービスでサポート致します。 Mar 17, 2006 · 取り扱い材料も複数所有し、造形サイズも複数あるため、皆様のニーズに幅広くお応えいたします。 また、豊橋事業所では、JISQ9100と同等のEN9100（ISO9001含む）や医療機器製造",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "3DCAD (3次元設計)の株式会社アビスト — 3DCAD (3次元設計)・CAE解析・データ変換を行う株式会社アビストの公式ホームページ。 設計技術者集団がお客様の製品開発を質の高いサービスでサポート致します。",
+    "url": "https://www.abist-design-room.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D設計｜3DCAD (3次元設計)の株式会社アビスト — 3DCAD (3次元設計)・CAE解析・データ変換を行う株式会社アビストの3D設計サービスについてご紹介しています。 お客様のご要望に合わせ、初期検討から量産直前まで多岐に渡る設計業務をサポート致します。",
+    "url": "https://www.abist-design-room.com/design/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計 システム・ソフトウェア開発 株式会社アビスト — PR情報 事業内容 業務形態（請負・派遣） 業務形態（派遣・請負） 技術サービス事業 機械系技術領域 情報系技術領域 電気系技術領域 3D-CAD データ製作・データ解析・データ変換サービス AIソリューション その他事業 3D-CAD 教育事業 不動産 / 賃貸事業",
+    "url": "https://www.abist.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アビスト | 企業情報 | イプロスものづくり株式会社アビスト 3Dプリント事業本部22年1月号 特集/30 P21 事例3Dプリント造形サービス ※設計から製造をワンストップにて対応！ アビ...金属・樹脂の高密度、高強度、高耐久造形等に！『3Dプリンタ造形』 ア...3Dプリンタ事例10選・業界別の活用法とコスト削減効果を紹介 — Mar 17, 2006 · 設計から製造までワンストップ対応の実現。 当事業本部は、創立時から対応している機械・ソフト設計技術サービスから新たな挑戦として、金属・樹脂の3Dプリント造形機を豊橋市・海老名市の事業所に導入し、造形サービスを行っている部署です。 設計から製造までワンストップ対応の実現。 当事業本部は、創立時から対応している機械・ソフト設計技術サービスから新たな挑戦として、金属・樹脂の3Dプリント造形機を豊橋市・海老名市の事業所に導入し、造形サー",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アビスト 3Dプリント事業本部 — 設計から製造までワンストップ対応の実現。 当事業本部は、創立時から対応している機械・ソフト設計技術サービスから新たな挑戦として、金属・樹脂の3Dプリント造形機を豊橋市・海老名市の事業所に導入し、造形サービスを行っている部署です。",
+    "url": "https://www.ipros.com/company/detail/2055493/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・樹脂の高密度、高強度、高耐久造形等に！『3Dプリンタ造形』 ア... — アビストの金属・樹脂の高密度、高強度、高耐久造形等に！ 『3Dプリンタ造形』の技術や価格情報などをご紹介。 ワンストップ対応のため、低コスト、短納期！ 金属・樹脂の3D造形や実物からの3Dデータ化が可能！",
+    "url": "https://www.ipros.com/product/detail/2000379059/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アビスト 3Dプリント事業本部3Dプリント造形サービス ※設計から製造をワンストップにて対応！ アビ...機械設計 システム・ソフトウェア開発 株式会社アビスト業務形態（派遣・請負） ｜ 機械設計、システム・ソフトウェア開発 株...3D設計｜3DCAD (3次元設計)の株式会社アビストアビスト | 企業情報 | イプロスものづくり — 設計から製造までワンストップ対応の実現。 当事業本部は、創立時から対応している機械・ソフト設計技術サービスから新たな挑戦として、金属・樹脂の3Dプリント造形機を豊橋市・海老名市の事業所に導入し、造形サービスを行っている部署です。 「設計～製造」の受託体制！ 当社の設計技術サービスと造形サービスを駆使し、「設計～製造」まで一体で御請け致します。 豊橋事業所では、JISQ9100同等のEN9100（ISO9001含む）や医療機器製造許可証を取得し活動し",
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "pass": 3
+   },
+   {
+    "quote": "機械設計 システム・ソフトウェア開発 株式会社アビスト — 技術サービス事業 機械系技術領域 情報系技術領域 電気系技術領域 3D-CAD データ製作・データ解析・データ変換サービス AIソリューション その他事業 3D-CAD 教育事業 不動産 / 賃貸事業 美容健康商品製造販売事業 企業情報 ごあいさつ 企業理念 会社概要 役員 ...",
+    "url": "https://www.abist.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アビスト | 企業情報 | イプロスものづくり — Mar 17, 2006 · 設計から製造までワンストップ対応の実現。 当事業本部は、創立時から対応している機械・ソフト設計技術サービスから新たな挑戦として、金属・樹脂の3Dプリント造形機を豊橋市・海老名市の事業所に導入し、造形サービスを行っている部署です。",
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.abist.co.jp/index.html%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E8%A8%98%E8%BC%89%E3%80%82%E6%9C%AC%E6%96%87%E6%9C%AA%E8%AA%AD",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/news_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/dispatch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/electronic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/service/rent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/director/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/company/law/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist.co.jp/etc/policy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/corporate_governance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2026/10/2026%E5%B9%B410%E6%9C%881%E6%97%A5%E5%BD%B9%E5%93%A1%E6%94%B9%E9%81%B8%E9%80%9A%E7%9F%A5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/20251219yakuin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_tokyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_utsunomiya.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_shizuoka.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_toyota.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2025/12/haken_nagoya.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2024/09/company-history.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2024/09/mainvisual-10-scaled.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.abist.co.jp/wp-content/uploads/2024/09/mainvisual-sp-10.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist-design-room.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2055493/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2055493/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2055493/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abist-design-room.com/design/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アビスト(3Dプリント事業本部) 代理店 契約",
+   "results": [
+    "https://www.fukeiki.com/2023/06/abist-pullout-3d-printing.html",
+    "https://www.ipros.com/company/detail/2055493/",
+    "https://www.abist-design-room.com/",
+    "https://www.abist-design-room.com/design/",
+    "https://www.abist.co.jp/",
+    "https://www.abist.co.jp/service/",
+    "https://mono.ipros.com/company/detail/2055493/"
+   ]
+  },
+  {
+   "query": "アビスト(3Dプリント事業本部) 導入事例",
+   "results": [
+    "https://mono.ipros.com/company/detail/2055493/",
+    "https://www.abist.co.jp/",
+    "https://www.ipros.com/company/detail/2055493/catalog/",
+    "https://www.ipros.com/product/detail/2000379059/",
+    "https://pubdata.nikkan.co.jp/uploads/magazine_introduce/pdf_61c3df0ebb77f-2.pdf",
+    "https://mono.ipros.com/product/detail/2000284323/",
+    "https://3d-with.com/business/3d-printing-examples"
+   ]
+  },
+  {
+   "query": "アビスト(3Dプリント事業本部) 価格 OR 料金",
+   "results": []
+  },
+  {
+   "query": "アビスト(3Dプリント事業本部) 受託 造形",
+   "results": [
+    "https://www.ipros.com/company/detail/2055493/",
+    "https://www.abist-design-room.com/design/",
+    "https://www.abist.co.jp/",
+    "https://mono.ipros.com/company/detail/2055493/",
+    "https://mono.ipros.com/product/detail/2000284323/",
+    "https://www.ipros.com/product/detail/2000284323/",
+    "https://www.abist.co.jp/service/dispatch/"
+   ]
+  }
+ ],
+ "missing": {}
+}

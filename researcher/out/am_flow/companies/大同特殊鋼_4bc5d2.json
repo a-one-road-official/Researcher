@@ -1,0 +1,1613 @@
+{
+ "name": "大同特殊鋼",
+ "aliases": [],
+ "context": "TRAFAM 材料開発（2016） /",
+ "researched_at": "2026-11-02T10:19:49.988151+00:00",
+ "official_url": "https://www.daido.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1916年（大正 5年）　8月19日 沿革",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1950年（昭和25年）　2月 1日",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1916年8月19日",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "12,729名（連結）　3,370名（単独）",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益（売上高）",
+    "value": "2025年度 5,781億2,900万円（連結）[IFRS] 3,727億900万円（単独） 2024年度 5,749億4,500万円（連結）[IFRS] 3,852億6,000万円（単独）",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "・鋼材売上数量",
+    "value": "26年度 1,063千トン／年で想定（5月に公表した計画は1,042千トン／年の前提）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "連結：5,296億6,700万円（2021年度）",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "・特殊鋼鋼材、機能材料・磁性材料の販売、加工、輸送 ・自動車部品・産業機械部品の製造、販売 ・鉄鋼設備・環境関連設備などのエンジニアリング　など",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "工具鋼製品の販売価格改定について",
+    "url": "https://www.daido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムにおける販売拠点を設立",
+    "url": "https://www.daido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼製造だけでなく、製造するための設備設計などにもこれまでに培ったノウハウや技術が活かされています",
+    "url": "https://www.daido.co.jp/specialtysteel/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼鋼材加工、流通、原材料販売、運輸、物流",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼設備、各種工業炉ならびにその付帯設備、環境関連設備（排水・排ガス・廃棄物等の処理設備）、工作機械等、機械設備の保守管理",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社製品の販売、福利厚生サービス、不動産・保険事業",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋電燈(株)に製鉄部を設置、電気製鉄の試作に着手",
+    "url": "https://www.daido.co.jp/about/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/directors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/organization/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工具鋼、特殊合金及び軸受鋼製品（鋼線・線材・棒材・鍛鋼品・二次加工品等）の製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼の販売、熱処理、表面処理",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼鋼材、各種機械、製鋼用原料資材の販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用鋼および金型部品の製造・販売、熱処理、機械加工など",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製鋼用副資材の開発・製造・販売、廃レンガのリサイクル業",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高級特殊鋼の製造・販売他",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼二次製品、切削工具、工作機械の製造・販売および部品加工",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気工事の設計施工および自動制御盤、操作盤、配電盤などの設計製作",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス鋼線・金属繊維・ダイアモンド工具およびその他ステンレス鋼線・二次製品の製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "磁性材料および電気・電子機器部品の製造・加工・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "快削鋼・快削ステンレスの引抜加工品および研削加工品の製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ボルト類および各種部品の製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種エンジンバルブ、弁座、コッタ、リテーナなどエンジン関連部品などの製造販売、バルブ製造設備の製造販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋳鋼品および特殊鋼管材の製造および販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種鍛造品の製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リングロール製品の製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "圧縮機部品、精密機器要素部品、各種ばね、カップリングおよび制震装置などの製造・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械および各種機械の製作・販売、機械設備の保守点検および修理",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "灰溶融炉設備の運転および保守業務の請負、汚泥処理設備などの運転維持管理業務、設計業務の請負",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工業炉、設備機械およびその他付帯設備の設計・製作・販売",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業、保険代理店・リース業務、清掃・給食・警備、工場売店運営、印刷業務",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信機器によるシステムの企画・設計・開発・保守運用の受託、ソフトウェア開発・販売など",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼､原材料およびその他商品､製品に関する輸入､輸出､購買､販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密小物鍛造品の製造･販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、原材料およびその他商品、製品に関する輸入、輸出、購買、販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、機械設備の輸入・輸出、加工販売など",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用プレートの加工販売、金型用鋼の販売、金属製品の熱処理",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属繊維製フィルター製品製造及び販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジンバルブおよび周辺部品の製造・販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "超精密ガスフィルターの販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "型鍛造品の製造販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用プレートの加工販売、金型用鋼の販売、金属製品の熱処理・表面処理",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス鋼線の製造・販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "磁性材料および電気･電子機器部品の 製造･加工･販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋼材製品の輸出入､機械の輸入､鉄鋼製品の販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械の販売･据付･メンテナンス､副資材販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用鋼の販売、金型用プレートの加工販売、金型製品の加工",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型・金型部品の製造および販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジンバルブの製造および販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用プレートの加工販売、金型用鋼の販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用鋼の販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/numbers/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.daido.co.jp/about/origin/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工具鋼販売・サポート拠点",
+    "url": "https://www.daido.co.jp/products/tool/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工具鋼製品の販売価格改定について",
+    "url": "https://www.daido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/specialtysteel/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/specialtysteel/life/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、国内外の競争法を遵守し、談合・カルテル（不正な価格協定等の不当な取引制限）に当たる行為、また、そのおそれのある行為を行わず、公平・公正な取引を行います",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末製品（HEV用磁性粉末等）、チタン材料製品（医療用チタン合金、形状記憶合金等）、溶接用材料",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/directors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/directors/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/organization/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/organization/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/numbers/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/numbers/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/origin/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/origin/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/about/special/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/about/special/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "磁気センサ、ガソリンインジェクタ、磁気シールド、電波吸収体、圧粉磁心等の棒線、帯、粉末材料を提供します",
+    "url": "https://www.daido.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/special/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/special/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/special/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/stainless/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/stainless/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/stainless/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/superalloy/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/superalloy/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/superalloy/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/strip/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/strip/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/strip/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・",
+    "url": "https://www.daido.co.jp/products/dieforging/",
+    "pass": 1
+   },
+   {
+    "quote": "メールでお見積依頼",
+    "url": "https://www.daido.co.jp/products/dieforging/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り・お問い合わせ",
+    "url": "https://www.daido.co.jp/products/dieforging/",
+    "pass": 1
+   },
+   {
+    "quote": "合金粉末 | 製品情報 | 大同特殊鋼",
+    "url": "https://www.daido.co.jp/products/powder/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客、社会に信頼され、満足される「技術・サービス・品質」を通じ、持続可能な経済成長と社会的課題の解決を図る",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に対して、商品・サービスに関する適切な情報提供、誠実なコミュニケ―ションを行い、満足と信頼を獲得する",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、個人情報・顧客情報保護に留意する",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、競争法に基づき、取引先との関係上優越的な地位にある場合、取引相手に対して不当な要求は行いません",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、取引先から、社会的常識・儀礼の範囲を超える接待は受けません",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、個人情報・顧客情報の取得および利用にあたり、その利用目的を明確に定めるとともに、その保護に留意し、厳格に管理します",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、地域・投資家・顧客・取引先・従業員等の様々なステークホルダーと広くコミュニケーションを行い、会社情報を積極的かつ公正に、適切な手段を用いて適時開示します",
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "全てはお客様からの信頼に応えるために取り組んできました",
+    "url": "https://www.daido.co.jp/products/forging/",
+    "pass": 1
+   },
+   {
+    "quote": "需要拡大を受けて、ユーザーによる在庫積み増しの動きもあり受注が急拡大していくことが期待されます",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中長期的な取り組みとしては、成長市場製品の需要の捕捉、新たな顧客、次世代製品など新たな価値を提供してい",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上収益 99,979 96,794 59,166 14,257 14,300 284,499 － 284,499",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上収益 120,033 121,233 61,654 12,264 15,466 330,652 － 330,652",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ⅳ）大同特殊鋼の自動車業界における顧客基盤や",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズの把握、製品開発、製造プロセスの設計・品質管理",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客基盤、グローバル販売ネットワーク",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客基盤、グローバル販売ネットワークの活用",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・大同の顧客基盤、グローバル販売ネットワークの活用し製品拡販を推進",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高機能素材の価値を極め、顧客ベネフィットを創造し、",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様とともに成長してきた109年の歴史が形作った企業の姿",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車、重電、航空等産業のお客様",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・プロセスよりも顧客との対話",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客のベネフィットを創造する開発",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様との共同開発 163件",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“高機能素材”の価値を極め、顧客ベネフィットを創造し、サステナブルな社会の",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にともない、『強く、硬く、しなやかに』以上の様々な“機能”を有する幅広い“特殊鋼”製品を生み出し、産業界全体に新",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なる業界です",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "『高機能素材の価値を極め、顧客ベネフィットを創造し、",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高機能素材の価値を極め、顧客ベネフィットを創造し、",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たなビジネス・ドメイン（顧客",
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入事例｜大同特殊鋼株式会社｜人事・給与・勤怠間のデータ連携による作業工数削減",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーコミッティ",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "他にもCOMPANYはパッケージソフトの中でも、ユーザーでのメンテナンス・改訂の自由度が高いという点がメリットだと感じています",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "導入前に期待していた労働時間管理の効率化も、COMPANY就労のAEROやARM（ユーザーが定義を作成し必要なデータを取得することのできる機能）の利用でデータの加工作業が無くなり、作業時間は3分の1程度になったと実感しています",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANYの強みは、ユーザーがシステムのロジックを作ることができる柔軟さだと思います",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、システム設計をやったことのないユーザー担当者にとってロジック設定が難作業であることは否めません",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "今後、誰もがロジックの設定を感覚的に行えるようになったり、設定内容を簡単に認識できるようになることで、より幅広いユーザーにアプローチできるのではないかと思います",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "是非、法対応については迅速に、かつユーザーが作りこみやすいインターフェースのシステム開発を期待しています",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "関連する導入事例",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例一覧へ",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "特長やサポート体制、ご利用中のお客様の声までご紹介します",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "カテゴリから導入事例を探す",
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜経済情報プラットフォーム スピーダ(Speeda)",
+    "url": "https://jp.ub-speeda.com/customers/cat13/",
+    "pass": 3
+   },
+   {
+    "quote": "スピーダ 顧客企業分析 (FORCAS)",
+    "url": "https://jp.ub-speeda.com/customers/cat13/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトの詳細や導入実績なども",
+    "url": "https://jp.ub-speeda.com/customers/cat13/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "5,781億2,900万円（連結）[IFRS]",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3,727億900万円（単独）",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "5,749億4,500万円（連結）[IFRS]",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3,852億6,000万円（単独）",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "371億7,246万4,289円",
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高3,000億円達成",
+    "url": "https://www.daido.co.jp/about/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（百万円未満切捨て）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 円 銭 円 銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 百万円 百万円 ％",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円 銭 円 銭 円 銭 円 銭 円 銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 百万円 ％ 円 銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：百万円、％）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、前年同期比461億53百万円増収の3,306億52百万円となりました",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当中間期における営業利益は、前年同期比76億３百万円増益の260億68百万円、税引前中間利益は前年",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同期比76億52百万円増益の273億２百万円、親会社の所有者に帰属する中間利益は前年同期比53億25百万円増益の",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "182億62百万円となりました",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "932億93百万円増加し9,496億74百万円となりました",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円、その他の金融資産（非流動資産）の増加207億71百万円、営業債権及びその他の債権の増加159億67百万円、有形",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "固定資産の増加156億98百万円であります",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループの当中間連結会計期間末の非支配持分を含めた資本は、前期末に比べ241億35百万円増加し",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5,375億93百万円となりました",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本の増加の主な内訳は、利益剰余金の増加132億91百万円、その他の資本の構成要",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "素の増加92億98百万円であります",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・親会社の所有者に帰属する中間利益182億62百万円の計上等により利益剰余金は増加しております",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロジェクト」として360億円規模の大型投資を進めております",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円から４円増額し、28円とさせていただきます",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期の年間配当金予想につきましては１株当たり56円に修正いたし",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：百万円）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基本的１株当たり中間利益（円） 63.63 91.37",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "希薄化後１株当たり中間利益（円） 63.61 91.35",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 株 当 た り 配 当 金 ２８円００銭 ２４円００銭 ２２円００銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配 当 金 総 額 ５，６０６百万円 ― ４，４０５百万円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "どを踏まえ、直近の配当予想の１株当たり２４円から４円増額し、２８円とさせていただきます",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配 当 予 想 ２８円００銭 ５６円００銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当 期 実 績 ２８円００銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前期実績（2026 年３月期） ２２円００銭 ２７円００銭 ４９円００銭",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合理的に見込まれる額は最大10 億円になります",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mochikabu_Incentive.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 中間配当は5月15日予想に対して4円増配の28円/株（年間56円/株）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（千ｔ・億円）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配当（円/株） 22 28 6 4",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新断(千円/t)",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "H2(千円/t)",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＜営業利益の調整項目＞ （億円）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（億円/月）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 新規連結（東北特殊鋼）による資産増加は198億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・為替：155円／ドル",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・鉄スクラップ建値：26年度下期は51千円/ｔで想定",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "26年度通期で▲18億円の影響（5月公表値対比▲12億円）",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄スクラップ他 ▲17億円 ▲5億円 ▲22億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エネルギー(ｶﾞｽ・電力) ▲5億円 ▲13億円 ▲18億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合計 ▲22億円 ▲18億円 ▲40億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※5月公表の計画前提：スライドギャップ▲28億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳：鉄スクラップ▲22億円、エネルギー▲6億円)",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "為替レート ＴＴＭ 円/＄ 150.8 159.4 155.0 157.2 6.4 2.2",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄スクラップ 千円/ｔ",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 26年度通期営業利益は460億円、調整後営業利益は450億円に上方修正",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配当（円/株） 22 27 49 28 28 56 7 4",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一時費用：▲24億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DOE:支払配当÷(前期末の）株主資本85億円",
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "pass": 2
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "鉄鋼､原材料およびその他商品､製品に関する輸入､輸出､購買､販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、原材料およびその他商品、製品に関する輸入、輸出、購買、販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、機械設備の輸入・輸出、加工販売など",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋼材製品の輸出入､機械の輸入､鉄鋼製品の販売",
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オンライン販売代理店一覧（2件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2273",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 大同特殊鋼 」の 代理店 43社 注目ランキング【2026年】 — 「 大同特殊鋼 」の 代理店 43社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 大同特殊鋼株式会社",
+    "url": "https://metoree.com/companies/1590/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "「 大同特殊鋼 」の 代理店 ・取扱店：14件 - indexPro — 「 大同特殊鋼 」の 代理店 ・取扱店：14件 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2273",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の「 大同特殊鋼 」の 代理店 16社 | Metoree — 東京都の「 大同特殊鋼 」の 代理店 16社 | Metoree Metoree https://metoree.com > ... > 大同特殊鋼の代理店",
+    "url": "https://metoree.com/companies/1590/distributors/tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼 — 大同特殊鋼 大同特殊鋼 https://www.daido.co.jp",
+    "url": "https://www.daido.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "工具鋼販売・サポート拠点 | 工具鋼・金型材料 | 製品情報 — 工具鋼販売・サポート拠点 | 工具鋼・金型材料 | 製品情報 大同特殊鋼 https://www.daido.co.jp > products > tool > network",
+    "url": "https://www.daido.co.jp/products/tool/network/",
+    "pass": 3
+   },
+   {
+    "quote": "統合レポート - 大同特殊鋼 — 統合レポート - 大同特殊鋼 大同特殊鋼 PDF https://www.daido.co.jp > pages > sustainability > data",
+    "url": "https://www.daido.co.jp/common/pdf/pages/sustainability/data/2024.pdf?240927",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼 株式会社 キャリアデザイン研修 導入事例 - alue — 大同特殊鋼 株式会社 キャリアデザイン研修 導入事例 - alue service.alue.co.jp https://service.alue.co.jp > case > daido-steel",
+    "url": "https://service.alue.co.jp/case/daido-steel",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼 鋼材の販売 価格 改定について | お知らせ — 特殊鋼 鋼材の販売 価格 改定について | お知らせ 大同特殊鋼 https://www.daido.co.jp > info > 260722_price",
+    "url": "https://www.daido.co.jp/info/2026/260722_price.html",
+    "pass": 3
+   },
+   {
+    "quote": "【知多工場】鉄スクラップ建値 価格 について | 大同特殊鋼 — 【知多工場】鉄スクラップ建値 価格 について | 大同特殊鋼 daido-genryo.com http://www.daido-genryo.com",
+    "url": "http://www.daido-genryo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼 鋼材の販売 価格 改定について — 特殊鋼 鋼材の販売 価格 改定について 大同特殊鋼 https://www.daido.co.jp > info > 特殊鋼鋼材の販売価格...",
+    "url": "https://www.daido.co.jp/info/%E7%89%B9%E6%AE%8A%E9%8B%BC%E9%8B%BC%E6%9D%90%E3%81%AE%E8%B2%A9%E5%A3%B2%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼 鋼材の販売 価格 改定について | お知らせ — 特殊鋼 鋼材の販売 価格 改定について | お知らせ 大同特殊鋼 https://www.daido.co.jp > info > 260406_price",
+    "url": "https://www.daido.co.jp/info/2026/260406_price.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼 、工具鋼を半年ぶりに値上げ 10月契約分から4万円 ... — 大同特殊鋼 、工具鋼を半年ぶりに値上げ 10月契約分から4万円 ... 日本経済新聞 https://www.nikkei.com > ビジネス > 素材",
+    "url": "https://www.nikkei.com/article/DGXZQOFD251100V20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "大型品の3D 造形 を可能とするプラスチック金型用ステンレス ... — 大型品の3D 造形 を可能とするプラスチック金型用ステンレス ... 大同特殊鋼 https://www.daido.co.jp > release > 230720_powder",
+    "url": "https://www.daido.co.jp/about/release/2023/230720_powder.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用金属粉末AMDAP TM シリーズ - 大同特殊鋼 — 3Dプリンタ用金属粉末AMDAP TM シリーズ - 大同特殊鋼 大同特殊鋼 https://www.daido.co.jp > products > powder > dap_am",
+    "url": "https://www.daido.co.jp/products/powder/dap_am/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大型の金型 造形 に対応するダイス鋼系3Dプリンタ金属粉末を ... — 大型の金型 造形 に対応するダイス鋼系3Dプリンタ金属粉末を ... 大同特殊鋼 https://www.daido.co.jp > about > release > 220824_diesteel",
+    "url": "https://www.daido.co.jp/about/release/2022/220824_diesteel.html",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼 研究 | 活動紹介 | 技術・研究情報 — 特殊鋼 研究 | 活動紹介 | 技術・研究情報 大同特殊鋼 https://www.daido.co.jp > technology > activity > steel",
+    "url": "https://www.daido.co.jp/technology/activity/steel/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daido.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/specialtysteel/life/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/message/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/philosophy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/directors/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/organization/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/facilities/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/domestic/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/overseas/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/numbers/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/origin/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/procurement/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/stainless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/tool/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/superalloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/strip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/forging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/dieforging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/weld/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261102_Q&A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2703_2q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mod_2703.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/result/261029_mochikabu_Incentive.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/ir/library/presentation/261029_setsumeikai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/release/2026/260828_yakuin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/pamphlet2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/pdf/pages/about/top/introduction.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/img/pages/about/history/img1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/img/pages/about/history/img2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/img/pages/about/history/img3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/img/pages/about/history/img4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/img/pages/about/history/img5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daido.co.jp/common/img/pages/about/history/img5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daido.co.jp/assets/images/content/home/bnr_steel.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/1590/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/1590/distributors/tokyo/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.works-hi.co.jp/customer/daidosteel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ub-speeda.com/customers/cat13/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.daido-genryo.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大同特殊鋼 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/1590/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2273",
+    "https://metoree.com/companies/1590/distributors/tokyo/",
+    "https://www.daido.co.jp/",
+    "https://www.daido.co.jp/products/tool/network/",
+    "https://www.aiweb.or.jp/daido/d04.html",
+    "https://www.daido.co.jp/pioneer/sitepolicy/index.html",
+    "https://www.daido.co.jp/about/profile/index.html",
+    "https://www.youtube.com/watch?v=ZvU1WgMwADQ",
+    "https://metoree.com/companies/6898/distributors/"
+   ]
+  },
+  {
+   "query": "大同特殊鋼 導入事例",
+   "results": [
+    "https://www.works-hi.co.jp/customer/daidosteel",
+    "https://jp.ub-speeda.com/customers/cat13/",
+    "https://www.daido.co.jp/common/pdf/pages/sustainability/data/2024.pdf?240927",
+    "https://service.alue.co.jp/case/daido-steel",
+    "https://www.daido.co.jp/",
+    "https://www.youtube.com/watch?v=Coq-wjGC2ZA",
+    "https://www.sbbit.jp/document/sp/15313",
+    "https://www.daido.co.jp/recruit/service/",
+    "https://www.daido-100th.com/history/",
+    "https://www.tkc.jp/consolidate/case/daido/"
+   ]
+  },
+  {
+   "query": "大同特殊鋼 価格 OR 料金",
+   "results": [
+    "https://www.daido.co.jp/info/2026/260722_price.html",
+    "http://www.daido-genryo.com/",
+    "https://www.daido.co.jp/info/%E7%89%B9%E6%AE%8A%E9%8B%BC%E9%8B%BC%E6%9D%90%E3%81%AE%E8%B2%A9%E5%A3%B2%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://www.daido.co.jp/info/2026/260406_price.html",
+    "https://www.nikkei.com/article/DGXZQOFD251100V20C26A9000000/",
+    "https://www.daido.co.jp/info/2026/260407_tool.html",
+    "https://www.daido.co.jp/info/2026/260925_price.html",
+    "https://www.daido.co.jp/info/2026/260406_stainless.html",
+    "https://www.daido.co.jp/",
+    "https://www.nikkei.com/article/DGXZRSP705406_W6A400C2000000/"
+   ]
+  },
+  {
+   "query": "大同特殊鋼 受託 造形",
+   "results": [
+    "https://www.daido.co.jp/about/release/2023/230720_powder.html",
+    "https://www.daido.co.jp/products/powder/dap_am/index.html",
+    "https://www.daido.co.jp/about/release/2022/220824_diesteel.html",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.daido.co.jp/technology/activity/steel/index.html",
+    "https://jsam.or.jp/member/support/",
+    "https://kanagata-shimbun.com/daido_3dprint_ltx420/",
+    "https://www.japanmetal.com/news-t20230721128514.html",
+    "https://www.daido.co.jp/recruit/",
+    "https://www.daido.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像15件／外部6頁・検索4回）"
+ }
+}

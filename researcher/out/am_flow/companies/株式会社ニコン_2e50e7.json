@@ -1,0 +1,1631 @@
+{
+ "name": "株式会社ニコン",
+ "aliases": [],
+ "context": "自社製金属3Dプリンター（Lasermeister DED）、Nikon SLM Solutions製PBF；装置(Nikon SLM等) /",
+ "researched_at": "2026-11-02T10:28:30.342594+00:00",
+ "official_url": "https://nij.nikon.com/",
+ "identified_by": "search:yahoo_jp:ニコン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　立",
+    "value": "1917年",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1917年7月25日",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結 24,348人／単独 5,397人（2012年3月末現在）",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "専用設計のNIKKORレンズがボディーとの高い親和性を発揮するCOOLPIXシリーズ",
+    "url": "https://nij.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「ニコンカレンダー 2027年版」の販売を開始しました",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Zfプレミアムエクステリア有料張替販売」スタート",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "専用設計のNIKKORレンズがボディーとの高い親和性を発揮するCOOLPIXシリーズ",
+    "url": "https://nij.nikon.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "充実装備を賢くレンタルするなら",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル期間は、1泊〜になります",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用にはレンタル会社APEX RENTALSの会員登録が必要です",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/nikkor/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/sportoptics/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/laser/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/products/accessory/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/whatsnew/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/register/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/qa/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/servicecenter/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/repair/customize/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/manual/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "NPS特別販売",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "をNPS特別販売でも取り扱います",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月22日より、NPS会員の皆様にお求めやすい価格でニコン製品をご購入いただける新サービス「NPS特別販売」を開始します",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、窓口やお電話で受付している代替販売は今後も継続いたします",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "NPS特別販売はこちら",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/contact/internet.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザで毎月開催する初心者向け無料講習会",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "NPS特別販売",
+    "url": "https://nij.nikon.com/npsjapan/news/index.htm",
+    "pass": 1
+   },
+   {
+    "quote": "NPS特別販売",
+    "url": "https://nij.nikon.com/npsjapan/about/",
+    "pass": 1
+   },
+   {
+    "quote": "NPS特別販売",
+    "url": "https://nij.nikon.com/npsjapan/about/service.htm",
+    "pass": 1
+   },
+   {
+    "quote": "NPS特別販売",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "オンライン販売",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン販売代理店一覧（5件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・勉強会",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "pass": 3
+   },
+   {
+    "quote": "X線CT受託検査",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "X線CT受託検査サービス",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "生産・販売終了製品",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "故障・修理・保守サービス・校正についてのお問い合わせ先",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "Azure Databricksは、機械学習モデルのライフサイクルのためのプラットフォーム「MLflow」などのツールを通じて、AIモデルの開発、トレーニング、デプロイ、管理を効率化することでAI活用を加速させるクラウドベースの統合データ分析基盤「Databricks」をMicrosoft Azure上で提供、利用できるようにしたものだ",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "そして今回、数理研が重要なミッションとして定めるデータ／AI活用についても、ジールはコンサルティングをはじめ、機械学習を含めたAIの導入、そして内製化を見据えた技術支援やスキルトランスファーに至るまで、幅広いサポートを提供している",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジール アプライアドアナリティクス＆インテリジェンスユニット テクニカルコンサルティング部 シニアマネージャー グループ長",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタントとしてプロジェクトを先導するジールの田畑知也は、「ニコン様からはデータ活用に関して様々な要望が寄せられていますが、その実現に向け、データの加工や基盤構築のための仕組み作りなど、技術的な側面からの支援を行っています」と説明する",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした場面に遭遇した際に、引き続きジールから設計や構築のベストプラクティスを教示してもらえることを期待しています」と話す",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ニコンが100年以上にわたり培ってきた卓越した光学技術と、シネマカメラ業界をリードしてきたREDの映像技術が融合し誕生したZ CINEMA",
+    "url": "https://nij.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビューファインダーDF-N1000 ご愛用のお客様へ 【更新： 2026/9/29 対応内容の変更】",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンデジタル一眼レフカメラ「D810」ご愛用のお客様へ 【更新：2026/06/29 対応の終了予告】",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンが100年以上にわたり培ってきた卓越した光学技術と、シネマカメラ業界をリードしてきたREDの映像技術が融合し誕生したZ CINEMA",
+    "url": "https://nij.nikon.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "製品登録はニコン製品をご愛用のお客様に製品を安心してご使用いただくためのサービス（無料）です",
+    "url": "https://nij.nikon.com/support/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビューファインダーDF-N1000 ご愛用のお客様へ 【更新： 2026/9/29 対応内容の変更】",
+    "url": "https://nij.nikon.com/support/whatsnew/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンデジタル一眼レフカメラ「D810」ご愛用のお客様へ 【更新：2026/06/29 対応の終了予告】",
+    "url": "https://nij.nikon.com/support/whatsnew/",
+    "pass": 1
+   },
+   {
+    "quote": "製品登録はニコン製品をご愛用のお客様に製品を安心してご使用いただくためのサービス（無料）です",
+    "url": "https://nij.nikon.com/support/register/",
+    "pass": 1
+   },
+   {
+    "quote": "プロサービスセンターではご予約のお客様を優先で対応させていただきます",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "【ニコンイメージング会員のお客様へ】",
+    "url": "https://nij.nikon.com/support/contact/internet.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンイメージング会員のお客様はログイン後会員メニュー内「お問い合わせ」よりお手続きください",
+    "url": "https://nij.nikon.com/support/contact/internet.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質向上のため、原則としてお客様との通話を録音させていただいております",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン・携帯電話からお電話いただいたお客様に、SMSにてアンケートをお送りしております",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "電話でのお問い合わせ時、担当オペレーターがお客様のパソコンの画面を直接確認しながら操作方法やトラブル解決の方法をお伝えするサービスです",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "電話でのお問い合わせ中にオペレーターよりご案内があったお客様のみ利用可能なサービスとなっております",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンイメージングプレミアム会員（プレミアム会員）のお客様はログインしてからインターネットで修理のお申し込みをされると、修理料金が10％割引になります",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ご自身で梱包した修理品をニコン修理センターまで発送してください",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "ご依頼品の状態を確認し、お客様ご申告の故障内容と状況が異なる場合など再確認や再見積もりが必要な場合は修理前に郵送またはFAXでご連絡させていただきます",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンイメージングプレミアム会員のお客様はログインしてからお申し込みすることで修理料金が10％割引になります",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "お申込の際にお預かりさせて頂くお客様個人情報につきましては、NPSに関する連絡及びニコングループの提供する商品、サービス活動にお客様のご要望を反映させるための",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様からご提供頂いた個人情報は、弊社の個人情報保護方針に従い管理いたします",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車業界向けAPDIS",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "・代理店経由でご購入のお客様は、担当代理店へお問い合わせいただくと、迅速な対応が期待できます",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にご入力いただきました個人情報は、当該お問い合わせ、ご意見・ご感想への回答以外の目的で使用する事はございません",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様の個人情報を適切に取扱うことが当社の重要な社会的責務と考え、個人情報の保護に努めております",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニコン | 導入事例 | 株式会社ジール",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "業務効率化を達成、部門ユーザーの79%が効果を実感",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにユーザーからの要望改善やAIの精度向上に繋げていく、というものである",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "「その中では、『事業部門のユーザーはAIを使うことで、何ができるのか』『自分たちが保有しているデータをどのように業務改善に活かせるのか』、といったアイデアの構想から支援させていただきました",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、Microsoft SharePoint経由でユーザーに提供するという仕組みだ",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "数理研が事業部門のユーザーを対象に行ったアンケート調査によれば、AIを用いて情報が追加されたことでチェック業務の効率化を実現、79％のユーザーから「効果を実感している」との回答が寄せられている",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザープロフィール",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が実現したいことに寄り添ったご提案をいたします",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニコン様の導入事例｜イントラマート",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "IMUG（ユーザー会）",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "ローコード開発・業務プロセスのデジタル化で豊富な実績を持つintra-martが、お客様のビジネスにどのような効果をもたらすのか、特長や導入効果など製品コンセプトを詳しくご紹介した資料です",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズを満たす",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニコン様の導入事例",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "以上のお客様に導入されています",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション・事例・技術 | Nikon 法人のお客様",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "業界 : Top",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題解決やイノベーション創出に向けて、ニコンのさまざまなソリューションや事例、技術情報をご紹介します",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンの光学技術で現場を変える：自動車業界向け製品・ソリューション",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の開発・設計から生産・製造、品質保証・検査まで",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "工場全体で“持続的な効率化”の好循環へ：モノづくりワンストップサービス導入事例",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "徹底的にお客様に寄り添い、潜在的ニーズや課題を解決",
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年にD3000を購入して以来のニコンユーザーです",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "【総評】Z9ユーザーとして、同画素クラスで軽量ボディーのモデルが欲しいという事で本機を購入しました",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "しかし動体撮影性能や動画機能を追求するユーザーには上位機種（Z8/Z9）が向いていると思います",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "スマホからステップアップする人を含む幅広いユーザーに適している",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "肩液晶はありませんが、状況に合わせた設定を登録したユーザーセッティングをダイヤルですぐに切り替えられるのは便利です",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "操作性はある程度経験のあるNikonユーザーなら困ることは無いと思います",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "Canonユーザーからみると2010年のこの価格帯のカメラで、AF394点やSDカードスロット2つ装備は脱帽",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "PENTAX、LUMIX、FUJIFILMユーザーです",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "他に、バッテリーの改良による撮影枚数の増加や、EXPEED４による処理能力の向上などは、ユーザーにとって分かりやすく使い勝手の良い製品に仕上がっています",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーレビュー",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境の中、ニコンは独自開発のLMD方式の金属3Dプリンターを用いて、金属での付加加工を試してみたいお客様、金属3Dプリンターの導入を検討しているお客様に、受託加工サービスを提供します",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品出荷価格改定およびオープンプライス化のお知らせ",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品の価格改定のお知らせ 【修正：2026/5/20 詳細内容の変更】",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/",
+    "pass": 1
+   },
+   {
+    "quote": "修理お申込み方法・修理料金割引ご案内・修理料金お見積り・ピックアップサービスほか送付方法をご案内します",
+    "url": "https://nij.nikon.com/support/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（低い順）",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（高い順）",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（低い順）",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（高い順）",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（低い順）",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（高い順）",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（低い順）",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（高い順）",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/nikkor/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（低い順）",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（高い順）",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンダイレクト販売価格",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/sportoptics/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/laser/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（低い順）",
+    "url": "https://nij.nikon.com/products/laser/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（高い順）",
+    "url": "https://nij.nikon.com/products/laser/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/products/accessory/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/whatsnew/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/register/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/qa/",
+    "pass": 1
+   },
+   {
+    "quote": "修理の依頼方法と料金について",
+    "url": "https://nij.nikon.com/support/qa/",
+    "pass": 1
+   },
+   {
+    "quote": "修理料金（概算）の調べ方",
+    "url": "https://nij.nikon.com/support/qa/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/servicecenter/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "修理料金（概算）のお見積もり",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "修理料金の概算お見積もりは、「インターネットからお申し込み」からご確認いただけます",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "修理料金（概算）の調べ方",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "実際の修理品の状況により別途精緻お見積もりをご提示させていただく場合があります",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "★修理料金10％割引サービス",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンイメージングプレミアム会員なら修理料金が10％割引で受けられます",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "★ニッコールクラブ会員カードのご提示で、定期メンテナンスや修理料金が20％割引になります",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "「保証期間1年延長サービス」をはじめ、「ニコンイメージングプレミアム会員」なら修理料金10％割引サービスもご利用可能",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンプラザ内でスタッフが修理品を確認しながらお見積もり・受付をいたします",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "保証期間延長サービスや修理料金割引などがうけられるニコンイメージング会員専用修理特典と、ニッコールクラブ会員修理サービス特典をつかっての修理お申し込みができます",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/repair/customize/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/manual/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月22日より、NPS会員の皆様にお求めやすい価格でニコン製品をご購入いただける新サービス「NPS特別販売」を開始します",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "ミラーレスカメラや人気のレンズを、NPS会員専用Webサイトの専用ページより会員限定価格でご購入いただけます",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "修理品送料、ピックアップサービス料金改定に関するお知らせ",
+    "url": "https://nij.nikon.com/npsjapan/",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/contact/internet.html",
+    "pass": 1
+   },
+   {
+    "quote": "概算料金お見積もり",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "ナビダイヤルは一般電話から市内通話料金でご利用いただけます",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/slr/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/nikkor/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/software_app/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/sportoptics/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/laser/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/products/accessory/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/whatsnew/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/register/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/qa/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/servicecenter/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/repair/customize/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/manual/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/contact/internet.html",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)以上",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "保証期間内外問わず、有料サービス（全国一律3,850円（税込））です",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "返送料は全国一律1,650円（税込）となります",
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "pass": 1
+   },
+   {
+    "quote": "入 会 金：11,000円 （税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "24,200円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "18,150円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "12,100円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "6,050円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "11,000円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "8,250円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "5,500円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "2,750円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "pass": 1
+   },
+   {
+    "quote": "入 会 金 ： １１，０００円 （",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A 会員 ２４，２００ 円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "B 会員 １１，０００ 円（税込）",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A 会員 24,200 円 18,150 円 12,100 円 6,050 円",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "B 会員 11,000 円 8,250 円 5,500 円 2,750 円",
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Apache Sparkをベースに高速処理を実現し、構造化/非構造化データの双方を扱い、AIや機械学習プロジェクトの円滑な推進をサポートします",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "紙帳票にまつわるコストに目を向けてみても、IDESにより年間数百万円のコスト削減になっているという",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "654億7500万円",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "15万円弱でありながら、スイッチ類や筐体の質感は高いです",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "40万円だして2キロのカメラを買うやつはいない",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "【購入価格】Yahoo ディーライズさんにて標準レンズキット 76,000円弱で新品未使用 箱潰れを購入、ホットシュー、レンズフード、ZX�U保護フィルター、ステップアップリング（46−49ｍｍ）",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "49�oレンズキャップ等 1万円程",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "【アダプター】 焦点工房 マウントアダプター KF-DAZ＝4,860円",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "コンデジの値段で以前のミドルレンジ一眼レフが買える！",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "中古品は16-50mmレンズを付けて7万円ほどでしょうか",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、最大75,000円を還元する「Nikon Creators 応援 オータムキャンペーン2026」",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンイメージングジャパンは、対象製品の購入で最大75,000円をキャッシュバックする「Nikon Creators 応援 オータムキャンペーン2026」を発表",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "NASAについては、約6.3％増の約247億ドルが提示されています",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、地球科学プログラムは「次世代の地球観測衛星を導入し、気候科学の緊急課題を研究する」という目的で、15%増の23億ドルが割当てられています",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "スケジュールの後ろ倒しが懸念されているアルテミス計画については、前年から3億2500万ドル増加した69億ドルが割当られていますが、詳細は不明です",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターでロケットを作る宇宙ベンチャー、約150億円の追加投資獲得【週刊宇宙ビジネスニュース 9/30〜10/6】",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "オンライン販売代理店一覧（5件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "pass": 3
+   },
+   {
+    "quote": "自社でも要件対応できるシステム基盤として、標準機能によるデータ分析機能、自社開発を可能とする開発の容易性を高く評価している",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンはMorf3D社の技術と、自社開発したレーザーで金属材料を加工する「光加工機」をはじめとする精密加工技術と組み合わせて受託加工ビジネスを展開する計画です",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東京都の「 ニコン 」の 代理店 ・取扱店 - indexPro — 東京都の「 ニコン 」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン ソリューションズの 代理店 - メトリー — ニコン ソリューションズの 代理店 - メトリー Metoree https://metoree.com > ... > 株式会社ニコンソリューションズ",
+    "url": "https://metoree.com/companies/754/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ先 - ニコン — お問い合わせ先 - ニコン Nikon Industrial Metrology https://industry.nikon.com > Home > サポート",
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ニコン 」の 代理店 ・取扱店：125件 - indexPro — 「 ニコン 」の 代理店 ・取扱店：125件 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ニコン | 導入事例 — 株式会社 ニコン | 導入事例 株式会社ジール https://www.zdh.co.jp > customer > nikon",
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ニコン 様の 導入事例 ｜イントラマート — 株式会社 ニコン 様の 導入事例 ｜イントラマート intra-mart https://www.intra-mart.jp > 導入事例",
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ニコン 様『 Nikon DSD System』の 導入事例 - cloudpack — 株式会社 ニコン 様『 Nikon DSD System』の 導入事例 - cloudpack cloudpack https://cloudpack.jp > 導入事例",
+    "url": "https://cloudpack.jp/casestudy/021.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様 導入事例 | 株式会社 ニコン ソリューションズ — お客様 導入事例 | 株式会社 ニコン ソリューションズ Nikon microscopes https://www.microscope.healthcare.nikon.com > resources",
+    "url": "https://www.microscope.healthcare.nikon.com/ja_JP/resources/researcher-interviews",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン ( Nikon )のデジタル一眼カメラ 人気売れ筋ランキング — ニコン ( Nikon )のデジタル一眼カメラ 人気売れ筋ランキング 価格.com https://kakaku.com > カメラ > デジタル一眼カメラ",
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "ミラーレスカメラ | ニコン — ミラーレスカメラ | ニコン ニコンイメージングジャパン https://nij.nikon.com > products > mirrorless",
+    "url": "https://nij.nikon.com/products/mirrorless/?srsltid=AYCX9vIYHxSdGKuYND1zSgUM3XmEyG11RI5lEuYNDayixECYLVmveFjT",
+    "pass": 3
+   },
+   {
+    "quote": "一眼レフカメラ | ニコン — 一眼レフカメラ | ニコン ニコンイメージングジャパン https://nij.nikon.com > products > slr",
+    "url": "https://nij.nikon.com/products/slr/?srsltid=AYCX9vJun-HROeYKCQWFWv6lvwe6on9VHmTKiqPHcpUCdL3tNgRR-PUB",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン ( Nikon )のレンズ 人気売れ筋ランキング - 価格.com — ニコン ( Nikon )のレンズ 人気売れ筋ランキング - 価格.com 価格.com https://kakaku.com > カメラ > レンズ",
+    "url": "https://kakaku.com/camera/camera-lens/itemlist.aspx?pdf_ma=58",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル一眼レフ｜ ニコン 商品一覧 - カメラのキタムラ — デジタル一眼レフ｜ ニコン 商品一覧 - カメラのキタムラ カメラのキタムラ https://shop.kitamura.jp > list > maker=ニコン",
+    "url": "https://shop.kitamura.jp/ec/list?category_id=C001&maker=%E3%83%8B%E3%82%B3%E3%83%B3&has_used=0&srsltid=AYCX9vJ_0DiD--7GPYh8YZ8K_GHCPFNnJFxwFdLnFDOAdzNfcSiet1qy",
+    "pass": 3
+   },
+   {
+    "quote": "付加加工｜株式会社 ニコン アドバンストマニュファク ... - Nikon — 付加加工｜株式会社 ニコン アドバンストマニュファク ... - Nikon Nikon https://ngpd.nikon.com > additive-manufacturing",
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン が航空宇宙分野に特化した 受託 加工企業を子会社化 - 宙畑 — ニコン が航空宇宙分野に特化した 受託 加工企業を子会社化 - 宙畑 宙畑 https://sorabatake.jp > ...",
+    "url": "https://sorabatake.jp/19545/",
+    "pass": 3
+   },
+   {
+    "quote": "受託 加工フロー｜株式会社 ニコン デジタルマニュファク ... — 受託 加工フロー｜株式会社 ニコン デジタルマニュファク ... Nikon https://ngpd.nikon.com > flow",
+    "url": "https://ngpd.nikon.com/flow/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nij.nikon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/z_cinema/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/mirrorless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/slr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/cdsc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/nikkor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/software_app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/sportoptics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/laser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/products/accessory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/whatsnew/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/register/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/qa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/servicecenter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/repair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/repair/customize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/manual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/downloads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/npsjapan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/contact/internet.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/contact/phone.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/support/repair/receipt/web/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/npsjapan/news/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/npsjapan/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/npsjapan/about/service.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nij.nikon.com/npsjapan/about/join.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nij.nikon.com/npsjapan/about/pdf/nps-join_docset_202605.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nij.nikon.com/cms/products/accessory/common2/img/camera_casestrap.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nij.nikon.com/cms/products/accessory/common2/img/speedlight_case.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/754/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industry.nikon.com/ja-jp/support/contacts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/customer/nikon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intra-mart.jp/case-study/003522.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/products-and-services/material-processing-solutions/product-basic-info.additive-manufacturing-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/19545/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニコン",
+   "results": [
+    "https://nij.nikon.com/?srsltid=AYCX9vLSWDXiCcWboOmNjipTrt3dKNdBZr1-UtI2VDaVDEYB0E8776aV",
+    "https://www.jp.nikon.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+    "https://www.jp.nikon.com/consumer/",
+    "https://www.youtube.com/user/NikonImagingJapan",
+    "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "https://www.nikonusa.com/?srsltid=AYCX9vJ3k-BN2BzQftC0obcb4wwqaXHkGajsOge_Vd_rqpGV3t00nv-t",
+    "https://ja.wikipedia.org/wiki/ニコン",
+    "https://en.wikipedia.org/wiki/Nikon",
+    "https://nij.nikon.com/"
+   ]
+  },
+  {
+   "query": "ニコン 代理店 契約",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125&prefcd=13&rgcd=3",
+    "https://metoree.com/companies/754/distributors/",
+    "https://industry.nikon.com/ja-jp/support/contacts/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=125",
+    "https://www.jp.nikon.com/company/recruitment/people/sales.html",
+    "https://metoree.com/companies/1142/distributors/",
+    "https://www.jp.nikon.com/company/corporate/group/nbs/corporate/",
+    "https://www.nipponexpress-holdings.com/ja/news/press/2026/20260327-1.html",
+    "https://www.microscope.healthcare.nikon.com/ja_JP/products/cell-screening/lightning",
+    "https://distymap.com/manufacturers/nikon"
+   ]
+  },
+  {
+   "query": "ニコン 導入事例",
+   "results": [
+    "https://www.zdh.co.jp/customer/nikon/",
+    "https://www.intra-mart.jp/case-study/003522.html",
+    "https://www.business.nikon.com/ja/solutions-and-applications-and-technologies/",
+    "https://cloudpack.jp/casestudy/021.html",
+    "https://www.microscope.healthcare.nikon.com/ja_JP/resources/researcher-interviews",
+    "https://www.hpe.com/psnow/doc/a00162098jpn",
+    "https://www.macnica.co.jp/business/security/manufacturers/files/riskiq_case02_nikon.pdf",
+    "https://www.zdh.co.jp/topics/20250731/",
+    "https://www.nsi.nikon.com/recruit/workstylecareer/careercase/",
+    "https://industry.nikon.com/ja-jp/resource-centre/case-studies/"
+   ]
+  },
+  {
+   "query": "ニコン 価格 OR 料金",
+   "results": [
+    "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_ma=58",
+    "https://nij.nikon.com/products/mirrorless/?srsltid=AYCX9vIYHxSdGKuYND1zSgUM3XmEyG11RI5lEuYNDayixECYLVmveFjT",
+    "https://nij.nikon.com/products/slr/?srsltid=AYCX9vJun-HROeYKCQWFWv6lvwe6on9VHmTKiqPHcpUCdL3tNgRR-PUB",
+    "https://kakaku.com/camera/camera-lens/itemlist.aspx?pdf_ma=58",
+    "https://shop.kitamura.jp/ec/list?category_id=C001&maker=%E3%83%8B%E3%82%B3%E3%83%B3&has_used=0&srsltid=AYCX9vJ_0DiD--7GPYh8YZ8K_GHCPFNnJFxwFdLnFDOAdzNfcSiet1qy",
+    "https://bbs.kakaku.com/bbs/-/CategoryCD=0049/MakerCD=58/",
+    "https://nij.nikon.com/products/?srsltid=AYCX9vIBEl4qsn5bgxRfJb4Lbecif7A1yDoBZqkDxbwUoIMb9-CE8nJc",
+    "https://nij.nikon.com/?srsltid=AYCX9vKc9QbjOoD-Ro0YIMpT61xS1Lh2XbMe4YvApEwQ4VamRmi_jTL7",
+    "https://kakaku.com/item/K0001711559/",
+    "https://kakaku.com/item/K0001274576/"
+   ]
+  },
+  {
+   "query": "ニコン 受託 造形",
+   "results": [
+    "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "https://www.business.nikon.com/ja/products-and-services/material-processing-solutions/product-basic-info.additive-manufacturing-solution/",
+    "https://sorabatake.jp/19545/",
+    "https://ngpd.nikon.com/flow/",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "https://www.youtube.com/watch?v=RFq3swmwPUA",
+    "https://ngpd.nikon.com/glossary/",
+    "https://ngpd.nikon.com/material-processing/",
+    "https://www.jp.nikon.com/business/products-and-services/processing-top/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部10頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部10頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部10頁・検索5回）"
+ }
+}

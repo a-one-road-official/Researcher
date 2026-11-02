@@ -1,0 +1,1052 @@
+{
+ "name": "木村鋳造所",
+ "aliases": [],
+ "context": "TRAFAM ユーザー企業（2016） /",
+ "researched_at": "2026-11-02T10:22:58.516311+00:00",
+ "official_url": "https://www.kimuragrp.co.jp/",
+ "identified_by": "search:yahoo_jp:木村鋳造所",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "創業　1927年（昭和2年）2月 設立　1948年（昭和23年）5月",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1948年5月（創業1927年2月）",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "856名 ※2026年4月現在 (正規雇用労働者の中途採用比率： 2023年度 52％, 2024年度 46％, 2025年度 41％ ※2026年4月1日公表)",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "235名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "356名(御前崎製作所機械加工工場35名含む)",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "35名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "118名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "89名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "9名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "85名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "30名",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "207 億円　※2025年度",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車用プレス金型用鋳物の製造・加工・販売 工作機械・産業機械用鋳物の製造・加工・販売 エネルギー関連鋳物の製造・加工・販売 ３Dプリンタを使用した鋳物の製造・加工・販売（DMP） 発泡スチロールによる模型・モニュメント・フィギュアの製造・販売（KDW） リバースエンジニアリングによる現物復元、データ化　他",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "自動車用プレス金型用鋳物の製造・加工・販売 工作機械・産業機械用鋳物の製造・加工・販売 エネルギー関連鋳物の製造・加工・販売 3Dプリンタを使用した鋳物の製造・加工・販売（DMP） 発泡スチロールによる模型・モニュメント・フィギュアの製造・販売（KDW） リバースエンジニアリングによる現物復元、データ化 他",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニューリリース",
+    "url": "https://www.kimuragrp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、技術開発を行う人材に関しては、大学等との連携により博士号取得を目標とした教育制度を実施しています",
+    "url": "https://www.kimuragrp.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "車体プレス金型用鋳物、工作機械やコンプレッサなどの産業機械用鋳物などの大型品から、小物試作鋳物やアミューズメント用発泡模型までKIMURAグループが造りだす製品は多岐にわたります",
+    "url": "https://www.kimuragrp.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用プレス金型用鋳物の製造・加工・販売",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械・産業機械用鋳物の製造・加工・販売",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー関連鋳物の製造・加工・販売",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "３Dプリンタを使用した鋳物の製造・加工・販売（DMP）",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "発泡スチロールによる模型・モニュメント・フィギュアの製造・販売（KDW）",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "三次元積層造型品・開発試作品",
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロータリーストッカー",
+    "url": "https://www.kimuragrp.co.jp/company/facilities.html",
+    "pass": 1
+   },
+   {
+    "quote": "設備の再生、製品と設計との検証、試作品と設計データの照合などに幅広く活用いただけます",
+    "url": "https://www.kimuragrp.co.jp/re/",
+    "pass": 1
+   },
+   {
+    "quote": "1．排除：廃棄物ありきの設計段階を排除し、資源循環させる",
+    "url": "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "pass": 1
+   },
+   {
+    "quote": "5.技術と経験に基づく溶解歩留まり向上させる方案設計",
+    "url": "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "pass": 1
+   },
+   {
+    "quote": "フルモールド鋳造法（鋳物製作・金属試作）｜木村鋳造所｜自動車・工作機械・産業機械・風力発電用鋳物",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、開発品や試作品の鋳物の場合に工期と費用を大きく短縮することができます",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "毎回設計・仕様が変わる工業製品や、開発・試作品に最適",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "ポンプやコンプレッサーなどは、設置される工場やプラントの制約条件に合わせた設計や仕様が必要となります",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ディーゼル・ガスエンジン用のシリンダブロック(架構・クランクケース)やガスタービンケーシングなどは、性能試験前に型(木型)を製作してしまうと、性能向上のための設計変更が限定されてしまう可能性があります",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせて、鋳造設計についても柔軟にご相談させていただきます",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品・単品鋳物・美術鋳物に向いている",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "模型の段階で、設計上の問題点を確認することが出来る",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "また、設計上の制約も少なく、高度な技能も必要としない",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "中子を必要とするため、設計上の制約が多く、複雑な鋳物を製作するには高度な技能を必要とする",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "抜き勾配が不要であり、設計上の制約も少ないことから、鋳物の軽量化が可能である",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "木型法では、木型を抜くための抜き勾配が必要であり、設計上の制約も多い",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "4) 萩市教育委員会:史跡萩反射炉・保存整備事業報告書（萩",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5) 萩市教育委員会:反射炉シンポジウム記録集（萩市教育",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる教育を行っていたことなど，見習わ",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる教育を行っていたことなど，見習わ",
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に設計上重要な耐力は鋳鋼と大差ありません",
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nobi_duc.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "帳票コンサルティング",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用コンサルティング",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容:自動車用プレス金型用鋳物の製造・加工・販売 工作機械・産業機械用鋳物の製造・加工・販売 エネルギー関連鋳物の製造・加工・販売 3Dプリンタを使用した鋳物の製造・加工・販売（DMP） 発泡スチロールによる模型・モニュメント・フィギュアの製造・販売（KDW） リバースエンジニアリングによる現物復元、データ化 他",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "課、設備設計課をまとめ、システム改革部が発足",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "サポート&トレーニング",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート＆トレーニング",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "この成果は学会等に発表され、国内はもとより、世界レベルでの鋳物業界の技術革新に大きな役割を果たしています",
+    "url": "https://www.kimuragrp.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造の革命児となる為に、様々な技術革新を元に多くのお客様にこの技術をご活用頂きたいと切に願って居ります",
+    "url": "https://www.kimuragrp.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "木村鋳造所の企業理念・企業姿勢を凝縮した新たなロゴで、お客様と共に更なる発展を目指します",
+    "url": "https://www.kimuragrp.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "これはひとえに、 お客様・業界関係者・その他多くの皆さまからのご厚情の賜と心より感謝申し上げます",
+    "url": "https://www.kimuragrp.co.jp/blog/company/effort/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな業界で役目を終えた鉄スクラップを高い材質管理技術で再利用し、高品質な鋳物を製造しています",
+    "url": "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の図面や3Dデータをお預かりして発泡スチロールの模型（鋳型）を製作し、鋳物を造ります",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "ボディプレス金型用鋳物と同様に短納期かつ高品質の鋳物をお客様のご要望に合わせて供給しています",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせて、鋳造設計についても柔軟にご相談させていただきます",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "社内に機械的性質試験設備(引張試験・衝撃試験)を備えており独自材質の開発も行っているため、お客様のご要望に幅広くお応えすることができます",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、お客様のご要望に応じて塗装や切削加工も請け負っており、模型製作から完加工までをワンストップサービスで供給することが可能です",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "また、独自の材質も開発しており、お客様のご要望に合わせて材質を調整することも可能です",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様・業界関係者・その他多く",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様・業界関係者・その他多く",
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入事例一覧",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "の画面から簡易マニュアルを呼び出せるようにすることで、操作に迷ったユーザーを素早くガイドできるようにしました」（鈴木氏）",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、池谷氏は社内のユーザーがデータを見て、それを実際の行動にきちんと結びつけるため、勉強会や階層別研修によってユーザー側のレベルも上げていきたいと話します",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "MotionBoardユーザーの皆様から、よく「運用担当者がなかなか増えない、社内に相談できる相手がいない」というお悩みを聞きます",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社の取り組みは、データ活用浸透に悩むユーザーの皆様にぜひご参考にいただきたいです",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティではユーザー同士が製品の情報や事例を共有し合ったり、製品活用にあたっての疑問を投げかけたり、",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：火花・粉じんが舞う鋳物切断作業をロボットの遠隔操作で改革（株式会社木村鋳造所） | 川崎重工の産業用ロボット",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例／適用事例",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様・号機情報登録",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：火花・粉じんが舞う鋳物切断作業をロボットの遠隔操作で改革（株式会社木村鋳造所）",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "NASAも顧客のスーパー町工場 見学者殺到！高利益率の秘密とは【Bizスクエア】｜TBS NEWS DIG",
+    "url": "https://www.youtube.com/watch?v=JJH10KZAp-Q",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "二つのパーツの組み合わせによる”円”は「調和」を意味し、木村鋳造所に関わる全ての人・環境が円滑に進む願いを込めています",
+    "url": "https://www.kimuragrp.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金：8,500万円",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "8,500万円",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "億円 ※2025年度",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）木村鋳造所の資本金を8,500万円に増資",
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "木村FM型製作所を東静工業（株）に統合、資本金を3,700万円に増資",
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ジャパンメタル（株）を資本金5,000万円で設立",
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東静工業（株）を資本金1,000万円で設立、機械加工を開始",
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金3,400万円に増資",
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金50万円で（株）木村鋳造所に法人改組",
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内では2030年に80兆円規模の市場が予想されています",
+    "url": "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタをはじめ旋盤(ターニング)、研削盤、各種門形・立形・横形加工機、放電加工機、歯切り盤など、各種工作機械向けに、ベース、ベッド、フレーム、テーブル、コラム(キャレッジ)、サドル、スピンドルヘッドなど様々な部品を製造・供給しています",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械部品用鋳物(ベース、ベッド、フレーム、テーブル、コラム(キャレッジ)、サドル、スピンドルヘッドなど)、",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心力を利用することで、管や円などの形状で、緻密な鋳物製造に用いられます",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "ドル法で作られる錬鉄を、すでに製造していたことがわ",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "をかき混ぜ （パドル法） 炭素量を少なくして、鋼（錬鉄）",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パドル法で 1 回につくることができる鋼（錬鉄）は、約",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たように、中国では紀元前 2～3 世紀の漢の時代にパドル",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多くの文献には鉄がパドル法",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高炉からの銑鉄を使っての再溶解、後期は③パドル法に",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（約 70 年） 1784 年 反射炉＋パドル法・錬鉄 ヘンリー・ コート 反射炉の湯をかき混ぜる ことにより（パドル法）、炭素量を少なくして錬鉄をつくる方法",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "反射炉の下部は半円の半月板で丸くなっており、この半",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パドル法から溶湯の精錬",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "模造長大円体器法",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "模造長大円体器法",
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "相手円盤：SNCM440（硬さHRC51）",
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/kims60.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【中国が絶句】豪州が4800億円を投じて日本の新幹線を選択！中国が絶句した「60年無事故」の衝撃…【ゆっくり解説】",
+    "url": "https://www.youtube.com/watch?v=NyWHk5jkjdA",
+    "pass": 3
+   },
+   {
+    "quote": "資本金:8,500万円",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット活用へのハードルを下げるきっかけ",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "「ChayaRobo®の導入によって、ロボットへのハードルが下がったと感じています",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   },
+   {
+    "quote": "スリムなアームとミドルリーチで高密度配置にも最適",
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "フルモールド鋳造法では、短納期かつ低初期費用で高品質の鋳鉄部品を供給することができます",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年11月フルモールド普及活動の中心となっていたヴィットモーザーが急逝したため、ライセンスグループ活動は終止符を打ち、各社独自で展開されることとなります",
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄は金の 5～10 倍の価格であったと考えられる",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建 設 費 :見積額3,773両,総工費5,311両,",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建 設 費 :見積額3,773両,総工費5,311両,",
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nirayama.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形",
+    "url": "https://www.youtube.com/watch?v=JJH10KZAp-Q",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "石） ・ 輸入銑 （南蛮鉄（※",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "輸入されたインド産の鉄",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄（鉄鉱石） ・輸入銑（南蛮鉄） ・バラ",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "輸入銑（南蛮鉄）",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "佐賀藩では輸入銑を用いたが, 韮山では用いなか",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "佐賀藩では輸入銑を用いたが, 韮山では用い",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 木村鋳造所 」の 代理店 1社 注目ランキング【2026年】 — 「 木村鋳造所 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 株式会社木村鋳造所",
+    "url": "https://metoree.com/companies/6534/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "木村鋳造所 : 鋳物の革命児 — 木村鋳造所 : 鋳物の革命児 木村鋳造所 https://www.kimuragrp.co.jp",
+    "url": "https://www.kimuragrp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "木村鋳造所 のカンパニープロフィール 日本語 ... - YouTube — 木村鋳造所 のカンパニープロフィール 日本語 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=NyWHk5jkjdA",
+    "pass": 3
+   },
+   {
+    "quote": "「ポジティブ・インパクト・ファイナンス」の 契約 締結 — 「ポジティブ・インパクト・ファイナンス」の 契約 締結 木村鋳造所 https://www.kimuragrp.co.jp > blog > information",
+    "url": "https://www.kimuragrp.co.jp/blog/information/1233/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜KIMURA - 木村鋳造所 — 会社概要｜KIMURA - 木村鋳造所 木村鋳造所 https://www.kimuragrp.co.jp > 会社案内",
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報 / 製品 事例 ｜KIMURA - 木村鋳造所 — 技術・製品情報 / 製品 事例 ｜KIMURA - 木村鋳造所 木村鋳造所 https://www.kimuragrp.co.jp > 技術・製品情報",
+    "url": "https://www.kimuragrp.co.jp/products/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造 業におけるサーキュラーエコノミー持続可能な社会を ... — 鋳造 業におけるサーキュラーエコノミー持続可能な社会を ... 木村鋳造所 https://www.kimuragrp.co.jp > company > circulareconomy",
+    "url": "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報 / 製品事例｜KIMURA - 木村鋳造所 — 技術・製品情報 / 製品事例｜KIMURA - 木村鋳造所 木村鋳造所 https://www.kimuragrp.co.jp > 技術・製品情報",
+    "url": "https://www.kimuragrp.co.jp/products/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポジティブ・インパクト・ファイナンス評価書 - 木村鋳造所 — ポジティブ・インパクト・ファイナンス評価書 - 木村鋳造所 木村鋳造所 PDF https://kimuragrp.co.jp > blog > uploads > 2023/10",
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2023/10/ca8fd9ec2b8c9af3c3ab16dcbeab2dc0.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "木村鋳造所 （公式） on X: \"「え？これがこの値段？高くない ... — 木村鋳造所 （公式） on X: \"「え？これがこの値段？高くない ... X https://x.com > @KimuraFoundry",
+    "url": "https://x.com/KimuraFoundry/status/1417660418231660550",
+    "pass": 3
+   },
+   {
+    "quote": "米国における3Dプリンターを活用した 鋳造 試作部品製造事業 ... — 米国における3Dプリンターを活用した 鋳造 試作部品製造事業 ... 木村鋳造所 https://www.kimuragrp.co.jp > blog > information",
+    "url": "https://www.kimuragrp.co.jp/blog/information/354/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳鉄・ステンレス・アルミ・銅の短納期鋳物試作鋳物メーカー — 鋳鉄・ステンレス・アルミ・銅の短納期鋳物試作鋳物メーカー 木村鋳造所 https://www.kimuragrp.co.jp > dmp",
+    "url": "https://www.kimuragrp.co.jp/dmp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kimuragrp.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/products/technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/products/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/factory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/facilities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/effort/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/case/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/prize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/re/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/1837/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/1812/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/1801/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/1796/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/1818/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/sdgs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/fmc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/effort/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/prize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/blog/company/exhibition/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama20161117.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kimuragrp.co.jp/blog/wp-content/uploads/2017/05/nirayama.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nirayama.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/nobi_duc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/pdf/kims60.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_003.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_004.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_005.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_006.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_007.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_008.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_009.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kimuragrp.co.jp/assets/img/products/case_photo_010.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/6534/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=NyWHk5jkjdA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=JJH10KZAp-Q",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "木村鋳造所",
+   "results": [
+    "https://www.kimuragrp.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp77809/outline.html",
+    "https://x.com/KimuraFoundry",
+    "https://portal2026.semiconjapan.org/exhibitors/exhibitor/1230",
+    "https://ota-kinzoku.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%9C%A8%E6%9D%91%E9%8B%B3%E9%80%A0%E6%89%80-%E7%BE%A4%E9%A6%AC%E5%B7%A5%E5%A0%B4/",
+    "https://ja.wikipedia.org/wiki/木村鋳造所",
+    "https://www.kimuragrp-mousoukaijuzukan.com/",
+    "https://www.nikkan.co.jp/articles/view/793487",
+    "https://imono-cuttingwork.net/contents/025",
+    "https://www.kimuragrp.co.jp/company/profile.html"
+   ]
+  },
+  {
+   "query": "木村鋳造所 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/6534/distributors/",
+    "https://www.kimuragrp.co.jp/",
+    "https://www.youtube.com/watch?v=NyWHk5jkjdA",
+    "https://www.kimuragrp.co.jp/blog/information/1233/",
+    "https://www.kimuragrp.co.jp/company/profile.html",
+    "https://glocalmissionjobs.jp/search/detail/4461",
+    "https://techno2026.ec-smart.jp/company/wP2Jx5TTSPN2Tcj7RkBX1F6",
+    "https://en-ambi.com/agency/a-7672/",
+    "https://portal2026.semiconjapan.org/exhibitors/exhibitor/1230",
+    "https://ja.wikipedia.org/wiki/木村鋳造所"
+   ]
+  },
+  {
+   "query": "木村鋳造所 導入事例",
+   "results": [
+    "https://www.wingarc.com/nest/successstory/article/1692.html",
+    "https://kawasakirobotics.com/jp/case-studies/case_kimura/",
+    "https://www.kimuragrp.co.jp/products/case.html",
+    "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "https://www.youtube.com/watch?v=NyWHk5jkjdA",
+    "https://www.densai.net/case/company_kimuragrp/",
+    "https://www.snorkeljp.com/case/kimura.html",
+    "https://job.mynavi.jp/28/pc/search/corp77809/premium.html",
+    "https://www.kimuragrp.co.jp/blog/author/lucadesign/",
+    "https://www.youtube.com/watch?v=-LjjcIY8QrM"
+   ]
+  },
+  {
+   "query": "木村鋳造所 価格 OR 料金",
+   "results": [
+    "https://www.kimuragrp.co.jp/products/case.html",
+    "https://www.kimuragrp.co.jp/",
+    "https://www.kimuragrp.co.jp/company/circulareconomy.html",
+    "https://kimuragrp.co.jp/blog/wp-content/uploads/2023/10/ca8fd9ec2b8c9af3c3ab16dcbeab2dc0.pdf",
+    "https://x.com/KimuraFoundry/status/1417660418231660550",
+    "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E9%8B%B3%E9%80%A0%E6%89%80",
+    "https://www.kimuragrp.co.jp/blog/information/",
+    "https://mf-topper.jp/suppliers/detail/1561"
+   ]
+  },
+  {
+   "query": "木村鋳造所 受託 造形",
+   "results": [
+    "https://www.kimuragrp.co.jp/",
+    "https://www.kimuragrp.co.jp/blog/information/354/",
+    "https://www.youtube.com/watch?v=JJH10KZAp-Q",
+    "https://www.kimuragrp.co.jp/dmp/",
+    "https://www.youtube.com/watch?v=NyWHk5jkjdA",
+    "https://www.kimuragrp.co.jp/blog/company/prize/68/",
+    "https://eigyo-mfg.com/service/navi/company/fvFQ0IqAZ04F",
+    "https://mcstudy.mynavi.jp/mem/company/227790",
+    "https://en.kimuragrp.co.jp/fmc/",
+    "https://www.okuma.co.jp/news/2023_0602/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部5頁・検索5回）"
+ }
+}

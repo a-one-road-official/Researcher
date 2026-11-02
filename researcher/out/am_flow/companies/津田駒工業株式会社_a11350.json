@@ -1,0 +1,626 @@
+{
+ "name": "津田駒工業株式会社",
+ "aliases": [],
+ "context": "後処理(金属AM部品の後加工・小型加工機)；日本AM協会会員として合同展示に参加。扱い品は出典に記載なし /",
+ "researched_at": "2026-11-02T10:29:53.790282+00:00",
+ "official_url": "https://www.tsudakoma.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "繊維機械と工作用機器の製造・輸出",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "966名（平成22年11月30日現在）",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "751 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1939年12月30日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "[#IABV2_LABEL_PARTNERS#]",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "[#IABV2_BODY_PARTNERS_INTRO#]",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "[#IABV2_BODY_PARTNERS#]",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "私の個人情報を販売もしくは共有したりしないでください",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "医療IT クラウドコンサルティングサービス",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "DXコンサルティング",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナーレポート",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "3D CADの導入で設計効率を向上",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "試作レス・検品レス",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "設計者CAEにより、設計効率向上や精度アップ、工期短縮が実現し、設計担当者のスキルアップも進んだ",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "設計品質の向上、開発期間と工期の圧縮、コストダウン推進のために設計の3D化を行いたい",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "3つある工場のうち、野々市工場は工作機械の付加価値向上や5軸化に貢献するアタッチメント製品群の設計・製造・販売に一貫して取り組んでいる、アタッチメントファクトリーです",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "協力会社間の3Dデータ授受や、設計者CAEなどによる開発効率や生産性向上を実現し、さらにPDM導入によって、社内外を貫く3Dデータの流通?活用体制の確立を進めています",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデータの蓄積によってムダな作業を排除し、本来の設計業務に注力",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "3Dソリューションとは、ものづくりにおける企画・デザイン、設計、生産までの上流工程プロセスを変革・進化させるためのソリューションであり、CAD・PLM製品を活用した業務改善をご提案します",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナーレポート一覧",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー一覧",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "定期講習会・トレーニング",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "体験セミナー・ハンズオンセミナー",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "展示会・セミナー",
+    "url": "https://monoken.yamazen.co.jp/__/tags/%E6%B4%A5%E7%94%B0%E9%A7%92%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "企業などのリリースを掲載",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー情報",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "投資用教材販売業者について",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "このサイトではCookieを使って、ユーザーに合わせたコンテンツや広告の表示、トラフィックの分析を行っています",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "またユーザーによるサイトの利用状況についても情報を収集し、ソーシャルメディアや広告配信、データ解析の各パートナーに情報を共有しています",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ここで収集された情報は、ユーザーが各パートナーに提供した他の情報や各パートナーのサービスを使用した際に収集された情報と組み合わされ、各パートナーによって使用されることがあります",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "現在のドメインにおけるユーザーのCookie同意状態を保存",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設定情報Cookieは、ユーザーの優先言語やアクセス元の地域など、ウェブサイトの動作や外観に関する情報の保持に使用されます",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "統計Cookieは、ウェブサイト上でユーザーがとった行動を匿名で収集・報告するもので、ウェブサイトの品質向上に使用されます",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティングCookieは、ウェブサイト全体でユーザーをトラッキングするために使用され、ユーザーに関連性が高く興味を引く広告を表示することで、パブリッシャーやサードパーティーの広告主にとっての広告価値を高めます",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Cookieは、ユーザーがウェブサイトをより効果的に利用するための小さなテキストファイルです",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトの運営に必要不可欠なCookieはユーザーのデバイス上に保存することが法律上認められていますが、その他の種類のCookieの使用にはユーザーの許可が必要です",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例（津田駒工業株式会社様）｜導入事例｜製造業向けソリューション｜キヤノンITソリューションズ",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "お客さま導入事例",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "その性能を決定づけるアタッチメント製品を手掛ける同社では、業界を取り巻く時代変化に応えるかたちで積極的な3D化への取り組みを推進しています",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例（津田駒工業株式会社様）",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒BallDriveシステム導入事例＠MST様 - YouTube",
+    "url": "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒BallDriveシステム導入事例＠MST様",
+    "url": "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "pass": 3
+   },
+   {
+    "quote": "【9月度 業界トピック】製造業最新動向まとめ～自動化・省人化と高難度加工で競争力強化～",
+    "url": "https://monoken.yamazen.co.jp/__/tags/%E6%B4%A5%E7%94%B0%E9%A7%92%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "業界トピック",
+    "url": "https://monoken.yamazen.co.jp/__/tags/%E6%B4%A5%E7%94%B0%E9%A7%92%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる就活・業界研究",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "松井証券の口座をお持ちでないお客様",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "松井証券の口座をお持ちのお客様",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "業界最安水準の手数料でオトク",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "お持ちでないお客様",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "お持ちのお客様",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "株式は1日の約定代金が50万円以下なら手数料0円、その他商品の手数料も業界最安水準でご提供しています",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 津田駒工業 」の 代理店 186社 注目ランキング【2026年】 — 「 津田駒工業 」の 代理店 186社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 津田駒工業株式会社",
+    "url": "https://metoree.com/companies/18482/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の「 津田駒工業 」の 代理店 25社 | Metoree — 大阪府の「 津田駒工業 」の 代理店 25社 | Metoree Metoree https://metoree.com > ... > 津田駒工業の代理店",
+    "url": "https://metoree.com/companies/18482/distributors/osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "TSUDAKOMA 津田駒工業 株式会社 — TSUDAKOMA 津田駒工業 株式会社 津田駒工業株式会社 https://www.tsudakoma.co.jp",
+    "url": "https://www.tsudakoma.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品別リスト規制該非一覧表のご案内 — 製品別リスト規制該非一覧表のご案内 津田駒工業株式会社 PDF https://www.tsudakoma.co.jp > uploads > download",
+    "url": "https://www.tsudakoma.co.jp/uploads/download/DE9tSwVAA",
+    "pass": 3
+   },
+   {
+    "quote": "【出 展 機】 - 津田駒工業 — 【出 展 機】 - 津田駒工業 津田駒工業株式会社 PDF https://www.tsudakoma.co.jp > FqMJbwVAA",
+    "url": "https://www.tsudakoma.co.jp/uploads/download/FqMJbwVAA",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 （ 津田駒工業 株式会社様） — 導入事例 （ 津田駒工業 株式会社様） キヤノンITソリューションズ株式会社 https://www.canon-its.co.jp > manufacturing > case",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒工業 — 津田駒工業 ものづくり研究所 https://monoken.yamazen.co.jp > tags > 津田駒工業",
+    "url": "https://monoken.yamazen.co.jp/__/tags/%E6%B4%A5%E7%94%B0%E9%A7%92%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒工業 、「SAP S/4HANA」 導入 し基幹システムを刷新 — 津田駒工業 、「SAP S/4HANA」 導入 し基幹システムを刷新 ZDNET Japan https://japan.zdnet.com > クラウド",
+    "url": "https://japan.zdnet.com/article/35131813/",
+    "pass": 3
+   },
+   {
+    "quote": "小型加工機 TSUDAKOMA i-CUBE 津田駒工業 - イプロス — 小型加工機 TSUDAKOMA i-CUBE 津田駒工業 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 加工機械 > その他加工機械",
+    "url": "https://mono.ipros.com/product/detail/2001155313/",
+    "pass": 3
+   },
+   {
+    "quote": "【 津田駒工業 】[6217]企業概要 社員数や役員報酬・資本金 — 【 津田駒工業 】[6217]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "6217 東証スタンダード 株価： 津田駒工業 - 株式市況 - 松井証券 — 6217 東証スタンダード 株価： 津田駒工業 - 株式市況 - 松井証券 松井証券 https://finance.matsui.co.jp > stock",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒工業 （6217）の株価・業績・比較銘柄 — 津田駒工業 （6217）の株価・業績・比較銘柄 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究",
+    "url": "https://shikiho.toyokeizai.net/stocks/6217",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒工業 【6217】の株価材料ニュース,決算速報,適時開示情報 — 津田駒工業 【6217】の株価材料ニュース,決算速報,適時開示情報 株探 https://s.kabutan.jp > 津田駒工業 (6217)",
+    "url": "https://s.kabutan.jp/stocks/6217/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TCTJapan2026 出展のご案内 — TCTJapan2026 出展のご案内 津田駒工業株式会社 PDF https://www.tsudakoma.co.jp > uploads > download",
+    "url": "https://www.tsudakoma.co.jp/uploads/download/F5TXzgVAA",
+    "pass": 3
+   },
+   {
+    "quote": "コンポジット 受託 加工事業「TACS」の開始 — コンポジット 受託 加工事業「TACS」の開始 津田駒工業株式会社 PDF https://www.tsudakoma.co.jp > FNmWwQVAA",
+    "url": "https://www.tsudakoma.co.jp/uploads/download/FNmWwQVAA",
+    "pass": 3
+   },
+   {
+    "quote": "mdp-0002.pdf - 津田駒工業 — mdp-0002.pdf - 津田駒工業 津田駒工業株式会社 PDF https://www.tsudakoma.co.jp > mta > pdf > mdp-0002",
+    "url": "https://www.tsudakoma.co.jp/business/mta/showroom/pdf/mdp-0002.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞電子版 on X: \" 津田駒工業 ／金属3D 造形 後加工 ... — 日刊工業新聞電子版 on X: \" 津田駒工業 ／金属3D 造形 後加工 ... X https://x.com > @Nikkan_BizLine",
+    "url": "https://x.com/Nikkan_BizLine/status/1853779945811546614",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "高精度な加工を実現するNC円テーブルでは国内の先駆的存在として四十余年の歴史を有し、世界最大の生産量を誇っています",
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "pass": 3
+   },
+   {
+    "quote": "【工場見学】振れ精度0.001mmのスピンドルができるまで /Factory Tour How spindles with a runout accuracy of 0.001 mm are made",
+    "url": "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "pass": 3
+   },
+   {
+    "quote": "津田駒ボールドライブNC円テーブル RBS-250L,Hの搭載実例",
+    "url": "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックビルド方式のNC円テーブル/A Block-Build Concept for NC Rotary Tables",
+    "url": "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "pass": 3
+   },
+   {
+    "quote": "12,316(百万円)",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "5,348,882 円",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "204,300 円（日経会社情報調査）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "売買代金(千円)",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "1,184百万円",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "2,985百万円",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "12,129百万円",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "12,316百万円",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "12,488百万円",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "41.04円(",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "418.21円(",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "62,500円",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "100円から自動売買",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "米ドルMMF",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   },
+   {
+    "quote": "株式は1日の約定代金が50万円以下なら手数料0円、その他商品の手数料も業界最安水準でご提供しています",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "料金プラン・お申し込みはこちら",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "pass": 3
+   },
+   {
+    "quote": "ベストマッチ(約定価格改善サービス)",
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tsudakoma.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/18482/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/18482/distributors/osaka/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/__/tags/%E6%B4%A5%E7%94%B0%E9%A7%92%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.matsui.co.jp/stock/6217/index",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "津田駒工業 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/18482/distributors/",
+    "https://metoree.com/companies/18482/distributors/osaka/",
+    "https://www.tsudakoma.co.jp/",
+    "https://www.tsudakoma.co.jp/uploads/download/DE9tSwVAA",
+    "https://www.tsudakoma.co.jp/uploads/download/FqMJbwVAA",
+    "https://www.youtube.com/watch?v=fXsrefcPd1M",
+    "https://metoree.com/companies/18482/distributors/tokyo/",
+    "https://tks-eg.co.jp/contents_151.html",
+    "https://www.tsudakoma.co.jp/uploads/download/FNmWwQVAA",
+    "https://distymap.com/manufacturers/tsudakoma"
+   ]
+  },
+  {
+   "query": "津田駒工業 導入事例",
+   "results": [
+    "https://www.canon-its.co.jp/solution/industry/manufacturing/case/3d-01",
+    "https://www.youtube.com/watch?v=mksvp9FFxnI",
+    "https://monoken.yamazen.co.jp/__/tags/%E6%B4%A5%E7%94%B0%E9%A7%92%E5%B7%A5%E6%A5%AD",
+    "https://japan.zdnet.com/article/35131813/",
+    "https://mono.ipros.com/product/detail/2001155313/",
+    "https://www.youtube.com/watch?v=laoATtJ583g",
+    "https://www.tsudakoma.co.jp/download/data/foundry/mattoPlant/mattoplant.pdf",
+    "https://www.canon-its.co.jp/-/media/Project/Canon/CanonITS/home/solution/industry/manufacturing/3d/past/pdf/case01_tsudakoma.pdf?sc_lang=ja-JP&hash=CF278CBF4FFC6A410CC0E290D4F6F74E",
+    "https://www.robotsier-company.com/robot-sier/tsudakoma.html"
+   ]
+  },
+  {
+   "query": "津田駒工業 価格 OR 料金",
+   "results": [
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6217",
+    "https://www.tsudakoma.co.jp/",
+    "https://finance.matsui.co.jp/stock/6217/index",
+    "https://shikiho.toyokeizai.net/stocks/6217",
+    "https://s.kabutan.jp/stocks/6217/news/",
+    "https://www.jp.usedmachinery.bz/manufacturers/list/13285",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=6217&exchange_code=JPN",
+    "https://irbank.net/E01524",
+    "https://www.nikkei.com/nkd/company/?scode=6217",
+    "https://kabutan.jp/stock/?code=6217"
+   ]
+  },
+  {
+   "query": "津田駒工業 受託 造形",
+   "results": [
+    "https://www.tsudakoma.co.jp/uploads/download/F5TXzgVAA",
+    "https://www.tsudakoma.co.jp/uploads/download/FNmWwQVAA",
+    "https://www.tsudakoma.co.jp/business/mta/showroom/pdf/mdp-0002.pdf",
+    "https://mono.ipros.com/product/detail/2001155313/",
+    "https://x.com/Nikkan_BizLine/status/1853779945811546614",
+    "https://www.nikkan.co.jp/articles/view/727323",
+    "https://www.youtube.com/watch?v=fXsrefcPd1M",
+    "https://jsam.or.jp/member/support/",
+    "https://ja.wikipedia.org/wiki/津田駒工業",
+    "https://www.hokkoku.co.jp/articles/tym/2023382"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）"
+ }
+}

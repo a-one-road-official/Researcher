@@ -1,0 +1,746 @@
+{
+ "name": "BRULÉ（ブルレー）",
+ "aliases": [],
+ "context": "/ trinckle 3D（独）fixturemate",
+ "researched_at": "2026-11-02T10:30:44.159390+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14名",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "12名",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2006年3月28日",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "海外製3Dプリンター、スキャナ、テレプレゼンスロボットなどハードウェアの販売からメンテナンスまで一貫したサポートおよび付随する消耗品や備品などの販売を行っております。",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "販売からメンテナンスまで一貫したサポートを行います",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製3Dプリンター、スキャナ、テレプレゼンスロボットなどハードウェアの販売からメンテナンスまで一貫したサポートおよび付随する消耗品や備品などの販売を行っております",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "【オンラインセミナー開催のお知らせ】予算・品質・保守の悩みを解決する大型光造形3Dプリンタ",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回、自社で475台の3Dプリンタ運用実績を持つ株式会社Bfull様をお招きし、これらの課題を根本から解決する大型SLA（光造形）3Dプリンタ「ZRapid iSLA」の徹底解説セミナーを開催いたします",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "本セミナーでは、装置本体から初期費用・保守まで含めて「1,000万円以下」で導入できる画期的なパッケージや、後工程の磨き時間を50%削減する独自技術を、具体的な【導入事例】を交えて詳しくご紹介します",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "現場が本当に求める「品質」と、経営層が納得する「コスト・保守体制」を両立させる秘訣がわかる60分です",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "ブルレーはアメリカに本社をもち、韓国、日本にも拠点を持つ3Dプリンターの販売会社だ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "「私たちは販売会社ですが、一次店以外にはなりません",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちがお客さまにサポートも行うので、直接技術的な確認をメーカーとできない場合は販売を取りやめることもあります",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "英語で直接メーカーとやり取りできる語学力と装置に対する専門知識で実績をあげてきた同社だが、比較的廉価帯の3Dプリンターを中心に日本国内だけでもすでに累計3000台以上の販売実績があるという",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "大学と3Dプリンター販売代理店の新たな協業 ― Brule×東京大学 3D Printing Advanced Technology Center開設セレモニー",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学大学院工学系研究科附属国際工学教育推進機構ものづくり部門は、3Dプリンターや関連機器の販売と運用を行うBrule Inc.と協働で、東京大学キャンパス内 …",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【DMM.make】オフィス用3Dプリンター「Ultimaker S3」レンタルサービスキャンペーンを実施",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "DMM は、DMM.make 3Dプリント事業において、最新のテクノロジーが搭載された3Ｄプリンター「Ultimaker S3」のレンタルサービスを開始",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Dfam（3Dプリンターならでは設計）とは",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け3Dプリンターのレンタル・リースを解説",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "機器メーカー・販売 / 受託造形コンサルティング",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製3Dプリンター、スキャナ、テレプレゼンスロボットなどハードウェアの販売からメンテナンスまで一貫したサポートおよび付随する消耗品や備品などの販売を行っております",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ブルレーインクは、デスクトップ型からインダストリアル向け3Dプリンタまで、世界で支持される各方式のプリンタを各海外メーカーとの直接取引により確保し、お客様にお届けいたします",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に最高クラスの満足をご提供するため、",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "1) お客様のニーズに迅速で柔軟な対応をすること",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "2) お客様の視点に立ったサービスを提供すること",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "本セミナーでは、装置本体から初期費用・保守まで含めて「1,000万円以下」で導入できる画期的なパッケージや、後工程の磨き時間を50%削減する独自技術を、具体的な【導入事例】を交えて詳しくご紹介します",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース TOP",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "ブルレーインクは、デスクトップ型からインダストリアル向け3Dプリンタまで、世界で支持される各方式のプリンタを各海外メーカーとの直接取引により確保し、お客様にお届けいたします",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "その他テレプレゼンスロボットや3Dスキャナなど関連ハードウェアや、各消耗品なども迅速にお届けいたします",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製3Dプリンター、スキャナ、テレプレゼンスロボットなどハードウェアの販売からメンテナンスまで一貫したサポートおよび付随する消耗品や備品などの販売を行っております",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "本セミナーでは、装置本体から初期費用・保守まで含めて「1,000万円以下」で導入できる画期的なパッケージや、後工程の磨き時間を50%削減する独自技術を、具体的な【導入事例】を交えて詳しくご紹介します",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "Form 4材料または消耗品(Form 4 Resin Cartridge、Form 4 Mixer、Form 4 Resin Tank、Form 4Build Platform、Form 4 Build Platform Flex、Form 4フィニッシュキット)の購入に際し、150,000円のキャッシュバックがございます",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "気になる価格だが、850万～ということだ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "機体が複数台あるということは運用上の自由度も増すし、 10台、20台導入するとなれば価格交渉の余地も出てくるかもしれない",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "その他テレプレゼンスロボットや3Dスキャナなど関連ハードウェアや、各消耗品なども迅速にお届けいたします",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製3Dプリンター、スキャナ、テレプレゼンスロボットなどハードウェアの販売からメンテナンスまで一貫したサポートおよび付随する消耗品や備品などの販売を行っております",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "「大型機を導入したいが、1,000万円以上の社内決裁が通らない」",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "本セミナーでは、装置本体から初期費用・保守まで含めて「1,000万円以下」で導入できる画期的なパッケージや、後工程の磨き時間を50%削減する独自技術を、具体的な【導入事例】を交えて詳しくご紹介します",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "Form 4材料または消耗品(Form 4 Resin Cartridge、Form 4 Mixer、Form 4 Resin Tank、Form 4Build Platform、Form 4 Build Platform Flex、Form 4フィニッシュキット)の購入に際し、150,000円のキャッシュバックがございます",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばパウダーベッドなどの高級機は1台数千万円します",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Brule Inc. | 企業情報 | イプロスものづくりBruleが3Dプリンターのリーダー、Intamsysと日本での正規代理店契約を...BRULÉの営業所・拠点一覧 - indexProBrule Inc.｜Formlabs 3Dプリンター｜BizExpo.jp — Mar 28, 2006 · 販売からメンテナンスまで一貫したサポートを行います ブルレーインクは、デスクトップ型からインダストリアル向け3Dプリンタまで、世界で支持される各方式のプリンタを各海外メーカーとの直接取引により確保し、お客様にお届けいたします。 産業用3Dプリンターのグローバルリーダー、Intamsysと正規代理店契約を締結したブルーレが、高性能3Dプリンター「FUNMAT」シリーズの販売及び技術 ... BRULÉの全国の営業所・拠点情報。取扱いメーカーも掲載しています。indexProは日本最大の電子・",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "BRULÉの営業所・拠点一覧 - indexPro — BRULÉの全国の営業所・拠点情報。取扱いメーカーも掲載しています。indexProは日本最大の電子・産業部品検索サイトです。",
+    "url": "https://www.indexpro.co.jp/distributor/location?did=4274",
+    "pass": 3
+   },
+   {
+    "quote": "Brule - 3Dプリンタ、材料等の販売からサポートまで | Brule — Brule Inc. (ブルレー)は、卓上型から産業用まで、各方式の3Dプリンタ、フィラメントやレジン等の材料素材、アクセサリを取扱うサプライヤであり、導入相談、販売、修理メンテナンスまで一貫サポートを行っております。",
+    "url": "http://www.brule.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Brule Inc. | 企業情報 | イプロスものづくり分速10mm、光造形で会場最速の3Dプリンター現るーBRULÉ, Inc. | 業務...「エキマテ」、FORM4 および FORM4L に対応 BRULÉ, Inc.での取り扱い...国内外活用事例集： SLS方式Fuseシリーズ 金型レス小ロット量産（BRUL...【プレスリリース】「エキマテ」、FORM4 および FORM4L に対応 BRULÉ,... — Mar 28, 2006 · 本セミナーでは、装置本体から初期費用・保守まで含めて「1,000万円以下」で導入できる画期的なパッケージや、後工程の磨き時間を50%削減する独自技術を、具体的な【導入事例】を交えて詳しくご紹介します。 Feb 28, 2020 · 分速10mm、光造形で会場最速の樹脂3Dプリンターnexa3d社のNXE400を展示していたBRULÉ, Inc",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "分速10mm、光造形で会場最速の3Dプリンター現るーBRULÉ, Inc. | 業務... — Feb 28, 2020 · 分速10mm、光造形で会場最速の樹脂3Dプリンターnexa3d社のNXE400を展示していたBRULÉ, Inc.（ブルレーインク）社の黒崎氏にお話を伺った。 複数台導入することで連続生産を可能にするポテンシャルを秘めている。",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "「エキマテ」、FORM4 および FORM4L に対応 BRULÉ, Inc.での取り扱い... — BRULÉ, Inc. ィングソリューションを多くの企業、アカデミック、公的機関を含む幅広いセクターに提供しています。世界有数のトップ 3D プリンティングブランド 抱える BRULE は、お客様ニーズに合わせ最適且� � 細については、www.brule.co.jp をご覧ください。",
+    "url": "https://exmatelab.com/wp-content/uploads/2025/01/【プレスリリース】光造形3Dプリンタ用レジン材料「エキマテ」、Form4およびForm4Lに対応-BRULE-Inc.での取り扱い開始プレスリリース250128.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】「エキマテ」、FORM4 および FORM4L に対応 BRULÉ,... — BRULÉ, Inc. 2006 年に設立した BRULE Inc は、 3D プリンター、 3D プリンティングソリューションを多くの企業、アカデミック、公的機関を含む幅広いセクターに提供しています。",
+    "url": "https://exmatelab.com/news/【プレスリリース】「エキマテ」、form4-および-form4l-に/",
+    "pass": 3
+   },
+   {
+    "quote": "Brule Inc. | 企業情報 | イプロスものづくりBrule Inc.｜Formlabs 3Dプリンター｜BizExpo.jp造形サービス - Brule incBrule Inc. - ShareLab（シェアラボ）Brule×東京大学 3D Printing Advanced Technology Center開設セレモニ... — Mar 28, 2006 · 販売からメンテナンスまで一貫したサポートを行います ブルレーインクは、デスクトップ型からインダストリアル向け3Dプリンタまで、世界で支持される各方式のプリンタを各海外メーカーとの直接取引により確保し、お客様にお届けいたします。 2012年から3Dプリンターの販売を始め、卓上型から産業用までの3Dプリンター、造形用の材料、3Dスキャナー、積層造形ソフトウェア、テレプレゼンスロボットなどを扱う。 UltiMakerの日本総",
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "pass": 3
+   },
+   {
+    "quote": "Brule Inc. - ShareLab（シェアラボ） — Brule Inc. 機器メーカー・販売 / 受託造形コンサルティング ブルレーインクは、デスクトップ型からインダストリアル向け3Dプリンタまで、世界で支持される各方式のプリンタを各海外メーカーとの直接取引により確保し、お客様にお届けいたします。",
+    "url": "https://sharelab.jp/company/brule/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "大学と3Dプリンター販売代理店の新たな協業 ― Brule×東京大学 3D Printing Advanced Technology Center開設セレモニー",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月25日、Ultimaker社の3Dプリンタ―の日本総代理店であるBrule Inc.が新製品発表会にて、Ultimakerの最新機種「S7」に関す …",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://south65.jp/brule%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%80%81intamsys%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%AE%E6%AD%A3%E8%A6%8F%E4%BB%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/ja-jp/lifestyle/shopping/brule%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-intamsys%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%AE%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90-%E9%AB%98%E6%80%A7%E8%83%BD3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E8%B2%A9%E5%A3%B2-%E4%BF%9D%E5%AE%88-%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88/ar-AA1PYbLP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exmatelab.com/wp-content/uploads/2025/01/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E5%85%89%E9%80%A0%E5%BD%A23D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%AC%E3%82%B8%E3%83%B3%E6%9D%90%E6%96%99%E3%80%8C%E3%82%A8%E3%82%AD%E3%83%9E%E3%83%86%E3%80%8D%E3%80%81Form4%E3%81%8A%E3%82%88%E3%81%B3Form4L%E3%81%AB%E5%AF%BE%E5%BF%9C-BRULE-Inc.%E3%81%A7%E3%81%AE%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%84%E9%96%8B%E5%A7%8B%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9250128.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vrew.ai/ja/payment/pricepolicy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.one-line.com/ja/local-information/jp/local-charges",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://book.st-hakky.com/data-science/vrew-pricing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.brule.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2072323/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/brule/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "BRULÉ(ブルレー)",
+   "results": [
+    "https://www.facebook.com/BruleInc/",
+    "https://www.instagram.com/bruleinc/",
+    "https://x.com/BRULEINC",
+    "https://www.brule.co.jp/",
+    "https://www.brule.co.jp/about-us.html",
+    "https://mono.ipros.com/en/company/detail/2072323/",
+    "https://bizexpo.jp/companies/brule"
+   ]
+  },
+  {
+   "query": "株式会社BRULÉ(ブルレー)",
+   "results": [
+    "https://www.brule.co.jp/",
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://www.findglocal.com/JP/Taito-ku/413746768732728/Brule-Inc",
+    "https://www.brule.co.jp/about-us.html",
+    "https://ja.nc-net.or.jp/company/99161/",
+    "https://bizexpo.jp/companies/brule",
+    "https://companydata.tsujigawa.com/company2/8700150003385/"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) 株式会社",
+   "results": [
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://jp.linkedin.com/company/brulé-inc",
+    "https://www.brule.co.jp/",
+    "https://www.findglocal.com/JP/Taito-ku/413746768732728/Brule-Inc",
+    "https://www.brule.co.jp/about-us.html",
+    "https://ja.nc-net.or.jp/company/99161/",
+    "https://bizexpo.jp/companies/brule"
+   ]
+  },
+  {
+   "query": "ＢＲＵＬÉ（ブルレー）",
+   "results": [
+    "https://www.brule.co.jp/",
+    "https://www.brule.co.jp/about-us.html",
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://www.facebook.com/BruleInc/",
+    "https://bizexpo.jp/companies/brule",
+    "https://jp.linkedin.com/company/brulé-inc",
+    "https://ja.nc-net.or.jp/company/99161/"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) Japan",
+   "results": [
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://www.facebook.com/BruleInc/",
+    "https://www.linkedin.com/company/brulé-inc",
+    "http://www.brule.co.jp/",
+    "https://www.brule.co.jp/about-us.html",
+    "https://bizexpo.jp/companies/brule",
+    "https://jra.jp/JRADB/accessU.html?CNAME=pw01dud002022104758/D1"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) 日本",
+   "results": [
+    "http://www.brule.co.jp/",
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://www.findglocal.com/JP/Taito-ku/413746768732728/Brule-Inc",
+    "https://evort.jp/presenters/brule",
+    "https://www.brule.co.jp/about-us.html",
+    "https://bizexpo.jp/companies/brule",
+    "https://ja.nc-net.or.jp/company/99161/"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) K.K.",
+   "results": [
+    "https://www.instagram.com/k.brule/",
+    "https://www.youtube.com/watch?v=9XWZOk_O0P8",
+    "http://www.brule.co.jp/",
+    "https://www.brule.co.jp/about-us.html",
+    "https://brulebrand.com/collections/all",
+    "https://jra.jp/JRADB/accessU.html?CNAME=pw01dud002022104758/D1",
+    "https://www.facebook.com/BruleInc/"
+   ]
+  },
+  {
+   "query": "ブルレー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Blu-ray_Disc",
+    "https://en.wikipedia.org/wiki/Blu-ray",
+    "http://www.brule.co.jp/",
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://sakidori.co/article/227206",
+    "https://my-best.com/2340",
+    "https://fsp.hatenablog.com/entry/2025/06/08/110000",
+    "https://ja.wikipedia.org/wiki/ブルーロック"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) 代理店 契約",
+   "results": [
+    "https://south65.jp/bruleが3dプリンターのリーダー、intamsysと日本での正規代/",
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://www.msn.com/ja-jp/lifestyle/shopping/bruleが3dプリンターのリーダー-intamsysと日本での正規代理店契約を締結-高性能3dプリンターの販売-保守-サポートスタート/ar-AA1PYbLP",
+    "https://www.indexpro.co.jp/distributor/location?did=4274",
+    "http://www.brule.co.jp/",
+    "https://bizexpo.jp/companies/brule",
+    "https://www.brule.co.jp/3d-printers.html"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) 導入事例",
+   "results": [
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/brule-next3dp/",
+    "https://exmatelab.com/wp-content/uploads/2025/01/【プレスリリース】光造形3Dプリンタ用レジン材料「エキマテ」、Form4およびForm4Lに対応-BRULE-Inc.での取り扱い開始プレスリリース250128.pdf",
+    "https://exmatelab.com/news/【プレスリリース】「エキマテ」、form4-および-form4l-に/",
+    "http://www.brule.co.jp/",
+    "https://www.brule.co.jp/learn/",
+    "https://www.aperza.com/catalog/page/3183/72888/"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) 価格 OR 料金",
+   "results": [
+    "https://vrew.ai/ja/payment/pricepolicy",
+    "https://www.one-line.com/ja/local-information/jp/local-charges",
+    "https://book.st-hakky.com/data-science/vrew-pricing-guide",
+    "http://www.ccljp.com/news/surcharge/",
+    "https://www.breitling.com/jp-ja/service/service-prices/",
+    "https://morikoshi.net/commitment-color/buri-chi-color-nedan.html",
+    "https://trello.com/ja/pricing"
+   ]
+  },
+  {
+   "query": "BRULÉ(ブルレー) 受託 造形",
+   "results": [
+    "http://www.brule.co.jp/",
+    "https://mono.ipros.com/company/detail/2072323/",
+    "https://sharelab.jp/company/brule/",
+    "https://www.brule.co.jp/productivity-tools/3d-printing-service.html",
+    "https://bizexpo.jp/companies/brule",
+    "https://ja.nc-net.or.jp/company/99161/product/detail/186948/",
+    "https://www.t.u-tokyo.ac.jp/event/ev2023-04-10-001"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）",
+  "取引先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）"
+ }
+}

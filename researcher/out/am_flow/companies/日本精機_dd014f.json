@@ -1,0 +1,1410 @@
+{
+ "name": "日本精機",
+ "aliases": [],
+ "context": "JIMTOF2024 AMエリア講演（金属AMのダイカスト金型） /",
+ "researched_at": "2026-11-02T10:22:38.830132+00:00",
+ "official_url": "https://www.nippon-seiki.co.jp/",
+ "identified_by": "search:yahoo_jp:日本精機",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1946年（昭和21年）12月24日",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1946年12月24日",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "四輪車用・二輪車用・汎用計器類／OA・情報機器操作パネル／ 空調・住設機器コントローラー／高密度実装基板EMS等の製造、販売、他 四輪車用・二輪車用・汎用計器類／ OA・情報機器操作パネル／ 空調・住設機器コントローラー／ 高密度実装基板EMS等の製造、販売、他",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "label": "・事業内容",
+    "value": "インドにおけるTFT液晶モジュール等の製造、販売",
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E6%97%A5%E6%9C%AC%E7%B2%BE%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8edt%E7%A4%BE%E3%81%AB%E3%82%88%E3%82%8B%E5%90%88%E5%BC%81%E4%BC%9A%E7%A4%BE%E3%81%8C%E3%82%A4%E3%83%B3%E3%83%89/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ダイカスト金畑の設計製作、補修",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "（連結） 327,894百万円　（単独） 128,769百万円\n（2026年3月期)",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "3163億9,700万円（2025年3月期・連結）",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "（連結）13,246名 　（単独） 1,453名 （2026年3月31日現在)",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "1万3,450人（2025年3月31日現在・連結）",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "60人",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "日本精機は、車載・民生ディスプレイ製品を始めとする電子機器・メカトロニクス製品の企画・設計・開発・製造・販売を行なっております",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車販売事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 自動車販売事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 電子回路設計/製造事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機は、車載・民生ディスプレイ製品を始めとする電子機器・メカトロニクス製品の企画・設計・開発・製造・販売を行なっております",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車販売事業",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "- ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機は、車載・民生ディスプレイ製品を始めとする電子機器・メカトロニクス製品の企画・設計・開発・製造・販売を行なっております",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車販売事業",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "- 光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "- 電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "- ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "光学樹脂部品設計・製造サービス >",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "住宅設備、OA機器、FA機器等の製品を設計・製造しています",
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機は、車載・民生ディスプレイ製品を始めとする電子機器・メカトロニクス製品の企画・設計・開発・製造・販売を行なっております",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車販売事業",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "- 光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "- 電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "- ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『新潟県上場企業 IRフォーラム 2026』に参加 ～IRセミナーや製品展示を実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "アルビレックス新潟レディースとの『にいがた活性パートナー』共同企画／長岡市立日吉小学校で「キャリア教育＆サッカー体験会」を開催しました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "後付けヘッドアップディスプレイ「LumieHUD(ルミエハッド)」の新色「さくらピンク」が3月3日(火)公式オンラインショップ限定で販売開始 ―2月20日(金)より予約開始：送料無料＆プレゼント付きのキャンペーン実施―",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "後付けヘッドアップディスプレイ 「LumieHUD（ルミエハッド）」に新色「スノーホワイト」が登場 ／2025年12月8日（月）より公式オンラインショップ限定で販売開始",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "アルビレックス新潟レディースとの『にいがた活性パートナー』共同事業／長岡市立日越小学校で「キャリア教育＆サッカー体験会」を開催",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "後付けヘッドアップディスプレイ「LumieHUD（ルミエハッド）」に新色を追加 公式オンラインショップ先行販売",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・ＵＩコンサルティング事業を担う子会社「株式会社メルエＵＩ」が設立記念式典を開催 ―10/1から操業開始",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『新潟県上場企業 ＩＲフォーラム 2025』に参加 ～個人投資家へのＩＲセミナー等を実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・ＵＩコンサルティング事業へ新規参入 / 新子会社「株式会社メルエＵＩ」を設立し、ものづくりの知見を活かして新たな成長領域へ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『オートメッセin愛知』に出展します ―『Defi』メーター試作品や後付けヘッドアップディスプレイ『LumieHUD』などを展示",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "アルビレックス新潟レディースとの『にいがた活性パートナー』共同事業／長岡市立関原小学校で「キャリア教育＆サッカー体験会」を開催しました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "日精サービス(当社子会社)から「一酸化炭素チェッカー」販売サイトのお知らせ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "アルビレックス新潟レディースとの『にいがた活性パートナー』共同事業／長岡市立表町小学校で「キャリア教育＆サッカー体験会」を開催しました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『新潟県上場企業 ＩＲフォーラム 2024』に参加 ～個人投資家へのＩＲセミナー等を実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "アルビレックス新潟レディースとの『にいがた活性パートナー』共同事業／長岡市立 阪之上小学校に於いて「キャリア教育＆サッカー体験会」を開催しました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機の『角度センサー(純正品)』をネット販売開始 ～耐環境性能に優れた角度センサーをネット販売に追加ラインアップ （回転センサー･液位センサーに続き､｢角度センサー｣も）",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機は、車載・民生ディスプレイ製品を始めとする電子機器・メカトロニクス製品の企画・設計・開発・製造・販売を行なっております",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車販売事業",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "光学樹脂部品設計・製造サービス",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計 / 製造事業",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・UIコンサルティング事業",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "資本業務提携解消・業務提携への移行のお知らせ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾EDT社とインドでの合弁会社設立に合意、車載向け高精細液晶モジュール製造へ／併せて資本業務提携契約を締結",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "HKS×Defi(日本精機株式会社)、協業でコラボレーション商品を展開 ～自動車用アフターマーケットで日本を代表する２社が初提携／新企画発表は1月「TOKYO AUTO SALON」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳ･コンピュータサービス、オスポック社（新潟県十日町市）と業務提携 ～新潟県十日町市の第三セクター｢㈱オスポック｣との提携による、公共･民間向けIT事業の拡充へ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "資本業務提携解消・業務提携への移行のお知らせ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾EDT社とインドでの合弁会社設立に合意、車載向け高精細液晶モジュール製造へ／併せて資本業務提携契約を締結",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "HKS×Defi(日本精機株式会社)、協業でコラボレーション商品を展開 ～自動車用アフターマーケットで日本を代表する２社が初提携／新企画発表は1月「TOKYO AUTO SALON」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳ･コンピュータサービス、オスポック社（新潟県十日町市）と業務提携 ～新潟県十日町市の第三セクター｢㈱オスポック｣との提携による、公共･民間向けIT事業の拡充へ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "資本業務提携解消・業務提携への移行のお知らせ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾EDT社とインドでの合弁会社設立に合意、車載向け高精細液晶モジュール製造へ／併せて資本業務提携契約を締結",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "HKS×Defi(日本精機株式会社)、協業でコラボレーション商品を展開 ～自動車用アフターマーケットで日本を代表する２社が初提携／新企画発表は1月「TOKYO AUTO SALON」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳ･コンピュータサービス、オスポック社（新潟県十日町市）と業務提携 ～新潟県十日町市の第三セクター｢㈱オスポック｣との提携による、公共･民間向けIT事業の拡充へ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "資本業務提携解消・業務提携への移行のお知らせ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾EDT社とインドでの合弁会社設立に合意、車載向け高精細液晶モジュール製造へ／併せて資本業務提携契約を締結",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "HKS×Defi(日本精機株式会社)、協業でコラボレーション商品を展開 ～自動車用アフターマーケットで日本を代表する２社が初提携／新企画発表は1月「TOKYO AUTO SALON」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳ･コンピュータサービス、オスポック社（新潟県十日町市）と業務提携 ～新潟県十日町市の第三セクター｢㈱オスポック｣との提携による、公共･民間向けIT事業の拡充へ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "資本業務提携解消・業務提携への移行のお知らせ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾EDT社とインドでの合弁会社設立に合意、車載向け高精細液晶モジュール製造へ／併せて資本業務提携契約を締結",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "HKS×Defi(日本精機株式会社)、協業でコラボレーション商品を展開 ～自動車用アフターマーケットで日本を代表する２社が初提携／新企画発表は1月「TOKYO AUTO SALON」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳ･コンピュータサービス、オスポック社（新潟県十日町市）と業務提携 ～新潟県十日町市の第三セクター｢㈱オスポック｣との提携による、公共･民間向けIT事業の拡充へ",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "Creating Safety by Connecting People & Vehicle Ubiquitous Safety Total Solution Partner",
+    "url": "https://www.nippon-seiki.co.jp/pdf/corp_pp2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "雪印メグミルクは自社開発DXで「もう疑わない」生産現場へ、年間2000時間削減",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html",
+    "pass": 3
+   },
+   {
+    "quote": "PARTNERS",
+    "url": "https://www.nihon-seiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "外段取りの効率性向上 ダイカスト金型を手掛ける七宝金型工業（愛知県津島市、0567・24・8787）は昨年発売した自社製品の精密ジャッキ『EASYG（イージグ）』の第2段を開発",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "2026年度入社式 社長メッセージ ～「自動車業界の大変革期の中で、挑戦を恐れず柔軟に対応を」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機、建設DXに本格参入－マシンガイダンス『Holfee 3D』、2/21受注開始 ―後付けセンサと業界初の測量アプリ連携で、小型ショベルのDX化を推進―",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "【受賞】中国・杭州の『EAC2025貿易自動車産業展示会』でヘッドアップディスプレイ表示技術(Slope-HUD)が『業界リーダー賞』 ／ 基調講演も実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年5月23日発売 ／新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 新入社員への社長メッセージ ～自動車業界の変革期をチャンスに／交通事故防止への貢献に向けて～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年2月下旬発売 / 新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『建設･測量生産性向上展（CSPI-EXPO 2023）』に初出展します［5/24～26･幕張メッセ］〜建設･土木業界で国内最大級の専門展示会に､中小型ショベル用2D簡易マシンガイダンス『Holfee(ホルフィー)』出展",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Honda Cars 長岡『燕三条店』の地鎮祭を執り行いました ～Hondaの新しい店舗デザインコンセプトを採り入れ、お客様との“絆”をより強く",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『Holfee』2D簡易マシンガイダンス ～先行量産品を数量限定で12月発売開始へ／業界関係者に対して､現場での地面掘削体験会を開催",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド 新ヘッドアップディスプレイ工場“オープニングセレモニー”を実施／地域の方々､お客様をお招きし､環境にやさしく(再エネ使用100％) 高いクリーンレベルの新工場を お披露目",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニショベル向け ガイダンスシステム『Holfee/ホルフィー』 ～建設業界紙様より取材を受け､紹介されました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニショベル向け ガイダンスシステム『Holfee/ホルフィー』を開発 ～建設業界の熟練技術の継承に一役",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に「安心と感動」をお届けしたい",
+    "url": "https://www.nippon-seiki.co.jp/business_ic/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の様々なご要望にお応えします",
+    "url": "https://www.nippon-seiki.co.jp/business_ic/",
+    "pass": 1
+   },
+   {
+    "quote": "また同じ品質の拠点をグローバルに展開しているため、お客様の海外進出等の多様なニーズに柔軟にお応えします",
+    "url": "https://www.nippon-seiki.co.jp/business_ic/",
+    "pass": 1
+   },
+   {
+    "quote": "リンクメーターやマルチデジタルディスプレイなど、エンドユーザー様向けの後付け製品を開発しています",
+    "url": "https://www.nippon-seiki.co.jp/business_ic/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のトータルソリューションパートナーとして",
+    "url": "https://www.nippon-seiki.co.jp/business_ec/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのパートナーシップの下、当社が培ってきた“すり合わせ技術”をご提供し、効率的かつスムーズなものづくりをトータルサポートいたします",
+    "url": "https://www.nippon-seiki.co.jp/business_ec/",
+    "pass": 1
+   },
+   {
+    "quote": "車載事業で培った技術力と一貫したプロセスで設計から製造までお客様の様々なご要望にグローバル規模でお応えし、高品質、高性能、高信頼性の安心のものづくりをご提供します",
+    "url": "https://www.nippon-seiki.co.jp/business_ec/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にご満足いただけるようなお店づくりを心がけております",
+    "url": "https://www.nippon-seiki.co.jp/business_cs/",
+    "pass": 1
+   },
+   {
+    "quote": "県内16店舗のネットワークでお客様をサポートします",
+    "url": "https://www.nippon-seiki.co.jp/business_cs/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に気持ち良くご利用いただけるよう全力でサポートします",
+    "url": "https://www.nippon-seiki.co.jp/business_cs/",
+    "pass": 1
+   },
+   {
+    "quote": "中古車から新車まで幅広いラインナップからお客様にぴったりの1台を提案し、",
+    "url": "https://www.nippon-seiki.co.jp/business_cs/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のカーライフをもっと楽しくもっと素敵になるようお手伝いをしていきます",
+    "url": "https://www.nippon-seiki.co.jp/business_cs/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望にお応えするのはもちろんのこと、",
+    "url": "https://www.nippon-seiki.co.jp/business_gb/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界で培った物流・倉庫管理ノウハウを発展させ、",
+    "url": "https://www.nippon-seiki.co.jp/business_gb/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度入社式 社長メッセージ ～「自動車業界の大変革期の中で、挑戦を恐れず柔軟に対応を」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機、建設DXに本格参入－マシンガイダンス『Holfee 3D』、2/21受注開始 ―後付けセンサと業界初の測量アプリ連携で、小型ショベルのDX化を推進―",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "【受賞】中国・杭州の『EAC2025貿易自動車産業展示会』でヘッドアップディスプレイ表示技術(Slope-HUD)が『業界リーダー賞』 ／ 基調講演も実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年5月23日発売 ／新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 新入社員への社長メッセージ ～自動車業界の変革期をチャンスに／交通事故防止への貢献に向けて～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年2月下旬発売 / 新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "『建設･測量生産性向上展（CSPI-EXPO 2023）』に初出展します［5/24～26･幕張メッセ］〜建設･土木業界で国内最大級の専門展示会に､中小型ショベル用2D簡易マシンガイダンス『Holfee(ホルフィー)』出展",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "Honda Cars 長岡『燕三条店』の地鎮祭を執り行いました ～Hondaの新しい店舗デザインコンセプトを採り入れ、お客様との“絆”をより強く",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "『Holfee』2D簡易マシンガイダンス ～先行量産品を数量限定で12月発売開始へ／業界関係者に対して､現場での地面掘削体験会を開催",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド 新ヘッドアップディスプレイ工場“オープニングセレモニー”を実施／地域の方々､お客様をお招きし､環境にやさしく(再エネ使用100％) 高いクリーンレベルの新工場を お披露目",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニショベル向け ガイダンスシステム『Holfee/ホルフィー』 ～建設業界紙様より取材を受け､紹介されました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニショベル向け ガイダンスシステム『Holfee/ホルフィー』を開発 ～建設業界の熟練技術の継承に一役",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度入社式 社長メッセージ ～「自動車業界の大変革期の中で、挑戦を恐れず柔軟に対応を」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機、建設DXに本格参入－マシンガイダンス『Holfee 3D』、2/21受注開始 ―後付けセンサと業界初の測量アプリ連携で、小型ショベルのDX化を推進―",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "【受賞】中国・杭州の『EAC2025貿易自動車産業展示会』でヘッドアップディスプレイ表示技術(Slope-HUD)が『業界リーダー賞』 ／ 基調講演も実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年5月23日発売 ／新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 新入社員への社長メッセージ ～自動車業界の変革期をチャンスに／交通事故防止への貢献に向けて～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年2月下旬発売 / 新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "『建設･測量生産性向上展（CSPI-EXPO 2023）』に初出展します［5/24～26･幕張メッセ］〜建設･土木業界で国内最大級の専門展示会に､中小型ショベル用2D簡易マシンガイダンス『Holfee(ホルフィー)』出展",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "Honda Cars 長岡『燕三条店』の地鎮祭を執り行いました ～Hondaの新しい店舗デザインコンセプトを採り入れ、お客様との“絆”をより強く",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "『Holfee』2D簡易マシンガイダンス ～先行量産品を数量限定で12月発売開始へ／業界関係者に対して､現場での地面掘削体験会を開催",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド 新ヘッドアップディスプレイ工場“オープニングセレモニー”を実施／地域の方々､お客様をお招きし､環境にやさしく(再エネ使用100％) 高いクリーンレベルの新工場を お披露目",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニショベル向け ガイダンスシステム『Holfee/ホルフィー』 ～建設業界紙様より取材を受け､紹介されました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニショベル向け ガイダンスシステム『Holfee/ホルフィー』を開発 ～建設業界の熟練技術の継承に一役",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度入社式 社長メッセージ ～「自動車業界の大変革期の中で、挑戦を恐れず柔軟に対応を」～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精機、建設DXに本格参入－マシンガイダンス『Holfee 3D』、2/21受注開始 ―後付けセンサと業界初の測量アプリ連携で、小型ショベルのDX化を推進―",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "【受賞】中国・杭州の『EAC2025貿易自動車産業展示会』でヘッドアップディスプレイ表示技術(Slope-HUD)が『業界リーダー賞』 ／ 基調講演も実施",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年5月23日発売 ／新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 新入社員への社長メッセージ ～自動車業界の変革期をチャンスに／交通事故防止への貢献に向けて～",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け簡単な後付けヘッドアップディスプレイ LumieHUD（ルミエハッド）2025年2月下旬発売 / 新たなユーザー層へのHUD普及を目指して",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "『建設･測量生産性向上展（CSPI-EXPO 2023）』に初出展します［5/24～26･幕張メッセ］〜建設･土木業界で国内最大級の専門展示会に､中小型ショベル用2D簡易マシンガイダンス『Holfee(ホルフィー)』出展",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "Honda Cars 長岡『燕三条店』の地鎮祭を執り行いました ～Hondaの新しい店舗デザインコンセプトを採り入れ、お客様との“絆”をより強く",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "『Holfee』2D簡易マシンガイダンス ～先行量産品を数量限定で12月発売開始へ／業界関係者に対して､現場での地面掘削体験会を開催",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "ポーランド 新ヘッドアップディスプレイ工場“オープニングセレモニー”を実施／地域の方々､お客様をお招きし､環境にやさしく(再エネ使用100％) 高いクリーンレベルの新工場を お披露目",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「日本ライセンス協会」年次大会で知的財産部が基調講演／テーマは､ヘッドアップディスプレイと知財活動",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学への“サブスク･カーシェア”一周年記念『Share We Go！』～カーステーション新潟 × 長岡造形大生による 本格デザインコンペでロゴマーク決定！",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "「CO2 Lamp アルビモデル」Ｊ１昇格＆Ｊ２優勝記念キャンペーン［日精サービス］ ～Website限定：キャンペーン価格販売 ＆ 売上の一部をアルビ新選手寮建設支援募金に寄付（10/21～11/9）",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学へ､カーシェア･サービスをご提供 ～カーステーション新潟による､学生への新しい生活提案／ＣＡＳＥ時代､クルマをリーズナブルにサブスクでシェア",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ライセンス協会」年次大会で知的財産部が基調講演／テーマは､ヘッドアップディスプレイと知財活動",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学への“サブスク･カーシェア”一周年記念『Share We Go！』～カーステーション新潟 × 長岡造形大生による 本格デザインコンペでロゴマーク決定！",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "「CO2 Lamp アルビモデル」Ｊ１昇格＆Ｊ２優勝記念キャンペーン［日精サービス］ ～Website限定：キャンペーン価格販売 ＆ 売上の一部をアルビ新選手寮建設支援募金に寄付（10/21～11/9）",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学へ､カーシェア･サービスをご提供 ～カーステーション新潟による､学生への新しい生活提案／ＣＡＳＥ時代､クルマをリーズナブルにサブスクでシェア",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ライセンス協会」年次大会で知的財産部が基調講演／テーマは､ヘッドアップディスプレイと知財活動",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学への“サブスク･カーシェア”一周年記念『Share We Go！』～カーステーション新潟 × 長岡造形大生による 本格デザインコンペでロゴマーク決定！",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "「CO2 Lamp アルビモデル」Ｊ１昇格＆Ｊ２優勝記念キャンペーン［日精サービス］ ～Website限定：キャンペーン価格販売 ＆ 売上の一部をアルビ新選手寮建設支援募金に寄付（10/21～11/9）",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学へ､カーシェア･サービスをご提供 ～カーステーション新潟による､学生への新しい生活提案／ＣＡＳＥ時代､クルマをリーズナブルにサブスクでシェア",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ライセンス協会」年次大会で知的財産部が基調講演／テーマは､ヘッドアップディスプレイと知財活動",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学への“サブスク･カーシェア”一周年記念『Share We Go！』～カーステーション新潟 × 長岡造形大生による 本格デザインコンペでロゴマーク決定！",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "「CO2 Lamp アルビモデル」Ｊ１昇格＆Ｊ２優勝記念キャンペーン［日精サービス］ ～Website限定：キャンペーン価格販売 ＆ 売上の一部をアルビ新選手寮建設支援募金に寄付（10/21～11/9）",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学へ､カーシェア･サービスをご提供 ～カーステーション新潟による､学生への新しい生活提案／ＣＡＳＥ時代､クルマをリーズナブルにサブスクでシェア",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "「日本ライセンス協会」年次大会で知的財産部が基調講演／テーマは､ヘッドアップディスプレイと知財活動",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学への“サブスク･カーシェア”一周年記念『Share We Go！』～カーステーション新潟 × 長岡造形大生による 本格デザインコンペでロゴマーク決定！",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "「CO2 Lamp アルビモデル」Ｊ１昇格＆Ｊ２優勝記念キャンペーン［日精サービス］ ～Website限定：キャンペーン価格販売 ＆ 売上の一部をアルビ新選手寮建設支援募金に寄付（10/21～11/9）",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "長岡造形大学へ､カーシェア･サービスをご提供 ～カーステーション新潟による､学生への新しい生活提案／ＣＡＳＥ時代､クルマをリーズナブルにサブスクでシェア",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "5台のVPSを使うとなると費用が跳ね上がることや、VMwareのライセンス料の値上げもあり将来のコストの見通しが立ちにくく、VPSのスペックアップは断念しました",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを取ったところ、金額的にも予算を大きく超過することがなかったため、IIJにWebサーバ移行と運用を依頼することにしました",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求・見積依頼もお気軽に",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの中でも金属の粉末やフィラメントとの混合素材を用いるものを「金属3Dプリンター」と呼びます",
+    "url": "https://www.nihon-seiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料について",
+    "url": "https://www.nihon-seiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末の溶融と凝固時に、凝固部と周囲の収縮差で引張残留応力が発生する",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "配送料金改定のお知らせ",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展し、スロープ表示方式のHUDや円形TFT2眼メータなどを展示 ～ご来場ありがとうございました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展します －スロープ表示ヘッドアップディスプレイや円形TFTメータなど、安全・快適な運転に貢献する最新技術を展示－",
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "pass": 1
+   },
+   {
+    "quote": "14,494百万円（2026年3月31日現在）",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "（連結） 327,894百万円 （単独） 128,769百万円",
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展し、スロープ表示方式のHUDや円形TFT2眼メータなどを展示 ～ご来場ありがとうございました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展します －スロープ表示ヘッドアップディスプレイや円形TFTメータなど、安全・快適な運転に貢献する最新技術を展示－",
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展し、スロープ表示方式のHUDや円形TFT2眼メータなどを展示 ～ご来場ありがとうございました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展します －スロープ表示ヘッドアップディスプレイや円形TFTメータなど、安全・快適な運転に貢献する最新技術を展示－",
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展し、スロープ表示方式のHUDや円形TFT2眼メータなどを展示 ～ご来場ありがとうございました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展します －スロープ表示ヘッドアップディスプレイや円形TFTメータなど、安全・快適な運転に貢献する最新技術を展示－",
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展し、スロープ表示方式のHUDや円形TFT2眼メータなどを展示 ～ご来場ありがとうございました",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "『人とくるまのテクノロジー展2026 YOKOHAMA』に出展します －スロープ表示ヘッドアップディスプレイや円形TFTメータなど、安全・快適な運転に貢献する最新技術を展示－",
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金：144億9,400万円（2025年3月31日現在）",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：3163億9,700万円（2025年3月期・連結）",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機が配電事業を分離、ABBに824億円で譲渡しアジア太平洋展開",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html",
+    "pass": 3
+   },
+   {
+    "quote": "「段取替えなどを減らすことによって、1本レーザーでは200万円以上かかっていたコストを150万円程度まで下げることができた」という",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の需要拡大受け超硬金型が好調 冨士ダイスの2021年4‐12月期連結決算は、売上高が125億5400万円（前年同期比22.7%増）、当期純利益が8億1900万円（前年同期比244.9%増）と増収増益となった",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "¥25,300(税込)",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 日本精機 」の 代理店 21社 注目ランキング【2026年】| Metoree — 「 日本精機 」の 代理店 21社 注目ランキング【2026年】| Metoree Metoree https://metoree.com > 会社一覧 > 日本精機株式会社",
+    "url": "https://metoree.com/companies/11445/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 株式会社|企業情報|グループ会社 — 日本精機 株式会社|企業情報|グループ会社 日本精機株式会社 https://www.nippon-seiki.co.jp > corp_group",
+    "url": "https://www.nippon-seiki.co.jp/corp_group/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 の物流子会社、北関東営業所を設立 — 日本精機 の物流子会社、北関東営業所を設立 日本精機株式会社 https://www.nippon-seiki.co.jp > topics > news",
+    "url": "https://www.nippon-seiki.co.jp/topics/news",
+    "pass": 3
+   },
+   {
+    "quote": "2021年9月 - 日本精機 — 2021年9月 - 日本精機 日本精機株式会社 https://www.nippon-seiki.co.jp > 2021/09",
+    "url": "https://www.nippon-seiki.co.jp/2021/09/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 株式会社様の 導入事例 - IIJ — 日本精機 株式会社様の 導入事例 - IIJ インターネットイニシアティブ-IIJ https://www.iij.ad.jp > svcsol > case > nippon-seiki",
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 がAI搭載サプライチェーン基盤を採用 - MONOist — 日本精機 がAI搭載サプライチェーン基盤を採用 - MONOist MONOist https://monoist.itmedia.co.jp > articles > news025",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 グループについて | 会社情報 — 日本精機 グループについて | 会社情報 株式会社ＮＳ・コンピュータサービス https://nscs.jp > company > group",
+    "url": "https://nscs.jp/company/group/",
+    "pass": 3
+   },
+   {
+    "quote": "本間道路株式会社| 導入事例 |2D簡易マシンガイダンス - Holfee — 本間道路株式会社| 導入事例 |2D簡易マシンガイダンス - Holfee 日本精機株式会社 https://holfee2d.nippon-seiki.co.jp > 2025/02/10",
+    "url": "https://holfee2d.nippon-seiki.co.jp/2025/02/10/4212",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 株式会社|サステナビリティ|環境への取り組み — 日本精機 株式会社|サステナビリティ|環境への取り組み 日本精機株式会社 https://www.nippon-seiki.co.jp > sustaina_en",
+    "url": "https://www.nippon-seiki.co.jp/sustaina_en/",
+    "pass": 3
+   },
+   {
+    "quote": "後付けヘッドアップディスプレイ ｢LumieHUD｣ 発売日決定の ... — 後付けヘッドアップディスプレイ ｢LumieHUD｣ 発売日決定の ... 日本精機株式会社 https://www.nippon-seiki.co.jp > top_news_cat_g",
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E5%BE%8C%E4%BB%98%E3%81%91%E3%83%98%E3%83%83%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-%EF%BD%A2lumiehud%EF%BD%A3-%E7%99%BA%E5%A3%B2%E6%97%A5%E6%B1%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 株式会社 2026 年 3 月期 中間期 決算説明会 書き ... — 日本精機 株式会社 2026 年 3 月期 中間期 決算説明会 書き ... 日本精機株式会社 PDF https://www.nippon-seiki.co.jp > uploads",
+    "url": "https://www.nippon-seiki.co.jp/wp-content/uploads/4c2f6211fadee739fb3ba381f44947cd.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 株式会社|事業内容|車載部品事業 — 日本精機 株式会社|事業内容|車載部品事業 日本精機株式会社 https://www.nippon-seiki.co.jp > business_ic",
+    "url": "https://www.nippon-seiki.co.jp/business_ic/",
+    "pass": 3
+   },
+   {
+    "quote": "「車用メーター 日本精機 」の人気商品一覧・ 価格 比較 — 「車用メーター 日本精機 」の人気商品一覧・ 価格 比較 価格.com https://search.kakaku.com > 車用メーター 日本精機",
+    "url": "https://search.kakaku.com/%E8%BB%8A%E7%94%A8%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%20%E6%97%A5%E6%9C%AC%E7%B2%BE%E6%A9%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 日本精機 Nihonseiki Co.,LTD. | ダイキャスト金型の ... — 株式会社 日本精機 Nihonseiki Co.,LTD. | ダイキャスト金型の ... nihon-seiki.jp https://www.nihon-seiki.jp",
+    "url": "https://www.nihon-seiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "産学連携授業で新たな製品アイデアを学生たちが ... - 日本精機 — 産学連携授業で新たな製品アイデアを学生たちが ... - 日本精機 日本精機株式会社 https://www.nippon-seiki.co.jp > top_news_cat_g > 産学...",
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E7%94%A3%E5%AD%A6%E9%80%A3%E6%90%BA%E6%8E%88%E6%A5%AD%E3%81%A7%E6%96%B0%E3%81%9F%E3%81%AA%E8%A3%BD%E5%93%81%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%9F%E3%81%A1%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機 大型積層 造形 でコスト削減【金型の底力】 — 日本精機 大型積層 造形 でコスト削減【金型の底力】 金型新聞社 https://kanagata-shimbun.com > 202508-nihonseiki-soko...",
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月 - 日本精機 — 2023年4月 - 日本精機 日本精機株式会社 https://www.nippon-seiki.co.jp > 2023/04",
+    "url": "https://www.nippon-seiki.co.jp/2023/04/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月 - 日本精機 — 2022年5月 - 日本精機 日本精機株式会社 https://www.nippon-seiki.co.jp > 2022/05",
+    "url": "https://www.nippon-seiki.co.jp/2022/05/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nippon-seiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/corp_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/corp_history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/business_ic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/business_ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/business_cs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/business_gb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/news_all2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/news_all2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/news_all2023/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/news_all2022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E3%80%8E%E3%82%AB%E3%83%96%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%86%E3%81%8A%E3%81%AC%E3%81%BE2026%E3%80%8F%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E3%80%8E%E5%8D%B1%E6%A9%9F%E7%AE%A1%E7%90%86%E7%94%A3%E6%A5%AD%E5%B1%952026%E3%80%8F%E3%81%B8%E5%87%BA%E5%B1%95-%EF%BD%9E%E3%81%94%E6%9D%A5%E5%A0%B4%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E6%97%A5%E6%9C%AC%E7%B2%BE%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8edt%E7%A4%BE%E3%81%AB%E3%82%88%E3%82%8B%E5%90%88%E5%BC%81%E4%BC%9A%E7%A4%BE%E3%81%8C%E3%82%A4%E3%83%B3%E3%83%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_b/%E3%80%8Ctopix%EF%BC%88%E6%9D%B1%E8%A8%BC%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0%EF%BC%89%E3%80%8D%E6%A7%8B%E6%88%90%E9%8A%98%E6%9F%84%E9%81%B8%E5%AE%9A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/top_news_cat_g/%E3%82%A2%E3%83%AB%E3%83%93%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E6%96%B0%E6%BD%9F%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%E5%85%B1%E5%90%8C%E4%BA%8B%E6%A5%AD%EF%BC%8F%E9%95%B7%E5%B2%A1%E5%B8%82/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/news_all2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nippon-seiki.co.jp/pdf/corp_pp2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/wp-content/uploads/ef5853677ff99754efba9f9480253aed.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_top_cont02_th04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_top_h3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-seiki.co.jp/img/corp_history_cont01_th08.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/11445/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5659",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nscs.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-seiki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本精機",
+   "results": [
+    "https://www.nippon-seiki.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B2%BE%E6%A9%9F",
+    "https://www.nihon-seiki.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "https://www.nikkei.com/nkd/company/?scode=7287",
+    "https://ja.wikipedia.org/wiki/日本精機",
+    "https://www.nippon-seiki.co.jp/corp_profile/",
+    "https://finance.yahoo.co.jp/quote/7287.T",
+    "https://nihon-seiki.co.jp/info.html",
+    "https://global.nippon-seiki.co.jp/"
+   ]
+  },
+  {
+   "query": "日本精機 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/11445/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5659",
+    "https://www.nippon-seiki.co.jp/corp_group/",
+    "https://www.nippon-seiki.co.jp/topics/news",
+    "https://www.nippon-seiki.co.jp/2021/09/",
+    "https://metoree.com/companies/474/distributors/",
+    "https://www.nippon-seiki.co.jp/privacy/",
+    "https://www.edtc.com/ja/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%97%E3%83%AC%E3%82%B9/%E6%97%A5%E6%9C%AC%E7%B2%BE%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8%E3%81%AE%E8%A6%9A%E6%9B%B8%E7%B7%A0%E7%B5%90/",
+    "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "https://distymap.com/manufacturers/nsk"
+   ]
+  },
+  {
+   "query": "日本精機 導入事例",
+   "results": [
+    "https://www.iij.ad.jp/svcsol/case/nippon-seiki.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html",
+    "https://nscs.jp/company/group/",
+    "https://holfee2d.nippon-seiki.co.jp/2025/02/10/4212",
+    "https://www.nippon-seiki.co.jp/sustaina_en/",
+    "https://www.nihon-seiki.jp/case.html",
+    "https://www.shimaseiki.co.jp/product/case/",
+    "https://www.nippon-seiki.co.jp/sustaina_sc/",
+    "https://aconnect.stockmark.co.jp/cases/nipponseiki/",
+    "https://www.nihon-seiki.jp/"
+   ]
+  },
+  {
+   "query": "日本精機 価格 OR 料金",
+   "results": [
+    "https://www.nippon-seiki.co.jp/top_news_cat_g/%E5%BE%8C%E4%BB%98%E3%81%91%E3%83%98%E3%83%83%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-%EF%BD%A2lumiehud%EF%BD%A3-%E7%99%BA%E5%A3%B2%E6%97%A5%E6%B1%BA/",
+    "https://www.nippon-seiki.co.jp/wp-content/uploads/4c2f6211fadee739fb3ba381f44947cd.pdf",
+    "https://www.nippon-seiki.co.jp/sustaina_en/",
+    "https://www.nippon-seiki.co.jp/business_ic/",
+    "https://search.kakaku.com/%E8%BB%8A%E7%94%A8%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%20%E6%97%A5%E6%9C%AC%E7%B2%BE%E6%A9%9F/",
+    "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "https://www.marklines.com/ja/top500/nippon-seiki",
+    "https://www.nippon-seiki.co.jp/wp-content/uploads/ir_260828.pdf",
+    "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_260702_nippon-seiki.pdf",
+    "https://www.nippon-seiki.co.jp/"
+   ]
+  },
+  {
+   "query": "日本精機 受託 造形",
+   "results": [
+    "https://www.nihon-seiki.jp/",
+    "https://www.nippon-seiki.co.jp/top_news_cat_g/%E7%94%A3%E5%AD%A6%E9%80%A3%E6%90%BA%E6%8E%88%E6%A5%AD%E3%81%A7%E6%96%B0%E3%81%9F%E3%81%AA%E8%A3%BD%E5%93%81%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%9F%E3%81%A1%E3%81%8C/",
+    "https://kanagata-shimbun.com/202508-nihonseiki-sokodikara/",
+    "https://www.nippon-seiki.co.jp/2023/04/",
+    "https://www.nippon-seiki.co.jp/2022/05/",
+    "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "https://www.nippon-seiki.co.jp/",
+    "https://www.marklines.com/ja/top500/nippon-seiki",
+    "https://www.youtube.com/watch?v=EI5sfOadh9k",
+    "https://www.nihon-seiki.jp/am.html"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部7頁・検索5回）"
+ }
+}

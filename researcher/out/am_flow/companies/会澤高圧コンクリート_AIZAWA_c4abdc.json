@@ -1,0 +1,905 @@
+{
+ "name": "会澤高圧コンクリート（AIZAWA）",
+ "aliases": [],
+ "context": "コンクリート3Dプリンター c3DP の開発（Formnext Forum Tokyo 2023で講演） /",
+ "researched_at": "2026-11-02T10:18:17.886407+00:00",
+ "official_url": "https://www.aizawa-group.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和10年4月",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和38年10月1日",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "創業年月",
+    "value": "1935年10月",
+    "url": "https://www.todariyukai.com/member/4270/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "580名（令和8年6月現在）",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "640名",
+    "url": "https://www.todariyukai.com/member/4270/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（単体）",
+    "value": "185億円(令和7年12月期)※",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "生コン事業、プレキャスト事業、基礎地盤事業、ハウジング事業、AI・IoT事業、環境マテリアル事業",
+    "url": "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "確かな設計力で多様なニーズにお応えします",
+    "url": "https://www.aizawa-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "確かな設計力で多様なニーズにお応えします",
+    "url": "https://www.aizawa-group.co.jp/business-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "北海道の過酷な環境で培った高耐久なコンクリート配合設計技術は、",
+    "url": "https://www.aizawa-group.co.jp/business-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "100年の高耐久設計されたプレキャストコンクリート部材で構成されるスケルトン住宅こそ、",
+    "url": "https://www.aizawa-group.co.jp/business-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "当プレスリリース及び関係する画像ファイルなどはこちらからダウンロードいただけます",
+    "url": "https://www.aizawa-group.co.jp/news2025092501/",
+    "pass": 1
+   },
+   {
+    "quote": "■本プレスリリースの問い合わせ先",
+    "url": "https://www.aizawa-group.co.jp/news2025092501/",
+    "pass": 1
+   },
+   {
+    "quote": "柔軟な設計と施工性",
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "pass": 1
+   },
+   {
+    "quote": "1m×1mの標準サイズを基本に、自由な設計が可能です",
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい設計",
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "pass": 1
+   },
+   {
+    "quote": "当プレスリリース及び関係する画像ファイルなどはこちらからダウンロードいただけます",
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "pass": 1
+   },
+   {
+    "quote": "（本プレスリリースの問い合わせ先）",
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "pass": 1
+   },
+   {
+    "quote": "（本プレスリリースのお問い合わせ先）",
+    "url": "https://www.aizawa-group.co.jp/news2026102701/",
+    "pass": 1
+   },
+   {
+    "quote": "PC建築において、設計から部材生産、物流、施工まで一貫したデジタル管理手法を、実証フィールドを舞台に実用化します",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "SYNCWORLD下では、製造されたPC部材も全て位置情報管理が行われ、設計との誤差の確認、工事進捗状況の確認などをMR(複合現実)や犬型ロボットなどを駆使しながら行えます",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "※本プレスリリースのPDFはこちら⇒",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "当プレスリリースに関係する画像ファイルなどはこちらからダウンロードいただけます",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "※本件に関するプレスリリース：",
+    "url": "https://www.aizawa-group.co.jp/news2021082402/",
+    "pass": 1
+   },
+   {
+    "quote": "本件ニュースリリース（PDF）への直リンクは⇒",
+    "url": "https://www.aizawa-group.co.jp/news2021090901/",
+    "pass": 1
+   },
+   {
+    "quote": "これは開発の第2フェーズとなる自由設計による蓄電ハウジング開発、並びに第3フェーズの戸建住宅向け蓄電開発事業のいずれにも共通する基盤技術となります",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "蓄電容量が300Wh/m³、100V級の出力を持つ蓄電コンクリート1m³スケールの標準ユニットを試作し、製造性・施工性・耐久性・充放電性能などの観点から、蓄電コンクリートの実用性を評価します",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "自由設計による蓄電ハウジング開発",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリートは金型に依存した規格量産品とは異なり、用途や使用箇所に合わせてサイズや形状を自由に設計できる利点があります",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "多様なデザインに対応するため、コンクリート3Dプリンターを活用した自由形状ハウジング（蓄電コンクリートの外装）の設計・施工方法を検証し、意匠性・施工性・耐久性を備えた商品化を目指します",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "自由設計による蓄電ハウジング 実証実験イメージ",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "当プレスリリース及び関係する画像ファイルなどはこちらからダウンロードいただけます",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "（本プレスリリースの問い合わせ先）",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート内部に配合したコンクリート分解微生物を予め設計したトリ",
+    "url": "https://www.aizawa-group.co.jp/home/wp-content/uploads/2025/11/AIZAWA_CompanyProfile2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同じ設計思想を持つサービス付き",
+    "url": "https://www.aizawa-group.co.jp/home/wp-content/uploads/2025/11/AIZAWA_CompanyProfile2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "運用保守・故障紛失サポート",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・セミナー",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "開催・出展する各種セミナー、イベント情報をご紹介します",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "運用・保守にかかる稼働を軽減し、開発業務に集中できる環境を実現",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "PBXやビジネスホンのクラウド化により設備・保守コストを削減し、スマートフォンやPCなど多様なデバイスでロケーションを問わず無料で内線電話を利用できるサービスだ",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "生コン、コンクリート製品の製造・販売に加え、従来にはない新製品・工法を積極的に開発",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "型枠から解放されることで、試作と修正を繰り返しながら、用途や現場に合わせた形を追求できる",
+    "url": "https://www.aizawa-c3dp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "設計力 × 材料・配合力 × 施工力 × 適応力",
+    "url": "https://www.aizawa-c3dp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアから試作、検証、修正まで",
+    "url": "https://www.aizawa-c3dp.com/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "63,900,000円",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "185億円(令和7年12月期)※",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "241億円(令和7年3月期)",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "232億円(令和6年3月期)",
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "円型水路 Ⅰ型・Ⅱ型・Ⅲ型",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "円型水路 Ⅴ型・都市型・桝",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "円型水路 スリット溝",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "円型水路・アーバンロード用 グレーチング蓋",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニホール0号～4号（円形）",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーホール1号～4号（円形）",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "マンホール（旭川市型）1号（円型）",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "マンホール（北見市型）2号～4号（円型）",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "人孔（北海道開発局型）Ⅰ型・Ⅱ型・Ⅲ型（円型）",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "汚水桝 防衛省（円型700）",
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "札幌市は世界でも有数の積雪寒冷都市であり、令和6年度の雪対策費は約278億円に上り、ここ10年間で約1.5倍に増加しています",
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期の売上高（単体）は185億円",
+    "url": "https://www.aizawa-group.co.jp/news2026102701/",
+    "pass": 1
+   },
+   {
+    "quote": "総工費30億円 研究棟はフルPC構造 脱炭素化へアクセル",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "総工費はおよそ30億円",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "総工費は試験設備等を含めておよそ30億円",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "このうち3分の2に相当する約20億円について、先に提出していた補助金交付申請が8月11日正式採択されたことから、自己資金を総投資額の3分の1の10億円に抑える形で次世代中核施設の整備を進められる運びとなりました",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "https://drive.google.com/drive/folders/1DUfh1_Yoy3Gs7so978UsdeOi_ZWS8O_Z?usp=sharing",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "GX関連産業創出支援事業に採択 ２年間で２億円拠出へ",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "都は、向こう2か年の研究開発プログラムに対し、総額2億円を支援する予定です",
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "pass": 1
+   },
+   {
+    "quote": "ス等の資源が数百兆円の規模で眠っている",
+    "url": "https://www.aizawa-group.co.jp/home/wp-content/uploads/2025/11/AIZAWA_CompanyProfile2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に大都市圏に住む円熟の都市生活者を対象とする、二拠点生活のための",
+    "url": "https://www.aizawa-group.co.jp/home/wp-content/uploads/2025/11/AIZAWA_CompanyProfile2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "63,900,000円",
+    "url": "https://www.todariyukai.com/member/4270/",
+    "pass": 3
+   },
+   {
+    "quote": "円滑な連携に向けスマートフォンを内線化",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、最大の効果は社内外との連携強化、働き方改革に向けたフリーアドレスの導入を円滑に根付かせる音声基盤が整備されたことだとデータ戦略室スタッフの樋原良伸氏は評価する",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格 840円（税込）",
+    "url": "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "住まいのプロとしてエンドユーザーと向き合うハウスメーカー様とともに進めてまいります",
+    "url": "https://www.aizawa-group.co.jp/business-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "代替テキストは画像が表示されない場合や読み込まれない場合にユーザーの助けになります",
+    "url": "https://www.aizawa-group.co.jp/timeline/web/viewer.html?file=timeline_90.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "このダイアログではユーザーが署名を作成して PDF 文書に追加できます",
+    "url": "https://www.aizawa-group.co.jp/timeline/web/viewer.html?file=timeline_90.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "Arcstar Smart PBX（導入事例 會澤高圧コンクリート株式会社） | NTTドコモビジネス 法人のお客さま",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験（CX）改善",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・セミナー",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例TOP",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新の導入事例や注目の導入事例をご紹介します",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界から見つける",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界から見つけるTOP",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の業界はこちら",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 / 取り組み事例",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "狙いは部署を横断した社員間はもとより、顧客やパートナーとのコラボレーションを活性化することで一層の競争力強化を図ることでした",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "建屋を集約し、フリーアドレスを導入することで社員間のコミュニケーションを活性化し、社外取引先とのコンタクトレスを解消することが移転の狙いであった",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "「會澤高圧コンクリート株式会社」導入事例印刷用ファイルのダウンロード",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを蓄電できる非系統分散型のエネルギーインフラとして再定義し、私たちの業界を再生可能エネルギー時代に欠かせない産業へと進化させたい」と會澤社長",
+    "url": "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "pass": 3
+   },
+   {
+    "quote": "世界基準の技術で業界を席巻",
+    "url": "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "高速道路(料金所地下通路～階段)",
+    "url": "https://www.aizawa-group.co.jp/business-overview/",
+    "pass": 1
+   },
+   {
+    "quote": "おすすめの機種、料金やサービスをご紹介",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "IoT向け回線料金",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "100回線以上のお問い合わせ・お見積りはこちら",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金分析(ご利用料金管理サービス)",
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格 840円（税込）",
+    "url": "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "加カーボンキュア社と提携",
+    "url": "https://www.aizawa-group.co.jp/example/",
+    "pass": 1
+   },
+   {
+    "quote": "米MIT系ドローンベンチャーと提携",
+    "url": "https://www.aizawa-group.co.jp/example/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは技術提携している米Syzygy Plasmonics Inc.（ヒューストン）と組んで、水素より安全なアンモニアの状態で輸送・貯蔵し、水電解に比べて5分の1の少ないエネルギーで燃料電池クラスの水素を製造するコンテナモジュール型の光触媒水素リアクターをRDMに実装し、水素SSの新たな形を提示します",
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー自給率がわずか約16％（輸入依存度84％）という日本のアキレス腱を克服し、先日の熊本での震度7の地震のような大規模停電から街を守る「レジリエンス（防災復旧力）」の要として、大きな注目を浴びました",
+    "url": "https://www.aizawa-group.co.jp/news2026080901/",
+    "pass": 1
+   },
+   {
+    "quote": "脱炭素化の流れを受けて熱利用を含む廃プラの焼却処理が難しくなるなか、外国からの廃プラ輸入を禁止する動きも各国で強まり、行き場を失った廃プラが不法投棄されるといった問題を引き起こしています",
+    "url": "https://www.aizawa-group.co.jp/news2021071501/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "椿本チエインと産業用ドローン『AZ-250』の製造販売 ... — 椿本チエインと産業用ドローン『AZ-250』の製造販売 ... aizawa-group.co.jp https://www.aizawa-group.co.jp > news2025031101",
+    "url": "https://www.aizawa-group.co.jp/news2025031101/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都 AIZAWA とMITの「蓄電 コンクリート 」共同開発を支援 — 東京都 AIZAWA とMITの「蓄電 コンクリート 」共同開発を支援 共同通信PRワイヤー https://kyodonewsprwire.jp > release",
+    "url": "https://kyodonewsprwire.jp/release/202508193768",
+    "pass": 3
+   },
+   {
+    "quote": "『aNET ZEROイニシアティブ協定』新たに13社と締結 — 『aNET ZEROイニシアティブ協定』新たに13社と締結 aizawa-group.co.jp https://www.aizawa-group.co.jp > news2023041002",
+    "url": "https://www.aizawa-group.co.jp/news2023041002/",
+    "pass": 3
+   },
+   {
+    "quote": "施工 事例 ギャラリー | AIZAWA - 會澤高圧コンクリート — 施工 事例 ギャラリー | AIZAWA - 會澤高圧コンクリート aizawa-group.co.jp https://www.aizawa-group.co.jp > example",
+    "url": "https://www.aizawa-group.co.jp/example/",
+    "pass": 3
+   },
+   {
+    "quote": "施工 事例 Archives | AIZAWA - 會澤高圧コンクリート — 施工 事例 Archives | AIZAWA - 會澤高圧コンクリート aizawa-group.co.jp https://www.aizawa-group.co.jp > category > 施工事例",
+    "url": "https://www.aizawa-group.co.jp/category/%E6%96%BD%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "L型擁壁 アイザワ ウォール - 會澤高圧コンクリート — L型擁壁 アイザワ ウォール - 會澤高圧コンクリート aizawa-group.co.jp PDF https://www.aizawa-group.co.jp > cat_pdf > AIZAW...",
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_wall.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "油吸着マット 通信販売 商品の購入 會澤高圧コンクリート 株式 ... — 油吸着マット 通信販売 商品の購入 會澤高圧コンクリート 株式 ... aizawa-group.co.jp https://www.aizawa-group.co.jp > separation > mat05",
+    "url": "https://www.aizawa-group.co.jp/fukagawa/separation/mat05.php",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリート3dプリンタ | 會澤高圧コンクリート 株式会社 ... — コンクリート3dプリンタ | 會澤高圧コンクリート 株式会社 ... aizawa-c3dp.com https://www.aizawa-c3dp.com",
+    "url": "https://www.aizawa-c3dp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリート 3Dプリンタで宿泊施設を国内初 “印刷” | AIZAWA — コンクリート 3Dプリンタで宿泊施設を国内初 “印刷” | AIZAWA aizawa-group.co.jp https://www.aizawa-group.co.jp > news2022072801",
+    "url": "https://www.aizawa-group.co.jp/news2022072801/",
+    "pass": 3
+   },
+   {
+    "quote": "會澤高圧コンクリート がコンクリ―ト3Dプリンタで宿泊施設 ... — 會澤高圧コンクリート がコンクリ―ト3Dプリンタで宿泊施設 ... ADF Web Magazine https://www.adfwebmagazine.jp > architect > aizawa-high...",
+    "url": "https://www.adfwebmagazine.jp/ja/architect/aizawa-high-pressure-concrete-is-the-first-company-in-japan-to-print-accommodation-facilities-using-a-concrete-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "AIZAWA とMIT、「蓄電 コンクリート 」共同開発に東京都が支援 — AIZAWA とMIT、「蓄電 コンクリート 」共同開発に東京都が支援 ShareLab NEWS https://news.sharelab.jp > 事例 > 建設業界事例",
+    "url": "https://news.sharelab.jp/cases/construction/aizawa-mit-250903/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aizawa-group.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/category/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/business-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/location/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2025092501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2024121901/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026102701/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026101401/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026092501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/timeline/web/viewer.html?file=timeline_90.pdf",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2021082401/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2021082402/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026091201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026090101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026080901/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026071701/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2025091001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2025100301/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2024121701/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2024121902/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/home/wp-content/uploads/2021/05/KENJAGLOBAL_news.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2021071501/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2021090901/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2026071301/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2025082001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/news2025090901/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.aizawa-group.co.jp/home/wp-content/uploads/2025/11/AIZAWA_CompanyProfile2025_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_pile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_rmc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_wall.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_culvert.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_pipe.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_gutter.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_agriculture.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/18136/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.todariyukai.com/member/4270/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kintone-sol.cybozu.co.jp/cases/aizawa_concrete.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://basilisk.co.jp/collections/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizawa-c3dp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adfwebmagazine.jp/architect/aizawa-high-pressure-concrete-is-the-first-company-in-japan-to-print-accommodation-facilities-using-a-concrete-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "会澤高圧コンクリート(AIZAWA) 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/18136/distributors/",
+    "https://www.aizawa-group.co.jp/news2025031101/",
+    "https://www.todariyukai.com/member/4270/",
+    "https://kyodonewsprwire.jp/release/202508193768",
+    "https://www.aizawa-group.co.jp/news2023041002/",
+    "https://www.aizawa-group.co.jp/news2025030301/",
+    "https://kyodonewsprwire.jp/author/H106412",
+    "https://www.aizawa-group.co.jp/news2021022401/",
+    "https://www.aizawa-group.co.jp/about/",
+    "https://www.aizawa-group.co.jp/"
+   ]
+  },
+  {
+   "query": "会澤高圧コンクリート(AIZAWA) 導入事例",
+   "results": [
+    "https://www.aizawa-group.co.jp/example/",
+    "https://kintone-sol.cybozu.co.jp/cases/aizawa_concrete.html",
+    "https://www.ntt.com/business/case-studies/aizawa-group.html",
+    "https://www.aizawa-group.co.jp/category/%E6%96%BD%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "https://video-b.com/case/video-aizawa-group_1/",
+    "https://workers.soulware.jp/2023/10/26/repotoneu-interview-aizawa-group/",
+    "https://news.sharelab.jp/cases/construction/aizawa-mit-250903/",
+    "https://www.instagram.com/p/DDtlaYOMOdI/",
+    "https://www.aizawa-group.co.jp/",
+    "https://carboncredits.jp/japan/aircapture-japan-fukushima-dac-concrete-co2/"
+   ]
+  },
+  {
+   "query": "会澤高圧コンクリート(AIZAWA) 価格 OR 料金",
+   "results": [
+    "https://www.aizawa-group.co.jp/cat_pdf/AIZAWA_ProductsCatalog_v5_wall.pdf",
+    "https://basilisk.co.jp/collections/all",
+    "https://www.zaikaisapporo.co.jp/hdb/hdb-article.php?id=21038",
+    "https://www.aizawa-group.co.jp/fukagawa/separation/mat05.php",
+    "https://www.nikkei.com/article/DGXZQOUC2455J0U4A920C2000000/",
+    "https://www.facebook.com/p/%E6%9C%83%E6%BE%A4%E9%AB%98%E5%9C%A7%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100075845502061/",
+    "https://www.chitose-yuuchi.jp/database/6017.html",
+    "https://news.sharelab.jp/cases/construction/aizawa-mit-250903/"
+   ]
+  },
+  {
+   "query": "会澤高圧コンクリート(AIZAWA) 受託 造形",
+   "results": [
+    "https://www.aizawa-c3dp.com/",
+    "https://www.aizawa-group.co.jp/news2022072801/",
+    "https://www.adfwebmagazine.jp/ja/architect/aizawa-high-pressure-concrete-is-the-first-company-in-japan-to-print-accommodation-facilities-using-a-concrete-3d-printer/",
+    "https://ken-it.world/it/2019/04/aizawa-concrete-3d-printer.html",
+    "https://news.sharelab.jp/cases/construction/aizawa-mit-250903/",
+    "https://www.aizawa-group.co.jp/",
+    "https://www.fipo.or.jp/company-db/company/270/",
+    "https://www.aizawa-group.co.jp/about/",
+    "https://www.aizawa-group.co.jp/business-overview/",
+    "https://hakogata.com/fc/aizawa"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部8頁・検索4回）"
+ }
+}

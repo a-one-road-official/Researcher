@@ -1,0 +1,1387 @@
+{
+ "name": "森村商事株式会社",
+ "aliases": [],
+ "context": "日本AM協会会員。既存地図：AP&C（Colibrium Additive）製 Ni・Ti・TiAl・Al粉末の日本販売窓口；材料(金属AM向け粉末) / AP&C（加、Colibrium Additive）",
+ "researched_at": "2026-11-02T10:27:59.374535+00:00",
+ "official_url": "https://morimura.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "明治9年10月（1876年）",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "label": "創立",
+    "value": "1876年 森村市左衛門と弟の豊が東京銀座四丁目に「森村組」を設立。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1876年 （ 明治 9年） 10月",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1876年（明治9年）10月",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1120億7600万円（2025年12月期 単体）",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1120億円（2025年12月期 単体）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1,071億1,300万円 （2024年12月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "306名（2026年1月1日現在 単体）",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員(正社員数)",
+    "value": "306名（2026年1月1日現在 単体）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "268人（ 2021年 4月現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "窯業耐火物原料、航空機材、金属、電子工業用原材料・製品、化学品、 樹脂、 機械プラント、香料・食品、生活用品等の輸出入および国内販売",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "グローバル・トレーディング ＆ 事業プロデュース ・主要領域： セラミックス、電子・半導体、金属素材（航空機・自動車）、化成品、樹脂、産業機械、香料・食品 ・ビジネス形態： 輸出入、三国間貿易、国内販売、および新市場開拓・用途開発提案",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "窯業耐火物原料、航空機材、金属、電子工業用原材料・製品、化学品、機械プラント、香料・食品、生活用品等の輸出入および国内販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "骨董や陶器、団扇や人形などを販売する雑貨小売業を始める",
+    "url": "https://morimura.co.jp/history/history_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース：AP&C社製 積層造形用粉末の取扱いについて",
+    "url": "https://morimura.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー製品のWEB販売を開始しました",
+    "url": "https://morimura.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー （Berkshire Corporation） は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/list/04.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械プラント、香料・食品、生活用品等の輸出入および国内販売",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＰＲＯ仕様のボディコーティング、ガラス撥水コーティング剤の開発販売",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "インキの印刷適正を各種調整・補助する為の添加剤を国内製造・販売しています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種印刷インキや塗料を始め、幅広い用途に使用可能な有機顔料を海外大手顔料メーカーの国内総代理店として輸入・販売を行っています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "Lawter社製各種樹脂、添加剤を国内で輸入販売しています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー （Berkshire Corporation） は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/electric.html",
+    "pass": 1
+   },
+   {
+    "quote": "融点以上の温度で高い流動性を示し、高充填の組成物が設計可能な結晶性エポキシ樹脂です",
+    "url": "https://morimura.co.jp/products/electric.html",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー （Berkshire Corporation）は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/lifescience.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種食品の食物繊維素材として広く販売しております",
+    "url": "https://morimura.co.jp/products/fragrancefood.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、電子セラミックスの主材から副資材までを幅広く取り扱い、原料調達から販売まで一貫した体制を整えています",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー（Berkshire Corporation）は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "融点以上の温度で高い流動性を示し、高充填の組成物が設計可能な結晶性エポキシ樹脂です",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "インキの印刷適正を各種調整・補助する為の添加剤を国内製造・販売しています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種印刷インキや塗料を始め、幅広い用途に使用可能な有機顔料を海外大手顔料メーカーの国内総代理店として輸入・販売を行っています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "Lawter社製各種樹脂、添加剤を国内で輸入販売しています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種食品の食物繊維素材として広く販売しております",
+    "url": "https://morimura.co.jp/products/flavorfood.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＰＲＯ仕様のボディコーティング、ガラス撥水コーティング剤の開発販売",
+    "url": "https://morimura.co.jp/products/metals.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ航空機製造に密接に関わるアルミニウム事業は、米国アーコニック社（旧アルコア社）との50年以上にわたる販売代理店契約を基盤とし、業界での信用を築いてきました",
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "pass": 1
+   },
+   {
+    "quote": "その年月で蓄積したネットワークを活かし、輸入販売に限らず、加工品や部品の供給へと事業展開し、ジャスト・イン・タイム・デリバリーでの供給体制を構築しています",
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託粉末製造（プラズマアトマイズ使用）",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "※下表以外にも耐火金属系（Nb, Ta 等）、受託粉末製造（プラズマアトマイズ使用）等 相談可能",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、個人情報の保護と適切な取り扱いに関する社内教育を継続して実施してまいります",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "出販売で大成功をおさめた",
+    "url": "https://morimura.co.jp/news/2021/news_20211029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当初は窯業・耐火物原料を中心に輸入販売を行った",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "説明会・セミナー",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ビジネス形態： 輸出入、三国間貿易、国内販売、および新市場開拓・用途開発提案",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "英会話通学補助、オンライン英会話利用補助、通信教育補助、eラーニング",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアコンサルティング制度",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "北日本港湾コンサルタント(株)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設コンサルタント",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門店（自動車販売・自動車関連）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備工事・設備設計",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "mcframe関連セミナーの情報を掲載しています",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "企業の歩みを物語る沿革グラフィックと動画で、理解を深めるギャラリースペース ｜デジタルサイネージ, スペースデザイン 事例｜クラウドポイント",
+    "url": "https://www.cloudpoint.co.jp/case/case-231109/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.cloudpoint.co.jp/case/case-231109/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクター×5台・STB×4台・コンテンツ制作・グラフィックシート・クラウドポイントプラス（保守）",
+    "url": "https://www.cloudpoint.co.jp/case/case-231109/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の歩みを物語る沿革グラフィックと動画で、理解を深めるギャラリースペース",
+    "url": "https://www.cloudpoint.co.jp/case/case-231109/",
+    "pass": 3
+   },
+   {
+    "quote": "窯業耐火物原料、航空機材、金属、電子工業用原材料・製品、化学品、機械プラント、香料・食品、生活用品等の輸出入および国内販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物原料、航空機材、金属、電子工業用原材料・製品、化学品、機械プラント、香料・食品、生活用品等の輸出入および国内販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "融点以上の温度で高い流動性を示し、高充填の組成物が設計可能な結晶性エポキシ樹脂です",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "インキの印刷適正を各種調整・補助する為の添加剤を国内製造・販売しています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種印刷インキや塗料を始め、幅広い用途に使用可能な有機顔料を海外大手顔料メーカーの国内総代理店として輸入・販売を行っています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lawter社製各種樹脂、添加剤を国内で輸入販売しています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "インポート・オーダー（見本品で注文をとり半年～１年後に商品を顧客へ直送）を開始",
+    "url": "https://morimura.co.jp/history/history_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ならびにお取引先の皆様にはご不便、ご迷惑をおかけいたしますが、何卒ご理解賜りますようお願い申し上げます",
+    "url": "https://morimura.co.jp/news/2026/news_20261009.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々な特長を持った製品のラインナップでお客様へソリューションを提供致します",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々な特長を持った製品のラインナップでお客様へソリューションを提供致します",
+    "url": "https://morimura.co.jp/products/electric.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力に裏打ちされた装置性能に加えて、豊富な板サイズと、ろ布の容易な交換がお客様から好評を博しています",
+    "url": "https://morimura.co.jp/products/machinery.html",
+    "pass": 1
+   },
+   {
+    "quote": "窯業をルーツとする当社はセラミックスと半世紀を超える関わりがあり、この業界のスペシャリストとしてのポジジョンを確立しました",
+    "url": "https://morimura.co.jp/products/refractory.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界の最先端技術を踏まえた上で、お客様のニーズに合った素材から加工部品の供給に至るまでのトータルソリューションを提案しています",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々な特長を持った製品のラインナップでお客様へソリューションを提供致します",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "整備された物流システムによってご要望どおりの納期が可能となり、お客様の在庫負担の軽減にも貢献しています",
+    "url": "https://morimura.co.jp/products/plastics.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合った高機能材料を安定的に、しかも高度なエンジニアリングとともに提供することが可能です",
+    "url": "https://morimura.co.jp/products/metals.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力に裏打ちされた装置性能に加えて、豊富な板サイズと、ろ布の容易な交換がお客様から好評を博しています",
+    "url": "https://morimura.co.jp/products/metals.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ航空機製造に密接に関わるアルミニウム事業は、米国アーコニック社（旧アルコア社）との50年以上にわたる販売代理店契約を基盤とし、業界での信用を築いてきました",
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "pass": 1
+   },
+   {
+    "quote": "（1） お客様と当社との間における契約の締結・履行、その他取引管理",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "（2） お客様と当社との連絡および社会的慣習に基づくご通知・ご挨拶",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "（3） お客様と当社との商談、打ち合わせのための連絡",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "（4） お客様との取引に関連する当社の商品・サービスに関する情報のご提供",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "（6） 当社の事業に関わる業界・団体関係者との情報交換・連絡",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "現地に根付いた経営で顧客志向を実現しながら、 日本陶器の輸",
+    "url": "https://morimura.co.jp/news/2021/news_20211029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のご要望に沿った高機能材料を高度なエンジニアリングと共に安定的に提供することが可能です",
+    "url": "https://www.morimura.co.jp/recruit/products/metals.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業研究や業界研究にお役立てください",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 森村商事株式会社 | mcframe",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の状況/ニーズに合わせて、多彩な製品シリーズを用意しています",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "システム稼働後もお客様とのコミュニケーションを大切にしています",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例詳細につきましては「カンパサール」webサイトをご覧ください",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事株式会社 mcframeGA導入事例",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "気になるワードから導入事例を絞り込み検索することができます",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 絞り込み検索",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "森村市太郎（六代市左衛門）と弟豊が東京銀座四丁目に「森村組」を設立（資本金三千円）",
+    "url": "https://morimura.co.jp/history/history_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "4億5,000万円",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "1120億7600万円（2025年12月期 単体）",
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の利用目的の通知又は開示の請求の場合、1つのご請求につき手数料892円が掛かります",
+    "url": "https://morimura.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお 社外取締役 喜多村円氏は退任いたしました",
+    "url": "https://morimura.co.jp/news/2025/news_20250325.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役 喜多村 円 TOTO 株式会社代表取締役会長 兼 取締役会議長",
+    "url": "https://morimura.co.jp/news/2024/news_20240326.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "だが当時はアメリカの景気後退による輸入減少、それに伴う各国のドル不足が顕著化し輸入制限が強化されるという輸出にはきわめて厳しい状況",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月、森村組、社名を「森村商事株式会社」に変更（資本金250万円）",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金1億8,000万円に増資",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金4億5,000万円に増資",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "4億5,000万円（2025年12月 単体）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1120億円（2025年12月期 単体）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "総合職平均年収1029万円 / 海外駐在比率14％ / 年間休日120日以上",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "全社平均：863万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "総合職：1,029万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "事務キャリア職：604万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金 250万円）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 1億8,000万円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 4億5,000万円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "4億5,000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1,071億1,300万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "33億5,400万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "34億6,900万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "25億2,300万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "234億6,400万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "619億7,200万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は250万円",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "（昭和52年） - 資本金を1億8,000万円に増資",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "（平成27年） - 資本金を4億5,000万円に増資",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "プレスリリース：AP&C社製 積層造形用粉末の取扱いについて",
+    "url": "https://morimura.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "東ソーのジルコニア粉末TZシリーズは、最新のナノテクノロジーを駆使した加水分解プロセスを利用して生産されています",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "各サプライヤーが製造・提供する積層造形（3D Printing, Additive Manufacturing）用金属粉末を提案します",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "各サプライヤーが製造・提供する積層造形（3D Printing, Additive Manufacturing）用金属粉末を提案します",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "東ソーのジルコニア粉末TZシリーズは、最新のナノテクノロジーを駆使した加水分解プロセスを利用して生産されています",
+    "url": "https://morimura.co.jp/products/electric.html",
+    "pass": 1
+   },
+   {
+    "quote": "誘電体、高純度酸化チタン、ガラス粉末、焼成炉材、分散メディア、高純度酸化ニッケル、酸化ガリウム、無機コーティング材",
+    "url": "https://morimura.co.jp/products/electric.html",
+    "pass": 1
+   },
+   {
+    "quote": "東ソーのジルコニア粉末TZシリーズは、最新のナノテクノロジーを駆使した加水分解プロセスを利用して生産されています",
+    "url": "https://morimura.co.jp/products/lifescience.html",
+    "pass": 1
+   },
+   {
+    "quote": "各サプライヤーが製造・提供する積層造形（3D Printing, Additive Manufacturing）用金属粉末を提案します",
+    "url": "https://morimura.co.jp/products/lifescience.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/lifescience.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末セルロース",
+    "url": "https://morimura.co.jp/products/fragrancefood.html",
+    "pass": 1
+   },
+   {
+    "quote": "各サプライヤーが製造・提供する積層造形（3D Printing, Additive Manufacturing）用金属粉末を提案します",
+    "url": "https://morimura.co.jp/products/machinery.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/machinery.html",
+    "pass": 1
+   },
+   {
+    "quote": "東ソーのジルコニア粉末TZシリーズは、最新のナノテクノロジーを駆使した加水分解プロセスを利用して生産されています",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "誘電体、電極材（Ag, Al, Ni, Cu, etc.）、ガラス粉末、コーティング材、高純度酸化チタン、ジルコニア粉末、無機系添加剤",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "各サプライヤーが製造・提供する積層造形（3D Printing, Additive Manufacturing）用金属粉末を提案します",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末セルロース",
+    "url": "https://morimura.co.jp/products/flavorfood.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品詳細> 積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い金属粉末 一覧",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託粉末製造（プラズマアトマイズ使用）",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "）と後工程に関するノウハウによって、高真球度・高い流動性を実現、AMに最適化された高品質な粉末を提供",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "● 年間1000MT以上の生産能力を有し、AM用チタン粉末のリーディングカンパニー",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "※下表以外にも耐火金属系（Nb, Ta 等）、受託粉末製造（プラズマアトマイズ使用）等 相談可能",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "● NASA合金の独占ライセンス企業の１社",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "各サプライヤーが製造・提供する積層造形（3D Printing, Additive Manufacturing）用金属粉末を提案します",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形（3D Printing, Additive Manufacturing）用金属粉末",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "バークシャー （Berkshire Corporation） は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/list/04.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のアルミメーカーARCONIC社の航空機材料の総代理店として、国内各重工メーカーに板、管、棒、押出型材、鍛造材及びARCONICの自社開発合金等を納入しています",
+    "url": "https://morimura.co.jp/products/transport.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種印刷インキや塗料を始め、幅広い用途に使用可能な有機顔料を海外大手顔料メーカーの国内総代理店として輸入・販売を行っています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "Lawter社製各種樹脂、添加剤を国内で輸入販売しています",
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー （Berkshire Corporation） は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/electric.html",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー （Berkshire Corporation）は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/lifescience.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国品の輸入先駆者として供給を行っております",
+    "url": "https://morimura.co.jp/products/fragrancefood.html",
+    "pass": 1
+   },
+   {
+    "quote": "バークシャー（Berkshire Corporation）は、1960年代に設立された米国で最も歴史のあるクリーンルーム用ワイパーメーカーで、当社は日本の販売代理店です",
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "pass": 1
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種印刷インキや塗料を始め、幅広い用途に使用可能な有機顔料を海外大手顔料メーカーの国内総代理店として輸入・販売を行っています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "Lawter社製各種樹脂、添加剤を国内で輸入販売しています",
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国品の輸入先駆者として供給を行っております",
+    "url": "https://morimura.co.jp/products/flavorfood.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ航空機製造に密接に関わるアルミニウム事業は、米国アーコニック社（旧アルコア社）との50年以上にわたる販売代理店契約を基盤とし、業界での信用を築いてきました",
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "pass": 1
+   },
+   {
+    "quote": "その年月で蓄積したネットワークを活かし、輸入販売に限らず、加工品や部品の供給へと事業展開し、ジャスト・イン・タイム・デリバリーでの供給体制を構築しています",
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のアルミメーカーARCONIC社の航空機材料の総代理店として、国内各重工メーカーに板、管、棒、押出型材、鍛造材及びARCONICの自社開発合金等を納入しています",
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは米国に本拠を構える世界最大級のチタン一貫メーカーであるTIMET社との総代理店契約により国内のチタン需要や開発にお応えしています",
+    "url": "https://www.morimura.co.jp/recruit/products/metals.html",
+    "pass": 3
+   },
+   {
+    "quote": "当初７代目市左衛門は輸入業務進出について反対だった",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "「６代目市左衛門が海外に流出した金を取り戻すべく、輸出立国を志して貿易をはじめたもので、輸入はその意に反するものである」と",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "だが当時はアメリカの景気後退による輸入減少、それに伴う各国のドル不足が顕著化し輸入制限が強化されるという輸出にはきわめて厳しい状況",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "「原則として輸出産業に貢献する原材料の輸入に限る」ということで了解を取り付け、輸入業務への着手という積極策にでる",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "当初は窯業・耐火物原料を中心に輸入販売を行った",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸入業務を扱う特品部を設置",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルコア社と代理店契約を締結",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社製品中、メタル関係以外のボーキサイト及びアルミナ化成品等の輸入総代理店権を獲得",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "・日本初の挑戦： 大正時代、日本で初めてIBMのコンピュータを輸入したのも森村商事です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "米アルコア社と代理店契約を締結",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "およびアルミナ化成品等の輸入総代理店権を獲得",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "の日本代理店となり、日本への輸入第一号となるIBM統計機を日本陶器（現・",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "pass": 3
+   },
+   {
+    "quote": "\"を輸入し、国内5拠点に在庫し販売しています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種印刷インキや塗料を始め、幅広い用途に使用可能な有機顔料を海外大手顔料メーカーの国内総代理店として輸入・販売を行っています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lawter社製各種樹脂、添加剤を国内で輸入販売しています",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属事業部 - 森村商事株式会社 Recruit Site — 金属事業部 - 森村商事株式会社 Recruit Site 森村商事株式会社 https://www.morimura.co.jp > recruit > products > metals",
+    "url": "https://www.morimura.co.jp/recruit/products/metals.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革・歴史 - 森村商事株式会社 — 沿革・歴史 - 森村商事株式会社 森村商事株式会社 https://www.morimura.co.jp > history > history_03",
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事 (株)の会社概要 | マイナビ2028 — 森村商事 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp52611 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 森村商事 」の 代理店 3社 注目ランキング【2026年】| Metoree — 「 森村商事 」の 代理店 3社 注目ランキング【2026年】| Metoree Metoree https://metoree.com > 会社一覧 > 森村商事株式会社",
+    "url": "https://metoree.com/companies/42952/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介（パンフレット・映像） - 森村商事株式会社 — 会社紹介（パンフレット・映像） - 森村商事株式会社 森村商事株式会社 https://www.morimura.co.jp > corporate > movie",
+    "url": "https://www.morimura.co.jp/corporate/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 森村商事株式会社 | mcframe — ※本サイト記載の製品名「A.S.I.A.」は掲載当時の名称であり、現在の製品名は「mcframe GA」となります。 導入事例詳細につきましては「カンパサール」webサイトをご覧ください。 森村商事株式会社 mcframeGA導入事例 企業紹介 導入企業概要 森村商事株式会社",
+    "url": "https://www.mcframe.com/case/morimura",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事株式会社 — 1876年、海外貿易のパイオニアとして創業国際社会の発展と豊かな暮らしを願った創業者精神を礎にグローバルな品格と開拓者魂をもって上質で誠意ある「価値」を提供し続け豊かな社会の実現と健全な環境の保全に貢献、海外貿易のパイオニアとして培った信頼とノウハウで「新 専門・複合商社」を目指す森村商事",
+    "url": "http://morimura.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【事例】森村商事株式会社 様 - Cloudpoint — 森村商事様のエントランスに、沿革グラフィックとプロジェクションマッピングを導入いたしました。 沿革グラフィックは、入口側から「過去・現在・未来」と繋がるよう配置され、その時代の出来事を閲覧することが可能です。",
+    "url": "https://www.cloudpoint.co.jp/case/case-231109/",
+    "pass": 3
+   },
+   {
+    "quote": "CoudExa導入事例 | 森村商事株式会社 様 — 森村商事様のゲストラウンジに特殊なミラーガラスとタッチサイネージを導入させていただきました。 特殊なミラーガラスを採用することで、より広い空間を演出しています。 また、 CloudExa の機能である「コマンド切り替え再生機能」を利用し、",
+    "url": "https://cloudexa.cloudpoint.co.jp/case/detail/?id=14686",
+    "pass": 3
+   },
+   {
+    "quote": "納入事例森村商事株式会社様｜PLUS PRESS：プラスのモノ・コトを発信... — 会社の歴史を体感し、未来を予感できる空間を目指すことで、訪れるお客様だけでなく、ここで働く方々へも新たな驚きと“森村商事らしさ”を感じていただけるデザインを実現しました。",
+    "url": "https://www.plus.co.jp/plus_press/2023/casestudy/09/",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事 - Wikipedia — 米国 や オランダ 、 中国 、 タイ 、 ベトナム 、 フィリピン 、 インド など世界各地に拠点を持つ。 1876年 に 森村市左衛門 の異母弟である 森村豊 （とよ、1854-1899年）が銀座四丁目に設立した森村組が、 1946年 に現社名に改称して現在に至る。",
+    "url": "https://ja.wikipedia.org/wiki/森村商事",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事株式会社 — 1876年、海外貿易のパイオニアとして創業国際社会の発展と豊かな暮らしを願った創業者精神を礎にグローバルな品格と開拓者魂をもって上質で誠意ある「価値」を提供し続け豊かな社会の実現と健全な環境の保全に貢献、海外貿易のパイオニアとして培った信頼とノウハウで「新 専門・複合商社」を目指す森村商事",
+    "url": "https://morimura.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事株式会社 - morimura.jp — 1876年、海外貿易のパイオニアとして創業国際社会の発展と豊かな暮らしを願った創業者精神を礎にグローバルな品格と開拓者魂をもって上質で誠意ある「価値」を提供し続け豊かな社会の実現と健全な環境の保全に貢献、海外貿易のパイオニアとして培った信頼とノウハウで「新 専門・複合商社」を目指す森村商事",
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事株式会社 - morimura.co.jp — 独自組成（特許組成）のアルミ材料 一般的なAlSi10Mgに対し、Siフリーとすることで後加工性向上（アルマイト・表面処理） 更に熱伝導率・電気伝導率・耐食性など向上 LPBFに最適な合金組成とすることで造形スピード改善",
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "pass": 3
+   },
+   {
+    "quote": "森村商事 | 出展者詳細 | TCT Japan| 国内最大級3Dプリンティング&AM... — 当社が取り扱う材料はグローバルAM市場で各々の分野でリーディングカンパニーであり、注目度の高いものばかりです。 造形機・造形方式にとらわれず、Additive Manufacturingに特化して最適な金属粉末をご提案します。 ぜひお立ち寄りください。",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/z4fozjPlE_Q",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://morimura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/history/history_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2026/news_20261009.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/list/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/corporate/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/corporate/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/transport.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/housingequipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/electric.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/lifescience.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/fragrancefood.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/machinery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/refractory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/electornics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/chemicals.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/flavorfood.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/plastics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/metals.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/aerospace.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/list/39.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/index2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/privacy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/products/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2026/news_20260410.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2026/news_20260209.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2025/news_20251202.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://morimura.co.jp/news/2021/news_20211029.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2026/news_20260325.pdf?1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2026/news_20260303.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2025/news_20251126.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2025/news_20250325.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2025/news_20250304.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2024/news_20241126.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/news/2024/news_20240326.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://morimura.co.jp/history/image/history_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://morimura.co.jp/history/image/history_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://morimura.co.jp/history/image/history_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://morimura.co.jp/history/image/history_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://morimura.co.jp/history/image/history_05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://morimura.co.jp/history/image/history_12.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://morimura.co.jp/common/image/about_morimura_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.morimura.co.jp/recruit/products/metals.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morimura.co.jp/history/history_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcframe.com/case/morimura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudpoint.co.jp/case/case-231109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/apps/ratevisibility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://claude.com/ja/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9D%91%E5%95%86%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morimura.jp/products/chemicals.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "森村商事 代理店 契約",
+   "results": [
+    "https://www.morimura.co.jp/recruit/products/metals.html",
+    "https://www.morimura.co.jp/history/history_03.html",
+    "https://job.mynavi.jp/28/pc/search/corp52611/outline.html",
+    "https://metoree.com/companies/42952/distributors/",
+    "https://www.morimura.co.jp/corporate/movie.html",
+    "https://www.morimura.co.jp/products/list/04.html",
+    "https://morimurabros.com/usa/japanese/corporate/",
+    "http://www.morimura.jp/recruit/",
+    "https://www.morimura.co.jp/english/history/colum/colum03.html",
+    "https://ja.m.wikipedia.org/wiki/森村商事"
+   ]
+  },
+  {
+   "query": "森村商事 導入事例",
+   "results": [
+    "https://www.mcframe.com/case/morimura",
+    "http://morimura.co.jp/",
+    "https://www.cloudpoint.co.jp/case/case-231109/",
+    "https://cloudexa.cloudpoint.co.jp/case/detail/?id=14686",
+    "https://www.plus.co.jp/plus_press/2023/casestudy/09/",
+    "https://www.cloudpoint.co.jp/case/case-211012-2/",
+    "https://cocomite.konicaminolta.jp/voice/morimura-inc/",
+    "https://www.mcframe.com/case",
+    "https://info.mcframe.com/025",
+    "https://r.nikkei.com/article/DGXZQOFD274950X20C25A3000000/"
+   ]
+  },
+  {
+   "query": "森村商事 価格 OR 料金",
+   "results": [
+    "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html",
+    "https://www.fedex.com/apps/ratevisibility/",
+    "https://claude.com/pricing",
+    "https://developers.openai.com/api/docs/pricing",
+    "https://www.post.japanpost.jp/send/domestic/charge/",
+    "https://cursor.com/pricing",
+    "https://aws.amazon.com/jp/kinesis/data-streams/pricing/"
+   ]
+  },
+  {
+   "query": "森村商事 受託 造形",
+   "results": [
+    "https://ja.wikipedia.org/wiki/森村商事",
+    "https://morimura.co.jp/",
+    "https://www.morimura.jp/products/chemicals.html",
+    "https://morimura.co.jp/products/list/39.html",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/z4fozjPlE_Q",
+    "http://morimura-re.co.jp/",
+    "https://www.noritake.co.jp/company/morimura/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像15件／外部10頁・検索4回）"
+ }
+}

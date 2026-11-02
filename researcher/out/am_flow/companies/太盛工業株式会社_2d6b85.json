@@ -1,0 +1,1297 @@
+{
+ "name": "太盛工業株式会社",
+ "aliases": [],
+ "context": "「3.5Dプリンティング」：金属粉末射出成形（MIM）と3Dプリントを組み合わせたサービス；イプロス金属3Dプリンタ企業一覧に掲載(内容未確認) /",
+ "researched_at": "2026-11-02T10:21:00.605438+00:00",
+ "official_url": "https://www.taisei-kogyo.com/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和 47 年 1 月",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和 49 年 6 月",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1974年6月（創業72年1月）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "約 40 名",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "45人",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "（株）いけうち、（独）宇宙航空研究開発機構JAXA、大阪ガスケミカル（株）、（株）オリエントマイクロウェーブ、サンエー精工（株）、CKD（株）、住友ベークライト（株）、ソニー（株）、THK（株）、（株）ニコン、（株）日立製作所、（株）FUJI、B. Braun Melsungen AG",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要仕入先",
+    "value": "豊通ケミプラス株式会社、エプソンアトミックス株式会社、住友チタニウム株式会社",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先銀行",
+    "value": "りそな銀行、三菱東京ＵＦＪ銀行、京都銀行",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "超精密MIM、ポーラス金属、樹脂を材料とする射出成形品の部品製造と組み立て",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "受託測定・評価技術",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "太盛工業では日々の新しいニーズに柔軟に対応するため、生産設備や測定機器はもちろん、試作・開発の為の設備まで、数多くの国内最先端の設備を保有しています",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元測定システムに限らず、その他装置類を用いての分析・試作・評価につきましても個別で開発スポットごとに対応が可能です",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM 技術セミナー随時開催中",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では MIM についてよく知って頂くために、MIM 技術セミナーを随時開催しております",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせた形での出張セミナーや、機械加工から MIM への工法転換時の設計ポイントなどテーマを絞った内容でも対応致します",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM 技術セミナーをご検討の方は、是非お気軽にお問い合わせください",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の真のニーズと期待を的確に把握し、又法規制及び当社が必要と認める要求事項を順守して設計・開発、生産活動を行います",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属射出成形 (MIM)技術ニュースレター」では、太盛工業が発行する金属射出成形に関する開発・設計者向けのVA・VE技術情報をお伝えします",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "超高精度のMIMの製作においては金型の設計がきわめて重要です",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM金型の設計時には、考慮すべき点が多々あります",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "実際に成形、焼結を行ったときの不良率にも金型設計の段階から考慮する必要があります",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-example/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を用いないため短納期で多品種の試作に適しています",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では3Dプリンターで試作したものの量産化対応にMIMを採用頂くケースが増えております",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期・単品の試作に最適",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-repertoire/",
+    "pass": 1
+   },
+   {
+    "quote": "素金属の混合粉から開発検討し、新規の合金材料の試作にも対応可能です",
+    "url": "https://www.taisei-kogyo.com/service/mim-repertoire/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM は金属粉末を焼結させることで部品を得ますが、焼結という工程の特性により原料粉末段階での調合による新規合金系の試作など幅広い材料を使用することができます",
+    "url": "https://www.taisei-kogyo.com/service/mim-repertoire/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術｜事業内容 | 太盛工業株式会社",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "/ 製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のために",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の構造によりますが、なるべく製品の重要部分に出ないような設計を行います",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "設計者が知っておくべき",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM 部品の導入・設計のポイント",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM 部品設計",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "VA/VE・コストダウン設計事例",
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/mim-evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "測定受託サービスを承ります",
+    "url": "https://www.taisei-kogyo.com/service/mim-evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "太盛工業では日々の新しいニーズに柔軟に対応するため、生産設備や測定機器はもちろん、試作・開発の為の設備まで、数多くの国内最先端の設備を保有しています",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元測定システムに限らず、下記の装置類を用いての分析・試作・評価についても個別で開発スポットごとに対応が可能ですので、是非ご相談下さい",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金にこだわらず、拡散接合処理や熱処理など小ロットでの試験・試作も是非ご相談下さい",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/service/porous-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/news/iso13485-2019/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/news/summer-vacation/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなお悩みをお持ちの設計・開発担当者様へ",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "この技術により、従来は分割せざるを得なかった複数の部品を、設計段階から「1つの部品」として作り上げることが可能になります",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "効果３：設計自由度の向上と開発リードタイムの短縮",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "一体化を前提とすることで、より理想的な形状での設計が可能となり、部品点数の削減が開発プロセス全体の効率化にも貢献します",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/product/ti-6al-4v_propeller/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/product/nozzle/",
+    "pass": 1
+   },
+   {
+    "quote": "μ-MIM®の技術で部品の表面及び、内部の中空構造にみられる多段設計を含む部品を高精度に量産いたします",
+    "url": "https://www.taisei-kogyo.com/product/nozzle/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/product/bevel_mitar_gear/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのギアは、従来は機械加工、もしくは専用設計の機械による加工しか加工方法が無く、指先大のサイズになると量産不可能になります",
+    "url": "https://www.taisei-kogyo.com/product/bevel_mitar_gear/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/product/micropipe/",
+    "pass": 1
+   },
+   {
+    "quote": "設計自由度の高い微細管状部品の量産",
+    "url": "https://www.taisei-kogyo.com/product/micropipe/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計のための技術",
+    "url": "https://www.taisei-kogyo.com/news/medtec-japan-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器の製造・設計に関する展示会",
+    "url": "https://www.taisei-kogyo.com/news/medtec-japan-2026/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の理想を実現する仕組みを整えています",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器や産業機器など、幅広い業界のご要望に応えております",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせた形での出張セミナーや、機械加工から MIM への工法転換時の設計ポイントなどテーマを絞った内容でも対応致します",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "一、信頼を旨にお客様に満足してもらおう",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様があって初めて我が社が成り立ちます",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、物作りを通して「信頼」を買っていただくという考えでお客様に接し満足していただける様、努力しましょう",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとって「信頼できる会社」を一言でいうと、「時代の流れにマッチした技術を開発し安心できる製品」を提供する力を持った会社です",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望に向き合い、お客様に信頼され、満足して頂ける製品を提供します",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の真のニーズと期待を的確に把握し、又法規制及び当社が必要と認める要求事項を順守して設計・開発、生産活動を行います",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先銀行",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "それらの製品をお客様に安心してお使い頂けるように、最新のマイクロ部品の測定技術の適応化にも力を入れております",
+    "url": "https://www.taisei-kogyo.com/service/mim-evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "業界初Micro Xray-CTによる内部形状の測定",
+    "url": "https://www.taisei-kogyo.com/service/mim-evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "太盛工業はISO13485の認証取得を機に、既存の技術では実現できないお客様の課題を解決すべく、更にチャレンジしてまいります",
+    "url": "https://www.taisei-kogyo.com/news/iso13485-2019/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事では、当社の超精密金属粉末射出成形技術「μ-MIM®」を活用し、シャフト部品の”一体化”によって、トータルコストの大幅削減と製品信頼性の向上を同時に実現したお客様の成功事例をご紹介します",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が直面していた課題",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "実際にμ-MIM®を導入されたお客様は、以下の劇的な効果を同時に実現されました",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の図面に沿って、吐出口の形状も自由度が高いものにすることが可能です",
+    "url": "https://www.taisei-kogyo.com/product/nozzle/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器のみならず、光学、通信、産業機器など幅広い業界のご要望にお応えしています",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "この長年の樹脂に対する研究と実績に基づき、お客様の要望を満たす超精密、高精度の部品を作り上げています",
+    "url": "https://metal-injection-tech.com/mim/mim02/",
+    "pass": 3
+   },
+   {
+    "quote": "そして現在も、自社の研究所ではMIM製品の更なる高機能化、高精度化を目指し、業界の最先端で研究開発を常に行い続けています",
+    "url": "https://metal-injection-tech.com/mim/mim02/",
+    "pass": 3
+   },
+   {
+    "quote": "第23回：「三方良し」の精神で取引先、そして社会全体の課題解決に取り組む「株式会社丸信」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「NOPPO（ノッポ）」大学生と農業界をつなぐビジネスを展開",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "独自技術で半導体業界のグローバルニッチトップ企業に「アイエルテクノロジー株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員を大切にし、品質で顧客に選ばれる存在「松川電氣株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様のニーズ」とすべての従業員の幸せを大切にする「株式会社特殊衣料」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「常識を覆す発想」で製薬業界に革命、錠剤製造用金型の打錠障害を解決「株式会社ツー・ナイン・ジャパン」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客起点を貫く経営」で急成長、東証グロース上場に挑む「株式会社フォーカス」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ライフスタイルアクセント株式会社」国内工場直結でアパレル業界に革命",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6回：商号、雇用、取引先継続しスピード承継「株式会社ぎぼ酒店」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "“パフォーマー警備員”が広告塔、業界イメージ払拭して人材確保・定着を目指す【SHOWYA株式会社（兵庫県宝塚市）】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "女性目線打ち出し、建設業界に新風【株式会社井上技研（札幌市東区）】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "おしぼり業界の変革に挑戦【FSX株式会社（東京都国立市）代表取締役・藤波克之氏】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「会社はお客様のために」の理念が成長の原動力【新産住拓株式会社（熊本市南区） 代表取締役社長・小山英文氏】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「三方よし」の精神で地域、取引先、従業員と共に成長を目指す【アクト中食株式会社（広島市西区）代表取締役社長・平岩由紀雄氏】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランド製品で顧客の要望に対応【株式会社コメットカトウ（愛知県稲沢市）取締役社長・野々部正幸氏】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "沖縄発 安心・安全を全面に、顧客の心をつかむ化粧品製造販売【株式会社ポイントピュール（沖縄県島尻郡久米島町）】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の立場で支援すれば将来の収益に【株式会社琉球オフィスサービス】（沖縄県浦添市）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "職員総出でオンライン陶器市開催サポート 売り上げと新規顧客獲得【有田商工会議所】（佐賀県西松浦郡）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインツアーで新規顧客を獲得【いただきますカンパニー】（北海道帯広市）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "各業界での省人化・少人化を容易にする、小型・高効率のオールインワン型モータ【銀河電機工業株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界初！強く、軽く、そして再利用も可能な炭素繊維強化樹脂メッシュを開発【株式会社奥谷金網製作所】（兵庫県神戸市）＜連載第1回（全2回）＞",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "微細部品へのめっき加工技術で産業界の発展に貢献する【株式会社エルグ】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "介護の課題解決を目指す連携で、ユーザーと参画企業の双方に大きなメリットを生む【パナソニック株式会社】＜連載第2回（全2回）＞",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みと顧客ニーズを知り、エコシステムを形成すれば、生き残りは可能【ミツフジ株式会社】＜連載第2回（全2回）＞",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業としてSDGsを経営戦略に取り入れ、多数の新規取引先を獲得【株式会社大川印刷】＜連載第1回（全2回）＞",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "MIM(金属粉末射出成形)専門の製造会社 | 太盛工業株式会社",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末射出成形で量産化",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "インコネル関連 粉末冶金国際会議【World PM2024】",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "タンタル関連 粉末冶金国際会議【World PM2024】",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン関連 粉末冶金国際会議【World PM2024】",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークサンプル・測定・シミュレーションデータなどをご覧頂き、実際に図面等御座いましたらその場で MIM 化検討に向けたお打ち合わせやお見積対応も可能です",
+    "url": "https://www.taisei-kogyo.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "（社）西日本プラスチック製品工業協会・（社）日本粉末冶金工業会・（社）粉体粉末冶金協会・IVAM",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末評価と混練の最新知見",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末射出成形（MIM）に高付加価値をつける戦略！",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金国際学会(World PM2024)発表概要",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "MIMの原料である金属粉末とバインダを混ぜた、FS（フィードストック）の「混ざり具合」について",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "MIMの原料である金属粉末とバインダを「混ぜる」お話です",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "MIMの出発材料である粉末の評価の基本と実情・悩みーその1",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "MIMで使用する金属粉末の製造方法",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末とバインダが決める面粗度",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末射出成形のマイクロ化への挑戦",
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末射出成形（Metal Injection Molding: MIM）は、金属粉末と樹脂およびワックスなどからなるバインダを混合・混練して、金型内に射出成形し、バインダを脱脂したあと焼結して金属製品を製造する技術です",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "微粉末を使用するため、一般的な粉末冶金製品に比べ表面が滑らか",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "超微細粉末が適用できるため、表面の粗さや精度をさらに向上",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な粉末冶金製品に比べ機械的性質が優れる",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "0.3μm（超微細粉末の場合）",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "＊形状・粉末粒径・鋼種によって異なりますので、詳細につきましてはお問合せください",
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "pass": 1
+   },
+   {
+    "quote": "MIMの一番最初の工程として、金属粉末を樹脂製のつなぎであるバインダと加熱・混練することで、MIMの原料となるペレット(フィードストック)が作られます",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "なぜならば、金属粉末の材質や形状、大きさによって樹脂との相性や最終的な粘度、焼結時における脱バインダの挙動が異なりそれにより最終製品の品質が微妙に左右されるからです",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM は金属粉末の高密度焼結体であり、通常表面は梨地状の状態で出来上がります",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "太盛工業ではこの課題に対し、微小な粒径の金属粉末によるMIM製造技術を開発することで対応しました",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "粒径を調整することで製造の難易度や材料価格は上がってしまいますが、下写真のように非常に滑らかな表面形状を得ることができます",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末を用いるMIMでは、金属粉末の重量のために射出の際の慣性の問題が大きく現れます",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "従って型への充填の際に勢いがありすぎると慣性力の影響で成形時に金属粉末の分布が不均一になり、成形後、焼結時にクラック等のトラブル、品質不良を引き起こしてしまいます",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "特に原料金属粉末の細かいμ-MIMの領域では粒子の比表面積が大きくなることで反応性が高くなり、焼結条件の影響を受けやすくなるため、より高度な管理が重要となります",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金との比較",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金は原料となる金属粉末を金型で圧縮成形し焼結する製法です",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "μ-MIMは幅広い材料の選択肢はそのままに、粉末冶金の短所を克服した工法といえます",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dデータを元に金属粉末を立体印刷する工法で、どのような形状にも対応可能ですが積層面に対して強度に異方性が出たり、積層面にシマ模様が現れるなど製品表面が二次加工無しでは粗くなります",
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM は金属粉末を焼結させることで部品を得ますが、焼結という工程の特性により原料粉末段階での調合による新規合金系の試作など幅広い材料を使用することができます",
+    "url": "https://www.taisei-kogyo.com/service/mim-repertoire/",
+    "pass": 1
+   },
+   {
+    "quote": "単純に粉末を変えるだけで製作できるというわけではなく、各材料粉末に応じた各工程の条件適正化が必要ですので、太盛工業では研究開発部門が常に新材料導入に向けた挑戦をしております",
+    "url": "https://www.taisei-kogyo.com/service/mim-repertoire/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金にこだわらず、拡散接合処理や熱処理など小ロットでの試験・試作も是非ご相談下さい",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "通電焼結法が他の粉末冶金の工法と最も違う点は、加圧と同時に電流を材料に印加することで、粉末間でのジュール加熱および型のジュール加熱を利用して高速に焼結する点です",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "該当設備を利用することで、ごく少量の金属粉末材料で焼結体試料を素早く、低電力で得られる他、通常では焼結による一体化が不可能な組み合わせでの複合化(積層構造化、合金化)など様々な試験を実施することも可能です",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "開発ステージに合わせて500g程度の試料から射出成形可能な小型成形機もございますので、新規の合金粉末や特殊粉末のMIM化検討は是非ご相談下さい",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば稀少な金属(レアメタル等)を含むもの、ナノ粒子材料、粉末ベースでの合金化、金属とセラミックスの複合化などに実績がございます",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "MIMは比重の大きく異なる金属粉末と樹脂の複合材を金型に充填するため、一般的なプラスチックの流動シミュレーションソフトによる解析をそのままMIMに応用することは出来ません",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事では、当社の超精密金属粉末射出成形技術「μ-MIM®」を活用し、シャフト部品の”一体化”によって、トータルコストの大幅削減と製品信頼性の向上を同時に実現したお客様の成功事例をご紹介します",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金属粉末射出成形「μ-MIM®」による部品一体化というアプローチ",
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工や一般的な粉末冶金では製作が困難な形状の微細パイプを、ISO１３４８５認証の品質管理のもと量産します",
+    "url": "https://www.taisei-kogyo.com/product/micropipe/",
+    "pass": 1
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまでのページでお伝えしてきた通り、MIMは金属粉末をバインダと混ぜて射出成形を行いますが、このバインダこそが、部品形状や精度の限界を決める重要な要素なのです",
+    "url": "https://metal-injection-tech.com/mim/mim02/",
+    "pass": 3
+   },
+   {
+    "quote": "賃上げ・価格転嫁",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりコミュニティと自動見積・受発注で相乗効果「栗原精機」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド見積り作成支援システムで新会社設立「月井精密」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「農研堂」販売価格は自ら決めてビジネスする",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "産地の危機回避へ サブスクで販路開拓に挑戦「清峰堂株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "捕獲されるイノシシ「1頭でも埋めたくない」と猪肉サブスク開始「合同会社弐百円」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型化・軽量化・高性能化・低価格化を実現した非常用浄水器【株式会社ミヤサカ工業】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "子育てのQuality of lifeをぐっと上げる離乳食のサブスク 当事者目線だからこその共感と支持【FUNFAM株式会社（東京都西多摩郡）】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "原価の増加分を新商品価格に反映：有限会社 伊勢屋（食料品製造業）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みを生かして宿泊料金を値上げ：有限会社 岡三屋（宿泊業）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "92年、2代目に就任した田中社長は、従来の製造技術をベースとして新たに粉末冶金による金属粉末射出成形（MIM）の事業化に着手",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な3次元の形状やミクロレベルの形成が可能で、金属材料も粉末であれば対応できるなど、多くのメリットがある」と研究開発室の鹿子泰宏研究員は説明する",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1,000 万円",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "外径φ2.25mm 円筒肉厚0.5mm",
+    "url": "https://www.taisei-kogyo.com/service/mim-example/",
+    "pass": 1
+   },
+   {
+    "quote": "「伊賀の里モクモク手づくりファーム」売上50億円、6次産業化の先駆け",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「こと京都」カットした九条ねぎで年商10億円をめざす",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "捕獲されるイノシシ「1頭でも埋めたくない」と猪肉サブスク開始「合同会社弐百円」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミドル層を動かし、2030年以降も持続可能な企業へ【株式会社横田アソシエイツ代表取締役／ 慶應義塾大学大学院政策・メディア研究科特任教授・横田浩一氏】＜連載第4回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高100億円への軌跡",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「変化を恐れるな」、3つの危機乗り越え100億円企業に挑む「港製器工業株式会社」",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "多くのMIM メーカーがこのバインダをバインダメーカーから購入して行っているため、細かな条件調整が不得意なケースが多いのですが、太盛工業ではこのバインダの調整を含めすべて自社開発で行っているため、他社ではできないような複雑・微細形状を高精度で実現することが可能なのです",
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発したフィードストック（MIM原料）を使用することにより、通常のMIMでは製造困難な微細・高精度金属部品の量産化も可能です",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶加工技術で自社製品を開発、地元との連携をさらに強化へ【中島プレス工業有限会社（埼玉県越谷市）代表取締役・小松崎いずみ氏】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "抗菌手袋で自社製品の開発・生産に挑戦【有限会社大勝製造所】（高知県土佐市）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "西陣織など日本独自の複雑な織物づくりを支える！単動式電子ジャカード機をはじめ紋紙を電子化したダイレクトジャカードを自社開発【CSS株式会社】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は、ロボット技術で自社製品の高付加価値化を【千葉工業大学 未来ロボット技術研究センター「fuRo」所長・古田貴之氏】＜連載第3回＞（全4回）",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "「働き方改革」が事故を減らす 自社開発アプリで労働環境改善【菱木運送株式会社（千葉県匝瑳市） 】",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸入取り組み事例一覧",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 太盛工業株式会社 — 会社概要 - 太盛工業株式会社 太盛工業株式会社 https://www.taisei-kogyo.com > company",
+    "url": "https://www.taisei-kogyo.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "太盛工業 | 企業情報 | イプロスものづくり — 太盛工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "pass": 3
+   },
+   {
+    "quote": "太盛工業 の企業情報 | バフェット・コード — 太盛工業 の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/0ajheps33f/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ 太盛工業 では超精密MIM（μ-MIM®）が可能なのか — なぜ 太盛工業 では超精密MIM（μ-MIM®）が可能なのか metal-injection-tech.com https://metal-injection-tech.com > mim > mim02",
+    "url": "https://metal-injection-tech.com/mim/mim02/",
+    "pass": 3
+   },
+   {
+    "quote": "太盛工業 株式会社: MIM(金属粉末射出成形)専門の製造会社 — 太盛工業 株式会社: MIM(金属粉末射出成形)専門の製造会社 太盛工業株式会社 https://www.taisei-kogyo.com",
+    "url": "https://www.taisei-kogyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "太盛工業 株式会社 (@taiseikogyo_mim) - Instagram — 太盛工業 株式会社 (@taiseikogyo_mim) - Instagram Instagram https://www.instagram.com > taiseikogyo_mim",
+    "url": "https://www.instagram.com/taiseikogyo_mim/",
+    "pass": 3
+   },
+   {
+    "quote": "太盛工業 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 太盛工業 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C10000013Fc28",
+    "pass": 3
+   },
+   {
+    "quote": "Product 製品事例 / 一覧 - 太盛工業株式会社 — Product 製品事例 / 一覧 - 太盛工業株式会社 太盛工業株式会社 https://www.taisei-kogyo.com > product",
+    "url": "https://www.taisei-kogyo.com/product/",
+    "pass": 3
+   },
+   {
+    "quote": "「 太盛工業 （大阪市）」世界一の研究開発型「町工場」へ — 「 太盛工業 （大阪市）」世界一の研究開発型「町工場」へ J-Net21[中小企業ビジネス支援サイト] https://j-net21.smrj.go.jp > special > news",
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "pass": 3
+   },
+   {
+    "quote": "太盛工業 株式会社 大阪府 寝屋川市 — 太盛工業 株式会社 大阪府 寝屋川市 エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/89792/",
+    "pass": 3
+   },
+   {
+    "quote": "μ-MIM技術ニュース Vol.19 - 太盛工業株式会社 — μ-MIM技術ニュース Vol.19 - 太盛工業株式会社 太盛工業株式会社 https://www.taisei-kogyo.com > technique",
+    "url": "https://www.taisei-kogyo.com/technique/3694/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.taisei-kogyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/technique/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-basic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-advantage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-repertoire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/mim-evaluation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/porous-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/iso13485-2019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/summer-vacation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/product/cam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/product/ti-6al-4v_propeller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/product/nozzle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/product/bevel_mitar_gear/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/product/micropipe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/medtec-japan-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/medix2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/medtec-japan-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/news/bcp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/0ajheps33f/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metal-injection-tech.com/mim/mim02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/taiseikogyo_mim/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/taiseikogyo_mim/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2032414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/taiseikogyo_mim/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "太盛工業 代理店 契約",
+   "results": [
+    "https://www.taisei-kogyo.com/company/",
+    "https://mono.ipros.com/company/detail/2032414/",
+    "https://www.buffett-code.com/company/0ajheps33f/",
+    "https://micro-mim-japan.com/company/message",
+    "https://metal-injection-tech.com/mim/mim02/",
+    "https://www.instagram.com/taiseikogyo_mim/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000013Fc28",
+    "https://taisei-kougyou.net/08_company/index.html",
+    "https://taisei-group-recruit.jp/job/%E8%A3%BD%E9%80%A0-3/",
+    "https://www.taisei-kogyo.com/"
+   ]
+  },
+  {
+   "query": "太盛工業 導入事例",
+   "results": [
+    "https://www.taisei-kogyo.com/",
+    "https://metal-injection-tech.com/mim/mim02/",
+    "https://www.instagram.com/taiseikogyo_mim/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000013Fc28",
+    "https://micro-mim-japan.com/technique",
+    "https://taisei-group-recruit.jp/job/%E8%A3%BD%E9%80%A0-3/",
+    "https://www.taisei-kogyo.com/product/",
+    "https://neyagawa-nia.com/member_date/taisei/",
+    "https://gijutsu-hyakka.com/companies/taisei-kogyo/"
+   ]
+  },
+  {
+   "query": "太盛工業 価格 OR 料金",
+   "results": [
+    "https://www.taisei-kogyo.com/product/",
+    "https://j-net21.smrj.go.jp/special/news/ffsr280000002bqi.html",
+    "https://www.instagram.com/taiseikogyo_mim/",
+    "https://metal-injection-tech.com/mim/mim02/",
+    "https://ja.nc-net.or.jp/company/89792/",
+    "https://mono.ipros.com/company/detail/2032414/",
+    "https://www.taisei-kogyo.com/",
+    "https://www.buffett-code.com/company/1hkb9txb5k/",
+    "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html",
+    "https://developers.openai.com/api/docs/pricing"
+   ]
+  },
+  {
+   "query": "太盛工業 受託 造形",
+   "results": [
+    "https://www.taisei-kogyo.com/technique/3694/",
+    "https://mono.ipros.com/company/detail/2032414/",
+    "https://www.instagram.com/taiseikogyo_mim/",
+    "https://metal-injection-tech.com/mim/mim02/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000013Fc28",
+    "https://ja.nc-net.or.jp/company/89792/equipment/",
+    "https://www.taisei-kogyo.com/",
+    "https://taisei-group-recruit.jp/job/%E8%A3%BD%E9%80%A0-3/",
+    "https://micro-mim-japan.com/technique",
+    "https://www.taisei-kogyo.com/service/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像0件／外部8頁・検索4回）"
+ }
+}

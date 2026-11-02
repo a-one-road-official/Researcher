@@ -1,0 +1,1406 @@
+{
+ "name": "株式会社萬代",
+ "aliases": [],
+ "context": "受託(金属・樹脂3Dプリンタ+切削のハイブリッド加工)；金属・樹脂3Dプリンター（Markforged）＋マザックINTEGREXによるハイブリッド加工受託 /",
+ "researched_at": "2026-11-02T10:28:57.683688+00:00",
+ "official_url": "http://www.mandai-inc.co.jp/index.php（イプロスの「公式サイト」リンク先。本文はfetch不可で未読",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和１４年４月",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和３８年２月",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "昭和１４年４月",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和３８年２月",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "納入実績トップ",
+    "url": "http://www.mandai-inc.co.jp/index.php%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E3%81%AE%E3%80%8C%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8D%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%88%E3%80%82%E6%9C%AC%E6%96%87%E3%81%AFfetch%E4%B8%8D%E5%8F%AF%E3%81%A7%E6%9C%AA%E8%AA%AD",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績 - 株式会社萬代 神戸・島根のものづくり専門商社",
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "> 納入実績",
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績 - 株式会社萬代 神戸・島根のものづくり専門商社",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "> 納入実績",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ造形によるコスト削減と納期短縮 - 納入実績① 株式会社萬代",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "３Dプリンタ造形品をお客様にどう提案するか",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の納入実績",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "＜お客様の個人情報の取得・利用について＞",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "職人技と熱意で実現したコスト削減と品質向上 - 納入実績② 株式会社萬代",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "■製品のユーザーさんが手を触れる場所なので、表面をなめらかに仕上げたい",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ひび割れは曲げる前に焼きなましを行えば回避できそうでしたので熱処理炉による焼きなましを検討しましたが、後工程でショットブラストによる仕上げ処理が必要になり、お客様が求められている「なめらかさ」を損なう恐れがありました",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の納入実績",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "＜お客様の個人情報の取得・利用について＞",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "大型連休直前の緊急対応 お客さまと加工業者パートナーの協力により短納期対応を実現 - 納入実績③ 株式会社萬代",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の納入実績",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "＜お客様の個人情報の取得・利用について＞",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金加工への挑戦 実現困難な図面仕様から現実的な仕様に導き解決へ - 納入実績④ 株式会社萬代",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の納入実績",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "＜お客様の個人情報の取得・利用について＞",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "発注プロセスの最適化と設計自由度の向上 萬代の包括的ソリューション - 納入実績⑤ 株式会社萬代",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の納入実績",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "コストを現状より抑えつつ、鋭角な曲げ部分のひび割れを防ぎ、ユーザーさんの手に触れるため表面はなめらかに…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "＜お客様の個人情報の取得・利用について＞",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様のお役に立つ」想いは変わりません",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "そのようなお客様が抱えておられる部品調達におけるお悩みを、これまで蓄積したノウハウに加え、商社ならではの「拡がり続けるネットワーク」「自由な発想」を元に解決に導かせていただきます",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "また弊社は「お客様のお役に立つ」ことはもちろんのこと、その活動を支えてくださっている「仕入先様のお役に立つ」こともカンパニーポリシーとして掲げております",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "仕入先様との良好なパートナーシップ関係を大切にしながら、萬代は昭和14年の創業以来、想い続けてきた「お客様のお役に立つ」ことをこれからも実践して参ります",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とお客様のビジネスマッチングを図る目的で、専用機械の販売を始める",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "関西地区のお客様と島根地区加工業者様とのビジネスマッチングを図ることを目的に、",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "愛媛県のお客様への迅速な供給体制を強化するため、現地に物流倉庫を設置する",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様のお役に立つ」想いは変わりません",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "そのようなお客様が抱えておられる部品調達におけるお悩みを、これまで蓄積したノウハウに加え、商社ならではの「拡がり続けるネットワーク」「自由な発想」を元に解決に導かせていただきます",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "また弊社は「お客様のお役に立つ」ことはもちろんのこと、その活動を支えてくださっている「仕入先様のお役に立つ」こともカンパニーポリシーとして掲げております",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "仕入先様との良好なパートナーシップ関係を大切にしながら、萬代は昭和14年の創業以来、想い続けてきた「お客様のお役に立つ」ことをこれからも実践して参ります",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とお客様のビジネスマッチングを図る目的で、専用機械の販売を始める",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "関西地区のお客様と島根地区加工業者様とのビジネスマッチングを図ることを目的に、",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "愛媛県のお客様への迅速な供給体制を強化するため、現地に物流倉庫を設置する",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/company/activity/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "https://www.mandai-inc.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "図面管理ソフト「ズメーン」さんのHPで導入事例として弊社が掲載されました",
+    "url": "https://www.mandai-inc.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "納入実績トップ",
+    "url": "http://www.mandai-inc.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "http://www.mandai-inc.co.jp/index.php%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E3%81%AE%E3%80%8C%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8D%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%88%E3%80%82%E6%9C%AC%E6%96%87%E3%81%AFfetch%E4%B8%8D%E5%8F%AF%E3%81%A7%E6%9C%AA%E8%AA%AD",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格、短納期が魅力",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "価格競争力が魅力のすべり軸受メーカー",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "価格の比較も容易になり「価格競争」も加速するばかりです",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "納期、価格、品質等、日頃から発生しうるお悩みに加え、時代の流れとともに既存仕入先さんの廃業、BCPへの取組といった新たなお悩みも次々と発生しているものと思われます",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "価格の比較も容易になり「価格競争」も加速するばかりです",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "納期、価格、品質等、日頃から発生しうるお悩みに加え、時代の流れとともに既存仕入先さんの廃業、BCPへの取組といった新たなお悩みも次々と発生しているものと思われます",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/company/activity/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "https://www.mandai-inc.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "http://www.mandai-inc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "簡単なお問合せから図面添付によるご相談・見積依頼まで",
+    "url": "http://www.mandai-inc.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "JX日鉱日石エネルギー／11月の軽油卸価格1.2円上げ",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロジスティクス手帳2011／販売開始、特別価格1800円",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争を打破する加工品ビジネスへの挑戦",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー品はどうしても価格競争になりがちです",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "が備わっていることに加え、他社と比べて価格が安く、圧倒的にコスパが良かったことも大きな魅力でした",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "これと同じように、日々の見積もり手配で劇的な効果を発揮しているのが",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "複数社へ見積もりを依頼した際、どこから回答が来てどこがまだなのかが一目でわかるようになり、見積もりの回答漏れが完全に無くなりましたね",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "価格改定のお知らせ 2025年9月3日",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では生産体制の効率化、業務の効率化、輸送の効率化等の社内努力を図り、商品価格を据え置いてまいりました",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、昨今の燃料や原材料の高騰（昨年来寄りの米価高騰）により現在の商品価格を維持することが困難な状況となりました",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "つきましては誠に心苦しく存じますが2025年10月1日出荷分より商品価格の改定をさせて頂くこととなりました",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の原料価格や資材費の高騰により",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月1日より商品の価格を",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "価格もお手頃ですのでちょっとした贈り物にいかがですか？",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ギフトラッピングでの特別価格でお送り致します",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "クール配送料金（220円）※60サイズ、80サイズ",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "クール便の場合、送料に別途クール料金がかかりますので",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※上記数量を超える場合は 330円のクール料金を",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com - 福岡県 萬代 [純米酒] (日本酒) 価格比較",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "萬代 [純米酒] 価格比較",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "参考最安価格（税込）：",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー希望小売価格：¥―",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "萬代 [純米酒]の価格比較",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com掲載ショップのみを対象に最安ショップを表示しております",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "この製品の参考最安価格を見る",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載している価格やスペック・付属品・画像など全ての情報は、万全の保証をいたしかねます",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "各ショップの価格や在庫状況は常に変動しています",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "ご購入の前には必ずショップのWebサイトで価格・利用規定等をご確認下さい",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "萬代 [純米酒]の価格比較・激安通販",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "- 価格.com",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "これまで数多く販売させていただき、豊富な実績とともにノウハウを蓄積してきた主要取扱部品メーカーを紹介いたします",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "■設計上、曲げ部分がどうしても鋭角になるため、ひび割れが発生してしまう",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "発注プロセスの最適化と設計自由度の向上 萬代の包括的ソリューション - 納入実績⑤ 株式会社萬代",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "> お客さまの発注手間を削減するとともに、部品設計の自由度をご提供",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの発注手間を削減するとともに、部品設計の自由度をご提供",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "■既存加工業者さんの保有設備で加工できる範囲で設計をしており、部品設計の自由度が低い",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "発注手間が掛からず、加工上の制約を受けることなく自由に部品設計できる環境を提供してもらえないか？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "「ふるさと加工ネットワーク」は拡がり続け、お客さまの自由な設計をサポートいたします",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容ごとに異なる業者に発注しており手間がかかっていることに加えて、業者が加工可能な範囲で部品を設計せざるを得ず設計の自由度が低い…というお悩みを解決した実績とは？",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "関西ベアリング販売協会",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "ベアリングの販売を目的に萬代商店を創業する",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "阪東調帯㈱（現：バンドー化学㈱）の販売代理店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精工㈱の販売代理店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "大同メタル工業㈱の販売代理店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱荒井製作所の販売特約店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "中国製ベアリングの販売を始める",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "韓国製カップリング、軸受ユニットの販売を始める",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "東南アジア地域への輸出販売を始める",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とお客様のビジネスマッチングを図る目的で、専用機械の販売を始める",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "関西ベアリング販売協会",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "ベアリングの販売を目的に萬代商店を創業する",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "阪東調帯㈱（現：バンドー化学㈱）の販売代理店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精工㈱の販売代理店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "大同メタル工業㈱の販売代理店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱荒井製作所の販売特約店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "中国製ベアリングの販売を始める",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "韓国製カップリング、軸受ユニットの販売を始める",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "東南アジア地域への輸出販売を始める",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とお客様のビジネスマッチングを図る目的で、専用機械の販売を始める",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社萬代の社内革新 - 社員教育、働きやすさ改善、快適な職場環境の実現",
+    "url": "https://www.mandai-inc.co.jp/company/activity/",
+    "pass": 1
+   },
+   {
+    "quote": "冬は会社ロゴ入りのフリースを着用しています",
+    "url": "https://www.mandai-inc.co.jp/company/activity/",
+    "pass": 1
+   },
+   {
+    "quote": "バンダイ／香港菓子販売代理店、四洲貿易有限公司と業務提携 | LNEWSバックナンバー",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤクルト／遼寧省と福建省に4支店開設、ヤクルトの販売体制強化",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車／フォークリフト国内販売会社を統合",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "バンダイ／香港菓子販売代理店、四洲貿易有限公司と業務提携",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）バンダイグループのアジア地域の生産・販売拠点である萬代（香港）有限公司／BANDAI（H.K.）CO.,LTD.は、香港・食品製造販売大手の四洲集団有限公司グループ傘下の菓子販売代理店四洲貿易有限公司／FourSeasMercantileLimited.と、バンダイの玩具菓子販売についての業務提携契約を締結した",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月より四洲貿易有限公司（以下：四洲貿易）が、香港地域で同社の持つ販売ルートである食品スーパーやGMS、直営菓子ショップでバンダイのキャラクター玩具菓子の販売を行い、この業務提携によりバンダイの玩具菓子の販売ルートは5倍（約300店舗から約1600店舗）に拡大する予定",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務提携により、バンダイは香港地域での菓子流通への販売ルートを拡大し菓子市場に本格的に参入します",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "両社は単に販売面での提携だけでなく、7月の導入期には四洲貿易の直営菓子ショップ（OKASHILAND）60店舗でバンダイのガンダムの玩具菓子と連動した共同プロモーションを行うなど、マーケティング面でも協力を行っていき、将来的にはバンダイのキャラクター玩具と四洲集団の製造部門の菓子を組み合わせた玩具菓子の共同開発や生産面での連携も視野に入れている",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "JX日鉱日石エネルギー／ガソリン混入軽油販売",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロジスティクス手帳2011／販売開始、特別価格1800円",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "図面検索が1分以内になり、新人教育や案件管理でも大活躍",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "）は、1939年の創業以来、「神戸・島根の機械部品商社」として機械部品の販売を中心にお客様のモノづくりを支えてきました",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "教育ノウハウの底上げ",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "20歳未満の方には販売いたしません",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "店頭販売もしておりますので",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※現在はベージュのみの販売となっております",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "焼酎商店 正価販売",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "ニードルベアリング製造メーカー",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "日本ニードルローラー製造株式会社",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "ニードルベアリング用ローラー製造メーカー",
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "pass": 1
+   },
+   {
+    "quote": "単価：20,000円",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "NC円筒研削盤",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "真円度測定器",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "pass": 1
+   },
+   {
+    "quote": "単価：100円",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "NC円筒研削盤",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "真円度測定器",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "pass": 1
+   },
+   {
+    "quote": "使用加工機：NC旋盤、マシニングセンタ、ロウ付け加工機、円筒研磨機",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "単価：150,000円",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "NC円筒研削盤",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "真円度測定器",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "pass": 1
+   },
+   {
+    "quote": "使用加工機：ワイヤーカット加工機、円筒研削盤、内面研削盤",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "単価：270,000円",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "NC円筒研削盤",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "真円度測定器",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "pass": 1
+   },
+   {
+    "quote": "単価：100,000円",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "NC円筒研削盤",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "真円度測定器",
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "pass": 1
+   },
+   {
+    "quote": "１,０００萬円",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "萬代商店を株式会社に改組、資本金を480萬円とする",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を960萬円とする",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を1,000萬円とする",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "１,０００萬円",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "萬代商店を株式会社に改組、資本金を480萬円とする",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を960萬円とする",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を1,000萬円とする",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "バンダイでは香港地域における玩具菓子事業での売上を、現在の約5千万円（2003年実績）から、3年後（2007年）には10億円にまで伸ばす",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "JX日鉱日石エネルギー／11月の軽油卸価格1.2円上げ",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロジスティクス手帳2011／販売開始、特別価格1800円",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "スズケン／福岡県に物流センター稼働、設備投資60億円",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "クール配送料金（220円）※60サイズ、80サイズ",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【220円のクール発送の目安】",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※上記数量を超える場合は 330円のクール料金を",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "参考最安価格（税込）：",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "阪東調帯㈱（現：バンドー化学㈱）の販売代理店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精工㈱の販売代理店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "大同メタル工業㈱の販売代理店となる",
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "阪東調帯㈱（現：バンドー化学㈱）の販売代理店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "日本精工㈱の販売代理店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "大同メタル工業㈱の販売代理店となる",
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "バンダイ／香港菓子販売代理店、四洲貿易有限公司と業務提携 | LNEWSバックナンバー",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "バンダイ／香港菓子販売代理店、四洲貿易有限公司と業務提携",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）バンダイグループのアジア地域の生産・販売拠点である萬代（香港）有限公司／BANDAI（H.K.）CO.,LTD.は、香港・食品製造販売大手の四洲集団有限公司グループ傘下の菓子販売代理店四洲貿易有限公司／FourSeasMercantileLimited.と、バンダイの玩具菓子販売についての業務提携契約を締結した",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "7月より四洲貿易有限公司（以下：四洲貿易）が、香港地域で同社の持つ販売ルートである食品スーパーやGMS、直営菓子ショップでバンダイのキャラクター玩具菓子の販売を行い、この業務提携によりバンダイの玩具菓子の販売ルートは5倍（約300店舗から約1600店舗）に拡大する予定",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務提携により、バンダイは香港地域での菓子流通への販売ルートを拡大し菓子市場に本格的に参入します",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "両社は単に販売面での提携だけでなく、7月の導入期には四洲貿易の直営菓子ショップ（OKASHILAND）60店舗でバンダイのガンダムの玩具菓子と連動した共同プロモーションを行うなど、マーケティング面でも協力を行っていき、将来的にはバンダイのキャラクター玩具と四洲集団の製造部門の菓子を組み合わせた玩具菓子の共同開発や生産面での連携も視野に入れている",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工業、TBK／ターボチャージャー増産で、資本・業務提携",
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本精工・大同メタル工業・バンドー化学。 萬代 が販売 代理 ... — 日本精工・大同メタル工業・バンドー化学。 萬代 が販売 代理 ... mandai-inc.co.jp https://www.mandai-inc.co.jp > ... > パートナー企業紹介",
+    "url": "https://www.mandai-inc.co.jp/blog/2022/05/26/%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%B7%A5%E3%83%BB%E5%A4%A7%E5%90%8C%E3%83%A1%E3%82%BF%E3%83%AB%E5%B7%A5%E6%A5%AD%E3%83%BB%E3%83%90%E3%83%B3%E3%83%89%E3%83%BC%E5%8C%96%E5%AD%A6%E3%80%82%E3%88%B1%E8%90%AC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 萬代 | 関連資料もまとめて保存できる図面管理システム — 株式会社 萬代 | 関連資料もまとめて保存できる図面管理システム ズメーン https://lp.zume-n.com > case-1 > mandai-inc",
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "清酒 君 萬代 （田中酒造店） — 清酒 君 萬代 （田中酒造店） 清酒 君萬代 https://kimibandai.theshop.jp",
+    "url": "https://kimibandai.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県 萬代 [純米酒] (日本酒) 価格 比較 — 福岡県 萬代 [純米酒] (日本酒) 価格 比較 価格.com https://kakaku.com > ドリンク > お酒 > 日本酒 > 福岡県",
+    "url": "https://kakaku.com/item/S0000218167/",
+    "pass": 3
+   },
+   {
+    "quote": "萬代 本醸造 - 酒匠さんそう — 萬代 本醸造 - 酒匠さんそう 酒匠さんそう https://sakesanso.com > bandai-honjozo-genteisyu",
+    "url": "https://sakesanso.com/products/bandai-honjozo-genteisyu?srsltid=AYCX9vICg74uARonuMRn-IZ6D-NJVI20NOMJtG_5NGy20d_f0tnEI74m",
+    "pass": 3
+   },
+   {
+    "quote": "小林酒造場[ 萬代 ] - 友添本店 — 小林酒造場[ 萬代 ] - 友添本店 友添本店 https://www.tomozoe-honten.co.jp > view > category",
+    "url": "https://www.tomozoe-honten.co.jp/view/category/ct256?srsltid=AYCX9vIu9YLxs3Hddi2vld6UxQcux0lBUFyn0NJndwkBf15sQ0hI2JAX",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.mandai-inc.co.jp/index.php%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E3%81%AE%E3%80%8C%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8D%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%88%E3%80%82%E6%9C%AC%E6%96%87%E3%81%AFfetch%E4%B8%8D%E5%8F%AF%E3%81%A7%E6%9C%AA%E8%AA%AD",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.mandai-inc.co.jp/deliveryrecord/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/deliveryrecord05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.mandai-inc.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/company/activity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.mandai-inc.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.mandai-inc.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mandai-inc.co.jp/wp-content/uploads/2023/08/MANDAI_%E7%B4%8D%E5%85%A5%E5%AE%9F%E7%B8%BETOP_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/wp-content/uploads/2023/08/MANDAI_%E7%B4%8D%E5%85%A5%E5%AE%9F%E7%B8%BETOP_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/wp-content/uploads/2023/08/MANDAI_%E7%B4%8D%E5%85%A5%E5%AE%9F%E7%B8%BETOP_09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/wp-content/uploads/2023/08/MANDAI_%E7%B4%8D%E5%85%A5%E5%AE%9F%E7%B8%BETOP_10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mandai-inc.co.jp/wp-content/uploads/2023/08/MANDAI_%E7%B4%8D%E5%85%A5%E5%AE%9F%E7%B8%BETOP_13.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.banasupport.net/regist/index.pl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.zume-n.com/case-1/mandai-inc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iij.ad.jp/svcsol/case/bandai_bandaispirits.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iret.co.jp/news/20231006_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakebandai.com/blank-7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kimibandai.theshop.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakaku.com/item/S0000218167/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "萬代 代理店 契約",
+   "results": [
+    "https://www.banasupport.net/regist/index.pl",
+    "https://www.mandai-inc.co.jp/blog/2022/05/26/%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%B7%A5%E3%83%BB%E5%A4%A7%E5%90%8C%E3%83%A1%E3%82%BF%E3%83%AB%E5%B7%A5%E6%A5%AD%E3%83%BB%E3%83%90%E3%83%B3%E3%83%89%E3%83%BC%E5%8C%96%E5%AD%A6%E3%80%82%E3%88%B1%E8%90%AC/",
+    "https://www.lnews.jp/backnumber/2004/08/12981.html",
+    "https://www.bandai.co.jp/",
+    "https://kidssmile.co.jp/company/",
+    "https://www.tcshaken.co.jp/staff/orders/show/263310-0247",
+    "https://www.kapla.co.jp/company/",
+    "https://my.ms-ins.com/page/?x=0000377980&n=&m=3",
+    "https://www.bandainamco.co.jp/cgi-bin/releases/index.cgi/press/9557?entry_id=6672",
+    "https://keiyaku-watch.jp/media/keiyakuruikei/hanbaidairitenkeiyaku/"
+   ]
+  },
+  {
+   "query": "萬代 導入事例",
+   "results": [
+    "https://lp.zume-n.com/case-1/mandai-inc",
+    "https://www.iij.ad.jp/svcsol/case/bandai_bandaispirits.html",
+    "https://www.iret.co.jp/news/20231006_2.html",
+    "https://www.fujifilm.com/fb/ja/solutions/case-studies/bandai",
+    "https://www.comture.com/casestudy/cloud/kintone-bandaigroup.html",
+    "https://pr.mono.ipros.com/mandai-inc/product/detail/2000371880/",
+    "https://www.youtube.com/watch?v=aB_1WQ-aDRU",
+    "https://www.dos-osaka.co.jp/ss1/casestudy/bandainamco/",
+    "https://www.kktisc.co.jp/case/5482/",
+    "https://crewworks.net/case/mandai/"
+   ]
+  },
+  {
+   "query": "萬代 価格 OR 料金",
+   "results": [
+    "https://www.sakebandai.com/blank-7",
+    "https://kimibandai.theshop.jp/",
+    "https://kakaku.com/item/S0000218167/",
+    "https://sakesanso.com/products/bandai-honjozo-genteisyu?srsltid=AYCX9vICg74uARonuMRn-IZ6D-NJVI20NOMJtG_5NGy20d_f0tnEI74m",
+    "https://www.tomozoe-honten.co.jp/view/category/ct256?srsltid=AYCX9vIu9YLxs3Hddi2vld6UxQcux0lBUFyn0NJndwkBf15sQ0hI2JAX",
+    "https://www.sakenomy.jp/sake/TST0000025846/?srsltid=AYCX9vIoUl2pKUR0CDG_dK2SQT2kpIspw6uUuLF5abgnqKwi6e-m2Ln7",
+    "https://search.rakuten.co.jp/search/mall/%E8%90%AC%E4%BB%A3+%E6%97%A5%E6%9C%AC%E9%85%92/",
+    "http://www.fukuoka-sake.org/encyclopedia/detail.php?ID=222",
+    "https://tokubai.co.jp/万代/leaflet?business_category=supermarket",
+    "https://www.mandai-net.co.jp/"
+   ]
+  },
+  {
+   "query": "萬代 受託 造形",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.yam-kyoto.com/production-service/",
+    "https://www.3dpc.co.jp/madehere",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://make.dmm.com/blog/news/service-bureau/",
+    "https://www.mandai-inc.co.jp/method/zoukei/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像5件／外部11頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像5件／外部11頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式17頁／PDF・画像5件／外部11頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式17頁／PDF・画像5件／外部11頁・検索4回）"
+ }
+}

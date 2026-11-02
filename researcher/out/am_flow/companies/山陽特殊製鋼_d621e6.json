@@ -1,0 +1,1558 @@
+{
+ "name": "山陽特殊製鋼",
+ "aliases": [],
+ "context": "TRAFAM 材料開発（2016） /",
+ "researched_at": "2026-11-02T10:19:41.166693+00:00",
+ "official_url": "https://www.sanyo-steel.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1935年（昭和10年）1月11日 【 沿 革 】",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結6,104名 単体1,644名（就業人員）",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "3,418億円（2025年度実績・連結）",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "鋼材事業 軸受鋼、機械構造用鋼、ステンレス鋼、耐熱鋼、工具鋼などの各種特殊鋼製品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼製品、製鋼原料、諸資材などの売買",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼製品の加工・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼の加工、機械設備のメンテナンス等",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼製品の加工（素形材関係）",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "情報システム構築・運用・コンサルティング",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼製品の加工・販売（素形材関係）",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼製品の販売等に関わる業務",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "特殊鋼製品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容 ：",
+    "value": "「特殊鋼」の開発・製造・加工・販売",
+    "url": "https://aipipecounter.com/case-sanyo.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "軸受鋼、機械構造用鋼、ステンレス鋼、耐熱鋼、工具鋼などの各種特殊鋼製品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼棒鋼・鋼管を素材とする素形材製品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼製品の加工・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "情報システム構築・運用・コンサルティング",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼製品の加工・販売（素形材関係）",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼製品の販売等に関わる業務",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼製品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/publicnotice.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/publicnotice.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/introduce.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/introduce.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、「特殊鋼」というものを製造・販売しています",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽特殊製鋼は、CAE解析技術を金型や工程の設計に反映させ、素材特性を踏まえた加工技術の開発体制を確立し、高清浄度鋼製造技術を駆使して造りあげた高清浄度鋼から、高品質の素形材製品を一貫した工程で製造しています",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "CAE解析を駆使した高度な金型設計開発を行っています",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望の合金（組成）・粒度設計が可能です",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望に応じた成分の小ロット試作が可能です",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望に応じた合金、サイズ、数量の設計が可能です",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "（少量試作、研究試作承ります）",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/catalog.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/catalog.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/sds/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/sds/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では職種を問わず女性社員の採用・活躍推進に力を入れており、より働きやすい職場環境の整備やキャリア教育、各種サポート制度の整備を進めています",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術職採用（オペレーター、検査、保守）",
+    "url": "https://www.sanyo-steel.co.jp/product/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報技術リリース",
+    "url": "https://www.sanyo-steel.co.jp/product/index.php",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から、そして社会からの信頼をいただけるよう、全力を尽くします",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多様化する産業界のニーズに応えるため、",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からの信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズを迅速・的確にとらえ、高品質の特殊鋼製品を適切に提供することにより、お客様からの信頼の獲得を目指します",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "山陽特殊製鋼は「社会からの信頼」「お客様からの信頼」「人と人との信頼」を確立することを目指す「信頼の経営」を経営理念としています",
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/publicnotice.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/publicnotice.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/introduce.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/introduce.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "山陽特殊製鋼は、このべアリングに用いられる軸受鋼で、世界最高レべルの品質を実現しており、業界でトップメーカーとして認められています",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "pass": 1
+   },
+   {
+    "quote": "山陽特殊製鋼は、世界最高級の清浄度を実現する高清浄度鋼製造技術を駆使し、軸受用鋼の品質と信頼性の高さで業界をリードするとともに、棒鋼・線材・鋼管から素形材まで、お客様の工程に合わせた最適な形状で提供できる生産体制を構築しています",
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/catalog.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/catalog.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/sds/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/sds/",
+    "pass": 1
+   },
+   {
+    "quote": "※ダウンロード用返信メールはお客様のセキュリティシステムによってはブロックされる可能性がございますのでご了承ください",
+    "url": "https://www.sanyo-steel.co.jp/product/sds/",
+    "pass": 1
+   },
+   {
+    "quote": "できあがった製品が、お客様や会社の基準を満たしているかを細かくチェックします",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との信頼",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "数帯に合わせたノイズ対策用高機能磁性粉末など、お客様のニーズに応じた多種多様な高機能金属粉末をそろ",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260925.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイカスト金型向け金属AM用粉末「S-MEC®シリーズ」が粉体粉末冶金協会から新技術・新製品賞（優秀賞）を受賞",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高純度・球形状シリコン粉末の製造技術を開発",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高熱伝導性ダイカスト金型用合金粉末を商品化",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品の製造・販売",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末製造工場および金属粉末加工工場完成",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "第2粉末工場完成",
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "粉末事業部、研究・開発センター、技術企画管理部を担当",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "粉末事業部長を委嘱",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "粉末事業部副事業部長、粉末技術部長を委嘱",
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/publicnotice.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/introduce.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター用高機能ガスアトマイズ金属粉末NOVASHAPEシリーズ",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ノイズ対策用高機能磁性粉末",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品 | 製品情報 | 山陽特殊製鋼株式会社",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品は、さまざまな分野において各種製品の高性能化を支える先端材料のひとつで、構造材料やエレクトロニクス関連の機能材料などに幅広く利用されています",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽特殊製鋼は、真空溶解と不活性ガスアトマイズを組み合わせた金属粉末製造技術を駆使して、不純物が少なく、流動性に優れた高品質の金属粉末を製造しているほか、これらの金属粉末から、独自の成形技術によって粉末成形品を製造しています",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品カタログ（PDF：6,614KB）",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能球状金属粉末",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "真空溶解と不活性ガスアトマイズの組み合わせにより、低酸素で高純度な球状金属粉末を製造します",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター用金属粉末NOVASHAPEシリーズ",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターに適した各種組成、粒度の金属粉末提供が可能です",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "低酸素の金属粉末のため、造形品の不純物生成を抑制できます",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "球状粉のため、良好な粉末供給性・高密度な粉末積層を実現できます",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "【特選素材：3Dプリンター用高機能ガスアトマイズ金属粉末NOVASHAPEシリーズ】",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末ハイス SPMシリーズ",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "真空溶解と不活性ガスアトマイズの組み合わせで製造された金属粉末を固化成形することで、清浄度の高い粉末ハイスを製造します",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末製高耐食・耐摩耗工具鋼 SPC5",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "溶製法では製造することができなかった高炭素－高クロム合金を、真空溶解と不活性ガスアトマイズの組み合わせで製造された金属粉末を固化成形することで製造します",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "真空溶解と不活性ガスアトマイズの組み合わせで製造された金属粉末を熱間押出法で固化成形するため、非常に偏析の少ない管および棒を製造することができます",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末から熱間押出法で製造するため、組織が微細均一です",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "ノイズ対策用高機能磁性粉末",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "広い周波数帯域をカバーする多品種の磁性粉末を提供します",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "【特選素材：ノイズ対策用高機能磁性粉末】",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "高真球金属粉末（ﾃﾞｨｽｸｱﾄﾏｲｽﾞ粉末）",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "真球度が高くサテライトの少ない金属粉末を提供します",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "高真球金属粉末（PDF：557KB）",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "東京支社（粉末営業部 東京営業グループ）",
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末・粉末成形品",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能ガスアトマイズ金属粉末NOVASHAPEシリーズ",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "不純物が少なく、流動性に優れた高品質・高機能金属粉末",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "耐摩耗性・耐焼付性に優れた窒化粉末ハイス",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "靱性と耐食性を大幅に向上させた粉末ハイス",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "ノイズ対策用高機能磁性粉末",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   },
+   {
+    "quote": "広い周波数帯域をカバーする多品種の磁性粉末",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "53,800百万円",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "3,418億円（2025年度実績・連結）",
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "サイジングにより、外径真円度が向上します",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "pass": 1
+   },
+   {
+    "quote": "高校卒 ：（基本給）216,000 円／月",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "短大卒・専門学校卒：（基本給）220,000 円／月",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒 ：（基本給）224,000 円／月",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サイジングにより、外径真円度が向上します",
+    "url": "https://www.sanyo-steel.co.jp/product/castings/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "連結経常利益115億円(前年同期比+24億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(単位：億円、％)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "子会社配当金含む(億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益 (億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単独経常利益 (億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 (億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結 +24億円",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単独 +7億円",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "-1億円を含む",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(うち販売数量変動影響 -46億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益 (億円)一過性",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もあり、経常利益は31億円(前期比‐2億円)となった",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益 (億円) 売上数量 (千t) 1．営業基盤・営業体制の強化",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エネルギーの活用および金利コスト削減などによるコスト改善施策の実行により 、経常利益は8億円",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(前期比+0億円)となった",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(円/kwh)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4,400 うち一過性影響 (億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のれん償却費除く経常利益合計 (億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高(OVAKO1-3月除く) (億円)",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "須田慎一郎「衆議院の定数、31削減に自維国が賛成」「イスラエル総選挙、須田さんの見方は？」「『能動的サイバー防御』発動のハードルは？」10月29日",
+    "url": "https://www.youtube.com/watch?v=R64RkMsbF6Q",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "鋼材輸入量を抑制",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "欧州鉄鋼製品輸入量推移",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄鋼製品輸入量",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉体 ・粉末冶金に関する研究の連絡提携および促進を図り、 もって学術の発達および技術の向上に寄与することを目的",
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20250529.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 山陽特殊製鋼 」の 代理店 28社 注目ランキング【2026年】 — 「 山陽特殊製鋼 」の 代理店 28社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 山陽特殊製鋼株式会社",
+    "url": "https://metoree.com/companies/41503/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "山陽特殊製鋼 株式会社 — 山陽特殊製鋼 株式会社 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp",
+    "url": "https://www.sanyo-steel.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用にあたって | 山陽特殊製鋼 株式会社 — ご利用にあたって | 山陽特殊製鋼 株式会社 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > utility > policy",
+    "url": "https://www.sanyo-steel.co.jp/utility/policy.php",
+    "pass": 3
+   },
+   {
+    "quote": "事業所一覧 | 会社情報 - 山陽特殊製鋼 — 事業所一覧 | 会社情報 - 山陽特殊製鋼 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > 会社情報",
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "pass": 3
+   },
+   {
+    "quote": "山陽特殊製鋼 - Wikipedia — 山陽特殊製鋼 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 山陽特殊製鋼",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E7%89%B9%E6%AE%8A%E8%A3%BD%E9%8B%BC",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ： 山陽特殊製鋼 株式会社 様 - AIパイプカウンター — 導入事例 ： 山陽特殊製鋼 株式会社 様 - AIパイプカウンター AIパイプカウンター https://aipipecounter.com > 導入事例・コラム",
+    "url": "https://aipipecounter.com/case-sanyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽特殊製鋼 技報 | 技術・開発 — 山陽特殊製鋼 技報 | 技術・開発 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > technology > report",
+    "url": "https://www.sanyo-steel.co.jp/technology/report.php",
+    "pass": 3
+   },
+   {
+    "quote": "3分で知る 山陽特殊製鋼 — 3分で知る 山陽特殊製鋼 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > saiyo > about",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/about/3minutes.html",
+    "pass": 3
+   },
+   {
+    "quote": "構造用鋼鋼材の 価格 改定に関するお知らせ - 山陽特殊製鋼 — 構造用鋼鋼材の 価格 改定に関するお知らせ - 山陽特殊製鋼 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > 新着情報",
+    "url": "https://www.sanyo-steel.co.jp/news/detail.php?no=66",
+    "pass": 3
+   },
+   {
+    "quote": "構造用鋼の値上げに関するお知らせ - 山陽特殊製鋼 — 構造用鋼の値上げに関するお知らせ - 山陽特殊製鋼 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > 新着情報",
+    "url": "https://www.sanyo-steel.co.jp/news/detail.php?no=105",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼新聞 / Japan Metal Daily on X: \" 山陽特殊製鋼 ／特殊鋼製品 ... — 鉄鋼新聞 / Japan Metal Daily on X: \" 山陽特殊製鋼 ／特殊鋼製品 ... X https://x.com > @TEKKOSHIMBUN",
+    "url": "https://x.com/TEKKOSHIMBUN/status/2084038783578550642",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 | 山陽特殊製鋼 株式会社 — 製品情報 | 山陽特殊製鋼 株式会社 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > product",
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター用高機能ガスアトマイズ金属粉末 - 山陽特殊製鋼 — 3Dプリンター用高機能ガスアトマイズ金属粉末 - 山陽特殊製鋼 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > selected > selected13",
+    "url": "https://www.sanyo-steel.co.jp/product/selected/selected13.php",
+    "pass": 3
+   },
+   {
+    "quote": "(8) 山陽特殊製鋼 （TCTJapan2025） - YouTube — (8) 山陽特殊製鋼 （TCTJapan2025） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=R64RkMsbF6Q",
+    "pass": 3
+   },
+   {
+    "quote": "山陽特殊製鋼 の素材づくり — 山陽特殊製鋼 の素材づくり 山陽特殊製鋼株式会社 https://www.sanyo-steel.co.jp > about > business_filed",
+    "url": "https://www.sanyo-steel.co.jp/saiyo/about/business_filed.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽特殊製鋼 株式会社 - INTERMOLD — 山陽特殊製鋼 株式会社 - INTERMOLD intermold.jp https://www.intermold.jp > ... > 展示情報 > 出展者一覧",
+    "url": "https://www.intermold.jp/2024/outline/search_2024_detail/352/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sanyo-steel.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/about.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/management.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/greeting.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/officer.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/project.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/group.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/procurement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/publicnotice.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/financialinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/introduce.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/special-steel-kids.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/special_steel/special_steel01.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/castings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/selected/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/catalog.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/sds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/castings/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/metallic_powder/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/selected/index.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260925.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260624.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/260615.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20260520.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20251023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20250529.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20240708.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/system/upload/news/20230929_hp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/company/img/ph_history_10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/41503/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aipipecounter.com/case-sanyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TEKKOSHIMBUN/status/2084038783578550642",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=R64RkMsbF6Q",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山陽特殊製鋼 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/41503/distributors/",
+    "https://www.sanyo-steel.co.jp/",
+    "https://www.sanyo-steel.co.jp/utility/policy.php",
+    "https://www.sanyo-steel.co.jp/company/project.php",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E7%89%B9%E6%AE%8A%E8%A3%BD%E9%8B%BC",
+    "https://www.sbbit.jp/article/cont1/24185",
+    "https://www.sanyo-steel.co.jp/saiyo/gijyutu-recruit/index.html",
+    "https://www.nishimura.com/ja/experience/work/7361",
+    "https://www.yohkohb.co.jp/competence/overseas.html",
+    "https://ja.wikipedia.org/wiki/山陽特殊製鋼"
+   ]
+  },
+  {
+   "query": "山陽特殊製鋼 導入事例",
+   "results": [
+    "https://aipipecounter.com/case-sanyo.html",
+    "https://www.sanyo-steel.co.jp/technology/report.php",
+    "https://www.sanyo-steel.co.jp/saiyo/about/3minutes.html",
+    "https://www.itmedia.co.jp/enterprise/articles/2601/09/news001.html",
+    "https://jp.linkedin.com/posts/ryota-azuma_%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E9%89%84%E9%8B%BC%E4%BC%9A%E7%A4%BE%E5%B1%B1%E9%99%BD%E7%89%B9%E6%AE%8A%E9%8B%BC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%BA%8B%E4%BE%8B%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AF%E7%8F%BE%E5%9C%A8%E9%80%B2%E8%A1%8C%E5%BD%A2%E3%81%A7-activity-7305346906749050881-4fHB",
+    "https://www.sanyo-steel.co.jp/",
+    "https://www.sanyo-steel.co.jp/saiyo/global/",
+    "https://www.youtube.com/watch?v=hMDeNe_JZ6E",
+    "https://www.challenge-zero.jp/jp/member/158",
+    "https://x.com/Sanyo_SP_Steel/status/2060263775702593917"
+   ]
+  },
+  {
+   "query": "山陽特殊製鋼 価格 OR 料金",
+   "results": [
+    "https://www.sanyo-steel.co.jp/news/detail.php?no=66",
+    "https://www.sanyo-steel.co.jp/news/detail.php?no=105",
+    "https://x.com/TEKKOSHIMBUN/status/2084038783578550642",
+    "https://www.sanyo-steel.co.jp/product/",
+    "https://www.japanmetaldaily.com/articles/-/264721",
+    "https://www.japanmetal.com/tag/santoku",
+    "https://www.nikkinonline.com/premium/trendslist/162838",
+    "https://www.jcr.co.jp/ratinglist/corp/5481",
+    "https://www.sanyo-steel.co.jp/company/about.php",
+    "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html"
+   ]
+  },
+  {
+   "query": "山陽特殊製鋼 受託 造形",
+   "results": [
+    "https://www.sanyo-steel.co.jp/product/selected/selected13.php",
+    "https://www.sanyo-steel.co.jp/technology/report.php",
+    "https://www.youtube.com/watch?v=R64RkMsbF6Q",
+    "https://www.sanyo-steel.co.jp/saiyo/about/business_filed.html",
+    "https://www.intermold.jp/2024/outline/search_2024_detail/352/",
+    "https://www.sanyo-steel.co.jp/saiyo/work_people/interview02.html",
+    "https://mono.ipros.com/company/detail/2049957/category/",
+    "https://www.japanmetal.com/news-t20220426117269.html",
+    "https://ja.wikipedia.org/wiki/山陽特殊製鋼",
+    "https://www.sanyo-steel.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像18件／外部4頁・検索4回）"
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "name": "株式会社クラマ",
+ "aliases": [],
+ "context": "Markforged Metal X（ADAM方式）を掲載（Inconel625、17-4、316L、Ti64ほか）；イプロス金属3Dプリンタ企業一覧に掲載(内容未確認) /",
+ "researched_at": "2026-11-02T10:25:59.643612+00:00",
+ "official_url": "http://www.kurama1979.com/",
+ "identified_by": "search:yahoo_jp:クラマ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和54年10月1日",
+    "url": "http://www.kurama1979.com/company/index.php",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "工作機械販売、鍛圧・鈑金加工機販売、中古機械販売、機械等の修理、オーバーホール、CAD/CAM・測定機・周辺機器の販売",
+    "url": "http://www.kurama1979.com/company/index.php",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1,000万円（20,000）株",
+    "url": "http://www.kurama1979.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "資本金500万円にて株式会社クラマを設立",
+    "url": "http://www.kurama1979.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円に増資",
+    "url": "http://www.kurama1979.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "○○円ぐらいなら買いたいなあ」・・・こんな時、最安お知らせメールが便利です",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "価格.com - メガハウス MEGA CAT PROJECT NARUTO-ナルト- 疾風伝 ニャンとも大きなニャルト！ 九喇嘛(クラマ) 価格推移グラフ",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "MEGA CAT PROJECT NARUTO-ナルト- 疾風伝 ニャンとも大きなニャルト！ 九喇嘛(クラマ) の価格推移グラフ",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用ガイド「価格推移グラフの使い方」",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonの価格履歴について",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonアソシエイト・プログラム運営規約に基づき、同ショップは価格推移グラフの集計・表示対象から除外しています",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "MEGA CAT PROJECT NARUTO-ナルト- 疾風伝 ニャンとも大きなニャルト！ 九喇嘛(クラマ)の価格比較へ戻る",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "価格変動をメールでお知らせする「最安お知らせメール」に登録しよう！",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "登録したお気に入り製品がご希望の価格以下になるとメールでお知らせしますので、ほしい製品をお得に買うチャンスを逃しません！",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comIDでログインすれば、手軽にお知らせメール登録ができます",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comIDを登録済みの方",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comID未登録の方",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "日別の価格変動",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "「日別の価格変動」を出力できるデータがありません",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "日別の価格変動には最大で直近30日間分の最安価格データが表示されます",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "「初値」は価格登録開始後の価格のゆれを少なくするため、一定のデータから算出しています",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "価格変動を自動通知できます",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "疾風伝 ニャンとも大きなニャルト！ 九喇嘛( クラマ ) 価格 推移 ... — 疾風伝 ニャンとも大きなニャルト！ 九喇嘛( クラマ ) 価格 推移 ... 価格.com https://kakaku.com > item > pricehistory",
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "【楽天市場】 クラマ の通販 — 【楽天市場】 クラマ の通販 楽天市場 https://search.rakuten.co.jp > search > mall > クラマ",
+    "url": "https://search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%A9%E3%83%9E/",
+    "pass": 3
+   },
+   {
+    "quote": "【買取】Precious G.E.M.シリーズ 九喇嘛( クラマ ) 「NARUTO ... — 【買取】Precious G.E.M.シリーズ 九喇嘛( クラマ ) 「NARUTO ... netoff.co.jp https://www.netoff.co.jp > ... > 九喇嘛 買取",
+    "url": "https://www.netoff.co.jp/moetaku/detail/225353",
+    "pass": 3
+   },
+   {
+    "quote": "ナルト クラマ フィギュア - Amazon.co.jp — ナルト クラマ フィギュア - Amazon.co.jp amazon.jp https://www.amazon.co.jp > ナルト-クラマ-フィギュア > k=...",
+    "url": "https://www.amazon.co.jp/%E3%83%8A%E3%83%AB%E3%83%88-%E3%82%AF%E3%83%A9%E3%83%9E-%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2/s?k=%E3%83%8A%E3%83%AB%E3%83%88+%E3%82%AF%E3%83%A9%E3%83%9E+%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.kurama1979.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=162",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=158",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=157",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=155",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=154",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/company/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=159&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=162&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=158&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=157&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=155&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=154&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=153&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=152&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=151&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/news.php?id=156&NUM=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kurama1979.com/news/index.php?NUM=0",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.kurama1979.com/images/recruit_20210428.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.kurama1979.com/company/images/company_sttl02.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.frantech.biz/16256989509997",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nishimura.com/ja/knowledge/newsletters/20210506-35211",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kuramane.colorkrew.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/a/ocom/docs/dc/lpd400050162-service-on-oracle-final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcframe.com/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakaku.com/item/K0001575261/pricehistory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://p-bandai.jp/global_newpc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%A9%E3%83%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/contracted",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vhtcVIo1Mgg",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クラマ",
+   "results": [
+    "https://dic.pixiv.net/a/%E4%B9%9D%E5%96%87%E5%98%9B",
+    "http://www.kurama1979.com/",
+    "https://www.reddit.com/r/Naruto/comments/1d8sfiv/narutokurama/?tl=ja",
+    "https://baike.baidu.com/ja/item/%E3%82%AF%E3%83%A9%E3%83%9E/1139924",
+    "https://www.youtube.com/watch?v=koBgGq8jDfs",
+    "https://p-bandai.jp/item/item-1000125672/?srsltid=AYCX9vKBwhcL8nu17zMR5fAA2jeHeWtzGc6wMKjcNFN-9Zu-y8F_Rl61",
+    "https://konohanogenin.hatenablog.com/entry/39118361",
+    "https://ja.wikipedia.org/wiki/クラマ",
+    "https://dic.pixiv.net/a/九喇嘛",
+    "https://www.mabiwiki.com/field-bosses/krama"
+   ]
+  },
+  {
+   "query": "クラマ 代理店 契約",
+   "results": [
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.frantech.biz/16256989509997",
+    "https://www.nishimura.com/ja/knowledge/newsletters/20210506-35211",
+    "https://itbengoshi.com/page-3655/",
+    "https://kslaw.jp/column/detail/5142/",
+    "https://mypage.otsuka-shokai.co.jp/contents/business-oyakudachi/expert-keiri-kyuyo/2022/12.html",
+    "https://www.ishioroshi.com/biz/kaisetu/keiyaku/hanbaiten/",
+    "https://pm-lawyer.com/20210825/",
+    "https://www.mercury-law.com/uae-dairiten",
+    "https://biz.moneyforward.com/contract/basic/4317/"
+   ]
+  },
+  {
+   "query": "クラマ 導入事例",
+   "results": [
+    "https://kuramane.colorkrew.com/works/",
+    "https://www.oracle.com/a/ocom/docs/dc/lpd400050162-service-on-oracle-final.pdf",
+    "https://www.mcframe.com/case",
+    "https://tramsystem.co.jp/ccaas/case",
+    "https://www.wantedly.com/companies/colorcrew/posts/78528",
+    "https://waldmann.jp/interview/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E7%A9%BA%E9%96%93%E3%81%AE%E9%82%AA%E9%AD%94%E3%82%92%E3%81%97%E3%81%AA%E3%81%84waldmann%E3%81%AE%E7%85%A7%E6%98%8E/",
+    "https://www.networld.co.jp/casestudy/?p_tags=k_operation%20automation&p_tags=DUMMY",
+    "https://www.okuma.co.jp/case/",
+    "https://www.intra-mart.jp/case-study.html",
+    "https://kuramane.colorkrew.com/works/dartslive/"
+   ]
+  },
+  {
+   "query": "クラマ 価格 OR 料金",
+   "results": [
+    "https://kakaku.com/item/K0001575261/pricehistory/",
+    "https://p-bandai.jp/item/item-1000125672/?srsltid=AYCX9vIiPBnZOziWeCoyQ0aetDCuerOsU40GRcygMCdAQv0Nd1d7in8t",
+    "https://search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%A9%E3%83%9E/",
+    "https://www.netoff.co.jp/moetaku/detail/225353",
+    "https://www.amazon.co.jp/%E3%83%8A%E3%83%AB%E3%83%88-%E3%82%AF%E3%83%A9%E3%83%9E-%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2/s?k=%E3%83%8A%E3%83%AB%E3%83%88+%E3%82%AF%E3%83%A9%E3%83%9E+%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2",
+    "https://jp.mercari.com/search?keyword=KURAMA&srsltid=AYCX9vKyuvhDFVFpx4f_1Te9Wd0mppN0JBf8cofiW0dUxhQO3vAjBSZP",
+    "https://www.megahobby.jp/products/item/2566/?dmode=pc",
+    "http://www.kurama1979.com/",
+    "https://m-denkosha.co.jp/product/kurama",
+    "https://mono.ipros.com/product/detail/2001522998/"
+   ]
+  },
+  {
+   "query": "クラマ 受託 造形",
+   "results": [
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.youtube.com/watch?v=vhtcVIo1Mgg",
+    "https://rightmfg.co.jp/lp/m3dp.html",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://iida-crt.co.jp/business/3d/",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "http://www.kurama1979.com/",
+    "https://hikaku-hub.com/metal-3d-printing/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部12頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部12頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部12頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部12頁・検索5回）",
+  "誰から": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部12頁・検索5回）",
+  "誰に": "記載なし（3回確認済み：公式24頁／PDF・画像2件／外部12頁・検索5回）"
+ }
+}

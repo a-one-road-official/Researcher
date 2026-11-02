@@ -1,0 +1,820 @@
+{
+ "name": "アイディーアーツ株式会社 (3DP id.arts)",
+ "aliases": [],
+ "context": "メディア(3DP id.arts)/EC(3DPS・3DFS材料)/コンサル/造形サービス ※金属・セラミック装置の取扱は未確認 / 未記載",
+ "researched_at": "2026-11-02T10:33:31.731097+00:00",
+ "official_url": "https://idarts.co.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ソリューション開発／コンサルティング",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "各種コンサルティング業務",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター導入支援などのコンサルティング業務 詳細は",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターおよび関連ツールの販売",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル製品の開発支援",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・教材・電子工作",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能3Dプリンターを販売する3Dプリンター専門ショップ『3DPS id.arts』",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント造形品の積層跡を目立たなくする仕上げ用研磨フィルム「TuneD3」販売中！",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・教材・電子工作",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能3Dプリンターを販売する3Dプリンター専門ショップ『3DPS id.arts』",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント造形品の積層跡を目立たなくする仕上げ用研磨フィルム「TuneD3」販売中！",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタを導入検討中の企業・団体に対するコンサルティング業務として、導入に伴う初期アドバイスから、導入後に必要となる各種業務に対応した幅広いサポートを行います",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント関連商品の企画・販売",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、3Dプリンタ関連商品の販売を計画中の企業様に対し、商品開発や販売にもご協力しています",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アイディーアーツは、海外大手フィラメントメーカー FormFutura、3D-Fuel、Graphene 3D Lab（BLACKMAGIC 3D）等とパートナーシップ契約を締結した正規販売店です",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発支援",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ワンオフ製品、小ロット量産品などの特注品の製造・販売支援",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリースの掲載に関しては、",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・教材・電子工作",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能3Dプリンターを販売する3Dプリンター専門ショップ『3DPS id.arts』",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント造形品の積層跡を目立たなくする仕上げ用研磨フィルム「TuneD3」販売中！",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3DP id.arts（運営：アイディーアーツ株式会社）では、FDM（FFF）方式、SLS方式、SLA方式等の様々な3Dプリント方式に対応した造形サービスをご用意しています",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "」にて販売中の殆どの材料に対応可能です",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート材：こちらの造形サービスでは、サポートが付いたままでの納品となります",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリースの掲載について | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・教材・電子工作",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能3Dプリンターを販売する3Dプリンター専門ショップ『3DPS id.arts』",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント造形品の積層跡を目立たなくする仕上げ用研磨フィルム「TuneD3」販売中！",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリースの掲載について",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "へ掲載するプレスリリースを受付けております",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載に必要な情報",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載可否について",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "現在弊社メディアでは、プレスリリース掲載のご依頼を多数いただいてているため、掲載可否について社内選定を行っています",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "このため、プレスリリースをお送りいただいても掲載に至らない場合がありますので、予めご了承ください",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載を必須とされる場合は、下記の有償サービスまたはこちらの",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "有償プレスリリース掲載サービス",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "※ プレスリリース公開前に、記事内を確認いただくことが可能です",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "※ プレスリリースの内容について何らかの問題が生じた場合も、弊社は一切の責任を負うことはございません",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース掲載",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・教材・電子工作",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能3Dプリンターを販売する3Dプリンター専門ショップ『3DPS id.arts』",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "建築業界向けソフトウェア開発",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先及びコンテンツ提供企業",
+    "url": "https://idarts.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の「チョコレート3Dプリントサービス」では、3Dデータの準備が困難なお客様でも利用いただけるよう「3Dモデリング代行サービス」もご用意しております",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "※ お客様にて用意されたチョコレート材料を用いたプリントをご希望の際は、事前にご相談ください",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "● お客様が用意した2Dデータ（aiまたはsvg形式の2次元データ）を利用",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "また「造りたい物は決まっているが、どのような造形方式を選択すれば良いか分からない」と言うお客様には、用途や精度に応じて最適な3Dプリント方式をご提案いたします",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "エントリーユーザーからプロフェッショナルユーザーまで、用途に応じた様々な3Dプリンタをラインアップ",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dデータのご用意が困難なお客様には、弊社にて3Dデータを製作するモデリングサービスのご用意があります",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dモデリングが必要なお客様は、見積用フォーム「3Dプリント用データの有無」から『3Dデータが無い（モデリング依頼）』を選択し、モデリングに必要な資料をお送りください",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からお預かりしたデータを弊社内で確認し、折り返し造型費用をご案内いたします",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 掲載に必要な素材は、全てお客様にてご用意いください",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の6台体制は、1台を停止してもライン全体を止めずに済むモジュール型の考え方をさらに明確にしたものであり、形状や食感、素材の組み合わせをデータ側で変更できるため、将来的には少量多品種や地域・顧客ごとに異なる食品設計にも応用しやすい",
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Anycubic、Thingiverseと提携",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/tag/%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/category/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/category/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/category/news/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/category/news/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/3d-printing-into-rail-production/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/category/news/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリントされたチョコレート作品をご希望の方は、下記内容をご確認いただき、見積フォームよりご連絡ください",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "1）見積フォームへ入力",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "見積フォームの各項目に必要事項を入力し、見積りをご依頼ください",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社よりご案内の見積書に記載の金額や納期などをご確認いただき、正式にご注文ください",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "見積・問合せフォーム",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "ご入力内容が不十分な場合、正式な御見積をご用意することができません",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dモデリングが必要なお客様は、見積用フォーム「3Dプリント用データの有無」から『3Dデータが無い（モデリング依頼）』を選択し、モデリングに必要な資料をお送りください",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "ページ下の「見積用フォーム」に必要事項を入力し、3Dプリント用データ（.stl形式または圧縮されたデータ）を添付しご連絡ください",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "データ確認と見積",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "データにエラーがある場合、お見積をご案内することができません",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "御見積額の入金を確認後、3Dプリントを開始します",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "見積内容：造形費用＋梱包・送料をご案内いたします",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "見積用フォーム",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "下記フォームよりお見積に必要な項目をご入力いただき、3Dプリント用データ（STL形式）を添付し送信してください",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/tag/%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/3d-printing-into-rail-production/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/category/news/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "8,000円～ （1記事 ）",
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "建設3Dプリンター大手ICONが2億ドル調達",
+    "url": "https://idarts.co.jp/3dp/category/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Labに約2760万ドルの特許侵害評決",
+    "url": "https://idarts.co.jp/3dp/category/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の3Dプリンター市場、6四半期連続成長で44.8億ドルへ",
+    "url": "https://idarts.co.jp/3dp/category/news/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "装置1台分の部品コストは約2万5000ユーロで、追加設備は2カ月未満で投資回収できると同社は試算する",
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年上期の売上高は前年同期比70％増で、通期売上は約150万ユーロを見込む一方、売上の約80％はドイツとオーストリアに集中し、店舗ごとの販売差も大きいという",
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は200万ユーロの資金調達を進め、うち100万ユーロを確保済みである",
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3DP id.arts | デザインと3Dのプロが伝える3Dプリンターの世界 — デザインと3Dのプロ集団 id.arts が、3Dプリンターを中心とした世界の最新情報を配信。 更に、3Dプリンティング技術を中心としたコンサルティングサービスの提供、3D関連コンテンツや3Dプリント作品を公開",
+    "url": "https://idarts.co.jp/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3DP id.artsについて — 3Dプリント関連商品の企画・販売 id.artsは、3Dプリンタに関連した各種商品の直販を行っています。 また、3Dプリンタ関連商品の販売を計画中の企業様に対し、商品開発や販売にもご協力しています。 3Dプリンタ専門ショップ『3DPS』",
+    "url": "https://idarts.co.jp/3dp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dコンサルティングサービス | 3DP id.arts — id.artsでは、これから機器導入を検討している企業や団体、既に導入済みだがどう活用して良いか分からない。 と言った悩みを抱えるユーザーに対し、様々な支援をおこなっています。",
+    "url": "https://idarts.co.jp/3dp/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "チョコレート3Dプリントサービス - 3DP id.arts — チョコレート3Dプリントサービス id.arts（アイディーアーツ株式会社）では、チョコレート専用3Dフードプリンターを利用して、実際に食すことができる立体的なチョコレート作品を製作する「チョコレート3Dプリントサービス」を提供しています。",
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dコンサルティングサービス | 3DP id.arts — id.artsのコンサルティング・サービスについて 3Dプリンターは、造形方式や使用する材料、機種毎の特性に応じた精度や機能にも大きな違いがあり、用途や使用者のスキルによっても最適な機種が異なります。",
+    "url": "https://idarts.co.jp/3dp/consulting/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントサービス - 3DP id.arts — 3Dプリントサービス サービス概要 3DP id.arts（運営：アイディーアーツ株式会社）では、FDM（FFF）方式、SLS方式、SLA方式等の様々な3Dプリント方式に対応した造形サービスをご用意しています。 3Dプリント用データについて",
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ | 3DP id.arts — 2011年開設、国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア3DP id.arts では、最先端の3Dプリント技術に関する情報を中心に、国内外の最新テクノロジーを紹介。",
+    "url": "https://idarts.co.jp/3dp/contact/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://idarts.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/about-press-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/category/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/tag/%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/category/news/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/category/news/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/category/news/page/4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/category/news/page/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/tag/%E5%B7%A5%E6%A5%AD%E8%A3%BD%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/3d-printing-into-rail-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/category/news/page/6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/mass-production-3d-food-printers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/case/consumer/idarts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://design-offset.com/adobe-all-plans-and-pricing-for-individuals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pricey.jp/web/articles/2237",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/illustrator-kakaku/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイディーアーツ (3DP id.arts) 代理店 契約",
+   "results": []
+  },
+  {
+   "query": "アイディーアーツ (3DP id.arts) 導入事例",
+   "results": [
+    "https://idarts.co.jp/3dp/",
+    "https://www.marubeni-idigio.com/product/3dprinter/case/consumer/idarts/",
+    "https://idarts.co.jp/3dp/about/",
+    "https://idarts.co.jp/3dp/consulting/",
+    "https://idarts.co.jp/3dp/chocolate-3d-printing-service/",
+    "https://idarts.co.jp/3dp/3d-printing-service/",
+    "https://idarts.co.jp/about-us/",
+    "https://3dprinter.idarts.co.jp/blog",
+    "https://idarts.co.jp/3dp/3d-food-printing/",
+    "https://www.marubeni-idigio.com/product/3dprinter/case/consumer/idarts2/"
+   ]
+  },
+  {
+   "query": "アイディーアーツ (3DP id.arts) 価格 OR 料金",
+   "results": [
+    "https://design-offset.com/adobe-all-plans-and-pricing-for-individuals/",
+    "https://www.pricey.jp/web/articles/2237",
+    "https://cad-kenkyujo.com/illustrator-kakaku/",
+    "https://www.adobe.com/jp/products/indesign/plans.html",
+    "https://321web.link/illustrator-price/",
+    "https://www.adobe.com/jp/products/indesign/pricing-info.html",
+    "https://www.autodesk.com/jp/products/autocad/buy"
+   ]
+  },
+  {
+   "query": "アイディーアーツ (3DP id.arts) 受託 造形",
+   "results": [
+    "https://idarts.co.jp/3dp/",
+    "https://idarts.co.jp/3dp/consulting/",
+    "https://idarts.co.jp/3dp/3d-printing-service/",
+    "https://idarts.co.jp/3dp/contact/",
+    "https://3dfs.idarts.co.jp/about",
+    "https://3dprinter.idarts.co.jp/about",
+    "https://3dfs.idarts.co.jp/8",
+    "https://www.findglocal.com/JP/Unknown/277583759028055/3DP-id.arts",
+    "https://3dprinter.idarts.co.jp/search",
+    "https://idarts.co.jp/3dp/about/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部4頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部4頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部4頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部4頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部4頁・検索4回）"
+ }
+}

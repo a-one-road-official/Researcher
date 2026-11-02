@@ -1,0 +1,1639 @@
+{
+ "name": "EOS Electro Optical Systems Japan株式会社（EOSジャパン）",
+ "aliases": [],
+ "context": "/ EOS（独）",
+ "researched_at": "2026-11-02T10:31:29.983144+00:00",
+ "official_url": "https://www.eos.info",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1992年12月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1992年12月18日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2014年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2014年3月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2017年8月28日",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "2,416百万円（2021年12月期）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "151名（臨時雇用者数を含む 2021 年12月末）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "10名",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "3Dプリンターおよび砂型鋳造による試作品、各種部品・商品の製造、販売",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "Additive Manufacturingにおける、ソリューション開発事業/ツールソリューション事業/研究開発事業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "EOSは、金属およびプラスチックの産業用ハイエンド3Dプリンティング分野（Additive Manufacturing：略AM）で世界をリードするソリューションプロバイダーです。1989年の創 業以来、独立系企業としてAM市場を切り拓き、これまでにない包括的なソリューションを 提供してきました。EOSシステム、材料、プロセスパラメータを取り揃えた製品ポート フォリオにより、製品品質だけでなく、製造プロセスの長期にわたる経済的持続性をサ ポートし、お客様に大きな競争力をもたらしています。さらに、グローバルサービス、ア プリケーションエンジニアリング、コンサルティングを通じて、深い技術知識の提供も 行っています。",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "量産向けに設計",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "当社のサービスは、設置や操作のトレーニングから、有資格者によるシステムメンテナンス、利用可能なサポートのグローバルネットワークまで多岐にわたります",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "METAL SOFTWARE | アドバンスト・マニュファクチャリング（AM）プロセス全体を準備、最適化、制御、監視するために設計されたEOS Softwareは、生産環境全体にわたって機械、材料、データ、そして人を結びつけます",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンティングへの取り組みを始めるお客様も、運用上の課題に直面しているお客様も、当社の技術サービスはお客様の成功を最大化するように設計されています",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "POLYMER SOFTWARE | 3Dプリントプロセス全体を準備、最適化、制御、監視するために設計されたEOS Softwareは、生産環境全体において、機械、材料、データ、そして人々をつなぎます",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "重要なのは、より小型でコスト効率の高いロボット用に設計された軽量グリップツールが市場に投入されることです",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "軽量化と省エネ：生産ツールは軽量に設計されているため、材料消費量が削減され、エネルギー効率が向上し、生産コスト全体が削減されます",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "設計を簡素化した後、機能的なプレート上の安定したグリッパーを",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "グリッパーの自動設計",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "設計にはお金と時間がかかります",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "また、必要な設計やCADの専門知識を習得するのが容易でないことも一因です",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "trinckleとKuhn-Stoff社は、グリップシステムを例にとり、3D設計やCADの深い知識を必要とせずに、効率的な開発・設計プロセスを自動化する方法を調査するために提携しました",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "その高性能部品は、複雑なハイテク設計を特徴としており、エネルギー需要が高まるにつれて、より堅牢で強力である必要がある",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "最も複雑な形状も、最高品質で、素早く、コスト効率よく、小ロットでも設計・製造することができます",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、世界各地でのサービス、包括的なコンサルティング、トレーニングも提供しています",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "アディティブ・マニュファクチャリング コンサルティング＆アプリケーション・エンジニアリング",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsチームの技術コンサルティングサービスをお探しですか？",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングサービスの詳細",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "クラスルーム＆対面式トレーニング",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "EOS産業用3Dプリンティング・パウダーベッド・フュージョンシステムのハンズオン・スキルを、当社施設またはお客様の施設での対面式トレーニングで習得できます",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンティングを活用した革新的なアプリケーションからインスピレーションを得て、設計や性能などを最適化する方法を学びます",
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "pass": 1
+   },
+   {
+    "quote": "つまり、専門コンサルタントがいなくても、標準として角度制限を20度までに減らすことができるようになったのです",
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are/corporate-management",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリント向けに設計されたハイテク材料のポートフォリオをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are/corporate-management",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.eos.info/ja/about-us/who-we-are/corporate-management",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "EOSは、最先端の積層造形(アディティブ・マニュファクチャリング)ソリューションで、お客様のビジネス成長とイノベーションを支援します",
+    "url": "https://www.eos.info/ja",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "当社の技術サービスは、3Dプリンティングを始めたばかりのお客様にも、日々の運用で課題に直面しているお客様にも、3Dプリンティングのあらゆる障害に対応できるようお客様のチームを強化することに重点を置いています",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様が最も必要とするときにチームをサポートするために、ポータルを提供しており、専門家がお客様の質問や懸念に対応しております",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "当社のサービス＆サポートチームは、3Dプリンティング技術の初期認証から継続的なメンテナンスとサポートまで、お客様の成功をお約束します",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンティングへの取り組みを始めるお客様も、運用上の課題に直面しているお客様も、当社の技術サービスはお客様の成功を最大化するように設計されています",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "当社の包括的なサービス・ポートフォリオには、生産立ち上げの専門家による支援、予防ケア、トラブルシューティング、純正スペアパーツの提供など、お客様が必要とするあらゆるものが含まれています",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富なスペシャリストが、お客様のニーズに合わせたスムーズな設置プロセスを提供し、適切な品質管理プロセスの実現をサポートします",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な、産業用の、3Dプリントされたアーム先端により、Langenグループは顧客のロボットパッケージングラインの負荷を軽減",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "熱交換器、ハウジング、通信部品、ドローン、3次元回路基板、インダクターなど、アディティブ・マニュファクチャリングの用途の多様性は業界全体に及んでいる",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "当社の産業用3Dプリンティングソリューションは、サービス、材料、プロセスの総合的なポートフォリオを通じて、お客様の成功を支えています",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "これらを高度に連携させることで、信頼性の高い部品の製造と、お客様の競争力向上を実現します",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様、サプライヤー、パートナー、学術機関、規制当局をはじめとする多くの関係者と協力しながら、この使命の実現に取り組んでいます",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはお客様のために存在します",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "顧客、サプライヤー、パートナー、科学団体、規制当局、そしてAMGTAやeconsenseのような多くのステークホルダーの協力を得て追求するものです",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "このすべてはチームワークであり、私たちはパートナーや顧客に、この取り組みに参加し、責任ある製造業を新しい常識として確立するという私たちの目標を支援していただくよう呼びかけます",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "これらの製品はすべて、私たちの目的と、お客様のより持続可能な生産に貢献しています",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのVlogを紹介しましょう！私たちは、パートナーやお客様とともに、責任あるものづくりを新しい常識にしたいと考えています",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "当社の樹脂ソリューションが、お客様の生産上の課題解決にどのように役立つかをご覧ください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Mindsが、お客様のAM（積層造形）における課題を、実用可能なソリューションへと変えるお手伝いをいたします",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "航空業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "消費財業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "医療業界における当社の最先端アプリケーションをご覧ください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "初めて3Dプリンターを設置する場合でも、アディティブ・マニュファクチャリングプロセスで問題に直面している場合でも、当社の技術サービスはお客様が最大の成功を達成することに焦点を当てています",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "EOSをご利用のお客様へ",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "お客様番号が不明な場合は、EOSの担当者にお問い合わせください",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "粉末の準備と回収、ジョブの自動処理、除粉、後処理のすべてが、生産性、部品の品質、オペレーターとの連携、そして生産コストに影響を与えます",
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "pass": 1
+   },
+   {
+    "quote": "PERIPHERY | 工業用樹脂積層造形は、単なる造形プロセスをはるかに超えており、粉末の開封、ふるい分け、混合、供給といった一連の工程を自動化するワークフローを実現しています",
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形(AM)における統合ソリューションのパイオニアとして、レーザーと粉末材料の相互作用を高度に制御する技術を確立してきました",
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが求めるのは「成長するためのライセンス」です",
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "EOSのスペアパーツ、消耗品、システム機器を使用することで、高品質な3Dプリントパーツを持続的、効率的、確実に製造することができます",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "特定のEOSソフトウェアのトライアルライセンスを入手できますか？",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "4. トライアルライセンスを希望するソフトウェアを指定します",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアのライセンスを延長するにはどうすればよいですか？",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス更新手続きユーザーガイドを",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "5. ライセンスチームから48時間以内に更新されたライセンスファイル（",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "スペア部品番号と主要な消耗品はどこにありますか？",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "スペア・パーツ番号と主要な消耗品に関する情報は、マシン・マニュアルの巻末に記載されています",
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "pass": 1
+   },
+   {
+    "quote": "多くの場合、付着した粉末を除去するための最終的な洗浄工程が必要となります",
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "pass": 1
+   },
+   {
+    "quote": "EOSでは、粉末床溶融（PBF）というAM技術を採用しています",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "造形プロセスでは、まず造形プラットフォーム上に、所定の粉末材料を薄い層として敷き詰めます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "次に、強力なレーザービームが、コンピュータモデルで指定された正確な位置で粉末を溶融させます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "その後、新たな層の粉末を敷き詰め、再びレーザーを用いて下層と融合させます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "DMLSとは何か、その仕組みは？ 金属アディティブ・マニュファクチャリング（AM）のすべて、金属粉末の選択肢、そしてこの革新的なAM技術について詳しく解説します",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "部品の製造には、金属3Dプリンター、金属粉末を使用します",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/dmls",
+    "pass": 1
+   },
+   {
+    "quote": "造形プロセスでは、金属粉末を極めて薄い層を造形プラットフォーム上に均一に敷き詰めていきます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/dmls",
+    "pass": 1
+   },
+   {
+    "quote": "続いて、3Dプリンターに搭載された高出力レーザーが、CADモデルで定義された箇所の粉末を正確に溶融します",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/dmls",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー粉末床溶融結合法（Laser Powder Bed Fusion)",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/dmls",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代後半に開発されたSLSは、パウダーベッド方式の3Dプリンティングプロセスで、高出力レーザーを用いて粉末材料（通常は樹脂または金属）を選択的に溶融し、層ごとに3次元形状を形成します",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "pass": 1
+   },
+   {
+    "quote": "SLSの基本原理は、粉末を造形材料として使用する点にあります",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "pass": 1
+   },
+   {
+    "quote": "粉末材料には、最終製品の用途に応じて、ナイロン(ポリアミド)、TPE(熱可塑性エラストマー)、TPU(熱可塑性ポリウレタン)など、さまざまな種類が用いられます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "pass": 1
+   },
+   {
+    "quote": "造形プロセスは、まず粉末の薄い層を造形プラットフォーム上に均一に敷き詰めることから始まります",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "pass": 1
+   },
+   {
+    "quote": "その後、レーザーが粉末を選択的に走査・焼結し、粉末を溶融・結合させて部品の第一層を形成します",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "pass": 1
+   },
+   {
+    "quote": "また、各層で使用されなかった粉末が造形中に自然な支持材として機能するため、反りや変形のリスクを低減できます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "pass": 1
+   },
+   {
+    "quote": "その中でも、粉末材料を選択的に溶融するプロセスは特に繊細で高度な制御が求められます",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/industrial-3d-printer",
+    "pass": 1
+   },
+   {
+    "quote": "当社のレーザーと粉末材料を組み合わせた造形技術は、アディティブ・マニュファクチャリングの世界では他に類を見ない独自の強みです",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/industrial-3d-printer",
+    "pass": 1
+   },
+   {
+    "quote": "また、多角的な品質管理により、粉末材料の各ロットで安定した品質を確保しています",
+    "url": "https://www.eos.info/ja/about-us/what-we-do/industrial-3d-printer",
+    "pass": 1
+   },
+   {
+    "quote": "レーザーと粉末材料の相互作用を理解することに関して、EOSはこの分野で他の追随を許さず、すべての重要な要素を単一のソースから提供しています",
+    "url": "https://www.eos.info/ja/partners/eos-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性AM材料の世界最大の工場であり、様々な焼結およびコーティングプロセスで幅広く使用されるコーティング表面用の微粉末を供給しています",
+    "url": "https://www.eos.info/ja/partners/eos-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "は、積層造形用途向けの高品質な金属粉末の製造を専門とする企業です",
+    "url": "https://www.eos.info/ja/partners/eos-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、粒子径分布が狭く、完全な球形をした粉末を保証する独自の製造プロセスを開発しました",
+    "url": "https://www.eos.info/ja/partners/eos-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "この中には標準的な材料から、混合、ふるい分け、合金化、リサイクルによって新たに開発された顧客や用途に特化した粉末も含まれます",
+    "url": "https://www.eos.info/ja/partners/eos-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "10年以上にわたり、使用済み粉末の処理と粉末の真空搬送のための革新的なソリューションは、金属粉末を使用したアディティブ・マニュファクチャリングにおいて、数多くの実績があります",
+    "url": "https://www.eos.info/ja/partners/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Solukon社は、金属および樹脂のアディティブ・マニュファクチャリンの粉末除去・加工システムを提供するドイツの高品質サプライヤーです",
+    "url": "https://www.eos.info/ja/partners/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Solukonのデパウダリングシステムは、Solukon独自のSmart Powder Recuperation (SPR®)プロセスに基づいており、安全管理された雰囲気の中で、自動化された部品の回転と制御された振動により、複雑な金属部品から残留粉末を除去します",
+    "url": "https://www.eos.info/ja/partners/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金の優位性",
+    "url": "https://www.eos.info/ja/enablement/service/service-plans",
+    "pass": 1
+   },
+   {
+    "quote": "サービス時間とスペアパーツの定額料金",
+    "url": "https://www.eos.info/ja/enablement/service/service-plans",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー光線で溶融した樹脂粉末から、層ごとに",
+    "url": "https://www.eos.info/ja/industries/customer-success-stories/manufacturing/wittmann-kuhnstoff-3d-printed-bronchial-gripper",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、AM（積層造形）における統合ソリューションのパイオニアであり、革新者であり、レーザーと粉末材料の相互作用を熟知しています",
+    "url": "https://www.eos.info/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン社と粉末樹脂3Dプリンターの後処理工程におけるアライアンスを締結 | 株式会社YOKOITOのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン社と粉末樹脂3Dプリンターの後処理工程におけるアライア�ンスを締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社YOKOITO（本社：京都府京都市下京区、代表取締役：中島 佑太郎、以下YOKOITO）のAM関連事業部門であるYokoito Additive Manufacturing（以下、YAM）と、粉末積層造形のグローバルリーティングカンパニーであるEOS Electro Optical Systems Japan株式会社（以下、EOSジャパン）は、日本国内でのPolymer Additive Manufacturing（以下、樹脂AM）の普及を促進するため、「粉末樹脂3Dプリンター造形品の仕上げ工程の自動化および表面処理技術」について協力して��普及を図ることで合意いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "このアライアンスにより両社は、粉末樹脂3Dプリントの仕上げ工程における生産性・安定性の向上およびクオリティーの向上を目指し、国内における樹脂AMの普及を促進していきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "先日Formnextにて発表したDyeMansion社とのパートナーシップにより、粉末樹脂3Dプリンターの造形品に対する一貫した後処理（パウダークリーニング、表面処理、染色）システムが国内に初上陸することとなります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより国内のEOS社粉末樹脂3Dプリンターユーザーは、これまで課題であった造形品の表面仕上げについての強力なソリューションを初めて獲得することが可能となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社とDyeMansion社はグローバルにおいてすでにパートナーシップを結んでおり、EOS社粉末樹脂3Dプリンターの造形品に対するDyeMansion社のテクノロジーによる後処理は評価済みであると同時に、すでに数多くの事例が存在します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため国内のEOS社粉末樹脂3DプリンターユーザーはDyeMansion社のテクノロジーを導入することで、すぐさま造形品への効果的かつ生産性の高い後処理加工を行うことが可能となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在DyeMansion社の提供するクリーニング・表面処理・染色までの一連のポストプロセス技術からなる、”DyeMansion Print-to-Productワークフロー”では、パウダーベッドフュージョン（粉末床溶融結合法：粉末材料を焼結して積層する3Dプリンターの造形方式）3Dプリンターで造形した部品の表面の粗さを最大限に抑え、射出成形品と同等の表面品質を実現します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパンとYAMは、樹脂AMプロセスの普及においては3Dプリンターのみではなく、後処理加工まで含めたエコシステムとしての導入が進むことが重要であるという理解で一致しており、両社は緊密に情報交換を行いながら協力して国内市場において粉末樹脂3Dプリンター向け後処理技術および樹脂AMの普及に普及に取り組んでまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂3Dプリント技術（SLS）に関する先駆的企業であり、造形品の品質と生産性をなにより大事にするEOSジャパン社と連携して、国内のユーザー様向けにSLS造形品のポストプロセスを提供かつ、弊社も同じくユーザーという立場から運用をサポートさせていただくことは、今後の国内において樹脂AMが広く普及につながり、より高付加価値かつ自由なものづくりが広がっていくきっかけとなると確信しております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン社と粉末樹脂3Dプリンターの後処理工程におけるアライアンスを締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "trinckleとKuhn-Stoff社は、グリップシステムを例にとり、3D設計やCADの深い知識を必要とせずに、効率的な開発・設計プロセスを自動化する方法を調査するために提携しました",
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "pass": 1
+   },
+   {
+    "quote": "ダウンロード eos_businesspartner Codeofconduct_ja.pdf",
+    "url": "https://www.eos.info/ja/about-us/sustainability/governance",
+    "pass": 1
+   },
+   {
+    "quote": "ダウンロード eos_businesspartner Codeofconduct_ja.pdf",
+    "url": "https://www.eos.info/ja/about-us/sustainability/downloads",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は数十年にわたり、優れた経験を持つ3Dプリンティングサービスプロバイダと提携してきました",
+    "url": "https://www.eos.info/ja/partners/manufacturing-partners",
+    "pass": 1
+   },
+   {
+    "quote": "設計時間を8時間以上からわずか10分に短縮：trinckleとKuhn-Stoffは、効率的な開発・設計プロセスの自動化という問題を解決するために提携しました",
+    "url": "https://www.eos.info/ja/industries/customer-success-stories/manufacturing/wittmann-kuhnstoff-3d-printed-bronchial-gripper",
+    "pass": 1
+   },
+   {
+    "quote": "tion process within the entire company and involving its partners. We don't want to",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "partners regarding ESG impact.",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "change and positioning ourselves as a partner for sus-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "We believe that our actions and partnerships reflect",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "partnerships or collaborations with companies oper-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "close cooperation with customers and partners, for ex-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ness partners.",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "with partner companies. They can further reduce the",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "partnerships along the value chain are promoted to be",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "these quantities, there are partnerships in which left-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Circular systems and partnerships",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ner & Partner. The evaluation is based on the tasks",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "sional services partners.",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "trust of our customers and partners, but also firmly",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Business Partner Code of Conduct (BP CoC) applies to",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "BUSINESS PARTNER",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "of all of us. Our communication, internally and with our partners,",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "extends to our business partners with whom we cooperate. When",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "further expanded this partnership in the 24/25 fiscal",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "business partners is still under construction. EOS will",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "of all of us. Our communication, internally and with our partners,",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "extends to our business partners with whom we cooperate. When",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "75 distribution partners",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "strong partnership network of shareholders and",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "Partners",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "for our employees and business partners to stand",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "ers, prospective customers, business partners, and",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "unauthorized business partner activities, or other",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "Dealing with Our Partners",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "expect from our partners. All partners and suppliers",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "ness partners and external service providers must",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "adhere to our Business Partner Code of Conduct,",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "Business Partner Code of Conduct requires that",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "ly, our suppliers must accept our Business Partner",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "Control. We have revised our Business Partner Code",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "partners, etc., can be reported to us anonymously",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "partnership between the University of Freiburg and",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "partner KaJo Plastic GmbH & Co. KG. They reprocess",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "tomers and our partners have high expectations for",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "ness partners is ongoing, e.g., between sales and",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "and strong partners in the field of AM, we are de-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "gies has chosen us as a partner for additive man-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "partners must have installed at least five of the lat-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "duction partners can deliver the highest levels of",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "Manufacturing Network partners can increase their",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "pass": 2
+   },
+   {
+    "quote": "tomers, service providers, and business partners,",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "continuing to work with all our partners on the path",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "Together with 75 sales partners",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "with our partners and respect the dignity of ev-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "why we maintain our partner network and support",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "customers, suppliers, distribution partners, other",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "business partners, industry associations, legisla-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "exist in the area of sales partner compliance; i.e. the",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "havior among sales partners. To avoid these risks,",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   },
+   {
+    "quote": "all sales partners are subject to a risk-based \"com-",
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "pass": 2
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "Volkmannと共に当社は、EOS M 290、EOS M 400、EOS M 300シリーズ向けに、拡張性のあるクローズドループの金属粉処理ソリューションを発表しました",
+    "url": "https://www.eos.info/ja/partners/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "資本金：782,671千円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：2,416百万円（2021年12月期）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "8億1753万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：800万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "6800万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,850万円",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "EOS ワールドワイド セールス＆サービスオフィス｜EOS GmbH — EOS Electro Optical Systems Japan K.K. Vlag yokohama Room 01, THE YOKOHAMA FRONT 42F, 41 Tsuruya-cho 1-chome, Kanagawa-ku, Yokohama-shi 221-0835, 日本 電話：+81 45 670 0250",
+    "url": "https://www.eos.info/ja/about-us/locations-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン社と粉末樹脂3Dプリンターの後処理工程におけるアライアン... — Jan 18, 2023 · EOSジャパンとYAMは、樹脂AMプロセスの普及においては3Dプリンターのみではなく、後処理加工まで含めたエコシステムとしての導入が進むことが ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン社と粉末樹脂3Dプリンターの後処理工程におけるアライアン... — EOSジャパンとYAMは、樹脂AMプロセスの普及においては3Dプリンターのみではなく、後処理加工まで含めたエコシステムとしての導入が進むことが ...",
+    "url": "https://www.nikkan.co.jp/releases/view/149492",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン社との協業にNTTデータ ザムテクノロジーズ社を加え、AMサ... — Jan 5, 2021 · 1． 3社協業体制の確立によりAMサービスを強化 JMCでは、2020年5月に品質と生産性が向上した最新ハイエンド樹脂3Dプリンター（EOS P 396）を導入し、EOSジャパン社と協同で「樹脂3DプリンターAMサービス」の提供を開始しております。",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_210105_jmc_xam_eos.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Electro Optical Systems Japan 株式会社 - ShareLab — EOS Electro Optical Systems Japan 株式会社 機器メーカー・販売 / 受託造形コンサルティング / 開発・設計・コンサルティング EOSは金属およびプラスチックの産業用ハイエンド3Dプリンティング分野で世界をリードするソリューションプロバイダーです。",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Electro Optical Systems Japan | 企業情報 | イプロスものづくり — Dec 7, 2021 · EOSシステム、材料、プロセスパラメータを取り揃えた製品ポートフォリオにより、 製品品質だけでなく、製造プロセスの長期にわたる経済的持続性をサポートし、 お客様に大きな競争力をもたらしています。",
+    "url": "https://mono.ipros.com/company/detail/2097044/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.eos.info/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/metal-solutions/metal-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/polymer-solutions/polymer-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/manufacturing/production-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/what-we-do",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/help-contact/get-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/know-how/support-free",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/who-we-are/corporate-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/locations-worldwide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/what-we-do/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/sustainability/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/sustainability/downloads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/what-we-do/dmls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/what-we-do/sls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/what-we-do/industrial-3d-printer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/press-media/press-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/enablement/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/help-contact/newsletter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/partners/manufacturing-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/partners/eos-ecosystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/partners/eos-innovation-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/partners/technology-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/enablement/service/service-plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories/manufacturing/wittmann-kuhnstoff-3d-printed-bronchial-gripper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories/manufacturing/festo-3d-printing-small-batch-production-of-bionic-grippers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories/manufacturing/atlas-copco-rivet-delivery-bowl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2024.pdf?v=3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2023.pdf?v=3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/corporate/corporate-social-responsibility/eos_sustainability_report_2021.pdf?v=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/13_get-support/License_Update_UserGuide.pdf?v=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/grc/eos_codeofconduct_en.pdf?v=3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/var/assets/06_corporate-and-hr/grc/eos_businesspartnercodeofconduct_en.pdf?v=4",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eos.info/06_corporate-and-hr/banners_header/other/7375/image-thumb__7375__stage-content-desktop/Banner_Case_Studies.7ca485bf.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eonet.jp/service/denki/charge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eonet.jp/service/denki/info/202610.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eo-navi.com/eo-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EOS Electro Optical Systems Japan (EOSジャパン) 代理店 契約",
+   "results": [
+    "https://www.eos.info/ja/about-us/locations-worldwide",
+    "https://www.eos.info/about-us/locations-worldwide",
+    "https://prtimes.jp/main/html/rd/p/000000091.000006663.html",
+    "https://www.jmc-rp.co.jp/topic/press/pdf/221031_NewsRelease_EOS.pdf",
+    "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "https://newsfile.futunn.com/JPX/20221031553182.PDF",
+    "https://news.sharelab.jp/3dp-news/ir/jmc-eos-221114/"
+   ]
+  },
+  {
+   "query": "EOS Electro Optical Systems Japan (EOSジャパン) 導入事例",
+   "results": [
+    "https://www.eos.info/ja",
+    "https://www.eos.info/ja/about-us/locations-worldwide",
+    "https://prtimes.jp/main/html/rd/p/000000005.000086669.html",
+    "https://www.nikkan.co.jp/releases/view/149492",
+    "https://www.jmc-rp.co.jp/topic/press/topic_210105_jmc_xam_eos.html",
+    "https://mono.ipros.com/company/detail/2097044/",
+    "https://news.sharelab.jp/3dp-news/ir/eosjapan-yam-alliance-230202/"
+   ]
+  },
+  {
+   "query": "EOS Electro Optical Systems Japan (EOSジャパン) 価格 OR 料金",
+   "results": [
+    "https://eonet.jp/service/denki/charge/",
+    "https://eonet.jp/service/denki/info/202610.html",
+    "https://eo-navi.com/eo-cost",
+    "https://support.eonet.jp/usqa/other/3000264_14146.html",
+    "https://eohikari.com/price",
+    "https://www.noiat.co.jp/liveli/eo-ryoukin",
+    "https://support.eonet.jp/inquiry/course/net/light.html"
+   ]
+  },
+  {
+   "query": "EOS Electro Optical Systems Japan (EOSジャパン) 受託 造形",
+   "results": [
+    "https://www.eos.info/ja/about-us/locations-worldwide",
+    "https://sharelab.jp/company/eos-japan/",
+    "https://www.eos.info/ja",
+    "https://mono.ipros.com/company/detail/2097044/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "https://www.jmc-rp.co.jp/topic/press/topic_210105_jmc_xam_eos.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-am-journey-before-tct/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部6頁・検索4回）"
+ }
+}

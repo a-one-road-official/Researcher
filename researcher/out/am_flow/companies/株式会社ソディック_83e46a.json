@@ -1,0 +1,1319 @@
+{
+ "name": "株式会社ソディック",
+ "aliases": [],
+ "context": "国産装置/Prima Additive買収；自社製金属3Dプリンター（LPBF）。JIMTOF2024 AMエリア出展者ワークショップ。日本AM協会会員 / Prima Additive(子会社化)",
+ "researched_at": "2026-11-02T10:25:44.287168+00:00",
+ "official_url": "https://www.sodick.co.jp/",
+ "identified_by": "search:yahoo_jp:ソディック",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和51年8月3日(創業 昭和46年2月)",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "805億円(連結)　455億円(個別)　※2025年12月期",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,272名(連結)　1,173名(個別)　※2025年12月期",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2,999人（連結）（2014年3月末現在）",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "グループ事業内容",
+    "value": "形彫り放電加工機 ワイヤ放電加工機 細穴放電加工機 特殊放電加工機及び専用機(パレットチェンジャ,ロボットなど) 数値制御電源装置 放電加工機専用治具 精密金属3Dプリンタ マシニングセンタ ナノ加工機 生産統合システム 熱可塑性プラスチック 射出成形機 熱硬化性プラスチック 射出成形機 マグネシウム合金 射出成形機 工業用セラミック 産業機械向けリニアモータ その他電気加工装置 放電加工機用ワイヤ電極線 精密金型・精密成形品 電子部材 各種ソフトウェア 麺帯連続圧延機 真空式ミキサー 自動茹槽/冷却槽 食品殺菌装置 食品熟成装置 LED応用製品 委託研究及び製品開発 その他",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密金型・精密成型品の製造、販売",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "超精密加工・イノベーション ファクトリー",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "超精密セラミックス製品",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "LED照明の開発、製造、販売",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機械事業では、原料を溶かし、金型に注入して成形品を作り出す射出成形機の開発・製造・販売を手掛けています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライ品 製造・販売",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックでは、放電加工機本体だけでなく、周辺機器・消耗品の開発・製造・販売まで行っております",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品を効率よく、十分にご活用いただくために、講習会を実施しております",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "最大可搬質量43kgを実現した電極・ワーク交換装置「SZ50」販売開始",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【設立50周年記念モデル】リニアモータ駆動 高速・高性能 精密形彫り放電加工機 「A40G」「A60G」販売開始",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/injection/",
+    "pass": 1
+   },
+   {
+    "quote": "成形機事業部では、プラスチックなどの資源の有効活用と、環境への思いやりを配慮した射出成形機の製造販売を手掛けております",
+    "url": "https://www.sodick.co.jp/products/injection/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックが教育機関や試験機関と共同で行っている研究論文の索引（一覧）を掲載",
+    "url": "https://www.sodick.co.jp/products/injection/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/food/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック モーション製品一時販売休止のお知らせ",
+    "url": "https://www.sodick.co.jp/products/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、販売再開につきましては、当サイト再開をもちましてのご連絡とさせて頂きます",
+    "url": "https://www.sodick.co.jp/products/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/coretech/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/products/word/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品をご購入いただいた後も、充実したサポートと専門的なサービス、さらに技術力向上のための講習会を通じて、お客様の事業を支援いたします",
+    "url": "https://www.sodick.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品を効率よく、充分にご活用いただくために、講習会を実施しております",
+    "url": "https://www.sodick.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品の保守契約についてはこちら",
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックの射出成形機をお使いのお客様に向けて、出張型成形トレーニングやメンテナンス情報の発信を行うアフターサービスサイトです",
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会 | 株式会社ソディック",
+    "url": "https://www.sodick.co.jp/support/school-info/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/support/school-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品を効率よく、充分にご活用いただくために、講習会を実施しております",
+    "url": "https://www.sodick.co.jp/support/school-info/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械講習会",
+    "url": "https://www.sodick.co.jp/support/school-info/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形講習会",
+    "url": "https://www.sodick.co.jp/support/school-info/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお客様のものづくりに貢献するため、常に社是である「創造、実行、苦労・克服」を実践することで、放電加工機だけでなく高精度なマシニングセンタ、金属3Dプリンタ、レーザー加工機、独自技術のVライン方式を活かした射出成形機、さらに製麺装置を中心とした食品機械などの製造販売を行ってまいりました",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品群は機械設計技術、制御技術、エレクトロニクス技術がコアコンピタンスとなっており、これらの技術を拡げ、基幹部品やLED照明機器の製造販売など、多彩な事業を展開しております",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループは、「Total Manufacturing Solution」を事業コンセプトとして、CAD/CAMシステムによる製品の設計から、放電加工機・マシニングセンタによる金型や部品の加工、電子ビームPIKA面加工装置による加工表面の仕上げ、射出成形機やプレスセンタによる成形品にいたるまで、「ものづくり」に関するあらゆる工程をサポートしています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の「ものづくり」を支えるために、開発、生産、販売拠点のグローバル化を促進しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、世界市場を日本・中国・アジア（中国を除く）・米国・欧州の5つのエリアに分け、エリアごとの市場動向を見据えた生産・販売体制を構築しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/organization.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/office.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/location.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：精密金型・精密成型品の製造、販売",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：LED照明の開発、製造、販売",
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、試作と開発のために当初から設けていたショールームと食品研究室と本展示エリアを有機的に連携さ",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "程を備えており、実際の製造ラインに近い環境で試作を行うことができます",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を使用しながら、本格的な食品の試作や製品開発、製造条件 の検証などを行うことができる実践的な空間を提",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "規定に従う場合を除き、米国においては証券の募集又は販売を行うことはできません",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セミナー・勉強会",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6959",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "医療IT クラウドコンサルティングサービス",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "DXコンサルティング",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナーレポート",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の課題解決に",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「技術」とは、お客様にお使いいただいてこそ「価値」があると考え、",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは、世界首位級のシェアを持つ放電加工機をはじめ、精密マシニングセンタや金属3Dプリンタ、微細レーザ加工機など、お客様の多種多様なご要望にお応えできるよう、幅広いラインナップの製品を提供しています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "変化し続ける時代の中で、お客様の様々なご要望にお応えすべく、品質最優先の商品開発、迅速なご提供に努めています",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熊本県熊本地方を震源とする地震で被災されたお客様・関係者の皆様へ 弊社サポート体制のお知らせ",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連業界や、スマートフォン、デジタルカメラなどに代表されるエレクトロニクス関連業界など、様々な分野で高い評価を獲得しています",
+    "url": "https://www.sodick.co.jp/products/tool/",
+    "pass": 1
+   },
+   {
+    "quote": "工数削減や長時間加工など、幅広いニーズに対応し、お客様の加工をサポートします",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックの工作機械を日本国内で保有するお客様の、専⽤お役立ちサイトです",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "JAPAX社製機をご使用のお客様へ",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "JAPAX社製機をご使用のお客様は、下記より詳細をご確認ください",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "食品機械事業部は、無菌包装米飯製造システム、製麺機、加圧加熱殺菌装置などバリエーション豊かな食品機械ラインナップの中から、お客様の食品製造に最適な装置をご提案しています",
+    "url": "https://www.sodick.co.jp/products/food/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、部品調達の都合により、新規お客様からのご依頼受付を一時的に休止させて頂いております",
+    "url": "https://www.sodick.co.jp/products/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは、放電回路の開発をスタートに「お客様に役立つものを提供する」ため、最高水準の加工精度、加工速度そして多機能化を追求して日々研究開発を進めております",
+    "url": "https://www.sodick.co.jp/products/coretech/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品をご購入いただいた後も、充実したサポートと専門的なサービス、さらに技術力向上のための講習会を通じて、お客様の事業を支援いたします",
+    "url": "https://www.sodick.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックの工作機械を日本国内で保有するお客様は、Sodick Connectサイトからお問い合わせ頂けます",
+    "url": "https://www.sodick.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "SDSや、製品の海外移転に関してなど、お客様に安心して製品をご使用いただくためのサポート情報を掲載しています",
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックの工作機械を日本国内で保有するお客様は、Sodick Connectサイトからお問い合わせ頂けます",
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックの射出成形機をお使いのお客様に向けて、出張型成形トレーニングやメンテナンス情報の発信を行うアフターサービスサイトです",
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックの工作機械を日本国内で保有するお客様は、Sodick Connectサイトからお問い合わせ頂けます",
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とは、お客様にお使いいただいてこそ、価値がある",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお客様のものづくりに貢献するため、常に社是である「創造、実行、苦労・克服」を実践することで、放電加工機だけでなく高精度なマシニングセンタ、金属3Dプリンタ、レーザー加工機、独自技術のVライン方式を活かした射出成形機、さらに製麺装置を中心とした食品機械などの製造販売を行ってまいりました",
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様の課題に共に取り組み、新たな付加価値を生み出す」",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の課題を深く理解し、共に向き合うことで、単なる解決にとどまらず、新たな価値を創造します",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "社是である「お客様のためには創造、実行、苦労・克服をいとわない」という精神を受け継ぎ、どのような難題に対しても誠実に向き合い、諦めることなく挑み続けます",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題に共に取り組み、新たな付加価値を生み出していく",
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは「お客様のものづくりのお役に立ちたい」の一心のもと、お客様のどんなささいな要求にも耳を傾け、どんなに困難な技術課題にも挑戦して克服し、お客様とともに問題解決してまいりました",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "放電加工機に革命をもたらした「リニアモータ」、「セラミックス」、射出成形機の「Vライン方式」などはいずれもお客様の問題解決のために自社開発したものであり、今や当社製品の競争力の源泉となっています",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のためには「創造（So）」「実行（di）」「苦労・克服（ck）」をいとわない精神がソディック（Sodick）という社名の由来であり、社是となっています",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックはこれからも「世の中にないものは自分たちで創る」を貫き、お客様の声に耳を傾け、“豊かな未来創り”と世界の“モノづくり”の発展に貢献し、世界の隅々までソディックの製品やサービスをお届けしてまいります",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ものづくり」のあらゆるプロセスにおいて、お客様の課題解決をサポートします",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように、「ものづくり」をトータルでサポートすることで、各工程における最新情報やノウハウを蓄積でき、お客様の「ものづくり」における技術課題に対して、つねに最適なソリューション（解決策）をご提供できる体制を構築しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客様の立場で「ものづくり」を行っております",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループでは、お客様の立場に立った「ものづくり」を行うために、最も適した場所と方法により開発・製造を行っております",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックは、世界中のお客様が安心して使え、次も使いたいと思える製品づくりを通して、社会価値の向上に貢献するため、TQM(Total Quality Management)の観点から品質推進体制として、当社独自の業務改革・改善のためのQVP+(Quality Victory Plan)活動を、代表取締役の品質・環境・安全全社方針に基づき、海外の各拠点を含めた全社で展開しています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の喜びを製品の質、営業・サービスの質に置き換え、品質の基盤となる業務の質を向上し、社員一人ひとりの取り組みとして、根付いていくための品質推進体制です",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界中のお客様に安心して製品をご使用して頂くため、世界同一品質のもと万全の体制で高品質へこだわりつづけております",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "食の未来を支えるモノづくりを使命とし、お客様の課題解",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最新機種を中心とした展示を行い、お客様の課題やニーズに応じた最適なソリューションをご提案します",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ショールーム、食品研究室と合わせてお客様との共創を推進",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社スタッフがお客様とともに設備",
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入事例（株式会社ソディック様）｜導入事例｜クロスインダストリー｜キヤノンITソリューションズ",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "お客さま導入事例",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例（株式会社ソディック様）",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーサイト",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、取引先とのEDIを含む受発注管理を別途PHPで内製し、それぞれをASTERIA WarpでSAPシステムと連携している",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のためには「創造（So）」「実行（di）」「苦労・克服（ck）」を厭わない精神が社名の由来",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の業界",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客管理（CRM）",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "ASTERIA Warpユーザーの方",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "ASTERIA Warpユーザーサイト",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーは2時間で材料交換可",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ソディックでは、放電加工機本体だけでなく、周辺機器・消耗品の開発・製造・販売まで行っております",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長時間加工を様々なシーンでサポートする消耗品や、作業工数を削減する高品質・高精度な商品を幅広くラインナップ",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）（PDF:44KB）",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中東情勢および原材料市況の影響に関する納期・価格に関してのお知らせ",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック工作機械のサプライ品（消耗品・周辺機器）は、純正ならではの高品質・高精度な製品です",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "使用済みワイヤ電極線と、様々な新品消耗品を「還元製品」として交換可能なサービスです",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "消耗品ご購入で貯まる、ソディックのお得なポイント制度についてご紹介しています",
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "pass": 1
+   },
+   {
+    "quote": "ソディック製品の保守契約についてはこちら",
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤ放電加工後の使用済みワイヤ電極線と、様々な新品消耗品を「還元製品」として交換可能なサービスです",
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）（PDF:44KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（PDF:124KB）",
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらには、機械構造体用鉄鋳物・セラミック部品・ＮＣ装置・リニアモータ等、主要部材に内製オリジナル技術を組み合わせることにより品質に妥協することなく、最高の性能を持つ製品を適正な価格でご提供することを可能にしています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "し、売出価格等が本日決定されたことに伴い確定したものです",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４ ) 取得期間 本売出しに係る売出価格等決定日（2026 年10 月14日（水）から2026",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年 10 月 19 日（月）までの間のいずれかの日（以下「売出価格等決定",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価格等決定日の６営業日後の日）から2026 年12 月23日（水）まで",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "だが、こと生産管理や在庫管理といった工場が扱う業務においては、商流別の価格設定といった日本固有の商習慣が多数存在",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "「Web Performer側で入力した見積もりをSAPシステムに反映し、その後承認へ進めるといった一連の処理がスムーズに実現できました",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積もや製品導入についてご不明な点はお気軽にお問い合わせください",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクストア",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーライセンスの発行や各種ドキュメントのご提供をしています",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "ラインナップ・価格",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック/工作機械の検索結果・価格相場・在庫 | シェアリングファクトリー",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "価格お問い合わせを除く",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック/工作機械の検索結果・価格相場・在庫",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "価格の安い順",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "価格の高い順",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "本体価格（税込）",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "価格お問い合わせ",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "「LPM325S」は、１台のマシンで多彩な金属粉末造形を可能にしたマルチ造形対応型の金属 3D プリンタです",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   },
+   {
+    "quote": "「LPM450」は、金属粉末の溶融凝固による 3D 造形と、造形物への基準面加工を 1 台の機械で行う金属 3Dプリンタです",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   },
+   {
+    "quote": "→各粉末毎のMRS準備で、機械1台の多種金属粉末造形を実現",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   },
+   {
+    "quote": "→ダイカスト金型向け粉末材料「SVM」とSRT工法で、200mm角以上の大物金型・部品の造形が可能",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   },
+   {
+    "quote": "「造形サイズ拡張」、「多品種粉末の造形対応」「使いやすさ向上」の 3 つをテーマに開発いたしました",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   },
+   {
+    "quote": "→1台で多品種の粉末材料が使用可能",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "世界最高水準のものづくりを目指し、コアテクノロジーを自社開発",
+    "url": "https://www.sodick.co.jp/products/coretech/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりのための機械装置の基本技術である精密位置制御技術をベースに、現在では自社開発したコアテクノロジーである要素技術をプラスして新たな分野への挑戦をしつづけています",
+    "url": "https://www.sodick.co.jp/products/coretech/",
+    "pass": 1
+   },
+   {
+    "quote": "放電加工機に革命をもたらした「リニアモータ」、「セラミックス」、射出成形機の「Vライン方式」などはいずれもお客様の問題解決のために自社開発したものであり、今や当社製品の競争力の源泉となっています",
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最高水準の精度を目指し、5つのコア技術を自社開発しました",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソディックグループでは、加工機のモータを自在にコントロールするために、創業時よりNC装置の自社開発を続けてきました",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、現在では高性能なリニアモータを自社開発するまでに至っています",
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.asteria.com/jp/warp/partner/ap/canon-its.php",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "246億18百万円",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "805億円(連結) 455億円(個別) ※2025年12月期",
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "３． 株 式 の 取 得 価 額 の 総 額 962,481,100円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261102130851.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(３) 株 式 の 取 得 価 額 の 総 額 30億円（上限）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261102130851.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(２) 株 式 の 取 得 価 額 の 総 額 962,481,100円",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261102130851.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(３) 株式の取得価額の総額 30 億円（上限）",
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員2,999名（2014年3月末・連結）、売上高568億円（2014年3月期・連結）",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "シェアNo.1データ連携ミドルウェア詳細資料をご希望の方はこちら",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "本体価格（税込）",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "330,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "1,650,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "121,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "55,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "990,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "3,850,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "5,280,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "440,000円",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロチップを印刷する2億ドルの機械：EUVフォトリソグラフィーシステム",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 ソディック 」の 代理店 148社 注目ランキング【2026年】 — 「 ソディック 」の 代理店 148社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 株式会社ソディック",
+    "url": "https://metoree.com/companies/663/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ソディック 」の 代理店 ・取扱店 - indexPro — 「 ソディック 」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6959",
+    "pass": 3
+   },
+   {
+    "quote": "サポート情報一覧 | 株式会社 ソディック — サポート情報一覧 | 株式会社 ソディック ソディック https://www.sodick.co.jp > support > support-info",
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府の「 ソディック 」の 代理店 21社 | Metoree — 大阪府の「 ソディック 」の 代理店 21社 | Metoree Metoree https://metoree.com > ... > ソディックの代理店",
+    "url": "https://metoree.com/companies/663/distributors/osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 （株式会社 ソディック 様） — 導入事例 （株式会社 ソディック 様） キヤノンITソリューションズ株式会社 https://www.canon-its.co.jp > case > web-performer-03",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 ソディック 】データ連携 事例 - Asteria Corporation — 【株式会社 ソディック 】データ連携 事例 - Asteria Corporation Asteria Corporation https://www.asteria.com > warp > case > w_sodick",
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "pass": 3
+   },
+   {
+    "quote": "電極・ワーク自動搬送装置 | 株式会社 ソディック — 電極・ワーク自動搬送装置 | 株式会社 ソディック 株式会社ソディック https://www.sodick.co.jp > products > tool",
+    "url": "https://www.sodick.co.jp/products/tool/sz/",
+    "pass": 3
+   },
+   {
+    "quote": "未来を創る Sodick （株式会社 ソディック ） — 未来を創る Sodick （株式会社 ソディック ） ソディック https://www.sodick.co.jp",
+    "url": "https://www.sodick.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース一覧｜株式会社 ソディック — ニュース一覧｜株式会社 ソディック ソディック https://www.sodick.co.jp > news",
+    "url": "https://www.sodick.co.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック /工作機械の検索結果・ 価格 相場・在庫 — ソディック /工作機械の検索結果・ 価格 相場・在庫 Sharing FACTORY（シェアリングファクトリー） https://sales.sharingfactory.co.jp > 商品一覧 > 工作機械",
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "【 ソディック 】株価・日経最新ニュース[6143] | 日本経済新聞 — 【 ソディック 】株価・日経最新ニュース[6143] | 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company",
+    "url": "https://www.nikkei.com/nkd/company/?scode=6143",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報｜株式会社 ソディック — 製品情報｜株式会社 ソディック ソディック https://www.sodick.co.jp > products",
+    "url": "https://www.sodick.co.jp/products/",
+    "pass": 3
+   },
+   {
+    "quote": "『お試し』から始める金属3Dプリンタ活用！ 受託造形 可能な ... — 『お試し』から始める金属3Dプリンタ活用！ 受託造形 可能な ... 株式会社ソディック https://www.sodick.co.jp > survibes > articles",
+    "url": "https://www.sodick.co.jp/survibes/articles/am/3301/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ | 株式会社 ソディック — 金属3Dプリンタ | 株式会社 ソディック ソディック https://www.sodick.co.jp > products > tool",
+    "url": "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金型も部品も想いのまま！ ソディック の高速 造形 金属3D ... — 金型も部品も想いのまま！ ソディック の高速 造形 金属3D ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "pass": 3
+   },
+   {
+    "quote": "WEB展示会 金属3Dプリンタ - ソディック — WEB展示会 金属3Dプリンタ - ソディック ソディック https://www.sodick.co.jp > special",
+    "url": "https://www.sodick.co.jp/special/WebExhibition_M3DP/",
+    "pass": 3
+   },
+   {
+    "quote": "ソディック の金属3Dプリンター4製品 ・人気ランキング — ソディック の金属3Dプリンター4製品 ・人気ランキング Metoree https://metoree.com > プリンター > 金属3Dプリンター",
+    "url": "https://metoree.com/categories/5523/663/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sodick.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/tool/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/injection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/supplies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/food/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/motion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/coretech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/products/word/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/support/support-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/support/service-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/support/school-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/irnews.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/brand-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/creativity.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/office.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/location.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/network.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/04/reportandaccounts2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/cms/wp-content/uploads/wire-recycling-system_campaign-flyer_2026.04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/261022095913_Press_Release_Opening_of_%20Food_Machinery_Exhibition_Area_20261022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/261020155317_Press_Release_Results_Report_World_Sumo_Championships_2026_20261019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261102130851.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014171229.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/ir/pdf/tmp/20261014162608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/pdf/260928123323_Press_Release_Champion_of_the_68th_All_Japan_Business_Sumo_Championship_20260928.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sodick.co.jp/company/img/nav_company09.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/663/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6959",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sodick-ft.co.jp/category/led-sample/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソディック",
+   "results": [
+    "https://www.sodick.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "https://sodick.com/",
+    "https://www.youtube.com/channel/UCjA0T1BjAGueat5Ted79BJA",
+    "https://www.nikkei.com/nkd/company/?scode=6143",
+    "https://ja.wikipedia.org/wiki/ソディック",
+    "https://finance.yahoo.co.jp/quote/6143.T",
+    "https://minkabu.jp/stock/6143/news/",
+    "https://www.sodick.co.jp/en/",
+    "https://sodick.com/?p=home"
+   ]
+  },
+  {
+   "query": "ソディック 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/663/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6959",
+    "https://www.sodick.co.jp/support/support-info/",
+    "https://metoree.com/companies/663/distributors/osaka/",
+    "https://yjs-hanbai.com/company/",
+    "https://www.sodick.co.jp/company/network.html",
+    "https://www.sodick.co.jp/company/overseas.html",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=6960",
+    "https://www.sodick.co.jp/pdf/240206162355_Sodick-SubscriptionTRY-flyer.pdf",
+    "https://distymap.com/manufacturers/sodick"
+   ]
+  },
+  {
+   "query": "ソディック 導入事例",
+   "results": [
+    "https://www.canon-its.co.jp/solution/industry/cross-industry/case/web-performer-03",
+    "https://sodick-ft.co.jp/category/led-sample/",
+    "https://www.asteria.com/jp/warp/case/w_sodick/",
+    "https://hexagon-techbee.co.jp/archives/case-study/%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA/",
+    "https://www.sodick.co.jp/products/tool/sz/",
+    "https://www.mes-magazine.com/mes-system/sodick-mes.html",
+    "https://www.sodick.co.jp/",
+    "https://www.techs-s.com/case/show/90",
+    "https://www.sodick.co.jp/survibes/articles/",
+    "https://www.smauto.co.jp/case/casestudy-sodick-smassmartconnect/"
+   ]
+  },
+  {
+   "query": "ソディック 価格 OR 料金",
+   "results": [
+    "https://www.sodick.co.jp/",
+    "https://www.sodick.co.jp/news/",
+    "https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Btop_keyword%5D=%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF",
+    "https://www.nikkei.com/nkd/company/?scode=6143",
+    "https://www.sodick.co.jp/products/",
+    "https://www.sodick.co.jp/media/glance/",
+    "https://www.jp.usedmachinery.bz/manufacturers/list/12928",
+    "https://finance.logmi.jp/articles/384018",
+    "https://finance.yahoo.co.jp/quote/6143.T",
+    "https://minkabu.jp/stock/6143"
+   ]
+  },
+  {
+   "query": "ソディック 受託 造形",
+   "results": [
+    "https://www.sodick.co.jp/survibes/articles/am/3301/",
+    "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "https://www.youtube.com/watch?v=UykhbFUPD7E",
+    "https://www.sodick.co.jp/special/WebExhibition_M3DP/",
+    "https://metoree.com/categories/5523/663/",
+    "https://machine.yamazen.co.jp/s/article/%E3%82%BD%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF-%E9%87%91%E5%B1%9E%EF%BC%93%EF%BC%A4%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F-%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E9%87%91%E5%9E%8B-%E6%96%B0%E6%99%82%E4%BB%A3",
+    "https://www.chubu.meti.go.jp/b35innovation/meetupchubu/event/pdf/slide80-2.pdf",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/ryDsjFdsMqk",
+    "https://videfit.com/videos/1197",
+    "https://www.sodick.co.jp/special/3dsolution/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部7頁・検索5回）"
+ }
+}

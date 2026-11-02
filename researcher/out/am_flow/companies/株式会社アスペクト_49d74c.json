@@ -1,0 +1,733 @@
+{
+ "name": "株式会社アスペクト",
+ "aliases": [],
+ "context": "国産粉末床装置メーカー(Metoree金属3Dプリンター一覧に掲載) /",
+ "researched_at": "2026-11-02T10:24:41.818593+00:00",
+ "official_url": "http://www.aspect-rp.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1996年11月18日",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "粉末床溶融結合装置AM-E 3 開発・販売・保守 粉末樹脂材料開発・販売 AM装置を用いた受託造形サービス(モデリングサービス) AM技術の用途開発や共同研究開発 ソフトウエア開発",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 名古屋 開催のご案内",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 大阪 開催のご案内",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "装置開発・販売・保守",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料開発・販売",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "材料開発支援・その他",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクトセミナーin 東京 開催のご案内 – 株式会社アスペクト",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクトセミナーin 東京 開催のご案内",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月19日(金)に東京(新宿)でアスペクトセミナーを開催いたします",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "今回のセミナーでも、基調講演として「最終製品用途や活用事例など」について弊社装置ユーザー2社から導入事例を発表いただきます",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー終了後には、ささやかではありますが懇親会も設けております",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "※セミナー終了後別会場にて懇親会を予定しております",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクトセミナーin 名古屋 開催のご案内",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 東京(品川) 開催報告",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 東京(品川) 開催報告 今回で5回目の開催となりま […]",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 東京(品川) 開催のご案内",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 名古屋 開催のご案内",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト・三菱商事テクノス 共同セミナー in 大阪 開催のご案内",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "装置開発・販売・保守",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料開発・販売",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "材料開発支援・その他",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは、文房具やトナーなどの消耗品販売や在庫管理サポート、セキュリティ対策、バックオフィス業務にも及びます",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "オフィスのレイアウト企画だけでなく、ITインフラの設計・構築、セキュリティ対策、オフィス機器・OA用品の販売などといったオフィスの構築・運用支援に関連するサービスです",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "Do not sell or share my personal information（私の個人情報を販売 / 共有しないでください）",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "私は1996年に三菱商事を退社し、同年11月18日に当社アスペクトを設立しましたが、上述のPBF装置を製品化したDTM社(テキサス大学により設立された会社)の販売権を獲得し、同技術の普及に努めてきました",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "また、経産省や文科省の支援を得て、積層や造形技術の基礎研究や製品向上の研究開発を実施し、精度と生産性を大幅に向上させたRaFaElシリーズを2011年にリリースしました",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "最近、当社はRaFaElⅡとスーパーエンプラ対応のRaFaElⅡ-HTをリリースしました",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "RaFaElⅡとRaFaElⅡ-HTシリーズは、試作品製造のみならず最終製品を造形する装置を目指しています",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "開発・販売・保守",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂材料開発・販売",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "AM装置を用いた受託造形サービス(モデリングサービス)",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "関東経済産業局「成長型中小企業等研究開発支援事業」に参画",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "装置開発・販売・保守",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料開発・販売",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "材料開発支援・その他",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス-2次加工を見越した造形設計 | 東レ・プレシジョン株式会社",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービスと精密な2次加工の組み合わせで納品後、ダイレクトに装置への装着、使用が可能となります",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ・プレシジョンの金属3Dプリンター受託造形サービスでは、金属3Dプリンターでの製作後、表面/内面の磨き等の2次加工も行います",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "2次加工を見越した造形設計を行うため、よりお客様の要望に合った最適な製品を実現します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ・プレシジョンの金属3Dプリンター受託造形サービスの特長",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "精密微細部品を試作→小ロットで製作していきたい",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "・短期間で試作品を製作しやすい",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "3DCADデータがあれば、すぐに製作できるということから、試作品を短期間で製作できるというメリットがあります",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "様々な造形方式のある金属3Dプリンターは、複雑形状の造形や部品数の削減が可能、短期間で試作品を製作しやすい、多品種少量製造といったメリットから、産業分野で広く活用されています",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ・プレシジョンがご提供する金属3Dプリンター受託造形サービスは、金属3Dプリンターでの造形後、外形加工、表面・内面の磨きなどの精密な2次加工も行うワンストップサービスが特徴です",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2次加工を見越した造形形状の設計を行うため、よりお客様の要望に合った最適な製品を実現します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "●設計ルールについて",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "粉末床溶融結合装置AM-E3",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂材料",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料開発・販売",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合装置",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合装置AM-E3",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂材料",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料開発・販売",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合装置",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは、文房具やトナーなどの消耗品販売や在庫管理サポート、セキュリティ対策、バックオフィス業務にも及びます",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト ホテル パーク ウエスト（クロンドーキン）：（最新料金：2027年）",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "日程を選択して、空室状況と料金を確認しましょう",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "この宿泊施設では、6歳以上の子供には大人料金が請求されます",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "正しい料金および定員情報を確認するには、検索条件に子供の人数と年齢を追加してください",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "特別リクエストは確約ではなく、チェックイン時の状況により利用できない場合があり、また追加料金が必要となる可能性があります",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト ホテル パーク ウエストの宿泊料金はいくらですか？",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト ホテル パーク ウエストの宿泊料金は、日程やホテルのポリシーなどによって異なります",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金を確認するには、日程を入力してください",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合装置AM-E3",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂材料",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "テキサス大学で開発されたSLS技術は、樹脂・金属の粉末を溶融・焼結させて造形する技術で、最終製品と同じ材料を用いることができます",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "今日、SLS技術はPowder Bed Fusion(PBF, 粉末床溶融結合)技術と呼ばれています",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合装置AM-E",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂材料開発・販売",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【粉末床溶融結合装置】",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末水分率測定機 ブラスター ウェットブラスター 恒温槽",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動粉末搬送装置Spice APC (Auto Powder Conveyer)を上市",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料開発・販売",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合装置",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、まず金属粉末で薄い層を作り、必要箇所にレーザーを照射して粉末を溶融凝固させます",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに粉末の層を重ね、同じ工程を繰り返し、形作っていきます",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターがあれば、基本的にコストは1回の造形時間と材料費のみとなります",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "●パウダーベッド方式（粉末床溶融結合方式）",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合方式とも呼ばれており、金属粉末を敷き詰め、レーザーや電子ビームで造形する部分のみを溶融・凝固させ、それを繰り返すことで造形します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "メタルデポジション方式は、金属粉末の噴射とレーザービームの照射を同時に行い、溶融した金属材料を積層・凝固させて造形する方法です",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット方式は、金属粉末に、バインダーと呼ばれる液体の結合剤を噴射することで金属粉末を固め、造形を行う造形方式です",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "FDM（熱溶解積層）方式は、金属粉末にバインダーを混合した材料を積層することで造形を行う方式です",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "代理店 - 株式会社アスペクト — 代理店 - 株式会社アスペクト 株式会社アスペクト https://aspect.jpn.com > What’s New",
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト セミナーin 東京 開催のご案内 — アスペクト セミナーin 東京 開催のご案内 株式会社アスペクト https://aspect.jpn.com > What’s New > News",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィスソリューション - 日本アスペクトコア — オフィスソリューション - 日本アスペクトコア 日本アスペクトコア https://www.aspectcore.co.jp > solution > office",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト 、クラウド・ワークフォース・エクスペリエンスと ... — アスペクト 、クラウド・ワークフォース・エクスペリエンスと ... Business Wire https://www.businesswire.com > news > home",
+    "url": "https://www.businesswire.com/news/home/20251118977806/ja",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト ホテル パーク ウエスト（クロンドーキン） — アスペクト ホテル パーク ウエスト（クロンドーキン） Booking.com https://www.booking.com > ... > クロンドーキンのホテル",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "スコット アスペクト 970は予算向けのトレイルバイクです — スコット アスペクト 970は予算向けのトレイルバイクです Reddit https://www.reddit.com > Budgetbikeriders > comments",
+    "url": "https://www.reddit.com/r/Budgetbikeriders/comments/1s04kh0/scott_aspect_970_as_a_budget_trail_bike/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "アスペクト セントラル 口コミ、宿泊 料金 - エクスペディア — アスペクト セントラル 口コミ、宿泊 料金 - エクスペディア Expedia https://www.expedia.co.jp > ... > ケアンズのホテル",
+    "url": "https://www.expedia.co.jp/Cairns-Hotels-Aspect-Central.h2074295.Hotel-Information",
+    "pass": 3
+   },
+   {
+    "quote": "ASPECT14（ アスペクト 14）ハンターストーブ製品 ... — ASPECT14（ アスペクト 14）ハンターストーブ製品 ... hunterstoves.jp https://www.hunterstoves.jp > gallery7",
+    "url": "https://www.hunterstoves.jp/gallery7",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アスペクト – AM(3Dプリンター)技術で夢を拓く — 株式会社 アスペクト – AM(3Dプリンター)技術で夢を拓く 株式会社アスペクト https://aspect.jpn.com",
+    "url": "https://aspect.jpn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 株式会社アスペクト — 会社案内 - 株式会社アスペクト 株式会社アスペクト https://aspect.jpn.com > company",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アスペクト (@aspect.3Dprinter) - Facebook — 株式会社 アスペクト (@aspect.3Dprinter) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/aspect.3Dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アスペクト と粉末樹脂3Dプリンターの後処理工程 ... — 株式会社 アスペクト と粉末樹脂3Dプリンターの後処理工程 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "探検！カンパニー（ アスペクト ） ダイジェスト版 - YouTube — 探検！カンパニー（ アスペクト ） ダイジェスト版 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7UnbkSIf6NA",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "今回のセミナーでも、基調講演として「最終製品用途や活用事例など」について弊社装置ユーザー2社から導入事例を発表いただきます",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アスペクトの欧州市場における事業拡大と顧客サポート体制の強化を目的として設立いたしました、A […]",
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "富士フイルムビジネスイノベーション社の特約店という特徴を活かし、複合機やソフトウェアについて熟知した営業とエンジニアが連携しながら、お客様のオフィス環境の構築、情報のデジタル化、業務プロセス改善を支援しています",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "定期訪問でもお客様の課題を拾い上げ、業務効率化を推進しています",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "働き方のトレンドや社会の変化に対応し、お客様の課題に寄り添うオフィス構築を行っています",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "20年以上お付き合いのあるお客様も多く、リピーターは7割以上にのぼります",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要望はもちろん、これまで顕在化していなかった課題に取り組む価値提案も行っています",
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "pass": 3
+   },
+   {
+    "quote": "他のユーザーからの質問",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に宿泊したあとでユーザーから投稿されたものです",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "2次加工を見越した造形設計を行うため、よりお客様の要望に合った最適な製品を実現します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望に合わせて造形します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2次加工を見越した造形形状の設計を行うため、よりお客様の要望に合った最適な製品を実現します",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   },
+   {
+    "quote": "1955年の創業以来、合成繊維製造のキーテクノロジーである紡糸用口金を製造し、日本はもちろん世界の合繊業界の発展に貢献して参りました",
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1ベッドルーム アパートメント",
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "3000万円",
+    "url": "https://aspect.jpn.com/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.aspect-rp.co.jp",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/8160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itfor.co.jp/cti/aspect-unified-ip/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspectcore.co.jp/solution/office",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/Budgetbikeriders/comments/1s04kh0/scott_aspect_970_as_a_budget_trail_bike/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.expedia.co.jp/Cairns-Hotels-Aspect-Central.h2074295.Hotel-Information",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aspect.jpn.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/aspect.3Dprinter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アスペクト 代理店 契約",
+   "results": [
+    "https://aspect.jpn.com/tag/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://www.bgent.net/plus/article/8160",
+    "https://cospalinks.com/column/overseas-distributor-agreement",
+    "https://www.nikkan.co.jp/articles/view/428286?gnr_footer=7911",
+    "https://partnersuccess.jp/media/agency-types",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://ebis.obda.or.jp/faq/1143",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://pm-lawyer.com/20210825/",
+    "https://aspect.jpn.com/tag/販売代理店/"
+   ]
+  },
+  {
+   "query": "アスペクト 導入事例",
+   "results": [
+    "https://aspect.jpn.com/%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BCin-%E6%9D%B1%E4%BA%AC%E3%80%80%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/",
+    "https://www.itfor.co.jp/cti/aspect-unified-ip/",
+    "https://www.aspectcore.co.jp/solution/office",
+    "https://www.businesswire.com/news/home/20251118977806/ja",
+    "https://reflect.page/interview",
+    "https://www.ascentech.co.jp/case/ca_index.html",
+    "https://www.paloaltonetworks.jp/customers",
+    "https://cloudpack.jp/casestudy/",
+    "https://www.focus-s.com/case",
+    "https://en.aspect.jpn.com/tag/導入事例/"
+   ]
+  },
+  {
+   "query": "アスペクト 価格 OR 料金",
+   "results": [
+    "https://www.booking.com/hotel/ie/days-park-west.ja.html",
+    "https://www.reddit.com/r/Budgetbikeriders/comments/1s04kh0/scott_aspect_970_as_a_budget_trail_bike/?tl=ja",
+    "https://www.expedia.co.jp/Cairns-Hotels-Aspect-Central.h2074295.Hotel-Information",
+    "https://www.hunterstoves.jp/gallery7",
+    "https://aspect.jpn.com/",
+    "https://bbs.kakaku.com/bbs/-/SortID=21981998/",
+    "https://www.westana.co.jp/ai-sim/aspect-ratio-tool/",
+    "https://www.agoda.com/ja-jp/aspect-niseko/hotel/niseko-jp.html",
+    "https://www.navitime.co.jp/taxi/result/?start=%7B%22node%22%3A%2200005947%22%2C%22name%22%3A%22%E6%B1%A0%E8%A2%8B%22%2C%22lon%22%3A%22502959432%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22128626878%22%7D&goal=%7B%22spot%22%3A%2200011-030391505%22%2C%22name%22%3A%22%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%22%2C%22lon%22%3A%22502983320%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22128630401%22%7D",
+    "https://developers.openai.com/api/docs/pricing"
+   ]
+  },
+  {
+   "query": "アスペクト 受託 造形",
+   "results": [
+    "https://aspect.jpn.com/company/",
+    "https://www.facebook.com/aspect.3Dprinter/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://prtimes.jp/main/html/rd/p/000000008.000086669.html",
+    "https://www.youtube.com/watch?v=7UnbkSIf6NA",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://sharelab.jp/company/aspect/",
+    "https://www.tokyo-cci.or.jp/market/keieitaisyo/award_company_list/14/02/",
+    "https://aspect.jpn.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "誰から": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

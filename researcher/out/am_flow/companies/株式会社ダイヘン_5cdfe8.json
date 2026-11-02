@@ -1,0 +1,1205 @@
+{
+ "name": "株式会社ダイヘン",
+ "aliases": [],
+ "context": "自社装置(WAAM『ArcBuilder 3D』7,500万円)/受託造形(2026年5月発表) / —(国産)",
+ "researched_at": "2026-11-02T10:26:05.849993+00:00",
+ "official_url": "https://www.daihen.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1919年12月1日",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "237,735百万円（2026年3月期、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "4,542人（2026年3月末現在、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種電力機器、各種溶接機、産業用ロボット、半導体製造装置用高周波電源、 EV充電システム等の製造、販売、修理",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "仕入先募集",
+    "value": "取引希望の方はこちら",
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.daihen.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、製造・販売してきた柱上変圧器から、停電区域を最小限に止める、開閉器、地中配電を支える地上設置型変圧器など、培ってきた高度な電圧調整技術や通信技術でスマートグリッドへの対応も推進しております",
+    "url": "https://www.daihen.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模な工場に適した特高受配電設備や、ビルや工場などの用途にあった最適設計が可能なキュービクル式高圧受電設備などをラインアップして、様々な提案が可能です",
+    "url": "https://www.daihen.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ 2026年度",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース「建築鉄骨・造船業界が抱える厚板溶接の課題を一挙に解決",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ 2026年度",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "アーク溶接技術を用いた次世代金属積層造形「WAAM」事業に参入（ニュースリリース）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ 2026年度",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "リリース全文",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "・当社の蓄電所向け蓄電池パッケージは、JC-STAR★（レベル1）認証を取得しているほか、低騒音設計や搬入･設置が容易なコンパクト設計を採用しております",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "優れた省エネ性能と高い保守性・扱いやすさで、脱炭素社会における最適なエネルギー活用を実現します",
+    "url": "https://www.daihen.co.jp/products/electric/trans/",
+    "pass": 1
+   },
+   {
+    "quote": "コンパクト設計でシンプルかつすっきりとしたデザイン",
+    "url": "https://www.daihen.co.jp/products/electric/trans/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/electric/trans/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼性の向上や保守の省力化、省スペースを実現",
+    "url": "https://www.daihen.co.jp/products/electric/receiving/",
+    "pass": 1
+   },
+   {
+    "quote": "ビルや工場などの用途にあった最適設計が行える高い信頼性を備えた機種をラインアップ",
+    "url": "https://www.daihen.co.jp/products/electric/receiving/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/electric/receiving/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量&コンパクト設計の壁掛け設置タイプ",
+    "url": "https://www.daihen.co.jp/products/electric/power/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/electric/power/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/electric/other/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/cleanrobot/wafer/",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入前のコンサルティングからご購入後の修理、点検、オーバーホールまで、生産設備の稼働率向上のために責任をもってお手伝いします",
+    "url": "https://www.daihen.co.jp/products/cleanrobot/wafer/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット保守廃止機種のご案内",
+    "url": "https://www.daihen.co.jp/products/cleanrobot/wafer/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/wireless/index02.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/fineplasma/",
+    "pass": 1
+   },
+   {
+    "quote": "保守部品供給期限",
+    "url": "https://www.daihen.co.jp/products/welder/co2_mag/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/welder/co2_mag/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/products/electric/distribution/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店・販売店営業推進部長",
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "EV充電システム等の製造、販売、修理",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "電力用ヒューズの生産・販売会社 大阪ヒューズ(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国に溶接機器の販売会社OTCアメリカ設立（現・DAIHEN, Inc.）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アーク溶接用ロボット販売開始",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツに溶接機器の販売会社OTCヨーロッパ設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイ現地法人と合併で大形変圧器の生産・販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国に半導体製造関連機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電力機器の販売会社 ダイヘン電機システム(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾に溶接機器の販売会社 台湾OTC有限会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国に溶接機器の販売会社 OTC機電（上海）有限会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接機器の販売会社 ダイヘン溶接メカトロシステム(株)設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国北京に電力機器の生産・販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国常熟にFPDの搬送ロボットの生産・販売サービス会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに溶接機器の販売会社を設立（OTC DAIHEN INDIA PVT. LTD.）",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアに溶接機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤレス給電システム販売開始",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコに溶接機器の販売会社設立",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ",
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ | 株式会社ダイヘン",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース・お知らせ 2025年度",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "リリース全文",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・小型･軽量設計により移動を伴う屋外での溶接作業性が向上",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社独自の高効率変換技術を用いた業界最高水準の変換効率を誇るパワーコンディショナや、システムに必要な機器をオールインワンパッケージにしたDISOLA PACKシリーズなど、様々なシステムに応じたご提案が可能です",
+    "url": "https://www.daihen.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース「建築鉄骨・造船業界が抱える厚板溶接の課題を一挙に解決",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせたシステム構成の提案が可能",
+    "url": "https://www.daihen.co.jp/products/electric/receiving/",
+    "pass": 1
+   },
+   {
+    "quote": "750V入力で業界トップクラスの変換効率98.4%を実現",
+    "url": "https://www.daihen.co.jp/products/electric/power/",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自の技術による圧倒的な位置ズレの強さと業界最高水準の高効率充電で、EV運用の利便性を飛躍的に向上",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "交流アーク溶接機（BP、BPRシリーズ）をご愛用のお客様へ",
+    "url": "https://www.daihen.co.jp/products/welder/co2_mag/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 小林愛三は、フォード生産方式を変圧器の生産にいち早く採り入れ、当時としては画期的な｢柱上変圧器の専門製作による大量生産｣によって、高品質な製品を業界が驚くほどの低価格で提供していこうと考えました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "業界に先駆けて太陽光発電用100kＷパワーコンディショナを開発",
+    "url": "https://www.daihen.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "建築鉄骨･造船業界が抱える厚板溶接の課題を一挙に解決",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界最高クラスの溶接品質と新搭載の機能により、労働力不足解消や後継者育成支援、環境配慮など生産現場が抱える課題の解決に貢献します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "需要が増加傾向にある建築鉄骨･造船業界の生産現場は、社会インフラを支える事業として常に高い品質が求められていますが、慢性的な労働力不足や熟練工の高齢化に伴う後継者･技能継承問題など数多くの課題を抱えています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "同業界ではいかに品質や生産性を向上するかが重要な課題であり、誰でも簡単に高品質･高効率な溶接ができる厚板向け溶接機のニーズが高まっています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこで当社は、従来25機種あった厚板向け溶接機をお客様が機種選定で迷うことのない2機種に絞り、すべての溶接現場に欠かせない要素を集約した「溶接機の決定版」として本製品を開発しました",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "本製品の市場投入により、溶接品質の脱技能化、省エネ性能による環境負荷低減等に加え、これまで複数機種をご購入いただいていたお客様の投資抑制にも寄与します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界最高クラスの溶接品質",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様が造形したい部品等の3Dデータを基に、当社システムにて試作品の造形を請け負う有償サービスを提供",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界の人手不足の解消に貢献します",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area2_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫厚板溶接業界が抱える主な課題",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "厚板溶接業界の",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用事例・導入事例",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、従来は検索が困難だった文書が即座に閲覧可能になり、顧客対応のレスポンスが大きく向上",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、顧客対応が多い溶接・接合事業部と、設計マニュアルや調査データを頻繁に参照する産業電機事業部が対象となった",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ダイヘンの導入事例 | 人材育成・社員研修など組織開発コンサルティングの株式会社ワークハピネス",
+    "url": "https://workhappiness.co.jp/case/human/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はおかげさまで社会からも広く認められて、結果的に売上・利益も伸ばし、業界内でも一定の地位を獲得するまでになりました",
+    "url": "https://workhappiness.co.jp/case/human/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "種苗事業をおこなう株式会社サカタのタネ様で実施した、キャリア研修の導入事例です",
+    "url": "https://workhappiness.co.jp/case/human/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "コンタクトレンズメーカー、シード様で実施した若手社員研修（2年目・3年目）の導入事例です",
+    "url": "https://workhappiness.co.jp/case/human/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "初めてのお客様へ 新規登録",
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "pass": 3
+   },
+   {
+    "quote": "ランキングは、売上状況やトレンド、ユーザー行動など各種データをもとにモノタロウが独自に作成したものです",
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "2026年度のEMS事業受注高は前年度比約2.6倍の450億円となる見通しであり、2030年度には700億円の達成を見込んでおります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みにより、EMS事業受注高は2026年度450億円、2027年度550億円、2030年度には700億円へ拡大する見通しです",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミドルレンジモデル",
+    "url": "https://www.daihen.co.jp/products/welder/co2_mag/",
+    "pass": 1
+   },
+   {
+    "quote": "10,596百万円",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "237,735百万円（2026年3月期、連結）",
+    "url": "https://www.daihen.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「Welbee The Short Arc 500」 1,685,000円",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Welbee The Short Arc 500 -Field Edition-」 1,386,000円",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本事業において、日本国内市場の開拓を着実に推進した上で、来年度以降は国内を上回る規模の欧米市場への参入を図り、2030年に売上高100億円の達成を目指します",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "75,000,000円（税抜）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "105円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "21円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（105円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（210円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "30円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（150円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（255円00銭）",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "84円00銭 96円00銭 180円00銭",
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度の EMS 事業受注高は前年度比約2.6 倍の 450 億円とな",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る見通しであり、2030 年度には700 億円の達成を見込んでおります",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、EMS 事業受注高は2026 年度 450 億円※4、2027 年度550",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億円、2030 年度には 700 億円へ拡大する見通しです※5",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※4 2026 年度上期末時点の受注残は、280 億円（95 件）となる見込みです",
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年間電気代 約393,000円 約343,000円",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "稼働日数 : 260日 電力料金 : 23円/kWh",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年 間 CO2排出量 t , 電気代 約 万円 削減0.9 5.0",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月1,000万円相当の人件費削減効果とナレッジ継承を実現",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から約半年で累計約13,200時間の業務時間を削減、人件費に換算すると月あたり1,000万円相当の削減効果が出ている",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIとの連携が月1,000万円相当の人件費削減を後押し",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みにより知識の円滑な継承が実現するだけでなく、文書を探す時間も大幅に削減されます",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "200TB近い社内データをクラウドへ移行するのはハードルが高く、現実的ではありませんでした",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "これを人件費に換算すると月あたり1,000万円相当の結果となった",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "【80A/30m】スーパープラズマ切断機 D-8000用 トーチ アングル形・ショートハンドル形 CTWL-0801 DAIHEN ダイヘン",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "※掲載写真はCTZW-0801ロングハンドル10mです",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン エアプラズマ切断機 D-12000 切断トーチCTPW-1201（ストレートハンドル形） 10Mセット メーカー2年保証付 インボイス制度対象適格請求書発行事業者",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "（DAIHEN) プラズマ切断機 D-12000 切断トーチCTPW-1201（ストレートハンドル形） 10Mセットです",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "300×705×595(ハンドルを含まず)",
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "pass": 3
+   },
+   {
+    "quote": "溶込み制御機能により、長尺構造物や円周溶接など、ワイヤの突出し長さが変化するようなワークでも、一定の溶接電流により均一な溶込み深さが得られます",
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "EV充電時の電力ピークを低減し、電気基本料金の増加分を削減可能",
+    "url": "https://www.daihen.co.jp/products/electric/v2x/",
+    "pass": 1
+   },
+   {
+    "quote": "EVに搭載した蓄電池と定置用蓄電池を用いて建物内の電力需要を平準化し、電気料金を低減",
+    "url": "https://www.daihen.co.jp/products/electric/v2x/",
+    "pass": 1
+   },
+   {
+    "quote": "企業でのEV運用に伴う初期投資額の抑制や電気料金節約によるランニングコスト削減にも貢献します",
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 小林愛三は、フォード生産方式を変圧器の生産にいち早く採り入れ、当時としては画期的な｢柱上変圧器の専門製作による大量生産｣によって、高品質な製品を業界が驚くほどの低価格で提供していこうと考えました",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社創立時に提唱した｢品質優良 価格低廉 納期迅速｣の精神は、当社の｢創業の精神｣として今日に至るまで継承されています",
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "・電気料金削減と脱炭素化に貢献",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "・メーカ希望価格（税抜、半自動仕様一式※）",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンティング技術の中でも、薄く敷き詰めた金属粉末にレーザや電子ビームを照射し積層造形するPBF（パウダー･ベッド･フュージョン）方式は広く普及していますが、装置や材料のコストが高く、安全管理の負担も大きいほか、造形サイズに制約があるため大型構造物への適用が難しいとされています",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "・溶接･ロボットの知識やノウハウをもつ当社の専属技術サービス員が、相談･お見積もりから製造･納品にいたるすべての工程をワンストップで対応",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "メーカ希望需要家価格",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気料金削減と脱炭素化に貢献",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "稼働日数 : 260日 電力料金 : 23円/kWh",
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価格・ライセンス",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "「ダイヘン」の人気商品一覧 | 安い商品を通販サイトから探す - 価格.com",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の安い順",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の高い順",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 掲載している価格やスペック・付属品・画像など全ての情報は、万全の保証をいたしかねます",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 各ショップの価格や在庫状況は常に変動しています",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "※ ご購入の前には必ずショップのWebサイトで価格・利用規定等をご確認下さい",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘンの通販情報・価格比較",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "本製品は、主要機器を自社開発･国内製造することで信頼性の向上と迅速なサポート体制の確立を実現するとともに、溶接に関する高度な知見と技術を活かした当社ならではの「受託造形サービス」を併せて提供することで、金属積層造形の普及を加速いたします",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "オンライン販売代理店一覧（5件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=246",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CATL社と定置用蓄電池の供給 契約 を締結 - ダイヘン — CATL社と定置用蓄電池の供給 契約 を締結 - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > newinfo_2025 > news_250806",
+    "url": "https://www.daihen.co.jp/newinfo_2025/news_250806.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 ダイヘン 」の 代理店 209社 注目ランキング【2026年】 — 「 ダイヘン 」の 代理店 209社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 株式会社ダイヘン",
+    "url": "https://metoree.com/companies/1231/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ダイヘン 」の 代理店 ・取扱店 - indexPro — 「 ダイヘン 」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=246",
+    "pass": 3
+   },
+   {
+    "quote": "国内関係会社 | 会社情報 | 株式会社 ダイヘン — 国内関係会社 | 会社情報 | 株式会社 ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > company > group_company",
+    "url": "https://www.daihen.co.jp/company/group_company/",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書 - ダイヘン — 有価証券報告書 - ダイヘン 株式会社ダイヘン PDF https://www.daihen.co.jp > report_pdf",
+    "url": "https://www.daihen.co.jp/ir/report_pdf/160_4Q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットシステム 事例 | ダイヘン ロボットサイト — ロボットシステム 事例 | ダイヘン ロボットサイト ダイヘンロボットサイト https://www.daihen-robot.com > signage",
+    "url": "https://www.daihen-robot.com/signage/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン 【全文検索×生成AIで200TBの知見を現場で活かす】 — ダイヘン 【全文検索×生成AIで200TBの知見を現場で活かす】 住友電工情報システム株式会社 https://www.sei-info.co.jp > quicksolution > cases > daihen",
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ダイヘン の 導入事例 | 人材育成・社員研修など組織 ... — 株式会社 ダイヘン の 導入事例 | 人材育成・社員研修など組織 ... 株式会社ワークハピネス https://workhappiness.co.jp > 導入事例 > 人材育成",
+    "url": "https://workhappiness.co.jp/case/human/daihen/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用蓄電池の試算を3時間から10分へ｜ ダイヘン のBiz 導入事例 — 産業用蓄電池の試算を3時間から10分へ｜ ダイヘン のBiz 導入事例 エネがえる https://www.enegaeru.com > 導入事例 > 蓄電池メーカー",
+    "url": "https://www.enegaeru.com/case/daihen",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素社会の実現に貢献する ダイヘン のエネルギー ... — 脱炭素社会の実現に貢献する ダイヘン のエネルギー ... 株式会社ダイヘン https://www.daihen.co.jp > decarbonization > ems",
+    "url": "https://www.daihen.co.jp/decarbonization/ems/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ダイヘン 」の人気商品一覧・ 価格 比較 — 「 ダイヘン 」の人気商品一覧・ 価格 比較 価格.com https://search.kakaku.com > ダイヘン",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ダイヘン 溶接機】のおすすめ人気ランキング - モノタロウ — 【 ダイヘン 溶接機】のおすすめ人気ランキング - モノタロウ モノタロウ https://www.monotaro.com > ... > 溶接用品 > 電気溶接機",
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン (DAIHEN) 通販 - アスクル — ダイヘン (DAIHEN) 通販 - アスクル ASKUL https://www.askul.co.jp > タ行 > タ",
+    "url": "https://www.askul.co.jp/m/4004001-40040010267/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ダイヘン 溶接機」の人気商品一覧・ 価格 比較 — 「 ダイヘン 溶接機」の人気商品一覧・ 価格 比較 価格.com https://search.kakaku.com > ダイヘン 溶接機",
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン - 溶接用品プロショップ サンテック — ダイヘン - 溶接用品プロショップ サンテック 溶接用品プロショップ サンテック https://www.santec-wel.jp > product-list",
+    "url": "https://www.santec-wel.jp/product-list/134",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D - ダイヘン — ArcBuilder 3D - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > products > welder",
+    "url": "https://www.daihen.co.jp/products/welder/arcbuilder3d",
+    "pass": 3
+   },
+   {
+    "quote": "【国内初】次世代金属積層 造形 「WAAM」事業に参入 - ダイヘン — 【国内初】次世代金属積層 造形 「WAAM」事業に参入 - ダイヘン 株式会社ダイヘン https://www.daihen.co.jp > news_260518_02",
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン が次世代金属積層 造形 事業に参入、アーク溶接技術を ... — ダイヘン が次世代金属積層 造形 事業に参入、アーク溶接技術を ... MONOist https://monoist.itmedia.co.jp > articles > news064",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヘン が国内初のアーク溶接金属3Dプリンター開発 — ダイヘン が国内初のアーク溶接金属3Dプリンター開発 Mono Que https://monoque.jp > news",
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daihen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261029.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_261001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260916.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/electric/trans/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/electric/receiving/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/electric/power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/electric/v2x/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/wireless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/electric/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/cleanrobot/wafer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/wireless/index02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/fineplasma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/welder/co2_mag/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/en/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/products/electric/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/en/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/executive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/company/domestic_factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daihen.co.jp/ir/summary_pdf/2026_1029_gyosekiyosou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/pdf/260916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area1_pre.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area2_pre.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3_pre.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daihen.co.jp/jiws2026/pdf/area3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/1231/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=246",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen-robot.com/signage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://workhappiness.co.jp/case/human/daihen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askul.co.jp/m/4004001-40040010267/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/781523",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダイヘン 代理店 契約",
+   "results": [
+    "https://www.daihen.co.jp/newinfo_2025/news_250806.html",
+    "https://metoree.com/companies/1231/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=246",
+    "https://www.daihen.co.jp/company/group_company/",
+    "https://www.daihen.co.jp/ir/report_pdf/160_4Q.pdf",
+    "https://metoree.com/companies/1231/distributors/tokyo/",
+    "https://www.daihen.co.jp/sustainability/pdf/csr/daihenreport2025.pdf",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=246&prefcd=27&rgcd=5",
+    "https://www.daihen.co.jp/sustainability/pdf/csr/daihenreport2024.pdf",
+    "https://distymap.com/manufacturers/daihen"
+   ]
+  },
+  {
+   "query": "ダイヘン 導入事例",
+   "results": [
+    "https://www.daihen-robot.com/signage/",
+    "https://www.sei-info.co.jp/quicksolution/cases/daihen/",
+    "https://workhappiness.co.jp/case/human/daihen/",
+    "https://www.enegaeru.com/case/daihen",
+    "https://www.daihen.co.jp/decarbonization/ems/",
+    "https://corp.soloel.com/info/8d55cd3f-1127-42d3-8682-6711b0453b3c",
+    "https://www.daihen.co.jp/ems/support/",
+    "https://www.daihen.co.jp/technologygeeks/project/780/",
+    "https://www.youtube.com/watch?v=s4Qu3O_H504",
+    "https://www.oki.com/jp/case/2025/daihen.html"
+   ]
+  },
+  {
+   "query": "ダイヘン 価格 OR 料金",
+   "results": [
+    "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3/",
+    "https://www.monotaro.com/k/store/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/?srsltid=AYCX9vLN_ECE0flFK8d1dVMBS7Y9cSr5PoHHqYbdt1ZTNUMRlMZ_HTS4",
+    "https://www.askul.co.jp/m/4004001-40040010267/",
+    "https://search.kakaku.com/%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3%20%E6%BA%B6%E6%8E%A5%E6%A9%9F/",
+    "https://www.santec-wel.jp/product-list/134",
+    "https://www.yousetsuichiba.com/SHOP/199835/227681/list.html",
+    "https://www.bildy.jp/airtools/c2883c2884c3459-dwms/?srsltid=AYCX9vL_aEyq8RPZrBLnYeuora4v1mspY3egV7y5HGXH5t7I5W30GAop",
+    "https://www.orange-book.com/ja/c/series/index.html?seriesCd=0624517",
+    "https://search.kakaku.com/ダイヘン/",
+    "https://www.monotaro.com/k/store/ダイヘン+溶接機/"
+   ]
+  },
+  {
+   "query": "ダイヘン 受託 造形",
+   "results": [
+    "https://www.daihen.co.jp/products/welder/arcbuilder3d",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://www.nikkan.co.jp/articles/view/781523",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/03/news064.html",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://www.manufacturing-world.jp/tokyo/ja-jp/search/2026mto0701/directory/directory-details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%20%E3%83%80%E3%82%A4%E3%83%98%E3%83%B3.org-0965bfeb-18c7-4abb-9659-974c4a7fa3fb.html",
+    "https://www.daihen.co.jp/tech/3dprinter/",
+    "https://x.com/MONOist_itmedia/status/2062022742820741227",
+    "https://www.nikkan.co.jp/articles/view/781613",
+    "https://prtimes.jp/main/html/rd/p/000000028.000174053.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

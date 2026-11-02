@@ -1,0 +1,594 @@
+{
+ "name": "神戸工業試験場",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の共同出展者） /",
+ "researched_at": "2026-11-02T10:28:58.804591+00:00",
+ "official_url": "http://www.kmtl.co.jp（近畿経産局PDF記載。本文未読",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1950年（昭和25年）3月",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種試験片の加工 試験用試験片の設計・製作 特殊機器装置類の設計・製作 各種強度特性試験とその解析 各種金相試験とその解析 構造物・部材等の健全性・寿命評価等 研究及び開発支援技術者の派遣 各種化学分析と機器分析 各種材料の物性特性と形態分析 プラント類の水質管理・腐食試験 環境測定",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "コンサルティング",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "試験業務受託約款",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "）を受託する際に、本業務を委託する者（以下「委託者」といい、当社と委託者を総称して「両当事者」といいます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "）に同意のうえ、当社が別途指定する形式の注文書を当社に提出することにより、本業務の受託に関する個別契約の締結を申し込みます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "機器製作販売約款",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "）を製作し販売する際に、当該製作・販売を委託する者（以下「委託者」といい、当社と委託者を総称して「両当事者」といいます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "）に同意のうえ、当社が別途指定する形式の注文書を当社に提出することにより、本機器の製作および販売に関する個別契約の締結を申し込みます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "6.（保守・メンテナンス）",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "委託者が、本機器について、保守、メンテナンス等のアフターサービスの提供を希望する場合、別途当社との間で当該アフターサービスに関する契約を締結するものとします",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "委託者は、当社に対し、本機器の製作および販売の対価（以下「本対価」といいます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、本機器の製作および販売にあたり委託者から開示、提供を受けた本資料等および本製作業務の結果（以下「秘密情報」といいます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "）について、委託者の同意がない限り、これを第三者に開示、漏洩せず、また本機器の製作および販売遂行以外の目的に使用しないものとします",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "利用者が、本ソフトウェアについて、保守、メンテナンス等のアフターサービスの提供を希望する場合、別途当社との間で当該アフターサービスに関する契約を締結するものとします",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験サービス",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社神戸工業試験場との業務提携契約の締結に関するお知らせ | 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和製作所（本社：東京都大田区、代表取締役社長：舟久保利和）と、株式会社神戸工業試験場（本社：兵庫県加古郡播磨町、代表取締役社長：鶴井昌徹）は、試験片加工および受託試験サービス分野においてこの度、業務提携を開始いたしました",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のプレスリリース",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "両社は資本提携を伴わない形で業務提携し、神戸工業試験場の多様な試験分析技術と、昭和製作所の高精度な試験片加工技術を組み合わせ、エネルギーインフラや航空宇宙産業を中心に試験片製作から受託試験・分析までの一貫サービスを提供する体制を構築します",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "試験用試験片の設計・製作",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊機器装置類の設計・製作",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "研究及び開発支援技術者の派遣",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、KMTLの持つ多様な試験分析技術と、昭和製作所の持つ高精度な試験片加工技術を組み合わせ、試験片製作から受託試験までを一貫して提供する体制を構築します",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "以下に当社のプレスリリースを公開いたします",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験サービス",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】 国内最大級の独立系民間試験場がAI面接サービスSHaiN導入～神戸工業試験場の導入背景から活用方法・効果までの事例を初公開～ | Talent and Assessment",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】 国内最大級の独立系民間試験場がAI面接サービスSHaiN導入",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "「以前から構造化面接に関心をもっていたのですが、実行が難しく、参加したセミナーの配布物でAI面接を見て、問い合わせをしてみました",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 AI面接サービスSHaiNを主軸とした採用コンサルティング事業の展開",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "[プレスリリースの提供元]",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "[プレスリリースのPDFファイル]",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】SHaiN、主要採用管理システムとの連携を加速 i-webとAPI連携 ～再現性・透明性を備えた評価AIを、採用プロセスへシームレスに～",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】導入企業1,100社突破 次世代版対話型AI面接サービスSHaiN ～新卒・中途採用から昇進昇格・アセスメント評価まで幅広く活用～",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "【メディア掲載】月刊 先端教育にて、対話型AI面接サービスSHaiNが紹介されました",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】SHaiN、第11回 HRテクノロジー大賞「採用サービス部門優秀賞」受賞～人的資本経営を支える採用インフラとして高く評価～",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://www.kmtl.co.jp/equipments",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験サービス",
+    "url": "https://www.kmtl.co.jp/equipments",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験サービス - 株式会社神戸工業試験場",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験サービス",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "発電や石油化学等のプラントは予め寿命を決めず充分な安全裕度を持たせた設計を行い製造されています",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、船舶、人工衛星、航空機、コンピュータ、スマートフォンなど、製品のライフサイクルで機能・性能を失ったり、故障しないように、製品の設計、実験、検査の段階で、使用時の振動や衝撃、高温低温、湿度の環境負荷に耐えられることを、振動試験、複合環境試験によって評価しています",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "技術分野：加工技術（３D造形） 応用分野：ゴム造形、ゴム製品試作",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品の設計生産と社会経済的な価値共創に関する研究開発」において、開発されました",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術の活用例 金型不要でゴム製品の試作・製造を可能とする",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "必要とせずに作製できるため、様々なゴム製品の試作・開発に活用できます",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用しながらゴム製品の試作・開発を支援していきます",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "共同研究 受託研究 ノウハウ提供 成果物利用 各種相談",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "神戸工業試験場様は、国内では珍しい独立系の試験場で、合わせて、一括受託試験システムと世界に認められた品質保証体制を強みとされています",
+    "url": "https://gam.or.jp/2024/08/19/%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E6%A7%98%E3%81%AE%E8%8C%A8%E5%9F%8E%E5%96%B6%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "相手方の主要な株主または主要な取引先",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、お客様の品質保証・技術開発ニーズに対して、より高付加価値なソリューションを迅速に提供することが可能となります",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：兵庫県加古郡播磨町、代表取締役：鶴井昌徹、以下 神戸工業試験場）における、対話型AI面接サービスSHaiN（以下、SHaiN）の導入事例記事を初公開いたしました",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "神戸工業試験場導入事例〜抜粋〜",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器の各種試験では、米国材料試験規格（ASTM）および日本産業規格（JIS）に基づく材料や実体の試験を行うとともに、米国食品・医薬品局（FDA) ガイドラインによる引き合いにも対応するなど、国内外の顧客から信頼を得ています",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "あるいは、健康・医療・介護分野などにおける、ユーザーの身体に合った製品づくり、コンシューマ向け製品におけるカ",
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライセンス約款",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアライセンス約款",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、利用者に対し、本約款等および個別契約の定めに従って、日本国内における本ソフトウェアの非独占的な使用権（以下「本ソフトウェアライセンス」といいます",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "利用者は、個別契約に基づき本ソフトウェアライセンスのみを取得し、本ソフトウェアに関するその他一切の権利（著作権を含みますがこれに限られません",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "第三者に対して、本ソフトウェアをサブライセンスし、譲渡し、またはその複製物を譲渡、転貸する行為",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "株式会社神戸工業試験場との業務提携契約の締結に関するお知らせ | 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社神戸工業試験場との業務提携契約の締結に関するお知らせ",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和製作所（本社：東京都大田区、代表取締役社長：舟久保利和）と、株式会社神戸工業試験場（本社：兵庫県加古郡播磨町、代表取締役社長：鶴井昌徹）は、試験片加工および受託試験サービス分野においてこの度、業務提携を開始いたしました",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "両社は資本提携を伴わない形で業務提携し、神戸工業試験場の多様な試験分析技術と、昭和製作所の高精度な試験片加工技術を組み合わせ、エネルギーインフラや航空宇宙産業を中心に試験片製作から受託試験・分析までの一貫サービスを提供する体制を構築します",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "アライアンス提携合意書を締結する鶴井昌徹社長(左)と当社代表の舟久保利和(右)",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和製作所との業務提携契約に関する記事が紹介されました - 株式会社神戸工業試験場",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和製作所との業務提携契約に関する記事が紹介されました",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月4日、株式会社神戸工業試験場（KMTL）は株式会社昭和製作所と業務提携を開始しました",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "アライアンス提携合意書を締結する当社の鶴井昌徹(左)と昭和製作所の舟久保利和社長(右)",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "契約 約款 - 株式会社 神戸工業試験場 — 契約 約款 - 株式会社 神戸工業試験場 株式会社神戸工業試験場 - https://www.kmtl.co.jp > terms-and-conditions",
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 神戸工業試験場 との業務提携 契約 の締結 ... - 昭和製作所 — 株式会社 神戸工業試験場 との業務提携 契約 の締結 ... - 昭和製作所 株式会社昭和製作所 https://showa-ss.jp > 株式会社神戸工業試験場との業務提...",
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和製作所との業務提携 契約 に関する記事が紹介され ... — 株式会社昭和製作所との業務提携 契約 に関する記事が紹介され ... 株式会社神戸工業試験場 - https://www.kmtl.co.jp > 新着情報 > お知らせ｜NEWS",
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "pass": 3
+   },
+   {
+    "quote": "クリアライズ、 神戸工業試験場 との新プロジェクト「KLEAR ... — クリアライズ、 神戸工業試験場 との新プロジェクト「KLEAR ... PR TIMES https://prtimes.jp > その他",
+    "url": "https://prtimes.jp/main/html/rd/p/000000052.000134933.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラストメーター（Plastometrex Ltd.製）の正規日本語 ... — プラストメーター（Plastometrex Ltd.製）の正規日本語 ... 株式会社神戸工業試験場 - https://www.kmtl.co.jp > archives",
+    "url": "https://www.kmtl.co.jp/archives/8067",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM材の引張特性を逆解析を用いて高速 ... - 神戸工業試験場 — 金属AM材の引張特性を逆解析を用いて高速 ... - 神戸工業試験場 株式会社神戸工業試験場 - PDF https://www.kmtl.co.jp > 2024/08 > PLASTOMETER",
+    "url": "https://www.kmtl.co.jp/wp-content/uploads/2024/08/PLASTOMETER.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エミック・ 神戸工業試験場 ・Yamada Power Unitが協業 — エミック・ 神戸工業試験場 ・Yamada Power Unitが協業 エミック株式会社 https://www.emic-net.co.jp > 企業情報",
+    "url": "https://www.emic-net.co.jp/archive/20251128/",
+    "pass": 3
+   },
+   {
+    "quote": "設備 - 株式会社 神戸工業試験場 — 設備 - 株式会社 神戸工業試験場 株式会社神戸工業試験場 - https://www.kmtl.co.jp > equipments",
+    "url": "https://www.kmtl.co.jp/equipments",
+    "pass": 3
+   },
+   {
+    "quote": "受託 試験サービス - 株式会社 神戸工業試験場 — 受託 試験サービス - 株式会社 神戸工業試験場 株式会社神戸工業試験場 - https://www.kmtl.co.jp > サービス",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   },
+   {
+    "quote": "神戸工業試験場 様の茨城営業所を訪問しました — 神戸工業試験場 様の茨城営業所を訪問しました 群馬積層造形プラットフォーム https://gam.or.jp > 未分類",
+    "url": "https://gam.or.jp/2024/08/19/%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E6%A7%98%E3%81%AE%E8%8C%A8%E5%9F%8E%E5%96%B6%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2026に出展いたします - 株式会社 神戸工業試験場 — TCT Japan 2026に出展いたします - 株式会社 神戸工業試験場 株式会社神戸工業試験場 - https://www.kmtl.co.jp > ... > 展示会｜EXHIBITION",
+    "url": "https://www.kmtl.co.jp/archives/8629",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "資本金 5億 2,180万円（資本準備金等を含む）",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 5,000万円",
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "pass": 3
+   },
+   {
+    "quote": "本装置は、設備へのダメージを最小限にするため、配管から小さなサンプリング試料を漉き取り、微小試験片（直径8mm、厚さ0.5mm、円盤型試験片）に加工し余寿命評価を行えるよう開発したものです",
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.kmtl.co.jp（近畿経産局PDF記載。本文未読",
+    "status": "network_error:InvalidURL",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kmtl.co.jp/terms-and-conditions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kmtl.co.jp/archives/7553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://giraffe-co.jp/monoty/case1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kmtl.co.jp/wp-content/uploads/2024/08/PLASTOMETER.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/irai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kmtl.co.jp/equipments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kmtl.co.jp/service/tests",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gam.or.jp/2024/08/19/%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E6%A7%98%E3%81%AE%E8%8C%A8%E5%9F%8E%E5%96%B6%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "神戸工業試験場 代理店 契約",
+   "results": [
+    "https://www.kmtl.co.jp/terms-and-conditions",
+    "https://showa-ss.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E3%81%A8%E3%81%AE%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%81%AE%E7%B7%A0%E7%B5%90/",
+    "https://www.kmtl.co.jp/archives/7553",
+    "https://prtimes.jp/main/html/rd/p/000000052.000134933.html",
+    "https://www.kmtl.co.jp/archives/8067",
+    "https://www.r-agent.com/viewjob/jk10d8808712389721/",
+    "https://hikaku-hub.com/material-testing-service/",
+    "https://www.kmtl.co.jp/archives/4357",
+    "https://www.kmtl.co.jp/",
+    "https://showa-ss.jp/株式会社神戸工業試験場との業務提携契約の締結/"
+   ]
+  },
+  {
+   "query": "神戸工業試験場 導入事例",
+   "results": [
+    "https://www.taleasse.co.jp/2023/12/27/kmtl",
+    "https://giraffe-co.jp/monoty/case1",
+    "https://www.kmtl.co.jp/wp-content/uploads/2024/08/PLASTOMETER.pdf",
+    "https://www.emic-net.co.jp/archive/20251128/",
+    "https://smepprd-kansai-meti-gov.note.jp/n/n65feae6f8a97",
+    "https://mono.ipros.com/company/detail/2028534/catalog/",
+    "https://hyogo-shikenbunseki.jimdofree.com/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2/",
+    "https://www.nite.go.jp/jiko/chuikanki/network/25.html",
+    "https://www.kmtl.co.jp/service/tests/battery-evaluation",
+    "https://www.kmtl.co.jp/"
+   ]
+  },
+  {
+   "query": "神戸工業試験場 価格 OR 料金",
+   "results": [
+    "https://www.hyogo-kg.jp/irai",
+    "https://www.kmtl.co.jp/equipments",
+    "https://www.hyogo-kg.jp/kiki",
+    "https://orist.jp/dl/morinomiya/riyouannai/mori_riyouannai.pdf",
+    "https://www.itc.pref.tokushima.jp/facilities/02machine_04_1.html",
+    "https://www.hyogo-kg.jp/guide/usage",
+    "https://www.kmtl.co.jp/service/tests",
+    "https://orist.jp/content/files/orist/price/price_list_morinomiya_20190830.pdf",
+    "https://www.kmtl.co.jp/service/attached/equipment-development",
+    "https://claude.com/pricing"
+   ]
+  },
+  {
+   "query": "神戸工業試験場 受託 造形",
+   "results": [
+    "https://www.kmtl.co.jp/service/tests",
+    "https://www.niro.or.jp/pdf/09_3D%20printer.pdf",
+    "https://gam.or.jp/2024/08/19/%E7%A5%9E%E6%88%B8%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E5%A0%B4%E6%A7%98%E3%81%AE%E8%8C%A8%E5%9F%8E%E5%96%B6%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://www.kmtl.co.jp/archives/8629",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2022/jp/tct/details/uad4jW1NT2s",
+    "https://hyoka-shiken.com/cat05/cat05_01/",
+    "https://www.kobekk.or.jp/member/kmtl.html",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00001-00.pdf",
+    "https://www.kmtl.co.jp/",
+    "https://k-ilt.com/service11/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

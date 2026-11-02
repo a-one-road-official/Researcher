@@ -1,0 +1,1579 @@
+{
+ "name": "株式会社シーエムシー・リサーチ",
+ "aliases": [],
+ "context": "情報(『世界の3Dプリンティング最新業界レポート』2023) /",
+ "researched_at": "2026-11-02T10:26:37.160933+00:00",
+ "official_url": "https://cmcre.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　　立",
+    "value": "1984年4月",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1984年04月",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/12580",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1984年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "マーケットレポートおよび技術関連の出版物の刊行、技術情報・市場情報関連セミナーの企画・運営などにより、研究開発を支援。受託調査の他、社員研修のアレンジ等も可能。 当社が主に動向をウオッチしている分野： エネルギー、電池、自動車・車載関連、各種化学品・機能材料、エレクトロニクス・コンピュータ、人工知能（AI）・インフォマティクス・情報技術、医薬・ヘルスケア、バイオ・ライフサイエンス、食品・化粧品、特許・マネジメント・マーケティング、等",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "マーケティングリサーチ、コンサルティング、各種セミナー／情報提供 ほか",
+    "url": "https://www.tpc-cop.co.jp/topics/6489/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "化学品、機能材料、電池、医薬・ヘルスケア、エネルギーなど、技術・市場動向に関する市場調査・研究開発支援およびマーケット情報の出版・提供を行う情報サービス業",
+    "url": "https://www.tpc-cop.co.jp/topics/6489/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "これまで弊社が郵送していたセミナーおよび書籍の請求書を電子化いたします",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【社員研修・講習会および出張セミナーサービスに対応中】2021年7月2日",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "過去に弊社で開催したセミナーや弊社でお話いただいた講師の方の特定1社様向けのウェビナー（オンラインセミナー）または出張セミナー(お客様先での開催セミナー)に対応しております",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当該サイトでご紹介する専門家の方によるご講演・社内研修や技術指導・コンサルティングなどにご興味のある方は当該サイト経由でお問合せいただければ、専門家の方にお話を通しますので、ご活用くださいませ",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "利益密度設計論で読み解く、高熱伝導・軽量材料の市場勝ち残り法則！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【セミナー】",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊を伴う5日間の実習講習講座",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/9/29「データセンター向けパッケージの技術動向と 封止材の設計・評価技術」の開催日が、11/11に変更になりました",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/9/11「バブルジェネレータ設計から学ぶファインバブル技術の基礎と活用」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/9/29「半導体パッケージの最新動向と半導体封止材の設計・評価技術」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/9/8「水性塗料の設計技術と課題、顔料分散剤の利用技術・外観低下トラブルの原因と対策管理」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/7/3「半導体製造における後工程・実装・設計の基礎」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/5/20「ニューラルネットワーク分子動力学法の基礎と応用：AI活用型材料設計」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「医薬・医療における臓器・組織培養のためのバイオリアクターの設計とスケールアップ」（3月17日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/4/17「半導体パッケージの最新動向と半導体封止材の設計・評価技術」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「半導体パッケージの最新技術動向と半導体封止材の設計・評価技術」（1月30日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/11/14「低分子ゲル化剤としての新規界面活性剤の開発：会合体構造とゲル物性を制御する分子設計」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026/2/19「食品、医薬、医療における大量細胞培養のためのバイオリアクターの設計とスケールアップの基礎と実際」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/10/21「再生医療における大量組織培養のためのバイオリアクターの設計とスケールアップ」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/9/2「半導体封止材の最新技術動向と設計評価技術」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/7/3「バイオリアクターの設計とスケールアップ」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/3/24「低分子ゲル化剤としての新規界面活性剤の開発：会合体構造とゲル物性を制御する分子設計」の開催日が、7/16に変更になりました",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/3/24「低分子ゲル化剤としての新規界面活性剤の開発：会合体構造とゲル物性を制御する分子設計」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/1/23「半導体封止材の最新技術動向と設計評価技術」の開催日が、1/28に変更になりました",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/1/23「半導体封止材の最新技術動向と設計評価技術」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "グリーストラップの業界構造と用途",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "受託日順の調査実績",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー / ウェビナー案内",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催予定）",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催済み）",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケットレポートおよび技術関連の出版物の刊行、技術情報・市場情報関連セミナーの企画・運営などにより、研究開発を支援",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "quote": "受託調査の他、社員研修のアレンジ等も可能",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー / ウェビナー案内",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催予定）",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催済み）",
+    "url": "https://cmcre.com/job/about/",
+    "pass": 1
+   },
+   {
+    "quote": "・企業向け技術セミナーでの講演",
+    "url": "https://cmcre.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー / ウェビナー案内",
+    "url": "https://cmcre.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催予定）",
+    "url": "https://cmcre.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催済み）",
+    "url": "https://cmcre.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー/ウェビナー",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催済み）",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 本セミナーは、",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "当日ビデオ会議ツール「Zoom」を使ったライブ配信セミナー",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "お詫びといたしまして、次回弊社セミナー／ウェビナーをお申し込みの際、5％割引させていただきます",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナーの趣旨",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー対象者",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナーで得られる知識",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "関連セミナー/ウェビナー",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー / ウェビナー案内",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催予定）",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー/ウェビナー",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "CMCリサーチセミナー/ウェビナー（開催済み）",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 本セミナーは、",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "当日ビデオ会議ツール「Zoom」を使ったライブ配信セミナー",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年 ㈲アイパック設立 半導体および光学分野で素部材開発の技術コンサルティングを担当",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "工業所有権出願＞200件，書籍執筆＞60件，セミナー＞200件",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "5）エポキシ樹脂の配合設計と高機能化,P166-174,190-107（サイエンス＆テクノロジー,2008.8)）",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "6）帯電防止材料の設計と使用法,P227-233（サイエンス＆テクノロジー,2008.12）",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "過去に弊社で開催したセミナーや弊社でお話いただいた講師の方の特定1社様向けのウェビナー（オンラインセミナー）または出張セミナー(お客様先での開催セミナー)に対応しております",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のフィジカルAI時代の蓄電・実装戦略 最新業界レポート」（5月1日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のAIデータセンター用蓄電池 最新業界レポート」（3月28日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のPFAS除去・分離・分解・処理技術 最新業界レポート」（11月21日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のAIデータセンター用冷却技術・材料 最新業界レポート」（7月18日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/11/4「ワイドギャップ半導体パワーデバイスの優位性と課題から業界動向まで」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の次世代細胞培養 最新業界レポート」（5月30日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のAIデータセンター用高速光通信技術・材料 最新業界レポート」（4月1日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の中分子医薬・抗体医薬、およびCDMO 最新業界レポート」（1月27日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のチップレット・先端パッケージ 最新業界レポート」（11月13日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のAIデータセンターを支える材料・デバイス 最新業界レポート」（9月13日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のリサイクルPET 最新業界レポート」（7月17日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の次世代触媒 最新業界レポート(後編 )」（5月30日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の次世代触媒 最新業界レポート(前編)」（5月15日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の再生プラスチック 最新業界レポート」（3月28日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の e-メタン・グリーン水素 最新業界レポート」（2月13日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のマテリアルズ・インフォマティクス 最新業界レポート」（1月12日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の3Dプリンティング 最新業界レポート」（10月30日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のe-fuel・SAF 最新業界レポート」（9月4日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の水電解装置・構成部材 最新業界レポート」（7月24日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界の充電インフラ 最新業界レポート － 停車中・走行中給電、電化道路、バッテリー交換 －」（5月19日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023/4/25「化学業界の現状を憂え、伝承すべき必須要素を提言する！」の開催日が、6/27に変更になりました",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023/4/25「化学業界の現状を憂え、伝承すべき必須要素を提言する！」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界のレアメタルリサイクル 最新業界レポート」（1月31日発行）受付開始！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023/3/1「化学業界の現状を踏まえ、伝承すべき必須要素を提言する！」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PVDFの業界構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "シリコーン業界の構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "電子材料の業界構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "日本における樹脂業界の再編成事例",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "シアナミド誘導品の用途，業界マップ",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "シアナミド系医薬・農薬の製法，業界構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "防錆剤の業界構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "塩ビの主要業界別リサイクルと今後の課題",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "グリーストラップの業界構造と用途",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "リチウムポリマー二次電池の固体高分子電解質の種類とユーザー",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "介護車の業界構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "酸化鉄等のユーザーニーズ",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "酢酸金属塩類の業界構造と需要分析",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "硫黄誘導品の業界構造と需要",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "グラスウールの供給とユーザー分析",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "・市場調査、業界動向、産業分析などのレポート",
+    "url": "https://cmcre.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "またこれらの仕事を通じて貴方の経験が業界の発展につながります",
+    "url": "https://cmcre.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "車載用電池においては各国の政策と電池産業界の関連性が大きく、政策に大きく振り回されている現状があります",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "電池産業界としても韓国勢や中国勢に対峙していくためには、まだ課題も多く残っており、そこをどのように改革していけば良いのかにも言及します",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   },
+   {
+    "quote": "電池産業界としても韓国勢や中国勢に対峙していくためにはまだ課題も多く残っており、そこをどのように改革していけば良いのかにも言及します",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   },
+   {
+    "quote": "ご入力いただきましたお客様のメールアドレス（代表受講者）に",
+    "url": "https://cmcre.com/wp-content/uploads/2022/04/digital20220406.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【新刊案内】世界の3Dプリンティング 最新業界レポート 発行：（株）シーエムシー・リサーチ | 株式会社シーエムシー・リサーチのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "【新刊案内】世界の3Dプリンティング 最新業界��レポート 発行：（株）シーエムシー・リサーチ",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "）では、このたび「世界の3Dプリンティング 最新業界レポート」と題する書籍を2023年10月30日発行いたしましたので、お知らせします",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍で市場が伸び悩む時期があったものの、逆に、3Dプリンターのニーズが見直される契機になり、様々な業界で3Dプリンターが導入されている",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "■ 世界の3Dプリンティング 最新業界レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "➢ PCやPA、PET・PTEGなどのエンプラに採用されている部品とは！ 業界分析を調査！",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 業界の歴史と現状",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 3Dプリンターメーカー業界の動向",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 業界分析",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.2 業界分析",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.3 業界分析",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.2 業界分析",
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "2026/7/7「金属3Dプリンタにおける粉末材料および金属粉末の産業応用」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025/6/24「金属3Dプリンタにおける粉末材料および金属粉末の産業応用」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【お客様感謝セール】以下の期間、弊社では、日頃のご愛顧に感謝し、対象書籍を特別価格にて提供いたします！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【お客様感謝セール】2022年8月22日(月)～2022年9月30日(金)の期間、対象書籍を特別価格にて提供いたします！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2021/1/15「金属粉末3Dプリンタとその材料の技術動向」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2020/6/30「金属粉末3Dプリンタとその材料の技術動向 【東京理科大学 施設見学・実演付き】」受付中！",
+    "url": "https://cmcre.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シリカ微粉末の需要と供給構造",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス用接着剤4品目の供給構造と価格",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "溶剤25品目の市場規模と価格の相関関係",
+    "url": "https://cmcre.com/research/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 万一、見逃し視聴の提供ができなくなった場合でも、当該ウェビナーの価格に変更はありません",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "（メルマガ会員価格でもその価格からさらに5％引）",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 万一、見逃し視聴の提供ができなくなった場合でも、当該ウェビナーの価格に変更はありません",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "（メルマガ会員価格でもその価格から",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/141795/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/141795/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/141795/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/140034/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/140034/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/140034/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 万一、見逃し視聴の提供ができなくなった場合でも、当該ウェビナーの価格に変更はありません",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "（メルマガ会員価格でもその価格から",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 万一、見逃し視聴の提供ができなくなった場合でも、当該ウェビナーの価格に変更はありません",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "（メルマガ会員価格でもその価格から",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 万一、見逃し視聴の提供ができなくなった場合でも、当該ウェビナーの価格に変更はありません",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "（メルマガ会員価格でもその価格から",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 万一、見逃し視聴の提供ができなくなった場合でも、当該ウェビナーの価格に変更はありません",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "（メルマガ会員価格でもその価格からさらに5％引）",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "2-2. 必要な設備、試薬、消耗品、人材",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/130295/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/130295/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/130295/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/128825/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/128825/",
+    "pass": 1
+   },
+   {
+    "quote": "1名あたりの参加費がメルマガ会員価格の半額",
+    "url": "https://cmcre.com/archives/128825/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/127133/",
+    "pass": 1
+   },
+   {
+    "quote": "★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります",
+    "url": "https://cmcre.com/archives/127133/",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付、見逃し配信付",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/143425/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/143361/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料（PDF）・見逃し配信付",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/142490/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：27,500円（税込） ＊ 資料（PDF）付",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 24,750円（税込）",
+    "url": "https://cmcre.com/archives/141823/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/141795/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/141795/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/141795/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/140034/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/140034/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/140034/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料（PDF）・見逃し配信付",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/139290/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料（PDF）・見逃し配信付",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/136093/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料（PDF）・見逃し配信付",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/131910/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料・見逃し配信付",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/131108/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/130295/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/130295/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/130295/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/128825/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/128825/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/128825/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/127133/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/127133/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/127133/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/126877/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/126877/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/126877/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/123856/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/123856/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/123856/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料・見逃し配信付",
+    "url": "https://cmcre.com/archives/125151/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/125151/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/125151/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/124273/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 39,600円（税込）",
+    "url": "https://cmcre.com/archives/124273/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/124273/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：29,700円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/123166/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 26,700円（税込）",
+    "url": "https://cmcre.com/archives/123166/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 22,000円（税込）",
+    "url": "https://cmcre.com/archives/123166/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：29,700円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/121044/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 26,700円（税込）",
+    "url": "https://cmcre.com/archives/121044/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 22,000円（税込）",
+    "url": "https://cmcre.com/archives/121044/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：55,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/120519/",
+    "pass": 1
+   },
+   {
+    "quote": "＊メルマガ登録者 49,500円（税込）",
+    "url": "https://cmcre.com/archives/120519/",
+    "pass": 1
+   },
+   {
+    "quote": "＊アカデミック価格 26,400円（税込）",
+    "url": "https://cmcre.com/archives/120519/",
+    "pass": 1
+   },
+   {
+    "quote": "受 講 料：44,000円（税込） ＊ 資料付",
+    "url": "https://cmcre.com/archives/117724/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 シーエムシー ・ リサーチ の各種資料を自社通販サイト ... — 株式会社 シーエムシー ・ リサーチ の各種資料を自社通販サイト ... TPCマーケティングリサーチ株式会社 https://www.tpc-cop.co.jp > topics > お知らせ",
+    "url": "https://www.tpc-cop.co.jp/topics/6489/",
+    "pass": 3
+   },
+   {
+    "quote": "シーエムシー ・ リサーチ 新刊が示す、AI基盤を支える日台材料 ... — シーエムシー ・ リサーチ 新刊が示す、AI基盤を支える日台材料 ... グリットアーツ https://gritarts.co.jp > ai-infrastructure-1790981607993",
+    "url": "https://gritarts.co.jp/industry-news/ai-infrastructure-1790981607993",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社シーエムシー・リサーチ: 本 - Amazon.co.jp — 株式会社シーエムシー・リサーチ: 本 - Amazon.co.jp Amazon.jp https://www.amazon.co.jp > 本-株式会社シーエムシー・リ...",
+    "url": "https://www.amazon.co.jp/%E6%9C%AC-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/s?rh=n%3A465392%2Cp_27%3A%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2581",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー企業「 シーエムシー ・ リサーチ 」プロフィール — セミナー企業「 シーエムシー ・ リサーチ 」プロフィール ものづくりドットコム https://www.monodukuri.com > seminars > company",
+    "url": "https://www.monodukuri.com/seminars/company/18",
+    "pass": 3
+   },
+   {
+    "quote": "株) シーエムシー ・ リサーチ ：東京新聞 × PR TIMES — 株) シーエムシー ・ リサーチ ：東京新聞 × PR TIMES 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article131804",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article131804/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cmcre.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/job/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/143425/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/143361/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/142490/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/141823/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/141795/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/140034/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/139290/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/136093/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/131910/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/131108/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/130295/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/128825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/127133/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/126877/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/123856/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/125151/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/124273/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/123166/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/121044/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/120519/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/117724/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/117455/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcre.com/archives/category/result/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2022/04/digital20220406.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2026/08/2026summer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2025/12/2025winter_cmcrk.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2025/08/2025sum_cmcr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2024/12/2024winter_cmcr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2024/08/2024sum_cmcr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2024/04/pamf2024GW_cmcr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/wp-content/uploads/2023/12/pamf2023winter_cmcr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/12580",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tpc-cop.co.jp/topics/6489/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/12580",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://semabiz.co.jp/product-tag/cmcresearch/page/5/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monodukuri.com/seminars/company/18",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シーエムシー・リサーチ 代理店 契約",
+   "results": [
+    "https://cmcre.com/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/12580",
+    "https://www.tpc-cop.co.jp/topics/6489/",
+    "https://cmcre.com/job/about/",
+    "https://semabiz.co.jp/publisher/cmcresearch/",
+    "https://www.dreamnews.jp/index.php/press/0000363913",
+    "https://en-gage.net/cmcre_saiyo/",
+    "https://www.cmc-ins.com/consulting/global",
+    "https://www.cmcbooks.co.jp/",
+    "https://legalist.jp/research/hoken-dairiten-itaku-keiyaku-jitsumu/"
+   ]
+  },
+  {
+   "query": "シーエムシー・リサーチ 導入事例",
+   "results": [
+    "https://cmcre.com/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/12580",
+    "https://cmcre.com/archives/category/cmc_all/",
+    "https://gritarts.co.jp/industry-news/ai-infrastructure-1790981607993",
+    "https://adv.tokyo-np.co.jp/prtimes/article153614/",
+    "https://trends.codecamp.jp/blogs/media/news1801",
+    "https://www.emdustrial.net/2020/09/29/article179/",
+    "https://www.cmcbooks.co.jp/",
+    "https://www.ipros.com/product/detail/2001540056/",
+    "https://cmcre.com/research/"
+   ]
+  },
+  {
+   "query": "シーエムシー・リサーチ 価格 OR 料金",
+   "results": [
+    "https://cmcre.com/",
+    "https://semabiz.co.jp/product-tag/cmcresearch/page/5/",
+    "https://cmcre.com/archives/category/cmc_all/",
+    "https://www.amazon.co.jp/%E6%9C%AC-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/s?rh=n%3A465392%2Cp_27%3A%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2581",
+    "https://www.tpc-cop.co.jp/topics/6489/",
+    "https://www.monodukuri.com/seminars/company/18",
+    "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "https://www.dri.co.jp/auto/report/cmc/index.html",
+    "https://mono.ipros.com/company/detail/2068847/category/",
+    "https://nft-times.jp/ai/58146/"
+   ]
+  },
+  {
+   "query": "シーエムシー・リサーチ 受託 造形",
+   "results": [
+    "https://cmcre.com/",
+    "https://prtimes.jp/main/html/rd/p/000002540.000012580.html",
+    "https://www.monodukuri.com/seminars/company/18",
+    "https://cmcre.com/job/about/",
+    "https://adv.tokyo-np.co.jp/prtimes/article131804/",
+    "https://prtimes.jp/main/html/rd/p/000002324.000012580.html",
+    "https://www.cmcbooks.co.jp/",
+    "https://semabiz.co.jp/publisher/cmcresearch/",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.dri.co.jp/auto/report/cmc/index.html"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式27頁／PDF・画像8件／外部6頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式27頁／PDF・画像8件／外部6頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式27頁／PDF・画像8件／外部6頁・検索4回）"
+ }
+}
