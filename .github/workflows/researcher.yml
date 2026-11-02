@@ -46,8 +46,6 @@ jobs:
           for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
 
   plan:
-    needs: build
-    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 5
     outputs:
