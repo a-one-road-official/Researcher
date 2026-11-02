@@ -1,0 +1,30 @@
+# 素材商社・金属流通・素材の情報会社は、何でどうお金を稼いでいるか（口銭・加工・在庫・即納・小口・会員・データ）。
+# 引用をそのまま並べる（分類・解釈は本人がする）。
+title: 素材商社・金属流通・素材情報の稼ぎ方（口銭・加工付き・小口・EC・フランチャイズ・データ課金）
+input: researcher/inputs/material_traders.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  設立: [設立, 創業, founded, established, since]
+  従業員数: [従業員, 社員数, employees]
+  売上高: [売上高, 売上収益, revenue, net sales]
+
+evidence:
+  ビジネスモデル: [ビジネスモデル, 収益構造, 事業系統図, 商流, 口銭, 仲介, 在庫販売, 直送, business model, how we make money, value-added]
+  誰に: [顧客, 取引先, 販売先, 主要顧客, 需要家, 顧客数, 取引社数, customers, end markets]
+  何を: [製品, 商品, 取扱, 鋼材, 非鉄, アルミ, ステンレス, 銅, チタン, レアメタル, products, metals]
+  加工・付加価値: [切断, 加工, 切板, 即納, 小口, 1本から, 1枚から, 当日出荷, 翌日, processing, cut to size, same day, small quantity, no minimum]
+  お金の形: [口銭, 手数料, マージン, 利益率, 粗利, 会費, 月額, 年額, 会員, サブスク, ライセンス, フランチャイズ, ロイヤリティ, subscription, membership, royalty, franchise, margin, gross margin]
+  売上構成: [売上構成, セグメント, 構成比, segment, mix]
+  利益の源泉: [営業利益率, 売上総利益率, 強み, 競争優位, 在庫回転, 参入障壁, gross margin, operating margin]
+  創業期: [創業, 沿革, 当初, 始まり, history, founded, started]
+
+subpage_keywords: [IR, 投資家, 決算説明, 有価証券報告書, 統合報告, ビジネスモデル, 事業紹介, 会社概要, 沿革, 中期経営計画, investor, about, history, how it works, pricing, membership, franchise, subscription]
+
+external_queries:
+  - "{name} ビジネスモデル 収益構造"
+  - "{name} 決算説明資料 セグメント"
+  - "{name} 社長 インタビュー"
+  - "{name} business model revenue gross margin"
+
+limits: {pages: 25, subpages: 25, pdfs: 8, images: 6, external_per_query: 2}

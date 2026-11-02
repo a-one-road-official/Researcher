@@ -14,3 +14,4 @@ topics:
   carmaker_sidebiz: {run: true, shards: 8, per_run: 4}
   mfg_platforms: {run: true, shards: 8, per_run: 5}
   mfg_recruit_pr: {run: true, shards: 7, per_run: 2}
+  material_traders: {run: true, shards: 8, per_run: 5}
