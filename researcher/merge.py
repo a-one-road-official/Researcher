@@ -61,24 +61,30 @@ def main(argv=None) -> int:
 
 
 def write_sheet(topic: dict, base: Path, recs: list[dict]) -> None:
-    """One row per company for the person to finish by hand: for each slot, the quoted
-    lines (案) with their URLs, next to an empty column for his own final answer."""
+    """Draft sheet for the person to finish by hand. One row per target in input order,
+    including ones not researched yet, so rows never move: his own columns placed to
+    the right of an IMPORTDATA of this file stay aligned as results come in."""
+    from researcher.targets import load_targets
+
+    by_name = {r.get("name"): r for r in recs}
     slots = topic["sheet"]
-    head = ["社名", "公式URL", "文脈"]
-    for label, _ in slots:
-        head += [f"{label}（案・引用）", f"{label}（確定）"]
-    head += ["根拠URL", "記載なし"]
-    with open(base / "sheet.csv", "w", newline="", encoding="utf-8-sig") as f:
+    head = ["社名", "公式URL", "文脈"] + [f"{label}（下書き・引用）" for label, _ in slots] + ["根拠URL", "状態"]
+    with open(base / "sheet.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(head)
-        for r in recs:
+        for t in load_targets(topic):
+            r = by_name.get(t["name"])
+            if not r:
+                w.writerow([t["name"], t["url"], t["context"]] + [""] * len(slots) + ["", "未調査"])
+                continue
             ev, urls = r.get("evidence", {}), []
-            row = [r.get("name"), r.get("official_url", ""), r.get("context", "")]
+            row = [t["name"], r.get("official_url", ""), t["context"]]
             for _, cat in slots:
-                items = ev.get(cat, [])[:4]
+                items = list({i["quote"]: i for i in ev.get(cat, [])}.values())[:4]
                 urls += [i["url"] for i in items]
-                row += ["\n".join(f"「{i['quote'][:160]}」" for i in items), ""]
-            row += ["\n".join(dict.fromkeys(urls)), "／".join(r.get("missing", {}))]
+                row.append("\n".join(f"「{i['quote'][:160]}」" for i in items))
+            miss = "／".join(r.get("missing", {}))
+            row += ["\n".join(dict.fromkeys(urls)), ("エラー" if r.get("error") else "調査済み") + (f"（記載なし：{miss}）" if miss else "")]
             w.writerow(row)
 
 
