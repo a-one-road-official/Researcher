@@ -17,6 +17,7 @@ evidence:
   レース・ワンメイク: [one-make, spec chassis, series, championship, customer racing, race cars, IndyCar, Formula, LMP, LMDh, GT3, supply all]
   お金の形: [subscription, recurring, annual, per unit, royalty, fee, per car, service contract, maintenance, aftersales, parts sales, 保守]
   売上構成: [revenue, turnover, sales, percent, "%", share of, accounts for, majority, division, segment, business unit]
+  創業期と参入のしやすさ: [founded, founder, started in, garage, first customer, first contract, early days, startup, start-up, spun out, spin-off, seed, Series A, Series B, raised, funding, investors, valuation, bootstrapped, small team, employees, headcount, 設立, 創業, 資金調達]
   顧客名: [Ferrari, Lamborghini, Bugatti, Aston Martin, McLaren, Porsche, Audi, BMW, Mercedes, Hyundai, Kia, Toyota, Honda, Nissan, Ford, GM, Stellantis, Airbus, Boeing, Lockheed, NASA, ESA, customers such as]
 
 subpage_keywords: [engineering, services, consulting, technology, technologies, solutions, about, history, company, capabilities, industries, clients, partners, case, projects, aerospace, defence, news, press]
@@ -27,5 +28,6 @@ external_queries:
   - "{name} supplies components to OEM"
   - "{name} aerospace defence non-automotive"
   - "{name} licensing technology partnership"
+  - "{name} founder early days first customer funding"
 
 limits: {pages: 25, subpages: 25, pdfs: 6, images: 4, external_per_query: 3}
