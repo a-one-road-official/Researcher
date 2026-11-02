@@ -1,0 +1,5368 @@
+# 非樹脂3DP 国内プレイヤー お金の流れ（誰から→この会社→誰に・いつ・いくら）（事実のみ・80社）
+
+## ADAXIS Japan株式会社
+- 公式URL：https://adaxis.eu（given）
+- 誰から：
+  - 「Partners」（https://adaxis.eu/・1回目）
+  - 「We’re a team of creative and passionate roboticists. Together with our partners, we want to make robotic manufacturing accessible to every company.」（https://adaxis.eu/・1回目）
+  - 「Read about our partners」（https://adaxis.eu/・1回目）
+  - 「Partners | Adaxis」（https://adaxis.eu/partners/・1回目）
+  - 「Partners」（https://adaxis.eu/partners/・1回目）
+  - 「PARTNERS」（https://adaxis.eu/partners/・1回目）
+  - 「We foster innovation through close collaboration with our partners. Our vision is to scale additive manufacturing and unleash its worldwide potential.」（https://adaxis.eu/partners/・1回目）
+  - 「RESELLER / INTEGRATOR | Exeter, UK」（https://adaxis.eu/partners/・1回目）
+  - 「How can I become a partner?」（https://adaxis.eu/partners/・1回目）
+  - 「Becoming an ADAXIS partner means more than just reselling—it’s about empowering clients with cutting-edge solutions while enjoying seamless operational freedom. Our partnership model allows you to deploy our technology effortlessly while ensuring a streamlined experience for end-users.」（https://adaxis.eu/partners/・1回目）
+  - 「Success as an ADAXIS partner requires deep expertise in our software and technologies to guarantee an outstanding customer experience. Depending on your commitment and capabilities, we tailor the right partnership program—whether Light or Premium. Let’s explore the possibilities together.」（https://adaxis.eu/partners/・1回目）
+  - 「We make it easy for partners to embed AdaOne licenses directly into their offerings while providing top-tier client support. Specific terms and conditions apply, ensuring a frictionless experience for all stakeholders.」（https://adaxis.eu/partners/・1回目）
+- いくら：
+  - 「Payments can be made in EUR or USD via all major credit cards through Stripe, and wire transfers are available for upfront subscriptions.」（https://adaxis.eu/pricing/・1回目）
+- 設立：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- 誰に：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式29頁／PDF・画像1件／外部8頁・検索4回）
+
+## AGC株式会社
+- 公式URL：https://www.agc.com（given）
+- 設立：1907（明治40）年9月8日（https://www.agc.com/company/profile/index.html・1回目）
+- 設立：1950（昭和25）年6月1日（https://www.agc.com/company/profile/index.html・1回目）
+- 設立：1907年9月8日（https://www.karuwaza.com/case/user/jirei_26.html・3回目）
+- 従業員数：8,122名（2025年12月31日現在）（https://www.agc.com/company/profile/index.html・1回目）
+- 従業員数：従業員一人ひとりの成長・能力発揮を通じて、会社の成長を目指す 10％（https://www.agc.com/company/governance/index.html・1回目）
+- 従業員数：連結従業員数56,179人（2020年12月31日）（https://www.karuwaza.com/case/user/jirei_26.html・3回目）
+- 事業内容：板ガラスの工業生産から始まり、時代の変化に合わせて、世の中で必要とされる素材・ソリューションを提供してきた。現在では30を超える国と地域において、ガラス、電子、化学、セラミックスなど幅広い分野で事業を展開する。独自の素材・ソリューションで、世界中の人々の暮らしに貢献する。（https://www.karuwaza.com/case/user/jirei_26.html・3回目）
+- 誰から：
+  - 「西洋建築の普及拡大を背景に建設材料として「板ガラス」の需要が拡大したが、当時の日本は、その大半を輸入に依存」（https://www.agc.com/company/value/index.html・1回目）
+  - 「リング㈱における勤務を通して、事業提携、海」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+  - 「久美子氏は、事業提携、海外事業統括と経理、財務分野で幅広い経験を有しています」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+- 何をする：
+  - 「自動車ドア用赤外線カットガラスの販売を開始」（https://www.agc.com/company/history/index.html・1回目）
+  - 「」を全世界に向けて販売を開始」（https://www.agc.com/company/history/index.html・1回目）
+  - 「」の販売を開始」（https://www.agc.com/company/history/index.html・1回目）
+  - 「」の販売を開始（2011年）」（https://www.agc.com/company/history/index.html・1回目）
+  - 「」を全世界に向けて販売を開始し、スマートフォンの進化と発展に貢献」（https://www.agc.com/company/value/index.html・1回目）
+  - 「しかし、新薬を開発するには莫大な資金が必要なため、製薬会社は経営資源を創薬や臨床開発などに集中し、製造技術の開発・医薬品原体の製造（CDMO・医薬品開発受託製造）は別企業が行う水平分業が進んでいる」（https://www.agc.com/company/value/index.html・1回目）
+  - 「また、断熱材や自動車のシートなど、快適な生活に必要なさまざまな製品の素材に用いられるウレタン関連製品の製造・販売も行っています」（https://www.agc.com/company/business/index.html・1回目）
+  - 「医農薬中間体・原体のプロセス開発・製造受託を担うCDMO事業を、グローバルに展開しています」（https://www.agc.com/company/business/index.html・1回目）
+  - 「また、法令・企業倫理に沿った行動を徹底するために、行動基準（AGCグループ行動基準）にグローバル共通の遵守事項及び各国・各地域の遵守事項を定め、AGCグループのコンプライアンス体制を整備し、教育・研修の実施等の展開を図っています」（https://www.agc.com/company/internalcontrol/index.html・1回目）
+  - 「（２）業務ｼｽﾃﾑの受託開発・ｺﾝｻﾙﾃｨﾝｸﾞ （３）ｼｽﾃﾑの運用・保守」（https://www.agc.com/company/group/index.html・1回目）
+  - 「ガラス・建材商品の販売・施工」（https://www.agc.com/company/group/index.html・1回目）
+  - 「建築用加工ガラスの製造・販売」（https://www.agc.com/company/group/index.html・1回目）
+- 誰に：
+  - 「お客様とゆるぎない信頼関係を」（https://www.agc.com/company/statement/index.html・1回目）
+  - 「また、私たちはインドネシアにおいてユニークな化学品メーカーとして、最高の品質で製品を提供し、お客様に満足していただくとともに、安全で勤労意欲に富む労働環境と環境に優しい製造プロセスによって信頼を獲得するという責務があります」（https://www.agc.com/company/statement/index.html・1回目）
+  - 「この成功を糧として、私たちはお客様のさまざまな課題に積極的に対応しており、製造現場での二酸化炭素排出やVOC削減のためにガラス製品を適用できるような新素材やプロセスを積極的に追求しています」（https://www.agc.com/company/statement/index.html・1回目）
+  - 「しかし、お客様の喜びがどこにあるのかを熟考すること、起きている現象を深く考え抜くこと、そして周囲のスタッフを巻き込んで一丸となって取り組める環境を率先してつくることを、日々大切にしています」（https://www.agc.com/company/statement/index.html・1回目）
+  - 「そして、諦めずに困難な課題と向き合うことがお客様のニーズや夢を叶えるだけでなく、私たちAGCの新しい未来の実現に繋がると信じ、熱い気持ちをもって“One Team”でチャレンジしています」（https://www.agc.com/company/statement/index.html・1回目）
+  - 「それ以来、日本の基幹産業として成長してきた自動車産業の発展を支えるために、高品質な製品の安定供給を図るべく、業界初のガス炉を導入するなど、生産技術革新に取り組むとともに、生産体制の増強を図った」（https://www.agc.com/company/value/index.html・1回目）
+  - 「私たちAGCグループは、幅広い素材・生産技術に基づく独自の素材・ソリューションを提供し、お客様と長期的な信頼関係を築き、お客様から最初に声がかかる存在であり続けます」（https://www.agc.com/company/strategy/vision/index.html・1回目）
+  - 「そして、お客様や社会にとって“無くてはならない製品”を提供し続け、いつもどこかで、世界中の人々の暮らしを支えます」（https://www.agc.com/company/strategy/vision/index.html・1回目）
+  - 「提供するあらゆる製品・サービスについて、お客様の満足と信頼を得るための責任を全うします」（https://www.agc.com/company/strategy/vision/index.html・1回目）
+  - 「製造工程におけるGHG排出量削減に関しては、業界リーダーとして世界トップレベルの省エネガラス製造技術の開発・導入を進めています」（https://www.agc.com/company/strategy/long_term_plan/index.html・1回目）
+  - 「そこで、将来を予見した顧客企業と価値創出の取り組みを行い、大学・研究機関やベンチャー企業などの外部パートナーと、技術の探索、補完などを行う、協創活動が重要となっています」（https://www.agc.com/company/strategy/long_term_plan/index.html・1回目）
+  - 「お客様・お取引先様に「新たな価値・機能」と「信頼」を」（https://www.agc.com/company/strategy/policy/index.html・1回目）
+- お金の形：
+  - 「また、当社と社外取締役の所属する会社との間では取引関係が存在しますが、価格その他の取引条件については一般的取引と同様に決定しています」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「監査等委員でない取締役の月例報酬及び賞与に係る報酬等の額は、2026年３月27日開催の第101回定時株主総会において年額7億5,000万円以内（うち社外取締役分は年額8,800万円以内）とすることが決議されました」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「監査等委員である取締役の月例報酬に係る報酬等の額は、2026年３月27日開催の第101回定時株主総会において年額1億5,000万円以内とすることが決議されました」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「提供される資材・サービスの品質・価格・納期・安全および環境への対応・技術サービスのレベルが適正であること」（https://www.agc.com/company/purchasing/index.html・1回目）
+  - 「気温上昇が進行することによるリスクとして、移行リスクとしては炭素価格の上昇、物理的リスクとしては洪水・高潮などの突発災害の増加などが」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+  - 「びにエッセンシャルケミカルズ東南アジア事業における価格低迷が見込まれるため、2026年の財務KPIを営業利益1,500億円、ROE5%以上としまし」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+  - 「コスト改善（安定生産・生産性改善）、価格政策、高付加価値化」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+  - 「て年額7億5,000万円以内（うち社外取締役分は年額 8,800万円以内）とすることが決議されました」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+  - 「(3) 監査等委員である取締役の月例報酬に係る報酬等の額は、 2026年３月27日開催の第101回定時株主総会において 年額」（https://www.agc.com/company/pdf/governance.pdf・2回目）
+  - 「AGC 国内建築用ガラス関連製品 価格改定の案内（７月２１日～） - ガラス・サッシの事なら大阪の株式会社山田硝子店へ」（https://yamadaglass.co.jp/topics/news/582/・3回目）
+  - 「AGC 国内建築用ガラス関連製品 価格改定の案内（７月２１日～）」（https://yamadaglass.co.jp/topics/news/582/・3回目）
+  - 「AGCは、国内の建築用ガラス関連製品の販売価格を、７月」（https://yamadaglass.co.jp/topics/news/582/・3回目）
+- いくら：
+  - 「ベルギー式手吹円筒法により日本で初めて板ガラスの工業生産を開始」（https://www.agc.com/company/history/index.html・1回目）
+  - 「ベルギー式手吹円筒法により日本で初めて板ガラスの工業生産を開始（1909年）」（https://www.agc.com/company/history/index.html・1回目）
+  - 「2030年までに営業利益を3,000億円以上（過去最高益更新）とし、安定的にROE10%以上を確保できるようになることを財務目標としています」（https://www.agc.com/company/strategy/long_term_plan/index.html・1回目）
+  - 「以上の取り組みにより、最終年度である2026年に全社ROCE（営業資産利益率）10%以上、営業利益1,800億円を目指します」（https://www.agc.com/company/strategy/plan/index.html・1回目）
+  - 「戦略事業・成長事業への積極投資を継続するための、戦略枠は1,000億円です」（https://www.agc.com/company/strategy/plan/index.html・1回目）
+  - 「90,873百万円 発行済株式総数217,434,681株（2025年12月31日現在）」（https://www.agc.com/company/profile/index.html・1回目）
+  - 「2025年度において、当社及び国内連結子会社の会計監査人であるあずさ監査法人への公認会計士法（昭和23年法律第103号）第2条第1項に規定する業務に基づく報酬は、240百万円でした」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「また、上記以外の業務として、合意された手続業務があり、対価は7百万円でした」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「百万円単位の金額は百万円未満を切り捨てて表示しています」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「690百万円」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「381百万円」（https://www.agc.com/company/governance/index.html・1回目）
+  - 「143百万円」（https://www.agc.com/company/governance/index.html・1回目）
+- 検索結果の抜粋：
+  - 「「 AGC エンジニアリング」の 代理店 ・取扱店 - indexPro — 「 AGC エンジニアリング」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=1867・3回目）
+  - 「「 AGC テクノグラス」の 代理店 47社 注目ランキング【2026年】 — 「 AGC テクノグラス」の 代理店 47社 注目ランキング【2026年】 Metoree https://metoree.com > ... > AGCテクノグラス株式会社」（https://metoree.com/companies/16595/distributors/・3回目）
+  - 「ルーセント・テクノロジーと旭硝子が日本での半導体販売 代理 ... — ルーセント・テクノロジーと旭硝子が日本での半導体販売 代理 ... AGC https://www.agc.com > news > detail」（https://www.agc.com/news/detail/19991117.html・3回目）
+  - 「AGC 保険マネジメント株式会社 — AGC 保険マネジメント株式会社 AGC保険マネジメント株式会社 https://www.agim.co.jp」（https://www.agim.co.jp/・3回目）
+  - 「AGC 株式会社 | 導入事例 |ビッグデータの有効活用でDX推進 ... — AGC 株式会社 | 導入事例 |ビッグデータの有効活用でDX推進 ... 軽技Web https://www.karuwaza.com > case > user > jirei_26」（https://www.karuwaza.com/case/user/jirei_26.html・3回目）
+  - 「AGC 株式会社 | 導入事例 - テラスカイ — AGC 株式会社 | 導入事例 - テラスカイ 株式会社テラスカイ https://www.terrasky.co.jp > case > post_44」（https://www.terrasky.co.jp/case/post_44.php・3回目）
+  - 「導入事例 ・施工実績 - AGC Glass Plaza — 導入事例 ・施工実績 - AGC Glass Plaza AGC Glass Plaza https://www.asahiglassplaza.net > 導入事例・施工実績」（https://www.asahiglassplaza.net/add_contents_posttype/casestudy_interview/?post_type=contents_case・3回目）
+  - 「導入事例 ： AGC 株式会社 - Databricks — 導入事例 ： AGC 株式会社 - Databricks Databricks https://www.databricks.com > customers > agc」（https://www.databricks.com/jp/customers/agc・3回目）
+  - 「AGC 株式会社 様 - Microsoft Dynamics 365 導入事例 — AGC 株式会社 様 - Microsoft Dynamics 365 導入事例 ＪＦＥシステムズ株式会社 https://biz.jfe-systems.com > case > agc」（https://biz.jfe-systems.com/case/agc・3回目）
+  - 「AGC 国内建築用ガラス関連製品 価格 改定の案内（7月21日 ... — AGC 国内建築用ガラス関連製品 価格 改定の案内（7月21日 ... yamadaglass.co.jp https://yamadaglass.co.jp > topics > news」（https://yamadaglass.co.jp/topics/news/582/・3回目）
+  - 「ミラー製品の販売 価格 を改定 ｜ ニュース - AGC — ミラー製品の販売 価格 を改定 ｜ ニュース - AGC AGC https://www.agc.com > news > detail」（https://www.agc.com/news/detail/1210404_2148.html・3回目）
+  - 「国内建築用ガラス関連製品の 価格 を改定 ｜ ニュース - AGC — 国内建築用ガラス関連製品の 価格 を改定 ｜ ニュース - AGC AGC https://www.agc.com > news > detail」（https://www.agc.com/news/detail/1202978_2148.html・3回目）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）
+
+## Alloyed Japan
+- 公式URL：特定できず（not_found）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 取引先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 誰から：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 何をする：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- いくら：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+
+## Brule
+- 公式URL：https://www.brule.co.jp/（given）
+- 誰から：
+  - 「産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc.と正規代理店契約を締結 PEEKなどスーパーエンプラ対応の 最先端ソリューションを日本市場で本格展開 | NEWSCAST」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc.と正規代理店契約を締結 PEEKなどスーパーエンプラ対応の 最先端ソリューションを日本市場で本格展開」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「最先端の3Dプリンティング技術を提供する株式会社Brule Inc.(本社：シカゴ、イリノイ州、CEO：ダグラス・クローン、以下 Brule)は、産業用高性能3DプリンターのグローバルリーダーであるIntamsys(インテムシス)社(本社：中国・上海]、以下 Intamsys)と、この度、日本国内における正規代理店契約を締結しました」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「この度のIntamsys社との提携により、Bruleは最先端のハードウェアと自社のサポート力を融合させ、日本のお客様が抱える製造現場の課題に対し、導入から運用まで一貫したソリューションを提供してまいります」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「▼本代理店契約に関する詳しい情報はこちらから」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「https://www.brule.co.jp/learn/3d-printing/brule-intamsys-distributor-contract.html」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc.と正規代理店契約を締結 PEEKなどスーパーエンプラ対応の 最先端ソリューションを日本市場で本格展開 | Brule Inc.」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「Brule Inc.と正規代理店契約を締結」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「最先端の3Dプリンティング技術を提供する株式会社Brule Inc.(本社：シカゴ、イリノイ州、CEO：ダグラス・クローン、以下 Brule)は、産業用高性能3DプリンターのグローバルリーダーであるIntamsys(インテムシス)社(本社：中国・上海]、以下 Intamsys)と、この度、日本国内における正規代理店契約を締結しました」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「この度のIntamsys社との提携により、Bruleは最先端のハードウェアと自社のサポート力を融合させ、日本のお客様が抱える製造現場の課題に対し、導入から運用まで一貫したソリューションを提供してまいります」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「▼本代理店契約に関する詳しい情報はこちらから」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「https://www.brule.co.jp/learn/3d-printing/brule-intamsys-distributor-contract.html」（https://www.atpress.ne.jp/news/555754・3回目）
+- 何をする：
+  - 「本契約により、BruleはIntamsys社の主力製品である「FUNMAT」シリーズをはじめとする高性能3Dプリンターの販売、保守、および技術サポートを、2025年11月6日より本格的に開始いたします」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「Brule Incは2006年に設立され、2023年現在、日本国内に様々なデスクトップ・インダストリアル3Dプリンティングの販売を通じてモノづくりのソリューションの提案をさせて頂いております」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「また2023年には東京大学と連携して3D Printing Advanced Technology Centerを開設して自社販売のものだけなく、様々な機器をご提供しております」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「*ニュースリリース記載の情報は発表日現在の情報であり、予告なく変更される場合があります」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「プレスリリース/ニュースリリース配信サービスのアットプレス」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「プレスリリースを配信」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「プレスリリースを受信」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「発行者のリリースを見る」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「リリース一覧」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「本契約により、BruleはIntamsys社の主力製品である「FUNMAT」シリーズをはじめとする高性能3Dプリンターの販売、保守、および技術サポートを、2025年11月6日より本格的に開始いたします」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「Brule Incは2006年に設立され、2023年現在、日本国内に様々なデスクトップ・インダストリアル3Dプリンティングの販売を通じてモノづくりのソリューションの提案をさせて頂いております」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「また2023年には東京大学と連携して3D Printing Advanced Technology Centerを開設して自社販売のものだけなく、様々な機器をご提供しております」（https://www.atpress.ne.jp/news/555754・3回目）
+- 誰に：
+  - 「この度のIntamsys社との提携により、Bruleは最先端のハードウェアと自社のサポート力を融合させ、日本のお客様が抱える製造現場の課題に対し、導入から運用まで一貫したソリューションを提供してまいります」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「この度のIntamsys社との提携により、Bruleは最先端のハードウェアと自社のサポート力を融合させ、日本のお客様が抱える製造現場の課題に対し、導入から運用まで一貫したソリューションを提供してまいります」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「FFF方式3Dプリンタについては、これまでエントリーからミドルクラスの装置の取り扱いを行ってきたが、その中で顧客から大型造形やスーパーエンプラに対応した装置に対する声を多く聞くようになり、Intamsysと正規販売代理店契約を締結するに至った」（https://monoist.itmedia.co.jp/mn/articles/2601/22/news034.html・3回目）
+- お金の形：
+  - 「サービス・料金」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「サービス・料金」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「価格.com - BRULE、189,800円の高機能3Dプリンター「CEL Robox」」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「高機能ながらも低価格を実現した3Dプリンター」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「価格は189,800円」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「価格.comでチェック」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「フォルクスワーゲンが一部モデルの仕様変更を発表 車両価格とオプション価格も改定」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「価格.com」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「※特段の記載がない限り、本体のみの税込価格を掲載しております」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「税込価格に関しては、消費税の税率により変動することがあります」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+- いくら：
+  - 「298万円でスーパーエンプラ対応 産業向け最新3Dプリンタを日本初公開：3Dプリンタニュース（1/3 ページ） - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2601/22/news034.html・3回目）
+  - 「298万円でスーパーエンプラ対応 産業向け最新3Dプリンタを日本初公開」（https://monoist.itmedia.co.jp/mn/articles/2601/22/news034.html・3回目）
+  - 「FFF方式3Dプリンタについては、これまでエントリーからミドルクラスの装置の取り扱いを行ってきたが、その中で顧客から大型造形やスーパーエンプラに対応した装置に対する声を多く聞くようになり、Intamsysと正規販売代理店契約を締結するに至った」（https://monoist.itmedia.co.jp/mn/articles/2601/22/news034.html・3回目）
+  - 「価格.com - BRULE、189,800円の高機能3Dプリンター「CEL Robox」」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「BRULE、189,800円の高機能3Dプリンター「CEL Robox」」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「価格は189,800円」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「Anker、初の3Dプリンター「AnkerMake M5」を99,990円で発売」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「ホンダ、4気筒スーパースポーツの新型『CBR500R FOUR』と『CBR600RR』を発表…ミドルスポーツ市場で存在感」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「※特段の記載がない限り、本体のみの税込価格を掲載しております」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+  - 「税込価格に関しては、消費税の税率により変動することがあります」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+- 検索結果の抜粋：
+  - 「産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc ... — 産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc ... Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/6509716・3回目）
+  - 「産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc ... — 産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc ... アットプレス https://www.atpress.ne.jp > ... > Brule Inc.」（https://www.atpress.ne.jp/news/555754・3回目）
+  - 「Affiliate Sales - Brule — Affiliate Sales - Brule brule.co.jp https://www.brule.co.jp > affiliate-sales」（https://www.brule.co.jp/affiliate-sales.html?srsltid=AYCX9vIClyAABH0CSkZRy4WNK42vg1e9lGd0nc3AOlC9kAJ5sx_ULVgP・3回目）
+  - 「産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc ... — 産業用高性能3Dプリンタメーカー「Intamsys社」が Brule Inc ... Infoseek https://news.infoseek.co.jp > ... > 経済 > プレスリリース」（https://news.infoseek.co.jp/article/atpress_555754/・3回目）
+  - 「事例 Archives - Brule — 事例 Archives - Brule Brule - 3Dプリンタ https://www.brule.co.jp > learn > tag > 事例」（https://www.brule.co.jp/learn/tag/%E4%BA%8B%E4%BE%8B?srsltid=AYCX9vIFUF3dtcqaNHrkJ35YBqqnCWYFhx0iNLc9tkiSbmWIGDkBMasW・3回目）
+  - 「ケーススタディ Archives - Brule — ケーススタディ Archives - Brule brule.co.jp https://www.brule.co.jp > learn > category > casestudy」（https://www.brule.co.jp/learn/category/casestudy?srsltid=AYCX9vLUV5AYQBZyoyXLis1gJEru2gmFnjEbQRKhiWMRDTFLAzh8RHE7・3回目）
+  - 「3Dプリントの活用 事例 - Brule — 3Dプリントの活用 事例 - Brule brule.co.jp https://www.brule.co.jp > learn > applications」（https://www.brule.co.jp/learn/applications.html?srsltid=AYCX9vIA7W3N4r1hVDMJnn07vebmujRRJDvVt28vzj2wfeANKR_i7Gzb・3回目）
+  - 「Brulé Inc (@bruleinc) · Taito-ku, Tokyo - Instagram — Brulé Inc (@bruleinc) · Taito-ku, Tokyo - Instagram Instagram https://www.instagram.com > bruleinc」（https://www.instagram.com/bruleinc/・3回目）
+  - 「Brule が取り扱う歯科用3Dプリンターについて解説 — Brule が取り扱う歯科用3Dプリンターについて解説 dent3d-navi.com https://www.dent3d-navi.com > list > brule」（https://www.dent3d-navi.com/list/brule.html・3回目）
+  - 「Formlabs Form 4 Basic Package - Brule — Formlabs Form 4 Basic Package - Brule brule.co.jp https://www.brule.co.jp > formlabs-form-4-basic-package」（https://www.brule.co.jp/formlabs/formlabs-form-4-basic-package.html?srsltid=AYCX9vLpXlNfWNv9g0gAIxzDdpCD2phT3GVxP2swY03gOBzV2MFfLIXz・3回目）
+  - 「Brule Inc.の3Dプリンター27製品 ・人気ランキング | Metoree — Brule Inc.の3Dプリンター27製品 ・人気ランキング | Metoree Metoree https://metoree.com > プリンター > 3Dプリンター」（https://metoree.com/categories/3d-printer/30518/・3回目）
+  - 「BRULE 、189800円の高機能3Dプリンター「CEL Robox」 — BRULE 、189800円の高機能3Dプリンター「CEL Robox」 kakaku.com https://news.kakaku.com > ... > パソコン > 3Dプリンタ」（https://news.kakaku.com/prdnews/cd=pc/ctcd=0062/id=38538/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索4回）
+
+## CASTEM（キャステム）
+- 公式URL：https://www.castem.co.jp/（given）
+- 設立：1970 年年（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+- 従業員数：210人（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+- 売上高：846,600 万円 エミダス会員番号 77539（https://ja.nc-net.or.jp/company/77539/・3回目）
+- 取引先：SMC（株）、（株）島精機製作所、マックス（株）、リョービ（株）、オリンパス（株）、YKK（株）（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+- 誰から：
+  - 「１９９１年アメリカで特許を取得したメタルインジェクション（ミム／金属射出成形法）の他社にない製法を自社開発、またロストワックス法による精度の高い精密鋳造技術を持つ」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「後工程のめっきや組立もビジネスパートナーと提携し、要求に応えられる」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+- 何をする：
+  - 「金型製作費が低廉で、半永久的に使用でき、設計変更や材質変更も可能」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「・試作/開発/単品小ロット『だから』機械加工で製作」（https://www.youtube.com/watch?v=hSz00TtNDcU・3回目）
+  - 「・鋳造には金型費が必要、リードタイムも長い『だから』試作・開発に向かない」（https://www.youtube.com/watch?v=hSz00TtNDcU・3回目）
+  - 「3Dプリンターによる高精度3D造形｜金型なしで試作・一点物・フィギュア製作【キャステムの技術⑤】」（https://note.com/castem・3回目）
+  - 「世界最小の受託造形サービス 超微細3Ⅾプリントシステム「ナノスクライブ」って？製法・特徴・事例｜超精密部品づくりのポイントを解説【キャステムの技術④】」（https://note.com/castem・3回目）
+  - 「新入社員がゼロから設計！ピタゴラ装置研修の舞台裏｜2026年2月のキャステム＆いものづくりニュース」（https://note.com/castem・3回目）
+  - 「【予約販売】CASTEM｜ミニチュア理容師・美容師 3点セット「mimic」｜株式会社キャステム｜ミニチュアツール｜マイクロツール」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「【予約販売】キン肉マン｜メタルマスクキーホルダー｜ロビンマスク｜悪魔将軍｜ウォーズマン｜金のマスク｜銀のマスク｜キーホルダー｜株式会社キャステム｜グッズ」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「【予約販売】ゴジラハンマー｜GODZILLA｜グッズ｜ゴジラの足｜トンカチ｜DIY」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「【予約販売】ドラゴンボールZ｜ダーブラのクッキー型『クッキーになっちゃえ!!』｜菓子型」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「【予約販売】キン肉マン｜砂ンシャイン ｜キーホルダー」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「【予約販売】キン肉マン｜ティーパックマンティーカップ（第一弾）」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+- 誰に：
+  - 「現在、お客様に安全・安心にサイトをご利用いただくためのセキュリティ強化対策に伴い、システムメンテナンスを実施しております」（https://www.castem.co.jp/maintenance/・1回目）
+  - 「お客様にはご不便をおかけいたしますが、何卒ご理解とご協力を賜りますようお願い申し上げます」（https://www.castem.co.jp/maintenance/・1回目）
+  - 「２００６年 業界初の「９万円金型システム」発売、金属射出成型で純チタン部品製造開発」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「『だから』という固定観念を壊すベストアンサーでお客様をサポート！！」（https://www.youtube.com/watch?v=hSz00TtNDcU・3回目）
+  - 「ロストワックス製法、メタルインジェクション製法、３Dプリントサービス、CTスキャンサービス、様々な技術でお客様へベストなご提案をさせて頂きます」（https://www.youtube.com/watch?v=hSz00TtNDcU・3回目）
+  - 「精密鋳造から機械式時計・ジュエリーまで…展示会ラッシュの秋🍂｜2026年9・10月のキャステム＆鋳造業界ニュース」（https://note.com/castem・3回目）
+  - 「コンビニ払込票を選択のお客様」（https://www.ironfactory-castem.com/・3回目）
+  - 「●お客様のご都合で返品・交換をご希望される場合、商品到着日より7日以内に、必ずお電話にて担当までご連絡願います」（https://www.ironfactory-castem.com/・3回目）
+  - 「※お客様都合の場合は、送料、返金にかかる手数料はご負担いただきます」（https://www.ironfactory-castem.com/・3回目）
+  - 「・お客様のもとで汚れ、キズが生じた商品」（https://www.ironfactory-castem.com/・3回目）
+  - 「お客様へのお知らせ」（https://www.ironfactory-castem.com/・3回目）
+  - 「キャリアメールご利用のお客様へ」（https://www.ironfactory-castem.com/・3回目）
+- お金の形：
+  - 「ネジや歯車など小部品も鋳出しが可能で、複雑な部品を一体化できるため加工工程が削減でき、小ロット対応の低価格金型システムがあり、金型コストも安価」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形」（https://www.youtube.com/watch?v=hSz00TtNDcU・3回目）
+  - 「）ロストワックス精密鋳造とMIM（金属粉末射出成形）であらゆる産業の金属部品を製造」（https://note.com/castem・3回目）
+  - 「）ロストワックス精密鋳造とMIM（金属粉末射…」（https://note.com/castem・3回目）
+  - 「MIM（金属粉末射出成形）とは？製法・特徴・事例｜精密金属部品づくりのポイントを解説【キャステムの技術②】」（https://note.com/castem・3回目）
+  - 「粉末冶金金型部品加工」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「（ 金型製作 / 粉末冶金金型 ）」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「MIM（金属粉末射出成形） 製造・販売」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「株式会社キャステムはロストワックス精密鋳造とMIM（金属粉末射出成形）による基盤技術で精密部品の製造販売を主業として金型製作から素形材生産、機械加工、表面処理（メッキ等）まで一貫した受託サービスを行っております」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「近年ではデジタル造形へも積極的に取り組み、超小ロット1個から金型製作不要で鋳造品が作れるデジタルキャスト®方式やAM技術（金属３Dプリント）受託サービスを展開しており試作品1個から単発小中ロット品やリピート量産品まで対応しております」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「■デジタルキャスト®■ロストワックス精密鋳造■MIM（金属粉末射出成形）」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「鋳造法なのに金型製作不要、初期コスト型費0円のデジタルキャストで1個から鋳物生産が可能」（https://ja.nc-net.or.jp/company/77539/・3回目）
+- いくら：
+  - 「7,996 万円」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「２００６年 業界初の「９万円金型システム」発売、金属射出成型で純チタン部品製造開発」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「全国一律600円」（https://www.ironfactory-castem.com/・3回目）
+  - 「全国一律：240円」（https://www.ironfactory-castem.com/・3回目）
+  - 「■合計3,980円以上のご購入で、」（https://www.ironfactory-castem.com/・3回目）
+  - 「※ご注意：当店では正当な理由無く、代金引換受取拒否、保管期限切れなどの事由により、返送されてきた場合には、 往復配送料及び、代金引換手数料、返品事務手数料として、2,500円を一律で請求させていただきます」（https://www.ironfactory-castem.com/・3回目）
+  - 「アスリートからアイドルまで、その人の歴史をカタチに」（https://www.ironfactory-castem.com/・3回目）
+  - 「【送料無料】 税込5,000円以上のお買い上げで対象」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「微細小型部品50個以内限定 トライやる型19万円方式のMIM製法」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「7,996 万円」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「846,600 万円」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「鋳造法なのに金型製作不要、初期コスト型費0円のデジタルキャストで1個から鋳物生産が可能」（https://ja.nc-net.or.jp/company/77539/・3回目）
+- 検索結果の抜粋：
+  - 「技術 | 株式会社 キャステム — 技術 | 株式会社 キャステム 株式会社キャステム https://www.castem.co.jp > technology」（https://www.castem.co.jp/technology/・3回目）
+  - 「精密部品の キャステム ～ロストワックス - YouTube — 精密部品の キャステム ～ロストワックス - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=JaGptRZMeRA・3回目）
+  - 「株式会社 キャステム - 産業技術マップ — 株式会社 キャステム - 産業技術マップ 産業技術マップ https://fukuyama-gijutumap.jp > 株式会社キャステム」（https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/・3回目）
+  - 「株式会社 キャステム - NCネットワーク — 株式会社 キャステム - NCネットワーク エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/77539/・3回目）
+  - 「タイでMIM製品を一貫生産対応 - CASTEM (Thailand)CO.,LTD. — タイでMIM製品を一貫生産対応 - CASTEM (Thailand)CO.,LTD. fact-link.com https://www.fact-link.com > mem_content」（https://www.fact-link.com/mem_content.php?pl=jp&mem=00004404&page=00021849・3回目）
+  - 「事例 紹介 | 株式会社 キャステム — 事例 紹介 | 株式会社 キャステム 株式会社キャステム https://www.castem.co.jp > works02」（https://www.castem.co.jp/works02/・3回目）
+  - 「CASTEM Technology - YouTube — CASTEM Technology - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=hSz00TtNDcU・3回目）
+  - 「株式会社 キャステム - note — 株式会社 キャステム - note note https://note.com > castem」（https://note.com/castem・3回目）
+  - 「株式会社 キャステム (@castem_japan) - Instagram — 株式会社 キャステム (@castem_japan) - Instagram Instagram https://www.instagram.com > castem_japan」（https://www.instagram.com/castem_japan/・3回目）
+  - 「IRON FACTORY: モノづくりを全力で楽しむ通販サイト — IRON FACTORY: モノづくりを全力で楽しむ通販サイト ironfactory-castem.com https://www.ironfactory-castem.com」（https://www.ironfactory-castem.com/・3回目）
+  - 「CASTEM ・IRON FACTORY - meta mate — CASTEM ・IRON FACTORY - meta mate metamate.jp https://www.metamate.jp > TOP > アイテム別」（https://www.metamate.jp/SHOP/270060/319253/list.html・3回目）
+  - 「キャステム （ CASTEM ) | 工具用品専門通販はファクトリー ... — キャステム （ CASTEM ) | 工具用品専門通販はファクトリー ... ファクトリーギア https://ec.f-gear.co.jp > ブランド」（https://ec.f-gear.co.jp/category/CASTEM/?srsltid=AYCX9vKRw2diU0_Ta9UZ5E87Ac3GEEEMv-Jg1LfgIh4_06q8cf8sPCvq・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## CMC RESEARCH
+- 公式URL：https://cmcre.com（given）
+- 設立：1984年4月（https://cmcre.com/job/about/・1回目）
+- 事業内容：マーケットレポートおよび技術関連の出版物の刊行、技術情報・市場情報関連セミナーの企画・運営などにより、研究開発を支援。受託調査の他、社員研修のアレンジ等も可能。 当社が主に動向をウオッチしている分野： エネルギー、電池、自動車・車載関連、各種化学品・機能材料、エレクトロニクス・コンピュータ、人工知能（AI）・インフォマティクス・情報技術、医薬・ヘルスケア、バイオ・ライフサイエンス、食品・化粧品、特許・マネジメント・マーケティング、等（https://cmcre.com/job/about/・1回目）
+- 誰から：
+  - 「しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります」（https://cmcre.com/archives/143425/・1回目）
+  - 「しかしながら日本国内に輸入される蓄電池の価格が日本製品よりも低価格製品が多いことから、日本の電池業界が苦戦を強いられている実情があります」（https://cmcre.com/archives/141823/・1回目）
+  - 「提携調査会社・出版社」（https://semabiz.co.jp/publisher/cmcresearch/・3回目）
+- 何をする：
+  - 「これまで弊社が郵送していたセミナーおよび書籍の請求書を電子化いたします」（https://cmcre.com/・1回目）
+  - 「【社員研修・講習会および出張セミナーサービスに対応中】2021年7月2日」（https://cmcre.com/・1回目）
+  - 「過去に弊社で開催したセミナーや弊社でお話いただいた講師の方の特定1社様向けのウェビナー（オンラインセミナー）または出張セミナー(お客様先での開催セミナー)に対応しております」（https://cmcre.com/・1回目）
+  - 「当該サイトでご紹介する専門家の方によるご講演・社内研修や技術指導・コンサルティングなどにご興味のある方は当該サイト経由でお問合せいただければ、専門家の方にお話を通しますので、ご活用くださいませ」（https://cmcre.com/・1回目）
+  - 「利益密度設計論で読み解く、高熱伝導・軽量材料の市場勝ち残り法則！」（https://cmcre.com/・1回目）
+  - 「【セミナー】」（https://cmcre.com/・1回目）
+  - 「宿泊を伴う5日間の実習講習講座」（https://cmcre.com/・1回目）
+  - 「2026/9/29「データセンター向けパッケージの技術動向と 封止材の設計・評価技術」の開催日が、11/11に変更になりました」（https://cmcre.com/・1回目）
+  - 「2026/9/11「バブルジェネレータ設計から学ぶファインバブル技術の基礎と活用」受付中！」（https://cmcre.com/・1回目）
+  - 「2026/9/29「半導体パッケージの最新動向と半導体封止材の設計・評価技術」受付中！」（https://cmcre.com/・1回目）
+  - 「2026/9/8「水性塗料の設計技術と課題、顔料分散剤の利用技術・外観低下トラブルの原因と対策管理」受付中！」（https://cmcre.com/・1回目）
+  - 「2026/7/3「半導体製造における後工程・実装・設計の基礎」受付中！」（https://cmcre.com/・1回目）
+- 誰に：
+  - 「過去に弊社で開催したセミナーや弊社でお話いただいた講師の方の特定1社様向けのウェビナー（オンラインセミナー）または出張セミナー(お客様先での開催セミナー)に対応しております」（https://cmcre.com/・1回目）
+  - 「「世界のフィジカルAI時代の蓄電・実装戦略 最新業界レポート」（5月1日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のAIデータセンター用蓄電池 最新業界レポート」（3月28日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のPFAS除去・分離・分解・処理技術 最新業界レポート」（11月21日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のAIデータセンター用冷却技術・材料 最新業界レポート」（7月18日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「2025/11/4「ワイドギャップ半導体パワーデバイスの優位性と課題から業界動向まで」受付中！」（https://cmcre.com/・1回目）
+  - 「「世界の次世代細胞培養 最新業界レポート」（5月30日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のAIデータセンター用高速光通信技術・材料 最新業界レポート」（4月1日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界の中分子医薬・抗体医薬、およびCDMO 最新業界レポート」（1月27日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のチップレット・先端パッケージ 最新業界レポート」（11月13日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のAIデータセンターを支える材料・デバイス 最新業界レポート」（9月13日発行）受付開始！」（https://cmcre.com/・1回目）
+  - 「「世界のリサイクルPET 最新業界レポート」（7月17日発行）受付開始！」（https://cmcre.com/・1回目）
+- お金の形：
+  - 「2026/7/7「金属3Dプリンタにおける粉末材料および金属粉末の産業応用」受付中！」（https://cmcre.com/・1回目）
+  - 「2025/6/24「金属3Dプリンタにおける粉末材料および金属粉末の産業応用」受付中！」（https://cmcre.com/・1回目）
+  - 「【お客様感謝セール】以下の期間、弊社では、日頃のご愛顧に感謝し、対象書籍を特別価格にて提供いたします！」（https://cmcre.com/・1回目）
+  - 「【お客様感謝セール】2022年8月22日(月)～2022年9月30日(金)の期間、対象書籍を特別価格にて提供いたします！」（https://cmcre.com/・1回目）
+  - 「2021/1/15「金属粉末3Dプリンタとその材料の技術動向」受付中！」（https://cmcre.com/・1回目）
+  - 「2020/6/30「金属粉末3Dプリンタとその材料の技術動向 【東京理科大学 施設見学・実演付き】」受付中！」（https://cmcre.com/・1回目）
+  - 「シリカ微粉末の需要と供給構造」（https://cmcre.com/research/・1回目）
+  - 「エレクトロニクス用接着剤4品目の供給構造と価格」（https://cmcre.com/research/・1回目）
+  - 「溶剤25品目の市場規模と価格の相関関係」（https://cmcre.com/research/・1回目）
+  - 「＊アカデミック価格 26,400円（税込）」（https://cmcre.com/archives/143425/・1回目）
+  - 「★ アカデミック価格:学校教育法にて規定された国、地方公共団体および学校法人格を有する大学、大学院の教員、学生に限ります」（https://cmcre.com/archives/143425/・1回目）
+  - 「1名あたりの参加費がメルマガ会員価格の半額」（https://cmcre.com/archives/143425/・1回目）
+- いくら：
+  - 「受 講 料：44,000円（税込） ＊ 資料付、見逃し配信付」（https://cmcre.com/archives/143425/・1回目）
+  - 「＊メルマガ登録者 39,600円（税込）」（https://cmcre.com/archives/143425/・1回目）
+  - 「＊アカデミック価格 26,400円（税込）」（https://cmcre.com/archives/143425/・1回目）
+  - 「受 講 料：44,000円（税込） ＊ 資料付」（https://cmcre.com/archives/143361/・1回目）
+  - 「＊メルマガ登録者 39,600円（税込）」（https://cmcre.com/archives/143361/・1回目）
+  - 「＊アカデミック価格 26,400円（税込）」（https://cmcre.com/archives/143361/・1回目）
+  - 「受 講 料：44,000円（税込） ＊ 資料（PDF）・見逃し配信付」（https://cmcre.com/archives/142490/・1回目）
+  - 「＊メルマガ登録者 39,600円（税込）」（https://cmcre.com/archives/142490/・1回目）
+  - 「＊アカデミック価格 26,400円（税込）」（https://cmcre.com/archives/142490/・1回目）
+  - 「受 講 料：27,500円（税込） ＊ 資料（PDF）付」（https://cmcre.com/archives/141823/・1回目）
+  - 「＊メルマガ登録者 24,750円（税込）」（https://cmcre.com/archives/141823/・1回目）
+  - 「受 講 料：44,000円（税込） ＊ 資料付」（https://cmcre.com/archives/141795/・1回目）
+- 従業員数：記載なし（3回確認済み：公式27頁／PDF・画像8件／外部7頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式27頁／PDF・画像8件／外部7頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式27頁／PDF・画像8件／外部7頁・検索4回）
+
+## CT CoreTechnologie Asia
+- 公式URL：https://coretechnologie.com/subsidiaries/（given）
+- 設立：2016年（https://sharelab.jp/company/coretechnologie/・3回目）
+- 従業員数：5名（https://sharelab.jp/company/coretechnologie/・3回目）
+- 事業内容：コアテクノロジーは、CAD相互運用の分野において、3Dデータ変換をはじめとしたコラボレーションツールを開発しています。私たちのミッションは、未来志向の開発と顧客中心設計の技術によって、3D CADの相互運用性を最適化し、お客様の製品ライフサイクル管理(PLM)プロセスの合理化を支援することです。（https://sharelab.jp/company/coretechnologie/・3回目）
+- 取引先：自動車・航空宇宙・産業機器業界、ソフトウェアベンダー各社（https://sharelab.jp/company/coretechnologie/・3回目）
+- 誰から：
+  - 「Reseller」（https://coretechnologie.com/subsidiaries/・1回目）
+  - 「Achelon Software House S.r.l. (Reseller)」（https://coretechnologie.com/subsidiaries/・1回目）
+  - 「Analysis results, for example from model comparison or wall thickness checks, can be saved as interactive 3D PDFs and shared with development partners, suppliers and customers.」（https://coretechnologie.com/products/3d-analyzer/・1回目）
+  - 「Through their partnership, CoreTechnologie and printer specialist Weirather aim to offer an open system for SLS.」（https://coretechnologie.com/news/・1回目）
+  - 「With the new partner Weirather, we are implementing an open system for SLS 3D printing of high-quality plastic parts.」（https://coretechnologie.com/news/・1回目）
+  - 「Innovative Partnership for Inkjet 3D Printing」（https://coretechnologie.com/news/・1回目）
+  - 「Mit ihrer Partnerschaft wollen CoreTechnologie und der Druckerspezialist Weirather ein offenes System für SLS anbieten.」（https://coretechnologie.com/de/news-de/・1回目）
+  - 「Mit dem neuen Partner Weirather realisieren wir ein offenes System für den SLS 3D-Druck von hochwertigen Kunststoffteilen.」（https://coretechnologie.com/de/news-de/・1回目）
+  - 「The data protection declaration of the CT CoreTechnologie GmbH is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.」（https://coretechnologie.com/service/data-protection/・1回目）
+  - 「suppliers, and engineering partners supporting all interoperability requirements of design,」（https://coretechnologie.com/wp-content/uploads/2025/11/3D_Evolution-Broschuere-2025.pdf・2回目）
+  - 「Main-Reseller」（https://coretechnologie.com/wp-content/uploads/2024/11/3D_Analyzer_CAD-Viewer_EN.pdf・2回目）
+  - 「Substance by Adobe、EOS、HP、Photocentric、Ultimaker、Volumic、Weiratherとの技術提携により、3Dプリンタとの連携を強化しています」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+- 何をする：
+  - 「造形サービス」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「私たちのミッションは、未来志向の開発と顧客中心設計の技術によって、3D CADの相互運用性を最適化し、お客様の製品ライフサイクル管理(PLM)プロセスの合理化を支援することです」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「オープンセミナー」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+  - 「異なるフォーマット間や同システムの異なるバージョン間、PDQ修正、設計変更、CAE用形状簡略化、データ変換等の広い範囲の様々なシチュエーションにおいて貢献します」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+  - 「M. 試作・モデリング・3Dプリンター関連」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+  - 「インターモールドテクニカルセミナー」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+  - 「現在、募集中のインターモールドテクニカルセミナーはありません」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+- 誰に：
+  - 「業界ニュース」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「業界ニュース TOP」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「私たちのミッションは、未来志向の開発と顧客中心設計の技術によって、3D CADの相互運用性を最適化し、お客様の製品ライフサイクル管理(PLM)プロセスの合理化を支援することです」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「自動車・航空宇宙・産業機器業界、ソフトウェアベンダー各社」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://sharelab.jp/company/coretechnologie/・3回目）
+  - 「圧倒的に使い易いグラフィックインターフェースにより、特別なユーザー体験を提供します」（https://www.intermold.jp/2025/outline/search_2025_detail/417/・3回目）
+- お金の形：
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://sharelab.jp/company/coretechnologie/・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）
+- いくら：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）
+
+## CoreTechnologie日本法人
+- 公式URL：https://jp.coretechnologie.com（given）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 誰から：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 誰に：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- いくら：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## DMG森精機
+- 公式URL：https://www.dmgmori.co.jp/（given）
+- 誰から：
+  - 「DMG森精機子会社のテクニウム、Formlabsと販売代理店契約を締結：3Dプリンタニュース - MONOist」（https://monoist.itmedia.co.jp/mn/articles/2506/04/news022.html・3回目）
+  - 「DMG森精機子会社のテクニウム、Formlabsと販売代理店契約を締結」（https://monoist.itmedia.co.jp/mn/articles/2506/04/news022.html・3回目）
+  - 「テクニウムはFormlabsと日本国内における販売代理店契約を締結し、3Dプリンタおよび関連製品の展開を通じて製造業の生産性向上とDXを後押しする」（https://monoist.itmedia.co.jp/mn/articles/2506/04/news022.html・3回目）
+  - 「DMG森精機の子会社であるテクニウムは2025年5月21日、3DプリンタメーカーのFormlabsと日本国内における販売代理店契約を同年4月24日付で締結したと発表した」（https://monoist.itmedia.co.jp/mn/articles/2506/04/news022.html・3回目）
+  - 「環境配慮レジンを「Form 4」シリーズ対応へ YOKOITOとエキマテが提携」（https://monoist.itmedia.co.jp/mn/articles/2506/04/news022.html・3回目）
+- 何をする：
+  - 「セミナー資料/論文/研究者紹介」（https://www.dmgmori.co.jp/・1回目）
+  - 「工程設計アドバイザー」（https://www.dmgmori.co.jp/・1回目）
+  - 「セミナー資料」（https://www.dmgmori.co.jp/・1回目）
+  - 「オンラインセミナー」（https://www.dmgmori.co.jp/・1回目）
+  - 「DMG MORIオンラインセミナー映像」（https://www.dmgmori.co.jp/・1回目）
+  - 「「図面から加工原価を見える化するMYPAC ESTIMATE実践セミナー」」（https://www.dmgmori.co.jp/・1回目）
+  - 「DMG MORIがオフィシャルに認定した品質・性能・保守性に優れた世界中の周辺機器をご紹介」（https://www.dmgmori.co.jp/・1回目）
+  - 「DMG MORIは、機械本体だけでなく、周辺機器のご相談から納入・保守、DMQPの購入まで幅広くサポート」（https://www.dmgmori.co.jp/・1回目）
+  - 「品質・性能・保守性に優れたDMQP（周辺機器）をご紹介します」（https://www.dmgmori.co.jp/・1回目）
+  - 「2026年12月期 第3四半期決算リリース（PDF:272 kB）」（https://www.dmgmori.co.jp/・1回目）
+  - 「「工程集約 / 自動化 / DX･GX」をテーマに、最新技術セミナー、工場見学、実演加工を行い、DMG MORIのマシニング・トランスフォーメーション(MX)をご紹介いたします」（https://www.dmgmori.co.jp/・1回目）
+  - 「セミナー資料/論文/研究者紹介」（https://www.dmgmori.co.jp/support/・1回目）
+- 誰に：
+  - 「生産計画から準備、生産、モニタリング、メンテナンスまでお客様の課題を解決するデジタルソリューションをご紹介」（https://www.dmgmori.co.jp/・1回目）
+  - 「業界のトレンドや世界の最先端事例、次世代の技術、ソリューション情報などを会員様限定でお届けします」（https://www.dmgmori.co.jp/・1回目）
+  - 「お客様ごとに専任スタッフがご案内いたします」（https://www.dmgmori.co.jp/・1回目）
+  - 「工作機械の技術情報やDMG MORIの最新製品、お客様事例など旬な情報を掲載したマガジンをご覧いただけます」（https://www.dmgmori.co.jp/・1回目）
+  - 「そのため、お客様と長年にわたり強いパートナーシップを築くことが重要です」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「DMG MORIでは、お客様にご購入いただいた機械が常に最高のパフォーマンスを発揮できるよう、出張修理や迅速なパーツ発送などを世界均一に安定してご提供し、お客様工場の設備に対して、高レベルの精度や性能を維持しながら、より長くご使用いただけるようサポートしています」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「MROとは、Maintenance /メンテナンス、Repair / リペア、Overhaul / オーバーホールを意味し、航空機業界でも使用されています」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「365日体制で、お客様をサポートするMROセンタを紹介します」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「お客様のご要望や技術課題に最適なソリューションのご提案を行います」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「お客様に万全なアフターサービスをご提供するため、世界各地に大規模なパーツセンタを設けています」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「お客様毎に専任スタッフがご案内いたします」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「MXの導入事例」（https://www.dmgmori.co.jp/knowledge/mx/・1回目）
+- お金の形：
+  - 「お見積りや実機デモのご依頼など、」（https://logi.toyota-lf.com/case/case021/・3回目）
+  - 「ユーザーは金属積層造形機による高品質な受託加工を初期投資なしに利用でき、ワークの発注は1個から対応可能だ」（https://monoist.itmedia.co.jp/mn/articles/2204/15/news033.html・3回目）
+- いくら：
+  - 「並行2スピンドルターニングセンタ」（https://www.dmgmori.co.jp/・1回目）
+  - 「並行2スピンドルターニングセンタTOP」（https://www.dmgmori.co.jp/・1回目）
+  - 「並行2スピンドルターニングセンタ」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「並行2スピンドルターニングセンタTOP」（https://www.dmgmori.co.jp/support/・1回目）
+  - 「並行2スピンドルターニングセンタ」（https://www.dmgmori.co.jp/topics/・1回目）
+  - 「並行2スピンドルターニングセンタTOP」（https://www.dmgmori.co.jp/topics/・1回目）
+  - 「並行2スピンドルターニングセンタ」（https://www.dmgmori.co.jp/knowledge/mx/・1回目）
+  - 「並行2スピンドルターニングセンタTOP」（https://www.dmgmori.co.jp/knowledge/mx/・1回目）
+  - 「並行2スピンドルターニングセンタ」（https://www.dmgmori.co.jp/knowledge/category/?type=customer_case・1回目）
+  - 「並行2スピンドルターニングセンタTOP」（https://www.dmgmori.co.jp/knowledge/category/?type=customer_case・1回目）
+  - 「並行2スピンドルターニングセンタ」（https://www.dmgmori.co.jp/knowledge/category/?type=case・1回目）
+  - 「並行2スピンドルターニングセンタTOP」（https://www.dmgmori.co.jp/knowledge/category/?type=case・1回目）
+- 検索結果の抜粋：
+  - 「DMG森精機 の 代理店 - Metoree — DMG森精機 の 代理店 - Metoree Metoree https://metoree.com > 会社一覧 > DMG森精機株式会社」（https://metoree.com/companies/14388/distributors/・3回目）
+  - 「DMG森精機 子会社のテクニウム、Formlabsと販売 代理店契約 ... — DMG森精機 子会社のテクニウム、Formlabsと販売 代理店契約 ... MONOist https://monoist.itmedia.co.jp > articles > news022」（https://monoist.itmedia.co.jp/mn/articles/2506/04/news022.html・3回目）
+  - 「DMG森精機 — DMG森精機 dmgmori.co.jp https://www.dmgmori.co.jp」（https://www.dmgmori.co.jp/・3回目）
+  - 「古河 on X: " DMG森精機 が 代理店 を切って直販体制移行した ... — 古河 on X: " DMG森精機 が 代理店 を切って直販体制移行した ... X https://x.com > @frkw6220」（https://x.com/frkw6220/status/2020055013608100013・3回目）
+  - 「DMG森精機 、国内販売体制見直し 代理店 46社と連携強化 — DMG森精機 、国内販売体制見直し 代理店 46社と連携強化 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXLZO02595210Q6A520C1L91000/・3回目）
+  - 「DMG森精機 株式会社 様｜お客様 導入事例 ｜トヨタL&F — DMG森精機 株式会社 様｜お客様 導入事例 ｜トヨタL&F トヨタL&F物流システム特設サイト https://logi.toyota-lf.com > case > case021」（https://logi.toyota-lf.com/case/case021/・3回目）
+  - 「DMG森精機 株式会社様 | 導入事例 - クオリカ — DMG森精機 株式会社様 | 導入事例 - クオリカ クオリカ株式会社 https://www.qualica.co.jp > case > dmgmori_201504」（https://www.qualica.co.jp/ja/case/dmgmori_201504.html・3回目）
+  - 「【 DMG森精機 】株価・日経最新ニュース[6141] | 日本経済新聞 — 【 DMG森精機 】株価・日経最新ニュース[6141] | 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company」（https://www.nikkei.com/nkd/company/?scode=6141・3回目）
+  - 「DMG森精機 が金属積層 造形 機による 受託 加工サービスを開始 — DMG森精機 が金属積層 造形 機による 受託 加工サービスを開始 MONOist https://monoist.itmedia.co.jp > articles > news033」（https://monoist.itmedia.co.jp/mn/articles/2204/15/news033.html・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部5頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部5頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部5頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部5頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部5頁・検索4回）
+
+## ExOne株式会社（ExOne KK）
+- 公式URL：https://www.exone.com/（given）
+- 誰から：
+  - 「With locations across Germany, North America, and Asia as well as a worldwide partner and service network, we stay close to your markets. Short response times, local support, and global best practices – all from a single source.」（https://www.exone.com/en/・1回目）
+  - 「ExOne is represented worldwide. Discover our locations and find your local partner.」（https://www.exone.com/en/about-us/・1回目）
+  - 「Partner: Global Axis」（https://www.exone.com/en/about-us/events-trade-shows/・1回目）
+  - 「Anzu Partners, a US-based industrial technology investment firm, announced today that ExOne Global Holdings is combining ExOne and voxeljet under a common holding structure.」（https://www.exone.com/en/about-us/press-releases/・1回目）
+  - 「voxeljet China remains your local partner as the exclusive ExOne distributor.」（https://www.exone.com/en/about-us/press-releases/・1回目）
+  - 「Industrial customers run our systems for mission-critical production, and judge a partner by uptime, repeatability and customer economics. That is exactly what our aftermarket network is built to protect.」（https://www.exone.com/en/aftermarket/・1回目）
+  - 「FKM Sintertechnik installed the VX1000 HSS — the largest ink-based polymer printer — and became its first partner in the voxeljet HSS Polymer Network.」（https://www.exone.com/en/ressources/case-studies/・1回目）
+  - 「TITAL GmbH is specialized in investment casting. For the production of high-quality aluminum and titanium investment castings, the medium-sized company — part of the US Howmet Aerospace group since 2015 — relies on 3D-printed PMMA patterns in addition to the lost-wax process from its partner ExOne.」（https://www.exone.com/en/additive-manufacturing/case-studies/3d-printed-pmma-patterns-for-aerospace-casting/・1回目）
+  - 「ExOne Locations & Service Partners Worldwide」（https://www.exone.com/en/about-us/locations/・1回目）
+  - 「Partnerships for the energy transition」（https://www.exone.com/en/about-us/history/・1回目）
+  - 「A strategic realignment brought the two pioneers together. Through 2024 and 2025, Anzu Partners — a U.S. industrial-technology investor — acquired both voxeljet and ExOne GmbH, and in October 2025 unified them under ExOne Global Holdings.」（https://www.exone.com/en/about-us/history/・1回目）
+  - 「voxeljet GmbH, a leading provider of high-speed, large-format 3D printers and on-demand parts services, has launched a new project for engineering a 3D printing system of unprecedented scale. The new machine – called VX7000 – is tailored to the requirements of an international industrial partner and will feature a build volume of approximately 7,000 x 7,000 x 1,000 mm³.」（https://www.exone.com/en/press-releases/vx7000-the-new-benchmark-in-large-format-3d-printing-enters-customer-production/・1回目）
+- 何をする：
+  - 「第一実業がExOneと日本国内における販売代理店契約を締結 ｜ 世界の3Dプリンターニュース「セカプリ」」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「セミナー・書籍」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「第一実業がExOneと日本国内における販売代理店契約を締結」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「東京都千代田区に本社を置く総合機械商社の第一実業株式会社が、ドイツの工業用ハイエンド3DプリンターメーカーのExoneと、日本国内における販売代理店契約を締結した」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「第一実業のプレスリリースによると、本契約締結により同社はExOneの砂型3Dプリンターおよび技術を幅広く提案することが可能となり、鋳造業界をはじめとする国内製造業のユーザーに対し、用途や生産条件に応じた最適なソリューションを提供できる体制を構築してゆくとしている」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「第一実業は2019年にドイツのヴォクセルジェットと販売代理店契約を締結し、日本国内において砂型3Dプリンターの販売および技術サポートを行ってきた」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「2025年にExOneとヴォクセルジェットが統合されたことを受け、第一実業が両ブランドの日本国内における販売窓口を担当することで合意し、ExOneと販売代理店契約を締結することに至ったという」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「販売代理店契約」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「UGEEが子供向け3Dプリンター「Funbox」の販売を開始」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「産業用3Dプリンター大手ExOne社と販売代理店契約を締結」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+  - 「～鋳造プロセスの効率化・高度化支援を加速～ | ニュースリリース | 第一実業株式会社」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+  - 「セミナー・展示会」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+- 誰に：
+  - 「第一実業のプレスリリースによると、本契約締結により同社はExOneの砂型3Dプリンターおよび技術を幅広く提案することが可能となり、鋳造業界をはじめとする国内製造業のユーザーに対し、用途や生産条件に応じた最適なソリューションを提供できる体制を構築してゆくとしている」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「鋳造業界をはじめとする国内製造業のお客様に対し、用途や生産条件に応じた最適なソリューションを提供できる体制を構築していきます」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+  - 「特に、試作開発、少量多品種生産、大型鋳物向けの砂型造形など、顧客ニーズに応じた提案を強化します」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+  - 「第一実業は今後、試作開発や少量多品種生産、大型鋳物向けの砂型造形などを中心に、顧客の用途や生産条件に応じた提案を強化する」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「食品業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「アパレル・インテリア業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「医療業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「その他業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「建設業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「産業機器業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「自動車業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「航空宇宙業界事例」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+- お金の形：
+  - 「フォームラブズが低価格SLA3Dプリンター「フォーム・スタジオ1」を…」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「※バインダージェッティング方式：砂などの粉末材料に液体結合剤（バインダー）を局所的に噴射し、層ごとに結合・造形する3Dプリント技術」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+  - 「粉末状の材料を薄く敷き、その必要な部分に液体の結合剤（バインダー）を噴射して固める工程を繰り返し、立体物を造形する3Dプリント方式」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「価格は上にあげたSWORKS、TREKの半分以下」（https://katuochannel.com/vactors/・3回目）
+- いくら：
+  - 「全世界の食品3Dプリンター市場が2033年に54億8340万ドル規模へ成長」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「全世界の建設3Dプリンティング市場が2033年に51兆4000億ドル規模へ…」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「全世界の医療用3Dプリンティング市場が2034年に574億ドル規模へ成長」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「アマエロがNASDAQに上場、1570万ドルの資金を調達」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「米Beehive Industries、約44億円で空軍契約獲得 3Dプリント製ジェットエンジン量産へ前進」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「AI 3DのMeshy、約637億円を調達 3Dプリント対応AIエージェントや自動分割機能を発表」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「AIによる3Dモデル生成プラットフォームを開発するMeshyは2026年7月21日、シリーズBラウンドで約4億ドル（1ドル＝159.25円換算で約637億円）を…」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+- 検索結果の抜粋：
+  - 「第一実業が ExOne と日本国内における販売 代理店契約 を締結 — 第一実業が ExOne と日本国内における販売 代理店契約 を締結 セカプリ https://sekapri.com > business」（https://sekapri.com/business/20260907-21386/・3回目）
+  - 「産業用3Dプリンター大手 ExOne 社と販売 代理店契約 を締結 ... — 産業用3Dプリンター大手 ExOne 社と販売 代理店契約 を締結 ... 第一実業株式会社 https://www.djk.co.jp > news > detail」（https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0・3回目）
+  - 「ExOne と国内販売 代理店契約 を締結―voxeljetと合わせ砂型3D ... — ExOne と国内販売 代理店契約 を締結―voxeljetと合わせ砂型3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済」（https://news.sharelab.jp/3dp-news/ir/djk-exone-sand-3d-printer-260915/・3回目）
+  - 「【第一実業】産業用3Dプリンター大手 ExOne 社と販売 代理店 ... — 【第一実業】産業用3Dプリンター大手 ExOne 社と販売 代理店 ... 朝日新聞 https://www.asahi.com > and > pressrelease」（https://www.asahi.com/and/pressrelease/16869247・3回目）
+  - 「ExOne : Industrial 3D Printer Systems | Binder Jetting — ExOne : Industrial 3D Printer Systems | Binder Jetting ExOne https://www.exone.com > ...」（https://www.exone.com/en/・3回目）
+  - 「ExOne - YouTube — ExOne - YouTube YouTube https://www.youtube.com > ExOne3D」（https://www.youtube.com/user/ExOne3D・3回目）
+  - 「【 EXone 】外構・エクステリア工事専門店 – 年間工事件数 ... — 【 EXone 】外構・エクステリア工事専門店 – 年間工事件数 ... exterior-exone.com https://exterior-exone.com」（https://exterior-exone.com/・3回目）
+  - 「ExOne ExCast Program / 3D Printing for Sand Casting — ExOne ExCast Program / 3D Printing for Sand Casting YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ENKSgeVOHwM・3回目）
+  - 「ExOne (@ExOneCo) - Facebook — ExOne (@ExOneCo) - Facebook Facebook https://www.facebook.com > ... > Industrial Company」（https://www.facebook.com/ExOneCo/・3回目）
+  - 「EXONE SPWS GRX 12s - vactors.jp — EXONE SPWS GRX 12s - vactors.jp vactors.jp https://vactors.jp > product > exone-spws-grx-820」（https://vactors.jp/product/exone-spws-grx-820/・3回目）
+  - 「Sand 3D Printers for Foundries | Molds & Cores | ExOne — Sand 3D Printers for Foundries | Molds & Cores | ExOne ExOne https://www.exone.com > ...」（https://www.exone.com/en/3d-printers_overview/3d-printers_sand-casting/・3回目）
+  - 「ExOne 3D Core & Mold Printing - YouTube — ExOne 3D Core & Mold Printing - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=0Q0iHS-9Ti0・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部10頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部10頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部10頁・検索4回）
+
+## FIT Japan株式会社（名古屋）
+- 公式URL：https://fit.technology/（given）
+- 事業内容：•ご来店されたお客様へのコーディネート提案・接客・レジ対応 •店長不在時の責任者業務 •商品の検品、品出し、ディスプレイの変更（VMD） •スタッフの評価及び育成、サポート業務 •店内の清掃や在庫管理 など 【韓国でも日本でも人気のMatin Kimの名古屋パルコ店で副店長を募集します！】 店長とともに特別感のあるストア作り、店長不在時の店舗責任者業務をお任せします◎ 日本国内の名古屋パルコ店を一緒に作り上げていける副店長を大募集します★ チームで（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E5%8F%97%E8%A8%97+%E9%80%A0%E5%BD%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 誰から：
+  - 「Vom Prototyp bis zur Serie – über 15 Technologien, ein Partner.」（https://fit.technology/・1回目）
+  - 「RESEARCH PARTNERS」（https://fit.technology/・1回目）
+  - 「Case Study: FIT.technology as an agile development partner for rapid prototyping solutions」（https://fit.technology/index.php?module=news&action=index&from-action=index.php・1回目）
+  - 「FIT Prototyping partners with BRUDER」（https://fit.technology/index.php?module=news&action=index&from-action=index.php・1回目）
+  - 「We are happy to be the partner of BRUDER Spielwaren GmbH + Co. KG. In their new image film "BRUDER Product Development: From the Idea to the Toy" you can see our part in the creation of the toy transporter model "Sprinter" in the Rapid Prototyping section.」（https://fit.technology/index.php?module=news&action=index&from-action=index.php・1回目）
+  - 「Case Study: FIT.technology as an agile development partner for rapid prototyping solutions」（https://fit.technology/index.php?module=news&action=index&from-action=verfahren・1回目）
+  - 「FIT Prototyping partners with BRUDER」（https://fit.technology/index.php?module=news&action=index&from-action=verfahren・1回目）
+  - 「We are happy to be the partner of BRUDER Spielwaren GmbH + Co. KG. In their new image film "BRUDER Product Development: From the Idea to the Toy" you can see our part in the creation of the toy transporter model "Sprinter" in the Rapid Prototyping section.」（https://fit.technology/index.php?module=news&action=index&from-action=verfahren・1回目）
+  - 「Case Study: FIT.technology as an agile development partner for rapid prototyping solutions」（https://fit.technology/index.php?module=news&action=index&from-action=materialien・1回目）
+  - 「FIT Prototyping partners with BRUDER」（https://fit.technology/index.php?module=news&action=index&from-action=materialien・1回目）
+  - 「We are happy to be the partner of BRUDER Spielwaren GmbH + Co. KG. In their new image film "BRUDER Product Development: From the Idea to the Toy" you can see our part in the creation of the toy transporter model "Sprinter" in the Rapid Prototyping section.」（https://fit.technology/index.php?module=news&action=index&from-action=materialien・1回目）
+  - 「Case Study: FIT.technology as an agile development partner for rapid prototyping solutions」（https://fit.technology/index.php?module=news&action=index&from-action=qualitaet・1回目）
+- 何をする：
+  - 「【応募資格】 [必須] ・接客販売や営業等でのマネジメント経験（人数不問） ・普通自動車免許（AT限定可） [歓迎] ・アパレル/保険/訪販等のご経験 ・ExcelやPowerPointの使用経験 【フィットする人物像】 ・人との関わりが好きな方 ・サポート業務や管理業務が得意な方 【職種名】 名古屋市(愛知)代理店サポート・全国トップクラスの高級服飾メーカー／ 【仕事内容】 担当エリアの代理店に対し、売上や販売促進など代理店管理営業をチームで行っていただきます」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【具体的には…】 ・代理店の売上向上と販売促進を支援 ・代理店向け懇親会、イベント企画、立案、運営、サポート ・担当代理店の販売」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「フットウェア・アパレルブランドの販売スタッフ」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【栄】ホカ／フットウェアの接客販売／未経験OK！派手髪＆ネイル可◎制服全身貸与 これまでの経験を活かして、より高収入を目指せる！まずは「お仕事内容」「給与」「お休み」などの条件をチェック！ 募集要項 【雇用形態】 契約社員 【給与】 年俸 2,550,000円～3,000,000円 年俸制：年俸を12分割した金額を月々支給 月給換算：212,500円～250,000円 ・残業手当 ・繁忙期手当 ・別途インセンティブ支給(業績に応じて変動) ◆想定年収：2,870,500円～3,370,000円 └四半期ごとに100％達成した場合のインセンティブ支給額を含んだ想定 ※給与はご経験」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「名古屋／HOKA 販売スタッフ 業界・職種未経験歓迎 グローバルスポーツブランド／面接1回」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「Ｄｅｃｋｅｒｓ Ｊａｐａｎ合同会社 【名古屋】HOKA 販売スタッフ ◇ 業界・職種未経験歓迎 ◇ グローバルスポーツブランド/面接1回 【仕事内容】 【名古屋】HOKA 販売スタッフ ◇ 業界・職種未経験歓迎 ◇ グローバルスポーツブランド/面接1回 【具体的な仕事内容】 ■業務概要：接客販売に関わる業務全般をお任せします」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「・シューズの接客販売、3Dフットスキャナーによる最適なシューズの提案 ・HOKA RUN CLUBのサポート ・商品管理（納品・返品・ストック整理） ・販売促進（ディスプレイの変更など） ■はたらく環境：<服装/髪型> HOKAのアパレル/シューズ着用（すべて」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「株式会社シャンデール 【名古屋】法人営業※代理店に対してのサポート／ミドル・シニア活躍中／残業月20H 【仕事内容】 【名古屋】法人営業※代理店に対してのサポート／ミドル・シニア活躍中／残業月20H 【具体的な仕事内容】 【代理店サポートとして販売促進支援やイベント企画、運営サポートなどをお任せします／マネジメント経験が活かせる！／7H勤務・残業月20H程度／年間休日124日／ワークライフバランス◎】 ■担当業務： 上質な体型補整下着を製造し、代理店を通じ販売する同社にて、代理店の営業活動をサポートする担当者を募集いたします」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「※アパレル関係の経験者、百貨店での販売経験者、60～70代の」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「販売スタッフ／「エンハーブ ジェイアール名古屋タカシマヤ店／契約社員求人」店舗スタッフ「ハーブアドバイザー」」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「販売スタッフ／理美容商品／名古屋市中村区エリア家電量販店」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「■接客販売が好き/得意な方、求む！ 大手有名家電メーカーの販売スタッフとして、電動シェーバー、電動歯ブラシ、光美容器といった理美容・健康家電製品をお客様へご案内し、販売いただくお仕事です」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 誰に：
+  - 「問い合わせ対応や既存顧客との継続的なやり取りが中心です」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「司法書士／司法書士 業界屈指の高収入＆働きやすさ みなし残業なし！ 司法書士会費全額負担」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「採用担当の久保田と申します 当事務所は、様々な働き方を尊重する、自由な雰囲気が特徴です また、気持ちよく働いていただけるよう、待遇の改善にも日々力を入れています ▼業務内容 ・各種債務整理手続（訴訟、任意整理、破産、民事再生など） ・各種登記手続（不動産、商業、法人、成年後見など） ・相続手続 業界最大級の事務所だからこそ出来る、手厚いサポート体制が自慢です！ (1)完全分業制 部署ごとの分業制で、事務所全体の効率化を図っており、みなし残業はありません！有給取得や勤務時間の変更など、柔軟に対応出来る環境です (2)経験豊富な先輩司法書士が100名以上 それぞれの専門分野に」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「まずは既存の取引先からお任せします！既存顧客への定期訪問 ご要望に合った商品の提案 見積書の作成 納品後のフォロー など 慣れてきたら新規の企業様へのご提案もお任せ！ オンラインによる受注・発注業務、売上・仕入管理、 現場発送手配、適正在庫管理などあらゆる業務がシステム管理され」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「名古屋／HOKA 販売スタッフ 業界・職種未経験歓迎 グローバルスポーツブランド／面接1回」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「Ｄｅｃｋｅｒｓ Ｊａｐａｎ合同会社 【名古屋】HOKA 販売スタッフ ◇ 業界・職種未経験歓迎 ◇ グローバルスポーツブランド/面接1回 【仕事内容】 【名古屋】HOKA 販売スタッフ ◇ 業界・職種未経験歓迎 ◇ グローバルスポーツブランド/面接1回 【具体的な仕事内容】 ■業務概要：接客販売に関わる業務全般をお任せします」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「お客様一人ひとりのお悩みや気になる事に耳を傾けながら、ぴったりのハーブを選び、お客様に「ハーブのある暮らし」をご提案」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「あなたの提案で、お客様の“より良く生きる”に貢献することができ、「ありがとう」を頂く喜びが感じられます」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「■接客販売が好き/得意な方、求む！ 大手有名家電メーカーの販売スタッフとして、電動シェーバー、電動歯ブラシ、光美容器といった理美容・健康家電製品をお客様へご案内し、販売いただくお仕事です」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【お仕事のポイント】 近年、日本国内や海外問わず、美容や健康志向が高まっており、商品に興味のあるお客様や購買意欲のあるお客様が多く来店されています」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「導入事例 アーカイブ - ジョンソンヘルステックジャパン｜フィットネスマシン専門メーカー」（https://johnsonjapan.com/domestic-example?srsltid=AYCX9vKInRDE6vhlJ__5T01VZhm0K6lwNlBECIe84qdgA-0r5qc4Z9vh・3回目）
+  - 「導入事例｜Abada Club-Madrid, Spain」（https://johnsonjapan.com/domestic-example?srsltid=AYCX9vKInRDE6vhlJ__5T01VZhm0K6lwNlBECIe84qdgA-0r5qc4Z9vh・3回目）
+- お金の形：
+  - 「メール・電話での提案や見積もり作成、新規アプローチもお任せします」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「まずは既存の取引先からお任せします！既存顧客への定期訪問 ご要望に合った商品の提案 見積書の作成 納品後のフォロー など 慣れてきたら新規の企業様へのご提案もお任せ！ オンラインによる受注・発注業務、売上・仕入管理、 現場発送手配、適正在庫管理などあらゆる業務がシステム管理され」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「施設管理スタッフ★未経験大歓迎！≪駅チカで通いやすい♪名古屋市守山区≫ 急募！◆真面目で責任感のある方募集中★未経験の方でもしっかりサポート♪ 施設管理スタッフ ・施設の運営、管理（開館・閉館・巡回など） ・利用者対応（申込受付・料金授受・案内・相談）等のお仕事です」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E5%8F%97%E8%A8%97+%E9%80%A0%E5%BD%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- いくら：
+  - 「月給23万円〜40万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円〜480万円」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収400万円〜749万円 / 賞与・昇給あり」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収300万円 / 昇給あり」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収255万円〜300万円」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「【栄】ホカ／フットウェアの接客販売／未経験OK！派手髪＆ネイル可◎制服全身貸与 これまでの経験を活かして、より高収入を目指せる！まずは「お仕事内容」「給与」「お休み」などの条件をチェック！ 募集要項 【雇用形態】 契約社員 【給与】 年俸 2,550,000円～3,000,000円 年俸制：年俸を12分割した金額を月々支給 月給換算：212,500円～250,000円 ・残業手当 ・繁忙期手当 ・別途インセンティブ支給(業績に応じて変動) ◆想定年収：2,870,500円～3,370,000円 └四半期ごとに100％達成した場合のインセンティブ支給額を含んだ想定 ※給与はご経験」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収303.6万円〜460.8万円」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収500万円〜1,200万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給20.2万円 / 賞与・ボーナスあり」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「月給30万円〜65万円」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「時給1,400円〜1,500円」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「年収255万円〜340万円 / 昇給あり」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+- 検索結果の抜粋：
+  - 「FIT Japan (名古屋) 代理店 契約 - 愛知県名古屋市の求人情報 （1,356件） — FIT Japan (名古屋) 代理店 契約 - 愛知県名古屋市の求人情報 （1,356件） スタンバイ」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E4%BB%A3%E7%90%86%E5%BA%97+%E5%A5%91%E7%B4%84&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「FIT Japan 株式会社｜法人番号 9180001128491 — FIT Japan 株式会社｜法人番号 9180001128491 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報」（https://lawplayer.com/jp/company/9180001128491・3回目）
+  - 「株） フィット プランニング｜ 名古屋 の総合保険 代理店 千種駅 ... — 株） フィット プランニング｜ 名古屋 の総合保険 代理店 千種駅 ... fit-planning.com https://fit-planning.com」（https://fit-planning.com/・3回目）
+  - 「名古屋 南店 | フィット イージー［ FIT -EASY］ 店舗サイト — 名古屋 南店 | フィット イージー［ FIT -EASY］ 店舗サイト shops.fiteasy.jp https://shops.fiteasy.jp > shop26」（https://shops.fiteasy.jp/shop26・3回目）
+  - 「フィットネスジムFIT365 名古屋 守山 — フィットネスジムFIT365 名古屋 守山 FIT365 https://fit365.jp > 愛知県」（https://fit365.jp/nagoyamoriyama/・3回目）
+  - 「FIT Japan (名古屋) 受託 造形 - 愛知県名古屋市の求人情報 （11,257件） — FIT Japan (名古屋) 受託 造形 - 愛知県名古屋市の求人情報 （11,257件） スタンバイ」（https://jp.stanby.com/search?l=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82&q=fit+japan+%28+%29+%E5%8F%97%E8%A8%97+%E9%80%A0%E5%BD%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「⑥J・3D（AM EXPO 名古屋 ） - YouTube — ⑥J・3D（AM EXPO 名古屋 ） - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=3vbSmGdrGQY・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像15件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像15件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像15件／外部12頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像15件／外部12頁・検索4回）
+
+## GAM(群馬積層造形プラットフォーム)/共和産業株式会社
+- 公式URL：https://gam.or.jp/（search:yahoo_jp:GAM(群馬積層造形プラットフォーム)/共和産業）
+- 誰から：
+  - 「海外の最先端技術と日本のものづくり技術を統合したAM ワークフローより【自社製フィラメントの開発・」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+  - 「を活用した独自の設計提案とコンサルティングサービス】【自社製3D プリンタ”3IxD(スリーイクシット)”に」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+- 何をする：
+  - 「積層造形の適用相談から高度技術サポートまで幅広く実用化をサポート」（https://gam.or.jp/・1回目）
+  - 「積層造形に未経験の方から、すでに実践されている方まで、幅広いニーズにお応えできる教育プログラムを提供します」（https://gam.or.jp/services/・1回目）
+  - 「積層造形に必要な設備や３Dデータ作成ソフトウェアをお持ちでない方も、GAMが提供する施設を用いて教育を受けることができます」（https://gam.or.jp/services/・1回目）
+  - 「※ 現在新規教育プログラムを検討中です」（https://gam.or.jp/services/・1回目）
+  - 「従来型の金属加工との違いや、積層造形の中にある様々なプロセスとその特徴を理解することで、適用する製品の選択と積層造形の価値を最大化するためのプロセスの選択、設計が重要となります」（https://gam.or.jp/services/・1回目）
+  - 「教育プログラムについて」（https://gam.or.jp/services/・1回目）
+  - 「「コンサルは無料」、「試作は100万円まで群馬県が補助」します」（https://gam.or.jp/news/・1回目）
+  - 「「コンサルは無料」、「試作は100万円まで群馬県が補助」します」（https://gam.or.jp/2026/06/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/・1回目）
+  - 「本事業は、GAMが県内企業に幅広く募集活動を行い、応募企業の課題やニーズなどを審査し合格した3社に対し、各ニーズに応じ、金属積層造形技術に知見を有する会員企業の協力を得て技術コンサルテーション及び試作造形支援を実施したものです」（https://gam.or.jp/2026/05/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%AE%9F%E6%96%BD%E7%B5%90%E6%9E%9C/・1回目）
+  - 「⑴ 初期コンサルテーション」（https://gam.or.jp/2026/05/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%AE%9F%E6%96%BD%E7%B5%90%E6%9E%9C/・1回目）
+  - 「応募企業の生産現場から適用を検討している部品やプロセスを確認し、課題や問題点を抽出した上で、３D金属積層造形技術の適用の可能性等の評価を行うとともに、最も価値を出すための造形方針を提案しました（初期コンサルはイラスト）」（https://gam.or.jp/2026/05/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%AE%9F%E6%96%BD%E7%B5%90%E6%9E%9C/・1回目）
+  - 「⑵ 試作造形」（https://gam.or.jp/2026/05/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%AE%9F%E6%96%BD%E7%B5%90%E6%9E%9C/・1回目）
+- 誰に：
+  - 「積層造形により新たな価値を創造し、『ものづくり』産業界の発展に貢献します」（https://gam.or.jp/about-us/・1回目）
+  - 「2015年に初開催した前身の3D Printing展から9年連続継続開催している国内有数の歴史あるAM技術総合展であり、最先端製品・技術が披露されるほか、ユーザーを含む国内外有識者が応用事例・市場動向などを発信するカンファレンスも同時開催される、産学官・国内外の参加者が集まるイベントとなっています」（https://gam.or.jp/2023/12/06/tct-japan-2024%EF%BC%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-am%E6%8A%80%E8%A1%93%E3%81%AE%E7%B7%8F%E5%90%88%E5%B1%95%EF%BC%89%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A/・1回目）
+  - 「大陽日酸様は３Dプリンターだけではなく、使用するガスや金属粉末の技術、熱処理などを含めて総合的にお客様にサービスや製品をご提供されている強味を感じました」（https://gam.or.jp/2023/09/27/9%E6%9C%8822%E6%97%A5%E5%A4%A7%E9%99%BD%E6%97%A5%E9%85%B8%E6%A7%98%E5%B1%B1%E6%A2%A8%E4%BA%8B%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F/・1回目）
+  - 「ことによりお客様の要望に対して柔軟な対応を可能としております」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+  - 「また、研究開発にも力を注ぎ、お客様の「現状使用しているがこの部分を改善したい」や「この特性を持つ」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+  - 「た高付加価値の材料をお客様へ提案します」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+  - 「今回、GAM 入会させて頂き、日本 AM 業界の更なる発展のための一助になれれば幸いです」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+  - 「キャステック様は業界でいち早く⾦属 3D プリンターを導入し、従来の加工方法と融合したプロセスに」（https://gam.or.jp/wp-content/uploads/2023/06/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B46%E6%9C%88%E5%8F%B7-6.pdf・2回目）
+  - 「お客様の重要な製品に”付加価値の性能向上させる"ことができ」（https://gam.or.jp/wp-content/uploads/2023/04/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B44%E6%9C%88%E5%8F%B7.docx.pdf・2回目）
+  - 「自社での研究開発だけではなく、実際の顧客やパートナーと組んだ材料開発のための試作が既」（https://gam.or.jp/wp-content/uploads/2023/04/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B44%E6%9C%88%E5%8F%B7.docx.pdf・2回目）
+  - 「つながり始めた国内 AM 業界」（https://gam.or.jp/wp-content/uploads/2023/07/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B42%E6%9C%88%E5%8F%B7-1.pdf・2回目）
+  - 「4 つの業界団体幹部に聞く、次の一手とは？ ＞」（https://gam.or.jp/wp-content/uploads/2023/07/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B42%E6%9C%88%E5%8F%B7-1.pdf・2回目）
+- お金の形：
+  - 「金属粉末の結合を積み重ねる（足し算）ことより必要なものの形を作る」（https://gam.or.jp/services/・1回目）
+  - 「応募企業はいずれもGAMの提示した試作造形の見積書に同意し、ご注文をいただいたため、各モデルの試作造形に至りました」（https://gam.or.jp/2026/05/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%AE%9F%E6%96%BD%E7%B5%90%E6%9E%9C/・1回目）
+  - 「大陽日酸株式会社様では３D金属積層造形プリンターの販売や、積層造形で使用するガスや金属粉末など、さまざまな金属積層造形に関する事業を展開されています」（https://gam.or.jp/2023/09/27/9%E6%9C%8822%E6%97%A5%E5%A4%A7%E9%99%BD%E6%97%A5%E9%85%B8%E6%A7%98%E5%B1%B1%E6%A2%A8%E4%BA%8B%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F/・1回目）
+  - 「大陽日酸様は３Dプリンターだけではなく、使用するガスや金属粉末の技術、熱処理などを含めて総合的にお客様にサービスや製品をご提供されている強味を感じました」（https://gam.or.jp/2023/09/27/9%E6%9C%8822%E6%97%A5%E5%A4%A7%E9%99%BD%E6%97%A5%E9%85%B8%E6%A7%98%E5%B1%B1%E6%A2%A8%E4%BA%8B%E6%A5%AD%E6%89%80%E3%82%92%E8%A8%AA%E5%95%8F/・1回目）
+  - 「社装置や実例の紹介、それらに加え、最適な状態で金属粉末を管理、シールドガス純度を良い状態で」（https://gam.or.jp/wp-content/uploads/2023/10/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B410%E6%9C%88%E5%8F%B7-2.pdf・2回目）
+  - 「今回は 3 月 17 日に金属粉末材料の研究開発を行なう株式会社プロテ」（https://gam.or.jp/wp-content/uploads/2023/04/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B44%E6%9C%88%E5%8F%B7.docx.pdf・2回目）
+  - 「GAM 会員からも多くの質問があり、金属粉末につい」（https://gam.or.jp/wp-content/uploads/2023/04/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B44%E6%9C%88%E5%8F%B7.docx.pdf・2回目）
+  - 「そこで引き合いがあった現地企業から試作の見積もりを求められたのですが、金型でつくる場合と総削りでつくる場合のほかに、「金属3Dプリンタを使った場合の見積もりも出してください」と当たり前のように言われたのです」（https://kojomag.nikkan.co.jp/kata/kanto/190・3回目）
+  - 「それで金属3D プリンタで対応できるところを国内で探したのですが見つからず、米国の競合メーカーはすべて見積もりを出しているのに、結局当社は見積もりを出せませんでした」（https://kojomag.nikkan.co.jp/kata/kanto/190・3回目）
+  - 「米国では金属3D プリンタの見積もりをとるのは当たり前という感じなのですか」（https://kojomag.nikkan.co.jp/kata/kanto/190・3回目）
+  - 「だから、そういうところから見積もりをとるのは日常レベル」（https://kojomag.nikkan.co.jp/kata/kanto/190・3回目）
+  - 「アメリカのNASCARレースに参戦している日本人ドライバー尾形明紀選手のサポートを行なっているつながりから、アメリカで「砂型鋳造」「インゴット削り出し」「3Dプリンタ」と部品製造に関する見積依頼があり、「金属の3Dプリンタ？」と当時まだ日本では金属積層技術は広まっておらず、慌てて探したところGAMを見つけ参画したと振り返った」（https://car.watch.impress.co.jp/docs/news/1501417.html・3回目）
+- いくら：
+  - 「「コンサルは無料」、「試作は100万円まで群馬県が補助」します」（https://gam.or.jp/news/・1回目）
+  - 「「コンサルは無料」、「試作は100万円まで群馬県が補助」します」（https://gam.or.jp/2026/06/02/3d%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/・1回目）
+  - 「群馬県が実施する「３D金属積層実用化支援事業」としてAM実用化のコンサル（無料）と試作造形（群馬県から最大50万円の補助）を行なっております」（https://gam.or.jp/news/page/2/・1回目）
+  - 「群馬県が実施する「３D金属積層実用化支援事業」としてAM実用化のコンサル（無料）と試作造形（群馬県から最大50万円の補助）を行なっております」（https://gam.or.jp/2025/08/01/am%E3%81%AB%E3%82%88%E3%82%8B%E8%A9%A6%E4%BD%9C%E9%80%A0%E5%BD%A2%E5%8F%82%E5%8A%A0%E4%BC%81%E6%A5%AD%E5%8B%9F%E9%9B%86%E3%80%80%EF%BC%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E7%84%A1%E6%96%99%E3%80%81/・1回目）
+  - 「料）と試作造形（群馬県から最大50万円の補助）を行なっております」（https://gam.or.jp/wp-content/uploads/2025/09/GAM-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC2025%E5%B9%B49%E6%9C%88%E5%8F%B7.pdf・2回目）
+  - 「（無料）と試作造形（群馬県から最大50万円の補助）を行なっております」（https://gam.or.jp/wp-content/uploads/2025/09/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC2025%E5%B9%B48%E6%9C%88%E5%8F%B7.pdf・2回目）
+  - 「様でご受講いただき、125 万円（消費税１０％別）のプログラムですが、厚生労働省の「人材開発⽀」（https://gam.or.jp/wp-content/uploads/2023/09/GAM%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%80%802023%E5%B9%B49%E6%9C%88%E5%8F%B7.docx-1.pdf・2回目）
+  - 「試作造形（費用支援最大１００万円） ※詳細は募集要領をご覧ください」（https://www.tec-lab.pref.gunma.jp/info/etc/%E3%80%8C%EF%BC%93%EF%BD%84%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E5%AE%9F%E7%94%A8%E5%8C%96%E6%94%AF%E6%8F%B4%E3%80%8D%E5%8F%82%E5%8A%A0%E4%BC%81%E6%A5%AD%E5%8B%9F%E9%9B%86%E3%81%AB%E3%81%A4%E3%81%84/・3回目）
+  - 「同社代表取締役の鈴木宏子氏は、「1人20万円でミシュランが世界で蓄積したノウハウを学べ、実践もできるのは非常にお得だったと感じています」と述べた」（https://news.sharelab.jp/interviews/gam-230526/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/interviews/gam-230526/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/interviews/gam-230526/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/interviews/gam-230526/・3回目）
+- 検索結果の抜粋：
+  - 「GAM Members - 群馬積層造形プラットフォーム — GAM Members - 群馬積層造形プラットフォーム 群馬積層造形プラットフォーム https://gam.or.jp > gam-members」（https://gam.or.jp/gam-members/・3回目）
+  - 「About Us - 群馬積層造形プラットフォーム — About Us - 群馬積層造形プラットフォーム 群馬積層造形プラットフォーム https://gam.or.jp > about-us」（https://gam.or.jp/about-us/・3回目）
+  - 「群馬積層造形プラットフォーム : Home — 群馬積層造形プラットフォーム : Home 群馬積層造形プラットフォーム https://gam.or.jp」（https://gam.or.jp/・3回目）
+  - 「GAM メンバーによるこれまでの成果発表について — GAM メンバーによるこれまでの成果発表について 群馬積層造形プラットフォーム https://gam.or.jp > 未分類」（https://gam.or.jp/2023/05/17/gam%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E6%88%90%E6%9E%9C%E7%99%BA%E8%A1%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/・3回目）
+  - 「群馬 から世界へ！AM技術の探索マップを通じて GAM が ... — 群馬 から世界へ！AM技術の探索マップを通じて GAM が ... ShareLab NEWS https://news.sharelab.jp > 独自記事」（https://news.sharelab.jp/interviews/gam-230526/・3回目）
+  - 「GAM と日本ミシュラン、デジタルものづくり体験会開催 小学6 ... — GAM と日本ミシュラン、デジタルものづくり体験会開催 小学6 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/681979・3回目）
+  - 「群馬積層造形プラットフォーム (@gunma_am_pf) - Instagram — 群馬積層造形プラットフォーム (@gunma_am_pf) - Instagram Instagram https://www.instagram.com > gunma_am_pf」（https://www.instagram.com/gunma_am_pf/・3回目）
+  - 「GAM （ 群馬積層造形プラットフォーム ）の活動 新領域に — GAM （ 群馬積層造形プラットフォーム ）の活動 新領域に ミシュランタイヤ https://news.michelin.co.jp > articles > 20230127-new-ph...」（https://news.michelin.co.jp/articles/20230127-new-phase-of-gam-activity・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索5回）
+
+## HDC
+- 公式URL：https://hdc3d.com（given）
+- 誰から：
+  - 「HDC has been in the 3d printing industry for over 20 years. Currently we are an official distributor for Solukon in South Korea, Japan, Singapore, MX3D for South Korea and Japan, Meltio for South Korea, Adaxis for South Korea and Japan.」（https://hdc3d.com/・1回目）
+  - 「We provide industry-leading solutions for metal additive manufacturing, large-scale composite 3D printing, robotic automation, and post-processing. As an official distributor of world-renowned brands — Solukon, CEAD, Adaxis, Meltio, and MX3D — we help you bring complex, innovative designs to life with unmatched efficiency and precision.」（https://hdc3d.com/about/・1回目）
+  - 「We are dedicated to transforming the manufacturing landscape by delivering advanced additive manufacturing and robotic solutions to our clients. As an official distributor for global leaders, we support companies from prototyping to full-scale production, enabling them to achieve higher quality, speed, and design freedom.」（https://hdc3d.com/about/・1回目）
+  - 「Also in South Korea, we are official distributors for brands such as EOS GmbH, Materialise, Nanodimension.」（https://hdc3d.com/about/・1回目）
+  - 「STRONG GLOBAL PARTNERSHIP」（https://hdc3d.com/about/・1回目）
+  - 「HDC IS A RESELLER FOR MX3D IN SOUTH KOREA AND JAPAN」（https://hdc3d.com/about-waam/・1回目）
+  - 「HDC IS A RESELLER FOR CEAD IN SOUTH KOREA AND JAPAN」（https://hdc3d.com/about-lfam/・1回目）
+  - 「Rivelin Robotics & Solukon Partnership to Progress Automated Powder Removal & Finishing for Metal AM」（https://hdc3d.com/use-case/・1回目）
+  - 「Interfacial and CEAD Launch Strategic Partnership to Accelerate Innovation in Large-Format Additive Manufacturing」（https://hdc3d.com/use-case/・1回目）
+  - 「CEAD Partners with MAQcenter to Expand LFAM Solutions in Spain」（https://hdc3d.com/use-case/・1回目）
+  - 「Interfacial and CEAD Launch Strategic Partnership to Accelerate Innovation in Large-Format Additive Manufacturing」（https://hdc3d.com/usecasecead/・1回目）
+  - 「CEAD Partners with MAQcenter to Expand LFAM Solutions in Spain」（https://hdc3d.com/usecasecead/・1回目）
+- 何をする：
+  - 「ドローン購入・レンタル」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「プレスリリース」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「建設計画と現場管理のために使用されます」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「効率的な運営には、良い建設計画を立て、それに応じて現場を管理する必要があります」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「スムーズな建設計画を立てるためには、どの資材を早く上げる必要があるのか、どの資材はかさばるためどれくらいの余裕スペースが必要かなど、さまざまな条件を考慮する必要があります」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「建設計画は最新の状況に基づいているため、計画の充実度、完成度、そして人々の理解度など、すべての面で改善されました」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「アパート複合施設では、用途に応じて主建物（実際に人々が住む建物）と付帯建物（販売施設および付帯施設、地下駐車場を含む）に分けられます」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「建設決済を管理できるということは、逆算計算や打設計画も可能であることを意味します」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「メイサの専門家が、現場規模・工種に合わせた最適なプラットフォーム導入プランを一緒に設計します」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「ヒビノデータコム株式会社は、産業型遠隔監視システム及びIT-LANを構成する機器の販売とそれに伴うエンジニアリングを行う会社です」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「弊社は防犯カメラをメインで販売しているのですが、その使用方法別に商品を並べたりもしています」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「そんな時に、スマホ版の「動く！商品棚」がリリースされて「これは！」と思いすぐ始めてみました」（https://bspace.jp/case-detail-8-html・3回目）
+- 誰に：
+  - 「Meissa Platform導入事例 | IPARK現代産業開発のMeissa導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「Meissaソリューション導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「顧客導入事例 |」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「建設のお客様事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「メイサのソリューションが建設現場をどう変えるのか、お客様の導入事例でご覧ください」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「ウミ建設 全社導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「コーロングローバル 土木現場の導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「ロッテ建設 集合住宅現場の導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「東部建設 公共施設現場の導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「大林組 DX導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「大宇建設 集合住宅現場の導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「KCC建設 土木現場の導入事例」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+- お金の形：
+  - 「料金プラン・対応機器」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「都度バナーを差し替える対応が非常に手間」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「1度購入した後に買い足そうとすると、セット価格が反映できず、結局金額が高くついてしまうので、お客様にとっても「お得なセットをこちらにご用意していますよ！」というPRをきちんと訴求できます」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「ご利用料金と」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「本サービスは毎月26日から翌月25日迄を1カ月間としてご利用料金をご請求いたします」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「ご解約された場合、ご解約された日にかかわらず1カ月間のご利用料金をご請求いたします」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「B-Spaceの利用料金のご請求はYahoo!ショッピングの運営にかかる請求項目に追加され、現在のお支払い方法のままご利用いただけます」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「1カ月無料特典適用期間中に解約された場合、B-Spaceのご利用料金は無料です」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「2020年3月25日までにごお申込みいただき、料金プランを1サービスまたは2サービスで継続されているストア様は、料金プランを使い放題プランへ任意でアップグレードすることができます」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「なお、使い放題プランへアップグレード後に、1サービスまたは2サービスへ料金プランをダウングレードすることはできませんので、十分ご留意ください」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「料金プランのアップグレードや、解約の手続きは、毎月26日から翌月25日までの間に1回までです」（https://bspace.jp/case-detail-8-html・3回目）
+  - 「料金プランのアップグレードをした同じ月には解約ができませんので、十分ご留意ください」（https://bspace.jp/case-detail-8-html・3回目）
+- いくら：
+  - 「合計3000円以上で送料無料●毎週日・月は楽天ペイの日、楽天ポイント最大3.5％」（https://kakaku.com/item/K0001355191/・3回目）
+  - 「税込3,000円以上で送料無料！」（https://kakaku.com/item/K0001355191/・3回目）
+  - 「商品名 型式 希望小売価格(税別) 発売時期 当初販売台数」（https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 HDC 様と業務提携 契約 締結のお知らせ ... - ブルーテック — 株式会社 HDC 様と業務提携 契約 締結のお知らせ ... - ブルーテック ブルーテック株式会社 https://www.bluetec.co.jp > news > document」（https://www.bluetec.co.jp/news/document.html?year=2024&id=20241015-257338c0・3回目）
+  - 「IPARK現代産業開発のMeissa 導入事例 - 메이사 — IPARK現代産業開発のMeissa 導入事例 - 메이사 meissa.ai https://www.meissa.ai > case-studies > usecase-hdc-dvp」（https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp・3回目）
+  - 「HDC トータルプロショップ様インタビュー | 導入事例 - B-Space — HDC トータルプロショップ様インタビュー | 導入事例 - B-Space bspace.jp https://bspace.jp > 導入事例」（https://bspace.jp/case-detail-8-html/・3回目）
+  - 「その他 事例 紹介 - 株式会社HDC — その他 事例 紹介 - 株式会社HDC 株式会社HDC https://hdcweb.lilac.co.jp > service > その他-事例紹介」（https://hdcweb.lilac.co.jp/service/%E3%81%9D%E3%81%AE%E4%BB%96-%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B/・3回目）
+  - 「高精度コレットホルダ HDC ・A | NTツール | MISUMI(ミスミ) — 高精度コレットホルダ HDC ・A | NTツール | MISUMI(ミスミ) MISUMI https://jp.misumi-ec.com > vona2 > detail」（https://jp.misumi-ec.com/vona2/detail/223005004893/?srsltid=AYCX9vIhy0oV_EbAOTonio5NGnDMPmps9gz7lywfACN7LiloFlFj_JCl・3回目）
+  - 「ミヨシ HDC -H30/BK [3m] 価格 比較 — ミヨシ HDC -H30/BK [3m] 価格 比較 価格.com https://kakaku.com > ... > ランキング > ミヨシ(MCO)」（https://kakaku.com/item/K0001355191/・3回目）
+  - 「「i．mega」シリーズ新製品（ HDC −2）を発売 — 「i．mega」シリーズ新製品（ HDC −2）を発売 Hitachi Global PDF https://www.hitachi.co.jp > hl_030714_hl_030714」（https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf・3回目）
+  - 「プライム会員向けNews2 | hdc -atlas.com — プライム会員向けNews2 | hdc -atlas.com hdc-atlas.com https://www.hdc-atlas.com > news-2」（https://www.hdc-atlas.com/news-2・3回目）
+  - 「HDC -EUシリーズ | USB2.0/1.1接続 コンパクトモデル — HDC -EUシリーズ | USB2.0/1.1接続 コンパクトモデル I-O DATA https://www.iodata.jp > product > hdd > hdd > hdc-eu」（https://www.iodata.jp/product/hdd/hdd/hdc-eu/・3回目）
+  - 「ロボット3Dプリンター - Additive Manufacturing — ロボット3Dプリンター - Additive Manufacturing hdc3d.com https://hdc3d.com > ...」（https://hdc3d.com/ja/・3回目）
+- 設立：記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）
+
+## IBARAKIスペースサプライネットワーク
+- 公式URL：https://space.pref.ibaraki.jp/（given）
+- 誰に：
+  - 「IBARAKIスペースサプライネットワークでは、スピードと信頼性が重視される宇宙機器開発において、お客様のご相談に迅速に対応いたします」（https://space.pref.ibaraki.jp/・1回目）
+  - 「ご相談内容を基に、IBARAKIスペースサプライネットワーク参画企業からお客様のニーズに合った企業を当事務局がご紹介いたします」（https://space.pref.ibaraki.jp/・1回目）
+  - 「IBARAKIスペースサプライネットワークでは、スピードと信頼性が重視される宇宙機器開発において、お客様のご相談に迅速に対応いたします」（https://space.pref.ibaraki.jp/aboutus/・1回目）
+- お金の形：
+  - 「宇宙関連部品のご依頼やお見積り、宇宙ビジネスに関するご相談・ご質問、当ネットワーク参画企業への問い合わせなどがございましたら、」（https://space.pref.ibaraki.jp/・1回目）
+  - 「宇宙関連部品のご依頼やお見積り、宇宙ビジネスに関するご相談・ご質問、当ネットワーク参画企業への問い合わせなどがございましたら、」（https://space.pref.ibaraki.jp/aboutus/・1回目）
+  - 「宇宙関連部品のご依頼やお見積り、宇宙ビジネスに関するご相談・ご質問、」（https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/・3回目）
+- いくら：
+  - 「三和ニードル・ベアリング株式会社」（https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/・3回目）
+- 検索結果の抜粋：
+  - 「IBARAKIスペースサプライネットワーク | 茨城発、宇宙への ... — IBARAKIスペースサプライネットワーク | 茨城発、宇宙への ... IBARAKIスペースサプライネットワーク https://space.pref.ibaraki.jp」（https://space.pref.ibaraki.jp/・3回目）
+  - 「IBARAKIスペースサプライネットワーク 発足・PRイベント ... — IBARAKIスペースサプライネットワーク 発足・PRイベント ... jspacesystems.or.jp https://www.jspacesystems.or.jp > news」（https://www.jspacesystems.or.jp/news/4546.html/・3回目）
+  - 「IBARAKIスペースサプライネットワーク 事業紹介 - イプロス — IBARAKIスペースサプライネットワーク 事業紹介 - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > すべての製品・サービス」（https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/・3回目）
+  - 「終了 IBARAKIスペースサプライネットワーク 発足・PRイベント — 終了 IBARAKIスペースサプライネットワーク 発足・PRイベント crossu.org https://www.crossu.org > event」（https://www.crossu.org/event/241031it/・3回目）
+  - 「参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 — 参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 IBARAKIスペースサプライネットワーク https://space.pref.ibaraki.jp > participating-companies-2」（https://space.pref.ibaraki.jp/participating-companies-2/・3回目）
+  - 「参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 — 参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 IBARAKIスペースサプライネットワーク https://space.pref.ibaraki.jp > participating-companies」（https://space.pref.ibaraki.jp/participating-companies/・3回目）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+- 誰から：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）
+
+## JFEエンジニアリング
+- 公式URL：https://www.jfe-eng.co.jp/（given）
+- 設立：2003年4月1日（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 設立：2022年12月（https://prtimes.jp/main/html/rd/p/000000079.000121022.html・3回目）
+- 従業員数：約11,000人（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 従業員数：約 11,000 人(グループ会社含む)（https://prtimes.jp/main/html/rd/p/000000079.000121022.html・3回目）
+- 従業員数：1,000名以上（2017年8月現在）（https://www.gaba.co.jp/corp/case/business/012.html・3回目）
+- 事業内容：主要製品等 ガス・石油・水道パイプライン、LNG・LPG等各種タンク、太陽光・地熱・バイオマス等再生可能エネルギー発電設備、都市ごみ焼却炉、水処理システム、使用済みプラスチック等のリサイクルサービス、橋梁・港湾構造物、物流流通システム・エンジン・シールド掘進機・バラスト水処理システム等の産業機械、製銑・製鋼・ミニミル関連設備、EV（電気自動車）急速充電器等（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 事業内容：AIに関する研究、開発、設計、企画、教育、販売、保守、コンサルティング業務（https://prtimes.jp/main/html/rd/p/000000079.000121022.html・3回目）
+- 誰から：
+  - 「海外廃棄物発電分野、スイスEnergieLink社との資本業務提携 ～欧州WtEプラントのアフターサービス事業に参入～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「JFEエンジニアリングと住友三井オートサービス バッテリー交換式EVの社会実装に向けた提携に合意 ～自治体・民間企業のモビリティの脱炭素化と、持続可能な地域・物流インフラを構築～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「さらに、本工事では当社がこれまで培ってきた大口径水道用鋼管の製作・据付・現場溶接技術に加え、自社開発の内面塗装機や溶接品質管理システム、施工記録を一元管理する「IT管理システム」など最新のノウハウも駆使して遂行します」（https://www.jfe-eng.co.jp/news/2026/20260917.html・1回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/information/・1回目）
+  - 「私たちJFEエンジニアリングは、ソリューションの立案、設計、建設から事業運営まで一貫してグループの総合力で支えます」（https://www.jfe-eng.co.jp/information/・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/information/company.html・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/products/・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/products/environment/・1回目）
+  - 「ごみ焼却施設やリサイクル施設などの廃棄物処理プラントの設計・建設・運営を展開」（https://www.jfe-eng.co.jp/products/environment/・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/products/aqua/・1回目）
+  - 「JFEエンジニアリンググループ は、浄水場・下水処理場の設計・建設から運営管理まで一貫して提供」（https://www.jfe-eng.co.jp/products/aqua/・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/products/energy/・1回目）
+  - 「LNG受入基地、火力発電所、バイオマス発電などの設計・建設を手がけます」（https://www.jfe-eng.co.jp/products/energy/・1回目）
+  - 「ニュースリリース」（https://www.jfe-eng.co.jp/products/pipeline/・1回目）
+- 誰に：
+  - 「お取引先の皆様」（https://www.jfe-eng.co.jp/・1回目）
+  - 「EEA域内のお取引先の皆様の個人データの取扱に関する通知」（https://www.jfe-eng.co.jp/・1回目）
+  - 「お取引先の皆様」（https://www.jfe-eng.co.jp/information/・1回目）
+  - 「EEA域内のお取引先の皆様の個人データの取扱に関する通知」（https://www.jfe-eng.co.jp/information/・1回目）
+  - 「お取引先の皆様」（https://www.jfe-eng.co.jp/information/company.html・1回目）
+  - 「EEA域内のお取引先の皆様の個人データの取扱に関する通知」（https://www.jfe-eng.co.jp/information/company.html・1回目）
+  - 「お取引先の皆様」（https://www.jfe-eng.co.jp/products/・1回目）
+  - 「EEA域内のお取引先の皆様の個人データの取扱に関する通知」（https://www.jfe-eng.co.jp/products/・1回目）
+  - 「お取引先の皆様」（https://www.jfe-eng.co.jp/products/environment/・1回目）
+  - 「EEA域内のお取引先の皆様の個人データの取扱に関する通知」（https://www.jfe-eng.co.jp/products/environment/・1回目）
+  - 「お取引先の皆様」（https://www.jfe-eng.co.jp/products/aqua/・1回目）
+  - 「EEA域内のお取引先の皆様の個人データの取扱に関する通知」（https://www.jfe-eng.co.jp/products/aqua/・1回目）
+- お金の形：
+  - 「料金・プラン」（https://prtimes.jp/main/html/rd/p/000000079.000121022.html・3回目）
+  - 「お問い合わせ・お見積り」（https://www.gaba.co.jp/corp/case/business/012.html・3回目）
+- いくら：
+  - 「において、カーボンニュートラルの実現とサーキュラーエコノミーの推進を通じて社会に貢献し、2035年利益1,000億円の達成を目指しています」（https://www.jfe-eng.co.jp/news/2026/20261015.html・1回目）
+  - 「元日本マイクロソフト業務執行役員 澤 円 氏、東京ガス株式会社 常務執行役員 CDO・ソリューション共創本部長 清水 精太 氏を講師に迎え講演を実施」（https://www.jfe-eng.co.jp/news/2026/20261015.html・1回目）
+  - 「142億6,800万円 （税抜き）」（https://www.jfe-eng.co.jp/news/2026/20260917.html・1回目）
+  - 「Copyright © 2021 JFE Engineering Corporation All Rights Reserved. うち海外:2,000億円」（https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf・2回目）
+  - 「世界でのSDGs貢献を高めるため、事業規模1兆円を目指す」（https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf・2回目）
+  - 「4,857億円」（https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf・2回目）
+  - 「うち海外:460億円」（https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf・2回目）
+  - 「2030年 事業規模1兆円」（https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf・2回目）
+  - 「ジャケット ・ 円弧状のアーク矢板の作用土圧は、通常土圧と同じですか？ ・ 同じです」（https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf・2回目）
+  - 「・ アーク矢板の根入れはどうやって決まりますか？ ・ 円弧すべりにより決まります」（https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf・2回目）
+  - 「※ 打設手順を教えて下さい ※ サドルプレートを先行し、続いて直線形鋼矢板になります」（https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf・2回目）
+  - 「（サドルプレートの打設精度を確保し、アーク矢板の精度・施工スピードを向上させます）」（https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf・2回目）
+- 検索結果の抜粋：
+  - 「JFEエンジニアリング の 代理店 - Metoree — JFEエンジニアリング の 代理店 - Metoree Metoree https://metoree.com > ... > JFEエンジニアリング株式会社」（https://metoree.com/companies/16393/distributors/・3回目）
+  - 「JFEエンジニアリング 株式会社 — JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp」（https://www.jfe-eng.co.jp/・3回目）
+  - 「東京都の「 JFEエンジニアリング 」の 代理店 5社 | Metoree — 東京都の「 JFEエンジニアリング 」の 代理店 5社 | Metoree Metoree https://metoree.com > ... > JFEエンジニアリングの代理店」（https://metoree.com/companies/16393/distributors/tokyo/・3回目）
+  - 「サイトご利用にあたって | JFEエンジニアリング 株式会社 — サイトご利用にあたって | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > terms」（https://www.jfe-eng.co.jp/terms.html・3回目）
+  - 「JFEエンジニアリング 株式会社 | 導入事例 - テラスカイ — JFEエンジニアリング 株式会社 | 導入事例 - テラスカイ 株式会社テラスカイ https://www.terrasky.co.jp > case > salesforce_jfe」（https://www.terrasky.co.jp/case/salesforce_jfe.php・3回目）
+  - 「【 事例 紹介】 JFEエンジニアリング 様とのAI活用 ... - PR TIMES — 【 事例 紹介】 JFEエンジニアリング 様とのAI活用 ... - PR TIMES PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000079.000121022.html・3回目）
+  - 「導入事例 ： JFEエンジニアリング 株式会社 | 法人向け英語研修 ... — 導入事例 ： JFEエンジニアリング 株式会社 | 法人向け英語研修 ... Gaba https://www.gaba.co.jp > corp > case > business」（https://www.gaba.co.jp/corp/case/business/012.html・3回目）
+  - 「【 事例 紹介】 JFEエンジニアリング 様とのAI活用 事例 を公開 ... — 【 事例 紹介】 JFEエンジニアリング 様とのAI活用 事例 を公開 ... 株式会社Elith https://www.elith.ai > post > 【事例紹介】jfeエンジニアリ...」（https://www.elith.ai/post/%E3%80%90%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B%E3%80%91jfe%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A7%98%E3%81%A8%E3%81%AEai%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F・3回目）
+  - 「活躍する社員の声 | 風土改革 | JFE エンジニアリング 株式会社 — 活躍する社員の声 | 風土改革 | JFE エンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > single-1」（https://www.jfe-eng.co.jp/dx/single-1.html・3回目）
+  - 「電力小売事業 | JFEエンジニアリング 株式会社 — 電力小売事業 | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > 事業・製品 > 電力ビジネス」（https://www.jfe-eng.co.jp/products/electric-power/electric01.html・3回目）
+  - 「福利厚生 | 新卒採用 | JFEエンジニアリング 株式会社 — 福利厚生 | 新卒採用 | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > saiyou > environment > benefit」（https://www.jfe-eng.co.jp/saiyou/environment/benefit/・3回目）
+  - 「JFEエンジニアリング とJFEプラントエンジの比較 「社員 ... — JFEエンジニアリング とJFEプラントエンジの比較 「社員 ... OpenWork https://www.openwork.jp > ... > JFEエンジニアリング」（https://www.openwork.jp/a0910000000G1Lp/compa/a0910000000G1Lw/・3回目）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像8件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像8件／外部8頁・検索4回）
+
+## JX金属
+- 公式URL：https://www.jx-nmm.com/（given）
+- 従業員数：連結：10,413名 単体：3,267名 (2025年3月31日現在)（https://www.jx-nmm.com/company/about.html・1回目）
+- 事業内容：薄膜材料事業 タンタル・ニオブ事業 機能材料事業 金属・リサイクル事業 資源事業（https://www.jx-nmm.com/company/about.html・1回目）
+- 事業内容：薄膜材料事業／タンタル・ニオブ事業／機能材料事業／金属・リサイクル事業／資源事業（https://kintone-sol.cybozu.co.jp/cases/JX.html・3回目）
+- 誰から：
+  - 「自社開発浴をベースにした当社プロセスの特徴」（https://www.jx-nmm.com/products/ubm/・1回目）
+  - 「自社開発の独自めっきプロセスにより電位差軽減」（https://www.jx-nmm.com/products/ubm/・1回目）
+  - 「【https://www.biz-partnership.jp/declaration/122947-05-15-tokyo.pdf】」（https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf・2回目）
+  - 「6 出典：Prismark Partners LLC “The Printed Circuit Report Fourth Quarter / February 2024”」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「業・大学との提携等を通じて促進いたします」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.jx-nmm.com/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/products/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/news_summary/・1回目）
+  - 「ニュースリリース一覧」（https://www.jx-nmm.com/news_summary/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/message.html・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/policy/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/glance/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/industry/・1回目）
+  - 「ＪＸ金属は、資源・製錬から電子材料の製造・販売、使用済み機器からのリサイクルまでグローバルに事業を展開しています」（https://www.jx-nmm.com/company/industry/・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/about.html・1回目）
+  - 「ニュースリリース」（https://www.jx-nmm.com/company/chart.html・1回目）
+- 誰に：
+  - 「取引先の皆様への積極的な関連情報の提供により、取引を一層緊密にし、相互信頼のパートナー関係を構築してまいります」（https://www.jx-nmm.com/company/purchase/・1回目）
+  - 「当社のコア技術である圧延加工技術、組成・組織制御技術を駆使して、お客様ご要望の強度、曲げ加工性、導電率（電気抵抗率）に応じた製品を幅広く取り揃えております」（https://www.jx-nmm.com/products/copper_foil_and_alloy/・1回目）
+  - 「当社は圧延銅箔を用途やお客様の仕様に合わせ、ワンストップサービスでご提供致します」（https://www.jx-nmm.com/products/copper_foil_and_alloy/・1回目）
+  - 「リードフレーム、コネクタ、プリント配線板等様々な電子材料に使用されており、お客様より高い評価を頂いております」（https://www.jx-nmm.com/products/surface_treatment/・1回目）
+  - 「顧客のニーズが多様化するとともに、ヒーターも様々な形状が必要となります」（https://www.jx-nmm.com/products/mosi/・1回目）
+  - 「当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめと」（https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf・2回目）
+  - 「済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏ま」（https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf・2回目）
+  - 「２．取引先への配慮」（https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf・2回目）
+  - 「また、消費税の免税事業者との取引関係についても、政府が公表する免税事業者及びその取引先のイ」（https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf・2回目）
+  - 「めとした各種の半導体デバイスの製造に用いられており、半導体市場が成長し、主要顧客の新工場稼働が予」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「 今後は、半導体需要の拡大、特に先端半導体の成長を見据えて、引き続き顧客ニーズに合致する開発・材料」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「 当社はこれまで、優れた耐屈曲性・耐振性等を有する銅箔の生産技術を活かし、エンドユーザーに対して直」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+- お金の形：
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/products/・1回目）
+  - 「世界有数のタンタルとニオブの材料メーカーであるTANIOBIS GmbHを中心に、コンデンサや半導体材料用の金属粉、SAWデバイスや光学レンズ用の酸化物、半導体用の塩化物、高機能粉末材料などの安定供給を通じ、IoT・AI社会の発展に貢献しています」（https://www.jx-nmm.com/company/glance/・1回目）
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/company/glance/・1回目）
+  - 「高い技術力を誇る高純度粉末を供給することで、社会の発展に貢献しています」（https://www.jx-nmm.com/company/industry/・1回目）
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/products/copper_foil_and_alloy/・1回目）
+  - 「また、長年の研究開発ならびに生産活動を通し築いた、高純度化・低介在物鋳造・粉末冶金・組織制御などの技術をもとに、新たな時代に求められる新製品の開発についても積極的に取り組んでおります」（https://www.jx-nmm.com/products/sputtering/・1回目）
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/products/sputtering/・1回目）
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/products/compound_semiconductors_and_crystal_materials/・1回目）
+  - 「その用途は最先端LSIの配線形成から、3Dプリンター、粉末冶金製品まで多岐にわたっています」（https://www.jx-nmm.com/products/metallic_powder/・1回目）
+  - 「ＪＸ金属グループ各社において、特徴のある3Dプリンター用各種金属粉末の開発・製造を行っております」（https://www.jx-nmm.com/products/metallic_powder/・1回目）
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/products/metallic_powder/・1回目）
+  - 「Pbフリーピエゾ粉末材料」（https://www.jx-nmm.com/products/ceramics/・1回目）
+- いくら：
+  - 「▲355億円含む）」（https://www.jx-nmm.com/company/glance/・1回目）
+  - 「造幣局向け10円硬貨用円形銅版の製造」（https://www.jx-nmm.com/company/history.html・1回目）
+  - 「四角形、円形、その他」（https://www.jx-nmm.com/products/ubm/・1回目）
+  - 「（円筒領域の均熱性に優れる）」（https://www.jx-nmm.com/products/mosi/・1回目）
+  - 「• 今後3 年間で約2,700億円の投資を予定しております」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「それにより、2023 年3 月期からの投資総額は当初想定の約2,000億円規模から約1,500億円規模となる」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「2,000億円削減いたしました」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「2024 年3 月期においては、約30億円の営業利」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「益の改善（対2023 年3 月期実績） 、約200億円の運転資本改善（対2023 年3 月期実績）、 約550億円の投資」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「連結 約720 億円 約860 億円 CAGR 10% ～ 15% (2024年3 月期-2028年3 月期)」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「フォーカス事業 約550 億円 約270 億円 CAGR 35% ～ 40% (2024年3 月期-2028年3 月期)」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+  - 「（目標値策定の前提として、為替は2025年3 月期140円/ドル・2026年3 月期以降135円/ドル、銅価は2025年3 月」（https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049・2回目）
+- 検索結果の抜粋：
+  - 「「 JX金属 」の 代理店 10社 注目ランキング【2026年】 - Metoree — 「 JX金属 」の 代理店 10社 注目ランキング【2026年】 - Metoree Metoree https://metoree.com > 会社一覧 > JX金属株式会社」（https://metoree.com/companies/3232/distributors/・3回目）
+  - 「海外グループ会社 - JX金属 — 海外グループ会社 - JX金属 jx-nmm.com https://www.jx-nmm.com > ... > 事業所・グループ会社」（https://www.jx-nmm.com/company/network/overseas/・3回目）
+  - 「銅精鉱の購入・電気銅等の販売に係る事業の統合 ... - JX金属 — 銅精鉱の購入・電気銅等の販売に係る事業の統合 ... - JX金属 jx-nmm.com https://www.jx-nmm.com > ... > 2026年度」（https://www.jx-nmm.com/newsrelease/2026/20260528_01.html・3回目）
+  - 「「 JX金属 商事」の 代理店 3社 注目ランキング【2026年】 — 「 JX金属 商事」の 代理店 3社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > JX金属商事株式会社」（https://metoree.com/companies/46208/distributors/・3回目）
+  - 「新宿区】半導体関連製品の営業（海外 代理店 支援／残業20時間 ... — 新宿区】半導体関連製品の営業（海外 代理店 支援／残業20時間 ... doda https://doda.jp > ... > ＪＸ金属商事株式会社の求人情報」（https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016312887/・3回目）
+  - 「HPE 事例 - JX金属 株式会社 様 — HPE 事例 - JX金属 株式会社 様 Hewlett Packard Enterprise https://www.hpe.com > psnow > doc」（https://www.hpe.com/psnow/doc/a00136927jpn・3回目）
+  - 「JX金属 | 事例 | kintone（キントーン） - サイボウズ — JX金属 | 事例 | kintone（キントーン） - サイボウズ サイボウズ株式会社 https://kintone-sol.cybozu.co.jp > cases > JX」（https://kintone-sol.cybozu.co.jp/cases/JX.html・3回目）
+  - 「PHONE APPLI PEOPLE 導入事例 ｜ JX金属 株式会社 — PHONE APPLI PEOPLE 導入事例 ｜ JX金属 株式会社 株式会社PHONE APPLI https://phoneappli.net > casestudy > casestudy-39」（https://phoneappli.net/casestudy/casestudy-39/・3回目）
+  - 「J-CCOREs 導入事例 JX金属 株式会社 - JFEシステムズ — J-CCOREs 導入事例 JX金属 株式会社 - JFEシステムズ ＪＦＥシステムズ株式会社 https://biz.jfe-systems.com > case > jx-group」（https://biz.jfe-systems.com/case/jx-group・3回目）
+  - 「【 導入事例 】先端素材のリーダー JX金属 様｜AWSで実現する ... — 【 導入事例 】先端素材のリーダー JX金属 様｜AWSで実現する ... フューチャーウェブ https://media.future.ad.jp > case-jxnmm」（https://media.future.ad.jp/case-jxnmm・3回目）
+  - 「【 JX金属 】株価・日経最新ニュース[5016] | 日本経済新聞 — 【 JX金属 】株価・日経最新ニュース[5016] | 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company」（https://www.nikkei.com/nkd/company/?scode=5016・3回目）
+  - 「JX金属 (5016) : 株価/予想・目標株価 [JX Advanced Metals] — JX金属 (5016) : 株価/予想・目標株価 [JX Advanced Metals] みんかぶ https://minkabu.jp > 株価検索」（https://minkabu.jp/stock/5016・3回目）
+- 設立：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）
+
+## K.K. IRISU（C. Illies & Co.; Illiesグループ）
+- 公式URL：https://www.illies.com/（given）
+- 誰から：
+  - 「ILLIES is your sales and project partner for the conception, implementation, and after-sales support of machinery, equipment, and complex processing systems for manufacturing industries in Asian markets.」（https://www.illies.com/・1回目）
+  - 「We are proud to announce the successful Factory Acceptance Test (FAT) of the manual VeloVac vacuum packer at the headquarters of our esteemed partner Greif Velox in Lübeck, Germany.」（https://www.illies.com/・1回目）
+  - 「"The pace at which processes change within Asian markets has accelerated significantly. Due to a long-standing presence, cultural sensibility, differentiated knowledge of Asian markets, and highly motivated employees, ILLIES possesses indispensable qualities to successfully work a market in cooperation with our business partners."」（https://www.illies.com/・1回目）
+  - 「About ILLIES | Your Partner for Industrial Sales & Projects in Asia」（https://www.illies.com/about-illies・1回目）
+  - 「sales and project partner」（https://www.illies.com/about-illies・1回目）
+  - 「In 1957 ILLIES opens a branch office and a service department in Seoul. Kiel Bong Park joins ILLIES at the recommendation of SAMSUNG founder B.C. Lee. Park later becomes partner in the firm in Korea and helps expand its portfolio beyond textile machines serving the fast growing Korean economy.」（https://www.illies.com/about-illies・1回目）
+  - 「Carl-Heinz Illies takes over the fourth generation management. In 1967 Klaus Lindhorst – who later becomes partner – joins the company and takes the helm in Tokyo, and responsibility for the Asian offices. They jointly manage the ILLIES GROUP during the next 35 years and lead the company to new heights.」（https://www.illies.com/about-illies・1回目）
+  - 「A Manila-based partnership with Antonio and John Rocha under the name of ILLIES ENGINEERING (PHILS.) INC. is founded.」（https://www.illies.com/about-illies・1回目）
+  - 「With C. Michael Illies, the family's fifth generation takes the helm in 1995. Together with his partners André Piédavent and Rolf Strerath, he forms the new management board.」（https://www.illies.com/about-illies・1回目）
+  - 「Managing Partner - CEO」（https://www.illies.com/about-illies・1回目）
+  - 「Managing Partner - Strategy & Corporate Development」（https://www.illies.com/about-illies・1回目）
+  - 「We are always aware of our obligations towards our business partners, employees, and shareholders. Our goal is to provide value-adding functions. We strive to accomplish this by promoting innovative technology solutions and a comprehensive range of personal services.」（https://www.illies.com/about-illies・1回目）
+- 誰に：
+  - 「株式会社イリスは日本の製造業界のお客様に、機械・装置・複合加工システムを企画・導入し、アフターサービスを提供するプロジェクトパートナーです」（https://www.irisu.jp/・3回目）
+  - 「現在もイリスグループの重要拠点として印刷、紙加工、自動車、航空機、航空宇宙産業、食品、ゴム加工および品質保証システム、技術材料まで幅広い分野の技術製品とサービスを取り扱い、海外の最新の工作機械と技術を日本に紹介し、企業ユーザー向けプロジェクトマネジメントを専門的に提供しています」（https://japan.ahk.de/ja/membership/member-directory/irisu-k.k.-c.-illies-co.-ltd.・3回目）
+- 検索結果の抜粋：
+  - 「Company Overview - 株式会社イリス — Company Overview - 株式会社イリス irisu.net https://www.irisu.net > company-over...」（https://www.irisu.net/company-overview/・3回目）
+  - 「IRISU , K.K. ( C . Illies & Co ., Ltd.) - AHK Japan — IRISU , K.K. ( C . Illies & Co ., Ltd.) - AHK Japan AHK Japan https://japan.ahk.de > membership > i...」（https://japan.ahk.de/en/membership/member-directory/irisu-k.k.-c.-illies-co.-ltd.・3回目）
+  - 「K.K. IRISU ( C . ILLIES & CO ., LTD.) - 株式会社 イリス | LinkedIn — K.K. IRISU ( C . ILLIES & CO ., LTD.) - 株式会社 イリス | LinkedIn LinkedIn https://jp.linkedin.com > company > k-k-irisu-illies-japan」（https://jp.linkedin.com/company/k-k-irisu-illies-japan・3回目）
+  - 「K. K. IRISU : English — K. K. IRISU : English 株式会社イリス https://www.irisu.jp > ...」（https://www.irisu.jp/en/・3回目）
+  - 「株式会社 イリス K.K. IRISU ( C . ILLIES & CO .) - YouTube — 株式会社 イリス K.K. IRISU ( C . ILLIES & CO .) - YouTube YouTube https://www.youtube.com > @KKIrisu」（https://www.youtube.com/@KKIrisu・3回目）
+  - 「イリス 産業機械と設備の取扱いとサービス: Japanese — イリス 産業機械と設備の取扱いとサービス: Japanese 株式会社イリス https://www.irisu.jp」（https://www.irisu.jp/・3回目）
+  - 「News & Events - ILLIES — News & Events - ILLIES c. illies & co., ltd https://www.illies.com > news-events」（https://www.illies.com/news-events・3回目）
+  - 「IRISU , K.K. ( C . Illies & Co ., Ltd.) / 株式会社 イリス - AHK Japan — IRISU , K.K. ( C . Illies & Co ., Ltd.) / 株式会社 イリス - AHK Japan AHK Japan https://japan.ahk.de > irisu-k.k.-c.-illies-co.-ltd.」（https://japan.ahk.de/ja/membership/member-directory/irisu-k.k.-c.-illies-co.-ltd.・3回目）
+  - 「ILLIES JAPAN (K.K. IRISU , C . ILLIES & Co .) is participating ... — ILLIES JAPAN (K.K. IRISU , C . ILLIES & Co .) is participating ... c. illies & co., ltd https://www.illies.com > news-events > illies-japan-kk-iris...」（https://www.illies.com/news-events/illies-japan-kk-irisu-c-illies-co-is-participating-again-at-the-automotive-world-2026-at-tokyo-big-sight・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+- いくら：記載なし（3回確認済み：公式30頁／PDF・画像12件／外部12頁・検索4回）
+
+## Micro MIM Japan Holdings Inc.（Tasei Kogyo Co. Ltd.の一部門）
+- 公式URL：特定できず（not_found）
+- 誰から：
+  - 「The circles in our logo stand for all the people we serve: Customers, end users, partner companies, research and development institutions, employees and everyone else.」（https://www.micro-mim-europe.com/about-us・3回目）
+  - 「Our alliance partner companies」（https://www.micro-mim-europe.com/about-us・3回目）
+  - 「Our national and international research partner organisations」（https://www.micro-mim-europe.com/about-us・3回目）
+- 検索結果の抜粋：
+  - 「Micro MIM Japan Holdings Inc. - LinkedIn — Micro MIM Japan Holdings Inc. - LinkedIn LinkedIn https://de.linkedin.com > company」（https://de.linkedin.com/company/micro-mim-europe-gmbh・3回目）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 取引先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 何をする：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- いくら：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+
+## NKワークス株式会社
+- 公式URL：http://www.nk-works.co.jp（given）
+- 設立：1976年10月27日（https://nk-works.co.jp/overview.html・1回目）
+- 従業員数：58名（https://nk-works.co.jp/overview.html・1回目）
+- 誰から：
+  - 「輸入機器の専門商社ってどんな仕事？など分かりやすくご説明できればと思います！ぜひお気軽にお越しください！！」（https://nk-works.co.jp/・1回目）
+  - 「米ハース・オートメーション社の日本総代理店取引を開始 HFO JAPAN設立」（https://nk-works.co.jp/history.html・1回目）
+  - 「取扱メーカー・製品」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf・2回目）
+  - 「取扱メーカー・製品」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf・2回目）
+  - 「NKワークスは、アメリカの「ハース・オートメーション」の販売代理店です」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+- 何をする：
+  - 「NKワークスは試作市場＆微細・精密加⼯技術展に出展いたします」（https://nk-works.co.jp/・1回目）
+  - 「イギリス・Original AVG 社製「エアフィルター EXPEL® (エクスペル)シリーズ」の販売を開始しました」（https://nk-works.co.jp/・1回目）
+  - 「独 HWR社製・補正機能付き4つ爪チャック/バイスINOFlex®(イノフレックス)シリーズの販売を開始しました」（https://nk-works.co.jp/・1回目）
+  - 「イギリス・Wogaard社製「クーラントセーバー」の販売を開始いたしました」（https://nk-works.co.jp/・1回目）
+  - 「クーラント微細化ミキサー「リキッドカッター」の販売を開始いたしました」（https://nk-works.co.jp/・1回目）
+  - 「機械部品・治具設計・製作」（https://nk-works.co.jp/nk-jobshop.html・1回目）
+  - 「小ロットから、各種金属・樹脂製の部品の設計・製作をいたします」（https://nk-works.co.jp/nk-jobshop.html・1回目）
+  - 「工程設計、タイムスタディ、ツーリングターンキー請負、社内設備によるテストカット、カスタマイズチャック、特殊治具設計製作、NKモジュールツール設計製作、工具再研磨サービス、高圧ポンプ出荷検査およびオーバーホール」（https://nk-works.co.jp/overview.html・1回目）
+  - 「機械要素部品の設計製作拠点「つくばR&Dセンター」を竣⼯」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf・2回目）
+  - 「販売製品 販売客先1SPEVDUT $VTUPNFST」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf・2回目）
+  - 「機械要素部品の設計製作拠点「つくばR&Dセンター」を竣⼯」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf・2回目）
+  - 「販売製品 販売客先1SPEVDUT $VTUPNFST」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf・2回目）
+- 誰に：
+  - 「業界から探す」（https://nk-works.co.jp/・1回目）
+  - 「さらに「わが社のエース機」特集にはHAASユーザーの、シナノ産業さんが掲載されています！（P.216）」（https://nk-works.co.jp/・1回目）
+  - 「業界から探す」（https://nk-works.co.jp/company.html・1回目）
+  - 「業界から探す」（https://nk-works.co.jp/nk-jobshop.html・1回目）
+  - 「業界から探す」（https://nk-works.co.jp/overview.html・1回目）
+  - 「主要取引先一覧や、会社案内パンフレット・総合カタログもご覧いただけます」（https://nk-works.co.jp/overview.html・1回目）
+  - 「業界から探す」（https://nk-works.co.jp/history.html・1回目）
+  - 「小型マシニングセンタの導入事例を紹介」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「NKワークスの導入事例」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「NKワークスの小型マシニングセンタの導入事例は掲載されていませんでした」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「小型マシニングセンタの導入事例を紹介_TOP」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「業界から探す」（https://nk-works.co.jp/flow.html・3回目）
+- お金の形：
+  - 「小型マシニングセンタの目安価格」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「NKワークスの小型マシニングセンタの価格は、2021年12月現在、」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「コスト削減が叫ばれている製造業において、価格はどうしても気になるもの」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「このサイトでは、小型マシニングセンタを導入する際に重視したい「価格」「サポート」「精度」の3つのポイントごとにおすすめの小型マシニングセンタメーカーを紹介しています」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「小型マシニングセンタの価格相場を知る」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「「価格」「サポート」「精度」」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「「価格」「サポート」」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「グローバルテクノス：価格記載があり、本体価格が一番安い」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+- いくら：
+  - 「月刊生産財マーケティング2021年4月号に スピンドル引き込み力測定装置・セーフコントロール4.0の記事が掲載されました」（https://nk-works.co.jp/・1回目）
+  - 「・真円度計:東京精密 ロンコム４１C」（https://nk-works.co.jp/nk-jobshop.html・1回目）
+  - 「4,800万円」（https://nk-works.co.jp/overview.html・1回目）
+  - 「4800万円」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf・2回目）
+  - 「4800万円」（https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf・2回目）
+  - 「「DT-1」が53,995USドル～」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「「DT-2」が56,995USドル～」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「500万円～」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「スピンドル引き込み力を簡単に測定！セーフコントロール4.0 操作方法」（https://www.youtube.com/@nkworks・3回目）
+  - 「$0.00 USD」（https://nk-works-ec.com/・3回目）
+  - 「税込みで、配送料は購入手続き時に計算されます」（https://nk-works-ec.com/・3回目）
+  - 「3500円以上のご注文で送料無料」（https://nk-works-ec.com/・3回目）
+- 検索結果の抜粋：
+  - 「NKワークス 株式会社について ｜東京都千代田区にある産業用 ... — NKワークス 株式会社について ｜東京都千代田区にある産業用 ... NKワークス https://nk-works.co.jp」（https://nk-works.co.jp/・3回目）
+  - 「「 NKワークス 」の 代理店 1社 注目ランキング【2026年】 — 「 NKワークス 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > NKワークス株式会社」（https://metoree.com/companies/4193/distributors/・3回目）
+  - 「NKワークス — NKワークス smallmc-focus.com https://www.smallmc-focus.com > manufacturer > nk-works」（https://www.smallmc-focus.com/manufacturer/nk-works.html・3回目）
+  - 「NKワークス 株式会社 - YouTube — NKワークス 株式会社 - YouTube YouTube https://www.youtube.com > ...」（https://www.youtube.com/@nkworks・3回目）
+  - 「NKワークス 株式会社 (@NKworks_) / X — NKワークス 株式会社 (@NKworks_) / X X https://x.com > NKworks_」（https://x.com/NKworks_・3回目）
+  - 「導入 までの流れ Flow - NKワークス — 導入 までの流れ Flow - NKワークス NKワークス株式会社 https://nk-works.co.jp > flow」（https://nk-works.co.jp/flow.html・3回目）
+  - 「NKワークス が設立50周年、 “生産技術者の視点”で顧客ニーズ ... — NKワークス が設立50周年、 “生産技術者の視点”で顧客ニーズ ... 工場マガジンラック https://kojomag.nikkan.co.jp > kikai」（https://kojomag.nikkan.co.jp/kikai/737・3回目）
+  - 「NKワークス オンラインストア – NKワークス — NKワークス オンラインストア – NKワークス nk-works-ec.com https://nk-works-ec.com」（https://nk-works-ec.com/・3回目）
+  - 「NKワークス 株式会社のカタログ・会社概要・製品情報 | Metoree — NKワークス 株式会社のカタログ・会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/4193/・3回目）
+  - 「会社概要 - 産業用機械の専門商社 NKワークス株式会社 — 会社概要 - 産業用機械の専門商社 NKワークス株式会社 157.205.43.220 http://157.205.43.220 > info > company」（http://157.205.43.220/info/company.html・3回目）
+  - 「NKワークス 株式会社 (@nkworks_) - Instagram — NKワークス 株式会社 (@nkworks_) - Instagram Instagram https://www.instagram.com > nkworks_」（https://www.instagram.com/nkworks_/・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像5件／外部12頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式5頁／PDF・画像5件／外部12頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像5件／外部12頁・検索4回）
+
+## NSS
+- 公式URL：https://nss.org/（search:yahoo_jp:NSS）
+- 従業員数：3名（https://mono.ipros.com/company/detail/2089513/・3回目）
+- 誰から：
+  - 「Space 2.0: How Private Spaceflight, a Resurgent NASA, and International Partners are Creating a New Space Age - NSS」（https://nss.org/space-2-0-how-private-spaceflight-a-resurgent-nasa-and-international-partners-are-creating-a-new-space-age/・1回目）
+  - 「Space 2.0: How Private Spaceflight, a Resurgent NASA, and International Partners are Creating a New Space Age」（https://nss.org/space-2-0-how-private-spaceflight-a-resurgent-nasa-and-international-partners-are-creating-a-new-space-age/・1回目）
+  - 「4 thoughts on “Space 2.0: How Private Spaceflight, a Resurgent NASA, and International Partners are Creating a New Space Age”」（https://nss.org/space-2-0-how-private-spaceflight-a-resurgent-nasa-and-international-partners-are-creating-a-new-space-age/・1回目）
+  - 「The National Space Society is pleased to recognize its past and present corporate partners and sponsors for their support:」（https://nss.org/about-national-space-society/・1回目）
+  - 「Xtraordinary Innovative Space Partnerships, Inc. (XISP-Inc)」（https://nss.org/about-national-space-society/・1回目）
+  - 「業務提携により、設置工事・保守点検を全国的にサポートしております」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「弊社は、防犯用設備機器販売会社、警備会社、設備建設会社、ホームセンター、家電販売会社、不動産管理会社、通信関係会社、探偵業会社など様々な業種の企業様と提携しております」（https://cpcam.jp/syn_btob/btob_flow.html・3回目）
+- 何をする：
+  - 「販売店契約｜株式会社NSS」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「販売店契約の流れ」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「様々な角度から販売店様をサポート」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「販売実績による支払い条件設定」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「▶︎ 様々な角度から販売店様をサポートするNSSのバックアップ体制」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「NSSが取り扱うセキュリティ及びデジタルサイネージ製品は、国内の販売店様を通して公共の場や学校、商業施設、飲食店、ホテル、医療・福祉施設、マンション、コンビニエンスストア、一般企業など全国のあらゆる場所に導入させていただいております」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「NSSが世界中からピックアップした、コストパフォーマンスに優れた最新鋭の製品は、新たな商材として、また既にセキュリティー及びデジタルサイネージ関連製品のお取り扱いがある企業様におきましても、販売競争力アップに貢献できる商材です」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「また、製品の販売のみならず、販売店様の仕入れコスト削減やロット注文による過剰在庫の削減、製品技術のサポートなど、様々な角度から販売店様をサポートいたします」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「1つのメーカーでは賄えない様々なニーズに合った製品を全国の販売店様へ提供」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「コストパフォーマンスに優れた数多くの製品をラインアップし、販売店様の仕入れコストを削減いたします」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「クライアントから販売店様に注文が入った際に、販売店様はNSSに必要な分だけ注文できます」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「注文受けて、NSSより販売店様に必要な数だけ発送いたしますので、販売店様は在庫の保管場所・保管管理を考える必要はありません」（https://cpcam.jp/syn_btob/btob.html・3回目）
+- 誰に：
+  - 「お急ぎのお客様のご都合に合わせて発送いたします」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「全てのチェック項目をクリアした製品のみをお客様へお届けします」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「デジタルサイネージご導入事例｜デジタルサイネージ｜株式会社NSS」（https://cpcam.jp/signage/case/・3回目）
+  - 「デジタルサイネージ導入事例」（https://cpcam.jp/signage/case/・3回目）
+  - 「弊社デジタルサイネージのお客様ご導入事例をご紹介します」（https://cpcam.jp/signage/case/・3回目）
+  - 「お客様の用途に合わせた機器の選定や運用方法をご提案し、大型商業施設や小売店、飲食店、医療施設、オフィス、美容室、宿泊施設など、様々な業種にご導入頂いています」（https://cpcam.jp/signage/case/・3回目）
+  - 「※導入事例に掲載されている画像、内容のすべては弊社販売店様及び導入先の企業様の承諾を得て掲載しています」（https://cpcam.jp/signage/case/・3回目）
+  - 「【NSSデジタルサイネージ導入事例】 - YouTube」（https://www.youtube.com/playlist?list=PLNjGYONApfaxu5-o9xqSzZskZ83s_a7qe・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://mono.ipros.com/company/detail/2089513/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/company/detail/2089513/・3回目）
+  - 「【導入事例】日本大学芸術学部様に3Dプリンタと「エキマテ」を納入させて頂きました」（https://nssngt.com/・3回目）
+  - 「【導入事例】生産コスト大幅ダウンを実現」（https://nssngt.com/・3回目）
+- お金の形：
+  - 「「防犯カメラ NSS」の人気商品一覧 | 安い商品を通販サイトから探す - 価格.com」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「価格の安い順」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「価格の高い順」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「価格情報無し」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「※ 掲載している価格やスペック・付属品・画像など全ての情報は、万全の保証をいたしかねます」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「※ 各ショップの価格や在庫状況は常に変動しています」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「※ ご購入の前には必ずショップのWebサイトで価格・利用規定等をご確認下さい」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「防犯カメラ NSSの通販情報・価格比較」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「価格.com」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/2089513/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/2089513/・3回目）
+  - 「お見積依頼･導入のご相談」（https://nssngt.com/・3回目）
+- 検索結果の抜粋：
+  - 「販売店 契約 ｜株式会社 NSS — 販売店 契約 ｜株式会社 NSS 株式会社NSS https://cpcam.jp > syn_btob > btob」（https://cpcam.jp/syn_btob/btob.html・3回目）
+  - 「販売店 契約 の流れ｜株式会社 NSS — 販売店 契約 の流れ｜株式会社 NSS 株式会社NSS https://cpcam.jp > syn_btob > btob_flow」（https://cpcam.jp/syn_btob/btob_flow.html・3回目）
+  - 「「 NSS 」の 代理店 8社 注目ランキング【2026年】 - Metoree — 「 NSS 」の 代理店 8社 注目ランキング【2026年】 - Metoree Metoree https://metoree.com > 会社一覧 > 株式会社NSS」（https://metoree.com/companies/41734/distributors/・3回目）
+  - 「沿革 - NSS 日本システム収納 — 沿革 - NSS 日本システム収納 NSS 日本システム収納 https://www.nss-jp.com > company > history」（https://www.nss-jp.com/company/history・3回目）
+  - 「デジタルサイネージご 導入事例 - NSS — デジタルサイネージご 導入事例 - NSS 株式会社NSS https://cpcam.jp > signage > case」（https://cpcam.jp/signage/case/・3回目）
+  - 「【 NSS デジタルサイネージ 導入事例 】 - YouTube — 【 NSS デジタルサイネージ 導入事例 】 - YouTube YouTube https://www.youtube.com > playlist」（https://www.youtube.com/playlist?list=PLNjGYONApfaxu5-o9xqSzZskZ83s_a7qe・3回目）
+  - 「導入事例 - システム・インフラ・AI技術の会社 日新サービス — 導入事例 - システム・インフラ・AI技術の会社 日新サービス 日新サービス https://nsservice.co.jp > 導入事例」（https://nsservice.co.jp/case/・3回目）
+  - 「某病院 様｜ 導入事例 ｜セキュリティ - NSS — 某病院 様｜ 導入事例 ｜セキュリティ - NSS 株式会社NSS https://cpcam.jp > security > case > detail > detail_page」（https://cpcam.jp/security/case/detail/detail_page.php?data=217・3回目）
+  - 「NSS の大型LEDビジョンの特徴と 事例 まとめ — NSS の大型LEDビジョンの特徴と 事例 まとめ ledvision-navi.com https://www.ledvision-navi.com > list > n-s-s」（https://www.ledvision-navi.com/list/n-s-s.html・3回目）
+  - 「デジタルサイネージ｜株式会社 NSS — デジタルサイネージ｜株式会社 NSS 株式会社NSS https://cpcam.jp > signage > product > search」（https://cpcam.jp/signage/product/search.php?cty=advance・3回目）
+  - 「「防犯カメラ NSS 」の人気商品一覧・ 価格 比較 — 「防犯カメラ NSS 」の人気商品一覧・ 価格 比較 価格.com https://search.kakaku.com > 防犯カメラ　NSS」（https://search.kakaku.com/%E9%98%B2%E7%8A%AF%E3%82%AB%E3%83%A1%E3%83%A9%E3%80%80NSS/・3回目）
+  - 「NSS 防犯カメラ・監視カメラ 通販 — NSS 防犯カメラ・監視カメラ 通販 ビックカメラ https://www.biccamera.com > ... > 防犯カメラ・監視カメラ」（https://www.biccamera.com/bc/category/001/280/050/005/?entr_nm=NSS&srsltid=AYCX9vLVz3EynvkxJX0r3oAUv_hBS9xh-eyncFWTC6j6_2ITXL1t4WRr・3回目）
+- 設立：記載なし（3回確認済み：公式29頁／PDF・画像8件／外部12頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式29頁／PDF・画像8件／外部12頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式29頁／PDF・画像8件／外部12頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式29頁／PDF・画像8件／外部12頁・検索5回）
+- いくら：記載なし（3回確認済み：公式29頁／PDF・画像8件／外部12頁・検索5回）
+
+## ODEC（山地工場）
+- 公式URL：http://www.odec-wakayama.com/（search:yahoo_jp:ODEC(山地工場)）
+- 設立：平成15年7月31日（http://www.odec-wakayama.com/profile.html・1回目）
+- 従業員数：70名（https://mono.ipros.com/company/detail/2061041/・3回目）
+- 事業内容：金属粉末造形（金属3Dプリンター）設計・造形受託・販売 光ファイバ関連製品、各種光学部品の設計・製造および販売 機械部品の設計・製造および販売 ゴムシールパッキンの製造・販売 WEBマーケティング事業（WEBコンサルティング） トレーディング事業（http://www.odec-wakayama.com/profile.html・1回目）
+- 何をする：
+  - 「開発のための試作品から製品改良まで様々な金属加工ニーズにこたえることができます」（http://www.odec-wakayama.com/・1回目）
+  - 「ＷＥＢサイト改善、ＷＥＢプロモーション支援はもちろん、ＷＥＢ戦略や社内ＷＥＢ担当者教育も行います」（http://www.odec-wakayama.com/・1回目）
+  - 「光ファイバ関連製品や各種光学部品を中心とした、金属部品の設計から加工・製造、販売を行っています」（http://www.odec-wakayama.com/・1回目）
+  - 「シール製品の一貫製造請負やチーム型請負受託もお任せください」（http://www.odec-wakayama.com/・1回目）
+  - 「ODEC金属3Dプリンター造形サービス」（http://www.odec-wakayama.com/・1回目）
+  - 「【設計・開発職必見】３Ｄデータからそのまま製作」（http://www.odec-wakayama.com/・1回目）
+  - 「金属粉末造形（金属3Dプリンター）設計・造形受託・販売」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「光ファイバ関連製品、各種光学部品の設計・製造および販売」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「機械部品の設計・製造および販売」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「ゴムシールパッキンの製造・販売」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「WEBマーケティング事業（WEBコンサルティング）」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「アッセンブリ・検査検品受託」（http://www.odec-wakayama.com/outsouring/・1回目）
+- 誰に：
+  - 「お客様に満足の頂ける製品を提供いたします」（http://www.odec-wakayama.com/・1回目）
+  - 「ODEC独自のネットワークから、セレクトした商品・サービスを提供し、お客様のコストメリットを最大限追求いたします」（http://www.odec-wakayama.com/・1回目）
+  - 「自動化が難しいアッセンブリ作業、検査・検品作業など、お客様のお悩みに合わせ、フレキシブルな製造請負サービスを提供します」（http://www.odec-wakayama.com/・1回目）
+  - 「工作設備はNC旋盤・マニシニングセンター・ワイヤカットetcで精度が高く品質の良い製品造りを心がけ、お客様に満足して頂けるようにと日々努めております」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「お客様のお悩みに合わせて、フレキシブルに製造請負パターンをご提案いたします」（http://www.odec-wakayama.com/outsouring/・1回目）
+  - 「顧客クレームなどで突発的な大量作業が発生した！こんな時は、ODEC製造請負サービスにご相談ください」（http://www.odec-wakayama.com/outsouring/・1回目）
+  - 「お客様のニーズに合わせて、「プレス成型から包装出荷までの一貫製造請負」や一部工程のみの外注対応、「金型製作からの試作」などあらゆる請負形態に対応可能です」（http://www.odec-wakayama.com/outsouring/・1回目）
+  - 「プレスだけ・・・アッセンブリだけ・・など個別の工程だけでなく、まとめての製造請負や、チーム型の現場請負などお客様のニーズに合わせたご提案が可能です」（http://www.odec-wakayama.com/outsouring/・1回目）
+  - 「外部に作業を委託する理由としては、社内リソースだけでは、顧客の納期・品質要求にこたえることが難しい場合かと思います」（http://www.odec-wakayama.com/outsouring/・1回目）
+  - 「お客様は製品の発注を行うだけでその後の製造・出荷までの管理をすべてお任せいただくことができます」（http://www.odec-wakayama.com/outsouring/press/integrated_production/・1回目）
+  - 「お客様の期待値を超える製造サービスを」（http://www.odec-wakayama.com/assembly/・1回目）
+  - 「弊社では、金属部品製造を設立当初より行っており、お客様のニーズに合わせた製品設計から製造、最終製品のアッセンブリまですべて対応可能」（http://www.odec-wakayama.com/assembly/・1回目）
+- お金の形：
+  - 「無料お見積り随時受付」（http://www.odec-wakayama.com/・1回目）
+  - 「金属粉末造形（金属3Dプリンター）設計・造形受託・販売」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「無料お見積り随時受付」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「小ロット、短納期、低価格に自信があります」（http://www.odec-wakayama.com/assembly/・1回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/2061041/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/2061041/・3回目）
+  - 「「すぐに欲しい！使いたい！」そんなお客様のニーズにお応えするために、短時間でのお見積りを心がけています」（https://mono.ipros.com/company/detail/2061041/・3回目）
+  - 「※短納期、特急対応もお任せください！見積りから納品まですべてスピード対応します」（https://mono.ipros.com/company/detail/2061041/・3回目）
+  - 「お問合せ・見積り」（http://kinzoku-kakou-odec.com/・3回目）
+  - 「見積りから納品まで」（http://kinzoku-kakou-odec.com/・3回目）
+  - 「「すぐに欲しい！すぐに使いたい！」そんなお客様のニーズにお応えするために、最短時間でのお見積りを心がけています」（http://kinzoku-kakou-odec.com/・3回目）
+  - 「スピード見積回答！！」（http://kinzoku-kakou-odec.com/・3回目）
+- いくら：
+  - 「2,000万円」（http://www.odec-wakayama.com/profile.html・1回目）
+  - 「一般的な通信用コネクタはもちろんのこと特殊なコネクタの端末や丸形、矩形、ライン状など様々な形状を有するバンドルファイバの端末も対応できます」（http://www.odec-wakayama.com/assembly/・1回目）
+  - 「各種コネクタやバンドルファイバのスリーブなどの研磨においては、その仕様に合わせて研磨機・研磨紙・研磨剤・研磨時間など最適に選択して対応させて頂きます」（http://www.odec-wakayama.com/assembly/・1回目）
+  - 「バンドルファイバ」（http://www.odec-wakayama.com/assembly/・1回目）
+  - 「多分岐形状かつファイバ配列指定など多種多様な要求仕様になり得るバンドルファイバの製造を行っております」（http://www.odec-wakayama.com/assembly/・1回目）
+  - 「例えば、単価１,０００円の加工コストに対し、」（http://kinzoku-kakou-odec.com/・3回目）
+  - 「９００円の希望価格（指値）を入力して」（http://kinzoku-kakou-odec.com/・3回目）
+- 検索結果の抜粋：
+  - 「ODEC | 企業情報 | イプロスものづくり — ODEC | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2061041/・3回目）
+  - 「会社概要 | 金属加工・樹脂加工会社なら和歌山の株式会社 ... — 会社概要 | 金属加工・樹脂加工会社なら和歌山の株式会社 ... 株式会社 ODEC http://www.odec-wakayama.com > profile」（http://www.odec-wakayama.com/profile.html・3回目）
+  - 「ODEC 金属加工 | ステンレス・アルミの金属加工なら、試作 ... — ODEC 金属加工 | ステンレス・アルミの金属加工なら、試作 ... kinzoku-kakou-odec.com http://kinzoku-kakou-odec.com」（http://kinzoku-kakou-odec.com/・3回目）
+  - 「営業グループの話 - ODEC ブログ 毎週更新中 — 営業グループの話 - ODEC ブログ 毎週更新中 Jimdo https://odec-blog.jimdofree.com > 営業グループの話」（https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/%E5%96%B6%E6%A5%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E8%A9%B1/・3回目）
+  - 「専用機の設計製作 名古屋の自動車外装部品用金型・設備 ... — 専用機の設計製作 名古屋の自動車外装部品用金型・設備 ... 株式会社オデック https://odec-japan.sakura.ne.jp > introduction」（https://odec-japan.sakura.ne.jp/introduction.html・3回目）
+  - 「SDGsへの取り組み | 金属3D・金属加工なら株式会社 ODEC ... — SDGsへの取り組み | 金属3D・金属加工なら株式会社 ODEC ... 株式会社 ODEC http://www.odec-wakayama.com > sdgs」（http://www.odec-wakayama.com/sdgs.html・3回目）
+  - 「ODEC のこと — ODEC のこと Jimdo https://odec-blog.jimdofree.com > ホーム-1 > odecのこと」（https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/・3回目）
+  - 「金属3Dプリンター 受託造形 ｜金属AM×精密切削加工｜ ODEC — 金属3Dプリンター 受託造形 ｜金属AM×精密切削加工｜ ODEC 3d.kinzoku-kakou-odec.com http://3d.kinzoku-kakou-odec.com」（http://3d.kinzoku-kakou-odec.com/・3回目）
+  - 「【製品開発・試作から】金属3Dプリンター 造形 サービス ODEC — 【製品開発・試作から】金属3Dプリンター 造形 サービス ODEC 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 試作 > 3Ｄプリンタ」（https://mono.ipros.com/product/detail/2000427433/・3回目）
+  - 「【 ODEC 】高品質！金属3Dプリンターの 受託造形 ！ - YouTube — 【 ODEC 】高品質！金属3Dプリンターの 受託造形 ！ - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=y6RdpJkP3lM・3回目）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部8頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部8頁・検索5回）
+- 誰から：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部8頁・検索5回）
+
+## Primal Design .Labo
+- 公式URL：https://primaldesign.base.shop/（search:ddgs:google:Primal Design .Labo）
+- 従業員数：7名（https://mono.ipros.com/company/detail/2092296/・3回目）
+- 取引先：株式会社テクノアクセルネットワークス　/　株式会社電通プロモーションプラス　/　株式会社ビードットメディカル　/　株式会社ピーバンドットコム　/　株式会社 リーデッジテクノロジー　/　グローバルコンポーネントテクノロジー株式会社　/　東急リバブル株式会社 (順不同・敬称略) ※社名五十音順、敬称略（https://mono.ipros.com/company/detail/2092296/・3回目）
+- 誰から：
+  - 「Modix Bigシリーズ 国内正規代理店」（https://primaldesign.base.shop/・1回目）
+  - 「MODIX MODULAR TECHNOLOGIES社と代理店契約」（https://primaldesignlabo.jp/html/・3回目）
+- 何をする：
+  - 「こちらは3Dプリンタ販売の【PrimalDesign.Lobo】によるネットショップです」（https://primaldesign.base.shop/about・1回目）
+  - 「デジタル設計・モデリング」（https://primaldesignlabo.jp/html/・3回目）
+  - 「パラメトリック設計」（https://primaldesignlabo.jp/html/・3回目）
+  - 「アニメーション設計」（https://primaldesignlabo.jp/html/・3回目）
+  - 「熱設計／放熱設計」（https://primaldesignlabo.jp/html/・3回目）
+  - 「締結設計／組立設計」（https://primaldesignlabo.jp/html/・3回目）
+  - 「振動・応力解析設計」（https://primaldesignlabo.jp/html/・3回目）
+  - 「可動機構設計（モーション設計）」（https://primaldesignlabo.jp/html/・3回目）
+  - 「防水／防塵設計（IP設計）」（https://primaldesignlabo.jp/html/・3回目）
+  - 「樹脂／金属材料設計」（https://primaldesignlabo.jp/html/・3回目）
+  - 「加工性設計（DfM）」（https://primaldesignlabo.jp/html/・3回目）
+  - 「装置組込設計（ユニット統合設計）」（https://primaldesignlabo.jp/html/・3回目）
+- 誰に：
+  - 「が業界全体のボトルネックとなっています」（https://primaldesignlabo.jp/html/・3回目）
+  - 「厨房業界・食品業界・建築業界などの協力企業との実証を進めます」（https://primaldesignlabo.jp/html/・3回目）
+  - 「Raise3Dの現行最新FFF機であるPro3 HSについて、特徴や機能、旧世代機との違い、ユーザー事例等をご紹介します」（https://primaldesignlabo.jp/html/・3回目）
+  - 「昨今の製造業界では、既存事業の製造工程デジタル化を表す「デジタル・マニュファクチャリング」や「デジタル・トランスフォーメーション」などの技術革新が起こっています」（https://primaldesignlabo.jp/html/・3回目）
+  - 「昨今の製造業界では、既存事業の製造工程デジタル化を表す「デジタル・マニュファクチャリング」や「デジタル・トランスフォーメーション」などのデジタル化が推進されています」（https://primaldesignlabo.jp/html/・3回目）
+  - 「電子回路設計 CAD 業界でのイノベーション！基板設計ソフト Quadcept について」（https://primaldesignlabo.jp/html/・3回目）
+  - 「昨今、基板設計、基板加工の分野で、 コ ストを抑えたクラウド型電子 CAD ソフトQuadcept( クワッドセプト が 電子回路設計 CAD 業界で注目されています」（https://primaldesignlabo.jp/html/・3回目）
+  - 「同ソフトは2010 年発足後、 3 年で 5,000 以上のダウンロード数を記録し、今では 45,000 のユーザー数を超えています」（https://primaldesignlabo.jp/html/・3回目）
+  - 「本ウェビナーでは電子 CAD 業界でのイノベーションとユーザの成功事例のご紹介の他、回路設計・基板設計の流れと基礎知識などにも触れ、」（https://primaldesignlabo.jp/html/・3回目）
+  - 「昨今の製造業界では、製造工程のデジタル化を表す「デジタル・マニュファクチャリング」と呼ばれる変革が起こっています」（https://primaldesignlabo.jp/html/・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://mono.ipros.com/company/detail/2092296/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/company/detail/2092296/・3回目）
+- お金の形：
+  - 「価格に挑戦し、壁を越え、社会に貢献します」（https://primaldesign.base.shop/about・1回目）
+  - 「3Dプリンタの模型製作に特化した弊社だからできる価格体系です」（https://primaldesign.base.shop/about・1回目）
+  - 「粉末焼結（SLS）」（https://primaldesignlabo.jp/html/・3回目）
+  - 「工具/材料/消耗品」（https://primaldesignlabo.jp/html/・3回目）
+  - 「その他消耗品」（https://primaldesignlabo.jp/html/・3回目）
+  - 「熱溶解積層方式を中心としたRAISE3Dがリリースする、初めての粉末焼結型3Dプリンターです」（https://primaldesignlabo.jp/html/・3回目）
+  - 「●RAISE3D RMS粉末焼結3Dプリンター新商品発表会 概要」（https://primaldesignlabo.jp/html/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/2092296/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/2092296/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/product/detail/2000864921/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/product/detail/2000864921/・3回目）
+- 検索結果の抜粋：
+  - 「Primal Design . Labo /TOPページ — Primal Design . Labo /TOPページ primaldesignlabo.jp https://primaldesignlabo.jp > html」（https://primaldesignlabo.jp/html/・3回目）
+  - 「Primal Design . Labo | 企業情報 | イプロスものづくり — Primal Design . Labo | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信」（https://mono.ipros.com/company/detail/2092296/・3回目）
+  - 「Primal Design . Labo (@PrimalDesignLab) / X — Primal Design . Labo (@PrimalDesignLab) / X X https://x.com > PrimalDesignLab」（https://x.com/PrimalDesignLab・3回目）
+  - 「Primal Design . Labo 合同会社 - Metoree — Primal Design . Labo 合同会社 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/1005282/・3回目）
+  - 「Primal Design ． Labo 合同会社 - Compalyze — Primal Design ． Labo 合同会社 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析」（https://compalyze.co.jp/company/2010703004369・3回目）
+  - 「Primal Design . Labo 合同会社 - イプロス — Primal Design . Labo 合同会社 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 試作 > 3Ｄプリンタ」（https://mono.ipros.com/product/detail/2000864921/・3回目）
+  - 「Primal Design . Labo 合同会社の共創プロフィール - AUBA — Primal Design . Labo 合同会社の共創プロフィール - AUBA AUBA https://auba.eiicon.net > projects」（https://auba.eiicon.net/projects/28384・3回目）
+  - 「Primal Design . Labo | Shinagawa-ku Tokyo - Facebook — Primal Design . Labo | Shinagawa-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Industrial Company」（https://www.facebook.com/PrimalDesign.Labo/・3回目）
+  - 「Primal Design . Labo /会社概要 — Primal Design . Labo /会社概要 primaldesignlabo.jp https://primaldesignlabo.jp > html > help > about」（https://primaldesignlabo.jp/html/help/about・3回目）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）
+- いくら：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）
+
+## RCCM Japan
+- 公式URL：https://www.rccm.co.jp（given）
+- 設立：昭和 57 (1982) 年 4 月 2 日（https://www.rccm.co.jp/company/・1回目）
+- 従業員数：56 名（2025 年 3 月 1 日現在）（https://www.rccm.co.jp/company/・1回目）
+- 売上高：10 億円（https://www.rccm.co.jp/company/・1回目）
+- 事業内容：・ 工学、理学、土木、防災、医学系の構造・流体力学に基づくソフトウェアの研究・開発および、受託解析。 ・ 海外の専門ソフトウェアの販売、コンサルティング ・ 労働者派遣事業（https://www.rccm.co.jp/company/・1回目）
+- 誰から：
+  - 「開発元 ： 九州大学」（https://www.rccm.co.jp/product/fluid/propath/・1回目）
+  - 「開発元【九州大学】のホームページから、無償でダウンロードできます」（https://www.rccm.co.jp/product/fluid/propath/・1回目）
+  - 「※教育機関向け「PROPATH」に関しましては、直接開発元にお問い合せくださいますようお願い申し上げます」（https://www.rccm.co.jp/product/fluid/propath/・1回目）
+  - 「「自社製品に適用できるのか」「効果が得られるのか」」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「開発元の公式HPはこちら →」（https://www.rccm.co.jp/product/electrocoating/edesfem/・1回目）
+  - 「自社製品のCAD、解析結果などを埋め込んだ」（https://www.rccm.co.jp/product/pre-post-processor/3d-pdf/・1回目）
+- 何をする：
+  - 「株式会社計算力学研究センター（RCCM）｜数値解析ソフト開発・販売・受託解析」（https://www.rccm.co.jp/・1回目）
+  - 「FactSage 無料体験セミナー 2026 秋 & 個別導入相談会」（https://www.rccm.co.jp/・1回目）
+  - 「【MECHANICAL FINDER】第41回日本整形外科学会基礎学術集会において、教育研修講演およびシンポジウムで講演します」（https://www.rccm.co.jp/・1回目）
+  - 「「OpenFOAMモデリングセミナーオンサイト編」」（https://www.rccm.co.jp/・1回目）
+  - 「（プロセス自動化・設計最適化）」（https://www.rccm.co.jp/・1回目）
+  - 「（設計空間探索・最適化ツール）」（https://www.rccm.co.jp/・1回目）
+  - 「・ 工学、理学、土木、防災、医学系の構造・流体力学に基づくソフトウェアの研究・開発および、受託解析」（https://www.rccm.co.jp/company/・1回目）
+  - 「・ 海外の専門ソフトウェアの販売、コンサルティング」（https://www.rccm.co.jp/company/・1回目）
+  - 「プロセス自動化・設計最適化」（https://www.rccm.co.jp/product/・1回目）
+  - 「設計空間探索・最適化ツール」（https://www.rccm.co.jp/product/・1回目）
+  - 「複雑な流れを可視化し、設計・開発プロセスを革新」（https://www.rccm.co.jp/product/fluid/ansys-fluent/・1回目）
+  - 「Ansys Fluentは、製造業の設計・開発プロセス、公的研究機関、教育現場などで広く利用されている流体解析ソフトウェアです」（https://www.rccm.co.jp/product/fluid/ansys-fluent/・1回目）
+- 誰に：
+  - 「弊社は40年近くの流体解析の実績を持つ専門家が、お客様の流体解析の課題をサポートいたします」（https://www.rccm.co.jp/product/fluid/ansys-fluent/・1回目）
+  - 「複雑な形状のモデル化機能も備えており、UDF（ユーザー定義関数）を利用することで、複雑な現象を考慮した境界条件や材料特性などを自由にカスタマイズできます」（https://www.rccm.co.jp/product/fluid/ansys-fluent/・1回目）
+  - 「を利用してユーザー定義のコンポーネントやソルバーを作成することができます」（https://www.rccm.co.jp/product/fluid/flownex/・1回目）
+  - 「ユーザー定義可能」（https://www.rccm.co.jp/product/fluid/flownex/・1回目）
+  - 「各種CADフォーマットに対応し、直感的なユーザーインターフェース上で解析モデルを効率的に作成できます」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「Autodesk Moldflow リーフレット（シングルユーザーライセンス）」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「シングルユーザーライセンスの機能比較をご確認いただけます」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「Autodesk Moldflowリーフレット（マルチユーザーライセンス）」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「マルチユーザーライセンスの機能比較をご確認いただけます」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「次世代有限要素法「ES-FEM」(業界初)により高精度」（https://www.rccm.co.jp/product/electrocoating/edesfem/・1回目）
+  - 「業界初のES-FEM適用により自動車電着塗装解析で高精度・高速計算を実現」（https://www.rccm.co.jp/product/electrocoating/edesfem/・1回目）
+  - 「技術者からお客様へ」（https://www.rccm.co.jp/product/pre-post-processor/ansys-cfd-preppost/・1回目）
+- お金の形：
+  - 「1次元熱流体解析ソフトFlownex SEの詳細、そのほかご相談・ご質問、技術的なご質問、お見積り依頼」（https://www.rccm.co.jp/product/fluid/flownex/・1回目）
+  - 「デモライセンスとサンプル計算をご希望の方は、ご連絡ください」（https://www.rccm.co.jp/product/fluid/flownex/・1回目）
+  - 「UNIX版の価格については、お問い合わせください」（https://www.rccm.co.jp/product/fluid/propath/・1回目）
+  - 「無償の専用ビューアーを活用し、ライセンスの有無を問わず社内外でシミュレーション結果を共有できます」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「ライセンス不要でスムーズな情報共有：」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「Moldflowの環境やライセンスがないPCからでも解析結果を確認できるため、設計・製造部門間やクライアントとの迅速な意思決定をサポートします」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「粉末射出成形（金属／セラミック）」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「Autodesk Moldflow リーフレット（シングルユーザーライセンス）」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「シングルユーザーライセンスの機能比較をご確認いただけます」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「Autodesk Moldflowリーフレット（マルチユーザーライセンス）」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「マルチユーザーライセンスの機能比較をご確認いただけます」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「人物も撮影でき、本体価格は75万円とコストパフォーマンスの高さも魅力」（https://www.rccm.co.jp/product/3d-scanner/xgrids/・1回目）
+- いくら：
+  - 「73,000,000 円」（https://www.rccm.co.jp/company/・1回目）
+  - 「• 球状円柱をボンドで接続」（https://www.rccm.co.jp/product/fluid/ansys-rocky/・1回目）
+  - 「（ワイヤースイープ、パドルシフト）」（https://www.rccm.co.jp/product/resin-flow/moldflow/・1回目）
+  - 「.las, .rcp, .e57, .ply, .lcc, .lcc2, .obj, .osgb, 3D Tiles, .usd」（https://www.rccm.co.jp/product/3d-scanner/xgrids/・1回目）
+  - 「.las, .e57, .ply, .lcc, .usdz」（https://www.rccm.co.jp/product/3d-scanner/xgrids/・1回目）
+  - 「.las, .e57, .lcc, .lcc2, .ply, .usdz, 3DTiles」（https://www.rccm.co.jp/product/3d-scanner/xgrids/・1回目）
+  - 「人物も撮影でき、本体価格は75万円とコストパフォーマンスの高さも魅力」（https://www.rccm.co.jp/product/3d-scanner/xgrids/・1回目）
+  - 「.ply, .lcc, .usdz」（https://www.rccm.co.jp/product/3d-scanner/xgrids/・1回目）
+- 取引先：記載なし（3回確認済み：公式25頁／PDF・画像4件／外部12頁・検索4回）
+
+## SOLIZE / SOLIZE PARTNERS
+- 公式URL：https://solize.com（given）
+- 設立：2025年1月（https://partners.solize.com/lp・3回目）
+- 従業員数：単体：1,312名　連結：1,551名　（2025年7月時点）​（https://partners.solize.com/lp・3回目）
+- 誰から：
+  - 「SOLIZE PARTNERS株式会社」（https://www.solize.com/・1回目）
+  - 「会社分割による持株会社体制移行のため、分割準備会社として当社100％出資の子会社3社（SOLIZE PARTNERS株式会社、SOLIZE Ureka Technology株式会社、+81株式会社）を設立」（https://www.solize.com/corporate/history/・1回目）
+  - 「SOLIZE India Technologies Private LimitedがSOLIZE PARTNERS India Private Limitedに商号を変更」（https://www.solize.com/corporate/history/・1回目）
+  - 「SOLIZE PARTNERS株式会社」（https://www.solize.com/news/・1回目）
+  - 「SOLIZE PARTNERS、インド・ベンガルールにAIイノベーションラボを開設」（https://www.solize.com/news/・1回目）
+  - 「SOLIZE PARTNERSがダッソー・システムズと「コンサルティング&システム統合パートナー・プログラム」の契約を締結」（https://www.solize.com/news/・1回目）
+  - 「日刊建設工業新聞に、グリーンクロスとの業務提携および危険予知を支援するAIアプリ「D.D safe Ai」の提供開始に関する記事掲載」（https://www.solize.com/news/・1回目）
+  - 「SOLIZE Ureka Technologyとグリーンクロスが業務提携し、危険予知を支援するAIアプリ「D.D safe Ai」の販売体制を強化」（https://www.solize.com/news/・1回目）
+  - 「JAPIA会報誌「JAPIA NEWS」にSOLIZE PARTNERSが掲載」（https://www.solize.com/news/・1回目）
+  - 「SOLIZE PARTNERSとダイセルが液晶ポリマー（LCP）を用いた3Dプリント技術の共同開発を開始」（https://www.solize.com/news/・1回目）
+  - 「SOLIZE PARTNERS「魔改造新人研修」動画の続編「赤ちゃん人形綱登り編」を新たに公開 今回も新人たちが「魔改造の夜」の疑似体験に挑戦」（https://www.solize.com/news/・1回目）
+  - 「SOLIZE PARTNERS株式会社は、MotoGPクラスに参戦するレーシングチームCastrol Honda LCRおよびPro Honda LCRと、2026年度MotoGPのスポンサー契約を締結しました」（https://www.solize.com/topic/lcr/・1回目）
+- 何をする：
+  - 「プレスリリース」（https://www.solize.com/・1回目）
+  - 「コンサルティング・エンジニアリング事業」（https://www.solize.com/・1回目）
+  - 「3D Systems社の光造形システムを導入し、光造形による試作ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「3D CAD教育ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「試作金型ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「設計者派遣ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「3D Systems社の粉末造形システムを導入し、粉末造形による試作ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「中国現地法人 英知創機械科技(上海)有限公司設立、設計・解析等のエンジニアリングサービスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「3D Systems社の金属造形システムを導入し、金属造形による試作ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「CSM Software Private Limited および CSM Software USA Inc.,を買収、設計・解析等のエンジニアリングサービスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「ソフトウェア開発支援のエンジニアリングおよびコンサルティングサービスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「米国現地法人 SOLIZE USA Corporationがカナダ現地法人 SOLIZE Canada Corporation設立、設計・解析等のエンジニアリングサービスを開始」（https://www.solize.com/corporate/history/・1回目）
+- 誰に：
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/corporate/company/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/corporate/history/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/news/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/topic/lcr/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/topic/higashikawa-town/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/news/2026/0522/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/topic/makaizo/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/news/2026/1019/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/news/2026/1009/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/ir/news/・1回目）
+  - 「ケイパビリティ・国内主要取引先」（https://www.solize.com/corporate/・1回目）
+- お金の形：
+  - 「3D Systems社の粉末造形システムを導入し、粉末造形による試作ビジネスを開始」（https://www.solize.com/corporate/history/・1回目）
+  - 「お見積り・お問い合わせ」（https://www.solize.com/topic/lcr/・1回目）
+  - 「さらに、株式会社Hexabaseが提供するAIドリブン研修について株式会社STELAQがライセンス供与を受け、AI時代の人材育成と業務変革を支援する総合ソリューションとして展開します」（https://www.solize.com/news/2026/0715/・1回目）
+  - 「Formlabsの販売代理店として光造形機および粉末造形機の販売を開始」（https://www.solize.com/news/2025/・1回目）
+  - 「FARSOON TECHNOLOGIESの国内市場戦略パートナーとして大型粉末積層造形機の装置販売を開始」（https://www.solize.com/news/2025/・1回目）
+  - 「公募による自己株式の処分等の価格等及びオーバーアロットメントによる売出しの売出株式数決定のお知らせ」（https://www.solize.com/news/2024/・1回目）
+  - 「お問い合わせ・見積り依頼」（https://partners.solize.com/・3回目）
+  - 「お問い合わせ・見積りに関する​回答は、1営業日以内にご連絡します」（https://partners.solize.com/・3回目）
+  - 「SLS（粉末焼結積層造形）方式」（https://formlabs.com/jp/blog/solize-partners/・3回目）
+  - 「SOLIZE PARTNERS株式会社（本社︓東京都千代田区、代表取締役社長︓井上 雄介）は、 Formlabs 株式会社.（本社︓ アメリカ合衆国マサチューセッツ州、APAC General Manager︓ Michael Agam）と販売代理店契約を締結し、同社の光造形方式（SLA）および粉末焼結積層造形方式（SLS）の３Dプリンターの販売を開始します」（https://formlabs.com/jp/blog/solize-partners/・3回目）
+  - 「近年では3Dプリンターの普及にともない、幅広い材料ラインアップや人件費の高騰に起因する省力化のニーズが高まっており、こうしたご要望に応えるため、優れたバランスで価値を実現する Formlabs 社の製品と、長年にわたり光造形および粉末造形に携わってきた技術を掛け合わせることで、さらなる付加価値の高い3Dプリンターソリューションを提供します」（https://formlabs.com/jp/blog/solize-partners/・3回目）
+  - 「光造形（SLA）タイプの３Dプリンター「Form 4L」では20種類の標準材料と15種類以上の特殊材料、粉末焼結積層（SLS）タイプの３Dプリンター「Fuse 1+ 30W」では7種類の標準材料、さらにオープン・マテリアルにも対応できる多彩な材料選択が可能」（https://formlabs.com/jp/blog/solize-partners/・3回目）
+- いくら：
+  - 「1,000万円」（https://www.solize.com/corporate/company/・1回目）
+  - 「257億79百万円（連結：2025年12月期）」（https://www.solize.com/corporate/company/・1回目）
+  - 「入場料：1,000円（500円分の割引券付き）」（https://www.solize.com/news/2026/0916/・1回目）
+  - 「会場：京都市京セラ美術館（京都府京都市左京区岡崎円勝寺町124） 光の広間」（https://www.solize.com/news/2026/0907/・1回目）
+  - 「資本金︓1,000 万円」（https://www.solize.com/common/pdf/20260522.pdf・2回目）
+  - 「資本金︓1,000 万円」（https://www.solize.com/common/pdf/20261019.pdf・2回目）
+  - 「資本金︓1,000 万円」（https://www.solize.com/common/pdf/20261001.pdf・2回目）
+  - 「入場料︓1,000円（500円分の割引券付き）」（https://www.solize.com/common/pdf/20260916.pdf・2回目）
+  - 「資本金︓1,000 万円」（https://www.solize.com/common/pdf/20260916.pdf・2回目）
+- 検索結果の抜粋：
+  - 「SOLIZE PARTNERS ウェブサイト — SOLIZE PARTNERS ウェブサイト SOLIZE PARTNERS株式会社 https://partners.solize.com」（https://partners.solize.com/・3回目）
+  - 「SOLIZE PARTNERS が Formlabs の国内販売 代理店 として3D ... — SOLIZE PARTNERS が Formlabs の国内販売 代理店 として3D ... Formlabs https://formlabs.com > blog > solize-partners」（https://formlabs.com/jp/blog/solize-partners/・3回目）
+  - 「SOLIZE PARTNERS がダッソー・システムズと ... — SOLIZE PARTNERS がダッソー・システムズと ... SOLIZE PARTNERS株式会社 https://partners.solize.com > TOP > お知らせ」（https://partners.solize.com/news/2026/0807・3回目）
+  - 「SOLIZE PARTNERS 株式会社の企業情報 - 転職はアンドプロ — SOLIZE PARTNERS 株式会社の企業情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-17872」（https://and-pro.jp/company-info-17872/・3回目）
+  - 「SOLIZE PARTNERS Corporation - LinkedIn — SOLIZE PARTNERS Corporation - LinkedIn LinkedIn https://jp.linkedin.com > company > solizepartners」（https://jp.linkedin.com/company/solizepartners・3回目）
+  - 「導入事例 - SOLIZE PARTNERS — 導入事例 - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > case」（https://partners.solize.com/case・3回目）
+  - 「研究開発支援 導入事例 - SOLIZE PARTNERS — 研究開発支援 導入事例 - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > ... > 研究開発支援」（https://partners.solize.com/manufacturing/development/case・3回目）
+  - 「SOLIZE PARTNERS 株式会社 - Webinar Week — SOLIZE PARTNERS 株式会社 - Webinar Week Webinar Week https://webinarweek.net > company」（https://webinarweek.net/ww/202509DX/company/BS_Pn9VH5Sj・3回目）
+  - 「私たちの強み（私たちについて）｜ SOLIZE PARTNERS — 私たちの強み（私たちについて）｜ SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > aboutus」（https://partners.solize.com/aboutus・3回目）
+  - 「Company Info - SOLIZE PARTNERS — Company Info - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > info」（https://partners.solize.com/en/aboutus/info・3回目）
+  - 「SOLIZE Holdings株式会社 — SOLIZE Holdings株式会社 SOLIZE Holdings https://www.solize.com」（https://www.solize.com/・3回目）
+  - 「SOLIZE PARTNERS (株)の新卒採用・会社概要 | マイナビ2027 — SOLIZE PARTNERS (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp76518 > outline」（https://job.mynavi.jp/27/pc/search/corp76518/outline.html・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像14件／外部12頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像14件／外部12頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像14件／外部12頁・検索4回）
+
+## SUN METALON
+- 公式URL：https://sunmetalon.com/（given）
+- 設立：2021/02（https://initial.inc/companies/A-40193・3回目）
+- 誰から：
+  - 「Managing Partner, COO and Representative Director, UTEC」（https://sunmetalon.com/company・1回目）
+  - 「Principal, Globis Capital Partners」（https://sunmetalon.com/company・1回目）
+  - 「Globis Capital Partners」（https://sunmetalon.com/company・1回目）
+  - 「Our Partners」（https://sunmetalon.com/company・1回目）
+  - 「Sun Metalon entered a partnership with Center for Design and Manufacturing Excellence (CDME) in Ohio」（https://sunmetalon.com/news・1回目）
+  - 「State funding marks first public-private partnership in company's strategy to strengthen domestic manufacturing」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「Sun Metalon has been awarded nearly $1 million from Colorado's Greenhouse Gas Pollution Reduction Fund to scale its zero-emission metal recycling technology. The investment represents the first step in Sun Metalon's strategy to build public-private partnerships that create sustainable, reliable onshore capabilities in areas of national importance.」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「Building Strategic Partnerships」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「This award is the first in our foundation for sustainable public-private partnerships. By aligning innovation with government priorities in manufacturing resilience, critical materials, and climate goals, Sun Metalon is creating reliable onshore capabilities in sectors critical to America's future.」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「The company plans to leverage this state partnership to pursue federal opportunities through the Department of Defense, Department of Energy, and other agencies focused on domestic supply chain development.」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「Managing Partner, COO and Representative Director, UTEC」（https://sunmetalon.com/jp/company・1回目）
+  - 「Principal, Globis Capital Partners」（https://sunmetalon.com/jp/company・1回目）
+- 何をする：
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/sun-metalon-was-recently-presented-with-the-mizuho-innovation-award-20244q-sponsored-by-mizuho-bank・1回目）
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge・1回目）
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「造形サービス（10）」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「（上部画像はSUN METALONのプレスリリース」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「大学と3Dプリンター販売代理店の新たな協業 ― Brule×東京大学 3D Printing Advanced Technology Center開設セレモニー」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「東京大学大学院工学系研究科附属国際工学教育推進機構ものづくり部門は、3Dプリンターや関連機器の販売と運用を行うBrule Inc.と協働で、東京大学キャンパス内 …」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「造形サービス」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+- 誰に：
+  - 「金属業界の脱炭素化を推進する SUN METALON Inc.（以下、Sun Metalon）は、昨年発表いたしましたシリーズ A 1st クローズに続く 2nd クローズにて、日本製鉄、国際協力銀行（JBIC）、Airbus Ventures、Shimadzu Future Innovation Fund（運営者：グローバル・ブレイン）を引受先とする約 13 億円※（910 万米ドル）の第三者割当増資を実施いたしました」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「当社主要顧客である自動車、建機、重工業、鉄鋼メーカーなどの製造業を多数擁するシカゴ近郊に本社を移転することで、より良い製品・サービスを顧客に提供することを目指します」（https://sunmetalon.com/jp/news/sun-metalon-announces-relocation-of-headquarters-to-illinois・1回目）
+  - 「金属業界の脱炭素化を推進する株式会社SUN METALON（以下、SUN METALON）とコマツは、鉄系研磨スラッジの新リサイクルプロセスに関する共同研究を開始しました」（https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge・1回目）
+  - 「Forbes JAPANが毎年、創業10年以内の起業家を中心に、直近1年間の事業進捗や資金調達状況をもとに約200組のロングリストを作成し、業界有識者からの推薦を経て選出する独自の企画です」（https://sunmetalon.com/jp/news/featured-in-forbes-2025-japans-best-startup-employers・1回目）
+  - 「金属業界の脱炭素化を推進する SUN METALONは、このたび新たなブランディング戦略のもと、企業ウェブサイトおよびロゴをリニューアルしました」（https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo・1回目）
+  - 「当社の設備・技術力をご紹介するとともに、金属リサイクル業界の最新情報を得られる情報源としても、ぜひご活用ください」（https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo・1回目）
+  - 「金属業界の脱炭素化を推進するSUN METALON Inc.（以下、SUN METALON）は、日米の投資家および金融機関より、総額31億円の資金調達を実施しました」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「当社は低コスト・低 CO2 を実現する独自加熱技術により、金属業界の脱炭素化を先導していきます」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「同社はすでに、自動車業界、建設機械、重工業、鉄鋼製造業の大手企業と提携し、各業界における脱炭素化の取り組みに貢献している」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「アパレル・インテリア業界事例」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「その他業界事例」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「医療業界事例」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+- お金の形：
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+- いくら：
+  - 「Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達、累計調達額は 58 億円（約 4 千万米ドル）に」（https://sunmetalon.com/jp/news・1回目）
+  - 「シリーズA 1stクローズにて日米の投資家・金融機関より総額31億円を調達」（https://sunmetalon.com/jp/news・1回目）
+  - 「プレシリーズAラウンドにて総額約8億円の資金調達実施のご報告」（https://sunmetalon.com/jp/news・1回目）
+  - 「SUN METALONがシードラウンドにてUTEC, D4V, UC Berkeley等より190万ドルの資金調達を実施しました」（https://sunmetalon.com/jp/news・1回目）
+  - 「Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達 – Sun Metalon」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達、累計調達額は 58 億円（約 4 千万米ドル）に」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「金属業界の脱炭素化を推進する SUN METALON Inc.（以下、Sun Metalon）は、昨年発表いたしましたシリーズ A 1st クローズに続く 2nd クローズにて、日本製鉄、国際協力銀行（JBIC）、Airbus Ventures、Shimadzu Future Innovation Fund（運営者：グローバル・ブレイン）を引受先とする約 13 億円※（910 万米ドル）の第三者割当増資を実施いたしました」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「今回の資金調達により、創業以来の累計調達額（融資枠を含む）は約 58 億円（3,984万米ドル）となります」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「※ 1 米ドル＝145 円で換算」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「シリーズA 1stクローズにて日米の投資家・金融機関より総額31億円を調達」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「金属業界の脱炭素化を推進するSUN METALON Inc.（以下、SUN METALON）は、日米の投資家および金融機関より、総額31億円の資金調達を実施しました」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「シリーズA 1stクローズにて、JICベンチャー･グロース･インベストメンツ、HITE Hedge Asset Management、住友商事グローバルメタルズに加え、既存投資家である東京大学エッジキャピタルパートナーズ（UTEC）、グロービス・キャピタル・パートナーズ、D4V、i-nest capital、Scrum Ventures、Berkeley SkyDeckを引受先とする約26億円※1（1,768万ドル）の第三者割当増資を実施するとともに、三井住友銀行から5億円を上限とする融資枠の設定を行いました」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+- 検索結果の抜粋：
+  - 「SUN METALON がシリーズAラウンドで2100万ドル（約31億 ... — SUN METALON がシリーズAラウンドで2100万ドル（約31億 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「Turn your metal waste into revenue - Sun Metalon — Turn your metal waste into revenue - Sun Metalon Sun Metalon https://sunmetalon.com > ...」（https://sunmetalon.com/jp・3回目）
+  - 「SUN METALON Inc. - スピーダ スタートアップ情報リサーチ — SUN METALON Inc. - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-40193・3回目）
+  - 「株式会社 SUN METALON ｜事業内容・特徴・採用・求人 — 株式会社 SUN METALON ｜事業内容・特徴・採用・求人 スタクラ https://startupclass.co.jp > ... > サステナビリティ・環境」（https://startupclass.co.jp/online/companies/1195/・3回目）
+  - 「米国法人 SUN METALON Inc.に対する出資 | JBIC 国際協力銀行 — 米国法人 SUN METALON Inc.に対する出資 | JBIC 国際協力銀行 JBIC 国際協力銀行 https://www.jbic.go.jp > press > press-2025 > press_00022」（https://www.jbic.go.jp/ja/information/press/press-2025/press_00022.html・3回目）
+  - 「株式会社 SUN METALON | 分煙機（喫煙ブース） — 株式会社 SUN METALON | 分煙機（喫煙ブース） qleanair.jp https://www.qleanair.jp > ... > 国内 > 製造・物流業」（https://www.qleanair.jp/cases/sun_metalon/・3回目）
+  - 「Sun Metalon — Bizgram — Sun Metalon — Bizgram 株式会社図解総研 https://bizgram.zukai.co > ...」（https://bizgram.zukai.co/f91db6798c27/vcxn6iyevyvz・3回目）
+  - 「株式会社 SUN METALON - J-Startup — 株式会社 SUN METALON - J-Startup J-Startup https://www.j-startup.go.jp > Startups」（https://www.j-startup.go.jp/startups/087a-sunmetalon.html・3回目）
+  - 「「 SUN METALON 」は金属3Dプリンターの高速化を実現し — 「 SUN METALON 」は金属3Dプリンターの高速化を実現し YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=4i-5PJBrey4・3回目）
+  - 「【プレスリリース】i-nest capitalが「 SUN METALON Inc.」へ ... — 【プレスリリース】i-nest capitalが「 SUN METALON Inc.」へ ... i-nest Capital株式会社 https://www.i-nestcapital.com > news」（https://www.i-nestcapital.com/news/230407.html・3回目）
+  - 「「 SUN METALON 」は金属3Dプリンターの高速化を実現し — 「 SUN METALON 」は金属3Dプリンターの高速化を実現し INDUSTRY CO-CREATION https://industry-co-creation.com > catapult」（https://industry-co-creation.com/catapult/84805・3回目）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）
+
+## Shimoda Iron Works Co Ltd (日本語社名は未確認)
+- 公式URL：特定できず（not_found）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 取引先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 誰から：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 何をする：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- 誰に：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- お金の形：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+- いくら：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索12回）
+
+## TKE
+- 公式URL：https://tke.org/（search:yahoo_jp:TKE）
+- 設立：2006年7月（https://kaidan-noboru.com/・3回目）
+- 事業内容：エレベータ、エスカレーター、その他の乗客物品運搬装置の輸出入および販売、並びに設置、管理、修理、保守（https://kaidan-noboru.com/・3回目）
+- 誰から：
+  - 「From leadership academies to philanthropic partnerships, Tau Kappa Epsilon remains a driving force in personal development and brotherhood. Learn how today’s members are making an impact, living out our values, and shaping the future—on campus and beyond.」（https://tke.org/about-us/・1回目）
+  - 「Leverage the full potential from the Grand Council and Foundation partnership」（https://tke.org/about-us/tke-today/・1回目）
+  - 「Partner/Co-Chairman/Investment Committee - ICenterview Partners Management. LLC」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「ICenterview Partners Management. LLC」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Partner - Archer Gray」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Retired - Price Waterhouse Coopers LLP Partner」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Price Waterhouse Coopers LLP Partner」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Managing Partner/ President - GlobalSolve Management Services」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Partner - Morrell and Morrell, LLC」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Partner - CDK Partners」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「CDK Partners」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+  - 「Managing Partner - Sterner Energy, LLC」（https://tke.org/about-us/tke-today/notable-tekes/・1回目）
+- 何をする：
+  - 「保守/メンテナンス」（https://kaidan-noboru.com/product/・3回目）
+  - 「後日、お客様の階段形状に最も適したレール設計図をお持ちします」（https://kaidan-noboru.com/product/・3回目）
+  - 「建設コンサルタント」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「設備設計事務所」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「建築設計事務所」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「教育・研究機関」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「構造設計事務所」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「プレスリリース TKエレベーターの先進型ホームエレベーター「H300 NXT」がレッドドット・デザイン賞2026を受賞しました H300 NXTは、世界屈指のデザイン会社、イタルデザイン社と共同開発されたホームエレベーターです」（https://kaidan-noboru.com/・3回目）
+  - 「ように設計されています」（https://kaidan-noboru.com/・3回目）
+  - 「エレベータ、エスカレーター、その他の乗客物品運搬装置の輸出入および販売、並びに設置、管理、修理、保守」（https://kaidan-noboru.com/・3回目）
+  - 「3Dプリンタ受託造形を含む」（https://www.takao-net.co.jp/tke/・3回目）
+  - 「工具・治具販売事業」（https://www.takao-net.co.jp/tke/・3回目）
+- 誰に：
+  - 「新着の取付事例/お客様の声」（https://kaidan-noboru.com/product/・3回目）
+  - 「設置事例/お客様の声」（https://kaidan-noboru.com/product/・3回目）
+  - 「新着の設置事例/お客様の声」（https://kaidan-noboru.com/product/・3回目）
+  - 「まずは担当者がご自宅にお伺いし、お客様の階段に最も適した階段昇降機をご紹介させていただきます」（https://kaidan-noboru.com/product/・3回目）
+  - 「後日、お客様の階段形状に最も適したレール設計図をお持ちします」（https://kaidan-noboru.com/product/・3回目）
+  - 「お客様専用のレールを製造いたします」（https://kaidan-noboru.com/product/・3回目）
+  - 「お客様の階段にあった昇降機を提案いたします」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「新着の取付事例/お客様の声」（https://kaidan-noboru.com/・3回目）
+  - 「設置事例/お客様の声」（https://kaidan-noboru.com/・3回目）
+  - 「新着の設置事例/お客様の声」（https://kaidan-noboru.com/・3回目）
+- お金の形：
+  - 「いす式階段昇降機 製品一覧・価格 | 階段昇降機のTKE」（https://kaidan-noboru.com/product/・3回目）
+  - 「危険な階段介護が不要に！ ご自宅にあとから取付けられる「階段昇降機」の価格は？ →ご訪問・階段計測・お見積もりまで完全無料」（https://kaidan-noboru.com/product/・3回目）
+  - 「資料請求・無料お見積り」（https://kaidan-noboru.com/product/・3回目）
+  - 「オンライン現地調査/写真de見積り」（https://kaidan-noboru.com/product/・3回目）
+  - 「価格・取付費用について」（https://kaidan-noboru.com/product/・3回目）
+  - 「いす式階段昇降機 製品一覧・価格」（https://kaidan-noboru.com/product/・3回目）
+  - 「お見積りは無料です」（https://kaidan-noboru.com/product/・3回目）
+  - 「階段昇降機のお見積もりを提出致します」（https://kaidan-noboru.com/product/・3回目）
+  - 「階段昇降機の価格や工事費用を解説～2026年度の補助金・介護保険情報もご紹介～」（https://kaidan-noboru.com/product/・3回目）
+  - 「参考価格（例）：工事費込 約220万円*1（税込）」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「*1: ここに掲載されている価格は参考価格です」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「曲がりの回数、レールの長さ、オプションにより価格は増減します」（https://www.ipros.com/product/detail/2001516391/・3回目）
+- いくら：
+  - 「220万円〜」（https://kaidan-noboru.com/product/・3回目）
+  - 「100万円～」（https://kaidan-noboru.com/product/・3回目）
+  - 「●回転ハンドルも両側に取り付け可能なため、座り降りも楽！」（https://kaidan-noboru.com/product/・3回目）
+  - 「レール：1本スチールパイプレール、直径8cm（円形タイプ）」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「参考価格（例）：工事費込 約220万円*1（税込）」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「100万円 ~ 500万円」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「弊社は、本社をドイツ・デュッセルドルフに置き、ヨーロッパを起点として世界中に製品を供給しているティーケー・エレベーター社の日本法人として設立されました」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「4,700 万円」（https://kaidan-noboru.com/・3回目）
+- 検索結果の抜粋：
+  - 「TKE （テクニカルナレッジエンジニア）ソリューション — TKE （テクニカルナレッジエンジニア）ソリューション ジェムコ日本経営 https://www.jemco.co.jp > glossary > tkeソリューション」（https://www.jemco.co.jp/glossary/tke%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/・3回目）
+  - 「「土間までレールをおろす」提案にびっくり！ TKE の階段昇降機 — 「土間までレールをおろす」提案にびっくり！ TKE の階段昇降機 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > product > detail」（https://www.ipros.com/product/detail/2001516391/・3回目）
+  - 「階段昇降機の TKE — 階段昇降機の TKE kaidan-noboru.com https://kaidan-noboru.com」（https://kaidan-noboru.com/・3回目）
+  - 「TKE 階段に取り付ける階段昇降機の製造メーカー ... - Instagram — TKE 階段に取り付ける階段昇降機の製造メーカー ... - Instagram Instagram https://www.instagram.com > tk_home_solutions_japan」（https://www.instagram.com/tk_home_solutions_japan/・3回目）
+  - 「TKE S200 - 株式会社コーケン（らくらく365福祉機器） — TKE S200 - 株式会社コーケン（らくらく365福祉機器） rakuraku365.jp https://rakuraku365.jp > project > tke　s200」（https://rakuraku365.jp/project/tke%E3%80%80s200/・3回目）
+  - 「TKE 株式会社 - 高雄工業 — TKE 株式会社 - 高雄工業 高雄工業株式会社 https://www.takao-net.co.jp > tke」（https://www.takao-net.co.jp/tke/・3回目）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部12頁・検索5回）
+
+## UEL
+- 公式URL：https://uelesports.com/（search:yahoo_jp:UEL）
+- 設立：1984年11月（https://www.oro.com/zac/casestudy/excel.html・3回目）
+- 従業員数：191名（2017年4月時点）（https://www.oro.com/zac/casestudy/excel.html・3回目）
+- 事業内容：UELは純国産の3次元CAD/CAMシステムを自社開発・提供する、日本ユニシスグループのソリューションプロバイダーです。製造業（自動車業界、住宅業界）におけるCAD/CAMを中心とした各種ソリューションの企画・開発・販売・サポートを通じて、日本発の「ものづくり」の革新に寄与するサポートカンパニーを目指しています。（https://www.oro.com/zac/casestudy/excel.html・3回目）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+- 誰から：
+  - 「Partners」（https://uelesports.com/・1回目）
+  - 「Partner」（https://uelesports.com/・1回目）
+  - 「Partners」（https://uelesports.com/about/・1回目）
+  - 「Head of Partnerships」（https://uelesports.com/about/・1回目）
+  - 「Partner」（https://uelesports.com/about/・1回目）
+  - 「Partner with UEL: Boost Your Brand in Gaming's Big Season!」（https://uelesports.com/partnerships/・1回目）
+  - 「Partners」（https://uelesports.com/partnerships/・1回目）
+  - 「partner with UEL」（https://uelesports.com/partnerships/・1回目）
+  - 「Partner with UEL and tap into the dynamic world of competitive gaming during our million-dollar Season 9! Whether you’re looking to」（https://uelesports.com/partnerships/・1回目）
+  - 「From game developers and tech innovators to lifestyle brands and educational institutions, we’re excited to explore new and impactful partnerships.」（https://uelesports.com/partnerships/・1回目）
+  - 「How can we partner?」（https://uelesports.com/partnerships/・1回目）
+  - 「Partner」（https://uelesports.com/partnerships/・1回目）
+- 何をする：
+  - 「大連一得設計有限公司」（https://www.biprogy-uel.co.jp/cadmeister/service/global_support.shtml・3回目）
+  - 「フル3D設計を“仕組み”に変えて定着させたその手法」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「-設計工数15％削減、成形機変更時の設計変更工数40%削減を実現-」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「株式会社駿河エンジニアリングは、樹脂成形金型の“フル3D設計の定着”と“設計変更に強い体制づくり”を目的に、3次元CAD/CAM/CAE「CADmeister」を導入」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「射出成形の実案件から立ち上げ、パラメトリック機能を用いたひな型設計により、設計工数10〜15％削減、成形機変更時の設計変更作業40％削減を実現しました」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「現在は設計部10名がフル3D設計を実践し、属人化の解消と品質の均一化を推進」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「CADmeisterを設計DXの基盤として、人材育成とリードタイム短縮を両立しています」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「CADmeisterを活用した金型設計システムの構築」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「〜 プレス金型設計自動化・3Dダイレイアウトの運用に向けた取り組み 〜」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「株式会社エイチワンは、金型設計自動化ならびにダイレイアウト設計の3D化に挑戦している」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「取り組みの結果、金型設計工数削減を実現した」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「特にモデリング作業においては1年目設計者、4年目設計者ともに大幅削減となり効果を確認している」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+- 誰に：
+  - 「お客様事例一覧｜CADmeister (キャドマイスター) - UEL株式会社」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「お客様事例を見る」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「お客様事例一覧」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「」大手取引先からの信頼と期待のこもった助言をもとに、開田鋳造所では2005年に 3次元CAD/CAMシステムとフルモールド模型3次元加工機を導入」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「PRESS力学的ねじれ見込変形機能 導入事例」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「お客様のニーズに応えた検査冶具を最高品質で提供」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「3歩先の効率を考えた検査冶具を製作し、取引先のメーカから信頼を得ています」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「業界最高水準の超短納期を」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「この強みと人と人とのつながりでお客様と私達のお互いが幸せになれる仕事を続けています」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「今は金型業界の転換期」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「正直な心と正直な技術でお客様のニーズにこたえるものづくり」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「要求品質を満たすためには、お客様の要望を正しく聞き把握することと先を見越した製品づくり、そして思いを製品に入れることが必要」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+- お金の形：
+  - 「気軽な料金体系から広がるつながり」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「小規模企業でも気軽に使える画期的な料金体系と、かゆいところに手が届く機能で、ユーザー同士のつながり広がっています」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「1〜2週間から即日対応へ――アマダが選んだサブスク×クラウド管理の強み」（https://www.biprogy-uel.co.jp/category/case-study/・3回目）
+  - 「サブスクリプション管理オプション」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「弊社は自社パッケージの販売とあわせて、その製品の年間保守サービスを販売しています」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「年間保守サービスでは1年分の保守料をまとめて請求し前受金として処理し、その前受金を12分割した金額を毎月売上計上していくのです」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「ZACの機能や価格を詳しく知るなら」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「詳しい機能、価格について」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「参考基準価格(税別)」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「販売価格(税込)」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「販売価格(税別)」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「台東区 YOGA CENTER UeL 藝の料金・営業時間・口コミ | 美の体を目指して B-MAKE」（https://kimitsu-iron.jp/find-gym/yogacenteruel-asakusa/・3回目）
+- いくら：
+  - 「例えば、年間で120万円（毎月の売上計上額は10万円）の保守サービスの場合、請求を起こすために一度120万円で売上計上し、それから赤伝票を切って110万円を取り消し、差額の10万円を当月の売上として計上するといった処理をカスタマイズし運用していました」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「参考基準価格(税別)」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「販売価格(税込)」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「販売価格(税別)」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「ハンドル形状」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「SBFS型 ステンレス ボールバルブ 蝶ハンドル SCS14A(SUS316相当) レデューストボア 600PSi」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「防爆 丸型バルブハンドル」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「500円クーポン」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「ニードルバルブ」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「3,000円」（https://kimitsu-iron.jp/find-gym/yogacenteruel-asakusa/・3回目）
+  - 「2,000円」（https://kimitsu-iron.jp/find-gym/yogacenteruel-asakusa/・3回目）
+  - 「9,800円」（https://kimitsu-iron.jp/find-gym/yogacenteruel-asakusa/・3回目）
+- 検索結果の抜粋：
+  - 「サービス ｜ CADmeister (キャドマイスター) - UEL株式会社 — サービス ｜ CADmeister (キャドマイスター) - UEL株式会社 UEL株式会社 https://www.biprogy-uel.co.jp > service > global_support」（https://www.biprogy-uel.co.jp/cadmeister/service/global_support.shtml・3回目）
+  - 「UEL株式会社 — 国産3D CAD/CAM「CADmeister」、大容量ポリゴン編集「POLYGONALmeister」、環境規制対応クラウド「CiPHub」などで設計・製造DXを支援し、工数80％削減と品質向上を実現するUEL公式サイト。」（https://www.biprogy-uel.co.jp/・3回目）
+  - 「代理店契約（エージェント方式）とは？仕組み・契約条項について解説 ...会社案内 - UEL株式会社代理店契約書とは？雛形をもとに内容や注意点を解説 | 電子契約サービ...販売パートナーとの契約（販売店契約，代理店契約） | IT法務.COM｜弁...代理店契約書の正しい書き方と種類について弁護士が解説 | モノリス法...販売代理店契約とは？販売店契約と代理店契約の違い・契約書作成時の... — どのタイミングで代理店からサプライヤーに引き継ぐのか？ 代理店が実施する営業代行の業務（以下、「代理店業務」といいます）は、代理店契約の内容によって、様々です。 契約内容として代理店業務を確定させる際にポイントになるのは、どのタイミングで、代理店からサプライヤーに対して、営業を引き継ぐのか、という点です。 最後まで引き継ぎなしで契約を完結させるのが、すでに触れた、代理権を授与される代理店契約の」（https://xn--wtsq13a09q.jp/agency-contract/・3回目）
+  - 「お客様 事例 一覧｜CADmeister (キャドマイスター) — お客様 事例 一覧｜CADmeister (キャドマイスター) UEL株式会社 https://www.biprogy-uel.co.jp > cadmeister > case > list」（https://www.biprogy-uel.co.jp/cadmeister/case/list.shtml・3回目）
+  - 「事例 - UEL 株式会社 — 事例 - UEL 株式会社 UEL株式会社 https://www.biprogy-uel.co.jp > category > case-study」（https://www.biprogy-uel.co.jp/category/case-study/・3回目）
+  - 「UEL 株式会社 ZAC 導入事例 - オロ — UEL 株式会社 ZAC 導入事例 - オロ 株式会社オロ https://www.oro.com > zac > casestudy > excel」（https://www.oro.com/zac/casestudy/excel.html・3回目）
+  - 「UEL チャンネル - YouTube — UEL チャンネル - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UC3RVvmz1bmVWDbWT8NkxgYQ・3回目）
+  - 「お客様 事例 ｜CADmeister (キャドマイスター) - UEL 株式会社 — お客様 事例 ｜CADmeister (キャドマイスター) - UEL 株式会社 UEL株式会社 https://www.biprogy-uel.co.jp > cadmeister > case」（https://www.biprogy-uel.co.jp/cadmeister/case/・3回目）
+  - 「UEL -15A ゲートバルブ(10K)( UEL シリーズ) KITZ(キッツ) 材質 ... — UEL -15A ゲートバルブ(10K)( UEL シリーズ) KITZ(キッツ) 材質 ... モノタロウ https://www.monotaro.com > ...」（https://www.monotaro.com/p/0223/1607/?srsltid=AYCX9vJo1pkvG77D78xzyZjxkAIEFCYMLysYyxdsp00pLC85DjaKdWt8・3回目）
+  - 「台東区 YOGA CENTER UeL 藝の 料金 ・営業時間・口コミ — 台東区 YOGA CENTER UeL 藝の 料金 ・営業時間・口コミ 君津ウルトラマラソン https://kimitsu-iron.jp > 記事一覧 > 浅草　ヨガ」（https://kimitsu-iron.jp/find-gym/yogacenteruel-asakusa/・3回目）
+  - 「ゲートバルブ( UEL ) キッツ【GrowingNavi】 — ゲートバルブ( UEL ) キッツ【GrowingNavi】 Growing Navi http://www.growingnavi.com > series > 0302_UEL」（http://www.growingnavi.com/series/0302_UEL/・3回目）
+  - 「ステンレス鋼製汎用10Kゲートバルブねじ込み UEL -50A - ミスミ — ステンレス鋼製汎用10Kゲートバルブねじ込み UEL -50A - ミスミ MISUMI https://jp.misumi-ec.com > vona2 > detail > HissuCode=U...」（https://jp.misumi-ec.com/vona2/detail/221000052114/?HissuCode=UEL-50A&srsltid=AYCX9vI2ZJeb5M5wjuYs63gztZ8dcPKlM3XQt65nW_A-vCAFYjJNtSem・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部12頁・検索5回）
+
+## UNIPOS
+- 公式URL：https://www.unipos.net（given）
+- 設立：1991年6月1日（https://www.unipos.net/company/・1回目）
+- 設立：2012年（https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8・3回目）
+- 設立：年 月 日（https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8・3回目）
+- 従業員数：30〜99人（https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8・3回目）
+- 事業内容：UNIPOS – ユニポス 研究開発者向け海外製品調達・コンサルテーションサービス TEGSYS – テグシス 研究開発や産業用ニーズに最適化されたカスタムPC製作サービス テガラ株式会社 TKS事業部 「ターン・キー」で使える研究開発・実験用機材一式構築サービス（https://www.unipos.net/company/・1回目）
+- 事業内容：電子計算機類 (217) / 事務用機器類 (220) / その他 (229)（https://www.unipos.net/company/・1回目）
+- 取引先：ユニポスの主要販売先 テグシスの主要販売先（https://www.unipos.net/company/・1回目）
+- 誰から：
+  - 「BUSINESS-PARTNERS」（https://www.unipos.net/business-partners/・1回目）
+  - 「▶️毒物劇物輸入業登録： 登録番号： 東海第10174号」（https://www.unipos.net/company/・1回目）
+  - 「FIND-PARTNERS」（https://www.unipos.net/find-partners/・1回目）
+  - 「海外の化学品輸入販売サービス」（https://www.unipos.net/search-contents/services/・1回目）
+  - 「日本語SDS 作成も含めて、海外からの化学品関連製品の輸入をワンストップでサポートいたします」（https://www.unipos.net/search-contents/services/・1回目）
+  - 「海外製品輸入に際しての手続き(必要書類等)についてのご相談」（https://www.unipos.net/request/・1回目）
+  - 「株式会社Re-grit Partners」（https://unipos.me/ja/blog/case-study・3回目）
+- 何をする：
+  - 「UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス」（https://www.unipos.net/・1回目）
+  - 「コンサルテーションサービス」（https://www.unipos.net/・1回目）
+  - 「研究開発者向けレンタルサービス」（https://www.unipos.net/・1回目）
+  - 「教育・人間学」（https://www.unipos.net/・1回目）
+  - 「教育・研究機器」（https://www.unipos.net/・1回目）
+  - 「設計・モデリング」（https://www.unipos.net/・1回目）
+  - 「# 教育用ロボット」（https://www.unipos.net/・1回目）
+  - 「HumansX フィジカルAI教育キット」（https://www.unipos.net/・1回目）
+  - 「ロボット設計制御 フィジカルAI実習 ロボティクス教材」（https://www.unipos.net/・1回目）
+  - 「6ポート構成 小型組み込み設計 EtherCATスイッチ」（https://www.unipos.net/・1回目）
+  - 「軽量デスクトップ設計 力位置ハイブリッド制御 6自由度ロボットアーム」（https://www.unipos.net/・1回目）
+  - 「コンサルテーションサービス」（https://www.unipos.net/tegakari/・1回目）
+- 誰に：
+  - 「お客様の目的、ご要望に応じた最適なサービスをお選びください」（https://www.unipos.net/・1回目）
+  - 「お客様の目的、ご要望に応じた最適なサービスをお選びください」（https://www.unipos.net/tegakari/・1回目）
+  - 「導入事例（ユニポス × テグシス）」（https://www.unipos.net/tegakari/・1回目）
+  - 「お客様の目的、ご要望に応じた最適なサービスをお選びください」（https://www.unipos.net/business-partners/・1回目）
+  - 「商社様の営業スタイルに合わせ、お客様とのビジネスをご支援します」（https://www.unipos.net/business-partners/・1回目）
+  - 「お客様の目的、ご要望に応じた最適なサービスをお選びください」（https://www.unipos.net/company/・1回目）
+  - 「ユニポスの主要販売先」（https://www.unipos.net/company/・1回目）
+  - 「テグシスの主要販売先」（https://www.unipos.net/company/・1回目）
+  - 「お客様の目的、ご要望に応じた最適なサービスをお選びください」（https://www.unipos.net/about/・1回目）
+  - 「お客様ご自身で海外サイトから製品の購入先を探す手間が省けます」（https://www.unipos.net/about/・1回目）
+  - 「大学や公的機関のお客様へは、納入と同時に代表者印付き正式書類(見積書・請求書・納品書)をお送りしています」（https://www.unipos.net/about/・1回目）
+  - 「また、企業のお客様へも法人掛売りに対応でき、納入と同時に納品書、請求書をお送りしています」（https://www.unipos.net/about/・1回目）
+- お金の形：
+  - 「お見積もり依頼・お問い合わせ」（https://www.unipos.net/・1回目）
+  - 「サプライ・消耗品」（https://www.unipos.net/・1回目）
+  - 「ライセンス規約に」（https://www.unipos.net/・1回目）
+  - 「LayoutEditorを複数拠点で利用するには？ノートPCでのライセンス運用例」（https://www.unipos.net/・1回目）
+  - 「テガラ・アカウントサイト 操作ガイド｜見積書・注文状況・ライセンスの確認」（https://www.unipos.net/・1回目）
+  - 「お見積もり・お問い合わせはこちら」（https://www.unipos.net/・1回目）
+  - 「LayoutEditorを複数拠点で利用するには？ノートPCでのライセンス運用例」（https://www.unipos.net/tegakari/・1回目）
+  - 「テガラ・アカウントサイト 操作ガイド｜見積書・注文状況・ライセンスの確認」（https://www.unipos.net/tegakari/・1回目）
+  - 「お見積もり・お問い合わせはこちら」（https://www.unipos.net/tegakari/・1回目）
+  - 「お見積もりのご依頼はお見積もりフォームよりご連絡ください」（https://www.unipos.net/business-partners/・1回目）
+  - 「お見積もり依頼・お問い合わせ」（https://www.unipos.net/business-partners/・1回目）
+  - 「お見積もり・お問い合わせはこちら」（https://www.unipos.net/business-partners/・1回目）
+- いくら：
+  - 「1,000万円」（https://www.unipos.net/company/・1回目）
+  - 「国内株 手数料0円」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「開設・維持費0円」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「※国内株式売買手数料0円（ゼロ革命）の適用には、インターネットコースの利用と電子交付設定等の条件があります」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「1円〜5円の設定」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「わざわざメッセージを書く時間がない時でも、拍手ボタン一つで共感を示すことができるため、参加のハードルが低く、多くの従業員が気軽に関わることができます」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「手数料0円で投資環境を整えるなら」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「1ポイント=1円〜5円」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「各ツールの料金体系は異なりますが、一般的に従業員1人あたり月額数百円程度が相場とされています」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「1日50万円以下なら手数料無料」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「チャットなどの業務連絡や、わざわざ伝える機会がない感謝の表現をUniposでやることで普段のコミュニケーションが円滑になっていると感じます」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「1ポイント=1円〜5円の範囲で、自社の予算と従業員の感覚に合った設定を行いましょう」（https://www.soico.jp/no1/news/securities/5032・3回目）
+- 検索結果の抜粋：
+  - 「よくあるご質問 | UNIPOS ( ユニポス ) | 海外ソフト ハードの ... — よくあるご質問 | UNIPOS ( ユニポス ) | 海外ソフト ハードの ... unipos.net https://www.unipos.net > faq」（https://www.unipos.net/faq/・3回目）
+  - 「利用約款 | ピアボーナス Unipos で、組織エンゲージメントを ... — 利用約款 | ピアボーナス Unipos で、組織エンゲージメントを ... unipos.me https://unipos.me > terms_of_use」（https://unipos.me/ja/terms_of_use・3回目）
+  - 「Unipos 株式会社 - OpenWork — Unipos 株式会社 - OpenWork OpenWork https://www.openwork.jp > ... > Unipos > 退職検討理由」（https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8・3回目）
+  - 「Unipos 株式会社 | 収益管理プラットフォーム「ソアスク」 — Unipos 株式会社 | 収益管理プラットフォーム「ソアスク」 株式会社オプロ https://subsc.opro.net > ソアスク > 導入事例」（https://subsc.opro.net/soasc/case/unipos.html・3回目）
+  - 「Unipos 株式会社との業務提携 契約 締結について — Unipos 株式会社との業務提携 契約 締結について 三井住友信託銀行 PDF https://www.smtb.jp > corporate > release > pdf」（https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250204.pdf・3回目）
+  - 「支援 事例 一覧 | ピアボーナス Unipos で、組織エンゲージメント ... — 支援 事例 一覧 | ピアボーナス Unipos で、組織エンゲージメント ... unipos.me https://unipos.me > blog > case-study」（https://unipos.me/ja/blog/case-study・3回目）
+  - 「支援 事例 | ピアボーナス Unipos で、組織エンゲージメントを ... — 支援 事例 | ピアボーナス Unipos で、組織エンゲージメントを ... unipos.me https://unipos.me > blog」（https://unipos.me/ja/blog・3回目）
+  - 「活用 事例 集_ Unipos 株式会社 - AppExchange - Salesforce — 活用 事例 集_ Unipos 株式会社 - AppExchange - Salesforce Salesforce https://appexchangejp.salesforce.com > curated > case_stu...」（https://appexchangejp.salesforce.com/mktcollections/curated/case_studies_detail50・3回目）
+  - 「Unipos の特徴や 導入事例 ～人事評価GUIDE～ — Unipos の特徴や 導入事例 ～人事評価GUIDE～ win-win-hyoka.com https://www.win-win-hyoka.com > list > unipos」（https://www.win-win-hyoka.com/list/unipos.html・3回目）
+  - 「Unipos とは？ 料金 や評判から導入効果まで解説【2026年】 — Unipos とは？ 料金 や評判から導入効果まで解説【2026年】 SOICO株式会社 https://www.soico.jp > news > securities」（https://www.soico.jp/no1/news/securities/5032・3回目）
+  - 「ピアボーナス Unipos の 価格 （ 料金 ・費用） - ITreview — ピアボーナス Unipos の 価格 （ 料金 ・費用） - ITreview ITreview https://www.itreview.jp > ... > ピアボーナスUnipos」（https://www.itreview.jp/products/unipos/price・3回目）
+  - 「システム利用 料金 の発生条件（上限人数型） - Uniposサポート — システム利用 料金 の発生条件（上限人数型） - Uniposサポート support.unipos.me https://support.unipos.me > articles > 28940924160409-...」（https://support.unipos.me/hc/ja/articles/28940924160409-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91%E3%81%AE%E7%99%BA%E7%94%9F%E6%9D%A1%E4%BB%B6-%E4%B8%8A%E9%99%90%E4%BA%BA%E6%95%B0%E5%9E%8B・3回目）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像2件／外部11頁・検索4回）
+
+## VDM Metals Japan
+- 公式URL：https://www.vdm-metals.com/en/company/about-vdm-metals/locations（given）
+- 誰から：
+  - 「Alle Ansprechpartner」（https://www.vdm-metals.com/en/company/about-vdm-metals/locations・1回目）
+  - 「Distributor plates」（https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/aluminum-and-copper-products・1回目）
+  - 「VDM Metals is your partner for innovative solutions from metal. We supply materials that find use in many different applications, due to their specific combinations of properties.」（https://www.vdm-metals.com/en/products-and-services/fields-of-application・1回目）
+- 検索結果の抜粋：
+  - 「VDM Metals Japan K.K. / ブィデーエム メタルズ ジャパン 株式 ... — VDM Metals Japan K.K. / ブィデーエム メタルズ ジャパン 株式 ... AHK Japan https://japan.ahk.de > membership > vdm-metals-japan-k.k.」（https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- 誰に：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+- いくら：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）
+
+## rightmfg.co.jp 運営会社(社名ページ未取得)
+- 公式URL：https://rightmfg.co.jp/（given）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 誰から：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- 誰に：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+- いくら：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）
+
+## アズワン株式会社（AS ONE）
+- 公式URL：https://www.as-1.co.jp（given）
+- 設立：昭和37年6月1日（1962年）（https://www.as-1.co.jp/company/profile/・1回目）
+- 設立：昭和37年6月1日（1962年）（https://www.as-1.co.jp:443/company/profile/・1回目）
+- 従業員数：758名（2026年3月末現在）（https://www.as-1.co.jp/company/profile/・1回目）
+- 従業員数：758名（2026年3月末現在）（https://www.as-1.co.jp:443/company/profile/・1回目）
+- 売上高：1,106億9800万円（2026年3月期）（https://www.as-1.co.jp/company/profile/・1回目）
+- 売上高：1,106億9800万円（2026年3月期）（https://www.as-1.co.jp:443/company/profile/・1回目）
+- 事業内容：研究用機器機材、看護・介護用品、その他科学機器の販売（https://www.as-1.co.jp/company/profile/・1回目）
+- 事業内容：倉庫管理及び荷役）（https://www.as-1.co.jp/company/profile/・1回目）
+- 事業内容：プラスチック製容器および理化学実験器具・機器の製造・販売）（https://www.as-1.co.jp/company/profile/・1回目）
+- 取引先：株式会社旭製作所／株式会社アルファパーチェス／アルフレッサ株式会社／株式会社池田理化／遠藤科学株式会社／オザワ科学株式会社／化研テクノ株式会社／杉本商事株式会社／株式会社スズケン／正晃株式会社／株式会社大一器械／タカヤマケミカル株式会社／東北化学薬品株式会社／トラスコ中山株式会社／中山商事株式会社／広島和光株式会社／北海道和光純薬株式会社／株式会社ムトウ／メディアスホールディングス株式会社／株式会社メディセオ／株式会社MonotaRO／株式会社八神製作所／八洲薬品株式会社／理科研株式会社／和研薬株式会社／他（https://www.as-1.co.jp/company/profile/・1回目）
+- 取引先：アルバック機工株式会社／小津産業株式会社／オムロンコーリン株式会社／キッコーマンバイオケミファ株式会社／株式会社共立理化学研究所／サーモフィッシャーサイエンティフィック株式会社／サカセ化学工業株式会社／株式会社重松製作所／柴田科学株式会社／株式会社島津製作所／スリーエムジャパン株式会社／株式会社タニタ／株式会社ニチリョー／ニプロ株式会社／日本製紙クレシア株式会社／日本ベクトン・ディッキンソン株式会社／バイオ・ラッドラボラトリーズ株式会社／ＰＨＣ株式会社／パラマウントベッド株式会社／フクシマガリレイ株式会社／株式会社堀場製作所／株式会社マルエム／メルク株式会社／ヤマト科学株式会社／他（https://www.as-1.co.jp/company/profile/・1回目）
+- 取引先：株式会社旭製作所／株式会社アルファパーチェス／アルフレッサ株式会社／株式会社池田理化／遠藤科学株式会社／オザワ科学株式会社／化研テクノ株式会社／杉本商事株式会社／株式会社スズケン／正晃株式会社／株式会社大一器械／タカヤマケミカル株式会社／東北化学薬品株式会社／トラスコ中山株式会社／中山商事株式会社／広島和光株式会社／北海道和光純薬株式会社／株式会社ムトウ／メディアスホールディングス株式会社／株式会社メディセオ／株式会社MonotaRO／株式会社八神製作所／八洲薬品株式会社／理科研株式会社／和研薬株式会社／他（https://www.as-1.co.jp:443/company/profile/・1回目）
+- 誰から：
+  - 「販売代理店の皆さまへ | アズワン」（https://www.as-1.co.jp/merchandise/dealer/・1回目）
+  - 「販売代理店の皆さまへ」（https://www.as-1.co.jp/merchandise/dealer/・1回目）
+- 何をする：
+  - 「販売店様向け情報」（https://www.as-1.co.jp/・1回目）
+  - 「販売店のご紹介」（https://www.as-1.co.jp/・1回目）
+  - 「計測器レンタルサービス」（https://www.as-1.co.jp/・1回目）
+  - 「販売中止情報」（https://www.as-1.co.jp/・1回目）
+  - 「販売中止情報 2026年10月9日更新（XLSX：29.4 KB）」（https://www.as-1.co.jp/・1回目）
+  - 「計測器レンタル」（https://www.as-1.co.jp/・1回目）
+  - 「最短5日から3年長期レンタルまで」（https://www.as-1.co.jp/・1回目）
+  - 「ラボをまるごとレンタルしたい方も、ご相談ください」（https://www.as-1.co.jp/・1回目）
+  - 「ai-com web（アイコムウェブ）は販売店様の営業活動に欠かせない商品毎の仕入れから在庫、出荷、販売の情報をスピーディー＆確実にお届けするネットワークシステムです」（https://www.as-1.co.jp/・1回目）
+  - 「販売店様向け情報・サービス」（https://www.as-1.co.jp/・1回目）
+  - 「ニュースリリース」（https://www.as-1.co.jp/・1回目）
+  - 「販売店様向け情報」（https://www.as-1.co.jp/merchandise/repair/・1回目）
+- 誰に：
+  - 「専門スタッフがお客様の現場へお伺いいたします」（https://www.as-1.co.jp/merchandise/repair/・1回目）
+  - 「アズワンは、「科学」・「医療」を中心とした専門分野を主な事業領域とし、顧客が必要とする商品・サービス・情報を提供することで、社会に貢献する企業を目指します」（https://www.as-1.co.jp/company/vision/・1回目）
+  - 「市場環境が大きく変化しようとしている今、私たちはユーザー様、販売店様、仕入先様の皆様方とともに、新しい価値の創造に取り組み発展していきたいと願っております」（https://www.as-1.co.jp/company/vision/・1回目）
+  - 「顧客満足度の追求で未来を拓く」（https://www.as-1.co.jp:443/company/message/・1回目）
+  - 「その間「必要なものを必要なときに必要なだけお届けする」という言葉に代表されるお客様本位の発想（顧客満足度の追求）のもと、日々業務革新を遂げて新しい仕組みを創造していくというビジネスサイクルを繰り返してまいりました」（https://www.as-1.co.jp:443/company/message/・1回目）
+  - 「当社は、今後も「革新と創造」という経営理念のもと、新しい分野を切り開き、高度化・多様化するお客様のニーズを捉え、お客様に喜んでいただける商品とサービスをご提供してまいります」（https://www.as-1.co.jp:443/company/message/・1回目）
+  - 「お客様の欲しい物が必ず見つかり、早く、簡単に手に入れられるように」（https://www.as-1.co.jp:443/company/business/・1回目）
+  - 「業界を大きくリードする品揃えは、内外3,700社を超えるサプライヤー様のご協力により実現しています」（https://www.as-1.co.jp:443/company/business/・1回目）
+  - 「営業現場やカスタマー相談センター等にいただいたユーザー様の声をもとに、有名メーカー品だけでなく独自規格のオリジナル商品、グローバルな視野で独自に発掘した海外商品等を掲載し、カタログの面白味を増しています」（https://www.as-1.co.jp:443/company/business/・1回目）
+  - 「業界トップレベルのロジスティクスシステムを確立しています」（https://www.as-1.co.jp:443/company/business/・1回目）
+  - 「お客様には大変ご不便をおかけいたしますが、ご理解とご協力を賜りますようお願い申し上げます」（https://www.as-1.co.jp/news/detail/post_185.html・1回目）
+  - 「ユーザー ID:」（https://www.as-1.co.jp:443/news/・1回目）
+- お金の形：
+  - 「価格改定・訂正情報」（https://www.as-1.co.jp/・1回目）
+  - 「価格改定のお知らせ（PDF：10.0 MB）」（https://www.as-1.co.jp/・1回目）
+  - 「科学機器、消耗品から工場MRO、病院・介護用品のすべてが揃う総合WEBショップ」（https://www.as-1.co.jp/・1回目）
+  - 「見積・発注・請求処理をひとつのサービスで」（https://www.as-1.co.jp/・1回目）
+  - 「各種お見積りは、現品をお預りしてからとなります」（https://www.as-1.co.jp/merchandise/repair/・1回目）
+  - 「(*1) 校正対応サービスについて、現品をお預かりする前にお見積りをご希望の際は、以下リンクから」（https://www.as-1.co.jp/merchandise/repair/・1回目）
+  - 「校正・現品預かり前の見積問い合わせ」（https://www.as-1.co.jp/merchandise/repair/・1回目）
+  - 「価格改定・訂正情報」（https://www.as-1.co.jp/merchandise/repair/・1回目）
+  - 「価格改定・訂正情報」（https://www.as-1.co.jp/company/・1回目）
+  - 「価格改定・訂正情報」（https://www.as-1.co.jp/company/vision/・1回目）
+  - 「価格改定・訂正情報」（https://www.as-1.co.jp/company/profile/・1回目）
+  - 「価格改定・訂正情報」（https://www.as-1.co.jp/company/history/・1回目）
+- いくら：
+  - 「50億7500万円（2026年3月末現在）」（https://www.as-1.co.jp/company/profile/・1回目）
+  - 「1,106億9800万円（2026年3月期）」（https://www.as-1.co.jp/company/profile/・1回目）
+  - 「50億7500万円（2026年3月末現在）」（https://www.as-1.co.jp:443/company/profile/・1回目）
+  - 「1,106億9800万円（2026年3月期）」（https://www.as-1.co.jp:443/company/profile/・1回目）
+- 検索結果の抜粋：
+  - 「販売 代理店 の皆さまへ - アズワン — 販売 代理店 の皆さまへ - アズワン アズワン株式会社 https://www.as-1.co.jp > merchandise > dealer」（https://www.as-1.co.jp/merchandise/dealer/・3回目）
+  - 「販売店のご紹介 - アズワン — 販売店のご紹介 - アズワン アズワン株式会社 https://www.as-1.co.jp > agent」（https://www.as-1.co.jp/agent/・3回目）
+  - 「「 アズワン 」の 代理店 318社 注目ランキング【2026年】 — 「 アズワン 」の 代理店 318社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > アズワン株式会社」（https://metoree.com/companies/2714/distributors/・3回目）
+  - 「近畿 | 販売店のご紹介 - アズワン — 近畿 | 販売店のご紹介 - アズワン アズワン株式会社 https://www.as-1.co.jp > agent > science > kinki」（https://www.as-1.co.jp/agent/science/kinki/・3回目）
+  - 「関東 | 販売店のご紹介 - アズワン — 関東 | 販売店のご紹介 - アズワン アズワン株式会社 https://www.as-1.co.jp > agent > science > kanto」（https://www.as-1.co.jp/agent/science/kanto/・3回目）
+  - 「導入事例 | SANIFOODS（サニーフーズ）特集 - AXEL - アズワン — 導入事例 | SANIFOODS（サニーフーズ）特集 - AXEL - アズワン AXEL https://axel.as-1.co.jp > contents > case」（https://axel.as-1.co.jp/contents/SF/case・3回目）
+  - 「導入事例 ｜ocean｜研究用機器機材の便利な集中購買システム — 導入事例 ｜ocean｜研究用機器機材の便利な集中購買システム アズワン株式会社 https://www.as-1.co.jp > ocean > case_jaea」（https://www.as-1.co.jp/ocean/case_jaea.html・3回目）
+  - 「社内コミュニケーションがより活発に｜ アズワン 株式会社様の ... — 社内コミュニケーションがより活発に｜ アズワン 株式会社様の ... direct4b.com https://direct4b.com > voice > voice-asone」（https://direct4b.com/ja/voice/voice-asone.html・3回目）
+  - 「アズワン 株式会社 — アズワン 株式会社 アズワン株式会社 https://www.as-1.co.jp」（https://www.as-1.co.jp/・3回目）
+  - 「2026年 | 新着情報 - アズワン — 2026年 | 新着情報 - アズワン アズワン株式会社 https://www.as-1.co.jp > news」（https://www.as-1.co.jp/news/・3回目）
+  - 「価格 改定・訂正情報 - 2026年 - アズワン — 価格 改定・訂正情報 - 2026年 - アズワン アズワン株式会社 https://www.as-1.co.jp > news > price_correction」（https://www.as-1.co.jp/news/price_correction/・3回目）
+  - 「お得な アズワン オリジナル商品の検索結果 — お得な アズワン オリジナル商品の検索結果 AXELショップ https://axel.as-1.co.jp > asone > tag」（https://axel.as-1.co.jp/asone/tag/FE0062000/・3回目）
+
+## アニソプリント合同会社（Anisoprint GK）
+- 公式URL：https://anisoprint.com/（given）
+- 設立：-（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+- 誰から：
+  - 「■Composerシリーズ3Dプリンターの日本国内での購入、サポートに関しましては、下記の正規販売代理店までお問い合わせください」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「本日のtopicsは、日本法人アニソプリント合同会社が発表した、Additive Flow社との提携による複合材料設計用トポロジー最適化ソフトウエアツールをご紹介します！」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「連続繊維カーボン強化による3Dプリンターを製造・販売する、Anisoprint S.a.r.l.の日本法人アニソプリント合同会社は、英国の付加製造用ソフトウエア開発企業Additive Flow社との提携により、自社の3Dプリンター用スライサーソフトウエアAuraと互換性を持つCAEツールを発表しました」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「今回のAdditive Flow社との提携により、複合材料の異方性により強化を行う付加製造方法であるAnisoprintingテクノロジーを完全にサポートしたDfAMソリューションが、FormflowとAura 2.4という2つのソフトウエア製品の統合ワークフローにより今すぐに可能となりました」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「Anisoprintが発表した、Additive Flow社との提携による複合材料設計用トポロジー最適化ソフトウエアCAEツールに注目です！」（https://cad-kenkyujo.com/anisoprint/・3回目）
+- 何をする：
+  - 「Anisoprint（アニソプリント）が、"Made in Luxembourg"ラベル貼付製品の出荷を開始 | Anisoprint S.a.r.l.のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「プレスリリース・ニュースリリース配信サービスのPR TIMES」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「プレスリリースを受信」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「連続繊維カーボン強化による3Dプリンターを製造・販売する、Anisoprint S.a.r.l.（本社：ルクセンブルク、CEO：Fedor Antonov、以下Anisoprint）、日本法人アニソプリント合同会社（神奈川県横浜市）は、"Made in Luxembourg"ラベル貼付による製品出荷を開始いたしました」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「ルクセンブルク（本社・開発・生産）と日本に拠点を、欧州・北米・アジア地域主要国に販売網を擁します」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「■Composerシリーズ3Dプリンターの日本国内での購入、サポートに関しましては、下記の正規販売代理店までお問い合わせください」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「このプレスリリースには、」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「※内容はプレスリリースにより異なります」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「プレスリリース素材」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「このプレスリリース内で使われている画像ファイルがダウンロードできます」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「プレスリリース」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「ニュースリリース配信サービス」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+- 誰に：
+  - 「"Made in Luxembourg"ラベルは、ルクセンブルク商工会議所により、対象企業が全ての関連規則に準拠し、高品質な製品・サービスが顧客に提供されていることを検査し認定するものです」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「「ルクセンブルクに生産拠点を設置することは、当社にとって、より高水準の顧客サービスと出荷体制への大きな前進となります」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「メディアユーザーログイン」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「メディアユーザー新規登録」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「メディアユーザー登録を行うと、企業担当者の連絡先や、」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「CAD業界最新情報」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「アニソプリント社製3Dプリンターのユーザーは、設計プロセスの全ての段階において、ジオメトリの最適化を容易に行うことが可能となります」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「Design for Additive Manufacturing（DfAM）は、付加製造業界における最大の関心事の一つとなっています」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「ユーザーは、モデルのジオメトリではなく、目標とするパラメーターのみを設定することとなります」（https://cad-kenkyujo.com/anisoprint/・3回目）
+- お金の形：
+  - 「料金・プラン」（https://prtimes.jp/main/html/rd/p/000000003.000077492.html・3回目）
+  - 「プロダクトデザインから設計・製造までの工数を削減！Autodesk Fusion 年間ライセンスがどこよりもお得に」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「【2026】3Dプリンターの価格はいくら？家庭用・業務用を価格別に10種類比較」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「【2026】人気3Dプリンターを徹底比較！価格や特徴を比較表でまとめてみた」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「Autodesk Fusionライセンス」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「AutoCADライセンス」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「BricsCADライセンス」（https://cad-kenkyujo.com/anisoprint/・3回目）
+  - 「Autodesk Revitライセンス」（https://cad-kenkyujo.com/anisoprint/・3回目）
+- 検索結果の抜粋：
+  - 「アニソプリント が北米市場に参入 - 3Druck.com — アニソプリント が北米市場に参入 - 3Druck.com 3Druck.com https://3druck.com > ホーム > 産業」（https://3druck.com/ja/%E7%94%A3%E6%A5%AD/anisoprint-nordamerika-31108640/・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- いくら：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## アルテック株式会社
+- 公式URL：https://www.altech.co.jp（given）
+- 設立：1976年5月15日　（昭和51年5月15日）（https://www.altech.co.jp/recruit/company/・1回目）
+- 設立：1976年5月15日　（昭和51年5月15日）（https://www.altech.co.jp/company/detail・1回目）
+- 設立：1976年5月15日　（昭和51年5月15日）（https://www.altech.co.jp/recruit/company/message/・1回目）
+- 従業員数：単体　：135名　　連結　：418名（https://www.altech.co.jp/company/detail・1回目）
+- 従業員数：23名（https://smart-logistics.altech.jp/as-rs/column/Case-Studies2.html・3回目）
+- 従業員数：単体138名、連結457名（2024年11月30日現在）（https://sharelab.jp/company/altech/・3回目）
+- 事業内容：ペットボトル用プリフォームの製造・販売（https://www.altech.co.jp/company/japan・1回目）
+- 事業内容：プリフォームおよびプラスチックキャップの製造・販売 ボトルデザインおよび開発サービスの提供（https://www.altech.co.jp/company/foreign・1回目）
+- 事業内容：プリフォームの製造・販売（https://www.altech.co.jp/company/foreign・1回目）
+- 誰から：
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/・1回目）
+  - 「アルテック株式会社は、海外の最先端の産業機械・機器を輸入し、日本のモノづくりに貢献する専門商社です」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「当社は、1976年の創業以来、欧米を中心とした産業機械・機器の輸入販売で業容を拡大してきた機械商社です」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「東京都中央区八丁堀一丁目4番5号に資本金30百万円で産業機械の輸入販売を目的としてアルテック株式会社を設立」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/item_news/robotics-202608・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/item_news/j850_core-202607・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/item_news/carti-202604・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～ - アルテック株式会社」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+  - 「アルテック株式会社 （本社：東京都中央区、代表取締役社長：池谷 壽繁 (いけや とししげ）、東証スタンダード： 証券番号9972）は、株式会社 CSS ホールディングス（本社：東京都中央区）のグループ企業である主に業務用音響機器の輸入・販売を行う音響特機株式会社（本社：東京都中央区、代表取締役 CEO 村松 充浩、代表取締役社長 COO 木野 泰宏、以下「音響特機」）と販売代理店契約を締結し、アルテックが取り扱う Crestron Electronics 社（米国ニュージャージー州ロックリー、以下「クレストロン」）製品の販路拡大および販促強化に努めてまいります」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+  - 「今回の音響特機との販売代理店契約締結により、クレストロンの高度な AV 制御システムと音響特機の業務用音響機器を組み合わせたシナジーを活かした提案が可能となり、よりお客様のニーズに応えられるようになります」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+  - 「また、今回の提携を契機に、音響特機の業務用音響機器の販売ネットワークを活用し、お互いの技術力・製品ラインアップを組み合わせた統合 AV 制御ソリューションを、未開拓市場の新規顧客に向けて提案してまいります」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.altech.co.jp/・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/・1回目）
+  - 「ニュースリリース一覧」（https://www.altech.co.jp/・1回目）
+  - 「当社は、1976年の創業以来、欧米を中心とした産業機械・機器の輸入販売で業容を拡大してきた機械商社です」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「東京都中央区八丁堀一丁目4番5号に資本金30百万円で産業機械の輸入販売を目的としてアルテック株式会社を設立」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「ニュースリリース一覧」（https://www.altech.co.jp/item_news/robotics-202608・1回目）
+  - 「ニュースリリース」（https://www.altech.co.jp/item_news/robotics-202608・1回目）
+  - 「ニュースリリース(最新5件)」（https://www.altech.co.jp/item_news/robotics-202608・1回目）
+  - 「業務用音響機器等の輸入・販売を行う音響特機株式会社と販売代理店契約を締結 ～クレストロン製品と音響・映像機器のシナジー効果で販促強化を目指す～」（https://www.altech.co.jp/item_news/robotics-202608・1回目）
+  - 「ニュースリリース一覧」（https://www.altech.co.jp/item_news/j850_core-202607・1回目）
+  - 「ニュースリリース」（https://www.altech.co.jp/item_news/j850_core-202607・1回目）
+  - 「高速スループットと直感的操作により、設計検証・機能試作を効率化し、安定連続稼働を実現するコストパフォーマンスに優れたソリューションです」（https://www.altech.co.jp/item_news/j850_core-202607・1回目）
+- 誰に：
+  - 「見学希望のお客様は、下記までご連絡ください」（https://www.altech.co.jp/item_news/robotics-202608・1回目）
+  - 「直感的でユーザーフレンドリーな UI を採用し、材料の交換も高速かつ簡易です」（https://www.altech.co.jp/item_news/j850_core-202607・1回目）
+  - 「また、トレーニングコストを抑えた速習設計なので、新規ユーザーでも短期間で習熟可能です」（https://www.altech.co.jp/item_news/j850_core-202607・1回目）
+  - 「デモンストレーションも可能ですので、ご希望のお客様はぜひご連絡ください」（https://www.altech.co.jp/item_news/carti-202604・1回目）
+  - 「今回の音響特機との販売代理店契約締結により、クレストロンの高度な AV 制御システムと音響特機の業務用音響機器を組み合わせたシナジーを活かした提案が可能となり、よりお客様のニーズに応えられるようになります」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+  - 「また、今回の提携を契機に、音響特機の業務用音響機器の販売ネットワークを活用し、お互いの技術力・製品ラインアップを組み合わせた統合 AV 制御ソリューションを、未開拓市場の新規顧客に向けて提案してまいります」（https://www.altech.co.jp/item_news/onkyotokki-202604・1回目）
+  - 「GEW 社ブースでは、シール・ラベル業界向けに、高出力 UV/UV-LED システムをご紹介いたします」（https://www.altech.co.jp/exhibition_news/label_forum_japan_gew-202610・1回目）
+  - 「既存の水銀ランプを UV-LED に置き換えるレトロフィットから、新規印刷機への搭載まで、お客様のニーズに合わせてご提案いたします」（https://www.altech.co.jp/exhibition_news/label_forum_japan_gew-202610・1回目）
+  - 「オーラルケア、コスメ、フードを含め様々な用途のチューブ成形において、国内・海外問わず多くのユーザー様に採用されている成形機メーカーの最新技術を用いたチューブサンプルを展示します」（https://www.altech.co.jp/exhibition_news/tokyo_pack-202610・1回目）
+  - 「昨今のラベル・パッケージ業界においては、小ロット・多品種化やデザインの複雑化、さらには高級ワインやプレミアムカラーラベルなど高付加価値製品の需要が急速に高まっています」（https://www.altech.co.jp/exhibition_news/label_forum_japan-202610・1回目）
+  - 「今回出展する Golden Laser 社製「LC350B」は、こうした業界の課題を根本から解決する「裏面レーザーダイカットテクノロジー」を搭載した最新鋭機です」（https://www.altech.co.jp/exhibition_news/label_forum_japan-202610・1回目）
+  - 「商社事業では、市場環境の変化やお客様のニーズの多様化に合わせ、欧米の最先端のテクノロジーを取り入れた産業機械・機器をご紹介しております」（https://www.altech.co.jp/work/293・1回目）
+- お金の形：
+  - 「時点で入手できる合理的な見積りに基づき算出し、災害損失引当金繰入額 96 百万円を特別損失として計」（https://www.altech.co.jp/ir/wp-content/uploads/2026/10/4cc849a6e6d79da5a770f11fd6196d56.pdf・2回目）
+  - 「（３）会計方針の変更・会計上の見積りの変更・修正再表示」（https://www.altech.co.jp/ir/wp-content/uploads/2026/10/2026ms_3Q.pdf・2回目）
+  - 「③ 会計上の見積りの変更 ：無」（https://www.altech.co.jp/ir/wp-content/uploads/2026/10/2026ms_3Q.pdf・2回目）
+  - 「給制約やエネルギー価格の高止まり等の懸念材料も多く、依然として先行き不透明な状況が続いております」（https://www.altech.co.jp/ir/wp-content/uploads/2026/10/2026ms_3Q.pdf・2回目）
+  - 「（３）会計方針の変更・会計上の見積りの変更・修正再表示」（https://www.altech.co.jp/ir/wp-content/uploads/2026/07/2026ms_2Q.pdf・2回目）
+  - 「③ 会計上の見積りの変更 ：無」（https://www.altech.co.jp/ir/wp-content/uploads/2026/07/2026ms_2Q.pdf・2回目）
+  - 「ー価格の高止まり等の懸念材料も多く、依然として先行き不透明な状況が続いております」（https://www.altech.co.jp/ir/wp-content/uploads/2026/07/2026ms_2Q.pdf・2回目）
+  - 「（３）会計方針の変更・会計上の見積りの変更・修正再表示」（https://www.altech.co.jp/ir/wp-content/uploads/2026/04/2026ms_1Q.pdf・2回目）
+  - 「③ 会計上の見積りの変更 ：無」（https://www.altech.co.jp/ir/wp-content/uploads/2026/04/2026ms_1Q.pdf・2回目）
+  - 「アルテック 価格改定のお知らせ | free design」（https://www.freedesign.jp/blog/2025/12/artek-price・3回目）
+  - 「アルテック 価格改定のお知らせ」（https://www.freedesign.jp/blog/2025/12/artek-price・3回目）
+  - 「イッタラ・アラビア 価格改定のお知らせ」（https://www.freedesign.jp/blog/2025/12/artek-price・3回目）
+- いくら：
+  - 「55億27百万円 （2022年11月30日現在）」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「東京都中央区八丁堀一丁目4番5号に資本金30百万円で産業機械の輸入販売を目的としてアルテック株式会社を設立」（https://www.altech.co.jp/recruit/company/・1回目）
+  - 「（当日受付の場合の入場料 2,000 円（税込））」（https://www.altech.co.jp/exhibition_news/label_forum_japan_gew-202610・1回目）
+  - 「（当日受付の場合の入場料 1,000 円（税込））」（https://www.altech.co.jp/exhibition_news/tokyo_pack-202610・1回目）
+  - 「（当日受付の場合の入場料 2,000 円（税込））」（https://www.altech.co.jp/exhibition_news/label_forum_japan-202610・1回目）
+  - 「55億27百万円 （2025年11月30日現在）」（https://www.altech.co.jp/company/detail・1回目）
+  - 「100,000千円（アルテック株式会社100.0％）」（https://www.altech.co.jp/company/japan・1回目）
+  - 「36,000千米ドル（アルテック株式会社100.0％）」（https://www.altech.co.jp/company/foreign・1回目）
+  - 「22,000千米ドル（アルテック株式会社100.0％）」（https://www.altech.co.jp/company/foreign・1回目）
+  - 「300千米ドル（アルテック株式会社100.0％）」（https://www.altech.co.jp/company/foreign・1回目）
+  - 「700千米ドル（アルテック株式会社99.5％、ALTECH ASIA PACIFIC CO.,LTD. 0.5%）」（https://www.altech.co.jp/company/foreign・1回目）
+  - 「東京都中央区八丁堀一丁目4番5号に資本金30百万円で産業機械の輸入販売を目的としてアルテック株式会社を設立」（https://www.altech.co.jp/company/history・1回目）
+- 検索結果の抜粋：
+  - 「有限会社 アルテック — 有限会社 アルテック tmn-agent.com https://www.tmn-agent.com > altech」（https://www.tmn-agent.com/altech/・3回目）
+  - 「「 アルテック 」の 代理店 6社 注目ランキング【2026年】 — 「 アルテック 」の 代理店 6社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > アルテック株式会社」（https://metoree.com/companies/19839/distributors/・3回目）
+  - 「アルテック 電気バスで欧州市場を牽引する KARSAN 社と総 ... — アルテック 電気バスで欧州市場を牽引する KARSAN 社と総 ... アルテック株式会社 https://www.altech.co.jp > ニュースリリース一覧」（https://www.altech.co.jp/item_news/electric_bus_202304・3回目）
+  - 「アルテック 業務用音響機器等の輸入・販売を行う 音響特機 ... — アルテック 業務用音響機器等の輸入・販売を行う 音響特機 ... Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4912389・3回目）
+  - 「Artek / アルテック - 村内ファニチャーアクセス — Artek / アルテック - 村内ファニチャーアクセス 村内ファニチャーアクセス https://www.murauchi.net > brand > artek」（https://www.murauchi.net/brand/artek.html・3回目）
+  - 「アルテック の自動倉庫の特徴や 導入事例 を調査！ — アルテック の自動倉庫の特徴や 導入事例 を調査！ warehouse-automatic.net https://www.warehouse-automatic.net > altech」（https://www.warehouse-automatic.net/manufacturer/altech.html・3回目）
+  - 「事例 - 3Dプリンターなら アルテック — 事例 - 3Dプリンターなら アルテック 3d-printer.jp https://www.3d-printer.jp > case」（https://www.3d-printer.jp/case/・3回目）
+  - 「Kardex 自動倉庫 導入事例 （フエニックス・コンタクト株式 ... — Kardex 自動倉庫 導入事例 （フエニックス・コンタクト株式 ... アルテック株式会社 https://smart-logistics.altech.jp > 自動倉庫」（https://smart-logistics.altech.jp/as-rs/column/Case-Studies.html・3回目）
+  - 「OTTOのAMRロボットを取り扱う アルテック — OTTOのAMRロボットを取り扱う アルテック amr-robot.com https://www.amr-robot.com > AMRロボット代理店一覧」（https://www.amr-robot.com/agency/artek.html・3回目）
+  - 「アルテック 価格 改定のお知らせ | free design - フリーデザイン — アルテック 価格 改定のお知らせ | free design - フリーデザイン フリーデザイン https://www.freedesign.jp > blog > 2025/12 > artek-price」（https://www.freedesign.jp/blog/2025/12/artek-price・3回目）
+  - 「Artek （ アルテック ） 価格 改定のお知らせ（2026年2月2日より） — Artek （ アルテック ） 価格 改定のお知らせ（2026年2月2日より） connect-d.com https://www.connect-d.com > blog > archives」（https://www.connect-d.com/blog/archives/69627?srsltid=AYCX9vKZGflEWU5jdMMLJK8EtIienG-aVCpIGUIKyxsrdOuNHsw801L-・3回目）
+  - 「【公式】 Artek （ アルテック ）- スツール60 コレクション — 【公式】 Artek （ アルテック ）- スツール60 コレクション Artek Tokyo Store https://webstorejapan.artek.fi > collections > スツール」（https://webstorejapan.artek.fi/collections/%E3%82%B9%E3%83%84%E3%83%BC%E3%83%AB?srsltid=AYCX9vJyK210nRd2QJtWLjgPqOhMopM9YsPqxdXD_kqAq4AjuLUCSjdX・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部11頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部11頁・検索4回）
+
+## アレイマジャパン カンタルカンパニー
+- 公式URL：https://www.alleima.com/jp/（given）
+- 誰から：
+  - 「Distributors」（https://www.alleima.com/jp/・1回目）
+  - 「Distributors」（https://www.alleima.com/jp/products/・1回目）
+  - 「Distributors」（https://www.alleima.com/jp/products/wire/・1回目）
+  - 「Agility matters, too. Our deliberately lean initiatives increase quality and decrease variability throughout the design process. And through a responsive, comprehensive design partnership with you, together we can conceive – and expertly create – unique processes and products. We have a range of products and capabilities that make us your one-stop.」（https://www.alleima.com/jp/products/wire/・1回目）
+  - 「Partnerships」（https://www.alleima.com/jp/products/wire/・1回目）
+  - 「Alleima is a proud partner of:」（https://www.alleima.com/jp/products/wire/・1回目）
+  - 「GlobalData, a London-based data analytics and consulting company which Alleima partners with, has identified the top themes that will impact an increasingly digitalized Medtech industry.」（https://www.alleima.com/jp/products/wire/・1回目）
+  - 「Distributors」（https://www.alleima.com/jp/products/wire/ultra-fine-medical-wire/・1回目）
+  - 「Distributors」（https://www.alleima.com/jp/products/wire/ultra-fine-medical-wire/wire-products/・1回目）
+  - 「From initial concept to full-scale production, we collaborate closely with your team to achieve the optimal combination of properties, dimensions, and performance. Backed by decades of materials expertise and deep industry insight, Alleima is your trusted partner in advancing next-generation medical innovations.」（https://www.alleima.com/jp/products/wire/ultra-fine-medical-wire/wire-products/・1回目）
+  - 「Distributors」（https://www.alleima.com/jp/products/wire/ultra-fine-medical-wire/nitinol/・1回目）
+  - 「Distributors」（https://www.alleima.com/jp/products/wire/ultra-fine-medical-wire/stone-retrieval-devices/・1回目）
+- 誰に：
+  - 「そして製品が進歩すれば、顧客も利益を得ることができます」（https://www.alleima.com/jp/・1回目）
+  - 「アレイマは、選ばれたニッチな最終市場のお客様のパートナーです」（https://www.alleima.com/jp/・1回目）
+  - 「私たちの限りないイノベーションは、業界全体のブレークスルーへの道を開きます」（https://www.alleima.com/jp/・1回目）
+  - 「私たちの製品は、お客様が品質に妥協したくないと思う場所で見つかるでしょう」（https://www.alleima.com/jp/・1回目）
+  - 「900種類を超える活性合金をベースにした当社の製品は、お客様の製品、用途、プロセスをより安全で持続可能、そして効率的にすることに貢献しています」（https://www.alleima.com/jp/・1回目）
+  - 「製品が進歩すれば、お客様も恩恵があります」（https://www.alleima.com/jp/products/・1回目）
+  - 「アレイマは、厳選された幅広いニッチエンド市場のお客様のパートナーです」（https://www.alleima.com/jp/products/・1回目）
+  - 「当社の産業用製品は、エンドユーザー、製造業者、流通業者など、数多くのさまざまな産業や顧客に供給される幅広い製品で構成されています」（https://www.alleima.com/jp/products/・1回目）
+  - 「原子力分野における重要な部品のサプライヤーとして50年以上の経験を持ち、世界中の100基以上の原子炉向けに60,000,000メートルを超える燃料被覆管を製造してきた実績を持つアレイマは、より安全で効率的な未来を目指して努力する業界をサポートする体制が整っています」（https://www.alleima.com/jp/products/・1回目）
+  - 「輸送業界の将来を考えるときに、持続可能性という言葉を誰もが口にします」（https://www.alleima.com/jp/products/・1回目）
+  - 「当社は、輸送業界がより効率的、安全、持続可能になるよう支援します」（https://www.alleima.com/jp/products/・1回目）
+- 設立：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- 何をする：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+- いくら：記載なし（3回確認済み：公式26頁／PDF・画像6件／外部9頁・検索4回）
+
+## アース
+- 公式URL：https://www.earth.jp/（search:yahoo_jp:アース）
+- 設立：1892年4月（https://www.mcframe.com/case/earth-chemical・3回目）
+- 設立：1925年（大正14年）8月26日 ※2025年で設立100周年（https://www.sateraito.jp/case_gw/08.html・3回目）
+- 従業員数：3,539名（連結・2016年6月30日現在）（https://www.mcframe.com/case/earth-chemical・3回目）
+- 従業員数：連結4,788名、単体1,358名（https://www.sateraito.jp/case_gw/08.html・3回目）
+- 事業内容：医薬品、医薬部外品、医療用具、家庭用品などの製造販売・輸出入（https://www.mcframe.com/case/earth-chemical・3回目）
+- 誰から：
+  - 「輸入元、製造販売元」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「殺虫剤、日用品の大部分、および害虫駆除についてのお問い合わせはアース製薬株式会社 お客様からお気づきを頂く窓口にて承っておりますが、輸入元または製造販売元が異なる製品に関しましては、的確な対応をさせていただくため各社にて承っております」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「輸入元、製造販売元」（https://www.earth.jp/support/accident/index.html・1回目）
+  - 「Earth全国総代理店本部 アースショップ岡山本店」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「© 2019 Earth全国総代理店本部.」（http://www.earth-headoffice.com/distributor/・3回目）
+- 何をする：
+  - 「輸入元、製造販売元」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「殺虫剤、日用品の大部分、および害虫駆除についてのお問い合わせはアース製薬株式会社 お客様からお気づきを頂く窓口にて承っておりますが、輸入元または製造販売元が異なる製品に関しましては、的確な対応をさせていただくため各社にて承っております」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「輸入元、製造販売元」（https://www.earth.jp/support/accident/index.html・1回目）
+  - 「お店様によっては販売していることもありますが、在庫がなくなり次第、販売終了となります」（https://www.earth.jp/support/discontinued/index.html・1回目）
+  - 「2085:【販売関連】「バポナ 殺虫プレート」は購入の際、住所・氏名などを書かないといけないのですか」（https://www.earth.jp/support/faq/ContentsList.aspx・1回目）
+  - 「10763:【販売関連】アース製薬の商品を購入したい」（https://www.earth.jp/support/faq/ContentsList.aspx・1回目）
+  - 「11034:【お問い合わせ先】アース製品を海外で販売したい、お問い合わせ先を教えてください」（https://www.earth.jp/support/faq/ContentsList.aspx・1回目）
+  - 「14282:【販売関連】「アースダニよけ ヨケンルンダニ！」のつめかえは販売していますか」（https://www.earth.jp/support/faq/ContentsList.aspx・1回目）
+  - 「19408:【販売関連】「きき湯」の付属のスプーンだけの販売はありますか」（https://www.earth.jp/support/faq/ContentsList.aspx・1回目）
+  - 「私たちは特許申請技術である「アース加工」を施した繊維製品を加工販売するメーカーです」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「どんな物にでも自社でアース加工が可能になることにより、販売戦略はさらに広がります」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「「アース代理店」になることで、アース商品の販売権を会得いただけるだけでなく、繊維への「アース加工」のノウハウを入手することができます」（http://www.earth-headoffice.com/distributor/・3回目）
+- 誰に：
+  - 「お客様サポート情報」（https://www.earth.jp/support/index.html・1回目）
+  - 「お客様のお気づきを活かす窓口部の基本姿勢」（https://www.earth.jp/support/index.html・1回目）
+  - 「アース製薬株式会社 お客様からお気づきを頂く窓口」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「アース製薬株式会社 お客様からお気づきを頂く窓口 宛」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「お客様相談窓口」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「※お客様からお電話にてお問い合わせいただいた場合、その内容を正確に承るとともに、当社の対応を確認するために録音させていただくことがあります」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「殺虫剤、日用品の大部分、および害虫駆除についてのお問い合わせはアース製薬株式会社 お客様からお気づきを頂く窓口にて承っておりますが、輸入元または製造販売元が異なる製品に関しましては、的確な対応をさせていただくため各社にて承っております」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「そのため、いただいたお電話・メール・ハガキ・お手紙・宅配物から得られたお客様の個人情報（氏名、住所、電話番号、メールアドレスなど）を、Haleonジャパン（ヘイリオンジャパン）株式会社（旧社名：グラクソ・スミスクライン・コンシューマー・ヘルスケア・ジャパン株式会社）に提供することがございます」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「また、回答につきましても、原則として、 Haleonジャパン（ヘイリオンジャパン）株式会社より、お客様に回答させていただきます」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「お客様の個人情報、お問い合わせいただきました内容は、個人情報保護法を含む各種法律にのっとり慎重に取り扱います」（https://www.earth.jp/support/contact/index.html・1回目）
+  - 「アース製薬株式会社 お客様からお気づきを頂く窓口」（https://www.earth.jp/support/accident/index.html・1回目）
+  - 「お客様相談窓口」（https://www.earth.jp/support/accident/index.html・1回目）
+- お金の形：
+  - 「価格やサービス内容等については、各サイトの記載内容をよくお読みになり、ご自身の責任でご利用ください」（https://www.earth.jp/products/bathclin-yakutou-meguri/index.html・1回目）
+  - 「価格やサービス内容等については、各サイトの記載内容をよくお読みになり、ご自身の責任でご利用ください」（https://www.earth.jp/products/mamoroom-aller-block-kae-pollen-2/index.html・1回目）
+  - 「19409:【使用方法】粒が砕け、粉末状になった「きき湯」の製剤でも使えますか」（https://www.earth.jp/support/faq/ContentsList.aspx・1回目）
+  - 「現在、クリーニング業界は価格競争により、粗利益率が減少しているお店も多いと聞きます」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「・トライアル申込/見積依頼」（https://www.sateraito.jp/case_gw/08.html・3回目）
+  - 「アース 美容室 料金表に関する美容院･美容室･ヘアサロン HAIR & MAKE EARTH 名取店など｜ホットペッパービューティー」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「「アース 美容室 料金表」で探す おすすめサロン情報｜ホットペッパービューティー」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「アース 美容室 料金表」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「「アース 美容室 料金表」で探す おすすめサロン情報」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「☆今だけ☆ カット＋カラー￥5980 / 2回目以降も通いやすい価格帯でご案内◎ 当日予約もOK！[上大岡]」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「当日予約◎お手頃価格×厳選した薬剤と高技術でリピート率NO.1☆カット+カラー+Tr¥4900」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「アース 美容室 料金表に関する新着口コミ」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+- いくら：
+  - 「※上記番号はいずれも一般の方専用の番号であり、医師および医療機関の皆様からお問い合わせを受けた場合、情報提供料は有料（1件につき2,000円）となりますのでご了承下さい」（https://www.earth.jp/support/accident/index.html・1回目）
+  - 「健康住宅のカリスマ 澤田升男先生の「０(ゼロ)宣言の家」の建材を導入費用０円+月会費０円で使うことができます!!」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「※参加費：お1人様 5,000円（税込」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「33億7,760万円」（https://www.mcframe.com/case/earth-chemical・3回目）
+  - 「2019年からはグループ国内全社に利用を拡大し、セキュリティを担保しながらコミュニケーションの円滑化と業務効率化を図っている」（https://www.sateraito.jp/case_gw/08.html・3回目）
+  - 「柔軟な働き方を支える基盤としてコミュニケーションの円滑化に大きく貢献し、業務上不可欠な存在になっています」（https://www.sateraito.jp/case_gw/08.html・3回目）
+  - 「【11月限定クーポン】 2メニューお会計5000円以上で50％オフ！」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「年間240万人利用最大手☆地域密着♪キッズルーム◎新規カット2,200円☆」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「☆11月限定☆【新規】 カット 4400円→2200円 《2回目来店特典あり》」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「☆11月限定☆【新規】メンズカット 4400円→2200円 《2回目来店特典あり》」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「♪人気No1♪新規限定 フルカラー 3410円 (キュアカラー)」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「11月最強超得！カットカラー選べるホームケア2つ付き10990円」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+- 検索結果の抜粋：
+  - 「Haleon ジャパン株式会社との 日本における独占的流通・販売 ... — Haleon ジャパン株式会社との 日本における独占的流通・販売 ... アース製薬 PDF https://corp.earth.jp > news > pdf」（https://corp.earth.jp/jp/news/2026/pdf/20260701-01.pdf・3回目）
+  - 「代理店 申込み - アースインフィニティ — 代理店 申込み - アースインフィニティ 株式会社アースインフィニティ https://www.earth-infinity.co.jp > contact > agency」（https://www.earth-infinity.co.jp/contact/agency.php・3回目）
+  - 「Earth 特約店募集 | Earth （ アース ）全国総合 代理店 — Earth 特約店募集 | Earth （ アース ）全国総合 代理店 earth-headoffice.com http://www.earth-headoffice.com > distributor」（http://www.earth-headoffice.com/distributor/・3回目）
+  - 「サービス - 株式会社アース — サービス - 株式会社アース earthnet.co.jp https://earthnet.co.jp > service」（https://earthnet.co.jp/service/・3回目）
+  - 「「 アース 製薬」の 代理店 6社 注目ランキング【2026年】 — 「 アース 製薬」の 代理店 6社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > アース製薬株式会社」（https://metoree.com/companies/50049/distributors/・3回目）
+  - 「アース 製薬株式会社 - 導入事例 - MCFrame — アース 製薬株式会社 - 導入事例 - MCFrame MCFrame https://www.mcframe.com > case > earth-chemical」（https://www.mcframe.com/case/earth-chemical・3回目）
+  - 「アース 製薬 株式会社 様｜ 導入事例 - サテライトオフィス — アース 製薬 株式会社 様｜ 導入事例 - サテライトオフィス サテライトオフィス https://www.sateraito.jp > case_gw」（https://www.sateraito.jp/case_gw/08.html・3回目）
+  - 「アース 製薬が辿り着いた、GeminiとMANAを併用した生成AI ... — アース 製薬が辿り着いた、GeminiとMANAを併用した生成AI ... MANA AI Chat https://gomana.ai > ソリューション > MANA AI Chat」（https://gomana.ai/project/earth/・3回目）
+  - 「アース 製薬、SmartDB 導入 で“デジタルの民主化”を推進 — アース 製薬、SmartDB 導入 で“デジタルの民主化”を推進 株式会社ドリーム・アーツ https://hibiki.dreamarts.co.jp > news > press-release」（https://hibiki.dreamarts.co.jp/smartdb/news/press-release/in260630/・3回目）
+  - 「アース 製薬株式会社様 “Web サイト、CMS — アース 製薬株式会社様 “Web サイト、CMS businesssolution.konicaminolta.jp https://businesssolution.konicaminolta.jp > earth_siterenewal」（https://businesssolution.konicaminolta.jp/business/solution/digitalmarketing/case/2024/earth_siterenewal.html・3回目）
+  - 「「 アース 美容室 料金 表」のサロン一覧 — 「 アース 美容室 料金 表」のサロン一覧 ホットペッパービューティー https://beauty.hotpepper.jp > ... > 美容室・ヘアサロン」（https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/・3回目）
+  - 「「除草剤 アース 」の人気商品一覧・ 価格 比較 — 「除草剤 アース 」の人気商品一覧・ 価格 比較 価格.com https://search.kakaku.com > 除草剤 アース」（https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/・3回目）
+- 売上高：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部12頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式28頁／PDF・画像5件／外部12頁・検索5回）
+
+## インフィニジャパン株式会社
+- 公式URL：https://www.infinijapan.com/（search:yahoo_jp:インフィニジャパン）
+- 設立：2017年3月（https://suwa.monozukuri.or.jp/detail/02182/・3回目）
+- 設立：2018年3月14日（https://sharelab.jp/company/infinijapan/・3回目）
+- 従業員数：7名（https://suwa.monozukuri.or.jp/detail/02182/・3回目）
+- 従業員数：6名（https://sharelab.jp/company/infinijapan/・3回目）
+- 事業内容：スイスのBinC Industries社で開発された表面仕上げ技術「MMP Technology®」の受託加工（https://sharelab.jp/company/infinijapan/・3回目）
+- 誰から：
+  - 「自社開発の特殊なメディアを使用する、物理的な表面仕上げ手法です」（https://www.infinijapan.com/・1回目）
+  - 「自社開発の特殊なメディアを使用する、物理的な表面仕上げ手法です」（https://suwa.monozukuri.or.jp/detail/02182/・3回目）
+- 何をする：
+  - 「MMP Technology® の受託加工」（https://www.infinijapan.com/・1回目）
+  - 「MMP Technology® を用いた表面仕上げの受託加工メーカーです」（https://www.infinijapan.com/_files/ugd/cfe492_59d583904a80462f917941cbfc7afae4.pdf・2回目）
+  - 「MMP Technology®による表面仕上げ受託加工」（https://suwa.monozukuri.or.jp/detail/02182/・3回目）
+  - 「造形サービス」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「MMP Technology®による表面仕上げの受託加工サービスを行っています」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「スイスのBinC Industries社で開発された表面仕上げ技術「MMP Technology®」の受託加工」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「スイスで開発されたMMP Technology®という表面仕上げ、磨き技術の受託サービス加工の事業を展開しています」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「弊社は、スイスのBinC Industries社と契約を結び「MMP Technology®」という表面仕上げ・磨き技術の受託サービス加工を長野県松本市でおこなっています」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「その当時から、インフィニジャパン様でMMPの受託加工はされていたのでしょうか？」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「インフィニジャパンの工場ができたのが2018年で、MMPの受託加工はそれからの取り組みです」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「当時は個人向け造形サービスをやっている会社が2〜3社くらいしかなかったのですが、その後にデザインしたもので、相見積もりを取ったことがあります」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「ところが、その施設は造形サービスとワイヤーカットまでの対応だったので、サポート材が付いたままの状態だったんです」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+- 誰に：
+  - 「お客様から部品をお預かりし、MMP処理を行うことで、」（https://www.infinijapan.com/・1回目）
+  - 「お客様から部品をお預かりする」（https://www.infinijapan.com/・1回目）
+  - 「業界ニュース」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「業界ニュース TOP」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「取材・インタビュー、導入事例」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「お客様から磨かれていない部品をお預かりして、鏡面など、必要なレベルまで磨いてお返ししています」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「こちらはDMM.makeで造形したもので、インフィニジャパンの技術力をお客様に分かりやすく手に取っていただきながら示せるサンプルです」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「「Ra=0.02μm以下イコール鏡面」と認識されているお客様も多くおり、」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「ちなみに、さまざまなお客様から「3Dプリントされた金属製品を磨いてほしい」と仕事をいただきますが、よくある粗さはRa=8μm～15μmくらいで、ときどきRa=20μmオーバーのものもあります」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「お客様からの依頼でMMP処理をする際、対象物を固定するための治具として使いました」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「20万ユーザー、幅広い業界1,000社以上の取引ノウハウを生かし、個人の趣味・DIYのアイデア、企業の活用法、ものづくりのニュースや未来までまったり、時にディープにお届けします」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+- お金の形：
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「また、チタンの価格が驚くほど安かった」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「「1桁違うのではないか」と驚いたDMM.make「チタン」の価格」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「当時のDMM.makeでのチタンの価格が異常なほど安かったのも大きな理由です」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「当時は個人向け造形サービスをやっている会社が2〜3社くらいしかなかったのですが、その後にデザインしたもので、相見積もりを取ったことがあります」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「ただ、目が飛び出るくらいの価格差だったので、御社にお願いしました」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「見積もりを出してほしい（法人）」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+  - 「【2024最新】3Dプリントで安く造形したい！出力サービスの価格相場やコスト削減のコツを紹介」（https://make.dmm.com/blog/business/infinijapan/・3回目）
+- いくら：
+  - 「９５００万円」（https://www.infinijapan.com/info・1回目）
+  - 「9500万円」（https://suwa.monozukuri.or.jp/detail/02182/・3回目）
+  - 「95,000,000円」（https://sharelab.jp/company/infinijapan/・3回目）
+- 検索結果の抜粋：
+  - 「インフィニジャパン 株式会社、高精度、高品質の表面仕上げ ... — インフィニジャパン 株式会社、高精度、高品質の表面仕上げ ... インフィニジャパン株式会社 https://www.infinijapan.com」（https://www.infinijapan.com/・3回目）
+  - 「インフィニジャパン 株式会社 - NAGANOものづくり諏訪圏ガイド — インフィニジャパン 株式会社 - NAGANOものづくり諏訪圏ガイド NAGANOものづくり諏訪圏ガイド https://suwa.monozukuri.or.jp > detail」（https://suwa.monozukuri.or.jp/detail/02182/・3回目）
+  - 「インフィニジャパン 株式会社 - ShareLab（シェアラボ） — インフィニジャパン 株式会社 - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > 企業DB > インフィニジャパン株式会社」（https://sharelab.jp/company/infinijapan/・3回目）
+  - 「インフィニジャパン | 企業情報 | イプロスものづくり — インフィニジャパン | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2077612/・3回目）
+  - 「インフィニジャパン | 出展者詳細 | SURTECH 2026 — インフィニジャパン | 出展者詳細 | SURTECH 2026 unifiedsearch.jcdbizmatch.jp https://unifiedsearch.jcdbizmatch.jp > surtech > details」（https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/surtech/details/TcrXp86JVCU・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像6件／外部9頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式3頁／PDF・画像6件／外部9頁・検索5回）
+
+## エスケーファイン
+- 公式URL：https://www.sk-fine.co.jp/（given）
+- 設立：2018年10月17日（https://www.sk-fine.co.jp/company.php・1回目）
+- 設立：2018年10月1日（https://sharelab.jp/company/sk-fine/・3回目）
+- 従業員数：5名（https://sharelab.jp/company/sk-fine/・3回目）
+- 事業内容：セラミックス造形部品の製造販売、セラミックス3Dプリンタ（3D光造形装置）の販売、委託開発・共同開発（https://www.sk-fine.co.jp/company.php・1回目）
+- 事業内容：・3Dセラミック用プリンター（3D光造形装置）の販売 ・セラミック造形部品の製造販売 ・委託開発・共同開発（https://sharelab.jp/company/sk-fine/・3回目）
+- 誰から：
+  - 「エス・ケー・ファインはシンガポール、中国、インドを中心にして、原料の供給製造の拠点のみならず、研究開発や試験のためのラボとも数多く提携しております」（https://skfine-trade.com/・3回目）
+- 何をする：
+  - 「受託造形・検証」（https://www.sk-fine.co.jp/・1回目）
+  - 「開発支援・共同開発」（https://www.sk-fine.co.jp/・1回目）
+  - 「研究開発支援」（https://www.sk-fine.co.jp/・1回目）
+  - 「設計から材料調合・3D造形・焼成まで、セラミックス3Dプリンター（光造形）の全プロセス紹介」（https://www.sk-fine.co.jp/・1回目）
+  - 「セラミックス３Ｄプリンターで試作は可能？依頼の流れと費用感を解説」（https://www.sk-fine.co.jp/・1回目）
+  - 「造形サンプル販売サイト」（https://www.sk-fine.co.jp/・1回目）
+  - 「研究開発支援・共同開発」（https://www.sk-fine.co.jp/・1回目）
+  - 「受託造形・検証」（https://www.sk-fine.co.jp/products/・1回目）
+  - 「開発支援・共同開発」（https://www.sk-fine.co.jp/products/・1回目）
+  - 「造形サンプル販売サイト」（https://www.sk-fine.co.jp/products/・1回目）
+  - 「研究開発支援・共同開発」（https://www.sk-fine.co.jp/products/・1回目）
+  - 「受託造形・検証」（https://www.sk-fine.co.jp/about/・1回目）
+- 誰に：
+  - 「当社の標準材料だけでなくお客様の材料にも対応可能で、セラミックスの機能性を維持したまま実部品への展開が可能です」（https://www.sk-fine.co.jp/channel/entry/post.php・1回目）
+  - 「材料の選択 ： 元素、粒径・粒度、形状、純度等、材料準備（お客様、弊社）」（https://www.sk-fine.co.jp/consignment/・1回目）
+  - 「お客様、弊社、造形難易度を踏まえてデザインの擦合せ、図面準備」（https://www.sk-fine.co.jp/consignment/・1回目）
+  - 「様々な材料、お客様の材料で造形が可能です」（https://www.sk-fine.co.jp/consignment/・1回目）
+  - 「入し各業界から高い期待を寄せていただいております」（https://www.sk-fine.co.jp/docs/220531.pdf・2回目）
+  - 「などその実用化に向け各業界から高い期待を寄せて頂いております」（https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf・2回目）
+  - 「部品での応用の可能性が広がり、各業界から高い期待を寄せて頂いております」（https://www.sk-fine.co.jp/up/docs/181203.pdf・2回目）
+  - 「セラミックス お客様の材料」（https://www.sk-fine.co.jp/assets/img/case/s01_img01.png・2回目）
+  - 「お客様のニーズに」（https://skfine-trade.com/・3回目）
+  - 「お客様のニーズに合わせて」（https://skfine-trade.com/・3回目）
+  - 「エス・ケー・ファインはトライアル、試作の段階でリスクを最小限に抑えたいお客様の心強いパートナーとして実績を重ねています」（https://skfine-trade.com/・3回目）
+  - 「だからこそお客様のご期待、ご要望に応える精度の高い対応が可能なのてす」（https://skfine-trade.com/・3回目）
+- お金の形：
+  - 「内容・見積りのご確認」（https://www.sk-fine.co.jp/consignment/・1回目）
+  - 「競争力のある品質と価格で迅速にお届けする」（https://skfine-trade.com/・3回目）
+  - 「現代のニーズにマッチしたファインケミカルや素材、原料等を競争力のある品質と価格でお届けいたします」（https://skfine-trade.com/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://sharelab.jp/company/sk-fine/・3回目）
+- いくら：
+  - 「65,000,000円」（https://www.sk-fine.co.jp/company.php・1回目）
+  - 「株式会社エスケーファインは大阪大学ベンチャーキャピタル株式会社から５千万 円の追加投資を受けました」（https://www.sk-fine.co.jp/news/・1回目）
+  - 「株式会社エスケーファインは株式会社写真化学と大阪大学ベンチャーキャピタル株式会社から合計２億５千万円の追加投資を受けました」（https://www.sk-fine.co.jp/news/・1回目）
+  - 「加速させるため大阪大学ベンチャーキャピタル株式会社から５千万円の追加投資を受けま」（https://www.sk-fine.co.jp/docs/220531.pdf・2回目）
+  - 「５千万円の追加投資を受けました」（https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf・2回目）
+  - 「キャピタル株式会社より合計２億５千万円の追加投資を受け、セラミック材を用いた３Ｄ」（https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf・2回目）
+  - 「資本金 ３億９，９００万円（資本準備金含む）」（https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf・2回目）
+  - 「ベンチャーキャピタル株式会社（以下「ＯＵＶＣ」 ）から７，８００万円の出資を受け、今」（https://www.sk-fine.co.jp/up/docs/181203.pdf・2回目）
+  - 「大阪大学ベンチャーキャピタルから７，８００万円の出資を受ける」（https://www.sk-fine.co.jp/up/docs/181203.pdf・2回目）
+  - 「資本金 ６，０００万円（会社設立時）」（https://www.sk-fine.co.jp/up/docs/181203.pdf・2回目）
+  - 「間金融機関との間で、ＯＵＶＣを無限責任組合員とする約１２５億円のＯＵＶＣ１号ファ」（https://www.sk-fine.co.jp/up/docs/181203.pdf・2回目）
+  - 「199,000,000円（資本準備金含む）」（https://sharelab.jp/company/sk-fine/・3回目）
+- 検索結果の抜粋：
+  - 「プライバシーポリシー｜株式会社 エスケーファイン [ SK FINE ] — プライバシーポリシー｜株式会社 エスケーファイン [ SK FINE ] sk-fine.co.jp https://www.sk-fine.co.jp > policy」（https://www.sk-fine.co.jp/policy.php・3回目）
+  - 「セラミックス3Dプリンタの活用 事例 - エスケーファイン — セラミックス3Dプリンタの活用 事例 - エスケーファイン sk-fine.co.jp https://www.sk-fine.co.jp > case」（https://www.sk-fine.co.jp/case/・3回目）
+  - 「株式会社 エスケーファイン — 株式会社 エスケーファイン スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-31955・3回目）
+  - 「株式会社 エスケーファイン - Exhibitor Details — 株式会社 エスケーファイン - Exhibitor Details 高機能素材 Week https://www.material-expo.jp > en-gb > search > directory」（https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3.org-47103275-4f31-494b-a59d-378bf2525a4c.html・3回目）
+  - 「ニュース｜株式会社 エスケーファイン [ SK FINE ] — ニュース｜株式会社 エスケーファイン [ SK FINE ] sk-fine.co.jp https://www.sk-fine.co.jp > news」（https://www.sk-fine.co.jp/news/・3回目）
+  - 「エスケーファイン 、3Dプリンター半額に 月内に新製品 — エスケーファイン 、3Dプリンター半額に 月内に新製品 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGKKZO80446890S4A500C2LKB000/・3回目）
+  - 「株式会社 エスケーファイン - ShareLab（シェアラボ） — 株式会社 エスケーファイン - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > 企業DB > 株式会社エスケーファイン」（https://sharelab.jp/company/sk-fine/・3回目）
+  - 「株式会社 エスケーファイン 光 造形 方式・高精細セラミックス ... — 株式会社 エスケーファイン 光 造形 方式・高精細セラミックス ... ceatec experience https://exp.ceatec.com > related > ceatecnews2024_vol62」（https://exp.ceatec.com/related/ceatecnews2024_vol62/・3回目）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像14件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式18頁／PDF・画像14件／外部8頁・検索4回）
+
+## オークマ株式会社
+- 公式URL：https://www.okuma.co.jp/（given）
+- 誰から：
+  - 「さらに、海外メーカーと提携した安全対策品や塗装用治具も展開し、約4万5,000品種の即納体制を確立」（https://www.okuma.co.jp/case/iwata.php・1回目）
+  - 「彼らが選んだメーカーは、機械本体から制御装置まで自社開発し、トータルソリューションを提供できる「オークマ」」（https://www.okuma.co.jp/case/tsubamex.php・1回目）
+  - 「オークマではこれらの制御コンポーネントをすべて自社開発することで、高性能かつ最も調和のとれた制御を実現しています」（https://www.okuma.co.jp/onlyone/osp/・1回目）
+  - 「オークマは、GEデジタルと提携し、産業用IoTプラットフォーム「PREDIX」を活用した生産監視ソリューションなどを展開することを発表した」（https://monoist.itmedia.co.jp/mn/articles/1611/18/news051.html・3回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.okuma.co.jp/・1回目）
+  - 「産業機械の要素部品および自動省力化機器の製造・販売」（https://www.okuma.co.jp/・1回目）
+  - 「電設工具や油圧機器および理美容・医療関連の電気製品の製造・販売」（https://www.okuma.co.jp/・1回目）
+  - 「導入時の教育やプログラムの作成など、ものづくりのお困りごとの解決は、オークマのプロ集団にお任せください」（https://www.okuma.co.jp/・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=%E8%A4%87%E5%90%88%E5%8A%A0%E5%B7%A5%E6%A9%9F・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=%E8%B6%85%E8%A4%87%E5%90%88%E5%8A%A0%E5%B7%A5%E6%A9%9F・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=%E6%97%8B%E7%9B%A4・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=%E9%96%80%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「ニュースリリース」（https://www.okuma.co.jp/product/?tax=%E7%A0%94%E5%89%8A%E7%9B%A4・1回目）
+- 誰に：
+  - 「導入事例 トップ」（https://www.okuma.co.jp/・1回目）
+  - 「導入事例一覧」（https://www.okuma.co.jp/・1回目）
+  - 「-最新導入事例-」（https://www.okuma.co.jp/・1回目）
+  - 「お取引先様からの内部通報窓口」（https://www.okuma.co.jp/・1回目）
+  - 「導入事例一覧はこちら」（https://www.okuma.co.jp/・1回目）
+  - 「わたしたちオークマは、より効果的に工作機械を使っていただくために、お客様のものづくりをサポートいたします」（https://www.okuma.co.jp/・1回目）
+  - 「導入事例 トップ」（https://www.okuma.co.jp/product/・1回目）
+  - 「導入事例一覧」（https://www.okuma.co.jp/product/・1回目）
+  - 「-最新導入事例-」（https://www.okuma.co.jp/product/・1回目）
+  - 「お取引先様からの内部通報窓口」（https://www.okuma.co.jp/product/・1回目）
+  - 「導入事例 トップ」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「導入事例一覧」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+- お金の形：
+  - 「標準品に加え特注品も1個から対応し、今後は特注品対応のさらなる強化を目指している」（https://www.okuma.co.jp/case/iwata.php・1回目）
+  - 「また、品質面では、材料費ベースでの不良品率0.2 %を維持しています」（https://www.okuma.co.jp/case/shirakawa.php・1回目）
+  - 「作業内容が2日間を越える場合は、内容の調整または別途追加見積をさせていただく場合がございます」（https://www.okuma.co.jp/m-support/visitschool.php・1回目）
+  - 「オークマ/工作機械/旋盤の検索結果・価格相場・在庫 | シェアリングファクトリー」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「価格お問い合わせを除く」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「オークマ/工作機械/旋盤の検索結果・価格相場・在庫」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「価格の安い順」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「価格の高い順」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「本体価格（税込）」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「SLS（粉末焼結積層造形法）」（https://monoist.itmedia.co.jp/mn/articles/1611/18/news051.html・3回目）
+- いくら：
+  - 「横形1スピンドルCNC旋盤」（https://www.okuma.co.jp/product/・1回目）
+  - 「1サドルCNC旋盤」（https://www.okuma.co.jp/product/・1回目）
+  - 「2サドルCNC旋盤」（https://www.okuma.co.jp/product/・1回目）
+  - 「並行スピンドルCNC旋盤」（https://www.okuma.co.jp/product/・1回目）
+  - 「CNC円筒研削盤」（https://www.okuma.co.jp/product/・1回目）
+  - 「ø320 (円テーブル)」（https://www.okuma.co.jp/product/・1回目）
+  - 「ø500 (円テーブル)」（https://www.okuma.co.jp/product/・1回目）
+  - 「横形1スピンドルCNC旋盤」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「1サドルCNC旋盤」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「2サドルCNC旋盤」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「並行スピンドルCNC旋盤」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+  - 「CNC円筒研削盤」（https://www.okuma.co.jp/product/?tax=5%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF・1回目）
+- 検索結果の抜粋：
+  - 「「 オークマ 」の 代理店 203社 注目ランキング【2026年】 — 「 オークマ 」の 代理店 203社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > オークマ株式会社」（https://metoree.com/companies/14389/distributors/・3回目）
+  - 「愛知県の「 オークマ 」の 代理店 42社 | Metoree — 愛知県の「 オークマ 」の 代理店 42社 | Metoree Metoree https://metoree.com > ... > オークマの代理店」（https://metoree.com/companies/14389/distributors/aichi/・3回目）
+  - 「グループ企業 | 会社概要 | 企業情報 - オークマ 株式会社 — グループ企業 | 会社概要 | 企業情報 - オークマ 株式会社 オークマ株式会社 https://www.okuma.co.jp > about > group」（https://www.okuma.co.jp/about/group.php・3回目）
+  - 「カルテック株式会社との販売 代理店契約 締結のお知らせ — カルテック株式会社との販売 代理店契約 締結のお知らせ 株式会社オークマ https://o-kuma.co.jp > info」（https://o-kuma.co.jp/info/210301/・3回目）
+  - 「独の販売 代理店 オークマ が買収 5年後 — 独の販売 代理店 オークマ が買収 5年後 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGKKZO47429450X10C19A7L91000/・3回目）
+  - 「技術・ソリューション 導入事例 - オークマ株式会社 — 技術・ソリューション 導入事例 - オークマ株式会社 オークマ株式会社 https://www.okuma.co.jp > case」（https://www.okuma.co.jp/case/・3回目）
+  - 「オークマ 株式会社 — オークマ 株式会社 オークマ株式会社 https://www.okuma.co.jp」（https://www.okuma.co.jp/・3回目）
+  - 「【 導入事例 】 オークマ 株式会社様（システムの受託開発） — 【 導入事例 】 オークマ 株式会社様（システムの受託開発） nisseicom https://www.nisseicom.co.jp > case > okuma」（https://www.nisseicom.co.jp/growone-production/case/okuma.html・3回目）
+  - 「オークマ （株）様の技術 導入事例 に掲載されました - synthemec — オークマ （株）様の技術 導入事例 に掲載されました - synthemec Synthemec https://www.synthemec.co.jp > お知らせ」（https://www.synthemec.co.jp/news/20250730/・3回目）
+  - 「製品情報 - オークマ株式会社 — 製品情報 - オークマ株式会社 オークマ株式会社 https://www.okuma.co.jp > product」（https://www.okuma.co.jp/product/・3回目）
+  - 「オークマ /工作機械/旋盤の検索結果・ 価格 相場・在庫 — オークマ /工作機械/旋盤の検索結果・ 価格 相場・在庫 Sharing FACTORY（シェアリングファクトリー） https://sales.sharingfactory.co.jp > ... > 工作機械 > 旋盤」（https://sales.sharingfactory.co.jp/listings/search?search_listing%5Bmain_category_id%5D=1&search_listing%5Bsub_category_id%5D=13&search_listing%5Btop_keyword%5D=%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%9E・3回目）
+  - 「サービス 料金 改定のお知らせ | ニュースリリース — サービス 料金 改定のお知らせ | ニュースリリース オークマ株式会社 https://www.okuma.co.jp > news」（https://www.okuma.co.jp/news/2025_0724/・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像11件／外部6頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像11件／外部6頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像11件／外部6頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像11件／外部6頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像11件／外部6頁・検索4回）
+
+## オートデスク
+- 公式URL：https://www.autodesk.com/jp/about（given）
+- 誰から：
+  - 「認定パートナーとして提携している「代理店（販売店）」での購入」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「なら、ゴールド認定パートナーとして提携しているSB C＆S株式会社がおすすめです」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「提携10周年」（https://bim-design.com/user-story/・3回目）
+  - 「自社開発のレーザースキャナーを活用して BIM で住宅改修 : アーキ・キューブ」（https://bim-design.com/user-story/・3回目）
+- 何をする：
+  - 「株式会社 イズミコンサルティング シルバー認定 取扱い可 - -」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「を含むLT製品群において販売取次を行っております」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「DX教育推進担当者向け」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「セミナー一覧」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「セミナー紹介」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「建設コンサルタントに従事したのちフリーランスのライターとして活動」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「認定パートナーとして提携している「代理店（販売店）」での購入」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「現在は「認定販売パートナー制度」に移行」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「現在Autodesk製品を販売しているのは、Autodeskが実施している」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「「認定販売パートナー制度」に登録された代理店のみ」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「AutoCADの販売を代理店として請け負うことはもちろん、次のような付加価値をつくってビジネスを拡大したい企業が代理店として登録しています」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「Autodesk製品のトレーニング提供」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+- 誰に：
+  - 「一般顧客向け」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「業界 URL」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「なお、お客様がオートデスクの指定する政府機関の顧客であるか否かについては、認定パートナーにお問い合わせください」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「下表における取次形式とは、認定パートナー経由で見積依頼を頂き、オートデスクよりお客様にお見積書を提示するご商談の形式を示します」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「再販形式とは、認定パートナーよりお客様にお見積書を提示する商談の形式を示します」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「政府機関顧客向け」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「（ご参考）各業界に含まれる主な製品」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「政府機関顧客向けプログラムについてはこちら https://www.autodesk.com/jp/campaigns/government-program」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「お客様が最寄りの代理店に見積を依頼された場合、”ダイワボウ情報システム株式会社”の名前が記載された見積がオートデスクより発行される場合があります」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「CAD業界最新情報」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「新規購入および契約更新に際し、オートデスクから契約者に電子メールで見積書が送信され、お客様の Autodesk Accountから直接支払いをする」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「AutoCAD代理店の一覧には、技術的専門知識や営業能力、顧客満足などを評価してランク付けされている」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+- お金の形：
+  - 「下表における取次形式とは、認定パートナー経由で見積依頼を頂き、オートデスクよりお客様にお見積書を提示するご商談の形式を示します」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「再販形式とは、認定パートナーよりお客様にお見積書を提示する商談の形式を示します」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「供、機能および価格を変更する権利を留保し、本書中の誤植または図表の誤りについて責任を負いません」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「お客様が最寄りの代理店に見積を依頼された場合、”ダイワボウ情報システム株式会社”の名前が記載された見積がオートデスクより発行される場合があります」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「無料見積もりを相談する」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「またAutoCADの基本価格を知りたい方は、以下の記事をチェックしてみてください」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「【2026】AutoCADの価格はいくら？費用対効果や他ソフトとの価格を徹底検証！」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「②Autodesk公式サイトで契約する（サブスクリプション契約）」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「ライセンス名」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「AutoCAD 1年間ライセンス」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「Autodesk公式サイトから直接サブスクリプション契約をする」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「新規購入および契約更新に際し、オートデスクから契約者に電子メールで見積書が送信され、お客様の Autodesk Accountから直接支払いをする」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+- いくら：
+  - 「84,700円（税込）」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「・AutoCAD教育セミナー5,000円OFFクーポン」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「260,700円(税込)」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「の5,000円OFFクーポンをプレゼント」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「からAutoCADライセンスを購入すると、教育セミナーの5,000円OFFクーポンがもらえるので、これを使って受講するのもいいでしょう」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「独学に高いハードルを感じているなら、参加を検討してみてはいかがでしょうか」（https://cad-kenkyujo.com/autocad-dairiten/・3回目）
+  - 「BIMの活用によるプロセス円滑化で前田建設工業が見据える維持管理の未来とは」（https://bim-design.com/user-story/・3回目）
+  - 「2026年5月7日現在の価格を基に金額のシミュレーション（税別）を算出したものが図1となりますので、参考にしてください」（https://www.cadjapan.com/special/autodesk-concierge/useful/article/260424-01/・3回目）
+  - 「2025年5月7日以降の新しい購入エクスペリエンス（大塚商会など取次ぎによる直接取引プロセス）では、日本円のレートが±3％変動した場合に、為替レートの調整が毎月行われる可能性があります」（https://www.cadjapan.com/special/autodesk-concierge/useful/article/260424-01/・3回目）
+- 検索結果の抜粋：
+  - 「オートデスク 認定パートナー一覧 — オートデスク 認定パートナー一覧 damassets.autodesk.net PDF https://damassets.autodesk.net > partner_locator_list」（https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/partner_locator_list.pdf・3回目）
+  - 「オートデスク 製品の購入方法 - Autodesk — オートデスク 製品の購入方法 - Autodesk Autodesk https://www.autodesk.com > campaigns > newwaytobuy」（https://www.autodesk.com/jp/campaigns/newwaytobuy・3回目）
+  - 「オートデスク 事例 | 製品 導入事例 - Autodesk — オートデスク 事例 | 製品 導入事例 - Autodesk Autodesk https://www.autodesk.com > customer-stories > case-studies」（https://www.autodesk.com/jp/customer-stories/case-studies・3回目）
+  - 「オートデスク 株式会社 カタログ・ 事例 ・BIM資料ダウンロード ... — オートデスク 株式会社 カタログ・ 事例 ・BIM資料ダウンロード ... プロパティデータバンク https://propertydbk.com > news > オートデスク株式会社...」（https://propertydbk.com/news/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%87%E3%82%B9%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%E3%83%BB%E4%BA%8B%E4%BE%8B%E3%83%BBbim%E8%B3%87%E6%96%99%E3%83%80/・3回目）
+  - 「オートデスク プラン | 製品サブスクリプション ... - Autodesk — オートデスク プラン | 製品サブスクリプション ... - Autodesk Autodesk https://www.autodesk.com > buying > plans」（https://www.autodesk.com/jp/buying/plans・3回目）
+  - 「オートデスク 製品・サービスが2026年5月に変更および 価格 ... — オートデスク 製品・サービスが2026年5月に変更および 価格 ... CAD Japan.com https://www.cadjapan.com > ホーム > お役立ち記事」（https://www.cadjapan.com/special/autodesk-concierge/useful/article/260424-01/・3回目）
+  - 「AutoCAD など オートデスク 製品の 価格 表 - CAD百貨 — AutoCAD など オートデスク 製品の 価格 表 - CAD百貨 CAD百貨 https://www.cad100.jp > CAD商品一覧 > AutoCAD」（https://www.cad100.jp/autocad/materials/autocad_price_main.php・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+
+## カーペンターアディティブ
+- 公式URL：https://www.lpwj.co.jp/（search:ddgs:bing:株式会社カーペンターアディティブ）
+- 誰から：
+  - 「私たちは金属3Dプリンター（積層造形）用 の金属パウダーを取り扱う専門メーカー『カーペンターアディティブ』の日本総代理店です」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「①金属粉体の輸入、輸出及び販売業務」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「Site & Partnership Director, Mr. Nick Weeksが来日します」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「Additive は、Carpenter Technology と提携して、Additive Manufacturing の設計上の利点を」（https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf・2回目）
+- 何をする：
+  - 「①金属粉体の輸入、輸出及び販売業務」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「②金属粉体の品質管理システムに関わる ソフトウェア及びハードウェアのシステム販売」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「AM用金属粉末の主に物理的分析を受託いたします」（https://www.lpwj.co.jp/powder-analysis.html・1回目）
+  - 「（セミナー会場 Main Stage近傍)」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「なお、同展示会においてセミナーを開催致しますので、是非足をお運びください」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「Formnext Forum Tokyo Connect 2021 – オンラインセミナー」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「『Carpenter Additive』として下記のオンラインセミナーを実施致します」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「『Formnext Forum Tokyo Connect 2021 – オンラインセミナー』」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「また、Zoomのセミナーは下記を予定しております」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「今後リリース予定の新規材料の情報もございますので、是非ご来場くださいませ」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「また、粉末の取扱いや販売・粉末の物理測定サービス等、粉末に関するご相談も承っておりますので」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「CalRAM 社（電子ビーム及びレーザのパウダーベッドフュージョン造形サービス 業界のリーダー）への投資、」（https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf・2回目）
+- 誰に：
+  - 「弊社は金属粉末の視点からお客様の価値向上を目指しており、金属粉末においては」（https://www.lpwj.co.jp/・1回目）
+  - 「業界誌『工業材料』掲載のお知らせ」（https://www.lpwj.co.jp/・1回目）
+  - 「弊社の主力製品はSLM（セレクティブ・レーザ・メルティング）、EBM（エレクトロン・ビーム・メルティング）、LMD（レーザ・メタル・デポジション）用途の金属パウダーではございますが、お客様からのご要望・仕様に合わせてアトマイズ等、お客様が抱えるお悩みに対し、金属粉末の視点からご支援をさせていただきます」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「私たちは3Dプリンター用の"材料"、つまり金属粉末の観点から、お客様が抱える造形の問題解決・付加価値向上のお手伝いを致します」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「『カーペンターアディティブ』では、ISO9001／AS9120に基づいた管理体制により、品質要求の厳しい業界においても高評価を獲得しております」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「お客様のご要望が実現可能か、適した材料のサンプルをご紹介しながら、」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「業界誌『工業材料』掲載のお知らせ」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「ご来場をご検討されていたお客様には心よりお詫び申し上げます」（https://www.lpwj.co.jp/latest-inforamtion.html・1回目）
+  - 「LPW 社は、AM 業界にお」（https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf・2回目）
+  - 「カーペンター社、社長兼 CEO, Tony Thene 氏「AM 業界の主要な事項における当社の積極的な取り組」（https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf・2回目）
+  - 「みは、本業界において当社が主導的な役割を果たそうとする意志の表れです」（https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf・2回目）
+  - 「様々な業界においてより広範囲に採用され、利用されていくにあたり欠かせないことです」（https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf・2回目）
+- お金の形：
+  - 「粉末分析サービス」（https://www.lpwj.co.jp/・1回目）
+  - 「“金属粉末”の視点から積層造形に付加価値を与える」（https://www.lpwj.co.jp/・1回目）
+  - 「造形品質は①造形条件②粉末品質より決定されます」（https://www.lpwj.co.jp/・1回目）
+  - 「②金属粉末の品質」（https://www.lpwj.co.jp/・1回目）
+  - 「・粉末自体の品質（流動性・粒度分布・粒子形状 等）」（https://www.lpwj.co.jp/・1回目）
+  - 「・粉末の保管環境（出荷～リサイクルまでの品質状態、湿度・気候 等）」（https://www.lpwj.co.jp/・1回目）
+  - 「弊社は金属粉末の視点からお客様の価値向上を目指しており、金属粉末においては」（https://www.lpwj.co.jp/・1回目）
+  - 「また、各種造形プロセス（SLM、LMD、EBM）に対応できる多種多様な金属粉末、出荷からリサイクルまで一貫した品質管理を可能にする管理システム、そして、高度化するテクノロジー分野での研究・開発においてのサポートも承っております」（https://www.lpwj.co.jp/・1回目）
+  - 「金属粉末の専門家として、お悩みを一緒になって解決までさせていただきます」（https://www.lpwj.co.jp/・1回目）
+  - 「粉末分析サービス」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「弊社の主力製品はSLM（セレクティブ・レーザ・メルティング）、EBM（エレクトロン・ビーム・メルティング）、LMD（レーザ・メタル・デポジション）用途の金属パウダーではございますが、お客様からのご要望・仕様に合わせてアトマイズ等、お客様が抱えるお悩みに対し、金属粉末の視点からご支援をさせていただきます」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「私たちは3Dプリンター用の"材料"、つまり金属粉末の観点から、お客様が抱える造形の問題解決・付加価値向上のお手伝いを致します」（https://www.lpwj.co.jp/company-profile.html・1回目）
+- いくら：
+  - 「5,000万円」（https://www.lpwj.co.jp/company-profile.html・1回目）
+  - 「テクノロジー社（LPW）をおよそ８１００万米ドルにて買収したことを発表しました」（https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf・2回目）
+  - 「値段：21,500 円(税抜)」（https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf・2回目）
+  - 「値段：37,500 円(税抜)」（https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf・2回目）
+  - 「値段：49,500 円(税抜)」（https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf・2回目）
+  - 「こぼしは光学系の倍率にもよりますが少なくなります (この場合の粒子径分布は、 円相当径」（https://www.lpwj.co.jp/LPWJNewsletter20190805.pdf・2回目）
+  - 「形状係数には、 面積円形度、 アスペクト比、 周囲長包絡度、 面積包絡度があります」（https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf・2回目）
+  - 「面積円形度は真円の周囲長とのズレ、 アスペクト比は粒子の短」（https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf・2回目）
+  - 「に近いほど真円に近い事を示しますが、面積円形度以外 1 であっても必ずしも真円とは限」（https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf・2回目）
+- 検索結果の抜粋：
+  - 「カーペンターアディティブ ジャパン | evort — カーペンターアディティブ ジャパン | evort evort https://evort.jp > 掲載企業・団体」（https://evort.jp/presenters/carpenteradditive・3回目）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）
+- 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）
+- 取引先：記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）
+
+## キタムラ機械株式会社
+- 公式URL：https://kitamura-machinery.co.jp/（given）
+- 設立：昭和8年11月8日（https://kitamura-machinery.co.jp/company/summary/・1回目）
+- 設立：昭和22年12月（https://kitamura-machinery.co.jp/company/summary/・1回目）
+- 取引先：国内15％、海外85％（https://kitamura-machinery.co.jp/company/summary/・1回目）
+- 誰から：
+  - 「フランス、リネー・G.S.P社と技術提携」（https://kitamura-machinery.co.jp/company/history/・1回目）
+  - 「西ドイツ、メッサーグリースハイム社と技術提携、レーザー加工分野へ進出」（https://kitamura-machinery.co.jp/company/history/・1回目）
+  - 「2008年9月に米国シカゴで開催された国際製造技術展(IMTS)で自社開発のCNCコントロール「Arumatik‐Mi」を新製品として発表した」（https://kitamura-machinery.co.jp/company/history/・1回目）
+  - 「最もハイエンドな自社製CNCコントロール「Arumatik-Mi」を開発、新製品の立形マシニングセンタ「マイセンター-3XG」に標準搭載」（https://kitamura-machinery.co.jp/company/history/・1回目）
+  - 「新型・自社製CNCを搭載した高精度立形マシニングセンタ「」（https://kitamura-machinery.co.jp/company/history/・1回目）
+  - 「フランス、リネー・G.S.P社と技術提携」（https://kitamura-machinery.co.jp/company/development/・1回目）
+  - 「西ドイツ、メッサーグリースハイム社と技術提携、レーザー加工分野へ進出」（https://kitamura-machinery.co.jp/company/development/・1回目）
+  - 「2008年9月に米国シカゴで開催された国際製造技術展(IMTS)で自社開発のCNCコントロール「Arumatik‐Mi」を新製品として発表した」（https://kitamura-machinery.co.jp/company/development/・1回目）
+  - 「最もハイエンドな自社製CNCコントロール「Arumatik-Mi」を開発、新製品の立形マシニングセンタ「マイセンター-3XG」に標準搭載」（https://kitamura-machinery.co.jp/company/development/・1回目）
+  - 「新型・自社製CNCを搭載した高精度立形マシニングセンタ「」（https://kitamura-machinery.co.jp/company/development/・1回目）
+  - 「さらに、アジア各国に対しても、販売代理店等の拠点整備や技術交流を積極的に推進しています」（https://kitamura-machinery.co.jp/recruit/about/・1回目）
+  - 「search_distributors_by_manufacturer(」（https://distymap.com/manufacturers/kitamura-machinery・3回目）
+- 何をする：
+  - 「・マシニングセンタの操作・トレーニング」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「海外への生産拠点、工場展開をされるお客様に対して、世界各国の主要拠点に保守部品を常時完備しており、いつでも迅速に出荷できる体制を整えております」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「キタムラのヘルプデスクでは、電話一本で直接、過去の履歴を把握した、マシニングセンタ専業メーカーの熟練サービスマンの技術サポートが受けられます」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「・このクラス最高トルクの主軸剛性によって、複雑形状加工や金型加工においても「スマートデザイン」による免震設計された高品位・高精度加工が可能です」（https://kitamura-machinery.co.jp/products/%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF/・1回目）
+  - 「・各送り軸には超精密・高分解リニアスケールフィードバック、4軸(B軸)にはロータリースケールを搭載し、高精度加工を実現」（https://kitamura-machinery.co.jp/products/%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF/・1回目）
+  - 「・省スペース設計で操作性抜群」（https://kitamura-machinery.co.jp/products/%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF/・1回目）
+  - 「・省スペース設計で抜群のメンテナンス性能」（https://kitamura-machinery.co.jp/products/%E5%90%8C%E6%99%825%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF/・1回目）
+  - 「操作性、保守性がよいこと」（https://kitamura-machinery.co.jp/material/buildup/・1回目）
+  - 「当社は創業1933年以来、常に最先端の工作機械の開発・販売に努め、1971年より次世代型工作機械と呼ばれる複合型マザーマシン、マシニングセンタの専業メーカーになりました」（https://kitamura-machinery.co.jp/company/greeting/・1回目）
+  - 「国立大学法人富山大学大学院 理工学教育部 博士課程 非常勤講師」（https://kitamura-machinery.co.jp/company/greeting/・1回目）
+  - 「マシニングセンタの開発、製造販売」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「FA(工場自動化)関連機器の開発、製造販売」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+- 誰に：
+  - 「お客様からいただく個人情報は、お問い合わせ・ご質問への回答、情報提供のために使用させていただきます」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「利用目的の範囲内でお客様の個人情報を当社グループ会社や委託業者が使用することがございます」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「ひたむきで、高い技術力を持ち、ユーザーのすぐ役に立つサービス――」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「キタムラ機械は、創立以来、顧客サービスを第一とし、このことは未来永劫続く約束です」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「日本国内には本社・各営業所を拠点として約２０台のサービスカーを配備しており、必要な時にいつでもお客様のもとへ駆けつけられる万全のサポート体制を構築しています」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「海外への生産拠点、工場展開をされるお客様に対して、世界各国の主要拠点に保守部品を常時完備しており、いつでも迅速に出荷できる体制を整えております」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「キタムラの経験豊かなサービスマンは、「機械・電気を問わず、どんな相談にも、その場でスピーディーに対応してくれる」とお客様から評価を頂いております」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「中でも現在の代表的な製品である『マイセンター』シリーズは1981年発売以来、当社独自の技術による高品質と信頼性を高く評価いただき、世界85カ国で多くのユーザーに愛用されてまいりました」（https://kitamura-machinery.co.jp/company/greeting/・1回目）
+  - 「我々は常に顧客に感謝されることにより販売と利益の拡大を計りキタムラのブランドと信用を世界に高めよう」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「'94年9月、米国のユーザーが選ぶ」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「旋削、研削、放電加工までも一貫して加工できる全く新しいNC制御複合工作機械の開発により、ユーザーの要望に応え、完全無人自動化の極限に挑みます」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「海外への生産拠点、工場展開をされますお客様に対して、世界各国の主要拠点に保守部品を常時完備しており、いつでも迅速に出荷できる体制を整えております」（https://kitamura-machinery.co.jp/company/branch/・1回目）
+- お金の形：
+  - 「1.適正な価格と優れた品質」（https://kitamura-machinery.co.jp/material/buildup/・1回目）
+  - 「価格は適正であること」（https://kitamura-machinery.co.jp/material/buildup/・1回目）
+  - 「問い合わせ・見積 ↗」（https://distymap.com/manufacturers/kitamura-machinery・3回目）
+  - 「運営・データの集め方・料金」（https://distymap.com/manufacturers/kitamura-machinery・3回目）
+  - 「「価格」「サポート」」（https://www.smallmc-focus.com/cases/・3回目）
+  - 「グローバルテクノス：価格記載があり、本体価格が一番安い」（https://www.smallmc-focus.com/cases/・3回目）
+  - 「小型マシニングセンタの目安価格」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+  - 「キタムラ機械の小型マシニングセンタの価格は、掲載されていませんでした」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+  - 「小型マシニングセンタの価格相場を知る」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+  - 「このサイトでは、小型マシニングセンタを導入する際に重視したい「価格」「サポート」「精度」の3つのポイントごとにおすすめの小型マシニングセンタメーカーを紹介しています」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+  - 「「価格」「サポート」「精度」」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+  - 「「価格」「サポート」」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+- いくら：
+  - 「・全機種のスピンドルを常時ストック」（https://kitamura-machinery.co.jp/company/service/・1回目）
+  - 「・機外排出用2段式ドラムフィルター及び1.5Mpaクーラントスルースピンドルとの併用により切粉を容易に排出、クリーン化により作業環境の最適化を実現」（https://kitamura-machinery.co.jp/products/%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF/・1回目）
+  - 「の高剛性・高速度スピンドル（オプション：30,000min」（https://kitamura-machinery.co.jp/products/%E5%90%8C%E6%99%825%E8%BB%B8%E5%88%B6%E5%BE%A1%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF/・1回目）
+  - 「3億8千万円」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「USA(シカゴ)、ドイツ(デュッセルドルフ)」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「キタムラマシナリーGmbH(デュッセルドルフ)」（https://kitamura-machinery.co.jp/company/summary/・1回目）
+  - 「キタムラマシナリーGMBH(デュセルドルフ)」（https://kitamura-machinery.co.jp/company/branch/・1回目）
+  - 「500万円～」（https://www.smallmc-focus.com/cases/・3回目）
+  - 「500万円～」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+- 検索結果の抜粋：
+  - 「「キタムラ機械」の代理店84社 注目ランキング【2026年】| Metoree — 代理店注目ランキング導出方法について 代理店注目ランキングは、2026年11月時点でのキタムラ機械の代理店ページ内でのクリックシェアを基に算出しています。クリックシェアは、対象期間内の全企業の総クリック数を各企業のクリック数で割った値を指します。」（https://metoree.com/companies/14616/distributors/・3回目）
+  - 「キタムラ機械の取扱代理店一覧【9社・代理店側の掲載】｜ディスティマ... — Oct 11, 2026 · キタムラ機械は代理店一覧を公式サイトで公開していません（2026-10-11 時点で確認）。 ここに載せている9社は、 各代理店が自社サイトで「取り扱っている」と掲載している もので、出典はすべて代理店側のページです。」（https://distymap.com/manufacturers/kitamura-machinery・3回目）
+  - 「営業拠点・サポート体制｜キタムラ機械 — 営業拠点についてのページです。高精度マシニングセンタ、高剛性マシニングセンタ、高精度加工は世界52カ国のユーザーに採用されているキタムラ機械へお任せください。」（https://kitamura-machinery.co.jp/company/branch/・3回目）
+  - 「サービス&サポート｜キタムラ機械 — キタムラ機械のMycenterシリーズは、工作機械製造過程の組立て作業上でのコンピュータ制御の補正機能を用いず、「匠の技」といわれるミクロン単位のキサゲ作業を全ての部品の組み合わせ面に施し、True Geometric Accuracy（真の直角度・平行度等の機械姿勢精度）を得ているPremier Machining Centerです ...」（https://kitamura-machinery.co.jp/company/service/・3回目）
+  - 「小型マシニングセンタの製品導入事例を紹介 — 小型マシニングセンタの導入事例を紹介 小型マシニングセンタの導入検討にあたって、既に導入している他社での事例は大いに参考になるもの。ここでは公式HPに事例の記載があったキタムラ機械、システムクリエイト、グローバルテクノス、ブラザー、計4社の小型マシニングセンタの導入 ...」（https://www.smallmc-focus.com/cases/・3回目）
+  - 「【キタムラ機械】重視ポイントで選ぶおすすめ小型マシニングセンタメ...マシニングセンタ｜キタムラ機械株式会社キタムラ様の導入事例 | NSW株式会社キタムラ様・グループ企業様 ｜ 導入事例 ｜ ビズネット株式...新規設備導入（マシニングセンタ）|単品鋳物.com｜アルミ鋳物｜試作～... — キタムラ機械 キタムラ機械はマシニングセンタの専業メーカーとして、小型マシニングセンタを始めとした機械を製造・販売しています。国内での製造が活発になる前からマシニングセンタの製造に従事し、欧米の工作機械メーカーに技術提供を行っていたこともあります。 代表モデルは ... ここに紹介する6つの視点は、当社のマニシングセンタの導入を検討しておられる皆様にマシニングセンタを見極めるポイントとしてお役立ていただきたくまとめたものです。 YouTube においても特長をご覧いただけます。 株式会社キタムラ様の」（https://www.smallmc-focus.com/manufacturer/kitamura-machinery.html・3回目）
+  - 「株式会社キタムラ様の導入事例 | NSW株式会社キタムラ様・グループ企業様 ｜ 導入事例 ｜ ビズネット株式...新規設備導入（マシニングセンタ）|単品鋳物.com｜アルミ鋳物｜試作～... — 株式会社キタムラ様の導入事例 導入ソリューション・サービス : BlueSpider お客様の課題 •ハードウエア老朽化による突発的な障害対応など、システム運用の負荷を減らしたい。 •サーバー移設によるオフィス環境の改善を図りたい。 •O2Oなどの戦略実行にあたり、システムやインフラの構成 ... この成果により、2013年度までに別形態店舗のこども写真館「スタジオマリオ」様や、グループ会社である「ラボネットワーク」様、「キタムラメディカル」様、「ビコムキタムラ」様にもビズネットを導入され、グループ全体の業務改善を図られています。 Sep 5, 2022 · 新規設備を導入致しました。キタムラ機械」（https://www.nsw.co.jp/case/detail.html?cid=3・3回目）
+  - 「マシニングセンタ｜キタムラ機械 — ここに紹介する6つの視点は、当社のマニシングセンタの導入を検討しておられる皆様にマシニングセンタを見極めるポイントとしてお役立ていただきたくまとめたものです。 YouTube においても特長をご覧いただけます。」（https://kitamura-machinery.co.jp/mc/・3回目）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像0件／外部9頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像0件／外部9頁・検索4回）
+
+## コイワイ
+- 公式URL：https://www.tc-koiwai.co.jp/（search:yahoo_jp:コイワイ）
+- 設立：1973年（昭和48年）4月1日（https://www.tc-koiwai.co.jp/company/corporate-information/・1回目）
+- 設立：1973年（https://miyagi-ijuguide.pref.miyagi.jp/company/36746・3回目）
+- 設立：2017年10月（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+- 従業員数：110名（https://www.tc-koiwai.co.jp/company/corporate-information/・1回目）
+- 事業内容：試作・量産鋳物製品の製造販売（https://www.tc-koiwai.co.jp/company/corporate-information/・1回目）
+- 事業内容：試作・量産鋳物製品の製造販売（https://miyagi-ijuguide.pref.miyagi.jp/company/36746・3回目）
+- 事業内容：金属AM用金属粉製造販売、および金属AMで製造した製品販売（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+- 誰から：
+  - 「自社製シェルモールドを用い薄肉や二重管構造かつ表面が滑らかで寸法精度の高い鋳物を得意としています」（https://www.tc-koiwai.co.jp/business-content/products/・1回目）
+- 何をする：
+  - 「試作鋳物事業・量産鋳物事業」（https://www.tc-koiwai.co.jp/business-content/・1回目）
+  - 「現在、試作事業と量産事業、更に機械加工部門を併設、アルミ、鋳鉄など各種金属の鋳造から加工完成品まで、一貫生産体制を整備しております」（https://www.tc-koiwai.co.jp/company/president-message/・1回目）
+  - 「特に試作段階から各種解析技術を用いてものづくりに参画する事で、製品開発のスピードアップやコストダウンを実現し、お客様の企業価値向上に貢献しております」（https://www.tc-koiwai.co.jp/company/president-message/・1回目）
+  - 「試作・量産鋳物製品の製造販売」（https://www.tc-koiwai.co.jp/company/corporate-information/・1回目）
+  - 「砂型試作工場 長野県飯田市」（https://www.tc-koiwai.co.jp/company/company-history/・1回目）
+  - 「鋳造金型設計製造工場 横浜市戸塚区」（https://www.tc-koiwai.co.jp/company/company-history/・1回目）
+  - 「3Dプリンタ試作工場 神奈川県小田原市」（https://www.tc-koiwai.co.jp/company/company-history/・1回目）
+  - 「（2）全ての社員への積極的な教育の機会の提供」（https://www.tc-koiwai.co.jp/company/sustainable/・1回目）
+  - 「高速試作からスピーデイーな量産移行」（https://www.tc-koiwai.co.jp/business-content/productionsystemquality/・1回目）
+  - 「試作・研究用開発部品の製造、販売拠点の本社小田原工場」（https://www.tc-koiwai.co.jp/business-content/productionsystemquality/・1回目）
+  - 「40年にわたり蓄積した鋳造技術と三次元（3D）プリンタ技術を融合させた試作・研究用開発部品の製造、販売拠点です」（https://www.tc-koiwai.co.jp/business-content/productionsystemquality/・1回目）
+  - 「2004年開設、金型鋳造工法による鋳物製造、試作事業と連携し、短期間で量産鋳物の製造をいたします」（https://www.tc-koiwai.co.jp/business-content/productionsystemquality/・1回目）
+- 誰に：
+  - 「お客様満足のために、「Quality」「Cost」「Delivery」を向上させ続けております」（https://www.tc-koiwai.co.jp/・1回目）
+  - 「自動車業界のエンジニアから転身を遂げて起業した創業者のチャレンジ精神を受け継ぎ、今日まで固定観念にとらわれず、伝統ある鋳造技術に3D CADや3Dプリンタ技術など最新技術を融合させて、進化をしてまいりました」（https://www.tc-koiwai.co.jp/company/president-message/・1回目）
+  - 「特に試作段階から各種解析技術を用いてものづくりに参画する事で、製品開発のスピードアップやコストダウンを実現し、お客様の企業価値向上に貢献しております」（https://www.tc-koiwai.co.jp/company/president-message/・1回目）
+  - 「従業員やお客様、社会、ステークホルダーとの関係を築いてまいります」（https://www.tc-koiwai.co.jp/company/corporate-philosophy/・1回目）
+  - 「「近未来鋳物工場」としてお客様のご要望にお応え致します」（https://www.tc-koiwai.co.jp/business-content/products/・1回目）
+  - 「今回の受賞を励みに、今後も鋳造技術の可能性を広げ、お客様のものづくりに貢献してまいります」（https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0%E5%B7%A5%E5%AD%A6%E4%BC%9A%E3%80%8C%E8%B1%8A%E7%94%B0%E8%B3%9E%E3%80%8D/・1回目）
+  - 「3Dプリンタでの試作製造による工数削減に業界先駆けで取り組むなど、DXにつながる挑戦を積極的に行う」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+  - 「千差万別な顧客要求に添う見積作成」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+  - 「なかでも鋳物事業では、業界に先駆けて3Dプリンタによる試作の鋳物製造に取り組み、従来必要とされてきた木型（きがた）制作プロセスを一気に省略し、工程を大幅に削減するなど、今日のDXにつながる革新的な挑戦を積極的に行っている」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+  - 「同社と取引のある顧客は、先代の創業者が自動車業界に在籍していたこともあり、現在も自動車やその部品を取り扱うメーカーが中心だが、近年は建設機械やロボット、医療機械などさまざまな業界へ販路拡大を図っている」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+  - 「同社が在籍する鋳造業界では、日本の産業界全体と同様に、若手の人材が不足している状況にある」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+  - 「そこでプロジェクトへの参加を決断した小岩井氏が最初に取り組んだのが、顧客接点の入り口となる試作事業における見積業務の効率化だった」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+- お金の形：
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/company/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/business-content/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%A5%B3%E6%80%A7%E6%B4%BB%E8%BA%8D%E6%8E%A8%E9%80%B2%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%B8%80%E8%88%AC%E4%BA%8B%E6%A5%AD%E4%B8%BB/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/company/president-message/・1回目）
+  - 「私たちはこれからも、ものづくりの基本である品質・納期・価格のみならず、ものづくりそのものに情熱を注いでいきます」（https://www.tc-koiwai.co.jp/company/president-message/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/company/corporate-philosophy/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/company/corporate-information/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/company/company-history/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/company/sustainable/・1回目）
+  - 「製造メーカーである以上、資材搬入時、製品の出荷、納品には多くの段ボールが必要とされ、それらは消耗品として活用されています」（https://www.tc-koiwai.co.jp/company/sustainable/・1回目）
+  - 「お見積もりのご依頼」（https://www.tc-koiwai.co.jp/business-content/productionsystemquality/・1回目）
+- いくら：
+  - 「3,500万円」（https://www.tc-koiwai.co.jp/company/corporate-information/・1回目）
+  - 「35,000,000円」（https://miyagi-ijuguide.pref.miyagi.jp/company/36746・3回目）
+  - 「JAMPTは2025年までに売上高1,000億円を目標とし、金属AM業界における世界のリーディングカンパニーを目指します」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「239,600千円」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「（2018年2月には資本金・資本金準備金で8.1億円に増資予定）」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「資本金:20,000千円」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「Claudeで2000万円級分析が80万円に ChatGPTやGemini、3大AI戦略研究」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「ミドル転職、専門家に聞く初めの一歩 ～ウーマノミクス調査から」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 コイワイ | 型にはまらない鋳物屋 — 株式会社 コイワイ | 型にはまらない鋳物屋 株式会社コイワイ https://www.tc-koiwai.co.jp」（https://www.tc-koiwai.co.jp/・3回目）
+  - 「株式会社 コイワイ | みやぎ移住・交流ガイド - 宮城県 — 株式会社 コイワイ | みやぎ移住・交流ガイド - 宮城県 みやぎ移住・交流ガイド https://miyagi-ijuguide.pref.miyagi.jp > company」（https://miyagi-ijuguide.pref.miyagi.jp/company/36746・3回目）
+  - 「colorful Vol.33 株式会社 コイワイ 【神奈川県小田原市】 — colorful Vol.33 株式会社 コイワイ 【神奈川県小田原市】 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Vd-HFaEE1Gg・3回目）
+  - 「株式会社 コイワイ の中途採用・転職・求人情報 — 株式会社 コイワイ の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company」（https://www.r-agent.com/company/d6487/・3回目）
+  - 「株式会社 コイワイ 様 事例 ：高度な3Dデータ類似検索 ... - マクニカ — 株式会社 コイワイ 様 事例 ：高度な3Dデータ類似検索 ... - マクニカ 株式会社マクニカ https://www.macnica.co.jp > ... > AI事業 > 導入事例」（https://www.macnica.co.jp/business/ai/case/142097/・3回目）
+  - 「ロボット 導入事例 インタビュー 株式会社 コイワイ - YouTube — ロボット 導入事例 インタビュー 株式会社 コイワイ - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=H6pwWrcFv4s・3回目）
+  - 「鋳物メーカーの コイワイ ／次世代アルミ合金で提案注力 — 鋳物メーカーの コイワイ ／次世代アルミ合金で提案注力 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄」（https://www.japanmetaldaily.com/articles/-/267250・3回目）
+  - 「20240120 SLIM着陸後Release koiwai - コイワイ — 20240120 SLIM着陸後Release koiwai - コイワイ 株式会社コイワイ PDF https://www.tc-koiwai.co.jp > uploads > 2024/01」（https://www.tc-koiwai.co.jp/wp/wp-content/uploads/2024/01/73614d54c194488e9e329ae28e8b5d3d-2.pdf・3回目）
+  - 「双日と コイワイ 、3Dプリンターによる金属製品製造事業へ参入 — 双日と コイワイ 、3Dプリンターによる金属製品製造事業へ参入 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/・3回目）
+  - 「コイワイ 、3Dプリンターに新ソフト 造形 品の品質向上 | 機械 ... — コイワイ 、3Dプリンターに新ソフト 造形 品の品質向上 | 機械 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/438535・3回目）
+- 売上高：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部9頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式24頁／PDF・画像2件／外部9頁・検索5回）
+
+## サンメタロン（Sunmetalon）
+- 公式URL：https://sunmetalon.com/（search:yahoo_jp:サンメタロン(Sunmetalon)）
+- 設立：2021年2月（https://www.i-nestcapital.com/news/230407.html・3回目）
+- 設立：2019年5月（https://www.i-nestcapital.com/news/230407.html・3回目）
+- 設立：2021年02月（https://prtimes.jp/main/html/rd/p/000000014.000107174.html・3回目）
+- 事業内容：金属業界への脱炭素化ソリューションの提供（https://prtimes.jp/main/html/rd/p/000000014.000107174.html・3回目）
+- 事業内容：金属リサイクル・金属精製・金属加工を通した金属業界の脱炭素化ソリューションの提供（https://prtimes.jp/main/html/rd/p/000000019.000107174.html・3回目）
+- 誰から：
+  - 「Managing Partner, COO and Representative Director, UTEC」（https://sunmetalon.com/company・1回目）
+  - 「Principal, Globis Capital Partners」（https://sunmetalon.com/company・1回目）
+  - 「Globis Capital Partners」（https://sunmetalon.com/company・1回目）
+  - 「Our Partners」（https://sunmetalon.com/company・1回目）
+  - 「Sun Metalon entered a partnership with Center for Design and Manufacturing Excellence (CDME) in Ohio」（https://sunmetalon.com/news・1回目）
+  - 「State funding marks first public-private partnership in company's strategy to strengthen domestic manufacturing」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「Sun Metalon has been awarded nearly $1 million from Colorado's Greenhouse Gas Pollution Reduction Fund to scale its zero-emission metal recycling technology. The investment represents the first step in Sun Metalon's strategy to build public-private partnerships that create sustainable, reliable onshore capabilities in areas of national importance.」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「Building Strategic Partnerships」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「This award is the first in our foundation for sustainable public-private partnerships. By aligning innovation with government priorities in manufacturing resilience, critical materials, and climate goals, Sun Metalon is creating reliable onshore capabilities in sectors critical to America's future.」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「The company plans to leverage this state partnership to pursue federal opportunities through the Department of Defense, Department of Energy, and other agencies focused on domestic supply chain development.」（https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling・1回目）
+  - 「Managing Partner, COO and Representative Director, UTEC」（https://sunmetalon.com/jp/company・1回目）
+  - 「Principal, Globis Capital Partners」（https://sunmetalon.com/jp/company・1回目）
+- 何をする：
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/sun-metalon-was-recently-presented-with-the-mizuho-innovation-award-20244q-sponsored-by-mizuho-bank・1回目）
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge・1回目）
+  - 「プレスリリース（全文はこちら）：」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「造形サービス（10）」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「開発中の3Dプリンターは、2023年初旬に初号機リリースを予定しており、段階的に製造可能な部品サイズを拡張し、将来的に3ラインアップの提供予定だ」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「国内最大級の受託造形サービスを展開するDMM.comが開催したリアルイベント「DMM.make 3Dプリントサミット in AKIBA」をシェアラボ編集部が取材 …」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「造形サービス」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+- 誰に：
+  - 「金属業界の脱炭素化を推進する SUN METALON Inc.（以下、Sun Metalon）は、昨年発表いたしましたシリーズ A 1st クローズに続く 2nd クローズにて、日本製鉄、国際協力銀行（JBIC）、Airbus Ventures、Shimadzu Future Innovation Fund（運営者：グローバル・ブレイン）を引受先とする約 13 億円※（910 万米ドル）の第三者割当増資を実施いたしました」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「当社主要顧客である自動車、建機、重工業、鉄鋼メーカーなどの製造業を多数擁するシカゴ近郊に本社を移転することで、より良い製品・サービスを顧客に提供することを目指します」（https://sunmetalon.com/jp/news/sun-metalon-announces-relocation-of-headquarters-to-illinois・1回目）
+  - 「金属業界の脱炭素化を推進する株式会社SUN METALON（以下、SUN METALON）とコマツは、鉄系研磨スラッジの新リサイクルプロセスに関する共同研究を開始しました」（https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge・1回目）
+  - 「Forbes JAPANが毎年、創業10年以内の起業家を中心に、直近1年間の事業進捗や資金調達状況をもとに約200組のロングリストを作成し、業界有識者からの推薦を経て選出する独自の企画です」（https://sunmetalon.com/jp/news/featured-in-forbes-2025-japans-best-startup-employers・1回目）
+  - 「金属業界の脱炭素化を推進する SUN METALONは、このたび新たなブランディング戦略のもと、企業ウェブサイトおよびロゴをリニューアルしました」（https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo・1回目）
+  - 「当社の設備・技術力をご紹介するとともに、金属リサイクル業界の最新情報を得られる情報源としても、ぜひご活用ください」（https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo・1回目）
+  - 「金属業界の脱炭素化を推進するSUN METALON Inc.（以下、SUN METALON）は、日米の投資家および金融機関より、総額31億円の資金調達を実施しました」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「当社は低コスト・低 CO2 を実現する独自加熱技術により、金属業界の脱炭素化を先導していきます」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「世界市場に挑む」そうした気概でAM業界をけん引する各社の取り組みをシェアラボニュース上でも複数取り上げてきた」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「アパレル・インテリア業界事例」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「その他業界事例」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「医療業界事例」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+- お金の形：
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/・3回目）
+  - 「また、従来は均質に加工された金属粉末が必要だったのが、同社技術は不均質な金属粉末でも造形できることが大きな特徴です」（https://www.i-nestcapital.com/news/230407.html・3回目）
+  - 「SUN METALONは金属部品の造形だけではなく最終的には鉱石から粉末材料を精製することも目指しており、その取組みが具現化し始めていることを印象づけた」（https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/・3回目）
+- いくら：
+  - 「Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達、累計調達額は 58 億円（約 4 千万米ドル）に」（https://sunmetalon.com/jp/news・1回目）
+  - 「シリーズA 1stクローズにて日米の投資家・金融機関より総額31億円を調達」（https://sunmetalon.com/jp/news・1回目）
+  - 「プレシリーズAラウンドにて総額約8億円の資金調達実施のご報告」（https://sunmetalon.com/jp/news・1回目）
+  - 「SUN METALONがシードラウンドにてUTEC, D4V, UC Berkeley等より190万ドルの資金調達を実施しました」（https://sunmetalon.com/jp/news・1回目）
+  - 「Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達 – Sun Metalon」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達、累計調達額は 58 億円（約 4 千万米ドル）に」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「金属業界の脱炭素化を推進する SUN METALON Inc.（以下、Sun Metalon）は、昨年発表いたしましたシリーズ A 1st クローズに続く 2nd クローズにて、日本製鉄、国際協力銀行（JBIC）、Airbus Ventures、Shimadzu Future Innovation Fund（運営者：グローバル・ブレイン）を引受先とする約 13 億円※（910 万米ドル）の第三者割当増資を実施いたしました」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「今回の資金調達により、創業以来の累計調達額（融資枠を含む）は約 58 億円（3,984万米ドル）となります」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「※ 1 米ドル＝145 円で換算」（https://sunmetalon.com/jp/news/pressrelease-2025-05・1回目）
+  - 「シリーズA 1stクローズにて日米の投資家・金融機関より総額31億円を調達」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「金属業界の脱炭素化を推進するSUN METALON Inc.（以下、SUN METALON）は、日米の投資家および金融機関より、総額31億円の資金調達を実施しました」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+  - 「シリーズA 1stクローズにて、JICベンチャー･グロース･インベストメンツ、HITE Hedge Asset Management、住友商事グローバルメタルズに加え、既存投資家である東京大学エッジキャピタルパートナーズ（UTEC）、グロービス・キャピタル・パートナーズ、D4V、i-nest capital、Scrum Ventures、Berkeley SkyDeckを引受先とする約26億円※1（1,768万ドル）の第三者割当増資を実施するとともに、三井住友銀行から5億円を上限とする融資枠の設定を行いました」（https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization・1回目）
+- 検索結果の抜粋：
+  - 「【プレスリリース】i-nest capitalが「SUN METALON Inc.」へ ... — 【プレスリリース】i-nest capitalが「SUN METALON Inc.」へ ... i-nest Capital株式会社 https://www.i-nestcapital.com > news」（https://www.i-nestcapital.com/news/230407.html・3回目）
+  - 「すごいベンチャー【32】SUN METALON／金属ゴミをその場 ... — すごいベンチャー【32】SUN METALON／金属ゴミをその場 ... 東洋経済オンライン https://toyokeizai.net > articles」（https://toyokeizai.net/articles/-/908005?display=b・3回目）
+  - 「住友商事グローバルメタルズによるSUN METALONへの出資 ... — 住友商事グローバルメタルズによるSUN METALONへの出資 ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000013.000107174.html・3回目）
+  - 「SUN METALONがシリーズAラウンドで2100万ドル（約31億 ... — SUN METALONがシリーズAラウンドで2100万ドル（約31億 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済」（https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/・3回目）
+  - 「トヨタ自動車とSUN METALON がアルミニウム合金の新 ... — トヨタ自動車とSUN METALON がアルミニウム合金の新 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/・3回目）
+  - 「SUN METALONとコマツ、鉄系研磨スラッジの新リサイクル ... — SUN METALONとコマツ、鉄系研磨スラッジの新リサイクル ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000014.000107174.html・3回目）
+  - 「Turn your metal waste into revenue - Sun Metalon — Turn your metal waste into revenue - Sun Metalon Sun Metalon https://sunmetalon.com > ...」（https://sunmetalon.com/jp・3回目）
+  - 「【プレスリリース】SUN METALONとコマツ、鉄系研磨 ... - note — 【プレスリリース】SUN METALONとコマツ、鉄系研磨 ... - note note https://note.com > 科学・テクノロジー > 金属・鉱学」（https://note.com/sunmetalon/n/n3e0a4eee613f・3回目）
+  - 「金属業界の脱炭素化を推進するSun Metalon、シリーズA 2nd ... — 金属業界の脱炭素化を推進するSun Metalon、シリーズA 2nd ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000019.000107174.html・3回目）
+  - 「Our Company – Sun Metalon — Our Company – Sun Metalon Sun Metalon https://sunmetalon.com > company」（https://sunmetalon.com/jp/company・3回目）
+  - 「「SUN METALON」は金属3Dプリンターの高速化を実現し — 「SUN METALON」は金属3Dプリンターの高速化を実現し INDUSTRY CO-CREATION https://industry-co-creation.com > catapult」（https://industry-co-creation.com/catapult/84805・3回目）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部9頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部9頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像0件／外部9頁・検索5回）
+
+## シナノカメラ工業
+- 公式URL：https://www.sinakame.co.jp/（search:yahoo_jp:シナノカメラ工業）
+- 設立：1974年5月（https://www.sinakame.co.jp/company.html・1回目）
+- 設立：1974年5月（http://www.sinakame.co.jp/company.html・1回目）
+- 設立：1974年5月（https://suwa.monozukuri.or.jp/detail/01572/・3回目）
+- 従業員数：98名（https://www.sinakame.co.jp/company.html・1回目）
+- 従業員数：98名（http://www.sinakame.co.jp/company.html・1回目）
+- 従業員数：100名（https://suwa.monozukuri.or.jp/detail/01572/・3回目）
+- 事業内容：高密度基板実装・精密機器組立・3Dプリンター造形サービス（https://www.sinakame.co.jp/company.html・1回目）
+- 事業内容：高密度基板実装・精密機器組立・3Dプリンター造形サービス（http://www.sinakame.co.jp/company.html・1回目）
+- 事業内容：基板実装、組立、精密機器組立（https://gdfindi.com/jp/case/case-shinano/・3回目）
+- 取引先：株式会社イングスシナノ / イデアシステム株式会社 / エル・エス・アイジャパン株式会社 / 株式会社大崎電業社 / 金陵電機株式会社 / ＫＯＡ株式会社 / 工商エレクトロニクス / 株式会社コシナ / 株式会社国興 / コニカミノルタオプト株式会社 / 株式会社サーキットデザイン / シイエムケイプロダクツ株式会社 / 株式会社シンキー / セイコーエプソン株式会社 / 西武電子機器株式会社 / タカネ電機株式会社 / 株式会社ティアンドデイ / 株式会社トヨテック / 株式会社藤岡エンジニアリング / 株式会社堀場製作所 / さくら電子株式会社 / 株式会社HSET / 株式会社テックフォース / 太洋工業株式会社 / 名古屋理研電具株式会社 / 株式会社エイビット / 伊那トロン株式会社（https://www.sinakame.co.jp/company.html・1回目）
+- 取引先：株式会社イングスシナノ / イデアシステム株式会社 / エル・エス・アイジャパン株式会社 / 株式会社大崎電業社 / 金陵電機株式会社 / ＫＯＡ株式会社 / 工商エレクトロニクス / 株式会社コシナ / 株式会社国興 / コニカミノルタオプト株式会社 / 株式会社サーキットデザイン / シイエムケイプロダクツ株式会社 / 株式会社シンキー / セイコーエプソン株式会社 / 西武電子機器株式会社 / タカネ電機株式会社 / 株式会社ティアンドデイ / 株式会社トヨテック / 株式会社藤岡エンジニアリング / 株式会社堀場製作所 / さくら電子株式会社 / 株式会社HSET / 株式会社テックフォース / 太洋工業株式会社 / 名古屋理研電具株式会社 / 株式会社エイビット / 伊那トロン株式会社（http://www.sinakame.co.jp/company.html・1回目）
+- 誰から：
+  - 「自社製品ページのブランド名リニューアル」（https://www.sinakame.co.jp/news/category1/・1回目）
+  - 「自社製品ページのブランド名リニューアル」（https://www.sinakame.co.jp/news/page/2/・1回目）
+  - 「自社製品・自社ブランド品の展示販売」（https://www.sinakame.co.jp/news/page/3/・1回目）
+  - 「自社製品ページのブランド名リニューアル | お知らせ | NEWS | シナノカメラ工業、ＬｉＴＡＳ、ライタス」（https://www.sinakame.co.jp/news/category1/entry-81.html・1回目）
+  - 「自社製品ページのブランド名リニューアル」（https://www.sinakame.co.jp/news/category1/entry-81.html・1回目）
+  - 「自社製品・自社ブランド品の展示販売」（https://www.sinakame.co.jp/news/category1/page/2/・1回目）
+  - 「自社製品ページのブランド名決定」（https://www.sinakame.co.jp/news/page/4/・1回目）
+  - 「自社製品・自社ブランド品の展示販売」（https://www.sinakame.co.jp/news/category1/entry-78.html・1回目）
+- 何をする：
+  - 「自社ブランドの企画・デザイン・製造販売」（https://www.sinakame.co.jp/・1回目）
+  - 「部品調達・基板設計・基板実装・製品組立・検査・梱包、を試作から量産まで」（https://www.sinakame.co.jp/・1回目）
+  - 「基板設計→部品調達→実装（検査）→組立（検査）→梱包までを一貫して行います」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「基板試作実績がたくさんあります！」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「回路図と部品表から基板設計（アートワーク）を行い、基板の製造を実施」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「信頼の工程設計」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「製品のニーズに合わせた工程設計を提案」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「また、我々のコア技術である基板実装は、量産から試作まで充実した設備と技術力を駆使し、お客様の様々なご要望に、『スピードと情熱』を持って対応させて頂いております」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「高密度基板実装・精密機器組立・3Dプリンター造形サービス」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「てまりランプ販売開始」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「雷検知器「雷報」販売開始」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「長野県松本合同庁舎松本市商工観光部労政課「健康経営セミナー」」（https://www.sinakame.co.jp/company.html・1回目）
+- 誰に：
+  - 「お客様の課題やニーズに、技術力と豊富な経験で対応」（https://www.sinakame.co.jp/・1回目）
+  - 「【ご利用のお客様へ】」（https://www.sinakame.co.jp/・1回目）
+  - 「お客様の手を煩わせることなく、ご要望に応じた効率的な製造、徹底した品質管理、生産管理、納期管理を実現します」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「お客様の負担を軽減します」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「お客様のフィードバックをもとに、最善の生産工程を確立します」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「また、我々のコア技術である基板実装は、量産から試作まで充実した設備と技術力を駆使し、お客様の様々なご要望に、『スピードと情熱』を持って対応させて頂いております」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「シナノカメラ工業は、これからもお客様に満足頂ける製品作りを常に心がけ、未来に向かって、お客様、取引先様、スタッフの皆が共に発展できるよう全力で挑戦してまいります」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「わが社は、歓迎され、信頼される商品とサービスの提供により、ユーザーの利便性向上に貢献するとともに、企業の安定した発展を図り、全社員の物心両面の幸せの追求と地域の人々に貢献することを目的とします」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「また、お客様の満足する製品を提供するために、お客様及び利害関係者の要求事項、法的要求事項を順守し、継続的改善に取り組む」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「【ご利用のお客様へ】」（https://www.sinakame.co.jp/news/category1/entry-88.html・1回目）
+  - 「【ご利用のお客様へ】」（https://www.sinakame.co.jp/news/・1回目）
+  - 「お客様の手を煩わせることなく、ご要望に応じた効率的な製造、徹底した品質管理、生産管理、納期管理を実現します」（http://www.sinakame.co.jp/works/ems.html・1回目）
+- お金の形：
+  - 「お見積り依頼、技術相談など」（https://www.sinakame.co.jp/・1回目）
+  - 「お見積り依頼、技術相談などご相談はお気軽にお問い合わせください」（https://www.sinakame.co.jp/・1回目）
+  - 「お見積り依頼、技術相談など」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「お見積り依頼、技術相談などご相談はお気軽にお問い合わせください」（https://www.sinakame.co.jp/works/ems.html・1回目）
+  - 「お見積り依頼、技術相談など」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「お見積り依頼、技術相談などご相談はお気軽にお問い合わせください」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「お見積り依頼、技術相談など」（http://www.sinakame.co.jp/original_product.html・1回目）
+  - 「お見積り依頼、技術相談などご相談はお気軽にお問い合わせください」（http://www.sinakame.co.jp/original_product.html・1回目）
+  - 「お見積り依頼、技術相談など」（https://www.sinakame.co.jp/works/implementation.html・1回目）
+  - 「お見積り依頼、技術相談などご相談はお気軽にお問い合わせください」（https://www.sinakame.co.jp/works/implementation.html・1回目）
+  - 「お見積り依頼、技術相談など」（https://www.sinakame.co.jp/news/exhibition/entry-90.html・1回目）
+  - 「お見積り依頼、技術相談などご相談はお気軽にお問い合わせください」（https://www.sinakame.co.jp/news/exhibition/entry-90.html・1回目）
+- いくら：
+  - 「私たちは、地域社会と円満協調を図り、社会環境の様々な変化に目を向け、社会の一員としての責任を果たします」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「3,000万円」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「資本金1,000万円にて会社設立」（https://www.sinakame.co.jp/company.html・1回目）
+  - 「私たちは、地域社会と円満協調を図り、社会環境の様々な変化に目を向け、社会の一員としての責任を果たします」（http://www.sinakame.co.jp/company.html・1回目）
+  - 「3,000万円」（http://www.sinakame.co.jp/company.html・1回目）
+  - 「資本金1,000万円にて会社設立」（http://www.sinakame.co.jp/company.html・1回目）
+  - 「3000万円」（https://suwa.monozukuri.or.jp/detail/01572/・3回目）
+  - 「他部署との合意形成を円滑にしたい」（https://gdfindi.com/jp/case/case-shinano/・3回目）
+  - 「3000万円」（https://gdfindi.com/jp/case/case-shinano/・3回目）
+- 検索結果の抜粋：
+  - 「シナノカメラ工業 株式会社の会社概要・製品情報 | Metoree — シナノカメラ工業 株式会社の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/8912/・3回目）
+  - 「シナノカメラ工業 株式会社 - NAGANOものづくり諏訪圏ガイド — シナノカメラ工業 株式会社 - NAGANOものづくり諏訪圏ガイド NAGANOものづくり諏訪圏ガイド https://suwa.monozukuri.or.jp > detail」（https://suwa.monozukuri.or.jp/detail/01572/・3回目）
+  - 「地元企業が開発した製品を完成まで受注生産 シナノカメラ工業 — 地元企業が開発した製品を完成まで受注生産 シナノカメラ工業 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=GOTp-tyrE3w・3回目）
+  - 「シナノカメラ工業 | 企業情報 | イプロスものづくり — シナノカメラ工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体」（https://mono.ipros.com/company/detail/2056266/・3回目）
+  - 「シナノカメラ工業 、LiTAS、ライタス — シナノカメラ工業 、LiTAS、ライタス シナノカメラ工業 https://www.sinakame.co.jp」（https://www.sinakame.co.jp/・3回目）
+  - 「シナノカメラ工業 株式会社様 | LEXER ソリューションサイト — シナノカメラ工業 株式会社様 | LEXER ソリューションサイト GD.findi https://gdfindi.com > ホーム > 導入事例」（https://gdfindi.com/jp/case/case-shinano/・3回目）
+  - 「会社概要 | シナノカメラ工業 、LiTAS、ライタス — 会社概要 | シナノカメラ工業 、LiTAS、ライタス シナノカメラ工業 https://www.sinakame.co.jp > company」（https://www.sinakame.co.jp/company.html・3回目）
+  - 「シナノカメラ工業 株式会社【TSUNAGU会社見学 松本エリア ... — シナノカメラ工業 株式会社【TSUNAGU会社見学 松本エリア ... YouTube https://m.youtube.com > watch」（https://m.youtube.com/watch?v=HlnpP3hfxKU&pp=iggCQAE%3D&ra=m・3回目）
+  - 「シナノカメラ工業 株式会社｜長野県松本市の組立・検査会社 — シナノカメラ工業 株式会社｜長野県松本市の組立・検査会社 XtoX https://xtox.co.jp > TOP > 長野県の製造業」（https://xtox.co.jp/kakouba/company/18043182ea/・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部9頁・検索5回）
+
+## シーフォース
+- 公式URL：https://www.tools-shop.net/（search:yahoo_jp:シーフォース）
+- 誰から：
+  - 「弊社とブルーイッシュが販売代理店契約を締結いたしました」（https://www.c-force-corp.co.jp/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E8%AB%8B%E6%B1%82%E4%BB%A3%E8%A1%8C/・3回目）
+  - 「オーガニック化粧品のパイオニア、WELEDA（ヴェレダ）の正規輸入代理店」（https://www.cforce.co.jp/・3回目）
+  - 「３Dプリンターやレーザー機器、工具など自社製品から輸入製品まで取扱い「モノづくりをサポート」します」（https://www.seaforce.co.jp/・3回目）
+  - 「自社製品と世界15カ国からの直輸入製品で」（https://www.seaforce.co.jp/・3回目）
+  - 「メーカー&輸入商社の二つのスタイル」（https://www.seaforce.co.jp/・3回目）
+  - 「自社開発製品」（https://www.seaforce.co.jp/・3回目）
+  - 「日本総代理店製品」（https://www.seaforce.co.jp/・3回目）
+  - 「自社製品・OEM製品・輸入代理店製品」（https://www.seaforce.co.jp/・3回目）
+- 何をする：
+  - 「彫金工具・世界の工具販売 【シーフォース オンラインショップ】」（https://www.tools-shop.net/・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/・1回目）
+  - 「ルースケースに入った状態での販売です」（https://www.tools-shop.net/・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20261023150344・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20260914101159・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20260729125607・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20260702132109・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20260602171327・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20260402121154・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20260207171920・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20251127101828・1回目）
+  - 「在庫限り販売終了」（https://www.tools-shop.net/view/news/20251119111758・1回目）
+- 誰に：
+  - 「お客様にはご不便とご迷惑をおかけいたしますが、何卒ご理解賜りますようお願い申し上げます」（https://www.tools-shop.net/view/news/20261023150344・1回目）
+  - 「お客様にはご不便とご迷惑をおかけしますが、」（https://www.tools-shop.net/view/news/20260914101159・1回目）
+  - 「お客様にはご不便とご迷惑をおかけしますが、」（https://www.tools-shop.net/view/news/20260702132109・1回目）
+  - 「お客様にはご不便とご迷惑をおかけしますが、」（https://www.tools-shop.net/view/news/20260402121154・1回目）
+  - 「お客様におかれましては、十分ご注意くださいますようお願い申し上げます」（https://www.tools-shop.net/view/news/20260207171920・1回目）
+  - 「お客様にはご不便、ご迷惑をおかけしておりますこと、深くお詫び申し上げます」（https://www.tools-shop.net/view/news/20251127101828・1回目）
+  - 「お客様にはご不便をおかけし大変申し訳ございません」（https://www.tools-shop.net/view/news/20251119111758・1回目）
+  - 「お急ぎのお客様はメール、またはLINEチャットにご連絡ください」（https://www.tools-shop.net/view/news/20251119111758・1回目）
+  - 「お客様にはご不便をおかけいたしました」（https://www.tools-shop.net/view/news/20251119111758・1回目）
+  - 「お客様にはご不便とご迷惑をおかけしますが、」（https://www.tools-shop.net/view/news/20251117162619・1回目）
+  - 「本イベントは、釣り業界の新規顧客開拓と、SDGs目標14「海の豊かさを守ろう」の推進を目的として2022年に第1回を開催しました」（https://www.cforce.co.jp/・3回目）
+  - 「自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです」（https://techtouch.jp/cases/educom/・3回目）
+- お金の形：
+  - 「価格/商品に変動がございます」（https://www.tools-shop.net/・1回目）
+  - 「低価格ジルコニア」（https://www.tools-shop.net/・1回目）
+  - 「価格/商品に変動がございます」（https://www.tools-shop.net/view/news/20261023150344・1回目）
+  - 「低価格ジルコニア」（https://www.tools-shop.net/view/news/20261023150344・1回目）
+  - 「価格/商品に変動がございます」（https://www.tools-shop.net/view/news/20260914101159・1回目）
+  - 「低価格ジルコニア」（https://www.tools-shop.net/view/news/20260914101159・1回目）
+  - 「価格/商品に変動がございます」（https://www.tools-shop.net/view/news/20260729125607・1回目）
+  - 「低価格ジルコニア」（https://www.tools-shop.net/view/news/20260729125607・1回目）
+  - 「価格/商品に変動がございます」（https://www.tools-shop.net/view/news/20260702132109・1回目）
+  - 「低価格ジルコニア」（https://www.tools-shop.net/view/news/20260702132109・1回目）
+  - 「価格/商品に変動がございます」（https://www.tools-shop.net/view/news/20260602171327・1回目）
+  - 「低価格ジルコニア」（https://www.tools-shop.net/view/news/20260602171327・1回目）
+- いくら：
+  - 「円錐・テーパー型」（https://www.tools-shop.net/・1回目）
+  - 「スピンドルサンダー」（https://www.tools-shop.net/・1回目）
+  - 「円錐・テーパー型」（https://www.tools-shop.net/view/news/20261023150344・1回目）
+  - 「スピンドルサンダー」（https://www.tools-shop.net/view/news/20261023150344・1回目）
+  - 「円錐・テーパー型」（https://www.tools-shop.net/view/news/20260914101159・1回目）
+  - 「スピンドルサンダー」（https://www.tools-shop.net/view/news/20260914101159・1回目）
+  - 「円錐・テーパー型」（https://www.tools-shop.net/view/news/20260729125607・1回目）
+  - 「スピンドルサンダー」（https://www.tools-shop.net/view/news/20260729125607・1回目）
+  - 「円錐・テーパー型」（https://www.tools-shop.net/view/news/20260702132109・1回目）
+  - 「スピンドルサンダー」（https://www.tools-shop.net/view/news/20260702132109・1回目）
+  - 「円錐・テーパー型」（https://www.tools-shop.net/view/news/20260602171327・1回目）
+  - 「スピンドルサンダー」（https://www.tools-shop.net/view/news/20260602171327・1回目）
+- 検索結果の抜粋：
+  - 「クラウドサーバー請求代行 - 株式会社シーフォース — クラウドサーバー請求代行 - 株式会社シーフォース 株式会社シーフォース https://www.c-force-corp.co.jp > クラウドサーバー請求代行」（https://www.c-force-corp.co.jp/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E8%AB%8B%E6%B1%82%E4%BB%A3%E8%A1%8C/・3回目）
+  - 「広告・制作会社の株式会社 シーフォース Cforce, Inc. — 広告・制作会社の株式会社 シーフォース Cforce, Inc. cforce.co.jp https://www.cforce.co.jp」（https://www.cforce.co.jp/・3回目）
+  - 「カタログご依頼フォーム - シーフォース株式会社 — カタログご依頼フォーム - シーフォース株式会社 シーフォース株式会社 https://www.seaforce.co.jp > productcatalog > catalogform」（https://www.seaforce.co.jp/productcatalog/catalogform.html・3回目）
+  - 「統合型校務支援システム C4th（ シーフォース ） — 統合型校務支援システム C4th（ シーフォース ） EDIX https://www.edix-expo.jp > Home > Product (2025)」（https://www.edix-expo.jp/osaka/en-gb/search/2025/product/product-details.exh-47f9455b-6cba-41ff-b930-60d4b7673f4a.%E7%B5%B1%E5%90%88%E5%9E%8B%E6%A0%A1%E5%8B%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%20c4th%E3%82%B7%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9.pro-2370ca70-1854-4fcf-9426-02a443bb2119.html・3回目）
+  - 「シーフォース 世界の工具・彫金 オンラインショップ — シーフォース 世界の工具・彫金 オンラインショップ シーフォース 世界の工具・彫金 オンラインショップ https://www.tools-shop.net > html > page500」（https://www.tools-shop.net/html/page500.html・3回目）
+  - 「シーフォース (@seaforce_co) · Taito-ku, Tokyo - Instagram — シーフォース (@seaforce_co) · Taito-ku, Tokyo - Instagram Instagram https://www.instagram.com > seaforce_co」（https://www.instagram.com/seaforce_co/・3回目）
+  - 「シーフォース SEA FORCE 通販【全品無料配達】 - ヨドバシ — シーフォース SEA FORCE 通販【全品無料配達】 - ヨドバシ ヨドバシ https://www.yodobashi.com > ... > さ行」（https://www.yodobashi.com/maker/0000010049/・3回目）
+  - 「シーフォース ｜世界の工具と機械 — シーフォース ｜世界の工具と機械 シーフォース株式会社 https://www.seaforce.co.jp」（https://www.seaforce.co.jp/・3回目）
+  - 「会社概要｜ シーフォース 株式会社 — 会社概要｜ シーフォース 株式会社 seaforce.tokyo https://www.seaforce.tokyo > company > aboutus」（https://www.seaforce.tokyo/company/aboutus.html・3回目）
+- 設立：記載なし（3回確認済み：公式26頁／PDF・画像10件／外部11頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像10件／外部11頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像10件／外部11頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像10件／外部11頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像10件／外部11頁・検索5回）
+
+## シーメット
+- 公式URL：https://www.cmet.co.jp/（given）
+- 設立：1990（平成2）年11月2日（https://www.cmet.co.jp/company/・1回目）
+- 設立：1990（平成2）年11月2日（https://www.jmc-rp.co.jp/3dp/cmet/・3回目）
+- 従業員数：32名（https://www.cmet.co.jp/company/・1回目）
+- 従業員数：35名（https://mono.ipros.com/company/detail/210711/・3回目）
+- 従業員数：35名（https://www.jmc-rp.co.jp/3dp/cmet/・3回目）
+- 事業内容：光造形・砂型積層造形装置事業（3Dプリンター） 光造形システム・砂型積層造形システム製造・販売、 関連消耗、品等販売、技術サポート、保守サービス（https://www.cmet.co.jp/company/・1回目）
+- 事業内容：光造形・砂型積層造形装置事業（3Dプリンター）光造形システム・砂型積層造形システム製造・販売、関連消耗品等販売、技術サポート、保守サービス（https://www.jmc-rp.co.jp/3dp/cmet/・3回目）
+- 取引先：大手プラントメーカー
+自動車メーカー
+家電メーカー
+医療メーカー
+鋳造メーカー
+公的機関（工業技術センター・大学など含）
+サービスビューロー (順不同・敬称略) ※弊社は機械メーカーであるナブテスコ株式会社（http://www.nabtesco.com）の子会社として産業用の光造形装置をはじめ砂型積層造形装置等3Dプリンタに特化した事業を展開し、日本のモノづくり産業をサポートしています。（https://mono.ipros.com/company/detail/210711/・3回目）
+- 誰から：
+  - 「自社開発の光造形方式の材料をご紹介」（https://www.cmet.co.jp/・1回目）
+  - 「自社開発高機能性樹脂」（https://www.cmet.co.jp/product_cate/material-rapid/・1回目）
+  - 「自社開発の光造形方式の材料をご紹介」（https://www.cmet.co.jp/product_cate/material-rapid/・1回目）
+  - 「ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』」（https://www.cmet.co.jp/works/・1回目）
+  - 「ユーザ事例／『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』」（https://www.cmet.co.jp/works/・1回目）
+  - 「ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』」（https://www.cmet.co.jp/infomation/・1回目）
+  - 「社と日本における販売代理店契約を締結」（https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/・3回目）
+  - 「荒井誠営業部長は「販売だけでなく、装置導入サービス、導入後の保守サポートなどを自社製品同様に行える」と言う」（https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/・3回目）
+- 何をする：
+  - 「3Dプリンター（光造形・砂型造形装置）製造・販売のシーメット株式会社」（https://www.cmet.co.jp/・1回目）
+  - 「装置開発・ソフトウェア開発・樹脂開発・アフターサービスまでを一気通貫して行っているため、素早い問題解決や顧客ニーズに合わせた業務設計、行程設計に柔軟に対応できる能力が強みです」（https://www.cmet.co.jp/・1回目）
+  - 「製品紹介 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/product/・1回目）
+  - 「3Dプリンター（光造形・砂型造形装置）を製造・販売している当社では、 国産大型サイズからミドルサイズまで、お客様が使いやすいサイズでご提案」（https://www.cmet.co.jp/product/・1回目）
+  - 「光造形装置 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/product_cate/rapid-meister/・1回目）
+  - 「光造形専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/product_cate/material-rapid/・1回目）
+  - 「砂型積層造形装置 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/product_cate/sand-casting-meister/・1回目）
+  - 「試作から量産まで主型・中子造形を一括造形可能な大型砂型積層造形装置（世界最速砂型積層造形装置 SCM-1800）」（https://www.cmet.co.jp/product_cate/sand-casting-meister/・1回目）
+  - 「従来必要であった木型や金型を使用せず、主型・中子をダイレクトに造形することで、試作から小ロット生産まで...」（https://www.cmet.co.jp/product_cate/sand-casting-meister/・1回目）
+  - 「砂型積層専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/product_cate/material-sand/・1回目）
+  - 「事例一覧 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/works/・1回目）
+  - 「ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』」（https://www.cmet.co.jp/works/・1回目）
+- 誰に：
+  - 「装置開発・ソフトウェア開発・樹脂開発・アフターサービスまでを一気通貫して行っているため、素早い問題解決や顧客ニーズに合わせた業務設計、行程設計に柔軟に対応できる能力が強みです」（https://www.cmet.co.jp/・1回目）
+  - 「産業用3Dプリンターの高度な技術を駆使し、多様な業界の課題を解決してきました」（https://www.cmet.co.jp/・1回目）
+  - 「私たちがどのように製品開発を進化させ、コスト削減や効率化に貢献しているのか、具体的な導入事例をご覧ください」（https://www.cmet.co.jp/・1回目）
+  - 「弊社のＲ＆Ｄセンターではお客様の3Dプリンター導入を支援しています」（https://www.cmet.co.jp/・1回目）
+  - 「当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください」（https://www.cmet.co.jp/・1回目）
+  - 「3Dプリンター（光造形・砂型造形装置）を製造・販売している当社では、 国産大型サイズからミドルサイズまで、お客様が使いやすいサイズでご提案」（https://www.cmet.co.jp/product/・1回目）
+  - 「当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください」（https://www.cmet.co.jp/product/・1回目）
+  - 「当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください」（https://www.cmet.co.jp/product_cate/rapid-meister/・1回目）
+  - 「当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください」（https://www.cmet.co.jp/product_cate/material-rapid/・1回目）
+  - 「※装置塗装色はお客様のご要望に合わせて変更可能です」（https://www.cmet.co.jp/product_cate/sand-casting-meister/・1回目）
+  - 「当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください」（https://www.cmet.co.jp/product_cate/sand-casting-meister/・1回目）
+  - 「当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください」（https://www.cmet.co.jp/product_cate/material-sand/・1回目）
+- お金の形：
+  - 「高性能✕低価格の」（https://www.cmet.co.jp/・1回目）
+  - 「ハイエンドマシンでありながらリーズナブル価格で提供しています」（https://www.cmet.co.jp/product/・1回目）
+  - 「従来の大型装置よりコストパフォーマンスに優れ、低価格・高性能レーザーを搭載した光造形装置をご提供しています」（https://www.cmet.co.jp/product/・1回目）
+  - 「低価格・高性能レーザを搭載したRapid」（https://www.cmet.co.jp/product_cate/rapid-meister/・1回目）
+  - 「当日は、営業・お問い合わせ窓口、カスタマーサポート、消耗品等の受発注業務を含むすべての業務を休業いたします」（https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/・1回目）
+  - 「?_で価格は約」（https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/・3回目）
+  - 「千万円前後するため価格的な利点も訴求できる」（荒井部長）と自信を見せる」（https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/210711/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/210711/・3回目）
+  - 「ポリプロピレン風外観と靭性を兼備えた低価格樹脂「TSR-852」」（https://mono.ipros.com/company/detail/210711/・3回目）
+  - 「ポリプロピレンの外観と靭性を兼ね備えた低価格材料「TSR-852」」（https://mono.ipros.com/company/detail/210711/・3回目）
+  - 「お問合せ・お見積」（https://www.jmc-rp.co.jp/3dp/cmet/・3回目）
+- いくら：
+  - 「【中小企業に最大1000万円補助】大型SLA導入の壁を突破！」（https://www.cmet.co.jp/・1回目）
+  - 「3Dプリンター（光造形・砂型造形装置）を製造・販売している当社では、 国産大型サイズからミドルサイズまで、お客様が使いやすいサイズでご提案」（https://www.cmet.co.jp/product/・1回目）
+  - 「ミドルサイズ3Dプリンター Rapid Meister ATOMm-4000Ⅱ」（https://www.cmet.co.jp/product_cate/rapid-meister/・1回目）
+  - 「【新製品】ミドルサイズ3Dプリンター」（https://www.cmet.co.jp/product_cate/rapid-meister/・1回目）
+  - 「ミドルサイズでも高速造形を実現したいという願いを形にしたい」（https://www.cmet.co.jp/product_cate/rapid-meister/・1回目）
+  - 「但し、本当に量産適用されるためには、コストや品質、安全、規格等様々なクリアすべきハードルが存在します」（https://www.cmet.co.jp/company/・1回目）
+  - 「400,000,000円」（https://www.cmet.co.jp/company/・1回目）
+  - 「【中小企業に最大1000万円補助】大型SLA導入の壁を突破！」（https://www.cmet.co.jp/infomation/・1回目）
+  - 「【中小企業に最大1000万円補助】まだ間に合う！他社がこっそり始めている「補助金」最新設備投資」（https://www.cmet.co.jp/infomation/・1回目）
+  - 「また大型光造形装置「CSLA-9000」やミドルサイズ光造形装置「ATOMm-4000」をはじめとする多数の光造形装置を設置し、造形ノウハウやアプリケーション開発も行っております」（https://www.cmet.co.jp/company/development-center/・1回目）
+  - 「【中小企業に最大1000万円補助】大型SLA導入の壁を突破！」（https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/・1回目）
+  - 「【中小企業に最大1000万円補助】まだ間に合う！他社がこっそり始めている「補助金」最新設備投資」（https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/・1回目）
+- 検索結果の抜粋：
+  - 「個人情報保護方針 - シーメット — 個人情報保護方針 - シーメット cmet.co.jp https://www.cmet.co.jp > privacy」（https://www.cmet.co.jp/privacy/・3回目）
+  - 「シーメット 、中国製3Dプリンターを販売｜News - モノクエ — シーメット 、中国製3Dプリンターを販売｜News - モノクエ Mono Que https://monoque.jp > news」（https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/・3回目）
+  - 「シーメット 社およびユニオンテック社の3Dプリンターを販売 ... — シーメット 社およびユニオンテック社の3Dプリンターを販売 ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000101.000006663.html・3回目）
+  - 「JMC、 シーメット ・ユニオンテック製3Dプリンターの販売開始 — JMC、 シーメット ・ユニオンテック製3Dプリンターの販売開始 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 樹脂3Dプリンター」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/jmc-3dprinter-launch-251110/・3回目）
+  - 「事例 一覧 – 3Dプリンター（光造形・砂型造形 ... - シーメット — 事例 一覧 – 3Dプリンター（光造形・砂型造形 ... - シーメット cmet.co.jp https://www.cmet.co.jp > works」（https://www.cmet.co.jp/works/・3回目）
+  - 「シーメット — シーメット cmet.co.jp https://www.cmet.co.jp」（https://www.cmet.co.jp/・3回目）
+  - 「製品紹介 – 3Dプリンター（光造形・砂型造形 ... - シーメット — 製品紹介 – 3Dプリンター（光造形・砂型造形 ... - シーメット cmet.co.jp https://www.cmet.co.jp > product」（https://www.cmet.co.jp/product/・3回目）
+  - 「シーメット | 企業情報 | イプロスものづくり — シーメット | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器」（https://mono.ipros.com/company/detail/210711/・3回目）
+  - 「3Dプリンター 鋳造用 シーメット 社製砂型積層 造形 装置 — 3Dプリンター 鋳造用 シーメット 社製砂型積層 造形 装置 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=dsXr6xWI_44・3回目）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部7頁・検索4回）
+
+## シーメンス
+- 公式URL：https://www.siemens.com/（given）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/s/b-10296/?srsltid=AYCX9vJxksDg3AdQTBgYtrdqDu-5BpdoALBzal8cyz78lkoD-gz5GIzd・3回目）
+- 誰から：
+  - 「Together with NVIDIA, we are building the Industrial AI operating system for the physical world. Read the latest news from our ever-expanding partnership here.」（https://www.siemens.com/ja-jp/・1回目）
+  - 「Deep in the Amazon, a cooperative partnered with Natura to extract essential oils from native plants. We brought a digital twin to their extraction process, cutting energy and water use while boosting income for the local community by 60%.」（https://www.siemens.com/ja-jp/・1回目）
+  - 「シーメンスのソフトウェアを成功に導くPlatinum Partner」（https://www.siemens.com/ja-jp/・1回目）
+  - 「We're partnering with Humanoid to deploy the HMND 01 Alpha robot in our Erlangen factory. Built on the NVIDIA physical AI stack, it completes autonomous logistics tasks across a full shift.」（https://www.siemens.com/ja-jp/・1回目）
+  - 「Siemens NVIDIA と提携して、AI主導の自律型工場を推進しています」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「AI時代の高まるエネルギー需要を満たすために、Siemens NVIDIA と提携して、最新のVera Rubin DSX AIファクトリーのリファレンスデザインを開発しました」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「このターンキーソリューションとAI対応プラットフォームは、NVIDIA と提携し、Palo Alto Networks スと協力しています」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「strategic partnership」（https://www.siemens.com/ja-jp/products/avasis-teamcenter-medical-device-solution-tc-mds/・1回目）
+  - 「distributors」（https://www.siemens.com/ja-jp/products/avasis-teamcenter-medical-device-solution-tc-mds/・1回目）
+  - 「The avasis group is a Platinum Partner of Siemens in the DACH region and specializes in the sales and implementation of the Siemens software solutions Teamcenter, Polarion, NX, and Teamcenter Quality.」（https://www.siemens.com/ja-jp/products/avasis-teamcenter-medical-device-solution-tc-mds/・1回目）
+  - 「strategic partnership」（https://www.siemens.com/ja-jp/ecosystem/avasis/・1回目）
+  - 「distributors」（https://www.siemens.com/ja-jp/ecosystem/avasis/・1回目）
+- 何をする：
+  - 「人工知能、シミュレーション、スマートテクノロジーでお客様のアイデアを強化し、デジタル設計図から現実世界へのインパクトへと導きます」（https://www.siemens.com/ja-jp/・1回目）
+  - 「NXソフトウェアは、デジタルツインの価値を最大限に引き出す強力な統合コンピューター支援設計（CAD）およびコンピューター支援製造（CAM）ソリューションを使用して、設計者やメーカーがより優れた製品をより迅速に提供できるように支援します」（https://www.siemens.com/ja-jp/・1回目）
+  - 「Siemens Teamcenter 用の究極の製品ライフサイクル管理（PLM）アドオンモジュールで、特に医療技術企業向けに設計されています」（https://www.siemens.com/ja-jp/・1回目）
+  - 「これは、より持続可能でインテリジェントな未来を積極的に設計しているテクノロジーと専門家の洞察を最前線でご覧いただけます」（https://www.siemens.com/ja-jp/・1回目）
+  - 「電気設計と自動化コードの間のギャップを埋めます」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「Eigen Engineering Agent は、XMLやAMLなど、広く使用されている形式の電気設計ファイルを読み取るようになりました」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「Eigen Engineering Agentは、システムを最初に構築したエンジニアだけでなく、チームのすべてのエンジニアが状況を説明できるように設計されています」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「Eigen Engineering Agentは、アクセスを制限するのではなく、スケーリングするように設計されています」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「プレスリリース」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「Siemens、他に類を見ない分野の専門知識とデータに裏打ちされた洞察力で、現実世界とデジタル世界を組み合わせて、迅速な設計統合、忠実度の高いシミュレーション、インテリジェントな自動化を可能にします」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「つまり、現実世界の設計、構築、運営の方法を再定義しています」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「電子設計自動化（EDA）」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+- 誰に：
+  - 「人工知能、シミュレーション、スマートテクノロジーでお客様のアイデアを強化し、デジタル設計図から現実世界へのインパクトへと導きます」（https://www.siemens.com/ja-jp/・1回目）
+  - 「シーメンスのエコシステムには、お客様の最も重要なビジネス課題に対処するためのパートナー製品、サービス、ソリューションが幅広く揃っています」（https://www.siemens.com/ja-jp/・1回目）
+  - 「、お客様ごとに異なるTIAポータルプロジェクトを理解することで、正確で状況に応じたガイダンスを提供します」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「これらはすべてお客様の標準に合わせて調整されています」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「また、ユーザー管理とライセンスオーケストレーションを可能にし、Eigen Engineering Agentのインストールファイルへのアクセスを提供するIndustry Organization Account（旧Community アカウント）も必要です」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「Eigen Engineering Agentは、自然言語でのやりとりのためのユーザーフレンドリーなインターフェースを提供しています」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「ファンクションブロック、ユーザー定義データタイプ、HMI画面、およびそれらの複雑な関係など、お客様固有のTIA Portal プロジェクトを理解しているため、一般的なAI出力を手動で調整する必要はありません」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「これらすべてにより、TIA Portal 深い専門知識がなくても、ユーザーはSiemens 製品やエンジニアリングデータを簡単に操作できます」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「自動化コードを書き込み、ユーザーより先にテストします」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「プロジェクト（ファンクションブロック、ユーザー定義データ型、HMI画面とその関係）を実行して、その特定のコンテキストに基づいて出力を生成します」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「Siemens NVIDIA は、それぞれの製品を使用して互いの業務を加速および最適化し、相互の顧客ゼロの役割を果たしています」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「インパクトとスケーラビリティの具体的な実証を行った後、それらの製品をさまざまな業界のお客様に提供します」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+- お金の形：
+  - 「価格や購入などの詳細は、次のURLで確認できます」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「、サブスクリプションも購入でき、」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「TIAポータルでEigen Engineering Agent を使用するには、TIATIA Portal バージョンV19、V20、またはV21の有効なライセンスが必要です」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「また、ユーザー管理とライセンスオーケストレーションを可能にし、Eigen Engineering Agentのインストールファイルへのアクセスを提供するIndustry Organization Account（旧Community アカウント）も必要です」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「このアカウントは、ライセンス管理、ダウンロード、インストールに必要です」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「ここでは、価格とサブスクリプションの内容に関するすべての詳細を確認できます」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「| ライセンスと購入方法」（https://www.siemens.com/ja-jp/products/tia-portal/eigen-engineering-agent/・1回目）
+  - 「ECAD統合と標準に準拠したプロジェクト生成という最新機能はどちらも、追加費用なしで標準のEigen Engineering Agentサブスクリプションに含まれています」（https://www.siemens.com/ja-jp/company/insights/industrial-ai-changes-automation-engineers-work/・1回目）
+  - 「Siemens NVIDIA は、AIの力を民主化し、当社の製品を入手しやすく、手頃な価格で、導入しやすいものにすることに取り組んでいます」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「始めるには、BuBuilding X サブスクリプションを購入します」（https://www.siemens.com/ja-jp/products/building-x/・1回目）
+  - 「サービスとして：サブスクリプションベースでの最新テクノロジー」（https://www.siemens.com/ja-jp/products/building-x/・1回目）
+  - 「Electrification X サブスクリプションの条件を教えてください」（https://www.siemens.com/ja-jp/products/electrification-x/・1回目）
+- いくら：
+  - 「はOpenUSD上に構築されているため、産業組織は製品やプロセスから工場や都市まで、あらゆる規模のSiemens デジタルツインを作成して管理できます」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「OpenUSDは、2D/3Dデータを統合して信頼できる唯一の情報源にし、意思決定の迅速化、コラボレーションの最適化、プロセスの改善を実現します」（https://www.siemens.com/ja-jp/company/artificial-intelligence/siemens-nvidia-partnership/・1回目）
+  - 「8.5兆ドル規模の人材不足が迫っています」（https://www.siemens.com/ja-jp/company/artificial-intelligence/・1回目）
+  - 「電化インフラのダウンタイムは、1分ごとに平均3,000ユーロから12,000ユーロの費用がかかります」（https://www.siemens.com/ja-jp/products/electrification-x/・1回目）
+  - 「SCADAシステムは、グリッドの「ハンドル」であり、リアルタイム制御用に構築されています」（https://www.siemens.com/ja-jp/products/electrification-x/・1回目）
+  - 「製品エンジニアリング・ソフトウェアのNX X for CADバンドルにはMCAD、ECAD、ワークフロー別ソリューション、自動化ソリューションなどが含まれており、必要なツールだけを自由に組み合わせて、革新的な製品をより迅速に設計できます」（https://www.siemens.com/ja-jp/products/cad-cam-software/・1回目）
+  - 「Designcenter Solid Edge の最初の月を1ドルで手に入れましょう」（https://www.siemens.com/ja-jp/products/designcenter/solid-edge/solid-edge-x/・1回目）
+  - 「新規のお客様は、最初の1か月を1米ドルで購入できます」（https://www.siemens.com/ja-jp/products/designcenter/solid-edge/solid-edge-x/・1回目）
+  - 「円滑なビル運営と事業継続を確保する」（https://www.siemens.com/ja-jp/products/avasis-teamcenter-medical-device-solution-tc-mds/・1回目）
+  - 「エルサルバドル」（https://www.siemens.com/ja-jp/products/avasis-teamcenter-medical-device-solution-tc-mds/・1回目）
+  - 「グアドループ」（https://www.siemens.com/ja-jp/products/avasis-teamcenter-medical-device-solution-tc-mds/・1回目）
+  - 「円滑なビル運営と事業継続を確保する」（https://www.siemens.com/ja-jp/ecosystem/avasis/・1回目）
+- 検索結果の抜粋：
+  - 「「 シーメンス 」の 代理店 35社 注目ランキング【2026年】 — 「 シーメンス 」の 代理店 35社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > シーメンス株式会社」（https://metoree.com/companies/416/distributors/・3回目）
+  - 「「 シーメンス 」の 代理店 ・取扱店 - indexPro — 「 シーメンス 」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=2623・3回目）
+  - 「シーメンス 、菱洋エレクトロと販売 代理店契約 を結託 — シーメンス 、菱洋エレクトロと販売 代理店契約 を結託 Siemens Press https://press.siemens.com > news」（https://press.siemens.com/jp/ja/news/wn-20250717・3回目）
+  - 「シーメンス （ SIEMENS ） - タカギコネクト — シーメンス （ SIEMENS ） - タカギコネクト タカギコネクト https://www.takagi-c.com > maker > siemens」（https://www.takagi-c.com/maker/siemens.html・3回目）
+  - 「シーメンス のソフトウェア関連ユーザー 事例 - Siemens — シーメンス のソフトウェア関連ユーザー 事例 - Siemens Siemens https://www.siemens.com > Home > 企業情報」（https://www.siemens.com/ja-jp/company/software-case-studies/・3回目）
+  - 「2026年1月1日の 価格 改定に関するお知らせ - シーメンス 制御 ... — 2026年1月1日の 価格 改定に関するお知らせ - シーメンス 制御 ... 株式会社亀山電機 https://kameyama-grp.co.jp > kss-ss > newsrelease > 2026...」（https://kameyama-grp.co.jp/kss-ss/newsrelease/2026-%E5%B9%B4-1-%E6%9C%881%E6%97%A5%E3%81%AE%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B・3回目）
+  - 「シーメンス の補聴器の機能、 価格 、製品、保証などご紹介！ — シーメンス の補聴器の機能、 価格 、製品、保証などご紹介！ きこえのお助け隊 https://kikoe.ne.jp > 補聴器について」（https://kikoe.ne.jp/choice/siemens.php・3回目）
+  - 「シーメンス が積層 造形 サービスをプラットフォーム展開「出力 ... — シーメンス が積層 造形 サービスをプラットフォーム展開「出力 ... MONOist https://monoist.itmedia.co.jp > articles > news053」（https://monoist.itmedia.co.jp/mn/articles/1809/04/news053.html・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部10頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部10頁・検索4回）
+
+## ジェービーエムエンジニアリング株式会社
+- 公式URL：https://www.jbm.co.jp/（search:yahoo_jp:ジェービーエムエンジニアリング）
+- 誰から：
+  - 「弊社は日本の正規販売代理店です」（https://www.jbm.co.jp/・1回目）
+  - 「（マスターキャム）の正規輸入元であるJBMエンジニアリングは、納入実績9年連続日本一！です」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/design/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/mill/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/mill3d/・1回目）
+  - 「サンドビック・コロマントと提携して、高い加工効率と生産性向上を実現する新しいツールです」（https://www.jbm.co.jp/products/mastercam/lathe/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/lathe/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/mturn/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/wire/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/router/・1回目）
+  - 「ジェービーエムエンジニアリングはMastercam正規輸入元です」（https://www.jbm.co.jp/products/mastercam/cnc_option/・1回目）
+  - 「開発元: 3D Systems Corporation」（https://www.jbm.co.jp/products/geomagic/designx/・1回目）
+- 何をする：
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/・1回目）
+  - 「技術サポート」（https://www.jbm.co.jp/・1回目）
+  - 「Mastercam集合講習会」（https://www.jbm.co.jp/・1回目）
+  - 「講習会お申し込みフォーム」（https://www.jbm.co.jp/・1回目）
+  - 「Webトレーニング」（https://www.jbm.co.jp/・1回目）
+  - 「Mastercam Webトレーニング」（https://www.jbm.co.jp/・1回目）
+  - 「無料体験セミナー」（https://www.jbm.co.jp/・1回目）
+  - 「Mastercam 無料体験セミナー」（https://www.jbm.co.jp/・1回目）
+  - 「講習会トップ」（https://www.jbm.co.jp/・1回目）
+  - 「弊社は日本の正規販売代理店です」（https://www.jbm.co.jp/・1回目）
+  - 「年間契約での技術サポート・ソフト保守をご提供しています」（https://www.jbm.co.jp/・1回目）
+  - 「教育機関向け」（https://www.jbm.co.jp/・1回目）
+- 誰に：
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/・1回目）
+  - 「私たちはこの信念のもと、世界で最も使われているCAD/CAMソフトウェア「Mastercam」の国内納入トップシェアの自負を持ち、お客様に心から満足いただけるように二人三脚で支援しています」（https://www.jbm.co.jp/・1回目）
+  - 「ユーザー向けピックアップ情報を集めました」（https://www.jbm.co.jp/・1回目）
+  - 「初心者でもわかりやすい内容の業界読本のご紹介です」（https://www.jbm.co.jp/・1回目）
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/products/・1回目）
+  - 「Mastercam 国内納入実績9年連続日本1位 | CADCAM | CADCAMソフトウェアのジェービーエムエンジニアリング株式会社」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「Mastercam 国内納入実績9年連続日本1位」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「（マスターキャム）の正規輸入元であるJBMエンジニアリングは、納入実績9年連続日本一！です」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/products/mastercam/design/・1回目）
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/products/mastercam/mill/・1回目）
+  - 「教育機関のお客様へ」（https://www.jbm.co.jp/products/mastercam/mill3d/・1回目）
+- お金の形：
+  - 「Mill 3Dのライセンスが必須」（https://www.jbm.co.jp/・1回目）
+  - 「Mill 3Dのライセンスが必須」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「USB/DVDドライブ（インストール、またはライセンス ファイルに使用）」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「Mastercam Design、Mill、Lathe、Wireいずれかのライセンスが必要です」（https://www.jbm.co.jp/products/mastercam/related/・1回目）
+  - 「ローコスト：共通設計による効率化で、無駄を省き導入しやすい価格を実現」（https://www.jbm.co.jp/products/multi_pro/・1回目）
+  - 「ライセンス登録が無い場合はサンプル工具のみ出力します」（https://www.jbm.co.jp/products/mastercam/jbm_related/pdf/JBM_iTools.pdf・2回目）
+  - 「所持数分のライセンス契約が必要ですか?」（https://www.jbm.co.jp/products/mastercam/jbm_related/pdf/JBM_iTools.pdf・2回目）
+  - 「【2025年】次世代３Dプリンター展で最新機種を調査！業務向けFDM・光造形・金属・粉末機をご紹介！」（https://www.youtube.com/watch?v=SsGc0hoNQ5c・3回目）
+  - 「驚きの低価格！新発売PBF金属3Dプリンタ「Avimetal」のご紹介」（https://www.youtube.com/watch?v=SsGc0hoNQ5c・3回目）
+- いくら：
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/design/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/mill/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/mill3d/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/lathe/・1回目）
+  - 「ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/mturn/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/mturn/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/wire/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/router/・1回目）
+  - 「わかりやすいインタフェースで、ツインスピンドル・ツインターレットの複合加工機を制御」（https://www.jbm.co.jp/products/mastercam/cnc_option/・1回目）
+  - 「iTools接続サーバー接続費用10,000円/年間が必要です」（https://www.jbm.co.jp/products/mastercam/jbm_related/・1回目）
+  - 「円弧上への配置も可能」（https://www.jbm.co.jp/products/mastercam/jbm_related/・1回目）
+- 検索結果の抜粋：
+  - 「日本における 代理店 権について — 日本における 代理店 権について ジェービーエムエンジニアリング株式会社 https://www.jbm.co.jp > agency」（https://www.jbm.co.jp/agency/・3回目）
+  - 「ジェービーエムエンジニアリング 株式会社 - Metoree — ジェービーエムエンジニアリング 株式会社 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/81231/・3回目）
+  - 「CADCAMソフトウェアの ジェービーエムエンジニアリング ... — CADCAMソフトウェアの ジェービーエムエンジニアリング ... ジェービーエムエンジニアリング株式会社 https://www.jbm.co.jp」（https://www.jbm.co.jp/・3回目）
+  - 「ジェービーエムエンジニアリング （株） - CAD/CAM — ジェービーエムエンジニアリング （株） - CAD/CAM 日本物流新聞 https://www.nb-shinbun.co.jp > kaisya-guide > cad」（https://www.nb-shinbun.co.jp/kaisya-guide/cad/c0efd9f7aa510b51f03e493bb8a850cb6c085843/・3回目）
+  - 「事例 紹介 - ジェービーエムエンジニアリング株式会社 — 事例 紹介 - ジェービーエムエンジニアリング株式会社 ジェービーエムエンジニアリング株式会社 https://www.jbm.co.jp > 製品情報」（https://www.jbm.co.jp/products/cases/?limit=5&direction=DESC&sort=start_date&offset=5・3回目）
+  - 「ジェービーエムエンジニアリング (@jbm.co.jp) - Instagram — ジェービーエムエンジニアリング (@jbm.co.jp) - Instagram Instagram https://www.instagram.com > jbm.co.jp」（https://www.instagram.com/jbm.co.jp/・3回目）
+  - 「ジェービーエムエンジニアリング 株式会社 - YouTube — ジェービーエムエンジニアリング 株式会社 - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UCOiZAltFjD5bpfcShyfWjWQ・3回目）
+  - 「ジェービーエムエンジニアリング — ジェービーエムエンジニアリング ものづくり研究所 https://monoken.yamazen.co.jp > tags > ジェービーエムエ...」（https://monoken.yamazen.co.jp/__/tags/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%93%E3%83%BC%E3%82%A8%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+  - 「ジェービーエムエンジニアリング のCAMソフト - Metoree — ジェービーエムエンジニアリング のCAMソフト - Metoree Metoree https://metoree.com > 開発・設計ツール > CAMソフト」（https://metoree.com/categories/2137/81231/・3回目）
+  - 「ジェービーエムエンジニアリング 株式会社の評判・口コミ — ジェービーエムエンジニアリング 株式会社の評判・口コミ エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10010454620/・3回目）
+  - 「3Dプリンターラインナップ | 製品情報 — 3Dプリンターラインナップ | 製品情報 ジェービーエムエンジニアリング株式会社 https://www.jbm.co.jp > 製品情報」（https://www.jbm.co.jp/products/3dpc/・3回目）
+- 設立：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部7頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部7頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部7頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部7頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部7頁・検索5回）
+
+## タニオビス・ジャパン
+- 公式URL：https://www.taniobis.com/locations/taniobis-japan-co-ltd/（given）
+- 従業員数：63名（2023年10月現在）（https://www.jx-nmm.com/information/2023/20231025_02.html・3回目）
+- 売上高：-（https://catr.jp/companies/c1496/55033・3回目）
+- 売上高：1056億9000万円 前年比 ▲5.05%（https://catr.jp/companies/c1496/55033・3回目）
+- 誰から：
+  - 「As one of the leading suppliers of high-purity tantalum and niobium oxides, we are a reliable partner for customers from all industries. With our production experience and application engineering expertise, we can provide product solutions with customized morphology, purity and recycling services to meet your needs.」（https://taniobis.com/product/oxides-tantalum-oxides-and-niobium-oxides/・1回目）
+  - 「We are the leading innovative partner to industries relying on tantalum and niobium products, we understand the challenges along the value chain and provide superior solutions」（https://taniobis.com/about-us/our-mission/・1回目）
+  - 「We have a strong customer focus based on reliable, collaborative, long-term partnerships」（https://taniobis.com/about-us/our-mission/・1回目）
+- 何をする：
+  - 「当社の粉末は、一貫した高い品質とカスタマイズされた応用技術サポートが特徴です」（https://taniobis.com/ja/product/・1回目）
+  - 「当社は、幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+  - 「幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+  - 「3Dプリンティングとしても知られる積層造形は、製造と多様なアプリケーション設計に革命をもたらしました」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「当社のガスアトマイズAMtrinsic®球状粉末およびタンタルとニオブを含む合金のユニークな汎用性と、積層造形技術の卓越した設計自由度の組み合わせは、全く新しい応用の可能性を開きます」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「当社では、カスタマイズされた組成のTa/Nbを含む合金を開発・製造しており、お客様は、特定のニーズとそれぞれの用途に完璧に適合する材料を設計することができます」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「CTやMRIのデータに基づいて、迅速かつ持続的な治癒の為に、完璧にフィットするインプラントの設計を調整することができます」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「一方、バッチサイズに至るまでカスタマイズされたパーツを製造できる能力は、設計者が独自の設計要件を考慮する際に役立ちます」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「「タンタルやニオブなどの高融点金属を主原料とする金属粉末、化学薬品および化合物の、設計、購買、製造、」（https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf・2回目）
+  - 「販売および流通」」（https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf・2回目）
+  - 「「タンタルやニオブなどの高融点金属を主原料とする金属粉末、化学薬品および化合物の、設計、購買、製造、販売および流」（https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf・2回目）
+  - 「教育，学習支援業 (181)」（https://catr.jp/companies/c1496/55033・3回目）
+- 誰に：
+  - 「タンタル・ニオブ粉末および化合物のリーディングサプライヤーとして、当社はあらゆる業界のお客様にとって信頼できるパートナーです」（https://taniobis.com/ja/product/・1回目）
+  - 「応用技術における経験と専門知識により、お客様のご要望に応え、ソリューションをご提供することができます」（https://taniobis.com/ja/product/・1回目）
+  - 「業界最高水準の純度と品質」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+  - 「当社は、幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+  - 「幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+  - 「当社では、カスタマイズされた組成のTa/Nbを含む合金を開発・製造しており、お客様は、特定のニーズとそれぞれの用途に完璧に適合する材料を設計することができます」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「当社のポートフォリオには、元素粉末、標準合金、またはお客様固有の合金が含まれ、AM市場向けにまだ製造されていない合金組成を提供するために常に拡張されています」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「私達は、お客様が必要とする組成の球状合金粉末を開発することで、お客様をサポートします」（https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/・1回目）
+  - 「電子機器業界の小型化傾向は今後も続き、より小型化されるデバイスにはこれまで以上の性能とより多くの機能を提供することが求められます」（https://taniobis.com/ja/product/capacitor-powders/・1回目）
+  - 「さらに、水溶性のニオブおよびタンタル化合物を、お客様の個別のご要望に応じてカスタマイズすることも可能です」（https://taniobis.com/ja/product/oxalates/・1回目）
+  - 「当社は、エレクトロニクス、医療、光学の分野で要求の厳しい規格に適した高品質のタングステン酸塩および酸化タングステンの製造に特化しており、最高の品質基準とお客様の要求に応えるための開発に取り組んでいます」（https://taniobis.com/ja/product/tungstates/・1回目）
+  - 「本認定は、ニコングループが「ニコングリーン調達基本方針」に基づき、取引先各社の環境管理システムアセスメントを実施した結果、その要件を満たす場合に認定されるものとなります」（https://www.jx-nmm.com/newsrelease/2026/20260417_01.html・3回目）
+- お金の形：
+  - 「AMtrinsic® 積層造形用金属粉末」（https://taniobis.com/ja/product-inquiry-form/・1回目）
+  - 「キャパシター用粉末」（https://taniobis.com/ja/product-inquiry-form/・1回目）
+  - 「タンタルコンデンサ粉末」（https://taniobis.com/ja/product-inquiry-form/・1回目）
+  - 「タンタル冶金グレード粉末」（https://taniobis.com/ja/product-inquiry-form/・1回目）
+  - 「AMtrinsic® 積層造形用金属粉末」（https://taniobis.com/ja/product/・1回目）
+  - 「キャパシター用粉末」（https://taniobis.com/ja/product/・1回目）
+  - 「タンタル・ニオブ粉末および化合物のリーディングサプライヤーとして、当社はあらゆる業界のお客様にとって信頼できるパートナーです」（https://taniobis.com/ja/product/・1回目）
+  - 「当社の粉末は、一貫した高い品質とカスタマイズされた応用技術サポートが特徴です」（https://taniobis.com/ja/product/・1回目）
+  - 「AMtrinsic® 積層造形用金属粉末」（https://taniobis.com/ja/product/alloys/・1回目）
+  - 「キャパシター用粉末」（https://taniobis.com/ja/product/alloys/・1回目）
+  - 「AMtrinsic® 積層造形用金属粉末」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+  - 「キャパシター用粉末」（https://taniobis.com/ja/product/ampertec-chlorides/・1回目）
+- いくら：
+  - 「5741万1000円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「3億5659万4000円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「9億3966万3000円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「2000万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「8億6100万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「7億2500万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「426億1700万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「366億2300万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「466億6800万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「1056億9000万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「45億9900万円」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「96億1600万円」（https://catr.jp/companies/c1496/55033・3回目）
+- 検索結果の抜粋：
+  - 「タニオビス・ジャパン株式会社の会社情報・決算公告 | 官報決算データ... — Jul 6, 2026 · タニオビス・ジャパン株式会社の会社情報を掲載しています。社会保険被保険者数は66人です。親会社はJX金属株式会社で、グループ内の子会社43社も確認できます。所在地は東京都新宿区荒木町13番地4です。」（https://catr.jp/companies/c1496/55033・3回目）
+  - 「タニオビス・ジャパンが「ニコン環境パートナー」に継続認定 | 2026年... — Apr 20, 2026 · JX金属株式会社 (社長：林 陽一、以下「当社」)のグループ会社であるタニオビス・ジャパン株式会社 (社長：髙橋 一成、以下「タニオビス」)は、このたび、株式会社ニコン（社長：大村 泰弘、以下「ニコン」）が定める「ニコングリーン調達基準」に基づく環境パートナー認定を受けました ...」（https://www.jx-nmm.com/newsrelease/2026/20260417_01.html・3回目）
+  - 「タニオビス・ジャパン株式会社の会社概要・製品情報 | Metoree — タニオビス・ジャパン株式会社は、コンデンサーなどの電子部品や光学産業で利用される、鉱石および高機能タンタル・ニオブ粉末を取り扱うメーカーです。 当初はドイツで設立された企業でしたが、2018年にJX金属株式会社のグループ企業になりました。」（https://metoree.com/companies/45138/・3回目）
+  - 「タニオビス・ジャパン株式会社の会社概要・製品情報 | MetoreeTANIOBIS社タイ国内生産拠点での機能性タンタル粉末の生産能力増強に...タニオビス・ジャパン水戸工場がRBA監査でプラチナ・ステータスを取得...JX金属の関連会社タニオビス、タイで半導体向けタンタル粉末を増産 AI...タニオビス・ジャパン株式会社の会社情報・決算公告 | 官報決算データ... — タニオビス・ジャパン株式会社は、コンデンサーなどの電子部品や光学産業で利用される、鉱石および高機能タンタル・ニオブ粉末を取り扱うメーカーです。 当初はドイツで設立された企業でしたが、2018年にJX金属株式会社のグループ企業になりました。 Mar 22, 2022 · JX金属のニュースリリース 「TANIOBIS社タイ国内生産拠点での機能性タンタル粉末の生産能力増強について」を掲載しています。 Oct 25, 2023」（https://metoree.com/companies/45138/・3回目）
+  - 「タニオビス・ジャパン水戸工場がRBA監査でプラチナ・ステータスを取得... — Oct 25, 2023 · JX金属グループのタニオビス・ジャパン（社長：牧野修仁）の水戸工場は、RBA（Responsible Business Alliance）行動規範の遵守状況を評価するVAP（Validated Assessment Program）監査において200点満点を獲得し、RBA認証プログラムにおける最上位のステータスである ...」（https://www.jx-nmm.com/information/2023/20231025_02.html・3回目）
+  - 「タニオビス・ジャパン株式会社の会社概要・製品情報 | Metoreeタニオビス・ジャパン株式会社の会社情報・決算公告 | 官報決算データ...【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者...タニオビス・ジャパン株式会社 | OpenBizGraphタニオビス・ジャパン株式会社（東京都）の会社概要・役員 | Compalyz... — タニオビス・ジャパン株式会社は、コンデンサーなどの電子部品や光学産業で利用される、鉱石および高機能タンタル・ニオブ粉末を取り扱うメーカーです。 当初はドイツで設立された企業でしたが、2018年にJX金属株式会社のグループ企業になりました。 Jul 6, 2026 · タニオビス・ジャパン株式会社の会社情報を掲載しています。社会保険被保険者数は66人です。親会社はJX金属株式会社で、グループ内の子会社43社も確認できます。所在地は東京」（https://metoree.com/companies/45138/・3回目）
+  - 「タニオビス・ジャパン株式会社 | OpenBizGraph — タニオビス・ジャパン株式会社 商号又は名称（カナ） タニオビスジャパン 商号又は名称（英字） 登記記録の閉鎖等年月日 登記記録の閉鎖等の事由 登記住所 東京都新宿区荒木町13番地4 郵便番号 1600007 都道府県 東京都 都道府県コード 13 市区町村（郡 ...」（https://openbizgraph.com/detail/74982・3回目）
+  - 「タニオビス・ジャパン株式会社（東京都）の会社概要・役員 | Compalyz... — 〒160-0007 東京都新宿区に本社を置くタニオビス・ジャパン株式会社の企業情報。タニオビス・ジャパン株式会社は、JX Advanced Metals Corporationのグループ企業であるTANI。製造業 (鉄鋼・金属)、社会保険被保険者数66名。代表者 和田裕典。役員1名・登記7件。」（https://compalyze.co.jp/company/7010401071310・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部9頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部9頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像9件／外部9頁・検索4回）
+
+## ティーケーエンジニアリング
+- 公式URL：https://www.jig-universe.com/（search:yahoo_jp:株式会社ティーケーエンジニアリング）
+- 設立：1969年（設立）（https://www.jig-universe.com/list/press-center.html・1回目）
+- 設立：要問い合わせ（設立年：2011年8月）（https://www.jig-universe.com/list/fa-products.html・1回目）
+- 設立：2011年8月）（https://www.jig-universe.com/list/fa-products.html・1回目）
+- 誰から：
+  - 「5軸加工と100社の提携ネットワーク（2025年9月16日時点）を強みに、部品加工から治具設計、装置開発までワンストップで対応」（https://www.jig-universe.com/・1回目）
+  - 「自社製品（ワーク）のデータが揃っていれば、治具を制作する業者側の設計工数（設計費）を抑制」（https://www.jig-universe.com/cost/・1回目）
+  - 「「安物買いの銭失い」という諺がある通り、格安を売りにする業者に頼んで「作りの粗い治具」を導入してしまうと、自社製品の品質が低下したり、セッティング（段取り）に時間がかかったりと、結果的に大赤字になってしまうリスクもあり得ます」（https://www.jig-universe.com/cost/・1回目）
+- 何をする：
+  - 「どんな場面で使われ、どう設計・製作されるのか」（https://www.jig-universe.com/・1回目）
+  - 「工具や金型とは違い、対象となるワークや工程に合わせて一つひとつオーダーメイドで設計されるのが一般的」（https://www.jig-universe.com/・1回目）
+  - 「現場の状況に合わせた要件定義と、誰でも扱いやすい構造設計が、治具の良し悪し＝製造現場の生産性や品質、そして作業者の安全性を左右します」（https://www.jig-universe.com/・1回目）
+  - 「加工治具では工具を正しい位置に導く精度機構、検査治具では測定基準を確立する構造など、目的に合わせて設計思想が異なります」（https://www.jig-universe.com/・1回目）
+  - 「治具設計の特徴」（https://www.jig-universe.com/・1回目）
+  - 「対象のワーク、工程の条件、求められる精度に合わせてオーダーメイドで設計される」（https://www.jig-universe.com/・1回目）
+  - 「設計においては、3-2-1原則」（https://www.jig-universe.com/・1回目）
+  - 「設計では圧力配分のシミュレーションや耐摩耗材の選定が重要となります」（https://www.jig-universe.com/・1回目）
+  - 「設計では前後工程との連携や安全性への配慮が求められます」（https://www.jig-universe.com/・1回目）
+  - 「基準となるピンとストッパーを組み合わせることで、繰り返し使ってもワークの位置がズレないように設計されています」（https://www.jig-universe.com/・1回目）
+  - 「クランプ治具の製作では生産数量や頻度などにも応じた設計にすること、メンテナンス性を考えることも大切です」（https://www.jig-universe.com/・1回目）
+  - 「製品の寸法・形状・機能が設計仕様に適合しているかを確認する際に」（https://www.jig-universe.com/・1回目）
+- 誰に：
+  - 「5軸・複合旋盤・放電・研削・三次元測定機を備え、多業界の量産・R&Dで段取り短縮と品質安定を実現します」（https://www.jig-universe.com/・1回目）
+  - 「自動車業界で培った、」（https://www.jig-universe.com/・1回目）
+  - 「構想段階の設計から製作、組立、検査までを社内で一貫して行える体制と、迅速な現地対応力で、顧客の課題解決をサポートします」（https://www.jig-universe.com/・1回目）
+  - 「個人から大手実装メーカー、大学、研究所などの幅広い顧客層を対象に、基板・メタルマスク・実装治具・実装設備をまとめて提供できるメーカー」（https://www.jig-universe.com/・1回目）
+  - 「各社の口コミ、画像、導入事例に関して、その当時の引用元や参照元を表記しておりますが、現時点では閲覧できなくなっている可能性もございますので、ご了承ください」（https://www.jig-universe.com/・1回目）
+  - 「製造から販売までワンストップで対応し、顧客のニーズに対応」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「製造業を手がける顧客が持つ課題や困りごとに対し、製造から販売までワンストップで対応」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「それぞれの製品や顧客ニーズに合わせた専用の治具や装置の設計」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「顧客に寄り添いながら技術とノウハウを提供」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「建設業許可を保有するラインビルダーとして、顧客に寄り添いつつ技術とノウハウを提供しています」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「顧客が取り組んでいるモノづくりをサポート」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「例えば試作部品の製造では、顧客の要望に沿ったオーダーメイド加工の設計や製作に加えて、現地トライアルの提案を実施」（https://www.jig-universe.com/list/press-center.html・1回目）
+- お金の形：
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査」（https://www.jig-universe.com/・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査_top」（https://www.jig-universe.com/・1回目）
+  - 「を進め、分解清掃や消耗品交換の手順も設計します」（https://www.jig-universe.com/・1回目）
+  - 「1図面・1個からオーダーメイド」（https://www.jig-universe.com/・1回目）
+  - 「手書きイラストや簡単な図でも、治具の見積りから製作まで対応しています」（https://www.jig-universe.com/・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査_top」（https://www.jig-universe.com/list/press-center.html・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査」（https://www.jig-universe.com/list/fa-products.html・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査_top」（https://www.jig-universe.com/list/fa-products.html・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査」（https://www.jig-universe.com/whats-assembly-jig/clamp.html・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査_top」（https://www.jig-universe.com/whats-assembly-jig/clamp.html・1回目）
+  - 「治具の製作費用はいくら？汎用品相場や特注料金を調査」（https://www.jig-universe.com/cost/・1回目）
+- いくら：
+  - 「ワークの中心や方向を安定させることで、高い寸法精度と真円度を維持できます」（https://www.jig-universe.com/・1回目）
+  - 「ワークを安定回転させ、円筒部品の研削や研磨、測定を行う」（https://www.jig-universe.com/・1回目）
+  - 「作業性、干渉、保持力、清掃性を確認し、ハンドル位置や当て面を調整後、必要に応じて部材の剛性や表面処理を見直します」（https://www.jig-universe.com/・1回目）
+  - 「円筒ワークの外径・内径加工」（https://www.jig-universe.com/whats-assembly-jig/clamp.html・1回目）
+  - 「汎用品・標準パーツベースの相場：数千円～数万円」（https://www.jig-universe.com/cost/・1回目）
+  - 「特注（フルオーダーメイド）の料金目安：10万円～100万円以上」（https://www.jig-universe.com/cost/・1回目）
+  - 「簡易的な特注治具（手動の組立・検査）：10万円～30万円前後」（https://www.jig-universe.com/cost/・1回目）
+  - 「精密・高負荷な特注加工治具：30万円～80万円前後」（https://www.jig-universe.com/cost/・1回目）
+  - 「の場合は、数十万円程度の費用がかかるという目安になります」（https://www.jig-universe.com/cost/・1回目）
+  - 「自動化・複合型の特注治具：100万円以上」（https://www.jig-universe.com/cost/・1回目）
+  - 「の場合、100万円以上となるケースが多くなります」（https://www.jig-universe.com/cost/・1回目）
+  - 「数千円～数万円」（https://www.jig-universe.com/cost/・1回目）
+- 検索結果の抜粋：
+  - 「ティーケーエンジニアリング、高周波焼入れ用コイルを積層造形 — Oct 28, 2024 · ティーケーエンジニアリング（2021年8月設立、社員約100人）は高周波焼入れ用コイルの製造に3台、切削工具のホルダーの製造に1台の3Dプリンターを積極的に活用。 会社設立前の20年からの4年間で5千個の造形実績を重ねてきた。」（https://monoque.jp/challenge/post-278/・3回目）
+  - 「ポテンシャルの高い外国人材をコンスタントに採用、短期間で戦力化ー... — Dec 26, 2025 · 金属3D プリンタによる造形技術を武器に受託造形事業などを展開しているティーケーエンジニアリング（TKE）では、インドからの人材をコンスタントに採用することで、技術力の底上げを図っている。」（https://kojomag.nikkan.co.jp/kikai/439・3回目）
+  - 「金属3Dプリンタで短時間･低コスト･高品質銅部品製造を実現 ～銅部品... — May 5, 2026 · ⇒ ティーケーエンジニアリング､ODEC､ファソテックにみる先進ユーザ造形事例 ⇒ 金属3Dプリンタを4台導入して銅部品製造で躍進するティーケーエンジニアリングの革新的な短時間･低コスト･高品質造形技術と多種多様な製品化事例を詳説」（https://takashi-jtic.seesaa.net/article/520611797.html・3回目）
+  - 「ティーケーエンジニアリング株式会社|TKE — Aug 15, 2025 · ティーケーエンジニアリング株式会社は、金属3Dプリンターによる造形品の製造、切削工具および特殊工具の仕入れ、機械加工による部品、治工具の製造、省人化・自動化装置ならびに搬送装置の製造、販売を行っております。」（https://www.takao-net.co.jp/tke/information/2025815.html・3回目）
+  - 「加工治具メーカー「ティーケーエンジニアリング」の特徴を調査ポテンシャルの高い外国人材をコンスタントに採用、短期間で戦力化ー...株式会社テイケイエンジニアリング | 生まれ住むまちを次世代へ。ティーケーエンジニアリング／3Dプリンターで切削工具／加工工程効率... — 高雄工業グループの技術開発会社として設立されたティーケーエンジニアリング。 切削・研削・放電加工、金属3Dプリンターを活用した高度な治具づくりと自動化装置の設計・製作まで対応できる点が特徴のメーカーです。 Dec 26, 2025 · 金属3D プリンタによる造形技術を武器に受託造形事業などを展開しているティーケーエンジニアリング（TKE）では、インドからの人材をコンスタントに採用することで、技術力の底上げを図っている。インドの理工系大学の ... 生まれ住むまちを次世代へ。 2026.7.1 ホームページが更新されました 」（https://www.jig-universe.com/list/tk-engineering.html・3回目）
+  - 「ティーケーエンジニアリング／3Dプリンターで切削工具／加工工程効率... — Apr 18, 2024 · 金属3Dプリンターでの造形品製造、切削工具や特殊工具の仕入販売を手掛けるティーケーエンジニアリング（略称・TKE、本社・愛知県弥富市、社長・下村豊氏）は、自社の金属3Dプリンターでの造形技術を...」（https://www.japanmetaldaily.com/articles/-/147413・3回目）
+  - 「ポテンシャルの高い外国人材をコンスタントに採用、短期間で戦力化ー... — Dec 26, 2025 · 金属3D プリンタによる造形技術を武器に受託造形事業などを展開しているティーケーエンジニアリング（TKE）では、インドからの人材をコンスタントに採用することで、技術力の底上げを図っている。インドの理工系大学の ...」（https://kojomag.nikkan.co.jp/kikai/439・3回目）
+  - 「ティーケーエンジニアリング、高周波焼入れ用コイルを積層造形｜連載... — Oct 28, 2024 · ティーケーエンジニアリング（2021年8月設立、社員約100人）は高周波焼入れ用コイルの製造に3台、切削工具のホルダーの製造に1台の3Dプリンターを積極的に活用。 会社設立前の20年からの4年間で5千個の造形実績を重ねてきた。」（https://monoque.jp/challenge/post-278/・3回目）
+  - 「ティーケーエンジニアリング株式会社 | evort — 3Dプリンタでの受託造形は特に力を入れている事業分野であり、高周波焼入れコイルを中心とした銅製品はもとより、さまざまなニーズに対応できるよう取り組んでまいります。」（https://evort.jp/presenters/takao-net・3回目）
+  - 「3Dプリンタによる受託造形. 説明資料 | ティーケーエンジニアリング株... — 3Dプリンタでの受託造形は特に力を入れている事業分野であり、高周波焼入れコイルを中心とした銅製品はもとより、さまざまなニーズに対応できるよう取り組んでまいります。」（https://form.evort.jp/takao-net/3dprinter-download・3回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）
+- 事業内容：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）
+
+## ティーネットジャパン
+- 公式URL：https://www.tn-japan.co.jp/（search:yahoo_jp:ティーネットジャパン）
+- 設立：1976年4月30日（https://www.tn-japan.co.jp/ja/about/company.html・1回目）
+- 従業員数：2,751名　（2026年6月末現在） ※臨時雇用者数（契約社員、嘱託社員、パートタイマー等）の年間平均人員を含む。（https://www.tn-japan.co.jp/ja/about/company.html・1回目）
+- 売上高：278億円（2026年6月期）（https://www.tn-japan.co.jp/ja/about/company.html・1回目）
+- 事業内容：発注者支援業務、コンピューターシステム開発、機械・電気・電子・制御分野の技術者派遣及び受託開発、運搬機械システムの設計・製造、特殊空調設備の設計・施工、自動車・産業機械・FAプラントエンジニアリング、湿式調湿機の製造・販売、他（https://www.tn-japan.co.jp/ja/about/company.html・1回目）
+- 誰から：
+  - 「https://www.biz-partnership.jp/declaration/125267-19-00-tokyo.pdf」（https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html・1回目）
+  - 「＜自社開発製品実績＞」（https://www2.tn-japan.co.jp/es_business/・3回目）
+- 何をする：
+  - 「「協和ICTセミナー2026」に出展いたしました」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「【製造・物流業者様向け】オフラインイベント”製造DXデモセミナー2026秋”開催のお知らせ」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「「協和ICTセミナー2026」に出展いたしました」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「【製造・物流業者様向け】オフラインイベント”製造DXデモセミナー2026秋”開催のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「日刊工業新聞社「機械設計 2026年11月号」に当社社員のインタビュー記事が掲載されました」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「除菌関連機器販売終了および関連Webサイト閉鎖のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「【製造業 人事・研修ご担当者様向け】技術者育成WEBセミナー開催のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「【製造・物流業様向け】AI外観検査ソリューションWEBセミナー開催のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「四国新聞（2025年12月20日付）に「hanacup販売・製作体験イベント」についての記事が掲載されました」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「製造・物流業様向け外観検査ソリューションWEBセミナー開催のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「製造・物流業様向け自動搬送特化WEBセミナー開催のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「また、実務における人材不足の解消や、安心・安全かつ効率的なインフラ事業推進のため、建設コンサルタントや大手ゼネコンのパートナーとして、質の高い技術サービスを提供しています」（https://www.tn-japan.co.jp/ja/service/solution.html・1回目）
+- 誰に：
+  - 「社会を動かす多種多様なインフラを、お客様と共に支える」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「お客様や社会が抱える課題は、さらに広がり、複雑化していく」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「お客様の悩みや」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「技術革新が速いだけでなく、不確実性が高く答えのない現代の事業環境において、ティーネットジャパンはお客様とともに課題に対して向き合い、新たなソリューションをご提案します」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「Neo Venusをお使いのお客様へ」（https://www.tn-japan.co.jp/ja/index.html・1回目）
+  - 「お客様の悩みや」（https://www.tn-japan.co.jp/ja/service.html・1回目）
+  - 「技術革新が速いだけでなく、不確実性が高く答えのない現代の事業環境において、ティーネットジャパンはお客様とともに課題に対して向き合い、新たなソリューションをご提案します」（https://www.tn-japan.co.jp/ja/service.html・1回目）
+  - 「お客様とともにソリューションを創出し、社会の発展に貢献」（https://www.tn-japan.co.jp/ja/about.html・1回目）
+  - 「顧客課題解決に向けた共同運営のLAB施設（名古屋市中川区）開設のお知らせ」（https://www.tn-japan.co.jp/ja/info.html・1回目）
+  - 「AIをはじめとする最新技術と様々な業界で培った知見を活用し、お客様のビジネス変革と課題解決を支援します」（https://www.tn-japan.co.jp/ja/service/solution.html・1回目）
+  - 「当社の「無くすソリューション」は、IoT・AI・ロボット技術を活用し、製造現場の自動化・省人化からスマートファクトリー化までをワンストップでお客様のDX推進を支援しています」（https://www.tn-japan.co.jp/ja/service/solution.html・1回目）
+  - 「お客様先に常駐またはリモートによるアウトソーシング、もしくは両者を組み合わせた方法により、BCP対策や各種DXツールの導入を提案し、業務の見える化や改善、効率化をサポートします」（https://www.tn-japan.co.jp/ja/service/solution.html・1回目）
+- お金の形：
+  - 「鮮度を長期間保持し、かつ大量に保管することが可能になれば、価格が安定するほか出荷調整の問題を解決することができます」（https://www.tn-japan.co.jp/ja/service/solution.html・1回目）
+  - 「マージン率とは、派遣料金の平均額から派遣対応技術社員に支払う賃金の平均額を差し引いた額を派遣料金の平均額で除して得た割合のことです」（https://www.tn-japan.co.jp/ja/about/disclosure.html・1回目）
+  - 「派遣料金の平均額 - 派遣対応技術社員の賃金平均額」（https://www.tn-japan.co.jp/ja/about/disclosure.html・1回目）
+  - 「派遣料金の平均額」（https://www.tn-japan.co.jp/ja/about/disclosure.html・1回目）
+  - 「福利厚生費等（福利厚生費、教育研修費、通信費、家賃、水道光熱費、消耗品費、交際費、採用費）」（https://www.tn-japan.co.jp/ja/about/disclosure.html・1回目）
+  - 「※製作体験は、材料費として1,100円(税込)を頂戴いたします」（https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html・1回目）
+  - 「マージン率とは、派遣料金の平均額から派遣対応技術社員に支払う賃金の平均額を差し引いた額を派遣料金の平均額で除して得た」（https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf・2回目）
+  - 「➁ 福利厚生費等（福利厚生費、教育研修費、通信費、家賃、水道光熱費、消耗品費、交際費、採用費）」（https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf・2回目）
+  - 「派遣料金の平均額 - 派遣対応技術社員の賃金平均額」（https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf・2回目）
+  - 「派遣料金の平均額」（https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf・2回目）
+  - 「見積り・日程」（https://www2.tn-japan.co.jp/es_business/・3回目）
+  - 「お見積りは無料です」（https://www2.tn-japan.co.jp/es_business/・3回目）
+- いくら：
+  - 「2億6,360万円」（https://www.tn-japan.co.jp/ja/about/company.html・1回目）
+  - 「278億円（2026年6月期）」（https://www.tn-japan.co.jp/ja/about/company.html・1回目）
+  - 「hanacup： 1,100円(税込)」（https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html・1回目）
+  - 「卓上カレンダー：500円(税込)」（https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html・1回目）
+  - 「※製作体験は、材料費として1,100円(税込)を頂戴いたします」（https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html・1回目）
+  - 「タブレット端末（工事監督支援アプリ）とクラウドを活用し、施工状況の把握・確認および円滑な情報共有が行えるシステムを導入しています」（https://www.tn-japan.co.jp/ja/service/solution/solution_03.html・1回目）
+  - 「溶接トーチハンドル」（https://www2.tn-japan.co.jp/es_business/・3回目）
+  - 「定額2,475円/月で受け放題！」（https://www.cogaku.co.jp/download/case-study_8/・3回目）
+  - 「料金（1名あたり・税別）」（https://www2.tn-japan.co.jp/hr/shin/・3回目）
+  - 「2日間 40,000円」（https://www2.tn-japan.co.jp/hr/shin/・3回目）
+  - 「3日間 60,000円」（https://www2.tn-japan.co.jp/hr/shin/・3回目）
+  - 「／ 1名（税別）」（https://www2.tn-japan.co.jp/hr/shin/・3回目）
+- 検索結果の抜粋：
+  - 「ティーネットジャパン の 代理店 - Metoree — ティーネットジャパン の 代理店 - Metoree Metoree https://metoree.com > ... > 株式会社ティーネットジャパン」（https://metoree.com/companies/4420/distributors/・3回目）
+  - 「受託開発とエンジニア派遣「頼られる」「頼れる」パートナー — 受託開発とエンジニア派遣「頼られる」「頼れる」パートナー 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > es_business」（https://www2.tn-japan.co.jp/es_business/・3回目）
+  - 「東京都の「 ティーネットジャパン 」の 代理店 8社 - Metoree — 東京都の「 ティーネットジャパン 」の 代理店 8社 - Metoree Metoree https://metoree.com > ... > ティーネットジャパンの代理店」（https://metoree.com/companies/4420/distributors/tokyo/・3回目）
+  - 「株式会社 ティーネットジャパン 新電力事業者(PPS) — 株式会社 ティーネットジャパン 新電力事業者(PPS) エネチェンジ https://enechange.jp > pps > companies > tn-japan」（https://enechange.jp/pps/companies/tn-japan・3回目）
+  - 「ティーネットジャパン — ティーネットジャパン 株式会社ティーネットジャパン https://www.tn-japan.co.jp > ...」（https://www.tn-japan.co.jp/ja/index.html・3回目）
+  - 「実績紹介 | 株式会社 ティーネットジャパン — 実績紹介 | 株式会社 ティーネットジャパン 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > contents > achievements」（https://www2.tn-japan.co.jp/kathabar/contents/achievements/・3回目）
+  - 「導入事例 ティーネットジャパン 様 | 製造業の技術者研修のコガク — 導入事例 ティーネットジャパン 様 | 製造業の技術者研修のコガク Cogaku https://www.cogaku.co.jp > download > case-study_8」（https://www.cogaku.co.jp/download/case-study_8/・3回目）
+  - 「「株式会社 ティーネットジャパン 」｜グロービス学び放題 — 「株式会社 ティーネットジャパン 」｜グロービス学び放題 株式会社グロービス https://gce.globis.co.jp > ホーム > 事例」（https://gce.globis.co.jp/service/hodai/case/tn-japan/・3回目）
+  - 「株式会社 ティーネットジャパン ｜andbrand - 企業に寄り添い — 株式会社 ティーネットジャパン ｜andbrand - 企業に寄り添い 株式会社エイエイピー https://www.aap.co.jp > andbrand > case > detail」（https://www.aap.co.jp/andbrand/case/detail.html?CN=409219・3回目）
+  - 「プラントエンジニアリング | ソリューション | 事業紹介 — プラントエンジニアリング | ソリューション | 事業紹介 株式会社ティーネットジャパン https://www.tn-japan.co.jp > solution > solution_11」（https://www.tn-japan.co.jp/ja/service/solution/solution_11.html・3回目）
+  - 「ティーネットジャパン 施設･屋外照明の通販 - トラノテ — ティーネットジャパン 施設･屋外照明の通販 - トラノテ トラノテ https://www.torano-te.jp > ... > 施設･屋外照明」（https://www.torano-te.jp/s/c3010357/t289/?srsltid=AYCX9vJdHnFjMDkWWV4TWC9TzWQQ84viqa_eJIn18Ha_u6K5xWISQVOc・3回目）
+  - 「2027年度 新入社員研修 - ティーネットジャパン — 2027年度 新入社員研修 - ティーネットジャパン 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > shin」（https://www2.tn-japan.co.jp/hr/shin/・3回目）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像10件／外部11頁・検索5回）
+
+## テュフズードジャパン
+- 公式URL：https://www.tuvsud.com/ja-jp（given）
+- 何をする：
+  - 「試験、認証、監査、トレーニングサービスを通じて、医療機器、産業機器、民生機器、自動車、食品、化学、エネルギーなど幅広い分野における企業とその製品」（https://www.youtube.com/watch?v=KCCWFJoPeFU・3回目）
+  - 「試験、認証、監査、トレーニングサービスを通じて、医療機器、産業機器、民生機器、自動車、食品、化学、エネルギーなど幅広い分野における企業とその製品の信頼性を高め、海外展開を支えています」（https://www.youtube.com/watch?v=KCCWFJoPeFU・3回目）
+  - 「グリーンレンタル」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「試験、認証、監査、トレーニングサービスを通じて、医療機器、産業機器、民生機器、自動車、食品、化学、エネルギーなど幅広い分野における企業の安全性と海外展開を支えています」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「プレスリリース」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「つの拠点を構え、医療機器、産業機器、民生機器、自動車、食品、化学、エネルギーなど、幅広い分野に対して、各種試験・認証・監査・トレーニングサービスを展開」（https://www.sanko-e.co.jp/case/tuvsud/・3回目）
+  - 「教育・学習支援業 (2)」（https://www.sanko-e.co.jp/case/tuvsud/・3回目）
+  - 「セミナー情報」（https://www.sanko-e.co.jp/case/tuvsud/・3回目）
+  - 「試験、認証、監査、トレーニングサービスを通じて、医療機器、産業機器、民生機器、自動車、食品、化学、エネルギーなど幅広い分野におけ」（https://www.youtube.com/watch?v=KCCWFJoPeFU・3回目）
+- 誰に：
+  - 「ご利用事例・お客様の声/テュフズードジャパン株式会社様 | 株式会社グリーンロード株式会社グリーンロード」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「ご利用事例・お客様の声/テュフズードジャパン株式会社様」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「3.会場の様子とお客様の声」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「【導入事例】第一ライフ丸紅リアルエステート株式会社様｜お祝い花おまとめサービス「matomeru」導入インタビュー」（https://green-road.co.jp/news/info/5907・3回目）
+- いくら：
+  - 「5万ドルで日本の家を買うなら、私ならこうする」（https://www.youtube.com/watch?v=KCCWFJoPeFU・3回目）
+- 検索結果の抜粋：
+  - 「テュフ ズードジャパン ホーム | TÜV SÜD Japan — テュフ ズードジャパン ホーム | TÜV SÜD Japan TÜV SÜD https://www.tuvsud.com > ja-jp」（https://www.tuvsud.com/ja-jp・3回目）
+  - 「TÜV SÜD Japan Corporate Video [EN]｜ テュフズードジャパン — TÜV SÜD Japan Corporate Video [EN]｜ テュフズードジャパン YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=KCCWFJoPeFU・3回目）
+  - 「テュフズードジャパン | Shibuya-ku Tokyo - Facebook — テュフズードジャパン | Shibuya-ku Tokyo - Facebook Facebook https://www.facebook.com > TUVSUDJapan」（https://www.facebook.com/TUVSUDJapan/?locale=ja_JP・3回目）
+  - 「テュフズードジャパン 株式会社 - イプロス — テュフズードジャパン 株式会社 - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > tuvsudjapan」（https://pr.mono.ipros.com/tuvsudjapan/・3回目）
+  - 「テュフズードジャパン 株式会社 | Digima〜出島〜 — テュフズードジャパン 株式会社 | Digima〜出島〜 Digima〜出島 https://www.digima-japan.com > 企業一覧」（https://www.digima-japan.com/company/tuvsud/・3回目）
+  - 「テュフズードジャパン が提供する「新たな価値、さらなる信頼」 — テュフズードジャパン が提供する「新たな価値、さらなる信頼」 TÜV SÜD https://www.tuvsud.com > ... > テュフズードについて」（https://www.tuvsud.com/ja-jp/about-us/tuv-sud-japan・3回目）
+  - 「ご利用 事例 ・お客様の声/ テュフズードジャパン 株式会社様 — ご利用 事例 ・お客様の声/ テュフズードジャパン 株式会社様 株式会社グリーンロード https://green-road.co.jp > News > 導入事例」（https://green-road.co.jp/news/info/5907・3回目）
+  - 「テュフズードジャパン 株式会社 - オフィス 事例 - 三幸エステート — テュフズードジャパン 株式会社 - オフィス 事例 - 三幸エステート 三幸エステート株式会社 https://www.sanko-e.co.jp > case > tuvsud」（https://www.sanko-e.co.jp/case/tuvsud/・3回目）
+  - 「テュフズードジャパン とテュフ ラインランド ジャパンの比較 ... — テュフズードジャパン とテュフ ラインランド ジャパンの比較 ... OpenWork https://www.openwork.jp > ... > テュフズードジャパン」（https://www.openwork.jp/a0C3000000BHhDv/compa/a0910000002opVz/・3回目）
+  - 「テュフズードジャパン 株式会社 - INTERMOLD — テュフズードジャパン 株式会社 - INTERMOLD intermold.jp https://www.intermold.jp > ... > 展示情報 > 出展者一覧」（https://www.intermold.jp/2023/outline/search_2023_detail/309/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- 誰から：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+
+## トーホーテック
+- 公式URL：https://www.tohotec.co.jp/（given）
+- 設立：1987年7月31日（1971年に東邦チタニウムの開発部として発足）（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+- 従業員数：52人（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+- 事業内容：チタン製溶接加工品、鍛造・機械加工品 チタン粉・水素化チタン粉、ジルコニウムスポンジ 不溶性電極（アルマイト、水電解用電極）（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+- 誰から：
+  - 「ＳＷＣＣグループ商社ＳＤＳ／タイ巻線大手と日本総代理店契約／３０年度、汎用巻線事業売上高２．４倍へ」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+- 何をする：
+  - 「高度な溶接技術から、タンクローリー、塔・槽類、配管など、お客様のニーズに合わせて設計、製作いたします」（https://www.tohotec.co.jp/・1回目）
+  - 「チタン鍛造荒引丸棒の在庫販売を開始いたしました」（https://www.tohotec.co.jp/・1回目）
+  - 「設計、製造、品質保証、技術サービスまでの一貫管理で最高の品質の製品をお届けいたします」（https://www.tohotec.co.jp/products/・1回目）
+  - 「高度な溶接技術から、タンクローリー、塔・槽類、配管など、お客様のニーズに合わせて設計、製作いたします」（https://www.tohotec.co.jp/products/・1回目）
+  - 「当社では板厚、形状及び構造などの最適設計を行い、安心して長くご使用頂ける製品を提供いたします」（https://www.tohotec.co.jp/products/weld/・1回目）
+  - 「当社では板厚、形状及び構造などの最適設計を行い、安心して長くご使用頂ける製品を提供いたします」（https://www.tohotec.co.jp/products/weld/tank.html・1回目）
+  - 「チタン専業メーカーとして設計・製造・品質保証までの一貫体制で、現在に至るまで各分野や用途に応じて高品質の製品を提供してきています」（https://www.tohotec.co.jp/case/・1回目）
+  - 「◆ 必要サイズにて切断（バンドソー）販売いたします」（https://www.tohotec.co.jp/pdf/forging.pdf・2回目）
+  - 「販売パートナー」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+  - 「セミナーはこちら」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+  - 「を、鍛造品・機械加工品、溶接加工品に加えて、チタン系粉など、製品設計から品質保証まで」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+  - 「など自動認識ソリューション商品・製造・販売・保守を行っている」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+- 誰に：
+  - 「高度な溶接技術から、タンクローリー、塔・槽類、配管など、お客様のニーズに合わせて設計、製作いたします」（https://www.tohotec.co.jp/・1回目）
+  - 「当社は、お客様のニーズに応じてチタンインゴット（鍛造品）及び板、管、棒、線などの各種展伸材を使用したチタン加工品を受注製作・提供しています」（https://www.tohotec.co.jp/products/・1回目）
+  - 「高度な溶接技術から、タンクローリー、塔・槽類、配管など、お客様のニーズに合わせて設計、製作いたします」（https://www.tohotec.co.jp/products/・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/forgings/・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/machinery/・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/machinery/marine.html・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/machinery/pump.html・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/machinery/others.html・1回目）
+  - 「また、最近では耐食性はもちろんのこと安全、安心が必要とされる食品業界でもチタン製二重管式熱交換器や小型多管式熱交換器などが使用され始めています」（https://www.tohotec.co.jp/products/weld/・1回目）
+  - 「これまで蓄積してきたチタンに特化した技術力を活かし、お客様のニーズに合わせた最適なチタン製圧力容器をご提案させて頂きます」（https://www.tohotec.co.jp/products/weld/・1回目）
+  - 「お客様のニーズに合わせて」（https://www.tohotec.co.jp/products/weld/・1回目）
+- お金の形：
+  - 「お問合せ・お見積りのご依頼はこちらまで」（https://www.tohotec.co.jp/pdf/forging.pdf・2回目）
+  - 「焼失対策として、記録した帳票をその都度スキャンし、サーバに保存していたが、同社の工場内では粉末を取り扱っている為、記録用紙に付着した粉末によってコピー機が故障したこともあったという」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+  - 「手書きであることから、誤記や記入忘れといったヒューマンエラーだけでなく、各作業者が書く字体も異なるため文字が確認しづらいことがあり、記入者に対して都度確認を行いながらの記録に時間が掛かるなど、複数の課題が生じていた」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+  - 「最新市場価格（鉄鋼・非鉄金属）」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「過去市場価格（鉄鋼）」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「過去市場価格（非鉄金属）」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「市場価格ニュース（鉄鋼）」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「市場価格ニュース（非鉄金属）」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「過去市場価格のサンプルデータは」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「過去市場価格の品種一覧は」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「※無料の試読では、過去市場価格の閲覧はできません」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「25年間分の価格データ」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+- いくら：
+  - 「丸棒、円板、リング、パイプ、段付きボス、ブロック」（https://www.tohotec.co.jp/products/forgings/・1回目）
+  - 「円盤(純チタン荒引品)」（https://www.tohotec.co.jp/products/forgings/・1回目）
+  - 「竪・横円筒型(鏡、コニカル、ジャケット式等)」（https://www.tohotec.co.jp/products/weld/・1回目）
+  - 「16,000万円」（https://www.tohotec.co.jp/company/・1回目）
+  - 「年間100万円程のコスト」（https://product.technotree.com/xc-gate/case/iron/579/・3回目）
+  - 「住友電工／今期経常益、初の５０００億円台へ／データセンター向け需要など追い風」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「４～９月期決算／ＬＩＸＩＬ／営業減益６３億円」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「４～９月期決算／共英製鋼／経常減益５９億２９００万円」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「大同特殊鋼／通期業績予想を上方修正／実力営業益、最高の４５０億円へ／半...」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「平鋼・角鋼など全製品／新関西製鉄、３０００円値上げ／４カ月ぶり、１１月...」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「（５） 資本金 160 百万円」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250324/20250324598861.pdf・3回目）
+  - 「純資産 1,845百万円 1,829百万円 1,887百万円」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250324/20250324598861.pdf・3回目）
+- 検索結果の抜粋：
+  - 「チタン加工のパイオニア、 トーホーテック — チタン加工のパイオニア、 トーホーテック トーホーテック https://www.tohotec.co.jp」（https://www.tohotec.co.jp/・3回目）
+  - 「トーホーテック | 企業情報 | イプロスものづくり — トーホーテック | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2076369/・3回目）
+  - 「トーホーテック 株式会社の株式取得(子会社化)に関するお知らせ — トーホーテック 株式会社の株式取得(子会社化)に関するお知らせ 株式会社ワールドホールディングス PDF https://world-hd.co.jp > 2025/03 > 20250324_Release」（https://world-hd.co.jp/app/wp-content/uploads/2025/03/20250324_Release.pdf・3回目）
+  - 「『XC-Gate 導入事例 』 トーホーテック 株式会社様【ラベル ... — 『XC-Gate 導入事例 』 トーホーテック 株式会社様【ラベル ... XC-Times https://www.xc-times.com > 活用例」（https://www.xc-times.com/use_case/3848/・3回目）
+  - 「ソリューション 事例 | チタン加工のパイオニア - トーホーテック — ソリューション 事例 | チタン加工のパイオニア - トーホーテック トーホーテック https://www.tohotec.co.jp > case」（https://www.tohotec.co.jp/case/・3回目）
+  - 「トーホーテック の製品・サービス一覧｜イプロスものづくり — トーホーテック の製品・サービス一覧｜イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > トーホーテック株式会社」（https://mono.ipros.com/company/detail/2076369/category/・3回目）
+  - 「トーホーテック の株式一部譲渡／東邦チタニウム - 鉄鋼新聞 — トーホーテック の株式一部譲渡／東邦チタニウム - 鉄鋼新聞 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄」（https://www.japanmetaldaily.com/articles/-/235352・3回目）
+  - 「トーホーテック 株式会社の株式取得(子会社化)に関するお知らせ — トーホーテック 株式会社の株式取得(子会社化)に関するお知らせ finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250324/20250324598861.pdf・3回目）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像10件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式19頁／PDF・画像10件／外部8頁・検索4回）
+
+## ナラサキ産業株式会社 メカトロソリューション部
+- 公式URL：https://www.narasaki.co.jp/（given）
+- 設立：創業　1902年 3月 設立　1943年10月（https://www.narasaki.co.jp/company/company.html・1回目）
+- 誰から：
+  - 「電気販売代理店事業（ENEOS㈱代理店）」（https://www.narasaki.co.jp/product/energy/・1回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.narasaki.co.jp/・1回目）
+  - 「ニュースリリースの一覧を見る」（https://www.narasaki.co.jp/・1回目）
+  - 「産業機械、電気機械、建設機械およびその他機械の販売」（https://www.narasaki.co.jp/company/company.html・1回目）
+  - 「セメント、建設資材、石油類およびその他物品の販売」（https://www.narasaki.co.jp/company/company.html・1回目）
+  - 「食品類、清涼飲料、日用品雑貨の販売」（https://www.narasaki.co.jp/company/company.html・1回目）
+  - 「建設工事の請負並びに設計管理」（https://www.narasaki.co.jp/company/company.html・1回目）
+  - 「コンピューターに関するソフトウェアの制作および販売」（https://www.narasaki.co.jp/company/company.html・1回目）
+  - 「富士セメント株式会社(現日鉄高炉セメント株式会社)の特約販売店となる」（https://www.narasaki.co.jp/company/history.html・1回目）
+  - 「次世代生産設備のご提案、生産効率を格段に向上させる高機能材料を加工も含めた受託サービス迄、様々なニーズにお応え致します」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「・セラミックスを主体とした最先端高機能材料の受託加工完成品」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「・レーザ工法等を用いた微細受託加工」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「農産物の付加価値向上のための生産・貯蔵・加工・鮮度保持について、基本計画の立案から設計・施工・アフターサービスまでのソリューションを提供します」（https://www.narasaki.co.jp/company/section.html・1回目）
+- 誰に：
+  - 「に基づき、多様化する市場とお客様のニーズに対しまして、「真の価値あるソリューション」を提供してまいります」（https://www.narasaki.co.jp/company/greeting.html・1回目）
+  - 「工場の生産設備を支えるＦＡコンポーネントや情報ネットワーク、インテリジェントビルや省エネルギー建築を支える配電制御機器やエネルギー監視システムなど、お客様のニーズを実現可能な製品や最適なソリューションを提供いたします」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「三菱電機やその他有力専門メーカーの代理店として、建築設備業界において最適な空調衛生設備機器、冷凍冷蔵設備機器、昇降機設備、受変電設備、非常用自家発電設備、無停電電源装置、駐車場設備、ビル管理システム、セキュリティシステム等多種にわたる設備システムをご提供するとともに、地球環境にやさしいより高効率な省エネシステムをご提案することにより、お客様の幅広いニーズにお応えしております」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「高精度且つ微細化が進むエレクトロニクス分野において、お客様が直面する課題や厳しい品質要求に対応した最先端ソリューションを提供致します」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「食品・工業製品の生産プロセス設備、ユーティリティー設備、充填包装設備などにおいてお客様の問題解決のためのソリューションを提供します」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「地球温暖化対策や循環型社会の形成に役立つ再生可能エネルギー関連設備・資源リサイクル関連設備などお客様のニーズに沿った最適なソリューションを提供します」（https://www.narasaki.co.jp/company/section.html・1回目）
+  - 「■「誠意をもって顧客の信頼を得る仕事をする」との企業理念に基づき、次世代に向けて」（https://www.narasaki.co.jp/company/plan.html・1回目）
+  - 「■セグメント間の連携を一層深め、真の価値あるソリューションを提供し、顧客から信頼され必要とされる」（https://www.narasaki.co.jp/company/plan.html・1回目）
+  - 「顧客密着型のニッチトップソリューションカンパニー」（https://www.narasaki.co.jp/company/plan.html・1回目）
+  - 「三菱電機やその他有力専門メーカーの代理店として、建築設備業界において最適な空調衛生設備機器、冷凍冷蔵設備機器、昇降機設備、受変電設備、非常用自家発電設備、無停電電源装置、駐車場設備、ビル管理システム、セキュリティシステム等多種にわたる設備システムをご提供するとともに、地球環境にやさしいより高効率な省エネシステムをご提案することにより、お客様の幅広いニーズにお応えしております」（https://www.narasaki.co.jp/product/construction_equipment/・1回目）
+  - 「高精度且つ微細化が進むエレクトロニクス分野において、お客様が直面する課題や厳しい品質要求に対応した最先端ソリューションを提供致します」（https://www.narasaki.co.jp/product/mechatronics/・1回目）
+  - 「三菱電機㈱産業メカトロニクス製品（レーザ加工機、放電加工機、電子ビーム加工機、３Ｄプリンター）に加え、お客様の仕様にカスタマイズした各種レーザ加工機、マシニングセンター等の加工設備単体から生産効率を追求した省人化、自動化システムを提案致します」（https://www.narasaki.co.jp/product/mechatronics/・1回目）
+- お金の形：
+  - 「また、海外調達によるコストダウン提案も可能、1個から量産まで幅広く対応致します」（https://www.narasaki.co.jp/product/mechatronics/・1回目）
+  - 「⚫ 取り巻く事業環境は、緊迫化する国際情勢、資材・エネルギー価格の高騰、深刻化する労働力不足など、不透明」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf・2回目）
+  - 「製作図面1枚、数量1個からお見積もりいたします」（https://pr.mono.ipros.com/narasaki/product/category/33603/・3回目）
+  - 「極低温から超高温領域まで対応するスーパーエンプラ！優れた切削加工性と低価格を実現しました」（https://pr.mono.ipros.com/narasaki/product/category/33603/・3回目）
+- いくら：
+  - 「23億5471万円」（https://www.narasaki.co.jp/company/company.html・1回目）
+  - 「（2026年度） 営業利益：40億円 当期純利益：28億円 ＲＯＥ：10% 配当性向：30%以上」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「単位：百万円」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「売上高(百万円)」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「営業利益(百万円)」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「４． 財務基盤の強化とキャッシュフロー経営の徹底 ▶▶ '23年度末時点の自己資本比率は39.6%営業C/Fは３年間累計40億円以上を確保し、財務体質は確実に改善中 △」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「単位：百万円、%」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「売上高 1,200億円 営業利益 40億円 ＲＯＥ 10% 配当性向 30%以上」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「あるソリューションを提供することにより、経営目標（営業利益40億円、ＲＯＥ10%）の達成を」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf・2回目）
+  - 「資 本 金 ： ２３億５４百万円」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf・2回目）
+  - 「売 上 高 ： ［連結］１，20２億円 ［単体］１，０１７億円（2026年3月期）」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf・2回目）
+  - 「1,202億円」（https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf・2回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）
+
+## ニイミ産業
+- 公式URL：https://www.niimi-s.co.jp/（search:yahoo_jp:ニイミ産業）
+- 設立：1949年09月（https://prtimes.jp/main/html/rd/p/000000003.000081569.html・3回目）
+- 設立：昭和24年9月(創業明治21年)（https://prtimes.jp/main/html/rd/p/000000003.000081569.html・3回目）
+- 事業内容：LPガス・石油・ガス機器、ガス窯(陶磁器、瓦などの製造)金属溶解炉の製造、廃油リサイ クル、検査事業、LPガス容器、ファインセラミックスなどの製造（https://prtimes.jp/main/html/rd/p/000000003.000081569.html・3回目）
+- 誰から：
+  - 「そこから石油、LPガスへと変遷を経て、現在では家庭用LPガス販売、工場用LPガス販売とガスタンクの自社開発やメンテナンス、ガソリンスタンドの経営、廃油・汚泥のリサイクル事業、ファインセラミックスの製造など多様な事業を展開しています」（https://www.niimi-s.co.jp/・1回目）
+  - 「お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入」（https://www.niimi-s.co.jp/service/energy/・1回目）
+  - 「ただお客様からオーダーを受けてガスを販売するだけではなく、タンクの残量や周辺設備の異常を検知できる独自システムを構築し、自社製タンクローリー車による安定した計画配送を可能にしています」（https://www.niimi-s.co.jp/service/lp/・1回目）
+  - 「弊社の強みの1つにバルク貯槽(大型のガス容器)を自社製造できる技術部があり、それが可能なLPガス会社は他に例がありません」（https://www.niimi-s.co.jp/service/lp/・1回目）
+  - 「タンクローリー車の自社開発」（https://www.niimi-s.co.jp/service/lp/・1回目）
+  - 「弊社ではタンクローリー車のタンク部分を自社開発・製造しています」（https://www.niimi-s.co.jp/service/lp/・1回目）
+  - 「その中で「私たちが提供できる価値は何か？」ということを会社全体で自問自答した結果、窯業炉の自社開発に始まり、バルク貯槽やタンクローリーの自社製造を実現しました」（https://www.niimi-s.co.jp/service/lp/・1回目）
+  - 「自社製焼成炉を使用した一貫生産をすることで、多くのお客様に良質なセラミックスをお届けしています」（https://www.niimi-s.co.jp/service/ceramics/・1回目）
+  - 「初期型自社製ローリー」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「民生用バルクタンク、同バルクローリを自社製作し、また平成13年5月より工業用へのニューバルク方式を開発」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「自社製アルミ連続溶解炉」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「これは毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる制度です」（https://www.niimi-s.co.jp/home_energy/・1回目）
+- 何をする：
+  - 「ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業」（https://www.niimi-s.co.jp/・1回目）
+  - 「ニイミ産業は1888年（明治21年）石炭の販売から事業がスタートしました」（https://www.niimi-s.co.jp/・1回目）
+  - 「そこから石油、LPガスへと変遷を経て、現在では家庭用LPガス販売、工場用LPガス販売とガスタンクの自社開発やメンテナンス、ガソリンスタンドの経営、廃油・汚泥のリサイクル事業、ファインセラミックスの製造など多様な事業を展開しています」（https://www.niimi-s.co.jp/・1回目）
+  - 「ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業」（https://www.niimi-s.co.jp/service_individual/・1回目）
+  - 「ホームサービス部門では、LPガスの販売以外にもリフォーム事業も行っています」（https://www.niimi-s.co.jp/service_individual/・1回目）
+  - 「ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業」（https://www.niimi-s.co.jp/service_corporation/・1回目）
+  - 「主に医療機器向けに世界有数の精度を誇るセラミックス部品の製造販売をしています」（https://www.niimi-s.co.jp/service_corporation/・1回目）
+  - 「プレスリリースを以下に添付します」（https://www.niimi-s.co.jp/news/・1回目）
+  - 「ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業」（https://www.niimi-s.co.jp/service/ss/・1回目）
+  - 「洗車や給油だけでなく、車のメンテナンスや灯油販売などキャンペーンを通して、地域の皆様に安心安全なエネルギーライフをご提供しています」（https://www.niimi-s.co.jp/service/ss/・1回目）
+  - 「洗車や灯油販売、車のメンテナンス等、実施内容は各店舗によって違います」（https://www.niimi-s.co.jp/service/ss/・1回目）
+  - 「カーコーティングのキーパープロショップを運営しタイヤ販売、車検、そして笑顔でお客様をおもてなしすることもサービスの一つです」（https://www.niimi-s.co.jp/service/ss/・1回目）
+- 誰に：
+  - 「個人のお客様」（https://www.niimi-s.co.jp/・1回目）
+  - 「法人のお客様」（https://www.niimi-s.co.jp/・1回目）
+  - 「お客様に支えられて、創業から130年」（https://www.niimi-s.co.jp/・1回目）
+  - 「お客様に支えられて、」（https://www.niimi-s.co.jp/・1回目）
+  - 「「お客様の役に立って、喜んでもらえるサービスを提供しよう」」（https://www.niimi-s.co.jp/・1回目）
+  - 「これらの技術開発はもちろん、「お客様の役に立って喜んでもらう」という精神の元、様々なサービスを立ち上げ、地域の皆様の生活に欠かせない企業として邁進して参ります」（https://www.niimi-s.co.jp/・1回目）
+  - 「だからこそ新たな技術開発や地域のお客様に寄り添ったサービスなどの付加価値をつけていくことが重要です」（https://www.niimi-s.co.jp/・1回目）
+  - 「ニイミ産業は様々なお客様の要望に応えられる柔軟なサービス提供企業として進化して参るつもりです」（https://www.niimi-s.co.jp/・1回目）
+  - 「事業内容_個人のお客様」（https://www.niimi-s.co.jp/・1回目）
+  - 「事業内容_法人のお客様」（https://www.niimi-s.co.jp/・1回目）
+  - 「個人のお客様」（https://www.niimi-s.co.jp/service_individual/・1回目）
+  - 「法人のお客様」（https://www.niimi-s.co.jp/service_individual/・1回目）
+- お金の形：
+  - 「特許技術「高周波誘導熱プラズマ法」で３Dプリンター用金属粉末の造粒を行うなど、様々な新規技術の研究開発に取り組んでいます」（https://www.niimi-s.co.jp/service_corporation/・1回目）
+  - 「LPガスの価格を正直に開示」（https://www.niimi-s.co.jp/service/energy/・1回目）
+  - 「お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入」（https://www.niimi-s.co.jp/service/energy/・1回目）
+  - 「この一貫生産により低価格短納期かつ良質な製品をお客様にお届けすることができます」（https://www.niimi-s.co.jp/service/ceramics/・1回目）
+  - 「ガスファンヒーター「月額1000円」レンタル✨」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「今月のガス料金を」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「ニイミ産業のLPガスは透明性のある正直な価格です」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「お住まいの形態と暖房の有無を入力して「試算する」を押すだけで、簡単に今月のガス料金が分かります」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「今月のガス料金は」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「これは毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる制度です」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「注1.ガス料金は、基本料金と従量料金を合計した金額です」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「注2.上記ガス料金に対し毎月原料調整制度が適用されます」（https://www.niimi-s.co.jp/home_energy/・1回目）
+- いくら：
+  - 「今回の合意に基づき、ニイミ産業株式会社および株式会社エネサンス中部は各社が運営する充填所（ニイミ産業：春日井営業所、エネサンス中部：稲沢営業所）の相互利用を開始し、またジクシス株式会社は両社の協力体制を先導し、円滑な連携を支援します」（https://www.niimi-s.co.jp/news/・1回目）
+  - 「169億円(2025年12月実績、グループ計)」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「ガス窯製造部門を分離し、資本金2000万円にて株式会社ニイミキルンを設立」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「資本金500万円にてニイミ石油株式会社（現在はニイミ産業株式会社に統合）を設立」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「資本金5000万円にて電子部品用ファインセラミックの製造会社、株式会社ニイミセラミックスを設立」（https://www.niimi-s.co.jp/company/outline/・1回目）
+  - 「ガスファンヒーター「月額1000円」レンタル✨」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「円(税込)です」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「円(税抜)です」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「627円/m³」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「57円/m³」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「594円/m³」（https://www.niimi-s.co.jp/home_energy/・1回目）
+  - 「54円/m³」（https://www.niimi-s.co.jp/home_energy/・1回目）
+- 検索結果の抜粋：
+  - 「ニイミ産業 株式会社 | 家庭用・工業用LPガス販売、各種 ... — ニイミ産業 株式会社 | 家庭用・工業用LPガス販売、各種 ... ニイミ産業株式会社 https://www.niimi-s.co.jp」（https://www.niimi-s.co.jp/・3回目）
+  - 「「 ニイミ産業 」の 代理店 1社 注目ランキング【2026年】 — 「 ニイミ産業 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > ニイミ産業株式会社」（https://metoree.com/companies/16717/distributors/・3回目）
+  - 「企業情報 | ニイミ産業 - Powered by イプロスものづくり — 企業情報 | ニイミ産業 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > niimi-s > information」（https://pr.mono.ipros.com/niimi-s/information/・3回目）
+  - 「スマートファクトリー推進室 | ニイミ産業 工業用LPガス部門 — スマートファクトリー推進室 | ニイミ産業 工業用LPガス部門 ニイミ産業株式会社 https://www.niimi-s.co.jp > ホーム > サービス・製品」（https://www.niimi-s.co.jp/ie/service/smartfactory/・3回目）
+  - 「ニイミ産業 (株)の取材情報 | マイナビ2027 — ニイミ産業 (株)の取材情報 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp248116 > premium」（https://job.mynavi.jp/27/pc/search/corp248116/premium.html・3回目）
+  - 「LPガス販売、ガス器具販売・修理、リフォームなら ニイミ ... — LPガス販売、ガス器具販売・修理、リフォームなら ニイミ ... ニイミ産業株式会社 https://www.niimi-s.co.jp > home_energy」（https://www.niimi-s.co.jp/home_energy/・3回目）
+  - 「ニイミ産業 株式会社／本社の会社情報 ｜【enepi -エネピ-】 — ニイミ産業 株式会社／本社の会社情報 ｜【enepi -エネピ-】 enepi.jp https://enepi.jp > ガス料金の見直し・比較」（https://enepi.jp/companies/1224・3回目）
+  - 「ニイミ産業 、名古屋の工業炉メーカーを買収 - 日本経済新聞 — ニイミ産業 、名古屋の工業炉メーカーを買収 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOFD057570V00C24A6000000/・3回目）
+  - 「ニイミ産業 株式会社 - Powered by イプロスものづくり — ニイミ産業 株式会社 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > niimi-s」（https://pr.mono.ipros.com/niimi-s/・3回目）
+  - 「N-Plasam Melting（プラズマ溶融）球状化 受託 | ニイミ産業 — N-Plasam Melting（プラズマ溶融）球状化 受託 | ニイミ産業 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > niimi-s > product > detail」（https://pr.mono.ipros.com/niimi-s/product/detail/2000715564/・3回目）
+  - 「先輩社員インタビュー - ニイミ産業 — 先輩社員インタビュー - ニイミ産業 ニイミ産業株式会社 https://www.niimi-s.co.jp > recruit > interview」（https://www.niimi-s.co.jp/recruit/interview/2/・3回目）
+- 従業員数：記載なし（3回確認済み：公式28頁／PDF・画像18件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式28頁／PDF・画像18件／外部8頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式28頁／PDF・画像18件／外部8頁・検索5回）
+
+## ニデックマシンツール株式会社
+- 公式URL：https://nidec.com/jp/nidec-machinetool/（given）
+- 設立：2012年09月（https://prtimes.jp/main/html/rd/p/000000062.000144521.html・3回目）
+- 設立：2012年9月（https://prtimes.jp/main/html/rd/p/000000062.000144521.html・3回目）
+- 設立：2004年 4月1日（https://www.nidec.com/jp/nidec-machinetool/corporate/outline/・3回目）
+- 従業員数：約1,000名（https://www.nidec.com/jp/nidec-machinetool/corporate/outline/・3回目）
+- 事業内容：工作機械、切削工具及びその関連製品の販売・サービス（https://www.nidec.com/jp/worldwide_new/sales/pt_nidec_mobility_indonesiamachine_tool_division/・1回目）
+- 事業内容：(1) 工作機械、切削工具及びその関連製品に関する設計･製造･販売並びにコンサルティング業務 (2) 上記製品に関わる製品の据付、技術指導、アフター服务等（https://www.nidec.com/jp/nidec-machinetool/corporate/outline/・3回目）
+- 誰から：
+  - 「自社製品に欠陥が発見された場合には、顧客の安全及び利益を最優先に考え、利用者にその情報を速やかに伝えるなど、被害拡大防止のために迅速に対応します」（https://www.nidec.com/jp/corporate/about/cg/compliance/・1回目）
+  - 「競合他社の営業妨害となる行為や、自社製品への不当表示等は行いません」（https://www.nidec.com/jp/corporate/about/cg/compliance/・1回目）
+  - 「顧客情報を集約し、接点を保ちながら自社製品の情報を提供するマーケティングの施策の流れをつくることができた」（https://www.kairosmarketing.net/kairos3/showcase/nidec-machinetool・3回目）
+  - 「自社製品に適用できるかトライしてみたい」（https://www.nidec.com/jp/products/machine-tools/3d-metal-additive-manufacturing-machines/trial-services/NMTJ-3d-printing-services/・3回目）
+- 何をする：
+  - 「トレーニング」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「学生・教育機関」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「また、それを取り扱う従業員に対し個人情報保護教育を行い、委託先については選定に万全を期し、かつ必要な契約を締結するなど、個人情報保護のために必要とされる措置を充分に講じております」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「ニュースリリース」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「トレーニング」（https://www.nidec.com/jp/products/machine-tools/・1回目）
+  - 「歯車工作機械の短期レンタルサービス”ショーリズ”」（https://www.nidec.com/jp/products/machine-tools/・1回目）
+  - 「ニュースリリース」（https://www.nidec.com/jp/products/machine-tools/・1回目）
+  - 「トレーニング」（https://www.nidec.com/jp/products/machine-tools/service/・1回目）
+  - 「微細加工・接合試作サービス」（https://www.nidec.com/jp/products/machine-tools/service/・1回目）
+  - 「金属3Dプリンタ試作・造形サービス」（https://www.nidec.com/jp/products/machine-tools/service/・1回目）
+  - 「歯車工作機械の短期レンタルサービス”ショーリズ”」（https://www.nidec.com/jp/products/machine-tools/service/・1回目）
+  - 「新設機の長納期化、急な増産、突発的な機械故障・・・お困りではありませんか？“ショーリズ”は、必要なときだけ必要な設備を即納レンタル！お客様の生産計画に柔軟に対応いたします」（https://www.nidec.com/jp/products/machine-tools/service/・1回目）
+- 誰に：
+  - 「お客様とともに、」（https://www.nidec.com/jp/nidec-machinetool/・1回目）
+  - 「お客様について」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「当社製品・サービスをお客様へご紹介したい」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「ニデックマシンツール株式会社（以下「当社」）は、個人情報の重要性を認識し、「個人情報の保護に関する法律」（以下「個人情報保護法」）にもとづき、お客様やお取引様をはじめとする皆様（以下「ご本人様」）からお預かりしているさまざまな情報（氏名、会社名、住所、電話番号、メールアドレスなどの個人情報）を保護し、適切に取り扱うために、本プライバシーポリシーを定めます」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「（１）お客様に関する個人情報」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「・お客様の本人確認・個人認証」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「・商品・請求書、お客様が参加したキャンペーンにかかる当選者への景品の発送」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「・お客様のお問合せ・ご相談・苦情・修理・サポートへの対応、確認及び記録」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「・当社の提供するデジタル・サービス（ウェブサイト・モバイルアプリなど）におけるお客様の体験の改善・向上」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「・お客様の趣味・嗜好等の把握のための当社が取得した取得した属性情報・行動履歴等の分析（※２）」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「・お客様に当社の商品・サービスを安全に提供するため」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+  - 「（※１）お客様から取得したウェブサイトの閲覧履歴や購買履歴等の情報を分析して、サービスの提供、広告配信等をいたします」（https://www.nidec.com/jp/products/machine-tools/inquiry/request/contact_form/・1回目）
+- お金の形：
+  - 「そんな中、当社の要求に深く寄り添い、性能・価格・納期・サイズすべてが完璧に合致したのが、ニデックマシンツールの「GE20A」でした」（https://www.nidec.com/jp/products/machine-tools/solution/・1回目）
+  - 「製品仕様・見積もり依頼についてのお問合せ先」（https://www.nidec.com/jp/products/machine-tools/inquiry/・1回目）
+  - 「カルテル・価格協定・談合・市場分割その他公正で自由な競争を阻害するいかなる行為も行いません」（https://www.nidec.com/jp/corporate/about/cg/compliance/・1回目）
+  - 「取引先の選定にあたっては、法令を遵守することはもちろん、安全、品質、環境、価格、納期などの基準等に従って公正で透明な評価を行うとともに、国内外の取引先を区別をせず、グローバル企業としての姿勢で対応します」（https://www.nidec.com/jp/corporate/about/cg/compliance/・1回目）
+  - 「Kairos3 料金資料」（https://www.kairosmarketing.net/kairos3/showcase/nidec-machinetool・3回目）
+  - 「料金・プラン」（https://prtimes.jp/main/html/rd/p/000000062.000144521.html・3回目）
+  - 「BJT方式用に調整された99.9%純度の純銅粉末材料となります」（https://www.nidec.com/jp/products/machine-tools/3d-metal-additive-manufacturing-machines/trial-services/NMTJ-3d-printing-services/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/nidec-5axis-jimtof2024/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/nidec-5axis-jimtof2024/・3回目）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/metal-3dprinter/nidec-5axis-jimtof2024/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-3dprinter/nidec-5axis-jimtof2024/・3回目）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/metal-3dprinter/nidec-5axis-jimtof2024/・3回目）
+- いくら：
+  - 「当社子会社のミドルクラス複合加工機『TEX-2500S』新仕様追加」（https://www.nidec.com/jp/products/machine-tools/・1回目）
+  - 「ピストン加工機（非円形加工CNC旋盤）/マシニングセンタ」（https://www.nidec.com/jp/products/machine-tools/service/・1回目）
+  - 「歯車工作機械/円筒研削盤」（https://www.nidec.com/jp/products/machine-tools/inquiry/・1回目）
+  - 「歯車工作機械、円筒研削盤、大型工作機械/マシニングセンタ/専用工作機械」（https://www.nidec.com/jp/products/machine-tools/inquiry/・1回目）
+  - 「旋盤/複合加工機/ピストン加工機（非円形加工CNC旋盤）/マシニングセンタ」（https://www.nidec.com/jp/products/machine-tools/inquiry/・1回目）
+  - 「当社子会社のミドルクラス複合加工機『TEX-2500S』新仕様追加」（https://www.nidec.com/jp/・1回目）
+  - 「歯車工作機械/円筒研削盤」（https://www.nidec.com/jp/products/machine-tools/service/support/call/・1回目）
+  - 「「三菱ワーナースウェージ円筒研削盤 C5型」完成」（https://www.nidec.com/jp/nidec-machinetool/corporate/history2/・1回目）
+  - 「非円形加工 CNC 旋盤」（https://www.nidec.com/v=1792749217/files/topics/79968_ext_3_0.pdf・2回目）
+  - 「った非円形加工技術を、ヒュ」（https://www.nidec.com/v=1792749217/files/topics/79968_ext_3_0.pdf・2回目）
+  - 「ミドルクラスの複合加工機 誕生！」（https://www.nidec.com/v=1792749217/files/topics/79968_ext_3_0.pdf・2回目）
+  - 「非円形加工 CNC 旋盤」（https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/1022-01/261022-01jp.pdf・2回目）
+- 検索結果の抜粋：
+  - 「「 ニデックマシンツール 」の 代理店 ・取扱店 - indexPro — 「 ニデックマシンツール 」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=5858・3回目）
+  - 「ニデックマシンツール の 代理店 - Metoree — ニデックマシンツール の 代理店 - Metoree Metoree https://metoree.com > ... > ニデックマシンツール株式会社」（https://metoree.com/companies/1263/distributors/・3回目）
+  - 「当社全般に関する問い合せ | ニデックマシンツール 株式会社 — 当社全般に関する問い合せ | ニデックマシンツール 株式会社 NIDEC CORPORATION https://www.nidec.com > inquiry > request > corporate」（https://www.nidec.com/jp/nidec-machinetool/inquiry/request/corporate/・3回目）
+  - 「Login | ニデックマシンツール 切削工具 代理店 様向けポータル ... — Login | ニデックマシンツール 切削工具 代理店 様向けポータル ... Salesforce https://nmtj.my.site.com > toolagency > login」（https://nmtj.my.site.com/toolagency/login?locale=us・3回目）
+  - 「ニデックマシンツール （アメリカ）合同会社 — ニデックマシンツール （アメリカ）合同会社 NIDEC CORPORATION https://www.nidec.com > nidec_machine_tool_america_llc」（https://www.nidec.com/jp/worldwide_new/sales/nidec_machine_tool_america_llc/・3回目）
+  - 「ニデックマシンツール 株式会社 | 導入事例 | 「Kairos3」 — ニデックマシンツール 株式会社 | 導入事例 | 「Kairos3」 カイロスマーケティング株式会社 https://www.kairosmarketing.net > 導入事例 > 業態 > BtoB」（https://www.kairosmarketing.net/kairos3/showcase/nidec-machinetool・3回目）
+  - 「ニデックマシンツール 株式会社の「Kairos3」 導入事例 を公開 — ニデックマシンツール 株式会社の「Kairos3」 導入事例 を公開 PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000062.000144521.html・3回目）
+  - 「ニデックマシンツール - YouTube — ニデックマシンツール - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UCVZ8MXzbtsiGSQQEJmkJodg・3回目）
+  - 「ニデックマシンツール 株式会社 - NIDEC CORPORATION — ニデックマシンツール 株式会社 - NIDEC CORPORATION NIDEC CORPORATION https://www.nidec.com > nidec-machinetool」（https://www.nidec.com/jp/nidec-machinetool/・3回目）
+  - 「企業概要 | ニデックマシンツール 株式会社 — 企業概要 | ニデックマシンツール 株式会社 NIDEC CORPORATION https://www.nidec.com > nidec-machinetool > corporate」（https://www.nidec.com/jp/nidec-machinetool/corporate/Company%20Profile/・3回目）
+  - 「ニデックマシンツール 、歯車製造の2工程を1台に集約する工作 ... — ニデックマシンツール 、歯車製造の2工程を1台に集約する工作 ... 日本経済新聞 https://www.nikkei.com > ビジネス > 機械」（https://www.nikkei.com/article/DGXZQOUF04B210U5A600C2000000/・3回目）
+  - 「ニデックマシンツール (株)の新卒採用・会社概要 | マイナビ2027 — ニデックマシンツール (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp258847 > outline」（https://job.mynavi.jp/27/pc/search/corp258847/outline.html・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像18件／外部12頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像18件／外部12頁・検索4回）
+
+## ハニー化成
+- 公式URL：https://www.honny.co.jp/（given）
+- 設立：1952年（https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90・3回目）
+- 事業内容：塗料 、 接着剤 、 合成樹脂 、金属表面処理剤などを主とする化学製品の製造・販売（https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90・3回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.honny.co.jp/・1回目）
+  - 「技術サポート・導入プロセス・設備」（https://www.honny.co.jp/・1回目）
+  - 「「水と空気を科学する」ハニー化成のWEBサイト｜ニュースリリース | ハニー化成」（https://www.honny.co.jp/news/・1回目）
+  - 「ニュースリリース」（https://www.honny.co.jp/news/・1回目）
+  - 「技術サポート・導入プロセス・設備」（https://www.honny.co.jp/news/・1回目）
+  - 「ニュースリリース」（https://www.honny.co.jp/profile/・1回目）
+  - 「技術サポート・導入プロセス・設備」（https://www.honny.co.jp/profile/・1回目）
+  - 「ニュースリリース」（https://www.honny.co.jp/profile-01/・1回目）
+  - 「技術サポート・導入プロセス・設備」（https://www.honny.co.jp/profile-01/・1回目）
+  - 「ニュースリリース」（https://www.honny.co.jp/profile-02/・1回目）
+  - 「技術サポート・導入プロセス・設備」（https://www.honny.co.jp/profile-02/・1回目）
+  - 「塗料、合成樹脂、金属表面処理剤、接着剤、その他これらに関する化学製品およびその原料の製造・販売」（https://www.honny.co.jp/profile-02/・1回目）
+- 誰に：
+  - 「お客様のご要望・課題・用途などをヒアリングし、ご要望に合った製品を紹介させて頂きます」（https://www.honny.co.jp/product-02/・1回目）
+  - 「ヒアリング結果を基に、当社でもしくはお客様でサンプル作成を行って頂きご評価頂きます」（https://www.honny.co.jp/product-02/・1回目）
+  - 「新しく設備を導入されるお客様には設備業者を紹介致します」（https://www.honny.co.jp/product-02/・1回目）
+  - 「技術サポートはお客様に製品を導入する為の設備等の確認、導入、導入後の仕上がり安定化を維持できる様フォローし、品質トラブルの未然防止、トラブル発生時の対応等を行います」（https://www.honny.co.jp/product-02/・1回目）
+  - 「弊社では、電着レジストを製造・販売しておりますが、お客様の中にはそもそもフォトレジスト自体をご存知ではない方も多くおられました」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「家電業界では、製品の外観における意匠性の向上が、消費者の購買意欲に影響を与える重要な要素となります」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「スポーツ用品業界では、製品の美観と機能性を両立させるための表面処理が求められます」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「建築金物業界では、屋外での使用や過酷な環境下での耐久性が求められます」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「家具業界では、製品の美観と耐久性を高めるために、素材表面の質感向上が求められます」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「文房具業界では、日常的な使用に耐えうる耐久性と、手に取る人を魅了する美観が求められます」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「OA機器業界では、製品の信頼性を高めるために、内部部品の絶縁性確保が求められます」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「【自動車業界向け】電着塗装とは？基礎知識集」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+- お金の形：
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90・3回目）
+- いくら：
+  - 「100,000,000円」（https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90・3回目）
+- 検索結果の抜粋：
+  - 「「水と空気を科学する」ハニー化成のWEBサイト — 電着塗装、塗料、合成樹脂、金属表面処理剤、接着剤、その他これらに関する化学製品およびその原料の製造・販売を行う ハニー化成のWEBサイト。 資源の乏しいわが国に豊富に存在する美しい水や空気という資源に付加価値をつけ、新たなモノとして活用するという発想から生まれました。」（https://www.honny.co.jp/・3回目）
+  - 「代理店契約書とは？雛形をもとに内容や注意点を解説 | 電子契約サービ...【無料DL】代理店契約書テンプレート3種｜販売・取次・媒介の雛形と作...代理店契約書 無料ひな形・テンプレート販売代理店契約とは？販売店契約と代理店契約の違い・契約書作成時の...「水と空気を科学する」ハニー化成のWEBサイト｜会社案内 | ハニー化...「販売店・代理店契約書」の書式テンプレート・フォーマットのダウン... — 最初に「代理店契約」の内容を確認しておきましょう。 代理店はメーカー企業などから委託を受け、商品やサービス（以下、商品）の売買の仲介を行う会社や個人の総称です。代理店は委託者を代理して商品の販売を行い、仲介により企業と顧客間で売買契約が成立した際に手数料を受け取ります。これが、代理店の主な利益となります。 代理店契約は上記の内容について企業（委託者）と代理店（受託者）間で結ぶものですが、実」（https://biz.moneyforward.com/contract/basic/4317/・3回目）
+  - 「「水と空気を科学する」ハニー化成のWEBサイト｜製品紹介 | ハニー化... — ハニー化成のものづくり 研究開発・生産体制 品質・環境マネジメントシステム 製品紹介 電着塗装とは 技術サポート・導入プロセス・設備 ハニライトシリーズ ハニブライト ハニレジストシリーズ ハニセランAW/MA ハニセランPI ハニロンシリーズ ハニクロン」（https://www.honny.co.jp/products/・3回目）
+  - 「技術資料 の製品一覧｜ハニー化成｜イプロスものづくり — Aug 3, 2026 · 果てしない新技術の開発に挑戦する姿はそうした理想の実現に立ち向かう技術者集団の誇りです。 ハニー化成は、樹脂合成技術と50年以上培ってきた電着塗装技術で御社の技術課題を解決いたします。 イプロスのイプロスものづくりのサイト説明」（https://mono.ipros.com/company/detail/2046737/category/66636/・3回目）
+  - 「【インフラ向け】機能性・意匠性付与 電着処理剤 ハニー化成 | イプロ... — Jun 1, 2026 · 基本情報 【特長】 ・耐蝕性 ・絶縁性 ・耐候性 ・意匠性 ・潤滑性 【当社の強み】 ハニー化成株式会社は、塗料、合成樹脂、金属表面処理剤などの製造・販売を行っており、50年以上培ってきた電着塗装技術で御社の技術課題を解決いたします。」（https://mono.ipros.com/product/detail/2001638618/・3回目）
+  - 「すべての製品・サービス 一覧 | ハニー化成 - Powered by イプロスも... — Oct 5, 2026 · ハニー化成 の製品・サービスです。製品・技術を一覧から探すことができます。」（https://pr.mono.ipros.com/honny/product/category/・3回目）
+  - 「機能性電着樹脂液 ハニー化成 | イプロス — 電着技術と高機能性樹脂の融合 ハニー化成がアルミサッシの表面処理分野において世界ではじめて実用化し60年培った電着技術と高機能性樹脂と複合化し、付加価値をご提供致します。 小スケールでのサンプル作成、その他機能化、共同開発等のご要望がございましたら、まずはご相談 ...」（https://www.ipros.com/product/detail/2001425258/・3回目）
+  - 「ハニー化成株式会社 事業紹介 ハニー化成 | イプロスものづくり — Jun 18, 2025 · 果てしない新技術の開発に挑戦する姿はそうした理想の実現に立ち向かう技術者集団の誇りです。 ハニー化成は、樹脂合成技術と50年以上培ってきた電着塗装技術で御社の技術課題を解決いたします。 製品・サービス一覧 (79)」（https://mono.ipros.com/product/detail/2000217770/・3回目）
+  - 「ハニー化成の製品・サービス一覧｜イプロスものづくり — Aug 3, 2026 · ハニー化成 の製品・サービス一覧です。 【アニオン電着のパイオニア】表面処理で新たな価値を提供します ハニー化成株式会社は、塗料、合成樹脂、金属表面処理剤、接着剤、その他これらに関する化学製品およびその原料の製造・販売を行っている会社です。 水と空気を科学する ～ハニー ...」（https://mono.ipros.com/company/detail/2046737/category/・3回目）
+  - 「ハニー化成 - Wikipedia — ハニー化成株式会社 （ハニーかせい）は 兵庫県 神戸市 長田区 に本社を置く、 塗料 、 化成品 の製造をおこなう企業である。 1952年 創業。」（https://ja.wikipedia.org/wiki/ハニー化成・3回目）
+  - 「「水と空気を科学する」ハニー化成のWEBサイト｜ハニー化成のものづく... — ハニー化成の主たる生産拠点である明石事業所は、兵庫県明石市の西部に位置しています。原材料の選定から生産、検査、出荷に至る一貫生産体制を確立し、お客様に安心を安全にお届けできるよう様々な取り組みを行っています。 高い品質を生み出す品質管理体制と生産技術を保持し、安定 ...」（https://www.honny.co.jp/research-01/・3回目）
+  - 「スプレーコートAG処理 受託試作加工サービス ハニー化成 | イプロス — ハニー化成のスプレーコートAG処理 受託試作加工サービス の技術や価格情報などをご紹介。 無料見積り AGスプレーコート剤『ハニセランPI-200』 受託試作加工サービスイプロスでは 塗料などBtoB向けの情報を多数掲載。応相談応相談`」（https://www.ipros.com/product/detail/2000425285/・3回目）
+- 従業員数：記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）
+- 誰から：記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）
+
+## パルステック工業
+- 公式URL：https://www.pulstec.co.jp/（given）
+- 設立：昭和44年11月1日（https://www.pulstec.co.jp/company/guide/・1回目）
+- 設立：1969年 11月1日（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+- 設立：1969年11月1日（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+- 従業員数：163名 (2026年4月1日現在)（https://www.pulstec.co.jp/company/guide/・1回目）
+- 従業員数：156人（2024年3月31日現在）（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+- 従業員数：122 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+- 売上高：26億12百万円（2024年3月期）（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+- 事業内容：電子応用機器・ 装置の製造および販売（https://www.pulstec.co.jp/company/guide/・1回目）
+- 事業内容：電子応用機器・装置の製造および販売（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+- 誰から：
+  - 「開発体制強化のため開発プロジェクトを発足し、自社製品開発に着手」（https://www.pulstec.co.jp/company/outline/・1回目）
+  - 「2003年2月19日にはオプトウェアと提携、HVD（ホログラフィック・バーサタイル・ディスク）用評価装置を取り扱っている」（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+- 何をする：
+  - 「装置レンタル」（https://www.pulstec.co.jp/・1回目）
+  - 「医療機器受託開発」（https://www.pulstec.co.jp/・1回目）
+  - 「プレスリリース」（https://www.pulstec.co.jp/・1回目）
+  - 「計測サービス／装置レンタル」（https://www.pulstec.co.jp/・1回目）
+  - 「装置レンタル」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「医療機器受託開発」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「プレスリリース」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「計測サービス／装置レンタル」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「(オンラインセミナー)」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「本セミナーでは、各分野でご活躍されているスペシャリストの方々にご登壇いただき残留応力の測定原理や測定値の活用事例などについて、分かり易くご講演いただきます」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「ウェビナー(オンラインセミナー)形式で無料にてお申し込みいただけます」（https://www.pulstec.co.jp/product/webinar/・1回目）
+  - 「プラントやインフラ設備の保守保全における課題解決に残留応力測定」（https://www.pulstec.co.jp/product/webinar/・1回目）
+- 誰に：
+  - 「■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません」（https://www.pulstec.co.jp/・1回目）
+  - 「生産現場や屋外で使用でき大型構造物の測定も可能なため、様々な業種や業界で採用されています」（https://www.pulstec.co.jp/product/・1回目）
+  - 「光技術を活用して、お客様のニーズに適した計測、検査、検出等を提供します」（https://www.pulstec.co.jp/product/・1回目）
+  - 「医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます」（https://www.pulstec.co.jp/product/・1回目）
+  - 「ユーザーにて管球交換ができるため、1台で多種の測定対象物を測定できます」（https://www.pulstec.co.jp/product/x-ray/・1回目）
+  - 「海外導入実績」（https://www.pulstec.co.jp/product/x-ray/・1回目）
+  - 「マッピングや合否判定など、お客様のニーズに応じてソフトウェアをカスタマイズします」（https://www.pulstec.co.jp/product/x-ray/・1回目）
+  - 「■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません」（https://www.pulstec.co.jp/product/x-ray/・1回目）
+  - 「■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません」（https://www.pulstec.co.jp/product/laue/・1回目）
+  - 「■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません」（https://www.pulstec.co.jp/product/optical_other/・1回目）
+  - 「■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません」（https://www.pulstec.co.jp/product/medical_healthcare/・1回目）
+  - 「■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません」（https://www.pulstec.co.jp/product/measuring_rental/・1回目）
+- お金の形：
+  - 「小型・軽量・高速・高精度・低価格を実現し取扱いも容易です」（https://www.pulstec.co.jp/product/・1回目）
+  - 「検査に掛かる手間と研磨剤やレジンなどの消耗品コストも削減します」（https://www.pulstec.co.jp/product/・1回目）
+  - 「小型カメラの採用によりPWS-1000と比べ、さらに小型･軽量・低価格を実現し、既存製品への組み込みも一層容易になりました」（https://www.pulstec.co.jp/product/・1回目）
+  - 「世界で初めてcosα法の製品化に成功し、小型・軽量・高速・高精度・低価格を実現した装置です」（https://www.pulstec.co.jp/product/x-ray/・1回目）
+  - 「検査に掛かる手間と研磨剤やレジンなどの消耗品コストを削減します」（https://www.pulstec.co.jp/product/x-ray/・1回目）
+  - 「一般的な干渉計と比べ、低価格を実現しました」（https://www.pulstec.co.jp/product/optical_other/・1回目）
+  - 「用途を小型光学系に限定したことにより、低価格を実現しました」（https://www.pulstec.co.jp/product/optical_other/・1回目）
+  - 「それぞれが抱える開発・生産工程上の課題を解消することが当社の使命であると認識し、高品質・低価格製品の提供を追求し続け、それぞれの需要先ニーズに適合した幅広い製品群を開発・提供してきました」（https://www.pulstec.co.jp/ir/guide/・1回目）
+  - 「「ホログラム記録技術を用いたメディア評価装置に関するライセンス契約」を株式会社オプトウェアとの間にて締結」（https://www.pulstec.co.jp/company/outline/・1回目）
+  - 「量産用低価格ピックアップ評価装置」（https://www.pulstec.co.jp/company/outline/・1回目）
+  - 「低価格光ディスクチェッカ」（https://www.pulstec.co.jp/company/outline/・1回目）
+  - 「◆研磨剤やレジンなどの消耗品の削減」（https://www.pulstec.co.jp/pdf/hardness_eye.pdf・2回目）
+- いくら：
+  - 「1,491,375,000円」（https://www.pulstec.co.jp/company/guide/・1回目）
+  - 「電子機器製造販売を目的として、静岡県浜松市曳馬町に資本金50万円で」（https://www.pulstec.co.jp/company/outline/・1回目）
+  - 「14億9137万5,000円」（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+  - 「26億12百万円（2024年3月期）」（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+  - 「36億38百万円（2024年3月期）」（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+  - 「51億37百万円（2024年3月期）」（https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD・3回目）
+  - 「1,491(百万円)」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+  - 「6,238,019 円」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+  - 「240,000 円（日経会社情報調査）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+  - 「2026年3月期 （百万円） ［］内は人数」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+  - 「2026年3月期 （百万円）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+  - 「VIP倶楽部を詳しく見る（月額2,838円）」（https://finance.yahoo.co.jp/quote/6894.T/history・3回目）
+- 検索結果の抜粋：
+  - 「パルステック工業 - Wikipedia — パルステック工業 ... パルステック工業株式会社 （パルステックこうぎょう、 英: PULSTEC INDUSTRIAL CO., LTD.）は、 光 関連の検査機器を主とした電子機器の製造および販売を手がける企業。 光に関する高い技術力を持ち、特に 光ディスク 分野を得意とする [1]。」（https://ja.wikipedia.org/wiki/パルステック工業・3回目）
+  - 「パルステック工業：製品紹介 - YouTube — Dec 27, 2021 · パルステック工業：製品紹介 1.9K views 4y ago パルステック工業株式会社 /Pulstec Industrial Co., Ltd. 211 subscribers」（https://www.youtube.com/watch?v=Gf6fnOwCXIk・3回目）
+  - 「パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学... — 最先端技術を駆使し、エレクトロニクス、精密機械、光学分野で時代のニーズに応える研究開発型企業です。」（https://www.pulstec.co.jp/・3回目）
+  - 「研究開発 | パルステック工業株式会社 — 研究開発活動 創業当初から「研究開発型モノづくり企業」を志向し、「創意と工夫をもって新たな価値を創造し、社会の発展に貢献する。」を企業理念に掲げ、計測・評価・検査の領域において独自技術の研鑽とノウハウの蓄積に努め、顧客ニーズにマッチした新製品を開発することで関連業 ...」（https://www.pulstec.co.jp/rd/・3回目）
+  - 「パルステック工業の製品・サービス一覧｜イプロス — 本ウェビナーでは、鋼材表面の硬さムラを非接触・非破壊で評価できる 「非接触硬さムラスキャナ (muraR)」の測定原理、活用事例、 硬化層深さの測定事例について講演いたします。 ウェビナー (オンラインセミナー)形式で無料にてご聴講いただけます。」（https://www.ipros.com/company/detail/2029750/category/・3回目）
+  - 「【パルステック工業】 [6894]企業概要 社員数や役員報酬・資本金 | 日...パルステック工業 | 6894.T 株価動向とリアルタイム相場 — BigGo ファ...パルステック工業 (株)【6894】：株価時系列・信用残時系列 - Yahoo!...製品情報 | パルステック工業株式会社パルステック工業（6894）の株価・チャート | yomitoka6894.T - | Stock Price & Latest News | Reuters — 【日本経済新聞】パルステック工業 [6894]の企業概要。役員人事や社員数、資本金に関する情報から関連会社や取引先、監査法人などあらゆる知り ... パルステック工業 · 約定価格2152 · 時価総額29.4億 · 始値2152 · 高値2152 · 安値2152 · 年間最高値2586 · 前日終値2148 · EPS（直近12ヶ月）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6894・3回目）
+  - 「パルステック工業 | 6894.T 株価動向とリアルタイム相場 — BigGo ファ... — パルステック工業 · 約定価格2152 · 時価総額29.4億 · 始値2152 · 高値2152 · 安値2152 · 年間最高値2586 · 前日終値2148 · EPS（直近12ヶ月）206.3829 · PER（直近12ヶ月）10.43 · 配当利回り4.18% · 予想配当・利回り90 · ベータ値0.148」（https://finance.biggo.jp/quote/6894.T・3回目）
+  - 「パルステック工業 (株)【6894】：株価時系列・信用残時系列 - Yahoo!... — Jan 28, 2026 · パルステック工業(株)【6894】の株価時系列や信用残時系列の推移をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。」（https://finance.yahoo.co.jp/quote/6894.T/history・3回目）
+  - 「パルステック工業（6894）の株価・チャート | yomitoka — Sep 24, 2026 · パルステック工業（6894）の株価は2026年9月24日の終値で￥2,145。株価と1年のチャート、期間ごとの変化率、日別の価格・取引量、最近の発表、同業・関連企業を確認できます。yomitokaで日本株の値動きと材料を企業別に整理します。」（https://yomitoka.com/company/6894/stock-price・3回目）
+  - 「会社情報 | パルステック工業株式会社 — パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学技術等の最先端技術を駆使し、研究開発型企業とし ...」（http://pulstec.co.jp/company/・3回目）
+  - 「会員企業紹介／パルステック工業株式会社｜浜松地域新産業創出会議 — 信頼のものづくり ISO9001、ISO14001、ISO13485、医療機器製造業の許可を取得しております。 特注品の受託開発に対応 医療機器や産業機器で多数受託開発の実績があります。 お気軽にご相談ください。」（https://www.hama-sss.com/sys/members/show/62・3回目）
+  - 「パルステック工業株式会社の企業情報・製品｜BizExpo.jp — Oct 26, 2026 · 光学技術と精密機械技術を組み合わせた計測機器として取り扱われている。 ヘルスケア装置 体外診断などに関わるヘルスケア・医療関連機器。 同社の電子回路や光学の技術を生かし、受託開発と受託製造の形で顧客の装置づくりを支援している。」（https://bizexpo.jp/companies/pulstec・3回目）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像8件／外部7頁・検索4回）
+
+## ヒットリサーチ
+- 公式URL：https://hitresearch.co.jp/（given）
+- 設立：2015/07（https://initial.inc/companies/A-EBJPI・3回目）
+- 従業員数：3名（https://mono.ipros.com/company/detail/2073589/・3回目）
+- 誰から：
+  - 「資金調達・提携ニュース」（https://initial.inc/companies/A-EBJPI・3回目）
+- 何をする：
+  - 「造形サービス」（https://hitresearch.co.jp/ja/・1回目）
+  - 「500℃高温ホットエンドを用いた造形サービス」（https://hitresearch.co.jp/ja/・1回目）
+  - 「造形サービス | hitresearch」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「造形サービス」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「当社では当社オリジナルの500℃対応ホットエンド（下記）とヒートベッドを市販プリンターに組み込み、スーパーエンプラや機能性材料の造形サービスを行っています」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「**弊社ホットエンドを用いて各種材料で同一形状を同時に作成すれば効率的な試作・評価が可能となります」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「②試作費用は数万円程度～となります」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「造形サービス」（https://hitresearch.co.jp/ja/company/・1回目）
+  - 「これらのデバイスを用いて造形サービス、フィラメント造形性評価、等を行っています」（https://hitresearch.co.jp/ja/company/・1回目）
+  - 「事業概要 特殊材料造形サービス」（https://hitresearch.co.jp/ja/company/・1回目）
+  - 「造形サービス」（https://hitresearch.co.jp/ja/news/・1回目）
+  - 「500℃対応ホットエンド・ヒートベッドを市販プリンターに組み込み、スーパーエンプラや機能性材料の造形サービスを行う」（https://initial.inc/companies/A-EBJPI・3回目）
+- 誰に：
+  - 「顧客企業分析」（https://initial.inc/companies/A-EBJPI・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://mono.ipros.com/company/detail/2073589/category/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/company/detail/2073589/category/・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://mono.ipros.com/company/detail/2073589/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/company/detail/2073589/・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://mono.ipros.com/product/detail/2000412477/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/product/detail/2000412477/・3回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://mono.ipros.com/product/detail/2000509220/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/product/detail/2000509220/・3回目）
+- お金の形：
+  - 「stlファイルまたは図面を頂ければお見積り致します」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/2073589/category/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/2073589/category/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/2073589/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/2073589/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/product/detail/2000412477/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/product/detail/2000412477/・3回目）
+  - 「アルミの切削加工｜A5052を1個から削り出し 公差±0.03」（https://mono.ipros.com/product/detail/2000412477/・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/product/detail/2000509220/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/product/detail/2000509220/・3回目）
+- いくら：
+  - 「②試作費用は数万円程度～となります」（https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/・1回目）
+  - 「資本金 300万円(2021.7より増資）」（https://hitresearch.co.jp/ja/company/・1回目）
+  - 「1万円 ~ 10万円」（https://mono.ipros.com/product/detail/2000509220/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 ヒットリサーチ — 株式会社 ヒットリサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-EBJPI」（https://initial.inc/companies/A-EBJPI・3回目）
+  - 「ヒットリサーチの製品・サービス一覧｜イプロスものづくり — Dec 6, 2023 · ヒットリサーチ の製品・サービス一覧です。 3Dプリンターの心臓部、スーパーエンプラに対応した高温・省エネ・超小型ホットエンドをご提供 当社は、温度センサとヒータを同一基板上に形成した「加熱ヘッド」の技術を基本に3Dプリンタのホットエンド開発と製造などを行っております ...」（https://mono.ipros.com/company/detail/2073589/category/・3回目）
+  - 「ヒットリサーチ | 企業情報 | イプロスものづくりhitresearch | Just another WordPress site株式会社ヒットリサーチ｜スピーダ スタートアップ情報リサーチ株式会社ヒットリサーチの会社情報と与信管理 | NIKKEI COMPASS - 日...ヒットリサーチ - YouTube — Dec 6, 2023 · ヒットリサーチの企業情報や製品・サービス、関連カタログをご紹介。 3Dプリンターの心臓部、スーパーエンプラに対応した高温・省エネ・超小型ホットエンドをご提供 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 Just another WordPress site PEEK、ULTEM、PPSなどのスーパーエンジニアリングプラスチックスに対応 Feb 19, 2024 · 企業概要 2024/02/19 更新 情報ソースにつ」（https://mono.ipros.com/company/detail/2073589/・3回目）
+  - 「株式会社ヒットリサーチ｜スピーダ スタートアップ情報リサーチ — Feb 19, 2024 · 企業概要 2024/02/19 更新 情報ソースについて 企業名 株式会社ヒットリサーチ 英語名 hitresearch Co., Ltd. 代表者名 石田 暢久 住所 京都府京都市西京区京都大学桂4番地 京都大学（桂）総合研究棟III物理系等施設b4s14」（https://initial.inc/companies/A-EBJPI・3回目）
+  - 「株式会社ヒットリサーチの会社情報と与信管理 | NIKKEI COMPASS - 日... — 株式会社ヒットリサーチは京都府の企業 法人種別 株式会社 登記住所 京都府京都市西京区京都大学桂4番地京都大学（桂）総合研究棟Ⅲ物理系等 ...」（https://www.nikkei.com/compass/company/jj4hdm2yYcStkpStBpvVaG・3回目）
+  - 「ヒットリサーチ - YouTube — 株式会社ヒットリサーチでは当社基盤技術である「同一基板上にヒータと測温抵抗体を形成した応答性の高いセラミックヒータ」を用い、FDM方式 ...」（https://www.youtube.com/channel/UC2w36WnnS_PxD19LwjjeA9g/videos・3回目）
+  - 「【造形サービス】スーパーエンプラ等の高温材も対応 ヒットリサーチ |... — ヒットリサーチの【造形サービス】スーパーエンプラ等の高温材も対応の技術や価格情報などをご紹介。 高温材料 (スーパーエンプラ等)対応熱溶解積層溶 (FFF方式)ホットエンドを開発イプロスものづくりでは 製造受託など製造業向けの情報を多数掲載。」（https://mono.ipros.com/product/detail/2000412477/・3回目）
+  - 「3Dプリンターを活用した造形サービス・開発支援 ヒットリサーチ | イ... — ヒットリサーチの3Dプリンターを活用した造形サービス・開発支援の技術や価格情報などをご紹介。 幅広く対応可能！ 3Dプリンターを用いた造形サービスを行っておりますイプロスものづくりでは 3Dプリンタなど製造業向けの情報を多数掲載。」（https://mono.ipros.com/product/detail/2000509220/・3回目）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部11頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部11頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部11頁・検索4回）
+
+## プロト
+- 公式URL：https://www.plotonline.com/（search:yahoo_jp:プロト）
+- 誰から：
+  - 「国産軽自動車からコンパクトカー、SUV、大型ミニバン、商用車まで対応し、輸入車についても代表的な欧州車を中心に豊富な適合ラインアップを取り揃えています」（https://www.plotonline.com/news/detail.html?id=233947・1回目）
+  - 「【イベント情報】7/14(金)～15日(土) 「JAIA輸入電動車普及促進イベント in 神戸」に出展します」（https://www.plotonline.com/news/・1回目）
+  - 「【イベント情報】Benelli Motorcycle：愛媛輸入車ショウ2023にベネリモーターサイクルが出展します」（https://www.plotonline.com/news/・1回目）
+  - 「【イベント情報】Benelli Motorcycle：第28回 広島輸入車ショウ2023にベネリモーターサイクルが出展します」（https://www.plotonline.com/news/・1回目）
+  - 「【YouTubeチャンネル プロトツーリング部】プロトツーリング部 #81 BENELLI(ベネリ) 日本導入の4機種イッキ乗り！！JAIA輸入バイクのメディア向け試乗会にお邪魔しました♪」（https://www.plotonline.com/news/・1回目）
+  - 「【YouTubeチャンネル プロトツーリング部】プロトツーリング部 #58 愛知から秋田まで下道ツーリング！！輸入商品課のよしだがオススメする「ツーリングで役に立った輸入商品 厳選5アイテム」をご紹介！」（https://www.plotonline.com/news/・1回目）
+  - 「ご購入いただいたaRacer(エーレーサー)正規販売代理店」（https://www.plotonline.com/news/info.html?id=225471・1回目）
+  - 「OFFICIAL DISTRIBUTOR」（https://www.plotonline.com/car/・1回目）
+  - 「【イベント情報】7/14(金)～15日(土) 「JAIA輸入電動車普及促進イベント in 神戸」に出展します」（https://www.plotonline.com/news/index.html・1回目）
+  - 「【イベント情報】Benelli Motorcycle：愛媛輸入車ショウ2023にベネリモーターサイクルが出展します」（https://www.plotonline.com/news/index.html・1回目）
+  - 「【イベント情報】Benelli Motorcycle：第28回 広島輸入車ショウ2023にベネリモーターサイクルが出展します」（https://www.plotonline.com/news/index.html・1回目）
+  - 「【YouTubeチャンネル プロトツーリング部】プロトツーリング部 #81 BENELLI(ベネリ) 日本導入の4機種イッキ乗り！！JAIA輸入バイクのメディア向け試乗会にお邪魔しました♪」（https://www.plotonline.com/news/index.html・1回目）
+- 何をする：
+  - 「2008.01.10 「DCUATRO」販売権引継ぎに関するご案内」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「学生が1年間でフォーミュラカーの設計・製作を1から行い、車両性能や設計力、コスト、プレゼンテーションなどを総合的に競う「学生フォーミュラ大会」に毎年挑戦しています」（https://www.plotonline.com/gakusei-formula/newsdetail.html?id=233265・1回目）
+  - 「ノーマルのサイドスタンドはノーマルの車高を想定して設計されているため、」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「ノーマルポジションとほとんど変わらない位置から、形状や接地面の角度にこだわり設計することにより、ドライビングのぺダルワークをサポートいたします」（https://www.plotonline.com/news/detail.html?id=233971・1回目）
+  - 「当日はプロトとアエラとのによる「KATANA専用」ハンドルをはじめ、オリジナル商品スウェッジラインブレーキホースやブレンボ、プロトブレンボ、ビーライン、スウエッジライン、エフェックスローダウンの展示・販売等をはじめ専門スタッフによるご相談も対応いたします」（https://www.plotonline.com/news/detail.html?id=233922・1回目）
+  - 「当日はプロトとアエラとのによる「KATANA専用」ハンドルをはじめ、オリジナル商品スウェッジラインブレーキホースやブレンボ、プロトブレンボ、ビーライン、スウエッジライン、エフェックスローダウンの展示・販売等をはじめ専門スタッフによるご相談も対応いたします」（https://www.plotonline.com/news/detail.html?id=233767・1回目）
+  - 「ニュースリリース | 株式会社プロト(PLOT)」（https://www.plotonline.com/news/・1回目）
+  - 「【AKRAPOVIC】KAWASAKI Z1100 26年モデル用アクラポビッチJMCA政府認証マフラーの販売開始！」（https://www.plotonline.com/news/・1回目）
+  - 「【AKRAPOVIC】 SUZUKI GSX-8シリーズ用アクラポビッチJMCA政府認証マフラーの販売開始！」（https://www.plotonline.com/news/・1回目）
+  - 「【AKRAPOVIC】HONDA CBR650R & CB650R 2024-2026年(STD & E-Clutch)モデル用アクラポビッチJMCA政府認証マフラーの販売開始！」（https://www.plotonline.com/news/・1回目）
+  - 「【AKRAPOVIC】YAMAHA YZF-R9 2025-26年モデル用JMCA政府認証マフラーの販売開始！」（https://www.plotonline.com/news/・1回目）
+  - 「【AKRAPOVIC】Z900RS ’26モデル用等3モデル アクラポビッチJMCA認証マフラーの販売開始！」（https://www.plotonline.com/news/・1回目）
+- 誰に：
+  - 「個人のお客様はこちら」（https://www.plotonline.com/・1回目）
+  - 「業者のお客様はこちら」（https://www.plotonline.com/・1回目）
+  - 「【重要】aRacer(エーレーサー)製コンプリートECU をご購入いただいたお客様へ」（https://www.plotonline.com/・1回目）
+  - 「個人のお客様」（https://www.plotonline.com/・1回目）
+  - 「個人のお客様はこちら」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「業者のお客様はこちら」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「2025.05.30 【重要】aRacer(エーレーサー)製コンプリートECU をご購入いただいたお客様へ」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「2019.04.22 IGAYAツーリングシートバッグをご購入いただいたお客様へ」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「2009.11.01 プロト スウェッジライン ブレーキホースをご使用のお客様へ 重要なお知らせ」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「2000.01.01 スウェッジラインのアルファード用をご使用のお客様へ重要なお知らせ」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「個人のお客様」（https://www.plotonline.com/news/noticeslist.html・1回目）
+  - 「個人のお客様はこちら」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+- お金の形：
+  - 「お手頃な価格なサングラス”DANG SHADES” 取り扱い開始」（https://www.plotonline.com/・1回目）
+  - 「価格(税込)：5,280円」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「価格(税込)：10,780円」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「価格(税込)：15,400円」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「参加料金：5,000円（税込）＊別途参加費等が必要です」（https://www.plotonline.com/news/detail.html?id=233998・1回目）
+  - 「価格(税込)：54,890円」（https://www.plotonline.com/news/detail.html?id=233773・1回目）
+  - 「【告知】 2023年2月1日より『NEOPLOT』全商品価格改定いたします」（https://www.plotonline.com/news/・1回目）
+  - 「【イベント中止とイベント価格販売期間のお知らせ】4月25日(土)-5月6日(水) フェア in A PITオートバックス東雲」（https://www.plotonline.com/news/・1回目）
+  - 「■DANG SHADES アメリカ生まれのお手軽価格な、高いデザイン性と高機能なサングラス 取り扱い開始」（https://www.plotonline.com/plotnews.html・1回目）
+  - 「【告知】 2023年2月1日より『NEOPLOT』全商品価格改定いたします」（https://www.plotonline.com/news/index.html・1回目）
+  - 「【イベント中止とイベント価格販売期間のお知らせ】4月25日(土)-5月6日(水) フェア in A PITオートバックス東雲」（https://www.plotonline.com/news/index.html・1回目）
+  - 「2022.01.25 ＧＥＶ６００価格変更のご案内」（https://www.plotonline.com/news/infolist.html・1回目）
+- いくら：
+  - 「価格(税込)：5,280円」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「価格(税込)：10,780円」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「価格(税込)：15,400円」（https://www.plotonline.com/news/detail.html?id=234124・1回目）
+  - 「当日MOTONE CUSTOMSの商品をご購入いただくと、10000円毎に」（https://www.plotonline.com/news/detail.html?id=234114・1回目）
+  - 「参加料金：5,000円（税込）＊別途参加費等が必要です」（https://www.plotonline.com/news/detail.html?id=233998・1回目）
+  - 「期間中、対象のブレンボ製ブレーキパッド、ディスクローター、ブレーキフルードを合計10,000円（税込）以上ご購入いただき、SNSへ製品の写真または動画を投稿のうえ、専用応募フォームよりご応募いただいたお客様の中から、抽選で50名様に「Bremboオリジナル非売品バックパック」をプレゼントいたします」（https://www.plotonline.com/news/detail.html?id=233947・1回目）
+  - 「期間中にBremboの4輪補修用のブレーキパッド、ディスクローター、ブレーキフルードを合計10,000円（税込）以上ご購入ください」（https://www.plotonline.com/news/detail.html?id=233947・1回目）
+  - 「当日はプロトとアエラとのによる「KATANA専用」ハンドルをはじめ、オリジナル商品スウェッジラインブレーキホースやブレンボ、プロトブレンボ、ビーライン、スウエッジライン、エフェックスローダウンの展示・販売等をはじめ専門スタッフによるご相談も対応いたします」（https://www.plotonline.com/news/detail.html?id=233922・1回目）
+  - 「展示商品： ・ブレンボ・アクラポビッチ・プロトブレンボ・ビーライン・スウエッジライン・EFEEXローダウン・プロトアエラ別注ハンドル」（https://www.plotonline.com/news/detail.html?id=233922・1回目）
+  - 「当日はプロトとアエラとのによる「KATANA専用」ハンドルをはじめ、オリジナル商品スウェッジラインブレーキホースやブレンボ、プロトブレンボ、ビーライン、スウエッジライン、エフェックスローダウンの展示・販売等をはじめ専門スタッフによるご相談も対応いたします」（https://www.plotonline.com/news/detail.html?id=233767・1回目）
+  - 「展示商品： ・ブレンボ・アクラポビッチ・プロトブレンボ・ビーライン・スウエッジライン・EFEEXローダウン・プロトアエラ別注ハンドル」（https://www.plotonline.com/news/detail.html?id=233767・1回目）
+  - 「価格(税込)：54,890円」（https://www.plotonline.com/news/detail.html?id=233773・1回目）
+- 検索結果の抜粋：
+  - 「代理店 情報を追加更新しました | 株式会社 プロト (PLOT) — 代理店 情報を追加更新しました | 株式会社 プロト (PLOT) plotonline.com https://www.plotonline.com > news > detail」（https://www.plotonline.com/news/detail.html?id=10847・3回目）
+  - 「バイクパーツを探すなら株式会社 プロト (PLOT)｜厳選バイク ... — バイクパーツを探すなら株式会社 プロト (PLOT)｜厳選バイク ... plotonline.com https://www.plotonline.com」（https://www.plotonline.com/・3回目）
+  - 「プロト オンラインストア — プロト オンラインストア plotonlinestore.com https://plotonlinestore.com > 商品 > PICK UP アイテム」（https://plotonlinestore.com/?srsltid=AYCX9vIZ9xWgaIzLfhxTeBkBg29IIlsODTIQk9f_YRKIrcZj6YnW1ieh・3回目）
+  - 「プロト バイクパーツ＆用品【公式】 (@plot_p2) / X — プロト バイクパーツ＆用品【公式】 (@plot_p2) / X X https://x.com > plot_p2」（https://x.com/plot_p2・3回目）
+  - 「プロト タイピングとは？開発手法やツール、 事例 を解説 — プロト タイピングとは？開発手法やツール、 事例 を解説 Monstarlab https://monstar-lab.com > Home > ビジネス」（https://monstar-lab.com/dx/solution/about-prototyping/・3回目）
+  - 「プロト タイピングとは？重要性・解決できる課題・種類 ... — プロト タイピングとは？重要性・解決できる課題・種類 ... Goodpatch https://goodpatch.com > Goodpatch Blog > 用語解説」（https://goodpatch.com/blog/what-is-technical-prototype・3回目）
+  - 「ビジネスの不確実性に立ち向かう プロト タイピング手法 — ビジネスの不確実性に立ち向かう プロト タイピング手法 Sony Acceleration Platform https://sony-acceleration-platform.com > article612」（https://sony-acceleration-platform.com/article612.html・3回目）
+  - 「プロト タイピングとは？メリットや注意点、7つの手法 ... — プロト タイピングとは？メリットや注意点、7つの手法 ... ウイングアーク１ｓｔ https://data.wingarc.com > prototyping-meaning-62434」（https://data.wingarc.com/prototyping-meaning-62434・3回目）
+  - 「よくあるご質問 - プロトコンセプト — よくあるご質問 - プロトコンセプト プロトコンセプト https://proto-c.jp > pages > faq」（https://proto-c.jp/pages/faq・3回目）
+  - 「プロト コンセプト―PROTOCONCEPT GOLF - Instagram — プロト コンセプト―PROTOCONCEPT GOLF - Instagram Instagram https://www.instagram.com > proto_concept」（https://www.instagram.com/proto_concept/・3回目）
+  - 「プロト の新車・中古バイクを探す - ウェビック バイク選び — プロト の新車・中古バイクを探す - ウェビック バイク選び ウェビック バイク選び https://moto.webike.net > PLOT > list」（https://moto.webike.net/PLOT/list/?totalPayment=1&extask=1&clr=04・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索5回）
+
+## ヘガネスジャパン株式会社
+- 公式URL：https://www.hoganas.com（given）
+- 誰から：
+  - 「We know our customers’ business – and their customers’ business too. Höganäs is your innovative partner for cost-effective, lighter and durable products based on high-performance powder materials.」（https://www.hoganas.com/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/batteries/products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/high-temperature-brazing/products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/filter-media/products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/pressing-sintering/products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/soft-magnetic-materials/products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/surface-coating/products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/welding/welding-products/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/powder-technologies/products/re-portfolio/・1回目）
+  - 「As the global leader in advanced ceramic and metal powders, we help our customers reduce material use, improve efficiency, and accelerate the transition to more sustainable technologies. Our ambition is to lead the transformation of our industry and become the globally preferred partner for sustainable powder materials – driven by our vision: Driving positive change through material innovation.」（https://www.hoganas.com/en/powder-technologies/products/re-portfolio/・1回目）
+  - 「Innovation partners」（https://www.hoganas.com/en/services/・1回目）
+  - 「Partner up with us to get support from our many technical experts and full access to our state-of-the-art testing and laboratory equipment. We also offer customised training, both online and on site, so that you can increase productivity and efficiency.」（https://www.hoganas.com/en/services/・1回目）
+- 何をする：
+  - 「設計とシミュレーション」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「技術サポート」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「トレーニング」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「エンドユーザー セミナー」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「セールス・技術サポート」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「詳細情報およびご要望は、各販売会社にお問い合わせください」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「セミナー・イベント」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「２）JMAG登録済み材料による初期磁気設計の検討支援」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「TECHNO-FRONTIER 2025 モータ技術展へ出展のご案内（公式リリースに先駆けてSomaloy(R) 最新開発材をご紹介）」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「会場では、公式リリースに先駆けて最新開発材のご案内をいたします」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「●2025年Q4にリリースする新グレードをいち早くご紹介」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「展示会場におきまして、当社もセミナーを行いますので、」（https://pr.mono.ipros.com/hoganas/・3回目）
+- 誰に：
+  - 「加工処理業界」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「お客様固有のカスタム金属粉」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「エンドユーザー セミナー」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「お客様の個人データは、ニュースレターやその他の関連情報などのマーケティング目的で Höganäs に使用される場合があります」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「お客様の個人情報の取り扱いについての詳細は」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「また私たちは、部品用途から非部品用途まで幅広い分野に対し、化学組成、粒子径、形状を最適化した高性能金属粉末を提供し、設計・プロセスの最適化を通じてお客様とともに価値創造を行う技術パートナーです」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「入力ミス削減により社員の精神的な負担軽減も実現｜RPA導入事例・実績｜RoboTANGO」（https://robotango.biz/case/hoganas/・3回目）
+  - 「お客様からの注文書のPDFデータをDX Suiteで読み込み、テキストをデータ化してExcelファイルとしてダウンロード」（https://robotango.biz/case/hoganas/・3回目）
+  - 「2つのロボットはどちらも同じ入出荷業務を行うものですが、お客様によって入出庫の内容が異なるため、別のロボを作成しました」（https://robotango.biz/case/hoganas/・3回目）
+  - 「入出荷業務が1日で20件程度とお話しましたが、フォーマットがお客様によってバラバラで、現状ではまだそのうちの2つにしか対応できていません」（https://robotango.biz/case/hoganas/・3回目）
+  - 「「RoboTANGO 導入事例集」」（https://robotango.biz/case/hoganas/・3回目）
+  - 「導入事例集をダウンロード」（https://robotango.biz/case/hoganas/・3回目）
+- お金の形：
+  - 「粉末の取り扱い」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「粉末床熱融解法」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「粉末床レーザー融解法」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「粉末ファインダー」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「アルミニウム系粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「コバルト系合金粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「ニッケル系合金粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「鉄系合金粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「- 構造部品用金属粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「- 工具鋼粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「耐熱合金粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+  - 「低合金系粉末」（https://www.hoganas.com/ja/powder-technologies/batteries/products/・1回目）
+- いくら：
+  - 「Q：こちらの3Dプリンターを日本円で買うとおいくら位でしょうか？」（https://news.sharelab.jp/3dp-news/metal-3dprinter/hoganas-japan-before-tct/・3回目）
+  - 「一台7千万円となっております」（https://news.sharelab.jp/3dp-news/metal-3dprinter/hoganas-japan-before-tct/・3回目）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/hoganas-japan-before-tct/・3回目）
+  - 「Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円」（https://news.sharelab.jp/3dp-news/metal-3dprinter/hoganas-japan-before-tct/・3回目）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/metal-3dprinter/hoganas-japan-before-tct/・3回目）
+  - 「2020年の売上高約350億円」（https://pr.mono.ipros.com/hoganas/news/category/2/・3回目）
+  - 「部品は長さ98mmの円筒状で、この一つの中に以下に示す様々な構造が含まれています」（https://pr.mono.ipros.com/hoganas/news/category/2/・3回目）
+  - 「・厚さ0.2mmの薄肉部（円筒全体は厚さ1mm）」（https://pr.mono.ipros.com/hoganas/news/category/2/・3回目）
+- 検索結果の抜粋：
+  - 「ヘガネスジャパン 株式会社 - Powered by イプロスものづくり — ヘガネスジャパン 株式会社 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > hoganas」（https://pr.mono.ipros.com/hoganas/・3回目）
+  - 「ヘガネスジャパン 株式会社のカタログ・会社概要・製品情報 — ヘガネスジャパン 株式会社のカタログ・会社概要・製品情報 Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/32274/・3回目）
+  - 「指輪から人工衛星まで！ ヘガネスジャパン の高精度金属3D ... — 指輪から人工衛星まで！ ヘガネスジャパン の高精度金属3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/hoganas-japan-before-tct/・3回目）
+  - 「事例 集 「金属粉の応用例」 | ヘガネスジャパン - イプロス — 事例 集 「金属粉の応用例」 | ヘガネスジャパン - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > すべての製品・サービス」（https://pr.mono.ipros.com/hoganas/product/detail/2000070650/・3回目）
+  - 「ヘガネスジャパン | 企業情報 | イプロスものづくり — ヘガネスジャパン | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 鉄/非鉄金属」（https://mono.ipros.com/company/detail/310999/・3回目）
+  - 「ニュース | ヘガネスジャパン - Powered by イプロスものづくり — ニュース | ヘガネスジャパン - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > ニュース」（https://pr.mono.ipros.com/hoganas/news/category/2/・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像8件／外部10頁・検索4回）
+
+## ヘレウス株式会社（Heraeus Japan）
+- 公式URL：https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/（given）
+- 誰から：
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/location-china-shanghai/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/location-zhaoyuan-changshu/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/location-taiwan/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/location-hanau/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/location-wehrheim/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/heraeus-worldwide/location-kleinostheim/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/about-heraeus/facts-and-figures/・1回目）
+  - 「Partnership」（https://www.heraeus.com/en/news-and-stories/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/news-and-stories/・1回目）
+  - 「Supplier and Partner」（https://www.heraeus.com/en/services/media-contacts/・1回目）
+- 何をする：
+  - 「場所と販売代理店」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「ヘラウス・エレクトロ・ナイト販売部」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「拠点と販売店」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「紹介/販売パートナー募集」（https://www.legalontech.com/jp/usecase/heraeus・3回目）
+  - 「東京都文京区にある本社には、応用技術ラボも併設しており、導電性ポリマーの開発、カスタマイゼーション、サンプル調製、技術サポートを行っております」（https://japan.ahk.de/ja/membership/member-directory/heraeus-k.k.・3回目）
+- 誰に：
+  - 「私たちは、すべてのお客様のそばにいます」（https://www.heraeus-electronics.com/ja/about-heraeus-electronics/about-us/locations/・3回目）
+  - 「お客様のそばに」（https://www.heraeus-electronics.com/ja/about-heraeus-electronics/about-us/locations/・3回目）
+  - 「お客様の該当する国を選択してください」（https://www.heraeus-electronics.com/ja/about-heraeus-electronics/about-us/locations/・3回目）
+  - 「お客様の該当する国を選択してください」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (Australia)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (Czech Republic, Slovakia, Hungary, Austria)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (Belgium)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (Brazil)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (Canada)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (China)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (Finland)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+  - 「溶融金属用顧客接触センサー (France)」（https://www.heraeus-electro-nite.com/ja/Locations-and-Distributors/・3回目）
+- お金の形：
+  - 「貴金属価格とレポート」（https://www.heraeus-precious-metals.com/ja/・3回目）
+  - 「ヘレウスの貴金属価格の現在および過去の価格をご覧ください」（https://www.heraeus-precious-metals.com/ja/・3回目）
+  - 「プラチナ、金、銀、パラジウム、ロジウム、イリジウム、ルテニウムの貴金属価格の変動を、当社のインタラクティブなチャートでご覧ください」（https://www.heraeus-precious-metals.com/ja/・3回目）
+- いくら：
+  - 「外資系企業特有の「本社の決裁」というハードルを乗り越え、大幅な業務効率化を実現した同社に、LegalForceの導入経緯や活用法を聞きました」（https://www.legalontech.com/jp/usecase/heraeus・3回目）
+  - 「2021年における総売上は日本円で約3兆8,300億円にのぼり、全世界で約16,200名の従業員が働いています」（https://www.legalontech.com/jp/usecase/heraeus・3回目）
+- 検索結果の抜粋：
+  - 「ヘレウス グループについて — ヘレウス グループについて Heraeus Group https://www.heraeus.com > ...」（https://www.heraeus.com/ja/・3回目）
+  - 「ヘレウス ・エレクトロニクス | 所在地 - Heraeus Electronics — ヘレウス ・エレクトロニクス | 所在地 - Heraeus Electronics Heraeus Electronics https://www.heraeus-electronics.com > ... > 会社概要」（https://www.heraeus-electronics.com/ja/about-heraeus-electronics/about-us/locations/・3回目）
+  - 「Heraeus K.K. / ヘレウス 株式会社 - AHK Japan — Heraeus K.K. / ヘレウス 株式会社 - AHK Japan AHK Japan https://japan.ahk.de > member-directory > heraeus-k.k.」（https://japan.ahk.de/ja/membership/member-directory/heraeus-k.k.・3回目）
+  - 「拠点 - Heraeus Epurio — 拠点 - Heraeus Epurio Heraeus Epurio https://www.heraeus-epurio.com > ... > ヘレウス Epurio」（https://www.heraeus-epurio.com/ja/about-heraeus-epurio/locations/・3回目）
+  - 「ヘレウス 株式会社 | LegalForce（リーガルフォース） 導入事例 — ヘレウス 株式会社 | LegalForce（リーガルフォース） 導入事例 LegalOnTech.com https://www.legalontech.com > トップ > 導入事例」（https://www.legalontech.com/jp/usecase/heraeus・3回目）
+  - 「ヘレウス - Wikipedia — ヘレウス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ヘレウス」（https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AC%E3%82%A6%E3%82%B9・3回目）
+  - 「ヘレウス ・プレシャスメタルズについて — ヘレウス ・プレシャスメタルズについて Heraeus Precious Metals https://www.heraeus-precious-metals.com > ... > 会社」（https://www.heraeus-precious-metals.com/ja/company/about/・3回目）
+- 設立：記載なし（3回確認済み：公式30頁／PDF・画像17件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像17件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像17件／外部9頁・検索4回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像17件／外部9頁・検索4回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像17件／外部9頁・検索4回）
+
+## ホッティーポリマー株式会社
+- 公式URL：https://www.hotty.co.jp（given）
+- 設立：1951年（昭和26年）3月23日（https://www.hotty.co.jp/company_profile/・1回目）
+- 設立：1987年11月（https://www.hotty.co.jp/company_profile/・1回目）
+- 設立：2011年2月（https://www.hotty.co.jp/company_profile/・1回目）
+- 従業員数：105名 グループ合計 154名 (上記 2024年8月現在)（https://www.hotty.co.jp/company_profile/・1回目）
+- 事業内容：ゴム・プラスチック製品の製造販売（スポンジ製品、多色複合押出製品、メタルインサート製品、ジョイントプレス加工、高機能搬送ローラー、成形品） 3Dプリンターの開発・販売、及び3Dプリンター用フィラメントの開発・製造・販売、3D造形受託加工サービス（https://www.hotty.co.jp/company_profile/・1回目）
+- 事業内容：①高機能ゴム押出製品、コンプレッション製品 NR・SBR・CR・NBR・EPDM・Q・FKM他 ②高機能樹脂押出製品、インジェクション製品 TPE・PVC・PP・PE・PS・ABS・PC・スーパーエンジニアリングプラスチック・植物由来プラスチック 他 ③3Dプリンター、及びフィラメント、受託造形サービス MEX、SLA、LCD、LAM方式3Dプリンター、及びMEX3Dプリンター用フィラメント（https://www.hotty.co.jp/company_profile/・1回目）
+- 事業内容：工業用ゴム製品の製造、販売 ゴムローラー・ゴムベルトの設計、製造、販売 セラミックローラーの設計、製造、販売 （高機能搬送ローラー、ゴム×プラスチック架橋結合複合材用配合ゴム「ラジカロック」）（https://www.hotty.co.jp/company_profile/・1回目）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+- 誰から：
+  - 「従来の輸入品モデルは練習使用後全て廃棄をしており、それをコストダウン出来ないかとのご案件でした」（https://www.hotty.co.jp/case_study/・1回目）
+  - 「自社開発 シリコーンゴム 100% 3Dプリンター「SILICOM」開発・発表」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「自社開発 シリコーンゴム 100% 3Dプリンター「SILICOM」スタンダードタイプ/デスクトップタイプ販売開始」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「スワニー社と提携し「デジタルモールド/デザインファクトリー」導入、サービス開始」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「株式会社中野製作所と資本業務提携」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「自社開発スライサーソフト搭載」（https://www.hotty.co.jp/product/silicom/・1回目）
+  - 「【AI搭載】自社開発シリコム専用スライサーソフトを搭載 （特許取得済）」（https://www.hotty.co.jp/product/silicom/・1回目）
+  - 「シリコムにはAI搭載の自社開発オリジナルスライサーソフトを使用いたします」（https://www.hotty.co.jp/product/silicom/・1回目）
+  - 「自社開発設備を活用し、シリコンなどの柔軟素材からスーパーエンプラをはじめとする高機能樹脂まで、幅広いニーズにお応えします」（https://www.hotty.co.jp/product/silicom/・1回目）
+  - 「弊社はスワニー社と提携し、100～3,000個までの」（https://www.hotty.co.jp/news_post/20230614_01/・1回目）
+  - 「弊社は有限会社スワニーと提携し、仕事をしながらハードウェアエンジニアを最速で育成できる」（https://www.hotty.co.jp/news_post/20230614_01/・1回目）
+  - 「自社開発シリコーンゴム100%3Dプリンター」（https://www.hotty.co.jp/product/footvision_ai/・1回目）
+- 何をする：
+  - 「3Dプリンターコンサルティング」（https://www.hotty.co.jp/・1回目）
+  - 「フィラメント開発・製造・販売」（https://www.hotty.co.jp/・1回目）
+  - 「光造形機用レジンの販売」（https://www.hotty.co.jp/・1回目）
+  - 「3Dプリンターの開発・販売」（https://www.hotty.co.jp/・1回目）
+  - 「受託加工サービス」（https://www.hotty.co.jp/・1回目）
+  - 「３D骨モデル データ作成・造形サービス」（https://www.hotty.co.jp/・1回目）
+  - 「3Dプリンターでの受託加工による試作から、」（https://www.hotty.co.jp/・1回目）
+  - 「ニュースリリース」（https://www.hotty.co.jp/・1回目）
+  - 「3Dプリンターの開発・販売、MEX方式3Dプリンター用フィラメントの製造・販売、3D造形サービス等、3Dプリンターの導入や3Dプリンターを活用した開発・製造のソリューションをご提案致します」（https://www.hotty.co.jp/・1回目）
+  - 「３Dプリンターコンサルティング」（https://www.hotty.co.jp/・1回目）
+  - 「データ作成・造形サービス」（https://www.hotty.co.jp/・1回目）
+  - 「3D大型受託造形サービス」（https://www.hotty.co.jp/・1回目）
+- 誰に：
+  - 「お客様のニーズに応じて最適な素材や形状のご提案をさせていただきます」（https://www.hotty.co.jp/・1回目）
+  - 「お客様の仕様にあった製品の加工ができます」（https://www.hotty.co.jp/・1回目）
+  - 「ホッティーポリマーでは、長年に渡る研究・開発・製造の中で培った豊富な経験と数々の実績から、お客様のニーズに応じて最適なご提案をさせていただきます」（https://www.hotty.co.jp/・1回目）
+  - 「お客様のニーズに応じて最適な素材や形状の」（https://www.hotty.co.jp/・1回目）
+  - 「ホッティーポリマーは、「ホットな技術・情報で、最適ソリューション」をキャッチフレーズにお客様の課題解決に全力で取り組み、今日まで成長してきました」（https://www.hotty.co.jp/・1回目）
+  - 「ホッティーポリマー株式会社は、長年にわたりゴム・樹脂製品の開発・製造に携わるなかで培ってきた技術と経験を礎に、お客様のものづくりを支えてまいりました」（https://www.hotty.co.jp/・1回目）
+  - 「製品を形にすることだけを目的とせず、お客様の用途やお困りごとを丁寧にくみ取り、素材の特性や技術を活かしたより良い方法をともに考えることが、私たちの役割です」（https://www.hotty.co.jp/・1回目）
+  - 「豊富な経験に基づく技術力を磨き続け、安心して相談できる存在として、お客様との信頼関係を築いてまいりました」（https://www.hotty.co.jp/・1回目）
+  - 「お客様のニーズに応じて最適な素材や形状のご提案をさせていただきます」（https://www.hotty.co.jp/3d_service/・1回目）
+  - 「お客様の仕様にあった製品の加工ができます」（https://www.hotty.co.jp/3d_service/・1回目）
+  - 「また、受託・加工サービスとして、経験豊富な技術者が、お客様のご要望に合わせて柔軟に対応いたします」（https://www.hotty.co.jp/3d_service/・1回目）
+  - 「ホッティーポリマー株式会社は、お客様の多様な製作ニーズに応える3Dプリンターサービスを展開しております」（https://www.hotty.co.jp/3d_service/・1回目）
+- お金の形：
+  - 「低価格・高速造形」（https://www.hotty.co.jp/・1回目）
+  - 「アーチファクト除去 見積りシステム」（https://www.hotty.co.jp/・1回目）
+  - 「材料費の低減と軽量化を図り、ロスの大幅な低減とコストの低減が可能です」（https://www.hotty.co.jp/3d_service/resin/・1回目）
+  - 「粉末焼結積層法」（https://www.hotty.co.jp/3d_service/3d_device/・1回目）
+  - 「レンタル料として、」（https://www.hotty.co.jp/3d_service/3d_device/・1回目）
+  - 「リース料総額」（https://www.hotty.co.jp/3d_service/3d_device/・1回目）
+  - 「物件価格の110～120%程度」（https://www.hotty.co.jp/3d_service/3d_device/・1回目）
+  - 「契約期間により物件価格以下も可能」（https://www.hotty.co.jp/3d_service/3d_device/・1回目）
+  - 「※1ファイナンスリースは原則的には解約不可、解約時は残リース料金を一括で精算します」（https://www.hotty.co.jp/3d_service/3d_device/・1回目）
+  - 「また、3Dプリンターでの製作においては、内部を中空やハニカム状にすることも可能なため、無垢でしか製作出来ない切削加工に比べ材料費の低減と軽量化を図ることが可能です」（https://www.hotty.co.jp/3d_service/consignment/・1回目）
+  - 「また、3Dプリンターでの製作においては内部を中空やハニカム状にすることも可能なため、無垢でしか製作出来ない切削加工に比べ材料費の低減と軽量化を図ることが可能です」（https://www.hotty.co.jp/3d_service/consignment/・1回目）
+  - 「実施にはRTV接着用金型の製作が必要ですが、上述の加硫ジョイント金型に比べ価格はお安くなります」（https://www.hotty.co.jp/extrusion/processing/・1回目）
+- いくら：
+  - 「2,000万円」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「1,000万円」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「33,000,000Baht（約1億円）」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「堀田ゴム工業株式会社に改組（資本金50万円）」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「資本金1,000万円に増資」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「資本金2,000万円に増資」（https://www.hotty.co.jp/company_profile/・1回目）
+  - 「1,500円以下」（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+  - 「1,500-10,000円」（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+  - 「10,000-50,000円」（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+  - 「50,000-100,000円」（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+  - 「100,000円以上」（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+  - 「21,780円（税込）」（https://i-maker.jp/ic/hotty?srsltid=AYCX9vKXzlwWohQpgZN1FZe_GihKof1VP7cB4DU3XT0uU4-yoDp16piV・3回目）
+- 検索結果の抜粋：
+  - 「「 ホッティーポリマー 」の 代理店 7社 注目ランキング【2026年】 — 「 ホッティーポリマー 」の 代理店 7社 注目ランキング【2026年】 Metoree https://metoree.com > ... > ホッティーポリマー株式会社」（https://metoree.com/companies/3655/distributors/・3回目）
+  - 「代理店 | ホッティーポリマー (株) - 製品ナビ — 代理店 | ホッティーポリマー (株) - 製品ナビ 製品ナビ https://www.incom.co.jp > ... > ホッティーポリマー(株)」（https://www.incom.co.jp/corporation/agency_branch.php?company_id=4939・3回目）
+  - 「東京都の「 ホッティーポリマー 」の 代理店 4社 - Metoree — 東京都の「 ホッティーポリマー 」の 代理店 4社 - Metoree Metoree https://metoree.com > ... > ホッティーポリマーの代理店」（https://metoree.com/companies/3655/distributors/tokyo/・3回目）
+  - 「ホッティーポリマー の3Dプリンター事業が選ばれる 7つの理由 — ホッティーポリマー の3Dプリンター事業が選ばれる 7つの理由 hotty.co.jp https://www.hotty.co.jp > ... > 3Dプリンター本体」（https://www.hotty.co.jp/product/3dprinting7reasons/・3回目）
+  - 「【開発・製造 事例 】スベアップ（2） | ホッティーポリマー — 【開発・製造 事例 】スベアップ（2） | ホッティーポリマー 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > ガスケット」（https://pr.mono.ipros.com/hotty/product/detail/2000422392/・3回目）
+  - 「ホッティーポリマー 株式会社様｜クリーンブース 導入 の経緯 — ホッティーポリマー 株式会社様｜クリーンブース 導入 の経緯 蒲田工業 https://www.kamata.co.jp > お客様取材記」（https://www.kamata.co.jp/html/report/11.html・3回目）
+  - 「ホッティーポリマー のゴム成形の特徴や 事例 について解説 — ホッティーポリマー のゴム成形の特徴や 事例 について解説 rubber-soko.com https://www.rubber-soko.com > ゴム成形メーカー一覧」（https://www.rubber-soko.com/list/hotty.html・3回目）
+  - 「ホッティーポリマー - モノタロウ — ホッティーポリマー - モノタロウ モノタロウ https://www.monotaro.com > ブランド一覧」（https://www.monotaro.com/s/b-9095/?srsltid=AYCX9vKO1rz2Rn70RVmK42PZvo0TBEXxTVcs__Px6DGpPNCR5c_aQLDk・3回目）
+  - 「ホッティーポリマー — ホッティーポリマー hotty.co.jp https://www.hotty.co.jp」（https://www.hotty.co.jp/・3回目）
+  - 「ホッティーポリマー (ホッティ)HPフィラメント一覧 - i-MAKER — ホッティーポリマー (ホッティ)HPフィラメント一覧 - i-MAKER アイ・メーカー https://i-maker.jp > ... > 3Dプリンター用フィラメント」（https://i-maker.jp/ic/hotty?srsltid=AYCX9vKXzlwWohQpgZN1FZe_GihKof1VP7cB4DU3XT0uU4-yoDp16piV・3回目）
+  - 「ホッティーポリマー 株式会社 3Dプリンター&フィラメント ... — ホッティーポリマー 株式会社 3Dプリンター&フィラメント ... Instagram https://www.instagram.com > hotty_polymer」（https://www.instagram.com/hotty_polymer/・3回目）
+  - 「ホッティーポリマー 株式会社 - 出展社詳細 — ホッティーポリマー 株式会社 - 出展社詳細 ものづくり ワールド https://www.manufacturing-world.jp > search > directory」（https://www.manufacturing-world.jp/osaka/ja-jp/search/2026mdk1008/directory/directory-details.org-ec4c74b3-20a5-4fdc-83c3-1e56c67b9e1a.html・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像17件／外部9頁・検索4回）
+
+## ボリュームグラフィックス
+- 公式URL：特定できず（not_found）
+- 誰から：
+  - 「Hexagon と提携する世界中の革新的な企業のご紹介」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+- 何をする：
+  - 「■当社販売価格 （ドングルライセンス／2025年1月10日 現在）」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「設計値／実測値比較モジュール」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「産業用X線CT向けの解析ソフトウェアを開発・販売し、 「VGSTUDIO」 シリーズは同ジャンルにおける世界シェアの80％を占める」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「装置を保有し、X線CTの受託サービスを提供しています」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「設計値／実測値比較」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「販売価格 (税別) ※初年度のプレミアムサポート含む」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「工程で、製品を設計から製造まで把握」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「設計値／実測値比較」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「設計値／実測値比較モジュール」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「コンサルティングの大手企業であるFrost & Sullivanによる独自調査で、ボリュームグラフィックス」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「スクール・講習会」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「設計値/測定値比較モジュール」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+- 誰に：
+  - 「産業用CTを活用することで、多くのお客様が」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「ボリュームグラフィックスのユーザー」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「お客様のニーズ」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「ユーザー向け」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「くための貢献”、”ユーザーのニーズについての理解” が認められ、Frost & Sullivan’s 2018 Market」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「座標計測機能はCTデータのために開発されたもので、計測プランをCTスキャンに反映させる際、効率的かつ直観的なユーザーインターフェースで実行できます」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「・オブジェクト全体またはユーザーが任意で指定した」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「ユーザー定義で設定した値の範囲内で肉厚を計測することができます」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「業界全体で革新を底上げする当社のトップ技術」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+  - 「業界に変革を起こすソリューションを見る」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+  - 「すべてに一貫したソリューションではなく、業界固有のデータにカスタマイズされたソリューション」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+  - 「すべての顧客事例を見る」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+- お金の形：
+  - 「■当社販売価格 （ドングルライセンス／2025年1月10日 現在）」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「販売価格 (税別) ※初年度のプレミアムサポート含む」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「は、VGSTUDIO MAXライセンス、一連の」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「VGSTUDIO MAXのライセンスをお持ちであ」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「スライセンスのサポート期間に追従）」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「ついては、都度更新される製品情報ページを参」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「約（ベースライセンスのサポート期間に追従）が付随し」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「粉末を含む付加製造」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「詳細については、都度更新される製品情報」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「材料・消耗品」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「材料・消耗品一覧」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「建設の数量算出、見積もり、モデリングを提供し、プロジェクトのパフォーマンスを正確に定量化、計画、追跡します」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+- いくら：
+  - 「販売価格 (税別) ※初年度のプレミアムサポート含む」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「年間 プレミアムサポート (税別)」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「パッケージ&バンドル製品」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「ールバンドルをつけることが可能です」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「ションモジュールバンドルには、初年度のプ」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「> バンドル：オプションモジュールバンドルには、一連の」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「パッケージ／バンドル製品 幾何形状パック マテリアル」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「エルサルバドル」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+  - 「グアドループ(フランス海外県)」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+  - 「真円度・形状測定機『MarForm MMQ 400-2』」（https://mono.ipros.com/product/detail/2000061800/・3回目）
+- 検索結果の抜粋：
+  - 「VG_Sales_2025 - jtla.co.jp — ボリュームグラフィックス社 産業用X線CT向けの解析ソフトウェアを開発・販売し、「VGSTUDIO」シリーズは同ジャンルにおける世界シェアの80%を占める」（https://jtla.co.jp/news/VG_Sales_2025.pdf・3回目）
+  - 「ソフトウェア | 製品情報 | X-Ray Syatems Corporation — Volume Graphics社の代理店です 世界標準のCT用解析ソフトウェアです ボリュームグラフィックス株式会社 | 産業用X線CTデータ解析ソフトウェア – volumegraphics.com Maplepix社製品の総代理店です 対象に合わせた画像加工・AI自動検査・モバイルCT用のソフトウェアをカスタマイズできます X線画像に ...」（https://x-ray-systems.com/製品情報/ソフトウェア/・3回目）
+  - 「産業用CT向けボリュームグラフィックスソフトウェア — 産業用CTを活用することで、多くのお客様が時間とコストを節減されています。この非破壊技術は非常に精密で、製品の中まで検査ができ、他の方法では発見し得なかった欠陥を検出できますが、産業用CTは適切なソフトウェアを組み合わせてこそ、その力を発揮します。ボリューム ...」（https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-002bdd98-be51-4f49-9c01-097fe073fc70/bc3a1366-df88-4f18-8b0c-0703c5ddc631.pdf・3回目）
+  - 「VGStudio MAX - システムクリエイト — その他数多くのモジュールを展開 VGSTUDIO MAXは、ボリュームグラフィックスが提供する全機能を搭載可能です。 市場のニーズの高まりに応じて多様なオプションモジュールを組み合わせることで、より幅広い解析業務に対応することができます。」（https://systemcreate-inc.co.jp/products/vgstudio・3回目）
+  - 「産業用CTスキャンソリューション | Hexagon — CT解析ソフトウェアで次元を超えた視点 Hexagonの一部であるボリュームグラフィックスは、産業用コンピュータ断層撮影用のソフトウェアを提供します。CT解析の詳細」（https://hexagon.com/ja/solutions/ct-analysis・3回目）
+  - 「VGStudio ボリュームグラフィックス | イプロスものづくり — ボリュームグラフィックスのVGStudioの技術や価格情報などをご紹介。産業および学術的なCT／ボクセルデータ処理および可視化において世界的に広く使用されているソフトウェアイプロスものづくりではその他検査機器・装置など製造業向けの情報を多数掲載。応相談応相談」（https://mono.ipros.com/product/detail/2000061800/・3回目）
+  - 「産業用CT向けボリュームグラフィックス VGSTUDIO | ボリュームグラフ... — シンプルなCTデータ可視化ソリューション VGSTUDIOは産業用アプリケーションでの目視検査に最適な選択です。エレクトロニクス産業に限らず、考古学、地学、生命科学といった学術分野などで幅広く利用されています。CTスキャナで取得した画像を使用した3次元ボリュームデータの再構成*から ...」（https://metoree.com/products/51149/・3回目）
+  - 「弊社について - 企業情報 — ボリュームグラフィックスが25年以上前に開発したVGSTUDIOは、産業用CTデータの可視化と解析のパイオニアです。 弊社はお客様のニーズに合わせて技術を向上させるため、業界のリーダーと共に進化してきました。」（https://volumegraphics.hexagon.com/jp/company/who-we-are.html・3回目）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）
+- 取引先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）
+
+## マテリアライズジャパン株式会社
+- 公式URL：特定できず（not_found）
+- 設立：2004年01月（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+- 設立：2004年01月（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+- 設立：1990年（https://www.iryokiki-tenshoku.jp/company/5032/・3回目）
+- 従業員数：26名（https://www.iryokiki-tenshoku.jp/company/5032/・3回目）
+- 誰から：
+  - 「ＳＴＬのエキスパートとして、工業・医療分野を中心に幅広いお客様にＳＴＬを活用していただける自社開発ソフトウエア製品の販売、アフターサポートを行っております」（https://www.atengineer.com/pr/materialise/company・3回目）
+  - 「MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社およびDigiFabster社と提携、また3D造形による量産事例を紹介 | マテリアライズジャパン株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「MaterialiseはCO-AM用の包括的プロセス品質システム ��を発表、Ansys社およびDigiFabster社と提携、また3D造形による量産事例を紹介」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「Materialiseは、先端製造企業向けのクラウドベースのSAAS見積自動化およびeコマースソリューション企業であるDigiFabster社と提携いたします」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「「Materialiseと提携することで、近代的な顧客体験をもたらし、ユーザーが期限内に決済を受けられるよう支援するデジタル製造ワークフローを提供できるようになります」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「」Materialise の Senior Director Partnerships である Karel Brans は述べています」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社およびDigiFabster社と提携、また3D造形による量産事例を紹介」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+- 何をする：
+  - 「ＳＴＬのエキスパートとして、工業・医療分野を中心に幅広いお客様にＳＴＬを活用していただける自社開発ソフトウエア製品の販売、アフターサポートを行っております」（https://www.atengineer.com/pr/materialise/company・3回目）
+  - 「Materialise 、3つのニーズに合わせたソリューションと新しい自動化技術でオープンソフトウェア戦略を加速 | マテリアライズジャパン株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「プレスリリース・ニュースリリース配信サービスのPR TIMES」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「プレスリリースを受信」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「CO-AMは、製造業各社がそれぞれのAM（積層造形）の道のりのどの段階にいようとも、それに応えるように設計されたソリューションを提供し、進化し続けています:」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「Materialiseのプロフェッショナルサービスにサポートされたこれらの提供ソリューションにより、お客様はそれぞれの生産ニーズに合わせてCO-AMソリューションを設計、実装、事業規模に合わせて展開できます」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「CO-AM Brixで設計された自動化ワークフローは即座に実行でき、対話型のプロジェクトはシームレスな改訂追跡機能とともにMagicsで開くことができます」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「これは、お客様があらゆる他社製の造形準備ツールと作業できる柔軟性を提供するために設計されています」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「プレスリリース素材」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「このプレスリリース内で使われている画像ファイルがダウンロードできます」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「プレスリリース」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「ニュースリリース配信サービス」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+- 誰に：
+  - 「ＳＴＬのエキスパートとして、工業・医療分野を中心に幅広いお客様にＳＴＬを活用していただける自社開発ソフトウエア製品の販売、アフターサポートを行っております」（https://www.atengineer.com/pr/materialise/company・3回目）
+  - 「新技術とニーズに合わせたソリューションの導入により、CO-AMは、あらゆるユーザー、アプリケーション、そして装置を接続するオープンで安全なソフトウェア・エコシステムへと進化します」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「これは、業界で高まるワークフロー自動化と相互運用性のニーズに対応するため、3つのニーズに合わせたCO-AMソリューションと新しい実現技術を導入するものです」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「私たちは、一般的なユーザーから高度な利用者まで、市場の具体的なニーズに応えるために提供内容を調整しています」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「NPIおよびEnterpriseソリューションを提供することで、お客様が自信を持ってAMを規模拡大できるよう支援します」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「あらゆるユーザー、あらゆるアプリケーション、あらゆる装置に対応」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「Materialiseのプロフェッショナルサービスにサポートされたこれらの提供ソリューションにより、お客様はそれぞれの生産ニーズに合わせてCO-AMソリューションを設計、実装、事業規模に合わせて展開できます」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「CO-AMは、既製品のシステムではなく、設定可能な統合・制御するための司令塔（オーケストレーションレイヤー）として、製造業各社の環境に組み込まれ、すべてのユーザー、すべてのアプリケーション、そしてすべての装置を繋ぎます」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「「AM業界には、ツールを繋ぎ、ワークフローを自動化するエコシステムが必要です」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「CO-AMは、その知識を業界全体のために活用する方法なのです」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「この環境では、お客様はデータを交換し、技術を統合し、カスタマイズされたAMワークフローを指揮することができます」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「これは、お客様があらゆる他社製の造形準備ツールと作業できる柔軟性を提供するために設計されています」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+- お金の形：
+  - 「料金・プラン」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「製造業のお客様は、24時間365日の対応と迅速な見積もりの受け取りを期待しています」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「Materialiseは、先端製造企業向けのクラウドベースのSAAS見積自動化およびeコマースソリューション企業であるDigiFabster社と提携いたします」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「DigiFabster社のeコマースポータル、自動見積もりと原価計算、支払い自動化機能は、Materialise CO-AMソフトウェアプラットフォームに組み込まれます」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「完全にホワイトラベル化されたeコマース・ポータルは、機械学習を利用して製造業者の見積もりプロセスの自動化と迅速化をサポートし、時間とコストを節約します」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「同時に、彼らの顧客は24時間いつでも見積もりを受け取ることができます」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「少量生産のための価格競争力のある技術としてAMを選択することで、Sartorius社はデザインの最適化を可能にし、市場投入までの時間を短縮することができました」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「料金・プラン」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「配置の密度を高めて一度のビルドで多くのパーツを配置し、時間、粉末、廃棄物を節約します」（https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/ncBCx0q9j-s・3回目）
+- いくら：
+  - 「カスタマーサポートを円滑にしてビジネスプロセスを加速させることはCO-AMとの統合により、CO-AMの注文管理システムでの注文データの合理的な管理を可能にします」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+- 検索結果の抜粋：
+  - 「マテリアライズ ジャパン株式会社 - 会社概要 — マテリアライズ ジャパン株式会社の事業概要 2004年2月1日より、「Materialise N.V.」（本社：ベルギー）のソフトウエア事業部門日本代表部であった「マテリアライズ日本支社」を発展的に閉鎖し、「マテリアライズジャパン株式会社」として日本法人化致しました。 STLのエキスパートとして ...」（https://www.atengineer.com/pr/materialise/company・3回目）
+  - 「Materialise 、3つのニーズに合わせたソリューションと新しい自動化技... — Nov 19, 2025 · マテリアライズジャパン株式会社のプレスリリース（2025年11月19日 10時03分）Materialise 、3つのニーズに合わせたソリューションと新しい自動化 ...」（https://prtimes.jp/main/html/rd/p/000000028.000076712.html・3回目）
+  - 「MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社... — Nov 7, 2023 · マテリアライズジャパン株式会社のプレスリリース（2023年11月7日 14時02分）MaterialiseはCO-AM用の包括的プロセス品質システム を発表、Ansys社および ...」（https://prtimes.jp/main/html/rd/p/000000021.000076712.html・3回目）
+  - 「Materialise - 【お客様事例紹介 その1】 マテリアライズのお客様事例... — Jan 24, 2014 · マテリアライズジャパンは『formnext forum TOKYO2023』に出展いたします。 また、展示会の目 玉イベントである出展者プレゼンテーションでは当社 の開発した新しいソリューションについてご紹介をい たします。 【出展者プレゼンテーションのご案内】」（https://www.facebook.com/MaterialiseJapan/posts/お客様事例紹介-その１マテリアライズのお客様事例をご紹介しますge-aviationの子会社avioaero社のamアディティブマニュファクチャリングの新工場が/567393686688710/・3回目）
+  - 「Materialise - CASE STUDYーCarpenter Additive社の事例紹介... | Fac... — Apr 20, 2023 · マテリアライズジャパンは『formnext forum TOKYO2023』に出展いたします。 また、展示会の目 玉イベントである出展者プレゼンテーションでは当社 の開発した新しいソリューションについてご紹介をい たします。」（https://www.facebook.com/MaterialiseJapan/posts/case-studyーcarpenter-additive社の事例紹介carpenter-additive社は様々な産業のお客様からの情報や部門からの複雑で多様/8937797939628084/・3回目）
+  - 「マテリアライズジャパン株式会社 — マテリアライズジャパン株式会社の会社・求人情報 - 「医療機器転職.jp」は医療機器業界専門の転職サポート、求人情報サイトです。転職エージェントである株式会社ジェイシーエルコンサルティングが運営しています。医療機器メーカーの豊富な求人情報を掲載、業界情報を提供しています。」（https://www.iryokiki-tenshoku.jp/company/5032/・3回目）
+  - 「マテリアライズジャパン | 出展者詳細 | TCT Japan| 国内最大級3Dプリ... — GPUによる変形予測を活用した最適なサポート設計に加え、変形予測に基づく造形方向の提案・比較機能も新たに搭載。 効率化の詳細は、ぜひマテリアライズジャパンのブースでご確認ください。 デモも承ります！」（https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/ncBCx0q9j-s・3回目）
+  - 「マテリアライズジャパン株式会社 | evort — ベルギーに本社を構えるMaterialiseは、30年以上にわたる3Dプリントの経験と専門知識を活かし、さまざまなソフトウェアソリューションと3Dプリントサービスを提供してきました。これにより、パートナー企業やユーザーのプロジェクトを支援しています。 また、Materialiseはドイツのブレーメンに ...」（https://evort.jp/presenters/materialise・3回目）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部9頁・検索7回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部9頁・検索7回）
+- 取引先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部9頁・検索7回）
+
+## ヤマウチマテックス株式会社
+- 公式URL：https://titanium-omakase.com/（search:ddgs:google:ヤマウチマテックス）
+- 誰から：
+  - 「チタンを加工して部品製造業者へ卸す、商流の“川中“に位置する業務を主としますが、小売や自社製品開発まで、幅広く手掛けています」（https://titanium-omakase.com/・1回目）
+- 何をする：
+  - 「深い専門知識と経験に基づいたコンサルティングができるのも私たちの強みです」（https://titanium-omakase.com/・1回目）
+  - 「製品の設計、原料から製造、流通にいたるまで、厳しい品質管理体制を確立し、製品の安全性確保に努めています」（https://titanium-omakase.com/・1回目）
+  - 「佐々木勝敏建築設計事務所」（https://kenchiku.co.jp/yamauchimatex/・3回目）
+- 誰に：
+  - 「お客様が最適な材料、加工方法に出会えるよう、全力でご提案します」（https://titanium-omakase.com/・1回目）
+  - 「新規の業界の方からのご相談もお待ちしてます！」（https://titanium-omakase.com/・1回目）
+  - 「そのゴール達成に向けて、私たちはお客様に全力で伴走し、最高の製品を作り出すことを目指します」（https://titanium-omakase.com/・1回目）
+- 検索結果の抜粋：
+  - 「チタンの塑性加工・眼鏡部品 | ヤマウチマテックス株式会社 — 多くの部品の元となる材料を扱うヤマウチマテックスでは、品質管理を企業の存続に関わる重要な事項のひとつとして位置づけています。 製品の設計、原料から製造、流通にいたるまで、厳しい品質管理体制を確立し、製品の安全性確保に努めています。」（http://www.matex.co.jp/・3回目）
+  - 「会社案内 | チタンの塑性加工・眼鏡部品 | ヤマウチマテックス株式会...チタン加工にお悩みならば、ヤマウチマテックスにおまかせ！ | ヤマウ...YAMAUCHI CORP【チタン材屋さん】ヤマウチマテックス (@matex_titanman) / X代理店・取扱店を検索｜正規代理店・全国対応|Metoree「マテックス」の代理店・取扱店 - indexPro — 会社案内 | チタンの塑性加工・メガネ部品のヤマウチマテックス株式会社 Oct 14, 2021 · 医療機器の部品の製造に、ヤマウチマテックスさんのチタン製品を採用しています。 難削材であるチタンの加工は弊社の不得意分野でしたが、ヤマウチマテックスさんと出会い、最適な加工条件などを親身に考えていただきました。 ヤマウチ株式会社のWEBサイト。製品のラインナップ、サポート情報、採用情報などをご紹介しています。 チタン加工の専」（http://www.matex.co.jp/Company・3回目）
+  - 「チタン加工にお悩みならば、ヤマウチマテックスにおまかせ！ | ヤマウ... — Oct 14, 2021 · 医療機器の部品の製造に、ヤマウチマテックスさんのチタン製品を採用しています。 難削材であるチタンの加工は弊社の不得意分野でしたが、ヤマウチマテックスさんと出会い、最適な加工条件などを親身に考えていただきました。」（http://titanium-omakase.com/・3回目）
+  - 「【チタン材屋さん】ヤマウチマテックス (@matex_titanman) / X — チタン加工の専門集団 ヤマウチマテックス株式会社 (福井県)の公式アカウント。 めがねフレーム国内生産シェア90%以上を誇る福井・鯖江の縁の下の力持ち。 チタンの力を引きだす加工技術で医療器具の部材からアウトドア製品まで開発。」（https://x.com/matex_titanman・3回目）
+  - 「ヤマウチマテックス コンペ - kenchiku.co.jp — お問い合わせ／質疑応答 ヤマウチマテックスHD株式会社 コンペ事務局」（https://kenchiku.co.jp/yamauchimatex/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+- いくら：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部4頁・検索5回）
+
+## ヤマザキマザック
+- 公式URL：https://www.mazak.co.jp/（search:ddgs:bing:ヤマザキマザック）
+- 設立：1919年（https://www.wingarc.com/product/usecase/206.html・3回目）
+- 設立：1919年 （ 大正 8年）（https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF・3回目）
+- 従業員数：8,429名（グループ合計）（https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF・3回目）
+- 売上高：非公開（https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF・3回目）
+- 事業内容：CNC工作機械・自動化システム・生産支援ソフトウェア・レーザ加工機等の開発・生産・販売・輸出（https://www.wingarc.com/product/usecase/206.html・3回目）
+- 事業内容：CNC工作機械・レーザー加工機等、工作機械の製造・販売（https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF・3回目）
+- 誰から：
+  - 「search_distributors_by_manufacturer(」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「ヤマザキマザックの正規代理店はどこですか？」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「正規代理店と取扱店の違いは何ですか？」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「正規代理店はメーカーが公式に認定した販売網です」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「販売代理店一覧」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「「パートナー」または「partner」と」（https://www.aperza.com/catalog/page/10010124/63024/・3回目）
+  - 「米大統領、ロボットと産業機械の輸入を安全保障の脅威と認定し180日の交渉へ」（https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/・3回目）
+- 何をする：
+  - 「正規代理店はメーカーが公式に認定した販売網です」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「一次代理店（特約店・正規販売店とも呼ばれます）は、メーカーと直接契約して取り扱う販売会社です」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「保守サービス」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「トレーニング」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「テクノロジーセンタは、最新アプリケーションの展示、部品加工技術の相談、設備コンサルティング、各種トレーニングなど、お客様へテクノロジーソリューションを提供するサポート拠点です」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「帳票コンサルティング」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「データ活用コンサルティング」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「イベント・セミナー」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「販売代理店一覧」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「「使った順番ごと」にタグをスキャンしてデータがたまっていくため、そのデータを使って「組付け手順」の検証と改善を行ったり、組立て易い製品設計へ活かしたりすることもできるようになるのだ」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「「とくに試作は組立手順も試行錯誤しながらですから、生産現場と開発担当者がそういうデータをもとに協力し合って、より良い製品開発へ貢献できるような取り組みも進めているところです」と石田氏は語る」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「事業内容 :CNC工作機械・自動化システム・生産支援ソフトウェア・レーザ加工機等の開発・生産・販売・輸出」（https://www.wingarc.com/product/usecase/206.html・3回目）
+- 誰に：
+  - 「ヤマザキマザックは、世界各国にテクノジーセンタ・テクニカルセンタを配置し、全世界でお客様の身近な場所から迅速なサポートをご提供します」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「テクノロジーセンタは、最新アプリケーションの展示、部品加工技術の相談、設備コンサルティング、各種トレーニングなど、お客様へテクノロジーソリューションを提供するサポート拠点です」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「テクニカルセンタは、お客様により近い場所でセールス及びサービス活動を迅速に行うためのサポート拠点です」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「ヤマザキマザック株式会社 | 導入事例｜ウイングアーク１ｓｔ」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「導入事例一覧」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「ユーザーサポート」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「ユーザーコミュニティ」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「ユーザーコミュニティ「nest」」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「そこで同社は、美濃加茂製作所の再編をきっかけに、新たな物流管理のBIを開発できれば、自社の他工場のみならず、同じ課題をかかえる顧客に対しても、改善例の一つとして提案できるだろうと考えたのだ」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「今回のツールについても、自分たちが使うだけであれば、最低限の機能的要素を満たしていればいいわけですが、工場見学に来ていただくお客様の目にも触れる以上、それにふさわしい意匠性をそなえていることが重要です」」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「なぜなら、工作機械メーカーである同社は、工作機械のユーザーでもある」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「自社の製品を顧客に提案する最適な場所は、実際に自社の工作機械を使っている工場の現場なのだ」（https://www.wingarc.com/product/usecase/206.html・3回目）
+- お金の形：
+  - 「問い合わせ・見積 ↗」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「運営・データの集め方・料金」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「設備・消耗品・その他」（https://www.aperza.com/catalog/page/10010124/63024/・3回目）
+  - 「製品に関して I サービスに関して I 各種キャンペーンに関して I お見積依頼 I 一般的なご質問」（https://www.aperza.com/catalog/page/10010124/63024/・3回目）
+  - 「小型マシニングセンタの目安価格」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「ヤマザキマザックの小型マシニングセンタの価格は、「UN-600/30V」が」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「※上記は本体価格のため、オプションの有無などによって価格が変動します」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「コスト削減が叫ばれている製造業において、価格のはどうしても気になるもの」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「このサイトでは、小型マシニングセンタを導入する際に重視したい「価格」「サポート」「精度」の3つのポイントごとにおすすめの小型マシニングセンタメーカーを紹介しています」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「「価格」「サポート」「精度」」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「「価格」「サポート」」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「グローバルテクノス：価格記載があり、本体価格が一番安い」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+- いくら：
+  - 「20億円（単純合計 136億 2,000万円）」（https://www.aperza.com/catalog/page/10010124/63024/・3回目）
+  - 「1,991万円」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「（税込）、「UN-600/30H」が」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「2,750万円」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「（税込）です」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「500万円～」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「20億円（グループ合計:136億2000万円）」（https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF・3回目）
+  - 「デュッセルドルフ」（https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF・3回目）
+  - 「写真1枚でペットを3Dフィギュア化、DMMが1980円からの新サービス開始」（https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/・3回目）
+  - 「落とし物タグを自作できる29ドルの開発ボード、AppleとGoogle両対応」（https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/・3回目）
+  - 「150万円台から買える金属3Dプリンター、Scrap Labsが発表」（https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/・3回目）
+  - 「曲げてカットできるフィラメントLED、模型電飾用に8色展開で780円」（https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/・3回目）
+- 検索結果の抜粋：
+  - 「ヤマザキマザックの取扱代理店一覧【15社・代理店側の掲載】｜ディス... — Oct 11, 2026 · ヤマザキマザックは代理店一覧を公式サイトで公開していません（2026-10-11 時点で確認）。 ここに載せている15社は、 各代理店が自社サイトで「取り扱っている」と掲載している もので、出典はすべて代理店側のページです。」（https://distymap.com/manufacturers/yamazaki-mazak・3回目）
+  - 「「ヤマザキマザック」の代理店217社 注目ランキング【2026年】| Metor... — 代理店注目ランキング導出方法について 代理店注目ランキングは、2026年11月時点でのヤマザキマザックの代理店ページ内でのクリックシェアを基に算出しています。クリックシェアは、対象期間内の全企業の総クリック数を各企業のクリック数で割った値を指します。」（https://metoree.com/companies/14413/distributors/・3回目）
+  - 「サポート拠点 - 企業情報 | ヤマザキマザック — ヤマザキマザックのサポート拠点 - 企業情報のご紹介」（https://www.mazak.com/jp-ja/about-us/support-bases/・3回目）
+  - 「保守サービス - サービス & サポート | ヤマザキマザック株式会社TSコミュニケーションズ｜ヤマザキマザック代理店メグマシナリー株式会社「ヤマザキ」の代理店5社 注目ランキング【2026年】| Metoree — マザックの製品を末長くご使用いただくために、定期点検と高精度デジタル測定器を使用したメンテナンスサービスを提供しております。 測定結果はお渡ししますので、品質マネージメントシステム ISO-9001 取得にも効果的です。 使用期間、機種に応じて便利なパッケージタイプで注文いただけ ... Apr 14, 2021 · ヤマザキマザック代理店 株式会社TSコミュニケーションズ 愛知、岐阜、中部地区を中心に中日本、東日本、西日本、四国、九州、東北、北海道に販売いたします。 Jan 1, 2026 · メグマシナリー株式会社はヤマザキマザック株式会社の代理店です。工作機械のご用命は」（https://www.mazak.com/jp-ja/service-support/after-support/・3回目）
+  - 「株式会社TSコミュニケーションズ｜ヤマザキマザック代理店 — Apr 14, 2021 · ヤマザキマザック代理店 株式会社TSコミュニケーションズ 愛知、岐阜、中部地区を中心に中日本、東日本、西日本、四国、九州、東北、北海道に販売いたします。」（https://ts-com.jp/・3回目）
+  - 「ヤマザキマザック株式会社 | 導入事例｜ウイングアーク1st — Apr 8, 2020 · ヤマザキマザック株式会社 「RFIDタグで工場内のすべてのモノを可視化したい」 現場の期待値を超え続ける、独自の物流管理BI「ID TRACKING PLUS」 post：2020.04.08」（https://www.wingarc.com/product/usecase/206.html・3回目）
+  - 「ヤマザキ マザック株式会社 - スマートファクトリー事例 - Cisco【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュー...ヤマザキマザック株式会社様｜導入事例｜ITソーシング｜NSSOLのITサー...過去の工作機械 導入事例 | マザックアイティ株式会社ヤマザキマザックの自動化提案 - Mazak — 大手工作機械メーカーのヤマザキ マザックは、スマートファクトリーの実現を目指しています。IoT を活用して収集した生産データを生産の最適化や製品の品質向上、カーボンニュートラルに役立てるためです。そのために様々なシスコ製品を利用しています。 【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ主導の解決策を提案（シスコシステムズ合同会社）のカタログ無料ダウンロードページです。｜大手工作機械メーカーのヤマザキ マザック。早」（https://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/2293-mazak.html・3回目）
+  - 「【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュー...ヤマザキマザック株式会社様｜導入事例｜ITソーシング｜NSSOLのITサー...過去の工作機械 導入事例 | マザックアイティ株式会社ヤマザキマザックの自動化提案 - Mazak — 【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ主導の解決策を提案（シスコシステムズ合同会社）のカタログ無料ダウンロードページです。｜大手工作機械メーカーのヤマザキ マザック。早くからグローバル市場を視野に入れ、1970年代 ... ヤマザキマザック株式会社が日鉄ソリューションズ（NSSOL）の伴走型プロフェッショナルサービスxSource（クロスソース）を用い、新たなIT戦略を策定した事例をご紹介。当社のアセットをカスタマイズして活用し効率的な戦略作成を実現しました。 ヤマザキマザック」（https://www.aperza.com/catalog/page/10010124/63024/・3回目）
+  - 「ヤマザキマザック株式会社様｜導入事例｜ITソーシング｜NSSOLのITサー... — ヤマザキマザック株式会社が日鉄ソリューションズ（NSSOL）の伴走型プロフェッショナルサービスxSource（クロスソース）を用い、新たなIT戦略を策定した事例をご紹介。当社のアセットをカスタマイズして活用し効率的な戦略作成を実現しました。」（https://www.itis.nssol.nipponsteel.com/it-sourcing/case/yamazakimazak/・3回目）
+  - 「過去の工作機械 導入事例 | マザックアイティ株式会社 — ヤマザキマザック㈱製NC旋盤QUICK TURN NEXUS 200納入報告 ヤマザキマザック（株）製 マルチタスキングマシン ヤマザキマザック（株）製 マルチタスキングマシン ヤマザキマザック（株）製 横型マシニングセンタ ヤマザキマザック（株）製 CNC旋盤」（https://mazakit.jp/archive/case.html・3回目）
+  - 「【ヤマザキマザック】重視ポイントで選ぶおすすめ小型マシニングセン...製品情報 | ヤマザキマザックヤマザキマザック 即納機・短納期情報 | タカハシ機販工作機械のヤマザキマザック株式会社 - 旋盤, マシニングセンタ, 複合...ヤマザキマザック 工作機械 の中古販売価格│中古建機ならグロースパワ...P001492 横型マシニングセンター ヤマザキマザック H400 | 株式会社 ... — 小型マシニングセンタの目安価格 ヤマザキマザックの小型マシニングセンタの価格は、「UN-600/30V」が 1,991万円 （税込）、「UN-600/30H」が 2,750万円 （税込）です。 ※上記は本体価格のため、オプションの有無などによって価格が変動します。 「VARIAXIS」シリーズをはじめとして、豊富なラインアップと自動化システム対応により、様々なお客様のニーズにお応えします。一度の段」（https://www.smallmc-focus.com/manufacturer/mazak.html・3回目）
+  - 「ヤマザキマザック 即納機・短納期情報 | タカハシ機販 — Apr 24, 2026 · ヤマザキマザックの販売情報。新品も中古も機械のことならタカハシ機販にお任せください。」（https://www.takahashi-kihan.net/category/item/new-machines/mazak/・3回目）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索5回）
+
+## ヤマト科学株式会社
+- 公式URL：https://www.yamato-net.co.jp/（given）
+- 設立：1946/11/27（https://www.monotaro.com/s/b-1713/・3回目）
+- 従業員数：445名（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+- 従業員数：117名（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+- 従業員数：796名（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+- 売上高：665.6億円（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+- 売上高：154.6億円（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+- 売上高：436.6億円（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+- 取引先：主な納入先（https://www.yamato-net.co.jp/・1回目）
+- 取引先：主な納入先（https://www.yamato-net.co.jp:443/・1回目）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/s/b-1713/・3回目）
+- 誰から：
+  - 「販売代理店様専用サイト Yeye」（https://www.yamato-net.co.jp/・1回目）
+  - 「販売代理店網」（https://www.yamato-net.co.jp/・1回目）
+  - 「販売代理店様専用サイト Yeye」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「販売代理店網」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「販売代理店様専用サイト Yeye」（https://www.yamato-net.co.jp/company/・1回目）
+  - 「販売代理店網」（https://www.yamato-net.co.jp/company/・1回目）
+  - 「国内外の販売代理店を掲載しております」（https://www.yamato-net.co.jp/company/・1回目）
+  - 「販売代理店様専用サイト Yeye」（https://www.yamato-net.co.jp/support/・1回目）
+  - 「販売代理店網」（https://www.yamato-net.co.jp/support/・1回目）
+  - 「販売代理店様専用サイト "Yeye" へリンクします」（https://www.yamato-net.co.jp/support/・1回目）
+  - 「販売代理店様専用サイト Yeye」（https://www.yamato-net.co.jp/product/category/index/・1回目）
+  - 「販売代理店網」（https://www.yamato-net.co.jp/product/category/index/・1回目）
+- 何をする：
+  - 「特別価格販売」（https://www.yamato-net.co.jp/・1回目）
+  - 「レンタル・中古機販売・受託試験・サンプルテスト」（https://www.yamato-net.co.jp/・1回目）
+  - 「販売代理店様専用サイト Yeye」（https://www.yamato-net.co.jp/・1回目）
+  - 「販売代理店網」（https://www.yamato-net.co.jp/・1回目）
+  - 「展示会・セミナー情報」（https://www.yamato-net.co.jp/・1回目）
+  - 「施設計画、基本設計、実施計画、施工・移送、保守管理に至るまで、新設・移転に関するすべての業務をお任せください」（https://www.yamato-net.co.jp/・1回目）
+  - 「【10/23(金)開催】理科研主催ウェビナーAI for Science時代の「スマートラボ」推進セミナー～前処理ロボティクスと分析機器連携が拓く、研究・検査DXの最前線～」（https://www.yamato-net.co.jp/・1回目）
+  - 「【10/16(金)開催】ヤマト科学・ベリタス共催 第1回 ハンズオンセミナー「オルガノイド研究の最前線 ～作製・培養・成熟化を支える最新技術と応用事例～」」（https://www.yamato-net.co.jp/・1回目）
+  - 「【9/24(木)~26(土)開催】日本癌学会学術総会 出展およびランチョンセミナー開催のご案内」（https://www.yamato-net.co.jp/・1回目）
+  - 「フーリエ変換赤外分光装置 FT-IR「Nicolet Summit X限定セット特別販売キャンペーン」」（https://www.yamato-net.co.jp/・1回目）
+  - 「【9/28(月)対面開催】オックスフォード・インストゥルメンツ主催セミナー AFMで解き明かす摩擦と機械特性 ～Veroによる次世代マテリアル評価～」（https://www.yamato-net.co.jp/・1回目）
+  - 「設計～施工～什器までをワンストップで対応」（https://www.yamato-net.co.jp/・1回目）
+- 誰に：
+  - 「お客様サポート」（https://www.yamato-net.co.jp/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「お客様にとって最大のメリットであるワンストップテスティングの実現から世界市場へのアクセスを容易にします」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp/company/・1回目）
+  - 「お客様サポート｜ヤマト科学株式会社」（https://www.yamato-net.co.jp/support/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp/support/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp/product/category/index/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp/product/new/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp:443/product/category/science/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp:443/product/category/analysis/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp:443/product/category/laboratory/・1回目）
+  - 「お客様サポート」（https://www.yamato-net.co.jp/product/option/・1回目）
+- お金の形：
+  - 「試薬・消耗品」（https://www.yamato-net.co.jp/・1回目）
+  - 「特別価格販売」（https://www.yamato-net.co.jp/・1回目）
+  - 「製品お見積もりフォーム」（https://www.yamato-net.co.jp/・1回目）
+  - 「・旧型式特別価格」（https://www.yamato-net.co.jp/・1回目）
+  - 「カラム・消耗品」（https://www.yamato-net.co.jp/・1回目）
+  - 「ロータリーエバポレーター特別価格キャンペーン延長のお知らせ」（https://www.yamato-net.co.jp/・1回目）
+  - 「台数限定！Masterflex 07555シリーズ 特別価格キャンペーン」（https://www.yamato-net.co.jp/・1回目）
+  - 「試薬・消耗品」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「特別価格販売」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「製品お見積もりフォーム」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「当社科学機器を新古品特別価格で販売いたします」（https://www.yamato-net.co.jp/product/・1回目）
+  - 「カラム・消耗品」（https://www.yamato-net.co.jp/product/・1回目）
+- いくら：
+  - 「売上高 ：665.6億円」（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+  - 「売上高 ：154.6億円」（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+  - 「1,341億円」（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+  - 「売上高 ：436.6億円」（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+  - 「売上高 ：64.2億円」（https://files.yamato-net.co.jp/company/profile.pdf・2回目）
+  - 「1,500円以下」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「1,500-10,000円」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「10,000-50,000円」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「50,000-100,000円」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「100,000円以上」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「テーパーニードル ニードル固定型」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「定価約50万円」（https://www.blog-support.com/entry/yamato-scientific-catalog-support-guide・3回目）
+- 検索結果の抜粋：
+  - 「販売代理店網｜ヤマト科学株式会社 — 下の地図から各都道府県の販売代理店リストにリンクします。 ※地図中の地方名をクリックして、ご利用ください。 販売代理店リストを直接ご覧になる場合には、右の「国内販売代理店リスト」のボタンをクリックしてください。」（https://www.yamato-net.co.jp/company/agency/・3回目）
+  - 「｜Yeye - ヤマト科学 販売代理店様専用サイト — 4 days ago · センターセールスグループ（販売代理店様専用） 受付時間：9:00～12:00 / 13:00～17:00 ※土日・祝日振替休日を除く 0120-924-525 (フリーコール)」（https://yeye.yamato-net.co.jp/shop/default.aspx・3回目）
+  - 「「ヤマト科学」の代理店212社 注目ランキング【2026年】| Metoree — 実際の口コミ・ランキング・評価から比較・お選び頂けます。 上場している代理店には、杉本商事、 アズワンなどがあります。 2026年10月時点でのヤマト科学の代理店の注目ランキングは、1位: トラスコ中山、 2位: 遠藤科学、 3位: 杉本商事です。」（https://metoree.com/companies/17058/distributors/・3回目）
+  - 「ヤマト科学様との代理店契約 | 株式会社旭商会仙台店 — Aug 1, 2025 · ヤマト科学様と代理店契約を結びました。 今後、弊社の幅広い御得意様を活かし、ヤマト科学様の製品の拡販に努めますとともに ヤマト科学様の製品のご用命をどうぞよろしくお願いいたします。」（https://asahi-syokai.co.jp/お知らせ/ヤマト科学様との代理店契約/・3回目）
+  - 「販売代理店網 海外拠点｜ヤマト科学株式会社 — 会社情報 販売代理店網 海外拠点 YAMATO SCIENTIFIC AMERICA INC. 2040 Corporate Court, San Jose, California 95131, U.S.A TEL :+1-408-235-7725 FAX :+1-408-235-7730 YSA Major Distributors in U.S.A.: VWR International / Fisher Scientific / Daigger / Thomas Scientific / Allegiance YSA Dealers in other countries:」（https://www.yamato-net.co.jp/company/agency/world・3回目）
+  - 「事例・課題で探す｜ヤマト科学株式会社 — ヤマト科学Q&A ヤマト科学賞 お知らせ 新着情報 キャンペーン 展示会・セミナー情報 新製品情報 会社情報 会社概要 社長挨拶 SDGsへの取り組み 社是・企業理念 環境理念・環境方針 企業行動指針 会社の歴史 所在地情報 オフィス紹介 販売代理店網 主な仕入先 ...」（https://www.yamato-net.co.jp/product/theme/index/・3回目）
+  - 「ヤマト科学の恒温恒湿器を徹底解説｜特徴・シリーズ比較・導入事例 — ヤマト科学は、研究・試験に求められる温湿度制御を、プログラム運転機能や分かりやすく操作しやすいタッチパネルなど、確かな性能とユーザビリティで支えているメーカーです。」（https://www.tmp-humidity.com/maker-list/yamato.html・3回目）
+  - 「ヤマト科学の窒素ガス発生装置に関する特徴や導入事例について紹介。 — 様々な科学関連製品を手掛けており、1889年（明治22年）創業という歴史を有するヤマト科学。 そんな同社が手掛けている窒素ガス発生装置に関して、特徴や導入事例などをリサーチしました。」（https://www.nitgene-guide.com/maker/yamato.html・3回目）
+  - 「ヤマト科学株式会社 様｜導入事例 - coolex.jp — 導入の効果 作業者からは少し冷えすぎるとの意見もあった。 現在は作業服の上からCOOLEXウェアを着用し、その上から防護服をきているが冷却効果十分。 温度調整しながら使用中。 チラー本体とホースに塗装がかからないように工夫しながら使っている。」（https://coolex.jp/case/ヤマト科学株式会社-様/・3回目）
+  - 「【生産技術DX】3D組立手順書 Scene を理化学機器大手のヤマト科学が導... — 今回、Sceneの導入により、資料作成の時間を30%削減できたうえに、設計段階から図面を展開することが可能になったと言います。 Sceneの導入を推進した望月課長、渡邉様、井上様に、導入検討の背景やその後の効果について具体的にお伺いしました。」（https://www.scene.space/case/83.html・3回目）
+  - 「ヤマト科学 【通販モノタロウ】 最短即日出荷ヤマト科学株式会社【研究者・技術者向け】ヤマト科学の製品カタログ・価格・サポート情...科学機器 | ヤマト科学 WEBショップ - yamato-net.shop定温乾燥器 ヤマト科学 【通販モノタロウ】 — ヤマト科学 1889 (明治22)年創業以来、理科学機器・試験研究設備・分析計測機器・産業試験検査機器・医療機器のメーカーとして、また、研究開発全般及びものづくり・生産技術に必要な高度先端機器を取り扱う商社として、積極的な事業展開を図っています。 ヤマト科学は1889（明治22）年創業の理科学機器、研究施設、分析・計測機器、産業試験検査機器を取り扱うメーカー、商社です。革新的な製品とサービスを提供し、人類に幸福をもたらす科学技術の進歩発展に貢献します。 この記事では、そんな多忙な研究者や技術者の方々のために、 ヤマト科学 の「製品カタログ」（https://www.monotaro.com/s/b-1713/・3回目）
+  - 「ヤマト科学株式会社 — ヤマト科学は1889（明治22）年創業の理科学機器、研究施設、分析・計測機器、産業試験検査機器を取り扱うメーカー、商社です。革新的な製品とサービスを提供し、人類に幸福をもたらす科学技術の進歩発展に貢献します。」（https://www.yamato-net.co.jp/・3回目）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像4件／外部7頁・検索4回）
+
+## ユテクジャパン株式会社
+- 公式URL：http://www.eutectic.asia/（search:yahoo_jp:ユテクジャパン）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/・3回目）
+- 誰から：
+  - 「自社開発によるリング、シート、ワイヤ、ロッド、ペースト、専用プリフォームなど、さまざまな形態の溶加材金属を用いて、極めて耐食・耐摩耗性の高い接合・肉盛施工を致します」（http://www.eutectic.asia/job・1回目）
+  - 「ラブルを防ぐ独自技術と自社製品」（http://www.eutectic.asia/recruit2・1回目）
+- 何をする：
+  - 「【業 種】 溶接・溶射用機器・合金、セラミックス及びフラックスの製造、販売並びにその輸出入」（http://www.eutectic.asia/company2・1回目）
+  - 「溶接・溶射技術並びに工事のコンサルタント」（http://www.eutectic.asia/company2・1回目）
+  - 「生産設備の長寿命化などを目的とした溶接・溶射の材料や装置の販売、およびそれらを用いた工事の施工を行っています」（http://www.eutectic.asia/company・1回目）
+  - 「装置・材料販売」（http://www.eutectic.asia/job・1回目）
+  - 「ガス式には、 酸素・アセチレンを熱源として、熟練を必要としない簡単に使える「ユータロイ法」や、生産用に設計され、自溶合金、サーメット、セラミックスの溶射ができる「キャストダイン法」があります」（http://www.eutectic.asia/job・1回目）
+  - 「装置・材料の販売から溶接・溶射を用いた現地施工まで一貫して対応するワンストップのメンテンナンス・ソリューションが当社の特徴です」（http://www.eutectic.asia/recruit2・1回目）
+  - 「当社が販売する溶接機や溶射機の点検・修理・設置作業を行うのが技術サービス職の仕事です」（http://www.eutectic.asia/recruit2・1回目）
+  - 「お客様が抱える機械設備の摩耗などの課題に対し、摩耗箇所の材質や使用環境などから摩耗原因を見極め、最適な溶接材料、溶射材料、耐摩耗製品、機械装置の販売を行います」（http://www.eutectic.asia/recruit2・1回目）
+  - 「ユテクジャパン株式会社は、1906年創業のドイツ企業カストリン・ユーテック社の日本法人で、溶接・溶射の材料と機器の販売および工事施工を通じて、日本のものづくりを支えています」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+  - 「【研修】未経験でも安心？教育・サポート体制」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+  - 「ガス溶接・アーク溶接の資格取得、ラボトレーニング（デモンストレーション練習室での日々の技術練習）という具体的な内容が説明され、1年目の充実した研修を経て「不安がすぐ入社1～2ヶ月でなくなった」「技術を習得すれば今後の武器になる」という現役社員の実感が語られます」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+  - 「技術営業が実際にお客様のところで行うデモンストレーション、ラボトレーニングでの日々の技術練習、新規営業による日々の顧客開拓、そして実際の工場で行われる溶接・溶射作業の現場が映像で示されます」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+- 誰に：
+  - 「私たちの仕事は、ものづくりのお客様にコストメリットをもたらし、延いては地球環境を守ることに繋がります」（http://www.eutectic.asia/company・1回目）
+  - 「そして日本で60年以上の歴史を持つ当社が長年蓄積した知識・経験・施工技術を用いてお客様が抱える課題を解決します」（http://www.eutectic.asia/company・1回目）
+  - 「私たちのお客様」（http://www.eutectic.asia/company・1回目）
+  - 「自動車産業、製紙業、製鉄業、リサイクル産業、食品産業、ガラス工業、航空産業、エネルギー産業、農業、建設業など業種も規模も様々な全国4300社のお客様に当社の製品や施工サービスをご愛用いただいております」（http://www.eutectic.asia/company・1回目）
+  - 「業種や規模に関係なく、機械の摩耗や長寿命化でお困りであれば、どのような企業もお客様となり得る可能性が当社のビジネスにはございます」（http://www.eutectic.asia/company・1回目）
+  - 「1959年に設立したユテクジャパン株式会社（旧社名 日本ユテク株式会社）は、お陰様で多くのお客様に愛され成長を続けています」（http://www.eutectic.asia/company・1回目）
+  - 「グループ会社、仕入先、お客様を通して、活躍の舞台は世界にも広がります」（http://www.eutectic.asia/company・1回目）
+  - 「自社工場内でも、出張施工でも、お客様の設備環境に合わせた最適な溶接・溶射処理を行います」（http://www.eutectic.asia/job・1回目）
+  - 「お客様のもとへ足繁く通い、コミュニケーションを重ね、工場内を徹底的にリサーチする」（http://www.eutectic.asia/recruit2・1回目）
+  - 「当のお客様でさえ、本当のニーズをご存じないことも珍しくありません」（http://www.eutectic.asia/recruit2・1回目）
+  - 「だからこそ私たちに求められることは、数ある選択肢の中からお客様の要求と使用環境に最も適した解決方法を導き出し提案する事なのです」（http://www.eutectic.asia/recruit2・1回目）
+  - 「それでも溶接・溶射の効果をご存じないお客様が、日本にはまだまだいらっしゃいます」（http://www.eutectic.asia/recruit2・1回目）
+- お金の形：
+  - 「・リロクラブ（宿泊施設・レストラン・カラオケ・映画・スポーツ施設等割引、日常・育児・介護・学習支援、健康・メンタルケアなど会員価格で利用可能）」（http://www.eutectic.asia/・1回目）
+  - 「製造は1個から量産まで柔軟に対応致します」（http://www.eutectic.asia/job・1回目）
+  - 「交換作業が発生すればその都度、生産ラインはストップし、部品調達に時間やコストがかかれば大幅なロスが発生する」（http://www.eutectic.asia/recruit2・1回目）
+  - 「通勤手当（原則として月額5万円まで支給）※営業職はETC・給油カードを支給」（http://www.eutectic.asia/recruit2・1回目）
+  - 「リロクラブ（宿泊施設・レストラン・カラオケ・映画・スポーツ施設等割引、日常・育児・介護・学習支援、健康・メンタルケアなど会員価格で利用可能）」（http://www.eutectic.asia/recruit2・1回目）
+  - 「スーパーホテル法人契約（法人会員価格で利用可能）」（http://www.eutectic.asia/recruit2・1回目）
+  - 「ユテクジャパンはドイツに本社を置き、溶接・溶射技術におけるあらゆる消耗品、機器、サービスを世界中の4万人以上の顧客に提供する「Castolin Eutectic」の一員として日本で60年を超える歴史を持つ溶接・溶射の専門プロバイダ―です」（https://pr.mono.ipros.com/eutectic/・3回目）
+  - 「▶ Q3. 採用動画の制作費用・料金はどのくらいですか？投資対効果（ROI）は見合いますか？」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+  - 「A. 制作費用・料金は、ニーズにあわせたプランを複数ご用意しております」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+  - 「価格で絞り込む」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+  - 「価格で絞り込む」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/・3回目）
+  - 「粉末式フレーム溶射」（https://www.processing-thermalspray.com/company/eutectic.html・3回目）
+- いくら：
+  - 「【資本金】 授権資本金 6億円 払込済資本金 1億8,400万円」（http://www.eutectic.asia/company2・1回目）
+  - 「技術サービス職：350万円～750万円」（http://www.eutectic.asia/recruit2・1回目）
+  - 「営業職：400万円～650万円 ※原則として、営業職は概ね1年後より「固定給+コミッション併用制」へ移行」（http://www.eutectic.asia/recruit2・1回目）
+  - 「モデルケース（社歴別平均年齢と平均年収）：2年目 34.5歳 475万円、5年目 38.5歳 581万円、10年目 43.6歳 707万円」（http://www.eutectic.asia/recruit2・1回目）
+  - 「通勤手当（原則として月額5万円まで支給）※営業職はETC・給油カードを支給」（http://www.eutectic.asia/recruit2・1回目）
+  - 「1,500円以下」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+  - 「1,500-10,000円」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+  - 「10,000-50,000円」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+  - 「50,000-100,000円」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+  - 「100,000円以上」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/・3回目）
+  - 「1,500円以下」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/・3回目）
+  - 「1,500-10,000円」（https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/・3回目）
+- 検索結果の抜粋：
+  - 「「 ユテクジャパン 」の 代理店 3社 注目ランキング【2026年】 — 「 ユテクジャパン 」の 代理店 3社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > ユテクジャパン株式会社」（https://metoree.com/companies/1036156/distributors/・3回目）
+  - 「ユテクジャパン 株式会社 - Powered by イプロスものづくり — ユテクジャパン 株式会社 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > eutectic」（https://pr.mono.ipros.com/eutectic/・3回目）
+  - 「ユテクジャパン 株式会社 — ユテクジャパン 株式会社 ユテクジャパン株式会社 http://www.eutectic.asia」（http://www.eutectic.asia/・3回目）
+  - 「ユテクジャパン 株式会社様の導入事例 — ユテクジャパン 株式会社様の導入事例 フォスターリンク https://www.fosterlink.co.jp > introduction-results > eutectic」（https://www.fosterlink.co.jp/introduction-results/eutectic・3回目）
+  - 「ユテクジャパン株式会社の採用動画導入事例｜製造業界で選ばれる採用... — ユテクジャパン株式会社は、1906年創業のドイツ企業カストリン・ユーテック社の日本法人で、溶接・溶射の材料と機器の販売および工事施工を通じて、日本のものづくりを支えています。」（https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/・3回目）
+  - 「ユテクジャパン株式会社様の導入事例ユテクジャパン株式会社製造業の技術営業職採用で、なぜ『体験入社動画』が選ばれたのか。——...事業紹介 | ユテクジャパン株式会社基板表面クリーナーのユニテク株式会社｜高耐久・不良率低減溶射加工業者・日本ユテク （現ユテクジャパン）を大調査！ — 佐藤：当社は、ドイツに本社を置き、創業115年の歴史を持つCastolinグループの日本法人です。 ものづくりの現場の生産設備を磨耗・損耗から守るため、溶接・溶射の材料や装置の製造、販売、輸出入、そして、それらを用いた工事のコンサルタントや施工までを取り扱っています。 国内に11ヶ所の営業所と、6ヶ所の工場を持っており、現在171名（2022年6月現在）の従業員が属しています。 See full list on fosterlink.co.jp 佐藤：私たちが所属している財務部は現在7名体制で、給与まわりや資金管」（https://www.fosterlink.co.jp/introduction-results/eutectic・3回目）
+  - 「ユテクジャパン株式会社 — セクハラ防止の取り組み 個人情報保護方針 ユテクジャパンについて Castolin Eutectic の歩み ユテクジャパンのレジュメ 事業紹介 社内制度・職場環境 採用情報 募集要項 社員インタビュー 第3弾 社員インタビュー 第2弾 社員インタビュー 第1弾 エントリー お ...」（http://www.eutectic.asia/・3回目）
+  - 「溶射加工業者・日本ユテク （現ユテクジャパン）を大調査！ — 日本ユテクの会社特徴 1906年創業のCastolin Eutecticのグループ会社 ユテクジャパンは、115年の歴史をもつドイツ本社や世界のグループ会社。 そして60年以上の歴史をもっており、長年蓄積した知識や経験、施工技術を用いて、顧客の悩みを解決しています。」（https://www.processing-thermalspray.com/company/eutectic.html・3回目）
+  - 「事業紹介 | ユテクジャパン株式会社 — 長年の実績と信頼を誇る低熱入力溶接材料は、ガス棒、アーク棒、TIG棒からワイヤータイプまで、多種多様な製品をラインナップしています。 ユテクティック特有の共晶合金を成分とする汎用度の高いガス棒、アーク棒は、母材にかかる熱入力を抑えることで割れ・歪みなどが最小の溶接材料 ...」（http://www.eutectic.asia/job・3回目）
+  - 「"ユテクジャパン溶接棒" 【通販モノタロウ】 最短即日出荷 — 20件掲載中！"ユテクジャパン溶接棒"がモノタロウでお買得。【最短即日出荷 / 3,500円 (税別)以上配送料無料 / 請求書払いにも対応】」（https://www.monotaro.com/s/q-ユテクジャパン溶接棒/・3回目）
+  - 「"ユテクジャパン" 【通販モノタロウ】 最短即日出荷 — 20件掲載中！"ユテクジャパン"がモノタロウでお買得。【最短即日出荷 / 3,500円 (税別)以上配送料無料 / 請求書払いにも対応】」（https://www.monotaro.com/s/q-ユテクジャパン/・3回目）
+  - 「溶接材料一覧 | ユテクジャパン - Powered by イプロスものづくり — 溶接材料 長年の信頼と実績を誇るユテクジャパン独自の低熱入力溶接材料は、ガス棒、アーク棒、TIG棒からワイヤータイプまで幅広い製品を取り揃えております。 ユテクティック特有の共晶合金を成分とする汎用度の高いガス棒、アーク棒は、母材にかかる熱入力を抑えることで割れや歪み ...」（https://pr.mono.ipros.com/eutectic/product/category/38214/・3回目）
+- 設立：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）
+
+## リコージャパン株式会社
+- 公式URL：https://jp.ricoh.com/（search:yahoo_jp:リコージャパン）
+- 設立：1936年2月6日（https://jp.ricoh.com/about/facts・1回目）
+- 従業員数：75,635名（2026年3月31日現在）（https://jp.ricoh.com/about/facts・1回目）
+- 売上高：2兆6,083億円（2026年3月期）（https://jp.ricoh.com/about/facts・1回目）
+- 事業内容：デジタルサービス 複合機、プリンター、印刷機、広幅機、FAX、スキャナ、パソコン、サーバー、ネットワーク関連などの機器、および、関連する消耗品、サービス、サポート、ソフトウエア、ドキュメント関連サービス、ソリューションなどの販売 デジタルプロダクツ 複合機、プリンター、印刷機、広幅機、FAX、スキャナ、ネットワーク関連などの機器、関連消耗品などの製造・OEM、電装ユニットなどの製造・販売 グラフィックコミュニケーションズ カットシートPP（プロダクションプリンター）、連帳PP、インクジェットヘッド、作像システム、産業プリンターなどの機器、および、関連する消耗品、サービス、サポート、ソフトウエアなどの製造・販売 インダストリアルソリューションズ サーマルペーパー、サーマルメディア、産業用光学部品・モジュール、精密機器部品などの製造・販売 その他 デジタルカメラ、360°カメラ、環境、ヘルスケアなど （2026年3月期）（https://jp.ricoh.com/about/facts・1回目）
+- 誰から：
+  - 「世界的なヒット商品の誕生とともに世界各国の大手メーカーとの技術提携も活発に行われ、台湾、韓国、アメリカ、オランダに現地法人を次々と設立、海外へとリコーブランドを広げていきました」（https://jp.ricoh.com/about/history・1回目）
+  - 「自社開発のAI（人工知能）レコメンド機能を搭載し、社内SFA/CRMシステムを刷新」（https://jp.ricoh.com/about/dx・1回目）
+  - 「ニュースリリース「GEヘルスケア・ジャパンとリコージャパン、医療機器メンテナンス分野で業務提携を開始」」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+  - 「使用済み自社製品を回収し、再生品、再生材料として活用​」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+- 何をする：
+  - 「リコージャパン（国内販売会社）」（https://jp.ricoh.com/・1回目）
+  - 「関連会社（販売・サービス）」（https://jp.ricoh.com/・1回目）
+  - 「関連会社（開発・設計・生産）」（https://jp.ricoh.com/・1回目）
+  - 「ニュースリリース」（https://jp.ricoh.com/・1回目）
+  - 「リコーと川崎重工、AIで設計業務の知識資産活用を推進する戦略的パートナーシップを構築(リコー)」（https://jp.ricoh.com/・1回目）
+  - 「最新のニュースリリース・お知らせ」（https://jp.ricoh.com/・1回目）
+  - 「ニュースリリース一覧」（https://jp.ricoh.com/・1回目）
+  - 「リコージャパン（国内販売会社）」（https://jp.ricoh.com/about・1回目）
+  - 「関連会社（販売・サービス）」（https://jp.ricoh.com/about・1回目）
+  - 「関連会社（開発・設計・生産）」（https://jp.ricoh.com/about・1回目）
+  - 「ニュースリリース」（https://jp.ricoh.com/about・1回目）
+  - 「リコージャパン （国内販売会社）」（https://jp.ricoh.com/about・1回目）
+- 誰に：
+  - 「お客様満足のために」（https://jp.ricoh.com/・1回目）
+  - 「リコーグループは1936年の創業以来、お客様の“はたらく”に常に寄り添ってきました」（https://jp.ricoh.com/・1回目）
+  - 「お客様満足のために」（https://jp.ricoh.com/about・1回目）
+  - 「未来起点で、お客様に新しい価値を提供していきます」（https://jp.ricoh.com/about・1回目）
+  - 「お客様満足のために」（https://jp.ricoh.com/about/to-our-stakeholders・1回目）
+  - 「AIなどの技術が大きく進化する中で、お客様の“はたらく”も変わり続けています」（https://jp.ricoh.com/about/to-our-stakeholders・1回目）
+  - 「私たちは、“はたらく”の変革を進め、お客様の競争優位と差別化に貢献します」（https://jp.ricoh.com/about/to-our-stakeholders・1回目）
+  - 「お客様満足のために」（https://jp.ricoh.com/about/ricoh-way・1回目）
+  - 「これは、事業・仕事を通じて、自分、家族、顧客、関係者、社会のすべてを豊かにすることを目指した考えで、リコーグループの全社員が、経営や仕事を行ううえで原点となるものです」（https://jp.ricoh.com/about/ricoh-way・1回目）
+  - 「お客様の立場で考え、」（https://jp.ricoh.com/about/ricoh-way・1回目）
+  - 「未来起点で、お客様に新しい価値を提供していきます」（https://jp.ricoh.com/about/ricoh-way・1回目）
+  - 「今の世代だけでなく、これからの世代の人々からも存続と成長を望まれる企業であるために、私たちはつねに「imagine. change.」を胸に、お客様の期待を超えるイノベーションの創出にグループ一丸となって挑戦してまいります」（https://jp.ricoh.com/about/ricoh-way・1回目）
+- お金の形：
+  - 「複合機、プリンター、印刷機、広幅機、FAX、スキャナ、パソコン、サーバー、ネットワーク関連などの機器、および、関連する消耗品、サービス、サポート、ソフトウエア、ドキュメント関連サービス、ソリューションなどの販売」（https://jp.ricoh.com/about/facts・1回目）
+  - 「複合機、プリンター、印刷機、広幅機、FAX、スキャナ、ネットワーク関連などの機器、関連消耗品などの製造・OEM、電装ユニットなどの製造・販売」（https://jp.ricoh.com/about/facts・1回目）
+  - 「カットシートPP（プロダクションプリンター）、連帳PP、インクジェットヘッド、作像システム、産業プリンターなどの機器、および、関連する消耗品、サービス、サポート、ソフトウエアなどの製造・販売」（https://jp.ricoh.com/about/facts・1回目）
+  - 「当時の主流はモノクロアナログ機で、デジタルコピー機は1台200万円以上の価格で、しかもオフィスに設置するにはサイズも巨大でした」（https://jp.ricoh.com/about/history・1回目）
+  - 「省スペース・低価格を実現した「imagio MF200」を発売」（https://jp.ricoh.com/about/history・1回目）
+  - 「デジタル機ならではの高画質、メモリーコピー機能などに加え、A3機で世界最小幅（当時）のコンパクトボディ、徹底した本体のコストダウンによる低価格の実現などもあり、中小企業ユーザーを中心に大ヒットを記録」（https://jp.ricoh.com/about/history・1回目）
+  - 「＊本体標準価格が3,000万円以下のカラープロダクションプリンターにおいて（2008年5月7日現在）」（https://jp.ricoh.com/about/history・1回目）
+  - 「Dify ライセンス購入から構築・伴走支援・利用教育までワンストップ支援」（https://jp.ricoh.com/about/dx・1回目）
+  - 「*世界銀行「State and Trend of Carbon Pricing Dashboard」 2025年EU ETS価格より算出」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+  - 「オフィス機器消耗品（トナーカートリッジなど）」（https://www.ricoh.co.jp/case・3回目）
+  - 「見積管理システム」（https://www.ricoh.co.jp/case・3回目）
+  - 「製品・消耗品について」（https://www.ricoh.co.jp/case・3回目）
+- いくら：
+  - 「1,353億円（2026年3月31日現在）」（https://jp.ricoh.com/about/facts・1回目）
+  - 「2兆6,083億円（2026年3月期）」（https://jp.ricoh.com/about/facts・1回目）
+  - 「資本金35万円（～1938年）」（https://jp.ricoh.com/about/history・1回目）
+  - 「資本金35万円、従業員33名の出発でした」（https://jp.ricoh.com/about/history・1回目）
+  - 「1960年代に入り売上高100億円を超える企業となった理研は、1963年4月社名を現在の「株式会社リコー」に改め、さらに大きな飛躍を遂げることになります」（https://jp.ricoh.com/about/history・1回目）
+  - 「当時の主流はモノクロアナログ機で、デジタルコピー機は1台200万円以上の価格で、しかもオフィスに設置するにはサイズも巨大でした」（https://jp.ricoh.com/about/history・1回目）
+  - 「そこで、一般のオフィスで使える大きさのデジタル機を100万円以下で発売する目標で開発されたのがデジタル複写機「IMAGIO」（https://jp.ricoh.com/about/history・1回目）
+  - 「＊本体標準価格が3,000万円以下のカラープロダクションプリンターにおいて（2008年5月7日現在）」（https://jp.ricoh.com/about/history・1回目）
+  - 「10,170億円」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+  - 「9,260億円」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+  - 「10,060億円」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+  - 「10,260億円」（https://jp.ricoh.com/sustainability/solve-social-issues・1回目）
+- 検索結果の抜粋：
+  - 「「 リコージャパン 」の 代理店 32社 注目ランキング【2026年】 — 「 リコージャパン 」の 代理店 32社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > リコージャパン株式会社」（https://metoree.com/companies/17670/distributors/・3回目）
+  - 「リコージャパン 、RPAプラットフォームを提供するUiPath社と ... — リコージャパン 、RPAプラットフォームを提供するUiPath社と ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXLRSP492709_Q8A011C1000000/・3回目）
+  - 「会社概要 | リコージャパン 企業情報 — 会社概要 | リコージャパン 企業情報 Ricoh https://jp.ricoh.com > リコージャパン 企業情報」（https://jp.ricoh.com/companies/ricoh-japan/outline・3回目）
+  - 「事例 集一覧 | リコージャパン ウェブマガジン — 事例 集一覧 | リコージャパン ウェブマガジン リコー ソリューション・商品サイト https://www.ricoh.co.jp > ウェブマガジン」（https://www.ricoh.co.jp/magazines/casestudy/・3回目）
+  - 「SDGs/ESGの取り組み 事例 | リコージャパン 企業情報 — SDGs/ESGの取り組み 事例 | リコージャパン 企業情報 Ricoh https://jp.ricoh.com > sustainability > sdgs-activity」（https://jp.ricoh.com/companies/ricoh-japan/sustainability/sdgs-activity・3回目）
+  - 「ユーザー 事例 ： リコージャパン | Adobe | アドビ — ユーザー 事例 ： リコージャパン | Adobe | アドビ Adobe for Business https://business.adobe.com > ricoh-japan」（https://business.adobe.com/jp/customer-success-stories/ricoh-japan.html・3回目）
+  - 「リコー3Dプリンター 出力サービス - リコージャパン株式会社 — 3Dデータをそのまま造形するだけでなく、3Dプリントにおける特性を最大限に活かした造形アドバイスや、最適な材料・造形方式・後加工のご提案、短納期対応まで、丁寧にご支援します。 初めて3Dプリンターを使われるお客様も是非お気軽にご相談ください。」（https://ja.nc-net.or.jp/company/93930/product/detail/156851/・3回目）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像18件／外部9頁・検索5回）
+
+## ローランド ディー.ジー.株式会社
+- 公式URL：https://www.rolanddg.jp/（given）
+- 設立：1981年5月1日（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+- 設立：1981年（昭和56年）5月1日（https://corporate.rolanddg.com/ja/about-us/profile.html・3回目）
+- 設立：2024年（令和6年）1月19日（https://corporate.rolanddg.com/ja/about-us/profile.html・3回目）
+- 従業員数：連結:1,177名 単体：420名 （2022年12月31日現在）（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+- 売上高：連結：50,459百万円 単体：27,798百万円 （2022年12月31日現在）（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+- 事業内容：コンピュータ周辺機器の製造および販売（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+- 事業内容：コンピュータ周辺機器の製造および販売（https://corporate.rolanddg.com/ja/about-us/profile.html・3回目）
+- 誰から：
+  - 「これらは当社販売代理店のものではなく、一部のお客様からは同ウェブサイト上で製品を注文し、送金を行ったにもかかわらず製品が届かず、その後連絡すら取れなくなったとの事例も報告されております」（https://corporate.rolanddg.com/ja/index.html・3回目）
+- 何をする：
+  - 「| 【ご注意ください】当社販売店を装った製品のウェブサイトについて |」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「これらは当社販売代理店のものではなく、一部のお客様からは同ウェブサイト上で製品を注文し、送金を行ったにもかかわらず製品が届かず、その後連絡すら取れなくなったとの事例も報告されております」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「Direct to Object印刷ソリューション3製品販売開始」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「月額レンタルプランのご紹介」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「教育ソリューションwebサイト」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「教育・研究機関向け」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「年間保守契約について」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「教育・FAB」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「試作・モックアップ」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「教育なんですよ」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「「将来、自身のブランドを持ちたい」という学生にとって、自身のイラストやデザインがTシャツやトートバッグになり、オープンキャンパスなどで販売されるという体験は、学生の自信に繋がっています」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「ローランド ディー.ジー.の「BD-12AC」は、授業、学生制作、研究活動における試作物の完成度を高めるとともに、文系・理系全10学部・1学環が一つのキャンパスに集まる「一拠点総合大学」の特色を活かした学部横断的な教育活動にも活用されています」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+- 誰に：
+  - 「これらは当社販売代理店のものではなく、一部のお客様からは同ウェブサイト上で製品を注文し、送金を行ったにもかかわらず製品が届かず、その後連絡すら取れなくなったとの事例も報告されております」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「お客様におかれましては、当社製商品の購入をご検討の際には十分ご注意いただけますようお願い申し上げます」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「お客様成功事例 | Roland DG」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「お客様に最適なTrueVisを」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「お客様成功事例」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「溶剤インクなので臭いを心配していましたが、現場の女性オペレーターや顧客から指摘されたことは一度もありません」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「BD-8導入後はスピーカーにお客様のロゴをプリントできるようになり、製品のクオリティが格段に上がりました」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「新たな付加価値として、これまで培ってきた塗装技術とUVプリントを組み合わせた「デジペイント」をお客様に提案できるよう、ローランド ディー.ジー.の「CO-640」を導入しました」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「PVCラバーグッズにプリントして、曲げてもインクが割れないことや色鮮やかで立体感のあるプリントで顧客からもキレイという評価を得ています」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「業界でもトップクラスのアクリル板加工の技術でアクリルキーホルダーを中心に、プロスポーツの公式グッズなどのアクリルグッズを自社で一貫生産」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「顧客にはイラストレーターや漫画家、アニメーターなど色に厳しい業種が多いため、発色の良さが導入の決め手になりました」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「それにより、お客様からは驚かれるほどの画質で、「ワンランク上がった」と好評です」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+- お金の形：
+  - 「近年複数のウェブサイト上で当社製品が市場価格を大きく下回る価格をつけて掲載されている事例が海外で報告されております」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「価格と用途で絞り込む」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「月額レンタルプランのご紹介」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「年間保守契約について」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「これまでは「LEF-300」を活用していましたが、保守契約が満了したことを受け、同社の最新UVプリンター「MO-180」に入れ替えました」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「「白色の印刷もできる」「透明なデカール紙に対応している」「導入しやすい価格」など多くの特長があったため、すぐに購入を決めました」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「価格改定のご案内｜Roland DG」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+  - 「価格と用途で絞り込む」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+  - 「月額レンタルプランのご紹介」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+  - 「年間保守契約について」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+  - 「価格改定のご案内」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+  - 「つきましては、誠に不本意ではございますが、価格を改定させていただく運びと」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+- いくら：
+  - 「36億6870万円」（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+  - 「連結：50,459百万円」（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+  - 「単体：27,798百万円」（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+  - 「“ローランドＤＧがＭＢＯ、1株5035円でＴＯＢ”」（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+  - 「ローランドＤＧ、買い付け価格５３７０円に引き上げ ブラザー上回る条件」（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+  - 「10,000,000円」（https://corporate.rolanddg.com/ja/about-us/profile.html・3回目）
+- 検索結果の抜粋：
+  - 「ローランド ディー . ジー .の 代理店 - メトリー — ローランド ディー . ジー .の 代理店 - メトリー Metoree https://metoree.com > ... > ローランド ディー.ジー.株式会社」（https://metoree.com/companies/15315/distributors/・3回目）
+  - 「ローランド ディー . ジー . - 企業情報サイト — ローランド ディー . ジー . - 企業情報サイト Roland DG https://corporate.rolanddg.com > ...」（https://corporate.rolanddg.com/ja/index.html・3回目）
+  - 「東京都の「 ローランド ディー . ジー .」の 代理店 4社 | Metoree — 東京都の「 ローランド ディー . ジー .」の 代理店 4社 | Metoree Metoree https://metoree.com > ... > ローランド ディー.ジー.の代理店」（https://metoree.com/companies/15315/distributors/tokyo/・3回目）
+  - 「販売条件 | ローランド ディー . ジー . オンラインショップ — 販売条件 | ローランド ディー . ジー . オンラインショップ ローランド ディー.ジー. オンラインショップ https://rolanddg-onlineshop.bcart.jp > page > hanbaikiyaku」（https://rolanddg-onlineshop.bcart.jp/page/hanbaikiyaku・3回目）
+  - 「お客様成功 事例 | Roland DG — お客様成功 事例 | Roland DG ローランド ディー.ジー. https://www.rolanddg.co.jp > gallery > professionals」（https://www.rolanddg.co.jp/gallery/professionals・3回目）
+  - 「【顧客 事例 】 ローランド ディー . ジー .：リードタイムの可視化 ... — 【顧客 事例 】 ローランド ディー . ジー .：リードタイムの可視化 ... Project44 https://www.project44.com > rolanddg-customer-story」（https://www.project44.com/ja/resources/rolanddg-customer-story/・3回目）
+  - 「価格 改定のご案内｜ Roland DG — 価格 改定のご案内｜ Roland DG ローランド ディー.ジー. https://www.rolanddg.co.jp > ニュース」（https://www.rolanddg.co.jp/company/pressroom/info-price-260520・3回目）
+  - 「価格 と用途で絞り込む | Roland DG — 価格 と用途で絞り込む | Roland DG ローランド ディー.ジー. https://www.rolanddg.co.jp > products」（https://www.rolanddg.co.jp/products・3回目）
+  - 「ローランド ディー . ジー . - Wikipedia — ローランド ディー . ジー . - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ローランド_ディー._ジー.」（https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.・3回目）
+  - 「ローランド ディー. ジー. - Wikipedia — ローランドディー. ジー.株式会社 （英: Roland DG Corporation）は、 静岡県 浜松市 浜名区 に本社を置く コンピューター周辺機器 の製造販売会社であり、広告・看板用 インクジェットプリンター では世界屈指である [要出典]。社名のDGはDigital Groupの略。」（https://ja.wikipedia.org/wiki/ローランド_ディー._ジー.・3回目）
+  - 「会社情報 | ローランド ディー.ジー.株式会社 — ローランド ディー.ジー.株式会社の会社情報をご覧いただけます。」（https://corporate.rolanddg.com/ja/about-us.html・3回目）
+  - 「会社概要 | 会社情報 | ローランド ディー.ジー.株式会社 — ローランド ディー.ジー.株式会社の会社概要をご覧いただけます。」（https://corporate.rolanddg.com/ja/about-us/profile.html・3回目）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## 三井物産マシンテック株式会社
+- 公式URL：https://www.mmknet.com/（search:ddgs:bing:三井物産マシンテック）
+- 設立：2003年10月3日（https://www.mmknet.com/company.html・1回目）
+- 設立：2003年 （平成15年） 10月3日 株式会社エムエムケー [ 1 ]（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+- 設立：2003年（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+- 従業員数：138名（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+- 従業員数：139 人（https://tenra.jp/company/corp:1010401081703・3回目）
+- 事業内容：工作機械、 射出成形機、 鍛圧機械、 自動化システム、 産業機械設備、 専用機 等（https://www.mmknet.com/company.html・1回目）
+- 事業内容：工作機械 及び関連機器の販売。機械・機器の輸出入及び代理業務（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+- 事業内容：工作機械、産業機械、鍛圧機械、測定機器等の販売、輸出入およびエンジニアリング・保守サービス（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+- 誰から：
+  - 「三井物産マシンテックは日本の総代理店として、販売からアフターサービスまで行っております」（https://www.mmknet.com/・1回目）
+  - 「三井物産マシンテックは日本の総代理店として、販売からアフターサービスまで行っております」（https://www.mmknet.com/business/・1回目）
+  - 「三井物産マシンテックの取扱メーカー一覧【115社】｜ディスティマップ」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「Distributor」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「取扱メーカーの多い分類」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「取扱メーカー」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「また、海外新興国メーカーの技術力向上による工作機械の価格競争激化や、為替相場の急激な変動による輸入機器の採算性悪化なども、中長期的な収益維持における懸念材料となり得ます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「「ガラコ[Amazonで確認]」や「フクピカ[Amazonで確認]」で日本のカーケミカル市場を牽引するソフト99グループにおいて、世界中の優れた商品を日本へ届ける輸入商社として設立されたのが株式会社アンテリアです」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+- 何をする：
+  - 「三井物産マシンテックは日本の総代理店として、販売からアフターサービスまで行っております」（https://www.mmknet.com/・1回目）
+  - 「/ 機械販売」（https://www.mmknet.com/business/・1回目）
+  - 「三井物産マシンテックは日本の総代理店として、販売からアフターサービスまで行っております」（https://www.mmknet.com/business/・1回目）
+  - 「機械販売｜三井物産マシンテック株式会社」（https://www.mmknet.com/business/products.html・1回目）
+  - 「幅広い工場設備と国内外の設備メーカーを紹介・販売します」（https://www.mmknet.com/business/products.html・1回目）
+  - 「*三井物産機械販売(株)と合併」（https://www.mmknet.com/company.html・1回目）
+  - 「及び関連機器の販売」（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+  - 「日本工作機械販売協会」（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+  - 「- 三井物産工作機械株式会社と三井物産機械販売株式会社が合併し、三井物産マシナリー株式会社が設立」（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+  - 「事業内容: 工作機械、産業機械、鍛圧機械、測定機器等の販売、輸出入およびエンジニアリング・保守サービス」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「単なる機器の販売にとどまらず、加工技術に関する高度なノウハウを交えた最適な仕様選定を行い、顧客企業の生産性向上と高品質なモノづくりの実現に貢献しています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「✔測定機器・試作・評価システム事業」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+- 誰に：
+  - 「お取引先各位」（https://www.mmknet.com/assets/pdfs/20260901_news.pdf・2回目）
+  - 「お取引先各位」（https://www.mmknet.com/assets/pdfs/20251014_01_news.pdf・2回目）
+  - 「単なる機器の販売にとどまらず、加工技術に関する高度なノウハウを交えた最適な仕様選定を行い、顧客企業の生産性向上と高品質なモノづくりの実現に貢献しています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「三井物産グループのグローバルネットワークと強固な顧客基盤を活用し、国内外からの機器調達や海外進出企業の設備調達支援を行っています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「商社としてのトレーディング機能に加えて技術的アフターサポート体制を構築することで、顧客との長期的な信頼関係を確立している点が独自の強みです」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「世界的なサプライチェーンの再構築や、EV（電気自動車）シフトに伴う自動車産業の設備投資構造の変化は、工作機械・産業機械業界に大きな影響を与えています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「また、単なる機械の商取引に留まらず、加工ノウハウやエンジニアリング機能、設置後の保守・メンテナンスまで一括して提供できる高い技術力と提案力が、顧客からの厚い信頼を獲得する源泉となっています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「特に自動車業界や電子部品業界の景気循環や設備投資サイクルの影響を直接的に受けやすく、世界的な景気後退期には需要が急減するリスクを抱えています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「既存の主要顧客である自動車・精密機械業界に対して、単体の機械販売から加工セルや自動化ラインを組み込んだ複合的なソリューション提供へとシフトし、1案件あたりの付加価値と粗利益率を高める取り組みが求められます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「今後は単なる設備販売を超えたデジタル・ストック型サービスの拡充を進め、産業界の生産性向上に貢献しながら持続的な成長を遂げていくと考えています」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「三井物産マシンテック株式会社の取引先チェック（行政処分・指名停止・インボイス｜法人番号1010401081703） ｜ 天羅AI」（https://tenra.jp/company/corp:1010401081703・3回目）
+  - 「取引先ウォッチ」（https://tenra.jp/company/corp:1010401081703・3回目）
+- お金の形：
+  - 「工具・部品・消耗品管理システム」（https://www.mmknet.com/business/products.html・1回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+  - 「問い合わせ・見積の窓口」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「運営・データの集め方・料金」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「また、海外新興国メーカーの技術力向上による工作機械の価格競争激化や、為替相場の急激な変動による輸入機器の採算性悪化なども、中長期的な収益維持における懸念材料となり得ます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+- いくら：
+  - 「油静圧主軸円筒研削盤」（https://www.mmknet.com/business/products.html・1回目）
+  - 「自動計測付円筒研削盤 端面研削盤」（https://www.mmknet.com/business/products.html・1回目）
+  - 「ローター軸・ピストン・スピンドル等」（https://www.mmknet.com/business/products.html・1回目）
+  - 「スピンドル自動切換型」（https://www.mmknet.com/business/products.html・1回目）
+  - 「マスター型 輪郭測定装置付 微細円弧対応」（https://www.mmknet.com/business/products.html・1回目）
+  - 「円筒 内面研削盤」（https://www.mmknet.com/business/products.html・1回目）
+  - 「4億5690万2000円」（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+  - 「121億207万9000円」（https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF・3回目）
+  - 「#21342 決算分析 : 三井物産マシンテック株式会社 第23期決算 当期純利益 457百万円 - 決算公告データ倉庫」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「#21342 決算分析 : 三井物産マシンテック株式会社 第23期決算 当期純利益 457百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「12,102百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「(約121.0億円)」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+- 検索結果の抜粋：
+  - 「三井物産マシンテック - Wikipedia — 1968年 - 三井物産工作機械株式会社が設立 [1] 1997年 - 三井物産工作機械株式会社と三井物産機械販売株式会社が合併し、三井物産マシナリー株式会社が設立 [1] 2003年 - 三井物産マシナリー株式会社の工作機械部門が分離・独立し、株式会社エムエムケーが設立 [1] 2008年 - 三井物産マシンテック ...」（https://ja.wikipedia.org/wiki/三井物産マシンテック・3回目）
+  - 「三井物産マシンテックの取扱メーカー一覧【111社】｜ディスティマップ — Oct 11, 2026 · 三井物産マシンテックの取扱メーカー111社を掲載。うち3社はメーカー公式サイトの代理店一覧で正規代理店として確認。連絡先・Webサイト・根拠URLつきの電子部品代理店データベース。」（https://distymap.com/distributors/mitsui-bussan-machine-tec・3回目）
+  - 「三井物産マシンテック株式会社 — WFL MILLTURN TECHNOLOGIES オーストリア製高精度複合加工機 三井物産マシンテックは日本の総代理店として、販売からアフターサービスまで行っております。」（https://www.mmknet.com/・3回目）
+  - 「三井物産マシンテック株式会社（法人番号1010401081703）の会社情報・... — 6 days ago · 三井物産マシンテック株式会社（東京都港区東新橋1丁目5番2号、法人番号1010401081703）の会社情報。入札資格2件を収載。事業内容は工作機械及び関連機器の販売。機械・機器の輸出入及び代理業務。公的情報に基づき原典とあわせて整理しています。」（https://tenra.jp/company/corp:1010401081703・3回目）
+  - 「機械販売｜三井物産マシンテック株式会社 — 株式会社シマダマシンツール SHODA株式会社 株式会社新機械技研 新日本工機株式会社 スター精密株式会社 住友重機械ファインテック株式会社 西部電機株式会社 株式会社西部ハイテック 清和ジーテック株式会社 株式会社ソディック 大日金属工業株式会社」（https://www.mmknet.com/business/products.html・3回目）
+  - 「三井物産マシンテック株式会社 様 — 工作機械専門商社として、三井物産の世界戦略の一覧を担う三井物産マシンテック株式会社。ボーダレス化する世界経済の中で、世界各国の先進企業の製造現場を支えている。ITへの先駆的な取り組みを続ける業界のリーディングカンパニーでもある。」（https://www.soliton.co.jp/case_study/docs/mb_machinetec/case_36.pdf・3回目）
+  - 「三井物産マシンテック株式会社 — INTRODUCTION 三井物産マシンテックとは お客さまに選ばれ、お客さまと 共に成長する会社として 三井物産マシンテックの使命、目指す姿、価値観・行動指針、強みについてご紹介します。」（https://www.mmknet.com/・3回目）
+  - 「カオナビ の導入事例 | 業種-製造・企業規模-101名-300名 カオナビで... — 製品を導入することになった背景 三井物産マシンテック株式会社は、社員数約140名中の100人が営業に携わる会社であり、近年、時代の変化の中で組織の成長を継続的に実現するために、普遍的な営業スキルの再定義が必要と感じていました。」（https://digi-mado.jp/products/7e7fb42a-4213-4fd5-90d0-f065e1b9c308/cases/d225fe6c-db1c-434e-b80b-97eb69c5791d/・3回目）
+  - 「サービス・機能｜三井物産マシンテック株式会社 — WFL MILLTURN TECHNOLOGIES / オーストリア製高精度複合加工機 三井物産マシンテックは日本の総代理店として、販売からアフターサービスまで行っております。」（https://www.mmknet.com/business/・3回目）
+  - 「RTJ2026 バリ取りロボットデモ実演 三井物産マシンテック様コラボ — Jun 1, 2026 · RTJ2026 バリ取りロボットデモ実演 三井物産マシンテック様コラボ 株式会社ジーベックテクノロジー＠バリ取りの常識を変える 1.11K subscribers 3」（https://www.youtube.com/watch?v=H1GeN48GkGs・3回目）
+  - 「#21342 決算分析 : 三井物産マシンテック株式会社 第23期決算 当期純... — Sep 27, 2026 · 【ひとこと】 第23期決算において、三井物産マシンテック株式会社は 当期純利益 457百万円を計上し、確かな収益力を維持していることが分かります。資産合計約121.0億円に対して 流動資産 が約114.0億円を占めるなど、専門商社特有の流動性の高い資産構造を有している点が大きな特徴です ...」（https://ryo-nakamura1.hatenablog.jp/entry/2026/09/27/140000・3回目）
+  - 「三井物産マシンテック株式会社の会社情報・決算公告 | 官報決算データ... — Jul 6, 2026 · 三井物産マシンテック株式会社の会社情報を掲載しています。最新の2026年3月期決算は純利益4億5690万2000円、利益剰余金8億8075万3000円、総資産121億207万9000円です。社会保険被保険者数は149人です。親会社は三井物産株式会社で、グループ内の子会社162社も確認できます。所在地は東京都港区 ...」（https://catr.jp/companies/bedfb/14252・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部7頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部7頁・検索5回）
+
+## 三井金属鉱業株式会社
+- 公式URL：https://www.mitsui-kinzoku.com（given）
+- 設立：1950年（昭和25年）5月1日（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+- 設立：1950年（昭和25年）5月1日（https://usenworkwell.jp/case/2026/mitsui-kinzoku.html・3回目）
+- 設立：昭和25年5月1日（https://www.hulft.com/case/1198751_1586.html・3回目）
+- 従業員数：連結8,188名　単体 2,587名（2026年3月末）（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+- 従業員数：連結12,097名　単体 2,473名（2025年3月末）（https://usenworkwell.jp/case/2026/mitsui-kinzoku.html・3回目）
+- 従業員数：連結：9,965名 単独：2,229名 （平成18年3月末）（https://www.hulft.com/case/1198751_1586.html・3回目）
+- 売上高：（連結）758,532百万円（2026年3月期） （単体）436,712百万円（2026年3月期）（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+- 売上高：連結:5033億7000万円 （平成18年3月期）（https://www.hulft.com/case/1198751_1586.html・3回目）
+- 事業内容：機能材料・電子材料の製造・販売、非鉄金属製錬、資源開発、貴金属リサイクル、素材関連事業、自動車部品の製造・販売　等（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+- 誰から：
+  - 「エンジニアリング事業（1.非鉄エンジニアリング（非鉄金属製錬プラント・設備・自動機械 ・非鉄金属圧延・加工設備 ・海外提携会社からの機器供給・付帯設備） 2.電子材料製造設備（電解銅箔・電池材料・磁性鉄粉製造設備 他） 3.一般産業設備・FA設備（自動車部品製造、金属部品加工設備 他） 4.環境関連設備（排水・排煙・排ガス・集塵処理設備・産廃物処理 他） 5.鉛建材（遮音・防音・放射線遮蔽材） 6.ポリエチレン接合パイプ（上下水道配管、農業用水配管、消化配管 他））」（https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/・1回目）
+  - 「当社グループでは、ICTを活用し機密情報を統一的に管理し、ICTセキュリティ規則の遵守及び運用しているシステムのリスクアセスメントや提携先との秘密保持契約締結により、情報セキュリティに係るリスクの低減を図っています」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「亜鉛精鉱等の輸入原料価格や、非鉄金属地金の国内価格は、米ドル建てのLME相場等を基準に決定され、当社グループが製錬事業から得る製錬収入（マージン）も、実質的に米ドル建てとなっています」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「また、中国等における競合品の台頭による価格競争の激化、代替技術の進展による技術優位性の低下及び市場シェアの減少、景気後退等による需要の減少、輸入関税の変更、レアメタルに係る輸出規制等も、業績及び事業継続に影響を及ぼす可能性があります」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「第三者との提携」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「この一環として、当社との事業シナジーが見込まれる国内外の企業やベンチャー等の第三者との間で、共同開発、戦略的提携、事業提携や事業買収等を行う可能性があります」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「第三者との提携においては、提携先における技術開発の遅延や技術競争力の低下、事業環境の変化、提携先の財務状況の悪化等により、当社グループが想定する新事業の創出や成長が実現しない可能性があります」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「また、提携先への出資を行っている場合には、これらの状況により、出資金額の回収が困難となり、減損損失を計上する等のリスクが生じる可能性があります」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「これら第三者との提携に係るリスクが、当社グループの経営成績及び財政状態等に重要な影響を与える可能性があります」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「当社グループでは、提携に際して適切なデュー・ディリジェンスを実施し、提携先の技術力、事業内容及び財務状況等を慎重に評価するとともに、当社の経営ノウハウ、技術及び人材等を活用することで、第三者との提携に係るリスクの低減に努めています」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「We use cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you.」（https://www.mitsui-kinzoku.com/en/company/・1回目）
+  - 「We use cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you.」（https://www.mitsui-kinzoku.com/en/company/c_message/・1回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.mitsui-kinzoku.com/・1回目）
+  - 「機能材料・電子材料の製造・販売、非鉄金属製錬、資源開発、貴金属リサイクル、素材関連事業、自動車部品の製造・販売 等」（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+  - 「プリント配線板用銅箔の販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「排ガス浄化用触媒の製造・販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「スパッタリング・ターゲットの製造・販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「セラミックス製品の製造・販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「亜鉛・鉛地金・同関連製品および金属粉の製造・販売等」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「メサライトの製造・販売および産業廃棄物中間処理」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「スクラップからの貴金属等回収・販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「環境調査・対策・鉱物・地熱・水資源の調査・開発等に関する総合コンサルタント」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「電気銅・硫酸等の製造・販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「MIM、プラスチック製品等の製造・販売」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+- 誰に：
+  - 「政治、行政、顧客、サプライヤーなどとの健全かつ透明な関係を維持します」（https://www.mitsui-kinzoku.com/company/c_idea/・1回目）
+  - 「私たちは、個人情報、顧客情報をはじめとする機密情報の保護と管理を徹底します」（https://www.mitsui-kinzoku.com/company/c_idea/・1回目）
+  - 「お客様、お取引先様およびソーシャルメディア利用者の皆様へ」（https://www.mitsui-kinzoku.com/company/c_spolicy/・1回目）
+  - 「外の力（お客様・パートナー企業など）」と「当社の強み（コア技術・ノウハウ・販売チャネル）」を融合することで、新市場を創出していきます」（https://www.mitsui-kinzoku.com/seihin/business_creation/・1回目）
+  - 「粒子サイズ・形状等をお客様のニーズに合わせて開発し、製造・販売しています」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「レアマテリアル事業部では、SAWフィルター用高純度タンタル、液晶パネルやハードディスクのガラス研磨用セリウム系研磨材、SiC半導体研磨用NANOBIX™、および半導体・電子部品・医療等で幅広く使用されるレアアース製品(旧日本イットリウム㈱製品)を取り扱っており、軽希土から重希土まで全ての希土類を用い、酸化物・炭化物・メタル等の種類や形状・サイズを問わず、お客様のニーズに応える製品を提供しています」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「電子材料・医療・半導体用途など、お客様の様々な用途やニーズに応じて最適な製品をご提案します」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「お客様のニーズや用途に合わせて、塊状・削状・粉状・箔状及び板状などの各種形状を取り揃えています」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「また、半導体分野で注目されている酸フッ化イットリウムをはじめ、光学材料や耐環境製品などお客様の用途に応じた製品をご提案可能です」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「アルミ業界では、”より軽く”、”より薄く”、”より強く”、”より加工性の高い”製品が要求されます」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「革新的なレアメタル新溶液材料シリーズ「iconos™」や、独自の防汚・防曇コーティング剤を通じ、お客様の課題に最適なソリューションを提供」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「三井金属ユアソフト（株）では、三井金属グループのIT化推進を行うとともに、これまで培った経験やノウハウを活かし、国内外、業種、業態を問わず、グループ外のお客様へビジネス展開しています」（https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/・1回目）
+- お金の形：
+  - 「ダイカスト・粉末冶金部品やそれらを製造するための材料、また建材や自動車用構造材を提供しています」（https://www.mitsui-kinzoku.com/・1回目）
+  - 「ダイカスト、粉末冶金、自動車部品の製造」（https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/・1回目）
+  - 「ダイカスト・粉末冶金部品やそれらを製造するための材料、また建材や自動車用構造材を提供しています」（https://www.mitsui-kinzoku.com/seihin/・1回目）
+  - 「当社が強みとする「粉体制御技術」を活かし、各種高機能粉末を提供しています」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「透明性・隠ぺい性等の光学特性に特徴を持つ、各種導電性粉末を製造しています」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「遠心噴霧法を用いることにより、真球状で酸化の少ない微細な半田粉末です」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「粉末冶金他（銅粉、青銅粉、亜鉛粉・粒、錫粉、青銅粉、ビスマス粉 ）」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「機能材料事業本部 機能性粉体事業部 営業部（パストラン）TEL：03-5437-8091 （電子材料用超微粉、半田粉、粉末冶金他）TEL：03-5437-8092」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「酸化/炭化タンタル・ニオブ（1．TSS, TEP, NSS（酸化物、白色粉末） 2．TaC, TaNbC, NbC(炭化物、黒褐色粉末））」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「三酸化アンチモンは白色状の粉末であり、錫、ビスマスと同様に、鉛製錬時に発生する酸化物です」（https://www.mitsui-kinzoku.com/seihin/metals/・1回目）
+  - 「亜鉛、鉛、銅等の非鉄金属の価格はロンドン金属取引所（LME：London Metal Exchange）、その他の国際市場で決定されます（以下、LME相場等）」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「亜鉛精鉱等の輸入原料価格や、非鉄金属地金の国内価格は、米ドル建てのLME相場等を基準に決定され、当社グループが製錬事業から得る製錬収入（マージン）も、実質的に米ドル建てとなっています」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+- いくら：
+  - 「（前回改訂比 ＋15,000円/ｔ）」（https://www.mitsui-kinzoku.com/・1回目）
+  - 「電気亜鉛建値 682,000円/t （前回改訂比 ＋15,000円/t）」（https://www.mitsui-kinzoku.com/・1回目）
+  - 「42,377百万円（2026年3月末）」（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+  - 「（連結）758,532百万円（2026年3月期）」（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+  - 「（単体）436,712百万円（2026年3月期）」（https://www.mitsui-kinzoku.com/company/c_gaiyo/・1回目）
+  - 「円筒型ターゲット」（https://www.mitsui-kinzoku.com/seihin/engineered_materials/・1回目）
+  - 「亜鉛精鉱等の輸入原料価格や、非鉄金属地金の国内価格は、米ドル建てのLME相場等を基準に決定され、当社グループが製錬事業から得る製錬収入（マージン）も、実質的に米ドル建てとなっています」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「したがって、為替レートが大きく円高に振れ、その期間が長期間にわたって継続した場合には、為替変動リスクが、当社グループの経営成績等に重要な影響を与える可能性があります」（https://www.mitsui-kinzoku.com/toushi/management/risk/・1回目）
+  - 「7,585億円」（https://distymap.com/manufacturers/mitsui-kinzoku・3回目）
+  - 「1,367億円」（https://distymap.com/manufacturers/mitsui-kinzoku・3回目）
+  - 「7,123億円」（https://distymap.com/manufacturers/mitsui-kinzoku・3回目）
+  - 「6,467億円」（https://distymap.com/manufacturers/mitsui-kinzoku・3回目）
+- 検索結果の抜粋：
+  - 「三井金属の取扱代理店一覧【1社・代理店側の掲載】｜ディスティマップ — 三井金属は1950年5月設立、東京都品川区に本社を置く東証プライム上場企業(証券コード5706)。取扱代理店1社を代理店各社が公開する取扱メーカー情報に基づき掲載。主な代理店: 丸越。旧 三井金属鉱業。根拠URLつきの代理店データベース。」（https://distymap.com/manufacturers/mitsui-kinzoku・3回目）
+  - 「三井金属鉱業は現在どこ？→ 三井金属（2025年〜） | ディスティマップ — 三井金属鉱業の現在の社名・後継企業は三井金属。社名変更・買収・統合の経緯と、三井金属の正規代理店1社を掲載。」（https://distymap.com/history/三井金属鉱業・3回目）
+  - 「三井金属商事株式会社 — 三井金属鉱業が100%の出資をするグループ内で唯一の商事会社です。主に非鉄金属、電子材料、化学・工業薬品、リサイクル原料、印刷材料等扱っております。」（https://www.mitsuikinzoku-t.co.jp/・3回目）
+  - 「三井金属株式会社（旧 三井金属鉱業株式会社）様 導入事例 | 株式会社... — 三井金属株式会社（旧 三井金属鉱業株式会社）様の導入事例をご紹介。株式会社USEN WORK WELLによる、働く環境づくりやオフィス課題解決に関する取り組みを掲載しています。」（https://usenworkwell.jp/case/2026/mitsui-kinzoku.html・3回目）
+  - 「導入事例 | セゾン情報システムズ - hulft.com三井金属鉱業株式会社 | 導入事例 | 「Sound Design for OFFICE」公式...工場設備の稼働データとカメラ映像を連動した監視システムを構築し、...製造記録書類のデータ化手段を複合機から「fiシリーズ」に置換し作業...SAP導入事例｜テンプレート「リアルモデル」｜三井金属ユアソフト国内外80部門のマスタデータを統合し、AI活用を見据えたデータ基盤を... — 今、情報が欲しい社員へ、瞬時にナレッジを提供 電子メールによるナレッジシステムの短期構築、将来のSOA化へ向けて 三井金属グループは一世紀に渡り、非鉄金属資源の開発と生産を行い、亜鉛・銅・貴金属などの基礎素材をあらゆる分野へ供給しています。 三井金属鉱業グル－プは、非鉄金属素材を中心とした多様な技術や経験を蓄積し、「マテリアルの知恵を活かす」をスロ－ガン」（https://www.hulft.com/case/1198751_1586.html・3回目）
+  - 「三井金属鉱業株式会社 | 導入事例 | 「Sound Design for OFFICE」公式... — 三井金属鉱業グル－プは、非鉄金属素材を中心とした多様な技術や経験を蓄積し、「マテリアルの知恵を活かす」をスロ－ガンに、機能粉材料事業・金属事業・自動車部品事業、その他関連事業を展開しています。 例えば、スマ－トフォンの小型化などに使用され、精密回路の配線材料に用い ...」（https://sound-design.usen.com/casestudy/mitsui-kinzoku.html・3回目）
+  - 「工場設備の稼働データとカメラ映像を連動した監視システムを構築し、... — 「マテリアルの知恵を活かす」をコーポレートスローガンに、非鉄金属素材の分野で産業を支える三井金属鉱業株式会社。機能材料事業本部銅箔事業部では、工場の安全管理・生産性向上に向けて、三菱電機インフォメーションネットワーク株式会社（MIND）のネットワークカメラ用録画・配信 ...」（https://www.mitsubishielectric.co.jp/medigital/case/mitsui-kinzoku/・3回目）
+  - 「アズワン、三井金属鉱業、Lithozがファインセラミックス3Dプリント受... — May 13, 2022 · アズワン、三井金属鉱業、Lithozの3社は協働し、ファインセラミックス3Dプリントの受託サービスを開始した。3Dプリンター業界で注目が集まるセラミック素材の活用促進のために開始される新たなサービスについてご紹介する。」（https://news.sharelab.jp/3dp-news/others/asone_220513/・3回目）
+  - 「セラミックス3Dプリンティング受託サービス | 3DP id.arts — Apr 22, 2022 · 大阪に本社を置く研究用機器・科学機器販売会社である アズワン は、 三井金属鉱業 、 Lithoz GmbH （以下 Lithoz）と協働し、ファインセラミックス3Dプリンティングの受託サービスを開始した。 アルミナによる造形事例」（https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/・3回目）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像10件／外部10頁・検索4回）
+
+## 三菱電機株式会社
+- 公式URL：https://www.mitsubishielectric.co.jp/（search:ddgs:bing:三菱電機）
+- 設立：1921年1月15日（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
+- 従業員数：150,386人（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
+- 売上高：5,894,747百万円（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
+- 誰から：
+  - 「IBM社、ヒューレット・パッカード社との提携や、米国、タイに財団設立、米国環境保護庁の受賞、業界初のリサイクルプラントの歴史を掲載しています」（https://www.mitsubishielectric.co.jp/ja/about/history/・1回目）
+  - 「三菱電機の正規代理店【公式確認15社】と取扱代理店202社｜ディスティマップ」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「search_distributors_by_manufacturer(」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「三菱電機の正規代理店はどこですか？」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「メーカー公式サイトの代理店一覧で確認できた正規代理店は15社です（うち7社は代理店側のサイトでも取扱いを確認）」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「主な正規代理店: リョーサン菱洋、RYODEN、カナデン」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「正規代理店と取扱店の違いは何ですか？」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「正規代理店はメーカーが公式に認定した販売網です」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「提携・M&A」（https://www.automation-news.jp/2026/04/103550/・3回目）
+  - 「FA・製造業における業務提携、資本提携、M&A（買収・合併）、事業譲渡などの最新ニュースをお届けします」（https://www.automation-news.jp/2026/04/103550/・3回目）
+  - 「富士電機、Helical Fusionと資本業務提携 核融合発電の実用化を推進」（https://www.automation-news.jp/2026/04/103550/・3回目）
+  - 「提携・M&A (89)」（https://www.automation-news.jp/2026/04/103550/・3回目）
+- 何をする：
+  - 「ニュースリリース」（https://www.mitsubishielectric.co.jp/ja/・1回目）
+  - 「展示会・セミナー」（https://www.mitsubishielectric.co.jp/ja/・1回目）
+  - 「ニュースリリース」（https://www.mitsubishielectric.co.jp/ja/about/・1回目）
+  - 「展示会・セミナー」（https://www.mitsubishielectric.co.jp/ja/about/・1回目）
+  - 「ニュースリリース」（https://www.mitsubishielectric.co.jp/ja/about/philosophy/・1回目）
+  - 「展示会・セミナー」（https://www.mitsubishielectric.co.jp/ja/about/philosophy/・1回目）
+  - 「ニュースリリース」（https://www.mitsubishielectric.co.jp/ja/about/management-policy/・1回目）
+  - 「展示会・セミナー」（https://www.mitsubishielectric.co.jp/ja/about/management-policy/・1回目）
+  - 「ニュースリリース」（https://www.mitsubishielectric.co.jp/ja/about/message/・1回目）
+  - 「展示会・セミナー」（https://www.mitsubishielectric.co.jp/ja/about/message/・1回目）
+  - 「ニュースリリース」（https://www.mitsubishielectric.co.jp/ja/about/management/・1回目）
+  - 「展示会・セミナー」（https://www.mitsubishielectric.co.jp/ja/about/management/・1回目）
+- 誰に：
+  - 「私たちの理念の下、サステナビリティを経営の根幹に据え、社会・顧客・株主・従業員をはじめとしたステークホルダーからの信頼を重んじる」（https://www.mitsubishielectric.co.jp/ja/about/management-policy/・1回目）
+  - 「「収益性」「資本効率」「成長性」を追求するとともに、顧客と繋がり続けて社会課題を解決する新たな価値を創出し、企業価値の持続的向上を図る」（https://www.mitsubishielectric.co.jp/ja/about/management-policy/・1回目）
+  - 「この新たに定めた「Our Philosophy」のもと、サステナビリティを経営の根幹に据え、社会・顧客・株主・従業員をはじめとしたステークホルダーからの信頼を大切にしてまいります」（https://www.mitsubishielectric.co.jp/ja/about/message/・1回目）
+  - 「その上で、収益性・資本効率・成長性を追求するとともに、顧客と繋がり続け、また様々なパートナーと共創していくことで、社会課題を解決する新たな価値を創出し、企業価値の持続的向上を図ってまいります」（https://www.mitsubishielectric.co.jp/ja/about/message/・1回目）
+  - 「IBM社、ヒューレット・パッカード社との提携や、米国、タイに財団設立、米国環境保護庁の受賞、業界初のリサイクルプラントの歴史を掲載しています」（https://www.mitsubishielectric.co.jp/ja/about/history/・1回目）
+  - 「三菱電機グループの、地域における展示会・セミナーやビジネス・導入事例、支社だより・活動報告をご紹介しています」（https://www.mitsubishielectric.co.jp/ja/newsroom/・1回目）
+  - 「監視用の屋外カメラ装置をご愛用のお客様へのお詫びと点検のお知らせ」（https://www.mitsubishielectric.co.jp/ja/announcement/・1回目）
+  - 「監視用の屋外カメラ装置の照明灯をご愛用のお客様へのお詫びと点検のお知らせ」（https://www.mitsubishielectric.co.jp/ja/announcement/・1回目）
+  - 「HID高天井用照明器具ご愛用のお客様へのお詫びと無償点検・修理のお願い」（https://www.mitsubishielectric.co.jp/ja/announcement/・1回目）
+  - 「業務用空調・冷熱機器室外ユニットご愛用のお客様へのお詫びと無料点検・修理のお願い」（https://www.mitsubishielectric.co.jp/ja/announcement/・1回目）
+  - 「「施設用蛍光灯器具」をご愛用のお客様へのお詫びと点検・修理のお知らせ」（https://www.mitsubishielectric.co.jp/ja/announcement/・1回目）
+  - 「「三菱電機システムサービス株式会社が電源電線接続部の点検を実施した電気式浴室換気乾燥暖房機」をご愛用のお客様へお詫びと再確認のお願い」（https://www.mitsubishielectric.co.jp/ja/announcement/・1回目）
+- お金の形：
+  - 「価格・仕様について変更する場合もございます」（https://www.mitsubishielectric.co.jp/ja/pr/・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20261001typhoon18.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260920typhoon25.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260904typhoon24.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260827ooame.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260717ooame.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260813ooame.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260728kumamotojishin.html・1回目）
+  - 「災害救助法適用の地域（以下の地区）にお住まいの個人のお客様が使用している被害を受けた三菱電機家電製品・住宅設備製品につきましては、特別料金にて修理対応をさせていただきます」（https://www.mitsubishielectric.co.jp/use/saigai/notice/20260707kouka_dosya.html・1回目）
+  - 「1)必要リソース見積り方法を仕組み化、」（https://www.mitsubishielectric.co.jp/ja/notice/2023/pdf/tkr-april2023.pdf・2回目）
+  - 「問い合わせ・見積 ↗」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「運営・データの集め方・料金」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+- いくら：
+  - 「175,820百万円」（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
+  - 「5,894,747百万円」（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
+  - 「7,357,512百万円」（https://www.mitsubishielectric.co.jp/ja/about/corporate-data/・1回目）
+  - 「 1.5兆円規模の事業見極め*1」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「 ノンコアアセットの圧縮（政策保有株式 2.8千億円売却）」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「 成長投資 1.５兆円、株主還元 0.7兆円」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「*3 WEF 『Space: The $1.8 Trillion Opportunity for Global Economic Growth 』から当社で円に換算」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「24年度： 40兆円 | 35年度： 114兆円」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「25年度： 460兆円 | ３５年度： 560兆円」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「23年： 80兆円 | 35年： 250兆円」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「25年度 実績 ７％ 0.4兆円」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+  - 「30年度 目標 １5％ 1.0兆円」（https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co1.pdf・2回目）
+- 検索結果の抜粋：
+  - 「代理店一覧 | 国内販売ネットワーク | 三菱電機FAについて | 三菱電機... — 代理店一覧 FA機器取り扱い代理店の一覧です。 加工機・数値制御装置に関するお問い合わせは こちら 。 既にお取引きがある場合は、お取引のございます商社様へご照会ください。 （表示順：エリア別 都道府県コード順）」（https://www.mitsubishielectric.co.jp/fa/about-us/local-network/distributor.html・3回目）
+  - 「三菱電機の正規代理店【公式確認15社】と取扱代理店202社｜ディスティ... — 三菱電機の正規代理店15社をメーカー公式サイトの代理店一覧で確認（7社は代理店側でも確認）。 このほか代理店側の掲載のみの取扱代理店202社を分けて掲載。 主な代理店: リョーサン菱洋、RYODEN、カナデン。 根拠URLつきの代理店データベース。」（https://distymap.com/manufacturers/mitsubishi-electric・3回目）
+  - 「国内販売ネットワーク | 三菱電機FAについて | 三菱電機FA — 購入・見積もりに関するお問い合わせ 三菱電機のFA製品の購入について代理店をご紹介します。 製品のお見積りや納期、ご購入の照会などについて、お気軽にお問い合わせください。 加工機・数値制御装置に関するお問い合わせはこちら。」（https://www.mitsubishielectric.co.jp/fa/about-us/local-network/index.html・3回目）
+  - 「北海道三菱電機販売株式会社の一部事業譲受に関するお知らせ～北海道... — Oct 31, 2025 · 株式会社RYODENは、北海道三菱電機販売株式会社の三菱電機のFA機器販売代理店事業を譲り受ける契約を締結しました。 当社は本事業譲受により、2026年1月5日に当該事業を開始する予定です。」（https://www.ryoden.co.jp/news/corporate/20251031_02・3回目）
+  - 「「三菱電機」の代理店844社 注目ランキング【2026年】| Metoree — 2026年10月時点での 三菱電機の代理店の注目ランキング は、1位: 立花エレテック、 2位: 九州三菱電機販売、 3位: 弘電社となっています。 エリアから三菱電機の代理店を探す 代理店の支店や営業所等の各地拠点情報も含めて探すことができます。 北海道・東北」（https://metoree.com/companies/368/distributors/・3回目）
+  - 「導入事例 | 三菱電機FA - 三菱電機 Mitsubishi Electric — モバイル検針の導入で安全性の向上や検針作業ミス防止が進む 検針作業時間は3割削減 三菱電機福山製作所 品質向上 安全 見える化 電子機器 IoT カーボンニュートラル 2021-03-01」（https://www.mitsubishielectric.co.jp/fa/our-stories/index.html・3回目）
+  - 「導入事例｜三菱電機 Biz Timeline — 数多くのお客様にご採用頂いている三菱電機製品の導入事例やコラボレーション、三菱電機グループ、三菱電機社内での ...」（https://www.mitsubishielectric.co.jp/business/biz-t/case/index.html・3回目）
+  - 「導入事例 | 三菱電機ビルソリューションズ株式会社 — 省エネ・環境対策に注力されていることもあり、三菱電機のBuilUnity（ビルユニティー）を核に多くの三菱電機製品を導入いただき、ZEBの建物を建設されました。 その経緯と効果をご紹介いたします。」（https://www.mebs.co.jp/cases/・3回目）
+  - 「導入事例・活用イメージ｜三菱電機システムサービス — 監視制御システムSA1を採用し、10,000点を超える監視点数を制御、省エネに繋がる消費電力量等の見える化に貢献！ 三菱電機株式会社 様 設備監視・生産管理 工場 省エネ 可視化・分析 制御」（https://www.melsc.co.jp/business/case_study/・3回目）
+  - 「制御機器・駆動機器・配電制御機器の価格改定 | 三菱電機 — Mar 31, 2025 · 三菱電機株式会社は、制御機器、駆動機器および配電制御機器の製品群における一部機種の価格を2025年7月1日に改定します。 近年、銀・銅などの素材価格が高騰していることに加え、半導体などの電子部品の部材価格 ...」（https://www.mitsubishielectric.co.jp/ja/pr/2025/0331/・3回目）
+  - 「三菱電機、配電制御機器の一部製品を7月1日から価格改定 電磁開閉器の... — Apr 15, 2026 · 三菱電機は、配電制御機器の一部機種の価格を2026年7月1日に改定する。今回の価格改定は、近年、世界的な資源需給の逼迫や投機的なマネーの流入等を背景に銀・銅を中心に素材価格が急騰する他、人件費をはじめとしたその他コストの上昇や外注加工費も依」（https://www.automation-news.jp/2026/04/103550/・3回目）
+  - 「三菱電機、駆動機器など最大4割値上げ 材料費高騰で — Mar 31, 2025 · 三菱電機は31日、ファクトリーオートメーション（FA）に使う駆動機器や配電制御機器などを2025年7月1日の受注分から値上げすると発表した ...」（https://www.nikkei.com/article/DGXZQOUC314MW0R30C25A3000000/・3回目）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部6頁・検索5回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像16件／外部6頁・検索5回）
+
+## 丸文
+- 公式URL：https://www.marubun.co.jp/（search:ddgs:google:丸文）
+- 設立：弘化元年（1844年）（https://www.marubun.co.jp/corporate/profile/・1回目）
+- 設立：昭和22年（1947年）7月（https://www.marubun.co.jp/corporate/profile/・1回目）
+- 従業員数：1,193 名（連結：2026年3月31日現在） 644 名（単体：2026年3月31日現在）（https://www.marubun.co.jp/corporate/profile/・1回目）
+- 従業員数：48名（2010年 4月現在）（https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf・3回目）
+- 売上高：213,425百 万円（連結：2026年3月期） 158,556 百万円（単体：2026年3月期）（https://www.marubun.co.jp/corporate/profile/・1回目）
+- 事業内容：半導体や電⼦部品、システム機器などの国内外の先端エレクトロニクス製品の販売 丸文の製品一覧（商品別）を見る＞（https://www.marubun.co.jp/corporate/profile/・1回目）
+- 事業内容：半導体や電子部品、システム機器などの国内外の先端エレクトロニクス製品を販売する商社（https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf・3回目）
+- 事業内容：丸文株式会社のシステム計画の策定から開発、運用全般（https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf・3回目）
+- 誰から：
+  - 「また米国との提携によるグローバル販売網を通じて、現地での部材調達、生産移管サポートを行っています」（https://www.marubun.co.jp/corporate/business/・1回目）
+  - 「のち生糸の輸出業および洋反物の輸入業を併営」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「Rocke International, Inc.社と総代理店契約を締結し、米国製機器の輸入販売を開始」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「先端輸入機器の販売を開始し、エレクトロニクス商社としての第一歩を踏み出す」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「Ampex Corp.社と販売代理店契約を締結し計測機器の取扱開始」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「その後、航空宇宙機器、光学機器、分析機器等の外国製機器の輸入販売を順次開始」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「本社内に技術室を設置し、輸入機器の技術サービス業務を開始」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「国内で初めて集積回路輸入・販売」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「集積回路を日本国内に初めて輸入・販売」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「丸文が日本国内に初めて集積回路を輸入・販売した（デバイス事業の始まり）」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「このショーをきっかけに、日本国内における先端機器輸入商社としての地位を確立した」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「日本テキサス・インスツルメンツ株式会社（半導体製品）と販売代理店契約締結」（https://www.marubun.co.jp/corporate/history/・1回目）
+- 何をする：
+  - 「半導体・電子部品小ロット販売」（https://www.marubun.co.jp/・1回目）
+  - 「エッジAI分野の技術サポートを強化」（https://www.marubun.co.jp/・1回目）
+  - 「【無料】11月24日開催 LTspiceハンズオンセミナー(基礎編)ご案内」（https://www.marubun.co.jp/・1回目）
+  - 「【無料】電源設計を簡略化できるモジュール型設計とはセミナー」（https://www.marubun.co.jp/・1回目）
+  - 「【無料】はじめてのモータドライバ編「モータの基礎とモータドライバ」セミナー」（https://www.marubun.co.jp/・1回目）
+  - 「半導体・電子部品小ロット販売」（https://www.marubun.co.jp/corporate/・1回目）
+  - 「半導体・電子部品小ロット販売」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「半導体や電⼦部品、システム機器などの国内外の先端エレクトロニクス製品の販売」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「また情報通信技術のコンサルテーションも提供し、お客様の課題解決に貢献します」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「半導体・電子部品小ロット販売」（https://www.marubun.co.jp/corporate/business/・1回目）
+  - 「またグローバルな販売ネットワークを強みとし、海外への生産移管に合わせて国内同様のきめ細かい供給サポートを展開します」（https://www.marubun.co.jp/corporate/business/・1回目）
+  - 「電子機器および先進コンポーネントの販売・保守サービスを取り扱い、高い専門性を強みとして丸文グループが一体となってソリューションを提供します」（https://www.marubun.co.jp/corporate/business/・1回目）
+- 誰に：
+  - 「お客様のプライバシー」（https://www.marubun.co.jp/・1回目）
+  - 「お客様のプライバシー」（https://www.marubun.co.jp/corporate/・1回目）
+  - 「お客様のプライバシー」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「お客様の製品開発ニーズと先端技術を結びつけ、天空の女神 ディオネのように、未来に向けた新たな可能性を追求してまいります」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「次世代情報通信技術を組み合わせ、お客様の課題解決に貢献します」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「また情報通信技術のコンサルテーションも提供し、お客様の課題解決に貢献します」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「通信の高速化・大容量化・低遅延化を実現する次世代情報通信技術を虹のように組み合わせ、お客様のビジネス環境の大きな変革を支えてまいります」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「付加価値の高い商品を取り揃え、お客様の早期製品開発や市場展開に貢献してまいります」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「最適なソリューションを提供し、お客様に”ビジネスの実り”を提供します」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「様々なアプリーケーションに特徴を活かした最適なソリューションを提供し、お客様のビジネスチャンスに貢献してまいります」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「最適なソリューションでお客様の“時間”に貢献します」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「クロノスカンパニーは、アナログICやメモリーなどの半導体製品をはじめ、水晶デバイス、センサ、コネクタ、プリント基板などの電子部品まで、国内外の競争力の高い製品を取り揃え、お客様のご要望に応じて最適なソリューションをタイムリーに提案してまいります」（https://www.marubun.co.jp/corporate/profile/・1回目）
+- お金の形：
+  - 「ご相談・お見積り」（https://www.marubun.co.jp/・1回目）
+  - 「当該リスクの顕在化に備え、当社グループは事業計画の策定に当たっては直近の在庫保有状況や回転期間に応じて一定額の引当を行っておりますが、その時期や影響額等の影響度を予め正確に見積もることは困難であると認識しております」（https://www.marubun.co.jp/ir/management/risk/・1回目）
+  - 「為替相場や金利の変動リスクについては、当社グループの施策を以て当該リスクを完全に回避できるものではなく、その時期や影響度を事前に見積もることは困難であると認識しております」（https://www.marubun.co.jp/ir/management/risk/・1回目）
+  - 「かかるリスクの顕在化の時期や影響度については予め見積もることは困難でありますが、顕在化の可能性は現時点では高くないと認識しております」（https://www.marubun.co.jp/ir/management/risk/・1回目）
+  - 「その場合には、事業活動の縮小など当社グループの経営成績及び財政状態に大きな影響を及ぼす可能性がありますが、かかるリスクが顕在化する時期や影響度を予め見積もることは困難であると認識しております」（https://www.marubun.co.jp/ir/management/risk/・1回目）
+  - 「・AI・ロボティクス（ヒューマノイドAIロボット、ミリ波レーダモジュール、超小型電力モジュール、ワイヤレス給電技術ライセンス、カーボンナノチューブ、電子聴診器）」（https://www.marubun.co.jp/ir/faq/・1回目）
+  - 「ご相談・お見積り」（https://www.marubun.co.jp/products/trend/industrial_dx_solution/・1回目）
+  - 「IP・ライセンス」（https://www.marubun.co.jp/products/trend/industrial_dx_solution/・1回目）
+  - 「ご相談・お見積り」（https://www.marubun.co.jp/products/trend/5g/・1回目）
+  - 「IP・ライセンス」（https://www.marubun.co.jp/products/trend/5g/・1回目）
+  - 「ご相談・お見積り」（https://www.marubun.co.jp/products/trend/robotics/・1回目）
+  - 「IP・ライセンス」（https://www.marubun.co.jp/products/trend/robotics/・1回目）
+- いくら：
+  - 「62億1,450万円（2026年4月1日現在）」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「万円（連結：2026年3月期）」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「百万円（単体：2026年3月期）」（https://www.marubun.co.jp/corporate/profile/・1回目）
+  - 「堀越合資会社と中善商事株式会社が合併し、丸文株式会社を資本金703万円で設立した」（https://www.marubun.co.jp/corporate/history/・1回目）
+  - 「しかしながら、為替相場が著しく変動した場合には、円建て換算での売上高や売上総利益額、棚卸資産等の評価において大きな影響を及ぼすことがあり、その結果、当社グループの経営成績に悪影響を及ぼす可能性があります」（https://www.marubun.co.jp/ir/management/risk/・1回目）
+  - 「加えて、海外連結子会社の財務諸表を円換算する場合にも影響を及ぼします」（https://www.marubun.co.jp/ir/management/risk/・1回目）
+  - 「1,422円」（https://www.marubun.co.jp/ir/stock/stock-price/・1回目）
+  - 「1,106円」（https://www.marubun.co.jp/ir/stock/stock-price/・1回目）
+  - 「1,552円」（https://www.marubun.co.jp/ir/stock/stock-price/・1回目）
+  - 「1,819円」（https://www.marubun.co.jp/ir/stock/stock-price/・1回目）
+  - 「1,062円」（https://www.marubun.co.jp/ir/stock/stock-price/・1回目）
+  - 「1,547円」（https://www.marubun.co.jp/ir/stock/stock-price/・1回目）
+- 検索結果の抜粋：
+  - 「丸文株式会社との販売代理店契約締結のお知らせ — 丸文株式会社との販売代理店契約締結のお知らせ エレファンテック株式会社(本社:東京都中央区、社長:清水信哉)はエレクトロニクス商社の丸文株式会社( 本社:東京都中央区、社長:飯野亨、以下、丸文社)と弊社で製造するフレキシブル基板P- Flex RRに関する販売代理店契約を締結しましたことを ...」（https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf・3回目）
+  - 「丸文、Analog Devices, Inc.と販売代理店契約を締結 ~豊富な製品ライ... — 丸文、Analog Devices, Inc.と販売代理店契約を締結 ~豊富な製品ラインナップを活かし、革新的な製品開発を支援~ エレクトロニクス商社の丸文株式会社(社長:飯野亨、本社:東京都中央区、以下、丸文)は Analog Devices, Inc.(以下、アナログ・デバイセズ社)と正規販売代理店契約を締結し、同社製品の販売 ...」（https://www.marubun.co.jp/wp-content/uploads/2022/09/20220906_adi.pdf・3回目）
+  - 「「丸文」の代理店7社 注目ランキング【2026年】| Metoree — 代理店注目ランキング導出方法について 代理店注目ランキングは、2026年10月時点での丸文の代理店ページ内でのクリックシェアを基に算出しています。クリックシェアは、対象期間内の全企業の総クリック数を各企業のクリック数で割った値を指します。」（https://metoree.com/companies/2316/distributors/・3回目）
+  - 「TIと丸文の販売特約店契約終了を資材部員が解説【代理店集約】 | Coro... — Jul 18, 2019 · TI（テキサスインスツルメンツ）と丸文の販売特約店契約が終了することを知っていますか？この記事ではTIと丸文の販売特約店契約終了について詳しく解説しています。半導体業界の動向に興味のある方はこの記事をご覧下さい。」（https://corosuke-blog.com/ti-marubun/・3回目）
+  - 「丸文、タイツウ社と代理店契約を締結し同社フィルムコンデンサの提供... — Apr 15, 2026 · 【プレスリリース】発表日:2026年04月15日丸文、タイツウ製フィルムコンデンサの取り扱いを開始。カスタム設計提案を加速〜小ロット・特殊設計 ...」（https://www.nikkei.com/article/DGXZRSP705943_V10C26A4000000/・3回目）
+  - 「Kebbi（ケビー）導入事例一覧 | 丸文株式会社 — 有料老人ホームあおい明生苑様「ロボットで、受付業務をDX」 施設の受付をロボットで自動化し、事務負担の軽減と年間50万円のコスト削減を両立した導入事例をご紹介します。」（https://www.marubun.co.jp/products/75599/・3回目）
+  - 「【導入事例｜丸文株式会社 様｜トラップメール（GSX標的型メール訓練... — 丸文株式会社 様｜トラップメール（GSX標的型メール訓練サービス） 丸文株式会社様は、同業他社でホームページの改ざんや標的型メールまがいのインシデントも発生していたのを機に、トラップメール（GSX標的型メール訓練サービス）を導入されました。」（https://www.gsx.co.jp/casestudy/marubun_001.html・3回目）
+  - 「導入事例：丸文情報通信株式会社 — 1.1. 丸文情報通信株式会社設立の背景 丸文情報通信株式会社(以下、MIC)の設立は、Y2K 問題(2000 年問題)を発端とする。 Y2K 問題の発生を皮切りに、システム統合の実施により、システム開発規模が激増した。 そのため、開発要員の不足、顧客要求への対応、新たな各種技術分野への対応などの ...」（https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf・3回目）
+  - 「丸文株式会社様[トラップメール(GSX標的型メール訓練サービス)]導入事... — CASE STUDY ― 導入事例 丸文株式会社 トラップメール(GSX標的型メール訓練サービス) ― ――― 従業員から怪しいメールを受け取った時の問い合わせが増えました―――これは訓練を実施し続けてきた効果であると、日々の運用の中で感じ取ることができるの ...」（https://gsx-co-jp.s3-ap-northeast-1.amazonaws.com/casestudy/pdf/marubun_001.pdf・3回目）
+  - 「丸文株式会社 | エレクトロニクス商社 丸文株式会社の公式サイトです... — エレクトロニクス商社 丸文株式会社の公式サイトです。IC集積回路などの半導体や電子応用機器など国内外の先端エレクトロニクス製品を取り扱っています。」（https://www.marubun.co.jp/・3回目）
+  - 「射命丸文 造形工作してみた【東方Project】 - YouTube — May 12, 2026 · 東方Projectより、伝統の幻想ブン屋 射命丸文を樹脂粘土やワイヤーなどを使い造形工作。5月11日に完成。8.5cm程のサイズです。4月の最初から作っ ...」（https://www.youtube.com/shorts/kDrVPW7v3c0・3回目）
+  - 「丸文株式会社 | 積層造形技術を用いた高速3Dクラッディング装置 — 丸文株式会社が取り扱うのは、ドイツ・Ponticon社が開発した高速3Dクラッディング装置だ。 同製品はアディティブ・マニュファクチャリング（AM：積層造形）技術を用いた装置で、従来のAM装置に比べ、圧倒的に高速かつ高精度な造形を実現する。」（https://jpcb.jp/pickup/?m=report&pkid=410&index=3・3回目）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像4件／外部10頁・検索5回）
+
+## 久宝金属製作所
+- 公式URL：http://qho.order403.jp/（search:ddgs:google:久宝金属製作所）
+- 取引先：取引希望の方はこちら（https://www.monotaro.com/s/b-1780/・3回目）
+- 誰から：
+  - 「自社製品一覧」（https://q-ho.com/qholia/・3回目）
+- 何をする：
+  - 「プレスリリース」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「久宝金属製作所は、2020年9月24日・25日開催の「フォームネクストフォーラム東京2020」にて0.1mmノズルを搭載したフィラメント溶融方式3DプリンターQholia(クホリア)の造形デモを実施、2020年11月(予定)より販売いたします」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「その後、テクダイヤでも3Dプリンティング用ノズルを順次一般販売を開始する予定です」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「工業用ダイヤモンド販売の商社からスタートし、顧客の要求に応じて徐々に事業を拡大し、高い技術力を持つ製造業者へと進化しました」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「「暮らしと仕事を楽しくするお手伝い」をモットーに、企画から開発、製造、販売、サポートまで自社で行う姿勢を貫く大阪の町工場です」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「・建築金物製造販売： 各種棚受け」（https://www.atengineer.com/pr/q-ho/company・3回目）
+  - 「・Q-hoブランドの企画・製造・販売：アルミインテリア棚受け（グッドデザイン賞受賞）」（https://www.atengineer.com/pr/q-ho/company・3回目）
+  - 「設計開発者が直接対応」（https://q-ho.com/qholia/・3回目）
+  - 「製品を販売し、お客様の成果や喜びのお言葉を見聞きするようになり、手応えと使命を新たに感じております」（https://q-ho.com/qholia/・3回目）
+  - 「各種金属素材・建築金物の企画・製造・販売」（https://order403.com/cgi-local/co.cgi?co_code=G-0244・3回目）
+  - 「一般ユーザ、設計事務所、工務店、リフォーム会社、住宅メーカー」（https://order403.com/cgi-local/co.cgi?co_code=G-0244・3回目）
+  - 「無料リンク集登録（工務店・設計事務所等）」（https://order403.com/cgi-local/co.cgi?co_code=G-0244・3回目）
+- 誰に：
+  - 「「お客様とのコミュニケーション」や「ネットワーク」を大切にして創ります」（http://qho.order403.jp/・1回目）
+  - 「初めてのお客様へ 新規登録」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「また、ご購入いただいたお客様の商品レビューもご確認いただけます」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「更なる微細造形を求めるユーザーの声に応えるべく、3Dプリンターの専門家である久宝金属製作所と、ディスペンサーノズルの専門家であるテクダイヤが共同し、これまでの常識を覆す3Dプリントに最適な0.1mmノズルを開発しました」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「お客様の声が直接開発者に届くことを活かし、常にハード、ソフトを改善し続けています」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「今回の0.1ｍｍノズルのように、改善は既存のユーザー様にも適用できる形で提供しています」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「工業用ダイヤモンド販売の商社からスタートし、顧客の要求に応じて徐々に事業を拡大し、高い技術力を持つ製造業者へと進化しました」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「Qholia（クホリア）は出資を募っての大量生産ではなく少数ずつにはなりますが、丁寧にお客様へのアドバイスと合わせてご提供する形式で生産を進めております」（https://q-ho.com/qholia/・3回目）
+  - 「Qholia（クホリア）をただの”製品”ではなく、お客様と共にものづくりを楽しみ、新しいものを生み出す”場”として提供したいと考えている為です」（https://q-ho.com/qholia/・3回目）
+  - 「お客様からのフィードバックをもとに制御ファイルやUI等を改善しつつ量産を進めており、仕様は変更の可能性がございますが、可能な限り既存ユーザー様にも適用できる形をとっております」（https://q-ho.com/qholia/・3回目）
+  - 「これらを造形できる設定や使い方もお客様に公開致しますし、ご自身で調整する際の方向性が分かるような情報も併せて発信して参ります」（https://q-ho.com/qholia/・3回目）
+  - 「製品を販売し、お客様の成果や喜びのお言葉を見聞きするようになり、手応えと使命を新たに感じております」（https://q-ho.com/qholia/・3回目）
+- お金の形：
+  - 「価格で絞り込む」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「Qholiaの本体価格は324,000円(税抜)～」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「価格（税別）」（https://q-ho.com/qholia/・3回目）
+  - 「価格（税込）」（https://q-ho.com/qholia/・3回目）
+  - 「ご相談 ⇒ 見積り ⇒ 製作 ⇒ 納品（オーダーメードの場合）」（https://order403.com/cgi-local/co.cgi?co_code=G-0244・3回目）
+  - 「Qholia用部品価格改定のお知らせ」（https://q-ho.com/・3回目）
+- いくら：
+  - 「1,500円以下」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「1,500-10,000円」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「10,000-50,000円」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「Qholiaの本体価格は324,000円(税抜)～」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「価格（税別）」（https://q-ho.com/qholia/・3回目）
+  - 「324,000円・333,000円」（https://q-ho.com/qholia/・3回目）
+  - 「価格（税込）」（https://q-ho.com/qholia/・3回目）
+  - 「356,400円・366,300円」（https://q-ho.com/qholia/・3回目）
+  - 「333,000円～」（https://q-ho.com/qholia/・3回目）
+  - 「366,300円～」（https://q-ho.com/qholia/・3回目）
+  - 「698,000円～」（https://q-ho.com/qholia/・3回目）
+  - 「767,800円～」（https://q-ho.com/qholia/・3回目）
+- 検索結果の抜粋：
+  - 「久宝金属製作所 【通販モノタロウ】 最短即日出荷 — 久宝金属製作所 久宝金属製作所のページです。 久宝金属製作所は、建築金物・建材・塗装内装用品、ねじ・ボルト・釘/素材などの商品を提供しています。 現在47件の商品をご用意しており、人気商品や新着商品を豊富な品揃えの中からお選びいただけます。」（https://www.monotaro.com/s/b-1780/・3回目）
+  - 「（株）久宝金属製作所 — （株）久宝金属製作所は、「住まいのオーダーメード館403」に参画しています。」（http://qho.order403.jp/・3回目）
+  - 「株式会社久宝金属製作所 | ”ないもの”つくります — 電気を使わず籾を玄米に 籾摺り機 3Dプリンター用材料 Qholiaフィラメント シンプルからシックまで 装飾棚受 ボード用棚受 DIYにもプロ用途にも 金属板・メッシュなど オーダーメイド サイズ指定できます レールシェルフシリーズ 切断・曲げ・溶接・表面処理 特注加工」（http://q-ho.com/・3回目）
+  - 「お問い合わせ | 株式会社久宝金属製作所 — ホーム お問い合わせフォーム / Contact プライバシーポリシー / Privacy Policy QholiaSTLSuite 利用規約 / Terms of Service 返金ポリシー ...」（https://q-ho.com/contact/・3回目）
+  - 「テクダイヤと久宝金属製作所が共同開発！フィラメント溶融方式3Dプリ... — Sep 23, 2020 · 更なる微細造形を求めるユーザーの声に応えるべく、3Dプリンターの専門家である久宝金属製作所と、ディスペンサーノズルの専門家であるテクダイヤが共同し、これまでの常識を覆す3Dプリントに最適な0.1mmノズルを開発しました。」（https://guide.jsae.or.jp/topics/289823/・3回目）
+  - 「株式会社久宝金属製作所 - 会社概要 — 株式会社久宝金属製作所の事業概要 ・建築金物製造販売： 各種棚受け ・Q-hoブランドの企画・製造・販売：アルミインテリア棚受け（グッドデザイン賞受賞） アルミレールシェルフ （大阪デザインセンター中小企業優秀賞受賞）」（https://www.atengineer.com/pr/q-ho/company・3回目）
+  - 「株式会社久宝金属製作所 | ”ないもの”つくります — 切断・曲げ・溶接・表面処理 特注加工 出力・導入相談 承ります 3Dスキャン・プリント 開発のプロが聞き取ります ものづくり相談 お客様の声をカタチにしました 事例紹介 Q-hoについて ごあいさつ 会社概要」（https://q-ho.com/・3回目）
+  - 「特注加工・事例紹介 | 株式会社久宝金属製作所 — 【事例紹介】 シンクカバー 説明 シンクカバーのご依頼です。 440×590（mm）の大きさで、厚さはちょっとした物を一時的に置けるように1mmを提案させて頂きました。」（https://q-ho.com/custom-case/・3回目）
+  - 「Qholia | 株式会社久宝金属製作所 — Qholia（クホリア）は出資を募っての大量生産ではなく少数ずつにはなりますが、丁寧にお客様へのアドバイスと合わせてご提供する形式で生産を進めております。 Qholia（クホリア）をただの”製品”ではなく、お客様と共にものづくりを楽しみ、新しいものを生み出す”場”として提供したい ...」（https://q-ho.com/qholia/・3回目）
+  - 「3DPの集い on X: "【協賛企業紹介】株式会社久宝金属製作所様 ブースN... — 6 days ago · 【協賛企業紹介】株式会社久宝金属製作所様 ブースNo.J3 日本の3Dプリンターメーカー。 ドールやフィギュアに向いた精細な造形が可能なQholiaを開発・販売しています。 開発者本人がブースにいるので、なんでも聞いてください！」（https://x.com/3dp_tsudoi/status/2114949016580739268・3回目）
+  - 「株式会社 久宝金属製作所会社情報／住まいのオーダーメード館403 — 「Q-ho」ブランドでレールシェルフ等を創ります/株式会社 久宝金属製作所/大阪府/各種金属素材・建築金物の企画・製造・販売」（https://order403.com/cgi-local/co.cgi?co_code=G-0244・3回目）
+  - 「株式会社久宝金属製作所 | ”ないもの”つくります — 電気を使わず籾を玄米に 籾摺り機 3Dプリンター用材料 Qholiaフィラメント シンプルからシックまで 装飾棚受 ボード用棚受 DIYにもプロ用途にも 金属板・メッシュなど オーダーメイド サイズ指定できます レールシェルフシリーズ 切断・曲げ・溶接・表面処理 特注加工」（https://q-ho.com/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索5回）
+
+## 伊福精密
+- 公式URL：https://www.ifukuseimitsu.com/（given）
+- 設立：1970年6月（https://www.ifukuseimitsu.com/company/profile/・1回目）
+- 設立：1980年8月（https://www.ifukuseimitsu.com/company/profile/・1回目）
+- 設立：2010年10月（https://www.ifukuseimitsu.com/company/affiliated/・1回目）
+- 従業員数：50名（2023年6月末現在）（https://www.ifukuseimitsu.com/company/profile/・1回目）
+- 従業員数：25名（2023年６月末）（https://www.ifukuseimitsu.com/company/affiliated/・1回目）
+- 事業内容：神戸で3D金属造形サービス・切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務を行う（https://www.wingarc.com/product/usecase/547.html・3回目）
+- 取引先：住友電工焼結合金株式会社 株式会社神戸製鋼所 Ｃ.Ｃ.Ｉ.株式会社 株式会社アライドマテリアル 株式会社カコテクノス 共栄ゴルフ工業株式会社　他（順不同）（https://www.ifukuseimitsu.com/company/profile/・1回目）
+- 誰から：
+  - 「販売代理店一覧」（https://www.wingarc.com/product/usecase/547.html・3回目）
+- 何をする：
+  - 「伊福精密株式会社 | 神戸の3D金属造形サービス・切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務」（https://www.ifukuseimitsu.com/・1回目）
+  - 「神戸の3D金属造形サービス、切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務の伊福精密株式会社」（https://www.ifukuseimitsu.com/・1回目）
+  - 「3D金属造形サービス」（https://www.ifukuseimitsu.com/・1回目）
+  - 「【登壇】2026.9.30弊社の代表がモノづくりセミナーに登壇いたしました」（https://www.ifukuseimitsu.com/・1回目）
+  - 「【工場見学】2026.8.27東大経営教育研究センター（MERC）様が工場見学にお越しくださいました」（https://www.ifukuseimitsu.com/・1回目）
+  - 「3D金属造形サービスのご紹介」（https://www.ifukuseimitsu.com/・1回目）
+  - 「3D金属造形サービス・切削・放電加工の駆け込み寺、精密部品加工・金型加工なら神戸の伊福精密株式会社」（https://www.ifukuseimitsu.com/・1回目）
+  - 「社長挨拶・企業理念 | 会社案内 | 神戸の3D金属造形サービス・切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務 伊福精密株式会社」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「神戸の3D金属造形サービス、切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務の伊福精密株式会社」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「3D金属造形サービス」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「本社工場は、創業者の「工場は手術室」との教えを守るべく、恒温工場を設置し、高精度試作品をメインに生産し、第二工場では、今まで培ってきた技術を基に、30万個/月の生産が可能な量産工場として稼働させて頂いております」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「3D金属造形サービスのご紹介」（https://www.ifukuseimitsu.com/company/・1回目）
+- 誰に：
+  - 「高度な放電加工技術により、微細加工から、手のひらサイズ加工、あらゆる特殊精密加工に対応！業界でも追随を許さない「高い切削加工技術」と3Dプリンターでの金型レスのモノづくりでお客様の困ったを解決いたします！」（https://www.ifukuseimitsu.com/・1回目）
+  - 「「最大より、最高を目指す」を合言葉に、お客様の様々なニーズに対応いたします」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「日々技術革新が進む製造業界の中で、最先端加工技術と生産技術の発想転換をモットーに、お客様との透明なパートナーシップを構築し、お客様の「ものづくり」にご協力出来る為に入口から出口まで、徹底した社内一貫生産・品質管理体制で、お客様のニーズに最高の技術力で、最高の品質を最適な価格で、ご協力させて頂いております」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「「最大より、最高を目指す」を合言葉に、お客様の様々なニーズに対応し、お客様のベターチョイスでは無く、ベストチョイスの製品をお届けする体制を整えました」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「今後ともお客様の信頼に答えるべく邁進して参ります」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「a）顧客満足を最優先への改革」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「顧客第一主義」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「製品の必要機能を満足し、かつ顧客満足を第一主義とする」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「顧客からの品質クレームはもちろん社内の前後工程からの品質クレームに対しても、その撲滅を目指す」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「伊福精密の超精密測定の技術で、お客様の品質保証、品質向上のお手伝いをさせて頂きます」（https://www.ifukuseimitsu.com/measurement/・1回目）
+  - 「お客様の工場内での選別作業の請負他」（https://www.ifukuseimitsu.com/measurement/・1回目）
+  - 「お客様のご依頼一点モノ 往年のパター、レフティーバージョン」（https://www.ifukuseimitsu.com/results/・1回目）
+- お金の形：
+  - 「料金・お取引の流れ」（https://www.ifukuseimitsu.com/・1回目）
+  - 「お問い合わせ・見積り依頼フォーム」（https://www.ifukuseimitsu.com/・1回目）
+  - 「日々技術革新が進む製造業界の中で、最先端加工技術と生産技術の発想転換をモットーに、お客様との透明なパートナーシップを構築し、お客様の「ものづくり」にご協力出来る為に入口から出口まで、徹底した社内一貫生産・品質管理体制で、お客様のニーズに最高の技術力で、最高の品質を最適な価格で、ご協力させて頂いております」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「料金・お取引の流れ」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「お問い合わせ・見積り依頼フォーム」（https://www.ifukuseimitsu.com/company/・1回目）
+  - 「料金・お取引の流れ」（https://www.ifukuseimitsu.com/company/profile/・1回目）
+  - 「お問い合わせ・見積り依頼フォーム」（https://www.ifukuseimitsu.com/company/profile/・1回目）
+  - 「料金・お取引の流れ」（https://www.ifukuseimitsu.com/measurement/・1回目）
+  - 「お問い合わせ・見積り依頼フォーム」（https://www.ifukuseimitsu.com/measurement/・1回目）
+  - 「料金・お取引の流れ」（https://www.ifukuseimitsu.com/3d-top/・1回目）
+  - 「3D金属造形加工のお見積もりのご相談など、」（https://www.ifukuseimitsu.com/3d-top/・1回目）
+  - 「お問い合わせ・見積り依頼フォーム」（https://www.ifukuseimitsu.com/3d-top/・1回目）
+- いくら：
+  - 「昔のブリキのおもちゃを思い出すようにハンドルを回せば金属造形の４つの柱が」（https://www.ifukuseimitsu.com/・1回目）
+  - 「5,000万円」（https://www.ifukuseimitsu.com/company/profile/・1回目）
+  - 「資本金200万円にて法人組織に改組、社名を「伊福精密株式会社」とする」（https://www.ifukuseimitsu.com/company/profile/・1回目）
+  - 「資本金700万円に増資する」（https://www.ifukuseimitsu.com/company/profile/・1回目）
+  - 「資本金1,000万円に増資する」（https://www.ifukuseimitsu.com/company/profile/・1回目）
+  - 「昔のブリキのおもちゃを思い出すようにハンドルを回せば金属造形の４つの柱が」（https://www.ifukuseimitsu.com/results/・1回目）
+  - 「ComceptLaser社用素材（1€（ユーロ）＝130.00円）」（https://www.ifukuseimitsu.com/3d-top/price-flow/・1回目）
+  - 「1Kg＝26,000円」（https://www.ifukuseimitsu.com/3d-top/price-flow/・1回目）
+  - 「1Kg＝48,000円」（https://www.ifukuseimitsu.com/3d-top/price-flow/・1回目）
+  - 「1Kg＝100,000円」（https://www.ifukuseimitsu.com/3d-top/price-flow/・1回目）
+  - 「1Kg＝36,200円」（https://www.ifukuseimitsu.com/3d-top/price-flow/・1回目）
+  - 「1Kg＝28,500円」（https://www.ifukuseimitsu.com/3d-top/price-flow/・1回目）
+- 検索結果の抜粋：
+  - 「伊福精密株式会社 | 神戸の3D金属造形サービス・切削・放電加工、精密... — 伊福精密の強み！ 金属加工の駆け込み寺 会社案内 社長挨拶・企業理念 会社概要・沿革・交通アクセス 採用情報 精密部品加工・金型加工 計測・品質管理事業 設備紹介 加工事例の紹介 カタログダウンロード 3D金属造形サービス 伊福精密の3D金属造形の ...」（https://www.ifukuseimitsu.com/・3回目）
+  - 「高品質・高精度部品加工の伊福精密株式会社 — 高品質・高精度部品加工の伊福精密株式会社」（https://www.ifukuseimitsu.com/web/・3回目）
+  - 「伊福精密における元社員による情報持ち出し事件とは何か、その経緯と... — Mar 7, 2026 · Answer: 伊福精密株式会社で発生した事件は、元社員が退職前に会社の営業秘密を不正に持ち出したケースです。経緯を整理すると以下の通りです。 ・事件発覚 2023年10月、元工場長である丹治幸氏が、社内で作成された技術資料や作業補助アプリ、顧客との契約情報などの電子データを、就業 ...」（https://askai.glarity.app/ja/search/伊福精密における元社員による情報持ち出し事件とは何か-その経緯と背景を教えてください・3回目）
+  - 「伊福精密株式会社 | 導入事例｜ウイングアーク1st — May 30, 2022 · 金属加工の駆け込み寺として、高度な切削加工技術を誇る伊福精密株式会社（以下、伊福精密）は2020年より 生産現場のデジタル化、見える化の取り組みとして、ウイングアークのBIダッシュボード「MotionBoard」や、株式会社シムトップスの電子帳票ツール「ConMas i-Reporter（以下、i-Reporter）」を ...」（https://www.wingarc.com/product/usecase/547.html・3回目）
+  - 「i-Reporter 導入事例 - 伊福精密株式会社 - YouTube伊福精密株式会社 | 神戸の3D金属造形サービス・切削・放電加工、精密...伊福精密㈱式会社、標準に基づく品質を通じて金属アディティブ・マニ...3D金属造形サービス | 神戸の3D金属造形サービス・切削・放電加工、精...「MotionBoard」の連携によって効率化した事例 | 現場帳票システムはi...神戸市モデル/DX推進事例集 | 神戸市中小企業 DXお助け隊 — Oct 10, 2022 · i-Reporterの導入・活用事例を伊福精密様にお伺い致しました！ 目次【0:00】オープニング【1:02】会社・事業の紹介【2:19】営業部・総務部の活用 ... 伊福精密の強み！ 金属加工の駆け込み寺 会社案内 社長挨拶・企業理念 会社概要・沿革・交通アクセス 採用情報 精密部品加工・金型加工 計測・品質管理事業」（https://www.youtube.com/watch?v=nAQIoQ98aRA・3回目）
+  - 「伊福精密㈱式会社、標準に基づく品質を通じて金属アディティブ・マニ... — 2026年4月7日、私は 伊福精密㈱式会社 を訪問し、 伊福 元彦 社長兼CEO と面談しました。 本訪問では、金属アディティブ・マニュファクチャリング（AM）および品質を重視した製造への同社の取り組みについて理解を深める機会となりました。」（https://amcoe.org/japan/news-updates/ifuku-seimitsu-co-ltd-promotes-industrial-adoption-of-metal-additive-manufacturing-through-standards-based-quality/・3回目）
+  - 「3D金属造形サービス | 神戸の3D金属造形サービス・切削・放電加工、精... — トップページ 伊福精密の強み！ 金属加工の駆け込み寺 会社案内 採用情報 精密部品加工・金型加工 計測・品質管理事業 設備紹介 加工事例の紹介 3D金属造形サービス インフォメーション お問い合わせ・見積り依頼フォーム プライバシーポリシー サイト ...」（https://www.ifukuseimitsu.com/3d-top/・3回目）
+  - 「3D金属造形サービスのご紹介 - 伊福精密株式会社 — 伊福精密では3D金属プリンターまたは樹脂3Dプリンターを用いた3D金属造形サービスを提供しております。 お客様から図面（3Dモデル）を送っていただき、その3Dデータから金属材料、もしくは樹脂材料にて3D造形プリントするサービスです。」（https://www.ifukuseimitsu.com/3d-top/service/・3回目）
+  - 「伊福精密株式会社 | 神戸の3D金属造形サービス・切削・放電加工、精密... — 神戸の3D金属造形サービス・切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務の「伊福精密株式会社 ...」（https://www.ifukuseimitsu.com/・3回目）
+  - 「伊福精密株式会社 | 神戸の3D金属造形サービス・切削・放電加工、精密... — 造形サンプル 3D金属プリンター工場見学 お問い合わせ インフォメーション お問い合わせ・見積り依頼フォーム プライバシーポリシー サイトマップ 3D金属造形サービス・切削・放電加工の駆け込み寺、精密部品加工・金型加工なら神戸の伊福精密株式会社」（https://cp-test.ifukuseimitsu.com/・3回目）
+  - 「伊福精密株式会社の金属3Dプリント 受託の特徴と造形事例｜比較ハブ — 伊福精密株式会社の金属3Dプリント 受託 伊福精密は神戸市西区の精密部品加工の会社で、切削・放電加工、金型加工、検査・計測を行い、3D金属プリンターによる3D金属造形サービスも提供しています。」（https://hikaku-hub.com/metal-3d-printing/list/ifuku/・3回目）
+  - 「ifukuseimitsu.com - 伊福精密株式会社 | 神戸の3D金属造形サービス・... — ifukuseimitsu.com. 神戸の3D金属造形サービス・切削・放電加工、精密部品加工、金型加工、試作、検査・計測業務の「伊福精密株式会社」公式サイトです。」（https://sur.ly/i/ifukuseimitsu.com/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部7頁・検索4回）
+
+## 伊藤忠セラテック
+- 公式URL：https://www.itc-cera.co.jp/（search:ddgs:google:伊藤忠セラテック）
+- 設立：1960年12月（https://www.itc-cera.co.jp/prof/・1回目）
+- 設立：1960年12月（https://www.wsew.jp/hub/ja-jp/blog/article_82.html・3回目）
+- 設立：1960年12月（https://jobcatalog.yahoo.co.jp/company/1110018244/information/・3回目）
+- 従業員数：149名（2026年3月末）（https://www.itc-cera.co.jp/prof/・1回目）
+- 従業員数：149人（https://jobcatalog.yahoo.co.jp/company/1110018244/information/・3回目）
+- 売上高：91億円（2025年度）（https://www.itc-cera.co.jp/prof/・1回目）
+- 売上高：1兆511億7600万円（https://catr.jp/companies/d0eff/22941・3回目）
+- 売上高：1939億400万円 前年比 ▲1.46%（https://catr.jp/companies/d0eff/22941・3回目）
+- 事業内容：伊藤忠グループにおけるセラミックス分野の中核会社（https://www.wsew.jp/hub/ja-jp/blog/article_82.html・3回目）
+- 誰から：
+  - 「カーボンニュートラル分野では、地球温暖化抑制の切り札と言われる「水素」を製造可能な水蒸気改質触媒、そして二酸化炭素を活用するための「二酸化炭素資源化触媒」を中心に、様々なカーボンニュートラル分野向けの触媒を自社開発・自社製造でお届けしております」（https://www.itc-cera.co.jp/prod/・1回目）
+  - 「https://www.itochu.co.jp/ja/ir/partner/index.html」（https://catr.jp/companies/d0eff/22941・3回目）
+- 何をする：
+  - 「耐火物原料「合成ムライト」の製造販売を開始」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「耐火物原料「アルミナイト®」の製造販売を開始」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「耐火物原料「アルミナイトボール」の製造販売を開始」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「セラミックサンド「セラビーズ®」の製造販売を開始」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「セラミックサンド「ムライトボール®」の製造販売を開始」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「触媒「エアロナイト®」の製造販売を開始」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「セメントトレード事業への参入並びにセメント販売部設置・東京事務所開設について」（https://www.itc-cera.co.jp/news/・1回目）
+  - 「受託触媒製造」（https://www.itc-cera.co.jp/prod/aeronite/・1回目）
+  - 「お客様のご要望に合わせた触媒を受託生産致します」（https://www.itc-cera.co.jp/prod/aeronite/・1回目）
+  - 「（セラミックス販売部宛）」（https://www.itc-cera.co.jp/news/%E3%82%A4%E3%83%B3%E3%83%89-kochi%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%8Cirefcon2026%E3%80%8D%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97/・1回目）
+  - 「建設コンサルタント」（https://www.ipros.com/product/detail/2000527866/・3回目）
+  - 「設備設計事務所」（https://www.ipros.com/product/detail/2000527866/・3回目）
+- 誰に：
+  - 「AMAFONDは、イタリア鋳造業界を支えるサプライヤー企業の団体であり、」（https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/・1回目）
+  - 「年の設立以来、業界の発展を支えてきました」（https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/・1回目）
+  - 「当社は、本イベントへの協賛を通じて、鋳造業界における国際的な交流と発展に貢献してまいります」（https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/・1回目）
+  - 「今後も、培ってきた技術と知見を活かし、お客様や業界関係者の皆さまに新たな価値を提供してまいります」（https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/・1回目）
+  - 「NCBは、鋳造業界をはじめ、フィラー用途やバイオマス用途など、さまざまな分野で活用されています」（https://www.itc-cera.co.jp/prod/cerabeads/・1回目）
+  - 「鋳造業界においては、高い耐熱性や低い熱膨張などの特性により、製品の高品質化に貢献しております」（https://www.itc-cera.co.jp/prod/cerabeads/・1回目）
+  - 「お客様の工業化プロセスに最適化した触媒が提供可能です」（https://www.itc-cera.co.jp/prod/aeronite/・1回目）
+  - 「お客様の抱える製法面の問題を共に解決致します」（https://www.itc-cera.co.jp/prod/aeronite/・1回目）
+  - 「お客様のご要望に合わせた触媒を受託生産致します」（https://www.itc-cera.co.jp/prod/aeronite/・1回目）
+  - 「WFCは、世界各国の技術者、研究者、企業関係者が集い、鋳造技術、材料、設備、環境対応などに関する最新の知見や取り組みを共有する、鋳造業界における国際的な会議です」（https://www.itc-cera.co.jp/news/wfc-2026%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%89%E3%81%AB%E3%81%A6%E3%80%81%E3%82%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%82%BA/・1回目）
+  - 「製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト」（https://www.ipros.com/product/detail/2000527866/・3回目）
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://www.ipros.com/product/detail/2000527866/・3回目）
+- お金の形：
+  - 「主要な建材原料であるセメントや、その中間原料であるクリンカー、またセメントと併用する事で建材の長期強度等機能強化が可能となる高炉水砕スラグ及びその微粉末を取り扱っています」（https://www.itc-cera.co.jp/works/products/・1回目）
+  - 「同微粉末、非鉄スラグ」（https://www.itc-cera.co.jp/prod/・1回目）
+  - 「加えて、高炉水砕スラグを粉砕し微粉末状とした高炉水砕スラグ微粉末も取り扱っています」（https://www.itc-cera.co.jp/prod/・1回目）
+  - 「高炉の出銑口に充填するマッド材や、各炉の補修の際、吹付けて使用する粉末状の耐火物などを取り扱っております」（https://www.itc-cera.co.jp/prod/・1回目）
+- いくら：
+  - 「4億970万円」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「91億円（2025年度）」（https://www.itc-cera.co.jp/prof/・1回目）
+  - 「今回の発表では、「再利用可能なワンサンドループシステム」と、「作業環境および環境負荷低減に配慮した人工砂」としてのセラビーズ®の特長をご紹介します」（https://www.itc-cera.co.jp/news/wfc-2026%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%89%E3%81%AB%E3%81%A6%E3%80%81%E3%82%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%82%BA/・1回目）
+  - 「4億900万円」（https://jobcatalog.yahoo.co.jp/company/1110018244/information/・3回目）
+  - 「8億5026万6000円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「53億335万7000円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「107億1389万4000円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「6億2974万6000円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「47億7309万円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「104億2810万円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「7億9259万円」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「41億4334万4000円」（https://catr.jp/companies/d0eff/22941・3回目）
+- 検索結果の抜粋：
+  - 「「伊藤忠セラテック」の代理店1社 注目ランキング【2026年】| Metoree — (伊勢久) エリアから伊藤忠セラテックの代理店を探す 代理店の支店や営業所等の各地拠点情報も含めて探すことができます。 中部 愛知県 全国の伊藤忠セラテックの代理店1社 伊勢久株式会社 代理店 伊藤忠セラテックを含め187社の代理店登録有り」（https://metoree.com/companies/44645/distributors/・3回目）
+  - 「セラミックスで、その先の世界を作る 伊藤忠セラテック株式会社 — 私たちのセラミックスは その先をつくるもの。 たとえば、持続可能な素材で 産業も環境も支えつづける。 新しい機能を生み出すことで カーボンニュートラルを目指す。 セラミックスにできることで より良い世界をつくっていく、 伊藤忠セラテックです。」（https://www.itc-cera.co.jp/・3回目）
+  - 「会社概要｜セラミックスで、その先の世界を作る 伊藤忠セラテック株式...日本｜主要子会社および関連会社｜伊藤忠商事株式会社世界有数の乾電池ブランド「Duracell」の日本市場における販売代理店...セラテックジャパン株式会社 | ファインセラミックスを加工する企業で...ベンダー別一覧 | CTC - 伊藤忠テクノソリューションズ — 会社名 伊藤忠セラテック株式会社 代表者 代表取締役社長 矢島 久嗣 設立 1960年12月 資本金 4億970万円 年商 91億円（2025年度） 決算期 3月末日（年1回） 取引銀行 あいち銀行・瀬戸信用金庫・ 三菱UFJ銀行・ みずほ銀行 他 適格請求書発行 事業者登録番号 ... 伊藤忠商事株式会社の「主要子会社および関連会社の日本」についてご紹介いたします。 伊藤忠商事は繊維、機械、金属、エネルギー、化学品、食料、住生活、情報、金融の各分野におい」（https://www.itc-cera.co.jp/prof/・3回目）
+  - 「【使用事例】ワンサンド-セラビーズの再生使用 伊藤忠セラテック | イ... — 伊藤忠セラテックの【使用事例】ワンサンド-セラビーズの再生使用の技術や価格情報などをご紹介。 新砂の補給量をきわめて低く抑えた運用が可能！ 複数の種類の砂を使い分ける手間を軽減イプロスでは 鋳物・金物装飾などBtoB向けの情報を多数掲載。」（https://www.ipros.com/product/detail/2000527866/・3回目）
+  - 「注目の出展社に聞く！伊藤忠セラテック株式会社｜ースマートエネルギ... — 伊藤忠セラテックは、このプロセスを効率化する「メタネーション触媒」を開発。 得意とするセラミックス技術による多孔質構造を活用し、触媒の耐久性と効率を大幅に向上させている。 この注目されている触媒が「エアロナイト」である。」（https://www.wsew.jp/hub/ja-jp/blog/article_82.html・3回目）
+  - 「会社概要｜セラミックスで、その先の世界を作る 伊藤忠セラテック株式...伊藤忠セラテックの企業概要・売上・業績など｜Yahoo!しごとカタログ#1481 決算分析 : 伊藤忠セラテック株式会社 第69期決算 当期純利益 6...伊藤忠セラテック株式会社の会社情報・決算公告 | 官報決算データベー...伊藤忠セラテック | 企業情報 | イプロスものづくり耐火物原料『アルミナイトボール』 伊藤忠セラテック | イプロスもの... — 会社名 伊藤忠セラテック株式会社 代表者 代表取締役社長 矢島 久嗣 設立 1960年12月 資本金 4億970万円 年商 91億円（2025年度） 決算期 3月末日（年1回） 取引銀行 あいち銀行・瀬戸信用金庫・ 三菱UFJ銀行・ みずほ銀行 他 適格請求書発行 事業者登録番号 ... 伊藤忠セラテックの会社概要や売上・業績などを詳細に掲載。他にも評判・クチコ」（https://www.itc-cera.co.jp/prof/・3回目）
+  - 「伊藤忠セラテックの企業概要・売上・業績など｜Yahoo!しごとカタログ — 伊藤忠セラテックの会社概要や売上・業績などを詳細に掲載。他にも評判・クチコミ・年収・求人・売上などの情報も。しごとカタログでは様々な角度で企業の評判を知ることができます。」（https://jobcatalog.yahoo.co.jp/company/1110018244/information/・3回目）
+  - 「伊藤忠セラテック株式会社の会社情報・決算公告 | 官報決算データベー... — 伊藤忠セラテック株式会社の会社情報を掲載しています。最新の2026年3月期決算は純利益8億5026万6000円、利益剰余金53億335万7000円、総資産107億1389万4000円です。社会保険被保険者数は130人です。親会社は伊藤忠商事株式会社で、グループ内の子会社297社も確認できます。所在地は愛知県瀬戸市 ...」（https://catr.jp/companies/d0eff/22941・3回目）
+  - 「伊藤忠セラテック | 企業情報 | イプロスものづくり — Jun 12, 2026 · 伊藤忠セラテックの企業情報や製品・サービス、関連カタログをご紹介。 耐火物原料や各種セラミックスのサプライヤー イプロスものづくりでは、セラミックスなど製造業向けの情報を多数掲載。」（https://mono.ipros.com/company/detail/2085761/・3回目）
+  - 「耐火物原料『アルミナイトボール』 伊藤忠セラテック | イプロスもの... — 伊藤忠セラテックの耐火物原料『アルミナイトボール』の技術や価格情報などをご紹介。 微量のMgOを添加し、結晶の異常成長を抑制！ 高温下における容積安定性に優れていますイプロスものづくりでは セラミックスなど製造業向けの情報を多数掲載。」（https://mono.ipros.com/product/detail/2000527872/・3回目）
+  - 「会社概要｜セラミックスで、その先の世界を作る 伊藤忠セラテック株式...セラテックジャパン株式会社 | ファインセラミックスを加工する企業で...カーボンニュートラル用触媒事業｜伊藤忠商事株式会社CO₂を、未来のエネルギーへ。エアロナイト触媒｜伊藤忠グループセラテックジャパンの事業領域 | セラテックジャパン株式会社受託製造サービス | 株式会社ウイセラ — 会社名 伊藤忠セラテック株式会社 代表者 代表取締役社長 矢島 久嗣 設立 1960年12月 資本金 4億970万円 年商 91億円（2025年度） 決算期 3月末日（年1回） 取引銀行 あいち銀行・瀬戸信用金庫・ 三菱UFJ銀行・ みずほ銀行 他 適格請求書発行 事業者登録番号 ... Sep 4, 2026 · 切断加工 研削加工 研磨加工 真空蒸着 Web販売・中古機械販売 事業領域 会社案内 設備一覧 品質保証 対応加工素材 」（https://www.itc-cera.co.jp/prof/・3回目）
+  - 「カーボンニュートラル用触媒事業｜伊藤忠商事株式会社 — カーボンニュートラル用触媒事業 伊藤忠セラテックでは、耐火物原料、人工鋳物砂（セラビーズ）で培ったセラミックス製造技術を活用して触媒の土台となる高機能セラミックス担体を独自特許で開発。」（https://www.itochu.co.jp/ja/business/general/project/17.html・3回目）
+- 取引先：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部6頁・検索5回）
+
+## 伊藤忠マシンテクノス株式会社
+- 公式URL：https://www.itcmt.co.jp/（search:ddgs:bing:伊藤忠マシンテクノス）
+- 設立：1966年4月（https://www.itcmt.co.jp/company/company.php・1回目）
+- 設立：1978年3月1日（https://www.itcmt.co.jp/company/company.php・1回目）
+- 設立：2013年7月2日（https://www.itcmt.co.jp/company/company.php・1回目）
+- 従業員数：366名 (2026年4月1日現在)（https://www.itcmt.co.jp/company/company.php・1回目）
+- 従業員数：299名 (2021年10月1日現在）（https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%BF%A0%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9・3回目）
+- 従業員数：363名 (2025年4月1日現在)（https://www.itochugroup-recruit.jp/shinsotsu/company/itcmt/・3回目）
+- 売上高：257億円 （2016年3月期）（https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%BF%A0%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9・3回目）
+- 売上高：512億円（2024年度/連結）（https://www.itochugroup-recruit.jp/shinsotsu/company/itcmt/・3回目）
+- 事業内容：繊維・製紙関連設備の輸入・輸出・国内販売 織布・紡績・ニット・染色/仕上加工等の繊維機械 合成繊維・高機能繊維製造設備 不織布製造設備 製紙・パルプ関連設備 工作機械、自動組立機、ロボット等の輸入・輸出・国内販売 自動車関連部品の加工・組立装置 航空機機体組立装置 鉄道車両関連設備、製鉄関連設備 各種産業機械の輸入・輸出・国内販売 フィルム・プラスチック・新素材加工機械 液晶・半導体関連製造/搬送/検査装置 環境・リサイクル・省エネルギー関連機器 二次電池製造関連機械 食品機械の輸入・輸出・国内販売 農産、食品、水産関連の加工・ロボット・自動化装置 醸造飲料、清涼飲料、乳業・医薬製造プラント設備 食品リサイクル、食品包装設備 上記に係るエンジニアリング・技術サービス業務及び 自動化・省人化設備に於けるトータルソリューションのご提案及び国内販売（https://www.itcmt.co.jp/company/company.php・1回目）
+- 事業内容：米国アーシェル社製食品用カッター及び粉砕機の販売・サービス 関連する機械・装置の販売・サービス（https://www.itcmt.co.jp/company/company.php・1回目）
+- 事業内容：工作機械・産業機械の販売・輸出入 上記設備のメンテナンス 上記設備の消耗品・予備品の販売・輸出入（https://www.itcmt.co.jp/company/company.php・1回目）
+- 誰から：
+  - 「繊維・製紙関連設備の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「工作機械、自動組立機、ロボット等の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「各種産業機械の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「食品機械の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠商事株式会社の合繊・プラスチック製造設備の輸入および国内販売部門を分離し、伊藤忠プラマック株式会社を設立」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「第8回 中国国際輸入博覧会 2025」（https://www.itcmt.co.jp/news/exhibition/・1回目）
+  - 「弊社では、繊維製品の製造に関わるあらゆる生産設備の取り扱いをしており、お客様のご要望に合わせ、国内・外の提携企業の設備をご提案させて頂いております」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「また、各種工作機械の販売はもちろん、周辺装置を含めたシステム全般の国内販売、輸出、輸入及びエンジニアリング・サービス業務までを幅広く行っています」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「食品機械部門では、食品・医薬品分野で国内外の製造メーカー様に対して、輸入機械を中心に、高いエンジニアリング力を組合せた機械提案を提供しています」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「あらゆる繊維関連設備（紡績・織布・染色/仕上加工・ニット・不織布）、製紙・パルプ関連設備及び自動化・省人設備を国内外の製造企業と提携し、お客様のニーズに合わせ、最適な設備提案をさせて頂きます」（https://www.itcmt.co.jp/products/Products/textile-nonwoven/・1回目）
+  - 「自動車・航空機・産業機械・精密業界向けの各種工作機械及び周辺装置を含めシステム全般の国内販売・輸出・輸入及びエンジニアリング・サービス業務を幅広く行っております」（https://www.itcmt.co.jp/products/cat/machine/・1回目）
+  - 「工作機械／輸入機」（https://www.itcmt.co.jp/products/cat/machine/・1回目）
+- 何をする：
+  - 「伊藤忠マシンテクノスは「繊維・製紙機械」「工作機械」「産業機械」「食品・医薬品機械」のエンジニアリング設計から設備選定、アフターサポートまで、トータルにサポートします」（https://www.itcmt.co.jp/・1回目）
+  - 「繊維・製紙関連設備の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「工作機械、自動組立機、ロボット等の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「各種産業機械の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「食品機械の輸入・輸出・国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「自動化・省人化設備に於けるトータルソリューションのご提案及び国内販売」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠商事株式会社の合繊・プラスチック製造設備の輸入および国内販売部門を分離し、伊藤忠プラマック株式会社を設立」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠繊維機器販売株式会社から伊藤忠テクスマック株式会社に社名変更」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠商事株式会社の繊維機械部品、用品および繊維製造加工設備の販売部門を分離し、伊藤忠繊維機器販売株式会社設立」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠重機械販売株式会社に商号変更」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「資本金1億円で伊藤忠重機械販売サービス株式会社設立」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠商事株式会社重機械部より分離独立し伊藤忠工作機械販売株式会社となる」（https://www.itcmt.co.jp/company/company.php・1回目）
+- 誰に：
+  - 「コンバーティング業界向けエンジニアリング体制を強化」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「弊社では、繊維製品の製造に関わるあらゆる生産設備の取り扱いをしており、お客様のご要望に合わせ、国内・外の提携企業の設備をご提案させて頂いております」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「また、商社機能を活かし、海外のお客様向けに日本の優れた設備の輸出にも携わっております」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「最新の不織布・紡績設備を製造し、業界を代表するトップメーカーです」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「当社では、国内外の先端技術を活用した工作機械を多数取り扱っており、自動車業界以外にも、航空機、半導体、精密業界など、様々な業界において取引を拡大しています」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「ステンレス製の堅固なシステムでリユースに対応しており、欧州大手医薬品メーカー様へも多数納入実績があり、コア技術の一つにスキッド技術があります」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「主にお菓子業界、冷凍食品業界で使用されており、例えばポテトチップスが製造されている大規模な製造工場では、人手で不良品、異物を取り除く事は困難なため、このような選別機が使用され、安全な食品を提供しています」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「技術・エンジニアリング機能を持ち、機械販売時の営業に対する技術サポート、エンジニアリング・設計業務、出荷前検査、各種ユーティリティー工事、 機械の据付け、試運転調整、操作指導、保守・メンテナンス用部品の供給、納入機器の点検・整備、トラブル処理など、基本計画からアフターサービスまで、顧客の要望を実現するために責任あるサポート体制を構築しております」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「私たちは全ての顧客に喜んで戴ける商品を目指し、自信と誇りあふれる設備を提供し続けます」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「当社の企業理念である「三方よし」に基づきISO9001規格で求められる要求事項に基づく品質マネジメントシステムを遵守し、有効性の継続的改善をもって品質の維持向上をはかり、顧客に喜んで戴ける設備を納入します」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「法令・規制要求事項の順守は当然のこととして、顧客要求事項を満たすことが如何に重要であるかの認識を、組織員全員に高める」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「顧客満足度評価の向上」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+- お金の形：
+  - 「当社からの建設業法に関わる見積依頼については、」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「上記設備の消耗品・予備品の販売・輸出入」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「価格決定方法に関しては、 不合理な原価低減要請を行いません」（https://www.itcmt.co.jp/company/csr.php・1回目）
+  - 「記事利用料金」（https://www.sen-i-news.co.jp/seninews/view/?article=425350・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%BF%A0%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9・3回目）
+  - 「工具・消耗品・備品」（https://mono.ipros.com/company/detail/90147/category/・3回目）
+  - 「実験器具・消耗品」（https://mono.ipros.com/company/detail/90147/category/・3回目）
+- いくら：
+  - 「3億円 (伊藤忠商事株式会社 全額出資)」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「資本金1億円で伊藤忠重機械販売サービス株式会社設立」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「伊藤忠システム機器株式会社と合併、資本金3億円に増資」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「資本金2億円に増資」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「資本金1億円に増資」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「発足時、本社 東京都中央区日本橋小舟町1丁目 資本金 1000万円」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「3,000万円」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「USD 1,000,000」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「USD 650,000」（https://www.itcmt.co.jp/company/company.php・1回目）
+  - 「飛行機の製造からスタートしたドルニエ社の製造する織機は、最先端技術とマイスター制度で培われた技術で完成された最高級の織機であり、全世界で現在稼働しています」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「ドルニエ社の織機で織られる自動車のエアバッグ基布・産業用フィルター・ガラス織物・カーボンやアラミド等の高機能繊維織物などは、全世界のトップ企業で採用され、産業資材分野においてドルニエ社の織機は必要不可欠となっております」（https://www.itcmt.co.jp/recognize/work.php・1回目）
+  - 「22億8800万円」（https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%BF%A0%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%82%B9・3回目）
+- 検索結果の抜粋：
+  - 「伊藤忠マシンテクノス ヤコブミューラーの日本事業継承 | THE SEN-I-N... — 5 days ago · 伊藤忠マシンテクノス ヤコブミューラーの日本事業継承 2026年10月28日 （水曜日） 伊藤忠マシンテクノスは、1日付でスイスの細幅織機大手、ヤコブミューラーグループと戦略的パートナーシップ契約を締結した。ヤコブミューラーが日本市場向けに展開していた事業を代理店として継承する ...」（https://www.sen-i-news.co.jp/seninews/view/?article=425350・3回目）
+  - 「ホーム | 伊藤忠マシンテクノス — Total Solution どんな課題にもワンストップで 伊藤忠マシンテクノスは「繊維・製紙機械」「工作機械」「産業機械」「食品・医薬品機械」のエンジニアリング設計から設備選定、アフターサポートまで、トータルにサポートします」（https://www.itcmt.co.jp/・3回目）
+  - 「会社情報 | 伊藤忠マシンテクノス — 伊藤忠システック株式会社 (2022年4月 伊藤忠マシンテクノス株式会社と経営統合) 2022年4月 伊藤忠マシンテクノスと経営統合 2011年4月 忠創科技股份有限公司（台湾）、騰新機械（上海）有限公司（中国）を子会社化、伊藤忠グループ産業機械事業のアジア地区一体化を図る 2008年4月 伊藤忠テク ...」（https://www.itcmt.co.jp/company/company.php・3回目）
+  - 「伊藤忠マシンテクノス、デンマーク社と代理店契約−乳製品向け装置で攻... — Jun 19, 2012 · 伊藤忠マシンテクノス（東京都千代田区、星野至昭社長、03・3506・3511）は、乳製品向け製造装置で攻勢をかける。デンマークの機械メーカー ...」（https://www.nikkan.co.jp/articles/view/211316・3回目）
+  - 「伊藤忠マシンテクノス (株)の入札結果・落札情報 | エヌ・サーチ — 入札結果・落札情報の一覧です。過去の案件の落札価格や落札業者、入札の参加業者などをご覧いただけます。類似案件の落札価格や競合他社の落札案件も、エヌ・サーチなら簡単に検索可能。14日間無料で利用可能！是非お試しください。」（https://nsearch.jp/rakusatsu_ankens/rakusatsu_kaisha/伊藤忠マシンテクノス(株)・3回目）
+  - 「伊藤忠マシンテクノス - Wikipedia — 伊藤忠マシンテクノス株式会社 （いとうちゅうマシンテクノス）は、 伊藤忠商事 100%出資の完全子会社。 工作機械 ・ 産業機械 ・食品機械を中心に取扱う機械専門 商社 である。」（https://ja.wikipedia.org/wiki/伊藤忠マシンテクノス・3回目）
+  - 「事業紹介 | 伊藤忠マシンテクノス — 伊藤忠マシンテクノス公式サイト「事業紹介」 水流交絡装置（Truetzschler社製／ドイツ） 最新の不織布・紡績設備を製造し、業界を代表するトップメーカーです。紡績分野では衣服、産業資材等に使用される製糸、不織布分野では自動車用内装材や、衛生材料用途に使用されるフェイスマスク ...」（https://www.itcmt.co.jp/recognize/work.php・3回目）
+  - 「すべての製品・サービス 一覧 | 伊藤忠マシンテクノス - Powered by ... — Jul 17, 2026 · 工作機械・産業機械・食品／医薬品機械が豊富にラインナップ 伊藤忠マシンテクノス株式会社の会社概要。 工作機械・産業機械・食品／医薬品機械を伊藤忠グループのグローバルネットワークで！ 最終更新日 2026年06月10日」（https://pr.mono.ipros.com/itcmt/product/category/・3回目）
+  - 「伊藤忠マシンテクノスの製品・サービス一覧｜イプロスものづくり — Sep 17, 2026 · 伊藤忠マシンテクノス の製品・サービス一覧です。 どんな課題にもワンストップで！機械専門商社として培った高い技術力 製品選定から、購買、設置、稼働後のアフターサポートなど機械設備導入のあらゆる課題を、豊富な技術力でサポートし続けてきた伊藤忠マシンテクノス。機械専門商社 ...」（https://mono.ipros.com/company/detail/90147/category/・3回目）
+  - 「ホーム | 伊藤忠マシンテクノス — 資格・認証 一級建築士を始めとする多彩な有資格技術者を擁する伊藤忠マシンテクノス。 その資格や認証をご紹介します。 会社紹介動画 当社の概要、歩んできた歴史、展開する事業、 そして私たちが大切にしている「Value」について ご紹介します。」（https://www.itcmt.co.jp/・3回目）
+  - 「【伊藤忠マシンテクノス】商品一覧 【AXEL】 アズワン — アズワンの【AXEL】【伊藤忠マシンテクノス】商品一覧のコーナーです。 AXELは研究開発、医療介護、生産現場、食品衛生など幅広い分野に1000万点以上の品揃えでお応えする商品サイト。 3000円以上ご注文で送料無料。」（https://axel.as-1.co.jp/asone/maker/MH12723/・3回目）
+  - 「工作機械・産業機械・食品／医薬品機械が豊富にラインナップ 伊藤忠マ... — Jun 10, 2026 · 製品選定から、購買、設置、稼働後のアフターサポートなど機械設備導入のあらゆる課題を、豊富な技術力でサポートし続けてきた伊藤忠マシンテクノス。機械専門商社として50年以上にわたり積み上げてきた実績を安心に替えて、さらに多くのお客様を支援いたします。 ノウハウを持った ...」（https://mono.ipros.com/product/detail/2000439573/・3回目）
+- 取引先：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部6頁・検索5回）

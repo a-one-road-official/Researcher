@@ -1,0 +1,834 @@
+{
+ "name": "エスケーファイン",
+ "aliases": [],
+ "context": "JIMTOF2024 AMエリア出展者ワークショップ。既存地図：国産セラミック光造形3Dプリンタ SZシリーズ（親会社 写真化学） /",
+ "researched_at": "2026-11-02T07:53:55.252113+00:00",
+ "official_url": "https://www.sk-fine.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2018年10月17日",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2018年10月1日",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "セラミックス造形部品の製造販売、セラミックス3Dプリンタ（3D光造形装置）の販売、委託開発・共同開発",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・3Dセラミック用プリンター（3D光造形装置）の販売 ・セラミック造形部品の製造販売 ・委託開発・共同開発",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5名",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計から材料調合・3D造形・焼成まで、セラミックス3Dプリンター（光造形）の全プロセス紹介",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス３Ｄプリンターで試作は可能？依頼の流れと費用感を解説",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サンプル販売サイト",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サンプル販売サイト",
+    "url": "https://www.sk-fine.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サンプル販売サイト",
+    "url": "https://www.sk-fine.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形サービスはこちら",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サンプル販売サイト",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "また、医療機器の部品で、⾦属からセラミックスへの置き換え試作が可能です",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "SZシリーズでは3Dならではの積層段差を利用した表面積拡大による触媒機能の向上や特異形状による流路設計など材料と機能の最適化により高付加価値化を実現します",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "量産前の試作モデルや⼩ロット、⾦型が⾼価な複雑形状の⽣産に向いています",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "実材料での構造違いによる機能性評価試作などに有効です",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス造形部品の製造販売、セラミックス3Dプリンタ（3D光造形装置）の販売、委託開発・共同開発",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "市場ニーズに合わせた造形装置からセラミックス部品製造・販売のご提供と共に、",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/channel/entry/post.php",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/channel/entry/post.php",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/channel/entry/post.php",
+    "pass": 1
+   },
+   {
+    "quote": "設計から材料調合・3D造形・焼成まで、セラミックス3Dプリンター（光造形）の全プロセス紹介｜エスケーファインチャンネル｜株式会社エスケーファイン [SK FINE]",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "設計から材料調合・3D造形・焼成まで、セラミックス3Dプリンター（光造形）の全プロセス紹介",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "0:10 3Dプリンターのデータ設計のコツ",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "・試作段階で実現可能性を知りたい",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "・試作内製化",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_22.php",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_22.php",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_22.php",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "岡山県工業技術センター主催おかやまものづくり大学「金属材料・分析評価機器セミナー」にて、技術の紹介セミナーを行いました",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第13回試作市場＆微細・精密加工技術展【2023年2月21(火)～2月22日(水) 東京都立産業貿易センター浜松町館4F 34】に出展致しました",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Techno-Frontier2022(第2回開発・設計DX）【2022年7月19日(水)～7月22日(金) 東京ビッグサイト東展示棟 2D-20】に出展致しました",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス3Dプリンタの造形受託と材料について｜エスケーファイン",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形・検証",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援・共同開発",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス3Dプリンタの造形受託と材料について",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社標準材料での試作・受託造形から持込み材料での検証・評価～造形まで",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "造形したい用途や目的（検証・試作など）をお知らせください",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "ご発注後、試作・検証を開始します",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス3Dプリンタ受託造形の特徴",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス3Dプリンタ受託造形の流れ",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "3D造形試作、造形難易度を踏まえてデザインの擦合せ、図面準備",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "3D造形時のサポ―ト、ガード設計",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "65,000,000円",
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エスケーファインは大阪大学ベンチャーキャピタル株式会社から５千万 円の追加投資を受けました",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エスケーファインは株式会社写真化学と大阪大学ベンチャーキャピタル株式会社から合計２億５千万円の追加投資を受けました",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "加速させるため大阪大学ベンチャーキャピタル株式会社から５千万円の追加投資を受けま",
+    "url": "https://www.sk-fine.co.jp/docs/220531.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５千万円の追加投資を受けました",
+    "url": "https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "キャピタル株式会社より合計２億５千万円の追加投資を受け、セラミック材を用いた３Ｄ",
+    "url": "https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本金 ３億９，９００万円（資本準備金含む）",
+    "url": "https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ベンチャーキャピタル株式会社（以下「ＯＵＶＣ」 ）から７，８００万円の出資を受け、今",
+    "url": "https://www.sk-fine.co.jp/up/docs/181203.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大阪大学ベンチャーキャピタルから７，８００万円の出資を受ける",
+    "url": "https://www.sk-fine.co.jp/up/docs/181203.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本金 ６，０００万円（会社設立時）",
+    "url": "https://www.sk-fine.co.jp/up/docs/181203.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "間金融機関との間で、ＯＵＶＣを無限責任組合員とする約１２５億円のＯＵＶＣ１号ファ",
+    "url": "https://www.sk-fine.co.jp/up/docs/181203.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "199,000,000円（資本準備金含む）",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社の標準材料だけでなくお客様の材料にも対応可能で、セラミックスの機能性を維持したまま実部品への展開が可能です",
+    "url": "https://www.sk-fine.co.jp/channel/entry/post.php",
+    "pass": 1
+   },
+   {
+    "quote": "材料の選択 ： 元素、粒径・粒度、形状、純度等、材料準備（お客様、弊社）",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、弊社、造形難易度を踏まえてデザインの擦合せ、図面準備",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な材料、お客様の材料で造形が可能です",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "入し各業界から高い期待を寄せていただいております",
+    "url": "https://www.sk-fine.co.jp/docs/220531.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "などその実用化に向け各業界から高い期待を寄せて頂いております",
+    "url": "https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部品での応用の可能性が広がり、各業界から高い期待を寄せて頂いております",
+    "url": "https://www.sk-fine.co.jp/up/docs/181203.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セラミックス お客様の材料",
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img01.png",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のニーズに",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに合わせて",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "エス・ケー・ファインはトライアル、試作の段階でリスクを最小限に抑えたいお客様の心強いパートナーとして実績を重ねています",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそお客様のご期待、ご要望に応える精度の高い対応が可能なのてす",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース TOP",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "内容・見積りのご確認",
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "pass": 1
+   },
+   {
+    "quote": "競争力のある品質と価格で迅速にお届けする",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "現代のニーズにマッチしたファインケミカルや素材、原料等を競争力のある品質と価格でお届けいたします",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "エス・ケー・ファインはシンガポール、中国、インドを中心にして、原料の供給製造の拠点のみならず、研究開発や試験のためのラボとも数多く提携しております",
+    "url": "https://skfine-trade.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プライバシーポリシー｜株式会社 エスケーファイン [ SK FINE ] — プライバシーポリシー｜株式会社 エスケーファイン [ SK FINE ] sk-fine.co.jp https://www.sk-fine.co.jp > policy",
+    "url": "https://www.sk-fine.co.jp/policy.php",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックス3Dプリンタの活用 事例 - エスケーファイン — セラミックス3Dプリンタの活用 事例 - エスケーファイン sk-fine.co.jp https://www.sk-fine.co.jp > case",
+    "url": "https://www.sk-fine.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケーファイン — 株式会社 エスケーファイン スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-31955",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケーファイン - Exhibitor Details — 株式会社 エスケーファイン - Exhibitor Details 高機能素材 Week https://www.material-expo.jp > en-gb > search > directory",
+    "url": "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3.org-47103275-4f31-494b-a59d-378bf2525a4c.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース｜株式会社 エスケーファイン [ SK FINE ] — ニュース｜株式会社 エスケーファイン [ SK FINE ] sk-fine.co.jp https://www.sk-fine.co.jp > news",
+    "url": "https://www.sk-fine.co.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーファイン 、3Dプリンター半額に 月内に新製品 — エスケーファイン 、3Dプリンター半額に 月内に新製品 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO80446890S4A500C2LKB000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケーファイン - ShareLab（シェアラボ） — 株式会社 エスケーファイン - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > 企業DB > 株式会社エスケーファイン",
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケーファイン 光 造形 方式・高精細セラミックス ... — 株式会社 エスケーファイン 光 造形 方式・高精細セラミックス ... ceatec experience https://exp.ceatec.com > related > ceatecnews2024_vol62",
+    "url": "https://exp.ceatec.com/related/ceatecnews2024_vol62/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sk-fine.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/company.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/post.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_5.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_22.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/consignment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/cat180/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/cat181/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/cat180/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/cat181/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_4.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_21.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/channel/entry/3d_20.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sk-fine.co.jp/docs/220531.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/SK_Fine_SZ6000_210930-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/20210428_NewsRelease_SKFine.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/up/docs/181203.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img02_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img02_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s01_img08.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sk-fine.co.jp/assets/img/case/s02_img01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://skfine-trade.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skchem.co.jp/client/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@skfine-japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/nfd/products/item/fine-fr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skfine-trade.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/nfd/products/item/fine-fr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3.org-47103275-4f31-494b-a59d-378bf2525a4c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/sk-fine/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エスケーファイン 代理店 契約",
+   "results": [
+    "https://www.sk-fine.co.jp/policy.php",
+    "https://skfine-trade.com/",
+    "https://skchem.co.jp/client/",
+    "https://metoree.com/companies/15374/distributors/",
+    "https://www.sk-kaken.co.jp/nfd/products/item/fine-fr/",
+    "https://tobila.com/news/release/p2431/",
+    "https://sharelab.jp/company/sk-fine/",
+    "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3.org-47103275-4f31-494b-a59d-378bf2525a4c.html",
+    "https://initial.inc/companies/A-31955",
+    "https://www.sk-fine.co.jp/company.php"
+   ]
+  },
+  {
+   "query": "エスケーファイン 導入事例",
+   "results": [
+    "https://www.sk-fine.co.jp/case/",
+    "https://www.youtube.com/@skfine-japan",
+    "https://www.sk-kaken.co.jp/nfd/products/item/fine-fr/",
+    "https://initial.inc/companies/A-31955",
+    "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3.org-47103275-4f31-494b-a59d-378bf2525a4c.html",
+    "https://sharelab.jp/company/sk-fine/",
+    "https://blog.ouvc.co.jp/topics/220531-1",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/ZO9TO4pxhYg",
+    "https://www.sk-fine.co.jp/channel/",
+    "https://www.youtube.com/watch?v=3jvu5KbcrwM"
+   ]
+  },
+  {
+   "query": "エスケーファイン 価格 OR 料金",
+   "results": [
+    "https://skfine-trade.com/",
+    "https://www.sk-kaken.co.jp/nfd/products/item/fine-fr/",
+    "https://www.sk-fine.co.jp/news/",
+    "https://www.nikkei.com/article/DGKKZO80446890S4A500C2LKB000/",
+    "https://www.paint-city.com/s/item-detail/30195/",
+    "https://sharelab.jp/company/sk-fine/",
+    "https://craft-mate.jp/shop/g/gSK-0143/?srsltid=AYCX9vIQDg1q4JEBy_EN7I7i-eeEtFcZ-0QmU9wz2s6CT7msv8nxeIp7",
+    "https://search.kakaku.com/%E5%A1%97%E6%96%99%20%E5%A1%97%E8%A3%85%20%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E5%8C%96%E7%A0%94/",
+    "https://www.sk-fine.co.jp/products/",
+    "https://mono.ipros.com/product/detail/2000533397/"
+   ]
+  },
+  {
+   "query": "エスケーファイン 受託 造形",
+   "results": [
+    "https://www.sk-fine.co.jp/consignment/",
+    "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3.org-47103275-4f31-494b-a59d-378bf2525a4c.html",
+    "https://sharelab.jp/company/sk-fine/",
+    "https://exp.ceatec.com/related/ceatecnews2024_vol62/",
+    "https://www.youtube.com/@skfine-japan",
+    "https://www.youtube.com/watch?v=9NKACpYmcUM",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/ZO9TO4pxhYg",
+    "https://www.sk-fine.co.jp/",
+    "https://www.opt-bg.jp/company/index/791",
+    "https://skfine.official.ec/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像14件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式18頁／PDF・画像14件／外部8頁・検索4回）"
+ }
+}

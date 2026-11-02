@@ -1,0 +1,812 @@
+{
+ "name": "ODEC（山地工場）",
+ "aliases": [],
+ "context": "金属3Dプリント＋自社機械加工 /",
+ "researched_at": "2026-11-02T07:51:12.971823+00:00",
+ "official_url": "http://www.odec-wakayama.com/",
+ "identified_by": "search:yahoo_jp:ODEC(山地工場)",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "平成15年7月31日",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "金属粉末造形（金属3Dプリンター）設計・造形受託・販売 光ファイバ関連製品、各種光学部品の設計・製造および販売 機械部品の設計・製造および販売 ゴムシールパッキンの製造・販売 WEBマーケティング事業（WEBコンサルティング） トレーディング事業",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "70名",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "開発のための試作品から製品改良まで様々な金属加工ニーズにこたえることができます",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ＷＥＢサイト改善、ＷＥＢプロモーション支援はもちろん、ＷＥＢ戦略や社内ＷＥＢ担当者教育も行います",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "光ファイバ関連製品や各種光学部品を中心とした、金属部品の設計から加工・製造、販売を行っています",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シール製品の一貫製造請負やチーム型請負受託もお任せください",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ODEC金属3Dプリンター造形サービス",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【設計・開発職必見】３Ｄデータからそのまま製作",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末造形（金属3Dプリンター）設計・造形受託・販売",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "光ファイバ関連製品、各種光学部品の設計・製造および販売",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械部品の設計・製造および販売",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ゴムシールパッキンの製造・販売",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "WEBマーケティング事業（WEBコンサルティング）",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "アッセンブリ・検査検品受託",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "チーム型請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "その他請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "アッセンブリ作業・検査検品の請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴムシールパッキン製造請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて、「プレス成型から包装出荷までの一貫製造請負」や一部工程のみの外注対応、「金型製作からの試作」などあらゆる請負形態に対応可能です",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "貴社の工場内にて、製造ラインを丸ごと受託いたします",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "製造受託のことならなんでもお任せください",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "量産前の試作・製造条件出しからご相談いただくことが可能です",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "社内の技術リソースが足りない場合も、試作から製造条件出し、評価までをお任せいただくことで量産化をサポートいたします",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "アッセンブリ・検査検品受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "チーム型請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "その他請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産品請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "新規品の金型製作や、量産までの試作・条件出しも対応します",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の製作や、量産のための製品試作・評価も一貫して対応することが可能です",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "アッセンブリ・検査検品受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "チーム型請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "その他請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産品請負受託",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴムシールパッキンの金型図面作成から製品の条件出し、金型製作、試作評価、量産まで一貫してお任せいただくことで、量産化までのスピードを圧倒的に短縮して生産開始することが可能です",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "また製品試作や評価・条件出しなど社内のリソースをかけずにスタートすることができるため、大きなコスト削減効果もあります",
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "pass": 1
+   },
+   {
+    "quote": "部品の設計・製造からアッセンブリまで一貫生産、",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、金属部品製造を設立当初より行っており、お客様のニーズに合わせた製品設計から製造、最終製品のアッセンブリまですべて対応可能",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製造（アッセンブリなど）で使用する治具類や新規設計・製作および検査装置類におきましてもお客様のニーズに合わせて対応が可能です",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工・樹脂加工など部品加工、切削加工なら当社へお任せください！試作・小ロット・特急対応も承ります！",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "試作・小ロット品に適した機械設備・オリジナルの刃物・治具工を駆使して、",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "■各種光学部品、機械部品の設計、製造および販売",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品開発・試作から】金属３Ｄプリンター造形サービス",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター造形サービス パンフレット",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託の他企業",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "台湾／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "ODEC金属加工 | ステンレス・アルミの金属加工なら、試作・小ロット・短納期対応も",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス、アルミの金属加工ならODEC金属加工へ、１個からの試作・小ロット・短納期対応も",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "１個からの試作・小ロット・短納期対応も",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "１個からの試作も迅速かつ丁寧に加工します",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "１個からの試作の",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "和歌山県有田市にあります「株式会社ODEC（オデック）」は、NC旋盤、マシニングセンター、ワイヤーカット及び汎用機械を用いた金属部品の切削を中心とし、試作・小ロット品に適した機械設備・オリジナルの刃物・治工具を駆使して、各種精密部品の加工を行う、少数精鋭の発想力豊かな工場です",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "一点ものやオリジナル製品の設計から製作も行い、幅広いニーズにお応えします",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様に満足の頂ける製品を提供いたします",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ODEC独自のネットワークから、セレクトした商品・サービスを提供し、お客様のコストメリットを最大限追求いたします",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化が難しいアッセンブリ作業、検査・検品作業など、お客様のお悩みに合わせ、フレキシブルな製造請負サービスを提供します",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "工作設備はNC旋盤・マニシニングセンター・ワイヤカットetcで精度が高く品質の良い製品造りを心がけ、お客様に満足して頂けるようにと日々努めております",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお悩みに合わせて、フレキシブルに製造請負パターンをご提案いたします",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客クレームなどで突発的な大量作業が発生した！こんな時は、ODEC製造請負サービスにご相談ください",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて、「プレス成型から包装出荷までの一貫製造請負」や一部工程のみの外注対応、「金型製作からの試作」などあらゆる請負形態に対応可能です",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスだけ・・・アッセンブリだけ・・など個別の工程だけでなく、まとめての製造請負や、チーム型の現場請負などお客様のニーズに合わせたご提案が可能です",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "外部に作業を委託する理由としては、社内リソースだけでは、顧客の納期・品質要求にこたえることが難しい場合かと思います",
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は製品の発注を行うだけでその後の製造・出荷までの管理をすべてお任せいただくことができます",
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の期待値を超える製造サービスを",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、金属部品製造を設立当初より行っており、お客様のニーズに合わせた製品設計から製造、最終製品のアッセンブリまですべて対応可能",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製造（アッセンブリなど）で使用する治具類や新規設計・製作および検査装置類におきましてもお客様のニーズに合わせて対応が可能です",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "…等、豊富な種類の設備でお客様のニーズに合わせた製品をご提供します",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "「すぐに欲しい！使いたい！」そんなお客様のニーズにお応えするために、短時間でのお見積りを心がけています",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "高精度な測定によりお客様にご満足頂ける品質の確保に取り組んでいます",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "「すぐに欲しい！すぐに使いたい！」そんなお客様のニーズにお応えするために、最短時間でのお見積りを心がけています",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい検査基準をクリアすることによってお客様より高い評価を頂いています",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "製造グループと検査グループによる万全のトリプルチェック体制及びキーエンス製画像測定器・マイクロスコープ、CNC画像測定器（３次元投影機）など高精度な測定によりお客様にご満足頂ける品質の確保に取り組んでいます",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "精密切削加工のプロとして品質を追求し、少人数だからこそできる細かい丁寧な「モノづくり」を目指し、一つひとつの製品に真心をこめて、「情熱」「誠実」「挑戦」「スピード」「個性」をモットーに常にユーザーニーズを意識した品質管理を心がけ、生産体制を確立してまいりました",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "私も、AM事業Gの担当として、展示会で来場者のお客様へ対応をさせていただきました",
+    "url": "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "無料お見積り随時受付",
+    "url": "http://www.odec-wakayama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末造形（金属3Dプリンター）設計・造形受託・販売",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "無料お見積り随時受付",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット、短納期、低価格に自信があります",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "「すぐに欲しい！使いたい！」そんなお客様のニーズにお応えするために、短時間でのお見積りを心がけています",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "※短納期、特急対応もお任せください！見積りから納品まですべてスピード対応します",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ・見積り",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "見積りから納品まで",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「すぐに欲しい！すぐに使いたい！」そんなお客様のニーズにお応えするために、最短時間でのお見積りを心がけています",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "スピード見積回答！！",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「見積依頼をしてもなかなか回答が戻ってこないなあ…」",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属加工指値見積サービス」",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "９００円の希望価格（指値）を入力して",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "指値見積依頼をする",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "無料お見積り随時受付！！",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・ご相談",
+    "url": "http://3d.kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "良好な熱特性および高い強度重量比を備えた軽量部品用金属粉末",
+    "url": "http://3d.kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・ご相談フォーム",
+    "url": "http://3d.kinzoku-kakou-odec.com/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "2,000万円",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な通信用コネクタはもちろんのこと特殊なコネクタの端末や丸形、矩形、ライン状など様々な形状を有するバンドルファイバの端末も対応できます",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "各種コネクタやバンドルファイバのスリーブなどの研磨においては、その仕様に合わせて研磨機・研磨紙・研磨剤・研磨時間など最適に選択して対応させて頂きます",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "バンドルファイバ",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "多分岐形状かつファイバ配列指定など多種多様な要求仕様になり得るバンドルファイバの製造を行っております",
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、単価１,０００円の加工コストに対し、",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "９００円の希望価格（指値）を入力して",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ODEC | 企業情報 | イプロスものづくり — ODEC | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 金属加工・樹脂加工会社なら和歌山の株式会社 ... — 会社概要 | 金属加工・樹脂加工会社なら和歌山の株式会社 ... 株式会社 ODEC http://www.odec-wakayama.com > profile",
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "ODEC 金属加工 | ステンレス・アルミの金属加工なら、試作 ... — ODEC 金属加工 | ステンレス・アルミの金属加工なら、試作 ... kinzoku-kakou-odec.com http://kinzoku-kakou-odec.com",
+    "url": "http://kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "営業グループの話 - ODEC ブログ 毎週更新中 — 営業グループの話 - ODEC ブログ 毎週更新中 Jimdo https://odec-blog.jimdofree.com > 営業グループの話",
+    "url": "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/%E5%96%B6%E6%A5%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E8%A9%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "専用機の設計製作 名古屋の自動車外装部品用金型・設備 ... — 専用機の設計製作 名古屋の自動車外装部品用金型・設備 ... 株式会社オデック https://odec-japan.sakura.ne.jp > introduction",
+    "url": "https://odec-japan.sakura.ne.jp/introduction.html",
+    "pass": 3
+   },
+   {
+    "quote": "SDGsへの取り組み | 金属3D・金属加工なら株式会社 ODEC ... — SDGsへの取り組み | 金属3D・金属加工なら株式会社 ODEC ... 株式会社 ODEC http://www.odec-wakayama.com > sdgs",
+    "url": "http://www.odec-wakayama.com/sdgs.html",
+    "pass": 3
+   },
+   {
+    "quote": "ODEC のこと — ODEC のこと Jimdo https://odec-blog.jimdofree.com > ホーム-1 > odecのこと",
+    "url": "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 受託造形 ｜金属AM×精密切削加工｜ ODEC — 金属3Dプリンター 受託造形 ｜金属AM×精密切削加工｜ ODEC 3d.kinzoku-kakou-odec.com http://3d.kinzoku-kakou-odec.com",
+    "url": "http://3d.kinzoku-kakou-odec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品開発・試作から】金属3Dプリンター 造形 サービス ODEC — 【製品開発・試作から】金属3Dプリンター 造形 サービス ODEC 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 試作 > 3Ｄプリンタ",
+    "url": "https://mono.ipros.com/product/detail/2000427433/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ODEC 】高品質！金属3Dプリンターの 受託造形 ！ - YouTube — 【 ODEC 】高品質！金属3Dプリンターの 受託造形 ！ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=y6RdpJkP3lM",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.odec-wakayama.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/outsouring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/assembly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/outsouring/press/integrated_production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.odec-wakayama.com/outsouring/press/consistent_support/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://kinzoku-kakou-odec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtek-fuji.co.jp/adfactory/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://kinzoku-kakou-odec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2061041/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ODEC(山地工場)",
+   "results": [
+    "https://mono.ipros.com/company/detail/2061041/",
+    "http://www.odec-wakayama.com/profile.html",
+    "https://metoree.com/companies/48283/",
+    "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/",
+    "http://kinzoku-kakou-odec.com/",
+    "https://www.spexa.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%8F%EF%BD%84%EF%BD%85%EF%BD%83.org-04e082fe-3d0b-4c79-8ac8-3212a7dcd7f8.html",
+    "https://odec-blog.jimdofree.com/2023/05/13/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99/",
+    "https://yarukiouendan.or.jp/digitalguide/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-odec/"
+   ]
+  },
+  {
+   "query": "ODEC(山地工場) 代理店 契約",
+   "results": [
+    "https://mono.ipros.com/company/detail/2061041/",
+    "http://www.odec-wakayama.com/profile.html",
+    "http://kinzoku-kakou-odec.com/",
+    "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/%E5%96%B6%E6%A5%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E8%A9%B1/",
+    "https://odec-japan.sakura.ne.jp/introduction.html",
+    "https://www.odec-trading.com/",
+    "https://www.ncsol.co.jp/partner/agency/",
+    "https://www.robot-digest.com/contents/?id=1603098394-271265",
+    "http://www.odec-wakayama.com/outsouring/facility/",
+    "https://keiyaku-watch.jp/media/keiyakuruikei/hanbaidairitenkeiyaku/"
+   ]
+  },
+  {
+   "query": "ODEC(山地工場) 導入事例",
+   "results": [
+    "http://www.odec-wakayama.com/sdgs.html",
+    "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/",
+    "https://www.adtek-fuji.co.jp/adfactory/case/",
+    "http://kinzoku-kakou-odec.com/",
+    "https://www.oki.com/jp/manufacture/case/",
+    "https://yachiyo-sol.com/library/seizogyo-dx-jirei-chusho/",
+    "https://mentena.biz/insight/factory-dx-cases/",
+    "https://www.oce.co.jp/example/dx/dx_introduction3/",
+    "https://www.cct-inc.co.jp/koto-online/archives/63"
+   ]
+  },
+  {
+   "query": "ODEC(山地工場) 価格 OR 料金",
+   "results": [
+    "https://mono.ipros.com/company/detail/2061041/",
+    "http://www.odec-wakayama.com/profile.html",
+    "http://kinzoku-kakou-odec.com/",
+    "https://odec-blog.jimdofree.com/%E3%83%9B%E3%83%BC%E3%83%A0-1/odec%E3%81%AE%E3%81%93%E3%81%A8/",
+    "https://mono.ipros.com/cg2/%E9%83%A8%E5%93%81%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5/",
+    "https://www.youtube.com/watch?v=y6RdpJkP3lM",
+    "https://precisionmachining-hikaku.com/list/kinzoku-kakou-odec/",
+    "https://www.odec-trading.com/products/3dprinter-bp-service/plate/",
+    "https://yarukiouendan.or.jp/digitalguide/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-odec/",
+    "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html"
+   ]
+  },
+  {
+   "query": "ODEC(山地工場) 受託 造形",
+   "results": [
+    "https://mono.ipros.com/company/detail/2061041/",
+    "http://3d.kinzoku-kakou-odec.com/",
+    "http://www.odec-wakayama.com/profile.html",
+    "https://mono.ipros.com/product/detail/2000427433/",
+    "https://www.youtube.com/watch?v=y6RdpJkP3lM",
+    "https://www.spexa.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%EF%BD%8F%EF%BD%84%EF%BD%85%EF%BD%83.org-04e082fe-3d0b-4c79-8ac8-3212a7dcd7f8.html",
+    "https://metoree.com/companies/48283/",
+    "https://www.nikkan.co.jp/articles/view/792823",
+    "https://odec-blog.jimdofree.com/20200128blog/",
+    "https://mono.ipros.com/company/detail/2061041/category/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部8頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部8頁・検索5回）",
+  "誰から": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

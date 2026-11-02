@@ -1,0 +1,1398 @@
+{
+ "name": "丸文",
+ "aliases": [],
+ "context": "独自の3DMD（Dynamic Material Deposition）技術による金属AMと高精度表面コーティング（次世代3Dプリンタ展2026出展） /",
+ "researched_at": "2026-11-02T08:03:41.176221+00:00",
+ "official_url": "https://www.marubun.co.jp/",
+ "identified_by": "search:ddgs:google:丸文",
+ "profile": {
+  "設立": [
+   {
+    "label": "創　業",
+    "value": "弘化元年（1844年）",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設　立",
+    "value": "昭和22年（1947年）7月",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "半導体や電⼦部品、システム機器などの国内外の先端エレクトロニクス製品の販売 丸文の製品一覧（商品別）を見る＞",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "半導体や電子部品、システム機器などの国内外の先端エレクトロニクス製品を販売する商社",
+    "url": "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "pass": 3
+   },
+   {
+    "label": "■事業内容",
+    "value": "丸文株式会社のシステム計画の策定から開発、運用全般",
+    "url": "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "213,425百 万円（連結：2026年3月期） 158,556 百万円（単体：2026年3月期）",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,193 名（連結：2026年3月31日現在） 644 名（単体：2026年3月31日現在）",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "■従業員数",
+    "value": "48名（2010年 4月現在）",
+    "url": "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エッジAI分野の技術サポートを強化",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【無料】11月24日開催 LTspiceハンズオンセミナー(基礎編)ご案内",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【無料】電源設計を簡略化できるモジュール型設計とはセミナー",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【無料】はじめてのモータドライバ編「モータの基礎とモータドライバ」セミナー",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体や電⼦部品、システム機器などの国内外の先端エレクトロニクス製品の販売",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また情報通信技術のコンサルテーションも提供し、お客様の課題解決に貢献します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "またグローバルな販売ネットワークを強みとし、海外への生産移管に合わせて国内同様のきめ細かい供給サポートを展開します",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器および先進コンポーネントの販売・保守サービスを取り扱い、高い専門性を強みとして丸文グループが一体となってソリューションを提供します",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーファーストの精神でお客様に寄り添い、高付加価値の商品・サービスを販売しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また米国との提携によるグローバル販売網を通じて、現地での部材調達、生産移管サポートを行っています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "専門の技術サービス部門やエンジニアリングサービス会社を有し、機器の導入から据付・保守までワンストップのサービスを提供しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の技術情報をお客様に提供するとともに、販売活動やエンジニアリングサービスを通じて得られた情報をもとに、社会やお客様が抱える課題、予見されるニーズを分析・把握し、新たなソリューションやビジネスモデルの創出につなげています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "機械器具および日用雑貨類の販売を目的に中善商事株式会社を設立",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京通信工業株式会社（現：ソニー株式会社）と折半で丸泉株式会社を設立し、国産初のテープレコーダーの販売を開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Rocke International, Inc.社と総代理店契約を締結し、米国製機器の輸入販売を開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "先端輸入機器の販売を開始し、エレクトロニクス商社としての第一歩を踏み出す",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Ampex Corp.社と販売代理店契約を締結し計測機器の取扱開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、航空宇宙機器、光学機器、分析機器等の外国製機器の輸入販売を順次開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内で初めて集積回路輸入・販売",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "集積回路を日本国内に初めて輸入・販売",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文が日本国内に初めて集積回路を輸入・販売した（デバイス事業の始まり）",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本テキサス・インスツルメンツ株式会社（半導体製品）と販売代理店契約締結",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セイコーエプソン株式会社（IC製品）と販売代理店契約締結",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、製品のカスタマイズや据付・保守メンテナンス、リペア、キャリブレーションなど多様なサービスを提供している",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文通商株式会社が理化学機器を販売する株式会社北信理化を子会社化（2019年 丸文通商株式会社に吸収合併）",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文通商株式会社が医用機器を販売する株式会社池田医療電機を子会社化（2017年 丸文通商株式会社に吸収合併）",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製品を販売する株式会社ケィティーエルを子会社化（2018年 丸文株式会社に吸収合併）",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは半導体や電子部品、電子応用機器等の国内外のエレクトロニクス商品の仕入販売を主な事業とする商社であります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "主な販売先は通信機器や産業機器、車載用電子機器、民生機器、パソコン周辺機器等を開発・製造する国内電子機器メーカーであり、顧客企業やエレクトロニクス市場全体の需要が大きく変動した場合、当社グループの経営成績に影響を及ぼす可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、安定的なビジネスの維持・拡大のため、販売先の拡大や付加価値の高い商品の開発拡充に取り組んでおりますが、当社の施策を以って当該リスクを完全に回避できるものではなく、市場が急変した場合には、大きな影響を受ける可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、技術革新・顧客ニーズへの対応のため、商品ラインアップの拡充や技術サポート力の強化、品質管理体制の整備などに取り組んでおります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、新規商材の販売権の確保や関係強化を目的として、仕入先への出資や開発資金の貸付などの投融資を行う場合があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、各種法令・規制の最新情報の入手に努めるとともに、全社員へのコンプライアンス教育や関係者へのセミナー等を通じて啓蒙活動を行い、法令・規制の遵守に取り組んでおります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは新卒採用や通年での経験者採用、全社横断的な教育研修ならびにOJTによる育成、本人の能力を活かした適材適所の人材配置などを実施しておりますが、人材の確保や育成ができない場合、当社グループの将来の経営成績に影響を及ぼす可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/ir/stock/incorporatiion/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "設立当時の丸文は日用雑貨や一般機械の販売を行っていましたが、1952年に米国機械商社と販売代理店契約を締結し、米国製の先端機器の取り扱いを開始しました",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文通商株式会社・・・・・・・電子機器の仕入販売",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文ウエスト株式会社・・・・・電子機器の仕入販売",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社フォーサイトテクノ・・電子機器の技術サポートなどのエンジニアリングサービス",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Marubun/Arrow Asia ,Ltd. ・・・アジア地域での半導体および電子部品の仕入販売",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体や電子部品を販売する「デバイス事業」、電子機器およびシステムの販売・保守サービス事業を展開する「システム事業」、ICTソリューション・ロボット・ソフトウェアなどの先端商材を取り扱う「アントレプレナ事業」の3事業セグメント体制で事業を推進しています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイス事業の販売先および扱っている商品の用途について教えてください",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイス事業の主な販売先は、日本を代表する大手電機メーカーです",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMメーカーやEMS （生産受託サービス）企業などの顧客に商品を提供しています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/products/trend/industrial_dx_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/products/trend/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル5Gネットワークに関連した情報発信とネットワーク設計・構築・運用に欠かせない要素技術、各種商品・ソリューションのご紹介",
+    "url": "https://www.marubun.co.jp/products/trend/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/products/trend/robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/products/trend/data_center_cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/products/trend/millimeter_wave_radar/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品小ロット販売",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "「誰一人取り残さない教育」の真意とは？インクルーシブ教育の歩みとICTが拓...",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品開発ニーズと先端技術を結びつけ、天空の女神 ディオネのように、未来に向けた新たな可能性を追求してまいります",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代情報通信技術を組み合わせ、お客様の課題解決に貢献します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また情報通信技術のコンサルテーションも提供し、お客様の課題解決に貢献します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "通信の高速化・大容量化・低遅延化を実現する次世代情報通信技術を虹のように組み合わせ、お客様のビジネス環境の大きな変革を支えてまいります",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "付加価値の高い商品を取り揃え、お客様の早期製品開発や市場展開に貢献してまいります",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "最適なソリューションを提供し、お客様に”ビジネスの実り”を提供します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "様々なアプリーケーションに特徴を活かした最適なソリューションを提供し、お客様のビジネスチャンスに貢献してまいります",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "最適なソリューションでお客様の“時間”に貢献します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クロノスカンパニーは、アナログICやメモリーなどの半導体製品をはじめ、水晶デバイス、センサ、コネクタ、プリント基板などの電子部品まで、国内外の競争力の高い製品を取り揃え、お客様のご要望に応じて最適なソリューションをタイムリーに提案してまいります",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "カイロスカンパニーは、お客様がビジネスチャンスを的確に捉えることができるよう、最善な提案をタイムリーに提供する事を目指し、多種多様なアナログ製品、最新のデジタルICから電子部品まで広範囲な製品群を揃え、様々なアプリケーションに最適な解決策を提供します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の競争力を高める価値ある商品を提供します",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が市場競争を勝ち抜くための価値ある商品と情報・サービスを熱意をもってご提供いたします",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス商社として「お客様のメリットに直結するソリューション」を最適な形で提供します",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の約50拠点でグローバルな活動を展開し、3,000社を超えるお客様に対して、800社以上の仕入先の製品やサービスを提供しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品のディストリビューションを担い、付加価値の高い商材をお客様へ提供します",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また市場のニーズに即した新規商材の開発を推進し、お客様のモノづくりを支援します",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "またお客様に最適なビジネスモデルを提案します",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "創業時から継承されてきた「先見」と「先取」のDNAに基づく目利き力で、最先端の優れた製品・技術・サービスを発掘し、いち早くお客様に提供しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "800社以上の仕入先の製品・サービスを取り扱い、戦略的なパートナーシップのもと、お客様が求める商材を世界中からタイムリーに調達しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーファーストの精神でお客様に寄り添い、高付加価値の商品・サービスを販売しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに培った信頼と資金調達力を強みに、仕入先とお客様との間に立って、企業間信用をもとにした取引を行っています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "またお客様のニーズに対応し、複数の機器や部品、ソフトウエアを組み合わせ、最適なシステムを提案しています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の技術情報をお客様に提供するとともに、販売活動やエンジニアリングサービスを通じて得られた情報をもとに、社会やお客様が抱える課題、予見されるニーズを分析・把握し、新たなソリューションやビジネスモデルの創出につなげています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "主な販売先は通信機器や産業機器、車載用電子機器、民生機器、パソコン周辺機器等を開発・製造する国内電子機器メーカーであり、顧客企業やエレクトロニクス市場全体の需要が大きく変動した場合、当社グループの経営成績に影響を及ぼす可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、安定的なビジネスの維持・拡大のため、販売先の拡大や付加価値の高い商品の開発拡充に取り組んでおりますが、当社の施策を以って当該リスクを完全に回避できるものではなく、市場が急変した場合には、大きな影響を受ける可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "技術革新・顧客ニーズへの対応",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが属するエレクトロニクス業界は、技術革新や事業環境の変化のスピードが極めて速く、顧客が当社グループに求める機能も年々、多様化・複雑化しております",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが提供する商品が陳腐化した場合や顧客ニーズへの対応遅れなどが発生した場合には、当社グループの経営成績に影響を及ぼす可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、技術革新・顧客ニーズへの対応のため、商品ラインアップの拡充や技術サポート力の強化、品質管理体制の整備などに取り組んでおります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが取り扱う半導体や電子部品は、お客様からの要求納期にジャストインタイムで所要量を提供できるよう常に一定量の在庫を確保、保有しております",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、顧客の需要動向ならびに仕入先の供給状況の把握に努め、在庫が滞留しないよう在庫管理を徹底しておりますが、当初見込んでいた所要量に差異が生じた場合には、在庫の評価損や廃棄損が生じる可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/ir/stock/incorporatiion/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の約50拠点でグローバルな活動を展開し、3,000社を超えるお客様に対して、800社以上の仕入先の製品やサービスを提供しています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイス事業の販売先および扱っている商品の用途について教えてください",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイス事業の主な販売先は、日本を代表する大手電機メーカーです",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイス事業は世界の半導体業界をリードする強力な仕入先を有しています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMメーカーやEMS （生産受託サービス）企業などの顧客に商品を提供しています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文の幅広い顧客基盤やセールスパワーと、Arrow社の豊富な取扱商品やグローバルな展開力を活かし、デバイス事業のお客様の海外生産移管に機敏に対応し、生産拠点がどこにあっても、国内同様のきめ細かい部材供給サービスを提供しています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "業界の同業他社にはどのようなところがありますか？",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/trend/industrial_dx_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様な設備機器と連携するIoTプラットフォームをはじめ、異常検知・予知保全をサポートするAIパッケージ、設備のネットワーク監視システム、作業の標準化や効率化を図る作業分析AIや、ドキュメント生成AIを活用した書類生成・管理の自動化など豊富なソリューションで、お客様のDX化をサポートいたします",
+    "url": "https://www.marubun.co.jp/products/trend/industrial_dx_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/trend/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/trend/robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/trend/data_center_cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "日々変化するお客様のニーズに合わせて柔軟なデータのストア形態、業務の効率化・最適化を支援する新たなストレージ技術、商品のご紹介",
+    "url": "https://www.marubun.co.jp/products/trend/data_center_cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/trend/millimeter_wave_radar/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル5Gの導入事例を紹介！導入のメリットやデメリットも解説",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "AI警備ロボットの最新技術と導入事例：次世代のセキュリティソリューション",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/use/communication_network/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/use/monitoring_security/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のプライバシー",
+    "url": "https://www.marubun.co.jp/products/use/measurement_detection/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当該リスクの顕在化に備え、当社グループは事業計画の策定に当たっては直近の在庫保有状況や回転期間に応じて一定額の引当を行っておりますが、その時期や影響額等の影響度を予め正確に見積もることは困難であると認識しております",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "為替相場や金利の変動リスクについては、当社グループの施策を以て当該リスクを完全に回避できるものではなく、その時期や影響度を事前に見積もることは困難であると認識しております",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "かかるリスクの顕在化の時期や影響度については予め見積もることは困難でありますが、顕在化の可能性は現時点では高くないと認識しております",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "その場合には、事業活動の縮小など当社グループの経営成績及び財政状態に大きな影響を及ぼす可能性がありますが、かかるリスクが顕在化する時期や影響度を予め見積もることは困難であると認識しております",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "・AI・ロボティクス（ヒューマノイドAIロボット、ミリ波レーダモジュール、超小型電力モジュール、ワイヤレス給電技術ライセンス、カーボンナノチューブ、電子聴診器）",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/products/trend/industrial_dx_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/trend/industrial_dx_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/products/trend/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/trend/5g/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/products/trend/robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/trend/robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/products/trend/data_center_cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/trend/data_center_cloud/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/products/trend/millimeter_wave_radar/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/trend/millimeter_wave_radar/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談・お見積り",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/communication_network/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/monitoring_security/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/measurement_detection/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/quality_control_inspection/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/adhesion_joining/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/product_manufacturing_processing/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/radar_satellite_communication/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/irradiation/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/modeling/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/development_system_environment_construction/",
+    "pass": 1
+   },
+   {
+    "quote": "IP・ライセンス",
+    "url": "https://www.marubun.co.jp/products/use/small_lot_components/",
+    "pass": 1
+   },
+   {
+    "quote": "見積もり依頼",
+    "url": "https://jpcb.jp/pickup/?m=report&pkid=410&index=3",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "62億1,450万円（2026年4月1日現在）",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "万円（連結：2026年3月期）",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "百万円（単体：2026年3月期）",
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "堀越合資会社と中善商事株式会社が合併し、丸文株式会社を資本金703万円で設立した",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、為替相場が著しく変動した場合には、円建て換算での売上高や売上総利益額、棚卸資産等の評価において大きな影響を及ぼすことがあり、その結果、当社グループの経営成績に悪影響を及ぼす可能性があります",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、海外連結子会社の財務諸表を円換算する場合にも影響を及ぼします",
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "1,422円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,106円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,552円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,819円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,062円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,547円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,572円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,366円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,014円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,260円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,030円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,736円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,860円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,255円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,625円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,949円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "1,780円",
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画「丸文 Nextage（ネクステージ） 2027」の最終年度となる 2027年度に「連結経常利益 80 億円、ROE 9.0％」以上の達成を目標としています",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金 100 百万円",
+    "url": "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■資 本 金：5,000万円",
+    "url": "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「開発ツール」、「ミドルウェア」などの要素技術も設定した",
+    "url": "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "また米国との提携によるグローバル販売網を通じて、現地での部材調達、生産移管サポートを行っています",
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "のち生糸の輸出業および洋反物の輸入業を併営",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Rocke International, Inc.社と総代理店契約を締結し、米国製機器の輸入販売を開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "先端輸入機器の販売を開始し、エレクトロニクス商社としての第一歩を踏み出す",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Ampex Corp.社と販売代理店契約を締結し計測機器の取扱開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、航空宇宙機器、光学機器、分析機器等の外国製機器の輸入販売を順次開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本社内に技術室を設置し、輸入機器の技術サービス業務を開始",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内で初めて集積回路輸入・販売",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "集積回路を日本国内に初めて輸入・販売",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文が日本国内に初めて集積回路を輸入・販売した（デバイス事業の始まり）",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "このショーをきっかけに、日本国内における先端機器輸入商社としての地位を確立した",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本テキサス・インスツルメンツ株式会社（半導体製品）と販売代理店契約締結",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セイコーエプソン株式会社（IC製品）と販売代理店契約締結",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の英国製品の輸入貢献により、エリザベス女王陛下より大英勲章第四位（",
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設立当時の丸文は日用雑貨や一般機械の販売を行っていましたが、1952年に米国機械商社と販売代理店契約を締結し、米国製の先端機器の取り扱いを開始しました",
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "丸文株式会社との販売代理店契約締結のお知らせ",
+    "url": "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "する販売代理店契約を締結しましたことをお知らせいたします",
+    "url": "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "丸文株式会社との販売代理店契約締結のお知らせ — 丸文株式会社との販売代理店契約締結のお知らせ エレファンテック株式会社(本社:東京都中央区、社長:清水信哉)はエレクトロニクス商社の丸文株式会社( 本社:東京都中央区、社長:飯野亨、以下、丸文社)と弊社で製造するフレキシブル基板P- Flex RRに関する販売代理店契約を締結しましたことを ...",
+    "url": "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文、Analog Devices, Inc.と販売代理店契約を締結 ~豊富な製品ライ... — 丸文、Analog Devices, Inc.と販売代理店契約を締結 ~豊富な製品ラインナップを活かし、革新的な製品開発を支援~ エレクトロニクス商社の丸文株式会社(社長:飯野亨、本社:東京都中央区、以下、丸文)は Analog Devices, Inc.(以下、アナログ・デバイセズ社)と正規販売代理店契約を締結し、同社製品の販売 ...",
+    "url": "https://www.marubun.co.jp/wp-content/uploads/2022/09/20220906_adi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「丸文」の代理店7社 注目ランキング【2026年】| Metoree — 代理店注目ランキング導出方法について 代理店注目ランキングは、2026年10月時点での丸文の代理店ページ内でのクリックシェアを基に算出しています。クリックシェアは、対象期間内の全企業の総クリック数を各企業のクリック数で割った値を指します。",
+    "url": "https://metoree.com/companies/2316/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "TIと丸文の販売特約店契約終了を資材部員が解説【代理店集約】 | Coro... — Jul 18, 2019 · TI（テキサスインスツルメンツ）と丸文の販売特約店契約が終了することを知っていますか？この記事ではTIと丸文の販売特約店契約終了について詳しく解説しています。半導体業界の動向に興味のある方はこの記事をご覧下さい。",
+    "url": "https://corosuke-blog.com/ti-marubun/",
+    "pass": 3
+   },
+   {
+    "quote": "丸文、タイツウ社と代理店契約を締結し同社フィルムコンデンサの提供... — Apr 15, 2026 · 【プレスリリース】発表日:2026年04月15日丸文、タイツウ製フィルムコンデンサの取り扱いを開始。カスタム設計提案を加速〜小ロット・特殊設計 ...",
+    "url": "https://www.nikkei.com/article/DGXZRSP705943_V10C26A4000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Kebbi（ケビー）導入事例一覧 | 丸文株式会社 — 有料老人ホームあおい明生苑様「ロボットで、受付業務をDX」 施設の受付をロボットで自動化し、事務負担の軽減と年間50万円のコスト削減を両立した導入事例をご紹介します。",
+    "url": "https://www.marubun.co.jp/products/75599/",
+    "pass": 3
+   },
+   {
+    "quote": "【導入事例｜丸文株式会社 様｜トラップメール（GSX標的型メール訓練... — 丸文株式会社 様｜トラップメール（GSX標的型メール訓練サービス） 丸文株式会社様は、同業他社でホームページの改ざんや標的型メールまがいのインシデントも発生していたのを機に、トラップメール（GSX標的型メール訓練サービス）を導入されました。",
+    "url": "https://www.gsx.co.jp/casestudy/marubun_001.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：丸文情報通信株式会社 — 1.1. 丸文情報通信株式会社設立の背景 丸文情報通信株式会社(以下、MIC)の設立は、Y2K 問題(2000 年問題)を発端とする。 Y2K 問題の発生を皮切りに、システム統合の実施により、システム開発規模が激増した。 そのため、開発要員の不足、顧客要求への対応、新たな各種技術分野への対応などの ...",
+    "url": "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社様[トラップメール(GSX標的型メール訓練サービス)]導入事... — CASE STUDY ― 導入事例 丸文株式会社 トラップメール(GSX標的型メール訓練サービス) ― ――― 従業員から怪しいメールを受け取った時の問い合わせが増えました―――これは訓練を実施し続けてきた効果であると、日々の運用の中で感じ取ることができるの ...",
+    "url": "https://gsx-co-jp.s3-ap-northeast-1.amazonaws.com/casestudy/pdf/marubun_001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社 | エレクトロニクス商社 丸文株式会社の公式サイトです... — エレクトロニクス商社 丸文株式会社の公式サイトです。IC集積回路などの半導体や電子応用機器など国内外の先端エレクトロニクス製品を取り扱っています。",
+    "url": "https://www.marubun.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "射命丸文 造形工作してみた【東方Project】 - YouTube — May 12, 2026 · 東方Projectより、伝統の幻想ブン屋 射命丸文を樹脂粘土やワイヤーなどを使い造形工作。5月11日に完成。8.5cm程のサイズです。4月の最初から作っ ...",
+    "url": "https://www.youtube.com/shorts/kDrVPW7v3c0",
+    "pass": 3
+   },
+   {
+    "quote": "丸文株式会社 | 積層造形技術を用いた高速3Dクラッディング装置 — 丸文株式会社が取り扱うのは、ドイツ・Ponticon社が開発した高速3Dクラッディング装置だ。 同製品はアディティブ・マニュファクチャリング（AM：積層造形）技術を用いた装置で、従来のAM装置に比べ、圧倒的に高速かつ高精度な造形を実現する。",
+    "url": "https://jpcb.jp/pickup/?m=report&pkid=410&index=3",
+    "pass": 3
+   },
+   {
+    "quote": "【丸文】「Ponticon」従来の半分の速度で造形！アディティブマニュフ...企業情報 - 丸文株式会社製品製造・加工 - 商品一覧 | 丸文株式会社3Dプリント受託造形サービス｜サービス｜株式会社ファソテック丸文通商株式会社 | 技術をつなぐ、地域とつながる。 — May 22, 2025 · 【丸文】「Ponticon」従来の半分の速度で造形！ アディティブマニュファクチャリング！ 【基板の窓口】展示会インタビューチャンネル 1K subscribers 0 エレクトロニクス商社 丸文株式会社の公式サイトです。半導体やシステム機器など国内外の最先端エレクトロニクス商品をを取り扱い、お客様の課題解決をご支援しております。 丸文株式会社の取扱商品、製品製造・加工一覧です。 「3Dプリント受託サービス」は、お客様からご提供いただいた3Dデータをもとに、3Dプリンタで造形し、完成品をお届けする",
+    "url": "https://www.youtube.com/watch?v=U6TOwpwvwQk",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 丸文株式会社 — エレクトロニクス商社 丸文株式会社の公式サイトです。半導体やシステム機器など国内外の最先端エレクトロニクス商品をを取り扱い、お客様の課題解決をご支援しております。",
+    "url": "https://www.marubun.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "製品製造・加工 - 商品一覧 | 丸文株式会社 — 丸文株式会社の取扱商品、製品製造・加工一覧です。",
+    "url": "https://www.marubun.co.jp/products/use/product_manufacturing_processing/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.marubun.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/corporate/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/ir/management/risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/ir/stock/stock-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/ir/stock/incorporatiion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/trend/industrial_dx_solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/trend/5g/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/trend/robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/trend/data_center_cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/trend/millimeter_wave_radar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/trend/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/communication_network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/monitoring_security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/measurement_detection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/quality_control_inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/adhesion_joining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/product_manufacturing_processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/radar_satellite_communication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/irradiation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/modeling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/development_system_environment_construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/products/use/small_lot_components/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.marubun.co.jp/wp-content/uploads/2026/07/CorporateProfile2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marubun.co.jp/wp-content/uploads/2025/06/20250626_teikan_marubunj.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marubun.co.jp/wp-content/uploads/2024/02/kabushiki_kitei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marubun.co.jp/wp-content/uploads/2022/02/thumb-history.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/companies/2316/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gsx.co.jp/casestudy/marubun_001.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/send/domestic/charge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/apps/ratevisibility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/shorts/kDrVPW7v3c0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jpcb.jp/pickup/?m=report&pkid=410&index=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=U6TOwpwvwQk",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸文",
+   "results": [
+    "https://ja.wikipedia.org/wiki/丸文",
+    "https://www.marubun.co.jp/corporate/",
+    "https://www.marubun.co.jp/",
+    "https://www.marubunarrow.com/",
+    "https://finance.yahoo.co.jp/quote/7537.T",
+    "https://job.mynavi.jp/27/pc/search/corp64014/outline.html",
+    "https://finance.yahoo.co.jp/quote/7537.T/forum"
+   ]
+  },
+  {
+   "query": "丸文 代理店 契約",
+   "results": [
+    "https://elephantech.com/cms/wp-content/uploads/2024/08/ea928ad74aeea40ec2669549b2744c15.pdf",
+    "https://www.marubun.co.jp/wp-content/uploads/2022/09/20220906_adi.pdf",
+    "https://metoree.com/companies/2316/distributors/",
+    "https://corosuke-blog.com/ti-marubun/",
+    "https://www.nikkei.com/article/DGXZRSP705943_V10C26A4000000/",
+    "https://robotstart.info/article/2026/06/05/381987.html",
+    "https://www.marubun.co.jp/maker/"
+   ]
+  },
+  {
+   "query": "丸文 導入事例",
+   "results": [
+    "https://www.marubun.co.jp/products/75599/",
+    "https://www.gsx.co.jp/casestudy/marubun_001.html",
+    "https://www.ipa.go.jp/archive/jinzai/skill-standard/uiss/qv6pgp000000bu3w-att/000010546.pdf",
+    "https://gsx-co-jp.s3-ap-northeast-1.amazonaws.com/casestudy/pdf/marubun_001.pdf",
+    "https://www.marubun.co.jp/",
+    "https://www.exa-corp.co.jp/cases/rapidresponse_marubun.html",
+    "https://wacul.co.jp/works/marubun/"
+   ]
+  },
+  {
+   "query": "丸文 価格 OR 料金",
+   "results": [
+    "https://www.post.japanpost.jp/send/domestic/charge/list/one_two.html",
+    "https://www.post.japanpost.jp/send/domestic/charge/",
+    "https://www.fedex.com/apps/ratevisibility/",
+    "https://www.city.kure.lg.jp/site/jougesui/customer-ryokinhyo.html",
+    "https://www.kinkos.co.jp/guide/guide-price/",
+    "https://developers.openai.com/api/docs/pricing",
+    "https://aquavoice.com/ja/pricing"
+   ]
+  },
+  {
+   "query": "丸文 受託 造形",
+   "results": [
+    "https://www.youtube.com/shorts/kDrVPW7v3c0",
+    "https://jpcb.jp/pickup/?m=report&pkid=410&index=3",
+    "https://www.youtube.com/watch?v=U6TOwpwvwQk",
+    "https://www.marubun.co.jp/corporate/",
+    "https://www.marubun.co.jp/products/use/product_manufacturing_processing/",
+    "https://www.fasotec.co.jp/product/3dprint/",
+    "https://www.marubun-tsusyo.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像4件／外部10頁・検索5回）"
+ }
+}

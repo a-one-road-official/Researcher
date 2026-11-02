@@ -1,0 +1,481 @@
+{
+ "name": "CT CoreTechnologie Asia",
+ "aliases": [],
+ "context": "AM向けソフト（Formnext Forum Tokyo 2023出展） /",
+ "researched_at": "2026-11-02T07:49:46.350114+00:00",
+ "official_url": "https://coretechnologie.com/subsidiaries/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5名",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コアテクノロジーは、CAD相互運用の分野において、3Dデータ変換をはじめとしたコラボレーションツールを開発しています。私たちのミッションは、未来志向の開発と顧客中心設計の技術によって、3D CADの相互運用性を最適化し、お客様の製品ライフサイクル管理(PLM)プロセスの合理化を支援することです。",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "自動車・航空宇宙・産業機器業界、ソフトウェアベンダー各社",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "Reseller",
+    "url": "https://coretechnologie.com/subsidiaries/",
+    "pass": 1
+   },
+   {
+    "quote": "Achelon Software House S.r.l. (Reseller)",
+    "url": "https://coretechnologie.com/subsidiaries/",
+    "pass": 1
+   },
+   {
+    "quote": "Analysis results, for example from model comparison or wall thickness checks, can be saved as interactive 3D PDFs and shared with development partners, suppliers and customers.",
+    "url": "https://coretechnologie.com/products/3d-analyzer/",
+    "pass": 1
+   },
+   {
+    "quote": "Through their partnership, CoreTechnologie and printer specialist Weirather aim to offer an open system for SLS.",
+    "url": "https://coretechnologie.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "With the new partner Weirather, we are implementing an open system for SLS 3D printing of high-quality plastic parts.",
+    "url": "https://coretechnologie.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative Partnership for Inkjet 3D Printing",
+    "url": "https://coretechnologie.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit ihrer Partnerschaft wollen CoreTechnologie und der Druckerspezialist Weirather ein offenes System für SLS anbieten.",
+    "url": "https://coretechnologie.com/de/news-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit dem neuen Partner Weirather realisieren wir ein offenes System für den SLS 3D-Druck von hochwertigen Kunststoffteilen.",
+    "url": "https://coretechnologie.com/de/news-de/",
+    "pass": 1
+   },
+   {
+    "quote": "The data protection declaration of the CT CoreTechnologie GmbH is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.",
+    "url": "https://coretechnologie.com/service/data-protection/",
+    "pass": 1
+   },
+   {
+    "quote": "suppliers, and engineering partners supporting all interoperability requirements of design,",
+    "url": "https://coretechnologie.com/wp-content/uploads/2025/11/3D_Evolution-Broschuere-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Main-Reseller",
+    "url": "https://coretechnologie.com/wp-content/uploads/2024/11/3D_Analyzer_CAD-Viewer_EN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Substance by Adobe、EOS、HP、Photocentric、Ultimaker、Volumic、Weiratherとの技術提携により、3Dプリンタとの連携を強化しています",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "造形サービス",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのミッションは、未来志向の開発と顧客中心設計の技術によって、3D CADの相互運用性を最適化し、お客様の製品ライフサイクル管理(PLM)プロセスの合理化を支援することです",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンセミナー",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   },
+   {
+    "quote": "異なるフォーマット間や同システムの異なるバージョン間、PDQ修正、設計変更、CAE用形状簡略化、データ変換等の広い範囲の様々なシチュエーションにおいて貢献します",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   },
+   {
+    "quote": "M. 試作・モデリング・3Dプリンター関連",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   },
+   {
+    "quote": "インターモールドテクニカルセミナー",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、募集中のインターモールドテクニカルセミナーはありません",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "業界ニュース",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース TOP",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのミッションは、未来志向の開発と顧客中心設計の技術によって、3D CADの相互運用性を最適化し、お客様の製品ライフサイクル管理(PLM)プロセスの合理化を支援することです",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・航空宇宙・産業機器業界、ソフトウェアベンダー各社",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的に使い易いグラフィックインターフェースにより、特別なユーザー体験を提供します",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://coretechnologie.com/subsidiaries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/3d-evolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/4d-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/3d-analyzer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/3d-kernel-io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/3d_feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/Process-Integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/Software-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/trainings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/news/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/de/produkte/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/process-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/software-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/trainings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/de/news-de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/de/news-de/events-de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/ct-core-technologie-company-profile/ct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/ct-core-technologie-company-profile/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/downloads-en/product-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/newsletter-en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/de/service-de/imprint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/data-protection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/code-of-conduct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/service/cloud-protection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/3d-evolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/4d-additive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coretechnologie.com/products/3d-analyzer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2026/07/3D_Analyzer-Interface-List.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2024/11/3D_Kernel_IO_Interface.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2025/06/3D_Kernel_IO-Interface-List.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2025/02/3D_Evolution-Interface-List.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2025/11/3D_Evolution-Broschuere-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2024/11/3D_Analyzer_CAD-Viewer_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2025/11/Bro_3D_Kernel_2024_web2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://coretechnologie.com/wp-content/uploads/2025/11/3D_Partfinder-Broschuere-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/coretechnologie/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CT CoreTechnologie Asia 代理店 契約",
+   "results": [
+    "https://coretechnologie.com/ja/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "https://coretechnologie.com/ja/contact-2/subsidaries/",
+    "https://www.linkedin.com/company/ctcoretechnologie",
+    "https://www.edge-core.com/jp/where-to-buy/asia-distributors/",
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=97830170880_1792540800197",
+    "https://www.ashisuto.co.jp/news/detail/1188741_1507.html",
+    "https://www.hakuto.co.jp/news/260820.pdf",
+    "https://coretechnologie.com/subsidiaries/"
+   ]
+  },
+  {
+   "query": "CT CoreTechnologie Asia 導入事例",
+   "results": [
+    "https://coretechnologie.com/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "https://shiftasia.com/ja/case-studies/",
+    "https://www.asia-quest.jp/case/tag/dx",
+    "https://www.ptc.com/ja/blogs/cad/introducing-generative-design-case-studies?srsltid=AYCX9vKxCsk_auSKe4XOj6eB7CJuTDSOQr8A5fw0QbHM0rYlb_rTOwX5",
+    "https://www.visualcomponents.com/jp/case-studies/",
+    "https://coretechnologie.com/ja/downloads-ja/whitepaper/",
+    "https://www.saeilo.co.jp/top_case.html",
+    "https://coretechnologie.com/ja/"
+   ]
+  },
+  {
+   "query": "CT CoreTechnologie Asia 価格 OR 料金",
+   "results": [
+    "https://coretechnologie.com/ja/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://coretechnologie.com/ja/contact-2/subsidaries/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "https://www.sce.com/ja/node/215291?ecid=ppc~bing~bsc~mkt~res~21826",
+    "https://pdf.aeroexpo.online/ja/pdf/coretechnologie-169578.html",
+    "https://coretechnologie.com/ja/company-ja/ct/",
+    "https://www.coretechnologie-shop.com/",
+    "https://coretechnologie.com/subsidiaries/",
+    "https://online.tctasia.cn/en/showroom-2026/institutions/068gii"
+   ]
+  },
+  {
+   "query": "CT CoreTechnologie Asia 受託 造形",
+   "results": [
+    "https://coretechnologie.com/ja/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/417/",
+    "https://sharelab.jp/company/coretechnologie/",
+    "https://www.linkedin.com/company/ctcoretechnologie",
+    "https://coretechnologie.com/ja/contact-2/subsidaries/",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/4d_additive-1-8-sp1-coretechnologie%E3%81%8C3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E9%80%A0%E5%BD%A2%E3%82%B8%E3%83%A7%E3%83%96%E6%BA%96%E5%82%99%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96-05164806/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://jampt.jp/service/prototype/",
+    "https://online.tctasia.cn/zh-cn/showroom-2026/institutions/068gii"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）",
+  "いくら": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）"
+ }
+}

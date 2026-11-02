@@ -1,0 +1,882 @@
+{
+ "name": "RCCM Japan",
+ "aliases": [],
+ "context": "/ DeskArtes（フィンランド）",
+ "researched_at": "2026-11-02T07:52:39.734111+00:00",
+ "official_url": "https://www.rccm.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和 57 (1982) 年 4 月 2 日",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "10 億円",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "56 名（2025 年 3 月 1 日現在）",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・ 工学、理学、土木、防災、医学系の構造・流体力学に基づくソフトウェアの研究・開発および、受託解析。 ・ 海外の専門ソフトウェアの販売、コンサルティング ・ 労働者派遣事業",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "株式会社計算力学研究センター（RCCM）｜数値解析ソフト開発・販売・受託解析",
+    "url": "https://www.rccm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "FactSage 無料体験セミナー 2026 秋 & 個別導入相談会",
+    "url": "https://www.rccm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【MECHANICAL FINDER】第41回日本整形外科学会基礎学術集会において、教育研修講演およびシンポジウムで講演します",
+    "url": "https://www.rccm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「OpenFOAMモデリングセミナーオンサイト編」",
+    "url": "https://www.rccm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（プロセス自動化・設計最適化）",
+    "url": "https://www.rccm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（設計空間探索・最適化ツール）",
+    "url": "https://www.rccm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 工学、理学、土木、防災、医学系の構造・流体力学に基づくソフトウェアの研究・開発および、受託解析",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 海外の専門ソフトウェアの販売、コンサルティング",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プロセス自動化・設計最適化",
+    "url": "https://www.rccm.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "設計空間探索・最適化ツール",
+    "url": "https://www.rccm.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な流れを可視化し、設計・開発プロセスを革新",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys Fluentは、製造業の設計・開発プロセス、公的研究機関、教育現場などで広く利用されている流体解析ソフトウェアです",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の空力特性、自動車の空力性能、高炉の燃焼、石油化学プラント内の流れ、人体の血流、医療分野における流体解析、半導体製造プロセス、上下水道施設の設計など、多岐にわたる分野で活用されています",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys Fluentは、1DCAE、モデルベース開発（MBE）、材料設計ツール、音響解析ツールなど、様々な外部ソルバーとの連携が可能です",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発のプロセスにおいて、試作品を作る前にシミュレーションで性能を予測することで、開発期間の短縮やコスト削減に貢献します",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "によって粒子の状態や不連続な材料の挙動を考慮して、各種産業プロセスでエンジニアリング面での問題を解決するシミュレーションができ、装置のプロトタイプの検討や設計、開発、生産技術等の面で設備の効率を向上させるためのソフトウェアです",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-rocky/",
+    "pass": 1
+   },
+   {
+    "quote": "装置のプロトタイプ検討、設計、開発、生産技術の面で設備効率を大幅に向上",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-rocky/",
+    "pass": 1
+   },
+   {
+    "quote": "✓ 設計サイクルの高速化",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-rocky/",
+    "pass": 1
+   },
+   {
+    "quote": "飽和・不飽和三次元浸透流解析プログラムの導入、解析サービス、技術サポートなど、",
+    "url": "https://www.rccm.co.jp/product/fluid/seepage3d/",
+    "pass": 1
+   },
+   {
+    "quote": "発電プラントやヒートポンプ、冷凍空調設備等を設計・開発する技術者のための",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "し、考えられるすべての設計と最適化分野のシミュレーションモデルを構築することができます",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "Flownexはこの１次元解析により、熱流体システムの設計を詳細に、しかも実用的な計算時間で検討することができます",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "設計段階から運転最適化まで",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "Flownex無料体験セミナーの抜粋資料です",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "実践基礎トレーニング",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "教育機関向けダウンロード方法",
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "pass": 1
+   },
+   {
+    "quote": "※教育機関向け「PROPATH」に関しましては、直接開発元にお問い合せくださいますようお願い申し上げます",
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Moldflow｜射出成形CAE・樹脂流動解析ソフト｜成形不良予測・金型設計最適化",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計、金型設計、成形条件の妥当性を開発初期段階で評価・予測することで、",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "試作手戻りを低減して",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質なプラスチック製品設計と成形解析の実現",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "設計段階で各要素の妥当性を検証して成形条件を最適化することにより、寸法精度、外観品質、機能信頼性といった要求品質を満たすプラスチック部品の実現に貢献します",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Moldflow活用による製品設計・金型設計・成形プロセス最適化",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルプロトタイピング上で設計変更や条件検討を重ねることで、試作回数や金型修正工数を低減します",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、開発プロセス全体の効率化と、手戻りのない確実な設計検討を可能にします",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "は、射出成形プロセスシミュレーション分野において、設計検討から量産立ち上げまで幅広く活用されているCAEソフトウェアです",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計、金型製作、部品成形、樹脂材料開発など、各工程に関わるエンジニアの設計検討・検証業務を強力に支援します",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "などの成形不良を事前に予測・可視化し、設計段階での迅速なリスク低減を可能にします",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "開発初期におけるフロントローディングの思想に基づき、製品設計や金型構想の段階から成形品質を",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・金型設計の効率化と最適化",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計および金型検討において、試作や金型修正の",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "し、複数の設計案を解析上で比較検討できます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "検討精度の向上により、製品設計・金型検討業務の最適化に貢献します",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計の初期段階における成形性評価には",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計者向け",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "設計初期の検討に適した軽快な解析レベルで、成形サイクル全体を可視化できます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "設計アドバイザや結果アドバイザ機能により、解析経験の少ない設計者でも",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "設計判断に必要なポイント",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Moldflowでは、射出成形工程における各プロセスを解析し、充填挙動、圧力・温度分布、反り変形挙動などを設計段階で可視化することで、",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "ランナーバランスやゲートサイズを検証し、試作ロスのないスムーズな量産立ち上げに貢献します",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂圧力の分布や体積収縮を均一化するため、保圧条件、ゲート配置、製品の肉厚設計の最適化を検証します",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "温度分布を均一化するための最適な冷却設計を多角的に検討できます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "新型車設計時の電着穴配置・電着条件の最適化",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "電着穴の位置や大きさの設計、電源電圧時刻歴の設定などを事前計算で試しておくことにより、",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "電極設計最適化",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "電着塗装シミュレーションの導入支援、解析サービス、技術コンサルティングなど、",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "IOT, AI, 協調制御理論によるトレーニング支援システムの検証となりますので是非ご覧ください",
+    "url": "https://www.rccm.co.jp/product/medical/fems-system/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツトレーニングプラン",
+    "url": "https://www.rccm.co.jp/product/medical/fems-system/",
+    "pass": 1
+   },
+   {
+    "quote": "IOT, AI, 協調制御理論によるトレーニング支援システムの検証",
+    "url": "https://www.rccm.co.jp/product/medical/fems-system/",
+    "pass": 1
+   },
+   {
+    "quote": "「実効筋力評価クラウドシステム」は、科学的に上肢・下肢の筋力評価を行い、どこの筋肉を鍛えれば良いのかを把握することでトレーニングの効率を高めることができるクラウドサービスです",
+    "url": "https://www.rccm.co.jp/product/medical/fems-system/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "73,000,000 円",
+    "url": "https://www.rccm.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "• 球状円柱をボンドで接続",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-rocky/",
+    "pass": 1
+   },
+   {
+    "quote": "（ワイヤースイープ、パドルシフト）",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": ".las, .rcp, .e57, .ply, .lcc, .lcc2, .obj, .osgb, 3D Tiles, .usd",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": ".las, .e57, .ply, .lcc, .usdz",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": ".las, .e57, .lcc, .lcc2, .ply, .usdz, 3DTiles",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": "人物も撮影でき、本体価格は75万円とコストパフォーマンスの高さも魅力",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": ".ply, .lcc, .usdz",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "弊社は40年近くの流体解析の実績を持つ専門家が、お客様の流体解析の課題をサポートいたします",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状のモデル化機能も備えており、UDF（ユーザー定義関数）を利用することで、複雑な現象を考慮した境界条件や材料特性などを自由にカスタマイズできます",
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "pass": 1
+   },
+   {
+    "quote": "を利用してユーザー定義のコンポーネントやソルバーを作成することができます",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー定義可能",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "各種CADフォーマットに対応し、直感的なユーザーインターフェース上で解析モデルを効率的に作成できます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Moldflow リーフレット（シングルユーザーライセンス）",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "シングルユーザーライセンスの機能比較をご確認いただけます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Moldflowリーフレット（マルチユーザーライセンス）",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチユーザーライセンスの機能比較をご確認いただけます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代有限要素法「ES-FEM」(業界初)により高精度",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "業界初のES-FEM適用により自動車電着塗装解析で高精度・高速計算を実現",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "技術者からお客様へ",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-cfd-preppost/",
+    "pass": 1
+   },
+   {
+    "quote": "SpaceClaimユーザーのためのAnsys Discovery入門",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys EnSight のユーザーインターフェイス",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-ensight/",
+    "pass": 1
+   },
+   {
+    "quote": "使いやすいユーザーインターフェイス",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-ensight/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先やビジネスパートナーとの会議資料作成",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/3d-pdf/",
+    "pass": 1
+   },
+   {
+    "quote": "を作成しお客様に提案できます",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/3d-pdf/",
+    "pass": 1
+   },
+   {
+    "quote": "美術館・不動産・観光地・工事現場その他多数で導入実績あり",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": "XGRIDSは業界や目的を問わず活用できる柔軟な3Dスキャンソリューションです",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": "RCCMでは、製品のご説明はもちろん、お客様の課題に合わせた活用方法のご提案や、スキャンデータを用いたシミュレーション解析まで対応いたします",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社から製品をご導入いただきましたお客様には、技術サポート、バージョンアップ版のご提供、およびオリジナルユーザーサポートページなどをご用意しております",
+    "url": "https://www.rccm.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "FactFlow ハンズオンセミナー 2026 (FactSage ユーザー様限定)",
+    "url": "https://www.rccm.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "MECHANICAL FINDER ユーザー研究会 2026 参加登録開始しました",
+    "url": "https://www.rccm.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご都合が良いタイミングでご視聴ください",
+    "url": "https://www.rccm.co.jp/news/2026/0825000560.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "1次元熱流体解析ソフトFlownex SEの詳細、そのほかご相談・ご質問、技術的なご質問、お見積り依頼",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "デモライセンスとサンプル計算をご希望の方は、ご連絡ください",
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "UNIX版の価格については、お問い合わせください",
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "pass": 1
+   },
+   {
+    "quote": "無償の専用ビューアーを活用し、ライセンスの有無を問わず社内外でシミュレーション結果を共有できます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス不要でスムーズな情報共有：",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Moldflowの環境やライセンスがないPCからでも解析結果を確認できるため、設計・製造部門間やクライアントとの迅速な意思決定をサポートします",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末射出成形（金属／セラミック）",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Moldflow リーフレット（シングルユーザーライセンス）",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "シングルユーザーライセンスの機能比較をご確認いただけます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Moldflowリーフレット（マルチユーザーライセンス）",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチユーザーライセンスの機能比較をご確認いただけます",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "人物も撮影でき、本体価格は75万円とコストパフォーマンスの高さも魅力",
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "開発元 ： 九州大学",
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "pass": 1
+   },
+   {
+    "quote": "開発元【九州大学】のホームページから、無償でダウンロードできます",
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "pass": 1
+   },
+   {
+    "quote": "※教育機関向け「PROPATH」に関しましては、直接開発元にお問い合せくださいますようお願い申し上げます",
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "pass": 1
+   },
+   {
+    "quote": "「自社製品に適用できるのか」「効果が得られるのか」",
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "pass": 1
+   },
+   {
+    "quote": "開発元の公式HPはこちら →",
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品のCAD、解析結果などを埋め込んだ",
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/3d-pdf/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rccm.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/structural/lusas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/structural/3dsimstamp/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-fluent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/fluid/ansys-rocky/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/fluid/seepage3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/fluid/flownex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/fluid/propath/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/resin-flow/moldflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/electrocoating/edesfem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/medical/fems-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-cfd-preppost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-discovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/ansys-ensight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/pre-post-processor/3d-pdf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/optimization/ansys-optislang/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/sensor/magnetic-induction/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/product/3d-scanner/xgrids/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/news/2026/1002000569.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/news/2026/0825000560.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm.co.jp/news/2026/0825000557.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://rccm.co.jp/product/files/SEEPAGE3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rccm.co.jp/product/files/SEEPAGE4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rccm.co.jp/product/files/SEEPAGE5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rccm.co.jp/product/files/SEEPAGE6.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.rccm-cpd.com/rccm/rccmpages/qa1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometric-jp.com/examinee/test_list/archives/31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jacic.or.jp/rccmtext/index_h30.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=3925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometric-jp.com/examinee/test_list/archives/31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pejp.net/rccm_index/rccm_jyukentaisaku_zentai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobhouse.jp/construction/columns/1720",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm-cpd.com/rccm/rccmtop.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometric-jp.com/examinee/test_list/archives/31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rccm-cpd.com/rccm/rccmtop.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RCCM Japan 代理店 契約",
+   "results": [
+    "https://www.rccm-cpd.com/rccm/rccmpages/qa1.html",
+    "https://www.prometric-jp.com/examinee/test_list/archives/31",
+    "https://www.jacic.or.jp/rccmtext/index_h30.html",
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=3925",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.techno-con.co.jp/cgi/tecwww.cgi?act=item_search&cond_field=406001",
+    "https://www.pejp.net/rccm_index/rccm-market-html/",
+    "https://jcca-kyushu.jp/pages/51/detail=1/b_id=275/r_id=546/",
+    "https://news.build-app.jp/article/35245/",
+    "https://www.rccm.co.jp/"
+   ]
+  },
+  {
+   "query": "RCCM Japan 導入事例",
+   "results": [
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=3925",
+    "https://www.prometric-jp.com/examinee/test_list/archives/31",
+    "https://www.pejp.net/rccm_index/rccm_jyukentaisaku_zentai/",
+    "https://news.build-app.jp/article/35245/",
+    "https://media.suke-dachi.jp/content/glossary/general/rcmm/",
+    "https://pe.techno-con.co.jp/technovision/series/202404_05.html",
+    "https://www.youtube.com/watch?v=3VMEudB3B0I",
+    "https://www.rccm-cpd.com/",
+    "https://ryohibikiya.web.fc2.com/",
+    "https://www.rccm.co.jp/"
+   ]
+  },
+  {
+   "query": "RCCM Japan 価格 OR 料金",
+   "results": [
+    "https://jobhouse.jp/construction/columns/1720",
+    "https://www.rccm-cpd.com/rccm/rccmtop.html",
+    "https://www.prometric-jp.com/examinee/test_list/archives/31",
+    "https://www.youtube.com/watch?v=oh20-5UV4_g",
+    "https://www.pejp.net/bbs/rccm/cbbs.cgi?mode=alk&no=0",
+    "https://www.techno-con.co.jp/item/4130.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03173/041700002/",
+    "https://ofiles.jcca.or.jp/files/achievement/pamphlet/introduce.pdf",
+    "https://kensetsutenshokunavi.jp/c/content/job_guide/job_guide_14/",
+    "https://sekokan-base.com/articles/detail/3054/"
+   ]
+  },
+  {
+   "query": "RCCM Japan 受託 造形",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.rccm-cpd.com/rccm/rccmtop.html",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.rccm.co.jp/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://kyowa-industrial.jp/am",
+    "https://www.arc-navi.shikaku.co.jp/column/details.php?column_id=3925",
+    "https://news.build-app.jp/article/35245/",
+    "https://www.rccm.co.jp/development/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部12頁・検索4回）"
+ }
+}

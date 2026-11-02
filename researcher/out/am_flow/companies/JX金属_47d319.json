@@ -1,0 +1,1226 @@
+{
+ "name": "JX金属",
+ "aliases": [],
+ "context": "AM専門展の共同出展者。既存地図：純銅の表面処理粉（LPBF/EBM向け、開発段階・報道ベース） /",
+ "researched_at": "2026-11-02T07:50:36.550151+00:00",
+ "official_url": "https://www.jx-nmm.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "薄膜材料事業 タンタル・ニオブ事業 機能材料事業 金属・リサイクル事業 資源事業",
+    "url": "https://www.jx-nmm.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "【業務内容】",
+    "value": "薄膜材料事業／タンタル・ニオブ事業／機能材料事業／金属・リサイクル事業／資源事業",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：10,413名 単体：3,267名 (2025年3月31日現在)",
+    "url": "https://www.jx-nmm.com/company/about.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/news_summary/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧",
+    "url": "https://www.jx-nmm.com/news_summary/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/glance/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＸ金属は、資源・製錬から電子材料の製造・販売、使用済み機器からのリサイクルまでグローバルに事業を展開しています",
+    "url": "https://www.jx-nmm.com/company/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/chart.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/network/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/copper_foil_and_alloy/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/sputtering/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/compound_semiconductors_and_crystal_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ内で保有する多数の金属資源をはじめ、多様な金属原料を用いた、各種金属・化合物粉の開発、製造販売を行っております",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/surface_treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品の販売は、",
+    "url": "https://www.jx-nmm.com/products/surface_treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/coppersulfate/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品の販売は、ＪＸ金属商事株式会社が行っております",
+    "url": "https://www.jx-nmm.com/products/coppersulfate/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/ubm/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/mosi/",
+    "pass": 1
+   },
+   {
+    "quote": "また、炉の設計次第で、1800℃以上の超高温での使用が可能となる場合もあります",
+    "url": "https://www.jx-nmm.com/products/mosi/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/products/rolling_steel/",
+    "pass": 1
+   },
+   {
+    "quote": "向上に資するよう、教育訓練等を中心に積極的に取り組むことを通じて、従業員への持続的な還元を目",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に、教育訓練等についてグローバル教育やキャリア教育等、個々の社員に応じた教育の実施を通じて、",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、世界的なEV 販売台数の増加にともない、配線用や誤作動防止のために用いられるシールド材",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": " アジア域内での製錬所建設が進むことにより、銅地金の販売環境の悪化が見込まれております",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "8 出典：当社の依頼により実施された外部調査機関による調査（2021年実績、Al 系を除く半導体用ターゲット市場における当社のシェア、販売金額ベース）",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "• 主な投資先であるひたちなか新工場については、2024年3 月6 日付プレスリリースの通り、直近の各製品に",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "免除を受ける場合を除き、米国内において証券の募集又は販売を行うことはできません",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "「開発経験のない若いコンシェルジュであっても開発ノウハウが習得できるだけでなく、逆に社員にアプリ開発の方法を教育していくといった流れも生み出したいと考えていました",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめなセミナー",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー情報",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルビーイング経営 コンサルティング",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント情報",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "に向けて、オフィス環境を設計したと総務部 村木 茂亮氏は話す",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "レンタル・リース業",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社梓設計",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "PHONE APPLIの働き方改革・オフィス設計にも共感!新本社を“社員が集うオフィス”に",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルビーイング経営コンサルティング",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "企業などのリリースを掲載",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "お薦めセミナー",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "12/8(火)開催「なぜなぜ分析」演習付きセミナー実践編",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "レノボとニデックが水冷サーバー販売で連携、狙うは企業内AIサーバー需要",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "写真で見るiPhone Duo、注目はヒンジやインカメラ 熱設計に難しさも",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "多摩美術大学に創造性を刺激する2つの施設、内藤廣氏が設計",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "27年4月に迫る設計・監理の「書面契約」義務化、設計業務の外注に注意",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産革新",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "世界有数のタンタルとニオブの材料メーカーであるTANIOBIS GmbHを中心に、コンデンサや半導体材料用の金属粉、SAWデバイスや光学レンズ用の酸化物、半導体用の塩化物、高機能粉末材料などの安定供給を通じ、IoT・AI社会の発展に貢献しています",
+    "url": "https://www.jx-nmm.com/company/glance/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/company/glance/",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力を誇る高純度粉末を供給することで、社会の発展に貢献しています",
+    "url": "https://www.jx-nmm.com/company/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/copper_foil_and_alloy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、長年の研究開発ならびに生産活動を通し築いた、高純度化・低介在物鋳造・粉末冶金・組織制御などの技術をもとに、新たな時代に求められる新製品の開発についても積極的に取り組んでおります",
+    "url": "https://www.jx-nmm.com/products/sputtering/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/sputtering/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/compound_semiconductors_and_crystal_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "その用途は最先端LSIの配線形成から、3Dプリンター、粉末冶金製品まで多岐にわたっています",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＸ金属グループ各社において、特徴のある3Dプリンター用各種金属粉末の開発・製造を行っております",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/metallic_powder/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/metal/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/surface_treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/coppersulfate/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/ubm/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/mosi/",
+    "pass": 1
+   },
+   {
+    "quote": "Pbフリーピエゾ粉末材料",
+    "url": "https://www.jx-nmm.com/products/rolling_steel/",
+    "pass": 1
+   },
+   {
+    "quote": "ことによる価格適正化活動を実施することで収益性の改善を目指します",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "記載されている当社の目標、計画、見積もり、予測、予想、ターゲットその他の将来情報については、本資料の作成",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "作成されたアプリは、申請承認に関する各種アプリとともに、ナレッジ共有や見積発注管理、タスク管理、問い合わせ管理など多岐にわたっている",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "資材および工事に係る見積発注管理をkintoneアプリで行っているが、",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、担当者が都度メールに資料を添付・送付する手間が不要となり、取引先もSharePoint上で必要な資料をいつでも確認できる環境が整った",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金について",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりを依頼する",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "締切迫る！年額プランが普段より2カ月お得に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "有料会員（月額プラン）は初月無料！",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "▲355億円含む）",
+    "url": "https://www.jx-nmm.com/company/glance/",
+    "pass": 1
+   },
+   {
+    "quote": "造幣局向け10円硬貨用円形銅版の製造",
+    "url": "https://www.jx-nmm.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "四角形、円形、その他",
+    "url": "https://www.jx-nmm.com/products/ubm/",
+    "pass": 1
+   },
+   {
+    "quote": "（円筒領域の均熱性に優れる）",
+    "url": "https://www.jx-nmm.com/products/mosi/",
+    "pass": 1
+   },
+   {
+    "quote": "• 今後3 年間で約2,700億円の投資を予定しております",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "それにより、2023 年3 月期からの投資総額は当初想定の約2,000億円規模から約1,500億円規模となる",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "2,000億円削減いたしました",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年3 月期においては、約30億円の営業利",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "益の改善（対2023 年3 月期実績） 、約200億円の運転資本改善（対2023 年3 月期実績）、 約550億円の投資",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "連結 約720 億円 約860 億円 CAGR 10% ～ 15% (2024年3 月期-2028年3 月期)",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "フォーカス事業 約550 億円 約270 億円 CAGR 35% ～ 40% (2024年3 月期-2028年3 月期)",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "（目標値策定の前提として、為替は2025年3 月期140円/ドル・2026年3 月期以降135円/ドル、銅価は2025年3 月",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "株式の51%をLundin Mining Corporationへ譲渡（※18）したことに伴う評価損742 億円を計上しております",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "「顔写真＋居場所検知」で新入社員のコミュニケーションも円滑に",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍で浸透したテレワークにおいても、表示された名前を確認すれば「折り返す際に、即座に連絡ができる」と、円滑な業務進行にも一役買っているようだ",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員のコミュニケーション円滑化に、効果を発揮",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "金属ではほぼ全ての社員の顔写真を登録しており、かつ居場所も検索できるので、誰がいま出社しているのかが簡単に確認できるし、実際に会って話を聞くハードルも低くなる",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "社員情報の検索性向上で、約18,000人の社内コミュニケーションが円滑化",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "連絡先の管理方法を統一することで、業務効率が向上！スマートフォン活用で年間1,000万円以上のコスト削減に成功",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ面の不安を解消！誰でも使いやすい電話帳となり、社内のコミュニケーションも円滑に",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Teamsとの連携によりコミュニケーションも円滑に",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Teams連携で、約2,800人の社内コミュニケーションが円滑に！",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "Sansan、LINE WORKSとの連携で社内外のコミュニケーションが円滑に",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Teams連携で社内コミュニケーションも円滑化",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産グループ約1万4,000人のコミュニケーション円滑化を実現～「Microsoft 365」「Box」「PHONE APPLI PEOPLE」を経営統合のコミュニケーション基盤の中核に～",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍における在宅勤務での社内コミュニケーションを円滑化",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン内線化により、コミュニケーションの円滑化を実現",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "IPO投資40年、築いた3億円 いまは「昔ほど夢がない」",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ、ウェイモのロボタクシー生産 中嶋副社長「ハンドル残すべきでは」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "タイムズカーの見舞金、3000円の根拠 漏洩を通知したうち約14万件が対象外",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "取引先の皆様への積極的な関連情報の提供により、取引を一層緊密にし、相互信頼のパートナー関係を構築してまいります",
+    "url": "https://www.jx-nmm.com/company/purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のコア技術である圧延加工技術、組成・組織制御技術を駆使して、お客様ご要望の強度、曲げ加工性、導電率（電気抵抗率）に応じた製品を幅広く取り揃えております",
+    "url": "https://www.jx-nmm.com/products/copper_foil_and_alloy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は圧延銅箔を用途やお客様の仕様に合わせ、ワンストップサービスでご提供致します",
+    "url": "https://www.jx-nmm.com/products/copper_foil_and_alloy/",
+    "pass": 1
+   },
+   {
+    "quote": "リードフレーム、コネクタ、プリント配線板等様々な電子材料に使用されており、お客様より高い評価を頂いております",
+    "url": "https://www.jx-nmm.com/products/surface_treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズが多様化するとともに、ヒーターも様々な形状が必要となります",
+    "url": "https://www.jx-nmm.com/products/mosi/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめと",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏ま",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．取引先への配慮",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、消費税の免税事業者との取引関係についても、政府が公表する免税事業者及びその取引先のイ",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "めとした各種の半導体デバイスの製造に用いられており、半導体市場が成長し、主要顧客の新工場稼働が予",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": " 今後は、半導体需要の拡大、特に先端半導体の成長を見据えて、引き続き顧客ニーズに合致する開発・材料",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": " 当社はこれまで、優れた耐屈曲性・耐振性等を有する銅箔の生産技術を活かし、エンドユーザーに対して直",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "さらには、資源循環と脱炭素をお客様との共",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "ＪＸ金属 様の導入事例",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "4200ユーザーの大規模利用、ガバナンスの強化などが備わったワイドコースを選択",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "申請承認プロセスを中心に、作業依頼やSDS管理など業界特有のアプリも運用",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "36協定一般条項の超過事由を申請してkintoneにて管理し、CSVで取り出して活用するといった労務管理の領域や、工場独自で化学物質の危険有害性情報を記載した文書であるSDS（安全データシート）のプロセス管理アプリといった業界特有のアプリも運用",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "社内承認が完了した案件の関連資料をSharePointへ自動格納し、格納先のリンクを記載した通知メールを取引先へ自動送付する仕組みを実装",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、担当者が都度メールに資料を添付・送付する手間が不要となり、取引先もSharePoint上で必要な資料をいつでも確認できる環境が整った",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は各部門のパワーユーザーを選抜・育成し、ユーザー同士での市民開発を加速させるような体制づくりも検討し、さらにkintone活用を推進していきたいと竹村氏は語っている",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワークフロー(申請業務)ユーザー事例集",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "PHONE APPLI PEOPLE 導入事例｜JX金属株式会社｜株式会社PHONE APPLI",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の状況に合わせて、最適なプランをご案内します",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のお悩みやご不明点などにお答えします",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "新規導入検討のお客様向けに、導入の進め方や活用方法についてなど、オンラインでのご相談を承ります",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる就活・業界研究",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "業界動向と主要プレーヤーは？",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "業界のビジネスアイデアは？",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機がABBと合弁へ、シュナイダーはソフト強化 FA業界に再編の波",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "自社開発浴をベースにした当社プロセスの特徴",
+    "url": "https://www.jx-nmm.com/products/ubm/",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発の独自めっきプロセスにより電位差軽減",
+    "url": "https://www.jx-nmm.com/products/ubm/",
+    "pass": 1
+   },
+   {
+    "quote": "【https://www.biz-partnership.jp/declaration/122947-05-15-tokyo.pdf】",
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6 出典：Prismark Partners LLC “The Printed Circuit Report Fourth Quarter / February 2024”",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   },
+   {
+    "quote": "業・大学との提携等を通じて促進いたします",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 JX金属 」の 代理店 10社 注目ランキング【2026年】 - Metoree — 「 JX金属 」の 代理店 10社 注目ランキング【2026年】 - Metoree Metoree https://metoree.com > 会社一覧 > JX金属株式会社",
+    "url": "https://metoree.com/companies/3232/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "海外グループ会社 - JX金属 — 海外グループ会社 - JX金属 jx-nmm.com https://www.jx-nmm.com > ... > 事業所・グループ会社",
+    "url": "https://www.jx-nmm.com/company/network/overseas/",
+    "pass": 3
+   },
+   {
+    "quote": "銅精鉱の購入・電気銅等の販売に係る事業の統合 ... - JX金属 — 銅精鉱の購入・電気銅等の販売に係る事業の統合 ... - JX金属 jx-nmm.com https://www.jx-nmm.com > ... > 2026年度",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260528_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 JX金属 商事」の 代理店 3社 注目ランキング【2026年】 — 「 JX金属 商事」の 代理店 3社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > JX金属商事株式会社",
+    "url": "https://metoree.com/companies/46208/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "新宿区】半導体関連製品の営業（海外 代理店 支援／残業20時間 ... — 新宿区】半導体関連製品の営業（海外 代理店 支援／残業20時間 ... doda https://doda.jp > ... > ＪＸ金属商事株式会社の求人情報",
+    "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016312887/",
+    "pass": 3
+   },
+   {
+    "quote": "HPE 事例 - JX金属 株式会社 様 — HPE 事例 - JX金属 株式会社 様 Hewlett Packard Enterprise https://www.hpe.com > psnow > doc",
+    "url": "https://www.hpe.com/psnow/doc/a00136927jpn",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 | 事例 | kintone（キントーン） - サイボウズ — JX金属 | 事例 | kintone（キントーン） - サイボウズ サイボウズ株式会社 https://kintone-sol.cybozu.co.jp > cases > JX",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "pass": 3
+   },
+   {
+    "quote": "PHONE APPLI PEOPLE 導入事例 ｜ JX金属 株式会社 — PHONE APPLI PEOPLE 導入事例 ｜ JX金属 株式会社 株式会社PHONE APPLI https://phoneappli.net > casestudy > casestudy-39",
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "pass": 3
+   },
+   {
+    "quote": "J-CCOREs 導入事例 JX金属 株式会社 - JFEシステムズ — J-CCOREs 導入事例 JX金属 株式会社 - JFEシステムズ ＪＦＥシステムズ株式会社 https://biz.jfe-systems.com > case > jx-group",
+    "url": "https://biz.jfe-systems.com/case/jx-group",
+    "pass": 3
+   },
+   {
+    "quote": "【 導入事例 】先端素材のリーダー JX金属 様｜AWSで実現する ... — 【 導入事例 】先端素材のリーダー JX金属 様｜AWSで実現する ... フューチャーウェブ https://media.future.ad.jp > case-jxnmm",
+    "url": "https://media.future.ad.jp/case-jxnmm",
+    "pass": 3
+   },
+   {
+    "quote": "【 JX金属 】株価・日経最新ニュース[5016] | 日本経済新聞 — 【 JX金属 】株価・日経最新ニュース[5016] | 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company",
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 (5016) : 株価/予想・目標株価 [JX Advanced Metals] — JX金属 (5016) : 株価/予想・目標株価 [JX Advanced Metals] みんかぶ https://minkabu.jp > 株価検索",
+    "url": "https://minkabu.jp/stock/5016",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 — JX金属 jx-nmm.com https://www.jx-nmm.com",
+    "url": "https://www.jx-nmm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 （5016）の株価・株式｜国内株式 - SBI証券 — JX金属 （5016）の株価・株式｜国内株式 - SBI証券 SBI証券 https://www.sbisec.co.jp > getDetailOfStockPriceJP",
+    "url": "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=5016&exchange_code=JPN",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 【5016】の株価・基本情報 - 株探 — JX金属 【5016】の株価・基本情報 - 株探 株探 https://kabutan.jp > ＪＸ金属 (5016)",
+    "url": "https://kabutan.jp/stock/?code=5016",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター | 製品・サービス - JX金属 — 3Dプリンター | 製品・サービス - JX金属 jx-nmm.com https://www.jx-nmm.com > 製品・サービス",
+    "url": "https://www.jx-nmm.com/products/3d_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 、 造形 密度が99.94％と高い3Dプリンター用純銅粉 — JX金属 、 造形 密度が99.94％と高い3Dプリンター用純銅粉 日経クロステック https://xtech.nikkei.com > ニュース",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "pass": 3
+   },
+   {
+    "quote": "JX金属 、3D 造形 向け銅粉開発 高い電気伝導率実現 — JX金属 、3D 造形 向け銅粉開発 高い電気伝導率実現 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/730977",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jx-nmm.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/news_summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/chart.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/copper_foil_and_alloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/sputtering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/compound_semiconductors_and_crystal_materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/metallic_powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/ceramics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/surface_treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/coppersulfate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/ubm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/mosi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/rolling_steel/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jx-nmm.com/ir/integrated/pdf/report2026_j_interactive.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/data/pdf/multi_stakeholder.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/pdf/corporate_profile_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/upload_files/2023/05/11/6018119_05_20230511_02.pdf?20261102165049",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/2024/05/14/upload_files/2020050_01_20240514_03.pdf?20261102165049",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/products/copper_foil_and_alloy/pdf/copper_alloys_property_list.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jx-nmm.com/company/glance/images/index_history10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/3232/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hpe.com/psnow/doc/a00136927jpn",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phoneappli.net/casestudy/casestudy-39/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/?scode=5016",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/5016",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "JX金属 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/3232/distributors/",
+    "https://www.jx-nmm.com/company/network/overseas/",
+    "https://www.jx-nmm.com/newsrelease/2026/20260528_01.html",
+    "https://metoree.com/companies/46208/distributors/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016312887/",
+    "https://www.jx-nmm.com/company/purchase/",
+    "https://www.jx-kinzokushoji.com/",
+    "https://next.rikunabi.com/viewjob/jk8d10e7d59f24431d/",
+    "https://www.jx-nmm.com/company/industry/",
+    "https://www.jx-nmm.com/"
+   ]
+  },
+  {
+   "query": "JX金属 導入事例",
+   "results": [
+    "https://www.hpe.com/psnow/doc/a00136927jpn",
+    "https://kintone-sol.cybozu.co.jp/cases/JX.html",
+    "https://phoneappli.net/casestudy/casestudy-39/",
+    "https://biz.jfe-systems.com/case/jx-group",
+    "https://media.future.ad.jp/case-jxnmm",
+    "https://www.jx-nmm.com/newsrelease/",
+    "https://business.adobe.com/jp/customer-success-stories/jx-nmm.html",
+    "https://www.jx-nmm.com/company/glance/",
+    "https://www.nttcoms.com/service/TIBCO/case/jx-nmm/",
+    "https://ja.wikipedia.org/wiki/JX金属"
+   ]
+  },
+  {
+   "query": "JX金属 価格 OR 料金",
+   "results": [
+    "https://www.nikkei.com/nkd/company/?scode=5016",
+    "https://minkabu.jp/stock/5016",
+    "https://www.jx-nmm.com/",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=5016&exchange_code=JPN",
+    "https://kabutan.jp/stock/?code=5016",
+    "https://fund2.smbcnikko.co.jp/smbc_nikko_hp/market/main/index.aspx?F=stk_detail&KEY1=5016/T",
+    "https://quote.nomura.co.jp/nomura/cgi-bin/parser.pl?QCODE=5016&TEMPLATE=nomura_tp_kabu_01&MKTN=T",
+    "https://www.jx-nmm.com/ir/",
+    "https://finance.yahoo.co.jp/quote/5016.T",
+    "https://finance.biggo.jp/quote/5016.T"
+   ]
+  },
+  {
+   "query": "JX金属 受託 造形",
+   "results": [
+    "https://www.jx-nmm.com/newsrelease/2019/20191122_01.html",
+    "https://www.jx-nmm.com/products/3d_printer.html",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/06534/",
+    "https://www.jx-nmm.com/products/metallic_powder/3d_printer/copper_powder/",
+    "https://www.nikkan.co.jp/articles/view/730977",
+    "https://jampt.jp/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.instagram.com/p/DS7Brl6kfmj/",
+    "https://www.jx-nmm.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）"
+ }
+}

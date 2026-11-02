@@ -1,0 +1,810 @@
+{
+ "name": "カーペンターアディティブ",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の出展者） /",
+ "researched_at": "2026-11-02T07:59:40.199297+00:00",
+ "official_url": "https://www.lpwj.co.jp/",
+ "identified_by": "search:ddgs:bing:株式会社カーペンターアディティブ",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "弊社は金属粉末の視点からお客様の価値向上を目指しており、金属粉末においては",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界誌『工業材料』掲載のお知らせ",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の主力製品はSLM（セレクティブ・レーザ・メルティング）、EBM（エレクトロン・ビーム・メルティング）、LMD（レーザ・メタル・デポジション）用途の金属パウダーではございますが、お客様からのご要望・仕様に合わせてアトマイズ等、お客様が抱えるお悩みに対し、金属粉末の視点からご支援をさせていただきます",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは3Dプリンター用の\"材料\"、つまり金属粉末の観点から、お客様が抱える造形の問題解決・付加価値向上のお手伝いを致します",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "『カーペンターアディティブ』では、ISO9001／AS9120に基づいた管理体制により、品質要求の厳しい業界においても高評価を獲得しております",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望が実現可能か、適した材料のサンプルをご紹介しながら、",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界誌『工業材料』掲載のお知らせ",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご来場をご検討されていたお客様には心よりお詫び申し上げます",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "LPW 社は、AM 業界にお",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カーペンター社、社長兼 CEO, Tony Thene 氏「AM 業界の主要な事項における当社の積極的な取り組",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "みは、本業界において当社が主導的な役割を果たそうとする意志の表れです",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様々な業界においてより広範囲に採用され、利用されていくにあたり欠かせないことです",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が AM 業界で一層成長し、指導的な役割を果たしていくことに貢献していきます",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CalRAM 社（電子ビーム及びレーザのパウダーベッドフュージョン造形サービス 業界のリーダー）への投資、",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AM 業界の発展に沿った同社の大きな動きを示すものです",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社としても大変心苦しい判断ではございましたが、お客様やご関係者様、説明員",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200225.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本記事の内容にご興味のあるお客様・具体的なご質問があるお客様は、",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要求や顧客が求めている超低アレルギー性といった要求が 満たされていない、と判断しま",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Technology Readiness Level ０－３と呼んでいますが、顧客の基本的な質問や開発をサ",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とめ、医療機器顧客に提案を行いました",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Additive の材料チームは 20 種以上の合金を検討し、10 を超える数の顧客に対して AM プ",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1)Morphologi G3 ユーザーマニュアル,Malvern Instruments Ltd,2008-2010",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "粉末分析サービス",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "“金属粉末”の視点から積層造形に付加価値を与える",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "造形品質は①造形条件②粉末品質より決定されます",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "②金属粉末の品質",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・粉末自体の品質（流動性・粒度分布・粒子形状 等）",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・粉末の保管環境（出荷～リサイクルまでの品質状態、湿度・気候 等）",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は金属粉末の視点からお客様の価値向上を目指しており、金属粉末においては",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、各種造形プロセス（SLM、LMD、EBM）に対応できる多種多様な金属粉末、出荷からリサイクルまで一貫した品質管理を可能にする管理システム、そして、高度化するテクノロジー分野での研究・開発においてのサポートも承っております",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末の専門家として、お悩みを一緒になって解決までさせていただきます",
+    "url": "https://www.lpwj.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末分析サービス",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の主力製品はSLM（セレクティブ・レーザ・メルティング）、EBM（エレクトロン・ビーム・メルティング）、LMD（レーザ・メタル・デポジション）用途の金属パウダーではございますが、お客様からのご要望・仕様に合わせてアトマイズ等、お客様が抱えるお悩みに対し、金属粉末の視点からご支援をさせていただきます",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは3Dプリンター用の\"材料\"、つまり金属粉末の観点から、お客様が抱える造形の問題解決・付加価値向上のお手伝いを致します",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様な鋼種に対応した豊富な品揃から、安定した品質の金属粉末をご提供します",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（積層造形）用金属粉末で重要なこと",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形に用いられる粉末は高品質であることが求められます",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ここでいう”高品質”とは、「流動性が高く、粉末の大きさ・形が揃っている」ということを指します",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "今でこそ常識となっている粉末品質の重要性ですが、『カーペンターアディティブ』は設立当初から粉末の研究・開発を進めており、独自に設定した厳しい管理基準のもとに徹底管理をしています",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末分析サービス",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末物性の分析サービス",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末特性分析サービス",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM用金属粉末の主に物理的分析を受託いたします",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末はAM製品において",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末物性測定",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末特性分析の目的と分析項目",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM用金属粉末の品質は最終製品に大きく影響を与えるため、分析を行い管理する必要があります",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、粉末の物理特性を評価する分析装置を所有しております",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "分析項目は粒度分布測定、粒子形状測定、流動性測定、粉末の水分量測定、密度（見掛け密度、タップ密度、",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "いずれも粉末の流動性と造形物の密度に関わる重要な項目です",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末分析サービス",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質の金属粉末や粉末の測定方法等をご紹介させていただきます",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末の取扱いや関連するご相談も賜っておりますので、是非ご来場くださいませ",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ブースでは、高品質の金属粉末や粉末の測定方法等をご紹介させていただきます",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、AM用途以外の金属粉末についてもお取り扱いがございますので、ご相談くださいませ",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は『粉末に関する先端情報をお届けします』と題し、カーペンターアディティブの豊富な",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM用粉末品揃いや、本年末頃登場予定である期待の新製品についてご紹介いたします",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "更に、弊社が配信するAM用金属粉末に関するメールマガジンについても含んだ内容となっております",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ブースでは高品質の金属粉末や粉末の測定方法等をご紹介させていただきます",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、粉末の取扱いや販売・粉末の物理測定サービス等、粉末に関するご相談も承っておりますので",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末小分けサービスの開始のお知らせ",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "この度弊社では『粉末の小分け提供サービス』のご提供を開始いたします",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末のモーフォロジーについて",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "PBF(Powder Bed Fusion)方式において、使用する金属粉末の形状解析について自動画像解析装置使用の観点からご紹介させていただいております",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形における金属粉末の流動性について",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "PBF(Powder Bed Fusion)方式における金属粉末流動性の重要性について、金属粉末分析の観点からご紹介させていただいております",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ブースでは高品質金属パウダーと粉末物理分析サービスについてご紹介し、分析サービスにつきましては大変多くのご質問をいただきました",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "Inconel 718 AM金属粉末の商業的再利用に対する信頼性を強調したLPWの最近の事例",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "LPW社におけるInconel 718粉末を前提とした、粉末再利用・品質管理についての重要性を示す事例をご紹介致します",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末ライフサイクルマネジメント技術と優れた品質管理・トレーサビリティの組み合わせ",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いて優れた金属粉末と粉末用ライフサイクルマネジメントソリューションを開発・提供するリーダー的存在で",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の金属粉末ライフサイクルマネジメント技術とプロセスを、カーペンター社が有する高品質金属粉末や積層",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉末の挙動を理解すること は、AM が",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Puris 社（チタン粉末製造）や",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉末の小分け発送対応",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200323.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※小分けした粉末については、一度開封",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200323.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しかしながら、 リサイクルを繰り返すごとに粉末の特性が変化し、 造形条件に影響",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 粉末が経路で詰まるほどになると、 パウダーベットが敷けなくなります",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このため、 粉末の品質管理の項目は多数ありますが、 非常に重要な事であると考えておりま",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この試験は、穴の開いた漏斗に規定量の粉末を入れ粉末が落下し終えるま",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ちらは、回転するブレードを粉末に入れ ブレードを回転させた状態で下方向に移動させた",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "流動性が良い粉末ほど、 ブレードに負荷がか",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "私たちは金属3Dプリンター（積層造形）用 の金属パウダーを取り扱う専門メーカー『カーペンターアディティブ』の日本総代理店です",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "①金属粉体の輸入、輸出及び販売業務",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "Site & Partnership Director, Mr. Nick Weeksが来日します",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "Additive は、Carpenter Technology と提携して、Additive Manufacturing の設計上の利点を",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf",
+    "pass": 2
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "①金属粉体の輸入、輸出及び販売業務",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "②金属粉体の品質管理システムに関わる ソフトウェア及びハードウェアのシステム販売",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "AM用金属粉末の主に物理的分析を受託いたします",
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "pass": 1
+   },
+   {
+    "quote": "（セミナー会場 Main Stage近傍)",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、同展示会においてセミナーを開催致しますので、是非足をお運びください",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "Formnext Forum Tokyo Connect 2021 – オンラインセミナー",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "『Carpenter Additive』として下記のオンラインセミナーを実施致します",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "『Formnext Forum Tokyo Connect 2021 – オンラインセミナー』",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、Zoomのセミナーは下記を予定しております",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後リリース予定の新規材料の情報もございますので、是非ご来場くださいませ",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、粉末の取扱いや販売・粉末の物理測定サービス等、粉末に関するご相談も承っておりますので",
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "pass": 1
+   },
+   {
+    "quote": "CalRAM 社（電子ビーム及びレーザのパウダーベッドフュージョン造形サービス 業界のリーダー）への投資、",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Additive は、Carpenter Technology と提携して、Additive Manufacturing の設計上の利点を",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用できる再設計されたピニオンを作成すると同時に 、期待された高い性能を達成する高",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Carpenter Additive によって製造され、設計、検証、および後処理は BMT Aerospace によ",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロセス用の材料選択、プロセス最適化、パーツ試作を提案しました",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200106.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を使った受託分析サービスを行っております",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で造形に問題が発生しましたら、品質の確認のため弊社の 受託分析サービスをご利用いた",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "装置も所有しておりますため、弊社の受託分析サービスをご利用いただければ幸甚です",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190805.pdf",
+    "pass": 2
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "5,000万円",
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー社（LPW）をおよそ８１００万米ドルにて買収したことを発表しました",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "値段：21,500 円(税抜)",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "値段：37,500 円(税抜)",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "値段：49,500 円(税抜)",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こぼしは光学系の倍率にもよりますが少なくなります (この場合の粒子径分布は、 円相当径",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190805.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "形状係数には、 面積円形度、 アスペクト比、 周囲長包絡度、 面積包絡度があります",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "面積円形度は真円の周囲長とのズレ、 アスペクト比は粒子の短",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に近いほど真円に近い事を示しますが、面積円形度以外 1 であっても必ずしも真円とは限",
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "カーペンターアディティブ ジャパン | evort — カーペンターアディティブ ジャパン | evort evort https://evort.jp > 掲載企業・団体",
+    "url": "https://evort.jp/presenters/carpenteradditive",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lpwj.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/company-profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/latest-inforamtion.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20181031.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200323.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200225.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200114.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20200106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20191016.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190805.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/LPWJNewsletter20190416.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.carpenteradditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carpenteradditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carpentertechnology.com/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/post/carpenter-additive-specialty-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "カーペンターアディティブ",
+   "results": [
+    "https://www.lpwj.co.jp/",
+    "https://evort.jp/presenters/carpenteradditive",
+    "https://www.carpenteradditive.com/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "https://www.youtube.com/watch?v=4hFH3YvX2jY",
+    "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "https://www.linkedin.com/company/carpenteradditive",
+    "https://www.carpentertechnology.com/additive-manufacturing",
+    "https://www.youtube.com/playlist?list=PLBWLjAEp22885pVefZtFp9RS9Mw1X1-4O",
+    "https://aichi-sangyo.co.jp/products/lpw/index.html"
+   ]
+  },
+  {
+   "query": "株式会社カーペンターアディティブ",
+   "results": [
+    "https://www.lpwj.co.jp/",
+    "https://evort.jp/presenters/carpenteradditive",
+    "https://mono.ipros.com/company/detail/2077378/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "https://www.carpenteradditive.com/",
+    "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "https://www.youtube.com/watch?v=4hFH3YvX2jY",
+    "https://www.carpentertechnology.com/additive-manufacturing",
+    "https://www.youtube.com/playlist?list=PLBWLjAEp22885pVefZtFp9RS9Mw1X1-4O",
+    "https://www.lpwj.co.jp/company-profile.html"
+   ]
+  },
+  {
+   "query": "カーペンターアディティブ 代理店 契約",
+   "results": [
+    "https://www.carpenteradditive.com/",
+    "https://www.lpwj.co.jp/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "https://www.carpentertechnology.com/additive-manufacturing",
+    "https://evort.jp/presenters/carpenteradditive",
+    "https://ir.carpentertechnology.com/news-events/news/news-details/2018/Carpenter-Enhances-Additive-Manufacturing-Capabilities-With-Acquisition-of-LPW-Technology-Ltd--10-24-2018/default.aspx",
+    "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "https://www.carpenteradditive.com/markets",
+    "https://beswickrefrigeration.co.uk/case-studies/lpw-carpenter/",
+    "https://keiyaku-watch.jp/media/keiyakuruikei/hanbaidairitenkeiyaku/"
+   ]
+  },
+  {
+   "query": "カーペンターアディティブ 導入事例",
+   "results": [
+    "https://www.carpenteradditive.com/",
+    "https://www.carpentertechnology.com/additive-manufacturing",
+    "https://www.authentise.com/post/carpenter-additive-specialty-materials",
+    "https://www.lpwj.co.jp/",
+    "https://www.youtube.com/watch?v=dJfLy7cGzmY",
+    "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "https://evort.jp/presenters/carpenteradditive",
+    "https://www.tctmagazine.com/carpenter-additive-shuts-down-uk-facility-but-remains-commit/",
+    "https://www.facebook.com/MaterialiseJapan/posts/case-studyーcarpenter-additive社の事例紹介carpenter-additive社は様々な産業のお客様からの情報や部門からの複雑で多様/8937797939628084/"
+   ]
+  },
+  {
+   "query": "カーペンターアディティブ 価格 OR 料金",
+   "results": [
+    "https://www.lpwj.co.jp/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "https://www.nikkei.com/nkd/company/us/CRS/",
+    "https://sekapri.com/material/20170304-6663/",
+    "https://www.moomoo.com/ja/stock/CRS-US/company",
+    "https://met3dp.com/ja/metal-powder-for-automotive-202404222/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "https://jp.investing.com/equities/carpenter-technology-corp",
+    "https://nantong-japanese.com/2025/11/08/「～費」「～代」「～料」「～金」「～賃」金銭/"
+   ]
+  },
+  {
+   "query": "カーペンターアディティブ 受託 造形",
+   "results": [
+    "https://www.lpwj.co.jp/",
+    "https://news.sharelab.jp/3dp-news/metal-materials/lpw-tct2020/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "https://mono.ipros.com/company/detail/2077378/",
+    "https://www.carpenteradditive.com/",
+    "https://evort.jp/presenters/carpenteradditive",
+    "https://www.youtube.com/watch?v=4hFH3YvX2jY",
+    "https://www.carpentertechnology.com/additive-manufacturing",
+    "https://www.carpenterelectrification.com/additive-manufacturing",
+    "https://em.mitsui-kinzoku.com/ceramics/featured-content/ceramics-3d-printer/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）",
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部9頁・検索6回）"
+ }
+}

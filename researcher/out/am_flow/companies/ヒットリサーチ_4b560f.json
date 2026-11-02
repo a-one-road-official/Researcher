@@ -1,0 +1,648 @@
+{
+ "name": "ヒットリサーチ",
+ "aliases": [],
+ "context": "エンプラ（PEEK、PPS、ULTEM等）とセラミックス（アルミナ、ジルコニア、HA）の3D造形 /",
+ "researched_at": "2026-11-02T08:00:00.578154+00:00",
+ "official_url": "https://hitresearch.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2015/07",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3名",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "造形サービス",
+    "url": "https://hitresearch.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "500℃高温ホットエンドを用いた造形サービス",
+    "url": "https://hitresearch.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス | hitresearch",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では当社オリジナルの500℃対応ホットエンド（下記）とヒートベッドを市販プリンターに組み込み、スーパーエンプラや機能性材料の造形サービスを行っています",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "**弊社ホットエンドを用いて各種材料で同一形状を同時に作成すれば効率的な試作・評価が可能となります",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "②試作費用は数万円程度～となります",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://hitresearch.co.jp/ja/company/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのデバイスを用いて造形サービス、フィラメント造形性評価、等を行っています",
+    "url": "https://hitresearch.co.jp/ja/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業概要 特殊材料造形サービス",
+    "url": "https://hitresearch.co.jp/ja/company/",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://hitresearch.co.jp/ja/news/",
+    "pass": 1
+   },
+   {
+    "quote": "500℃対応ホットエンド・ヒートベッドを市販プリンターに組み込み、スーパーエンプラや機能性材料の造形サービスを行う",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを活用した造形サービス・開発支援",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "幅広く対応可能！3Dプリンターを用いた造形サービスを行っております",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社造形サービス",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【造形サービス】スーパーエンプラ等の高温材も対応",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、高温材料での造形サービスに対応しております",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "■特殊材料に特化したホットエンドの受託開発",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "■3Dの造形サービス、造形テスト、技術調査",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを活用した造形サービス・開発支援",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "【造形サービス】スーパーエンプラ等の高温材も対応",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス カタログ",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託の他企業",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都／製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "【造形サービス】スーパーエンプラ等の高温材も対応 ヒットリサーチ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "受託サービス",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "【造形サービス】スーパーエンプラ等の高温材も対応",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、高温材料での造形サービスに対応しております",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "【造形サービス概要】",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス カタログ",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造シミュレーション｜湯流れと凝固を事前確認 アルミ鋳物試作",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを活用した造形サービス・開発支援 ヒットリサーチ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを活用した造形サービス・開発支援",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "幅広く対応可能！3Dプリンターを用いた造形サービスを行っております",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "当社造形サービス",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形サービス＜樹脂パイプ＞",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形サービス＜二次元コード＞",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形サービス",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形サービス＜試作機＞",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "#造形サービス",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "stlファイルまたは図面を頂ければお見積り致します",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミの切削加工｜A5052を1個から削り出し 公差±0.03",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "②試作費用は数万円程度～となります",
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金 300万円(2021.7より増資）",
+    "url": "https://hitresearch.co.jp/ja/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1万円 ~ 10万円",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "資金調達・提携ニュース",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客企業分析",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ヒットリサーチ — 株式会社 ヒットリサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-EBJPI",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   },
+   {
+    "quote": "ヒットリサーチの製品・サービス一覧｜イプロスものづくり — Dec 6, 2023 · ヒットリサーチ の製品・サービス一覧です。 3Dプリンターの心臓部、スーパーエンプラに対応した高温・省エネ・超小型ホットエンドをご提供 当社は、温度センサとヒータを同一基板上に形成した「加熱ヘッド」の技術を基本に3Dプリンタのホットエンド開発と製造などを行っております ...",
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒットリサーチ | 企業情報 | イプロスものづくりhitresearch | Just another WordPress site株式会社ヒットリサーチ｜スピーダ スタートアップ情報リサーチ株式会社ヒットリサーチの会社情報と与信管理 | NIKKEI COMPASS - 日...ヒットリサーチ - YouTube — Dec 6, 2023 · ヒットリサーチの企業情報や製品・サービス、関連カタログをご紹介。 3Dプリンターの心臓部、スーパーエンプラに対応した高温・省エネ・超小型ホットエンドをご提供 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 Just another WordPress site PEEK、ULTEM、PPSなどのスーパーエンジニアリングプラスチックスに対応 Feb 19, 2024 · 企業概要 2024/02/19 更新 情報ソースにつ",
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヒットリサーチ｜スピーダ スタートアップ情報リサーチ — Feb 19, 2024 · 企業概要 2024/02/19 更新 情報ソースについて 企業名 株式会社ヒットリサーチ 英語名 hitresearch Co., Ltd. 代表者名 石田 暢久 住所 京都府京都市西京区京都大学桂4番地 京都大学（桂）総合研究棟III物理系等施設b4s14",
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヒットリサーチの会社情報と与信管理 | NIKKEI COMPASS - 日... — 株式会社ヒットリサーチは京都府の企業 法人種別 株式会社 登記住所 京都府京都市西京区京都大学桂4番地京都大学（桂）総合研究棟Ⅲ物理系等 ...",
+    "url": "https://www.nikkei.com/compass/company/jj4hdm2yYcStkpStBpvVaG",
+    "pass": 3
+   },
+   {
+    "quote": "ヒットリサーチ - YouTube — 株式会社ヒットリサーチでは当社基盤技術である「同一基板上にヒータと測温抵抗体を形成した応答性の高いセラミックヒータ」を用い、FDM方式 ...",
+    "url": "https://www.youtube.com/channel/UC2w36WnnS_PxD19LwjjeA9g/videos",
+    "pass": 3
+   },
+   {
+    "quote": "【造形サービス】スーパーエンプラ等の高温材も対応 ヒットリサーチ |... — ヒットリサーチの【造形サービス】スーパーエンプラ等の高温材も対応の技術や価格情報などをご紹介。 高温材料 (スーパーエンプラ等)対応熱溶解積層溶 (FFF方式)ホットエンドを開発イプロスものづくりでは 製造受託など製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを活用した造形サービス・開発支援 ヒットリサーチ | イ... — ヒットリサーチの3Dプリンターを活用した造形サービス・開発支援の技術や価格情報などをご紹介。 幅広く対応可能！ 3Dプリンターを用いた造形サービスを行っておりますイプロスものづくりでは 3Dプリンタなど製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hitresearch.co.jp/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitresearch.co.jp/ja/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitresearch.co.jp/ja/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitresearch.co.jp/ja/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitresearch.co.jp/ja/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.tanaakk.com/partners/hitseries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media-radar.jp/contents/mediapicks/knowledge/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000024.000069778.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.centricsoftware.com/ja/all-references",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/service/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2073589/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2073589/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-EBJPI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000412477/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000509220/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヒットリサーチ 代理店 契約",
+   "results": [
+    "https://www.tanaakk.com/partners/hitseries/",
+    "https://media-radar.jp/contents/mediapicks/knowledge/agency/",
+    "https://prtimes.jp/main/html/rd/p/000000024.000069778.html",
+    "https://www.hit-kk.co.jp/outline/",
+    "https://www.hit-corp.co.jp/pages/2/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000sixzu",
+    "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10005391507/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250704/20250703507829.pdf",
+    "https://bizresearch.net/blog/article/35"
+   ]
+  },
+  {
+   "query": "ヒットリサーチ 導入事例",
+   "results": [
+    "https://initial.inc/companies/A-EBJPI",
+    "https://www.centricsoftware.com/ja/all-references/",
+    "https://www.nikkei-r.co.jp/service/case",
+    "https://www.valuesccg.com/dockpit/case",
+    "https://www.truedata.co.jp/works/",
+    "https://www.tsr-net.co.jp/case/",
+    "https://businesssolution.konicaminolta.jp/business/solution/digitalmarketing/case/index.html",
+    "https://www.business-research-lab.com/category/example/",
+    "https://www.domo.com/jp/customers",
+    "https://hitresearch.co.jp/ja/company/"
+   ]
+  },
+  {
+   "query": "ヒットリサーチ 価格 OR 料金",
+   "results": [
+    "https://mono.ipros.com/company/detail/2073589/category/",
+    "https://mono.ipros.com/company/detail/2073589/",
+    "https://initial.inc/companies/A-EBJPI",
+    "https://www.nikkei.com/compass/company/jj4hdm2yYcStkpStBpvVaG",
+    "https://www.youtube.com/channel/UC2w36WnnS_PxD19LwjjeA9g/videos",
+    "https://hitresearch.co.jp/ja/company/",
+    "https://hitresearch.co.jp/ja/"
+   ]
+  },
+  {
+   "query": "ヒットリサーチ 受託 造形",
+   "results": [
+    "https://mono.ipros.com/product/detail/2000412477/",
+    "https://mono.ipros.com/product/detail/2000509220/",
+    "https://hitresearch.co.jp/ja/造形サービス/",
+    "https://hitresearch.co.jp/ja/",
+    "https://sakurai-machinery.com/3dprintservice/",
+    "https://www.yam-kyoto.com/production-service/",
+    "https://jtdtky.co.jp/product/3dプリンター受託造形サービス/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部11頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部11頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部11頁・検索4回）"
+ }
+}

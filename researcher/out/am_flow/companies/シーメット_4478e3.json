@@ -1,0 +1,983 @@
+{
+ "name": "シーメット",
+ "aliases": [],
+ "context": "砂型3Dプリンター（JIMTOF2022出展）と光造形機。TRAFAM 砂型開発参加 /",
+ "researched_at": "2026-11-02T07:57:59.409817+00:00",
+ "official_url": "https://www.cmet.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "光造形・砂型積層造形装置事業（3Dプリンター） 光造形システム・砂型積層造形システム製造・販売、 関連消耗、品等販売、技術サポート、保守サービス",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "光造形・砂型積層造形装置事業（3Dプリンター）光造形システム・砂型積層造形システム製造・販売、関連消耗品等販売、技術サポート、保守サービス",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1990（平成2）年11月2日",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1990（平成2）年11月2日",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "32名",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "35名",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "35名",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "大手プラントメーカー\n自動車メーカー\n家電メーカー\n医療メーカー\n鋳造メーカー\n公的機関（工業技術センター・大学など含）\nサービスビューロー (順不同・敬称略) ※弊社は機械メーカーであるナブテスコ株式会社（http://www.nabtesco.com）の子会社として産業用の光造形装置をはじめ砂型積層造形装置等3Dプリンタに特化した事業を展開し、日本のモノづくり産業をサポートしています。",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "自社開発の光造形方式の材料をご紹介",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発高機能性樹脂",
+    "url": "https://www.cmet.co.jp/product_cate/material-rapid/",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発の光造形方式の材料をご紹介",
+    "url": "https://www.cmet.co.jp/product_cate/material-rapid/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザ事例／『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "社と日本における販売代理店契約を締結",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "荒井誠営業部長は「販売だけでなく、装置導入サービス、導入後の保守サポートなどを自社製品同様に行える」と言う",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "3Dプリンター（光造形・砂型造形装置）製造・販売のシーメット株式会社",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "装置開発・ソフトウェア開発・樹脂開発・アフターサービスまでを一気通貫して行っているため、素早い問題解決や顧客ニーズに合わせた業務設計、行程設計に柔軟に対応できる能力が強みです",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（光造形・砂型造形装置）を製造・販売している当社では、 国産大型サイズからミドルサイズまで、お客様が使いやすいサイズでご提案",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形装置 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/product_cate/material-rapid/",
+    "pass": 1
+   },
+   {
+    "quote": "砂型積層造形装置 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで主型・中子造形を一括造形可能な大型砂型積層造形装置（世界最速砂型積層造形装置 SCM-1800）",
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "従来必要であった木型や金型を使用せず、主型・中子をダイレクトに造形することで、試作から小ロット生産まで...",
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "砂型積層専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 1
+   },
+   {
+    "quote": "事例一覧 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザ事例／『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、数ある3Dプリンター方式の中に於いて、高精度な光造形（Stereolithography）方式と鋳造に特化した砂型積層（BinderJet）方式の3Dプリンターを販売致しております",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "今日にいたるまで3Dプリンターは、試作用途が主でしたが、今後は量産用途にも活用可能と言われる製品が多種市場に投入され、ものづくりの技術革新をさらに加速させることになります",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形システム・砂型積層造形システム製造・販売、",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "関連消耗、品等販売、技術サポート、保守サービス",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、家電、OA機器、化成・化学、電気・電子機器、精密機器、重工業、鋳物・鋳造業、金型業、医療、玩具、アミューズメント、試作業（サービスビューロー）、大学・公的研究所",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "帝人製機株式会社 光造形システムSOLIFORMの販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Meisterシリーズ販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Meister ATOMm-4000 販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Meister ATOMm-8000 販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SCM-800販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SCM-1800販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SCM-800Ⅱ販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "CSLA-9000 販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ATOMm-4000Ⅱ 販売開始",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "は、お客様に安心・安全な製品を販売し、製品を安全にご使用いただけるよう適切な設置工事やメンテナンス作業を実施することにより企業の社会的責任を果たします",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "安全性の高い製品の販売・サービスの提供",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を安全にご使用いただくために、製品導入前・後の教育や取扱説明書を提供します",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理にとどまらず、原材料や部材の調達、製品の製造、製品の販売等において、社内関連部署及び関連会社を横断的に指示できる権限を有する品質保証部を設置し、リスク管理を徹底します",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "法令遵守の周知徹底を図るための教育体制を整備し、自主行動計画が適切に実行されているかの定期的なモニタリングを実施いたします",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "新着情報 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｒ＆Ｄセンターについて – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/company/development-center/",
+    "pass": 1
+   },
+   {
+    "quote": "創立記念日休業のお知らせ 2026年11月2日 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "pass": 1
+   },
+   {
+    "quote": "シーメット、中国製3Dプリンターを販売｜News｜工作機械のニュースはMono Que ＜モノクエ＞",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "シーメット、中国製3Dプリンターを販売",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "保守サポートも提供",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "プリンター）を製造・販売するシーメット（神奈川県横浜市）は",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "写真）の販売を始めた",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "社と日本における販売代理店契約を締結",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "荒井誠営業部長は「販売だけでなく、装置導入サービス、導入後の保守サポートなどを自社製品同様に行える」と言う",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "千台以上の販売実績をもつ",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "機にシーメットが開発した液体樹脂をセットで販売する",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイエンド光造形装置の販売",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造業界におけるリードタイムの短縮ツールとしての砂型積層造形装置を販売",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "光造形（SLA方式）、砂型3Dプリンタ（BJ方式）の開発・製造・販売、サポートまでを",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "●光造形装置（SLA方式）、砂型3Dプリンタ（BJ方式）の開発・製造・販売",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "●SLA方式専用の光硬化性樹脂の製造・販売",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "●光造形・砂型積層造形装置技術サポート",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "●光造形・砂型積層造形装置保守サービス",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "【販売好調！】産業用SLA光造形装置『CSLA-9000』",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "ロゴ・フォント・カラー設計",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "装置開発・ソフトウェア開発・樹脂開発・アフターサービスまでを一気通貫して行っているため、素早い問題解決や顧客ニーズに合わせた業務設計、行程設計に柔軟に対応できる能力が強みです",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用3Dプリンターの高度な技術を駆使し、多様な業界の課題を解決してきました",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちがどのように製品開発を進化させ、コスト削減や効率化に貢献しているのか、具体的な導入事例をご覧ください",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のＲ＆Ｄセンターではお客様の3Dプリンター導入を支援しています",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（光造形・砂型造形装置）を製造・販売している当社では、 国産大型サイズからミドルサイズまで、お客様が使いやすいサイズでご提案",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/product_cate/material-rapid/",
+    "pass": 1
+   },
+   {
+    "quote": "※装置塗装色はお客様のご要望に合わせて変更可能です",
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "その中で、私事ですが、入社以来30年間開発に携わり、時には失敗し、今では考えられませんが、お客様の額に赤い十字が浮き出るぐらい激怒されたこともありました",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "それでも、お客様に良いものを届けたいという一心で今日まで、たゆむことなくやってくることができました",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターメーカではめずらしく装置・材料・ソフトウェアのすべてをワンストップで開発し、卓越した営業・サービス体制でお客様に提供致しております",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の3Dプリンターは未だその高見に到達出来ていないことを認識しつつ、真摯かつスピーディに開発に取り組み、お客様に価値ある製品をご提供できるよう挑戦し続けます",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "は、日本製というブランドの自負を持ち続け、お客様のものづくり技術の成長・発展に貢献できる3Dプリンティングソリューションを提供し続けて参りますので、どうぞご期待ください",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "は、お客様に安心・安全な製品を販売し、製品を安全にご使用いただけるよう適切な設置工事やメンテナンス作業を実施することにより企業の社会的責任を果たします",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が安心してご使用いただける製品の提供及び専門スタッフによる適切な設置工事・メンテナンス作業を提供することが弊社の社会的責任と認識し、安心・安全な社会構築に貢献いたします",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品に問題や欠陥が発生した場合は、速やかに情報を経営トップやお客様・関連部署・関連会社等に提供し、被害の拡大を防ぎ、再発防止や原因究明を徹底して実施していきます",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりの技術革新に即応し、顧客に最適な装置・材料・ソフトウェアを提供する",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例 / 『アルミ鋳造品の試作対応のみならず、圧倒的スピードで量産に繋がる案件も受注、自社製品の開発にも使用』",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "事例一覧に弊社装置導入ユーザー様の生の声をアップ！",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｒ＆Ｄセンターではお客様のニーズに対応したより高性能な樹脂を開発すべく、専門の技術者が日々調査研究を行っております",
+    "url": "https://www.cmet.co.jp/company/development-center/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｒ＆Ｄセンターでは弊社装置のデモンストレーションを行っており、専門の技術者が同席し装置運転のみならず最新の情報、ノウハウをご体感いただくことで、お客様の課題解決に貢献します",
+    "url": "https://www.cmet.co.jp/company/development-center/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/company/development-center/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、お取引様各位",
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のカタログをご希望のお客様は、以下のページより資料請求フォームの必須事項をご入力の上、ご送信ください",
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "pass": 1
+   },
+   {
+    "quote": "業界統計・産業潮流",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "業界最小クラス",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造業界におけるリードタイムの短縮ツールとしての砂型積層造形装置を販売",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にはご迷惑をお掛けいたしますが、ご了承いただけますようお願い申し上げます",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、プロフェッショナル向けの高精度光造形機（SLA）、ソフトウェアおよびその樹脂材料を三位一体開発、独自技術、日本国産にこだわり、数多くのお客様のニーズに応え続けて参りました",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   },
+   {
+    "quote": "また産業用光造形機トップシェアとなる多くの納入実績と経験に基づく日本品質、きめ細かく迅速なアフターサービスが当社の強みです",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "高性能✕低価格の",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイエンドマシンでありながらリーズナブル価格で提供しています",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の大型装置よりコストパフォーマンスに優れ、低価格・高性能レーザーを搭載した光造形装置をご提供しています",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格・高性能レーザを搭載したRapid",
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "当日は、営業・お問い合わせ窓口、カスタマーサポート、消耗品等の受発注業務を含むすべての業務を休業いたします",
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "pass": 1
+   },
+   {
+    "quote": "?_で価格は約",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "千万円前後するため価格的な利点も訴求できる」（荒井部長）と自信を見せる",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "ポリプロピレン風外観と靭性を兼備えた低価格樹脂「TSR-852」",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "ポリプロピレンの外観と靭性を兼ね備えた低価格材料「TSR-852」",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ・お見積",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   },
+   {
+    "quote": "光造形・砂型積層造形装置事業（3Dプリンター）光造形システム・砂型積層造形システム製造・販売、関連消耗品等販売、技術サポート、保守サービス",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "【中小企業に最大1000万円補助】大型SLA導入の壁を突破！",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（光造形・砂型造形装置）を製造・販売している当社では、 国産大型サイズからミドルサイズまで、お客様が使いやすいサイズでご提案",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ミドルサイズ3Dプリンター Rapid Meister ATOMm-4000Ⅱ",
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "【新製品】ミドルサイズ3Dプリンター",
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "ミドルサイズでも高速造形を実現したいという願いを形にしたい",
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "pass": 1
+   },
+   {
+    "quote": "但し、本当に量産適用されるためには、コストや品質、安全、規格等様々なクリアすべきハードルが存在します",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "400,000,000円",
+    "url": "https://www.cmet.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【中小企業に最大1000万円補助】大型SLA導入の壁を突破！",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "【中小企業に最大1000万円補助】まだ間に合う！他社がこっそり始めている「補助金」最新設備投資",
+    "url": "https://www.cmet.co.jp/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "また大型光造形装置「CSLA-9000」やミドルサイズ光造形装置「ATOMm-4000」をはじめとする多数の光造形装置を設置し、造形ノウハウやアプリケーション開発も行っております",
+    "url": "https://www.cmet.co.jp/company/development-center/",
+    "pass": 1
+   },
+   {
+    "quote": "【中小企業に最大1000万円補助】大型SLA導入の壁を突破！",
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "pass": 1
+   },
+   {
+    "quote": "【中小企業に最大1000万円補助】まだ間に合う！他社がこっそり始めている「補助金」最新設備投資",
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "pass": 1
+   },
+   {
+    "quote": "千万円前後するため価格的な利点も訴求できる」（荒井部長）と自信を見せる",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "400,000,000円",
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "個人情報保護方針 - シーメット — 個人情報保護方針 - シーメット cmet.co.jp https://www.cmet.co.jp > privacy",
+    "url": "https://www.cmet.co.jp/privacy/",
+    "pass": 3
+   },
+   {
+    "quote": "シーメット 、中国製3Dプリンターを販売｜News - モノクエ — シーメット 、中国製3Dプリンターを販売｜News - モノクエ Mono Que https://monoque.jp > news",
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "pass": 3
+   },
+   {
+    "quote": "シーメット 社およびユニオンテック社の3Dプリンターを販売 ... — シーメット 社およびユニオンテック社の3Dプリンターを販売 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000101.000006663.html",
+    "pass": 3
+   },
+   {
+    "quote": "JMC、 シーメット ・ユニオンテック製3Dプリンターの販売開始 — JMC、 シーメット ・ユニオンテック製3Dプリンターの販売開始 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/jmc-3dprinter-launch-251110/",
+    "pass": 3
+   },
+   {
+    "quote": "事例 一覧 – 3Dプリンター（光造形・砂型造形 ... - シーメット — 事例 一覧 – 3Dプリンター（光造形・砂型造形 ... - シーメット cmet.co.jp https://www.cmet.co.jp > works",
+    "url": "https://www.cmet.co.jp/works/",
+    "pass": 3
+   },
+   {
+    "quote": "シーメット — シーメット cmet.co.jp https://www.cmet.co.jp",
+    "url": "https://www.cmet.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品紹介 – 3Dプリンター（光造形・砂型造形 ... - シーメット — 製品紹介 – 3Dプリンター（光造形・砂型造形 ... - シーメット cmet.co.jp https://www.cmet.co.jp > product",
+    "url": "https://www.cmet.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "シーメット | 企業情報 | イプロスものづくり — シーメット | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器",
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 鋳造用 シーメット 社製砂型積層 造形 装置 — 3Dプリンター 鋳造用 シーメット 社製砂型積層 造形 装置 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=dsXr6xWI_44",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cmet.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product_cate/material-rapid/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/infomation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product_cate/sand-casting-meister/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/company/development-center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/closed-on-november-2-2026-for-the-company-anniversary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cmet.co.jp/wp-content/themes/initializr/pdf/240618_WEB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cmet.co.jp/wp-content/themes/initializr/img/logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.carbon3d.co.jp/casestudies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/210711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dsXr6xWI_44",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シーメット 代理店 契約",
+   "results": [
+    "https://www.cmet.co.jp/privacy/",
+    "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "https://prtimes.jp/main/html/rd/p/000000101.000006663.html",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/jmc-3dprinter-launch-251110/",
+    "https://formlabs.com/jp/company/partners/become-a-reseller/",
+    "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "https://3fit.net/news/1065/",
+    "https://mono.ipros.com/company/detail/210711/",
+    "https://metoree.com/companies/43748/distributors/"
+   ]
+  },
+  {
+   "query": "シーメット 導入事例",
+   "results": [
+    "https://www.cmet.co.jp/works/",
+    "https://www.cmet.co.jp/",
+    "https://www.carbon3d.co.jp/casestudies/",
+    "https://partners.solize.com/manufacturing/3dp-rp/case",
+    "https://prtimes.jp/main/html/rd/p/000000101.000006663.html",
+    "https://mono.ipros.com/product/detail/2000702698/",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/jmc-3dprinter-launch-251110/",
+    "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "https://selcam.co.jp/case/",
+    "https://product.sysmet.jp/jirei/"
+   ]
+  },
+  {
+   "query": "シーメット 価格 OR 料金",
+   "results": [
+    "https://www.cmet.co.jp/product/",
+    "https://mono.ipros.com/company/detail/210711/",
+    "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "https://jfs.or.jp/honbu2/wp-content/uploads/2021/10/fb00db0b1c30318cb5ab4da7ace209bd.pdf",
+    "https://www.hyogo-kg.jp/kiki/3011920",
+    "https://www.cmet.co.jp/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/191003",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/cmet-csla-9000-230424/",
+    "https://www.ipros.com/product/detail/2000669198/"
+   ]
+  },
+  {
+   "query": "シーメット 受託 造形",
+   "results": [
+    "https://www.cmet.co.jp/",
+    "https://mono.ipros.com/company/detail/210711/",
+    "https://www.youtube.com/watch?v=dsXr6xWI_44",
+    "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "https://www.nabtesco.com/news/20160112-7418/",
+    "https://www.nikkan.co.jp/articles/view/306930",
+    "https://www.cmet.co.jp/product_cate/rapid-meister/",
+    "https://cir.nii.ac.jp/crid/1523669555798425472",
+    "https://mono.ipros.com/product/detail/2000669198/",
+    "https://www.ipros.com/product/detail/2000669198/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部7頁・検索4回）"
+ }
+}

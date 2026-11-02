@@ -1,0 +1,786 @@
+{
+ "name": "伊藤忠セラテック",
+ "aliases": [],
+ "context": "TRAFAM 超精密砂型開発に参加（2016） /",
+ "researched_at": "2026-11-02T08:07:01.444579+00:00",
+ "official_url": "https://www.itc-cera.co.jp/",
+ "identified_by": "search:ddgs:google:伊藤忠セラテック",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1960年12月",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "1960年12月",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1960年12月",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "91億円（2025年度）",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1兆511億7600万円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1939億400万円 前年比 ▲1.46%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "538億6400万円 前年比 +8.21%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "3319億8300万円 前年比 +24.9%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "2381億9500万円 前年比 +5.6%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1031億7500万円 前年比 +3.57%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "-",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "716億1000万円 前年比 +21.6%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "348億6400万円 前年比 ▲2.08%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "8512億3500万円 前年比 ▲7.9%",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "149名（2026年3月末）",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "149人",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "伊藤忠グループにおけるセラミックス分野の中核会社",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "耐火物原料「合成ムライト」の製造販売を開始",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "耐火物原料「アルミナイト®」の製造販売を開始",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "耐火物原料「アルミナイトボール」の製造販売を開始",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックサンド「セラビーズ®」の製造販売を開始",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックサンド「ムライトボール®」の製造販売を開始",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "触媒「エアロナイト®」の製造販売を開始",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "セメントトレード事業への参入並びにセメント販売部設置・東京事務所開設について",
+    "url": "https://www.itc-cera.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "受託触媒製造",
+    "url": "https://www.itc-cera.co.jp/prod/aeronite/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせた触媒を受託生産致します",
+    "url": "https://www.itc-cera.co.jp/prod/aeronite/",
+    "pass": 1
+   },
+   {
+    "quote": "（セラミックス販売部宛）",
+    "url": "https://www.itc-cera.co.jp/news/%E3%82%A4%E3%83%B3%E3%83%89-kochi%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%8Cirefcon2026%E3%80%8D%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97/",
+    "pass": 1
+   },
+   {
+    "quote": "建設コンサルタント",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "設備設計事務所",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "構造設計事務所",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会・セミナー参加ポリシー",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "pass": 3
+   },
+   {
+    "quote": "教育，学習支援業 (181)",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用･キャリア教育",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用・キャリア教育",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "その担体を使って二酸化炭素と水素を原料にe-メタンや合成燃料（カーボンニュートラル燃料）を生成する触媒をエアロナイトの商標で製造・販売しています",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "4億970万円",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "91億円（2025年度）",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の発表では、「再利用可能なワンサンドループシステム」と、「作業環境および環境負荷低減に配慮した人工砂」としてのセラビーズ®の特長をご紹介します",
+    "url": "https://www.itc-cera.co.jp/news/wfc-2026%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%89%E3%81%AB%E3%81%A6%E3%80%81%E3%82%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "4億900万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   },
+   {
+    "quote": "8億5026万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "53億335万7000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "107億1389万4000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "6億2974万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "47億7309万円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "104億2810万円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "7億9259万円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "41億4334万4000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "93億6724万9000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "9億3178万7000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "41億5175万4000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "85億996万8000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "7億3405万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "39億5096万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "77億1995万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "4億7235万5000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "32億2149万1000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "75億4488万1000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "4億6993万2000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "27億4913万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "81億2444万8000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "6億4187万5000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "26億20万3000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "81億1011万6000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "5億7594万3000円",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "主要な建材原料であるセメントや、その中間原料であるクリンカー、またセメントと併用する事で建材の長期強度等機能強化が可能となる高炉水砕スラグ及びその微粉末を取り扱っています",
+    "url": "https://www.itc-cera.co.jp/works/products/",
+    "pass": 1
+   },
+   {
+    "quote": "同微粉末、非鉄スラグ",
+    "url": "https://www.itc-cera.co.jp/prod/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、高炉水砕スラグを粉砕し微粉末状とした高炉水砕スラグ微粉末も取り扱っています",
+    "url": "https://www.itc-cera.co.jp/prod/",
+    "pass": 1
+   },
+   {
+    "quote": "高炉の出銑口に充填するマッド材や、各炉の補修の際、吹付けて使用する粉末状の耐火物などを取り扱っております",
+    "url": "https://www.itc-cera.co.jp/prod/",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "カーボンニュートラル分野では、地球温暖化抑制の切り札と言われる「水素」を製造可能な水蒸気改質触媒、そして二酸化炭素を活用するための「二酸化炭素資源化触媒」を中心に、様々なカーボンニュートラル分野向けの触媒を自社開発・自社製造でお届けしております",
+    "url": "https://www.itc-cera.co.jp/prod/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.itochu.co.jp/ja/ir/partner/index.html",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "AMAFONDは、イタリア鋳造業界を支えるサプライヤー企業の団体であり、",
+    "url": "https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/",
+    "pass": 1
+   },
+   {
+    "quote": "年の設立以来、業界の発展を支えてきました",
+    "url": "https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本イベントへの協賛を通じて、鋳造業界における国際的な交流と発展に貢献してまいります",
+    "url": "https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、培ってきた技術と知見を活かし、お客様や業界関係者の皆さまに新たな価値を提供してまいります",
+    "url": "https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/",
+    "pass": 1
+   },
+   {
+    "quote": "NCBは、鋳造業界をはじめ、フィラー用途やバイオマス用途など、さまざまな分野で活用されています",
+    "url": "https://www.itc-cera.co.jp/prod/cerabeads/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造業界においては、高い耐熱性や低い熱膨張などの特性により、製品の高品質化に貢献しております",
+    "url": "https://www.itc-cera.co.jp/prod/cerabeads/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の工業化プロセスに最適化した触媒が提供可能です",
+    "url": "https://www.itc-cera.co.jp/prod/aeronite/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の抱える製法面の問題を共に解決致します",
+    "url": "https://www.itc-cera.co.jp/prod/aeronite/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせた触媒を受託生産致します",
+    "url": "https://www.itc-cera.co.jp/prod/aeronite/",
+    "pass": 1
+   },
+   {
+    "quote": "WFCは、世界各国の技術者、研究者、企業関係者が集い、鋳造技術、材料、設備、環境対応などに関する最新の知見や取り組みを共有する、鋳造業界における国際的な会議です",
+    "url": "https://www.itc-cera.co.jp/news/wfc-2026%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%89%E3%81%AB%E3%81%A6%E3%80%81%E3%82%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%82%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "従来、メタネーションでは、触媒には高価な貴金属が使われることが多く、それに伴い合成メタンの製造コストが高くなる事が業界の課題とされていた",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社はその強みを活かすことで、安価なニッケルをベースとするにも関わらず、高い性能とコスト優位性を両立する触媒の開発に成功し、今業界の注目を浴びている",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石業界",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   },
+   {
+    "quote": "業界・地域比較",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ業界の給与ランキング",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ業界のホワイト企業ランキング",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   },
+   {
+    "quote": "また、触媒メーカーとしては珍しく担体を独自開発している利点を活かして、水素を生成する際に混入する微量酸素を除去する『脱酸触媒』や、炭化水素の混合ガスから水素を選択的に生成する『水蒸気改質触媒』など、お客様の要望に応じて用途に応じた触媒をカスタマイズして提供することができるため、カーボンニュートラル燃料の生成に欠かせない触媒として国内に限らず海外のお客様からも高い支持を頂いております",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融商品に関するお客様からの苦情等への対応について（461KB）",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「伊藤忠セラテック」の代理店1社 注目ランキング【2026年】| Metoree — (伊勢久) エリアから伊藤忠セラテックの代理店を探す 代理店の支店や営業所等の各地拠点情報も含めて探すことができます。 中部 愛知県 全国の伊藤忠セラテックの代理店1社 伊勢久株式会社 代理店 伊藤忠セラテックを含め187社の代理店登録有り",
+    "url": "https://metoree.com/companies/44645/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスで、その先の世界を作る 伊藤忠セラテック株式会社 — 私たちのセラミックスは その先をつくるもの。 たとえば、持続可能な素材で 産業も環境も支えつづける。 新しい機能を生み出すことで カーボンニュートラルを目指す。 セラミックスにできることで より良い世界をつくっていく、 伊藤忠セラテックです。",
+    "url": "https://www.itc-cera.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜セラミックスで、その先の世界を作る 伊藤忠セラテック株式...日本｜主要子会社および関連会社｜伊藤忠商事株式会社世界有数の乾電池ブランド「Duracell」の日本市場における販売代理店...セラテックジャパン株式会社 | ファインセラミックスを加工する企業で...ベンダー別一覧 | CTC - 伊藤忠テクノソリューションズ — 会社名 伊藤忠セラテック株式会社 代表者 代表取締役社長 矢島 久嗣 設立 1960年12月 資本金 4億970万円 年商 91億円（2025年度） 決算期 3月末日（年1回） 取引銀行 あいち銀行・瀬戸信用金庫・ 三菱UFJ銀行・ みずほ銀行 他 適格請求書発行 事業者登録番号 ... 伊藤忠商事株式会社の「主要子会社および関連会社の日本」についてご紹介いたします。 伊藤忠商事は繊維、機械、金属、エネルギー、化学品、食料、住生活、情報、金融の各分野におい",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 3
+   },
+   {
+    "quote": "【使用事例】ワンサンド-セラビーズの再生使用 伊藤忠セラテック | イ... — 伊藤忠セラテックの【使用事例】ワンサンド-セラビーズの再生使用の技術や価格情報などをご紹介。 新砂の補給量をきわめて低く抑えた運用が可能！ 複数の種類の砂を使い分ける手間を軽減イプロスでは 鋳物・金物装飾などBtoB向けの情報を多数掲載。",
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "pass": 3
+   },
+   {
+    "quote": "注目の出展社に聞く！伊藤忠セラテック株式会社｜ースマートエネルギ... — 伊藤忠セラテックは、このプロセスを効率化する「メタネーション触媒」を開発。 得意とするセラミックス技術による多孔質構造を活用し、触媒の耐久性と効率を大幅に向上させている。 この注目されている触媒が「エアロナイト」である。",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜セラミックスで、その先の世界を作る 伊藤忠セラテック株式...伊藤忠セラテックの企業概要・売上・業績など｜Yahoo!しごとカタログ#1481 決算分析 : 伊藤忠セラテック株式会社 第69期決算 当期純利益 6...伊藤忠セラテック株式会社の会社情報・決算公告 | 官報決算データベー...伊藤忠セラテック | 企業情報 | イプロスものづくり耐火物原料『アルミナイトボール』 伊藤忠セラテック | イプロスもの... — 会社名 伊藤忠セラテック株式会社 代表者 代表取締役社長 矢島 久嗣 設立 1960年12月 資本金 4億970万円 年商 91億円（2025年度） 決算期 3月末日（年1回） 取引銀行 あいち銀行・瀬戸信用金庫・ 三菱UFJ銀行・ みずほ銀行 他 適格請求書発行 事業者登録番号 ... 伊藤忠セラテックの会社概要や売上・業績などを詳細に掲載。他にも評判・クチコ",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠セラテックの企業概要・売上・業績など｜Yahoo!しごとカタログ — 伊藤忠セラテックの会社概要や売上・業績などを詳細に掲載。他にも評判・クチコミ・年収・求人・売上などの情報も。しごとカタログでは様々な角度で企業の評判を知ることができます。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠セラテック株式会社の会社情報・決算公告 | 官報決算データベー... — 伊藤忠セラテック株式会社の会社情報を掲載しています。最新の2026年3月期決算は純利益8億5026万6000円、利益剰余金53億335万7000円、総資産107億1389万4000円です。社会保険被保険者数は130人です。親会社は伊藤忠商事株式会社で、グループ内の子会社297社も確認できます。所在地は愛知県瀬戸市 ...",
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠セラテック | 企業情報 | イプロスものづくり — Jun 12, 2026 · 伊藤忠セラテックの企業情報や製品・サービス、関連カタログをご紹介。 耐火物原料や各種セラミックスのサプライヤー イプロスものづくりでは、セラミックスなど製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/company/detail/2085761/",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物原料『アルミナイトボール』 伊藤忠セラテック | イプロスもの... — 伊藤忠セラテックの耐火物原料『アルミナイトボール』の技術や価格情報などをご紹介。 微量のMgOを添加し、結晶の異常成長を抑制！ 高温下における容積安定性に優れていますイプロスものづくりでは セラミックスなど製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/product/detail/2000527872/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜セラミックスで、その先の世界を作る 伊藤忠セラテック株式...セラテックジャパン株式会社 | ファインセラミックスを加工する企業で...カーボンニュートラル用触媒事業｜伊藤忠商事株式会社CO₂を、未来のエネルギーへ。エアロナイト触媒｜伊藤忠グループセラテックジャパンの事業領域 | セラテックジャパン株式会社受託製造サービス | 株式会社ウイセラ — 会社名 伊藤忠セラテック株式会社 代表者 代表取締役社長 矢島 久嗣 設立 1960年12月 資本金 4億970万円 年商 91億円（2025年度） 決算期 3月末日（年1回） 取引銀行 あいち銀行・瀬戸信用金庫・ 三菱UFJ銀行・ みずほ銀行 他 適格請求書発行 事業者登録番号 ... Sep 4, 2026 · 切断加工 研削加工 研磨加工 真空蒸着 Web販売・中古機械販売 事業領域 会社案内 設備一覧 品質保証 対応加工素材 ",
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラル用触媒事業｜伊藤忠商事株式会社 — カーボンニュートラル用触媒事業 伊藤忠セラテックでは、耐火物原料、人工鋳物砂（セラビーズ）で培ったセラミックス製造技術を活用して触媒の土台となる高機能セラミックス担体を独自特許で開発。",
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.itc-cera.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prof/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/works/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prod/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/2026%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%8D%94%E4%BC%9A-%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E8%B2%A2%E7%8C%AE%E8%B3%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/ankiros-2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3-%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%892026-10-22-24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prod/aluminite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prod/synthetic-mullite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prod/sintered-spinel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prod/cerabeads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/prod/aeronite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/wfc-2026%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%89%E3%81%AB%E3%81%A6%E3%80%81%E3%82%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%82%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/%E3%82%A4%E3%83%B3%E3%83%89-kochi%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%8Cirefcon2026%E3%80%8D%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-%E6%9C%9D%E5%88%8A%EF%BC%882026%E5%B9%B49%E6%9C%8825%E6%97%A5%E4%BB%98%EF%BC%89%E3%81%AE%E4%BC%8A%E8%97%A4%E5%BF%A0%E5%95%86%E4%BA%8B%E5%BA%83/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/2026%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%8D%94%E4%BC%9A-%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E8%B2%A2%E7%8C%AE%E8%B3%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/amafond%EF%BC%88%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%99%E3%83%8D%E3%83%81%E3%82%A2%E9%96%8B%E5%82%AC%EF%BC%89%E3%81%B8%E5%8D%94%E8%B3%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%822026-11-4-6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/ankiros-2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3-%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%892026-10-22-24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/wfc-2026%EF%BC%88%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%BC%E3%83%AB%EF%BC%89%E3%81%AB%E3%81%A6%E3%80%81%E3%82%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%82%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/%E3%82%A4%E3%83%B3%E3%83%89-kochi%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%8Cirefcon2026%E3%80%8D%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itc-cera.co.jp/news/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-%E6%9C%9D%E5%88%8A%EF%BC%882026%E5%B9%B49%E6%9C%8825%E6%97%A5%E4%BB%98%EF%BC%89%E3%81%AE%E4%BC%8A%E8%97%A4%E5%BF%A0%E5%95%86%E4%BA%8B%E5%BA%83/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/44645/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipros.com/product/detail/2000527866/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/d0eff/22941",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "伊藤忠セラテック",
+   "results": [
+    "https://www.itc-cera.co.jp/",
+    "https://www.itc-cera.co.jp/prof/",
+    "https://mono.ipros.com/company/detail/2085761/",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "https://grip-space.co.jp/mfg-db/company/4164176",
+    "https://www.itochu.co.jp/en/index.html",
+    "https://www.itochu.co.jp/ja/madeinjapan_ceratech/"
+   ]
+  },
+  {
+   "query": "伊藤忠セラテック 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/44645/distributors/",
+    "https://www.itc-cera.co.jp/",
+    "https://www.itc-cera.co.jp/prof/",
+    "https://www.itochu.co.jp/ja/news/press/2024/240702.html",
+    "https://www.itochu.co.jp/ja/about/partner/japan/index.html",
+    "https://www.crtj.co.jp/",
+    "https://www.ctc-g.co.jp/solutions/vendor.html"
+   ]
+  },
+  {
+   "query": "伊藤忠セラテック 導入事例",
+   "results": [
+    "https://www.itc-cera.co.jp/",
+    "https://www.ipros.com/product/detail/2000527866/",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_82.html",
+    "https://www.ctc-g.co.jp/report/",
+    "https://www.itochu.co.jp/ja/madeinjapan_ceratech/",
+    "https://www.itochu.co.jp/ja/about/dx/business/index.html",
+    "https://www.itc-cera.co.jp/prod/aeronite/"
+   ]
+  },
+  {
+   "query": "伊藤忠セラテック 価格 OR 料金",
+   "results": [
+    "https://www.itc-cera.co.jp/prof/",
+    "https://jobcatalog.yahoo.co.jp/company/1110018244/information/",
+    "https://catr.jp/companies/d0eff/22941",
+    "https://mono.ipros.com/company/detail/2085761/",
+    "https://mono.ipros.com/product/detail/2000527872/",
+    "https://www.itc-cera.co.jp/",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/08/02/100000_4"
+   ]
+  },
+  {
+   "query": "伊藤忠セラテック 受託 造形",
+   "results": [
+    "https://www.itc-cera.co.jp/",
+    "https://www.itc-cera.co.jp/prof/",
+    "https://www.itochu.co.jp/ja/business/general/project/17.html",
+    "https://www.crtj.co.jp/",
+    "https://www.itochu.co.jp/ja/madeinjapan_ceratech/",
+    "https://www.crtj.co.jp/solution/",
+    "https://www.wicera.co.jp/product/product4/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式22頁／PDF・画像0件／外部6頁・検索5回）"
+ }
+}

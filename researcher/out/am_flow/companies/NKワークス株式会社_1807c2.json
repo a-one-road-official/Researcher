@@ -1,0 +1,559 @@
+{
+ "name": "NKワークス株式会社",
+ "aliases": [],
+ "context": "/ GPAINNOVA（西）DLyte",
+ "researched_at": "2026-11-02T07:53:45.905032+00:00",
+ "official_url": "http://www.nk-works.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1976年10月27日",
+    "url": "https://nk-works.co.jp/overview.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "58名",
+    "url": "https://nk-works.co.jp/overview.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "輸入機器の専門商社ってどんな仕事？など分かりやすくご説明できればと思います！ぜひお気軽にお越しください！！",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "米ハース・オートメーション社の日本総代理店取引を開始 HFO JAPAN設立",
+    "url": "https://nk-works.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "取扱メーカー・製品",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取扱メーカー・製品",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NKワークスは、アメリカの「ハース・オートメーション」の販売代理店です",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "NKワークスは試作市場＆微細・精密加⼯技術展に出展いたします",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イギリス・Original AVG 社製「エアフィルター EXPEL® (エクスペル)シリーズ」の販売を開始しました",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "独 HWR社製・補正機能付き4つ爪チャック/バイスINOFlex®(イノフレックス)シリーズの販売を開始しました",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イギリス・Wogaard社製「クーラントセーバー」の販売を開始いたしました",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クーラント微細化ミキサー「リキッドカッター」の販売を開始いたしました",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "機械部品・治具設計・製作",
+    "url": "https://nk-works.co.jp/nk-jobshop.html",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットから、各種金属・樹脂製の部品の設計・製作をいたします",
+    "url": "https://nk-works.co.jp/nk-jobshop.html",
+    "pass": 1
+   },
+   {
+    "quote": "工程設計、タイムスタディ、ツーリングターンキー請負、社内設備によるテストカット、カスタマイズチャック、特殊治具設計製作、NKモジュールツール設計製作、工具再研磨サービス、高圧ポンプ出荷検査およびオーバーホール",
+    "url": "https://nk-works.co.jp/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械要素部品の設計製作拠点「つくばR&Dセンター」を竣⼯",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売製品 販売客先1SPEVDUT $VTUPNFST",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機械要素部品の設計製作拠点「つくばR&Dセンター」を竣⼯",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売製品 販売客先1SPEVDUT $VTUPNFST",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NKワークスは、アメリカの「ハース・オートメーション」の販売代理店です",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内で300台以上の小型マシニングセンタなどの工作機械を販売",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ハース・オートメーション」は立型・横型マニシングセンタを始めとした工作機械を製造・販売するアメリカの工作機械メーカーです",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "生涯保守あり",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "AC 100Vで使用が可能であり、産業、教育、個人、あらゆる場面でお使いいただけます",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "現場での試作や部品加工のほか、５軸加工の教材としても活躍します",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "業界から探す",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに「わが社のエース機」特集にはHAASユーザーの、シナノ産業さんが掲載されています！（P.216）",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界から探す",
+    "url": "https://nk-works.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界から探す",
+    "url": "https://nk-works.co.jp/nk-jobshop.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界から探す",
+    "url": "https://nk-works.co.jp/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先一覧や、会社案内パンフレット・総合カタログもご覧いただけます",
+    "url": "https://nk-works.co.jp/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界から探す",
+    "url": "https://nk-works.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "小型マシニングセンタの導入事例を紹介",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークスの導入事例",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークスの小型マシニングセンタの導入事例は掲載されていませんでした",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型マシニングセンタの導入事例を紹介_TOP",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界から探す",
+    "url": "https://nk-works.co.jp/flow.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "月刊生産財マーケティング2021年4月号に スピンドル引き込み力測定装置・セーフコントロール4.0の記事が掲載されました",
+    "url": "https://nk-works.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・真円度計:東京精密 ロンコム４１C",
+    "url": "https://nk-works.co.jp/nk-jobshop.html",
+    "pass": 1
+   },
+   {
+    "quote": "4,800万円",
+    "url": "https://nk-works.co.jp/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "4800万円",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4800万円",
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「DT-1」が53,995USドル～",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "「DT-2」が56,995USドル～",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円～",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "スピンドル引き込み力を簡単に測定！セーフコントロール4.0 操作方法",
+    "url": "https://www.youtube.com/@nkworks",
+    "pass": 3
+   },
+   {
+    "quote": "$0.00 USD",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "税込みで、配送料は購入手続き時に計算されます",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3500円以上のご注文で送料無料",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "全国一律799円",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "小型マシニングセンタの目安価格",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークスの小型マシニングセンタの価格は、2021年12月現在、",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減が叫ばれている製造業において、価格はどうしても気になるもの",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトでは、小型マシニングセンタを導入する際に重視したい「価格」「サポート」「精度」の3つのポイントごとにおすすめの小型マシニングセンタメーカーを紹介しています",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型マシニングセンタの価格相場を知る",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "「価格」「サポート」「精度」",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "「価格」「サポート」",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルテクノス：価格記載があり、本体価格が一番安い",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NKワークス 株式会社について ｜東京都千代田区にある産業用 ... — NKワークス 株式会社について ｜東京都千代田区にある産業用 ... NKワークス https://nk-works.co.jp",
+    "url": "https://nk-works.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「 NKワークス 」の 代理店 1社 注目ランキング【2026年】 — 「 NKワークス 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > NKワークス株式会社",
+    "url": "https://metoree.com/companies/4193/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス — NKワークス smallmc-focus.com https://www.smallmc-focus.com > manufacturer > nk-works",
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス 株式会社 - YouTube — NKワークス 株式会社 - YouTube YouTube https://www.youtube.com > ...",
+    "url": "https://www.youtube.com/@nkworks",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス 株式会社 (@NKworks_) / X — NKワークス 株式会社 (@NKworks_) / X X https://x.com > NKworks_",
+    "url": "https://x.com/NKworks_",
+    "pass": 3
+   },
+   {
+    "quote": "導入 までの流れ Flow - NKワークス — 導入 までの流れ Flow - NKワークス NKワークス株式会社 https://nk-works.co.jp > flow",
+    "url": "https://nk-works.co.jp/flow.html",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス が設立50周年、 “生産技術者の視点”で顧客ニーズ ... — NKワークス が設立50周年、 “生産技術者の視点”で顧客ニーズ ... 工場マガジンラック https://kojomag.nikkan.co.jp > kikai",
+    "url": "https://kojomag.nikkan.co.jp/kikai/737",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス オンラインストア – NKワークス — NKワークス オンラインストア – NKワークス nk-works-ec.com https://nk-works-ec.com",
+    "url": "https://nk-works-ec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス 株式会社のカタログ・会社概要・製品情報 | Metoree — NKワークス 株式会社のカタログ・会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/4193/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 産業用機械の専門商社 NKワークス株式会社 — 会社概要 - 産業用機械の専門商社 NKワークス株式会社 157.205.43.220 http://157.205.43.220 > info > company",
+    "url": "http://157.205.43.220/info/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークス 株式会社 (@nkworks_) - Instagram — NKワークス 株式会社 (@nkworks_) - Instagram Instagram https://www.instagram.com > nkworks_",
+    "url": "https://www.instagram.com/nkworks_/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nk-works.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-works.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-works.co.jp/nk-jobshop.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-works.co.jp/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-works.co.jp/history.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nk-works.co.jp/docs/pdf/21.04.22.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide_24.4.1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks-catalog_2026.07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks_company-guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nk-works.co.jp/docs/pdf/NKworks-catalog_2024.09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://nk-works.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/4193/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://157.205.43.220/other/flow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@nkworks",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nk-works.co.jp/flow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-works-ec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-works.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@nkworks",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nk-works.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@nkworks",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/NKworks_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NKワークス 代理店 契約",
+   "results": [
+    "https://nk-works.co.jp/",
+    "https://metoree.com/companies/4193/distributors/",
+    "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "https://www.youtube.com/@nkworks",
+    "https://x.com/NKworks_",
+    "https://nk-works-ec.com/",
+    "https://nk-works.co.jp/docs/pdf/1765772512935.pdf",
+    "http://157.205.43.220/",
+    "https://mono.ipros.com/product/detail/2000392124/",
+    "https://nk-works.co.jp/offices.html"
+   ]
+  },
+  {
+   "query": "NKワークス 導入事例",
+   "results": [
+    "http://157.205.43.220/other/flow.html",
+    "https://www.youtube.com/@nkworks",
+    "https://nk-works.co.jp/flow.html",
+    "https://x.com/NKworks_",
+    "https://kojomag.nikkan.co.jp/kikai/737",
+    "https://metoree.com/companies/4193/",
+    "https://www.laserprocessing-pro.com/laser-manufacturer/nk_works.html",
+    "https://www.smallmc-focus.com/manufacturer/nk-works.html",
+    "http://157.205.43.220/info/company.html"
+   ]
+  },
+  {
+   "query": "NKワークス 価格 OR 料金",
+   "results": [
+    "https://nk-works-ec.com/",
+    "https://nk-works.co.jp/",
+    "https://www.youtube.com/@nkworks",
+    "https://metoree.com/companies/4193/",
+    "http://157.205.43.220/info/company.html",
+    "https://www.jmtia.gr.jp/directory/modules/member/category.php?categoryID=62",
+    "https://kojomag.nikkan.co.jp/kikai/737",
+    "https://www.instagram.com/nkworks_/",
+    "https://mono.ipros.com/product/detail/2000392124/",
+    "https://nk-works-ec.com/collections/all"
+   ]
+  },
+  {
+   "query": "NKワークス 受託 造形",
+   "results": [
+    "https://nk-works.co.jp/",
+    "https://www.youtube.com/@nkworks",
+    "https://x.com/NKworks_",
+    "https://kojomag.nikkan.co.jp/kikai/737",
+    "https://www.instagram.com/nkworks_/",
+    "https://www.ipros.com/company/detail/7045/",
+    "https://nk-works-ec.com/pages/%E4%BC%9A%E7%A4%BEhp",
+    "https://metoree.com/companies/4193/",
+    "https://nk-works-ec.com/pages/会社hp",
+    "https://nk-works.co.jp/company/en.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像5件／外部12頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像5件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像5件／外部12頁・検索4回）"
+ }
+}

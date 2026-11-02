@@ -1,0 +1,1121 @@
+{
+ "name": "JFEエンジニアリング",
+ "aliases": [],
+ "context": "JIMTOF2024 AM関連講演。既存地図：東レ・プレシジョンとDEDで提携 /",
+ "researched_at": "2026-11-02T07:51:14.386632+00:00",
+ "official_url": "https://www.jfe-eng.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2003年4月1日",
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2022年12月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "約11,000人",
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "約 11,000 人(グループ会社含む)",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "1,000名以上（2017年8月現在）",
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "主要製品等 ガス・石油・水道パイプライン、LNG・LPG等各種タンク、太陽光・地熱・バイオマス等再生可能エネルギー発電設備、都市ごみ焼却炉、水処理システム、使用済みプラスチック等のリサイクルサービス、橋梁・港湾構造物、物流流通システム・エンジン・シールド掘進機・バラスト水処理システム等の産業機械、製銑・製鋼・ミニミル関連設備、EV（電気自動車）急速充電器等",
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "AIに関する研究、開発、設計、企画、教育、販売、保守、コンサルティング業務",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちJFEエンジニアリングは、ソリューションの立案、設計、建設から事業運営まで一貫してグループの総合力で支えます",
+    "url": "https://www.jfe-eng.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ごみ焼却施設やリサイクル施設などの廃棄物処理プラントの設計・建設・運営を展開",
+    "url": "https://www.jfe-eng.co.jp/products/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/aqua/",
+    "pass": 1
+   },
+   {
+    "quote": "JFEエンジニアリンググループ は、浄水場・下水処理場の設計・建設から運営管理まで一貫して提供",
+    "url": "https://www.jfe-eng.co.jp/products/aqua/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "LNG受入基地、火力発電所、バイオマス発電などの設計・建設を手がけます",
+    "url": "https://www.jfe-eng.co.jp/products/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/pipeline/",
+    "pass": 1
+   },
+   {
+    "quote": "石油・ガスなどの長距離輸送管路の設計・建設を担います",
+    "url": "https://www.jfe-eng.co.jp/products/pipeline/",
+    "pass": 1
+   },
+   {
+    "quote": "管路・施設保守点検システム",
+    "url": "https://www.jfe-eng.co.jp/products/pipeline/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/power-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "ボイラや蒸気タービンなどの主要機器製造から、設計・建設・O&Mまで一貫対応",
+    "url": "https://www.jfe-eng.co.jp/products/power-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/",
+    "pass": 1
+   },
+   {
+    "quote": "道路橋・鉄道橋などの橋梁や、ケーソン・ジャケット・防潮堤などの鋼構造物の設計・製作・施工を手がけます",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "各種産業機械や設備の設計・製作・据付を展開",
+    "url": "https://www.jfe-eng.co.jp/products/machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/electric-power/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/offshore-wind/",
+    "pass": 1
+   },
+   {
+    "quote": "モノパイル式基礎やジャケット式基礎などの洋上風力発電用基礎構造物の設計・製作・輸送・O&Mサービスを担います",
+    "url": "https://www.jfe-eng.co.jp/products/offshore-wind/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/other/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "管路・施設保守点検システム Panacea",
+    "url": "https://www.jfe-eng.co.jp/products/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/products/project/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "手指保護手袋を新開発、販売開始 ～JFEエンジニアリングと丸五が共同開発、 現場の声を活かし安全・安心な作業環境づくりに貢献～",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎臨海部における国内初の高圧水素パイプラインのEPC（設計・調達・建設） 契約締結について",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "苫小牧CCS事業の基本設計業務を受注 ～事業化へ向け、検討の最終フェーズへ～",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "東邦ガスより中部地方では初となる 10万kW級の大型ガスエンジン発電設備建設工事を受注 ～EPC（設計・調達・建設）に加え、長期間の運転・メンテナンス業務を受託～",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20200908.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20231001.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年一覧へ戻る",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年から、ごみの焼却施設である岩国市サンライズクリーンセンター（JFEエンジニアリング設計・施工・運営）で発電した電力をアーバンエナジーが買い取り、「岩国地産地消CO₂フリープラン」",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年一覧へ戻る",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、三菱ガス化学は、資源開発からメタノール製造、物流、誘導品開発、販売までを一貫して手掛けるメタノール総合メーカーです",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年一覧へ戻る",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "イベント当日は、社内のDXに関する取り組み事例や社外技術・サービスの体験展示、社外DX有識者による講演、生成AIやデータ活用に関するセミナーを実施しました",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "プログラム④ ワークショップ・セミナー",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "「生成AI活用アイデアソン」「AIエージェント最前線」「データ活用基礎」など、生成AI・データ活用を業務に生かすためのワークショップ・セミナーを開催",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年一覧へ戻る",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年一覧へ戻る",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20260911.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連リリース",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20260911.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260907.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年一覧へ戻る",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260907.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース：2026年",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260907.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/aqua/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/aqua/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "海外への事業進出、事業拡大をご計画のお客様へ",
+    "url": "https://www.jfe-eng.co.jp/products/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/pipeline/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/pipeline/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/power-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/power-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/electric-power/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/electric-power/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/offshore-wind/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/offshore-wind/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/other/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/other/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/products/project/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/products/project/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "インド共和国 廃棄物発電事業への出資・事業参画 ～国内建設・エンジニアリング業界初！成長著しいインド廃棄物処理市場への参入～",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20200908.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20200908.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20231001.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20231001.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261026.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存事業の競争力強化・付加価値の拡大と新規ビジネスの創出を通じ、お客様と社会に新たな価値を提供するとともに、持続的な企業価値の向上を目指します",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、当社独自技術であり、過去に神戸市水道局に納入実績のある断層用鋼管",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20260911.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/topics/20260911.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260907.html",
+    "pass": 1
+   },
+   {
+    "quote": "EEA域内のお取引先の皆様の個人データの取扱に関する通知",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260907.html",
+    "pass": 1
+   },
+   {
+    "quote": "▶ 導入事例はこちら",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：JFEエンジニアリング株式会社 | 法人向け英語研修 Gaba | マンツーマン英会話スクールのGaba",
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：JFEエンジニアリング株式会社 | 法人向け英語研修・多言語通訳翻訳サービス",
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の導入事例",
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "海外廃棄物発電分野、スイスEnergieLink社との資本業務提携 ～欧州WtEプラントのアフターサービス事業に参入～",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "JFEエンジニアリングと住友三井オートサービス バッテリー交換式EVの社会実装に向けた提携に合意 ～自治体・民間企業のモビリティの脱炭素化と、持続可能な地域・物流インフラを構築～",
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、本工事では当社がこれまで培ってきた大口径水道用鋼管の製作・据付・現場溶接技術に加え、自社開発の内面塗装機や溶接品質管理システム、施工記録を一元管理する「IT管理システム」など最新のノウハウも駆使して遂行します",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "において、カーボンニュートラルの実現とサーキュラーエコノミーの推進を通じて社会に貢献し、2035年利益1,000億円の達成を目指しています",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "元日本マイクロソフト業務執行役員 澤 円 氏、東京ガス株式会社 常務執行役員 CDO・ソリューション共創本部長 清水 精太 氏を講師に迎え講演を実施",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "pass": 1
+   },
+   {
+    "quote": "142億6,800万円 （税抜き）",
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "pass": 1
+   },
+   {
+    "quote": "Copyright © 2021 JFE Engineering Corporation All Rights Reserved. うち海外:2,000億円",
+    "url": "https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界でのSDGs貢献を高めるため、事業規模1兆円を目指す",
+    "url": "https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4,857億円",
+    "url": "https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うち海外:460億円",
+    "url": "https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年 事業規模1兆円",
+    "url": "https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャケット ・ 円弧状のアーク矢板の作用土圧は、通常土圧と同じですか？ ・ 同じです",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ アーク矢板の根入れはどうやって決まりますか？ ・ 円弧すべりにより決まります",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 打設手順を教えて下さい ※ サドルプレートを先行し、続いて直線形鋼矢板になります",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（サドルプレートの打設精度を確保し、アーク矢板の精度・施工スピードを向上させます）",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ サドルプレートの打設要領を教えて下さい ※ サドルプレート打設 →ウォータージェット工法",
+    "url": "https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マイクロチップを印刷する2億ドルの機械：EUVフォトリソグラフィーシステム",
+    "url": "https://www.youtube.com/watch?v=ivc3-sOKMWc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JFEエンジニアリング の 代理店 - Metoree — JFEエンジニアリング の 代理店 - Metoree Metoree https://metoree.com > ... > JFEエンジニアリング株式会社",
+    "url": "https://metoree.com/companies/16393/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "JFEエンジニアリング 株式会社 — JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp",
+    "url": "https://www.jfe-eng.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の「 JFEエンジニアリング 」の 代理店 5社 | Metoree — 東京都の「 JFEエンジニアリング 」の 代理店 5社 | Metoree Metoree https://metoree.com > ... > JFEエンジニアリングの代理店",
+    "url": "https://metoree.com/companies/16393/distributors/tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "サイトご利用にあたって | JFEエンジニアリング 株式会社 — サイトご利用にあたって | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > terms",
+    "url": "https://www.jfe-eng.co.jp/terms.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEエンジニアリング 株式会社 | 導入事例 - テラスカイ — JFEエンジニアリング 株式会社 | 導入事例 - テラスカイ 株式会社テラスカイ https://www.terrasky.co.jp > case > salesforce_jfe",
+    "url": "https://www.terrasky.co.jp/case/salesforce_jfe.php",
+    "pass": 3
+   },
+   {
+    "quote": "【 事例 紹介】 JFEエンジニアリング 様とのAI活用 ... - PR TIMES — 【 事例 紹介】 JFEエンジニアリング 様とのAI活用 ... - PR TIMES PR TIMES https://prtimes.jp > その他",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ： JFEエンジニアリング 株式会社 | 法人向け英語研修 ... — 導入事例 ： JFEエンジニアリング 株式会社 | 法人向け英語研修 ... Gaba https://www.gaba.co.jp > corp > case > business",
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 事例 紹介】 JFEエンジニアリング 様とのAI活用 事例 を公開 ... — 【 事例 紹介】 JFEエンジニアリング 様とのAI活用 事例 を公開 ... 株式会社Elith https://www.elith.ai > post > 【事例紹介】jfeエンジニアリ...",
+    "url": "https://www.elith.ai/post/%E3%80%90%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B%E3%80%91jfe%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A7%98%E3%81%A8%E3%81%AEai%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+    "pass": 3
+   },
+   {
+    "quote": "活躍する社員の声 | 風土改革 | JFE エンジニアリング 株式会社 — 活躍する社員の声 | 風土改革 | JFE エンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > single-1",
+    "url": "https://www.jfe-eng.co.jp/dx/single-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "電力小売事業 | JFEエンジニアリング 株式会社 — 電力小売事業 | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > 事業・製品 > 電力ビジネス",
+    "url": "https://www.jfe-eng.co.jp/products/electric-power/electric01.html",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生 | 新卒採用 | JFEエンジニアリング 株式会社 — 福利厚生 | 新卒採用 | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > saiyou > environment > benefit",
+    "url": "https://www.jfe-eng.co.jp/saiyou/environment/benefit/",
+    "pass": 3
+   },
+   {
+    "quote": "JFEエンジニアリング とJFEプラントエンジの比較 「社員 ... — JFEエンジニアリング とJFEプラントエンジの比較 「社員 ... OpenWork https://www.openwork.jp > ... > JFEエンジニアリング",
+    "url": "https://www.openwork.jp/a0910000000G1Lp/compa/a0910000000G1Lw/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 受託 サービス | JFEエンジニアリング 鶴見 ... — 金属3Dプリンター 受託 サービス | JFEエンジニアリング 鶴見 ... JFEエンジニアリング 鶴見製作所 https://jfe-tsurumi.jp > ...",
+    "url": "https://jfe-tsurumi.jp/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "JFEエンジニアリング と東レ・プレシジョンが事業提携 ～金属 ... — JFEエンジニアリング と東レ・プレシジョンが事業提携 ～金属 ... JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > ... > ニュースリリース：2022年",
+    "url": "https://www.jfe-eng.co.jp/news/2022/20220523.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ・お見積り",
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jfe-eng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/information/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/aqua/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/pipeline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/power-generation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/bridge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/machinery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/electric-power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/offshore-wind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/topics/20200908.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/topics/20231001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/2026/20261015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260917.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/topics/20260911.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/news/2026/20260907.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jfe-eng.co.jp/news/topics/pdf/20250314multistakeholder_JFEEngineering_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/information/pdf/visionR1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/catalog/pdf/JFE_profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/information/pdf/organization_chart.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/bridge/pdf/QA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/catalog/pdf/Tsurumi_works.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/catalog/pdf/catalog_kasaoka_monopile_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-eng.co.jp/products/catalog/pdf/CA3053.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/16393/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4195",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terrasky.co.jp/case/salesforce_jfe.php",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaba.co.jp/corp/case/business/012.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-holdings.co.jp/common/pdf/investor/library/top/2026/2026-setumei260805-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jfe-tsurumi.jp/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ivc3-sOKMWc",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "JFEエンジニアリング 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/16393/distributors/",
+    "https://www.jfe-eng.co.jp/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4195",
+    "https://metoree.com/companies/16393/distributors/tokyo/",
+    "https://www.jfe-eng.co.jp/terms.html",
+    "https://www.jfe-holdings.co.jp/common/pdf/investor/library/otherbriefings/251125-02.pdf",
+    "https://www.jfe-eng.co.jp/information/company.html",
+    "https://www.jfe-eng.co.jp/information/group/",
+    "https://www.jfe-shoji-ele.co.jp/information/agent-with-istart-tek/",
+    "https://www.jfe-civil.com/system/agent/"
+   ]
+  },
+  {
+   "query": "JFEエンジニアリング 導入事例",
+   "results": [
+    "https://www.terrasky.co.jp/case/salesforce_jfe.php",
+    "https://prtimes.jp/main/html/rd/p/000000079.000121022.html",
+    "https://www.gaba.co.jp/corp/case/business/012.html",
+    "https://www.elith.ai/post/%E3%80%90%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B%E3%80%91jfe%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A7%98%E3%81%A8%E3%81%AEai%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F",
+    "https://www.jfe-eng.co.jp/dx/single-1.html",
+    "https://www.iijglobal.co.jp/service/case/case35.html",
+    "https://www.jfe-eng.co.jp/dx/dx-case.html",
+    "https://www.macnica.co.jp/business/security/manufacturers/cato/case_07.html",
+    "https://www.jfe-holdings.co.jp/common/pdf/investor/library/otherbriefings/251125.pdf",
+    "https://www.brains-tech.co.jp/case/case10-jfee/"
+   ]
+  },
+  {
+   "query": "JFEエンジニアリング 価格 OR 料金",
+   "results": [
+    "https://www.jfe-eng.co.jp/",
+    "https://www.jfe-eng.co.jp/products/electric-power/electric01.html",
+    "https://www.jfe-holdings.co.jp/common/pdf/investor/library/top/2026/2026-setumei260805-02.pdf",
+    "https://www.jfe-eng.co.jp/saiyou/environment/benefit/",
+    "https://www.openwork.jp/a0910000000G1Lp/compa/a0910000000G1Lw/",
+    "https://www.jfe-eng.co.jp/information/procurement/",
+    "https://www.nikkei.com/article/DGXZQOUC1113X0R10C26A6000000/",
+    "https://www.jfe-eng.co.jp/terms.html",
+    "https://www.kensetsu-plaza.com/details/ci2647200_mi539710",
+    "https://www.jfe-eng.co.jp/products/catalog/"
+   ]
+  },
+  {
+   "query": "JFEエンジニアリング 受託 造形",
+   "results": [
+    "https://jfe-tsurumi.jp/3dp/",
+    "https://www.jfe-eng.co.jp/news/2022/20220523.html",
+    "https://www.youtube.com/watch?v=ivc3-sOKMWc",
+    "https://www.jfe-tec.co.jp/information/release/r20250902.html",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.jfe-eng.co.jp/dx/press-list2022.html",
+    "https://www.nikkei.com/article/DGXZRSP632793_T20C22A5000000/",
+    "https://www.japanaerospace.jp/jp/exhibitor/179",
+    "https://www.nikkan.co.jp/articles/view/637219",
+    "https://jfe-tsu.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像8件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像8件／外部8頁・検索4回）"
+ }
+}

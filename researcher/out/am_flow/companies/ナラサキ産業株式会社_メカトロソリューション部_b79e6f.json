@@ -1,0 +1,815 @@
+{
+ "name": "ナラサキ産業株式会社 メカトロソリューション部",
+ "aliases": [],
+ "context": "輸入装置/受託(光造形式セラミックス3Dプリンター販売・焼成済み部品受託) /",
+ "researched_at": "2026-11-02T07:59:00.821236+00:00",
+ "official_url": "https://www.narasaki.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "創業　1902年 3月 設立　1943年10月",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.narasaki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリースの一覧を見る",
+    "url": "https://www.narasaki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機械、電気機械、建設機械およびその他機械の販売",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "セメント、建設資材、石油類およびその他物品の販売",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "食品類、清涼飲料、日用品雑貨の販売",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "建設工事の請負並びに設計管理",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンピューターに関するソフトウェアの制作および販売",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士セメント株式会社(現日鉄高炉セメント株式会社)の特約販売店となる",
+    "url": "https://www.narasaki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "次世代生産設備のご提案、生産効率を格段に向上させる高機能材料を加工も含めた受託サービス迄、様々なニーズにお応え致します",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "・セラミックスを主体とした最先端高機能材料の受託加工完成品",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "・レーザ工法等を用いた微細受託加工",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "農産物の付加価値向上のための生産・貯蔵・加工・鮮度保持について、基本計画の立案から設計・施工・アフターサービスまでのソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "リテール事業、販売事業、マリンサービス事業",
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代生産設備のご提案、生産効率を格段に向上させる高機能材料を加工も含めた受託サービス迄、様々なニーズにお応え致します",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスを主体とした最先端高機能材料の受託加工完成品",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ工法等を用いた微細受託加工",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能材料受託加工ビジネス",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "農産物の付加価値向上のための生産・加工・貯蔵・鮮度保持について、基本計画の立案から設計・施工・アフターサービスまでのソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/product/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "ガソリンスタンド向け燃料販売事業",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用燃料販売事業",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "潤滑油販売事業",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "電気販売代理店事業（ENEOS㈱代理店）",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、北海道内のご販売店様へ各種石油製品の卸販売とSS運営のお手伝いをしています",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は工業用潤滑油・金属加工油・グリースをお客さまのご要望に応じてお届けいたします",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "電気販売 代理店事業（ENEOS㈱代理店）",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "中古車販売情報",
+    "url": "https://www.narasaki.co.jp/product/construction_machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "第40回 ネプコンジャパン ～エレクトロニクス開発・実装展～ 出展のお知らせ - ニュースリリース - ナラサキ産業株式会社",
+    "url": "https://www.narasaki.co.jp/news_release/20251225.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.narasaki.co.jp/news_release/20251225.html",
+    "pass": 1
+   },
+   {
+    "quote": "北関東支店（旧西関東営業所）移転のお知らせ - ニュースリリース - ナラサキ産業株式会社",
+    "url": "https://www.narasaki.co.jp/news_release/20251117.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.narasaki.co.jp/news_release/20251117.html",
+    "pass": 1
+   },
+   {
+    "quote": "北海道支社（登記上の本店）移転のお知らせ - ニュースリリース - ナラサキ産業株式会社",
+    "url": "https://www.narasaki.co.jp/news_release/20250805.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.narasaki.co.jp/news_release/20250805.html",
+    "pass": 1
+   },
+   {
+    "quote": "夏季休業のお知らせ - ニュースリリース - ナラサキ産業株式会社",
+    "url": "https://www.narasaki.co.jp/news_release/20250728.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.narasaki.co.jp/news_release/20250728.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社事務所移転のお知らせ - ニュースリリース - ナラサキ産業株式会社",
+    "url": "https://www.narasaki.co.jp/news_release/20240814.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.narasaki.co.jp/news_release/20240814.html",
+    "pass": 1
+   },
+   {
+    "quote": "●建築設備分野では、活発なインフラ投資により、制御機器・空調機器の販売が堅調",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●建設機械分野では、圧送関連機械の販売堅調ながら、工事需要やや停滞気味",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の発生、給与改定に伴う人件費増などの要因により、販売費および一般管理費は863百万円増加",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様な人材確保を狙いとした採用活動を展開、研修内容の充実化や教育体系見直しも検討中",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に関する具体的施策を展開、コンプライアンス教育継続",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各種セラミックス短納期受託加工",
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能材料受託加工サービス【加工事例入りハンドブック無料進呈！】",
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能材料の受託加工ハンドブックを進呈中！「セラミックス最短2週間」対応実現の理由や、様々な加工事例を多数掲載！",
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスを中心とした高機能材料受託加工を高精度・短納期対応実現！ 各種材料物性値を完全網羅",
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "23億5471万円",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "（2026年度） 営業利益：40億円 当期純利益：28億円 ＲＯＥ：10% 配当性向：30%以上",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単位：百万円",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高(百万円)",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益(百万円)",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４． 財務基盤の強化とキャッシュフロー経営の徹底 ▶▶ '23年度末時点の自己資本比率は39.6%営業C/Fは３年間累計40億円以上を確保し、財務体質は確実に改善中 △",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単位：百万円、%",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 1,200億円 営業利益 40億円 ＲＯＥ 10% 配当性向 30%以上",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あるソリューションを提供することにより、経営目標（営業利益40億円、ＲＯＥ10%）の達成を",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資 本 金 ： ２３億５４百万円",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売 上 高 ： ［連結］１，20２億円 ［単体］１，０１７億円（2026年3月期）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,202億円",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3,068百万円",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "直近５年間の実績推移（単位：百万円）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：百万円）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(単位：百万円）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●売上高増加及び利益率改善に伴い、売上総利益は869百万円増加（うち売上高変動828百万円）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の発生、給与改定に伴う人件費増などの要因により、販売費および一般管理費は863百万円増加",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総合力を発揮することにより、売上高１,250億円、営業利益・経常利益35億円の達成を目指す",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営目標（2026年度：営業利益40億円、ROE10%）の達成",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単位：億円）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取適法の影響あるも、概ね想定通りの税引後償却前利益を確保（営業CF30億円超）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・配当18億円、自己株式取得５億円",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２５億円 借入返済 ４億円",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配当額(円) 配当性向",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▸2025年度の年間配当金は、前年比１０円増の１株",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当たり130円、配当金総額650百万円、配当性向は",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▸2026年度は10円増配の140円としています",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "に基づき、多様化する市場とお客様のニーズに対しまして、「真の価値あるソリューション」を提供してまいります",
+    "url": "https://www.narasaki.co.jp/company/greeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場の生産設備を支えるＦＡコンポーネントや情報ネットワーク、インテリジェントビルや省エネルギー建築を支える配電制御機器やエネルギー監視システムなど、お客様のニーズを実現可能な製品や最適なソリューションを提供いたします",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機やその他有力専門メーカーの代理店として、建築設備業界において最適な空調衛生設備機器、冷凍冷蔵設備機器、昇降機設備、受変電設備、非常用自家発電設備、無停電電源装置、駐車場設備、ビル管理システム、セキュリティシステム等多種にわたる設備システムをご提供するとともに、地球環境にやさしいより高効率な省エネシステムをご提案することにより、お客様の幅広いニーズにお応えしております",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "高精度且つ微細化が進むエレクトロニクス分野において、お客様が直面する課題や厳しい品質要求に対応した最先端ソリューションを提供致します",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "食品・工業製品の生産プロセス設備、ユーティリティー設備、充填包装設備などにおいてお客様の問題解決のためのソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "地球温暖化対策や循環型社会の形成に役立つ再生可能エネルギー関連設備・資源リサイクル関連設備などお客様のニーズに沿った最適なソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "■「誠意をもって顧客の信頼を得る仕事をする」との企業理念に基づき、次世代に向けて",
+    "url": "https://www.narasaki.co.jp/company/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "■セグメント間の連携を一層深め、真の価値あるソリューションを提供し、顧客から信頼され必要とされる",
+    "url": "https://www.narasaki.co.jp/company/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客密着型のニッチトップソリューションカンパニー",
+    "url": "https://www.narasaki.co.jp/company/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機やその他有力専門メーカーの代理店として、建築設備業界において最適な空調衛生設備機器、冷凍冷蔵設備機器、昇降機設備、受変電設備、非常用自家発電設備、無停電電源装置、駐車場設備、ビル管理システム、セキュリティシステム等多種にわたる設備システムをご提供するとともに、地球環境にやさしいより高効率な省エネシステムをご提案することにより、お客様の幅広いニーズにお応えしております",
+    "url": "https://www.narasaki.co.jp/product/construction_equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度且つ微細化が進むエレクトロニクス分野において、お客様が直面する課題や厳しい品質要求に対応した最先端ソリューションを提供致します",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機㈱産業メカトロニクス製品（レーザ加工機、放電加工機、電子ビーム加工機、３Ｄプリンター）に加え、お客様の仕様にカスタマイズした各種レーザ加工機、マシニングセンター等の加工設備単体から生産効率を追求した省人化、自動化システムを提案致します",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "食品・工業製品の生産プロセス設備、ユーティリティー設備、充填包装設備などについて、お客様の問題解決のためのソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/product/food/",
+    "pass": 1
+   },
+   {
+    "quote": "地球温暖化対策や循環型社会の形成に役立つ再生可能エネルギー関連設備・資源リサイクル関連設備などお客様のニーズに沿った最適なソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "『環境・省エネに配慮した潤滑油のご提案を通じてお客様のコスト削減の実現に貢献します』",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の環境意識の高まりや、厳しい経済環境の中で、クルマを長く大事に乗るお客様をサポートします",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "高圧電力ユーザー様向け",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客密着型のニッチトップソリューション企業へ～",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■「誠意をもって顧客の信頼を得る仕事をする」との企業理念に基づき、次世代に向けて更なる事業",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■セグメント間の連携を一層深め、真の価値あるソリューションを提供し、顧客から信頼され必要と",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "される顧客密着型のニッチトップソリューションカンパニーとなることを目指します",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．顧客対応型ビジネスモデルの構築",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．顧客基盤強化とニッチトップ商材獲得",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．道路・圧送・除雪業界を主体とした建機分野の",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．苫東進出企業への営業強化、新規顧客・貨物獲得",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経 営 理 念 「誠意をもって顧客の信頼を得る仕事をする」",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注1）売上高＝外部顧客への売上高",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆ 多種多様な顧客とそのニーズに対応する複合セグメント",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、海外調達によるコストダウン提案も可能、1個から量産まで幅広く対応致します",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 取り巻く事業環境は、緊迫化する国際情勢、資材・エネルギー価格の高騰、深刻化する労働力不足など、不透明",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製作図面1枚、数量1個からお見積もりいたします",
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "pass": 3
+   },
+   {
+    "quote": "極低温から超高温領域まで対応するスーパーエンプラ！優れた切削加工性と低価格を実現しました",
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "電気販売代理店事業（ENEOS㈱代理店）",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.narasaki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/greeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/fa_solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/agriculture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/food/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_machinery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/news_release/20251225.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/news_release/20251117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/news_release/20250805.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/news_release/20250728.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/news_release/20240814.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.narasaki.co.jp/antique.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/presenters/narasaki/ceramics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/presenters/narasaki/ceramics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/product/detail/2001155907/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 代理店 契約",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://www.indexpro.co.jp/distributor/handlingmaker?did=1697",
+    "https://metoree.com/companies/20554/distributors/",
+    "https://mono.ipros.com/company/detail/6626/",
+    "https://www.mitsubishielectric.co.jp/fa/about-us/local-network/distributor.html",
+    "https://www.narasaki.co.jp/product/mechatronics/mec09_03/",
+    "https://www.moxa.com/jp/how-to-buy/solution-partner",
+    "https://distymap.com/distributors/narasaki-sangyo"
+   ]
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 導入事例",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/mec07_02/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://www.security-switch.com/case/case01/",
+    "https://pr.mono.ipros.com/narasaki/product/detail/2000313342/",
+    "https://www.narasaki.co.jp/product/mechatronics/mec09_03/",
+    "https://www.foodfactory-iot.com/maker/narasaki.html",
+    "https://experience.arcgis.com/experience/4e38619fc06d4c169e76c46bf18e937b/page/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E5%8B%95%E7%94%BB",
+    "https://kawasakirobotics.com/jp/case-studies/",
+    "https://pr.mono.ipros.com/narasaki/information/"
+   ]
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 価格 OR 料金",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "https://www.narasaki.co.jp/product/mechatronics/mec09_03/",
+    "https://narasakivietnam.com/product/mechatronics/",
+    "https://mono.ipros.com/company/detail/6626/",
+    "https://www.narasaki.co.jp/",
+    "https://marsflag.zohodesk.com/portal/ja/kb/%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85",
+    "https://pr.mono.ipros.com/narasaki/product/detail/2000313342/"
+   ]
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 受託 造形",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://pr.mono.ipros.com/narasaki/product/detail/2001155907/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://pr.mono.ipros.com/narasaki/product/detail/2000600429/",
+    "https://expo.semi.org/japan2025/public/eBooth.aspx?BoothID=630965&Task=Products",
+    "https://www.narasaki.co.jp/product/mechatronics/mec09_03/",
+    "https://narasakivietnam.com/product/mechatronics/",
+    "https://www.sk-fine.co.jp/consignment/",
+    "https://pr.mono.ipros.com/narasaki/information/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式25頁／PDF・画像3件／外部8頁・検索4回）"
+ }
+}

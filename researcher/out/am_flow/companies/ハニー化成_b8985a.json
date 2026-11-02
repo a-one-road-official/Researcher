@@ -1,0 +1,782 @@
+{
+ "name": "ハニー化成",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の共同出展者） /",
+ "researched_at": "2026-11-02T08:04:14.248387+00:00",
+ "official_url": "https://www.honny.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1952年",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "塗料 、 接着剤 、 合成樹脂 、金属表面処理剤などを主とする化学製品の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「水と空気を科学する」ハニー化成のWEBサイト｜ニュースリリース | ハニー化成",
+    "url": "https://www.honny.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/profile-01/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/profile-01/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/profile-02/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/profile-02/",
+    "pass": 1
+   },
+   {
+    "quote": "塗料、合成樹脂、金属表面処理剤、接着剤、その他これらに関する化学製品およびその原料の製造・販売",
+    "url": "https://www.honny.co.jp/profile-02/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸市長田区に高砂塗料工業所を設立 ゴム用塗料の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニロン」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニライト」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニクロン」の開発、販売開始",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニストン」「ハニーヒル」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニブライト」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニソフトン」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニクロン」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニセラン」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニレジスト」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハニセランPI」の開発、製造販売",
+    "url": "https://www.honny.co.jp/profile-03/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/profile-04/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/profile-04/",
+    "pass": 1
+   },
+   {
+    "quote": "財団では兵庫県下での研究開発に関する試作試験や新技術の実施化資金に対する助成を行っております",
+    "url": "https://www.honny.co.jp/profile-04/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい塗料開発から小ロットの試作まで、",
+    "url": "https://www.honny.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/product-01/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/product-01/",
+    "pass": 1
+   },
+   {
+    "quote": "「水と空気を科学する」ハニー化成のWEBサイト｜製品紹介｜技術サポート・導入プロセス・設備 | ハニー化成",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "●継続使用のための技術サポートによるフォロー",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポートについて",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポートはお客様に製品を導入する為の設備等の確認、導入、導入後の仕上がり安定化を維持できる様フォローし、品質トラブルの未然防止、トラブル発生時の対応等を行います",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/contact1/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/contact1/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.honny.co.jp/2026/03/16/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%83%BB%E4%BC%9A%E7%A4%BE%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%88%E6%8E%A1%E7%94%A8-2/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポート・導入プロセス・設備",
+    "url": "https://www.honny.co.jp/2026/03/16/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%83%BB%E4%BC%9A%E7%A4%BE%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%88%E6%8E%A1%E7%94%A8-2/",
+    "pass": 1
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "【社内教育用にも！】電着塗装とは？ 基礎知識集",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、電着レジストを製造・販売しておりますが、お客様の中にはそもそもフォトレジスト自体をご存知ではない方も多くおられました",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のフォトレジスト基礎知識集は、これらの課題に対し、フォトレジストの基本から理解を深めることで、最適な材料選定と工程設計をサポートします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "・MEMSデバイスの試作・開発",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、電着レジストの製造・販売を通じて、お客様の高度なニーズにお応えしてまいりました",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、電着レジストの製造・販売を通じて、お客様の技術課題解決をサポートいたします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は電着レジストの製造・販売を通じて、お客様の技術課題解決をサポートいたします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "・マイクロマシンの微細構造設計",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "・新たなレンズ設計への応用",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、電着レジストの製造・販売を通じて、お客様の高度な印刷ニーズに応えるための基礎知識を提供します",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "建設コンサルタント",
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "pass": 3
+   },
+   {
+    "quote": "設備設計事務所",
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所",
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のご要望・課題・用途などをヒアリングし、ご要望に合った製品を紹介させて頂きます",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒアリング結果を基に、当社でもしくはお客様でサンプル作成を行って頂きご評価頂きます",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "新しく設備を導入されるお客様には設備業者を紹介致します",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "技術サポートはお客様に製品を導入する為の設備等の確認、導入、導入後の仕上がり安定化を維持できる様フォローし、品質トラブルの未然防止、トラブル発生時の対応等を行います",
+    "url": "https://www.honny.co.jp/product-02/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、電着レジストを製造・販売しておりますが、お客様の中にはそもそもフォトレジスト自体をご存知ではない方も多くおられました",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "家電業界では、製品の外観における意匠性の向上が、消費者の購買意欲に影響を与える重要な要素となります",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツ用品業界では、製品の美観と機能性を両立させるための表面処理が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "建築金物業界では、屋外での使用や過酷な環境下での耐久性が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "家具業界では、製品の美観と耐久性を高めるために、素材表面の質感向上が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "文房具業界では、日常的な使用に耐えうる耐久性と、手に取る人を魅了する美観が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "OA機器業界では、製品の信頼性を高めるために、内部部品の絶縁性確保が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "【自動車業界向け】電着塗装とは？基礎知識集",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界では、過酷な環境下での使用に耐えうる高い防錆性能が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶業界では、厳しい塩害環境下での金属部品の保護が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造業界では、微細回路形成において、フォトレジストの正確な理解と適用が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板業界や配線パターン形成においては、微細で精密な回路形成が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページでは、フォトレジストの基礎知識を解説し、お客様の課題解決に貢献します",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロエレクトロニクス業界、特に高密度実装においては、微細な回路パターンを正確に形成するための技術が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、電着レジストの製造・販売を通じて、お客様の高度なニーズにお応えしてまいりました",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "液晶ディスプレイ業界では、微細な画素パターンを正確に形成するために、フォトレジストの適切な理解と活用が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、電着レジストの製造・販売を通じて、お客様の技術課題解決をサポートいたします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "LED業界や発光素子形成においては、微細な回路パターン形成が製品の性能に影響を与えます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は電着レジストの製造・販売を通じて、お客様の技術課題解決をサポートいたします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "【印刷業界向け】フォトレジストとは？ 基礎知識集",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "印刷業界の製版工程では、精密なパターン形成が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品業界では、センサーや制御基板の小型化・高機能化に伴い、微細な回路形成技術が求められています",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページでは、フォトレジストの基本的な知識から、種類、工程イメージ、塗装方法、そして当社の電着レジストの特長までを網羅し、お客様の課題解決に役立つ情報を提供いたします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロマシン業界や微細構造加工においては、高精度なパターン形成が求められます",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページでは、半導体製造に不可欠なフォトレジストの基礎知識を解説し、お客様の課題解決に役立つ情報を提供いたします",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「水と空気を科学する」ハニー化成のWEBサイト — 電着塗装、塗料、合成樹脂、金属表面処理剤、接着剤、その他これらに関する化学製品およびその原料の製造・販売を行う ハニー化成のWEBサイト。 資源の乏しいわが国に豊富に存在する美しい水や空気という資源に付加価値をつけ、新たなモノとして活用するという発想から生まれました。",
+    "url": "https://www.honny.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約書とは？雛形をもとに内容や注意点を解説 | 電子契約サービ...【無料DL】代理店契約書テンプレート3種｜販売・取次・媒介の雛形と作...代理店契約書 無料ひな形・テンプレート販売代理店契約とは？販売店契約と代理店契約の違い・契約書作成時の...「水と空気を科学する」ハニー化成のWEBサイト｜会社案内 | ハニー化...「販売店・代理店契約書」の書式テンプレート・フォーマットのダウン... — 最初に「代理店契約」の内容を確認しておきましょう。 代理店はメーカー企業などから委託を受け、商品やサービス（以下、商品）の売買の仲介を行う会社や個人の総称です。代理店は委託者を代理して商品の販売を行い、仲介により企業と顧客間で売買契約が成立した際に手数料を受け取ります。これが、代理店の主な利益となります。 代理店契約は上記の内容について企業（委託者）と代理店（受託者）間で結ぶものですが、実",
+    "url": "https://biz.moneyforward.com/contract/basic/4317/",
+    "pass": 3
+   },
+   {
+    "quote": "「水と空気を科学する」ハニー化成のWEBサイト｜製品紹介 | ハニー化... — ハニー化成のものづくり 研究開発・生産体制 品質・環境マネジメントシステム 製品紹介 電着塗装とは 技術サポート・導入プロセス・設備 ハニライトシリーズ ハニブライト ハニレジストシリーズ ハニセランAW/MA ハニセランPI ハニロンシリーズ ハニクロン",
+    "url": "https://www.honny.co.jp/products/",
+    "pass": 3
+   },
+   {
+    "quote": "技術資料 の製品一覧｜ハニー化成｜イプロスものづくり — Aug 3, 2026 · 果てしない新技術の開発に挑戦する姿はそうした理想の実現に立ち向かう技術者集団の誇りです。 ハニー化成は、樹脂合成技術と50年以上培ってきた電着塗装技術で御社の技術課題を解決いたします。 イプロスのイプロスものづくりのサイト説明",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "【インフラ向け】機能性・意匠性付与 電着処理剤 ハニー化成 | イプロ... — Jun 1, 2026 · 基本情報 【特長】 ・耐蝕性 ・絶縁性 ・耐候性 ・意匠性 ・潤滑性 【当社の強み】 ハニー化成株式会社は、塗料、合成樹脂、金属表面処理剤などの製造・販売を行っており、50年以上培ってきた電着塗装技術で御社の技術課題を解決いたします。",
+    "url": "https://mono.ipros.com/product/detail/2001638618/",
+    "pass": 3
+   },
+   {
+    "quote": "すべての製品・サービス 一覧 | ハニー化成 - Powered by イプロスも... — Oct 5, 2026 · ハニー化成 の製品・サービスです。製品・技術を一覧から探すことができます。",
+    "url": "https://pr.mono.ipros.com/honny/product/category/",
+    "pass": 3
+   },
+   {
+    "quote": "機能性電着樹脂液 ハニー化成 | イプロス — 電着技術と高機能性樹脂の融合 ハニー化成がアルミサッシの表面処理分野において世界ではじめて実用化し60年培った電着技術と高機能性樹脂と複合化し、付加価値をご提供致します。 小スケールでのサンプル作成、その他機能化、共同開発等のご要望がございましたら、まずはご相談 ...",
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "pass": 3
+   },
+   {
+    "quote": "ハニー化成株式会社 事業紹介 ハニー化成 | イプロスものづくり — Jun 18, 2025 · 果てしない新技術の開発に挑戦する姿はそうした理想の実現に立ち向かう技術者集団の誇りです。 ハニー化成は、樹脂合成技術と50年以上培ってきた電着塗装技術で御社の技術課題を解決いたします。 製品・サービス一覧 (79)",
+    "url": "https://mono.ipros.com/product/detail/2000217770/",
+    "pass": 3
+   },
+   {
+    "quote": "ハニー化成の製品・サービス一覧｜イプロスものづくり — Aug 3, 2026 · ハニー化成 の製品・サービス一覧です。 【アニオン電着のパイオニア】表面処理で新たな価値を提供します ハニー化成株式会社は、塗料、合成樹脂、金属表面処理剤、接着剤、その他これらに関する化学製品およびその原料の製造・販売を行っている会社です。 水と空気を科学する ～ハニー ...",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ハニー化成 - Wikipedia — ハニー化成株式会社 （ハニーかせい）は 兵庫県 神戸市 長田区 に本社を置く、 塗料 、 化成品 の製造をおこなう企業である。 1952年 創業。",
+    "url": "https://ja.wikipedia.org/wiki/ハニー化成",
+    "pass": 3
+   },
+   {
+    "quote": "「水と空気を科学する」ハニー化成のWEBサイト｜ハニー化成のものづく... — ハニー化成の主たる生産拠点である明石事業所は、兵庫県明石市の西部に位置しています。原材料の選定から生産、検査、出荷に至る一貫生産体制を確立し、お客様に安心を安全にお届けできるよう様々な取り組みを行っています。 高い品質を生み出す品質管理体制と生産技術を保持し、安定 ...",
+    "url": "https://www.honny.co.jp/research-01/",
+    "pass": 3
+   },
+   {
+    "quote": "スプレーコートAG処理 受託試作加工サービス ハニー化成 | イプロス — ハニー化成のスプレーコートAG処理 受託試作加工サービス の技術や価格情報などをご紹介。 無料見積り AGスプレーコート剤『ハニセランPI-200』 受託試作加工サービスイプロスでは 塗料などBtoB向けの情報を多数掲載。応相談応相談`",
+    "url": "https://www.ipros.com/product/detail/2000425285/",
+    "pass": 3
+   },
+   {
+    "quote": "ハニー化成 | 企業情報 | イプロス — ハニー化成の企業情報や製品・サービス、関連カタログをご紹介。 【アニオン電着のパイオニア】表面処理で新たな価値を提供します イプロスでは、その他なBtoB向けの情報を多数掲載。",
+    "url": "https://www.ipros.com/company/detail/2046737/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "100,000,000円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.honny.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/product-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/product-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/contact1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/2026/03/16/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%E3%83%BB%E4%BC%9A%E7%A4%BE%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%88%E6%8E%A1%E7%94%A8-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/profile-04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/product-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/product-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.honny.co.jp/contact1/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.honny.co.jp/wp-content/uploads/2019/07/profile_top3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/4317/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/agency-contract-template",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/product/detail/2001425258/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E5%8C%96%E6%88%90",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハニー化成 代理店 契約",
+   "results": [
+    "https://www.honny.co.jp/",
+    "https://biz.moneyforward.com/contract/basic/4317/",
+    "https://b-seeds.com/column/agency-contract-template",
+    "https://mysign.jp/templates/agency-agreement",
+    "https://keiyaku-watch.jp/media/keiyakuruikei/hanbaidairitenkeiyaku/",
+    "https://www.bizocean.jp/doc/category/133/",
+    "https://www.honny.co.jp/profile/"
+   ]
+  },
+  {
+   "query": "ハニー化成 導入事例",
+   "results": [
+    "https://www.honny.co.jp/",
+    "https://www.honny.co.jp/products/",
+    "https://mono.ipros.com/company/detail/2046737/category/66636/",
+    "https://mono.ipros.com/product/detail/2001638618/",
+    "https://pr.mono.ipros.com/honny/product/category/",
+    "https://smepprd-kansai-meti-gov.note.jp/n/n416c55523341",
+    "https://kk-honey.co.jp/note_tag/use-cases/"
+   ]
+  },
+  {
+   "query": "ハニー化成 価格 OR 料金",
+   "results": [
+    "https://www.honny.co.jp/",
+    "https://www.honny.co.jp/products/",
+    "https://www.ipros.com/product/detail/2001425258/",
+    "https://mono.ipros.com/product/detail/2000217770/",
+    "https://mono.ipros.com/company/detail/2046737/category/",
+    "https://pr.mono.ipros.com/honny/product/detail/2000217770/",
+    "https://pr.mono.ipros.com/honny/product/category/"
+   ]
+  },
+  {
+   "query": "ハニー化成 受託 造形",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ハニー化成",
+    "https://www.honny.co.jp/",
+    "https://www.honny.co.jp/research-01/",
+    "https://www.ipros.com/product/detail/2000425285/",
+    "https://www.ipros.com/company/detail/2046737/",
+    "https://smepprd-kansai-meti-gov.note.jp/n/n416c55523341",
+    "https://www.aperza.com/catalog/page/10012505/64012/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）",
+  "誰から": "記載なし（3回確認済み：公式22頁／PDF・画像1件／外部5頁・検索4回）"
+ }
+}

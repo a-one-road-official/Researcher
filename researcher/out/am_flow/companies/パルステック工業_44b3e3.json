@@ -1,0 +1,1029 @@
+{
+ "name": "パルステック工業",
+ "aliases": [],
+ "context": "日本AM協会会員として合同展示に参加。扱い品は出典に記載なし /",
+ "researched_at": "2026-11-02T08:05:25.794246+00:00",
+ "official_url": "https://www.pulstec.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和44年11月1日",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1969年 11月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "1969年11月1日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "163名 (2026年4月1日現在)",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "156人（2024年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "122 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主要事業内容",
+    "value": "電子応用機器・ 装置の製造および販売",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "電子応用機器・装置の製造および販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "26億12百万円（2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "(オンラインセミナー)",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "本セミナーでは、各分野でご活躍されているスペシャリストの方々にご登壇いただき残留応力の測定原理や測定値の活用事例などについて、分かり易くご講演いただきます",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェビナー(オンラインセミナー)形式で無料にてお申し込みいただけます",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "プラントやインフラ設備の保守保全における課題解決に残留応力測定",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/video/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/video/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/video/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/video/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "臨床検査機器の受託開発から製造まで一貫したモノづくりをサポート",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "第三種医療機器製造販売業許可証",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "「医療機器受託開発」を",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "安全でセキュアな医療機器を実現するために、脅威分析を行い品質・安全性が確保されることを目指した設計・開発・評価を行います",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製品等を扱う従業員に対して、製品セキュリティを確保すべく定期的に教育を実施し、知識向上・意識向上を図ります",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "受託開発製品・受託製造製品に関しましては、お客様のご依頼内容に基づいて活動してまいります",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "装置レンタル",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器受託開発",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産現場や屋外で使用でき大型構造物の測定も可能なため、様々な業種や業界で採用されています",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "光技術を活用して、お客様のニーズに適した計測、検査、検出等を提供します",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーにて管球交換ができるため、1台で多種の測定対象物を測定できます",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "海外導入実績",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "マッピングや合否判定など、お客様のニーズに応じてソフトウェアをカスタマイズします",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "受託開発製品・受託製造製品に関しましては、お客様のご依頼内容に基づいて活動してまいります",
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "\"業界トップ\"、",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "\"業界標準\"",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "主要な取扱製品は、ポータブル型Ｘ線残留応力測定装置、ヘルスケア・医療関連機器の受託開発及び受託製造、光ディスク関連の評価及び検査等を行う機器・装置、非接触３次元スキャナのほか、顧客仕様に基づく計測・制御・データ処理等を行う専用機器・装置であります",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みである光波センシング技術を駆使し、測定・評価・検査等の領域において、これからも、お客様の要望に応える製品を開発するとともに、お客様に選ばれ続ける製品を提供することにより、多くの皆様に期待され必要とされ続ける企業であることを目指してまいります",
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": ": 実直・誠実に顧客の期待に応え、諦めず最後までやり切る",
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": ": パルステックを取り巻く顧客やファン、社員や仕入れ先など多くの仲間",
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "DVD評価用光ディスクドライブ装置(業界標準)を開発｡",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先 | 会社情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国内主要取引先",
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "海外主要取引先",
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "ＲｏＨＳ指令、お客様独自の化学物質規制に適合した製品開発を行っております",
+    "url": "https://www.pulstec.co.jp/company/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "■これらの個人情報は適切な安全対策のもと管理し、原則としてお客様の同意なく第三者へ開示・提供いたしません",
+    "url": "https://www.pulstec.co.jp/product/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に応じて最適なシステムをご提案！",
+    "url": "https://www.pulstec.co.jp/pdf/pws_1000.pdf?3",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のご要望に応じて最適なシステムをご提案！",
+    "url": "https://www.pulstec.co.jp/pdf/lucas.pdf?1",
+    "pass": 2
+   },
+   {
+    "quote": "評価用光ディスクドライブ装置(業界標準)を開発｡",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "学術奨励賞など、光学分野における取り組みが幅広い業界から注目を集めている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "の地域未来牽引企業に選定されるなど、業界内外からの評価を確立した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる就活・業界研究",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "投資・売買に関する最終決定は、お客様ご自身のご判断でなさいますようお願い申し上げます",
+    "url": "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "小型・軽量・高速・高精度・低価格を実現し取扱いも容易です",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "検査に掛かる手間と研磨剤やレジンなどの消耗品コストも削減します",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "小型カメラの採用によりPWS-1000と比べ、さらに小型･軽量・低価格を実現し、既存製品への組み込みも一層容易になりました",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で初めてcosα法の製品化に成功し、小型・軽量・高速・高精度・低価格を実現した装置です",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "検査に掛かる手間と研磨剤やレジンなどの消耗品コストを削減します",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な干渉計と比べ、低価格を実現しました",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "用途を小型光学系に限定したことにより、低価格を実現しました",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれが抱える開発・生産工程上の課題を解消することが当社の使命であると認識し、高品質・低価格製品の提供を追求し続け、それぞれの需要先ニーズに適合した幅広い製品群を開発・提供してきました",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "「ホログラム記録技術を用いたメディア評価装置に関するライセンス契約」を株式会社オプトウェアとの間にて締結",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "量産用低価格ピックアップ評価装置",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格光ディスクチェッカ",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "◆研磨剤やレジンなどの消耗品の削減",
+    "url": "https://www.pulstec.co.jp/pdf/hardness_eye.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※価格を抑えた小サンプル用の卓上型装置もござい",
+    "url": "https://www.pulstec.co.jp/pdf/mlaue.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "量産用低価格ピックアップ評価装置\"O-PAS100\"を開発",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "料金プラン・お申し込みはこちら",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "VIP倶楽部を詳しく見る（月額2,838円）",
+    "url": "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1,491,375,000円",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器製造販売を目的として、静岡県浜松市曳馬町に資本金50万円で",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "14億9137万5,000円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "26億12百万円（2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "36億38百万円（2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "51億37百万円（2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1,491(百万円)",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "6,238,019 円",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "240,000 円（日経会社情報調査）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "VIP倶楽部を詳しく見る（月額2,838円）",
+    "url": "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "pass": 3
+   },
+   {
+    "quote": "初月無料＋1,500円相当プレゼント",
+    "url": "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "開発体制強化のため開発プロジェクトを発足し、自社製品開発に着手",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年2月19日にはオプトウェアと提携、HVD（ホログラフィック・バーサタイル・ディスク）用評価装置を取り扱っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "パルステック工業 - Wikipedia — パルステック工業 ... パルステック工業株式会社 （パルステックこうぎょう、 英: PULSTEC INDUSTRIAL CO., LTD.）は、 光 関連の検査機器を主とした電子機器の製造および販売を手がける企業。 光に関する高い技術力を持ち、特に 光ディスク 分野を得意とする [1]。",
+    "url": "https://ja.wikipedia.org/wiki/パルステック工業",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業：製品紹介 - YouTube — Dec 27, 2021 · パルステック工業：製品紹介 1.9K views 4y ago パルステック工業株式会社 /Pulstec Industrial Co., Ltd. 211 subscribers",
+    "url": "https://www.youtube.com/watch?v=Gf6fnOwCXIk",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学... — 最先端技術を駆使し、エレクトロニクス、精密機械、光学分野で時代のニーズに応える研究開発型企業です。",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発 | パルステック工業株式会社 — 研究開発活動 創業当初から「研究開発型モノづくり企業」を志向し、「創意と工夫をもって新たな価値を創造し、社会の発展に貢献する。」を企業理念に掲げ、計測・評価・検査の領域において独自技術の研鑽とノウハウの蓄積に努め、顧客ニーズにマッチした新製品を開発することで関連業 ...",
+    "url": "https://www.pulstec.co.jp/rd/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業の製品・サービス一覧｜イプロス — 本ウェビナーでは、鋼材表面の硬さムラを非接触・非破壊で評価できる 「非接触硬さムラスキャナ (muraR)」の測定原理、活用事例、 硬化層深さの測定事例について講演いたします。 ウェビナー (オンラインセミナー)形式で無料にてご聴講いただけます。",
+    "url": "https://www.ipros.com/company/detail/2029750/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【パルステック工業】 [6894]企業概要 社員数や役員報酬・資本金 | 日...パルステック工業 | 6894.T 株価動向とリアルタイム相場 — BigGo ファ...パルステック工業 (株)【6894】：株価時系列・信用残時系列 - Yahoo!...製品情報 | パルステック工業株式会社パルステック工業（6894）の株価・チャート | yomitoka6894.T - | Stock Price & Latest News | Reuters — 【日本経済新聞】パルステック工業 [6894]の企業概要。役員人事や社員数、資本金に関する情報から関連会社や取引先、監査法人などあらゆる知り ... パルステック工業 · 約定価格2152 · 時価総額29.4億 · 始値2152 · 高値2152 · 安値2152 · 年間最高値2586 · 前日終値2148 · EPS（直近12ヶ月）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 | 6894.T 株価動向とリアルタイム相場 — BigGo ファ... — パルステック工業 · 約定価格2152 · 時価総額29.4億 · 始値2152 · 高値2152 · 安値2152 · 年間最高値2586 · 前日終値2148 · EPS（直近12ヶ月）206.3829 · PER（直近12ヶ月）10.43 · 配当利回り4.18% · 予想配当・利回り90 · ベータ値0.148",
+    "url": "https://finance.biggo.jp/quote/6894.T",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 (株)【6894】：株価時系列・信用残時系列 - Yahoo!... — Jan 28, 2026 · パルステック工業(株)【6894】の株価時系列や信用残時系列の推移をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業（6894）の株価・チャート | yomitoka — Sep 24, 2026 · パルステック工業（6894）の株価は2026年9月24日の終値で￥2,145。株価と1年のチャート、期間ごとの変化率、日別の価格・取引量、最近の発表、同業・関連企業を確認できます。yomitokaで日本株の値動きと材料を企業別に整理します。",
+    "url": "https://yomitoka.com/company/6894/stock-price",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | パルステック工業株式会社 — パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学技術等の最先端技術を駆使し、研究開発型企業とし ...",
+    "url": "http://pulstec.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会員企業紹介／パルステック工業株式会社｜浜松地域新産業創出会議 — 信頼のものづくり ISO9001、ISO14001、ISO13485、医療機器製造業の許可を取得しております。 特注品の受託開発に対応 医療機器や産業機器で多数受託開発の実績があります。 お気軽にご相談ください。",
+    "url": "https://www.hama-sss.com/sys/members/show/62",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社の企業情報・製品｜BizExpo.jp — Oct 26, 2026 · 光学技術と精密機械技術を組み合わせた計測機器として取り扱われている。 ヘルスケア装置 体外診断などに関わるヘルスケア・医療関連機器。 同社の電子回路や光学の技術を生かし、受託開発と受託製造の形で顧客の装置づくりを支援している。",
+    "url": "https://bizexpo.jp/companies/pulstec",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pulstec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/rd/security-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/ir/library/press_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/health/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/hardness_eye.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/mura_r.pdf?4",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/slaue.pdf?3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/mlaue.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/pws_1000.pdf?3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/lucas.pdf?1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/kougakurenzu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DGf6fnOwCXIk&q=EgQUQBGyGJSJodcGIjDtaiUz23MjjWe4d7gt4F0e3LAUoU-1GzQ2BCU5-cQAuEKXNdJX48U3qCNF6L0NsHQyAnJSWgFDYK6PqK_i6vC0lQE",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/quote/6894.T",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://pulstec.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "パルステック工業 代理店 契約",
+   "results": []
+  },
+  {
+   "query": "パルステック工業 導入事例",
+   "results": [
+    "https://ja.wikipedia.org/wiki/パルステック工業",
+    "https://www.youtube.com/watch?v=Gf6fnOwCXIk",
+    "https://www.pulstec.co.jp/",
+    "https://www.pulstec.co.jp/rd/",
+    "https://www.ipros.com/company/detail/2029750/category/",
+    "https://shingi.jst.go.jp/case/case01.html",
+    "https://tv.aperza.com/watch/770"
+   ]
+  },
+  {
+   "query": "パルステック工業 価格 OR 料金",
+   "results": [
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6894",
+    "https://finance.biggo.jp/quote/6894.T",
+    "https://finance.yahoo.co.jp/quote/6894.T/history",
+    "https://yomitoka.com/company/6894/stock-price",
+    "https://www.pulstec.co.jp/",
+    "http://pulstec.co.jp/product/",
+    "https://www.reuters.com/jp/markets/companies/6894.T/"
+   ]
+  },
+  {
+   "query": "パルステック工業 受託 造形",
+   "results": [
+    "https://ja.wikipedia.org/wiki/パルステック工業",
+    "http://pulstec.co.jp/company/",
+    "https://www.pulstec.co.jp/",
+    "https://www.hama-sss.com/sys/members/show/62",
+    "https://bizexpo.jp/companies/pulstec",
+    "https://jsam.or.jp/news/2026-07-01-7094/",
+    "https://www.paltek.co.jp/design/odm/index.html"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像8件／外部7頁・検索4回）"
+ }
+}

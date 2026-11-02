@@ -1,0 +1,995 @@
+{
+ "name": "ヤマザキマザック",
+ "aliases": [],
+ "context": "JIMTOF2024 AMセミナー登壇 /",
+ "researched_at": "2026-11-02T08:01:40.349344+00:00",
+ "official_url": "https://www.mazak.co.jp/",
+ "identified_by": "search:ddgs:bing:ヤマザキマザック",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1919年",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1919年 （ 大正 8年）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "CNC工作機械・自動化システム・生産支援ソフトウェア・レーザ加工機等の開発・生産・販売・輸出",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "CNC工作機械・レーザー加工機等、工作機械の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "非公開",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "8,429名（グループ合計）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "search_distributors_by_manufacturer(",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザックの正規代理店はどこですか？",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理店と取扱店の違いは何ですか？",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理店はメーカーが公式に認定した販売網です",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "「パートナー」または「partner」と",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "米大統領、ロボットと産業機械の輸入を安全保障の脅威と認定し180日の交渉へ",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "正規代理店はメーカーが公式に認定した販売網です",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "一次代理店（特約店・正規販売店とも呼ばれます）は、メーカーと直接契約して取り扱う販売会社です",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーセンタは、最新アプリケーションの展示、部品加工技術の相談、設備コンサルティング、各種トレーニングなど、お客様へテクノロジーソリューションを提供するサポート拠点です",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "帳票コンサルティング",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ活用コンサルティング",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "「使った順番ごと」にタグをスキャンしてデータがたまっていくため、そのデータを使って「組付け手順」の検証と改善を行ったり、組立て易い製品設計へ活かしたりすることもできるようになるのだ",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "「とくに試作は組立手順も試行錯誤しながらですから、生産現場と開発担当者がそういうデータをもとに協力し合って、より良い製品開発へ貢献できるような取り組みも進めているところです」と石田氏は語る",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 :CNC工作機械・自動化システム・生産支援ソフトウェア・レーザ加工機等の開発・生産・販売・輸出",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合・可視化にとどまらず、データ入力や柔軟な画面設計で業務に必要なアプリケーションをノーコードで作成可能",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "受注、設計、 ワークスイッチです",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に提案・販売する立場",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "商社・販売店",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "保守／メンテナンス",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "商品企画／設計",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "小物部品加工向けやアルミ専用の小型マシニングセンタを代表に、様々な工作機械を国内外に製造・販売しています",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "ツーリング（治具）製作から周辺装置の設計にも対応",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "アフターサービスやトレーニングを中心に行うテクノロジーセンターと、サポート拠点のテクノロジーセンターと対応内容を分けることで、迅速なサポートを実現しています",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "生涯保守あり",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "中古機械販売と新品即納機情報",
+    "url": "https://www.takahashi-kihan.net/category/item/new-machines/mazak/",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://www.mazak.com/jp-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.mazak.com/jp-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "AMは金属を積層することで、設計自由度を高め、新たなものづくりの可能性を広げます",
+    "url": "https://www.mazak.com/jp-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC工作機械・レーザー加工機等、工作機械の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "2012年、中国人社員が詳細な設計図面を不正に複製し、第三者に渡そうとしていたが警察により",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック、ポーランドに技術サポート拠点を開設",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザックは、金属の積層造形（AM）と切削、研削の3種類の加工を1台でこなすハイブリッド複合加工機「INTEGREX i-450S NEO AM」を開発し、2026年10月26日に販売を始めた",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "Linux 7.0がリリース——XFSの自動自己修復、Rust正式サポート、Intel TSXのデフォルト有効化など",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、製品設計の自由度が大きく広がり、軽量化や機能統合など、モノづくりの新たな可能性を切り拓きます",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "金型レスで試作や設計変更に柔軟に対応",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化や機能統合など、従来工法を超えた設計自由度",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "設計データをそのまま造形に反映できるため、試作や修正のサイクルを迅速に回すことができます",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化や機能統合による新しい設計思想を可能にします",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "設計自由度を飛躍的に高め、従来工法では不可能だった複合材料部品を創出します",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "工場立会い・納入・トレーニング",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "|トレーニングの実施でオペレーションと保守スキルを習得",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "市場により、販売形態が異なる場合があります",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "問い合わせ・見積 ↗",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "運営・データの集め方・料金",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "設備・消耗品・その他",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関して I サービスに関して I 各種キャンペーンに関して I お見積依頼 I 一般的なご質問",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "小型マシニングセンタの目安価格",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザックの小型マシニングセンタの価格は、「UN-600/30V」が",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "※上記は本体価格のため、オプションの有無などによって価格が変動します",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減が叫ばれている製造業において、価格のはどうしても気になるもの",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトでは、小型マシニングセンタを導入する際に重視したい「価格」「サポート」「精度」の3つのポイントごとにおすすめの小型マシニングセンタメーカーを紹介しています",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "「価格」「サポート」「精度」",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "「価格」「サポート」",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルテクノス：価格記載があり、本体価格が一番安い",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もり作成から加工段取りまで、プログラム自動生成を可能にする定額制ソフトウェア",
+    "url": "https://www.mazak.com/jp-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "ノズルから金属粉末を送りながら、レーザーで局所的に加熱して金属を積み重ねる方式で、同社は熱による母材への影響や変形が小さいと説明する",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "新たに載せた「マルチジェットノズル」は、ヘッドを傾けたときにも金属粉末を均一に送り、積層を安定させるという",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "ラズパイもNVIDIAも採用、ライセンス料ゼロの命令セット「RISC-V」の歴史",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザ式金属積層造形技術は、金属粉末をレーザで瞬時に溶融・凝固させる造形方式です",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "1: 造形部 2: 熱影響部 3: レーザ 4: 金属粉末 5: 溶融池",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末に比べて扱いやすく、低コストで安定供給が可能です",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "実証・見積もり",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "・|機械・周辺機器・立上げを含む見積もりを提示",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報・お見積もりなど、製品に関するご質問はこちらからお問い合わせください",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ヤマザキマザックは、世界各国にテクノジーセンタ・テクニカルセンタを配置し、全世界でお客様の身近な場所から迅速なサポートをご提供します",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーセンタは、最新アプリケーションの展示、部品加工技術の相談、設備コンサルティング、各種トレーニングなど、お客様へテクノロジーソリューションを提供するサポート拠点です",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルセンタは、お客様により近い場所でセールス及びサービス活動を迅速に行うためのサポート拠点です",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック株式会社 | 導入事例｜ウイングアーク１ｓｔ",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例一覧",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで同社は、美濃加茂製作所の再編をきっかけに、新たな物流管理のBIを開発できれば、自社の他工場のみならず、同じ課題をかかえる顧客に対しても、改善例の一つとして提案できるだろうと考えたのだ",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のツールについても、自分たちが使うだけであれば、最低限の機能的要素を満たしていればいいわけですが、工場見学に来ていただくお客様の目にも触れる以上、それにふさわしい意匠性をそなえていることが重要です」",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、工作機械メーカーである同社は、工作機械のユーザーでもある",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品を顧客に提案する最適な場所は、実際に自社の工作機械を使っている工場の現場なのだ",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、工場内で使うツールも使いやすいだけでなく、顧客が使いたくなるような意匠性もそなえていなければならないわけだ",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は今後、「ID TRACKING PLUS」を自社の他工場にも横展開するだけではなく、「Mazak iSMART Factory」を通じて、新しい工場のあり方を顧客にも提案していく予定である",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例をもっと見る",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ主導の解決策を提案（シスコシステムズ合同会社）のカタログ無料ダウンロード | Apérza Catalog（アペルザカタログ） | ものづくり産業向けカタログサイト",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ...",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ主導の解決策を提案",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、その成果は同社が提供する製品やソリューションにも反映され、お客様のスマートファクトリー実現に貢献することになります",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Digital 導入事例",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "する製品やソリューションにも反映され、お客様のスマートファクトリー実現に貢献することになります",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備をいかにサイバー攻撃から守る れを顧客に示しながら、積極的に課題",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "製品なら、顧客に提案する際も安心して",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "課題 生産、納品、そして、お客様の工場での稼働という、工作 具体的には、シスコの産業用スイッチを組み込んで Mazak SMARTBOX™が収容する設備の台数をあえて限 ない",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "Mazak iSMART Factory™が導入された最初の工場であ これは、お客様の工場で稼働する工作機械の稼働データを",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "用する工場の設備は、それらの対策を簡単に導入できませ 「クラウドに集約した情報を活用して、お客様が効率的に工",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にソリューションを 「シスコ製品の信頼性と安全性は、数多くの実績が証明して ん",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "Mazak iSMART Factory™をお客様に提供して IPなどのプロトコルは通信させず、製造業向けオープン通 ら工作機械の状況を詳しく把握した上で、適切なサポートを",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様とヤマザキマザックをつなぐ接",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "データでお客様とつながる新サービスを開発",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "「多くのお客様が、私たちと同じように生産性の向上やカー",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "Mazak iSMART Factory™をお客様に提供して IPなどのプロトコルは通信させず、製造業向けオープン通 動きが多く存在します",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様とヤマザキ マザックをつなぐ接",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "自社導入をご検討されているお客様へのお問い合わせ窓口です",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "アンケートとお客様情報を入力後、「入力内容を確認する」へお進みください",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に提案・販売する立場",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "ダウンロードされたお客様の情報（お客様がアペルザIDにご登録された企業名、名前、メールアドレス、住所、電話番号などのプロフィール情報）は、弊社プライバシーポリシーに則り掲載企業へ提供されます",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、お客様の情報の提供を受けた掲載企業は、お問合せへのご回答や営業活動（メールなどによる広告宣伝を含む）等において、それぞれ掲載企業が定めるプライバシーポリシー等の方針に沿って取り扱われます",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "小型マシニングセンタの導入事例を紹介",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "しており、ユーザーのニーズに合わせた細やかな対応が期待できます",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザックの導入事例",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザックの小型マシニングセンタの導入事例は、掲載されていませんでした",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型マシニングセンタの導入事例を紹介_TOP",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまなサポート機能により、お客様を支援するクラウド型会員サービス",
+    "url": "https://www.mazak.com/jp-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "鈴木龍司 (2017年5月10日). “工作機械業界 工場IT化に活路 ヤマザキマザック 最適加工で作業量半減 オークマ 週末の無人稼働構築”.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ヤマザキマザックの取扱代理店一覧【15社・代理店側の掲載】｜ディス... — Oct 11, 2026 · ヤマザキマザックは代理店一覧を公式サイトで公開していません（2026-10-11 時点で確認）。 ここに載せている15社は、 各代理店が自社サイトで「取り扱っている」と掲載している もので、出典はすべて代理店側のページです。",
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "pass": 3
+   },
+   {
+    "quote": "「ヤマザキマザック」の代理店217社 注目ランキング【2026年】| Metor... — 代理店注目ランキング導出方法について 代理店注目ランキングは、2026年11月時点でのヤマザキマザックの代理店ページ内でのクリックシェアを基に算出しています。クリックシェアは、対象期間内の全企業の総クリック数を各企業のクリック数で割った値を指します。",
+    "url": "https://metoree.com/companies/14413/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート拠点 - 企業情報 | ヤマザキマザック — ヤマザキマザックのサポート拠点 - 企業情報のご紹介",
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "保守サービス - サービス & サポート | ヤマザキマザック株式会社TSコミュニケーションズ｜ヤマザキマザック代理店メグマシナリー株式会社「ヤマザキ」の代理店5社 注目ランキング【2026年】| Metoree — マザックの製品を末長くご使用いただくために、定期点検と高精度デジタル測定器を使用したメンテナンスサービスを提供しております。 測定結果はお渡ししますので、品質マネージメントシステム ISO-9001 取得にも効果的です。 使用期間、機種に応じて便利なパッケージタイプで注文いただけ ... Apr 14, 2021 · ヤマザキマザック代理店 株式会社TSコミュニケーションズ 愛知、岐阜、中部地区を中心に中日本、東日本、西日本、四国、九州、東北、北海道に販売いたします。 Jan 1, 2026 · メグマシナリー株式会社はヤマザキマザック株式会社の代理店です。工作機械のご用命は",
+    "url": "https://www.mazak.com/jp-ja/service-support/after-support/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TSコミュニケーションズ｜ヤマザキマザック代理店 — Apr 14, 2021 · ヤマザキマザック代理店 株式会社TSコミュニケーションズ 愛知、岐阜、中部地区を中心に中日本、東日本、西日本、四国、九州、東北、北海道に販売いたします。",
+    "url": "https://ts-com.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック株式会社 | 導入事例｜ウイングアーク1st — Apr 8, 2020 · ヤマザキマザック株式会社 「RFIDタグで工場内のすべてのモノを可視化したい」 現場の期待値を超え続ける、独自の物流管理BI「ID TRACKING PLUS」 post：2020.04.08",
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキ マザック株式会社 - スマートファクトリー事例 - Cisco【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュー...ヤマザキマザック株式会社様｜導入事例｜ITソーシング｜NSSOLのITサー...過去の工作機械 導入事例 | マザックアイティ株式会社ヤマザキマザックの自動化提案 - Mazak — 大手工作機械メーカーのヤマザキ マザックは、スマートファクトリーの実現を目指しています。IoT を活用して収集した生産データを生産の最適化や製品の品質向上、カーボンニュートラルに役立てるためです。そのために様々なシスコ製品を利用しています。 【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ主導の解決策を提案（シスコシステムズ合同会社）のカタログ無料ダウンロードページです。｜大手工作機械メーカーのヤマザキ マザック。早",
+    "url": "https://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/2293-mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュー...ヤマザキマザック株式会社様｜導入事例｜ITソーシング｜NSSOLのITサー...過去の工作機械 導入事例 | マザックアイティ株式会社ヤマザキマザックの自動化提案 - Mazak — 【ヤマザキ マザック株式会社様 導入事例】生産革新とカーボンニュートラル 製造業の経営課題に データ主導の解決策を提案（シスコシステムズ合同会社）のカタログ無料ダウンロードページです。｜大手工作機械メーカーのヤマザキ マザック。早くからグローバル市場を視野に入れ、1970年代 ... ヤマザキマザック株式会社が日鉄ソリューションズ（NSSOL）の伴走型プロフェッショナルサービスxSource（クロスソース）を用い、新たなIT戦略を策定した事例をご紹介。当社のアセットをカスタマイズして活用し効率的な戦略作成を実現しました。 ヤマザキマザック",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック株式会社様｜導入事例｜ITソーシング｜NSSOLのITサー... — ヤマザキマザック株式会社が日鉄ソリューションズ（NSSOL）の伴走型プロフェッショナルサービスxSource（クロスソース）を用い、新たなIT戦略を策定した事例をご紹介。当社のアセットをカスタマイズして活用し効率的な戦略作成を実現しました。",
+    "url": "https://www.itis.nssol.nipponsteel.com/it-sourcing/case/yamazakimazak/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の工作機械 導入事例 | マザックアイティ株式会社 — ヤマザキマザック㈱製NC旋盤QUICK TURN NEXUS 200納入報告 ヤマザキマザック（株）製 マルチタスキングマシン ヤマザキマザック（株）製 マルチタスキングマシン ヤマザキマザック（株）製 横型マシニングセンタ ヤマザキマザック（株）製 CNC旋盤",
+    "url": "https://mazakit.jp/archive/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ヤマザキマザック】重視ポイントで選ぶおすすめ小型マシニングセン...製品情報 | ヤマザキマザックヤマザキマザック 即納機・短納期情報 | タカハシ機販工作機械のヤマザキマザック株式会社 - 旋盤, マシニングセンタ, 複合...ヤマザキマザック 工作機械 の中古販売価格│中古建機ならグロースパワ...P001492 横型マシニングセンター ヤマザキマザック H400 | 株式会社 ... — 小型マシニングセンタの目安価格 ヤマザキマザックの小型マシニングセンタの価格は、「UN-600/30V」が 1,991万円 （税込）、「UN-600/30H」が 2,750万円 （税込）です。 ※上記は本体価格のため、オプションの有無などによって価格が変動します。 「VARIAXIS」シリーズをはじめとして、豊富なラインアップと自動化システム対応により、様々なお客様のニーズにお応えします。一度の段",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック 即納機・短納期情報 | タカハシ機販 — Apr 24, 2026 · ヤマザキマザックの販売情報。新品も中古も機械のことならタカハシ機販にお任せください。",
+    "url": "https://www.takahashi-kihan.net/category/item/new-machines/mazak/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械のヤマザキマザック株式会社 - 旋盤, マシニングセンタ, 複合... — 工作機械のヤマザキマザック株式会社 工作機械による生産活動のイノベーション。それを支えるのがマザックの最先端テクノロジーです。マザックの工作機械は5軸・複合加工機による工程集約、さらにギア加工、研削、レーザ加工などの機能を付加することで進化を続けています。機械の高速 ...",
+    "url": "https://www.mazak.com/jp-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "P001492 横型マシニングセンター ヤマザキマザック H400 | 株式会社 ... — P001492 横型マシニングセンター ヤマザキマザック H400 MAZATROL M32 BT40 ATC60本 400角 2ﾊﾟﾚ C軸1度割出 主軸回転数6000rpm ｽﾄﾛｰｸ:X560 Y460 Z510 3,200,000円→見直し価格￥2,500,000円 ★精度検査済み！精度検査表あります。新品と同じくらいの精度でてます。",
+    "url": "https://www.kkmt.co.jp/machines/9627",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 | ヤマザキマザック — 「VARIAXIS」シリーズをはじめとして、豊富なラインアップと自動化システム対応により、様々なお客様のニーズにお応えします。一度の段取りで多面加工や同時5軸制御による複雑な3次元曲面加工が可能です。",
+    "url": "https://www.mazak.com/jp-ja/products/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック - Wikipedia — ヤマザキマザック株式会社 （英: YAMAZAKI MAZAK CORPORATION）は、 愛知県 丹羽郡 大口町 に本社を置く 日本 の大手 工作機械 メーカーである [1][2]。略称は Mazak。 オークマ 、 DMG森精機 、 ジェイテクト と共に日系四大工作機械メーカーの一角を占める。",
+    "url": "https://ja.wikipedia.org/wiki/ヤマザキマザック",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマザキマザック、金属の積層と切削・研削を1台でこなす産業用複合加... — 6 days ago · ヤマザキマザックは、金属の積層造形（AM）と切削、研削を1台でこなすハイブリッド複合加工機「INTEGREX i-450S NEO AM」を2026年10月26日に発売した。工作物を付け替えずに積層から仕上げまで続けて加工できる。JIMTOF2026に出展している。",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "AM （金属積層造形） - 製品情報 | ヤマザキマザック — 金属積層造形技術の多彩な活用シーン AMは新規部品の製造だけでなく、既存部品の補修や表面機能付与にも活用できる柔軟な技術です。 製造・補修・コーティングといった多様な用途に対応し、製造現場における生産性と付加価値を大きく高めます。",
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 | ヤマザキマザック — テーブル駆動方式 ... フライングオプティクス パレットチェンジ ... パイプ加工機 ... 複合加工機・5軸加工機に最先端のAM (金属積層造形)機能を搭載し、製造工程の変革を実現するマザックのAMシリーズ。 異種金属の接合により、加工部品の高機能化が可能 ...",
+    "url": "https://www.mazak.com/jp-ja/products/",
+    "pass": 3
+   },
+   {
+    "quote": "マザックと米研究所、WAAMと5軸加工を統合したハイブリッド金属積層造... — Sep 14, 2026 · マザックと米研究所、WAAMと5軸加工を統合したハイブリッド金属積層造形プラットフォーム… ヤマザキマザックとオークリッジ国立研究所が、金属3Dプリントと高精度5軸加工を自動搬送でつなぐ新システムを発表。多品種少量から量産まで対応します。",
+    "url": "https://seisan-navi.com/global-manufacturing-news-20260914-6dd25187cad7/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "20億円（単純合計 136億 2,000万円）",
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "pass": 3
+   },
+   {
+    "quote": "1,991万円",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "（税込）、「UN-600/30H」が",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,750万円",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "（税込）です",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円～",
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "pass": 3
+   },
+   {
+    "quote": "20億円（グループ合計:136億2000万円）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "デュッセルドルフ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "写真1枚でペットを3Dフィギュア化、DMMが1980円からの新サービス開始",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "落とし物タグを自作できる29ドルの開発ボード、AppleとGoogle両対応",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "150万円台から買える金属3Dプリンター、Scrap Labsが発表",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "曲げてカットできるフィラメントLED、模型電飾用に8色展開で780円",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ1万円台でロボットを配るのか？NVIDIAが2兆円で買ったハギングフェイスの歴史",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "そのケーブルは充電専用？ 3000円台で分かるUSB Cable Checker Lite",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "290円から選べるRISC-Vマイコン「CH32」、4種のチップ選び方ガイド",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "そのソーラーパネル、本当に発電してる？ 2000円以下の電源測定ボード「Power Monitor V1」",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "予算5万円で始めるフィジカルAI──ソフトウェアエンジニアのためのロボットアーム「SO-ARM101」入門",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   },
+   {
+    "quote": "大学生時代にカジノサークルで稼いだ1億円で起業、世界的ソフトウェアを生み出した男の話",
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mazak.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://distymap.com/manufacturers/yamazaki-mazak",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/14413/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/product/usecase/206.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/2293-mazak.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/catalog/page/10010124/63024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takahashi-kihan.net/category/item/new-machines/mazak/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mazak.com/jp-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E3%83%9E%E3%82%B6%E3%83%83%E3%82%AF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヤマザキマザック",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ヤマザキマザック",
+    "https://en.wikipedia.org/wiki/Yamazaki_Mazak_Corporation",
+    "https://www.mazak.com/jp-ja/",
+    "https://www.mazak.com/jp-ja/about-us/company-outline/",
+    "https://x.com/Mazak_Japan",
+    "https://www.mazak.co.jp/products/cnc/index.html",
+    "https://iconnect.mazak.jp/"
+   ]
+  },
+  {
+   "query": "ヤマザキマザック 代理店 契約",
+   "results": [
+    "https://distymap.com/manufacturers/yamazaki-mazak",
+    "https://metoree.com/companies/14413/distributors/",
+    "https://www.mazak.com/jp-ja/about-us/support-bases/",
+    "https://www.mazak.com/jp-ja/service-support/after-support/",
+    "https://ts-com.jp/",
+    "https://metoree.com/companies/5726/distributors/",
+    "http://www.meg-machinery.co.jp/"
+   ]
+  },
+  {
+   "query": "ヤマザキマザック 導入事例",
+   "results": [
+    "https://www.wingarc.com/product/usecase/206.html",
+    "https://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/2293-mazak.html",
+    "https://www.aperza.com/catalog/page/10010124/63024/",
+    "https://www.itis.nssol.nipponsteel.com/it-sourcing/case/yamazakimazak/",
+    "https://mazakit.jp/archive/case.html",
+    "https://www.mazak.co.jp/lp/automation/",
+    "https://www.cisco.com/c/dam/global/ja_jp/about/case-studies-customer-success-stories/pdf/2293-mazak.pdf"
+   ]
+  },
+  {
+   "query": "ヤマザキマザック 価格 OR 料金",
+   "results": [
+    "https://www.smallmc-focus.com/manufacturer/mazak.html",
+    "https://www.takahashi-kihan.net/category/item/new-machines/mazak/",
+    "https://www.mazak.com/jp-ja/",
+    "https://www.kkmt.co.jp/machines/9627",
+    "https://www.mazak.com/jp-ja/products/",
+    "https://growthpower.jp/Japanese/making-tool/yamazaki-mazak-corporation",
+    "https://cad-kenkyujo.com/machining-kakaku/"
+   ]
+  },
+  {
+   "query": "ヤマザキマザック 受託 造形",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ヤマザキマザック",
+    "https://fabscene.com/new/news/yamazaki-mazak-integrex-i-450s-neo-am-hybrid-additive-machining-grinding/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.mazak.com/jp-ja/products/",
+    "https://seisan-navi.com/global-manufacturing-news-20260914-6dd25187cad7/",
+    "https://kamaya-online.jp/2026/10/26/jimtof2026-mazak-integrex-am/",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/23/news065.html"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索5回）"
+ }
+}

@@ -1,0 +1,1292 @@
+{
+ "name": "ティーネットジャパン",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の出展者） /",
+ "researched_at": "2026-11-02T07:58:00.404635+00:00",
+ "official_url": "https://www.tn-japan.co.jp/",
+ "identified_by": "search:yahoo_jp:ティーネットジャパン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1976年4月30日",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上実績",
+    "value": "278億円（2026年6月期）",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "2,751名　（2026年6月末現在） ※臨時雇用者数（契約社員、嘱託社員、パートタイマー等）の年間平均人員を含む。",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "発注者支援業務、コンピューターシステム開発、機械・電気・電子・制御分野の技術者派遣及び受託開発、運搬機械システムの設計・製造、特殊空調設備の設計・施工、自動車・産業機械・FAプラントエンジニアリング、湿式調湿機の製造・販売、他",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "「協和ICTセミナー2026」に出展いたしました",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業者様向け】オフラインイベント”製造DXデモセミナー2026秋”開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「協和ICTセミナー2026」に出展いたしました",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業者様向け】オフラインイベント”製造DXデモセミナー2026秋”開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞社「機械設計 2026年11月号」に当社社員のインタビュー記事が掲載されました",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "除菌関連機器販売終了および関連Webサイト閉鎖のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造業 人事・研修ご担当者様向け】技術者育成WEBセミナー開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業様向け】AI外観検査ソリューションWEBセミナー開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "四国新聞（2025年12月20日付）に「hanacup販売・製作体験イベント」についての記事が掲載されました",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造・物流業様向け外観検査ソリューションWEBセミナー開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造・物流業様向け自動搬送特化WEBセミナー開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、実務における人材不足の解消や、安心・安全かつ効率的なインフラ事業推進のため、建設コンサルタントや大手ゼネコンのパートナーとして、質の高い技術サービスを提供しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングからシステム開発、クラウド基盤構築、運用保守まで、ITライフサイクルをワンストップで提供",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国主要都市に8拠点、東西２カ所にテクニカルセンター・受託開発部門を設け専門性・技術力を持ったエンジニアが多数活動し、お客様の開発テーマを支援しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械分野の受託開発",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社およびお客様先で設計業務を請け負い、イメージを形にする構想設計、これを具現化する詳細設計、効率性と信頼性を高める解析を経て、試作品の製作や量産化の検討まで、一連の開発領域をカバーしています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "仮想現実（バーチャル・リアリティ）の技術を活用した、３Dシミュレーションによる可視化、アニメーションの再現性の高さによって、設計開発の効率化・精度向上に貢献しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術・設備設計技術・プロジェクトマネジメントの総合力で、国内外あらゆる業界の生産ラインに対し、独自のノウハウで計画提案から設備据付・保守まで一貫したサービスを提供します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "機器の機種・型式選定、系統計画、詳細設計、メンテナンスまで当社で一括提供することにより、設備機器を支援",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業者様向け】オフラインイベント”製造DXデモセミナー2026秋”開催のお知らせ | お知らせ | 株式会社ティーネットジャパン",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業者様向け】オフラインイベント”製造DXデモセミナー2026秋”開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "pass": 1
+   },
+   {
+    "quote": "※本セミナーは、愛知県名古屋市で開催するリアルセミナーです",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造DX デモセミナー2026 秋",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "pass": 1
+   },
+   {
+    "quote": "ティーネットジャパンは、1976年に公共事業の発注者支援業務を専門とする建設コンサルタントとして創業し、2026年に50周年を迎えました",
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "発注者支援業務、コンピューターシステム開発、機械・電気・電子・制御分野の技術者派遣及び受託開発、運搬機械システムの設計・製造、特殊空調設備の設計・施工、自動車・産業機械・FAプラントエンジニアリング、湿式調湿機の製造・販売、他",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "建設コンサルタント 登録番号 建06-4155号",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生費等（福利厚生費、教育研修費、通信費、家賃、水道光熱費、消耗品費、交際費、採用費）",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "3．教育訓練に関する事項",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "（教育訓練方法：OFF-JT（e-learning含む）、社員の費用負担：なし、賃金の状況：有給）",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な教育研修",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンプライアンス、ハラスメント教育、ストレスマネジメント研修、ビジネスマナー・マインド、コミュニケーション、思考力、キャリア、セキュリティ、VDT症候群予防、健康増進、エンゲージメント向上、D＆I促進予防、危険予知訓練、交通安全教育、4S（5S）のための活動、緊急措置、他",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "職層・時期別の教育訓練",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術（基礎）に関する教育訓練",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会保険、教育研修、公的資格取得支援、借上住宅、確定拠出年金、団体保険、社員持株会、慶弔見舞金、法定外災害補償、 社外福利厚生サービス（ベネフィット・ステーション）、共済貸付金、年次有給休暇、特別休暇、育児休暇、介護休暇、シーズンホリデー",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "㈱ティーネットジャパン キャリアコンサルティング 相談窓口のご案内",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャリアコンサルタント",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託ソフトウェアの設計・開発、保守、運用支援",
+    "url": "https://www.tn-japan.co.jp/ja/about/iso.html",
+    "pass": 1
+   },
+   {
+    "quote": "パッケージソフトウェアの設計・開発、保守",
+    "url": "https://www.tn-japan.co.jp/ja/about/iso.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品およびシステム、サービスの運用・保守",
+    "url": "https://www.tn-japan.co.jp/ja/about/iso.html",
+    "pass": 1
+   },
+   {
+    "quote": "省力機器の設計、製作",
+    "url": "https://www.tn-japan.co.jp/ja/about/iso.html",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、自社の状況を踏まえた適切な賃上げを行うとともに、総合的な処遇改善により、従業員のエンゲージメント向上や更なる生産性の向上に資するよう、教育訓練、各種研修等を中心に積極的に取り組み、従業員への持続的な還元を目指します",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、賃金の引上げについて、生産性向上による収益拡大を適切な配分により従業員の処遇に還元するするとともに、教育訓練等については、「専門技術者の更なる育成」「リスキリング」「エンゲージメント向上」「健康経営への取り組み」などの施策を継続し、当社の競争力の源泉である従業員が安心して生活でき、活き活きと働けるような環境の整備と「人材への積極投資」を取り組んでまいります",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "除菌関連機器販売終了および関連Webサイト閉鎖のお知らせ | お知らせ | 株式会社ティーネットジャパン",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "pass": 1
+   },
+   {
+    "quote": "除菌関連機器販売終了および関連Webサイト閉鎖のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の除菌関連機器の販売は、",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了日およびサイト閉鎖日",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入いただいた製品の保守や",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "pass": 1
+   },
+   {
+    "quote": "この度、株式会社ティーネットジャパンでは、2026年1月1日に施行された「取引適正化法」および「受託中小企業振興法」に基づく振興基準の改正に伴い、2025年6月に公表しました「パートナーシップ構築宣言」を更新いたしました",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8523024560186409095.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造業 人事・研修ご担当者様向け】技術者育成WEBセミナー開催のお知らせ | お知らせ | 株式会社ティーネットジャパン",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-6058526889094913351.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造業 人事・研修ご担当者様向け】技術者育成WEBセミナー開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-6058526889094913351.html",
+    "pass": 1
+   },
+   {
+    "quote": "・現場でのOJTに依存しがちになり、教育負荷の偏りが生じている",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-6058526889094913351.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業様向け】AI外観検査ソリューションWEBセミナー開催のお知らせ | お知らせ | 株式会社ティーネットジャパン",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製造・物流業様向け】AI外観検査ソリューションWEBセミナー開催のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "この度、ティーネットジャパンでは、AI外観検査ソリューションに関するWebセミナーを2月25日（水）、2月26日(木)に開催いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、本セミナーでは、当社の外観検査ソリューションパッケージもご紹介いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "本セミナーは、外観検査において以下のようなお悩みをお持ちの方々に向けて開催いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "この度、当社の特例子会社である株式会社T-NET vigla(本社：香川県高松市)が、農福連携事業の一環として取り組む『花活布(hanacup)』の製作において、四国旅客鉄道株式会社(以下、JR四国)が高松駅にて開催する『hanacup』販売・製作体験イベントへ参加することとなりましたので、お知らせいたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "pass": 1
+   },
+   {
+    "quote": "四国さまの制服をアップサイクルした特別仕様を販売",
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "pass": 1
+   },
+   {
+    "quote": "出展社セミナー会場隣",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2524251902857931006.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "社会を動かす多種多様なインフラを、お客様と共に支える",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や社会が抱える課題は、さらに広がり、複雑化していく",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の悩みや",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術革新が速いだけでなく、不確実性が高く答えのない現代の事業環境において、ティーネットジャパンはお客様とともに課題に対して向き合い、新たなソリューションをご提案します",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Neo Venusをお使いのお客様へ",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の悩みや",
+    "url": "https://www.tn-japan.co.jp/ja/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術革新が速いだけでなく、不確実性が高く答えのない現代の事業環境において、ティーネットジャパンはお客様とともに課題に対して向き合い、新たなソリューションをご提案します",
+    "url": "https://www.tn-japan.co.jp/ja/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともにソリューションを創出し、社会の発展に貢献",
+    "url": "https://www.tn-japan.co.jp/ja/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客課題解決に向けた共同運営のLAB施設（名古屋市中川区）開設のお知らせ",
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIをはじめとする最新技術と様々な業界で培った知見を活用し、お客様のビジネス変革と課題解決を支援します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の「無くすソリューション」は、IoT・AI・ロボット技術を活用し、製造現場の自動化・省人化からスマートファクトリー化までをワンストップでお客様のDX推進を支援しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様先に常駐またはリモートによるアウトソーシング、もしくは両者を組み合わせた方法により、BCP対策や各種DXツールの導入を提案し、業務の見える化や改善、効率化をサポートします",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国主要都市に8拠点、東西２カ所にテクニカルセンター・受託開発部門を設け専門性・技術力を持ったエンジニアが多数活動し、お客様の開発テーマを支援しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社およびお客様先で設計業務を請け負い、イメージを形にする構想設計、これを具現化する詳細設計、効率性と信頼性を高める解析を経て、試作品の製作や量産化の検討まで、一連の開発領域をカバーしています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社で培った、長年に渡る機電系技術者の育成ノウハウを活用し、お客様の現場で求められる基礎技術から応用スキルまで、体系的に学べる研修プログラムを通じて、ものづくりに携わる人材の成長に貢献します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術・設備設計技術・プロジェクトマネジメントの総合力で、国内外あらゆる業界の生産ラインに対し、独自のノウハウで計画提案から設備据付・保守まで一貫したサービスを提供します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "鮮度の高い青果物の提供を目的とするCA設備を通して、業界の発展に貢献します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品をご利用のお客様へ",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-4573274436633523423.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様により安心してご使用いただくことを目的に、",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-4573274436633523423.html",
+    "pass": 1
+   },
+   {
+    "quote": "本補強対応は、設置先のお客様が希望される場合には",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-4573274436633523423.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様には、お手数をお掛けすることをお詫び申し上げますとともに",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-4573274436633523423.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からご提供頂きました個人情報（以下単に「個人情報」といいます）は、今回の点検、改修およびその後のお客様からの問合せ対応並びに社内の記録管理のみの目的で使用いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-4573274436633523423.html",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて、製品概要や導入事例をご紹介し、業務効率化や省人化、生産性向上に向けた具体的な活用イメージをご確認いただけます",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "pass": 1
+   },
+   {
+    "quote": "・ソリューション/ 導入事例ご紹介",
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術者力で、お客様と共にインフラを支え続ける",
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "発注者支援業務は現在、日本トップクラスの規模へ成長を遂げており、公共事業にとどまらず、システム＆インフラソリューション、アウトソーシング、プラントエンジニアリングなど、多様な分野に事業を展開し、お客様と共に、さまざまなインフラを支える企業として、着実に歩みを進めています",
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、経営理念である「テクノロジー＆ネットワークにより、お客様と共にソリューションを創出し、社員の幸せと社会の発展に貢献する",
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "」の実現を目指し、社会やお客様が抱える課題解決に対して、技術サービスを通じて積極的に貢献してまいります",
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "不確実性が高まる社会環境においては、これまで蓄積してきた多様な技術と知識を柔軟に活用し、あらゆるステークホルダーとのネットワークを最大限に活かすことで、新たなソリューションを創出し、社会とお客様の発展に寄与してまいります",
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と共にソリューションを創出し、",
+    "url": "https://www.tn-japan.co.jp/ja/about/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとっての「技術パートナー」でありたいという想い",
+    "url": "https://www.tn-japan.co.jp/ja/about/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは今日も技術とネットワークで、お客様を支え続けます",
+    "url": "https://www.tn-japan.co.jp/ja/about/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社会をはじめとする多様なステークホルダーとの価値協創が重要となっていることを踏まえ、マルチステークホルダーとの適切な協働に取り組んでまいります",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "その上で、価値協創や生産性向上によって生み出された収益・成果について、マルチステークホルダーへの適切な分配を行うことが、賃金引上げのモメンタムの維持や経済の持続的発展につながるという観点から、従業員への還元や取引先への配慮が重要であることを踏まえ、以下の取組を進めてまいります",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2.取引先への配慮",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、消費税の免税事業者との取引関係についても、政府が公表する免税事業者及びその取引先のインボイス制度への対応に関する考え方等を参照し、適切な関係の構築に取り組んでまいります",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでご利用いただきましたお客様に、心より感謝申し上げます",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では引き続き、この宣言を通じて、サプライチェーンの取引先の皆さまや価値創造を図る事業者の皆さまとの連携・共存共栄を進めてまいります",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8523024560186409095.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回のウェビナーではこれらの技術に焦点を当て、現場に最適な実現方法、そして実際の導入事例をご紹介いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の運用・環境に合わせてより実現可能な外観検査ソリューションの導入をサポートします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI外観検査システム『ナイトチェッカー』の最新機能と導入事例",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "└事例を元にお客様の課題ナイトチェッカーによる解決策を 担当エンジニアと一緒にご説明",
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIをはじめとする最新技術と様々な業界で培った知見を活用し、お客様のビジネス変革と課題解決を支援します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題を解決するパートナーとして、ITシステムの上流から下流まで、主に以下の4つのサービスを通じてワンストップで支援します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産性と品質を両立したシステム開発を実現するとともに、ERPやSaaSの導入など、お客様の多様なニーズに柔軟に対応します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "パブリッククラウドを中心に、お客様の要件に応じたITインフラの設計・構築・運用を支援します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "大手メーカーやSIer、サービス提供事業者などのお客様に、企画提案から開発、運用保守まで、幅広いニーズに対する人材支援サービスを提供しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様自らが担当してきたITの運用・保守に関する業務を、当社が担当します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のビジネスや業務プロセスの将来像にマッチする、最適なITソリューションの導入により、デジタル化と業務改革を進めることができます",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "アジャイルやCI/CDなどの効率的な開発スタイルを採用することにより、お客様のスピーディーなビジネスの成長をうながすITサービスを展開することができます",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のクラウドサービス導入を支援するパートナーとして、主に以下の3つのサービスを通じてワンストップで支援します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "システム開発やSaaSに関する知見を組み合わせ、お客様のビジネス変革とアジリティ向上を支え続ける最適なシステム(※ アーキテクチャ)を提供します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業・顧客管理システムであるSalesforceの導入とカスタマイズによるお客様業務へのフィッティングサービスを提供します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のビジネスの変革に応えるシステムに",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存システムのモダナイゼーションやランニングコスト削減、お客様のビジネス変革とアジリティの向上を実現します",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会情勢やITの変革に即応できるシステムがお客様のビジネスを支えることができます",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドベースのCRM／顧客管理システムやSFA／営業支援システム、MA／マーケティングオートメーションなどの機能をもつSalesforceをスムーズに導入",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の「無くすソリューション」は、IoT・AI・ロボット技術を活用し、製造現場の自動化・省人化からスマートファクトリー化までをワンストップでお客様のDX推進を支援しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "ティーネットジャパンが開発した「ナクサナイト」は、物流や製造のDXに関わるさまざまなお困りごとを7つのカテゴリーに分類し、工場や製造現場における自動化・生産性向上をめざす、お客様に寄り添うソリューションです",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "「機械」「電気・電子」「組込・制御」の各分野に精通し、業界の最新動向を常にキャッチアップしています",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "鮮度を長期間保持し、かつ大量に保管することが可能になれば、価格が安定するほか出荷調整の問題を解決することができます",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "マージン率とは、派遣料金の平均額から派遣対応技術社員に支払う賃金の平均額を差し引いた額を派遣料金の平均額で除して得た割合のことです",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "派遣料金の平均額 - 派遣対応技術社員の賃金平均額",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "派遣料金の平均額",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生費等（福利厚生費、教育研修費、通信費、家賃、水道光熱費、消耗品費、交際費、採用費）",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "※製作体験は、材料費として1,100円(税込)を頂戴いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "pass": 1
+   },
+   {
+    "quote": "マージン率とは、派遣料金の平均額から派遣対応技術社員に支払う賃金の平均額を差し引いた額を派遣料金の平均額で除して得た",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➁ 福利厚生費等（福利厚生費、教育研修費、通信費、家賃、水道光熱費、消耗品費、交際費、採用費）",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額 - 派遣対応技術社員の賃金平均額",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "派遣料金の平均額",
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "見積り・日程",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積りは無料です",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り内容で問題なければ、即業務スタートです",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   },
+   {
+    "quote": "料金（1名あたり・税別）",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "初めてご利用の企業様 限定価格",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "日程・人数が合わない場合は、御社単独での開催も承ります（別途お見積り）",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "料金に含まれるもの",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "限定価格は、当社の新入社員研修を初めてご利用いただく企業様が対象です",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・社内検討用資料",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "御社名と人数をご入力いただくと、この画面にお見積りと検討用のまとめが表示されます",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度 新入社員研修 お見積り",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修 3日間プラン（初回限定価格）",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積書と検討用資料（PowerPoint）をPDFでお送りします",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "ご入力のメールアドレスへ、お見積書と検討用資料をお送りしました",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "2億6,360万円",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "278億円（2026年6月期）",
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "hanacup： 1,100円(税込)",
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上カレンダー：500円(税込)",
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "pass": 1
+   },
+   {
+    "quote": "※製作体験は、材料費として1,100円(税込)を頂戴いたします",
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "pass": 1
+   },
+   {
+    "quote": "タブレット端末（工事監督支援アプリ）とクラウドを活用し、施工状況の把握・確認および円滑な情報共有が行えるシステムを導入しています",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "溶接トーチハンドル",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   },
+   {
+    "quote": "定額2,475円/月で受け放題！",
+    "url": "https://www.cogaku.co.jp/download/case-study_8/",
+    "pass": 3
+   },
+   {
+    "quote": "料金（1名あたり・税別）",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "2日間 40,000円",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "3日間 60,000円",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "／ 1名（税別）",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "60,000 円",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "180,000 円",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "18,000 円",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "198,000 円",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "https://www.biz-partnership.jp/declaration/125267-19-00-tokyo.pdf",
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "＜自社開発製品実績＞",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ティーネットジャパン の 代理店 - Metoree — ティーネットジャパン の 代理店 - Metoree Metoree https://metoree.com > ... > 株式会社ティーネットジャパン",
+    "url": "https://metoree.com/companies/4420/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発とエンジニア派遣「頼られる」「頼れる」パートナー — 受託開発とエンジニア派遣「頼られる」「頼れる」パートナー 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > es_business",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の「 ティーネットジャパン 」の 代理店 8社 - Metoree — 東京都の「 ティーネットジャパン 」の 代理店 8社 - Metoree Metoree https://metoree.com > ... > ティーネットジャパンの代理店",
+    "url": "https://metoree.com/companies/4420/distributors/tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ティーネットジャパン 新電力事業者(PPS) — 株式会社 ティーネットジャパン 新電力事業者(PPS) エネチェンジ https://enechange.jp > pps > companies > tn-japan",
+    "url": "https://enechange.jp/pps/companies/tn-japan",
+    "pass": 3
+   },
+   {
+    "quote": "ティーネットジャパン — ティーネットジャパン 株式会社ティーネットジャパン https://www.tn-japan.co.jp > ...",
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "実績紹介 | 株式会社 ティーネットジャパン — 実績紹介 | 株式会社 ティーネットジャパン 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > contents > achievements",
+    "url": "https://www2.tn-japan.co.jp/kathabar/contents/achievements/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ティーネットジャパン 様 | 製造業の技術者研修のコガク — 導入事例 ティーネットジャパン 様 | 製造業の技術者研修のコガク Cogaku https://www.cogaku.co.jp > download > case-study_8",
+    "url": "https://www.cogaku.co.jp/download/case-study_8/",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社 ティーネットジャパン 」｜グロービス学び放題 — 「株式会社 ティーネットジャパン 」｜グロービス学び放題 株式会社グロービス https://gce.globis.co.jp > ホーム > 事例",
+    "url": "https://gce.globis.co.jp/service/hodai/case/tn-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ティーネットジャパン ｜andbrand - 企業に寄り添い — 株式会社 ティーネットジャパン ｜andbrand - 企業に寄り添い 株式会社エイエイピー https://www.aap.co.jp > andbrand > case > detail",
+    "url": "https://www.aap.co.jp/andbrand/case/detail.html?CN=409219",
+    "pass": 3
+   },
+   {
+    "quote": "プラントエンジニアリング | ソリューション | 事業紹介 — プラントエンジニアリング | ソリューション | 事業紹介 株式会社ティーネットジャパン https://www.tn-japan.co.jp > solution > solution_11",
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_11.html",
+    "pass": 3
+   },
+   {
+    "quote": "ティーネットジャパン 施設･屋外照明の通販 - トラノテ — ティーネットジャパン 施設･屋外照明の通販 - トラノテ トラノテ https://www.torano-te.jp > ... > 施設･屋外照明",
+    "url": "https://www.torano-te.jp/s/c3010357/t289/?srsltid=AYCX9vJdHnFjMDkWWV4TWC9TzWQQ84viqa_eJIn18Ha_u6K5xWISQVOc",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度 新入社員研修 - ティーネットジャパン — 2027年度 新入社員研修 - ティーネットジャパン 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > shin",
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "pass": 3
+   },
+   {
+    "quote": "ティーネットジャパン 一覧 - ヤザワオンライン — ティーネットジャパン 一覧 - ヤザワオンライン yazawa-online.com https://www.yazawa-online.com > 取扱いメーカー一覧",
+    "url": "https://www.yazawa-online.com/m_list/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "ES事業 | 事業一覧 | 会社を知る - ティーネットジャパン — ES事業 | 事業一覧 | 会社を知る - ティーネットジャパン 株式会社ティーネットジャパン https://www.tn-japan.co.jp > business > ES_business",
+    "url": "https://www.tn-japan.co.jp/career/company/business/ES_business.html",
+    "pass": 3
+   },
+   {
+    "quote": "受託 開発とエンジニア派遣「頼られる」「頼れる」パートナー — 受託 開発とエンジニア派遣「頼られる」「頼れる」パートナー 株式会社ティーネットジャパン https://www2.tn-japan.co.jp > es_business",
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ティーネットジャパン 【ものづくり系設計開発エンジニア ... — (株) ティーネットジャパン 【ものづくり系設計開発エンジニア ... マイナビ https://job.mynavi.jp > search > corp90727 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp90727/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ティーネットジャパン | 企業情報 | イプロスものづくり — ティーネットジャパン | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信",
+    "url": "https://mono.ipros.com/company/detail/2115943/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tn-japan.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-4573274436633523423.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info2452418870448901223.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/offices.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/1minute.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/iso.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/multi-stakeholder-policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8072986774670439263.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8523024560186409095.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-6058526889094913351.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-2452418870448901008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8770082686358443177.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info6549444702877438615.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info2524251902857931006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-7024114373415474842.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/solution/solution_06.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-382253707401773273/main/01/link/20260928_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info8824515406389128135/main/0/link/20260924_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/info-8224938430007040493/main/0/link/20260216_T-NETJAPAN_pressrelease_v01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/info/release_topics-2563733662642369113/main/0/link/NeoVenus_20220401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/018/teaserItems1/00/tableContents/00/multiFileUpload70/link/career_contact.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/011/teaserItems1/0/linkList/0/link/dispatching_2610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/disclosure/main/014/teaserItems1/0/linkList/0/link/Mid-carrer-recruitment_2604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/iso/main/05/teaserItems1/0/link/ISOIEC27001_2609_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/service/main/014/teaserItems2/010/binaryNodeName/case_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tn-japan.co.jp/ja/about/main/00/teaserItems1/02/binaryNodeName/about_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/4420/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/4420/distributors/tokyo/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/kathabar/contents/achievements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cogaku.co.jp/download/case-study_8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gce.globis.co.jp/service/hodai/case/tn-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torano-te.jp/s/c3010357/t289/?srsltid=AYCX9vJdHnFjMDkWWV4TWC9TzWQQ84viqa_eJIn18Ha_u6K5xWISQVOc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.net-japan.co.jp/precious_metal/print",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/hr/shin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.tn-japan.co.jp/es_business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exp.ceatec.com/related/ceatecnews_vol33/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ティーネットジャパン",
+   "results": [
+    "https://www.tn-japan.co.jp/ja/index.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "https://www.youtube.com/user/TNETJAPAN/videos",
+    "https://www2.tn-japan.co.jp/es_technical_training/company/",
+    "https://job.mynavi.jp/28/pc/search/corp293013/outline.html",
+    "https://ja.wikipedia.org/wiki/ティーネットジャパン",
+    "https://www.tn-japan.co.jp/ja/about/company.html",
+    "https://job.mynavi.jp/27/pc/search/corp90727/outline.html",
+    "https://www.biz-sustainable.net/",
+    "https://www.youtube.com/TNETJAPAN/videos"
+   ]
+  },
+  {
+   "query": "ティーネットジャパン 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/4420/distributors/",
+    "https://www2.tn-japan.co.jp/es_business/",
+    "https://metoree.com/companies/4420/distributors/tokyo/",
+    "https://enechange.jp/pps/companies/tn-japan",
+    "https://www.tn-japan.co.jp/ja/index.html",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007465198/",
+    "https://metoree.com/companies/4420/distributors/osaka/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-l-%E5%8D%83%E8%91%89%E7%9C%8C-%E6%B1%82%E4%BA%BA.html",
+    "https://www.ilii.jp/case/no088_oss/",
+    "https://ja.wikipedia.org/wiki/ティーネットジャパン"
+   ]
+  },
+  {
+   "query": "ティーネットジャパン 導入事例",
+   "results": [
+    "https://www2.tn-japan.co.jp/kathabar/contents/achievements/",
+    "https://www.cogaku.co.jp/download/case-study_8/",
+    "https://gce.globis.co.jp/service/hodai/case/tn-japan/",
+    "https://www.aap.co.jp/andbrand/case/detail.html?CN=409219",
+    "https://www.tn-japan.co.jp/ja/service/solution/solution_11.html",
+    "https://adband.jp/works/case/tn-japan-web.html",
+    "https://www.youtube.com/user/TNETJAPAN/videos",
+    "https://nakusa-knight.tn-japan.co.jp/"
+   ]
+  },
+  {
+   "query": "ティーネットジャパン 価格 OR 料金",
+   "results": [
+    "https://www.torano-te.jp/s/c3010357/t289/?srsltid=AYCX9vJdHnFjMDkWWV4TWC9TzWQQ84viqa_eJIn18Ha_u6K5xWISQVOc",
+    "https://www.net-japan.co.jp/precious_metal/print",
+    "https://www2.tn-japan.co.jp/hr/shin/",
+    "https://www.yazawa-online.com/m_list/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "https://www.net-japan.co.jp/precious_metal_user",
+    "https://www.torano-te.jp/s/b/t289/?srsltid=AYCX9vKczZoPmkeQrpsmxXEJsVkY-pCHGm_nQbEpz-wOkA97GnMvwKt1",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "https://www.tn-japan.co.jp/ja/features.html",
+    "https://job.mynavi.jp/27/pc/search/corp90727/outline.html",
+    "https://mono.ipros.com/company/detail/2115943/category/"
+   ]
+  },
+  {
+   "query": "ティーネットジャパン 受託 造形",
+   "results": [
+    "https://www.tn-japan.co.jp/career/company/business/ES_business.html",
+    "https://www2.tn-japan.co.jp/es_business/",
+    "https://exp.ceatec.com/related/ceatecnews_vol33/",
+    "https://job.mynavi.jp/28/pc/search/corp90727/outline.html",
+    "https://mono.ipros.com/company/detail/2115943/",
+    "https://job.mynavi.jp/27/pc/search/corp67221/outline.html",
+    "https://www.tn-japan.co.jp/ja/service/solution/solution_09.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "https://job.mynavi.jp/28/pc/search/corp67221/outline.html",
+    "https://ja.wikipedia.org/wiki/ティーネットジャパン"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部11頁・検索5回）"
+ }
+}

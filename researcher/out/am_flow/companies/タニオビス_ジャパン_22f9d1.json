@@ -1,0 +1,926 @@
+{
+ "name": "タニオビス・ジャパン",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の共同出展者） /",
+ "researched_at": "2026-11-02T08:01:28.817594+00:00",
+ "official_url": "https://www.taniobis.com/locations/taniobis-japan-co-ltd/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "-",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1056億9000万円 前年比 ▲5.05%",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "63名（2023年10月現在）",
+    "url": "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "As one of the leading suppliers of high-purity tantalum and niobium oxides, we are a reliable partner for customers from all industries. With our production experience and application engineering expertise, we can provide product solutions with customized morphology, purity and recycling services to meet your needs.",
+    "url": "https://taniobis.com/product/oxides-tantalum-oxides-and-niobium-oxides/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the leading innovative partner to industries relying on tantalum and niobium products, we understand the challenges along the value chain and provide superior solutions",
+    "url": "https://taniobis.com/about-us/our-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "We have a strong customer focus based on reliable, collaborative, long-term partnerships",
+    "url": "https://taniobis.com/about-us/our-mission/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product-inquiry-form/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product-inquiry-form/",
+    "pass": 1
+   },
+   {
+    "quote": "タンタルコンデンサ粉末",
+    "url": "https://taniobis.com/ja/product-inquiry-form/",
+    "pass": 1
+   },
+   {
+    "quote": "タンタル冶金グレード粉末",
+    "url": "https://taniobis.com/ja/product-inquiry-form/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "タンタル・ニオブ粉末および化合物のリーディングサプライヤーとして、当社はあらゆる業界のお客様にとって信頼できるパートナーです",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の粉末は、一貫した高い品質とカスタマイズされた応用技術サポートが特徴です",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/alloys/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/alloys/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® - 3Dプリント用高度な球状金属粉末 | TANiOBIS GmbH",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® - 積層造形用に最適化された球状耐火性金属粉末",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のガスアトマイズAMtrinsic®球状粉末およびタンタルとニオブを含む合金のユニークな汎用性と、積層造形技術の卓越した設計自由度の組み合わせは、全く新しい応用の可能性を開きます",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強み：私達は、Ta/Nbに関する独自の専門知識を活かし、新しい本質的な材料特性を提供することによってAMソリューションの境界をさらに広げ、元素またはカスタマイズされた合金粉末を提供・開発しております",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のポートフォリオには、元素粉末、標準合金、またはお客様固有の合金が含まれ、AM市場向けにまだ製造されていない合金組成を提供するために常に拡張されています",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、お客様が必要とする組成の球状合金粉末を開発することで、お客様をサポートします",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "タンタルコンデンサ粉末",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "成形および焼結されたタンタル粉末で製造された陽極は非常に高い体積効率をもたらします",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、現在タンタルコンデンサに求められているすべての静電容量に応えられるよう、さまざまな品質でタンタル粉末を提供しています",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "高い信頼性を実現する耐高電圧コンデンサ粉末",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の耐高電圧コンデンサ粉末は、安全性と低い故障率が重視される分野で重要な役割を果たしています",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の粉末は、エアバッグシステム、GPS、ABSシステム、イグニッション、エンジンコントロールモジュールなどの自動車エレクトロニクス、および航空宇宙用途に適しています",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末 - TANiOBIS GmbH",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の高純度ニオブ粉末とタンタル粉末は、このようなニーズにお応えします",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の高純度のタンタルおよびニオブ粉末は、その純度と品質が評価され、航空分野やエネルギー分野の用途で耐腐食タービン翼の合金添加剤として使用されています",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "タンタル冶金グレード粉末",
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/niobates/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/niobates/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/oxalates/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/oxalates/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のシュウ酸ニオブアンモニウム（NAmOx）は白色の粉末で、大気中で安定し、完全な水溶性の特性を持っています",
+    "url": "https://taniobis.com/ja/product/oxalates/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/oxides-tantalum-oxides-and-niobium-oxides/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/oxides-tantalum-oxides-and-niobium-oxides/",
+    "pass": 1
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://taniobis.com/ja/product/tungstates/",
+    "pass": 1
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://taniobis.com/ja/product/tungstates/",
+    "pass": 1
+   },
+   {
+    "quote": "「タンタルやニオブなどの高融点金属を主原料とする金属粉末、化学薬品および化合物の、設計、購買、製造、",
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「タンタルやニオブなどの高融点金属を主原料とする金属粉末、化学薬品および化合物の、設計、購買、製造、販売および流",
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AMtrinsic® 積層造形用金属粉末",
+    "url": "https://openbizgraph.com/detail/74982",
+    "pass": 3
+   },
+   {
+    "quote": "キャパシター用粉末",
+    "url": "https://openbizgraph.com/detail/74982",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の製造・販売",
+    "url": "https://openbizgraph.com/detail/74982",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム還元法を用いて高容量のタングステン金属粉末を製造する特許",
+    "url": "https://openbizgraph.com/detail/74982",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "当社の粉末は、一貫した高い品質とカスタマイズされた応用技術サポートが特徴です",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンティングとしても知られる積層造形は、製造と多様なアプリケーション設計に革命をもたらしました",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のガスアトマイズAMtrinsic®球状粉末およびタンタルとニオブを含む合金のユニークな汎用性と、積層造形技術の卓越した設計自由度の組み合わせは、全く新しい応用の可能性を開きます",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、カスタマイズされた組成のTa/Nbを含む合金を開発・製造しており、お客様は、特定のニーズとそれぞれの用途に完璧に適合する材料を設計することができます",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "CTやMRIのデータに基づいて、迅速かつ持続的な治癒の為に、完璧にフィットするインプラントの設計を調整することができます",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、バッチサイズに至るまでカスタマイズされたパーツを製造できる能力は、設計者が独自の設計要件を考慮する際に役立ちます",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "「タンタルやニオブなどの高融点金属を主原料とする金属粉末、化学薬品および化合物の、設計、購買、製造、",
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売および流通」",
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「タンタルやニオブなどの高融点金属を主原料とする金属粉末、化学薬品および化合物の、設計、購買、製造、販売および流",
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "教育，学習支援業 (181)",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "このニュースリリースを PDFで見る（PDF：336.2 KB）",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース トップへ",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の製造・販売",
+    "url": "https://openbizgraph.com/detail/74982",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "タンタル・ニオブ粉末および化合物のリーディングサプライヤーとして、当社はあらゆる業界のお客様にとって信頼できるパートナーです",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "応用技術における経験と専門知識により、お客様のご要望に応え、ソリューションをご提供することができます",
+    "url": "https://taniobis.com/ja/product/",
+    "pass": 1
+   },
+   {
+    "quote": "業界最高水準の純度と品質",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い製品ラインアップに加え、お客様のニーズに合わせた製品の改良および提案により、包括的な技術サポートを行っています",
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、カスタマイズされた組成のTa/Nbを含む合金を開発・製造しており、お客様は、特定のニーズとそれぞれの用途に完璧に適合する材料を設計することができます",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のポートフォリオには、元素粉末、標準合金、またはお客様固有の合金が含まれ、AM市場向けにまだ製造されていない合金組成を提供するために常に拡張されています",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、お客様が必要とする組成の球状合金粉末を開発することで、お客様をサポートします",
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器業界の小型化傾向は今後も続き、より小型化されるデバイスにはこれまで以上の性能とより多くの機能を提供することが求められます",
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、水溶性のニオブおよびタンタル化合物を、お客様の個別のご要望に応じてカスタマイズすることも可能です",
+    "url": "https://taniobis.com/ja/product/oxalates/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、エレクトロニクス、医療、光学の分野で要求の厳しい規格に適した高品質のタングステン酸塩および酸化タングステンの製造に特化しており、最高の品質基準とお客様の要求に応えるための開発に取り組んでいます",
+    "url": "https://taniobis.com/ja/product/tungstates/",
+    "pass": 1
+   },
+   {
+    "quote": "本認定は、ニコングループが「ニコングリーン調達基本方針」に基づき、取引先各社の環境管理システムアセスメントを実施した結果、その要件を満たす場合に認定されるものとなります",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の認定取得を励みに、今後もお客様やパートナー企業の皆様との協力のもと、持続可能な社会の実現に貢献してまいります",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "RBAは、主に電子メーカーやそのサプライヤーである電子部品メーカーなどにより構成される業界団体で、当社先端素材分野の顧客の多くが加盟しており、グローバルサプライチェーンにおける社会・環境・倫理面の改善に取り組んでいます",
+    "url": "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "この結果としてプラチナ・ステータスの取得をし、お客様からのRBA行動規範準拠のご要望に対し、より高いコミットメントを示すことができました",
+    "url": "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "5741万1000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "3億5659万4000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "9億3966万3000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "2000万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "8億6100万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "7億2500万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "426億1700万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "366億2300万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "466億6800万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "1056億9000万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "45億9900万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "96億1600万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "653億8800万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "1億4579万2000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "11億5254万3000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "18億6344万6000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "8242万5000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "▲4億7516万1000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "18億399万4000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "3074万7000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "5256万6000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "3億4471万円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "▲3410万1000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "▲12億7735万8000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "119万6000円",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "タニオビス・ジャパン株式会社の会社情報・決算公告 | 官報決算データ... — Jul 6, 2026 · タニオビス・ジャパン株式会社の会社情報を掲載しています。社会保険被保険者数は66人です。親会社はJX金属株式会社で、グループ内の子会社43社も確認できます。所在地は東京都新宿区荒木町13番地4です。",
+    "url": "https://catr.jp/companies/c1496/55033",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパンが「ニコン環境パートナー」に継続認定 | 2026年... — Apr 20, 2026 · JX金属株式会社 (社長：林 陽一、以下「当社」)のグループ会社であるタニオビス・ジャパン株式会社 (社長：髙橋 一成、以下「タニオビス」)は、このたび、株式会社ニコン（社長：大村 泰弘、以下「ニコン」）が定める「ニコングリーン調達基準」に基づく環境パートナー認定を受けました ...",
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパン株式会社の会社概要・製品情報 | Metoree — タニオビス・ジャパン株式会社は、コンデンサーなどの電子部品や光学産業で利用される、鉱石および高機能タンタル・ニオブ粉末を取り扱うメーカーです。 当初はドイツで設立された企業でしたが、2018年にJX金属株式会社のグループ企業になりました。",
+    "url": "https://metoree.com/companies/45138/",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパン株式会社の会社概要・製品情報 | MetoreeTANIOBIS社タイ国内生産拠点での機能性タンタル粉末の生産能力増強に...タニオビス・ジャパン水戸工場がRBA監査でプラチナ・ステータスを取得...JX金属の関連会社タニオビス、タイで半導体向けタンタル粉末を増産 AI...タニオビス・ジャパン株式会社の会社情報・決算公告 | 官報決算データ... — タニオビス・ジャパン株式会社は、コンデンサーなどの電子部品や光学産業で利用される、鉱石および高機能タンタル・ニオブ粉末を取り扱うメーカーです。 当初はドイツで設立された企業でしたが、2018年にJX金属株式会社のグループ企業になりました。 Mar 22, 2022 · JX金属のニュースリリース 「TANIOBIS社タイ国内生産拠点での機能性タンタル粉末の生産能力増強について」を掲載しています。 Oct 25, 2023",
+    "url": "https://metoree.com/companies/45138/",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパン水戸工場がRBA監査でプラチナ・ステータスを取得... — Oct 25, 2023 · JX金属グループのタニオビス・ジャパン（社長：牧野修仁）の水戸工場は、RBA（Responsible Business Alliance）行動規範の遵守状況を評価するVAP（Validated Assessment Program）監査において200点満点を獲得し、RBA認証プログラムにおける最上位のステータスである ...",
+    "url": "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパン株式会社の会社概要・製品情報 | Metoreeタニオビス・ジャパン株式会社の会社情報・決算公告 | 官報決算データ...【2026年版】金属3Dプリンタ受託造形の完全ガイド：費用相場・事業者...タニオビス・ジャパン株式会社 | OpenBizGraphタニオビス・ジャパン株式会社（東京都）の会社概要・役員 | Compalyz... — タニオビス・ジャパン株式会社は、コンデンサーなどの電子部品や光学産業で利用される、鉱石および高機能タンタル・ニオブ粉末を取り扱うメーカーです。 当初はドイツで設立された企業でしたが、2018年にJX金属株式会社のグループ企業になりました。 Jul 6, 2026 · タニオビス・ジャパン株式会社の会社情報を掲載しています。社会保険被保険者数は66人です。親会社はJX金属株式会社で、グループ内の子会社43社も確認できます。所在地は東京",
+    "url": "https://metoree.com/companies/45138/",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパン株式会社 | OpenBizGraph — タニオビス・ジャパン株式会社 商号又は名称（カナ） タニオビスジャパン 商号又は名称（英字） 登記記録の閉鎖等年月日 登記記録の閉鎖等の事由 登記住所 東京都新宿区荒木町13番地4 郵便番号 1600007 都道府県 東京都 都道府県コード 13 市区町村（郡 ...",
+    "url": "https://openbizgraph.com/detail/74982",
+    "pass": 3
+   },
+   {
+    "quote": "タニオビス・ジャパン株式会社（東京都）の会社概要・役員 | Compalyz... — 〒160-0007 東京都新宿区に本社を置くタニオビス・ジャパン株式会社の企業情報。タニオビス・ジャパン株式会社は、JX Advanced Metals Corporationのグループ企業であるTANI。製造業 (鉄鋼・金属)、社会保険被保険者数66名。代表者 和田裕典。役員1名・登記7件。",
+    "url": "https://compalyze.co.jp/company/7010401071310",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://taniobis.com/locations/taniobis-japan-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product-inquiry-form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/alloys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/ampertec-chlorides/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/amtrinsic-powders-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/capacitor-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/niobates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/oxalates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/oxides-tantalum-oxides-and-niobium-oxides/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/tungstates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product/products-under-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/product-quick-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/about-us/certificates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/about-us/our-mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/about-us/company-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product-inquiry-form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/alloys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/ampertec-chlorides/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/amtrinsic-powders-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/capacitor-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/niobates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/oxalates/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/oxides-tantalum-oxides-and-niobium-oxides/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taniobis.com/ja/product/tungstates/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://taniobis.com/wp-content/uploads/2025-Public-Due-Diligence-Report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/report2025_e_full_interactive_r2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/Bewilligung_AEOF-122828_GMBH_ohne-EORI.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/1469_TANIOBIS-GmbH_Klimaschutzzertifikat_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/Zertifikat-Erneuerbare-Energien-Goslar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_DE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/SGS_ISO-14001_2015_DE20819944539_JA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taniobis.com/wp-content/uploads/History-1-1200x720.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://boueki.standage.co.jp/overseas-agent-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/c1496/55033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/45138/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20260611-4567511/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/45138/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://catr.jp/companies/c1496/55033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openbizgraph.com/detail/74982",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タニオビス・ジャパン 代理店 契約",
+   "results": [
+    "https://boueki.standage.co.jp/overseas-agent-search/",
+    "https://catr.jp/companies/c1496/55033",
+    "https://www.jx-nmm.com/newsrelease/2026/20260417_01.html",
+    "https://metoree.com/companies/45138/",
+    "https://taniobis.com/ja/",
+    "https://taniobis.com/ja/locations/taniobis-japan-co-ltd/",
+    "https://www.jx-nmm.com/newsrelease/"
+   ]
+  },
+  {
+   "query": "タニオビス・ジャパン 導入事例",
+   "results": [
+    "https://metoree.com/companies/45138/",
+    "https://www.jx-nmm.com/information/2023/20231025_02.html",
+    "https://news.mynavi.jp/techplus/article/20260611-4567511/",
+    "https://catr.jp/companies/c1496/55033",
+    "https://taniobis.com/ja/",
+    "https://taniobis.com/ja/locations/taniobis-japan-co-ltd/",
+    "https://www.jx-nmm.com/newsrelease/2021/20220322_01.html"
+   ]
+  },
+  {
+   "query": "タニオビス・ジャパン 価格 OR 料金",
+   "results": []
+  },
+  {
+   "query": "タニオビス・ジャパン 受託 造形",
+   "results": [
+    "https://metoree.com/companies/45138/",
+    "https://catr.jp/companies/c1496/55033",
+    "https://openbizgraph.com/detail/74982",
+    "https://compalyze.co.jp/company/7010401071310",
+    "https://taniobis.com/ja/",
+    "https://taniobis.com/ja/locations/taniobis-japan-co-ltd/",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部9頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部9頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部9頁・検索4回）"
+ }
+}

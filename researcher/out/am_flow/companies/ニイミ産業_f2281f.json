@@ -1,0 +1,1711 @@
+{
+ "name": "ニイミ産業",
+ "aliases": [],
+ "context": "既存地図：プラズマ溶融による銅複合粉・超硬球状粉・高融点金属粉など特殊AM粉末 /",
+ "researched_at": "2026-11-02T08:00:27.066379+00:00",
+ "official_url": "https://www.niimi-s.co.jp/",
+ "identified_by": "search:yahoo_jp:ニイミ産業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1949年09月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000081569.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "昭和24年9月(創業明治21年)",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000081569.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "LPガス・石油・ガス機器、ガス窯(陶磁器、瓦などの製造)金属溶解炉の製造、廃油リサイ クル、検査事業、LPガス容器、ファインセラミックスなどの製造",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000081569.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "そこから石油、LPガスへと変遷を経て、現在では家庭用LPガス販売、工場用LPガス販売とガスタンクの自社開発やメンテナンス、ガソリンスタンドの経営、廃油・汚泥のリサイクル事業、ファインセラミックスの製造など多様な事業を展開しています",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ただお客様からオーダーを受けてガスを販売するだけではなく、タンクの残量や周辺設備の異常を検知できる独自システムを構築し、自社製タンクローリー車による安定した計画配送を可能にしています",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の強みの1つにバルク貯槽(大型のガス容器)を自社製造できる技術部があり、それが可能なLPガス会社は他に例がありません",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "タンクローリー車の自社開発",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではタンクローリー車のタンク部分を自社開発・製造しています",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "その中で「私たちが提供できる価値は何か？」ということを会社全体で自問自答した結果、窯業炉の自社開発に始まり、バルク貯槽やタンクローリーの自社製造を実現しました",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製焼成炉を使用した一貫生産をすることで、多くのお客様に良質なセラミックスをお届けしています",
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "初期型自社製ローリー",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "民生用バルクタンク、同バルクローリを自社製作し、また平成13年5月より工業用へのニューバルク方式を開発",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製アルミ連続溶解炉",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "これは毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる制度です",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、弊社が提携しておりますポイントサービス運営会社「株式会社クラブネッツ」におきまして、第三者による不正アクセスを受けたことが判明いたしました",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、提携先と連携して被害状況の把握と原因の究明を急いでおります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、弊社が提携しておりますポイントサービス運営会社「株式会社クラブネッツ」におきまして、第三者による不正アクセスを受けたことが判明いたしました",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E9%87%8D%E8%A6%81%EF%BD%83%EF%BD%8E%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、提携先と連携して被害状況の把握と原因の究明を急いでおります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E9%87%8D%E8%A6%81%EF%BD%83%EF%BD%8E%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、弊社が提携しておりますポイントサービス運営会社「株式会社クラブネッツ」におきまして、第三者による不正アクセスを受けたことが判明いたしました",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、提携先と連携して被害状況の把握と原因の究明を急いでおります",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社寿商会と Osaka Metro、業務提携契約を締結",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "そこから石油、LPガスへと変遷を経て、現在では家庭用LPガス販売、工場用LPガス販売とガスタンクの自社開発やメンテナンス、ガソリンスタンドの経営、廃油・汚泥のリサイクル事業、ファインセラミックスの製造など多様な事業を展開しています",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業は1888年（明治21年）石炭の販売から事業がスタートしました",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そこから石油、LPガスへと変遷を経て、現在では家庭用LPガス販売、工場用LPガス販売とガスタンクの自社開発やメンテナンス、ガソリンスタンドの経営、廃油・汚泥のリサイクル事業、ファインセラミックスの製造など多様な事業を展開しています",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ホームサービス部門では、LPガスの販売以外にもリフォーム事業も行っています",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "主に医療機器向けに世界有数の精度を誇るセラミックス部品の製造販売をしています",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリースを以下に添付します",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車や給油だけでなく、車のメンテナンスや灯油販売などキャンペーンを通して、地域の皆様に安心安全なエネルギーライフをご提供しています",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "洗車や灯油販売、車のメンテナンス等、実施内容は各店舗によって違います",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "カーコーティングのキーパープロショップを運営しタイヤ販売、車検、そして笑顔でお客様をおもてなしすることもサービスの一つです",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業では一般的に石油と呼ばれる商品の販売をおこなっており、その中にはガソリンスタンドも含まれています",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ホームサービス部門がお届けできる主なサービスには大きく分けると「LPガス販売」と「リフォーム」があります",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "感謝祭に来られるほとんどのお客様は都市ガスを使用していますが、私たちはガスを売ることよりもお客様に貢献できることを優先していることから、都市ガスのガス器具の販売もしています",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "地域に根付いてガスを販売している安心感が、多くのお客様にご贔屓にしていただいている理由なのだと感じています",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "燃焼機器に関するコンサルタントパートナーへ",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では「お客様のお役立ちを創造する」を合言葉のサービスに取り組んだ結果、燃焼機器のメンテナンス、新電力の販売など、新規のサービスを立ち上げました",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "ただお客様からオーダーを受けてガスを販売するだけではなく、タンクの残量や周辺設備の異常を検知できる独自システムを構築し、自社製タンクローリー車による安定した計画配送を可能にしています",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "これからもお客様の課題に真摯に向き合い、ただのガス販売会社ではなく、工場の設備全般を含めたコンサルティング企業を目指し、邁進して参ります",
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス部門では産業用や民生用、医療機器に使用するポンプのセラミックス部品を主に製造販売しています",
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "更に大きな特色としてナノテクノロジーに貢献するジルコニア微小ビーズも製造販売",
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは産業用の部品やポンプ部品などのファインセラミックス製品の製造および販売を行なっています",
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/service/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ石油ガス販売協同組合",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "5代新美治郎八（現社長の曽々祖父）が愛知県半田市亀崎町において酒造業を営み、併せて酒造用樽材の販売を行う傍ら、石炭の販売に着手",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "初代代表社員に就任し、三井物産株式会社石炭部の専属販売店となるに及び半田市に本店を、名古屋、浜松、豊橋、岐阜各市に支店を設置し、東海三県にわたる販売網を確立",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "新美吉昭（創業者治郎八の孫）が取締役社長となり、本店を名古屋市として、三井鉱山株式会社等の中部特約販売店となり石炭類の販売を開始",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ゼネラル瓦斯株式会社（現ENEOS）の特約店となり、LPガスの販売を開始",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和石油株式会社（現出光昭和シェル石油）の特約店となり、石油類の販売を開始",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "直営による自動車燃料の販売に着手",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "キャノン販売株式会社（現キヤノンマーケティングジャパン）の特約店となり、事務機器の販売を開始",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "GHP（ガスヒートポンプエアコン）の販売を開始",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "燃料の販売を基盤としつつ",
+    "url": "https://www.niimi-s.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業株式会社 | 家庭用・工業用LPガス販売、各種エネルギー事業",
+    "url": "https://www.niimi-s.co.jp/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガス販売、ガス器具販売・修理、リフォームならニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "販売事業者証",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "「LPガス販売」",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガスの販売の他にも、",
+    "url": "https://www.niimi-s.co.jp/home_energy/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス会社を選ぶ上で販売価格は無視できません",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業のLPガス販売価格は、愛知・岐阜・三重の営業エリアでいちばんリーズナブル",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業は、LPガス販売だけでなく、お家のリフォームも行います",
+    "url": "https://www.niimi-s.co.jp/home_energy/reform/",
+    "pass": 1
+   },
+   {
+    "quote": "時にはお客様の暮らしに最善の形で貢献するために、都市ガスのガス器具も販売します",
+    "url": "https://www.niimi-s.co.jp/home_energy/reform/",
+    "pass": 1
+   },
+   {
+    "quote": "営業担当者だけでなくガスの配送員や検針員、ガスの点検員がご自宅を直接ご訪問できるのも、ＬＰガスを販売している私たちの強みです",
+    "url": "https://www.niimi-s.co.jp/home_energy/reform/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル期間：",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨｜ニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル期間：",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "液化石油ガス販売事業者証｜ニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/p4096/",
+    "pass": 1
+   },
+   {
+    "quote": "液化石油ガス販売事業者証",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/p4096/",
+    "pass": 1
+   },
+   {
+    "quote": "液化石油ガス法第７条に規定されている「標識の掲示」に基づき、「液化石油ガス販売事業者証」を掲示しています",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/p4096/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガス販売、ガス器具販売・修理、リフォームならニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/event/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガス販売、ガス器具販売・修理、リフォームならニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に支えられて、創業から130年",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に支えられて、",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様の役に立って、喜んでもらえるサービスを提供しよう」",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの技術開発はもちろん、「お客様の役に立って喜んでもらう」という精神の元、様々なサービスを立ち上げ、地域の皆様の生活に欠かせない企業として邁進して参ります",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ新たな技術開発や地域のお客様に寄り添ったサービスなどの付加価値をつけていくことが重要です",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業は様々なお客様の要望に応えられる柔軟なサービス提供企業として進化して参るつもりです",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ただガスをお届けするだけではなく、お客様に「うれしい！」をお届け",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に喜んでご利用いただくため、店舗ごとにお得な各種イベント・キャンペーンを開催しています",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い事業展開で多くのお客様のニーズにお応えします",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の主な事業は各工場のお客様に向けたLPガスの安心、安定供給です",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスと工業炉に精通するプロフェッショナル集団として、お客様の燃焼プロセスに踏み込み、お悩みを解決します",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "地域のお客様に対しまして より一層お役に立てるよう",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガス業界では、法改正の影響による輸送能力不足などの課題が顕在化する中、安定供給の継続、SDGsへの貢献、大規模災害時の供給体制強化が求められています",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "工業炉の製造およびメンテナンスに関わる事業領域に共同で取り組むことにより、お客様の幅広いニーズをより一層充足することができるものと考えています",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、両社の技術力を活用してシナジーを最大化し、当社グループとして更なる顧客サービスの向上に努めて参ります",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス業のプロフェッショナルであるニイミ産業は、お客様の日々のカーライフに寄り添ったサービスをご提供します",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "セルフサービスの店舗の中には地域密着のサービス提供の一つとして、コンビニと併設することでさらにお客様の利便性を追求している店舗もあります",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業の運営するガソリンスタンドでは、お客様に喜んでいただくために常にさまざまなキャンペーンをおこなっています",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "キャンペーンを通して密にコミュニケーションをとることで、ご贔屓にしてくださるお客様も少なくありません",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "カーコーティングのキーパープロショップを運営しタイヤ販売、車検、そして笑顔でお客様をおもてなしすることもサービスの一つです",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題を",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の生活に必要不可欠なSSを目指して、",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ業者として商品をお客様に提供するということは最低限の責務です",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズは日々変化しており、私たちもそれに合わせて進化する必要があると考えています",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業は給油だけではなくお客様に寄り添ったサービスを提供することで、皆様の暮らしに欠かせない存在であり続けたいと考えています",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容_法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の生活を支えるパートナー",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "異なる二つの事業ですが、どちらも「お客様のお役に立つサービスを提供したい」という一心で始めた事業です",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはただガスをお届けするだけではなく、お客様に「うれしい！」をお届けします",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に貢献するために始めたお家のリフォーム事業",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "特許技術「高周波誘導熱プラズマ法」で３Dプリンター用金属粉末の造粒を行うなど、様々な新規技術の研究開発に取り組んでいます",
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガスの価格を正直に開示",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入",
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "この一貫生産により低価格短納期かつ良質な製品をお客様にお届けすることができます",
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "今月のガス料金を",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業のLPガスは透明性のある正直な価格です",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お住まいの形態と暖房の有無を入力して「試算する」を押すだけで、簡単に今月のガス料金が分かります",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "今月のガス料金は",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "これは毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる制度です",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "注1.ガス料金は、基本料金と従量料金を合計した金額です",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "注2.上記ガス料金に対し毎月原料調整制度が適用されます",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご家庭の場合当社を経由して「ENEOSでんき」を採用すれば毎月100円をガス料金から値引きいたします",
+    "url": "https://www.niimi-s.co.jp/home_energy/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "正直な価格と",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "透明性のある正直な価格と、お客様のいちばん近くで正直に向き合うサービスをお届け",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガスの価格を正直に開示",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご負担をなるべく下げられるように、毎月のガス小売価格をLPガスの輸入価格が下がれば下げ、上がれば上がる｢原料費調整制度｣を導入",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス会社を選ぶ上で販売価格は無視できません",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ニイミ産業のLPガス販売価格は、愛知・岐阜・三重の営業エリアでいちばんリーズナブル",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "原料費調整制度や企業努力によりお客様へ低価格に、LPガスをお届けします",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガスと一緒にニイミ産業を経由して「ENEOSでんき」を採用すれば、ご家庭の場合、毎月100円をガス料金から値引きします",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "皆様の生活に欠かせないガスと電気を一緒に、お値打ち価格でご提供できるのも私たちの強みです",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん修理や見積だけのご用命も喜んでお伺いします",
+    "url": "https://www.niimi-s.co.jp/home_energy/reform/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/reform/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/works/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/about-gaskunk/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "気になる驚きの特別価格は…",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E9%87%8D%E8%A6%81%EF%BD%83%EF%BD%8E%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨｜ニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E5%B1%B1%E7%9C%8Css%E3%80%8C%E3%83%8B%E3%82%A4%E3%83%9F%E7%94%A3%E6%A5%AD-%E6%84%9F%E8%AC%9D%E7%A5%AD%E3%80%8D%EF%BC%86%E7%A7%8B%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/p4096/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/event/",
+    "pass": 1
+   },
+   {
+    "quote": "月々3,500円（税別）のサブスクで利用でき、フィルター交換やメンテナンスは弊社担当者が１年に１回無料で行います",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   },
+   {
+    "quote": "お支払いはガス料金と一緒なので余計な手間がかかりません",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   },
+   {
+    "quote": "この記事では、電解水素水の基本的な情報から、「MINE」の性能、さらにはサブスクリプションでの導入事例まで、さまざまな角度からOSG「MINE」について紹介します",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "OSG「MINE」をお手軽に OSGのサブスク ３つの特徴",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "OSG「MINE」は、家庭用電解水素水生成器として非常に優れた性能を持っていますが、初期費用やメンテナンスの手間が気になる方もいるかもしれません",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな方のために、OSGではサブスクリプションプランを提供しています",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "このサブスクを利用すれば、初期費用を抑えながら手軽に電解水素水生成器を導入することができます",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションプランには以下のような利点があります",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "：サブスクリプションプランにはフィルター交換や定期点検が含まれており、最良の状態で電解水素水生成器を使用し続けることができます",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用の軽減",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "：通常、電解水素水生成器を購入する際には20万円程度の初期費用がかかりますが、サブスクでは月額約3,500円（税別）というリーズナブルな料金でスタートできるため、負担を軽減しながら利用することができます",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "また、サブスクリプションプランを活用すれば、初期費用を抑えつつ、定期的なメンテナンスを受けられるため、長期間にわたり安心して使用することが可能です",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス料金引落し日表記ミスのお詫び",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "この度請求書に記載されたガス料金引落し日が本来の日付と違っている事が発覚しました",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼も承ります",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "適切な消火剤 ：小火災の場合、二酸化炭素、ＡＢＣ又はＢＣ型粉末消火剤",
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2026/05/2f9ec1389411da559e13d7d89e0e2909.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FileMaker Server のライセンス、アドオン、チームアクセスを管理",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "開発見積依頼",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス見積作成",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "有効なライセンスをお持ちですか？",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "今回の合意に基づき、ニイミ産業株式会社および株式会社エネサンス中部は各社が運営する充填所（ニイミ産業：春日井営業所、エネサンス中部：稲沢営業所）の相互利用を開始し、またジクシス株式会社は両社の協力体制を先導し、円滑な連携を支援します",
+    "url": "https://www.niimi-s.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "169億円(2025年12月実績、グループ計)",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス窯製造部門を分離し、資本金2000万円にて株式会社ニイミキルンを設立",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金500万円にてニイミ石油株式会社（現在はニイミ産業株式会社に統合）を設立",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金5000万円にて電子部品用ファインセラミックの製造会社、株式会社ニイミセラミックスを設立",
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税込)です",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "円(税抜)です",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "627円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "57円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "594円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "54円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "572円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "52円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "539円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "49円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "407円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "37円/m³",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご家庭の場合当社を経由して「ENEOSでんき」を採用すれば毎月100円をガス料金から値引きいたします",
+    "url": "https://www.niimi-s.co.jp/home_energy/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "LPガスと一緒にニイミ産業を経由して「ENEOSでんき」を採用すれば、ご家庭の場合、毎月100円をガス料金から値引きします",
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "11月〜3月の5ヶ月間、月々たったの1,000円(税抜)",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000円（税抜）",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "シーズン5,000円(税抜)/年× 3年間のご利用で、なんとヒーター本体がそのままお客様のものに！",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "全サイズ 15,000円 OFF！",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "全サイズ 10,000円 OFF！",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨｜ニイミ産業ホームエネルギー部門",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーター「月額1000円」レンタル✨",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "11月〜3月の5ヶ月間、月々たったの1,000円(税抜)",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000円（税抜）",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "シーズン5,000円(税抜)/年× 3年間のご利用で、なんとヒーター本体がそのままお客様のものに！",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "pass": 1
+   },
+   {
+    "quote": "全サイズ 15,000円 OFF！",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E5%B1%B1%E7%9C%8Css%E3%80%8C%E3%83%8B%E3%82%A4%E3%83%9F%E7%94%A3%E6%A5%AD-%E6%84%9F%E8%AC%9D%E7%A5%AD%E3%80%8D%EF%BC%86%E7%A7%8B%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "pass": 1
+   },
+   {
+    "quote": "全サイズ 10,000円 OFF！",
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E5%B1%B1%E7%9C%8Css%E3%80%8C%E3%83%8B%E3%82%A4%E3%83%9F%E7%94%A3%E6%A5%AD-%E6%84%9F%E8%AC%9D%E7%A5%AD%E3%80%8D%EF%BC%86%E7%A7%8B%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "pass": 1
+   },
+   {
+    "quote": "月々3,500円（税別）のサブスクで利用でき、フィルター交換やメンテナンスは弊社担当者が１年に１回無料で行います",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   },
+   {
+    "quote": "5,000円(税別)の工事費が今なら無料",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスファンヒーターを月々500円(税別)でレンタル！",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "pass": 1
+   },
+   {
+    "quote": "：通常、電解水素水生成器を購入する際には20万円程度の初期費用がかかりますが、サブスクでは月額約3,500円（税別）というリーズナブルな料金でスタートできるため、負担を軽減しながら利用することができます",
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "pass": 1
+   },
+   {
+    "quote": "エルサルバドル",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "グアドループ",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "ダイショーが見積もり数千万円の倉庫管理システムを 10 分の 1 以下のコスト・約 4 か月で内製開発",
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "pass": 3
+   },
+   {
+    "quote": "1,700円",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   },
+   {
+    "quote": "1,760円",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   },
+   {
+    "quote": "12619円",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   },
+   {
+    "quote": "15349円",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   },
+   {
+    "quote": "113億円(2020年12月実績)",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   },
+   {
+    "quote": "材料パウダーは球に見えるが、顕微鏡で観察するととげが出ていたり、楕円だったり、形や大きさにばらつきがある",
+    "url": "https://news.sharelab.jp/interviews/niimi-plazma-230315/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/interviews/niimi-plazma-230315/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/interviews/niimi-plazma-230315/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/interviews/niimi-plazma-230315/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ニイミ産業 株式会社 | 家庭用・工業用LPガス販売、各種 ... — ニイミ産業 株式会社 | 家庭用・工業用LPガス販売、各種 ... ニイミ産業株式会社 https://www.niimi-s.co.jp",
+    "url": "https://www.niimi-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「 ニイミ産業 」の 代理店 1社 注目ランキング【2026年】 — 「 ニイミ産業 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > ニイミ産業株式会社",
+    "url": "https://metoree.com/companies/16717/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | ニイミ産業 - Powered by イプロスものづくり — 企業情報 | ニイミ産業 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > niimi-s > information",
+    "url": "https://pr.mono.ipros.com/niimi-s/information/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートファクトリー推進室 | ニイミ産業 工業用LPガス部門 — スマートファクトリー推進室 | ニイミ産業 工業用LPガス部門 ニイミ産業株式会社 https://www.niimi-s.co.jp > ホーム > サービス・製品",
+    "url": "https://www.niimi-s.co.jp/ie/service/smartfactory/",
+    "pass": 3
+   },
+   {
+    "quote": "ニイミ産業 (株)の取材情報 | マイナビ2027 — ニイミ産業 (株)の取材情報 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp248116 > premium",
+    "url": "https://job.mynavi.jp/27/pc/search/corp248116/premium.html",
+    "pass": 3
+   },
+   {
+    "quote": "LPガス販売、ガス器具販売・修理、リフォームなら ニイミ ... — LPガス販売、ガス器具販売・修理、リフォームなら ニイミ ... ニイミ産業株式会社 https://www.niimi-s.co.jp > home_energy",
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "pass": 3
+   },
+   {
+    "quote": "ニイミ産業 株式会社／本社の会社情報 ｜【enepi -エネピ-】 — ニイミ産業 株式会社／本社の会社情報 ｜【enepi -エネピ-】 enepi.jp https://enepi.jp > ガス料金の見直し・比較",
+    "url": "https://enepi.jp/companies/1224",
+    "pass": 3
+   },
+   {
+    "quote": "ニイミ産業 、名古屋の工業炉メーカーを買収 - 日本経済新聞 — ニイミ産業 、名古屋の工業炉メーカーを買収 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOFD057570V00C24A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ニイミ産業 株式会社 - Powered by イプロスものづくり — ニイミ産業 株式会社 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > niimi-s",
+    "url": "https://pr.mono.ipros.com/niimi-s/",
+    "pass": 3
+   },
+   {
+    "quote": "N-Plasam Melting（プラズマ溶融）球状化 受託 | ニイミ産業 — N-Plasam Melting（プラズマ溶融）球状化 受託 | ニイミ産業 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > niimi-s > product > detail",
+    "url": "https://pr.mono.ipros.com/niimi-s/product/detail/2000715564/",
+    "pass": 3
+   },
+   {
+    "quote": "先輩社員インタビュー - ニイミ産業 — 先輩社員インタビュー - ニイミ産業 ニイミ産業株式会社 https://www.niimi-s.co.jp > recruit > interview",
+    "url": "https://www.niimi-s.co.jp/recruit/interview/2/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.niimi-s.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service_individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service_corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service/ss/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service/lp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service/ceramics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/service/recycle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/reform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/about-gaskunk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E9%87%8D%E8%A6%81%EF%BD%83%EF%BD%8E%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E6%AF%8E%E5%B9%B4%E5%A4%A7%E5%A5%BD%E8%A9%95%EF%BC%81%E3%82%AC%E3%82%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%8C%E6%9C%88%E9%A1%8D1000%E5%86%86%E3%80%8D%E3%83%AC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/news/%E5%B1%B1%E7%9C%8Css%E3%80%8C%E3%83%8B%E3%82%A4%E3%83%9F%E7%94%A3%E6%A5%AD-%E6%84%9F%E8%AC%9D%E7%A5%AD%E3%80%8D%EF%BC%86%E7%A7%8B%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/news/p4096/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/campaign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/newscat/infomation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2021/10/dc262cfd6a52065d0c16fa96f4d26107.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2020/11/2733_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2020/11/2734_001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2024/09/HU-77_catalog-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2023/10/35e94bd2cef90f4f02cd556cb07fb0c2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2022/09/93dcba1629b7fc15766070ebe9d0d817.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2022/07/06684042d9fc61f1ede950b7a48ca651.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/wp/wp-content/uploads/2026/05/2f9ec1389411da559e13d7d89e0e2909.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/assets/img/company/pic_block01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/assets/img/outline/pic_bgmain_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/assets/img/outline/pic_related01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/assets/img/common/btn_header3_sp.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/assets/img/top/bnr_top1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/assets/img/top/bnr_top1_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/assets/img/common/btn_link1_sp.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/assets/img/service/img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niimi-s.co.jp/home_energy/assets/img/service/btn.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/16717/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000081569.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enepi.jp/companies/1224",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/niimi-s/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/niimi-plazma-230315/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/niimi-s/product/detail/2000715564/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニイミ産業",
+   "results": [
+    "https://www.niimi-s.co.jp/",
+    "https://page.line.me/820mlrwj",
+    "https://job.mynavi.jp/27/pc/search/corp248116/outline.html",
+    "https://www.r-agent.com/company/64400/",
+    "https://enepi.jp/companies/1224",
+    "https://shachomeikan.jp/corporations/24560",
+    "https://www.niimi-s.co.jp/company/",
+    "https://niimi-s.com/",
+    "https://www.atengineer.com/pr/niimi-s/company",
+    "https://www.atengineer.com/pr/niimi-s/"
+   ]
+  },
+  {
+   "query": "ニイミ産業 代理店 契約",
+   "results": [
+    "https://www.niimi-s.co.jp/",
+    "https://metoree.com/companies/16717/distributors/",
+    "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "https://niimi-s.cnpt.jp/faq_detail.html",
+    "https://pr.mono.ipros.com/niimi-s/information/",
+    "https://ac.ebis.ne.jp/tr_set.php?argument=HL02euFd&ai=a6a262a1fded4f",
+    "https://tenshoku.mynavi.jp/jobinfo-406397-5-12-1/",
+    "https://enepi.jp/companies/1224",
+    "https://www.aichilpg.or.jp/member/696/",
+    "https://www.e-lifetech.com/dealer/3180/"
+   ]
+  },
+  {
+   "query": "ニイミ産業 導入事例",
+   "results": [
+    "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "https://www.niimi-s.co.jp/ie/service/smartfactory/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000081569.html",
+    "https://job.mynavi.jp/27/pc/search/corp248116/premium.html",
+    "https://ck-production.com/case/niimi_sangyo/",
+    "https://www.gyxis.jp/information/260430/",
+    "https://www.logi-today.com/985515",
+    "https://www.niimi-s.co.jp/ie/news_category/blog/",
+    "https://www.instagram.com/niimigaskunk/",
+    "https://prtimes.jp/main/html/rd/p/000000006.000081569.html"
+   ]
+  },
+  {
+   "query": "ニイミ産業 価格 OR 料金",
+   "results": [
+    "https://www.niimi-s.co.jp/home_energy/",
+    "https://enepi.jp/companies/1224",
+    "https://www.niimi-s.co.jp/",
+    "https://ac.ebis.ne.jp/tr_set.php?argument=HL02euFd&ai=a6a262a1fded4f",
+    "https://www.nikkei.com/article/DGXZQOFD057570V00C24A6000000/",
+    "https://gas-list.propane-gas.or.jp/company/5438/",
+    "https://metoree.com/companies/16717/",
+    "https://jp.indeed.com/cmp/%E3%83%8B%E3%82%A4%E3%83%9F%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/salaries/LP%E3%82%AC%E3%82%B9%E5%96%B6%E6%A5%AD",
+    "https://biz.chunichi.co.jp/news/article/10/130051/",
+    "https://www.niimi-s.co.jp/home_energy/service/"
+   ]
+  },
+  {
+   "query": "ニイミ産業 受託 造形",
+   "results": [
+    "https://pr.mono.ipros.com/niimi-s/",
+    "https://news.sharelab.jp/interviews/niimi-plazma-230315/",
+    "https://pr.mono.ipros.com/niimi-s/product/detail/2000715564/",
+    "https://www.niimi-s.co.jp/recruit/interview/2/",
+    "https://www.claris.com/ja/blog/2025/niimi-sangyo",
+    "https://tenshoku.mynavi.jp/jobinfo-406397-5-6-1/",
+    "https://ac.ebis.ne.jp/tr_set.php?argument=HL02euFd&ai=a6a262a1fded4f",
+    "https://kadotoku.co.jp/nanotechnology-jp/",
+    "https://www.niimi-s.co.jp/",
+    "https://mono.ipros.com/company/detail/379289/category/47517/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式28頁／PDF・画像18件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式28頁／PDF・画像18件／外部8頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式28頁／PDF・画像18件／外部8頁・検索5回）"
+ }
+}

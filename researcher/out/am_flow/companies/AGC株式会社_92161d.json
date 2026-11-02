@@ -1,0 +1,1416 @@
+{
+ "name": "AGC株式会社",
+ "aliases": [],
+ "context": "/ Arevo（米）；Arevo（米）連続繊維複合材3Dプリント部品の日本での製造サービス（Strategic Manufacturing Partner）",
+ "researched_at": "2026-11-02T07:49:12.668828+00:00",
+ "official_url": "https://www.agc.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1907（明治40）年9月8日",
+    "url": "https://www.agc.com/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1950（昭和25）年6月1日",
+    "url": "https://www.agc.com/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1907年9月8日",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "8,122名（2025年12月31日現在）",
+    "url": "https://www.agc.com/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員エンゲージメント",
+    "value": "従業員一人ひとりの成長・能力発揮を通じて、会社の成長を目指す 10％",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結従業員数56,179人（2020年12月31日）",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "板ガラスの工業生産から始まり、時代の変化に合わせて、世の中で必要とされる素材・ソリューションを提供してきた。現在では30を超える国と地域において、ガラス、電子、化学、セラミックスなど幅広い分野で事業を展開する。独自の素材・ソリューションで、世界中の人々の暮らしに貢献する。",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様とゆるぎない信頼関係を",
+    "url": "https://www.agc.com/company/statement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、私たちはインドネシアにおいてユニークな化学品メーカーとして、最高の品質で製品を提供し、お客様に満足していただくとともに、安全で勤労意欲に富む労働環境と環境に優しい製造プロセスによって信頼を獲得するという責務があります",
+    "url": "https://www.agc.com/company/statement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "この成功を糧として、私たちはお客様のさまざまな課題に積極的に対応しており、製造現場での二酸化炭素排出やVOC削減のためにガラス製品を適用できるような新素材やプロセスを積極的に追求しています",
+    "url": "https://www.agc.com/company/statement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、お客様の喜びがどこにあるのかを熟考すること、起きている現象を深く考え抜くこと、そして周囲のスタッフを巻き込んで一丸となって取り組める環境を率先してつくることを、日々大切にしています",
+    "url": "https://www.agc.com/company/statement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、諦めずに困難な課題と向き合うことがお客様のニーズや夢を叶えるだけでなく、私たちAGCの新しい未来の実現に繋がると信じ、熱い気持ちをもって“One Team”でチャレンジしています",
+    "url": "https://www.agc.com/company/statement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "それ以来、日本の基幹産業として成長してきた自動車産業の発展を支えるために、高品質な製品の安定供給を図るべく、業界初のガス炉を導入するなど、生産技術革新に取り組むとともに、生産体制の増強を図った",
+    "url": "https://www.agc.com/company/value/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちAGCグループは、幅広い素材・生産技術に基づく独自の素材・ソリューションを提供し、お客様と長期的な信頼関係を築き、お客様から最初に声がかかる存在であり続けます",
+    "url": "https://www.agc.com/company/strategy/vision/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、お客様や社会にとって“無くてはならない製品”を提供し続け、いつもどこかで、世界中の人々の暮らしを支えます",
+    "url": "https://www.agc.com/company/strategy/vision/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "提供するあらゆる製品・サービスについて、お客様の満足と信頼を得るための責任を全うします",
+    "url": "https://www.agc.com/company/strategy/vision/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造工程におけるGHG排出量削減に関しては、業界リーダーとして世界トップレベルの省エネガラス製造技術の開発・導入を進めています",
+    "url": "https://www.agc.com/company/strategy/long_term_plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、将来を予見した顧客企業と価値創出の取り組みを行い、大学・研究機関やベンチャー企業などの外部パートナーと、技術の探索、補完などを行う、協創活動が重要となっています",
+    "url": "https://www.agc.com/company/strategy/long_term_plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様・お取引先様に「新たな価値・機能」と「信頼」を",
+    "url": "https://www.agc.com/company/strategy/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "DXを「コーポレート・トランスフォーメーション第二章の梃子」と位置付け、AGCグループの強みであるモノづくり力とデジタル技術を掛け合わせることで、社会やお客様に新たな価値を提供し、企業価値の最大化を目指していきます",
+    "url": "https://www.agc.com/company/dx/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日欧米の世界3極に事業拠点を有し、各市場のお客様の多様なニーズに応える高品質のサービスを通じて、世界の人々の健康と安心・快適な暮らしに貢献していきます",
+    "url": "https://www.agc.com/company/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "世の中に安心・安全・快適を、お客様・お取引先様に新たな価値・機能と信頼を、従業員に働く喜びを、投資家の皆様に企業価値を、将来世代により良い未来を",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGCグループは、多様なステークホルダー（株主・投資家・お客様・お取引先様・従業員・将来世代・地域社会等）との協働を図り、信頼関係の構築に努めます",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGCグループは、多様なステークホルダーの皆様（株主・投資家・お客様・お取引先様・従業員・将来世代・地域社会等）との協働を図り、信頼関係の構築に努めています",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（１）ｶﾞﾗｽ・建築業界向けﾊﾟｯｹｰｼﾞｼｽﾃﾑ（ﾄｰﾀﾙ経営ｻﾎﾟｰﾄｼｽﾃﾑ/硝子工事積算ｼｽﾃﾑ/技術計算ｼｽﾃﾑ）",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先募集",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様とのパートナーシップ",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様とは、長期的な視点で、共により良い製品作りを目指す良きパートナーとして、相互に繁栄を図る取引関係の確立を目指します",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、お取引先様との緊密なコミュニケーションを重視し、より強い信頼関係を築くように努力します",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様の機密情報・知的財産・資産等の適正管理",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "購買活動を実行するにあたり、お取引先様の機密情報・知的財産・資産等を適正に管理し、保護します",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様の選定方針",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様の評価・選定の基本方針は以下のとおりです",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGCグループとしてサステナブルな社会の実現に向けた責任を果たしていくために、サプライチェーンを構成するお取引先様と共に、AGCグループの取り組みを進めて参りたいと考えております",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのためにお取引先様と共有し、遵守・励行をお願いしたいことを以下にまとめましたので、ご理解とご協力をお願い申し上げます",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動遂行上で必要な記録・報告は事実に基づき適正に行い、記録を保管すると共に、個人情報を含むお客様・取引先・自社等の機密情報が漏洩することのないよう、適切な情報管理を行うこと",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "客様・お取引先様に新たな価値・機能と信頼を、従業員に働く喜びを、投資家の皆様に企業価値を、将来世",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② AGC グループは、多様なステークホルダー（株主・投資家・お客様・お取引先様・従業員・将来世代・地域",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．AGC グループは、世の中に安心・安全・快適を、お客様・お取引先様に新たな価値・機能と信頼を、従業",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AGC グループは、開示する企業情報を利用しながら、お客様、地域の方々、従業員などグループ内外の",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様と長期的な信頼関係を築き、お客様から最初に声がかかる存在であり続けます",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そして、お客様や社会にとって“無くてはならない製品”を提供し続け、いつもどこかで、世界中の",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・提供するあらゆる製品・サービスについて、お客様の満足と信頼を得るための責任を全うします",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AGC グループは、AGC グループ企業行動憲章を定め、「お客様、地域の方々、株主様など、社会の",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３. 過去３年間において、ＡＧＣグループを主要な取引先とする連結企業グループに属する会社の業",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、ＡＧＣグループを主要な取引先とする連結企業グループとは、当該連結企業グループから",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４. 過去３年間において、ＡＧＣグループの主要な取引先である連結企業グループに属する会社の業",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、ＡＧＣグループの主要な取引先である連結企業グループとは、ＡＧＣグループから当該連結",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "心・安全・快適を、お客様・お取引先様に新たな価値・機能と信頼を、従業員に働く喜びを、投資家の皆様に企業価値を、将来世代により良い未来",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②AGCグループは、多様なステークホルダー（株主・投資家・お客様・お取引先様・従業員・将来世代・地域社会等）との協働を図り、信頼関係の構",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、「AGC、いつも世界の大事な一部」であり続けるために、未来の社会やお客様のニーズを見据えながら、新たな技術、素材・ソ",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旭硝子取引先持株会 4,899,833 2.31",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重要な販売先となっており、当社と当該子会社は、相互に企業価値向上に資する関係にあります",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3）過去3年間において、当社グループを主要な取引先とする連結企業グループに属する会社の業務執行者でないこと",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループを主要な取引先とする連結企業グループとは、当該連結企業グループから当社グループへの販売額が、当該連結企業グ",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）過去3年間において、当社グループの主要な取引先である連結企業グループに属する会社の業務執行者でないこと",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループの主要な取引先である連結企業グループとは、当社グループから当該連結企業グループへの販売額が、当社グループの直",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "労働などの人権侵害を助長することのないよう、お取引先様と共に取り組みを進めていま",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、「AGCグループ企業行動憲章」において、お客様、地域の方々、株主様",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＡＧＣ株式会社 | 導入事例|ビッグデータの有効活用でDX推進を加速",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例トップ",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば自動車用ガラスの場合、お客様から受注したら速やかに納品できる体制を整えておく必要があります",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "外部のベンダーに頼りきるのではなく、個々の社員がデータとデジタル技術を活用して日々の業務や製品開発、顧客サービスに貢献する",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の求める合成プロセスに対応するための豊富な設備群を保有",
+    "url": "https://www.agc-finechemicals.com/facilities/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "自動車ドア用赤外線カットガラスの販売を開始",
+    "url": "https://www.agc.com/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を全世界に向けて販売を開始",
+    "url": "https://www.agc.com/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」の販売を開始",
+    "url": "https://www.agc.com/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」の販売を開始（2011年）",
+    "url": "https://www.agc.com/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を全世界に向けて販売を開始し、スマートフォンの進化と発展に貢献",
+    "url": "https://www.agc.com/company/value/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、新薬を開発するには莫大な資金が必要なため、製薬会社は経営資源を創薬や臨床開発などに集中し、製造技術の開発・医薬品原体の製造（CDMO・医薬品開発受託製造）は別企業が行う水平分業が進んでいる",
+    "url": "https://www.agc.com/company/value/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、断熱材や自動車のシートなど、快適な生活に必要なさまざまな製品の素材に用いられるウレタン関連製品の製造・販売も行っています",
+    "url": "https://www.agc.com/company/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医農薬中間体・原体のプロセス開発・製造受託を担うCDMO事業を、グローバルに展開しています",
+    "url": "https://www.agc.com/company/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、法令・企業倫理に沿った行動を徹底するために、行動基準（AGCグループ行動基準）にグローバル共通の遵守事項及び各国・各地域の遵守事項を定め、AGCグループのコンプライアンス体制を整備し、教育・研修の実施等の展開を図っています",
+    "url": "https://www.agc.com/company/internalcontrol/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（２）業務ｼｽﾃﾑの受託開発・ｺﾝｻﾙﾃｨﾝｸﾞ （３）ｼｽﾃﾑの運用・保守",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス・建材商品の販売・施工",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "建築用加工ガラスの製造・販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用加工ガラスの販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用ガラス及び産業車両用ガラスの補修及び関連商品の販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "補修用自動車ガラス及び関連商品の販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "真空蒸着方法による各種光学用部品及び電気部品の製造並びに販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アリルクロライド、エピクロルヒドリン、プロピレン誘導品の製造販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "塩化ビニルモノマーの製造販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "苛性ソーダ、一次塩化物の製造・販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ウレタン系防水材･床材の製造販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クロロメチルスチレン・フッ素化合物・複合酸化物等、有機無機ファインケミカル製品の製造販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」及び その他関連資材の開発・販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」の販売、メンブレン式ドライヤー「サンセップ",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」の製造・販売、AGCのフッ素樹脂製品の製造受託",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインシリカ、珪酸ソーダ 等の製造販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヨウ素、ヨウ素化合物、天然ガス、ニッケル・コバルトの化合物の製造販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬、農薬中間体、原体及びファインケミカル製品の受託製造、開発",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主業務：研究開発・調査の受託、コンサルティング業務、専門技術者の派遣",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "不定形耐火物製造販売、工業炉の設計、施工",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主業務：損害保険代理業及び生命保険募集業、自動車リース業",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主業務：各種耐火物・ファインセラミックスの販売、硝子窯及び各種工業用炉の設計・工事及び",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "珪石・珪砂・長石の製造販売、建材関連資材の販売",
+    "url": "https://www.agc.com/company/group/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンプライアンスを徹底し、不正行為を予防・早期発見するための方針・体制・指針・通報制度・教育等の仕組みを整備・運用し、通報制度においては通報者が不利益を被らないよう保護を行うこと",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．取締役は、株主に対する受託者責任を認識し、株主の信任に応えるべく、期待される能力を発揮し、取締",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＡＧＣグループへの販売額が、当該連結企業グループの直前事業年度の連結売上高の２％を超",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業グループへの販売額が、ＡＧＣグループの直前事業年度の連結売上高の２％を超えるものを",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基金では、将来にわたる確実な年金給付等に必要な年金資産積立のため、外部コンサルティング機関を起用し、運用の基本方針の策定・見直",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、四半期に一度の定例運用報告会などにおいて、定量面・定性面の両面から、運用受託",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〔補充原則４－１４－２取締役に対するトレーニングの方針〕",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役に対するトレーニングとして、「AGCグループコーポレートガバナンス基本方針」第17条（取締役への情報提供）に、取締役に対する情報提",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ける販売数量の大幅な未達を受け、2025年2月に目標を下方修正しました",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "伊勢化学工業㈱は、ヨウ素製品、電子機器等に使われる金属化合物の製造・販売及び天然ガスの採取・販売を行っており、当社グループの化学",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重要な販売先となっており、当社と当該子会社は、相互に企業価値向上に資する関係にあります",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社から役員報酬以外に多額の金銭その他の財産を得ているコンサルタント、会計専門家、法律専門家",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カバーガラス等の販売に関する取引関係",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あった日本電気㈱とシステムの保守等の",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループを主要な取引先とする連結企業グループとは、当該連結企業グループから当社グループへの販売額が、当該連結企業グ",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループの主要な取引先である連結企業グループとは、当社グループから当該連結企業グループへの販売額が、当社グループの直",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "権に関する教育をグループ内で実施しているほか、グループ会社を対象に、原則として毎",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "理及び教育を行っています",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "遵守事項及び各国・各地域の遵守事項を定め、AGCグループのコンプライアンス体制を整備し、教育・研修の実施等の展開を図っています",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "処方法などに関する教育を実施しています",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4-5. 取締役・監査役等の受託者責任",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【コーポレートガバナンス・コードの各原則に基づく開示】の〔補充原則4-14-2 取締役に対するトレーニングの方針〕",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4-14. 取締役・監査役のトレーニング",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ンプライアンス体制を整備し、教育･研修の実施等の展開を図ります",
+    "url": "https://www.agc.com/company/pdf/internal_control.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セミナー・勉強会",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1867",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー/イベント",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には自動車用ガラスの物流や販売を担う基幹系システムをAWS（Amazon Web Service）のクラウド環境上にリニューアルするプロジェクトが完結しました",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "ベルギー式手吹円筒法により日本で初めて板ガラスの工業生産を開始",
+    "url": "https://www.agc.com/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベルギー式手吹円筒法により日本で初めて板ガラスの工業生産を開始（1909年）",
+    "url": "https://www.agc.com/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに営業利益を3,000億円以上（過去最高益更新）とし、安定的にROE10%以上を確保できるようになることを財務目標としています",
+    "url": "https://www.agc.com/company/strategy/long_term_plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以上の取り組みにより、最終年度である2026年に全社ROCE（営業資産利益率）10%以上、営業利益1,800億円を目指します",
+    "url": "https://www.agc.com/company/strategy/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "戦略事業・成長事業への積極投資を継続するための、戦略枠は1,000億円です",
+    "url": "https://www.agc.com/company/strategy/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "90,873百万円 発行済株式総数217,434,681株（2025年12月31日現在）",
+    "url": "https://www.agc.com/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度において、当社及び国内連結子会社の会計監査人であるあずさ監査法人への公認会計士法（昭和23年法律第103号）第2条第1項に規定する業務に基づく報酬は、240百万円でした",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、上記以外の業務として、合意された手続業務があり、対価は7百万円でした",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "百万円単位の金額は百万円未満を切り捨てて表示しています",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "690百万円",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "381百万円",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "143百万円",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "165百万円",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "104百万円",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "EBITDAは、中計の最終年度である2026年12月期の目標4,410億円（中計の当初策定時の目標値）に対して、中計の2年目である2025年12月期の実績は3,073億円（営業利益＋減価償却費にて簡易的に算出）となりました",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "監査等委員でない取締役の月例報酬及び賞与に係る報酬等の額は、2026年３月27日開催の第101回定時株主総会において年額7億5,000万円以内（うち社外取締役分は年額8,800万円以内）とすることが決議されました",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "）を対象とする株式報酬は、2022年３月30日開催の第97回定時株主総会及び2026年３月27日開催の第101回定時株主総会において、中計の対象期間（３事業年度）ごとに、当社が合計22億5千万（うち社外取締役分は合計2,500万円）を上限とする金員を信託に拠出し、当該信託を通じて交付等が行われる当社株式（換価処分の対象となる株式を含む",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "監査等委員である取締役の月例報酬に係る報酬等の額は、2026年３月27日開催の第101回定時株主総会において年額1億5,000万円以内とすることが決議されました",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "２. 過去３年間において、ＡＧＣグループから役員報酬以外に１,０００万円/年以上を受領していないこ",
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度においては、9銘柄186億円（うち、みなし保有株式については1銘柄125億円）の売却を実施し(一部株式数の売却を含む)、2025年度末に",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おける保有状況は、58銘柄524億円（うち、みなし保有株式については1銘柄335億円）となっています",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、2026年の財務KPIを営業利益2,300億円、ROE8%以上と設定していました",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "びにエッセンシャルケミカルズ東南アジア事業における価格低迷が見込まれるため、2026年の財務KPIを営業利益1,500億円、ROE5%以上としまし",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "直前事業年度における（連結）売上高 1兆円以上",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）過去3年間において、当社グループから役員報酬以外に1,000万円/年以上を受領していないこと",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ．月例報酬381百万円（うち社外取締役65百万円）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロ．業績連動賞与143百万円（執行役員を兼務する取締役が対象）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ．株式報酬165百万円（うち社外取締役7百万円）（注）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、報酬総額が1億円以上の者については、個別の報酬の開示をしており、その報酬は以下のとおりです",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ．取締役会長島村 琢哉 支給総額 159百万円",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳：月例報酬102百万円、株式報酬57百万円）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロ．代表取締役社長執行役員CEO 平井良典 支給総額209百万円",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳：月例報酬82百万円、業績連動賞与70百万円、株式報酬56百万円）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ．代表取締役副社長執行役員社長付 宮地伸二 支給総額140百万円",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳：月例報酬73百万円、業績連動賞与42百万円、株式報酬25百万円）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二．代表取締役専務執行役員CTO 倉田 英之 支給総額107百万円",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳：月例報酬58百万円、業績連動賞与30百万円、株式報酬18百万円）",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カンパニーは、売上高が概ね2,000億円を超え、グローバルに事業を展開する事業単位と位置付けており、「建築ガラス 欧米」、「建築ガラス ア",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．株主総会の活性化及び議決権行使の円滑化に向けての取組み状況",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・EBITDAは、中計の最終年度である2026年12月期の目標4,410億円（中計の当初策定時の目標値）に対して、中計の2年目であ",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る2025年12月期の実績は3,073億円（営業利益＋減価償却費にて簡易的に算出）となりました",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て年額7億5,000万円以内（うち社外取締役分は年額 8,800万円以内）とすることが決議されました",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "22億5千万（うち社外取締役分は合計 2,500万円）を上限とする金員を信託に拠出し、当該信託を通じて交付等が行われる当社",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1億5,000万円以内とすることが決議されました",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一部のエキスパートのものだったデータ活用のハードルが下がり、多くの社員が自らデータを活用する環境が生まれています",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "908億7,300万円（2020年12月末現在）",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "円安の進行も重なり、事業環境は一層厳しさを増しています",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "西洋建築の普及拡大を背景に建設材料として「板ガラス」の需要が拡大したが、当時の日本は、その大半を輸入に依存",
+    "url": "https://www.agc.com/company/value/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リング㈱における勤務を通して、事業提携、海",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "久美子氏は、事業提携、海外事業統括と経理、財務分野で幅広い経験を有しています",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、当社と社外取締役の所属する会社との間では取引関係が存在しますが、価格その他の取引条件については一般的取引と同様に決定しています",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "監査等委員でない取締役の月例報酬及び賞与に係る報酬等の額は、2026年３月27日開催の第101回定時株主総会において年額7億5,000万円以内（うち社外取締役分は年額8,800万円以内）とすることが決議されました",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "監査等委員である取締役の月例報酬に係る報酬等の額は、2026年３月27日開催の第101回定時株主総会において年額1億5,000万円以内とすることが決議されました",
+    "url": "https://www.agc.com/company/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "提供される資材・サービスの品質・価格・納期・安全および環境への対応・技術サービスのレベルが適正であること",
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "気温上昇が進行することによるリスクとして、移行リスクとしては炭素価格の上昇、物理的リスクとしては洪水・高潮などの突発災害の増加などが",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "びにエッセンシャルケミカルズ東南アジア事業における価格低迷が見込まれるため、2026年の財務KPIを営業利益1,500億円、ROE5%以上としまし",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コスト改善（安定生産・生産性改善）、価格政策、高付加価値化",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て年額7億5,000万円以内（うち社外取締役分は年額 8,800万円以内）とすることが決議されました",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 監査等委員である取締役の月例報酬に係る報酬等の額は、 2026年３月27日開催の第101回定時株主総会において 年額",
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AGC 国内建築用ガラス関連製品 価格改定の案内（７月２１日～） - ガラス・サッシの事なら大阪の株式会社山田硝子店へ",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 国内建築用ガラス関連製品 価格改定の案内（７月２１日～）",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "AGCは、国内の建築用ガラス関連製品の販売価格を、７月",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、一部の製品に関しては、記載以上の価格改定をお願いする場合がございます",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "国際物流への影響により、原燃材料・副資材価格、物流費等が大きく上昇したことに加え、",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "自助努力だけでこれらの増加分を全て吸収することは困難であると判断し、この度の価格改定を決定いたしました",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 価格改定（７月２１日～）pdf",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 AGC エンジニアリング」の 代理店 ・取扱店 - indexPro — 「 AGC エンジニアリング」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1867",
+    "pass": 3
+   },
+   {
+    "quote": "「 AGC テクノグラス」の 代理店 47社 注目ランキング【2026年】 — 「 AGC テクノグラス」の 代理店 47社 注目ランキング【2026年】 Metoree https://metoree.com > ... > AGCテクノグラス株式会社",
+    "url": "https://metoree.com/companies/16595/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "ルーセント・テクノロジーと旭硝子が日本での半導体販売 代理 ... — ルーセント・テクノロジーと旭硝子が日本での半導体販売 代理 ... AGC https://www.agc.com > news > detail",
+    "url": "https://www.agc.com/news/detail/19991117.html",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 保険マネジメント株式会社 — AGC 保険マネジメント株式会社 AGC保険マネジメント株式会社 https://www.agim.co.jp",
+    "url": "https://www.agim.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 株式会社 | 導入事例 |ビッグデータの有効活用でDX推進 ... — AGC 株式会社 | 導入事例 |ビッグデータの有効活用でDX推進 ... 軽技Web https://www.karuwaza.com > case > user > jirei_26",
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 株式会社 | 導入事例 - テラスカイ — AGC 株式会社 | 導入事例 - テラスカイ 株式会社テラスカイ https://www.terrasky.co.jp > case > post_44",
+    "url": "https://www.terrasky.co.jp/case/post_44.php",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ・施工実績 - AGC Glass Plaza — 導入事例 ・施工実績 - AGC Glass Plaza AGC Glass Plaza https://www.asahiglassplaza.net > 導入事例・施工実績",
+    "url": "https://www.asahiglassplaza.net/add_contents_posttype/casestudy_interview/?post_type=contents_case",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ： AGC 株式会社 - Databricks — 導入事例 ： AGC 株式会社 - Databricks Databricks https://www.databricks.com > customers > agc",
+    "url": "https://www.databricks.com/jp/customers/agc",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 株式会社 様 - Microsoft Dynamics 365 導入事例 — AGC 株式会社 様 - Microsoft Dynamics 365 導入事例 ＪＦＥシステムズ株式会社 https://biz.jfe-systems.com > case > agc",
+    "url": "https://biz.jfe-systems.com/case/agc",
+    "pass": 3
+   },
+   {
+    "quote": "AGC 国内建築用ガラス関連製品 価格 改定の案内（7月21日 ... — AGC 国内建築用ガラス関連製品 価格 改定の案内（7月21日 ... yamadaglass.co.jp https://yamadaglass.co.jp > topics > news",
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "pass": 3
+   },
+   {
+    "quote": "ミラー製品の販売 価格 を改定 ｜ ニュース - AGC — ミラー製品の販売 価格 を改定 ｜ ニュース - AGC AGC https://www.agc.com > news > detail",
+    "url": "https://www.agc.com/news/detail/1210404_2148.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内建築用ガラス関連製品の 価格 を改定 ｜ ニュース - AGC — 国内建築用ガラス関連製品の 価格 を改定 ｜ ニュース - AGC AGC https://www.agc.com > news > detail",
+    "url": "https://www.agc.com/news/detail/1202978_2148.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格 表 - AGCガラスプラザ — 価格 表 - AGCガラスプラザ AGCガラスプラザ https://www.asahiglassplaza.net > pair...",
+    "url": "https://www.asahiglassplaza.net/products/reglass/price-list/pairplus.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内建築用ガラス関連製品の 価格 を改定 ｜ ニュース - AGC — 国内建築用ガラス関連製品の 価格 を改定 ｜ ニュース - AGC AGC https://www.agc.com > news > detail",
+    "url": "https://www.agc.com/news/detail/1209753_2148.html",
+    "pass": 3
+   },
+   {
+    "quote": "ライフサイエンス ｜ 製品情報 - AGC — ライフサイエンス ｜ 製品情報 - AGC AGC https://www.agc.com > products > lifescience",
+    "url": "https://www.agc.com/products/lifescience/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな医薬品業界で地位を確立 受託 開発・製造 ... - AGC — グローバルな医薬品業界で地位を確立 受託 開発・製造 ... - AGC AGC https://www.agc.com > hub > CDMO",
+    "url": "https://www.agc.com/hub/pr/CDMO.html",
+    "pass": 3
+   },
+   {
+    "quote": "受託 合成サービス | 設備・拠点 - AGCファインケミカルズ — 受託 合成サービス | 設備・拠点 - AGCファインケミカルズ AGCファインケミカルズ https://www.agc-finechemicals.com > facilities",
+    "url": "https://www.agc-finechemicals.com/facilities/",
+    "pass": 3
+   },
+   {
+    "quote": "横浜サイトで細胞治療分野の複数プロジェクトを 受託 ... - AGC — 横浜サイトで細胞治療分野の複数プロジェクトを 受託 ... - AGC AGC https://www.agc.com > news > detail",
+    "url": "https://www.agc.com/news/detail/1212353_2148.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成医薬品とバイオ医薬品両方に強みを持つ AGC — 合成医薬品とバイオ医薬品両方に強みを持つ AGC 日経BP Special https://special.nikkeibp.co.jp > atclh > ONB > agc1114",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/22/agc1114/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.agc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/topmessage/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/found/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/statement/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/value/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/strategy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/strategy/vision/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/strategy/long_term_plan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/strategy/policy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/strategy/plan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/dx/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/executive/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/governance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/internalcontrol/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/group/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/purchasing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/company/agc_report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/products/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/products/search/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/products/search/use.html?cat=mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc.com/products/search/use.html?cat=architectural_material",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.agc.com/ir/library/outline/pdf/gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/company/strategy/vision/pdf/Vision.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/company/pdf/governance_basic.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/company/pdf/governance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/company/pdf/internal_control.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/company/agc_report/pdf/agc_report_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p08.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p09.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.agc.com/company/history/img/index_p10.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1867",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/16595/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.karuwaza.com/case/user/jirei_26.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terrasky.co.jp/case/post_44.php",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahiglassplaza.net/add_contents_posttype/casestudy_interview/?post_type=contents_case",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://yamadaglass.co.jp/topics/news/582/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agc-finechemicals.com/facilities/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AGC 代理店 契約",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1867",
+    "https://metoree.com/companies/16595/distributors/",
+    "https://www.agc.com/news/detail/19991117.html",
+    "https://www.agim.co.jp/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2880",
+    "https://www.agc.com/news/detail/1196306_2148.html",
+    "https://metoree.com/companies/42875/distributors/",
+    "https://iwaki.atgc.co.jp/agency-search",
+    "https://www.agc.com/news/detail/20010718.html",
+    "https://distymap.com/manufacturers/agc"
+   ]
+  },
+  {
+   "query": "AGC 導入事例",
+   "results": [
+    "https://www.karuwaza.com/case/user/jirei_26.html",
+    "https://www.terrasky.co.jp/case/post_44.php",
+    "https://www.asahiglassplaza.net/add_contents_posttype/casestudy_interview/?post_type=contents_case",
+    "https://www.databricks.com/jp/customers/agc",
+    "https://biz.jfe-systems.com/case/agc",
+    "https://www.agc.com/innovation/ao/example/index.html",
+    "https://www.zdh.co.jp/customer/agc/",
+    "https://www.agc.com/sustainability/pdf/agc_report_2025.pdf",
+    "https://www.agc.com/company/dx/case/index.html",
+    "https://www.karuwaza.com/case/user/jirei_15.html"
+   ]
+  },
+  {
+   "query": "AGC 価格 OR 料金",
+   "results": [
+    "https://yamadaglass.co.jp/topics/news/582/",
+    "https://www.agc.com/news/detail/1210404_2148.html",
+    "https://www.agc.com/news/detail/1202978_2148.html",
+    "https://www.asahiglassplaza.net/products/reglass/price-list/pairplus.html",
+    "https://www.agc.com/news/detail/1209753_2148.html",
+    "https://kakaku.com/item/K0001563763/pricehistory/",
+    "https://www.agc.com/5min/",
+    "https://www.glass-news.jp/post/detail/175",
+    "https://www.agc.com/news/detail/1211461_2148.html",
+    "https://www.ecoglass.jp/index_rs18_ecoglass_008.html"
+   ]
+  },
+  {
+   "query": "AGC 受託 造形",
+   "results": [
+    "https://www.agc.com/products/lifescience/index.html",
+    "https://www.agc.com/hub/pr/CDMO.html",
+    "https://www.agc-finechemicals.com/facilities/",
+    "https://www.agc.com/news/detail/1212353_2148.html",
+    "https://special.nikkeibp.co.jp/atclh/ONB/22/agc1114/",
+    "https://www.agc.com/ir/library/bizbriefing/pdf/2023_0531life.pdf",
+    "https://www.interphex.jp/tokyo/ja-jp/search/2026/directory/directory-details.agc%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-d4f52a3f-6b01-45f3-9bf2-cbcdd9a99ea6.html",
+    "https://www.crossteria.com/work/2026/01/11/agccdmo/",
+    "https://www.youtube.com/watch?v=MOsaxrASX54",
+    "https://www.agc-finechemicals.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像16件／外部7頁・検索4回）"
+ }
+}

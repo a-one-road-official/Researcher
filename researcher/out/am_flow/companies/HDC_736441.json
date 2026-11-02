@@ -1,0 +1,880 @@
+{
+ "name": "HDC",
+ "aliases": [],
+ "context": "/ ADAXIS（仏）",
+ "researched_at": "2026-11-02T07:50:02.218018+00:00",
+ "official_url": "https://hdc3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "HDC has been in the 3d printing industry for over 20 years. Currently we are an official distributor for Solukon in South Korea, Japan, Singapore, MX3D for South Korea and Japan, Meltio for South Korea, Adaxis for South Korea and Japan.",
+    "url": "https://hdc3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide industry-leading solutions for metal additive manufacturing, large-scale composite 3D printing, robotic automation, and post-processing. As an official distributor of world-renowned brands — Solukon, CEAD, Adaxis, Meltio, and MX3D — we help you bring complex, innovative designs to life with unmatched efficiency and precision.",
+    "url": "https://hdc3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are dedicated to transforming the manufacturing landscape by delivering advanced additive manufacturing and robotic solutions to our clients. As an official distributor for global leaders, we support companies from prototyping to full-scale production, enabling them to achieve higher quality, speed, and design freedom.",
+    "url": "https://hdc3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Also in South Korea, we are official distributors for brands such as EOS GmbH, Materialise, Nanodimension.",
+    "url": "https://hdc3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "STRONG GLOBAL PARTNERSHIP",
+    "url": "https://hdc3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "HDC IS A RESELLER FOR MX3D IN SOUTH KOREA AND JAPAN",
+    "url": "https://hdc3d.com/about-waam/",
+    "pass": 1
+   },
+   {
+    "quote": "HDC IS A RESELLER FOR CEAD IN SOUTH KOREA AND JAPAN",
+    "url": "https://hdc3d.com/about-lfam/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics & Solukon Partnership to Progress Automated Powder Removal & Finishing for Metal AM",
+    "url": "https://hdc3d.com/use-case/",
+    "pass": 1
+   },
+   {
+    "quote": "Interfacial and CEAD Launch Strategic Partnership to Accelerate Innovation in Large-Format Additive Manufacturing",
+    "url": "https://hdc3d.com/use-case/",
+    "pass": 1
+   },
+   {
+    "quote": "CEAD Partners with MAQcenter to Expand LFAM Solutions in Spain",
+    "url": "https://hdc3d.com/use-case/",
+    "pass": 1
+   },
+   {
+    "quote": "Interfacial and CEAD Launch Strategic Partnership to Accelerate Innovation in Large-Format Additive Manufacturing",
+    "url": "https://hdc3d.com/usecasecead/",
+    "pass": 1
+   },
+   {
+    "quote": "CEAD Partners with MAQcenter to Expand LFAM Solutions in Spain",
+    "url": "https://hdc3d.com/usecasecead/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics & Solukon Partnership to Progress Automated Powder Removal & Finishing for Metal AM",
+    "url": "https://hdc3d.com/usecasesolukon/",
+    "pass": 1
+   },
+   {
+    "quote": "PARTNERS & CLIENTS",
+    "url": "https://hdc3d.com/mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "KM Yachtbuilders partners with MX3D to 3D print aluminium yacht parts aiming to produce their unique parts efficiently and cost-effectively and print industrial metal parts on-site. The research was in part funded by the Netherlands Enterprise Agency (RVO).",
+    "url": "https://hdc3d.com/mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Together with the INTEGRADDE partners, MX3D has developed an innovative production strategy of continuous and integral control of the WAAM process, from product design to final verification, in-line quality assurance for the manufacturi",
+    "url": "https://hdc3d.com/mx3d/",
+    "pass": 1
+   },
+   {
+    "quote": "To ensure the safety and quality of fully printed structures such as the MX3D Bridge and Takenaka’s Structural Steel Connector, the parts undergo rigorous testing by MX3D’s partners such as Imperial College London, Bologna University, and Lloyd’s Register (LRQA).",
+    "url": "https://hdc3d.com/mx3d/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 HDC 様と業務提携 契約 締結のお知らせ ... - ブルーテック — 株式会社 HDC 様と業務提携 契約 締結のお知らせ ... - ブルーテック ブルーテック株式会社 https://www.bluetec.co.jp > news > document",
+    "url": "https://www.bluetec.co.jp/news/document.html?year=2024&id=20241015-257338c0",
+    "pass": 3
+   },
+   {
+    "quote": "IPARK現代産業開発のMeissa 導入事例 - 메이사 — IPARK現代産業開発のMeissa 導入事例 - 메이사 meissa.ai https://www.meissa.ai > case-studies > usecase-hdc-dvp",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "HDC トータルプロショップ様インタビュー | 導入事例 - B-Space — HDC トータルプロショップ様インタビュー | 導入事例 - B-Space bspace.jp https://bspace.jp > 導入事例",
+    "url": "https://bspace.jp/case-detail-8-html/",
+    "pass": 3
+   },
+   {
+    "quote": "その他 事例 紹介 - 株式会社HDC — その他 事例 紹介 - 株式会社HDC 株式会社HDC https://hdcweb.lilac.co.jp > service > その他-事例紹介",
+    "url": "https://hdcweb.lilac.co.jp/service/%E3%81%9D%E3%81%AE%E4%BB%96-%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "高精度コレットホルダ HDC ・A | NTツール | MISUMI(ミスミ) — 高精度コレットホルダ HDC ・A | NTツール | MISUMI(ミスミ) MISUMI https://jp.misumi-ec.com > vona2 > detail",
+    "url": "https://jp.misumi-ec.com/vona2/detail/223005004893/?srsltid=AYCX9vIhy0oV_EbAOTonio5NGnDMPmps9gz7lywfACN7LiloFlFj_JCl",
+    "pass": 3
+   },
+   {
+    "quote": "ミヨシ HDC -H30/BK [3m] 価格 比較 — ミヨシ HDC -H30/BK [3m] 価格 比較 価格.com https://kakaku.com > ... > ランキング > ミヨシ(MCO)",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "「i．mega」シリーズ新製品（ HDC −2）を発売 — 「i．mega」シリーズ新製品（ HDC −2）を発売 Hitachi Global PDF https://www.hitachi.co.jp > hl_030714_hl_030714",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プライム会員向けNews2 | hdc -atlas.com — プライム会員向けNews2 | hdc -atlas.com hdc-atlas.com https://www.hdc-atlas.com > news-2",
+    "url": "https://www.hdc-atlas.com/news-2",
+    "pass": 3
+   },
+   {
+    "quote": "HDC -EUシリーズ | USB2.0/1.1接続 コンパクトモデル — HDC -EUシリーズ | USB2.0/1.1接続 コンパクトモデル I-O DATA https://www.iodata.jp > product > hdd > hdd > hdc-eu",
+    "url": "https://www.iodata.jp/product/hdd/hdd/hdc-eu/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット3Dプリンター - Additive Manufacturing — ロボット3Dプリンター - Additive Manufacturing hdc3d.com https://hdc3d.com > ...",
+    "url": "https://hdc3d.com/ja/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "ドローン購入・レンタル",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "建設計画と現場管理のために使用されます",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "効率的な運営には、良い建設計画を立て、それに応じて現場を管理する必要があります",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "スムーズな建設計画を立てるためには、どの資材を早く上げる必要があるのか、どの資材はかさばるためどれくらいの余裕スペースが必要かなど、さまざまな条件を考慮する必要があります",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "建設計画は最新の状況に基づいているため、計画の充実度、完成度、そして人々の理解度など、すべての面で改善されました",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "アパート複合施設では、用途に応じて主建物（実際に人々が住む建物）と付帯建物（販売施設および付帯施設、地下駐車場を含む）に分けられます",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "建設決済を管理できるということは、逆算計算や打設計画も可能であることを意味します",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "メイサの専門家が、現場規模・工種に合わせた最適なプラットフォーム導入プランを一緒に設計します",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "ヒビノデータコム株式会社は、産業型遠隔監視システム及びIT-LANを構成する機器の販売とそれに伴うエンジニアリングを行う会社です",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は防犯カメラをメインで販売しているのですが、その使用方法別に商品を並べたりもしています",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時に、スマホ版の「動く！商品棚」がリリースされて「これは！」と思いすぐ始めてみました",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "防犯カメラをメインで販売しているのですが、録画機とカメラセットなどの場合、それぞれの台数が異なるセットや、カメラタイプが異なるセットなど、微妙にセット内容が異なる商品セットが存在します",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "防犯カメラに関する初心者や初見のお客様にも、安心してお買い物できるようなセット商品の販売訴求に注力しています",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "店頭販売あり",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のショップから、価格.comに販売価格を登録しているショップを表示しています",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "持ち歩きに便利な軽量・コンパクト設計、普及価格で２００万画素のデジタルカメラ",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "属品除く）と軽量コンパクト設計でありながら、１.６型ＴＦＴカラー液晶モニターを搭載した普",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な業務は日立関連会社製造以外の製品の調達、販売",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品名 型式 希望小売価格(税別) 発売時期 当初販売台数",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．軽量・コンパクト設計 Ｗ９３×Ｄ３８×Ｈ５６mm､約１１０g",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "Meissa Platform導入事例 | IPARK現代産業開発のMeissa導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "Meissaソリューション導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "顧客導入事例 |",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "建設のお客様事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "メイサのソリューションが建設現場をどう変えるのか、お客様の導入事例でご覧ください",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "ウミ建設 全社導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "コーロングローバル 土木現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "ロッテ建設 集合住宅現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "東部建設 公共施設現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "大林組 DX導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "大宇建設 集合住宅現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "KCC建設 土木現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "HDC現代産業開発 集合住宅現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "XI C&A プラント現場の導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "DL E&C 全社導入事例",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "HDCトータルプロショップ様インタビュー | 導入事例 | B-Space（ビースペース）Yahoo!ショッピング向け、ネットショップ繁盛ツール・販促支援",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用中のお客様はこちら",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のストア運営は、ページ制作・受注・お客様対応・出荷まですべて自社で対応しているので、イベントごとにバナーの差し替えをしたり商品ページのブラッシュアップを行うといった作業が、どうしても後回しになりがちでした",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のためにも、にぎわいバナーをフル活用",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様がストア内を右往左往することなく、「そうそう、探しているのはこのタイプ！」と",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "商品ページに入らなくても、お客様に「どんなものが動いているのか」などポジティブなメッセージをTOPページ内で露出できるので、",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が購入する後押しになっている",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "特に弊社で取り扱っている防犯カメラなどの商品は、実際に取り付けた後の感想や、使用時の機能面の感想などを具体的にコメントいただけるケースが多いので、これから購入しようとしているお客様にとっても、非常に参考になる重要なコンテンツの1つになっていると感じています",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に後悔させないお店づくりと提案力",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、特定のカメラ1台と録画機のセットを求めて訪れたお客様に、カメラ2台、3台とのセット商品などといった",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "1度購入した後に買い足そうとすると、セット価格が反映できず、結局金額が高くついてしまうので、お客様にとっても「お得なセットをこちらにご用意していますよ！」というPRをきちんと訴求できます",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が後悔するようなことがないように、",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "防犯カメラ選び＝わかりづらい、と言ったイメージを持つお客様もいらっしゃいます",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の不安を少しでもなくし、安心してご購入いただけるように",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "防犯カメラに関する初心者や初見のお客様にも、安心してお買い物できるようなセット商品の販売訴求に注力しています",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・導入店舗様の声",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "そのような市場において、本デジタルカメラ（ＨＤＣ－２）は、入門者・初心者層のお客様を",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■お客様お問い合わせ先：",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "料金プラン・対応機器",
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "pass": 3
+   },
+   {
+    "quote": "都度バナーを差し替える対応が非常に手間",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "1度購入した後に買い足そうとすると、セット価格が反映できず、結局金額が高くついてしまうので、お客様にとっても「お得なセットをこちらにご用意していますよ！」というPRをきちんと訴求できます",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用料金と",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは毎月26日から翌月25日迄を1カ月間としてご利用料金をご請求いたします",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "ご解約された場合、ご解約された日にかかわらず1カ月間のご利用料金をご請求いたします",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "B-Spaceの利用料金のご請求はYahoo!ショッピングの運営にかかる請求項目に追加され、現在のお支払い方法のままご利用いただけます",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "1カ月無料特典適用期間中に解約された場合、B-Spaceのご利用料金は無料です",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月25日までにごお申込みいただき、料金プランを1サービスまたは2サービスで継続されているストア様は、料金プランを使い放題プランへ任意でアップグレードすることができます",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、使い放題プランへアップグレード後に、1サービスまたは2サービスへ料金プランをダウングレードすることはできませんので、十分ご留意ください",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "料金プランのアップグレードや、解約の手続きは、毎月26日から翌月25日までの間に1回までです",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "料金プランのアップグレードをした同じ月には解約ができませんので、十分ご留意ください",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用初月期間に「トリプル for B-Space 10GBプラン」を解約される場合、「10GB」の料金が翌月に発生します",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用2カ月目以降に「トリプル for B-Space 10GBプラン」を解約される場合、翌月の「10GB」プランの料金は発生しません",
+    "url": "https://bspace.jp/case-detail-8-html",
+    "pass": 3
+   },
+   {
+    "quote": "ミヨシ HDC-H30/BK [3m] 価格比較 - 価格.com",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "ミヨシ HDC-H30/BK [3m] 価格比較",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格推移グラフ",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー希望小売価格：",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comID購入に対応",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com決済のみ",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com決済とは",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comIDで決済可能、商品未着時の返金サービス付きの安心・便利な決済方法です",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "このショップが対応している価格.com決済",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comIDに登録したカードで支払可能",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comに掲載しているショップの中で、最安値のショップを表示しています",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "(商品価格＋送料ーポイント)",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格（差額）",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comに掲載している楽天市場・Amazon.co.jpのショップの中で、それぞれの最安値のショップを表示しています",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のショップから、価格.comに販売価格を登録しているショップを表示しています",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "で価格を比較",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com決済",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "詳細情報を含め、掲載している価格や詳細情報・付属品・画像など全ての情報は、万全の保証をいたしかねます",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "価格やスペック・付属品・画像など、すべての掲載情報については万全な保証をいたしかねます",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "各ショップの価格や在庫状況は常に変動しています",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "持ち歩きに便利な軽量・コンパクト設計、普及価格で２００万画素のデジタルカメラ",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "及価格帯の２００万画素のデジタルカメラ「ＨＤＣ－２」を「ｉ．ｍｅｇａ」＊２シリーズの新商",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■本体希望小売価格および発売日",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品名 型式 希望小売価格(税別) 発売時期 当初販売台数",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルカメラ ＨＤＣ－２ オープン価格 ８月８日 １０， ０００台／月",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に、記録画素数については、普及価格帯でありながら、約３１５万画素（２０４８×１５３",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "合計3000円以上で送料無料●毎週日・月は楽天ペイの日、楽天ポイント最大3.5％",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "税込3,000円以上で送料無料！",
+    "url": "https://kakaku.com/item/K0001355191/",
+    "pass": 3
+   },
+   {
+    "quote": "商品名 型式 希望小売価格(税別) 発売時期 当初販売台数",
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hdc3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/about-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/about-lfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/use-case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/usecasecead/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/usecase-adaxis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/usecase-meltio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/usecase-mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/usecasesolukon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/solukon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/meltio/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2025/08/roez_casestudy_4_1-849x675-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2026/06/printcrete-spiralstaircase_thumbnail-400x250-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2026/03/NEWs_Case-Study-justairtech-2025.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2026/03/NEWs_Case-Study_Enerbine-2024.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2025/08/NEWs_Case-Study-SHT-2024-1536x780-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2025/07/Screenshot-2024-07-15-at-1.33.10.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hdc3d.com/wp-content/uploads/2025/07/Screenshot-2024-07-15-at-2.19.39.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.bluetec.co.jp/news/document.html?year=2024&id=20241015-257338c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legalontech.com/jp/media/sales-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bspace.jp/case-detail-8-html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdcweb.lilac.co.jp/service/%E3%81%9D%E3%81%AE%E4%BB%96-%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/vona2/detail/223005004893/?srsltid=AYCX9vIhy0oV_EbAOTonio5NGnDMPmps9gz7lywfACN7LiloFlFj_JCl",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kakaku.com/item/K0001355191/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/contracted",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HDC 代理店 契約",
+   "results": [
+    "https://www.bluetec.co.jp/news/document.html?year=2024&id=20241015-257338c0",
+    "https://www.legalontech.com/jp/media/sales-agent",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/8160",
+    "https://growth-law.com/service/service-11149/",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E5%9B%BD%E9%9A%9B%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84/",
+    "https://itbengoshi.com/page-3655/",
+    "https://mypage.otsuka-shokai.co.jp/contents/business-oyakudachi/expert-keiri-kyuyo/2022/12.html",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://keiyaku-watch.jp/media/keiyakuruikei/hanbaidairitenkeiyaku/"
+   ]
+  },
+  {
+   "query": "HDC 導入事例",
+   "results": [
+    "https://www.meissa.ai/jp/construction/case-studies/usecase-hdc-dvp",
+    "https://bspace.jp/case-detail-8-html/",
+    "https://hdcweb.lilac.co.jp/service/%E3%81%9D%E3%81%AE%E4%BB%96-%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B/",
+    "https://www.sony.jp/system-camera/casestudy/?srsltid=AYCX9vIJKwruNLkryINjDKknhAAVdER10plexrDhyv_x4Aqi1WF-Qk6s",
+    "https://www.atled.jp/xpoint_cloud/case/",
+    "https://www.idcf.jp/case/",
+    "https://www.id-heart.com/case/01",
+    "https://www.verkada.com/jp/customers/",
+    "https://service.ryobi.co.jp/case-study/",
+    "https://www.sfil.co.jp/info/files/20200729140022_data.pdf?1721657489360"
+   ]
+  },
+  {
+   "query": "HDC 価格 OR 料金",
+   "results": [
+    "https://jp.misumi-ec.com/vona2/detail/223005004893/?srsltid=AYCX9vIhy0oV_EbAOTonio5NGnDMPmps9gz7lywfACN7LiloFlFj_JCl",
+    "https://kakaku.com/item/K0001355191/",
+    "https://www.hitachi.co.jp/New/cnews/hl_030714_hl_030714.pdf",
+    "https://www.hdc-atlas.com/news-2",
+    "https://www.iodata.jp/product/hdd/hdd/hdc-eu/",
+    "https://jp.pronews.com/news/20120405170010994.html",
+    "https://www.sony.jp/pro/products/HDC-P1/?srsltid=AYCX9vI5O0TW9M-ptzRGWWhW5DNPG6Vud6VkxC6FXiI60x_IUQlgot38",
+    "https://mco.jp/products_av/hdc-h/",
+    "https://search.kakaku.com/HDC-TH100-D/",
+    "https://kakaku.com/item/K0000035789/"
+   ]
+  },
+  {
+   "query": "HDC 受託 造形",
+   "results": [
+    "https://hdc3d.com/ja/",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.technohands.co.jp/metal-3d-printing/",
+    "https://jampt.jp/service/prototype/",
+    "https://jtdtky.co.jp/product/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://hdc3d.com/ja/mx3d/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式14頁／PDF・画像7件／外部11頁・検索4回）"
+ }
+}

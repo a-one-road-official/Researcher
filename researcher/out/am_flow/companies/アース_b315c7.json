@@ -1,0 +1,1189 @@
+{
+ "name": "アース",
+ "aliases": [],
+ "context": "3D造形サービス（金属3Dプリント Al・SUS316・鉄＋機械加工・検査、樹脂も） /",
+ "researched_at": "2026-11-02T07:54:41.284680+00:00",
+ "official_url": "https://www.earth.jp/",
+ "identified_by": "search:yahoo_jp:アース",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1892年4月",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "label": "●創立",
+    "value": "1925年（大正14年）8月26日 ※2025年で設立100周年",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,539名（連結・2016年6月30日現在）",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "label": "●社員数",
+    "value": "連結4,788名、単体1,358名",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医薬品、医薬部外品、医療用具、家庭用品などの製造販売・輸出入",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様サポート情報",
+    "url": "https://www.earth.jp/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお気づきを活かす窓口部の基本姿勢",
+    "url": "https://www.earth.jp/support/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アース製薬株式会社 お客様からお気づきを頂く窓口",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アース製薬株式会社 お客様からお気づきを頂く窓口 宛",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お客様からお電話にてお問い合わせいただいた場合、その内容を正確に承るとともに、当社の対応を確認するために録音させていただくことがあります",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "殺虫剤、日用品の大部分、および害虫駆除についてのお問い合わせはアース製薬株式会社 お客様からお気づきを頂く窓口にて承っておりますが、輸入元または製造販売元が異なる製品に関しましては、的確な対応をさせていただくため各社にて承っております",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、いただいたお電話・メール・ハガキ・お手紙・宅配物から得られたお客様の個人情報（氏名、住所、電話番号、メールアドレスなど）を、Haleonジャパン（ヘイリオンジャパン）株式会社（旧社名：グラクソ・スミスクライン・コンシューマー・ヘルスケア・ジャパン株式会社）に提供することがございます",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、回答につきましても、原則として、 Haleonジャパン（ヘイリオンジャパン）株式会社より、お客様に回答させていただきます",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報、お問い合わせいただきました内容は、個人情報保護法を含む各種法律にのっとり慎重に取り扱います",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アース製薬株式会社 お客様からお気づきを頂く窓口",
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お客様からお電話にてお問い合わせいただいた場合、その内容を正確に承るとともに、当社の対応を確認するために録音させていただくことがあります",
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "不明な場合は直接、アース製薬 お客様からお気づきを頂く窓口にお問い合わせください",
+    "url": "https://www.earth.jp/store/",
+    "pass": 1
+   },
+   {
+    "quote": "直接、アース製薬 お客様からお気づきを頂く窓口にお問い合わせください",
+    "url": "https://www.earth.jp/store/",
+    "pass": 1
+   },
+   {
+    "quote": "大変お手数をおかけいたしますが、直接、アース製薬 お客様からお気づきを頂く窓口にお知らせいただけませんでしょうか",
+    "url": "https://www.earth.jp/store/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお気づきを活かす窓口部の基本姿勢 | お問い合わせ | アース製薬 製品情報",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお気づきを活かす窓口部の基本姿勢",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお気づきを活かす窓口部の体制",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アース製薬お客様からお気づきを頂く窓口でございます",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今日も明るく元気な声で、スタッフがお客様のお電話にお応えいたします",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からお気づきを頂く窓口はお客様の生の声を担当部署に的確に伝える重要な役割を担っています",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "たくさんのお客様からのご相談やお申し出、一件一件に迅速に、丁寧にお応えするために、アース製薬独自のお客様対応システム『TACOシステム",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日々、お客様満足（CS）を追求して、私たちは、お客様からのご相談、お申し出に対して「迅速」かつ「公正」に「誠意」をもって対応いたします",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "＊Tactical Antenna for Consumers’ Opinionsの略で、昆虫のような触角機能で、お客様の声を蓄積し製品戦略に活かしていくという意味で名づけました",
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以下の業界・企業の方が対象です",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーニング業界",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅業界の方へ",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "新築住宅だけでなく、住宅業界の様々な工事・プランに、付加価値を与えます",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "アース特約店になることで、仕入れたアース商品をノベルティ（無料記念品・販促品）としてお客様に配布する戦略も可能です",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーニング業界の方へ",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からお預りした”洗濯物”に、アース加工ができるようになる",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、クリーニング業界は価格競争により、粗利益率が減少しているお店も多いと聞きます",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーニングだけでなく、お客様からお預かりした服に「アース加工」をすることで、",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーニング業界とアース加工事業は、相性抜群で二枚貝のようなものです",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に喜ばれるアース事業への取り組みは、クリーニング業界の未来を拓きます",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | アース製薬株式会社 | mcframe",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の状況/ニーズに合わせて、多彩な製品シリーズを用意しています",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "システム稼働後もお客様とのコミュニケーションを大切にしています",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例インタビュー",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "これまで“世にないものを創る”ことをモットーに、お客様の視点に立ち、「ごきぶりホイホイ」「アースノーマット」「アースレッド」などに代表される独創的なヒット製品・ロングセラー製品を開発・育成してきた",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、収益力の向上では、従来の成長重視から「成長＋収益」へと方針転換、部門横断の収益改善プロジェクトを立ち上げて、業界共通の悩みとなっている返品制度の改革を推し進めている",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "「当社は、日用品業界各社とインテック社の共同出資によって発足したVAN（付加価値通信網）『プラネットEDIサービス』を利用していて、インテック社のことは以前から知っていました",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "気になるワードから導入事例を絞り込み検索することができます",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 絞り込み検索",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "アース製薬 株式会社 様｜導入事例｜【公式】(株)サテライトオフィス:ChatGPT(チャットGPT)/Google Workspace/Chromebook/Microsoft 365/LINE WORKS/Google Workspace for Educationの導入支援はお任せください！",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "議論の末に同社が出した答えは、ユーザーの目的や習熟度に合わせた「使い分け」でした",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "アウトプットの質にこだわるユーザーにとって、この『選択肢があること』は非常に重要でした」（作地さん）",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "熱心なユーザーの中には、PCを立ち上げると同時にMANAが自動で起動するよう設定している社員もいるとのこと",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "アース製薬は、「生命と暮らしに寄り添い、地球との共生を実現する」という経営理念のもと、お客様の生活に寄り添い、虫ケア用品、入浴剤、口腔衛生用品など多岐にわたる独創的で高品質な製品を提供してきました",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "幅広いお客様層に愛されるサロンです",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【顧客満足度エリアNo.1】圧倒的艶感＆透明感！メンズツイスパも◎",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "輸入元、製造販売元",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "殺虫剤、日用品の大部分、および害虫駆除についてのお問い合わせはアース製薬株式会社 お客様からお気づきを頂く窓口にて承っておりますが、輸入元または製造販売元が異なる製品に関しましては、的確な対応をさせていただくため各社にて承っております",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "輸入元、製造販売元",
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Earth全国総代理店本部 アースショップ岡山本店",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2019 Earth全国総代理店本部.",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "輸入元、製造販売元",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "殺虫剤、日用品の大部分、および害虫駆除についてのお問い合わせはアース製薬株式会社 お客様からお気づきを頂く窓口にて承っておりますが、輸入元または製造販売元が異なる製品に関しましては、的確な対応をさせていただくため各社にて承っております",
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "輸入元、製造販売元",
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お店様によっては販売していることもありますが、在庫がなくなり次第、販売終了となります",
+    "url": "https://www.earth.jp/support/discontinued/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2085:【販売関連】「バポナ 殺虫プレート」は購入の際、住所・氏名などを書かないといけないのですか",
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "10763:【販売関連】アース製薬の商品を購入したい",
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "11034:【お問い合わせ先】アース製品を海外で販売したい、お問い合わせ先を教えてください",
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "14282:【販売関連】「アースダニよけ ヨケンルンダニ！」のつめかえは販売していますか",
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "19408:【販売関連】「きき湯」の付属のスプーンだけの販売はありますか",
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは特許申請技術である「アース加工」を施した繊維製品を加工販売するメーカーです",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "どんな物にでも自社でアース加工が可能になることにより、販売戦略はさらに広がります",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "「アース代理店」になることで、アース商品の販売権を会得いただけるだけでなく、繊維への「アース加工」のノウハウを入手することができます",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "14:00～16:00 Earth(アース)セミナーin福岡",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニング",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "アース製薬は、メインフレームで稼働していた基幹業務システムをオープン化するにあたり、ビジネスエンジニアリング（B-EN-G）の製造業向け生産・販売・原価管理パッケージ「mcframe」を導入した",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "「会計システムに関しては、世界的なシェアを持つ海外製ERPパッケージに決まったものの、生産管理、販売物流、原価管理といった製造業に必須の業務システムについては当社の要件に合致する製品をなかなか見つけられずにいたのです」",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "そのインテック社が当社に営業をかけてきたのが、ちょうど我々が生産・販売・原価パッケージを探していたタイミングです",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "アース製薬がmcframeを最初に適用した仕組みは、2014年に構築した販売物流システムである",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "「原価管理システムにmcframeを採用するなら、販売物流もそれに合わせたほうがよいと判断し、導入を進めました」（梶氏）",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "「国内関連企業では販売物流や原価管理に続いて生産管理を導入し、マスタデータベースを統合化することも視野に入れています」（梶氏）",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "近年は食品工場の製造ラインでの異物混入や汚染防止などのコンサルティングを行う総合環境衛生事業なども開始し、着実な成長を続けている",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品、医薬部外品、医療用具、家庭用品などの製造販売・輸出入",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "mcframe関連セミナーの情報を掲載しています",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーのご案内",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース&",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、多数のアドオンツールがリリースされているので必要に応じて使っていきたいと考えています",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "完全にクラウドベースで設計されており、インターネット環境さえあれば、どこからでもアクセス可能なので、リモートワークにも最適なツールです",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらにサテライトオフィスのアドオンも多くリリースされているのでうまく活用すれば低コストで効果的な業務運用につながるものと考えます",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "・教育機関向けサービス",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "・セミナーのご案内",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "・プレスリリース",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "活用セミナー",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース・プレスリリース",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "日常の動線に溶け込むGeminiを共通の入り口としつつ、特定の業務には、様々なAIモデルの活用や業務特化のAIエージェントを構築できるMANA Studio（以下、MANA）を使い分ける戦略的な「基盤の設計」でした",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "同時期、ギブリーからはより実務へのAI活用に特化した新プラットフォーム「MANA Studio」がリリースされます",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "ギブリーさんには、導入時の教育支援だけでなく、最新トレンドの共有やアドバイザリーとして相談に乗ってもらっています",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "アース製薬様の事例では、日常の土台であるGeminiと、高度な専門活用を担うMANAを組み合わせる「基盤の設計」が、定着の鍵となりました",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの課題である「使いこなせない」「定着しない」を解決するために設計された、国産のAI活用プラットフォームです",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "バスクリン社が持つ入浴剤事業の知見や「心地よさ」を追求する文化、また、アース製薬が持つ国内外に広がる販売ネットワークなど両社のリソースとノウハウを統合することで、よりスピーディーかつ効率的に新たな価値を創造していきます",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "リリース情報",
+    "url": "https://beauty.rakuten.co.jp/s8000040357/menu/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "※上記番号はいずれも一般の方専用の番号であり、医師および医療機関の皆様からお問い合わせを受けた場合、情報提供料は有料（1件につき2,000円）となりますのでご了承下さい",
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康住宅のカリスマ 澤田升男先生の「０(ゼロ)宣言の家」の建材を導入費用０円+月会費０円で使うことができます!!",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "※参加費：お1人様 5,000円（税込",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "33億7,760万円",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "2019年からはグループ国内全社に利用を拡大し、セキュリティを担保しながらコミュニケーションの円滑化と業務効率化を図っている",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟な働き方を支える基盤としてコミュニケーションの円滑化に大きく貢献し、業務上不可欠な存在になっています",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "【11月限定クーポン】 2メニューお会計5000円以上で50％オフ！",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "年間240万人利用最大手☆地域密着♪キッズルーム◎新規カット2,200円☆",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "☆11月限定☆【新規】 カット 4400円→2200円 《2回目来店特典あり》",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "☆11月限定☆【新規】メンズカット 4400円→2200円 《2回目来店特典あり》",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "♪人気No1♪新規限定 フルカラー 3410円 (キュアカラー)",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "11月最強超得！カットカラー選べるホームケア2つ付き10990円",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "11月最強超得！カット縮毛選べるホームケア2つ付き13990円",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "11月最強超得！カットパーマ選べるホームケア2つ付き11990円",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【11月平日限定3000円以上2メニューで50%オフクーポン】※指名不可",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【全員】カット+オーガニックフルカラー+3ステップトリートメント12990円",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【当日予約OK】カット¥3300円",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【新規限定】men'sカット 4400円→¥2980（SP別）",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご新規様人気No.2】カット＋ケアカラー＋TOKIOトリートメント♪￥9980円",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "AUBE HAIR snow 円山公園店 【オーブ ヘアー スノウ】",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【当日予約OK◎】似合わせカットx艶髪カラーx極上髪質改善¥6900～ワンランク上の艶髪へ【円山】",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "円山公園駅から徒歩2分",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "AUBE HAIR snow 円山公園店 【オーブ ヘアー スノウ】のクーポン",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【新規限定/500円OFF】パーソナルカット[sh込み]￥3500→￥3000",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "【新規限定/500円OFF】カラー＋ブリーチ＋ベースTr￥8500→￥8000",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "価格やサービス内容等については、各サイトの記載内容をよくお読みになり、ご自身の責任でご利用ください",
+    "url": "https://www.earth.jp/products/bathclin-yakutou-meguri/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "価格やサービス内容等については、各サイトの記載内容をよくお読みになり、ご自身の責任でご利用ください",
+    "url": "https://www.earth.jp/products/mamoroom-aller-block-kae-pollen-2/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "19409:【使用方法】粒が砕け、粉末状になった「きき湯」の製剤でも使えますか",
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "現在、クリーニング業界は価格競争により、粗利益率が減少しているお店も多いと聞きます",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "・トライアル申込/見積依頼",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 料金表に関する美容院･美容室･ヘアサロン HAIR & MAKE EARTH 名取店など｜ホットペッパービューティー",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "「アース 美容室 料金表」で探す おすすめサロン情報｜ホットペッパービューティー",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 料金表",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "「アース 美容室 料金表」で探す おすすめサロン情報",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "☆今だけ☆ カット＋カラー￥5980 / 2回目以降も通いやすい価格帯でご案内◎ 当日予約もOK！[上大岡]",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "当日予約◎お手頃価格×厳選した薬剤と高技術でリピート率NO.1☆カット+カラー+Tr¥4900",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 料金表に関する新着口コミ",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 料金表に関するおすすめサロン情報",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 シャンプー 料金",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 ハイライト 料金",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 美容室 子供料金",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "「除草剤 アース」の人気商品一覧 | 安い商品を通販サイトから探す - 価格.com",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の安い順",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "価格の高い順",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 掲載している価格やスペック・付属品・画像など全ての情報は、万全の保証をいたしかねます",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 各ショップの価格や在庫状況は常に変動しています",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "※ ご購入の前には必ずショップのWebサイトで価格・利用規定等をご確認下さい",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "除草剤 アースの通販情報・価格比較",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Haleon ジャパン株式会社との 日本における独占的流通・販売 ... — Haleon ジャパン株式会社との 日本における独占的流通・販売 ... アース製薬 PDF https://corp.earth.jp > news > pdf",
+    "url": "https://corp.earth.jp/jp/news/2026/pdf/20260701-01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代理店 申込み - アースインフィニティ — 代理店 申込み - アースインフィニティ 株式会社アースインフィニティ https://www.earth-infinity.co.jp > contact > agency",
+    "url": "https://www.earth-infinity.co.jp/contact/agency.php",
+    "pass": 3
+   },
+   {
+    "quote": "Earth 特約店募集 | Earth （ アース ）全国総合 代理店 — Earth 特約店募集 | Earth （ アース ）全国総合 代理店 earth-headoffice.com http://www.earth-headoffice.com > distributor",
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス - 株式会社アース — サービス - 株式会社アース earthnet.co.jp https://earthnet.co.jp > service",
+    "url": "https://earthnet.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "「 アース 製薬」の 代理店 6社 注目ランキング【2026年】 — 「 アース 製薬」の 代理店 6社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > アース製薬株式会社",
+    "url": "https://metoree.com/companies/50049/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 製薬株式会社 - 導入事例 - MCFrame — アース 製薬株式会社 - 導入事例 - MCFrame MCFrame https://www.mcframe.com > case > earth-chemical",
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "pass": 3
+   },
+   {
+    "quote": "アース 製薬 株式会社 様｜ 導入事例 - サテライトオフィス — アース 製薬 株式会社 様｜ 導入事例 - サテライトオフィス サテライトオフィス https://www.sateraito.jp > case_gw",
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "pass": 3
+   },
+   {
+    "quote": "アース 製薬が辿り着いた、GeminiとMANAを併用した生成AI ... — アース 製薬が辿り着いた、GeminiとMANAを併用した生成AI ... MANA AI Chat https://gomana.ai > ソリューション > MANA AI Chat",
+    "url": "https://gomana.ai/project/earth/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 製薬、SmartDB 導入 で“デジタルの民主化”を推進 — アース 製薬、SmartDB 導入 で“デジタルの民主化”を推進 株式会社ドリーム・アーツ https://hibiki.dreamarts.co.jp > news > press-release",
+    "url": "https://hibiki.dreamarts.co.jp/smartdb/news/press-release/in260630/",
+    "pass": 3
+   },
+   {
+    "quote": "アース 製薬株式会社様 “Web サイト、CMS — アース 製薬株式会社様 “Web サイト、CMS businesssolution.konicaminolta.jp https://businesssolution.konicaminolta.jp > earth_siterenewal",
+    "url": "https://businesssolution.konicaminolta.jp/business/solution/digitalmarketing/case/2024/earth_siterenewal.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 アース 美容室 料金 表」のサロン一覧 — 「 アース 美容室 料金 表」のサロン一覧 ホットペッパービューティー https://beauty.hotpepper.jp > ... > 美容室・ヘアサロン",
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "「除草剤 アース 」の人気商品一覧・ 価格 比較 — 「除草剤 アース 」の人気商品一覧・ 価格 比較 価格.com https://search.kakaku.com > 除草剤 アース",
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "メニューHAIR & MAKE EARTH 船橋店ヘアメイク アース ... — メニューHAIR & MAKE EARTH 船橋店ヘアメイク アース ... 楽天ビューティ https://beauty.rakuten.co.jp > menu",
+    "url": "https://beauty.rakuten.co.jp/s8000040357/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "アース インフィニティの電気 料金 は高い？デメリットなどを解説 — アース インフィニティの電気 料金 は高い？デメリットなどを解説 エネチェンジ https://enechange.jp > articles > electricity-neo-west",
+    "url": "https://enechange.jp/articles/electricity-neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "ガス 料金 プラン｜ アース インフィニティ ( Earth Infinity) — ガス 料金 プラン｜ アース インフィニティ ( Earth Infinity) 株式会社アースインフィニティ https://www.earth-infinity.co.jp > personal > gas",
+    "url": "https://www.earth-infinity.co.jp/personal/gas.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.earth.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/new-products/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/contact/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/accident/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/product-list/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/discontinued/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/store/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.earth.jp/info/2026/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/info/2026/0608-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/products/bathclin-yakutou-meguri/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/policy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/Search.aspx?category=53",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/Search.aspx?category=1411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/products/mamoroom-aller-block-kae-pollen-2/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/info/2026/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/ContentsList.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=314&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=315&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=316&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=317&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=318&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=320&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=321&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=322&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=323&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.jp/support/faq/detail.aspx?id=324&a=102&isCrawler=1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.earth.jp/support/product-list/pdf/earthproducts-pestcontrol-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.earth.jp/support/product-list/pdf/earthproducts-ehp-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.earth.jp/support/product-list/pdf/earthgarden-products-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.earth.jp/products/mamoroom-aller-block-kae-pollen-2/pdf/mamoroom-allerblock-CVN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pa-solution.net/alphascope/file/6d585662745241574a686c3843794a47486a4e6366673d3d/e59586e59381e794bbe5838f/516%20earth-garden-mihariban-case-neko-4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://corp.earth.jp/jp/news/2026/pdf/20260701-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/contact/agency.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.earth-headoffice.com/distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcframe.com/case/earth-chemical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sateraito.jp/case_gw/08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gomana.ai/project/earth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beauty.rakuten.co.jp/s8000040357/menu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/madehere",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アース",
+   "results": [
+    "https://earth.google.com/web/?hl=ja",
+    "https://www.earth.jp/",
+    "https://earth.nullschool.net/jp/",
+    "https://earth.google.com/web",
+    "https://www.google.com/intl/ja/earth/versions/",
+    "https://play.google.com/store/apps/details?id=com.google.earth&hl=ja",
+    "https://apps.apple.com/jp/app/google-earth/id293622097",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B9",
+    "https://grokipedia.com/page/earth_japanese_band",
+    "https://ja.wikipedia.org/wiki/アース"
+   ]
+  },
+  {
+   "query": "アース 代理店 契約",
+   "results": [
+    "https://corp.earth.jp/jp/news/2026/pdf/20260701-01.pdf",
+    "https://www.earth-infinity.co.jp/contact/agency.php",
+    "http://www.earth-headoffice.com/distributor/",
+    "https://earthnet.co.jp/service/",
+    "https://metoree.com/companies/50049/distributors/",
+    "https://earth1988.co.jp/service/index.html",
+    "https://www.bgent.net/view/3448",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260518/20260515539137.pdf",
+    "https://earth-hosho.co.jp/faq/",
+    "https://www.earth.jp/store/?products"
+   ]
+  },
+  {
+   "query": "アース 導入事例",
+   "results": [
+    "https://www.mcframe.com/case/earth-chemical",
+    "https://www.sateraito.jp/case_gw/08.html",
+    "https://gomana.ai/project/earth/",
+    "https://hibiki.dreamarts.co.jp/smartdb/news/press-release/in260630/",
+    "https://businesssolution.konicaminolta.jp/business/solution/digitalmarketing/case/2024/earth_siterenewal.html",
+    "https://www.bbs.co.jp/news/20250116-002022.html",
+    "https://hcm-jinjer.com/results/results-93563/",
+    "https://www.earthlink.co.jp/results/",
+    "https://www.zaico.co.jp/casestudy/earth-corporation/",
+    "https://www.earthblower.com/case/"
+   ]
+  },
+  {
+   "query": "アース 価格 OR 料金",
+   "results": [
+    "https://beauty.hotpepper.jp/keyword/%E3%82%A2%E3%83%BC%E3%82%B9%E3%80%80%E7%BE%8E%E5%AE%B9%E5%AE%A4%E3%80%80%E6%96%99%E9%87%91%E8%A1%A8/",
+    "https://search.kakaku.com/%E9%99%A4%E8%8D%89%E5%89%A4%20%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "https://beauty.rakuten.co.jp/s8000040357/menu/",
+    "https://enechange.jp/articles/electricity-neo-west",
+    "https://www.earth-infinity.co.jp/personal/gas.html",
+    "https://beauty.hotpepper.jp/slnH000142668/coupon/CT00/",
+    "https://www.saiyasune.com/I1W%E9%99%A4%E8%8D%89%E5%89%A4+%E3%82%A2%E3%83%BC%E3%82%B9%E8%A3%BD%E8%96%AC.html",
+    "https://www.earth.jp/online-store/index.html",
+    "https://note.com/mrpotato/n/n12beac1f934b",
+    "https://www.ebc.com/jp/forex/284564.html"
+   ]
+  },
+  {
+   "query": "アース 受託 造形",
+   "results": [
+    "https://mono.ipros.com/cg2/%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://jampt.jp/",
+    "https://www.3dpc.co.jp/madehere",
+    "https://kyowa-industrial.jp/am/capabilities",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.fasotec.co.jp/product/3dprint/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://mono.ipros.com/product/detail/2001539993/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部12頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式28頁／PDF・画像5件／外部12頁・検索5回）"
+ }
+}

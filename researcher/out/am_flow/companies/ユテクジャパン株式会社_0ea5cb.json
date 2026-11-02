@@ -1,0 +1,898 @@
+{
+ "name": "ユテクジャパン株式会社",
+ "aliases": [],
+ "context": "/ Linde（旧Praxair TruForm）",
+ "researched_at": "2026-11-02T07:59:49.205156+00:00",
+ "official_url": "http://www.eutectic.asia/",
+ "identified_by": "search:yahoo_jp:ユテクジャパン",
+ "profile": {
+  "取引先": [
+   {
+    "label": "仕入先募集",
+    "value": "取引希望の方はこちら",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "label": "仕入先募集",
+    "value": "取引希望の方はこちら",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "お金の形": [
+   {
+    "quote": "・リロクラブ（宿泊施設・レストラン・カラオケ・映画・スポーツ施設等割引、日常・育児・介護・学習支援、健康・メンタルケアなど会員価格で利用可能）",
+    "url": "http://www.eutectic.asia/",
+    "pass": 1
+   },
+   {
+    "quote": "製造は1個から量産まで柔軟に対応致します",
+    "url": "http://www.eutectic.asia/job",
+    "pass": 1
+   },
+   {
+    "quote": "交換作業が発生すればその都度、生産ラインはストップし、部品調達に時間やコストがかかれば大幅なロスが発生する",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "通勤手当（原則として月額5万円まで支給）※営業職はETC・給油カードを支給",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "リロクラブ（宿泊施設・レストラン・カラオケ・映画・スポーツ施設等割引、日常・育児・介護・学習支援、健康・メンタルケアなど会員価格で利用可能）",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーホテル法人契約（法人会員価格で利用可能）",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "ユテクジャパンはドイツに本社を置き、溶接・溶射技術におけるあらゆる消耗品、機器、サービスを世界中の4万人以上の顧客に提供する「Castolin Eutectic」の一員として日本で60年を超える歴史を持つ溶接・溶射の専門プロバイダ―です",
+    "url": "https://pr.mono.ipros.com/eutectic/",
+    "pass": 3
+   },
+   {
+    "quote": "▶ Q3. 採用動画の制作費用・料金はどのくらいですか？投資対効果（ROI）は見合いますか？",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 制作費用・料金は、ニーズにあわせたプランを複数ご用意しております",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "価格で絞り込む",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "価格で絞り込む",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末式フレーム溶射",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "【業 種】 溶接・溶射用機器・合金、セラミックス及びフラックスの製造、販売並びにその輸出入",
+    "url": "http://www.eutectic.asia/company2",
+    "pass": 1
+   },
+   {
+    "quote": "溶接・溶射技術並びに工事のコンサルタント",
+    "url": "http://www.eutectic.asia/company2",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備の長寿命化などを目的とした溶接・溶射の材料や装置の販売、およびそれらを用いた工事の施工を行っています",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "装置・材料販売",
+    "url": "http://www.eutectic.asia/job",
+    "pass": 1
+   },
+   {
+    "quote": "ガス式には、 酸素・アセチレンを熱源として、熟練を必要としない簡単に使える「ユータロイ法」や、生産用に設計され、自溶合金、サーメット、セラミックスの溶射ができる「キャストダイン法」があります",
+    "url": "http://www.eutectic.asia/job",
+    "pass": 1
+   },
+   {
+    "quote": "装置・材料の販売から溶接・溶射を用いた現地施工まで一貫して対応するワンストップのメンテンナンス・ソリューションが当社の特徴です",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "当社が販売する溶接機や溶射機の点検・修理・設置作業を行うのが技術サービス職の仕事です",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が抱える機械設備の摩耗などの課題に対し、摩耗箇所の材質や使用環境などから摩耗原因を見極め、最適な溶接材料、溶射材料、耐摩耗製品、機械装置の販売を行います",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "ユテクジャパン株式会社は、1906年創業のドイツ企業カストリン・ユーテック社の日本法人で、溶接・溶射の材料と機器の販売および工事施工を通じて、日本のものづくりを支えています",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "【研修】未経験でも安心？教育・サポート体制",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "ガス溶接・アーク溶接の資格取得、ラボトレーニング（デモンストレーション練習室での日々の技術練習）という具体的な内容が説明され、1年目の充実した研修を経て「不安がすぐ入社1～2ヶ月でなくなった」「技術を習得すれば今後の武器になる」という現役社員の実感が語られます",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "技術営業が実際にお客様のところで行うデモンストレーション、ラボトレーニングでの日々の技術練習、新規営業による日々の顧客開拓、そして実際の工場で行われる溶接・溶射作業の現場が映像で示されます",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "営業が「ゼロが1になるのって楽しい」と感じるリアルや、工事職が溶接のトレーニング過程にある実態が描写されています",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "ガス溶接・アーク溶接の資格取得、ラボトレーニングでのデモンストレーション練習という具体的なステップを通じて、技術を習得すれば「今後どんどん自分の武器になる」という実感が、求職者の不安解消につながると考えられます",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "前職との具体的な比較が出る設計になっていない",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：1年目は目標数字もないので、残業であったりラボトレーニングとか、自分の時間をしっかり作る時期だと思います",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 【研修】未経験でも安心？教育・サポート体制",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後、最初に取得すべき資格がガス溶接とアーク溶接の2つと明示され、デモンストレーション能力を磨くためのラボトレーニング（専用の練習室）が日々の業務として組み込まれている",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "1年目は目標数字がなく研修とラボトレーニングに専念できる設計が説明され、「この技術を習得すれば今後の武器になる」という長期的なキャリア形成の見通しが示される",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "▶ 【詳細を読む】未経験でも安心？教育・サポート体制（3:42）",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "体験入社モデル：ラボトレーニングって何ですか？",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：ラボトレーニングというのはお客様のところでデモといって、実際に私たちの材料だったり機器を見せて、これの良さを伝えるということをやるんですけども、そういった時にやっぱり手間取ってるというかうまくできていないとお客様になんだこれってなっちゃうので、そのためにラボ室というトレーニング室があるんですけども、そういったところで日々営業の技術を練習する場所ですね",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "【ラボトレーニングによる技術習得】",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "実際の溶接トレーニング中の工事職が半年間の習得過程にあることが示され、営業が持ってくる案件に対応するために「できる範囲は全力で対応」する現場の働きぶりと挑戦が見える",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：ラボトレーニングというのはお客様のところでデモといって、実際に私たちの材料だったり機器を見せて、これの良さを伝えるということをやるんですけど、やっぱり手間取ってるというかうまくできていないとお客様になんだこれってなっちゃうので、そのためにラボ室というトレーニング室があるんです",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：半年なんですけど、それで溶接のトレーニングをしていました",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "体験入社モデル：トレーニング大変ですか？",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "KING OF TIME公認パートナー/ジョブカン認定コンサルタント",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社様は、ドイツに本社を置き、創業115年の歴史を持つCastolinグループの日本法人で、溶接・溶射の材料や装置の製造、販売、輸出入、そして、それらを用いた工事のコンサルタントや施工までを取り扱う企業です",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりの現場の生産設備を磨耗・損耗から守るため、溶接・溶射の材料や装置の製造、販売、輸出入、そして、それらを用いた工事のコンサルタントや施工までを取り扱っています",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "◎事業内容／溶接・溶射用機器・合金、セラミックス及びフラックスの製造、販売並びにその輸出入／溶接・溶射技術並びに工事のコンサルタント",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "溶接性に重点を置き設計されており、耐割れ性、耐ピット性及びX線性能はイルミナイト系溶接棒の中では特に優れた溶接棒です",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッコー熔材工業製溶接棒を小口販売用に再梱包した商品です",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "作業性と溶接性の双方を考慮して設計された溶接棒で、薄板から20mm程度以下の厚板までの全姿勢突合せ溶接、すみ肉溶接に適用できます",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "作業性と溶接性の双方を考慮して設計された溶接棒で、薄板から20mm程度以下の厚板までの全姿勢突合せ溶接、すみ肉溶接に適用できます",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊合金材の低熱入力溶接棒「ＥｕｔｅｃＴｒｏｄｅシリーズ」をはじめ、市販のＭＩＧ／ＭＡＧ溶接機で施工可能な特殊合金「Ｅｎｄｏｔｅｃシリーズ」や「ＣａｓｔｏＭａｇシリーズ」など産業界での表面耐摩耗処理、修理、接合用途向けに多数の製品を開発・販売しています",
+    "url": "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "【資本金】 授権資本金 6億円 払込済資本金 1億8,400万円",
+    "url": "http://www.eutectic.asia/company2",
+    "pass": 1
+   },
+   {
+    "quote": "技術サービス職：350万円～750万円",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "営業職：400万円～650万円 ※原則として、営業職は概ね1年後より「固定給+コミッション併用制」へ移行",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "モデルケース（社歴別平均年齢と平均年収）：2年目 34.5歳 475万円、5年目 38.5歳 581万円、10年目 43.6歳 707万円",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "通勤手当（原則として月額5万円まで支給）※営業職はETC・給油カードを支給",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "1,500円以下",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500-10,000円",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "10,000-50,000円",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "50,000-100,000円",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円以上",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500円以下",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500-10,000円",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "10,000-50,000円",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "50,000-100,000円",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円以上",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "H鋼・アングル(全て焼きなし)等への機器や器具、サドル、ボックス、板などの取り付けに",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "私たちの仕事は、ものづくりのお客様にコストメリットをもたらし、延いては地球環境を守ることに繋がります",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "そして日本で60年以上の歴史を持つ当社が長年蓄積した知識・経験・施工技術を用いてお客様が抱える課題を解決します",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのお客様",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業、製紙業、製鉄業、リサイクル産業、食品産業、ガラス工業、航空産業、エネルギー産業、農業、建設業など業種も規模も様々な全国4300社のお客様に当社の製品や施工サービスをご愛用いただいております",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "業種や規模に関係なく、機械の摩耗や長寿命化でお困りであれば、どのような企業もお客様となり得る可能性が当社のビジネスにはございます",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "1959年に設立したユテクジャパン株式会社（旧社名 日本ユテク株式会社）は、お陰様で多くのお客様に愛され成長を続けています",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社、仕入先、お客様を通して、活躍の舞台は世界にも広がります",
+    "url": "http://www.eutectic.asia/company",
+    "pass": 1
+   },
+   {
+    "quote": "自社工場内でも、出張施工でも、お客様の設備環境に合わせた最適な溶接・溶射処理を行います",
+    "url": "http://www.eutectic.asia/job",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のもとへ足繁く通い、コミュニケーションを重ね、工場内を徹底的にリサーチする",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "当のお客様でさえ、本当のニーズをご存じないことも珍しくありません",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ私たちに求められることは、数ある選択肢の中からお客様の要求と使用環境に最も適した解決方法を導き出し提案する事なのです",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "それでも溶接・溶射の効果をご存じないお客様が、日本にはまだまだいらっしゃいます",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "横浜本社にあるラボで対応するだけでなく、当社機器が導入されているお客様先へ赴き出張対応する場合も多々あります",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "当社機器を導入されるお客様のご要望と使用環境に合わせたご提案を営業と協力して行います",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "必要に応じて溶接機や溶射機をお客様の使用環境に合わせた専用機としてカスタマイズする他、部品図や設置レイアウト図をCADにて作成することもあります",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "横浜本社を拠点に全国のお客様を対応していただきますので、出張対応が多い職種となります",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が抱える機械設備の摩耗などの課題に対し、摩耗箇所の材質や使用環境などから摩耗原因を見極め、最適な溶接材料、溶射材料、耐摩耗製品、機械装置の販売を行います",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "・法人営業経験や顧客折衝経験",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "土日祝日休み（顧客都合により休日出社の場合は、振替休日・代休にて対応）",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   },
+   {
+    "quote": "ユテクジャパンはドイツに本社を置き、溶接・溶射技術におけるあらゆる消耗品、機器、サービスを世界中の4万人以上の顧客に提供する「Castolin Eutectic」の一員として日本で60年を超える歴史を持つ溶接・溶射の専門プロバイダ―です",
+    "url": "https://pr.mono.ipros.com/eutectic/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社の採用動画導入事例｜製造業界で選ばれる採用動画の新しいスタンダード『体験入社動画』 | 転職サイト【体験入社】",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社の採用動画導入事例｜製造業界で選ばれる採用動画の新しいスタンダード『体験入社動画』",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "採用動画の事例53選｜業界別の最新トレンドと体験型動画の成功パターン",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業界の採用動画事例3選｜体験型の成功パターン【2026最新】",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "結婚式場のサービスマン、溶接機械部品営業、ホテルアメニティ代理店営業、搬送機械メーカー営業など全く異なる業界からの転職者が、「なぜこの会社を選んだのか」をリアルに語っています",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "新規営業から既存顧客対応へのキャリアパスの中で、給与増加の仕組みと実現時期が具体的に示されています",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "営業所全体の70～80%が直行直帰で、1人1台の営業車を使って朝から晩まで顧客回りをするスタイルが説明されます",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "営業部門と工事部門が連携し、営業が営業効果を生み出しながら工事職人がお客様の要望に対応する体制が実例に基づいて示されています",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "技術営業が実際にお客様のところで行うデモンストレーション、ラボトレーニングでの日々の技術練習、新規営業による日々の顧客開拓、そして実際の工場で行われる溶接・溶射作業の現場が映像で示されます",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしこの動画では、結婚式場やホテルアメニティ営業など業界経験ゼロの社員が、充実した研修を経て1年目で基礎を固め、2年目以降に個別目標数字と営業所の達成率に基づいて報酬が変わる制度へ移行する仕組みが明確に描写されています",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "結婚式場、ホテルアメニティ、搬送機械メーカーなど全く異なる業界からの入社者が、前職との違いを具体的に証言し、「この業界は何も知らない状態で入社した」というリアルな経験が語られる",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：搬送機械メーカーの営業をやってたんですけども、この業界はもう何も知らない状態で入社しました",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "体験入社モデル：業界も業種も様々なんですね",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：ラボトレーニングというのはお客様のところでデモといって、実際に私たちの材料だったり機器を見せて、これの良さを伝えるということをやるんですけども、そういった時にやっぱり手間取ってるというかうまくできていないとお客様になんだこれってなっちゃうので、そのためにラボ室というトレーニング室があるんですけども、そういったところで日々営業の技術を練習する場所ですね",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "営業所全体の70～80%が直行直帰で、1人1台の営業車を所有し朝から晩まで顧客回りをするという営業スタイルが、実務的に説明される",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "営業者が1人1台対応されるのでそれを使って朝から晩まで回るべきお客様も回っているというような営業スタイルになりますね",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "新品交換が当たり前だった部品を補修で長寿命化するビジネスモデルにより、お客様のコストダウン、納期短縮（新作注文の1ヶ月から補修の1～2日への短縮）、廃棄物削減によるエコ貢献が実現される",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "営業部門が営業効果を生み出し、別途の工事部門（職長・作業員）がお客様のニーズに応じた対応をする役割分担が明確に説明され、「できる範囲は極力全力で対応」という現場の働きぶりが示される",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "それだけでもお客様のメリットにつながります",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のところでデモがうまくできないと信頼を失うリスクが説明され、そのために専用の練習室で日々技術を磨く仕組みが具体的に描写される",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "社員：ラボトレーニングというのはお客様のところでデモといって、実際に私たちの材料だったり機器を見せて、これの良さを伝えるということをやるんですけど、やっぱり手間取ってるというかうまくできていないとお客様になんだこれってなっちゃうので、そのためにラボ室というトレーニング室があるんです",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "業界を牽引する大手・上場企業が続々と導入する、採用動画の新しいスタンダード",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "同業の導入事例を見る",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社様の導入事例",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "〉ユテクジャパン株式会社様の導入事例",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 →",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "初めてのお客様へ 新規登録",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "pass": 3
+   },
+   {
+    "quote": "初めてのお客様へ 新規登録",
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊合金材の低熱入力溶接棒「ＥｕｔｅｃＴｒｏｄｅシリーズ」をはじめ、市販のＭＩＧ／ＭＡＧ溶接機で施工可能な特殊合金「Ｅｎｄｏｔｅｃシリーズ」や「ＣａｓｔｏＭａｇシリーズ」など産業界での表面耐摩耗処理、修理、接合用途向けに多数の製品を開発・販売しています",
+    "url": "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様設備のダウンタイムを低減！フィルム脆性を低減、耐衝撃性と耐摩耗性を向上",
+    "url": "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "pass": 3
+   },
+   {
+    "quote": "精密機械加工やねじ切りが可能！腐食性等の液体からお客様の設備を保護します",
+    "url": "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "pass": 3
+   },
+   {
+    "quote": "そして60年以上の歴史をもっており、長年蓄積した知識や経験、施工技術を用いて、顧客の悩みを解決しています",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズに適した製品を提供",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパンでは、溶接・溶射に関する世界中の先端技術を応用して開発された製品群の中から、顧客ニーズに合わせた製品を提供",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国4300社のさまざまな顧客",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ユテクの顧客は、自動車産業、製紙業、製鉄業、リサイクル産業、食品産業、ガラス工業、航空産業、エネルギー産業、農業、建設業など、業種も会社の規模もさまざまな全国4300社の企業で、製品およびサービスを愛用されています",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ユテクでは、自社サービス工場での施工及び、出張施工により、顧客のニーズに合わせたソリューションを提供",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "溶射業界のシェアTOP3企業調査レポートを見る",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "溶射業界シェアTOP3企業を見る",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2021年12月現在、公開されている最も新しい統計資料（デジタルリサーチ「2013年版溶射市場の現状と展望」）から溶射業界の売上高シェアTOP3企業をピックアップ",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "自社開発によるリング、シート、ワイヤ、ロッド、ペースト、専用プリフォームなど、さまざまな形態の溶加材金属を用いて、極めて耐食・耐摩耗性の高い接合・肉盛施工を致します",
+    "url": "http://www.eutectic.asia/job",
+    "pass": 1
+   },
+   {
+    "quote": "ラブルを防ぐ独自技術と自社製品",
+    "url": "http://www.eutectic.asia/recruit2",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 ユテクジャパン 」の 代理店 3社 注目ランキング【2026年】 — 「 ユテクジャパン 」の 代理店 3社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > ユテクジャパン株式会社",
+    "url": "https://metoree.com/companies/1036156/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン 株式会社 - Powered by イプロスものづくり — ユテクジャパン 株式会社 - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > eutectic",
+    "url": "https://pr.mono.ipros.com/eutectic/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン 株式会社 — ユテクジャパン 株式会社 ユテクジャパン株式会社 http://www.eutectic.asia",
+    "url": "http://www.eutectic.asia/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン 株式会社様の導入事例 — ユテクジャパン 株式会社様の導入事例 フォスターリンク https://www.fosterlink.co.jp > introduction-results > eutectic",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社の採用動画導入事例｜製造業界で選ばれる採用... — ユテクジャパン株式会社は、1906年創業のドイツ企業カストリン・ユーテック社の日本法人で、溶接・溶射の材料と機器の販売および工事施工を通じて、日本のものづくりを支えています。",
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社様の導入事例ユテクジャパン株式会社製造業の技術営業職採用で、なぜ『体験入社動画』が選ばれたのか。——...事業紹介 | ユテクジャパン株式会社基板表面クリーナーのユニテク株式会社｜高耐久・不良率低減溶射加工業者・日本ユテク （現ユテクジャパン）を大調査！ — 佐藤：当社は、ドイツに本社を置き、創業115年の歴史を持つCastolinグループの日本法人です。 ものづくりの現場の生産設備を磨耗・損耗から守るため、溶接・溶射の材料や装置の製造、販売、輸出入、そして、それらを用いた工事のコンサルタントや施工までを取り扱っています。 国内に11ヶ所の営業所と、6ヶ所の工場を持っており、現在171名（2022年6月現在）の従業員が属しています。 See full list on fosterlink.co.jp 佐藤：私たちが所属している財務部は現在7名体制で、給与まわりや資金管",
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン株式会社 — セクハラ防止の取り組み 個人情報保護方針 ユテクジャパンについて Castolin Eutectic の歩み ユテクジャパンのレジュメ 事業紹介 社内制度・職場環境 採用情報 募集要項 社員インタビュー 第3弾 社員インタビュー 第2弾 社員インタビュー 第1弾 エントリー お ...",
+    "url": "http://www.eutectic.asia/",
+    "pass": 3
+   },
+   {
+    "quote": "溶射加工業者・日本ユテク （現ユテクジャパン）を大調査！ — 日本ユテクの会社特徴 1906年創業のCastolin Eutecticのグループ会社 ユテクジャパンは、115年の歴史をもつドイツ本社や世界のグループ会社。 そして60年以上の歴史をもっており、長年蓄積した知識や経験、施工技術を用いて、顧客の悩みを解決しています。",
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | ユテクジャパン株式会社 — 長年の実績と信頼を誇る低熱入力溶接材料は、ガス棒、アーク棒、TIG棒からワイヤータイプまで、多種多様な製品をラインナップしています。 ユテクティック特有の共晶合金を成分とする汎用度の高いガス棒、アーク棒は、母材にかかる熱入力を抑えることで割れ・歪みなどが最小の溶接材料 ...",
+    "url": "http://www.eutectic.asia/job",
+    "pass": 3
+   },
+   {
+    "quote": "\"ユテクジャパン溶接棒\" 【通販モノタロウ】 最短即日出荷 — 20件掲載中！\"ユテクジャパン溶接棒\"がモノタロウでお買得。【最短即日出荷 / 3,500円 (税別)以上配送料無料 / 請求書払いにも対応】",
+    "url": "https://www.monotaro.com/s/q-ユテクジャパン溶接棒/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ユテクジャパン\" 【通販モノタロウ】 最短即日出荷 — 20件掲載中！\"ユテクジャパン\"がモノタロウでお買得。【最短即日出荷 / 3,500円 (税別)以上配送料無料 / 請求書払いにも対応】",
+    "url": "https://www.monotaro.com/s/q-ユテクジャパン/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接材料一覧 | ユテクジャパン - Powered by イプロスものづくり — 溶接材料 長年の信頼と実績を誇るユテクジャパン独自の低熱入力溶接材料は、ガス棒、アーク棒、TIG棒からワイヤータイプまで幅広い製品を取り揃えております。 ユテクティック特有の共晶合金を成分とする汎用度の高いガス棒、アーク棒は、母材にかかる熱入力を抑えることで割れや歪み ...",
+    "url": "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "pass": 3
+   },
+   {
+    "quote": "ユテクジャパン 溶接材料 | ユテクジャパン - Powered by イプロスも... — ユテクジャパンはドイツに本社を置き、溶接・溶射技術におけるあらゆる消耗品、機器、サービスを世界中の4万人以上の顧客に提供する「Castolin Eutectic」の一員として日本で60年を超える歴史を持つ溶接・溶射の専門プロバイダ―です。",
+    "url": "https://pr.mono.ipros.com/eutectic/product/detail/2000052394/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.eutectic.asia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.eutectic.asia/company2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.eutectic.asia/actionplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.eutectic.asia/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.eutectic.asia/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.eutectic.asia/job",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.eutectic.asia/recruit2",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/1036156/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/eutectic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%BA%B6%E6%8E%A5%E6%A3%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-%E3%83%A6%E3%83%86%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.processing-thermalspray.com/company/eutectic.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユテクジャパン",
+   "results": [
+    "http://www.eutectic.asia/",
+    "https://pr.mono.ipros.com/eutectic/",
+    "http://www.eutectic.asia/company2",
+    "https://suwa.monozukuri.or.jp/detail/02052/",
+    "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "https://metoree.com/companies/1036156/",
+    "https://www.processing-thermalspray.com/company/eutectic.html",
+    "http://www.eutectic.asia/map",
+    "https://jtsa.jp/melba/Members/Member_1009.html",
+    "https://ja.wikipedia.org/wiki/ユニジャパン"
+   ]
+  },
+  {
+   "query": "ユテクジャパン 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/1036156/distributors/",
+    "https://pr.mono.ipros.com/eutectic/",
+    "http://www.eutectic.asia/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2227",
+    "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "https://iikyujin.net/job_search/77789/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015617543/",
+    "https://www.processing-thermalspray.com/company/eutectic.html",
+    "https://suwa.monozukuri.or.jp/hitowaza/01290/",
+    "https://metoree.com/companies/758/distributors/"
+   ]
+  },
+  {
+   "query": "ユテクジャパン 導入事例",
+   "results": [
+    "https://media.taikennyusha.com/cases/manufacturing/utek-japan-133043/",
+    "https://www.fosterlink.co.jp/introduction-results/eutectic",
+    "http://www.eutectic.asia/",
+    "https://www.processing-thermalspray.com/company/eutectic.html",
+    "http://www.eutectic.asia/job",
+    "https://note.com/taikennyusha/n/ne1abd6857880",
+    "https://unitechkk.co.jp/"
+   ]
+  },
+  {
+   "query": "ユテクジャパン 価格 OR 料金",
+   "results": [
+    "https://www.monotaro.com/s/q-ユテクジャパン溶接棒/",
+    "https://www.monotaro.com/s/q-ユテクジャパン/",
+    "https://pr.mono.ipros.com/eutectic/product/category/38214/",
+    "https://pr.mono.ipros.com/eutectic/product/detail/2000052394/",
+    "http://www.eutectic.asia/",
+    "https://mono.ipros.com/product/detail/2000308624/",
+    "https://kaippg.org/ユテク680-ユテクシャハン-低熱入力-tig溶接棒-680-通販モ/"
+   ]
+  },
+  {
+   "query": "ユテクジャパン 受託 造形",
+   "results": [
+    "http://www.eutectic.asia/",
+    "https://www.processing-thermalspray.com/company/eutectic.html",
+    "http://www.eutectic.asia/job",
+    "https://utech-jp.com/service/",
+    "https://utech-jp.com/",
+    "http://www.u-tc.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

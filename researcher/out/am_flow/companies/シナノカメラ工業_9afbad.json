@@ -1,0 +1,1284 @@
+{
+ "name": "シナノカメラ工業",
+ "aliases": [],
+ "context": "「事業紹介：3Dプリンター」をAM装置カテゴリに掲載。材料・方式は不明 /",
+ "researched_at": "2026-11-02T07:55:35.490132+00:00",
+ "official_url": "https://www.sinakame.co.jp/",
+ "identified_by": "search:yahoo_jp:シナノカメラ工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1974年5月",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1974年5月",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "創業年月",
+    "value": "1974年5月",
+    "url": "https://suwa.monozukuri.or.jp/detail/01572/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "高密度基板実装・精密機器組立・3Dプリンター造形サービス",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "高密度基板実装・精密機器組立・3Dプリンター造形サービス",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "基板実装、組立、精密機器組立",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "98名",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "98名",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "100名",
+    "url": "https://suwa.monozukuri.or.jp/detail/01572/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "120名",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先",
+    "value": "株式会社イングスシナノ / イデアシステム株式会社 / エル・エス・アイジャパン株式会社 / 株式会社大崎電業社 / 金陵電機株式会社 / ＫＯＡ株式会社 / 工商エレクトロニクス / 株式会社コシナ / 株式会社国興 / コニカミノルタオプト株式会社 / 株式会社サーキットデザイン / シイエムケイプロダクツ株式会社 / 株式会社シンキー / セイコーエプソン株式会社 / 西武電子機器株式会社 / タカネ電機株式会社 / 株式会社ティアンドデイ / 株式会社トヨテック / 株式会社藤岡エンジニアリング / 株式会社堀場製作所 / さくら電子株式会社 / 株式会社HSET / 株式会社テックフォース / 太洋工業株式会社 / 名古屋理研電具株式会社 / 株式会社エイビット / 伊那トロン株式会社",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "取引先",
+    "value": "株式会社イングスシナノ / イデアシステム株式会社 / エル・エス・アイジャパン株式会社 / 株式会社大崎電業社 / 金陵電機株式会社 / ＫＯＡ株式会社 / 工商エレクトロニクス / 株式会社コシナ / 株式会社国興 / コニカミノルタオプト株式会社 / 株式会社サーキットデザイン / シイエムケイプロダクツ株式会社 / 株式会社シンキー / セイコーエプソン株式会社 / 西武電子機器株式会社 / タカネ電機株式会社 / 株式会社ティアンドデイ / 株式会社トヨテック / 株式会社藤岡エンジニアリング / 株式会社堀場製作所 / さくら電子株式会社 / 株式会社HSET / 株式会社テックフォース / 太洋工業株式会社 / 名古屋理研電具株式会社 / 株式会社エイビット / 伊那トロン株式会社",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "自社ブランドの企画・デザイン・製造販売",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "部品調達・基板設計・基板実装・製品組立・検査・梱包、を試作から量産まで",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "基板設計→部品調達→実装（検査）→組立（検査）→梱包までを一貫して行います",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "基板試作実績がたくさんあります！",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "回路図と部品表から基板設計（アートワーク）を行い、基板の製造を実施",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "信頼の工程設計",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品のニーズに合わせた工程設計を提案",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、我々のコア技術である基板実装は、量産から試作まで充実した設備と技術力を駆使し、お客様の様々なご要望に、『スピードと情熱』を持って対応させて頂いております",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "高密度基板実装・精密機器組立・3Dプリンター造形サービス",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "てまりランプ販売開始",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "雷検知器「雷報」販売開始",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "長野県松本合同庁舎松本市商工観光部労政課「健康経営セミナー」",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＬＩＴＡＳ（ライタス）・・・クラスタ中町にて販売中",
+    "url": "http://www.sinakame.co.jp/original_product.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売ページに移動します",
+    "url": "http://www.sinakame.co.jp/original_product.html",
+    "pass": 1
+   },
+   {
+    "quote": "３Ｄ造形品（販売ページ）・箸置き、キーホルダー、スタンド（お問い合わせ下さい）",
+    "url": "http://www.sinakame.co.jp/original_product.html",
+    "pass": 1
+   },
+   {
+    "quote": "FPC基板実装の実績も多数あり、高い技術力と徹底した品質管理、基板設計から実装までのトータルな対応で幅広い実装ニーズにお応えします",
+    "url": "https://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "基板製造・はんだ印刷メタルマスク製作・基板実装・ルータ加工治具設計を一括で迅速に対応します",
+    "url": "https://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "基板設計→部品調達→実装（検査）→組立（検査）→梱包までを一貫して行います",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "基板試作実績がたくさんあります！",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "回路図と部品表から基板設計（アートワーク）を行い、基板の製造を実施",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "信頼の工程設計",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品のニーズに合わせた工程設計を提案",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、我々のコア技術である基板実装は、量産から試作まで充実した設備と技術力を駆使し、お客様の様々なご要望に、『スピードと情熱』を持って対応させて頂いております",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "高密度基板実装・精密機器組立・3Dプリンター造形サービス",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "てまりランプ販売開始",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "雷検知器「雷報」販売開始",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "長野県松本合同庁舎松本市商工観光部労政課「健康経営セミナー」",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業に欠かせない自動組立機の開発・設計・製作を行う企業",
+    "url": "https://www.sinakame.co.jp/news/category1/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業に欠かせない自動組立機の開発・設計・製作を行う企業",
+    "url": "https://www.sinakame.co.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・自社ブランド品の展示販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "・雷検知器 雷報（ライホウ） イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "・てまり風照明 なごみ イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "・信州・松本の伝統工芸、名産品をモチーフにしたモビール イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "FPC基板実装の実績も多数あり、高い技術力と徹底した品質管理、基板設計から実装までのトータルな対応で幅広い実装ニーズにお応えします",
+    "url": "http://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "基板製造・はんだ印刷メタルマスク製作・基板実装・ルータ加工治具設計を一括で迅速に対応します",
+    "url": "http://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "Virtual EXPO メカ設計EXPO出展！",
+    "url": "https://www.sinakame.co.jp/news/exhibition/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "「メカ設計EXPO」に出展し、CAD・CAM/MES、3D計測(3Dスキャナ)、3Dプリンター分野に関する活用事例や最新情報をご案内いたします",
+    "url": "https://www.sinakame.co.jp/news/exhibition/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は国内最大級のバーチャル展示会に丸紅情報システムズ株式会社様の下でStratasys社様に協力を得て行っている「3Dプリンターを活用した生産技術活動とアディティブマニュファクチャにおける設計最適化」についての動画コンテンツを出展いたします",
+    "url": "https://www.sinakame.co.jp/news/exhibition/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業に欠かせない自動組立機の開発・設計・製作を行う企業",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-82.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・自社ブランド品の展示販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "・雷検知器 雷報（ライホウ） イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "・てまり風照明 なごみ イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "・信州・松本の伝統工芸、名産品をモチーフにしたモビール イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・自社ブランド品の展示販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   },
+   {
+    "quote": "・雷検知器 雷報（ライホウ） イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   },
+   {
+    "quote": "・てまり風照明 なごみ イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   },
+   {
+    "quote": "・信州・松本の伝統工芸、名産品をモチーフにしたモビール イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   },
+   {
+    "quote": "Virtual EXPO メカ設計EXPO出展！ | 展示会 | NEWS | シナノカメラ工業、ＬｉＴＡＳ、ライタス",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-44.html",
+    "pass": 1
+   },
+   {
+    "quote": "Virtual EXPO メカ設計EXPO出展！",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-44.html",
+    "pass": 1
+   },
+   {
+    "quote": "「メカ設計EXPO」に出展し、CAD・CAM/MES、3D計測(3Dスキャナ)、3Dプリンター分野に関する活用事例や最新情報をご案内いたします",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-44.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は国内最大級のバーチャル展示会に丸紅情報システムズ株式会社様の下でStratasys社様に協力を得て行っている「3Dプリンターを活用した生産技術活動とアディティブマニュファクチャにおける設計最適化」についての動画コンテンツを出展いたします",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-44.html",
+    "pass": 1
+   },
+   {
+    "quote": "・性別、年齢、障がい、国籍、出身などによる差別を防ぐ教育体制や相談体制を整備",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・雇用、教育、昇進・登用、福利厚生などあらゆる雇用条件で、差別し",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・セクハラ、マタハラ、パワハラ等のハラスメントを防ぐ、ルール・教育・相談体制を",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・教育の実施、相談窓口を設置している",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・社員向けの労働安全衛生講習会の実施、安全衛生委員への任用等により意",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "8 【人材育成】・適切な能力開発、教育訓練の機会を従業員に提供している 基本 ・職務や役割に応じた研修体系を整備し実施している",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（次世代リーダー研修、はんだ付け技能検定 他）・教育訓練制度あり",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "30 【環境配慮】・環境に配慮した製品の開発・設計に取り組んでいる チャレンジ 6 12 13 14 15",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "31 【社会課題解決】・社会課題を解決する製品・サービスの開発・展開に取り組んでいる チャレンジ ・３Ｄプリンターによる試作サービスを展開し、主として小規模事業者の商品開発のスビートアップと精度向上に貢献している",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の課題やニーズに、技術力と豊富な経験で対応",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【ご利用のお客様へ】",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の手を煩わせることなく、ご要望に応じた効率的な製造、徹底した品質管理、生産管理、納期管理を実現します",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の負担を軽減します",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のフィードバックをもとに、最善の生産工程を確立します",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、我々のコア技術である基板実装は、量産から試作まで充実した設備と技術力を駆使し、お客様の様々なご要望に、『スピードと情熱』を持って対応させて頂いております",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "シナノカメラ工業は、これからもお客様に満足頂ける製品作りを常に心がけ、未来に向かって、お客様、取引先様、スタッフの皆が共に発展できるよう全力で挑戦してまいります",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "わが社は、歓迎され、信頼される商品とサービスの提供により、ユーザーの利便性向上に貢献するとともに、企業の安定した発展を図り、全社員の物心両面の幸せの追求と地域の人々に貢献することを目的とします",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の満足する製品を提供するために、お客様及び利害関係者の要求事項、法的要求事項を順守し、継続的改善に取り組む",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "【ご利用のお客様へ】",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-88.html",
+    "pass": 1
+   },
+   {
+    "quote": "【ご利用のお客様へ】",
+    "url": "https://www.sinakame.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の手を煩わせることなく、ご要望に応じた効率的な製造、徹底した品質管理、生産管理、納期管理を実現します",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の負担を軽減します",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のフィードバックをもとに、最善の生産工程を確立します",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、我々のコア技術である基板実装は、量産から試作まで充実した設備と技術力を駆使し、お客様の様々なご要望に、『スピードと情熱』を持って対応させて頂いております",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "シナノカメラ工業は、これからもお客様に満足頂ける製品作りを常に心がけ、未来に向かって、お客様、取引先様、スタッフの皆が共に発展できるよう全力で挑戦してまいります",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "わが社は、歓迎され、信頼される商品とサービスの提供により、ユーザーの利便性向上に貢献するとともに、企業の安定した発展を図り、全社員の物心両面の幸せの追求と地域の人々に貢献することを目的とします",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の満足する製品を提供するために、お客様及び利害関係者の要求事項、法的要求事項を順守し、継続的改善に取り組む",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "【ご利用のお客様へ】",
+    "url": "https://www.sinakame.co.jp/news/category1/",
+    "pass": 1
+   },
+   {
+    "quote": "チャレンジ ・取引先との対話を通じた人権侵害防止等の取組状況の確認活動を行っている",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "29 【品質保証】・品質のよいモノやサービスを提供するための仕組みを構築している 基本 ・ＩＳＯ19001を取得し、顧客からのクレーム対応など、品質を保証する仕組みを構築している",
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "チャレンジ ・取引先との対話を通じた人権侵害防止等の取組状況の確認活動を行っている",
+    "url": "http://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "29 【品質保証】・品質のよいモノやサービスを提供するための仕組みを構築している 基本 ・ＩＳＯ19001を取得し、顧客からのクレーム対応など、品質を保証する仕組みを構築している",
+    "url": "http://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GD.findi ナビゲーション（ユーザー専用）",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様プロフィール",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   },
+   {
+    "quote": "「取引先の信頼を得るために、品質管理には特に重点を置いている",
+    "url": "https://saiplus.jp/archive/special/2014/02/259.php",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業の取引先は、ほとんどが地元の中信地域に拠点を置く企業",
+    "url": "https://saiplus.jp/archive/special/2014/02/259.php",
+    "pass": 3
+   },
+   {
+    "quote": "取引先のカメラメーカーが海外生産にシフトする中で、生き残るために受託生産という道を選択したシナノカメラ工業",
+    "url": "https://saiplus.jp/archive/special/2014/02/259.php",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2056266/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2056266/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "http://www.sinakame.co.jp/original_product.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "http://www.sinakame.co.jp/original_product.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-90.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-90.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-89.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-89.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-88.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-88.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/exhibition/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/exhibition/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-86.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-86.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-84.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-84.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "・雷検知器 雷報（ライホウ） イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "・てまり風照明 なごみ イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "・信州・松本の伝統工芸、名産品をモチーフにしたモビール イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "http://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "http://www.sinakame.co.jp/works/implementation.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-83.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-83.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/exhibition/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/exhibition/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-82.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-82.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-81.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-81.html",
+    "pass": 1
+   },
+   {
+    "quote": "・雷検知器 雷報（ライホウ） イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "・てまり風照明 なごみ イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "・信州・松本の伝統工芸、名産品をモチーフにしたモビール イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-80.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-80.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談など",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-79.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積り依頼、技術相談などご相談はお気軽にお問い合わせください",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-79.html",
+    "pass": 1
+   },
+   {
+    "quote": "・雷検知器 雷報（ライホウ） イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   },
+   {
+    "quote": "・てまり風照明 なごみ イベント特別価格で販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "私たちは、地域社会と円満協調を図り、社会環境の様々な変化に目を向け、社会の一員としての責任を果たします",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "3,000万円",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円にて会社設立",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、地域社会と円満協調を図り、社会環境の様々な変化に目を向け、社会の一員としての責任を果たします",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "3,000万円",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円にて会社設立",
+    "url": "http://www.sinakame.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "3000万円",
+    "url": "https://suwa.monozukuri.or.jp/detail/01572/",
+    "pass": 3
+   },
+   {
+    "quote": "他部署との合意形成を円滑にしたい",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   },
+   {
+    "quote": "3000万円",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "自社製品ページのブランド名リニューアル",
+    "url": "https://www.sinakame.co.jp/news/category1/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品ページのブランド名リニューアル",
+    "url": "https://www.sinakame.co.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・自社ブランド品の展示販売",
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品ページのブランド名リニューアル | お知らせ | NEWS | シナノカメラ工業、ＬｉＴＡＳ、ライタス",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-81.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品ページのブランド名リニューアル",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-81.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・自社ブランド品の展示販売",
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品ページのブランド名決定",
+    "url": "https://www.sinakame.co.jp/news/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品・自社ブランド品の展示販売",
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "シナノカメラ工業 株式会社の会社概要・製品情報 | Metoree — シナノカメラ工業 株式会社の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/8912/",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業 株式会社 - NAGANOものづくり諏訪圏ガイド — シナノカメラ工業 株式会社 - NAGANOものづくり諏訪圏ガイド NAGANOものづくり諏訪圏ガイド https://suwa.monozukuri.or.jp > detail",
+    "url": "https://suwa.monozukuri.or.jp/detail/01572/",
+    "pass": 3
+   },
+   {
+    "quote": "地元企業が開発した製品を完成まで受注生産 シナノカメラ工業 — 地元企業が開発した製品を完成まで受注生産 シナノカメラ工業 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=GOTp-tyrE3w",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業 | 企業情報 | イプロスものづくり — シナノカメラ工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体",
+    "url": "https://mono.ipros.com/company/detail/2056266/",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業 、LiTAS、ライタス — シナノカメラ工業 、LiTAS、ライタス シナノカメラ工業 https://www.sinakame.co.jp",
+    "url": "https://www.sinakame.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業 株式会社様 | LEXER ソリューションサイト — シナノカメラ工業 株式会社様 | LEXER ソリューションサイト GD.findi https://gdfindi.com > ホーム > 導入事例",
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | シナノカメラ工業 、LiTAS、ライタス — 会社概要 | シナノカメラ工業 、LiTAS、ライタス シナノカメラ工業 https://www.sinakame.co.jp > company",
+    "url": "https://www.sinakame.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業 株式会社【TSUNAGU会社見学 松本エリア ... — シナノカメラ工業 株式会社【TSUNAGU会社見学 松本エリア ... YouTube https://m.youtube.com > watch",
+    "url": "https://m.youtube.com/watch?v=HlnpP3hfxKU&pp=iggCQAE%3D&ra=m",
+    "pass": 3
+   },
+   {
+    "quote": "シナノカメラ工業 株式会社｜長野県松本市の組立・検査会社 — シナノカメラ工業 株式会社｜長野県松本市の組立・検査会社 XtoX https://xtox.co.jp > TOP > 長野県の製造業",
+    "url": "https://xtox.co.jp/kakouba/company/18043182ea/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sinakame.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/works/ems.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinakame.co.jp/original_product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/works/implementation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-90.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-89.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-88.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinakame.co.jp/works/ems.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinakame.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-86.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-84.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sinakame.co.jp/works/implementation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-83.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-82.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-81.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/page/4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-80.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-79.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-78.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/category1/entry-77.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-74.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/news/exhibition/entry-44.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinakame.co.jp/assets/document/sdgs_shinakame.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.sinakame.co.jp/assets/document/sdgs_shinakame_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/8912/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suwa.monozukuri.or.jp/detail/01572/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=GOTp-tyrE3w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gdfindi.com/jp/case/case-shinano/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiplus.jp/archive/special/2014/02/259.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?app=desktop&v=HlnpP3hfxKU&pp=iggCQAE%3D&ra=m",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suwa.monozukuri.or.jp/detail/01572/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2056266/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiplus.jp/archive/special/2014/02/259.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シナノカメラ工業",
+   "results": [
+    "https://www.sinakame.co.jp/",
+    "https://metoree.com/companies/8912/",
+    "https://suwa.monozukuri.or.jp/detail/01572/",
+    "https://gdfindi.com/jp/case/case-shinano/",
+    "https://en-hyouban.com/company/10105763335/",
+    "https://www.sinakame.co.jp/company.html",
+    "https://www.atengineer.com/pr/sinakame/company",
+    "https://mono.ipros.com/company/detail/2056266/",
+    "https://www.facebook.com/p/シナノカメラ工業株式会社-100063491586142/",
+    "https://nagano-sdgs.com/company/323/profile/"
+   ]
+  },
+  {
+   "query": "シナノカメラ工業 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/8912/",
+    "https://suwa.monozukuri.or.jp/detail/01572/",
+    "https://www.youtube.com/watch?v=GOTp-tyrE3w",
+    "https://mono.ipros.com/company/detail/2056266/",
+    "https://www.sinakame.co.jp/",
+    "https://gdfindi.com/jp/case/case-shinano/",
+    "https://www.tdb.co.jp/service/u/1006.jsp?TDBCompanyCode=300022454",
+    "https://saiplus.jp/archive/special/2014/02/259.php",
+    "https://m.youtube.com/watch?v=HlnpP3hfxKU&pp=iggCQAE%3D&ra=m"
+   ]
+  },
+  {
+   "query": "シナノカメラ工業 導入事例",
+   "results": [
+    "https://gdfindi.com/jp/case/case-shinano/",
+    "https://www.sinakame.co.jp/company.html",
+    "https://saiplus.jp/archive/special/2014/02/259.php",
+    "https://suwa.monozukuri.or.jp/detail/01572/",
+    "https://www.gitc.pref.nagano.lg.jp/joho/chiikishigen/case_archives/shinanocamera.html",
+    "https://youtu.be/6elJQ7wiPp4?si=YomqnSQaRdshX-NG",
+    "https://metoree.com/companies/8912/",
+    "https://www.sinakame.co.jp/",
+    "https://www.youtube.com/watch?v=lPthjSj32lg",
+    "https://www.atengineer.com/pr/sinakame/company"
+   ]
+  },
+  {
+   "query": "シナノカメラ工業 価格 OR 料金",
+   "results": [
+    "https://www.sinakame.co.jp/",
+    "https://m.youtube.com/watch?v=HlnpP3hfxKU&pp=iggCQAE%3D&ra=m",
+    "https://suwa.monozukuri.or.jp/detail/01572/",
+    "https://gdfindi.com/jp/case/case-shinano/",
+    "https://metoree.com/companies/8912/",
+    "https://www.tdb.co.jp/service/u/1006.jsp?TDBCompanyCode=300022454",
+    "https://litas-store.com/shopguide",
+    "https://www.youtube.com/watch?v=GOTp-tyrE3w"
+   ]
+  },
+  {
+   "query": "シナノカメラ工業 受託 造形",
+   "results": [
+    "https://mono.ipros.com/company/detail/2056266/",
+    "https://saiplus.jp/archive/special/2014/02/259.php",
+    "https://www.sinakame.co.jp/",
+    "https://suwa.monozukuri.or.jp/detail/01572/",
+    "https://xtox.co.jp/kakouba/company/18043182ea/",
+    "https://youtu.be/6elJQ7wiPp4?si=YomqnSQaRdshX-NG",
+    "https://gdfindi.com/jp/case/case-shinano/",
+    "https://www.tdb.co.jp/service/u/1006.jsp?TDBCompanyCode=300022454",
+    "https://www.atengineer.com/pr/sinakame/company",
+    "https://mono.ipros.com/company/detail/2056266/category/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像4件／外部9頁・検索5回）"
+ }
+}

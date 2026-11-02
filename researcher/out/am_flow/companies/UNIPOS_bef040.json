@@ -1,0 +1,1442 @@
+{
+ "name": "UNIPOS",
+ "aliases": [],
+ "context": "/ ADAXIS（仏）",
+ "researched_at": "2026-11-02T07:52:18.013031+00:00",
+ "official_url": "https://www.unipos.net",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1991年6月1日",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "2012年",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "年 月 日",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "UNIPOS – ユニポス 研究開発者向け海外製品調達・コンサルテーションサービス TEGSYS – テグシス 研究開発や産業用ニーズに最適化されたカスタムPC製作サービス テガラ株式会社 TKS事業部 「ターン・キー」で使える研究開発・実験用機材一式構築サービス",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "label": "営業品目",
+    "value": "電子計算機類 (217) / 事務用機器類 (220) / その他 (229)",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要販売先",
+    "value": "ユニポスの主要販売先 テグシスの主要販売先",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "30〜99人",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・人間学",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・研究機器",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "設計・モデリング",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "# 教育用ロボット",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "HumansX フィジカルAI教育キット",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット設計制御 フィジカルAI実習 ロボティクス教材",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "6ポート構成 小型組み込み設計 EtherCATスイッチ",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量デスクトップ設計 力位置ハイブリッド制御 6自由度ロボットアーム",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "最新バージョン リリース情報",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルテガカリ ラインアップ追加",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "教育ロボット",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "STEM/STEAM教育",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "ヒューマンセンシングガイド｜計測システムの構成と設計",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "商社のお客さまへ | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向け海外製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニポスの主要販売先",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "テグシスの主要販売先",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資格の種類： 物品の販売 (等級C)",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "▶️毒物劇物一般販売業登録： 登録番号： 浜健総B第1-745号",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニポスについて | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発用途に特化した海外製品調達のコンサルテーションサービスです",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「海外製品調達のコンサルテーションサービス」とは？",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "取引実績 | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニポス (unipos.net)は日本最大級の研究開発者向け海外製品調達・コンサルテーションサービスです",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の電子機器やソフトウェアを「1個から」販売します",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "全国400以上の研究・教育機関、多数の企業様との取引実績があります",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "教育機関（50音順）",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立大学法人 愛知教育大学",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立大学法人 奈良教育大学",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立大学法人 鳴門教育大学",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立大学法人 兵庫教育大学",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立大学法人 北海道教育大学",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立大学法人 宮城教育大学",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "独立行政法人 国立特別支援教育総合研究所",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社取引先商社一覧 (商社様経由でのお取引について) | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "東海教育産業株式会社",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "探す | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルテーションサービス",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタルサービス",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "# 教育用ロボット",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・人間学",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・研究機器",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "設計・モデリング",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者向けレンタル",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例（ユニポス × テグシス）",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "商社様の営業スタイルに合わせ、お客様とのビジネスをご支援します",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニポスの主要販売先",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "テグシスの主要販売先",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ご自身で海外サイトから製品の購入先を探す手間が省けます",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大学や公的機関のお客様へは、納入と同時に代表者印付き正式書類(見積書・請求書・納品書)をお送りしています",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、企業のお客様へも法人掛売りに対応でき、納入と同時に納品書、請求書をお送りしています",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社取引先商社一覧",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社取引先商社一覧 (商社様経由でのお取引について) | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社取引先商社一覧",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 掲載は取引先様の一部となります",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "この他の商社様を経由してのお取引も可能ですので、お客様が普段お取引のある商社様へご相談ください",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の必要とする製品名や技術、ご所属の研究分野などからお客様に最適な製品・サービスを「探す」お手伝いをいたします",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の研究開発に必要な治具を、3Dプリンタで 一個から試作いたします",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/request/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/search-contents/services/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "1週間の無料枠はなるべく多くのお客様にお試しいただくため、レンタルは「各製品毎に、1ユーザーさま、1回限り」 とさせていただきます",
+    "url": "https://www.unipos.net/search-contents/services/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/products_tag/%E7%94%9F%E6%88%90ai/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%94%9F%E5%91%BD%E3%83%BB%E7%92%B0%E5%A2%83%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%B7%A5%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "8チャンネルEMG計測 ユーザー定義ジェスチャー認識 EMGアームバンド",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%B7%A5%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E6%83%85%E5%A0%B1%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%8C%BB%E7%99%82%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "8チャンネルEMG計測 ユーザー定義ジェスチャー認識 EMGアームバンド",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%8C%BB%E7%99%82%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "# ユーザー行動解析",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%8C%BB%E7%99%82%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "# ユーザー行動解析",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9",
+    "pass": 1
+   },
+   {
+    "quote": "#ユーザー行動解析",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9",
+    "pass": 1
+   },
+   {
+    "quote": "8チャンネルEMG計測 ユーザー定義ジェスチャー認識 EMGアームバンド",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E8%A7%A3%E6%9E%90",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E9%96%8B%E7%99%BA",
+    "pass": 1
+   },
+   {
+    "quote": "# ユーザーインターフェース",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E9%96%8B%E7%99%BA",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "Windows向け ユーザープロファイル 移行ツール",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "#ユーザープロファイル移行",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "# ユーザー認証",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E4%BA%BA%E6%96%87%E3%83%BB%E8%A8%80%E8%AA%9E%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の目的、ご要望に応じた最適なサービスをお選びください",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーフィードバック収集 Web/アプリ簡単導入 フィードバック管理ツール",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "# ユーザー認証",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "本Uniposサービス利用約款に同意してUniposサービスを利用するお客様につきましては、Unipos株式会社が契約相手方となり、Unipos株式会社との間でUniposサービスの利用に関する契約が成立します",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「お客様」とは、第４条に基づき本サービスの利用に関する契約（以下「本契約」といいます",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "お客様は、本利用約款に同意して本サービスを利用する必要があり、本利用約款を参照した申込書に署名若しくは記名捺印することによって、本利用約款に同意したものとします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "）は、お客様の同意のもと申込手続を行っているものとし、当社に対し、お客様を代理して、本契約を締結する権限を有することを表明したものとします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、お客様にポイントシステムとコミュニケーションシステムを提供します",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、当社独自のアプリケーションにおいて、お客様が指定した利用者（以下「利用者」といいます",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "告知された効力発生時期以降にお客様が本サービスを利用した場合又は当社の定める期間内に本契約の解約手続をとらなかった場合には、お客様は、本利用約款の変更に同意したものとみなします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様は当社がサービス提供にあたり必要となる情報(以下「登録情報」といいます",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "本契約は、お客様が申込書を当社に提出した時点をもって成立します",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お見積もり依頼・お問い合わせ",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライ・消耗品",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス規約に",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "LayoutEditorを複数拠点で利用するには？ノートPCでのライセンス運用例",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "テガラ・アカウントサイト 操作ガイド｜見積書・注文状況・ライセンスの確認",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/",
+    "pass": 1
+   },
+   {
+    "quote": "LayoutEditorを複数拠点で利用するには？ノートPCでのライセンス運用例",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "テガラ・アカウントサイト 操作ガイド｜見積書・注文状況・ライセンスの確認",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/tegakari/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼はお見積もりフォームよりご連絡ください",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼・お問い合わせ",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "海外から製品を購入する際の交渉やライセンス条件の確認には英語でのやりとりが必須です",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大学や公的機関のお客様へは、納入と同時に代表者印付き正式書類(見積書・請求書・納品書)をお送りしています",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の電子機器やソフトウェアを「1個から」販売します",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライ・消耗品",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/search-contents/",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品ご購入後に発生したトラブルのスムーズな解決をサポートする便利なサービスがパッケージ化された、年間更新のサブスクリプションサービスです",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせいただければ1個からでもご提供いたします",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "支払い手続き代行やライセンス契約締結手続き代行など、海外メーカーとの手続きに関する研究開発者さまの「お困りごと」を解決するお手伝いをいたします",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "見積もりの依頼",
+    "url": "https://www.unipos.net/request/",
+    "pass": 1
+   },
+   {
+    "quote": "その他見積もりに関するご相談",
+    "url": "https://www.unipos.net/request/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/request/",
+    "pass": 1
+   },
+   {
+    "quote": "メール記載のお見積もり内容と支払い方法をご確認いただき、ご了承いただけるようでしたらご発注ください",
+    "url": "https://www.unipos.net/search-contents/services/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "万一落下・水没等により商品が故障した場合、動作に不具合が生じた場合、期日を過ぎてもご返却いただけない場合は、 弊社通常価格にてお買い取りいただく場合がございます",
+    "url": "https://www.unipos.net/search-contents/services/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/search-contents/services/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/products_tag/%E7%94%9F%E6%88%90ai/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライ・消耗品",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%94%9F%E5%91%BD%E3%83%BB%E7%92%B0%E5%A2%83%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%94%9F%E5%91%BD%E3%83%BB%E7%92%B0%E5%A2%83%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%B7%A5%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E6%83%85%E5%A0%B1%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "サプライ・消耗品",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%8C%BB%E7%99%82%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%8C%BB%E7%99%82%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "サプライ・消耗品",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E8%A7%A3%E6%9E%90",
+    "pass": 1
+   },
+   {
+    "quote": "# ライセンス保護",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E9%96%8B%E7%99%BA",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E9%96%8B%E7%99%BA",
+    "pass": 1
+   },
+   {
+    "quote": "Pythonスクリプト 難読化 ツール ライセンス",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "# ライセンス保護",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E4%BA%BA%E6%96%87%E3%83%BB%E8%A8%80%E8%AA%9E%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "MarineTraffic (サブスクリプションプラン)",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり・お問い合わせはこちら",
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6",
+    "pass": 1
+   },
+   {
+    "quote": "申込者は、本利用約款と見積書等(以下「見積書」といいます",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "本利用約款につき、見積書に特段の定めがある場合は、見積書に記載した内容が、本利用約款に優先します",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "料金及び支払方法",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "お客様は本サービスの利用にあたり、見積書に定める利用料金その他の費用を支払うものとします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "前項の利用料金は毎月末日締めで計算し、お客様は、本契約に定める期日までに当社の指定する方法で当社に支払うものとします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が初期費用又は利用料金の支払を遅滞した場合、お客様は年14.6％の割合による遅延損害金を当社に支払うものとします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の都合で解約又は一部解約が発生した場合、解約料として当社が解約を認めた日の翌日から本来の契約期間満了までの利用料金を当社に支払うものとします",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "当社ウェブサイト及び本サービスに関する所有権及び知的財産権等は全て当社又は当社にライセンスを許諾している者に帰属しており、本利用約款に定める登録に基づく本サービスの利用許諾は、本利用約款において明示されているものを除き、当社ウェブサイト又は本サービスに関する当社又は当社にライセンスを許諾している者の知的財産権等の譲渡又は使用許諾を意味するものではありません",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "お客様は、いかなる理由によっても当社又は当社にライセンスを許諾している者の知的財産権等を侵害するおそれのある行為（逆アセンブル、逆コンパイル、リバースエンジニアリング、分析、不正競争防止法に抵触する行為を含みますが、これに限定されません",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "BUSINESS-PARTNERS",
+    "url": "https://www.unipos.net/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "▶️毒物劇物輸入業登録： 登録番号： 東海第10174号",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "FIND-PARTNERS",
+    "url": "https://www.unipos.net/find-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "海外の化学品輸入販売サービス",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "日本語SDS 作成も含めて、海外からの化学品関連製品の輸入をワンストップでサポートいたします",
+    "url": "https://www.unipos.net/search-contents/services/",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品輸入に際しての手続き(必要書類等)についてのご相談",
+    "url": "https://www.unipos.net/request/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Re-grit Partners",
+    "url": "https://unipos.me/ja/blog/case-study",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1,000万円",
+    "url": "https://www.unipos.net/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内株 手数料0円",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "開設・維持費0円",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "※国内株式売買手数料0円（ゼロ革命）の適用には、インターネットコースの利用と電子交付設定等の条件があります",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "1円〜5円の設定",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "わざわざメッセージを書く時間がない時でも、拍手ボタン一つで共感を示すことができるため、参加のハードルが低く、多くの従業員が気軽に関わることができます",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "手数料0円で投資環境を整えるなら",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "1ポイント=1円〜5円",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "各ツールの料金体系は異なりますが、一般的に従業員1人あたり月額数百円程度が相場とされています",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "1日50万円以下なら手数料無料",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "チャットなどの業務連絡や、わざわざ伝える機会がない感謝の表現をUniposでやることで普段のコミュニケーションが円滑になっていると感じます",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "1ポイント=1円〜5円の範囲で、自社の予算と従業員の感覚に合った設定を行いましょう",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "（国内株手数料0円）",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "国内株式の売買手数料が0円（ゼロ革命）",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "米国株に強い / 買付為替手数料0円キャンペーン",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "NISAで国内株手数料0円",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "手数料0円で投資デビュー",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "・「ありがとう」の気持ちを可視化できる、金額にできることでコミュニケーションの円滑化",
+    "url": "https://www.itreview.jp/products/unipos/price",
+    "pass": 3
+   },
+   {
+    "quote": "さらに「ありがとう」を言いやすい環境が構築できたことによって、社内のコミュニケーションが円滑になったような気がします",
+    "url": "https://www.itreview.jp/products/unipos/price",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "よくあるご質問 | UNIPOS ( ユニポス ) | 海外ソフト ハードの ... — よくあるご質問 | UNIPOS ( ユニポス ) | 海外ソフト ハードの ... unipos.net https://www.unipos.net > faq",
+    "url": "https://www.unipos.net/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "利用約款 | ピアボーナス Unipos で、組織エンゲージメントを ... — 利用約款 | ピアボーナス Unipos で、組織エンゲージメントを ... unipos.me https://unipos.me > terms_of_use",
+    "url": "https://unipos.me/ja/terms_of_use",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos 株式会社 - OpenWork — Unipos 株式会社 - OpenWork OpenWork https://www.openwork.jp > ... > Unipos > 退職検討理由",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos 株式会社 | 収益管理プラットフォーム「ソアスク」 — Unipos 株式会社 | 収益管理プラットフォーム「ソアスク」 株式会社オプロ https://subsc.opro.net > ソアスク > 導入事例",
+    "url": "https://subsc.opro.net/soasc/case/unipos.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos 株式会社との業務提携 契約 締結について — Unipos 株式会社との業務提携 契約 締結について 三井住友信託銀行 PDF https://www.smtb.jp > corporate > release > pdf",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250204.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支援 事例 一覧 | ピアボーナス Unipos で、組織エンゲージメント ... — 支援 事例 一覧 | ピアボーナス Unipos で、組織エンゲージメント ... unipos.me https://unipos.me > blog > case-study",
+    "url": "https://unipos.me/ja/blog/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "支援 事例 | ピアボーナス Unipos で、組織エンゲージメントを ... — 支援 事例 | ピアボーナス Unipos で、組織エンゲージメントを ... unipos.me https://unipos.me > blog",
+    "url": "https://unipos.me/ja/blog",
+    "pass": 3
+   },
+   {
+    "quote": "活用 事例 集_ Unipos 株式会社 - AppExchange - Salesforce — 活用 事例 集_ Unipos 株式会社 - AppExchange - Salesforce Salesforce https://appexchangejp.salesforce.com > curated > case_stu...",
+    "url": "https://appexchangejp.salesforce.com/mktcollections/curated/case_studies_detail50",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos の特徴や 導入事例 ～人事評価GUIDE～ — Unipos の特徴や 導入事例 ～人事評価GUIDE～ win-win-hyoka.com https://www.win-win-hyoka.com > list > unipos",
+    "url": "https://www.win-win-hyoka.com/list/unipos.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos とは？ 料金 や評判から導入効果まで解説【2026年】 — Unipos とは？ 料金 や評判から導入効果まで解説【2026年】 SOICO株式会社 https://www.soico.jp > news > securities",
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "pass": 3
+   },
+   {
+    "quote": "ピアボーナス Unipos の 価格 （ 料金 ・費用） - ITreview — ピアボーナス Unipos の 価格 （ 料金 ・費用） - ITreview ITreview https://www.itreview.jp > ... > ピアボーナスUnipos",
+    "url": "https://www.itreview.jp/products/unipos/price",
+    "pass": 3
+   },
+   {
+    "quote": "システム利用 料金 の発生条件（上限人数型） - Uniposサポート — システム利用 料金 の発生条件（上限人数型） - Uniposサポート support.unipos.me https://support.unipos.me > articles > 28940924160409-...",
+    "url": "https://support.unipos.me/hc/ja/articles/28940924160409-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91%E3%81%AE%E7%99%BA%E7%94%9F%E6%9D%A1%E4%BB%B6-%E4%B8%8A%E9%99%90%E4%BA%BA%E6%95%B0%E5%9E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos ( ユニポス )の 料金 ･評判･口コミについて — Unipos ( ユニポス )の 料金 ･評判･口コミについて STRATE[ストラテ] https://strate.biz > communication > unipos",
+    "url": "https://strate.biz/communication/unipos/",
+    "pass": 3
+   },
+   {
+    "quote": "Unipos とは？導入企業の評判・口コミや 料金 プラン、特長を ... — Unipos とは？導入企業の評判・口コミや 料金 プラン、特長を ... 労務SEARCH https://romsearch.officestation.jp > jinjiroumu > tetsuzuki",
+    "url": "https://romsearch.officestation.jp/jinjiroumu/tetsuzuki/45256",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unipos.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/tegakari/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/business-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/customer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/find-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/search-contents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/search-contents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/search-contents/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/request/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/search-contents/services/rental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products_tag/%E7%94%9F%E6%88%90ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%94%9F%E5%91%BD%E3%83%BB%E7%92%B0%E5%A2%83%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%B7%A5%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E6%83%85%E5%A0%B1%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E5%8C%BB%E7%99%82%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%B7%8F%E5%90%88%E7%A7%91%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E8%A7%A3%E6%9E%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E9%96%8B%E7%99%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E4%BA%BA%E6%96%87%E3%83%BB%E8%A8%80%E8%AA%9E%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/product_cat/?cat=%E7%A4%BE%E4%BC%9A%E3%83%BB%E5%9B%BD%E9%9A%9B%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.unipos.net/wp-content/themes/unipos/common/img/logo-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unipos.net/wp-content/themes/unipos/common/img/logo-1.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://unipos.me/ja/terms_of_use",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unipos.me/ja/blog/case-study",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://subsc.opro.net/soasc/case/unipos.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unipos.me/ja/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soico.jp/no1/news/securities/5032",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/unipos/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.unipos.me/hc/ja/articles/28940924160409-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91%E3%81%AE%E7%99%BA%E7%94%9F%E6%9D%A1%E4%BB%B6-%E4%B8%8A%E9%99%90%E4%BA%BA%E6%95%B0%E5%9E%8B",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/contracted",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "UNIPOS 代理店 契約",
+   "results": [
+    "https://www.unipos.net/faq/",
+    "https://unipos.me/ja/terms_of_use",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x00000IhJ9M&qco=8",
+    "https://subsc.opro.net/soasc/case/unipos.html",
+    "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250204.pdf",
+    "https://www.lmi.ne.jp/news/release/detail.php?id=968",
+    "https://www.recog.works/ja/news/detail/587",
+    "https://www.unipos.net/find-partners/",
+    "https://www.unipos.co.jp/guideline",
+    "https://www.unipos.net/"
+   ]
+  },
+  {
+   "query": "UNIPOS 導入事例",
+   "results": [
+    "https://unipos.me/ja/blog/case-study",
+    "https://subsc.opro.net/soasc/case/unipos.html",
+    "https://unipos.me/ja/blog",
+    "https://appexchangejp.salesforce.com/mktcollections/curated/case_studies_detail50",
+    "https://www.win-win-hyoka.com/list/unipos.html",
+    "https://www.unipos.net/tag/%E5%B0%8E%E5%85%A5%E6%94%AF%E6%8F%B4/",
+    "https://value-creation.jp/uniposinterview/",
+    "https://jinjihyouka-lab.jp/unipos-personnel-evaluation/",
+    "https://boxil.jp/mag/a4510/",
+    "https://support.unipos.me/hc/ja/sections/49910844741401-ご活用事例"
+   ]
+  },
+  {
+   "query": "UNIPOS 価格 OR 料金",
+   "results": [
+    "https://www.soico.jp/no1/news/securities/5032",
+    "https://www.itreview.jp/products/unipos/price",
+    "https://support.unipos.me/hc/ja/articles/28940924160409-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91%E3%81%AE%E7%99%BA%E7%94%9F%E6%9D%A1%E4%BB%B6-%E4%B8%8A%E9%99%90%E4%BA%BA%E6%95%B0%E5%9E%8B",
+    "https://strate.biz/communication/unipos/",
+    "https://romsearch.officestation.jp/jinjiroumu/tetsuzuki/45256",
+    "https://www.recog.works/ja/news/detail/587",
+    "https://saas.imitsu.jp/cate-motivation-management/service/594",
+    "https://it-trend.jp/turnover_prevention/11178/price",
+    "https://boxil.jp/mag/a8418/",
+    "https://unipos.me/ja/estimate-form/"
+   ]
+  },
+  {
+   "query": "UNIPOS 受託 造形",
+   "results": [
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://jampt.jp/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://kk-ariga.co.jp/metal_3d_printer/",
+    "https://www.unipos.net/products_tag/%E5%B7%A5%E6%A5%AD%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.unipos.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像2件／外部11頁・検索4回）"
+ }
+}

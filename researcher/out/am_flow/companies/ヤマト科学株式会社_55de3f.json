@@ -1,0 +1,1720 @@
+{
+ "name": "ヤマト科学株式会社",
+ "aliases": [],
+ "context": "/ BIO INX（ベルギー）；CELLINK（BICO、スウェーデン）",
+ "researched_at": "2026-11-02T08:01:12.237834+00:00",
+ "official_url": "https://www.yamato-net.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "取引先": [
+   {
+    "label": "主な仕入先",
+    "value": "主な納入先",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "主な仕入先",
+    "value": "主な納入先",
+    "url": "https://www.yamato-net.co.jp:443/",
+    "pass": 1
+   },
+   {
+    "label": "仕入先募集",
+    "value": "取引希望の方はこちら",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "665.6億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "154.6億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "436.6億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "64.2億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "445名",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "従業員数",
+    "value": "117名",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "従業員数",
+    "value": "796名",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "label": "従業員数",
+    "value": "71名",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1946/11/27",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の販売代理店を掲載しております",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト \"Yeye\" へリンクします",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/engineering/custom/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/engineering/custom/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマト科学は、国内外の研究・開発、生産に携わるお客様のニーズにお応えすべく、科学機器・研究設備・生産機器等の自社製品をはじめ、他メーカーの最先端機器のサービスも高い技術力できめ細やかに提供してまいります",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/engineering/transfer/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/engineering/transfer/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "また、海外技術サポート体制の構築を促進し、世界各国の必要に応じて技術者を派遣する他、販売代理店への技術指導やサービス講習会などを定期的に実施致します",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/engineering/system/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/engineering/system/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/form/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/form/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/estimate_form/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/estimate_form/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/support/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/support/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/support/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/support/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/support/rental_used/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/support/rental_used/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/product/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の販売代理店を掲載しております",
+    "url": "https://www.yamato-net.co.jp:443/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/support/",
+    "pass": 1
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "施設計画、基本設計、実施計画、施工・移送、保守管理に至るまで、新設・移転に関するすべての業務をお任せください",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【10/23(金)開催】理科研主催ウェビナーAI for Science時代の「スマートラボ」推進セミナー～前処理ロボティクスと分析機器連携が拓く、研究・検査DXの最前線～",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【10/16(金)開催】ヤマト科学・ベリタス共催 第1回 ハンズオンセミナー「オルガノイド研究の最前線 ～作製・培養・成熟化を支える最新技術と応用事例～」",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【9/24(木)~26(土)開催】日本癌学会学術総会 出展およびランチョンセミナー開催のご案内",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フーリエ変換赤外分光装置 FT-IR「Nicolet Summit X限定セット特別販売キャンペーン」",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【9/28(月)対面開催】オックスフォード・インストゥルメンツ主催セミナー AFMで解き明かす摩擦と機械特性 ～Veroによる次世代マテリアル評価～",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計～施工～什器までをワンストップで対応",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了製品",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社科学機器を新古品特別価格で販売いたします",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "施設計画、基本設計、実施計画、施工・移送、保守管理に至るまで、新設・移転に関するすべての業務をお任せください",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の販売代理店を掲載しております",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了製品",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "既にモデルチェンジ等により販売を終了した弊社販売製品をご案内しております",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマト科学の製品を取り扱う全国の販売店を紹介いたします",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト \"Yeye\" へリンクします",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店網",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会・セミナー情報",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタル・中古機販売・受託試験・サンプルテスト",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店様専用サイト Yeye",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとって最大のメリットであるワンストップテスティングの実現から世界市場へのアクセスを容易にします",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート｜ヤマト科学株式会社",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "実績一覧（業界別）",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステムをインテグレーションします",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【拡大するラボラトリーオートメーション市場分析装置との連携で加速する自動化の導入事例】",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の運用に合わせて設計する自動化システムです",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットティーチングにより作業動作を再現し、お客様の用途に合わせたソフトを構築します",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動化をご検討中のお客様向けに、見積もりシミュレーションを公開しました",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アンケート形式で現在の試験内容や運用状況をご入力いただくことで、お客様のご要望を確認し、担当者より",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の運用に合わせたカスタム製品 となるため、システム構成によって費用が異なります",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "多数実績がありますのでお客様のご要望に合わせて計画、実施してきます",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の形式、弊社の形式のいずれも締結可能です",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp:443/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/engineering/custom/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の保有する搬送系・CIM（情報系）・ロボットハンドリング・画像処理・PLC（シケンサー）・自動機・自動梱包・電子（信号回路）等の技術により、様々な業界の新しいインラインシステムを広範囲に渡り提案しています",
+    "url": "https://www.yamato-net.co.jp/product/engineering/custom/",
+    "pass": 1
+   },
+   {
+    "quote": "詳細設計・製作・納入・立上げまで、お客様の様々な要望を満たす一貫したサービスを提供しています",
+    "url": "https://www.yamato-net.co.jp/product/engineering/custom/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマト科学は、国内外の研究・開発、生産に携わるお客様のニーズにお応えすべく、科学機器・研究設備・生産機器等の自社製品をはじめ、他メーカーの最先端機器のサービスも高い技術力できめ細やかに提供してまいります",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の大切な 機器・備品を単に移送するだけではなく、精密な計測器・分析機器等々は 移転前の性能を移転後も確実に再現する事に特徴を持っています",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカーとして自社の製品を提供すると同時に、国内外数百社の有力メーカーと 密接に連携を図り、お客様のニーズに対し、常に最適なソリューションを提供しています",
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業に限らず、各産業界で広範囲に使用されている機材や装置の信頼性向上と客観的な証明のために、ISO/IEC 17025認定された試験所による、試験槽や測定機器に対する試験又は校正の要求が高まっております",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へ訪問し、試験を実施",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へ試験報告書をご提出",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "試験費用は対象装置の試験条件やお客様所在地、台数などによって異なりますのでヤマト科学テスティングラボラトリまで直接お問い合わせください",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "外部機関の審査を受け認定されているテスティングラボラトリはこの要求事項を満たしており、お客様の試験内容や結果が外部に漏れることはありません",
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/engineering/transfer/",
+    "pass": 1
+   },
+   {
+    "quote": "移設に際してはお客様の大切な機器・備品を単に移送するだけではなく、施設内の分析・試験等の機器から実験台・ヒュームフード(ドラフトチャンバ)・コンピュータ・ロボット・生産ライン等の設備機器、研究中のデータや試料まで移設先で再現出来るよう安全・迅速・確実をお届けします",
+    "url": "https://www.yamato-net.co.jp/product/engineering/transfer/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせた仕様のご提案",
+    "url": "https://www.yamato-net.co.jp/product/engineering/transfer/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に基づき調査・分析を行い、明確な施設コンセプトや計画条件の策定など、トータルな企画を立案致します",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様のご要望に合致した施設を追求し、施設全体の各種システムや機器レイアウトなど、快適性・効率性に配慮した空間を立案・実現していきます",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のCGを活用し、綿密なシミュレーションを行うことで設計・開発の効率化を図り、お客様が施設を快適かつ効率的に運営・運用できるように、設備・機器のレイアウト、施設条件などを計画致します",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の描く施設の未来像に対し、建設から移送まで最適なソリューションの提供を目指します",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカーとして自社の製品を提供すると同時に、国内外数百社の有力メーカーと密接に連携を図り、お客様にとって最適な施設を提供いたします",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "施設の提供だけではなく、施設引渡し後のオペレーティング教育や施設のリニューアル、増改築の対応など、ヤマト科学だからこそ可能なトータルアフターケアで、お客様の施設運用をサポート致します",
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/engineering/system/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカーとして自社の製品を提供すると同時に、国内外数百社の有力メーカーと密接に連携を図り、お客様のニーズに対し、常に最適なソリューションを提供しています",
+    "url": "https://www.yamato-net.co.jp/product/engineering/system/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "蒸留水製造装置や純水製造装置のイオン交換カートリッジのリユースやイオン交換樹脂のリサイクルを促進するため、お客様から交換済みカートリッジの回収を行っています",
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "元払い伝票（お客様負担）をご使用のうえ、",
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にてご負担",
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/form/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご連絡先",
+    "url": "https://www.yamato-net.co.jp/product/form/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/product/estimate_form/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご連絡先",
+    "url": "https://www.yamato-net.co.jp/product/estimate_form/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ -お客様サポート｜ヤマト科学株式会社",
+    "url": "https://www.yamato-net.co.jp/support/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.yamato-net.co.jp/support/inquiry/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・旧型式特別価格",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カラム・消耗品",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロータリーエバポレーター特別価格キャンペーン延長のお知らせ",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "台数限定！Masterflex 07555シリーズ 特別価格キャンペーン",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社科学機器を新古品特別価格で販売いたします",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "カラム・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお見積もりをご希望される方は、こちらのフォームをご入力ください",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/support/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "カラム・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "カラム・消耗品",
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品｜ヤマト科学株式会社",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品 一覧",
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売｜ヤマト科学株式会社",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "試薬・消耗品",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "製品お見積もりフォーム",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "特別価格販売（アウトレット）製品一覧",
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "pass": 1
+   },
+   {
+    "quote": "見積シミュレーション",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積仕様書、レイアウト図、予算見積の提示",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "構想案に基づき仕様・価格・納期を調整し、キー作業の自動化デモを含むPoCを実施します（※一部有償の場合あり）",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オペレーショントレーニングおよび定期メンテナンスを実施し、保守契約により突発的なエラーにも対応可能です",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "見積もりシミュレーション",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動化をご検討中のお客様向けに、見積もりシミュレーションを公開しました",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "概算見積もり",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※概算見積もりはアンケート内容をもとに作成いたします",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "正式な仕様・価格・納期については、お打ち合わせのうえご提案いたします",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（アンケート回答後に担当者より概算見積を発行します）",
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "売上高 ：665.6億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 ：154.6億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,341億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 ：436.6億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 ：64.2億円",
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,500円以下",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "1,500-10,000円",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "10,000-50,000円",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "50,000-100,000円",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "100,000円以上",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "テーパーニードル ニードル固定型",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "定価約50万円",
+    "url": "https://www.blog-support.com/entry/yamato-scientific-catalog-support-guide",
+    "pass": 3
+   },
+   {
+    "quote": "CF301（定価約20万円〜）",
+    "url": "https://www.blog-support.com/entry/yamato-scientific-catalog-support-guide",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "販売代理店網｜ヤマト科学株式会社 — 下の地図から各都道府県の販売代理店リストにリンクします。 ※地図中の地方名をクリックして、ご利用ください。 販売代理店リストを直接ご覧になる場合には、右の「国内販売代理店リスト」のボタンをクリックしてください。",
+    "url": "https://www.yamato-net.co.jp/company/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "｜Yeye - ヤマト科学 販売代理店様専用サイト — 4 days ago · センターセールスグループ（販売代理店様専用） 受付時間：9:00～12:00 / 13:00～17:00 ※土日・祝日振替休日を除く 0120-924-525 (フリーコール)",
+    "url": "https://yeye.yamato-net.co.jp/shop/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "「ヤマト科学」の代理店212社 注目ランキング【2026年】| Metoree — 実際の口コミ・ランキング・評価から比較・お選び頂けます。 上場している代理店には、杉本商事、 アズワンなどがあります。 2026年10月時点でのヤマト科学の代理店の注目ランキングは、1位: トラスコ中山、 2位: 遠藤科学、 3位: 杉本商事です。",
+    "url": "https://metoree.com/companies/17058/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト科学様との代理店契約 | 株式会社旭商会仙台店 — Aug 1, 2025 · ヤマト科学様と代理店契約を結びました。 今後、弊社の幅広い御得意様を活かし、ヤマト科学様の製品の拡販に努めますとともに ヤマト科学様の製品のご用命をどうぞよろしくお願いいたします。",
+    "url": "https://asahi-syokai.co.jp/お知らせ/ヤマト科学様との代理店契約/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店網 海外拠点｜ヤマト科学株式会社 — 会社情報 販売代理店網 海外拠点 YAMATO SCIENTIFIC AMERICA INC. 2040 Corporate Court, San Jose, California 95131, U.S.A TEL :+1-408-235-7725 FAX :+1-408-235-7730 YSA Major Distributors in U.S.A.: VWR International / Fisher Scientific / Daigger / Thomas Scientific / Allegiance YSA Dealers in other countries:",
+    "url": "https://www.yamato-net.co.jp/company/agency/world",
+    "pass": 3
+   },
+   {
+    "quote": "事例・課題で探す｜ヤマト科学株式会社 — ヤマト科学Q&A ヤマト科学賞 お知らせ 新着情報 キャンペーン 展示会・セミナー情報 新製品情報 会社情報 会社概要 社長挨拶 SDGsへの取り組み 社是・企業理念 環境理念・環境方針 企業行動指針 会社の歴史 所在地情報 オフィス紹介 販売代理店網 主な仕入先 ...",
+    "url": "https://www.yamato-net.co.jp/product/theme/index/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト科学の恒温恒湿器を徹底解説｜特徴・シリーズ比較・導入事例 — ヤマト科学は、研究・試験に求められる温湿度制御を、プログラム運転機能や分かりやすく操作しやすいタッチパネルなど、確かな性能とユーザビリティで支えているメーカーです。",
+    "url": "https://www.tmp-humidity.com/maker-list/yamato.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト科学の窒素ガス発生装置に関する特徴や導入事例について紹介。 — 様々な科学関連製品を手掛けており、1889年（明治22年）創業という歴史を有するヤマト科学。 そんな同社が手掛けている窒素ガス発生装置に関して、特徴や導入事例などをリサーチしました。",
+    "url": "https://www.nitgene-guide.com/maker/yamato.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト科学株式会社 様｜導入事例 - coolex.jp — 導入の効果 作業者からは少し冷えすぎるとの意見もあった。 現在は作業服の上からCOOLEXウェアを着用し、その上から防護服をきているが冷却効果十分。 温度調整しながら使用中。 チラー本体とホースに塗装がかからないように工夫しながら使っている。",
+    "url": "https://coolex.jp/case/ヤマト科学株式会社-様/",
+    "pass": 3
+   },
+   {
+    "quote": "【生産技術DX】3D組立手順書 Scene を理化学機器大手のヤマト科学が導... — 今回、Sceneの導入により、資料作成の時間を30%削減できたうえに、設計段階から図面を展開することが可能になったと言います。 Sceneの導入を推進した望月課長、渡邉様、井上様に、導入検討の背景やその後の効果について具体的にお伺いしました。",
+    "url": "https://www.scene.space/case/83.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト科学 【通販モノタロウ】 最短即日出荷ヤマト科学株式会社【研究者・技術者向け】ヤマト科学の製品カタログ・価格・サポート情...科学機器 | ヤマト科学 WEBショップ - yamato-net.shop定温乾燥器 ヤマト科学 【通販モノタロウ】 — ヤマト科学 1889 (明治22)年創業以来、理科学機器・試験研究設備・分析計測機器・産業試験検査機器・医療機器のメーカーとして、また、研究開発全般及びものづくり・生産技術に必要な高度先端機器を取り扱う商社として、積極的な事業展開を図っています。 ヤマト科学は1889（明治22）年創業の理科学機器、研究施設、分析・計測機器、産業試験検査機器を取り扱うメーカー、商社です。革新的な製品とサービスを提供し、人類に幸福をもたらす科学技術の進歩発展に貢献します。 この記事では、そんな多忙な研究者や技術者の方々のために、 ヤマト科学 の「製品カタログ",
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマト科学株式会社 — ヤマト科学は1889（明治22）年創業の理科学機器、研究施設、分析・計測機器、産業試験検査機器を取り扱うメーカー、商社です。革新的な製品とサービスを提供し、人類に幸福をもたらす科学技術の進歩発展に貢献します。",
+    "url": "https://www.yamato-net.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【研究者・技術者向け】ヤマト科学の製品カタログ・価格・サポート情... — この記事では、そんな多忙な研究者や技術者の方々のために、 ヤマト科学 の「製品カタログ」「価格情報」「修理・サポート」に関する情報を、迅速かつ確実に見つけ出すための完全ガイドをお届けします！ 【Amazon】研究の効率を上げる！",
+    "url": "https://www.blog-support.com/entry/yamato-scientific-catalog-support-guide",
+    "pass": 3
+   },
+   {
+    "quote": "科学機器 | ヤマト科学 WEBショップ - yamato-net.shop — ヤマト科学 WEBショップ | 科学機器 血清ビン（バイアルビン）（ゴム栓付き） 50m [l]・10個 DC55B50ML … 通常価格 ¥10,010 (税込)",
+    "url": "https://yamato-net.shop/products?product_search_form[category_ids][]=9",
+    "pass": 3
+   },
+   {
+    "quote": "価格改定のお知らせ｜ヤマト科学株式会社 — Mar 13, 2026 · 今後、製品の安定供給と一層のサービス向上に努め、皆様のお役に立てるよう尽力して参りますので、何卒ご理解を賜りたく宜しくお願い申し上げます。 ※ Webサイトに記載の価格につきましては、2026年4月3日 (金)以降 順次変更いたします。",
+    "url": "https://www.yamato-net.co.jp/topics/detail/1564/",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験・サンプルテスト｜ヤマト科学株式会社 — 受託試験・サンプルテスト 受託試験・サンプルテスト ご相談ください 試験方法がわからない 試験設備が試験条件を満たさず、試験できない 試験設備が無いが、急に試験を行う必要がある 試験装置の設備購入が困難なため、必要な時だけ試験したい",
+    "url": "https://www.yamato-net.co.jp/support/trustee/",
+    "pass": 3
+   },
+   {
+    "quote": "受託試験・サンプルテストお申し込み｜ヤマト科学株式会社 — お客様サポート 受託試験・サンプルテストお申し込み お申し込みフォーム 以下のフォームに必要事項をご記入し、「入力内容を確認する」ボタンをクリックしてください。 ※ ご入力の際、半角カナや特殊文字は使用しないで下さい。",
+    "url": "https://www.yamato-net.co.jp/support/trustee/form/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yamato-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/category/index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/new/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/product/category/analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/product/category/laboratory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/option/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/successor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/old/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/lp/srla/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/engineering/custom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/engineering/testlab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/engineering/transfer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/laboratory/se/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/engineering/system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/engineering/recycle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/product/estimate_form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/support/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/support/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/support/rental_used/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/product/category/science/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp:443/support/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://files.yamato-net.co.jp/company/profile_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://files.yamato-net.co.jp/company/profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://files.yamato-net.co.jp/company/profile_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://yeye.yamato-net.co.jp/shop/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/17058/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tmp-humidity.com/maker-list/yamato.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitgene-guide.com/maker/yamato.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/b-1713/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blog-support.com/entry/yamato-scientific-catalog-support-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-scientific.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヤマト科学 代理店 契約",
+   "results": [
+    "https://www.yamato-net.co.jp/company/agency/",
+    "https://yeye.yamato-net.co.jp/shop/default.aspx",
+    "https://metoree.com/companies/17058/distributors/",
+    "https://asahi-syokai.co.jp/お知らせ/ヤマト科学様との代理店契約/",
+    "https://www.yamato-net.co.jp/company/agency/world",
+    "https://distymap.com/distributors/yamato-scientific",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4926"
+   ]
+  },
+  {
+   "query": "ヤマト科学 導入事例",
+   "results": [
+    "https://www.yamato-net.co.jp/product/theme/index/",
+    "https://www.tmp-humidity.com/maker-list/yamato.html",
+    "https://www.nitgene-guide.com/maker/yamato.html",
+    "https://coolex.jp/case/ヤマト科学株式会社-様/",
+    "https://www.scene.space/case/83.html",
+    "https://www.hamarichemicals.com/jpn/blog/newsrelease/20260320_01/",
+    "https://www.yamato-net.co.jp/lp/srla/index.html"
+   ]
+  },
+  {
+   "query": "ヤマト科学 価格 OR 料金",
+   "results": [
+    "https://www.monotaro.com/s/b-1713/",
+    "https://www.yamato-net.co.jp/",
+    "https://www.blog-support.com/entry/yamato-scientific-catalog-support-guide",
+    "https://yamato-net.shop/products?product_search_form[category_ids][]=9",
+    "https://www.yamato-net.co.jp/topics/detail/1564/",
+    "https://files.yamato-net.co.jp/uploads/files/1438.pdf",
+    "https://www.monotaro.com/g/07686714/"
+   ]
+  },
+  {
+   "query": "ヤマト科学 受託 造形",
+   "results": [
+    "https://www.yamato-net.co.jp/support/trustee/",
+    "https://www.yamato-net.co.jp/support/trustee/form/",
+    "https://www.yamato-scientific.com/",
+    "https://files.yamato-net.co.jp/support/brochure/044.pdf",
+    "https://sakurai-machinery.com/3dprintservice/",
+    "https://www.fasotec.co.jp/product/3dprint/",
+    "https://steelsale.jp/casestudy/3dp/a113"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像4件／外部7頁・検索4回）"
+ }
+}

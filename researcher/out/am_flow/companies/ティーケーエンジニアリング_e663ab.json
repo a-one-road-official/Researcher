@@ -1,0 +1,958 @@
+{
+ "name": "ティーケーエンジニアリング",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の出展者） /",
+ "researched_at": "2026-11-02T08:00:11.942606+00:00",
+ "official_url": "https://www.jig-universe.com/",
+ "identified_by": "search:yahoo_jp:株式会社ティーケーエンジニアリング",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業年",
+    "value": "1969年（設立）",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "label": "創業年",
+    "value": "要問い合わせ（設立年：2011年8月）",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "label": "要問い合わせ（設立年",
+    "value": "2011年8月）",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2021年08月",
+    "url": "https://evort.jp/presenters/takao-net",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "5軸加工と100社の提携ネットワーク（2025年9月16日時点）を強みに、部品加工から治具設計、装置開発までワンストップで対応",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品（ワーク）のデータが揃っていれば、治具を制作する業者側の設計工数（設計費）を抑制",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "「安物買いの銭失い」という諺がある通り、格安を売りにする業者に頼んで「作りの粗い治具」を導入してしまうと、自社製品の品質が低下したり、セッティング（段取り）に時間がかかったりと、結果的に大赤字になってしまうリスクもあり得ます",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "どんな場面で使われ、どう設計・製作されるのか",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "工具や金型とは違い、対象となるワークや工程に合わせて一つひとつオーダーメイドで設計されるのが一般的",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "現場の状況に合わせた要件定義と、誰でも扱いやすい構造設計が、治具の良し悪し＝製造現場の生産性や品質、そして作業者の安全性を左右します",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "加工治具では工具を正しい位置に導く精度機構、検査治具では測定基準を確立する構造など、目的に合わせて設計思想が異なります",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "治具設計の特徴",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "対象のワーク、工程の条件、求められる精度に合わせてオーダーメイドで設計される",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "設計においては、3-2-1原則",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "設計では圧力配分のシミュレーションや耐摩耗材の選定が重要となります",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "設計では前後工程との連携や安全性への配慮が求められます",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "基準となるピンとストッパーを組み合わせることで、繰り返し使ってもワークの位置がズレないように設計されています",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クランプ治具の製作では生産数量や頻度などにも応じた設計にすること、メンテナンス性を考えることも大切です",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の寸法・形状・機能が設計仕様に適合しているかを確認する際に",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "測定治具製作では、耐久性のある材料の選択、測定機械やワークの用途に合わせた形状の設計、コストや納期を考慮して精度を追求することが大切です",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲージ治具は、設計書の通りに製品や部品の寸法、形状が仕上がっているかを確認するために使用される専用の検査治具です",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用治具は、特定のワークだけに合わせて作り込むのではなく、複数のワークや加工条件に流用しやすいように設計された治具です",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や多品種少量の現場では、ワークごとに専用治具を製作するよりも、調整や部品交換で対応できる汎用治具が選択肢になります",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "外部受託による",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dでレイアウトと人の動線を確認し、段取り手順と安全対策を検討し、複雑度が高い場合は要素試作でリスクを先取りします",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "公差設計・剛性検討・材料選定・標準部品化",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "を進め、分解清掃や消耗品交換の手順も設計します",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作機を製作し、設備上でのドライラン",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "オペレーター教育と初期立ち上げ支援まで実施すると、初回合格率と安定稼働の向上が見込めます",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "量産後の改良・改造にもスムーズに対応できるよう、設計情報を整備しておくことが重要です",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状・薄肉ワークには専用設計、段取り時間の短縮には位置決めの標準化、自動化・省人化には油空圧クランプなど、目的に合った治具やメーカーを選ぶことが重要です",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "治具設計の段階から対策を織り込んでいる",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスセンターは、産業機械の周辺装置や金型部品の販売、治具などの設計や試作、製作、製造ラインの撤去や改善、構築などを手がけている企業です",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造から販売までワンストップで対応し、顧客のニーズに対応",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "広島県に拠点を置いているプレスセンターは、製造ラインの整備や施策部品の製造に加え、自動車関連の工具や治具などの販売といったように、",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業を手がける顧客が持つ課題や困りごとに対し、製造から販売までワンストップで対応",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、同社では高い品質の製品を安定的に製造する際に使用される組み立て治具や、さまざまなものづくりに対応が可能な生産ユニットの設計や製作にも対応しています",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれの製品や顧客ニーズに合わせた専用の治具や装置の設計",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば商品のモデルチェンジに伴う旧ラインの撤去や、新たな生産ラインの設計・施工など、生産現場の効率化を図るための現場改善工事についても相談も可能",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、それぞれのニーズに合わせた組み立て治具や装置の製作、設計製作、試作部品の製造、機器の改善といったように、",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば試作部品の製造では、顧客の要望に沿ったオーダーメイド加工の設計や製作に加えて、現地トライアルの提案を実施",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "工具や治具の卸・販売も手がけている",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスセンターが手がけているもうひとつの事業が「工具・機器販売事業」",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業に必要となる金型部品や加工機器、工具や治具の卸・販売に加えて、中古機器などの販売や解体、引き取り",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのほか、工作機械など各種産業機械の販売や中古機械の引き取り・設置も実施",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスセンターでは、設計や製作のみではなく、",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスセンターは自社のニーズに合った治具の設計・製造を依頼したい企業におすすめ",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレスセンターは、販売と製造の両面から製造現場を支えている企業であり、治具の設計や製造も手がけています",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社のニーズや製造している製品に合った治具の設計・製造を依頼したいと考えている企業",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、プレス機器や工具・治具の販売も手がけていますので、さまざまな機器の導入を検討している企業や、製品の製造において新しいラインの導入を検討している企業に向いているメーカーでしょう",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "ワークの保持角度や治具の形状・傾斜を工夫し、切粉が詰まらずに自然に流れる構造を設計可能",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計から据付・試削り、導入後の改善まで一貫対応し、導入までスムーズに進められる",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具設計を公式HPで確認",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "FAプロダクツは、製造現場の課題に合わせてオリジナル治具を設計・製作しているメーカーです",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・製作・改良まで対応",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の性能を引き出すため、組み込まれる設備側の設計・製作・改良にも対応",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイドで治具を設計・製作",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、検討段階では「課題と用途」を起点に相談でき、把持方法や位置決め精度、段取り替えのしやすさ、検査性など、要件に直結する仕様まで含めて個別に設計が行われます",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "固定ラインナップでは対応しきれない要件に合わせて、検査治具・組立治具を中心にオーダーメイドで設計・製作しているのが特徴です",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "するとともに、シャッターやエリアセンサによる安全設計を実現しました",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "教育負荷や段取り替え時の調整工数も増え、品質の平準化とタクト短縮の両立が困難でした",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "基板形状・評価項目に合わせた専用検査治具を設計・製作し、",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計変更やリプレース時も、",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計面では、AutoCADやInventorなどの2D/3D CADにより、治具の構造やクリアランス、干渉を事前に検証しながら精密に設計",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "ワークの保持角度や治具の形状・傾斜を工夫し、切粉が詰まらずに自然に流れる構造を設計可能",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計から据付・試削り、導入後の改善まで一貫対応し、導入までスムーズに進められる",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具設計を公式HPで確認",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "5軸・複合旋盤・放電・研削・三次元測定機を備え、多業界の量産・R&Dで段取り短縮と品質安定を実現します",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界で培った、",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "構想段階の設計から製作、組立、検査までを社内で一貫して行える体制と、迅速な現地対応力で、顧客の課題解決をサポートします",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "個人から大手実装メーカー、大学、研究所などの幅広い顧客層を対象に、基板・メタルマスク・実装治具・実装設備をまとめて提供できるメーカー",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各社の口コミ、画像、導入事例に関して、その当時の引用元や参照元を表記しておりますが、現時点では閲覧できなくなっている可能性もございますので、ご了承ください",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製造から販売までワンストップで対応し、顧客のニーズに対応",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業を手がける顧客が持つ課題や困りごとに対し、製造から販売までワンストップで対応",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれの製品や顧客ニーズに合わせた専用の治具や装置の設計",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に寄り添いながら技術とノウハウを提供",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "建設業許可を保有するラインビルダーとして、顧客に寄り添いつつ技術とノウハウを提供しています",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が取り組んでいるモノづくりをサポート",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば試作部品の製造では、顧客の要望に沿ったオーダーメイド加工の設計や製作に加えて、現地トライアルの提案を実施",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造技術の知見を活かし、顧客の困りごとについてヒアリングを行った上で業務効率やコストなどの課題を踏まえた提案を行います",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "各社の口コミ、画像、導入事例に関して、その当時の引用元や参照元を表記しておりますが、現時点では閲覧できなくなっている可能性もございますので、ご了承ください",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "各社の口コミ、画像、導入事例に関して、その当時の引用元や参照元を表記しておりますが、現時点では閲覧できなくなっている可能性もございますので、ご了承ください",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "各社の口コミ、画像、導入事例に関して、その当時の引用元や参照元を表記しておりますが、現時点では閲覧できなくなっている可能性もございますので、ご了承ください",
+    "url": "https://www.jig-universe.com/whats-assembly-jig/clamp.html",
+    "pass": 1
+   },
+   {
+    "quote": "各社の口コミ、画像、導入事例に関して、その当時の引用元や参照元を表記しておりますが、現時点では閲覧できなくなっている可能性もございますので、ご了承ください",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "業界統計・産業潮流",
+    "url": "https://monoque.jp/challenge/post-278/",
+    "pass": 3
+   },
+   {
+    "quote": "主力ユーザーが親会社である利点は多く、「なんでも高雄（工業）で試せ、製造品の良し悪しがすぐに把握できる」とティーケーエンジニアリングの合屋純一常務取締役は言う",
+    "url": "https://monoque.jp/challenge/post-278/",
+    "pass": 3
+   },
+   {
+    "quote": "金型業界アンケート2026【後編】",
+    "url": "https://kojomag.nikkan.co.jp/kikai/439",
+    "pass": 3
+   },
+   {
+    "quote": "NKワークスが設立50周年、 “生産技術者の視点”で顧客ニーズに応え続ける",
+    "url": "https://kojomag.nikkan.co.jp/kikai/439",
+    "pass": 3
+   },
+   {
+    "quote": "業界の最新情報をチェック！",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "検索可能だから、過去の業界状況も",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度業界動向の詳細 昭和30年創刊以来50年余、他の産業...",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "更に、製作期間の短縮、設計自由度の向上が図れ、お客様からも大変好評を頂いております",
+    "url": "https://evort.jp/presenters/takao-net",
+    "pass": 3
+   },
+   {
+    "quote": "焼入れ用コイル以外でも、機械加工では通常不可能な形状を造形することにより、お客様の困りごとを解決する方法を提案しております",
+    "url": "https://evort.jp/presenters/takao-net",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査_top",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "を進め、分解清掃や消耗品交換の手順も設計します",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1図面・1個からオーダーメイド",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "手書きイラストや簡単な図でも、治具の見積りから製作まで対応しています",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査_top",
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査_top",
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査",
+    "url": "https://www.jig-universe.com/whats-assembly-jig/clamp.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査_top",
+    "url": "https://www.jig-universe.com/whats-assembly-jig/clamp.html",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "治具の製作費用はいくら？汎用品相場や特注料金を調査_top",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "材料費：アルミ、ステンレス、鉄、エンジニアリングプラスチック（樹脂）などの素材代",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "特注（フルオーダーメイド）の料金目安：10万円～100万円以上",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用だけで選ばない！治具の「費用対効果」の考え方",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビームは表面の仕上がりが粗く、予熱が必要で狙った部分以外にも金属粉末が固着しやすい」と合屋常務は選定理由を話す",
+    "url": "https://monoque.jp/challenge/post-278/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談・御見積依頼は電話・メールから",
+    "url": "https://www.takao-net.co.jp/tke/information/2025815.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新市場価格（鉄鋼・非鉄金属）",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "過去市場価格（鉄鋼）",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "過去市場価格（非鉄金属）",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "市場価格ニュース（鉄鋼）",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "市場価格ニュース（非鉄金属）",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "過去市場価格のサンプルデータは",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "過去市場価格の品種一覧は",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "※無料の試読では、過去市場価格の閲覧はできません",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "25年間分の価格データ",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "約50品種の過去25年の価格推移が",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "最新市場価格（鉄鋼・非鉄金属） 一覧",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "ワークの中心や方向を安定させることで、高い寸法精度と真円度を維持できます",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークを安定回転させ、円筒部品の研削や研磨、測定を行う",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "作業性、干渉、保持力、清掃性を確認し、ハンドル位置や当て面を調整後、必要に応じて部材の剛性や表面処理を見直します",
+    "url": "https://www.jig-universe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "円筒ワークの外径・内径加工",
+    "url": "https://www.jig-universe.com/whats-assembly-jig/clamp.html",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品・標準パーツベースの相場：数千円～数万円",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "特注（フルオーダーメイド）の料金目安：10万円～100万円以上",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "簡易的な特注治具（手動の組立・検査）：10万円～30万円前後",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "精密・高負荷な特注加工治具：30万円～80万円前後",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "の場合は、数十万円程度の費用がかかるという目安になります",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化・複合型の特注治具：100万円以上",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "の場合、100万円以上となるケースが多くなります",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "数千円～数万円",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "100万円以上",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "「ここを市販品に変えれば2万円安くなりますよ」といったVE（バリューエンジニアリング）提案ができる業者は、ポイントが高い",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "以上の通り、治具制作の費用というものには数千円から100万円以上までの幅があり、それぞれに相応の理由があります",
+    "url": "https://www.jig-universe.com/cost/",
+    "pass": 1
+   },
+   {
+    "quote": "億円以上するが、その後",
+    "url": "https://monoque.jp/challenge/post-278/",
+    "pass": 3
+   },
+   {
+    "quote": "４～９月期決算／共英製鋼／経常減益５９億２９００万円",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼／通期業績予想を上方修正／実力営業益、最高の４５０億円へ／半...",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "平鋼・角鋼など全製品／新関西製鉄、３０００円値上げ／４カ月ぶり、１１月...",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ティーケーエンジニアリング、高周波焼入れ用コイルを積層造形 — Oct 28, 2024 · ティーケーエンジニアリング（2021年8月設立、社員約100人）は高周波焼入れ用コイルの製造に3台、切削工具のホルダーの製造に1台の3Dプリンターを積極的に活用。 会社設立前の20年からの4年間で5千個の造形実績を重ねてきた。",
+    "url": "https://monoque.jp/challenge/post-278/",
+    "pass": 3
+   },
+   {
+    "quote": "ポテンシャルの高い外国人材をコンスタントに採用、短期間で戦力化ー... — Dec 26, 2025 · 金属3D プリンタによる造形技術を武器に受託造形事業などを展開しているティーケーエンジニアリング（TKE）では、インドからの人材をコンスタントに採用することで、技術力の底上げを図っている。",
+    "url": "https://kojomag.nikkan.co.jp/kikai/439",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで短時間･低コスト･高品質銅部品製造を実現 ～銅部品... — May 5, 2026 · ⇒ ティーケーエンジニアリング､ODEC､ファソテックにみる先進ユーザ造形事例 ⇒ 金属3Dプリンタを4台導入して銅部品製造で躍進するティーケーエンジニアリングの革新的な短時間･低コスト･高品質造形技術と多種多様な製品化事例を詳説",
+    "url": "https://takashi-jtic.seesaa.net/article/520611797.html",
+    "pass": 3
+   },
+   {
+    "quote": "ティーケーエンジニアリング株式会社|TKE — Aug 15, 2025 · ティーケーエンジニアリング株式会社は、金属3Dプリンターによる造形品の製造、切削工具および特殊工具の仕入れ、機械加工による部品、治工具の製造、省人化・自動化装置ならびに搬送装置の製造、販売を行っております。",
+    "url": "https://www.takao-net.co.jp/tke/information/2025815.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工治具メーカー「ティーケーエンジニアリング」の特徴を調査ポテンシャルの高い外国人材をコンスタントに採用、短期間で戦力化ー...株式会社テイケイエンジニアリング | 生まれ住むまちを次世代へ。ティーケーエンジニアリング／3Dプリンターで切削工具／加工工程効率... — 高雄工業グループの技術開発会社として設立されたティーケーエンジニアリング。 切削・研削・放電加工、金属3Dプリンターを活用した高度な治具づくりと自動化装置の設計・製作まで対応できる点が特徴のメーカーです。 Dec 26, 2025 · 金属3D プリンタによる造形技術を武器に受託造形事業などを展開しているティーケーエンジニアリング（TKE）では、インドからの人材をコンスタントに採用することで、技術力の底上げを図っている。インドの理工系大学の ... 生まれ住むまちを次世代へ。 2026.7.1 ホームページが更新されました ",
+    "url": "https://www.jig-universe.com/list/tk-engineering.html",
+    "pass": 3
+   },
+   {
+    "quote": "ティーケーエンジニアリング／3Dプリンターで切削工具／加工工程効率... — Apr 18, 2024 · 金属3Dプリンターでの造形品製造、切削工具や特殊工具の仕入販売を手掛けるティーケーエンジニアリング（略称・TKE、本社・愛知県弥富市、社長・下村豊氏）は、自社の金属3Dプリンターでの造形技術を...",
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "pass": 3
+   },
+   {
+    "quote": "ポテンシャルの高い外国人材をコンスタントに採用、短期間で戦力化ー... — Dec 26, 2025 · 金属3D プリンタによる造形技術を武器に受託造形事業などを展開しているティーケーエンジニアリング（TKE）では、インドからの人材をコンスタントに採用することで、技術力の底上げを図っている。インドの理工系大学の ...",
+    "url": "https://kojomag.nikkan.co.jp/kikai/439",
+    "pass": 3
+   },
+   {
+    "quote": "ティーケーエンジニアリング、高周波焼入れ用コイルを積層造形｜連載... — Oct 28, 2024 · ティーケーエンジニアリング（2021年8月設立、社員約100人）は高周波焼入れ用コイルの製造に3台、切削工具のホルダーの製造に1台の3Dプリンターを積極的に活用。 会社設立前の20年からの4年間で5千個の造形実績を重ねてきた。",
+    "url": "https://monoque.jp/challenge/post-278/",
+    "pass": 3
+   },
+   {
+    "quote": "ティーケーエンジニアリング株式会社 | evort — 3Dプリンタでの受託造形は特に力を入れている事業分野であり、高周波焼入れコイルを中心とした銅製品はもとより、さまざまなニーズに対応できるよう取り組んでまいります。",
+    "url": "https://evort.jp/presenters/takao-net",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタによる受託造形. 説明資料 | ティーケーエンジニアリング株... — 3Dプリンタでの受託造形は特に力を入れている事業分野であり、高周波焼入れコイルを中心とした銅製品はもとより、さまざまなニーズに対応できるよう取り組んでまいります。",
+    "url": "https://form.evort.jp/takao-net/3dprinter-download",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jig-universe.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jig-universe.com/list/press-center.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jig-universe.com/list/fa-products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jig-universe.com/whats-assembly-jig/clamp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jig-universe.com/cost/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://distymap.com/manufacturers/takenaka-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ytk-group.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/challenge/post-278/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kojomag.nikkan.co.jp/kikai/439",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takashi-jtic.seesaa.net/article/520611797.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.takao-net.co.jp/tke/information/2025815.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmetaldaily.com/articles/-/147413",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/challenge/post-278/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/presenters/takao-net",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://form.evort.jp/takao-net/3dprinter-download",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ティーケーエンジニアリング",
+   "results": [
+    "https://www.takao-net.co.jp/tke/",
+    "https://acs-l.jp/corp/takao-net/news2412.html",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/36/",
+    "https://www.jmag-international.com/jp/case/takao/",
+    "https://www.techbizexpo.com/search/detail.php?id=38",
+    "https://kojomag.nikkan.co.jp/kikai/439",
+    "https://www.takao-net.co.jp/tke/information/2025815.html",
+    "https://evort.jp/presenters/takao-net",
+    "https://teikeiengineering.com/",
+    "https://tke.jpn.com/consulting"
+   ]
+  },
+  {
+   "query": "株式会社ティーケーエンジニアリング",
+   "results": [
+    "https://www.takao-net.co.jp/tke/",
+    "https://acs-l.jp/corp/takao-net/news2412.html",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/36/",
+    "https://www.jmag-international.com/jp/case/takao/",
+    "https://www.takao-net.co.jp/tke/company/",
+    "https://www.daito-cci.or.jp/member/2022/01/745.html",
+    "https://www.techbizexpo.com/search/detail.php?id=38",
+    "https://kojomag.nikkan.co.jp/kikai/439",
+    "https://www.jig-universe.com/list/tk-engineering.html",
+    "https://teikeiengineering.com/"
+   ]
+  },
+  {
+   "query": "ティーケーエンジニアリング 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://distymap.com/manufacturers/takenaka-engineering",
+    "https://ytk-group.co.jp/",
+    "https://distymap.com/manufacturers/tdk",
+    "https://www.te.com/ja/partners/distributors.html",
+    "https://www.takao-net.co.jp/tke/",
+    "https://www.takao-net.co.jp/tke/company/"
+   ]
+  },
+  {
+   "query": "ティーケーエンジニアリング 導入事例",
+   "results": [
+    "https://monoque.jp/challenge/post-278/",
+    "https://kojomag.nikkan.co.jp/kikai/439",
+    "https://takashi-jtic.seesaa.net/article/520611797.html",
+    "https://tke.jpn.com/example",
+    "https://www.takao-net.co.jp/tke/business/robot/",
+    "https://www.takao-net.co.jp/tke/",
+    "https://tke.jpn.com/consulting"
+   ]
+  },
+  {
+   "query": "ティーケーエンジニアリング 価格 OR 料金",
+   "results": [
+    "https://www.takao-net.co.jp/tke/information/2025815.html",
+    "https://www.jig-universe.com/list/tk-engineering.html",
+    "https://www.japanmetaldaily.com/articles/-/147413",
+    "https://kojomag.nikkan.co.jp/kikai/439",
+    "https://www.takao-net.co.jp/tke/",
+    "https://www.atengineer.com/pr/tkeng/company",
+    "https://teikeiengineering.com/"
+   ]
+  },
+  {
+   "query": "ティーケーエンジニアリング 受託 造形",
+   "results": [
+    "https://monoque.jp/challenge/post-278/",
+    "https://evort.jp/presenters/takao-net",
+    "https://form.evort.jp/takao-net/3dprinter-download",
+    "https://kojomag.nikkan.co.jp/kikai/439",
+    "https://www.takao-net.co.jp/tke/",
+    "https://www.takao-net.co.jp/tke/business/3dprinter/",
+    "https://evort.jp/article/takao-net-3dprinter"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）",
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部11頁・検索6回）"
+ }
+}

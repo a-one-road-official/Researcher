@@ -1,0 +1,693 @@
+{
+ "name": "ローランド ディー.ジー.株式会社",
+ "aliases": [],
+ "context": "/ 微瓷科技（江西）有限公司（AMSKY等との中国合弁、ローランドDG出資5%）セラミック用バインダージェット3Dプリンター",
+ "researched_at": "2026-11-02T08:04:36.469354+00:00",
+ "official_url": "https://www.rolanddg.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1981年5月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "1981年（昭和56年）5月1日",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2024年（令和6年）1月19日",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンピュータ周辺機器の製造および販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "コンピュータ周辺機器の製造および販売",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：50,459百万円 単体：27,798百万円 （2022年12月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結:1,177名 単体：420名 （2022年12月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "これらは当社販売代理店のものではなく、一部のお客様からは同ウェブサイト上で製品を注文し、送金を行ったにもかかわらず製品が届かず、その後連絡すら取れなくなったとの事例も報告されております",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "| 【ご注意ください】当社販売店を装った製品のウェブサイトについて |",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらは当社販売代理店のものではなく、一部のお客様からは同ウェブサイト上で製品を注文し、送金を行ったにもかかわらず製品が届かず、その後連絡すら取れなくなったとの事例も報告されております",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Direct to Object印刷ソリューション3製品販売開始",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "月額レンタルプランのご紹介",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "教育ソリューションwebサイト",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関向け",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "年間保守契約について",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "教育・FAB",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "試作・モックアップ",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "教育なんですよ",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "「将来、自身のブランドを持ちたい」という学生にとって、自身のイラストやデザインがTシャツやトートバッグになり、オープンキャンパスなどで販売されるという体験は、学生の自信に繋がっています",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー.ジー.の「BD-12AC」は、授業、学生制作、研究活動における試作物の完成度を高めるとともに、文系・理系全10学部・1学環が一つのキャンパスに集まる「一拠点総合大学」の特色を活かした学部横断的な教育活動にも活用されています",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは「LEF-300」を活用していましたが、保守契約が満了したことを受け、同社の最新UVプリンター「MO-180」に入れ替えました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー.ジー.の「LEF-300」とレーザー加工機を導入し、アクリルグッズやステッカーなど名入れグッズの販売を開始",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "軟包装用フィルムの食品パッケージ試作をUVプリントでスピーディーに",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "試作品作りをスピードアップしイノベーションを加速させる",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "開発現場での試作品作りにMDX-50が活躍しています",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "LEC2-330導入後は、その場で試作品を作って確認していただくことも可能になり、商談の成約率もほぼ100%になりました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "UVプリンターでSTEAM教育の「A」を教える",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "STEAM教育のA（あそび心・芸術）の部分を担ってくれることを期待し、「発色の良さ」「メンテナンス性」「カバーの保護性」、また「外観のデザイン性」を決め手にLEF2-200の導入を決めました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "長野から世界へ 教育現場で広がるファブラボ・ネットワーク",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "デザイン試作・小ロット生産の2つの用途で活躍しています",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "シボやグラデーションが実現され、デザイン試作の表現が向上しました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "海外販売チャネル",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "月額レンタルプランのご紹介",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "教育ソリューションwebサイト",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関向け",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "年間保守契約について",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "海外販売チャネル",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータ周辺機器の製造および販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "の製造販売会社であり、広告・看板用",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "の組立キット等を製造販売していたが、近年は大型プリンターなど、コンピューター周辺機器を開発し急成長",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "現在、販売されていない製品を含む",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "のマスクの試作品作成に、同社の",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータ周辺機器の製造および販売",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "これらは当社販売代理店のものではなく、一部のお客様からは同ウェブサイト上で製品を注文し、送金を行ったにもかかわらず製品が届かず、その後連絡すら取れなくなったとの事例も報告されております",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様におかれましては、当社製商品の購入をご検討の際には十分ご注意いただけますようお願い申し上げます",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様成功事例 | Roland DG",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に最適なTrueVisを",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "お客様成功事例",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "溶剤インクなので臭いを心配していましたが、現場の女性オペレーターや顧客から指摘されたことは一度もありません",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "BD-8導入後はスピーカーにお客様のロゴをプリントできるようになり、製品のクオリティが格段に上がりました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "新たな付加価値として、これまで培ってきた塗装技術とUVプリントを組み合わせた「デジペイント」をお客様に提案できるよう、ローランド ディー.ジー.の「CO-640」を導入しました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "PVCラバーグッズにプリントして、曲げてもインクが割れないことや色鮮やかで立体感のあるプリントで顧客からもキレイという評価を得ています",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "業界でもトップクラスのアクリル板加工の技術でアクリルキーホルダーを中心に、プロスポーツの公式グッズなどのアクリルグッズを自社で一貫生産",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にはイラストレーターや漫画家、アニメーターなど色に厳しい業種が多いため、発色の良さが導入の決め手になりました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "それにより、お客様からは驚かれるほどの画質で、「ワンランク上がった」と好評です",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客からも「色味がキレイ」と高評価です",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からの様々な要望にお応えするため、溶剤プリンターでは出来ない仕事が受注可能なプリンターの導入を考えました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "写真表現も美しく、お客様からも高い評価を得ています",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "この業界はお客様のニーズの変化が非常に早く、時流に合わせた新商品の開発が常に必要です",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "窯業界の歴史を変える「デジタル技術」を活用したものづくりに挑戦！",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "一品一品違った商品を作り、お客様へお届けするビジネススタイルを確立しました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "「文具名入れ」に活躍 顧客のファン化を実現して長期的な関係作りを目指す",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "このたび、デジタルプリンティング機器メーカーであるローランド ディー.ジー.株式会社様の公式WEBサイト「お客様成功事例（導入実例）」にて、当社の取り組みが掲載されました",
+    "url": "https://www.good-hoko.com/news/2685/",
+    "pass": 3
+   },
+   {
+    "quote": "ローランドDG お客様成功事例｜株式会社ホーコーズ 様",
+    "url": "https://www.good-hoko.com/news/2685/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に最適なTrueVisを",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "お客様成功事例",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "お客様におかれましては度重なるご負担をおかけすることと存じますが、より⼀層の品質およびサービスの向上に努めていく所存でございますので、何卒ご理解いただき、今後とも弊社製品をお引き⽴てくだ",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "お取引先とともに",
+    "url": "https://corporate.rolanddg.com/ja/about-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "お取引先とともに",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "近年複数のウェブサイト上で当社製品が市場価格を大きく下回る価格をつけて掲載されている事例が海外で報告されております",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格と用途で絞り込む",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "月額レンタルプランのご紹介",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "年間保守契約について",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは「LEF-300」を活用していましたが、保守契約が満了したことを受け、同社の最新UVプリンター「MO-180」に入れ替えました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "「白色の印刷もできる」「透明なデカール紙に対応している」「導入しやすい価格」など多くの特長があったため、すぐに購入を決めました",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "価格改定のご案内｜Roland DG",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "価格と用途で絞り込む",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "月額レンタルプランのご紹介",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "年間保守契約について",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "価格改定のご案内",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "つきましては、誠に不本意ではございますが、価格を改定させていただく運びと",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "がMBOの買取価格を上回る条件のTOBを提案したことを発表",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "ローランドＤＧ、買い付け価格５３７０円に引き上げ ブラザー上回る条件",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ローランド ディー . ジー .の 代理店 - メトリー — ローランド ディー . ジー .の 代理店 - メトリー Metoree https://metoree.com > ... > ローランド ディー.ジー.株式会社",
+    "url": "https://metoree.com/companies/15315/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー . ジー . - 企業情報サイト — ローランド ディー . ジー . - 企業情報サイト Roland DG https://corporate.rolanddg.com > ...",
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の「 ローランド ディー . ジー .」の 代理店 4社 | Metoree — 東京都の「 ローランド ディー . ジー .」の 代理店 4社 | Metoree Metoree https://metoree.com > ... > ローランド ディー.ジー.の代理店",
+    "url": "https://metoree.com/companies/15315/distributors/tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "販売条件 | ローランド ディー . ジー . オンラインショップ — 販売条件 | ローランド ディー . ジー . オンラインショップ ローランド ディー.ジー. オンラインショップ https://rolanddg-onlineshop.bcart.jp > page > hanbaikiyaku",
+    "url": "https://rolanddg-onlineshop.bcart.jp/page/hanbaikiyaku",
+    "pass": 3
+   },
+   {
+    "quote": "お客様成功 事例 | Roland DG — お客様成功 事例 | Roland DG ローランド ディー.ジー. https://www.rolanddg.co.jp > gallery > professionals",
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "pass": 3
+   },
+   {
+    "quote": "【顧客 事例 】 ローランド ディー . ジー .：リードタイムの可視化 ... — 【顧客 事例 】 ローランド ディー . ジー .：リードタイムの可視化 ... Project44 https://www.project44.com > rolanddg-customer-story",
+    "url": "https://www.project44.com/ja/resources/rolanddg-customer-story/",
+    "pass": 3
+   },
+   {
+    "quote": "価格 改定のご案内｜ Roland DG — 価格 改定のご案内｜ Roland DG ローランド ディー.ジー. https://www.rolanddg.co.jp > ニュース",
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "pass": 3
+   },
+   {
+    "quote": "価格 と用途で絞り込む | Roland DG — 価格 と用途で絞り込む | Roland DG ローランド ディー.ジー. https://www.rolanddg.co.jp > products",
+    "url": "https://www.rolanddg.co.jp/products",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー . ジー . - Wikipedia — ローランド ディー . ジー . - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ローランド_ディー._ジー.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー. ジー. - Wikipedia — ローランドディー. ジー.株式会社 （英: Roland DG Corporation）は、 静岡県 浜松市 浜名区 に本社を置く コンピューター周辺機器 の製造販売会社であり、広告・看板用 インクジェットプリンター では世界屈指である [要出典]。社名のDGはDigital Groupの略。",
+    "url": "https://ja.wikipedia.org/wiki/ローランド_ディー._ジー.",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | ローランド ディー.ジー.株式会社 — ローランド ディー.ジー.株式会社の会社情報をご覧いただけます。",
+    "url": "https://corporate.rolanddg.com/ja/about-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | ローランド ディー.ジー.株式会社 — ローランド ディー.ジー.株式会社の会社概要をご覧いただけます。",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "ローランド ディー.ジー. - 大型プリンター、3Dの販売- — ローランド ディー.ジー.は、コンピューター周辺機器メーカーとして培ってきたテクノロジーを駆使した「大型カラープリンター」「3D」「カッティング・マシン」等のデジタル機器をお客様のニーズに合わせたトータル・ソリューションでご提供しています。",
+    "url": "https://www.rolanddg.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | Roland DGを知る | 採用情報 | ローランド ディー.ジー. — 大型プリンターや3D加工機で、世界に“ワクワク”を届けよう。ローランド ディー.ジー.の採用情報サイト。",
+    "url": "https://recruit.rolanddg.com/ja/about/business/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "36億6870万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "連結：50,459百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "単体：27,798百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "“ローランドＤＧがＭＢＯ、1株5035円でＴＯＢ”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "ローランドＤＧ、買い付け価格５３７０円に引き上げ ブラザー上回る条件",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "pass": 3
+   },
+   {
+    "quote": "10,000,000円",
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rolanddg.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/15315/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.rolanddg.com/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roland.com/jp/support/support_news/2004251100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rolanddg.co.jp/gallery/professionals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.good-hoko.com/news/2685/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RolandDG_PR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.large-format-printer.jp/roland/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rolanddg.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.rolanddg.com/ja/about-us.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ローランド ディー.ジー. 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/15315/distributors/",
+    "https://corporate.rolanddg.com/ja/index.html",
+    "https://www.roland.com/jp/support/support_news/2004251100/",
+    "https://metoree.com/companies/15315/distributors/tokyo/",
+    "https://rolanddg-onlineshop.bcart.jp/page/hanbaikiyaku",
+    "https://x.com/RolandDG_PR",
+    "https://download.brother.com/pub/jp/news/2024/20240313-002.pdf",
+    "https://www.too.com/dsurf/media/interview/027185.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "https://distymap.com/manufacturers/roland-dg"
+   ]
+  },
+  {
+   "query": "ローランド ディー.ジー. 導入事例",
+   "results": [
+    "https://www.rolanddg.co.jp/gallery/professionals",
+    "https://www.good-hoko.com/news/2685/",
+    "https://x.com/RolandDG_PR",
+    "https://www.project44.com/ja/resources/rolanddg-customer-story/",
+    "https://europort.jp/blog/?tag=%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B&srsltid=AYCX9vLZXnzlMkpvWp0_1ye8-wyTf2bNXPveHHa0HyqXhtwLxG-J7kDy",
+    "https://www.comnet-network.co.jp/blog/rdg-collabo-seminar-202308-09/?srsltid=AYCX9vIos_Hq-3A9vjf1mGrOYKLOJV_mx_P1KcsaY5ausZInwIpUpMfk",
+    "https://prtimes.jp/main/html/searchrlp/company_id/95799",
+    "https://store.imagemagic.co.jp/roland-im-exhibition/?srsltid=AYCX9vJ2E2LOD5YCfk2DabhdYY5tbRP7oidWbD3Lx_cY9Cjf4t2Hc_hH",
+    "https://assemble.rolanddg.co.jp/voice/",
+    "https://www.ipros.com/company/detail/2115547/category/70915/"
+   ]
+  },
+  {
+   "query": "ローランド ディー.ジー. 価格 OR 料金",
+   "results": [
+    "https://www.rolanddg.co.jp/company/pressroom/info-price-260520",
+    "https://www.large-format-printer.jp/roland/",
+    "https://www.rolanddg.co.jp/products",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%87%E3%82%A3%E3%83%BC._%E3%82%B8%E3%83%BC.",
+    "https://rolanddg-onlineshop.bcart.jp/page/hanbaikiyaku",
+    "https://www.openwork.jp/a0910000000FrQs/compa/a0910000000Frfu/",
+    "https://europort.jp/products/list?category_id=542&srsltid=AYCX9vIxhy_9GJHaQ4GctcwKznHnJtQJxe_TMbrG7HkPnjgqUT8wKQ2X",
+    "https://ohno-inkjet.com/?p=102638",
+    "https://kakaku.com/pc/printer-ink/itemlist.aspx?pdf_ma=23871",
+    "https://www.rolanddg.co.jp/"
+   ]
+  },
+  {
+   "query": "ローランド ディー.ジー. 受託 造形",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ローランド_ディー._ジー.",
+    "https://corporate.rolanddg.com/ja/about-us.html",
+    "https://corporate.rolanddg.com/ja/about-us/profile.html",
+    "https://www.rolanddg.co.jp/",
+    "https://recruit.rolanddg.com/ja/about/business/",
+    "https://www.rolanddg.co.jp/gallery/professionals",
+    "https://www.rolanddg.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

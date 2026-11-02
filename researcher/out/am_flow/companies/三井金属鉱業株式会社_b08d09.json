@@ -1,0 +1,1390 @@
+{
+ "name": "三井金属鉱業株式会社",
+ "aliases": [],
+ "context": "材料・焼成(セラミックAMネットワーク) / Lithoz；Lithoz（墺）；Lithoz（墺）セラミックAMの製造委託先",
+ "researched_at": "2026-11-02T08:10:23.681905+00:00",
+ "official_url": "https://www.mitsui-kinzoku.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1950年（昭和25年）5月1日",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1950年（昭和25年）5月1日",
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "昭和25年5月1日",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "（連結）758,532百万円（2026年3月期） （単体）436,712百万円（2026年3月期）",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結:5033億7000万円 （平成18年3月期）",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結8,188名　単体 2,587名（2026年3月末）",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結12,097名　単体 2,473名（2025年3月末）",
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：9,965名 単独：2,229名 （平成18年3月末）",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "機能材料・電子材料の製造・販売、非鉄金属製錬、資源開発、貴金属リサイクル、素材関連事業、自動車部品の製造・販売　等",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.mitsui-kinzoku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "機能材料・電子材料の製造・販売、非鉄金属製錬、資源開発、貴金属リサイクル、素材関連事業、自動車部品の製造・販売 等",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント配線板用銅箔の販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "排ガス浄化用触媒の製造・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "スパッタリング・ターゲットの製造・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス製品の製造・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛・鉛地金・同関連製品および金属粉の製造・販売等",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "メサライトの製造・販売および産業廃棄物中間処理",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "スクラップからの貴金属等回収・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "環境調査・対策・鉱物・地熱・水資源の調査・開発等に関する総合コンサルタント",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "電気銅・硫酸等の製造・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM、プラスチック製品等の製造・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "フェライト・各種鉄粉・脱酸素剤の製造・販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "計測制御機器および産業用精密機械の開発・設計・組立て",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "調査コンサルタントコーポレート機能サービス",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "非鉄金属および電子材料・化学薬品・印刷材料・機械等の販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "パーライト（真珠岩発泡体）の製造・販売、採石業 等",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP ERPの導入コンサルティング、システム開発、各種サーバの運用管理他",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "銅条板・黄銅条板・圧延銅箔の製造販売、亜鉛加工品の製造販売",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "三井金属グループの公式発表は、当社および三井金属グループ各社のホームページ・プレスリリースをご参照ください",
+    "url": "https://www.mitsui-kinzoku.com/company/c_spolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "外の力（お客様・パートナー企業など）」と「当社の強み（コア技術・ノウハウ・販売チャネル）」を融合することで、新市場を創出していきます",
+    "url": "https://www.mitsui-kinzoku.com/seihin/business_creation/",
+    "pass": 1
+   },
+   {
+    "quote": "粒子サイズ・形状等をお客様のニーズに合わせて開発し、製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "高純度材料を使用し、高度な工程管理を実施することで、品質要求の高い車載用ニッケル水素電池用を主に製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "環境車に代表される電気自動車（EV）や、プラグインハイブリッド車（PHEV）向けの高容量リチウムイオン電池向けを主に製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "各種スパッタリングターゲット材を生産・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "高い電圧が得られるという魅力がありながらも電解液を分解してしまう弱点があるLNMO正極材料について、結晶構造設計とiconos™",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛酸化物および、国内では当社のみ製造している鉛酸化物、硫酸亜鉛を製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/metals/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛酸化物および、国内では当社のみ製造している鉛酸化物、硫酸亜鉛を製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/search/?cator=92&cmid=929",
+    "pass": 1
+   },
+   {
+    "quote": "三井金属グループでは、各種産業プラントのエンジニアリング、ロボット用ケーブル・検査装置の製造・販売、情報処理システムなど、多種多様な事業展開を行っています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "メカトロニクス事業（1.青果物非破壊内部品質センサおよび、関連システムの設計・製造・修理および販売 2.電子製品、電子応用装置および電気計測器の設計・製造・修理および販売 3.産業機器向け部品等の製造、治具・検査装置等の設計・製造・修理および販売 4.建設業（機械器具設置工事業、熱絶縁工事業、タイル・れんが・ブロック工事業））",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "三井金属計測機工（株）は、世界で初めて青果物内部品質センサを開発・製造・販売を開始した三井金属 計測システム事業部と、長年産業用精密機械部品の設計・組立を行ってきた三井金属九州機工（株）が合併し、食の安全から産業用機器まであらゆる分野の「ものづくり」をサポートします",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "情報処理システム事業（SAP ERP（ERPパッケージ）関連の事業 SAP ERPをテンプレート化した「リアルモデル」を用いた導入コンサルティング、運用サポート）",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "銅、銅合金および、銅と亜鉛の合金である黄銅の板・コイルなど、各種伸銅品を製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの被害により当社グループの調達、生産、製品販売に支障が生じ、大規模自然災害のリスクが、当社グループの経営成績等に重要な影響を与える可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "機能材料セグメントにおいては、金属／貴金属相場及び為替相場の変動等により、原材料の調達・製品販売の採算悪化や棚卸資産の評価損益の変動が生じ、当社グループの財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "これらに対し、高付加価値製品・差別化技術の開発、適正な価格設定、棚卸資産の適正化、関係当局・顧客との連携、調達・販売先の複線化、法令遵守及び災害対応体制・エネルギー管理の強化により、影響の低減に努めています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、４月４日を品質の日とすると共に、リスクベースアプローチに基づく優先拠点の緊急点検(抜き打ち監査)、検査データのデジタル化及び検査表作成システムの導入、全階層を対象とした品質コンプライアンス教育、役員による月次のメッセージ配信、品質保証ガイドラインの改善・運用強化、並びに守れる規格の締結等を展開してまいりました",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、米国をはじめとする主要国の通商政策の変更や追加関税措置等については、その影響を完全に見通すことは困難であり、顧客企業の生産・投資計画の見直しによる販売数量の減少や、当社製品の販売及び原材料調達におけるコスト増加を通じて、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、多くの方が当社グループを選択しいきいきと働いてもらえる会社となるために、多様な人材が働きやすく働きがいのある職場環境を整え、キャリア開発支援や教育を継続的に実施しています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて人権尊重に係るグループ全体のルールを整備するとともに社内の教育を実施し対応を進めています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "また、作業従事者に対し、安全衛生の関連法規やルールの遵守・危険感受性を高めるための研修、非常時に備えた訓練、個別作業ごとの保護具や工具の使用等についてトレーニングを実施し、安全衛生に係るリスクの低減を図っています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "２. 教育訓練の実施",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/Supplychain_20250312j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉱物原料調達に係る全ての従業員のための教育・訓練を継続的に計画し実施します",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/Supplychain_20250312j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２. 教育訓練の実施",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/7_HibiKyodo_Supplychain2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "銅原料調達に関わる全ての従業員のための教育・訓練を継続的に計画し実施します",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/7_HibiKyodo_Supplychain2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、外部の利害関係者向けにウェブサイトでアクセス可能な「コンプライアンスコンサルトレ",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/1_Joint%20Due%20Diligence%20Standard%20Compliance%20Report_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「コンプライアンスコンサルトレポートデスク」は、当社のウェブサイトで確認できます",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/1_Joint%20Due%20Diligence%20Standard%20Compliance%20Report_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "正規代理店はメーカーが公式に認定した販売網です",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "一次代理店（特約店・正規販売店とも呼ばれます）は、メーカーと直接契約して取り扱う販売会社です",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユアソフトはグループ50社以上のITインフラの設計、構築、運用管理やサポートを行い、また、基幹系から情報系まで、ユーザーに密着した幅広いサービスを提供しています",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、パフォーマンスに関しても、規模が大きくなればデータベースを分割して維持するという考えの設計となっており、これまでのデータベースにできなかったことが実現できると判断しました",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "アズワン、三井金属鉱業、Lithozがファインセラミックス3Dプリント受託サービスを開始 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "アズワン、三井金属鉱業、Lithozがファインセラミックス3Dプリント受託サービスを開始",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "アズワン、三井金属鉱業、Lithozの3社は協働し、ファインセラミックス3Dプリントの受託サービスを開始した",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "ファインセラミックス3Dプリント受託サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、アズワン、三井金属鉱業、Lithozの3社は協働でセラミックス3Dプリント受託サービスを開始した",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "アズワンは「科学」・「医療」を中心とした理化学機器販売の総合商社だ",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ダイカスト・粉末冶金部品やそれらを製造するための材料、また建材や自動車用構造材を提供しています",
+    "url": "https://www.mitsui-kinzoku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイカスト、粉末冶金、自動車部品の製造",
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイカスト・粉末冶金部品やそれらを製造するための材料、また建材や自動車用構造材を提供しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が強みとする「粉体制御技術」を活かし、各種高機能粉末を提供しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "透明性・隠ぺい性等の光学特性に特徴を持つ、各種導電性粉末を製造しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心噴霧法を用いることにより、真球状で酸化の少ない微細な半田粉末です",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金他（銅粉、青銅粉、亜鉛粉・粒、錫粉、青銅粉、ビスマス粉 ）",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "機能材料事業本部 機能性粉体事業部 営業部（パストラン）TEL：03-5437-8091 （電子材料用超微粉、半田粉、粉末冶金他）TEL：03-5437-8092",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "酸化/炭化タンタル・ニオブ（1．TSS, TEP, NSS（酸化物、白色粉末） 2．TaC, TaNbC, NbC(炭化物、黒褐色粉末））",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "三酸化アンチモンは白色状の粉末であり、錫、ビスマスと同様に、鉛製錬時に発生する酸化物です",
+    "url": "https://www.mitsui-kinzoku.com/seihin/metals/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛、鉛、銅等の非鉄金属の価格はロンドン金属取引所（LME：London Metal Exchange）、その他の国際市場で決定されます（以下、LME相場等）",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛精鉱等の輸入原料価格や、非鉄金属地金の国内価格は、米ドル建てのLME相場等を基準に決定され、当社グループが製錬事業から得る製錬収入（マージン）も、実質的に米ドル建てとなっています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "また、中国等における競合品の台頭による価格競争の激化、代替技術の進展による技術優位性の低下及び市場シェアの減少、景気後退等による需要の減少、輸入関税の変更、レアメタルに係る輸出規制等も、業績及び事業継続に影響を及ぼす可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "これらに対し、高付加価値製品・差別化技術の開発、適正な価格設定、棚卸資産の適正化、関係当局・顧客との連携、調達・販売先の複線化、法令遵守及び災害対応体制・エネルギー管理の強化により、影響の低減に努めています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのリスクに対し、一部実施している排出係数が小さい電力会社・電力契約への切替に加え、CO₂低減製品・SDGsに貢献する製品の提供等による新たな価格政策、再生可能エネルギー・CO₂フリー電力購入等を両輪として新たに検討し、対応して参りたいと考えています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "問い合わせ・見積 ↗",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "運営・データの集め方・料金",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスのうち、微粉末を原料とし、組成や形状、製造工程を精密に制御したものをファインセラミックス（またはニューセラミックス）と呼ぶ",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "LithozのLCM（Lithography-based Ceramic Manufacturing）技術は、セラミックス前駆体粉末を含む分散液を平面的に配置した後、選択的に光を照射することで、照射部をセラミックスに変換する",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "低出力レーザー焼結3Dプリントに利用できる世界初の「純銅」粉末を発表",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "（前回改訂比 ＋15,000円/ｔ）",
+    "url": "https://www.mitsui-kinzoku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電気亜鉛建値 682,000円/t （前回改訂比 ＋15,000円/t）",
+    "url": "https://www.mitsui-kinzoku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "42,377百万円（2026年3月末）",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "（連結）758,532百万円（2026年3月期）",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "（単体）436,712百万円（2026年3月期）",
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "円筒型ターゲット",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛精鉱等の輸入原料価格や、非鉄金属地金の国内価格は、米ドル建てのLME相場等を基準に決定され、当社グループが製錬事業から得る製錬収入（マージン）も、実質的に米ドル建てとなっています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "したがって、為替レートが大きく円高に振れ、その期間が長期間にわたって継続した場合には、為替変動リスクが、当社グループの経営成績等に重要な影響を与える可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "7,585億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "1,367億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "7,123億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "6,467億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "6,520億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "85.1億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "6,333億円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 423億7,700万円",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "42,289百万円（2025年3月末）",
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "42,129百万円",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "連結:5033億7000万円",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "このとき、具体的なシステムの形を作り上げるため、まず「Shunsaku」に組み合わせるミドルウェアの選定が必要となりました",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックAM市場は2030年に34億ドルに成長",
+    "url": "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "政治、行政、顧客、サプライヤーなどとの健全かつ透明な関係を維持します",
+    "url": "https://www.mitsui-kinzoku.com/company/c_idea/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、個人情報、顧客情報をはじめとする機密情報の保護と管理を徹底します",
+    "url": "https://www.mitsui-kinzoku.com/company/c_idea/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、お取引先様およびソーシャルメディア利用者の皆様へ",
+    "url": "https://www.mitsui-kinzoku.com/company/c_spolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "外の力（お客様・パートナー企業など）」と「当社の強み（コア技術・ノウハウ・販売チャネル）」を融合することで、新市場を創出していきます",
+    "url": "https://www.mitsui-kinzoku.com/seihin/business_creation/",
+    "pass": 1
+   },
+   {
+    "quote": "粒子サイズ・形状等をお客様のニーズに合わせて開発し、製造・販売しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "レアマテリアル事業部では、SAWフィルター用高純度タンタル、液晶パネルやハードディスクのガラス研磨用セリウム系研磨材、SiC半導体研磨用NANOBIX™、および半導体・電子部品・医療等で幅広く使用されるレアアース製品(旧日本イットリウム㈱製品)を取り扱っており、軽希土から重希土まで全ての希土類を用い、酸化物・炭化物・メタル等の種類や形状・サイズを問わず、お客様のニーズに応える製品を提供しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "電子材料・医療・半導体用途など、お客様の様々な用途やニーズに応じて最適な製品をご提案します",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズや用途に合わせて、塊状・削状・粉状・箔状及び板状などの各種形状を取り揃えています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "また、半導体分野で注目されている酸フッ化イットリウムをはじめ、光学材料や耐環境製品などお客様の用途に応じた製品をご提案可能です",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ業界では、”より軽く”、”より薄く”、”より強く”、”より加工性の高い”製品が要求されます",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的なレアメタル新溶液材料シリーズ「iconos™」や、独自の防汚・防曇コーティング剤を通じ、お客様の課題に最適なソリューションを提供",
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "pass": 1
+   },
+   {
+    "quote": "三井金属ユアソフト（株）では、三井金属グループのIT化推進を行うとともに、これまで培った経験やノウハウを活かし、国内外、業種、業態を問わず、グループ外のお客様へビジネス展開しています",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、顧客等のステークホルダー及び当社グループの機密情報を含む事業活動に伴う様々な情報を保持・管理しています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバー攻撃や関係者の故意又は過失、生成AIの不適切な利用等により、これらの情報の漏洩、改ざん、消失が起きた場合、顧客や社会からの信用を失うだけでなく、事業活動の停止、多額の損害賠償の請求や訴訟の恐れがあります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "これらに対し、高付加価値製品・差別化技術の開発、適正な価格設定、棚卸資産の適正化、関係当局・顧客との連携、調達・販売先の複線化、法令遵守及び災害対応体制・エネルギー管理の強化により、影響の低減に努めています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、米国をはじめとする主要国の通商政策の変更や追加関税措置等については、その影響を完全に見通すことは困難であり、顧客企業の生産・投資計画の見直しによる販売数量の減少や、当社製品の販売及び原材料調達におけるコスト増加を通じて、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、外務省等の行政機関が発信する情報、顧客企業及びサプライヤー企業からの情報、民間シンクタンクの分析、各種報道等を通じて情報の収集・評価を行っています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが属する非鉄金属業界は、相対的に温室効果ガス排出が多い産業特性を有しています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "また、脱炭素に関する顧客ニーズの変化を踏まえ、当社グループではエネルギー調達と温室効果ガス排出抑制の両面を考慮し、環境貢献製品の提供やサプライチェーンへの対応強化等に努めています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "三井金属株式会社（以下、当社）は、2023 年に銅、鉛および亜鉛業界における責任あるグローバ",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/1_Joint%20Due%20Diligence%20Standard%20Compliance%20Report_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三井金属株式会社（旧 三井金属鉱業株式会社）様 導入事例 | 株式会社USEN WORK WELL",
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | セゾン情報システムズ",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "SAP・基幹システム導入事例",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "「いろいろな可能性を秘めた」先進的ツールでユーザー・ニーズの先取り",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユアソフトはグループ50社以上のITインフラの設計、構築、運用管理やサポートを行い、また、基幹系から情報系まで、ユーザーに密着した幅広いサービスを提供しています",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属をはじめ多くのユーザー企業に対するIT面の支援をミッションとするユアソフトは、単にユーザー企業の要求に応じてシステム構築を行うだけでなく、積極的に最新技術に対応し、今後の変化に対して柔軟に対応できるシステム提案を心掛けています",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、「即時に、社内のナレッジ情報を活用して、お客様へ対応しなければならない」という緊急度の高い情報を必要としているのは、社外で活動している社員にこそ必要です",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "検討段階では、「DataSpider Servista」は「Shunsaku」に未対応でしたが、試用版を試した結果、「使いやすさの点、いろいろな業務への適用可能性の点、および、ユーザーの意見を汲んでくれる国産ベンダー製品の観点で評価」（楢木氏）し、また、Shunsakuアダプタの開発を前提に、「DataSpider Servista」の採用を決定しました",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーは問い合わせに際して、cc:（カーボンコピー）にそのメール・アドレスを加えます",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、取引先も含めた情報活用には、メールを活用することが役立つことと思います",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "このシステムの派生形として、取引先との交渉内容を格納すれば、メールによる営業活動をSFA的に活用することも可能となります",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、ユーザーが使い慣れたツールである「Excel」や「Access」で、自由に「SAP」のデータを活用できるような使い勝手の改善は重要なテーマになっていきます",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで注目している技術がSOAであり、SOA対応ができれば、ユーザーは、「SAP」の情報か、その他のシステムの情報か意識することなく情報を取得することが可能となります",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、ユーザーへ提案を行い、展開していくことになると思います",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例アーカイブ",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例を、連携製品別・業種別・用途別にまとめました",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "本協働事業では、顧客の需要を広く吸収する役割を担う",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "アズワンは、自社における「科学」・「医療」を中心とした理化学機器販売網による広範な顧客ネットワークと、三井金属の永年にわたる「各種セラミックス素材取り扱いのノウハウおよび焼成技術」、Lithoz社の「高密度」「高精度」の3D造形技術を活かし、３社協働によるファインセラミックスの3Dプリンティング受託サービスを開始した",
+    "url": "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "エンジニアリング事業（1.非鉄エンジニアリング（非鉄金属製錬プラント・設備・自動機械 ・非鉄金属圧延・加工設備 ・海外提携会社からの機器供給・付帯設備） 2.電子材料製造設備（電解銅箔・電池材料・磁性鉄粉製造設備 他） 3.一般産業設備・FA設備（自動車部品製造、金属部品加工設備 他） 4.環境関連設備（排水・排煙・排ガス・集塵処理設備・産廃物処理 他） 5.鉛建材（遮音・防音・放射線遮蔽材） 6.ポリエチレン接合パイプ（上下水道配管、農業用水配管、消化配管 他））",
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、ICTを活用し機密情報を統一的に管理し、ICTセキュリティ規則の遵守及び運用しているシステムのリスクアセスメントや提携先との秘密保持契約締結により、情報セキュリティに係るリスクの低減を図っています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛精鉱等の輸入原料価格や、非鉄金属地金の国内価格は、米ドル建てのLME相場等を基準に決定され、当社グループが製錬事業から得る製錬収入（マージン）も、実質的に米ドル建てとなっています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "また、中国等における競合品の台頭による価格競争の激化、代替技術の進展による技術優位性の低下及び市場シェアの減少、景気後退等による需要の減少、輸入関税の変更、レアメタルに係る輸出規制等も、業績及び事業継続に影響を及ぼす可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者との提携",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "この一環として、当社との事業シナジーが見込まれる国内外の企業やベンチャー等の第三者との間で、共同開発、戦略的提携、事業提携や事業買収等を行う可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者との提携においては、提携先における技術開発の遅延や技術競争力の低下、事業環境の変化、提携先の財務状況の悪化等により、当社グループが想定する新事業の創出や成長が実現しない可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "また、提携先への出資を行っている場合には、これらの状況により、出資金額の回収が困難となり、減損損失を計上する等のリスクが生じる可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "これら第三者との提携に係るリスクが、当社グループの経営成績及び財政状態等に重要な影響を与える可能性があります",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、提携に際して適切なデュー・ディリジェンスを実施し、提携先の技術力、事業内容及び財務状況等を慎重に評価するとともに、当社の経営ノウハウ、技術及び人材等を活用することで、第三者との提携に係るリスクの低減に努めています",
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "We use cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you.",
+    "url": "https://www.mitsui-kinzoku.com/en/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We use cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you.",
+    "url": "https://www.mitsui-kinzoku.com/en/company/c_message/",
+    "pass": 1
+   },
+   {
+    "quote": "We use cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you.",
+    "url": "https://www.mitsui-kinzoku.com/en/company/c_idea/",
+    "pass": 1
+   },
+   {
+    "quote": "We use cookies to improve site functionality, provide you with a better browsing experience, and to enable our partners to advertise to you.",
+    "url": "https://www.mitsui-kinzoku.com/en/company/c_gaiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "We evaluate suppliers based on information such as trading partner, country of origin, raw",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/2_Takehara_Compliance2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "We evaluate suppliers based on information such as trading partner, country of origin, raw",
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/3_Kamioka_Compliance2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "search_distributors_by_manufacturer(",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属の正規代理店はどこですか？",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理店と取扱店の違いは何ですか？",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理店はメーカーが公式に認定した販売網です",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナル・自社開発",
+    "url": "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三井金属の取扱代理店一覧【1社・代理店側の掲載】｜ディスティマップ — 三井金属は1950年5月設立、東京都品川区に本社を置く東証プライム上場企業(証券コード5706)。取扱代理店1社を代理店各社が公開する取扱メーカー情報に基づき掲載。主な代理店: 丸越。旧 三井金属鉱業。根拠URLつきの代理店データベース。",
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属鉱業は現在どこ？→ 三井金属（2025年〜） | ディスティマップ — 三井金属鉱業の現在の社名・後継企業は三井金属。社名変更・買収・統合の経緯と、三井金属の正規代理店1社を掲載。",
+    "url": "https://distymap.com/history/三井金属鉱業",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属商事株式会社 — 三井金属鉱業が100%の出資をするグループ内で唯一の商事会社です。主に非鉄金属、電子材料、化学・工業薬品、リサイクル原料、印刷材料等扱っております。",
+    "url": "https://www.mitsuikinzoku-t.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属株式会社（旧 三井金属鉱業株式会社）様 導入事例 | 株式会社... — 三井金属株式会社（旧 三井金属鉱業株式会社）様の導入事例をご紹介。株式会社USEN WORK WELLによる、働く環境づくりやオフィス課題解決に関する取り組みを掲載しています。",
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | セゾン情報システムズ - hulft.com三井金属鉱業株式会社 | 導入事例 | 「Sound Design for OFFICE」公式...工場設備の稼働データとカメラ映像を連動した監視システムを構築し、...製造記録書類のデータ化手段を複合機から「fiシリーズ」に置換し作業...SAP導入事例｜テンプレート「リアルモデル」｜三井金属ユアソフト国内外80部門のマスタデータを統合し、AI活用を見据えたデータ基盤を... — 今、情報が欲しい社員へ、瞬時にナレッジを提供 電子メールによるナレッジシステムの短期構築、将来のSOA化へ向けて 三井金属グループは一世紀に渡り、非鉄金属資源の開発と生産を行い、亜鉛・銅・貴金属などの基礎素材をあらゆる分野へ供給しています。 三井金属鉱業グル－プは、非鉄金属素材を中心とした多様な技術や経験を蓄積し、「マテリアルの知恵を活かす」をスロ－ガン",
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井金属鉱業株式会社 | 導入事例 | 「Sound Design for OFFICE」公式... — 三井金属鉱業グル－プは、非鉄金属素材を中心とした多様な技術や経験を蓄積し、「マテリアルの知恵を活かす」をスロ－ガンに、機能粉材料事業・金属事業・自動車部品事業、その他関連事業を展開しています。 例えば、スマ－トフォンの小型化などに使用され、精密回路の配線材料に用い ...",
+    "url": "https://sound-design.usen.com/casestudy/mitsui-kinzoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場設備の稼働データとカメラ映像を連動した監視システムを構築し、... — 「マテリアルの知恵を活かす」をコーポレートスローガンに、非鉄金属素材の分野で産業を支える三井金属鉱業株式会社。機能材料事業本部銅箔事業部では、工場の安全管理・生産性向上に向けて、三菱電機インフォメーションネットワーク株式会社（MIND）のネットワークカメラ用録画・配信 ...",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/mitsui-kinzoku/",
+    "pass": 3
+   },
+   {
+    "quote": "アズワン、三井金属鉱業、Lithozがファインセラミックス3Dプリント受... — May 13, 2022 · アズワン、三井金属鉱業、Lithozの3社は協働し、ファインセラミックス3Dプリントの受託サービスを開始した。3Dプリンター業界で注目が集まるセラミック素材の活用促進のために開始される新たなサービスについてご紹介する。",
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックス3Dプリンティング受託サービス | 3DP id.arts — Apr 22, 2022 · 大阪に本社を置く研究用機器・科学機器販売会社である アズワン は、 三井金属鉱業 、 Lithoz GmbH （以下 Lithoz）と協働し、ファインセラミックス3Dプリンティングの受託サービスを開始した。 アルミナによる造形事例",
+    "url": "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mitsui-kinzoku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_idea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_gaiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_yakuin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_sosiki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/world/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_symbol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/company/c_spolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/business_creation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/engineered_materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/search/?cator=92&cmid=929",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/search/?cator=184&cmid=929",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/search/?cator=93&cmid=929",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/metals/s_meta_supply.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/seihin/affiliates_coordination/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/toushi/management/risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/toushi/stock_info/teikan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/toushi/gyoseki/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/en/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/en/company/c_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/en/company/c_idea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/en/company/c_gaiyo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/Supplychain_20250312j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/2_Takehara_Compliance2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/3_Kamioka_Compliance2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/4_RMI_RMAP_Takehara.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/5_2025KPMG_Takehara.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/404.html",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2025/7_HibiKyodo_Supplychain2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/supplychain/2026/1_Joint%20Due%20Diligence%20Standard%20Compliance%20Report_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/images/company/img_company_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/Portals/0/images/company/img_company_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/43028/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/17669/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hulft.com/case/1198751_1586.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sound-design.usen.com/casestudy/mitsui-kinzoku.html",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/quote/5706.T/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://em.mitsui-kinzoku.com/ceramics/featured-content/ceramics-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三井金属鉱業 代理店 契約",
+   "results": [
+    "https://distymap.com/manufacturers/mitsui-kinzoku",
+    "https://metoree.com/companies/43028/distributors/",
+    "https://metoree.com/companies/17669/distributors/",
+    "https://distymap.com/history/三井金属鉱業",
+    "https://www.mitsuikinzoku-t.co.jp/",
+    "https://www.mitsui-kinzoku.com/Portals/0/supplychain/三井金属グループ+調達ガイドライン_第二版.pdf",
+    "https://www.mitsui-kinzoku.com/company/c_kyoten/kankei/"
+   ]
+  },
+  {
+   "query": "三井金属鉱業 導入事例",
+   "results": [
+    "https://usenworkwell.jp/case/2026/mitsui-kinzoku.html",
+    "https://www.hulft.com/case/1198751_1586.html",
+    "https://sound-design.usen.com/casestudy/mitsui-kinzoku.html",
+    "https://www.mitsui-kinzoku.co.jp/group/yoursoft/realmodel/casestudies/case_sap_top.html",
+    "https://www.mitsubishielectric.co.jp/medigital/case/mitsui-kinzoku/",
+    "https://www.pfu.ricoh.com/fi/digitarakuru/casestudy-0024.html",
+    "https://www.b-en-g.co.jp/jp/solution/case-studies/mitsuikinzoku.html"
+   ]
+  },
+  {
+   "query": "三井金属鉱業 価格 OR 料金",
+   "results": [
+    "http://www.mitsui-kinzoku.com/toushi/",
+    "https://www.mitsui-kinzoku.com/toushi/lib/tanshin/",
+    "https://finance.yahoo.co.jp/quote/5706.T/profile",
+    "https://finance.yahoo.co.jp/quote/5706.T",
+    "https://kabutan.jp/stock/chart?code=5706",
+    "https://www.google.com/finance/quote/5706:TYO",
+    "https://minkabu.jp/stock/5706",
+    "https://ja.wikipedia.org/wiki/三井金属",
+    "https://www.mitsui-kinzoku.com/aen/",
+    "https://www.nikkei.com/nkd/company/chart/?scode=5706"
+   ]
+  },
+  {
+   "query": "三井金属鉱業 受託 造形",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/others/asone_220513/",
+    "https://idarts.co.jp/3dp/ceramics-3d-printing-contract-services/",
+    "https://em.mitsui-kinzoku.com/ceramics/featured-content/ceramics-3d-printer/",
+    "https://em.mitsui-kinzoku.com/products/applications/3d-printer/3d-printing-service/",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=2y3nO1AlAoM=&tabid=199&mid=826&TabModule950=0",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/products/exh-de5205eb-4412-438e-aa36-496278a9e2c6/product-documents/pro-c706d0cc-806e-4992-92e8-a41d723383df/4e952b71-691e-4f08-9654-9979880e9e83.pdf"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部10頁・検索4回）"
+ }
+}

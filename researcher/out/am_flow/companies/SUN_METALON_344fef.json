@@ -1,0 +1,1257 @@
+{
+ "name": "SUN METALON",
+ "aliases": [],
+ "context": "自社装置開発(高速金属3Dプリンター)スタートアップ / —(自社開発)",
+ "researched_at": "2026-11-02T07:56:51.052493+00:00",
+ "official_url": "https://sunmetalon.com/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2021/02",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "Managing Partner, COO and Representative Director, UTEC",
+    "url": "https://sunmetalon.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal, Globis Capital Partners",
+    "url": "https://sunmetalon.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Globis Capital Partners",
+    "url": "https://sunmetalon.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our Partners",
+    "url": "https://sunmetalon.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Sun Metalon entered a partnership with Center for Design and Manufacturing Excellence (CDME) in Ohio",
+    "url": "https://sunmetalon.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "State funding marks first public-private partnership in company's strategy to strengthen domestic manufacturing",
+    "url": "https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "pass": 1
+   },
+   {
+    "quote": "Sun Metalon has been awarded nearly $1 million from Colorado's Greenhouse Gas Pollution Reduction Fund to scale its zero-emission metal recycling technology. The investment represents the first step in Sun Metalon's strategy to build public-private partnerships that create sustainable, reliable onshore capabilities in areas of national importance.",
+    "url": "https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "pass": 1
+   },
+   {
+    "quote": "Building Strategic Partnerships",
+    "url": "https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "pass": 1
+   },
+   {
+    "quote": "This award is the first in our foundation for sustainable public-private partnerships. By aligning innovation with government priorities in manufacturing resilience, critical materials, and climate goals, Sun Metalon is creating reliable onshore capabilities in sectors critical to America's future.",
+    "url": "https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "pass": 1
+   },
+   {
+    "quote": "The company plans to leverage this state partnership to pursue federal opportunities through the Department of Defense, Department of Energy, and other agencies focused on domestic supply chain development.",
+    "url": "https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Partner, COO and Representative Director, UTEC",
+    "url": "https://sunmetalon.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal, Globis Capital Partners",
+    "url": "https://sunmetalon.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "Globis Capital Partners",
+    "url": "https://sunmetalon.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our Partners",
+    "url": "https://sunmetalon.com/jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "The company has already established partnerships with leading automotive, construction machinery, heavy industry, and steel manufacturing companies, contributing to industrial decarbonization efforts across sectors.",
+    "url": "https://sunmetalon.com/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "In spring 2024, SUN METALON expanded its U.S. plant, which now serves as a hub for collaboration with American partners and as a center for metal manufacturing and recycling operations. The company has also made significant progress in intellectual property protection, with core patents granted in both Japan and the United States.",
+    "url": "https://sunmetalon.com/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "同社はすでに、自動車業界、建設機械、重工業、鉄鋼製造業の大手企業と提携し、各業界における脱炭素化の取り組みに貢献している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "大学と3Dプリンター販売代理店の新たな協業 ― Brule×東京大学 3D Printing Advanced Technology Center開設セレモニー",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達・提携ニュース",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、住友商事グローバルメタルズと資本提携 金属資源リサイクル事業における連携を開始",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達、累計調達額は 58 億円（約 4 千万米ドル）に",
+    "url": "https://sunmetalon.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズA 1stクローズにて日米の投資家・金融機関より総額31億円を調達",
+    "url": "https://sunmetalon.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "プレシリーズAラウンドにて総額約8億円の資金調達実施のご報告",
+    "url": "https://sunmetalon.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "SUN METALONがシードラウンドにてUTEC, D4V, UC Berkeley等より190万ドルの資金調達を実施しました",
+    "url": "https://sunmetalon.com/jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達 – Sun Metalon",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "Sun Metalonはシリーズ A 2nd クローズで 総額 13 億円（910 万米ドル）を日米の投資家より調達、累計調達額は 58 億円（約 4 千万米ドル）に",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "金属業界の脱炭素化を推進する SUN METALON Inc.（以下、Sun Metalon）は、昨年発表いたしましたシリーズ A 1st クローズに続く 2nd クローズにて、日本製鉄、国際協力銀行（JBIC）、Airbus Ventures、Shimadzu Future Innovation Fund（運営者：グローバル・ブレイン）を引受先とする約 13 億円※（910 万米ドル）の第三者割当増資を実施いたしました",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "今回の資金調達により、創業以来の累計調達額（融資枠を含む）は約 58 億円（3,984万米ドル）となります",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "※ 1 米ドル＝145 円で換算",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズA 1stクローズにて日米の投資家・金融機関より総額31億円を調達",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "金属業界の脱炭素化を推進するSUN METALON Inc.（以下、SUN METALON）は、日米の投資家および金融機関より、総額31億円の資金調達を実施しました",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズA 1stクローズにて、JICベンチャー･グロース･インベストメンツ、HITE Hedge Asset Management、住友商事グローバルメタルズに加え、既存投資家である東京大学エッジキャピタルパートナーズ（UTEC）、グロービス・キャピタル・パートナーズ、D4V、i-nest capital、Scrum Ventures、Berkeley SkyDeckを引受先とする約26億円※1（1,768万ドル）の第三者割当増資を実施するとともに、三井住友銀行から5億円を上限とする融資枠の設定を行いました",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "今回の資金調達により、創業からの投融資による累計調達額（融資枠を含む）は約45億円となります",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "*1 1米ドル＝145円で換算",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "SUN METALONがシリーズAラウンドで2,100万ドル（約31億円）の資金調達を確保 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALONがシリーズAラウンドで2,100万ドル（約31億円）の資金調達を確保",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "金属産業の脱炭素化におけるパイオニアであるSUN METALON Inc.（アメリカ マサチューセッツ州）は、シリーズAラウンドで2,100万ドル（約31億円）の資金調達を完了したことを発表",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAラウンドの完了により、SUN METALONの累計調達額は3,070万ドル",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "（約46億円）に達した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "この総額には、三井住友銀行からの340万ドル（",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "約5億円）の融資枠が含まれており、これもシリーズAラウンドの一部である",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "国内金属AM装置メーカー、SUN METALONが新たに2.7億円の資金調達を実施",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "造形スピードが従来比500倍となる金属3Dプリンターの開発をすすめるSUN METALONが新たに約8億円の資金調達に成功",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SUN METALONが、投資家から約2.7億円の追加資金調達を実施したと発表した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達により、創業からの資金調達額は約13億円に到達",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、第三者割当増資を実施 シリーズA 2ndクローズで総額13億円（910万米ドル）を調達",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、第三者割当増資を実施 シリーズAラウンドにて融資を含む総額31億円を調達",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、資金調達を実施 プレシリーズAラウンドにて約2.7億円(US$2M)を追加調達",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、資金調達を実施 プレシリーズAラウンドにて約8億円（US$5.6million）を調達",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、資金調達を実施 シードラウンドにて190万ドルを調達",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、シリーズAで31億円調達——金属リサイクル技術で業界の脱炭素化を加速",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "超高速（従来比500倍）の金属3Dプリンターにより、全宇宙のものづくりを変革するSUN METALONが日米の投資家よりプレシリーズAで約8億円（US＄5.6million）の資金調達を実施",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "造形スピードが従来比500倍となる金属3Dプリンターの開発をすすめるSUN METALONが新たに約8億円の資金調達に成功 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "造形スピードが従来比500倍となる金属3Dプリンターの開発をすすめるSUN METALONが新たに約8億円の資金調達に成功",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカに本社を置き、神奈川県川崎市に拠点を構える3Dプリンターメーカーの株式会社SUN METALON（以下、SUN METALON社）が、日米の投資家から新たに8億円の資金調達を行った",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達により、創業からの累計調達額は約11億円となる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中でディープテック分野に目利きがあると思われる国内外の4つのファンドから8億円を資金調達できた同社への期待は高いといえるだろう",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALONがシリーズAラウンドで2,100万ドル（約31億円）の資金調達を確保",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "金属産業の脱炭素化におけるパイオニアであるSUN METALON Inc.（アメリカ マサチューセッツ州）は、シリーズAラウンドで2,100万ドル（約31億円） …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "国内金属AM装置メーカー、SUN METALONが新たに2.7億円の資金調達を実施",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SUN METALONが、投資家から約2.7億円の追加資金調達を実施したと発表した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達により、創業からの資金調達額は約13億円に到達",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "【東大・UCバークレーが出資】元日本製鉄エンジニアが時価総額5兆円を狙う／製造スピード500倍、コスト90%削減の金属3Dプリンター／社費留学→退職で数千万円の借金【SUN METALON西岡社長 】",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロチップを印刷する2億ドルの機械：EUVフォトリソグラフィーシステム",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   },
+   {
+    "quote": "売上5,000億円→8,000億円の裏側【NewsPicks/SMC/世界1位/空気圧/製造業】",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "プレスリリース（全文はこちら）：",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース（全文はこちら）：",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-was-recently-presented-with-the-mizuho-innovation-award-20244q-sponsored-by-mizuho-bank",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース（全文はこちら）：",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース（全文はこちら）：",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "（上部画像はSUN METALONのプレスリリース",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "大学と3Dプリンター販売代理店の新たな協業 ― Brule×東京大学 3D Printing Advanced Technology Center開設セレモニー",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学大学院工学系研究科附属国際工学教育推進機構ものづくり部門は、3Dプリンターや関連機器の販売と運用を行うBrule Inc.と協働で、東京大学キャンパス内 …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Dfam（3Dプリンターならでは設計）とは",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け3Dプリンターのレンタル・リースを解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "開発中の3Dプリンターは、2023年初旬に初号機リリースを予定しており、段階的に製造可能な部品サイズを拡張し、将来的に3ラインアップの提供予定だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級の受託造形サービスを展開するDMM.comが開催したリアルイベント「DMM.make 3Dプリントサミット in AKIBA」をシェアラボ編集部が取材 …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Dfam（3Dプリンターならでは設計）とは",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け3Dプリンターのレンタル・リースを解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "【MEX金沢2022 開催記念セミナー】金属３Dプリンタがもたらす「ものづくり」の変革に向けて",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   },
+   {
+    "quote": "日米欧のものづくりメーカと共同プロジェクト実施中、当初計画に先んじて2022年9月に初号機を販売予定",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   },
+   {
+    "quote": "その半導体 \"誰\"が作っている？｜設計/材料/部品/装置まで世界の会社をまとめた【永久保存版】",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "金属業界の脱炭素化を推進する SUN METALON Inc.（以下、Sun Metalon）は、昨年発表いたしましたシリーズ A 1st クローズに続く 2nd クローズにて、日本製鉄、国際協力銀行（JBIC）、Airbus Ventures、Shimadzu Future Innovation Fund（運営者：グローバル・ブレイン）を引受先とする約 13 億円※（910 万米ドル）の第三者割当増資を実施いたしました",
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "pass": 1
+   },
+   {
+    "quote": "当社主要顧客である自動車、建機、重工業、鉄鋼メーカーなどの製造業を多数擁するシカゴ近郊に本社を移転することで、より良い製品・サービスを顧客に提供することを目指します",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-announces-relocation-of-headquarters-to-illinois",
+    "pass": 1
+   },
+   {
+    "quote": "金属業界の脱炭素化を推進する株式会社SUN METALON（以下、SUN METALON）とコマツは、鉄系研磨スラッジの新リサイクルプロセスに関する共同研究を開始しました",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge",
+    "pass": 1
+   },
+   {
+    "quote": "Forbes JAPANが毎年、創業10年以内の起業家を中心に、直近1年間の事業進捗や資金調達状況をもとに約200組のロングリストを作成し、業界有識者からの推薦を経て選出する独自の企画です",
+    "url": "https://sunmetalon.com/jp/news/featured-in-forbes-2025-japans-best-startup-employers",
+    "pass": 1
+   },
+   {
+    "quote": "金属業界の脱炭素化を推進する SUN METALONは、このたび新たなブランディング戦略のもと、企業ウェブサイトおよびロゴをリニューアルしました",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo",
+    "pass": 1
+   },
+   {
+    "quote": "当社の設備・技術力をご紹介するとともに、金属リサイクル業界の最新情報を得られる情報源としても、ぜひご活用ください",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo",
+    "pass": 1
+   },
+   {
+    "quote": "金属業界の脱炭素化を推進するSUN METALON Inc.（以下、SUN METALON）は、日米の投資家および金融機関より、総額31億円の資金調達を実施しました",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "当社は低コスト・低 CO2 を実現する独自加熱技術により、金属業界の脱炭素化を先導していきます",
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "pass": 1
+   },
+   {
+    "quote": "同社はすでに、自動車業界、建設機械、重工業、鉄鋼製造業の大手企業と提携し、各業界における脱炭素化の取り組みに貢献している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の金属加熱技術により、金属業界の脱炭素化ソリューションを提供",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "「金属業界の脱炭素化を推進し、人類の進歩に貢献する」をミッションに掲げる",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON、シリーズAで31億円調達——金属リサイクル技術で業界の脱炭素化を加速",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "金属業界の脱炭素実現をリードする米国スタートアップ事業者、SUN METALONへの出資及び事業連携に関するお知らせ",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業分析",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALONは、金属業界の脱炭素化を推進する企業です",
+    "url": "https://www.j-startup.go.jp/startups/087a-sunmetalon.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場に挑む」そうした気概でAM業界をけん引する各社の取り組みをシェアラボニュース上でも複数取り上げてきた",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ミシン業界の父、ブラザー工業の知られざる製品開発力",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SUN METALON がシリーズAラウンドで2100万ドル（約31億 ... — SUN METALON がシリーズAラウンドで2100万ドル（約31億 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn your metal waste into revenue - Sun Metalon — Turn your metal waste into revenue - Sun Metalon Sun Metalon https://sunmetalon.com > ...",
+    "url": "https://sunmetalon.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "SUN METALON Inc. - スピーダ スタートアップ情報リサーチ — SUN METALON Inc. - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-40193",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 SUN METALON ｜事業内容・特徴・採用・求人 — 株式会社 SUN METALON ｜事業内容・特徴・採用・求人 スタクラ https://startupclass.co.jp > ... > サステナビリティ・環境",
+    "url": "https://startupclass.co.jp/online/companies/1195/",
+    "pass": 3
+   },
+   {
+    "quote": "米国法人 SUN METALON Inc.に対する出資 | JBIC 国際協力銀行 — 米国法人 SUN METALON Inc.に対する出資 | JBIC 国際協力銀行 JBIC 国際協力銀行 https://www.jbic.go.jp > press > press-2025 > press_00022",
+    "url": "https://www.jbic.go.jp/ja/information/press/press-2025/press_00022.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 SUN METALON | 分煙機（喫煙ブース） — 株式会社 SUN METALON | 分煙機（喫煙ブース） qleanair.jp https://www.qleanair.jp > ... > 国内 > 製造・物流業",
+    "url": "https://www.qleanair.jp/cases/sun_metalon/",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Metalon — Bizgram — Sun Metalon — Bizgram 株式会社図解総研 https://bizgram.zukai.co > ...",
+    "url": "https://bizgram.zukai.co/f91db6798c27/vcxn6iyevyvz",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 SUN METALON - J-Startup — 株式会社 SUN METALON - J-Startup J-Startup https://www.j-startup.go.jp > Startups",
+    "url": "https://www.j-startup.go.jp/startups/087a-sunmetalon.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 SUN METALON 」は金属3Dプリンターの高速化を実現し — 「 SUN METALON 」は金属3Dプリンターの高速化を実現し YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】i-nest capitalが「 SUN METALON Inc.」へ ... — 【プレスリリース】i-nest capitalが「 SUN METALON Inc.」へ ... i-nest Capital株式会社 https://www.i-nestcapital.com > news",
+    "url": "https://www.i-nestcapital.com/news/230407.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 SUN METALON 」は金属3Dプリンターの高速化を実現し — 「 SUN METALON 」は金属3Dプリンターの高速化を実現し INDUSTRY CO-CREATION https://industry-co-creation.com > catapult",
+    "url": "https://industry-co-creation.com/catapult/84805",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sunmetalon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/pressrelease-2025-05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/sun-metalon-was-recently-presented-with-the-mizuho-innovation-award-20244q-sponsored-by-mizuho-bank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/sun-metalon-announces-relocation-of-headquarters-to-illinois",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/exhibit-at-1st-green-process-japan-material-factory-decarbonization-expo-at-chiba-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/colorado-invests-nearly-dollar1-million-in-sun-metalons-zero-emission-metal-recycling",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/pressrelease-2025-05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-was-recently-presented-with-the-mizuho-innovation-award-20244q-sponsored-by-mizuho-bank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-announces-relocation-of-headquarters-to-illinois",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-and-komatsu-launch-joint-research-on-innovative-recycling-process-for-iron-based-polishing-sludge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/featured-in-nikkei-breakthrough",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/featured-in-forbes-2025-japans-best-startup-employers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/featured-in-toyo-keizais-great-startups-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/joining-ms-salon-frontier-summit-hosted-by-mizuho-bank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/joining-a-panel-discussion-in-nagoya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-has-undergone-rebranding-renewing-its-corporate-website-and-logo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/exhibit-at-1st-green-process-japan-material-factory-decarbonization-expo-at-chiba-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/jp/news/sun-metalon-secures-dollar21-million-in-series-a-funding-to-lead-metal-industry-decarbonization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmetalon.com/news/featured-in-nikkei-breakthrough",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sunmetalon.com/news/featured-in-forbes-2025-japans-best-startup-employers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sunmetalon.com/news/featured-in-toyo-keizais-great-startups-list",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sunmetalon.com/news/joining-ms-salon-frontier-summit-hosted-by-mizuho-bank",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sunmetalon.com/news/joining-a-panel-discussion-in-nagoya",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-40193",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-40193",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-startup.go.jp/startups/087a-sunmetalon.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SUN METALON 代理店 契約",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "https://sunmetalon.com/jp",
+    "https://initial.inc/companies/A-40193",
+    "https://startupclass.co.jp/online/companies/1195/",
+    "https://www.jbic.go.jp/ja/information/press/press-2025/press_00022.html",
+    "https://www.ut-ec.co.jp/our_companies/sunmetalon/",
+    "https://note.com/sunmetalon/n/ncb18dbb01a8c",
+    "https://thebridge.jp/2025/09/sun-metalon-mars-metal-recycling-technology",
+    "https://socialport-y.city.yokohama.lg.jp/20260709-69392/",
+    "https://www.j-startup.go.jp/startups/087a-sunmetalon.html"
+   ]
+  },
+  {
+   "query": "SUN METALON 導入事例",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "https://initial.inc/companies/A-40193",
+    "https://sunmetalon.com/jp",
+    "https://www.qleanair.jp/cases/sun_metalon/",
+    "https://bizgram.zukai.co/f91db6798c27/vcxn6iyevyvz",
+    "https://www.m-next.jp/knowledge/note/1219.html",
+    "https://www.j-startup.go.jp/startups/087a-sunmetalon.html",
+    "https://www.nvv.genai.co.jp/2024/10/sun-metalon/",
+    "https://www.openwork.jp/a0C2x00000YCeHO/pr/",
+    "https://sunmetalon.com/"
+   ]
+  },
+  {
+   "query": "SUN METALON 価格 OR 料金",
+   "results": [
+    "https://sunmetalon.com/jp",
+    "https://news.sharelab.jp/3dp-news/ir/sun-metalon-241021/",
+    "https://www.j-startup.go.jp/startups/087a-sunmetalon.html",
+    "https://startupclass.co.jp/online/companies/1195/",
+    "https://initial.inc/companies/A-40193",
+    "https://thebridge.jp/2025/09/sun-metalon-mars-metal-recycling-technology",
+    "https://www.ut-ec.co.jp/our_companies/sunmetalon/",
+    "https://www.youtube.com/watch?v=08ml4tuoBmg",
+    "https://prtimes.jp/main/html/rd/p/000000019.000107174.html",
+    "https://3dlab.jp/blog/2026-01-30-sun-metalon-500x-speed-metal-3d-printer"
+   ]
+  },
+  {
+   "query": "SUN METALON 受託 造形",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/sun-metalon-221107/",
+    "https://www.youtube.com/watch?v=4i-5PJBrey4",
+    "https://sunmetalon.com/jp",
+    "https://www.i-nestcapital.com/news/230407.html",
+    "https://industry-co-creation.com/catapult/84805",
+    "https://www.m-next.jp/knowledge/note/1219.html",
+    "https://initial.inc/companies/A-40193",
+    "https://www.youtube.com/watch?v=ZdYkS1l8-U0",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://3dlab.jp/blog/2026-01-30-sun-metalon-500x-speed-metal-3d-printer"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像0件／外部8頁・検索4回）"
+ }
+}

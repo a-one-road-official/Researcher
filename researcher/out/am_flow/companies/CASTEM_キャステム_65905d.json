@@ -1,0 +1,648 @@
+{
+ "name": "CASTEM（キャステム）",
+ "aliases": [],
+ "context": "金属3Dプリント受託「デジタルシンタリング」（SUS316L・純銅・SUS630）、金型レス鋳造との比較提案 /",
+ "researched_at": "2026-11-02T07:49:13.985472+00:00",
+ "official_url": "https://www.castem.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1970 年年",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "210人",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "SMC（株）、（株）島精機製作所、マックス（株）、リョービ（株）、オリンパス（株）、YKK（株）",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "846,600 万円 エミダス会員番号 77539",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "現在、お客様に安全・安心にサイトをご利用いただくためのセキュリティ強化対策に伴い、システムメンテナンスを実施しております",
+    "url": "https://www.castem.co.jp/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にはご不便をおかけいたしますが、何卒ご理解とご協力を賜りますようお願い申し上げます",
+    "url": "https://www.castem.co.jp/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "２００６年 業界初の「９万円金型システム」発売、金属射出成型で純チタン部品製造開発",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "『だから』という固定観念を壊すベストアンサーでお客様をサポート！！",
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "pass": 3
+   },
+   {
+    "quote": "ロストワックス製法、メタルインジェクション製法、３Dプリントサービス、CTスキャンサービス、様々な技術でお客様へベストなご提案をさせて頂きます",
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "pass": 3
+   },
+   {
+    "quote": "精密鋳造から機械式時計・ジュエリーまで…展示会ラッシュの秋🍂｜2026年9・10月のキャステム＆鋳造業界ニュース",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "コンビニ払込票を選択のお客様",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "●お客様のご都合で返品・交換をご希望される場合、商品到着日より7日以内に、必ずお電話にて担当までご連絡願います",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※お客様都合の場合は、送料、返金にかかる手数料はご負担いただきます",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様のもとで汚れ、キズが生じた商品",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様へのお知らせ",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアメールご利用のお客様へ",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質、低コスト、短納期、多品種、小ロットと、業界のうねりが激しさを増す中、我々は常にクライアントに最高の価値を提供し続ける企業を目指してまいります",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "１９９１年アメリカで特許を取得したメタルインジェクション（ミム／金属射出成形法）の他社にない製法を自社開発、またロストワックス法による精度の高い精密鋳造技術を持つ",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "後工程のめっきや組立もビジネスパートナーと提携し、要求に応えられる",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "金型製作費が低廉で、半永久的に使用でき、設計変更や材質変更も可能",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "・試作/開発/単品小ロット『だから』機械加工で製作",
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "pass": 3
+   },
+   {
+    "quote": "・鋳造には金型費が必要、リードタイムも長い『だから』試作・開発に向かない",
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターによる高精度3D造形｜金型なしで試作・一点物・フィギュア製作【キャステムの技術⑤】",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "世界最小の受託造形サービス 超微細3Ⅾプリントシステム「ナノスクライブ」って？製法・特徴・事例｜超精密部品づくりのポイントを解説【キャステムの技術④】",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員がゼロから設計！ピタゴラ装置研修の舞台裏｜2026年2月のキャステム＆いものづくりニュース",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "【予約販売】CASTEM｜ミニチュア理容師・美容師 3点セット「mimic」｜株式会社キャステム｜ミニチュアツール｜マイクロツール",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "【予約販売】キン肉マン｜メタルマスクキーホルダー｜ロビンマスク｜悪魔将軍｜ウォーズマン｜金のマスク｜銀のマスク｜キーホルダー｜株式会社キャステム｜グッズ",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "【予約販売】ゴジラハンマー｜GODZILLA｜グッズ｜ゴジラの足｜トンカチ｜DIY",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "【予約販売】ドラゴンボールZ｜ダーブラのクッキー型『クッキーになっちゃえ!!』｜菓子型",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "【予約販売】キン肉マン｜砂ンシャイン ｜キーホルダー",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "【予約販売】キン肉マン｜ティーパックマンティーカップ（第一弾）",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / 機械加工 ）",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "ロストワックス精密鋳造部品 製造・販売",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "金型レス鋳造デジタルキャスト 製造・販売",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "MIM（金属粉末射出成形） 製造・販売",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キャステムはロストワックス精密鋳造とMIM（金属粉末射出成形）による基盤技術で精密部品の製造販売を主業として金型製作から素形材生産、機械加工、表面処理（メッキ等）まで一貫した受託サービスを行っております",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "近年ではデジタル造形へも積極的に取り組み、超小ロット1個から金型製作不要で鋳造品が作れるデジタルキャスト®方式やAM技術（金属３Dプリント）受託サービスを展開しており試作品1個から単発小中ロット品やリピート量産品まで対応しております",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工業以外でも産業用CTスキャンによる非破壊検査等やフルカラー樹脂３Dプリント、超微細３D造形ナノスクライブによる受託サービスも行っております",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑立体形状、中空形状、トポロジー最適化形状、軽量化形状への試作検証活用に最適",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造で量産する際の強度試験（機械的性質）も同鋳造材なら試作検証データに効果的",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "微細薄肉形状を得意としており通常射出成形金型は高額となるが試作品用、単発小ロットや生涯ロット数に応じた選べる金型コストプランを用意",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンタにて製品造形の受託サービス",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "産業、医療、半導体など次世代技術への開発試作に活用",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "非破壊で内部欠陥確認、検査や寸法測定、現物からの３Dモデル化（リバースエンジニアリング対応）など受託サービスをしており、ちょっと試したいけどの要望へテストショット相談も受け付けております",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "【社長より】キャステムグループは精密鋳造部品の製造販売を主軸として、国内および東南アジア圏に事業展開するグローバル企業に成長しています",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造金型設計",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "製品、部品設計",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "歯車（ギヤ）設計",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "計測・試験機器設計",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "一般治具設計",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "量産用治具設計",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "試作開発・少量生産",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ネジや歯車など小部品も鋳出しが可能で、複雑な部品を一体化できるため加工工程が削減でき、小ロット対応の低価格金型システムがあり、金型コストも安価",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形",
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "pass": 3
+   },
+   {
+    "quote": "）ロストワックス精密鋳造とMIM（金属粉末射出成形）であらゆる産業の金属部品を製造",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "）ロストワックス精密鋳造とMIM（金属粉末射…",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "MIM（金属粉末射出成形）とは？製法・特徴・事例｜精密金属部品づくりのポイントを解説【キャステムの技術②】",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金金型部品加工",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 金型製作 / 粉末冶金金型 ）",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "MIM（金属粉末射出成形） 製造・販売",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キャステムはロストワックス精密鋳造とMIM（金属粉末射出成形）による基盤技術で精密部品の製造販売を主業として金型製作から素形材生産、機械加工、表面処理（メッキ等）まで一貫した受託サービスを行っております",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "近年ではデジタル造形へも積極的に取り組み、超小ロット1個から金型製作不要で鋳造品が作れるデジタルキャスト®方式やAM技術（金属３Dプリント）受託サービスを展開しており試作品1個から単発小中ロット品やリピート量産品まで対応しております",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "■デジタルキャスト®■ロストワックス精密鋳造■MIM（金属粉末射出成形）",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造法なのに金型製作不要、初期コスト型費0円のデジタルキャストで1個から鋳物生産が可能",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "最短見積47分（素形材費）、納期最短実績1週間",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "■MIM（金属粉末射出成形）↓",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "※お問合せ相談・お見積り依頼はこちら➡",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金金型",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "7,996 万円",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "２００６年 業界初の「９万円金型システム」発売、金属射出成型で純チタン部品製造開発",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "全国一律600円",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "全国一律：240円",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "■合計3,980円以上のご購入で、",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※ご注意：当店では正当な理由無く、代金引換受取拒否、保管期限切れなどの事由により、返送されてきた場合には、 往復配送料及び、代金引換手数料、返品事務手数料として、2,500円を一律で請求させていただきます",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "アスリートからアイドルまで、その人の歴史をカタチに",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【送料無料】 税込5,000円以上のお買い上げで対象",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "微細小型部品50個以内限定 トライやる型19万円方式のMIM製法",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "7,996 万円",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "846,600 万円",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造法なのに金型製作不要、初期コスト型費0円のデジタルキャストで1個から鋳物生産が可能",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "トライやる型（19万円～）、簡易型（49万円～）、量産型（98万円～）※ロット数、製品仕様による条件設定あり",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "NC円筒研削加工",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "円筒研削加工",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "技術 | 株式会社 キャステム — 技術 | 株式会社 キャステム 株式会社キャステム https://www.castem.co.jp > technology",
+    "url": "https://www.castem.co.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "精密部品の キャステム ～ロストワックス - YouTube — 精密部品の キャステム ～ロストワックス - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=JaGptRZMeRA",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 キャステム - 産業技術マップ — 株式会社 キャステム - 産業技術マップ 産業技術マップ https://fukuyama-gijutumap.jp > 株式会社キャステム",
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 キャステム - NCネットワーク — 株式会社 キャステム - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "pass": 3
+   },
+   {
+    "quote": "タイでMIM製品を一貫生産対応 - CASTEM (Thailand)CO.,LTD. — タイでMIM製品を一貫生産対応 - CASTEM (Thailand)CO.,LTD. fact-link.com https://www.fact-link.com > mem_content",
+    "url": "https://www.fact-link.com/mem_content.php?pl=jp&mem=00004404&page=00021849",
+    "pass": 3
+   },
+   {
+    "quote": "事例 紹介 | 株式会社 キャステム — 事例 紹介 | 株式会社 キャステム 株式会社キャステム https://www.castem.co.jp > works02",
+    "url": "https://www.castem.co.jp/works02/",
+    "pass": 3
+   },
+   {
+    "quote": "CASTEM Technology - YouTube — CASTEM Technology - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 キャステム - note — 株式会社 キャステム - note note https://note.com > castem",
+    "url": "https://note.com/castem",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 キャステム (@castem_japan) - Instagram — 株式会社 キャステム (@castem_japan) - Instagram Instagram https://www.instagram.com > castem_japan",
+    "url": "https://www.instagram.com/castem_japan/",
+    "pass": 3
+   },
+   {
+    "quote": "IRON FACTORY: モノづくりを全力で楽しむ通販サイト — IRON FACTORY: モノづくりを全力で楽しむ通販サイト ironfactory-castem.com https://www.ironfactory-castem.com",
+    "url": "https://www.ironfactory-castem.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CASTEM ・IRON FACTORY - meta mate — CASTEM ・IRON FACTORY - meta mate metamate.jp https://www.metamate.jp > TOP > アイテム別",
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャステム （ CASTEM ) | 工具用品専門通販はファクトリー ... — キャステム （ CASTEM ) | 工具用品専門通販はファクトリー ... ファクトリーギア https://ec.f-gear.co.jp > ブランド",
+    "url": "https://ec.f-gear.co.jp/category/CASTEM/?srsltid=AYCX9vKRw2diU0_Ta9UZ5E87Ac3GEEEMv-Jg1LfgIh4_06q8cf8sPCvq",
+    "pass": 3
+   },
+   {
+    "quote": "【楽天市場】 キャステム の通販 — 【楽天市場】 キャステム の通販 楽天市場 https://search.rakuten.co.jp > search > mall > キャステム",
+    "url": "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最小超微細 3Dプリント - キャステム — 世界最小超微細 3Dプリント - キャステム 株式会社キャステム https://www.castem.co.jp > ...",
+    "url": "https://www.castem.co.jp/submicron3dprintinglp/",
+    "pass": 3
+   },
+   {
+    "quote": "#3dプリンター #FDM #積層方式 #3Dプリント # キャステム ... — #3dプリンター #FDM #積層方式 #3Dプリント # キャステム ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/CyPTP5XNeI3/",
+    "pass": 3
+   },
+   {
+    "quote": "キャステム 、世界最小クラスのバラを金属3Dプリンタで 造形 ... — キャステム 、世界最小クラスのバラを金属3Dプリンタで 造形 ... ShareLab NEWS https://news.sharelab.jp > 業界動向",
+    "url": "https://news.sharelab.jp/3dp-news/castem-bara-250528/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.castem.co.jp/maintenance/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=JaGptRZMeRA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/castem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ironfactory-castem.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/77539/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/castem",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CASTEM(キャステム) 代理店 契約",
+   "results": [
+    "https://www.castem.co.jp/technology/",
+    "https://www.youtube.com/watch?v=JaGptRZMeRA",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://ja.nc-net.or.jp/company/77539/",
+    "https://www.fact-link.com/mem_content.php?pl=jp&mem=00004404&page=00021849",
+    "https://www.juki.co.jp/news/detail_000287.html",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-0070.html",
+    "https://bangkokcp.com/corporateinfo/castem-siam-co-ltd/",
+    "https://job.mynavi.jp/28/pc/search/corp84323/outline.html",
+    "https://ja.wikipedia.org/wiki/キャステム"
+   ]
+  },
+  {
+   "query": "CASTEM(キャステム) 導入事例",
+   "results": [
+    "https://www.castem.co.jp/works02/",
+    "https://www.youtube.com/watch?v=hSz00TtNDcU",
+    "https://note.com/castem",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://www.instagram.com/castem_japan/",
+    "https://ja.nc-net.or.jp/company/77539/",
+    "https://www.sanyonews.jp/article/1997859",
+    "https://www.youtube.com/watch?v=JaGptRZMeRA",
+    "https://yn2-tech.com/case/337/",
+    "https://www.castem.co.jp/?hl=ja-JP"
+   ]
+  },
+  {
+   "query": "CASTEM(キャステム) 価格 OR 料金",
+   "results": [
+    "https://www.castem.co.jp/technology/",
+    "https://www.ironfactory-castem.com/",
+    "https://www.metamate.jp/SHOP/270060/319253/list.html",
+    "https://ec.f-gear.co.jp/category/CASTEM/?srsltid=AYCX9vKRw2diU0_Ta9UZ5E87Ac3GEEEMv-Jg1LfgIh4_06q8cf8sPCvq",
+    "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://note.com/castem",
+    "https://ja.nc-net.or.jp/company/77539/",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://www.facebook.com/castem.jp/?locale=ja_JP",
+    "https://www.castem.co.jp/en/"
+   ]
+  },
+  {
+   "query": "CASTEM(キャステム) 受託 造形",
+   "results": [
+    "https://www.castem.co.jp/submicron3dprintinglp/",
+    "https://ja.nc-net.or.jp/company/77539/",
+    "https://note.com/castem",
+    "https://www.instagram.com/p/CyPTP5XNeI3/",
+    "https://news.sharelab.jp/3dp-news/castem-bara-250528/",
+    "https://www.castem.co.jp/technology/ultra_3d/",
+    "https://www.youtube.com/watch?v=IUmNHFsdzl0",
+    "https://www.sanyonews.jp/article/1997859",
+    "https://note.com/castem/n/n643bacc3c750",
+    "https://ja.wikipedia.org/wiki/キャステム"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）"
+ }
+}

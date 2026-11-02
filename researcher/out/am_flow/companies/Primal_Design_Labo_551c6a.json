@@ -1,0 +1,658 @@
+{
+ "name": "Primal Design .Labo",
+ "aliases": [],
+ "context": "大型3Dプリント（コンクリート造形機）の構想提案、DfAMコンサル /",
+ "researched_at": "2026-11-02T07:51:32.145450+00:00",
+ "official_url": "https://primaldesign.base.shop/",
+ "identified_by": "search:ddgs:google:Primal Design .Labo",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "7名",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社テクノアクセルネットワークス　/　株式会社電通プロモーションプラス　/　株式会社ビードットメディカル　/　株式会社ピーバンドットコム　/　株式会社 リーデッジテクノロジー　/　グローバルコンポーネントテクノロジー株式会社　/　東急リバブル株式会社 (順不同・敬称略) ※社名五十音順、敬称略",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "Modix Bigシリーズ 国内正規代理店",
+    "url": "https://primaldesign.base.shop/",
+    "pass": 1
+   },
+   {
+    "quote": "MODIX MODULAR TECHNOLOGIES社と代理店契約",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "こちらは3Dプリンタ販売の【PrimalDesign.Lobo】によるネットショップです",
+    "url": "https://primaldesign.base.shop/about",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル設計・モデリング",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "パラメトリック設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメーション設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "熱設計／放熱設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "締結設計／組立設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "振動・応力解析設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "可動機構設計（モーション設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "防水／防塵設計（IP設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂／金属材料設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "加工性設計（DfM）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "装置組込設計（ユニット統合設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "安全設計（リスクアセスメント対応）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス設計（整備性設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "基板設計（PCBレイアウト）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "実装設計（部品配置・放熱設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "電源・電気設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "EMC設計（電磁環境設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "高周波・高速信号設計（RF/SerDes）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "通信インタフェース設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "センサ・アクチュエータ設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "デバッグ設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "工法選定・パラメータ設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "プリント経路設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートレス設計",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "形状統合（一体化設計）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを実用に導く設計/試作/製造支援",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では3Dプリンティング活用とデジタル設計/デザインの統合によって",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアを速やかに製品レベルまで押し上げる設計/試作/製造サポートを行っています",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "横断的なサポートによる試作/開発フェーズの統合化/高速化と",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "■プロトタイプ/展示品/モックの3Dプリント試作/製造",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "■機械部品・筐体外装等の軽量化/ロスレス設計",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "■樹脂/金属/コンクリート3Dプリントの量産化コンサル",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "■工作機械/周辺機器の販売/レンタル/リース",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "主には基盤設計製作会社、自動車関連会社、建築建設関連会社様より、",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "開発プロジェクトを受託し設計/製作しています",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "・新規事業のプロダクトデザインコンサルティング(専門家/技術顧問)",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "・製品化に向けた量産や大型3Dプリントに関するコンサルティング",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "・ロボットアーム3Dプリンターの設計/開発",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "【PDL】電子機器ハードウェア設計・製作",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "選定・販売、技術顧問業などの事業も行っております",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "■機械導入・選定・販売",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では3Dプリンティング活用とデジタル設計/デザインの統合によって",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアを速やかに製品レベルまで押し上げる設計/試作/製造サポートを行っています",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "横断的なサポートによる試作/開発フェーズの統合化/高速化と",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンティングを活用した設計手法 DfAM",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター造形・試作品製作！研磨・塗装まで一貫対応！",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://auba.eiicon.net/projects/28384",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "価格に挑戦し、壁を越え、社会に貢献します",
+    "url": "https://primaldesign.base.shop/about",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタの模型製作に特化した弊社だからできる価格体系です",
+    "url": "https://primaldesign.base.shop/about",
+    "pass": 1
+   },
+   {
+    "quote": "粉末焼結（SLS）",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "工具/材料/消耗品",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "その他消耗品",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "熱溶解積層方式を中心としたRAISE3Dがリリースする、初めての粉末焼結型3Dプリンターです",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "●RAISE3D RMS粉末焼結3Dプリンター新商品発表会 概要",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "が業界全体のボトルネックとなっています",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "厨房業界・食品業界・建築業界などの協力企業との実証を進めます",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3Dの現行最新FFF機であるPro3 HSについて、特徴や機能、旧世代機との違い、ユーザー事例等をご紹介します",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今の製造業界では、既存事業の製造工程デジタル化を表す「デジタル・マニュファクチャリング」や「デジタル・トランスフォーメーション」などの技術革新が起こっています",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今の製造業界では、既存事業の製造工程デジタル化を表す「デジタル・マニュファクチャリング」や「デジタル・トランスフォーメーション」などのデジタル化が推進されています",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "電子回路設計 CAD 業界でのイノベーション！基板設計ソフト Quadcept について",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今、基板設計、基板加工の分野で、 コ ストを抑えたクラウド型電子 CAD ソフトQuadcept( クワッドセプト が 電子回路設計 CAD 業界で注目されています",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "同ソフトは2010 年発足後、 3 年で 5,000 以上のダウンロード数を記録し、今では 45,000 のユーザー数を超えています",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "本ウェビナーでは電子 CAD 業界でのイノベーションとユーザの成功事例のご紹介の他、回路設計・基板設計の流れと基礎知識などにも触れ、",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今の製造業界では、製造工程のデジタル化を表す「デジタル・マニュファクチャリング」と呼ばれる変革が起こっています",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Primal Design . Labo /TOPページ — Primal Design . Labo /TOPページ primaldesignlabo.jp https://primaldesignlabo.jp > html",
+    "url": "https://primaldesignlabo.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo | 企業情報 | イプロスものづくり — Primal Design . Labo | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信",
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo (@PrimalDesignLab) / X — Primal Design . Labo (@PrimalDesignLab) / X X https://x.com > PrimalDesignLab",
+    "url": "https://x.com/PrimalDesignLab",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo 合同会社 - Metoree — Primal Design . Labo 合同会社 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/1005282/",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design ． Labo 合同会社 - Compalyze — Primal Design ． Labo 合同会社 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析",
+    "url": "https://compalyze.co.jp/company/2010703004369",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo 合同会社 - イプロス — Primal Design . Labo 合同会社 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 試作 > 3Ｄプリンタ",
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo 合同会社の共創プロフィール - AUBA — Primal Design . Labo 合同会社の共創プロフィール - AUBA AUBA https://auba.eiicon.net > projects",
+    "url": "https://auba.eiicon.net/projects/28384",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo | Shinagawa-ku Tokyo - Facebook — Primal Design . Labo | Shinagawa-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/PrimalDesign.Labo/",
+    "pass": 3
+   },
+   {
+    "quote": "Primal Design . Labo /会社概要 — Primal Design . Labo /会社概要 primaldesignlabo.jp https://primaldesignlabo.jp > html > help > about",
+    "url": "https://primaldesignlabo.jp/html/help/about",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://primaldesign.base.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://primaldesign.base.shop/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://primaldesignlabo.jp/html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PrimalDesignLab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://primaldesignlabo.jp/html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000864921/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://auba.eiicon.net/projects/28384",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://primaldesignlabo.jp/html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/1005282/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://primaldesignlabo.jp/html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2092296/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PrimalDesignLab",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Primal Design .Labo",
+   "results": [
+    "https://primaldesignlabo.jp/html/",
+    "https://mono.ipros.com/company/detail/2092296/",
+    "https://www.facebook.com/PrimalDesign.Labo/",
+    "https://x.com/PrimalDesignLab",
+    "https://auba.eiicon.net/projects/28384",
+    "https://www.instagram.com/primaldesign.labo/",
+    "https://3dprimal.net/",
+    "https://primaldesignlabo.jp/html/help/about",
+    "https://mono.ipros.com/en/company/detail/2092296/",
+    "https://primaldesign.base.shop/"
+   ]
+  },
+  {
+   "query": "Primal Design .Labo 代理店 契約",
+   "results": [
+    "https://primaldesignlabo.jp/html/",
+    "https://mono.ipros.com/company/detail/2092296/",
+    "https://x.com/PrimalDesignLab",
+    "https://metoree.com/companies/1005282/",
+    "https://compalyze.co.jp/company/2010703004369",
+    "https://auba.eiicon.net/projects/28384",
+    "https://www.facebook.com/PrimalDesign.Labo/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000051158?preview=false&createdLocale=ja_JP",
+    "https://primaldesignlabo.jp/html/help/about",
+    "https://primaldesign.base.shop/"
+   ]
+  },
+  {
+   "query": "Primal Design .Labo 導入事例",
+   "results": [
+    "https://primaldesignlabo.jp/html/",
+    "https://mono.ipros.com/product/detail/2000864921/",
+    "https://auba.eiicon.net/projects/28384",
+    "https://x.com/PrimalDesignLab",
+    "https://www.facebook.com/PrimalDesign.Labo/",
+    "https://metoree.com/companies/1005282/",
+    "https://www.raise3d.jp/case/38",
+    "https://alibre.jp/casestudy/",
+    "https://primaldesignlabo.jp/html/products/detail/203",
+    "https://startup-db.com/companies/PMb8p0WU186GgNdv"
+   ]
+  },
+  {
+   "query": "Primal Design .Labo 価格 OR 料金",
+   "results": [
+    "https://primaldesignlabo.jp/html/",
+    "https://mono.ipros.com/company/detail/2092296/",
+    "https://metoree.com/companies/1005282/",
+    "https://3dprimal.net/",
+    "https://primaldesignlabo.jp/html/help/about",
+    "https://mono.ipros.com/product/detail/2000864921/",
+    "https://primaldesignlabo.jp/html/products/list?pageno=4",
+    "https://www.ipros.com/product/detail/2000864960/",
+    "https://skhonpo.com/blogs/faq/industrial-vs-consumer-price",
+    "https://www.instagram.com/primaldesign.labo/"
+   ]
+  },
+  {
+   "query": "Primal Design .Labo 受託 造形",
+   "results": [
+    "https://primaldesignlabo.jp/html/",
+    "https://mono.ipros.com/company/detail/2092296/",
+    "https://x.com/PrimalDesignLab",
+    "https://www.facebook.com/PrimalDesign.Labo/",
+    "https://mono.ipros.com/product/detail/2000864921/",
+    "https://auba.eiicon.net/projects/28384",
+    "https://metoree.com/companies/1005282/",
+    "https://primaldesignlabo.jp/html/help/about",
+    "https://www.instagram.com/primaldesign.labo/",
+    "https://www.ipros.com/company/detail/2092296/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）",
+  "いくら": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索5回）"
+ }
+}

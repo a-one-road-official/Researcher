@@ -1,0 +1,93 @@
+{
+ "name": "rightmfg.co.jp 運営会社(社名ページ未取得)",
+ "aliases": [],
+ "context": "受託(金属3Dプリンター 420×420×500mm・500W×2、設計〜後処理・リバース、2023年9月開始) / 装置メーカー記載なし",
+ "researched_at": "2026-11-02T07:53:55.671632+00:00",
+ "official_url": "https://rightmfg.co.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rightmfg.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 代理店 契約",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/news/2025/1216-629.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://rightmfg.co.jp/news/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011401006896"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 導入事例",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/terms.html",
+    "https://rightmfg.co.jp/about/efforts.html",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://rightmfg.co.jp/news/2025/1216-629.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://rightmfg.co.jp/factory/system.html",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://www.dnb.com/business-directory/company-profiles.right_mfg_co_ltd.4e0bf851eb0fd65f6546b8231cbd70ce.html"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 価格 OR 料金",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/about/index.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://rightmfg.co.jp/terms.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011401006896",
+    "https://rightmfg.co.jp/news/2025/1216-629.html",
+    "https://www.autodesk.com/jp/products/autocad/buy"
+   ]
+  },
+  {
+   "query": "rightmfg.co.jp 運営会社(社名ページ未取得) 受託 造形",
+   "results": [
+    "https://rightmfg.co.jp/",
+    "https://rightmfg.co.jp/about/outline.html",
+    "https://rightmfg.co.jp/sitemap.html",
+    "https://rightmfg.co.jp/service/index.html",
+    "https://eigyo-mfg.com/service/navi/company/o0zeJ1wK0tTH",
+    "https://rightmfg.co.jp/news/",
+    "https://compalyze.co.jp/company/2011401006896",
+    "https://www.jmoia.jp/aboutjmoia/m25.html",
+    "https://rightmfg.co.jp/news/2026/0518-698.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "誰から": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "何をする": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "誰に": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）",
+  "いくら": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部0頁・検索4回）"
+ }
+}

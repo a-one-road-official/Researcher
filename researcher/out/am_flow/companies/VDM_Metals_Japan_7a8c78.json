@@ -1,0 +1,321 @@
+{
+ "name": "VDM Metals Japan",
+ "aliases": [],
+ "context": "出典に記載なし（AM専門展の出展者） /",
+ "researched_at": "2026-11-02T07:52:35.458213+00:00",
+ "official_url": "https://www.vdm-metals.com/en/company/about-vdm-metals/locations",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "Alle Ansprechpartner",
+    "url": "https://www.vdm-metals.com/en/company/about-vdm-metals/locations",
+    "pass": 1
+   },
+   {
+    "quote": "Distributor plates",
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/aluminum-and-copper-products",
+    "pass": 1
+   },
+   {
+    "quote": "VDM Metals is your partner for innovative solutions from metal. We supply materials that find use in many different applications, due to their specific combinations of properties.",
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "VDM Metals Japan K.K. / ブィデーエム メタルズ ジャパン 株式 ... — VDM Metals Japan K.K. / ブィデーエム メタルズ ジャパン 株式 ... AHK Japan https://japan.ahk.de > membership > vdm-metals-japan-k.k.",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vdm-metals.com/en/company/about-vdm-metals/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/nickel-and-nickel-alloys-from-vdm-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/cobalt-alloys",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/zirconium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/special-stainless-steels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/aluminum-and-copper-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/powder-for-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/welding-consumables",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/delivery-forms-and-dimensions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/complete-product-range",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/oil-and-gas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/chemical-process-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/aerospace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/electronics-and-electrical-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/energy-environment-sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/medical-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/fields-of-application/mechanical-engineering-and-hydraulics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/service-centers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/service-centers/service-center-europe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/service-centers/service-center-china",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vdm-metals.com/en/products-and-services/service-centers/service-center-korea",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_Sheet_VDM_Aeterna_HLS_3805.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_Sheet_VDM_Aeterna_HLZ_3740.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_Sheet_VDM_Aeterna_3838.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_sheet_VDM_Aeterna_3806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_Sheet_VDM_Aeterna_3741.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_Sheet_VDM_Aeterna_3831.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Produktzeichnungen/Kugelhahngriffe/vdm_metals_ball_handles_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.vdm-metals.com/fileadmin/user_upload/Downloads/Data_Sheets/Data_Sheet_VDM_Powder_718.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lindsaygoldbergllc.com/investments/vdm-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ZZA-8RpyTHA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japanmetaldaily.com/articles/-/159427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E5%A4%A7%E6%89%8B%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%81%AEvdm-metals%E3%81%8C-fmm%E3%81%AE%E9%87%8F%E7%94%A3%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fbolt-creation%E3%82%92%E8%A8%AA%E5%95%8F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=7HPxNZXK53k",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "VDM Metals Japan 代理店 契約",
+   "results": [
+    "https://www.vdm-metals.com/en/",
+    "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "https://www.lindsaygoldbergllc.com/investments/vdm-metals",
+    "https://www.vdm-metals.com/en/company/about-vdm-metals/locations",
+    "https://www.db.com/news/detail/20150511-deutsche-bank-commits-to-underwrite-vdm-metals-group-working-capital-to-facilitate-purchase-by-lindsay-goldberg?language_id=1",
+    "https://www.acerinox.com/en/comunicacion/noticias/Acerinox-formalises-the-acquisition-of-VDM-Metals-Global-leader-in-the-manufacture-of-special-alloys/",
+    "https://www.directindustry.com/ja/prod/vdm-metals-105671.html",
+    "https://www.japanmetaldaily.com/articles/-/159427",
+    "https://japan.ahk.de/de/mitgliedschaft/mitgliederverzeichnis/vdm-metals-japan-k.k",
+    "https://japan.ahk.de/en/membership/member-directory/vdm-metals-japan-k.k"
+   ]
+  },
+  {
+   "query": "VDM Metals Japan 導入事例",
+   "results": [
+    "https://www.vdm-metals.com/en/",
+    "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "https://www.youtube.com/watch?v=ZZA-8RpyTHA",
+    "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E5%A4%A7%E6%89%8B%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%81%AEvdm-metals%E3%81%8C-fmm%E3%81%AE%E9%87%8F%E7%94%A3%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fbolt-creation%E3%82%92%E8%A8%AA%E5%95%8F/",
+    "https://www.vdm-metals.com/en/company/about-vdm-metals/locations",
+    "https://www.youtube.com/watch?v=7HPxNZXK53k",
+    "https://www.acerinox.com/en/acerinox/fabricas/vdm-metals/",
+    "https://www.youtube.com/channel/UCfNrTbzWadd02Bo4hYhMvmg",
+    "https://www.japanmetaldaily.com/articles/-/159427",
+    "https://www.vdm-metals.com/en/company/about-vdm-metals/production-capabilities/"
+   ]
+  },
+  {
+   "query": "VDM Metals Japan 価格 OR 料金",
+   "results": [
+    "https://www.japanmetaldaily.com/articles/-/159427",
+    "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/complete-product-range",
+    "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E5%A4%A7%E6%89%8B%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%81%AEvdm-metals%E3%81%8C-fmm%E3%81%AE%E9%87%8F%E7%94%A3%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fbolt-creation%E3%82%92%E8%A8%AA%E5%95%8F/",
+    "https://www.directindustry.com/ja/prod/vdm-metals/product-105671-1907717.html",
+    "https://www.japanmetal.com/news-t2020033095146.html",
+    "https://www.aeroexpo.online/ja/prod/vdm-metals-gmbh/product-170800-47962.html",
+    "https://www.buffett-code.com/company/7vo2tefvg7/",
+    "https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/nickel-and-nickel-alloys-from-vdm-metals",
+    "https://www.taishokukou-tainetsukou-kakou.com/img/2022/11/ff3fbe2828d184f455bd3af5e5bd318a1.pdf",
+    "https://www.vdm-metals.com/en/"
+   ]
+  },
+  {
+   "query": "VDM Metals Japan 受託 造形",
+   "results": [
+    "https://www.vdm-metals.com/en/",
+    "https://japan.ahk.de/ja/membership/member-directory/vdm-metals-japan-k.k.",
+    "https://www.youtube.com/watch?v=7HPxNZXK53k",
+    "https://www.vdm-metals.com/en/company/about-vdm-metals/locations",
+    "https://en.wikipedia.org/wiki/VDM_Metals",
+    "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%89%E3%82%A4%E3%83%84%E3%81%AE%E5%A4%A7%E6%89%8B%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%81%AEvdm-metals%E3%81%8C-fmm%E3%81%AE%E9%87%8F%E7%94%A3%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fbolt-creation%E3%82%92%E8%A8%AA%E5%95%8F/",
+    "https://www.japanmetaldaily.com/articles/-/159427",
+    "https://www.directindustry.com/ja/soc/vdm-metals-105671.html",
+    "https://journal.jogmec.go.jp/metal/news-flash/news-flash_0676.html",
+    "https://www.vdm-metals.com/en/company/about-vdm-metals/production-capabilities/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "何をする": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "誰に": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）",
+  "いくら": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索4回）"
+ }
+}

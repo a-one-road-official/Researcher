@@ -1,0 +1,227 @@
+{
+ "name": "IBARAKIスペースサプライネットワーク",
+ "aliases": [],
+ "context": "イプロス金属3Dプリンタ企業一覧に掲載(内容未確認)；ニデック LAMDA200（DED）を宇宙分野で使用、ISO9001 /",
+ "researched_at": "2026-11-02T07:50:43.671341+00:00",
+ "official_url": "https://space.pref.ibaraki.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "IBARAKIスペースサプライネットワークでは、スピードと信頼性が重視される宇宙機器開発において、お客様のご相談に迅速に対応いたします",
+    "url": "https://space.pref.ibaraki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談内容を基に、IBARAKIスペースサプライネットワーク参画企業からお客様のニーズに合った企業を当事務局がご紹介いたします",
+    "url": "https://space.pref.ibaraki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IBARAKIスペースサプライネットワークでは、スピードと信頼性が重視される宇宙機器開発において、お客様のご相談に迅速に対応いたします",
+    "url": "https://space.pref.ibaraki.jp/aboutus/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "宇宙関連部品のご依頼やお見積り、宇宙ビジネスに関するご相談・ご質問、当ネットワーク参画企業への問い合わせなどがございましたら、",
+    "url": "https://space.pref.ibaraki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙関連部品のご依頼やお見積り、宇宙ビジネスに関するご相談・ご質問、当ネットワーク参画企業への問い合わせなどがございましたら、",
+    "url": "https://space.pref.ibaraki.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙関連部品のご依頼やお見積り、宇宙ビジネスに関するご相談・ご質問、",
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "三和ニードル・ベアリング株式会社",
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IBARAKIスペースサプライネットワーク | 茨城発、宇宙への ... — IBARAKIスペースサプライネットワーク | 茨城発、宇宙への ... IBARAKIスペースサプライネットワーク https://space.pref.ibaraki.jp",
+    "url": "https://space.pref.ibaraki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IBARAKIスペースサプライネットワーク 発足・PRイベント ... — IBARAKIスペースサプライネットワーク 発足・PRイベント ... jspacesystems.or.jp https://www.jspacesystems.or.jp > news",
+    "url": "https://www.jspacesystems.or.jp/news/4546.html/",
+    "pass": 3
+   },
+   {
+    "quote": "IBARAKIスペースサプライネットワーク 事業紹介 - イプロス — IBARAKIスペースサプライネットワーク 事業紹介 - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > すべての製品・サービス",
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "pass": 3
+   },
+   {
+    "quote": "終了 IBARAKIスペースサプライネットワーク 発足・PRイベント — 終了 IBARAKIスペースサプライネットワーク 発足・PRイベント crossu.org https://www.crossu.org > event",
+    "url": "https://www.crossu.org/event/241031it/",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 — 参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 IBARAKIスペースサプライネットワーク https://space.pref.ibaraki.jp > participating-companies-2",
+    "url": "https://space.pref.ibaraki.jp/participating-companies-2/",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 — 参画企業一覧 - IBARAKIスペースサプライネットワーク - 茨城県 IBARAKIスペースサプライネットワーク https://space.pref.ibaraki.jp > participating-companies",
+    "url": "https://space.pref.ibaraki.jp/participating-companies/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://space.pref.ibaraki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space.pref.ibaraki.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space.pref.ibaraki.jp/post-7863/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space.pref.ibaraki.jp/category/information/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://space.pref.ibaraki.jp/wp-content/uploads/2025/07/adb8e793acbaca258d3af6932e73d831-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jspacesystems.or.jp/news/4546.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jspacesystems.or.jp/news/4546.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jspacesystems.or.jp/news/4546.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jspacesystems.or.jp/news/4546.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "IBARAKIスペースサプライネットワーク 代理店 契約",
+   "results": [
+    "https://space.pref.ibaraki.jp/",
+    "https://www.jspacesystems.or.jp/news/4546.html/",
+    "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "https://www.crossu.org/event/241031it/",
+    "https://test-jss.sakura.ne.jp/ibaraki-pj/",
+    "https://space.pref.ibaraki.jp/participating-companies/",
+    "https://www.spexa.jp/tokyo/en-gb/search/2026/directory/directory-details.org-d1d93fd8-ede1-4c56-ad2a-d2eeec9da43d.html",
+    "https://www.youtube.com/shorts/DtR2OdtYJl4",
+    "https://www.a-tech.co.jp/news/%E5%85%B1%E5%90%8C%E5%8F%97%E6%B3%A8%E4%BD%93%E5%88%B6%E3%80%8CIBARAKI%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%80%8D%E3%81%AB/index.html",
+    "https://www.pref.ibaraki.jp/kikaku/kagaku/kokusai/documents/ibarakispace.html"
+   ]
+  },
+  {
+   "query": "IBARAKIスペースサプライネットワーク 導入事例",
+   "results": [
+    "https://space.pref.ibaraki.jp/",
+    "https://www.jspacesystems.or.jp/news/4546.html/",
+    "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "https://www.crossu.org/event/241031it/",
+    "https://test-jss.sakura.ne.jp/ibaraki-pj/",
+    "https://space.pref.ibaraki.jp/participating-companies-2/",
+    "https://www.spexa.jp/tokyo/en-gb/search/2026/directory/directory-details.org-d1d93fd8-ede1-4c56-ad2a-d2eeec9da43d.html",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai2/sangyo-keikaku/pdf/b-keikaku/ibarakiken_uchu_1-1.pdf",
+    "https://www.youtube.com/shorts/DtR2OdtYJl4",
+    "https://space.pref.ibaraki.jp/participating-companies/"
+   ]
+  },
+  {
+   "query": "IBARAKIスペースサプライネットワーク 価格 OR 料金",
+   "results": [
+    "https://space.pref.ibaraki.jp/",
+    "https://www.jspacesystems.or.jp/news/4546.html/",
+    "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "https://test-jss.sakura.ne.jp/ibaraki-pj/",
+    "https://space.pref.ibaraki.jp/participating-companies-2/",
+    "https://mono.ipros.com/company/detail/2116872/",
+    "https://www.nikkei.com/article/DGXZQOCC237AM0T20C25A4000000/",
+    "https://www.nikkan.co.jp/articles/view/727908",
+    "https://space.pref.ibaraki.jp/aboutus/"
+   ]
+  },
+  {
+   "query": "IBARAKIスペースサプライネットワーク 受託 造形",
+   "results": [
+    "https://space.pref.ibaraki.jp/",
+    "https://www.jspacesystems.or.jp/news/4546.html/",
+    "https://pr.mono.ipros.com/space-ibaraki/product/detail/2001542355/",
+    "https://www.crossu.org/event/241031it/",
+    "https://space.pref.ibaraki.jp/participating-companies/",
+    "https://test-jss.sakura.ne.jp/ibaraki-pj/",
+    "https://www.spexa.jp/tokyo/en-gb/search/2026/directory/directory-details.org-d1d93fd8-ede1-4c56-ad2a-d2eeec9da43d.html",
+    "https://www.youtube.com/shorts/DtR2OdtYJl4",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai2/sangyo-keikaku/pdf/b-keikaku/ibarakiken_uchu_1-1.pdf",
+    "https://space.pref.ibaraki.jp/aboutus/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）",
+  "誰から": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）",
+  "何をする": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索4回）"
+ }
+}
