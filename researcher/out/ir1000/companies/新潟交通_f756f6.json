@@ -1,0 +1,1259 @@
+{
+ "name": "新潟交通",
+ "aliases": [],
+ "context": "証券コード9017／陸運業／スタンダード（内国株式）／2026.03期 売上高20,332百万円 営業利益率11.0%",
+ "researched_at": "2026-11-02T20:37:58.918819+00:00",
+ "official_url": "https://www.niigata-kotsu.co.jp/",
+ "identified_by": "search:yahoo_jp:新潟交通",
+ "profile": {},
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 通期連結業績予想と実績との差異に関するお知らせ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年9月5日新バスシステム開業に伴う株主優待乗車証の取扱いについて",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 通期連結業績予想と実績との差異に関するお知らせ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 通期連結業績予想と実績との差異に関するお知らせ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期 第2四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期 第1四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年3月期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年3月期 第3四半期 決算短信",
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "変更手数料改定のお知らせ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/",
+    "pass": 1
+   },
+   {
+    "quote": "(変更手数料 110円)",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/",
+    "pass": 1
+   },
+   {
+    "quote": "※更新時の名義・路線変更(変更手数料 無料)は、１回に含まれません",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/",
+    "pass": 1
+   },
+   {
+    "quote": "（変更手数料110円）",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/henkou.html",
+    "pass": 1
+   },
+   {
+    "quote": "変更手数料（110円）",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/henkou.html",
+    "pass": 1
+   },
+   {
+    "quote": "簡易書留郵便料金（４６０円）、変更手数料（1枚につき１１０円）の",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/henkou.html",
+    "pass": 1
+   },
+   {
+    "quote": "変更手数料改定のお知らせ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(変更手数料 110円)",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※更新時の名義・路線変更(変更手数料 無料)は、１回に含まれません",
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "⑱ 施設、設備および機器の保守管理ならびにその利用状況の管理のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "類とともに、当社個人情報受付窓口まで郵送（郵送の場合は手数料を同封）にてお申込み",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※開示請求に伴う手数料",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また手数料は返却いたしません",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・請求者が所定の手数料を支払わない場合",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空代理事業では、航空会社との空港ハンドリング業務における契約内容の改定等により受託手数料が増加しま",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空代理事業では、航空会社との空港ハンドリング業務における契約内容の変更により受託手数料が増加しました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "※決算公告に代えて、貸借対照表、損益計算書は、EDINET（金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）にて開示しております",
+    "url": "https://www.niigata-kotsu.co.jp/ir/memo/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "① 当社の事業活動に関する情報およびサービス・イベント等に関する情報の案内のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ お客様のご意見・ご要望、サービス等の改良・改善に対する反映のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑪ 商品、サービスの提供を含む契約の締結および履行、契約後の管理ならびに提供した商",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品、サービスのアフターサービスの実施のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑫ 商品、サービスの提供に必要な連絡等のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑬ 商品、サービスに関する代金、料金等の請求収納のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑭ 新商品・新サービスおよびこれらを提供するソフトウェア、システム、設備、機器等の",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・新潟航空サービス株式会社",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社ならびにグループ各社の提供するサービス、商品 等の案内のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社ならびにグループ各社の提供するサービスや商品の利 用状況や満足度調査等、サービ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、利用の停止または消去に伴い、サービスの提供が できなくなることがあります",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "○商品販売事業",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品販売事業では、春の行楽シーズンを中心に、新潟空港、新潟駅及び高速道路サービスエリア等、県内各地の",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "納品先向け土産品の卸販売が堅調に推移したほか、新規に取扱いを開始した地域限定スキンケア商品の販売も寄与",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、直営店における小売販売も伸長し、商品販売事業全体として好調に推移しました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、商品販売事業の売上高は726,873千円（前年同期比12.0％増）となりました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 243,585 264,075",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "運輸事業 不動産事業 商品販売事業 旅行事業 旅館事業 航空代理事業 計",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（商品販売事業）",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品販売事業では、土産卸販売部門において、春秋の行楽シーズンや夏季、年末年始といった需要期を中心に土産",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "需要が堅調に推移し、新潟空港、新潟駅、高速サービスエリア及び佐渡市内等県内各地の納品先向け土産品卸販売が",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、商品販売事業の売上高は2,664,708千円（前期比6.9％増）となりました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旅行事業では、募集型企画旅行において、バスや列車及びチャーター便を利用した多泊コースの商品や海外旅行商",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 229,245 243,585",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「不動産事業」、「商品販売事業」、「旅行事業」、「旅館事業」、「航空代理事業」の６つを報告セグメ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3)商品販売事業 食品販売業、物品販売業",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "運輸事業 不動産事業 商品販売事業 旅行事業 旅館事業 航空代理事業 計",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人口の減少や少子高齢化が加速度的に進展することにより、特に地方において、路線バス事業の経営状況が悪化しており、公共交通ネットワークの縮小やサービス水準の一層の低下が懸念されています",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "○「望ましい公共交通網のすがた」、「潜在需要の獲得と需給バランスに応じた路線の見直し」、「顧客獲得に向けたサービス品質の向上」、「収支バランスに応じたバス路線の見直し」の４つの側面から公共交通網を分析評価",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の個人情報が漏えいした旨の報告を受けました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/R81015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同社からの報告によりますと、当社で高速バスの予約受付をされたお客様のうち、対",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/R81015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様には、ご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/R81015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象となるお客様には、株式会社工房より個別にご連絡いたします",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/R81015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、同社と連携してお客様への対応を進めるとともに、原因および再発防止策に",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/R81015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1） お客様から取得した個人情報の利用目的",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ お客様のご意見・ご要望、サービス等の改良・改善に対する反映のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑥ お客様から取得した個人情報を分析して、安全運行・防犯および不慮の事故等の事態に",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑦ お客様から取得した個人情報を分析して、興味・関心・属性や行動特性に基づく情報配",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑩ 不動産に関するお客様との契約や取引の履行のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑰ お客様および従業員のセキュリティ確保のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・お客様の氏名、性別、年齢、生年月日、住所、電話番号、FAX 番号、メールアドレス",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）共同利用者",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・緊急時に行う、お客様への連絡のため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・お客様のご意見・ご要望に回答するため",
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市間高速バスの利用者数が増加したこと等により、前年同期比増収となりました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、受注型企画旅行では、一般顧客団体の受注が伸び悩んだものの、中学校の修学旅行の受注が増加しまし",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,028,266 637,346 649,069 681,877 452,421 183,687 4,632,668",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 304,895 4,937,564 － 4,937,564",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,074,138 655,518 726,873 729,418 515,586 196,126 4,897,662",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 318,480 5,216,143 － 5,216,143",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 8,560,395 2,643,183 2,492,722 2,619,284 1,678,669 785,644 18,779,900",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,218,719 19,998,620 - 19,998,620",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 8,549,341 2,711,736 2,664,708 2,568,314 1,772,645 798,874 19,065,620",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,266,351 20,331,972 － 20,331,972",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "○「望ましい公共交通網のすがた」、「潜在需要の獲得と需給バランスに応じた路線の見直し」、「顧客獲得に向けたサービス品質の向上」、「収支バランスに応じたバス路線の見直し」の４つの側面から公共交通網を分析評価",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズを聞きながら、希望に沿う修学旅行となるように活動している",
+    "url": "https://www.niigata-u.ac.jp/shindaikoho/1102993/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "清掃・設備・環境業では、環境部門において新規の定期廃棄物回収契約を獲得したことに加え、店舗改装に伴う",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、バスセンタービルやビルボードプレイスビルに飲食店等の新店舗６店を誘致する等、来街客増加に努めた結果、",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "土産小売部門では、2025年８月からの既存店舗の増床効果等により、前期比増収となりました",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は同社を街づくりの新たなパートナーとして、 連携を図りながら万代シテイをより魅力ある",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260330_release.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "キャンパス紹介",
+    "url": "https://www.niigata-u.ac.jp/shindaikoho/1102993/",
+    "pass": 3
+   },
+   {
+    "quote": "将来どんなことをしたいか迷っている新大生に向けて、社会で活躍する卒業生から話を聞き紹介するこのコーナー",
+    "url": "https://www.niigata-u.ac.jp/shindaikoho/1102993/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… ８",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績の概況は、次の通りです",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,553 229,982 41,111 10,854 43,468 50,632 378,602",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 40,124 418,727 247 418,974",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１. 報告セグメントごとの売上高及び利益の金額に関する情報",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」区分は、報告セグメントに含まれない事業セグメントであり、清掃・設備・環境業、",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額は、セグメント間取引消去によるものです",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 32,555 269,340 60,759 25,121 66,261 42,340 496,379",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 38,255 534,635 335 534,970",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 13",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績の概況は、次の通りです",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であ",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、当社グループは、各事業内容を基礎としたセグメントから構成されており、「運輸事業」、",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントにおける各事業区分の事業内容は、以下のとおりであります",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表を作成するために採用される会計方",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 529,986 897,778 129,063 14,330 74,804 213,685 1,859,649",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 16,660,446 31,195,783 973,793 352,666 1,321,288 259,621 50,763,601",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 154,497 2,014,146 2,119 2,016,265",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 1,940,740 52,704,341 3,714,563 56,418,904",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益、資産その他の項目の金額に関する情報",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」区分は報告セグメントに含まれない事業セグメントであり、広告代理業、清掃・設備・環境",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）セグメント利益の調整額は、セグメント間取引消去であります",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）セグメント資産の調整額は、セグメント間取引消去及び各報告セグメントに帰属していない全",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3）減損損失の調整額は、各報告セグメントに 配分していない撤去予定資産 に係るものでありま",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 514,329 1,011,270 156,358 54,035 111,646 222,286 2,069,927",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "知見と実績を有しており、これらの強みは、万代シテイの魅力拡大および中長期的な価値向上",
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260330_release.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "報道発表資料：ビッグデータを活用した地方路線バス事業の経営革新ビジネスモデルの策定について - 国土交通省",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビッグデータを活用した地方路線バス事業の経営革新ビジネスモデルの策定について",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省では、ＢＲＴの導入やバス路線の再編を行った新潟市・新潟交通（株）を対象にモデル事業を実施し、路線バス事業者等が導入可能な地方路線バス事業の経営革新ビジネスモデル実施マニュアルをとりまとめました",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、実施マニュアルを基に地方路線バス事業の経営革新ビジネスモデルの普及に努めます",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況を克服し、路線バス事業経営の安定と持続可能な地域公共交通ネットワークの再構築を図るため、路線バス事業者等が導入可能な、地方路線バス事業の経営革新ビジネスモデルを策定しました",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜地方路線バス事業の経営革新ビジネスモデル概要＞",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方路線バス事業の経営革新ビジネスモデル実施マニュアルは、国土交通省ホームページをご覧ください",
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新潟 市住  向けMaaSアプリ「りゅーとなび」 の実証実験を ... — 新潟 市住  向けMaaSアプリ「りゅーとなび」 の実証実験を ... 新潟交通 https://www.niigata-kotsu.co.jp > 201201_ryu-to_navi",
+    "url": "https://www.niigata-kotsu.co.jp/~noriai/news/release/2020/201201_ryu-to_navi.html",
+    "pass": 3
+   },
+   {
+    "quote": "仕事紹介 - 新潟交通 株式会社 — 仕事紹介 - 新潟交通 株式会社 新潟交通 https://www.niigata-kotsu.co.jp > recruit > dept",
+    "url": "https://www.niigata-kotsu.co.jp/recruit/dept.html",
+    "pass": 3
+   },
+   {
+    "quote": "新潟交通 (株)の会社概要 | マイナビ2028 — 新潟交通 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp81621 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp81621/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 新潟交通 — IR情報 - 新潟交通 新潟交通 https://www.niigata-kotsu.co.jp > ...",
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "新潟交通 （9017）のIR情報・ 決算資料 - IRBANK — 新潟交通 （9017）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 新潟交通",
+    "url": "https://irbank.net/9017/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 新潟交通 】[9017] 決算 発表や業務・財務情報 | 日経電子版 — 【 新潟交通 】[9017] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9017",
+    "pass": 3
+   },
+   {
+    "quote": "新潟交通 【9017】のIR 資料 - キタイシホン — 新潟交通 【9017】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/9017/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "【Q1 決算 】 新潟交通 、第1四半期は増収増益 旅館・商品販売 ... — 【Q1 決算 】 新潟交通 、第1四半期は増収増益 旅館・商品販売 ... にいがた経済新聞 https://www.niikei.jp > ...",
+    "url": "https://www.niikei.jp/2077397/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 部 - 新潟交通 株式会社 — 事業 部 - 新潟交通 株式会社 新潟交通 https://www.niigata-kotsu.co.jp > recruit > business",
+    "url": "https://www.niigata-kotsu.co.jp/recruit/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "路線・のりば | 路線バス - 新潟交通 — 路線・のりば | 路線バス - 新潟交通 新潟交通 https://www.niigata-kotsu.co.jp > route-bus > busstop",
+    "url": "https://www.niigata-kotsu.co.jp/~noriai/route-bus/busstop/",
+    "pass": 3
+   },
+   {
+    "quote": "管理部門 - 新潟交通 株式会社 — 管理部門 - 新潟交通 株式会社 新潟交通 https://www.niigata-kotsu.co.jp > recruit > manage",
+    "url": "https://www.niigata-kotsu.co.jp/recruit/manage.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 新潟交通 — 企業情報 | 新潟交通 新潟交通 https://www.niigata-kotsu.co.jp > soumu > profile",
+    "url": "https://www.niigata-kotsu.co.jp/soumu/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "新潟交通 — 新潟交通 新潟交通 https://www.niigata-kotsu.co.jp",
+    "url": "https://www.niigata-kotsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒者 インタビュー - 新潟交通 株式会社 — 新卒者 インタビュー - 新潟交通 株式会社 新潟交通 https://www.niigata-kotsu.co.jp > recruit > interview",
+    "url": "https://www.niigata-kotsu.co.jp/recruit/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "200人の修学旅行を裏で支える、 新潟交通 の仕事 - 新大広報WEB — 200人の修学旅行を裏で支える、 新潟交通 の仕事 - 新大広報WEB 新潟大学 https://www.niigata-u.ac.jp > ホーム > 記事一覧",
+    "url": "https://www.niigata-u.ac.jp/shindaikoho/1102993/",
+    "pass": 3
+   },
+   {
+    "quote": "乗合バス部 新卒者 インタビュー - 新潟交通 株式会社 — 乗合バス部 新卒者 インタビュー - 新潟交通 株式会社 新潟交通 https://www.niigata-kotsu.co.jp > recruit",
+    "url": "https://www.niigata-kotsu.co.jp/recruit/iv1.html",
+    "pass": 3
+   },
+   {
+    "quote": "新潟交通 - Wikipedia — 新潟交通 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 新潟交通",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E4%BA%A4%E9%80%9A",
+    "pass": 3
+   },
+   {
+    "quote": "新潟交通 【9017】の 社長 ・役員 - キタイシホン — 新潟交通 【9017】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9017/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.niigata-kotsu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/csr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/release_list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/memo/memo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/koukoku/koukoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/henkou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/shinaisennshinn.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/shinai_kogai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/yutai/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/R81015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/csr/privacy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260812_tanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260515_tanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260428_gyouseki_shuusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260428_gjinji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260330_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.niigata-kotsu.co.jp/ir/pr_docu/20260325%E9%83%A8%E9%95%B7%E4%BA%BA%E4%BA%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/9017/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niigata-u.ac.jp/shindaikoho/1102993/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新潟交通",
+   "results": [
+    "https://www.niigata-kotsu.co.jp/",
+    "https://transfer.navitime.biz/niigatabrt-newsystem/pc/map/Top",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E4%BA%A4%E9%80%9A",
+    "https://x.com/n_kotsu_businfo",
+    "https://www.city.niigata.lg.jp/kurashi/doro/kotsu/mm/norikaeannaisaito.html",
+    "https://static.cld.navitime.jp/chibus-storage/company/niigata.html",
+    "https://ja.wikipedia.org/wiki/新潟交通",
+    "https://mb.jorudan.co.jp/os/bus/1501/",
+    "https://www.niigata-kotsu.co.jp/~noriai/route-bus/",
+    "https://www.niigata-kotsu.co.jp/~noriai/route-bus/timetable/route/"
+   ]
+  },
+  {
+   "query": "新潟交通 ビジネスモデル",
+   "results": [
+    "https://www.niigata-kotsu.co.jp/~noriai/news/release/2020/201201_ryu-to_navi.html",
+    "https://www.mlit.go.jp/report/press/joho01_hh_000031.html",
+    "https://www.niigata-kotsu.co.jp/recruit/dept.html",
+    "https://job.mynavi.jp/28/pc/search/corp81621/outline.html",
+    "https://www.city.niigata.lg.jp/kurashi/doro/kotsu/kyogikai.files/siryou.pdf",
+    "https://www.niigata-kotsu.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E4%BA%A4%E9%80%9A",
+    "https://gyokai.media/company/7110001003728/",
+    "https://kitaishihon.com/company/9017/human-capital",
+    "https://ja.wikipedia.org/wiki/新潟交通"
+   ]
+  },
+  {
+   "query": "新潟交通 決算説明資料",
+   "results": [
+    "https://www.niigata-kotsu.co.jp/ir/",
+    "https://irbank.net/9017/ir",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9017",
+    "https://kitaishihon.com/company/9017/ir-library",
+    "https://www.niikei.jp/2077397/",
+    "https://www.daiwair.co.jp/td_download.cgi?c=9017&i=2123118",
+    "https://investalk.jp/9017/niigata-kotsu-2026-03-earnings/",
+    "https://finance.yahoo.co.jp/quote/9017.T/financials",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9017",
+    "https://www.niigata-kotsu.co.jp/ir/release_list.html"
+   ]
+  },
+  {
+   "query": "新潟交通 事業系統図",
+   "results": [
+    "https://www.niigata-kotsu.co.jp/recruit/business.html",
+    "https://www.niigata-kotsu.co.jp/~noriai/route-bus/busstop/",
+    "https://www.niigata-kotsu.co.jp/recruit/manage.html",
+    "https://www.niigata-kotsu.co.jp/soumu/profile.html",
+    "https://www.niigata-kotsu.co.jp/",
+    "https://www.city.niigata.lg.jp/kurashi/doro/kotsu/kyogikai.files/setumeisiryou.pdf",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E4%BA%A4%E9%80%9A",
+    "https://www.niigata-kotsu.co.jp/~noriai/contact/",
+    "https://www.niigata-kotsu.co.jp/~noriai/brt/brt/rosenzu/niigatabus_c.pdf"
+   ]
+  },
+  {
+   "query": "新潟交通 社長 インタビュー",
+   "results": [
+    "https://www.niigata-kotsu.co.jp/recruit/interview.html",
+    "https://www.niigata-u.ac.jp/shindaikoho/1102993/",
+    "https://www.niigata-kotsu.co.jp/recruit/iv1.html",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E4%BA%A4%E9%80%9A",
+    "https://kitaishihon.com/company/9017/board-of-director",
+    "https://www.niigata-kotsu-busdriver.jp/voice/",
+    "https://www.youtube.com/watch?v=7D5MTW6KWIg",
+    "https://job.mynavi.jp/28/pc/search/corp81621/outline.html",
+    "https://syukatsu-kaigi.jp/companies/124656/post_items/1/word_mouths",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I029365500"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}

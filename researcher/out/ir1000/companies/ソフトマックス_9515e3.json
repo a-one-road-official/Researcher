@@ -1,0 +1,678 @@
+{
+ "name": "ソフトマックス",
+ "aliases": [],
+ "context": "証券コード3671／情報・通信業／スタンダード（内国株式）／2025.12期 売上高6,929百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:43:46.173776+00:00",
+ "official_url": "https://www.s-max.co.jp/",
+ "identified_by": "search:yahoo_jp:ソフトマックス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1974年１月",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "248名（2025年12月31日現在）",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・総合医療情報システム開発・販売・導入・保守 ・企業向けシステムの開発・販売・導入・保守",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様第一主義をモットーに、これからもお客様にご満足いただける製品・サービスをお届けできるよう取り組んでまいります",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は、「顧客の成功と利益」を基本理念とし、当社の到達目標及び顧客の期待ニーズに対応できるよう品質方針を定めて実現に向け取り組んでいます",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューションシステム",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちソフトマックス株式会社は全国の医療機関様に最適なソリューションを実現するシステムインテグレーションサービスとして、医事会計、電子カルテシステムを中心とした医療情報システム「PlusUs」シリーズを提供しています",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは情報技術を駆使し、高品質かつ柔軟性・拡張性のあるシステム構築を通して、医療機関、医療現場に最適なソリューションを提供します",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様第一主義をモットーに、これからもお客様にご満足いただける製品・サービスをお届けできるよう取り組んでまいります",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】電子処方箋管理サービス等関係補助金の導入期限延長のお知らせ（R9.3.31まで）",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトマックスが医療機関、企業様に最適なソリューションを提供します",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションシステム",
+    "url": "https://www.s-max.co.jp/products/rihabiri/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトマックスが医療機関、企業様に最適なソリューションを提供します",
+    "url": "https://www.s-max.co.jp/products/rihabiri/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションシステム",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトマックスが医療機関、企業様に最適なソリューションを提供します",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションシステム",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東北地方における当社製品の拡販、立上導入指導及びサポートを目的としてヒューマンメディック株式会社（秋田市）設立（現 当社秋田営業所）",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ブランド名をHONESTからPlusUsへ変更",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトマックスが医療機関、企業様に最適なソリューションを提供します",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションシステム",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトはサービス向上を目的としてCookieを利用しています",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックスが医療機関、医療現場に最適なソリューションを提供します",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションシステム",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトはサービス向上を目的としてCookieを利用しています",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックスが医療機関、医療現場に最適なソリューションを提供します",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "高機能な販売管理・在庫管理の基本機能を備え、御社の業務体系に合わせて自由にカスタマイズ可能なセミ・オーダーメイドタイプの販売管理システム等を提供します",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月25日",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月17日",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月12日",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月06日",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年１月",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜ソフトマックス株式会社",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年1月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年8月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年6月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年8月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年5月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年6月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年9月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年4月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年6月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年1月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年4月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年6月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年10月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年1月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年2月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年4月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年4月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年1月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年2月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年4月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年5月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年7月",
+    "url": "https://www.s-max.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 本決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期 本決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期 第２四半期決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期 本決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期 第２四半期決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月期 本決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月期 第２四半期決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月期 第２四半期決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期 本決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期本決算に関するQ&A",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期 第２四半期決算",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期第２四半期決算に関するQ&A",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月期",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "・総合医療情報システム開発・販売・導入・保守",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "・企業向けシステムの開発・販売・導入・保守",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ソフトマックス 株式会社 — ソフトマックス 株式会社 ソフトマックス株式会社 https://www.s-max.co.jp",
+    "url": "https://www.s-max.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【5分で分かる】 ソフトマックス 関数について解説！ - YouTube — 【5分で分かる】 ソフトマックス 関数について解説！ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=6qROxGvXzZc",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックス 【3671】の事業内容 - キタイシホン — ソフトマックス 【3671】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3671/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ ソフトマックス 株式会社 — 会社概要｜ ソフトマックス 株式会社 ソフトマックス株式会社 https://www.s-max.co.jp > company > outline",
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 ・補足 資料 | IR 資料 室 - 投資家情報 - ソフトマックス — 決算説明 ・補足 資料 | IR 資料 室 - 投資家情報 - ソフトマックス ソフトマックス株式会社 https://ir.s-max.co.jp > library > presentation",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IR 資料 室 | 投資家情報 | ソフトマックス 株式会社 — 決算 短信 | IR 資料 室 | 投資家情報 | ソフトマックス 株式会社 ソフトマックス株式会社 https://ir.s-max.co.jp > library > result",
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - 投資家情報 - ソフトマックス — IRニュース - 投資家情報 - ソフトマックス ソフトマックス株式会社 https://ir.s-max.co.jp > ...",
+    "url": "https://ir.s-max.co.jp/ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ソフトマックス 】[3671]IR情報 中期経営計画や 決算 短信 — 【 ソフトマックス 】[3671]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3671",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックス 【3671】の 事業 内容 - キタイシホン — ソフトマックス 【3671】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3671/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックス の電子カルテの特徴・機能・口コミ評判を徹底 ... — ソフトマックス の電子カルテの特徴・機能・口コミ評判を徹底 ... medimo.ai https://medimo.ai > column > emr-softmax",
+    "url": "https://medimo.ai/column/emr-softmax",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックス (医療) - Wikipedia — ソフトマックス (医療) - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ソフトマックス_(医療)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_(%E5%8C%BB%E7%99%82)",
+    "pass": 3
+   },
+   {
+    "quote": "社長 挨拶｜ ソフトマックス 株式会社 — 社長 挨拶｜ ソフトマックス 株式会社 ソフトマックス株式会社 https://www.s-max.co.jp > company > message",
+    "url": "https://www.s-max.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ ソフトマックス ・萩原千恵子 社長 「病院DX柔軟 ... — 経営ひと言／ ソフトマックス ・萩原千恵子 社長 「病院DX柔軟 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/742839",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックス社長 に萩原千恵子氏 - 日本経済新聞 — ソフトマックス社長 に萩原千恵子氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > 地域 > 九州・沖縄",
+    "url": "https://www.nikkei.com/article/DGXZQOJC098O40Z01C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトマックス 株式会社｜企業情報 - かごJob — ソフトマックス 株式会社｜企業情報 - かごJob かごJob https://www.kagojob.jp > facility > detail",
+    "url": "https://www.kagojob.jp/facility/detail/1236/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.s-max.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-max.co.jp/products/rihabiri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-max.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-max.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=6qROxGvXzZc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/742839",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソフトマックス",
+   "results": [
+    "https://www.s-max.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp93533/outline.html",
+    "https://www.kagojob.jp/facility/detail/1236/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E9%96%A2%E6%95%B0",
+    "https://medimo.ai/column/emr-softmax",
+    "https://ja.wikipedia.org/wiki/ソフトマックス",
+    "https://ja.wikipedia.org/wiki/ソフトマックス_(医療)",
+    "https://ja.wikipedia.org/wiki/ソフトマックス関数",
+    "https://www.s-max.co.jp/company/outline/",
+    "https://ir.s-max.co.jp/ja/ir.html"
+   ]
+  },
+  {
+   "query": "ソフトマックス ビジネスモデル",
+   "results": [
+    "https://www.s-max.co.jp/",
+    "https://www.youtube.com/watch?v=6qROxGvXzZc",
+    "https://kitaishihon.com/company/3671/business",
+    "https://www.s-max.co.jp/company/outline/",
+    "https://kabutan.jp/news/marketnews/?b=n202009140344",
+    "https://zero2one.jp/ai-word/softmax-function/?srsltid=AYCX9vItolUMDJ6n8le_TmUBOslIoUF_mpIOhe006HNVhxRiVa-Ee8zu",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_(%E5%8C%BB%E7%99%82)",
+    "https://www.kagojob.jp/facility/detail/1236/",
+    "https://metricgate.com/blogs/ja/softmax-function-explained-intuitively/",
+    "https://consovation.com/ビジネスモデルの全貌とir資料で見る成長戦略-ソ/"
+   ]
+  },
+  {
+   "query": "ソフトマックス 決算説明資料",
+   "results": [
+    "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "https://ir.s-max.co.jp/ja/ir/library/result.html",
+    "https://ir.s-max.co.jp/ja.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3671",
+    "https://www.max-ltd.co.jp/about/ir/library/",
+    "https://irbank.net/3671/ir",
+    "https://kabutan.jp/stock/finance?code=3671",
+    "https://ir.s-max.co.jp/ja/ir/library.html",
+    "https://edinetdb.jp/company/E27276/ir-docs/",
+    "https://www.buffett-code.com/company/3671/library"
+   ]
+  },
+  {
+   "query": "ソフトマックス 事業系統図",
+   "results": [
+    "https://www.s-max.co.jp/company/outline/",
+    "https://www.s-max.co.jp/",
+    "https://kitaishihon.com/company/3671/business",
+    "https://medimo.ai/column/emr-softmax",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_(%E5%8C%BB%E7%99%82)",
+    "https://www.kagojob.jp/facility/detail/1236/",
+    "https://www.introduction-emr.net/list/soft-max.html",
+    "https://www.healthcare-dx-map.com/company/s-max.html",
+    "https://www.s-max.co.jp/recruit/job/",
+    "https://www.s-max.co.jp/company/"
+   ]
+  },
+  {
+   "query": "ソフトマックス 社長 インタビュー",
+   "results": [
+    "https://www.s-max.co.jp/company/message/",
+    "https://www.nikkan.co.jp/articles/view/742839",
+    "https://www.nikkei.com/article/DGXZQOJC098O40Z01C24A2000000/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_(%E5%8C%BB%E7%99%82)",
+    "https://www.kagojob.jp/facility/detail/1236/",
+    "https://www.s-max.co.jp/news/2025-02-21/",
+    "https://x.com/Nikkan_BizLine/status/1868669120796897692",
+    "https://shachojp.com/p/softmax",
+    "https://minkabu.jp/stock/3671/news",
+    "https://www.s-max.co.jp/news/2025-03-13/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索5回）",
+  "どうやって売るか": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

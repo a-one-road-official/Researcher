@@ -1,0 +1,1327 @@
+{
+ "name": "ＴＤＣソフト",
+ "aliases": [],
+ "context": "証券コード4687／情報・通信業／プライム（内国株式）／2026.03期 売上高48,359百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:44:09.577377+00:00",
+ "official_url": "https://www.tdc.co.jp/",
+ "identified_by": "search:yahoo_jp:TDCソフト",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1962年（昭和37年）10月16日",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：2,679名\n単体：2,388名\n（2026年4月現在）",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ITコンサルティング＆サービス 金融ITソリューション 公共法人ITソリューション プラットフォームソリューション等",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の潜在ニーズを先回りして捉え、",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "60年を超える実績は、お客様のデジタル変革を支える確かな証",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "伝統の技術力と技術への情熱で、これからもお客様の期待に応え続けます",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の潜在ニーズをいち早く捉え、デジタル技術で新たな価値を創造します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスも扱っており、お客様の多様なニーズに対応しています",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "確かな技術力で、お客様のビジネスの発展に貢献します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の戦略的なシステム構築を技術力で支援します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多様なシステム化要望に対して、設計、開発、試験、運用・保守に至るまで、ワンストップでサービスをご提供します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーンの各工程に対応した基幹系システムの開発、業界再編における合併・統合システムの開発や、メインフレームからオープンシステムへのレガシーマイグレーション、アジャイル手法を取り入れた各企業様の顧客接点となるWEBフロント系開発など、製造・物流分野にお",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "TDCソフトグループは、お客様のシステムおよび当社サービスの安全性を揺るぎないものにするため、セキュリティインシデントの予防・対処を専門とする「TDC-CSIRT（TDC Computer Security Incident Response Team）」を設立いたしました",
+    "url": "https://www.tdc.co.jp/company/hoshinindex/tdc-csirt/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は、ご利用者ご自身のご判断において行われるようお願い申し上げます",
+    "url": "https://www.tdc.co.jp/ir/irpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から最も信頼されるITパートナーを目指して",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年に通商産業大臣認定のシステムインテグレータとして認定されてから今日まで、お客様のご期待にお応えするため最新の技術を駆使し幅広い業務ノウハウをもってチャレンジを続けてまいりました",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題がより複雑化する中、一歩先の未来に向けた先見性を磨き、卓越した開発技術とサービスを提供していくことで、お客様の唯一無二の存在となり長期的な成長の実現に邁進してまいります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは「世の中をもっとSmartに」をパーパスとして掲げ、事業を通じてお客様の活動をより効率的でSmartにすることで、持続可能な社会の実現に貢献していきたいと考えています",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の社会は、業界を問わず複雑化が進んでおり、お客様が抱える課題も多様化しています",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対応し、パーパスを実現していくため、私たちは専門知識をさらに深め・広げながら、それをお客様の価値向上にどう結びつけるかに注力しています",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "この専門性をさらに発展させ、複雑な課題を抱えるお客様に最適な解決策を提供し続け、営業やマネジメントを含む全社で専門性を共有し、より高いレベルの提案を行っていくことでお客様の価値向上に貢献してまいります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "この目標を達成することで、より多くのお客様に選ばれ、長期的な成長を実現できると確信しています",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、日本経済が低迷又は悪化する場合には、顧客の情報化投資が減少するおそれがあり、当社グループの経営成績等が影響を受ける可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、作業工程等に基づき発生コストを予測し見積りを行っておりますが、開発期間の短期化及び機能の複雑化など顧客からの要請は高度化しており、当初想定した以上の開発工数の増加や機能改善による追加コストにより、当初見積ったコストを上回り低採算または採算割れとなる可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループが顧客との間であらかじめ定めた期日までに作業を完了・納品できなかった場合には遅延損害金、最終的に作業完了・納品できなかった場合には損害賠償責任が発生する可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、ISO9001の認証を取得し製品やサービスの品質向上に取組んでおり、現在までシステムの不具合に関し訴訟等重大な影響を受ける損害賠償等を請求されたことはありませんが、当社グループの過失によるシステムの不具合が顧客に損害を与えた場合には、損害賠償請求負担及び信用の失墜等により、当社グループの経営成績等に影響を与える可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "（6） 特定の顧客への依存",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、日本電信電話株式会社グループ、日本アイ・ビー・エム株式会社グループ及び富士通株式会社グループ等への売上高比率が多くを占めると想定いたしますが、これら顧客において事業方針の変更がなされた場合、当社グループの経営成績等に影響を与える可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、事業において顧客の機密情報（個人情報を含む）に触れる場合があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、何らかの理由により機密情報の外部への漏洩が生じた場合、顧客より損害賠償請求を受ける可能性があり、また当社グループの信用の失墜を招くことにより、当社グループの経営成績等に影響を与える可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "現代社会の複雑化に伴い、お客様",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "革新的なサービスを提供し、お客様にとって唯一無二の存在となり、長期",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より多岐にわたって保有することで、ますます複雑化する顧客課題への対",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二つ目の「顧客の価値につなげる提案力の向上」では、要素技術の特性",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と顧客の状況や戦略に対する深い理解に基づき、ITを効果的に活用して顧",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の価値につなげる提案力の向上",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保有し、複雑化する顧客課題への",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要素技術の持つ特性と顧客の状況、",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戦略に精通し、ITを顧客の価値に",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基本戦略①の施策の中で、専門性・知見を高めたうえで、顧客",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "への提案強化をすべく注力顧客毎のアカウン ト戦略を策定",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "力顧客毎の潜在ニーズを捉え、付加価値の高い提案を全社横",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最新の顧客事例",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "適化された管理モデルと、 お客様",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の管理負荷を最小限に",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "手続きを撤廃し、顧客の記入負担や行員の事務作業を大幅に軽",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジ提供を開始し、 お客様毎に最適なプラン選択が可能に",
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TDCソフト、あらゆる組織の「AI導入の壁」を打破する 「AI-Native変革デザイン支援サービス」を提供開始",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TDCソフトのクラウドワークフローサービス「Styleflow」、 「AIエージェント連携」と「企業間連携」の新機能を提供開始",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造型の付加価値の高いサービスを提供してまいりました",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TDC's DXサービス",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レガシーマイグレーションサービス",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "一般社団法人 情報サービス産業協会",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ITコンサルティング＆サービス",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "金融ITソリューション",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "公共法人ITソリューション",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームソリューション等",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションをご提案します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "DWH/BI基盤の構築、代理店向けポータルサイトの開発まで、幅広いソリューションを展開",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "〇製品・サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "データ分析基盤構築サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "レガシーマイグレーションサービス Movina",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジット業務システムの開発を通して、フロントやバックオフィスの業務サイクル全般を網羅するソリューションをご提供します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBサービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "PMO支援サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS関連サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "などの豊富な業務ノウハウと、最新技術を融合したソリューションをご提供します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce関連サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービスを提供しています",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "培ってきた実績と技術力を駆使して、システム構築の企画・設計から運用・保守までのサービスをワンストップで提供しています",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "販売管理システムや物流管理システム、供給設備系の工事管理システムなどの構築、サービス後の拡充改善などの維持管理、運用・保守に至るまであらゆる工程のサービス提供が可能です",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "アジャイル開発支援サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多様なシステム化要望に対して、設計、開発、試験、運用・保守に至るまで、ワンストップでサービスをご提供します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "SIサービスを提供します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP関連サービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "SAFe®エンタープライズアジャイルサービス",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質なITサービスを通して人々の暮らしを支える",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "また、中央省庁における大規模なミッションクリティカルなシステムの開発からサービス開始後の維持管理、運用・保守に至るまで、公共分野における豊富なシステム開発の実績があります",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話を利用したASPサービス「HANDｙ TRUSt」を提供開始",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＣＭＭＩ成熟度レベル３を達成（ソリューション事業部）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＣＭＭＩ成熟度レベル４を達成（ソリューション事業部）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル５G分野でのサービス提供に向け株式会社LTE-X（現：株式会社closip）と資本・業務提携契約を締結",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "経産省「DX認定制度」にて情報サービス産業界で初めて認定を取得",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/company/hoshinindex/tdc-csirt/",
+    "pass": 1
+   },
+   {
+    "quote": "TDCソフトグループは、お客様のシステムおよび当社サービスの安全性を揺るぎないものにするため、セキュリティインシデントの予防・対処を専門とする「TDC-CSIRT（TDC Computer Security Incident Response Team）」を設立いたしました",
+    "url": "https://www.tdc.co.jp/company/hoshinindex/tdc-csirt/",
+    "pass": 1
+   },
+   {
+    "quote": "万が一、インシデントが発生した場合においても、TDC-CSIRTが中心となり、早期封じ込めから根本原因の究明、サービスの迅速な復旧までを主導します",
+    "url": "https://www.tdc.co.jp/company/hoshinindex/tdc-csirt/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/company/hoshinindex/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "TDCソフト、あらゆる組織の「AI導入の壁」を打破する 「AI-Native変革デザイン支援サービス」を提供開始",
+    "url": "https://www.tdc.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "TDCソフトのクラウドワークフローサービス「Styleflow」、 「AIエージェント連携」と「企業間連携」の新機能を提供開始",
+    "url": "https://www.tdc.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/irpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題がより複雑化する中、一歩先の未来に向けた先見性を磨き、卓越した開発技術とサービスを提供していくことで、お客様の唯一無二の存在となり長期的な成長の実現に邁進してまいります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、抜きんでた開発技術とサービスを提供することで、唯一無二の存在になることを意味しています",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "上流～BPOまでトータルバリューチェーン化と多角的な技術・サービス・ソリューション提案等のオファリングの推進",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "金融、法人、公共、ソリューション等の各事業カットでの専門性強化による事業拡大",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品販売事業 ：",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第１四半期決算短信・補足資料開示のお知らせ",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年（昭和37年）10月16日",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | ＴＤＣソフトについて | ＴＤＣソフト",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年（昭和37年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年（昭和38年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1967年（昭和42年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年（昭和48年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年（昭和52年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年（昭和53年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年（昭和59年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年（昭和61年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年（平成3年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年（平成9年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年（平成11年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年（平成12年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年（平成13年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年（平成14年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年（平成15年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年（平成18年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年（平成19年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年（平成20年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年（平成21年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年（平成24年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年（平成25年）",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算短信・補足資料開示のお知らせ",
+    "url": "https://www.tdc.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.tdc.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月12日",
+    "url": "https://www.tdc.co.jp/ir/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年9月13日",
+    "url": "https://www.tdc.co.jp/ir/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月～2028年3月を計画期間とした中期経営計画を掲載しております",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年に創業し、パンチカードによるデータ入力業務を手始めに、大型汎用コンピュータのシステムズソフトウェア開発事業に進出",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年に通商産業大臣認定のシステムインテグレータとして認定されてから今日まで、お客様のご期待にお応えするため最新の技術を駆使し幅広い業務ノウハウをもってチャレンジを続けてまいりました",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年10月",
+    "url": "https://www.tdc.co.jp:443/ir/mid-stock/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月1日付けで、普通株式1株につき2株の株式分割を行っております",
+    "url": "https://www.tdc.co.jp:443/ir/mid-stock/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介 | ＴＤＣソフトについて | ＴＤＣソフト",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "DWH/BI基盤の構築、代理店向けポータルサイトの開発まで、幅広いソリューションを展開",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "大規模アジャイル開発フレームワークScaled Agile Framework🄬（SAFe🄬）の提供元 米国Scaled Agile,Inc.とのパートナー契約の締結",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本で2社目となるScaled Agile,Inc.のパートナー制度で「Gold Partner」に認定",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Boomi社とパートナー契約を締結",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTデータグループの「コアビジネスパートナー」に認定",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米Scaled Agileと国内初の「AI-Native」パートナー契約を締結",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から最も信頼されるITパートナーを目指して",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "pass": 1
+   },
+   {
+    "quote": "M&A・アライアンスなど戦略的パートナーシップを推進",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "（3） アライアンスパートナーとの協力体制",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、事業運営に関連して、ベンダーや協力会社等、様々なパートナーとの協力体制を構築しております",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのパートナーとの関係に変化が生じた場合、サービスの提供もしくは適正な価格でのサービスの提供が困難になる等により、当社グループの経営成績等に影響を与える可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   },
+   {
+    "quote": "決算関連資料、有価証券報告書などの資料をご紹介いたします",
+    "url": "https://www.tdc.co.jp/ir/mid-library/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "オフショア・ニアショア開発の支援体制も整え、コンサルティングから運用保守まで一貫したサポートを実現",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "培ってきた実績と技術力を駆使して、システム構築の企画・設計から運用・保守までのサービスをワンストップで提供しています",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "販売管理システムや物流管理システム、供給設備系の工事管理システムなどの構築、サービス後の拡充改善などの維持管理、運用・保守に至るまであらゆる工程のサービス提供が可能です",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多様なシステム化要望に対して、設計、開発、試験、運用・保守に至るまで、ワンストップでサービスをご提供します",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "システムの開発・保守や、企業の活性化を担うシステムの開発など、幅広い分野で豊富な開発実績を保有しています",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "また、中央省庁における大規模なミッションクリティカルなシステムの開発からサービス開始後の維持管理、運用・保守に至るまで、公共分野における豊富なシステム開発の実績があります",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "日本の社会インフラを支える大規模システムの開発で培った高い品質、開発プロセス、マネジメントノウハウが当社の強みです",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP分野に強みを持つ株式会社八木ビジネスコンサルタントを子会社化",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "システム開発に強みを持つ株式会社コモドシステムを子会社化",
+    "url": "https://www.tdc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画（FY2025～FY2027）では、2028年3月期に連結売上高600億円、連結営業利益率62億円を目標として掲げています",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/strategy/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "人材教育投資：売上構成比率",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "現在国内においてビジネスモデル特許は広範囲な権利を有し、その範囲が不明確な特許が認められる可能性があります",
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TDCソフト について — TDCソフト について ＴＤＣソフト https://www.tdc.co.jp > company",
+    "url": "https://www.tdc.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | TDCソフト について — 事業紹介 | TDCソフト について ＴＤＣソフト https://www.tdc.co.jp > ＴＤＣソフトについて",
+    "url": "https://www.tdc.co.jp/company/services/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針と事業部紹介 | 採用 - TDCソフト — 経営方針と事業部紹介 | 採用 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > jobs > vision",
+    "url": "https://www.tdc.co.jp/jobs/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "TDCソフト 株式会社 | SAP Partners — TDCソフト 株式会社 | SAP Partners SAP https://www.sap.com > profile > tdcsofuto-zhu-shi-hui-she",
+    "url": "https://www.sap.com/partners/profile/tdcsofuto-zhu-shi-hui-she",
+    "pass": 3
+   },
+   {
+    "quote": "TDCソフト | 世の中をもっとSmartに — TDCソフト | 世の中をもっとSmartに ＴＤＣソフト https://www.tdc.co.jp",
+    "url": "https://www.tdc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | IR 資料 - TDCソフト — 決算説明 会 資料 | IR 資料 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > IR情報 > IR資料",
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IR 資料 - TDCソフト — 決算 短信 | IR 資料 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > IR情報 > IR資料",
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - TDCソフト — IR情報 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > ...",
+    "url": "https://www.tdc.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書等 | IR 資料 - TDCソフト — 有価証券報告書等 | IR 資料 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > IR情報 > IR資料",
+    "url": "https://www.tdc.co.jp/ir/mid-library/reports/",
+    "pass": 3
+   },
+   {
+    "quote": "株主通信 | IR 資料 - TDCソフト — 株主通信 | IR 資料 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > IR情報 > IR資料",
+    "url": "https://www.tdc.co.jp/ir/mid-library/tdc-reports/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | TDCソフト について — 組織図 | TDCソフト について ＴＤＣソフト https://www.tdc.co.jp > ＴＤＣソフトについて",
+    "url": "https://www.tdc.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 | TDCソフト について — 企業概要 | TDCソフト について ＴＤＣソフト https://www.tdc.co.jp > ＴＤＣソフトについて",
+    "url": "https://www.tdc.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針と 事業 部紹介 | 採用 - TDCソフト — 経営方針と 事業 部紹介 | 採用 - TDCソフト ＴＤＣソフト https://www.tdc.co.jp > jobs > vision",
+    "url": "https://www.tdc.co.jp/jobs/vision/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tdc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/company/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/company/hoshinindex/tdc-csirt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/company/hoshinindex/environment-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/koukoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/irpolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/managementplan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/risk-factor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-management-policies/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp:443/ir/mid-stock/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp:443/ir/mid-stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp:443/ir/mid-stock/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdc.co.jp/ir/mid-library/reports/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2026/07/roudouhaken.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2026/06/202603_setsumeikai_v1.1_15389.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2026/06/202603_AnnualSecuritiesReports_27819.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2026/08/202703_1Q_998.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/12/TDCSoftReport202509.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/01/20240312.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2025/01/20180913.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdc.co.jp/wp-content/uploads/2026/06/202603_ketsugi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/TDC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://therapistdevelopmentcenter.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TDCソフト",
+   "results": [
+    "https://www.tdc.co.jp/",
+    "https://ja.wikipedia.org/wiki/TDC%E3%82%BD%E3%83%95%E3%83%88",
+    "https://www.servicenow.com/partners/partner-finder/tdc-soft-inc.html",
+    "https://x.com/TDCsoft_1962",
+    "https://job.mynavi.jp/27/pc/search/corp73340/outline.html",
+    "https://en.wikipedia.org/wiki/TDC",
+    "https://therapistdevelopmentcenter.com/",
+    "https://tdc.org/",
+    "https://www.thedoctors.com/",
+    "https://tdcnet.com/"
+   ]
+  },
+  {
+   "query": "TDCソフト ビジネスモデル",
+   "results": [
+    "https://www.tdc.co.jp/company/",
+    "https://www.tdc.co.jp/company/services/",
+    "https://www.tdc.co.jp/jobs/vision/",
+    "https://www.sap.com/partners/profile/tdcsofuto-zhu-shi-hui-she",
+    "https://www.tdc.co.jp/",
+    "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N3A00000DoWJkUAN",
+    "https://sankak.jp/lab/tdc202105",
+    "https://www.tdc.co.jp/sustainability/social/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr6a&q_no=9",
+    "https://en.wikipedia.org/wiki/TDC"
+   ]
+  },
+  {
+   "query": "TDCソフト 決算説明資料",
+   "results": [
+    "https://www.tdc.co.jp/ir/mid-library/presentation/",
+    "https://www.tdc.co.jp/ir/mid-library/earnings/",
+    "https://www.tdc.co.jp/ir/",
+    "https://www.tdc.co.jp/ir/mid-library/reports/",
+    "https://www.tdc.co.jp/ir/mid-library/tdc-reports/",
+    "https://www.tdc.co.jp/ir/mid-library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4687",
+    "https://www.tdc.co.jp/ir/mid-library/annual-report/",
+    "https://kitaishihon.com/company/4687/ir-library",
+    "https://en.wikipedia.org/wiki/TDC"
+   ]
+  },
+  {
+   "query": "TDCソフト 事業系統図",
+   "results": [
+    "https://www.tdc.co.jp/company/organization/",
+    "https://www.tdc.co.jp/",
+    "https://www.tdc.co.jp/company/about/",
+    "https://www.tdc.co.jp/jobs/vision/",
+    "https://www.tdc.co.jp/company/",
+    "https://www.tdc.co.jp/company/services/",
+    "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N3A00000DoWJkUAN",
+    "https://kitaishihon.com/company/4687/story",
+    "https://www.sap.com/partners/profile/tdcsofuto-zhu-shi-hui-she",
+    "https://en.wikipedia.org/wiki/TDC"
+   ]
+  },
+  {
+   "query": "TDCソフト 社長 インタビュー",
+   "results": [
+    "https://en.wikipedia.org/wiki/TDC",
+    "https://therapistdevelopmentcenter.com/",
+    "https://tdc.org/",
+    "https://www.thedoctors.com/",
+    "https://tdcnet.com/",
+    "https://www.tdcg.com/",
+    "https://home.hktdc.com/tc/",
+    "https://tdcrecoverycenter.com/substance-abuse-treatment-west-islip-ny/",
+    "https://acronyms.thefreedictionary.com/TDC",
+    "https://tdcrecoverycenter.com/dual-diagnosis-treatment-center/west-islip-ny/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

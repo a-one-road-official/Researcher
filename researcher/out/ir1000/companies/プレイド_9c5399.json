@@ -1,0 +1,1030 @@
+{
+ "name": "プレイド",
+ "aliases": [],
+ "context": "証券コード4165／情報・通信業／グロース（内国株式）／2025.09期 売上高13,396百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:50:25.081133+00:00",
+ "official_url": "https://plaid.co.jp/",
+ "identified_by": "search:yahoo_jp:プレイド",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2011年10月",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2011年10月",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "CXプラットフォーム「KARTE」等のSaaSの開発、提供及びプロフェッショナルサービスによる企業や組織、自治体等のDX支援",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "あらゆるサービスの顧客体験の向上に",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客中心経営の実現に向けて、「データ」と「人」を軸に多様な領域で価値を創出",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、タワーレコードの「タワーレコード オンライン」におけるオムニチャネルCX（顧客体験）の高度化を支援",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客コンテクストを自動理解するAI「Context Lake」を開発し、サービス提供を開始",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "CXプラットフォーム「KARTE」は、1st Party Customer Dataを活用して顧客一人ひとりに最適化された体験を提供し、エンゲージメントの向上や収益の拡大を支援します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "リアルタイム分析に基づくWebサイトやアプリのパーソナライズ、マルチチャネルでのマーケティング施策、広告配信の最適化などを通じて、顧客理解を深め、事業成長を加速させます",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサイト上の解像度の高い顧客理解と最適なコミュニケーションを実現します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "リアルタイムユーザー解析やWeb接客などの機能を備え、顧客体験の向上を支援します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー分析やプッシュ通知、リテンションレポートなどの機能を備え、あらゆる施策実行をワンストップで支援します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客理解を深め、ワンストップで施策実行までつなげるデータ統合・利活用基盤です",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データやWebサイト上の行動データなど分散した情報を統合し、分析と実行の一体運用を支援します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客一人ひとりに最適なコミュニケーションを届けるマーケティングオートメーションツールです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客体験に応じた独自機能をすばやく開発できるPaaSです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データ分析を起点とした戦略設計から実装・運用までを支援するPLAID ALPHAと、事業変革に伴走するSTUDIO ZEROの2つのサービスを通じて、より上流の顧客課題にアプローチします",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客体験の変革を、戦略と組織にまで広げて実現するプロフェッショナルサービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各産業のフラッグシップとなるような事業創出・変革を、顧客視点とデータ活用を軸に支援します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサポートや問い合わせ体験を抜本的に変革するプロダクトの提供を通じて、顧客体験の向上を支援します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "企業と顧客の関係性を深化させる、新しいサポートインフラの構築を目指しています",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIを活用し、顧客の困りごとを問い合わせ前に検知",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の自己解決を促進でき、CS部門の生産性とCX向上を両立します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のWeb行動データを活用し、困りごとに応じた最適なオペレーターへ自動マッチング",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "電話・チャット・メールなどを通じてコンタクトセンターに蓄積される顧客の声を、生成AIを用いた独自モデルで分析",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "VoCをあらゆる部門に届け、顧客中心の事業経営を支える基盤となります",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客体験（CX）や従業員体験（EX）における課題を、NPS®などのデータをもとに特定・改善します",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ロイヤルティの向上とCX改善を支援し、頭と心の満足を実現する調査・分析サービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "NPS®などのデータを活用して顧客の本音を可視化し、体験価値向上につながる意思決定を後押しします",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の声や自由記述から本質的な課題や兆しを捉えるテキストAI分析サービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社CloudFitは、クラウド×AIを軸とした複数のデジタルソリューションを組み合わせ、ビジネスの成果を最大化するための顧客伴走型のご支援を行います",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、タワーレコードの「タワーレコード オンライン」におけるオムニチャネルCX（顧客体験）の高度化を支援",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、イトキンのAI・データ活用の内製化に向けた顧客データ基盤構築を支援",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/publicnotices/",
+    "pass": 1
+   },
+   {
+    "quote": "KARTEは、顧客・ユーザーにあわせた自由なコミュニケーションを実現するCX（顧客体験）プラットフォームです",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェブサイトやアプリを利用する顧客・ユーザーの行動をリアルタイムに解析して一人ひとりを可視化し、今この瞬間のデータに基づいて深く、直感的に理解することで、お客様にとって心地良い体験を生み出すことができます",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "KARTEは以下3つの特徴を持ち、刻一刻と変わるお客様の状況に瞬時に合わせた顧客体験を実現します",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 一人ひとりの顧客・ユーザーを可視化 2. KARTE独自のリアルタイム解析基盤 3. ワンストップで施策実行",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業について知りたい",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション売上高は「顧客社数」×「顧客単価」で計算され、今後も両指標を始めとする各種KPIを開示することで、事業状況を適切に開示していきたいと考えております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイドはインターネットの良さを最大限に生かし、顧客・ユーザーをデータによって可視化することによって、顧客・ユーザー中心の世界観へアップデートしていきます",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの構築（CMS）や集客の最大化（広告 / MA）といった企業目線のマーケティングでは顧客・ユーザーにパーソナライズされた施策は実施できず、顧客・ユーザーにより良い体験を提供するCX（顧客体験）を重視する考えへのシフトは徐々に広がってきております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "オンラインやDXの重要性が高まり、加えて顧客体験に対する企業の意識も高まりつつあることから、KARTE普及に向けては追い風の状況が続いていると考えておりますが、業績予想に変更が生じた場合には速やかに開示させていただきます",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "代わりに既存顧客との関係値を示す指標として、解約・契約変更等の影響を総合的に含んだNRRを開示する方針としております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、サブスクリプション売上高は、KARTE導入時に発生する初期費用やProfessinal Service（運用サポートやその他顧客課題の解決に伴走するサービス提供費用）を含まない、経常的に得られるKARTEの月額利用料の合計金額となっております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "NRR (Net Revenue Retention)：(i)1年以上契約している既存顧客のMRRを(ii)前年同月の全体MRRで割ったものとして算出",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "NRRはSaaSモデルにおいて既存顧客から得られる収益の持続性・成長性を示す重要な指標だと考えております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、タワーレコードの「タワーレコード オンライン」におけるオムニチャネルCX（顧客体験）の高度化を支援",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、イトキンのAI・データ活用の内製化に向けた顧客データ基盤構築を支援",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド顧客体験研究所",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるサービスがインターネットを介して提供されるようになった今も、企業からはサイトやアプリに来訪している顧客の様子や状態を、ほとんど知ることはできません",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれ全く違う状態にも関わらず、等しく「1ユーザー」と数えられてしまっています",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "あらゆるサービスの顧客体験の向上に",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスや産業の未来を見据え、共創する",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスや産業の未来を見据え、戦略設計から組織開発・DX支援までを網羅",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業に伴走し、本質的な課題に向き合う人的サービスです",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パーソナライズDMソリューションを共同提供開始",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CXプラットフォーム「KARTE」等のSaaSの開発、提供及びプロフェッショナルサービスによる企業や組織、自治体等のDX支援",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Emotion Techの過半数株式を取得し、NPSなどサーベイ分野におけるサービス提供を本格化",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "アジト株式会社の過半数株式を取得し、インターネット広告領域におけるサービスを拡充",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客コンテクストを自動理解するAI「Context Lake」を開発し、サービス提供を開始",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "データ分析を起点とした戦略設計から実装・運用までを支援するPLAID ALPHAと、事業変革に伴走するSTUDIO ZEROの2つのサービスを通じて、より上流の顧客課題にアプローチします",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客体験の変革を、戦略と組織にまで広げて実現するプロフェッショナルサービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ロイヤルティの向上とCX改善を支援し、頭と心の満足を実現する調査・分析サービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員エンゲージメントの向上と組織変革を支援するEX調査・分析サービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の声や自由記述から本質的な課題や兆しを捉えるテキストAI分析サービスです",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社CloudFitは、クラウド×AIを軸とした複数のデジタルソリューションを組み合わせ、ビジネスの成果を最大化するための顧客伴走型のご支援を行います",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "広告データ基盤サービス「Databeat」、ChatGPT広告の広告データ自動取得連携に対応開始",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、1st Party Customer Dataを活用したコマースメディア構築・収益化サービス「KARTE Offers」を提供開始",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose & Mission実現のため、プレイドが提供するプロダクトやサービスについてご紹介いたします",
+    "url": "https://plaid.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/publicnotices/",
+    "pass": 1
+   },
+   {
+    "quote": "ファッション、美容、健康などの各種EC事業者をはじめ、金融、人材サービス、不動産、メディア・ポータルウェブサイトなどの運営事業者まで、業界別の導入事例については",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの構築（CMS）や集客の最大化（広告 / MA）といった企業目線のマーケティングでは顧客・ユーザーにパーソナライズされた施策は実施できず、顧客・ユーザーにより良い体験を提供するCX（顧客体験）を重視する考えへのシフトは徐々に広がってきております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、サブスクリプション売上高は、KARTE導入時に発生する初期費用やProfessinal Service（運用サポートやその他顧客課題の解決に伴走するサービス提供費用）を含まない、経常的に得られるKARTEの月額利用料の合計金額となっております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "広告データ基盤サービス「Databeat」、ChatGPT広告の広告データ自動取得連携に対応開始",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "プレイド、1st Party Customer Dataを活用したコマースメディア構築・収益化サービス「KARTE Offers」を提供開始",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるサービスがインターネットを介して提供されるようになった今も、企業からはサイトやアプリに来訪している顧客の様子や状態を、ほとんど知ることはできません",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを利用するこの瞬間を楽しんでいるのか、困っているのか、あるいはその体験を誰かと共有したいと思っているのか",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "企業で働く人が、数字だけを見て仕事をしたり、ツールに合わせた仕事を覚えてこなすのではなく、データとテクノロジーで顧客一人ひとりを理解・解釈することを可能とし、人が本来持っている直感や創造力を発揮できる環境を実現して、ビジネスとサービスのあらゆるシーンに普及させたいと思っています",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションブログ",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "を活用し、さまざまなプロダクトやソリューション、プロフェッショナルサービスを提供しています",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   },
+   {
+    "quote": "プレイドが提供するプロダクトやサービスは、その価値提供の領域を拡張・深耕し続けています",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ミッションやメンバー、組織や働き方などを紹介しています",
+    "url": "https://plaid.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Emotion Techへの出資と戦略的パートナーシップの締結を発表",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ミッションやメンバー、組織や働き方などを紹介しています",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "トリドールHDとプレイドの共同開発による丸亀製麺の店舗向け「ハピカンダッシュボード」が2026年度グッドデザイン賞を受賞",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレイドのPurposeとMissionについてご紹介しています",
+    "url": "https://plaid.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose & Mission実現のため、プレイドが提供するプロダクトやサービスについてご紹介いたします",
+    "url": "https://plaid.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "トリドールHDとプレイドの共同開発による丸亀製麺の店舗向け「ハピカンダッシュボード」が2026年度グッドデザイン賞を受賞",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "経営課題を解決するパートナーとしてプレイドを選んでもらえるようにエンタープライズのリーダーとの継続的な関係性をつくる取り組みをしています",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   },
+   {
+    "quote": "KARTE Friends THANKS DAY 2024のこだわりポイントをご紹介します",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   },
+   {
+    "quote": "プレイドのマーケティング組織では、ご紹介したような難しくも解きがいのあるイシューに対して、一つひとつ分解しながら一緒に取り組んでいく仲間を募集しています",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2011年10月",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 スポンサードレポート（Storm Research）",
+    "url": "https://plaid.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 スポンサードレポート（Storm Research）",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期 決算説明会書き起こし",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 決算説明動画 [VIDEO]",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明資料",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年9月期第4四半期より連結財務諸表を作成しているため、2021年9月期第3四半期以前の数値は単体の数値を記載しております",
+    "url": "https://plaid.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "役員や会社沿革については",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 スポンサードレポート（Storm Research）",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期 決算説明会書き起こし",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期 決算説明動画 [VIDEO]",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明資料",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月23日",
+    "url": "https://plaid.co.jp/assets/pdf/publicnotices/%E7%B0%A1%E6%98%93%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B%E5%85%AC%E5%91%8A.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上総利益率",
+    "url": "https://plaid.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、効率よく、自動的に、それらの数字を「ハック」し続けた先に、企業が求める競争優位や付加価値、または新たな価値提供が実現するのでしょうか",
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑性を増す競争環境に対する深い洞察力を持ち、持続的な競争優位性を生み出すための市場機会を見つけ、定量・定性データを用いて戦略的な意思決定を支援することがミッションになります",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "KARTEをサブスクリプション（年間契約）形態で提供するSaaSモデルです",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "契約高が積み上がるストック型の事業構造となっており、導入するウェブサイト / アプリの規模（MAU数）に応じたプライスモデルとしております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション売上高は「顧客社数」×「顧客単価」で計算され、今後も両指標を始めとする各種KPIを開示することで、事業状況を適切に開示していきたいと考えております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "解約率の開示について知りたい",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "解約率は現時点で開示する方針はございません",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "MRR (Monthly Recurring Revenue)：月次のサブスクリプション売上高",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "MRR / ARRはSaaSモデルにおいて積み上がったストック収益の規模を示す重要な指標だと考えております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、サブスクリプション売上高は、KARTE導入時に発生する初期費用やProfessinal Service（運用サポートやその他顧客課題の解決に伴走するサービス提供費用）を含まない、経常的に得られるKARTEの月額利用料の合計金額となっております",
+    "url": "https://plaid.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容 | 株式会社 プレイド — 事業内容 | 株式会社 プレイド 株式会社プレイド https://plaid.co.jp > business",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 プレイド | データによって人の価値を最大化する — 株式会社 プレイド | データによって人の価値を最大化する 株式会社プレイド https://plaid.co.jp",
+    "url": "https://plaid.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "プレイド （KARTE）は伸びる？プロダクトの強みと将来性 ... — プレイド （KARTE）は伸びる？プロダクトの強みと将来性 ... saas-career-tohshindai.com https://saas-career-tohshindai.com > SaaS企業研究",
+    "url": "https://saas-career-tohshindai.com/plaid-future-product/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング組織について | 採用情報 | 株式会社 プレイド — マーケティング組織について | 採用情報 | 株式会社 プレイド 株式会社プレイド https://recruit.plaid.co.jp > marketing",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 株式会社 プレイド — IRライブラリ | 株式会社 プレイド 株式会社プレイド https://plaid.co.jp > IR情報",
+    "url": "https://plaid.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 プレイド — IR情報 | 株式会社 プレイド 株式会社プレイド https://plaid.co.jp > ...",
+    "url": "https://plaid.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 株式会社 プレイド — IRニュース | 株式会社 プレイド 株式会社プレイド https://plaid.co.jp > IR情報",
+    "url": "https://plaid.co.jp/ir/news/",
+    "pass": 3
+   },
+   {
+    "quote": "【 プレイド 】[4165]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 プレイド 】[4165]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4165",
+    "pass": 3
+   },
+   {
+    "quote": "ページネーションがわかりやすい プレイド の 決算説明 会 資料 を ... — ページネーションがわかりやすい プレイド の 決算説明 会 資料 を ... studio.virtual-planner.com https://studio.virtual-planner.com > plaid",
+    "url": "https://studio.virtual-planner.com/plaid/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 プレイド — 会社概要 | 株式会社 プレイド プレイド https://plaid.co.jp > company > overview",
+    "url": "https://plaid.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容 | 株式会社 プレイド — 事業 内容 | 株式会社 プレイド 株式会社プレイド https://plaid.co.jp > business",
+    "url": "https://plaid.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "倉橋健太（ プレイド / Kenta Kurahashi / kuraken） - X — 倉橋健太（ プレイド / Kenta Kurahashi / kuraken） - X X https://x.com > kuraken314",
+    "url": "https://x.com/kuraken314",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 プレイド 代表取締役CEO 倉橋 健太 氏 - YouTube — 株式会社 プレイド 代表取締役CEO 倉橋 健太 氏 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=8x2sbaalUjw",
+    "pass": 3
+   },
+   {
+    "quote": "創業9年で上場。 プレイド 倉橋CEOから学ぶ、急成長を支えた ... — 創業9年で上場。 プレイド 倉橋CEOから学ぶ、急成長を支えた ... 三井住友フィナンシャルグループ https://www.smfg.co.jp > DX-link > 記事一覧",
+    "url": "https://www.smfg.co.jp/dx_link/article/0128.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ僕は年に100日休むのか？｜倉橋健太（ プレイド ... - note — なぜ僕は年に100日休むのか？｜倉橋健太（ プレイド ... - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/kuraken314/n/na6427f6822cf",
+    "pass": 3
+   },
+   {
+    "quote": "というのが僕らの性格」    株式会社 プレイド 倉橋健太氏 ... — というのが僕らの性格」    株式会社 プレイド 倉橋健太氏 ... portfolio-ai.com https://portfolio-ai.com > インタビュー",
+    "url": "https://portfolio-ai.com/interview-kenta-kurahashi-plaid",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客・未顧客問わず、プレイドの顧客セグメントのフォーカスを定め、チームを超えて重点領域が理解されている状態を目指して活動しています",
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://plaid.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/publicnotices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/news/?tab=all&year=latest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plaid.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://plaid.co.jp/assets/pdf/publicnotices/%E7%B0%A1%E6%98%93%E6%A0%AA%E5%BC%8F%E4%BA%A4%E6%8F%9B%E5%85%AC%E5%91%8A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://plaid.co.jp/assets/pdf/publicnotices/BS_201909.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://plaid.co.jp/assets/pdf/publicnotices/BS_201809.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://plaid.co.jp/_next/image/?url=%2Fassets%2Fimages%2Fhome%2Fbusiness-thumbnail_1_desktop.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://plaid.co.jp/_next/image/?url=%2Fassets%2Fimages%2Fhome%2Fbusiness-thumbnail_2_desktop.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://plaid.co.jp/_next/image/?url=%2Fassets%2Fimages%2Fhome%2Fbusiness-thumbnail_3_desktop.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://recruit.plaid.co.jp/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kuraken314",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8x2sbaalUjw",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "プレイド",
+   "results": [
+    "https://plaid.co.jp/",
+    "https://x.com/PLAID_Info",
+    "https://www.nikkei.com/nkd/company/?scode=4165",
+    "https://jp.linkedin.com/company/plaid-inc",
+    "https://www.openwork.jp/a0C1000000vBG8S/pr/",
+    "https://ja.wikipedia.org/wiki/プレイド",
+    "https://ja.wikipedia.org/wiki/プレイド_(企業)",
+    "https://plaid.co.jp/company/overview/",
+    "https://finance.yahoo.co.jp/quote/4165.T",
+    "https://finance.yahoo.co.jp/quote/4165.T/profile"
+   ]
+  },
+  {
+   "query": "プレイド ビジネスモデル",
+   "results": [
+    "https://plaid.co.jp/business/",
+    "https://plaid.co.jp/",
+    "https://saas-career-tohshindai.com/plaid-future-product/",
+    "https://pdf.irpocket.com/C4165/uFlf/JCrR/QmK0.pdf",
+    "https://recruit.plaid.co.jp/marketing",
+    "https://x.com/PLAID_Info",
+    "https://note.com/hrm_selevari/n/n2116b0c6b1ef",
+    "https://blog.plaid.co.jp/n/ne6ef1fe05774",
+    "https://herp.careers/v1/plaid2011/9tcBaTh8vfHt",
+    "https://kabugraph.com/articles/plaid-4165-analysis"
+   ]
+  },
+  {
+   "query": "プレイド 決算説明資料",
+   "results": [
+    "https://plaid.co.jp/ir/library/",
+    "https://plaid.co.jp/ir/",
+    "https://plaid.co.jp/ir/news/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4165",
+    "https://studio.virtual-planner.com/plaid/",
+    "https://plaid.co.jp/ir/calendar/",
+    "https://irbank.net/4165/ir",
+    "https://blog.plaid.co.jp/n/n04dcb0ef45c6",
+    "https://irbox.jp/company/4165",
+    "https://minkabu.jp/stock/4165/settlement"
+   ]
+  },
+  {
+   "query": "プレイド 事業系統図",
+   "results": [
+    "https://plaid.co.jp/company/overview/",
+    "https://recruit.plaid.co.jp/marketing",
+    "https://plaid.co.jp/",
+    "https://pdf.irpocket.com/C4165/uFlf/JCrR/QmK0.pdf",
+    "https://plaid.co.jp/business/",
+    "https://kitaishihon.com/company/4165/business",
+    "https://x.com/PLAID_Info",
+    "https://www.openwork.jp/a0C1000000vBG8S/pr/",
+    "https://speakerdeck.com/plaid/12-61318aad-4960-4fe1-aea3-2d8ec75f78fc",
+    "https://ja.wikipedia.org/wiki/プレイド_(企業)"
+   ]
+  },
+  {
+   "query": "プレイド 社長 インタビュー",
+   "results": [
+    "https://x.com/kuraken314",
+    "https://www.youtube.com/watch?v=8x2sbaalUjw",
+    "https://www.smfg.co.jp/dx_link/article/0128.html",
+    "https://note.com/kuraken314/n/na6427f6822cf",
+    "https://portfolio-ai.com/interview-kenta-kurahashi-plaid",
+    "https://plaid.co.jp/company/leadership/",
+    "https://blog.plaid.co.jp/n/n6c4f7a8511fe",
+    "https://ja.wikipedia.org/wiki/%E5%80%89%E6%A9%8B%E5%81%A5%E5%A4%AA",
+    "https://dimension-note.jp/articles/interview/12197/",
+    "https://ja.wikipedia.org/wiki/倉橋健太"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像6件／外部3頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像6件／外部3頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式14頁／PDF・画像6件／外部3頁・検索5回）"
+ }
+}

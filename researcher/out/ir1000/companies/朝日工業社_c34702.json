@@ -1,0 +1,1833 @@
+{
+ "name": "朝日工業社",
+ "aliases": [],
+ "context": "証券コード1975／建設業／プライム（内国株式）／2026.03期 売上高104,822百万円 営業利益率11.2%",
+ "researched_at": "2026-11-02T20:35:51.907245+00:00",
+ "official_url": "https://www.asahikogyosha.co.jp/",
+ "identified_by": "search:yahoo_jp:朝日工業社",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1925年（大正14年）4月3日",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1940年（昭和15年）8月8日",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "「 事業内容 」のページをご覧ください。",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,148名<連結>・1,080名<単体>（2026年3月31日現在）",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "label": "(1）外部顧客への売上高",
+    "value": "86,111 5,835 91,947 － 91,947",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "label": "(2）セグメント間の内部売上高又は振替高",
+    "value": "1 － 1 △1 －",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "label": "(1）外部顧客への売上高",
+    "value": "99,141 5,681 104,823 － 104,823",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "label": "(2）セグメント間の内部売上高又は振替高",
+    "value": "－ － － － －",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お取引先の皆さまへ",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、持てる技術の粋を駆使して、日本の先端技術をリ－ドする半導体製造工場の超クリ－ンル－ム化を実現し、取引先の高度なニーズに対応しました",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち朝日工業社は誠実さと高度な技術力を持って事業を行い、お客様や社会から信頼を得て100年にわたる歴史を積み上げてきました",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちにとってDXとは、単にデジタル技術の導入を目指すことではなく、社員の創造力を引き出し、お客様・社員・社会との関係性を再構築することへの挑戦を意味しています",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、社会やお客様、取引先などあらゆるパートナーとともに成長し、企業価値を高めながら、持続可能な未来を築きます",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様や取引先とともに新たな価値を生み出し、長期的な信頼と共創の関係を築きます",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様・社会への提供価値を向上させます",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、社員・お客様・取引先・地域社会をはじめとする",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズを的確につかみ、",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "まずはお客様となる施主、建築業者（ゼネコン）、設計事務所などから、新築やリニューアル工事についての情報を収集することから始まります",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズと、機能とコストのバランスを考慮しながら、プランを複数作成することもあります",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "現場全体をマネジメントしてお客様のニーズに合う空調・衛生設備を納めることがミッションです",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "複数の部署を経験することにより業務の幅を広げたり、顧客との信頼関係を構築するなど、主戦力としての活躍が期待されます",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/career/",
+    "pass": 1
+   },
+   {
+    "quote": "培ってきた人脈を活かし、お客様と社内の調整をスムーズに行いながら仕事を進めていきます",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/career/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、サプライチェーンの取引先の皆様や価値創造を図る事業者の皆様との連携・共存共栄を",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "直接の取引先を通じてその先の取引先に働きかける（ 「Tier N」から「Tier N+1」へ）ことによ",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を超えた連携により、取引先との共存共栄の構築を目指します",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "働き方改革の観点から、取引先のテレワーク導入やBCP（事業継続計画）策定の助言等の支援も",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、電子契約システムを導入しており、当社と取引先共に、ペーパーレス化、経費削",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの理念に基づき、当社は取引先と協力し、省",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取引先の皆様へ健康経営に関する自社の取り組み等の情報提供を通じて、健康経",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "守し、取引先とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先も働き方改革に対応できるよう、下請事業者に対して、適正なコスト負担を伴わない短",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らの基本方針に沿って、取引先とのパートナーシップを図ります",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▎ 機器製造販売事業については、主要取引先の生産計画調整の影響を受け、前年同期比で減少",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第19次中期経営計画の方針に沿い、設備工事事業とのシナジーを活かした新規主要取引先の獲得等に取り組む",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▎ 機器製造販売事業は、主要取引先の生産調整の影響を受け、前年同期比で減少",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への売上高 16,356 1,321 17,677 － 17,677",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への売上高 18,668 814 19,483 － 19,483",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長の髙須康有氏は、100年の歴史で蓄積されたノウハウの体系化や1年9か月におよぶ新入社員研修を通じて高い技術力を磨き、顧客と長くつながる価値創造サイクルを回し続ける重要性を強調しています",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "）を主要な取引先とする者（注１）又はその業務執行者（注２）",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "３．最近３年間における、当社グループの主要な取引先（注３）又はその業務執行者（注２）",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．当社グループを主要な取引先とする者とは、その取引先の事業年度における年間連結総売上高の２％以上の支払いを当社グループから受けた者をいう",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "３．当社グループの主要な取引先とは、当社グループの事業年度における年間連結総売上高の２％以上を当社グループに支払った者をいう",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "塗工/印刷工程など様々な製造ラインの乾燥工程へ設備工事会社ならではのソリューションをお届けいたします",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人々が集い活動する空間、食品や半導体などの工業製品が産み出される空間、人が生まれ体を休める空間など、あらゆる空間の空気・水・熱の調和をはかる建設業には欠かせない主要な事業で、朝日工業社では主に空気調和設備工事と衛生設備工事を手掛けています",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "精密環境制御機器の製造販売事業につきましては、上半期は納入先の生産調整などの影響が続きましたが、ＦＰＤ（フラットパネルディスプレイ）製造装置向け製品は、主に中国パネルメーカーの需要増加に伴い、受注が回復しております",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、乾燥（ドライヤ）技術を使った高機能フィルム製造装置向け製品などＦＰＤ・半導体分野での環境制御で培った技術を応用した製品の受注にも注力しております",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/news/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/news/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/news/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品 トップ",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ一覧",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と製品を探す",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品一覧を見る",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/results/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社朝日工業社、教育プロジェクト「未来補完計画」の 教育コンテンツ制作パートナーとして参画",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "朝日工業社が持つ技術や研究内容をご紹介します",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "実績紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "朝日工業社の創業以来の主な歩みをご紹介します",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナーとともに",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナーとともに",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/news/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、社会やお客様、取引先などあらゆるパートナーとともに成長し、企業価値を高めながら、持続可能な未来を築きます",
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/special/asumiru/",
+    "pass": 1
+   },
+   {
+    "quote": "朝日工業社が持つ技術や研究内容をわかりやすくご紹介します",
+    "url": "https://www.asahikogyosha.co.jp/special/asumiru/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.asahikogyosha.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/project/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/project/",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介 | 新卒採用情報 | 朝日工業社",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "各職種の仕事内容と役割をご紹介します",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "営業の社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "設備設計の社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "施工管理の社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "機器事業部の社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "技術研究所の社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "管理部門の社員紹介を見る",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "朝日工業社が手掛けた近年の主な施工実績をご紹介します",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/works/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 新卒採用情報 | 朝日工業社",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/education/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/education/",
+    "pass": 1
+   },
+   {
+    "quote": "社員紹介一覧",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/career/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/career/",
+    "pass": 1
+   },
+   {
+    "quote": "技術系、事務系に分けてキャリアパスの一例をご紹介します",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/career/",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナーシップ構築宣言」",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "進めることで、新たなパートナーシップを構築するため、以下の項目に重点的に取り組むことを宣",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "守し、取引先とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スパートナー）との公正、透明かつ適正な取引により共存共栄を目指す」ことを掲げ、また持続",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らの基本方針に沿って、取引先とのパートナーシップを図ります",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "IBASE 企業・工場紹介動画",
+    "url": "https://www.youtube.com/watch?v=Dog5eobuBG8",
+    "pass": 3
+   },
+   {
+    "quote": "田辺総合法律事務所 パートナー弁護士（現任）",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月02日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月29日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月08日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月29日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月17日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月02日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月28日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月23日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.asahikogyosha.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1925年（大正14年）4月3日",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1940年（昭和15年）8月8日",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 朝日工業社について | 空調設備工事の朝日工業社",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和3年10月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和15年8月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和20年代",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和23年1月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和27年6月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和28年3月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和29年3月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和30年代から40年代",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和38年12月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和42年10月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和45年4月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和46年4月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和47年4月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和50年代～60年代",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和51年7月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和54年3月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和57年3月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和58年4月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和59年1月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和59年2月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和61年10月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和63年10月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成元年～現在",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成2年7月",
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度におけるわが国経済は、企業収益や雇用・所得環境の改善、各種政策の効果により、緩やかな回復基調で推移しました",
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（第98期）：2026年4月1日～2027年3月31日",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月16日",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期個人投資家向け会社説明会",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月9日",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期決算発表",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月17日",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算説明会",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日",
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "pass": 1
+   },
+   {
+    "quote": "▎ 売上総利益率は、前年同期も高水準だったが、これを上回る高水準で着地",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期毎の売上総利益率 推移",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 5.8% 11.7% 12.0% 0.3pt -",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 △8.0% △1.9% △4.5% △2.6pt -",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は前年同期比14.1％の増加となり、営業利益は売上高の増加及び売上総利益率の改善により、前年同期",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は前年同期比38.4％の減少となり、売上総利益率は改善しましたが、売上高の減少により、前年同期の",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント損失は、売上総利益率が改善したことにより、前連結会計年度のセグメント損失358百万円から改善し、101百万円となりました",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "保守サービスに対しても一貫した体制を整備しており、国内だけではなく、中国、韓国および台湾にも拠点を置いて、お客さまに“安心と信頼”を提供しています",
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "空気調和・給排水・衛生設備の施工・修理・保守監理",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別受注高・売上高・営業利益",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別実績 受注高",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別実績 売上高",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別見通し",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別 受注高の推移 セグメント別 売上高の推移",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと次のとおりであります",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）セグメント間の内部売上高",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△）",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）セグメント利益又は損失の合計額は四半期連結損益計算書の営業利益と一致しております",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの業績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．セグメントごとの財政状態及び経営成績の状況に関する認識及び分析・検討内容",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、施工合理化などによる工事採算が改善したことなどにより、前連結会計年度に比べ54.9％増加の11,783百万円となりました",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、売上債権が増加したことなどにより、前連結会計年度末に比べ7,358百万円増加の55,067百万円となりました",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント損失は、売上総利益率が改善したことにより、前連結会計年度のセグメント損失358百万円から改善し、101百万円となりました",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は、売掛金等が増加したことにより、前連結会計年度末に比べ350百万円増加の7,610百万円となりました",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、「設備工事事業」、「機器製造販売事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と同一であります",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部売上高は市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル と強み - 朝日工業社 — ビジネスモデル と強み - 朝日工業社 asahikogyosha.co.jp PDF https://www.asahikogyosha.co.jp > reports2022_8",
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2022/09/reports2022_8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "朝日工業社 コーポレートムービー - YouTube — 朝日工業社 コーポレートムービー - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Dog5eobuBG8",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 朝日工業社 について — 事業内容 | 朝日工業社 について asahikogyosha.co.jp https://www.asahikogyosha.co.jp > company > business",
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "Asahi Kogyosha 1975 - 朝日工業社 - Shared Research — Asahi Kogyosha 1975 - 朝日工業社 - Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/1975",
+    "pass": 3
+   },
+   {
+    "quote": "朝日工業社 の「組織体制・企業文化」 OpenWork — 朝日工業社 の「組織体制・企業文化」 OpenWork OpenWork https://www.openwork.jp > ... > 朝日工業社",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FqhD&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・ 説明資料 | IR情報 | 空調設備工事の 朝日工業社 — 決算 短信・ 説明資料 | IR情報 | 空調設備工事の 朝日工業社 asahikogyosha.co.jp https://www.asahikogyosha.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | IR情報 | 空調設備工事の 朝日工業社 — IRライブラリ | IR情報 | 空調設備工事の 朝日工業社 asahikogyosha.co.jp https://www.asahikogyosha.co.jp > IR情報",
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 朝日工業社 、受注高は前年比で＋51.6％と大幅 ... — 【QAあり】 朝日工業社 、受注高は前年比で＋51.6％と大幅 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382998",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 朝日工業社 - NET-IR — 株式会社 朝日工業社 - NET-IR webcast.net-ir.ne.jp https://webcast.net-ir.ne.jp > stsfqoBquw",
+    "url": "https://webcast.net-ir.ne.jp/19752608/stsfqoBquw/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "空調設備工事の 朝日工業社 - 組織図 — 空調設備工事の 朝日工業社 - 組織図 asahikogyosha.co.jp https://www.asahikogyosha.co.jp > company > organization",
+    "url": "https://www.asahikogyosha.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "朝日工業社 【1975】の 事業 内容 - キタイシホン — 朝日工業社 【1975】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/1975/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 朝日工業社 について — 会社概要 | 朝日工業社 について asahikogyosha.co.jp https://www.asahikogyosha.co.jp > company > outline",
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 朝日工業社 について | 空調設備工事の朝日 ... — トップメッセージ | 朝日工業社 について | 空調設備工事の朝日 ... asahikogyosha.co.jp https://www.asahikogyosha.co.jp > company > message",
+    "url": "https://www.asahikogyosha.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "朝日工業社 【1975】の 社長 ・役員 - キタイシホン — 朝日工業社 【1975】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "朝日工業社 企業CM 30秒 - YouTube — 朝日工業社 企業CM 30秒 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=BHOcpn3v56s",
+    "pass": 3
+   },
+   {
+    "quote": "朝日工業社 公式チャンネル - YouTube — 朝日工業社 公式チャンネル - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCQrjuyqOocfl4MwlxfUHmGg",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.asahikogyosha.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/company/directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/sustainability/corporate_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/library/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/management/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/ir/management/dx_vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/special/asumiru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/job/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/business/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/education/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/environment/career/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/pdf/data/partnership.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results-appendix.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/98_1st-quarter-financial-results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/08/62a8b6582c07e7c0cfa7fea7d7f4ae43.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2024/06/367721bf4c082ccdab055509a2ac9c5b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/09/CorporateReport2026_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/09/CorporateReport2026_all_a4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/uploads/2026/09/report2026_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/img/kv/kv_company_business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/wp-content/themes/asahikogyosha_themes_v1/assets/img/ir/vision205003.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/cms/wp-content/uploads/2023/01/flow01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/cms/wp-content/uploads/2023/01/flow02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/cms/wp-content/uploads/2023/01/flow03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/cms/wp-content/uploads/2023/01/flow04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/cms/wp-content/uploads/2023/01/flow05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.asahikogyosha.co.jp/newgraduate/cms/wp-content/uploads/2023/01/flow06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=Dog5eobuBG8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/1975/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/1975/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "朝日工業社",
+   "results": [
+    "https://www.asahikogyosha.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E5%B7%A5%E6%A5%AD%E7%A4%BE",
+    "https://www.youtube.com/channel/UCQrjuyqOocfl4MwlxfUHmGg",
+    "https://www.arc-navi.shikaku.co.jp/companyList/details.php?client_id=7975",
+    "https://metoree.com/companies/51082/",
+    "https://kosen-link.com/company/169",
+    "https://ja.wikipedia.org/wiki/朝日工業社",
+    "https://www.asahikogyosha.co.jp/company/outline/",
+    "https://job.mynavi.jp/28/pc/search/corp67222/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp67222/outline.html"
+   ]
+  },
+  {
+   "query": "朝日工業社 ビジネスモデル",
+   "results": [
+    "https://www.asahikogyosha.co.jp/wp-content/uploads/2022/09/reports2022_8.pdf",
+    "https://www.youtube.com/watch?v=Dog5eobuBG8",
+    "https://www.asahikogyosha.co.jp/company/business/",
+    "https://sharedresearch.jp/ja/companies/1975",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FqhD&q_no=1",
+    "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E5%B7%A5%E6%A5%AD%E7%A4%BE",
+    "https://special.nikkeibp.co.jp/atclh/ONB/26/asahikogyosha0323/",
+    "https://www.asahikogyosha.co.jp/sustainability/social/business_partner/",
+    "https://note.com/kakuka0904/n/n6fce1ed5dd7b",
+    "https://ja.wikipedia.org/wiki/朝日工業社"
+   ]
+  },
+  {
+   "query": "朝日工業社 決算説明資料",
+   "results": [
+    "https://www.asahikogyosha.co.jp/ir/library/presentation/",
+    "https://www.asahikogyosha.co.jp/ir/library/summary/",
+    "https://www.asahikogyosha.co.jp/ir/library/",
+    "https://finance.logmi.jp/articles/382998",
+    "https://webcast.net-ir.ne.jp/19752608/stsfqoBquw/index.html",
+    "https://www.buffett-code.com/company/1975/library",
+    "https://www.asahikogyosha.co.jp/ir/calendar/",
+    "https://www.moomoo.com/news/notice/307828990/asahi-kogyosha-summary-financial-results-for-the-first-quarter-of",
+    "https://edinetdb.jp/company/E00153/presentations/",
+    "https://edinetdb.jp/company/E00153/ir-docs/"
+   ]
+  },
+  {
+   "query": "朝日工業社 事業系統図",
+   "results": [
+    "https://www.asahikogyosha.co.jp/company/organization/",
+    "https://kitaishihon.com/company/1975/business",
+    "https://www.asahikogyosha.co.jp/company/outline/",
+    "https://asahi-kogyo.co.jp/company/organization.html",
+    "https://sharedresearch.jp/ja/companies/1975",
+    "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E5%B7%A5%E6%A5%AD%E7%A4%BE",
+    "https://www.asahikogyosha.co.jp/company/governance/",
+    "https://www.sankoh-product.co.jp/catalog/company/book/pdf/6.pdf",
+    "https://jigyou-v2.kabu-trendpro.com/company/1975/",
+    "https://ja.wikipedia.org/wiki/朝日工業社"
+   ]
+  },
+  {
+   "query": "朝日工業社 社長 インタビュー",
+   "results": [
+    "https://www.asahikogyosha.co.jp/company/message/",
+    "https://kitaishihon.com/company/1975/board-of-director",
+    "https://www.youtube.com/watch?v=BHOcpn3v56s",
+    "https://spider-plus.com/case/asahikogyosha/",
+    "https://www.youtube.com/channel/UCQrjuyqOocfl4MwlxfUHmGg",
+    "https://job.mynavi.jp/27/pc/search/corp67222/obog27086295/obog.html",
+    "https://special.nikkeibp.co.jp/atclh/ONB/26/asahikogyosha0323/",
+    "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E5%B7%A5%E6%A5%AD%E7%A4%BE",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FqhD&q_no=1",
+    "https://the-shashi.com/tse/1975/ceo/"
+   ]
+  }
+ ],
+ "missing": {}
+}

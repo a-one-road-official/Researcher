@@ -1,0 +1,1321 @@
+{
+ "name": "住友ベークライト",
+ "aliases": [],
+ "context": "証券コード4203／化学／プライム（内国株式）／2026.03期 売上高319,867百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:37:10.587850+00:00",
+ "official_url": "https://www.sumibe.co.jp/",
+ "identified_by": "search:yahoo_jp:住友ベークライト",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立​",
+    "value": "1932年 (昭和7年) 1月25日​",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数 (2026年3月31日)",
+    "value": "単独　1,684名／連結　7,524名 ※1",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益 (2026年3月期)",
+    "value": "単独　1,096億円／連結　3,199億円",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "3,048億円 3,199億円 5.0％",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "住友ベークライトケミカルソリューション株式会社 発足のお知らせ",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社サンベーク、木質用接着剤3製品でEPDを取得",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フェノール樹脂製品マテリアルリサイクルの取り組み",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチックのより高度な機能を創出し、社会のために安全安心な製品を",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(P-プラス製品)",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップへ",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "住友ベークライトの製品動画を掲載しています",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "住友ベークライトケミカルソリューション株式会社 発足のお知らせ",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/csr/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/csr/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション事例",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "クオリティオブライフ関連製品は、医薬品包装用フィルムの需要が堅調に推移したことや、ヘルスケア関連製品で医療機器の製品ポートフォリオ改革を進めたことにより増益となりました",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、高機能プラスチックでは、前期に効果が現れ始めた製品ポートフォリオ変革を推し進め、増益を目指しています",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "やステアリングマイクロカテーテルのような高付加価値製品の生産能力増強を進めています",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品/新ソリューション創出（中期戦略②）に向けた研究開発、DX、GX対応を推進",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "説明会では、各事業統轄役員の説明と合わせて、当社製品の実物サンプルを展示するなどして、参加いただいた投資家の皆さまに当社事業や技術の特徴をご理解いただけるよう努め、多くの投資家の皆さまにご好評をいただきました",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業説明と製品展示により事業・技術への理解促進を目的とし、対面開催",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/principles/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/principles/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "さらなる拡大が見込まれるAI関連用途や中国市場に最適なソリューションを提供",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ポートフォリオを変革し、社会的価値の高い製品を創出",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "クオリティオブライフ関連製品",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "付加価値の高い製品群で、次代を見据えた成長を加速",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の購入に関するお問い合わせ、データ等の資料請求",
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のデータ／カタログや安全データシート(SDS) に関するご依頼は対象の製品をお選びいただき、ご依頼ください",
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "フィルム・シート営業本部 (P-プラス製品)",
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "CMでは日常生活のさまざまなシーンを通じて、当社製品が世の中を支えていることを紹介します",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0804_02/index.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/csr/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の価値創造や中期的な経営目標、各事業セグメントの業績、戦略、サステナビリティに関する方針や取り組み、データなど、当社の個性と将来を表現し、非財務情報と財務情報を総合的にまとめています",
+    "url": "https://www.sumibe.co.jp/csr/library/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/principles/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況 | 住友ベークライト株式会社",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "全社の売上収益、事業利益等、セグメント別の売上収益、事業利益を掲載しています",
+    "url": "https://www.sumibe.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0804_02/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/csr/report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/exhibition/2026/0312_01/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.sumibe.co.jp/product/function/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "財務目標～セグメント別",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強化領域売上比率",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社では半導体関連材料、高機能プラスチック、QOL関連製品の3つの事業セグメントを持っているが、成長ドライバーとして特に期待しているのが半導体分野だ",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=13827",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年熊本地震による被害への支援について",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年より財務情報と非財務情報を一本化した統合報告書を発行しています",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1932年 (昭和7年) 1月25日​",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震による被害への支援について",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 住友ベークライト株式会社",
+    "url": "https://www.sumibe.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度は、長年の悲願であった売上収益3,000億円、事業利益300億円を達成し、過去最高の業績を更新いたしました",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月24日",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年を見据えた成長投資と",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の業績の振り返り",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は売上収益3,199億円、事業利益345億円、当期利益280億円と、それぞれ順調に伸長し、いずれも過去最高を更新しました",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度実績",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度実績",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の財務目標",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度はさらなる事業の成長を目指しています",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度を終了した時点で、それぞれ計画どおり、順調に進捗しています",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は好調な業績を踏まえて、「安定的かつ継続的に利益を還元する」という還元方針のもと、中間配当は、前期末の50円/株を据え置き、さらに、当初計画していた期末配当55円を60円に増やして、年間配当を110円/株としました",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度は外部環境が不透明な中ではありますが、年間配当を120円とし10円の増配を予想しています",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は新たに対面での全社事業説明会を9月に開催しました",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度には創立70周年記念行事として、持株会の対象を国内子会社の従業員にも拡大し、持株会に加入している従業員に特別奨励金として株式を一人当たり30株付与しました",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日 (水曜日) 午前10時",
+    "url": "https://www.sumibe.co.jp/ir/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月4日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月第2四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月8日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月3日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月第1四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月11日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月22日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月4日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月第2四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月9日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月4日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月第1四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月12日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月3日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月5日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月5日",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月第1四半期決算発表",
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日 (金)",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震による被害への支援について | 住友ベークライト株式会社",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0804_02/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震による被害への支援について",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0804_02/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月5日",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0804_02/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "サステナビリティを環境・社会・ガバナンスの側面からも含めて網羅的に紹介し、当社のサステナビリティ全般をまとめています",
+    "url": "https://www.sumibe.co.jp/csr/library/",
+    "pass": 1
+   },
+   {
+    "quote": "CMでは日常生活のさまざまなシーンを通じて、当社製品が世の中を支えていることを紹介します",
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機内装における環境負荷低減に貢献する、最新のリサイクル技術をご紹介します",
+    "url": "https://www.sumibe.co.jp/exhibition/2026/0312_01/",
+    "pass": 1
+   },
+   {
+    "quote": "親会社と子会社が連携し、航空機業界に新たな価値を提供する共同開発の事例をご紹介します",
+    "url": "https://www.sumibe.co.jp/exhibition/2026/0312_01/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "住友ベークライトは、お客様の価値創造を通じて、「未来に夢を提供する会社」を目指しています",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "また、投資等の最終的な意志決定は、お客様ご自身の判断でなさるようにお願い致します",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との価値創造を通じて、「未来に夢を提供する会社」へ",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "引き続きグループ全体の連携を強化する「One Sumibe」活動を推し進め、お客様・取引先と唯一無二の信頼関係を構築することで、更なる価値創造を実現し、目標達成に邁進してまいります",
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "pass": 1
+   },
+   {
+    "quote": "既存事業の収益力強化（中期戦略①）・顧客への安定供給に資する設備投資をタイムリーに実行",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "「統合報告書2026」では、中長期の戦略の説明を重視し、2030年ありたい姿として示した【お客様との価値創造を通じて、「未来に夢を提供する会社」】を実現するために経営の重要課題と各事業にどう取り組むのか、その道すじを記しており、本内容を通して、ステークホルダーの皆様に、持続可能な社会の実現に向けた価値創造への取り組みをお伝えしています",
+    "url": "https://www.sumibe.co.jp/csr/report/",
+    "pass": 1
+   },
+   {
+    "quote": "「統合報告書2026」では、中長期の戦略の説明を重視し、2030年ありたい姿として示した【お客様との価値創造を通じて、「未来に夢を提供する会社」】を実現するために経営の重要課題と各事業にどう取り組むのか、その道すじを記しており、本内容を通して、ステークホルダーの皆様に、持続可能な社会の実現に向けた価値創造への取り組みをお伝えしています",
+    "url": "https://www.sumibe.co.jp/csr/report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "住友ベークライトグループはお客様との価値創造を通じて、「未来に夢を提供する会社」を目指",
+    "url": "https://www.sumibe.co.jp/csr/governance/files/001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その実現には、 お客様はもちろんのこと、 従業員をはじ",
+    "url": "https://www.sumibe.co.jp/csr/governance/files/001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、カスタマーハラスメントを「お客様から従業員に対して行われる著しい迷惑",
+    "url": "https://www.sumibe.co.jp/csr/governance/files/001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プ従業員が、取引先に対してカスタマーハラスメントを行わないよう啓発します",
+    "url": "https://www.sumibe.co.jp/csr/governance/files/001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様との価値創造を通じて",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との共創",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「顧客満足」を超えて「顧客感動」へ",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との共創 イノベーション",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客第一・品質第一",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客課題を解決",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "+オープンラボ拡充」による顧客対応強化・販路拡大",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「顧客感動」の実現にむけて、部門横断で",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の課題解決に取り組む活動",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に「感動」を届けるための全社活動",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「顧客満足 」から一歩踏み込んだ 「顧客",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社力を結集し、お客様と共に新たな価値創造を目指す",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存事業の収益力強化 （中期戦略 ①）・顧客への安定供給に資する設備投資を",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、本資料の情報がお客様にとって有用なものとなるよう努めておりますが、特定の用途における正確性や妥当性を保証するものではありません",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ボリュームの出るミドルエンドに向けた施策としては、蘇州に新工場が竣工し、現在顧客認定取得に向けた作業を進めている",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=13827",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このほかにもAGC株式会社より光学分野での競争優位性を確立するためポリカーボネート事業を譲受しており、引き続きシナジーが期待できる案件のM&Aを積極的に進めます",
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "pass": 1
+   },
+   {
+    "quote": "ROE、ROA、売上高収益事業利益率、総資産回転率を掲載しています",
+    "url": "https://www.sumibe.co.jp/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業展開・私たちが創り出すもの | 事業・製品について — 事業展開・私たちが創り出すもの | 事業・製品について 住友ベークライト https://www.sumibe.co.jp > recruit > business",
+    "url": "https://www.sumibe.co.jp/recruit/business/",
+    "pass": 3
+   },
+   {
+    "quote": "化学業界における 住友ベークライト | 会社について — 化学業界における 住友ベークライト | 会社について 住友ベークライト https://www.sumibe.co.jp > recruit > company",
+    "url": "https://www.sumibe.co.jp/recruit/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 住友ベークライト (4203) は『買い』か？ — 【バフェットの視点】 住友ベークライト (4203) は『買い』か？ note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n465978e8cc19",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 住友ベークライト 株式会社 — トップメッセージ | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > csr > message",
+    "url": "https://www.sumibe.co.jp/csr/message/",
+    "pass": 3
+   },
+   {
+    "quote": "価値創造プロセス | 住友ベークライト 株式会社 — 価値創造プロセス | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > csr > esg > create-value",
+    "url": "https://www.sumibe.co.jp/csr/esg/create-value/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 ・事業説明会 資料 ・中期経営計画 資料 — 決算説明 会 資料 ・事業説明会 資料 ・中期経営計画 資料 住友ベークライト https://www.sumibe.co.jp > library > presentation",
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 住友ベークライト 株式会社 — IRライブラリー | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > library",
+    "url": "https://www.sumibe.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "住友ベークライト [4203]：2026年3月期 決算説明 会 資料 2026 ... — 住友ベークライト [4203]：2026年3月期 決算説明 会 資料 2026 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260508520328/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 住友ベークライト 株式会社 — IR情報 | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > ...",
+    "url": "https://www.sumibe.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 住友ベークライト 株式会社 — 決算 短信 | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > library > result",
+    "url": "https://www.sumibe.co.jp/ir/library/result/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営組織図 | 住友ベークライト 株式会社 — 経営組織図 | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > company > organization",
+    "url": "https://www.sumibe.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 住友ベークライト 株式会社 — 会社概要 | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > company > outline",
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "住友ベークライト 株式会社 | プラスチックのパイオニア — 住友ベークライト 株式会社 | プラスチックのパイオニア 住友ベークライト https://www.sumibe.co.jp",
+    "url": "https://www.sumibe.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 住友ベークライト 株式会社 — 会社情報 | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > company",
+    "url": "https://www.sumibe.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "第135期有価証券報告書 - 住友ベークライト — 第135期有価証券報告書 - 住友ベークライト 住友ベークライト PDF https://www.sumibe.co.jp > library > report > files",
+    "url": "https://www.sumibe.co.jp/ir/library/report/files/135.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "住友ベークライト （株） 代表取締役 社長 鍜治屋伸一氏 — 住友ベークライト （株） 代表取締役 社長 鍜治屋伸一氏 産業タイムズ社 https://www.sangyo-times.jp > article",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=13827",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 住友ベークライト 株式会社 — 社長 メッセージ | 住友ベークライト 株式会社 住友ベークライト https://www.sumibe.co.jp > company > message",
+    "url": "https://www.sumibe.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "【「 住友ベークライト 」社にお招きいただき、 社長 対談 ... — 【「 住友ベークライト 」社にお招きいただき、 社長 対談 ... Instagram https://www.instagram.com > DFXqVy-Tbmw",
+    "url": "https://www.instagram.com/p/DFXqVy-Tbmw/",
+    "pass": 3
+   },
+   {
+    "quote": "住友ベークライト ･藤原一彦 社長インタビュー — 住友ベークライト ･藤原一彦 社長インタビュー アメーバブログ https://ameblo.jp > entry-12806595662",
+    "url": "https://ameblo.jp/kurabayashi-tomoko/entry-12806595662.html",
+    "pass": 3
+   },
+   {
+    "quote": "住友ベークライト の未来を創る組織開発〜戦略実行の鍵は ... — 住友ベークライト の未来を創る組織開発〜戦略実行の鍵は ... バランストグロースコンサルティング https://www.balancedgrowth.co.jp > 導入事例",
+    "url": "https://www.balancedgrowth.co.jp/casestudy/sumitomobakelite_od/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sumibe.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/csr/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/message_ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/cfo_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/principles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/csr/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/shareholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0803_01/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/topics/2026/general-affairs/0804_02/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/csr/report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/exhibition/2026/0312_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/product/function/environment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sumibe.co.jp/ww-attaches/company/outline/001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/employment/files/001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/topics/2026/pdf/1029_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/topics/2026/pdf/1029_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/topics/2026/pdf/1001_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/csr/governance/files/001-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/ir/library/presentation/files/2024/p_001-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/csr/report/files/IR2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumibe.co.jp/assets/img/product/p-plus/business/top-seal/thumb.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=13827",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "住友ベークライト",
+   "results": [
+    "https://www.sumibe.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%8F%8B%E3%83%99%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88",
+    "https://x.com/Sumibe_jp",
+    "https://www.nikkei.com/nkd/company/?scode=4203",
+    "https://www.openwork.jp/a0910000000Fqza/ranking/",
+    "https://ja.wikipedia.org/wiki/住友ベークライト",
+    "https://www.sumibe.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/4203.T",
+    "https://finance.yahoo.co.jp/quote/4203.T/profile",
+    "https://www.kyocera.co.jp/ir/news/pdf/260122_chemical.pdf"
+   ]
+  },
+  {
+   "query": "住友ベークライト ビジネスモデル",
+   "results": [
+    "https://www.sumibe.co.jp/recruit/business/",
+    "https://www.sumibe.co.jp/recruit/company/",
+    "https://note.com/open_azalea2045/n/n465978e8cc19",
+    "https://www.sumibe.co.jp/csr/message/",
+    "https://www.sumibe.co.jp/csr/esg/create-value/",
+    "https://www.sumibe.co.jp/csr/data/glossary/",
+    "https://www.sumibe.co.jp/recruit/company/data.html",
+    "https://www.sumibe.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%8F%8B%E3%83%99%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88",
+    "https://ja.wikipedia.org/wiki/住友ベークライト"
+   ]
+  },
+  {
+   "query": "住友ベークライト 決算説明資料",
+   "results": [
+    "https://www.sumibe.co.jp/ir/library/presentation/index.html",
+    "https://www.sumibe.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260508520328/",
+    "https://www.sumibe.co.jp/ir/",
+    "https://www.sumibe.co.jp/ir/library/result/index.html",
+    "https://www.sumibe.co.jp/ir/calendar/movie/index_02.html",
+    "https://www.sumibe.co.jp/ir/calendar/",
+    "https://www.sumibe.co.jp/ir/library/factbook/index.html",
+    "https://www.sumibe.co.jp/ir/library/index.html",
+    "https://edinetdb.jp/company/E00819/presentations/"
+   ]
+  },
+  {
+   "query": "住友ベークライト 事業系統図",
+   "results": [
+    "https://www.sumibe.co.jp/company/organization/",
+    "https://www.sumibe.co.jp/company/outline/",
+    "https://www.sumibe.co.jp/",
+    "https://www.sumibe.co.jp/company/",
+    "https://www.sumibe.co.jp/ir/library/report/files/135.pdf",
+    "https://www.sumibe.co.jp/company/overseas/",
+    "https://kitaishihon.com/company/4203/business",
+    "https://www.sumibe.co.jp/csr/data/glossary/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240513/20240510590863.pdf",
+    "https://ja.wikipedia.org/wiki/住友ベークライト"
+   ]
+  },
+  {
+   "query": "住友ベークライト 社長 インタビュー",
+   "results": [
+    "https://www.sangyo-times.jp/article.aspx?ID=13827",
+    "https://www.sumibe.co.jp/company/message/",
+    "https://www.instagram.com/p/DFXqVy-Tbmw/",
+    "https://ameblo.jp/kurabayashi-tomoko/entry-12806595662.html",
+    "https://www.balancedgrowth.co.jp/casestudy/sumitomobakelite_od/",
+    "https://kitaishihon.com/company/4203/board-of-director",
+    "https://the-shashi.com/tse/4203/executives/ceo/fujiwara-kazuhiko/",
+    "https://www.netdenjd.com/archives/593641",
+    "https://jobtalk.jp/companies/1241/answers?question_codes=president"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式23頁／PDF・画像9件／外部1頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式23頁／PDF・画像9件／外部1頁・検索5回）"
+ }
+}

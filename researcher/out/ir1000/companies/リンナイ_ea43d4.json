@@ -1,0 +1,1409 @@
+{
+ "name": "リンナイ",
+ "aliases": [],
+ "context": "証券コード5947／金属製品／プライム（内国株式）／2026.03期 売上高470,392百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:42:35.490379+00:00",
+ "official_url": "https://rinnai.jp/",
+ "identified_by": "search:yahoo_jp:リンナイ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1920年9月1日 沿革 技術年表",
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1950年9月2日",
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "[連結] 11,328名 [単体] 3,470名 (2026年3月31日現在)",
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー体験から見る、リンナイのある暮らし",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様： － リンナイ",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "リンナイとビジネスユーザーを結ぶ",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "また、公式オンラインストアRinnai Style（リンナイスタイル）では、お客様ご自身で取り替えられる交換部品（消耗品）をお取り扱いしています",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせフォーム（一般のお客様）",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "Rinnai BiZ（リンナイビズ）では商品の最新情報をはじめ、買替・在庫検索、カタログ閲覧や施工情報などの業務支援サービス、ユーザーの体験記事や各種動画など販売強化につながる様々なコンテンツを提供しています",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/business_user/mode",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/business_user/mode",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/business_user/mode",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/business_user/mode",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様： － リンナイ",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様TOP",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/feature/airbubble/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/feature/airbubble/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/feature/airbubble/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/feature/airbubble/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/category/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/category/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/category/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/category/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/how-works/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/how-works/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/how-works/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/how-works/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/power/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/power/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/power/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/power/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/auto-full_auto/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/auto-full_auto/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/auto-full_auto/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/auto-full_auto/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/heating/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/heating/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/heating/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/heating/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユースのお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/maintenance/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "リンナイ 総合商品情報サイト",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する大切なお知らせ",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "製品所有者登録のお申込み",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインアップを見る",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの商品取扱店を探す",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品をさがす",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品のテレビCM・動画はこちら",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品について知りたい",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品一覧を見る",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "製品所有者登録のお申し込み",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "長期間ご使用製品の保守点検制度について",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品の取扱い店をさがす",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品販売店検索",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】「どこでもリンナイアプリ」サービス終了のお知らせ",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "業界初 製品寿命お知らせで安心のサポート デジタル技術活用の給湯器 10月21日発売",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する大切なお知らせ",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "製品所有者登録のお申込み",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインアップを見る",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの商品取扱店を探す",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をさがす",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "製品データダウンロードサービス",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ガスグループご販売店様向け製品資料",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "商品に関する大切なお知らせ",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "総合商品情報サイト トップ",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスショップ求人情報・施工店募集",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスショップ求人情報",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "対象製品をご使用中のお客さまは、直ちに換気運転以外の使用を中止してください",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、安定した修理サービスを提供するため、修理料金を2026年6月1日より改定します",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "商品に関するお問い合わせ",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報、カタログ、商品取扱店",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "総合商品情報サイト",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店のご案内",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "長期間ご使用になられた商品を対象に、「あんしん点検」(保守点検) を実施しております",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "商品の使い方やお手入れ方法、お困りごとのご相談について、リンナイお客さまセンターがお答えします",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "Rinnai BiZ（リンナイビズ）では商品の最新情報をはじめ、買替・在庫検索、カタログ閲覧や施工情報などの業務支援サービス、ユーザーの体験記事や各種動画など販売強化につながる様々なコンテンツを提供しています",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する大切なお知らせ",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品所有者登録のお申込み",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインアップを見る",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの商品取扱店を探す",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品をさがす",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品に関する大切なお知らせ",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお見積もり・ご購入に関しては、",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品登録、取扱説明書や修理のご相談、交換部品やお近くの商品取扱店についてはこちら",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスアプリ「Rinnai BiZ」のご利用、プロ用品や製品ダウンロード、設置事例はこちら",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する大切なお知らせ",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "商品をご利用中のお客様",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "製品所有者登録のお申込み",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご購入を検討中のお客様",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインアップを見る",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの商品取扱店を探す",
+    "url": "https://rinnai.jp/business_user/taishin",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する大切なお知らせ",
+    "url": "https://rinnai.jp/business_user/mode",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "商品販売店検索",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "東京ガスグループご販売店様向け製品資料",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ガスグループご販売店様向け",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "販売店様向けご案内チラシ2026",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ガスグループご販売店様向け製品資料",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "東京ガスグループご販売店様向け専用カタログ",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "販売店様向けご案内チラシ2025",
+    "url": "https://rinnai.jp/business_user/sds",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/feature/airbubble/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/category/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/how-works/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/power/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/auto-full_auto/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/heating/",
+    "pass": 1
+   },
+   {
+    "quote": "従来型と違い、高効率よくお湯を沸かすエコジョーズのしくみを紹介",
+    "url": "https://rinnai.jp/products/waterheater/gas/about/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイティングイーグルス名古屋とのパートナー契約の締結",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "購買方針、募集品目などを紹介しています",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/120400609/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "長期間ご使用製品の保守点検制度について",
+    "url": "https://rinnai.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "長期間ご使用になられた商品を対象に、「あんしん点検」(保守点検) を実施しております",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "保守点検のよくあるご質問",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "保守点検のお申し込み・お問い合わせ",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "Rinnai BiZ（リンナイビズ）では商品の最新情報をはじめ、買替・在庫検索、カタログ閲覧や施工情報などの業務支援サービス、ユーザーの体験記事や各種動画など販売強化につながる様々なコンテンツを提供しています",
+    "url": "https://www.rinnai.co.jp/contact/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネス ユースのお客様 - リンナイ — ビジネス ユースのお客様 - リンナイ リンナイ 総合商品情報サイト https://rinnai.jp > business_user",
+    "url": "https://rinnai.jp/business_user/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 | 企業情報 | リンナイ 株式会社 — 中期経営計画 | 企業情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > corp > manage_plan",
+    "url": "https://www.rinnai.co.jp/corp/manage_plan/",
+    "pass": 3
+   },
+   {
+    "quote": "Rinnai BiZ（リンナイビズ） - リンナイ の ビジネス ... — Rinnai BiZ（リンナイビズ） - リンナイ の ビジネス ... Rinnai BiZ https://rinnaibiz.jp",
+    "url": "https://rinnaibiz.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "リンナイビジネス ユーザー向けプラットフォーム「 Rinnai BiZ ... — リンナイビジネス ユーザー向けプラットフォーム「 Rinnai BiZ ... リンナイ株式会社 https://www.rinnai.co.jp > releases",
+    "url": "https://www.rinnai.co.jp/releases/2021/0113/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | 株主・投資家情報 | リンナイ 株式会社 — 決算 情報 | 株主・投資家情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > document",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | リンナイ 株式会社 — 株主・投資家情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > ...",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【速報版】 リンナイ 株式会社 2027年3月期第1四半期 決算説明 — 【速報版】 リンナイ 株式会社 2027年3月期第1四半期 決算説明 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385636",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | 株主・投資家情報 | リンナイ 株式会社 — よくあるご質問 | 株主・投資家情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > faq",
+    "url": "https://www.rinnai.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "リンナイ [5947]：2027年3月期 第1四半期 決算 短信〔日本基準 ... — リンナイ [5947]：2027年3月期 第1四半期 決算 短信〔日本基準 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260804508746/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | リンナイ 株式会社 — 企業情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > corp",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | リンナイ 株式会社 — 会社概要 | 企業情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > corp > outline",
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2026-2030 中期経営計画 - リンナイ — 2026-2030 中期経営計画 - リンナイ リンナイ株式会社 PDF https://www.rinnai.co.jp > document > pdf",
+    "url": "https://www.rinnai.co.jp/ir/document/pdf/202603intermediate_term.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所紹介 | 企業情報 | リンナイ 株式会社 — 事業 所紹介 | 企業情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > corp > office",
+    "url": "https://www.rinnai.co.jp/corp/office/",
+    "pass": 3
+   },
+   {
+    "quote": "リンナイ ・内藤弘康 社長 「現地生産・現地販売で海外基盤強化」 — リンナイ ・内藤弘康 社長 「現地生産・現地販売で海外基盤強化」 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/120400609/",
+    "pass": 3
+   },
+   {
+    "quote": "【 リンナイ社長インタビュー 】創業以来の「品質こそ我らが命 ... — 【 リンナイ社長インタビュー 】創業以来の「品質こそ我らが命 ... リフォーム産業新聞 https://www.reform-online.jp > interview",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   },
+   {
+    "quote": "リンナイ 創業100周年 インタビュー - モノクエ — リンナイ 創業100周年 インタビュー - モノクエ Mono Que https://monoque.jp > columns",
+    "url": "https://monoque.jp/columns/100/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 企業情報 | リンナイ 株式会社 — トップメッセージ | 企業情報 | リンナイ 株式会社 リンナイ株式会社 https://www.rinnai.co.jp > corp > greeting",
+    "url": "https://www.rinnai.co.jp/corp/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "【 リンナイ 】内藤 社長 が本を紹介「COSMOS」【私の一冊】 — 【 リンナイ 】内藤 社長 が本を紹介「COSMOS」【私の一冊】 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=JgoP3x7MMOU",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 [第77期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 [第76期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度計画(1,352KB)",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 [第75期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 [第74期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 [第73期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 [第72期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期 [第71期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度計画",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期 [第70期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期 [第69期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期 [第68期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度計画",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月期 [第67期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年3月期 [第66期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月期 [第65期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年3月期 [第64期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年3月期 [第63期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年3月期 [第62期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年3月期 [第61期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年3月期 [第60期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年3月期 [第59期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年3月期 [第58期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年3月期 [第57期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年3月期 [第56期］",
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月24日",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月26日",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年05月12日",
+    "url": "https://www.rinnai.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月06日",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月02日",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月18日",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月30日",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "リンナイ株式会社の会社概要、事業所情報、沿革などを掲載しています",
+    "url": "https://www.rinnai.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "1920年9月1日",
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "1950年9月2日",
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から始まった中期経営計画「New ERA 2025」が最終年度を迎えています",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/120400609/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月号",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/120400609/",
+    "pass": 3
+   },
+   {
+    "quote": "1955年4月20日、兵庫県姫路市生まれ",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   },
+   {
+    "quote": "1979年3月東京大学工学部卒業、日産自動車に入社",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   },
+   {
+    "quote": "2005年11月にトップに就任した内藤弘康社長は、翌2006年度からの3カ年の中期経営計画『Vシフトプラン』を発表",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   },
+   {
+    "quote": "2007年、27万～28万円という高価格で発売されたのが「デリシア」だ",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   },
+   {
+    "quote": "2005年、リンナイはドイツの大手自動車部品メーカーのロバート・ボッシュ社と中国で合弁会社を設立",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   },
+   {
+    "quote": "1987年の創刊以来、マーケットトレンドや行政、企業の動向、経営戦略・ノウハウ、商品などの経営に役立つ情報を発信しています",
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rinnai.jp/top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinnai.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/taishin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/mode",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/sds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/feature/airbubble/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/how-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/auto-full_auto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/heating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/gas/about/maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/taishin_hybrid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/mode/house",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/mode/building",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/rtu-r1602.xlsx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/9_RTU-R1602.xls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/rtu-r1600.xls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/rtu-r1002.xls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/rtu-r1002_separate.xls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/13_single70l_241108.xls",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://rinnai.jp/business_user/pdf/support2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/support2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/SWB-1032-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/SWB-1033-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/SWB-1034-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/rtu-r1602-anchor.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/5_RTU-R1602.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/pdf/rtu-r1602-base.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/img/thumb/cs_biz_bnr.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/img/thumb/cs_qr.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/img/thumb/nav_biz.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/img/title/taishin_hybrid_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/assets/images/gas/about/how-works/structure_01.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rinnai.jp/products/waterheater/assets/images/gas/about/how-works/structure_02.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rinnai.jp/business_user/img/thumb/icon_jia.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.rinnai.co.jp/corp/manage_plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinnai.co.jp/ir/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinnai.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinnai.co.jp/corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rinnai.co.jp/corp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/120400609/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reform-online.jp/interview/17415.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リンナイ",
+   "results": [
+    "https://rinnai.jp/",
+    "https://www.rinnai.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%83%8A%E3%82%A4",
+    "https://www.rinnai.co.jp/contact/",
+    "https://www.rinnai-style.jp/",
+    "https://www.rinnai.co.jp/corp/outline/",
+    "https://ja.wikipedia.org/wiki/リンナイ",
+    "https://docs.google.com/presentation/u/0/",
+    "https://docs.google.com/",
+    "https://docs.google.com/document/u/1/"
+   ]
+  },
+  {
+   "query": "リンナイ ビジネスモデル",
+   "results": [
+    "https://rinnai.jp/business_user/",
+    "https://www.rinnai.co.jp/corp/manage_plan/",
+    "https://rinnaibiz.jp/",
+    "https://apps.apple.com/jp/app/rinnai-biz/id6739824349",
+    "https://www.rinnai.co.jp/releases/2021/0113/",
+    "https://play.google.com/store/apps/details?id=li.yapp.app0EF435AC&hl=ja",
+    "https://www.rinnai.co.jp/recruit/graduates/mission.html",
+    "https://www.rinnai.co.jp/corp/business/",
+    "https://naviplus.dgbt.jp/review/interview_rinnai_review.html",
+    "https://www.ulta.com/beautyservices/all"
+   ]
+  },
+  {
+   "query": "リンナイ 決算説明資料",
+   "results": [
+    "https://www.rinnai.co.jp/ir/document/",
+    "https://www.rinnai.co.jp/ir/",
+    "https://finance.logmi.jp/articles/385636",
+    "https://www.rinnai.co.jp/ir/faq/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260804508746/",
+    "https://www.rinnai.co.jp/ir/calendar/",
+    "https://odyseewatchdog.com/whats-new",
+    "https://www.rawstory.com/elon-musk-starlink-ukraine-2678162014/",
+    "https://odysseusai.dev/",
+    "https://github.com/odysseus-dev/odysseus"
+   ]
+  },
+  {
+   "query": "リンナイ 事業系統図",
+   "results": [
+    "https://www.rinnai.co.jp/corp/",
+    "https://www.rinnai.co.jp/corp/outline/",
+    "https://www.rinnai.co.jp/ir/document/pdf/202603intermediate_term.pdf",
+    "https://www.rinnai.co.jp/corp/manage_plan/",
+    "https://www.rinnai.co.jp/corp/office/",
+    "https://job.mynavi.jp/28/pc/search/corp743/outline.html",
+    "https://www.rinnai.co.jp/csr/report/backnumber/pdf/report2022all.pdf",
+    "https://www.rinnai.co.jp/recruit/graduates/global.html",
+    "https://www.crex-data.com/company/5947",
+    "https://www.reddit.com/r/beauty/comments/13zqm7i/why_is_temu_online_makeup_so_cheap_is_it_terrible/"
+   ]
+  },
+  {
+   "query": "リンナイ 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/120400609/",
+    "https://www.reform-online.jp/interview/17415.php",
+    "https://monoque.jp/columns/100/",
+    "https://www.rinnai.co.jp/corp/greeting/",
+    "https://www.youtube.com/watch?v=JgoP3x7MMOU",
+    "https://www.nikkan.co.jp/articles/view/750544",
+    "https://biz.chunichi.co.jp/news/article/10/120199/198/",
+    "https://the-shashi.com/tse/5947/executives/ceo/naito-hiroyasu/",
+    "https://www.sekiyukagaku.co.jp/past/pbn2006-11-06nariken.htm",
+    "https://www.imperial.courts.ca.gov/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式23頁／PDF・画像15件／外部7頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式23頁／PDF・画像15件／外部7頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式23頁／PDF・画像15件／外部7頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式23頁／PDF・画像15件／外部7頁・検索5回）"
+ }
+}

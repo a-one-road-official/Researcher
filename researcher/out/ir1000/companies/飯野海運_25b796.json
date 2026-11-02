@@ -1,0 +1,1179 @@
+{
+ "name": "飯野海運",
+ "aliases": [],
+ "context": "証券コード9119／海運業／プライム（内国株式）／2026.03期 売上高127,295百万円 営業利益率10.6%",
+ "researched_at": "2026-11-02T20:48:36.479471+00:00",
+ "official_url": "https://www.iino.co.jp/",
+ "identified_by": "search:yahoo_jp:飯野海運",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1899年（明治32年）7月",
+    "url": "https://www.iino.co.jp/kaiun/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1899年（明治32年）7月",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "外航海運業、内航・近海海運業、不動産業",
+    "url": "https://www.iino.co.jp/kaiun/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "外航海運業、内航海運業、不動産業",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "単体　209名（陸上158名、海上51名） 連結　688名",
+    "url": "https://www.iino.co.jp/kaiun/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：622人,単体：147人 (2018年3月31日現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,273 億円",
+    "url": "https://www.iino.co.jp/kaiun/ir/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：1379億50百万円 単体：1271億92百万円 (2024/3月期)",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "ケミカルタンカーとガス船の貨物や航路、船体構造などを紹介",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "公式Youtubeチャンネルにて海運/不動産業に関する様々な動画を紹介",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介動画",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの歴史、企業理念、事業概要、サステナビリティの取組みを映像で紹介",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "飯野海運の今、昔、そして未来のビジョンをご紹介します",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の企業理念、事業モデルについてわかりやすくご紹介します",
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "独立系企業として発展してきた100年以上に亘る歴史を、海運業・不動産業それぞれの事業展開ごとにご紹介します",
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "ケミカルタンカーやガス船の貨物や船体構造、航路などについてご紹介します",
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の配当方針や、株主優待制度についてご紹介します",
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "“当社の株券等の大規模買付行為に関する対応方針”（買収への対応方針）についてご紹介します",
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "」でご紹介しています",
+    "url": "https://www.iino.co.jp/kaiun/ir/qa.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内報において当社グループの環境対応を含むサステナビリティへの取組みをグループ役職員向けに紹介しています",
+    "url": "https://www.iino.co.jp/kaiun/csr/environment/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのイントラネット上に当社グループの環境対応を紹介するページを作り、GHGの排出量や環境に関する法令の紹介等を行っています",
+    "url": "https://www.iino.co.jp/kaiun/csr/environment/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "統合報告書およびホームページで使用している海運/不動産/その他の用語集を紹介しています",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "年長期ビジョンの実現に向けた計画の位置付けや社外取締役による評価などを幅広くご紹介するとともに、当社グループの財務・事業戦略、価値創造ストーリーなどをまとめています",
+    "url": "https://www.iino.co.jp/kaiun/news/other/2026/0930-838.html",
+    "pass": 1
+   },
+   {
+    "quote": "（２）目的 ガス船およびケミカル船事業における営業体制の統合による意思決定の迅速化",
+    "url": "https://www.iino.co.jp/kaiun/news/files/9338461fab206ba52a0a0321740ee2161d840a6a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした貨物動向に対応する営業体制が必要だ",
+    "url": "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "pass": 3
+   },
+   {
+    "quote": "アルゴ・アーティス、日本製紙とコスモ石油の導入事例紹介、AIで配船計画作業時間3分の1に",
+    "url": "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "海運業と不動産業で長年にわたり積み上げてきた強みを活用することで、長期的な視点から経営を行い、経済的価値・社会的価値を創造します",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海運他社と比較して、飯野海運の特色、強みは何ですか？",
+    "url": "https://www.iino.co.jp/kaiun/ir/qa.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、今年度の特集では企業価値向上の基盤となる当社グループの経営資本に焦点を当て、その強みを改めてステークホルダーの皆さまにお示ししています",
+    "url": "https://www.iino.co.jp/kaiun/news/other/2026/0930-838.html",
+    "pass": 1
+   },
+   {
+    "quote": "それら当社グループの強みを生かして、新燃料として注目されるアンモニアや水素も含め、国内外のガス輸送需要の高まりに応える」",
+    "url": "https://www.jmd.co.jp/article.php?no=285690",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第2四半期決算は2026年11月5日に発表予定です",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月から開始した5年間のグループ中期経営計画について",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末時点",
+    "url": "https://www.iino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日",
+    "url": "https://www.iino.co.jp/kaiun/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度実績",
+    "url": "https://www.iino.co.jp/kaiun/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月4日",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度(予)",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月31日の取締役会において、引き続き株主の皆様に当社事業に対する理解をより一層深めていただき、また、当社株式をより長く継続保有していただきたく、現行の株主優待制度を継続することを決定しております",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日時点の株主名簿に記載された当社株式500株以上をお持ちの株主様",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月31日時点の株主名簿に記載された当社株式500株以上をお持ちの株主様は、落語家オリジナル手ぬぐい、または当社オリジナル商品を贈呈いたします",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月31日",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月30日",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月8日",
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月",
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月",
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算は2026年11月5日に発表予定です",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第１四半期 決算補足資料",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期連結業績予想の修正及び配当予想の修正(増配)に関するお知らせ",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の投資家との対話実績を公表しました",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月第135期定時株主総会_招集ご通知及び株主総会資料",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算は2026年8月4日に発表予定です",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けた中期経営計画をご説明いたします",
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期連結業績予想の修正及び配当予想の修正(増配)に関するお知らせ",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第１四半期 決算補足資料",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 通期決算補足資料",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第3四半期 決算補足資料",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年度（2026 年 3 月期）通期決算・新中期経営計画説明会 説明動画および書き起こし、Q＆A の配信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度（2025年3月期）第2四半期（中間期）決算説明会 動画",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（2026年3月期）第2四半期（中間期）決算説明会 説明動画および書き起こし、Q＆Aの配信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度（2025年3月期）通期決算説明会 説明動画および書き起こし、Q＆Aの配信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度（2025年3月期）第2四半期（中間期）決算説明会 説明動画および書き起こし、Q＆A の配信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 半期報告書",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 有価証券報告書",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 半期報告書",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 有価証券報告書",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月第135期定時株主総会_招集ご通知及び株主総会資料",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月第135期定時株主総会_その他の電子提供措置事項(交付書面省略事項)",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月第134期定時株主総会_株主総会資料（訂正後）",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第135期中間株主通信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第134期中間株主通信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第133期中間株主通信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第132期中間株主通信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第131期中間株主通信",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度中間期 アストリス・アドバイザリー・ジャパン スポンサードレポート発行のお知らせ",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信発表",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir-schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信発表",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir-schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 通期決算発表",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir-schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信発表",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir-schedule.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "飯野海運取引先持株会",
+    "url": "https://www.iino.co.jp/kaiun/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客視線から製品や",
+    "url": "https://www.iino.co.jp/kaiun/ir/files/library-annual-glossary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活動が再開でき、顧客に対するサー",
+    "url": "https://www.iino.co.jp/kaiun/ir/files/library-annual-glossary.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "飯野海運取引先持株会 4.26%",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "pass": 3
+   },
+   {
+    "quote": "会社と従業員が共に成長して、顧客の成長や社会の発展に貢献する",
+    "url": "https://www.jmd.co.jp/article.php?no=285690",
+    "pass": 3
+   },
+   {
+    "quote": "お客様情報の外部送信について",
+    "url": "https://www.jmd.co.jp/article.php?no=285690",
+    "pass": 3
+   },
+   {
+    "quote": "顧客側に入り込み、自社の貨物やマーケットを一定程度コントロールできる立場に近づくことが重要だと考えている",
+    "url": "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "pass": 3
+   },
+   {
+    "quote": "「国際海事機関（IMO）の規制が世界共通のルールとして定まらなければ、顧客に運賃負担を求める説得力を持ちにくい",
+    "url": "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "年の海運集約など、縮小の局面を経験しながらも、資源・エネルギー輸送を主力とする海運業とオフィス賃貸の不動産業という異なる2つの事業を展開しながら、人々のくらしや産業、社会に貢献してきました",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "以来、タンカー・不定期貨物船経営を主力とする",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社設立、船舶管理業務を行う",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヨーロッパ向けシベリア経由ランド・ブリッジサービス開始、コンテナ船4隻（1975年～1980年建造）の共有船主となる",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サウディ基礎産業公社（SABIC）と中東積み極東向け石油化学製品の数量輸送契約を締結",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社がグリーンアウォード認証を取得",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主様は、ポイントを利用して優待商品カタログの中からお好きな商品または社会貢献活動をお選びいただき、交換していただくことができます",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、抽選優待として落語家オリジナル手ぬぐい、または当社オリジナル商品をそれぞれ100名様に贈呈いたします",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタログギフトの商品",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社オリジナル商品を",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "例：➀2,000円相当商品 × 4点",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "②3,000円相当商品 × 2点と2,000円相当寄付 × 1点",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "③4,000円相当商品 × 2点",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "優待内容1：優待商品カタログ",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "保有株式数および継続保有期間に応じて、カタログギフトよりお好きな商品、または社会貢献活動への寄付をお選びいただけます",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、全商品の写真はイメージであり、実際の商品と異なる場合がございます",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "以下の2,000円相当の商品から1点 または 社会貢献活動への寄付",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "以下の3,000円相当の商品から1点 または 社会貢献活動への寄付",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "以下の4,000円相当の商品から1点 または 社会貢献活動への寄付",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "以下の8,000円相当の商品から1点 もしくは 社会貢献活動への寄付",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "（2,000円～4,000円相当の商品から複数選択も可能）",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月31日時点の株主名簿に記載された当社株式500株以上をお持ちの株主様は、落語家オリジナル手ぬぐい、または当社オリジナル商品を贈呈いたします",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタログギフトの商品または社会貢献活動への寄付については、抽選優待へのご応募の有無に関わらずお申込みが可能です",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社オリジナル商品の贈呈",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "※Made in TSUBAME（メイド・イン・ツバメ）：新潟県の燕商工会議所が、商品の原産地と品質安全性を確認し、基準を満たした製品に付与される認定マーク",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品の詳細や抽選への申込み方法については、対象となる株主様に優待カタログとあわせて5月末頃にご案内をお送りいたします",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望商品のお申込み",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、前計画で強化された財務基盤のもと、5 年間で約 2,000 億円の投資を、主に成長・新規事業および主力事業へ配分し、事業ポートフォリオのリバランスを進めます",
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "海運業では、主力であるケミカルタンカーのほか、大型原油タンカー、大型LPG船、中小型ガス船、ドライバルク船を運航し、海上輸送を通じて世界経済に貢献しています",
+    "url": "https://www.iino.co.jp/kaiun/ir/qa.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループは海運業においてケミカルタンカーを主力としており、業界トップクラスのケミカル船隊を運航しています",
+    "url": "https://www.iino.co.jp/kaiun/ir/qa.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、当社に加え、船舶管理会社であるイイノマリンサービス（株）およびビル管理会社であるイイノ・ビルテック（株）の2社が、ISO14001（環境マネジメントシステム：EMS、以下本システム）の認証を取得しています",
+    "url": "https://www.iino.co.jp/kaiun/csr/environment/management.html",
+    "pass": 1
+   },
+   {
+    "quote": "年の海運集約など、縮小の局面を経験しながらも、資源・エネルギー輸送を主力とする海運業とオフィス賃貸の不動産業という異なる2つの事業を展開しながら、人々のくらしや産業、社会に貢献してきました",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "pass": 1
+   },
+   {
+    "quote": "以来、タンカー・不定期貨物船経営を主力とする",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社設立、船舶管理業務を行う",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "pass": 1
+   },
+   {
+    "quote": "ヨーロッパ向けシベリア経由ランド・ブリッジサービス開始、コンテナ船4隻（1975年～1980年建造）の共有船主となる",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "pass": 1
+   },
+   {
+    "quote": "サウディ基礎産業公社（SABIC）と中東積み極東向け石油化学製品の数量輸送契約を締結",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社がグリーンアウォード認証を取得",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "pass": 1
+   },
+   {
+    "quote": "年の海運集約など、縮小の局面を経験しながらも、資源・エネルギー輸送を主力とする海運業とオフィス賃貸の不動産業という異なる2つの事業を展開しながら、人々のくらしや産業、社会に貢献してきました",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "pass": 1
+   },
+   {
+    "quote": "以来、タンカー・不定期貨物船経営を主力とする",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社設立、船舶管理業務を行う",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "pass": 1
+   },
+   {
+    "quote": "ヨーロッパ向けシベリア経由ランド・ブリッジサービス開始、コンテナ船4隻（1975年～1980年建造）の共有船主となる",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "pass": 1
+   },
+   {
+    "quote": "サウディ基礎産業公社（SABIC）と中東積み極東向け石油化学製品の数量輸送契約を締結",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社がグリーンアウォード認証を取得",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "pass": 1
+   },
+   {
+    "quote": "年の海運集約など、縮小の局面を経験しながらも、資源・エネルギー輸送を主力とする海運業とオフィス賃貸の不動産業という異なる2つの事業を展開しながら、人々のくらしや産業、社会に貢献してきました",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "pass": 1
+   },
+   {
+    "quote": "以来、タンカー・不定期貨物船経営を主力とする",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社設立、船舶管理業務を行う",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "pass": 1
+   },
+   {
+    "quote": "ヨーロッパ向けシベリア経由ランド・ブリッジサービス開始、コンテナ船4隻（1975年～1980年建造）の共有船主となる",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "pass": 1
+   },
+   {
+    "quote": "サウディ基礎産業公社（SABIC）と中東積み極東向け石油化学製品の数量輸送契約を締結",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社がグリーンアウォード認証を取得",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "pass": 1
+   },
+   {
+    "quote": "年の海運集約など、縮小の局面を経験しながらも、資源・エネルギー輸送を主力とする海運業とオフィス賃貸の不動産業という異なる2つの事業を展開しながら、人々のくらしや産業、社会に貢献してきました",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "pass": 1
+   },
+   {
+    "quote": "以来、タンカー・不定期貨物船経営を主力とする",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社設立、船舶管理業務を行う",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "pass": 1
+   },
+   {
+    "quote": "ヨーロッパ向けシベリア経由ランド・ブリッジサービス開始、コンテナ船4隻（1975年～1980年建造）の共有船主となる",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "pass": 1
+   },
+   {
+    "quote": "サウディ基礎産業公社（SABIC）と中東積み極東向け石油化学製品の数量輸送契約を締結",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社がグリーンアウォード認証を取得",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "pass": 1
+   },
+   {
+    "quote": "年の海運集約など、縮小の局面を経験しながらも、資源・エネルギー輸送を主力とする海運業とオフィス賃貸の不動産業という異なる2つの事業を展開しながら、人々のくらしや産業、社会に貢献してきました",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=2009",
+    "pass": 1
+   },
+   {
+    "quote": "以来、タンカー・不定期貨物船経営を主力とする",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=2009",
+    "pass": 1
+   },
+   {
+    "quote": "イイノマリンサービス株式会社設立、船舶管理業務を行う",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=2009",
+    "pass": 1
+   },
+   {
+    "quote": "ヨーロッパ向けシベリア経由ランド・ブリッジサービス開始、コンテナ船4隻（1975年～1980年建造）の共有船主となる",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=2009",
+    "pass": 1
+   },
+   {
+    "quote": "サウディ基礎産業公社（SABIC）と中東積み極東向け石油化学製品の数量輸送契約を締結",
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=2009",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "スープストックトーキョー",
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "飯野海運 - Wikipedia — 飯野海運株式会社 （いいのかいうん、 英: IINO KAIUN KAISHA, LTD. 略: IINO LINES）は海運業と不動産業を営む日本の 株式会社 である。",
+    "url": "https://ja.wikipedia.org/wiki/飯野海運",
+    "pass": 3
+   },
+   {
+    "quote": "飯野海運株式会社 — About US 飯野海運について 時代とともに変化する社会の要請に向き合い、 海運業と不動産業で長年にわたり積み上げてきた強みを活用することで、長期的な視点から経営を行い、経済的価値・社会的価値を創造します。",
+    "url": "https://www.iino.co.jp/kaiun/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社飯野海運のビジネスモデルに迫る魅力 成長戦略とIR資料をチェ... — Mar 1, 2025 · 企業概要と最近の業績 飯野海運株式会社 【全体の業績】 飯野海運株式会社は、ケミカルタンカーや大型原油タンカー、LNG船、LPG船などを運航し、エネルギー資源や石油化学製品の国際海上輸送を主軸とする「外航海運業」をはじめ、専用船による国内輸送を担う「内航・近海海運業」、さらに ...",
+    "url": "https://consovation.com/株式会社飯野海運のビジネスモデルに迫る魅力-成/",
+    "pass": 3
+   },
+   {
+    "quote": "企業調査レポート 飯野海運 - 株式会社フィスコ — 新中期経営計画を策定、成長投資を強化 飯野海運は1899年に創業し、125年を超える歴史を持つ海運会社である。企業理念(IINO PURPOSE)に「安全の確保を最優先に、人々の想いを繋ぎ、より豊かな未来を築きます」を掲げている。2026年5月に中期経営計画「Transformation for a Sustainable Future」を策定し ...",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/iino20260623.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【9119 飯野海運】徹底解剖：海運不況をものともしない”二刀流経営”の... — Aug 19, 2025 · ビジネスモデルの詳細分析：125年を生き抜いた不滅の収益構造 飯野海運のビジネスモデルは、一見するとシンプルだが、その内実には、幾多の荒波を乗り越えてきた知恵と戦略が凝縮されている。 収益構造：市況連動と長期安定のハイブリッド",
+    "url": "https://note.com/tatsuya_sabato/n/n3509c9534581",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・決算補足資料 - 飯野海運株式会社 — 社史～飯野海運の歩み～ 事業案内 海運業 不動産業 投資家情報 IRニュース 経営方針 個人投資家の皆様へ 財務・業績・海運市況 IRライブラリー 株式・格付情報 IRスケジュール FAQ・お問い合わせ 株主様の個人情報の取扱いについて 免責事項 サステナビリティ",
+    "url": "https://www.iino.co.jp/kaiun/ir/library/brief.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会 - 飯野海運株式会社 — 2025年度（2026年3月期） 通期決算・新中期経営計画説明会 2025年度（2026年3月期）通期期決算・新中期経営計画説明会 飯野海運公式チャンネル / IINO Channel Watch on Q&A（540KB） 書き起こし 第2四半期決算説明会",
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "飯野海運株式会社 — 決算説明資料 - EDINET DB — 飯野海運株式会社は、2024年度（2025年3月期）第2四半期（中間期）決算説明会の説明動画、書き起こし、およびQ&Aを配信したことを発表した。 動画はYouTube、書き起こしはLogmi Financeで公開されており、本資料は説明会当日のQ&Aをまとめたものである。",
+    "url": "https://edinetdb.jp/company/E04243/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "飯野海運株式会社 — IR資料 - EDINET DB — Jun 27, 2026 · EDINET DB > 企業一覧 > 飯野海運株式会社 > IR資料 飯野海運株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E04243/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "飯野海運（9119）のIR情報・決算資料 - IRBANK — May 12, 2026 · 飯野海運（9119）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/9119/ir",
+    "pass": 3
+   },
+   {
+    "quote": "会社組織 - 飯野海運株式会社 — 陸上職員キャリア採用 海上職員キャリア採用 採用に関するお問い合わせ 就活ハラスメント防止について サイトマップ セキュリティ・プライバシーポリシー SNS利用規約 お問い合わせ / 飯野海運公式チャンネル - IINO Channel COPYRIGHT (C) IINO KAIUN KAISHA, LTD. ALL ...",
+    "url": "https://www.iino.co.jp/kaiun/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業案内 - 飯野海運株式会社 — 2026 / 09 / 30 飯野海運とみずほ銀行におけるLPG二元燃料船向け「トランジション・ローン」の契約締結について 2026 / 09 / 07 BGN社向けLPG二元燃料VLGCの定期用船契約の署名式を開催 2026 / 09 / 02 動画公開のお知らせ - LPG二元燃料Ice Class VLGC「LUMI AURORA」",
+    "url": "https://www.iino.co.jp/kaiun/service/",
+    "pass": 3
+   },
+   {
+    "quote": "飯野海運【9119】の事業内容 - キタイシホン — 3 【事業の内容】 当社グループは、提出会社 (飯野海運株式会社、以下当社という。)のほか連結対象子会社66社、持分法適用会社8社及び連結対象外の関係会社9社 (2026年3月31日現在)で構成され、外航海運業、内航・近海海運業及び不動産業の3事業を行っております。各事業における当社及び関係 ...",
+    "url": "https://kitaishihon.com/company/9119/business",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー 新トップに聞く】飯野海運社長・大谷祐介氏、海運・不... — Apr 5, 2023 · 飯野海運の社長に4月1日付で大谷祐介氏が就任した。 2023年3月期は海運市況の回復や為替の円安を追い風に過去最高益を見込む半面、世界的なインフレ進行や米中間の緊張関係の高まりなど先行き不透明感は強まっている。",
+    "url": "https://www.jmd.co.jp/article.php?no=285690",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル船投資軸にリバランス飯野海運・大谷祐介社長インタビュー | ... — Jun 8, 2026 · 飯野海運の大谷祐介社長は本紙インタビューで、2026年度からの新中期経営計画で掲げた事業ポートフォリオのリバランスについて、外航ガス船にも引き続き注力するほか、主力のケミカル船の",
+    "url": "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "pass": 3
+   },
+   {
+    "quote": "飯野ビルは飯野海運の魂だ！「何度も会社を救ってくれた」不動産事業... — Jun 5, 2025 · 化学品やエネルギーの輸送を手掛ける飯野海運。2025年3月期の業績はコロナ禍に次ぐ過去3番目に高い水準だが、中期経営計画で定めた30年目標の ...",
+    "url": "https://diamond.jp/articles/-/365274",
+    "pass": 3
+   },
+   {
+    "quote": "中計概ね達成へ、ガス船で成果飯野海運・大谷祐介社長に聞く | 海運＜... — Nov 25, 2025 · 飯野海運の大谷祐介社長は本紙インタビューで、今年度が最終年度となる3カ年の中期経営計画の進捗について、概ね達成できる見通しを示した。 外航のガス船事業の強化、欧州顧客との契約獲得をはじめグローバル展開などが進展。",
+    "url": "https://www.kaijipress.com/news/tramper/2025/11/197445/",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース - 飯野海運株式会社 — 2026 / 10 / 19 社長インタビューが海事プレスに掲載されました 2026 / 10 / 13 環境配慮型Ice Class VLGC「Lumi Aurora」をBorouge社との長期用船契約に投入開始 2026 / 10 / 09 「第24回 日比谷公園ガーデニングショー2026」への協賛について 2026 / 09 / 30 統合報告書2026 発行のお ...",
+    "url": "https://www.iino.co.jp/kaiun/news/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iino.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/ir_news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/manage/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/investors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/highlight.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/library/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/stock/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/ir-schedule.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/qa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/privacy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/csr/environment/management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/library/annual.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/news/other/2026/1030-842.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/news/other/2026/0930-838.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1899",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1964",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1979",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=1991",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/company/history.html?tab=2009",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/files/shareholder-benefits.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/news/files/9338461fab206ba52a0a0321740ee2161d840a6a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/ir/files/library-annual-glossary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/files/common-business_shipping.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iino.co.jp/kaiun/files/common-business_realestate.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=285690",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "飯野海運",
+   "results": [
+    "https://www.iino.co.jp/kaiun/",
+    "https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%87%8E%E6%B5%B7%E9%81%8B",
+    "https://www.youtube.com/channel/UCX8OMjUc6VQ0VIxAOxQqscQ",
+    "https://www.nikkei.com/nkd/company/?scode=9119",
+    "https://job.mynavi.jp/28/pc/search/corp50985/outline.html",
+    "https://ja.wikipedia.org/wiki/飯野海運",
+    "https://www.iino.co.jp/kaiun/ir/",
+    "https://finance.yahoo.co.jp/quote/9119.T",
+    "https://www.iino.co.jp/kaiun/company/outline.html",
+    "https://www.iino.co.jp/kaiun/news/"
+   ]
+  },
+  {
+   "query": "飯野海運 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/飯野海運",
+    "https://www.iino.co.jp/kaiun/",
+    "https://consovation.com/株式会社飯野海運のビジネスモデルに迫る魅力-成/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/iino20260623.pdf",
+    "https://note.com/tatsuya_sabato/n/n3509c9534581",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/iino20250714.pdf",
+    "https://www.iino.co.jp/kaiun/ir/manage/plan.html"
+   ]
+  },
+  {
+   "query": "飯野海運 決算説明資料",
+   "results": [
+    "https://www.iino.co.jp/kaiun/ir/library/brief.html",
+    "https://www.iino.co.jp/kaiun/ir/ir_news/presentations.html",
+    "https://edinetdb.jp/company/E04243/presentations/",
+    "https://edinetdb.jp/company/E04243/ir-docs/",
+    "https://irbank.net/9119/ir",
+    "https://www.buffett-code.com/company/9119/library",
+    "https://finance.yahoo.co.jp/quote/9119.T/financials?styl=presentation"
+   ]
+  },
+  {
+   "query": "飯野海運 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/飯野海運",
+    "https://www.iino.co.jp/kaiun/company/organization.html",
+    "https://www.iino.co.jp/kaiun/service/",
+    "https://kitaishihon.com/company/9119/business",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/iino20260623.pdf",
+    "https://star-platinum.com/iinokaiun-202605/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/iino20200701.pdf"
+   ]
+  },
+  {
+   "query": "飯野海運 社長 インタビュー",
+   "results": [
+    "https://www.jmd.co.jp/article.php?no=285690",
+    "https://www.kaijipress.com/news/tramper/2026/06/202027/",
+    "https://diamond.jp/articles/-/365274",
+    "https://www.kaijipress.com/news/tramper/2025/11/197445/",
+    "https://www.iino.co.jp/kaiun/news/",
+    "https://www.jmd.co.jp/article.php?no=315873",
+    "https://www.iino.co.jp/kaiun/company/greeting.html"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像5件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像5件／外部4頁・検索5回）"
+ }
+}

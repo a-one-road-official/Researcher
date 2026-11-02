@@ -1,0 +1,869 @@
+{
+ "name": "山陽電気鉄道",
+ "aliases": [],
+ "context": "証券コード9052／陸運業／プライム（内国株式）／2026.03期 売上高40,132百万円 営業利益率11.2%",
+ "researched_at": "2026-11-02T20:36:09.857448+00:00",
+ "official_url": "http://sanyo-denki.tetsudou.jp/",
+ "identified_by": "search:ddgs:google:山陽電気鉄道",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "●鉄道事業 営業キロ　63.2km ＜索道＞須磨浦ロープウェイ ＜遊園＞須磨浦山上遊園 ●土地建物事業（不動産の賃貸・売買等） 神戸市の須磨エリアでは、大阪湾から明石海峡大橋までの美しい景色を一望することができる「須磨浦山上遊園」を運営しています。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "鉄道事業 営業キロ：63.2km 車両数：216両 〈 索道 〉須磨浦ロープウェイ 〈 遊園 〉須磨浦山上遊園 土地建物事業（不動産の賃貸・売買等）",
+    "url": "https://www.sanyo-railway.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "鉄道事業法及び道路運送法による一般運輸業 他",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "鉄道事業 ・鉄道 営業キロ 63.2km 車両数 207両 ・索道・遊園 須磨浦ロープウェイ・須磨浦山上遊園 土地建物事業 不動産の賃貸・売買等",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "label": "主な事業・キャンペーン",
+    "value": "松方ホール音楽賞 神明あかふじ米少年野球 新聞感想文コンクール 兵庫県オープンゴルフ こうべ全国洋舞コンクール 兵庫県学生ピアノコンクール 天元戦 王位戦 神戸マラソン 女流王位戦 姫路城マラソン 神戸新聞囲碁・将棋 神戸囲碁ネット 神戸新聞バレーボール大会 兵庫県写真作家協会 兵庫県舞踊文化協会 神戸テニススクール 金婚夫婦祝福式典 姫路お城のアンバサダー　募集要項",
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1907（明治40）年7月2日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1933（昭和8）年6月6日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "創立",
+    "value": "明治40(1907)年7月2日（前身の兵庫電気軌道株式会社）",
+    "url": "https://www.sanyo-railway.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "昭和8(1933)年6月6日",
+    "url": "https://www.sanyo-railway.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1933年 （ 昭和 8年） 6月6日",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "昭和8年6月6日（創立 明治40年7月2日）",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "【連結】1,930名【単体】753名（2026年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "753名",
+    "url": "https://www.sanyo-railway.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結: 1,998人 単独: 759人 （2025年3月31日現在） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "763名",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "【連結】401億3,200万円　【単体】215億5,600万円（2026年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 384億8,900万円 単独: 203億2,600万円 （2025年3月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "当社は、1907年7月の会社創立以来、グループ会社とともに、運輸業、流通業、不動産業、レジャー・サービス業、その他の事業を通じて、沿線地域のみなさまの生活を支える様々な総合サービスを提供し、発展を続けてきました",
+    "url": "https://www.sanyo-railway.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後も鉄道輸送における、最大の使命である「安全・安心」の確保を最優先とし、当社グループ全体で強い結束力を持って、きめ細かなサービスを提供するなかで、お客さまへの『感謝』を表し、お客さまから『信頼』していただくとともに、新たな分野にも積極果敢に『挑戦』し、さらに発展する企業グループを創造していきます",
+    "url": "https://www.sanyo-railway.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "1907年の会社創立以来、沿線地域のみなさまの生活を支える様々なサービスを提供し、約120年にわたって発展を続けてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまにより良いサービスを提供し続けるためには、社員の豊かさが欠かせません",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "QRコードを活用したデジタル乗車券サービスおよびクレジットカード等のタッチ決済による乗車サービス開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "レジャーサービス",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "山電サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "レジャー・サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "山陽レジャーサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "山陽アメニティサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "平成２６年３月２１日（金・祝） 交通系ICカードの全国相互利用サービスへの対応を開始します",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＣカード乗車券を活用した連携サービスの拡大について",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＣ定期券サービスの拡充について",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "〜阪神なんば線開業及び阪神・近鉄つながって10周年〜 10周年記念旅行商品第五弾・第六弾を発売します",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "「車庫」にまつわる“鉄分濃い商品”で鉄道の魅力を味わっていただきます",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "回数乗車券・往復乗車券の発売終了と ＩＣＯＣＡによるポイントサービスの開始について",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "は山陽電鉄グループの「山商（旧・山電フードサービス）」の",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "交通系ICカード全国相互利用サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "新幹線乗車サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "スカイレールサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ひろでんモビリティサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "のモバイルICサービスのみ対応",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "独自のポイントサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "△：一部事業者は交通系ICカード全国相互利用サービス未対応",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "レジャー・サービス業/その他の事業",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽アメニティサービス(株)",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "山電サービス(株)",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータによる情報処理サービス業、コンピュータソフトの開発",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）山陽百貨店の商品販売並びに役務提供の取次に関する業務",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽デリバリーサービス(株)",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・事業",
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "姫路市「オンライン手続サイト」で情報漏えいか 外部のメール配信サービスが不正アクセス受け",
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "企業・IR情報／会社紹介／山陽電車",
+    "url": "https://www.sanyo-railway.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介記事",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "大規模小売店舗立地法",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "乗車券受託販売業、自動販売機管理業、宝くじ販売業、コンビニエンスストア事業、広告代理店業、保険代理店業",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般労働者派遣事業、有料職業紹介事業、警備業、業務処理請負事業",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "中・西播磨の高校紹介",
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "神戸ハーバーランドの集合店舗ゾーン「モザイク」全面改装 三菱倉庫が発表 再開は数年後の見通し",
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "地域パートナー宣言",
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "【その先へ 山陽電車の強みとさらなる挑戦】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "これからも、鉄道会社の強みを活かした街づくりを推進し、街を、そして社会を活性化させるため、グループ一丸となって新たな分野へ積極果敢に挑戦していきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1907年の会社創立以来、沿線地域のみなさまの生活を支える様々なサービスを提供し、約120年にわたって発展を続けてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1907年 7月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1919年 8月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1933年 6月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1936年 5月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1941年 7月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1950年 4月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1968年 4月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年 6月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1998年 2月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1999年10月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2003年 3月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2006年 7月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年 7月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年 3月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年12月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年12月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 4月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 7月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年8月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会招集通知",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "沿革サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2013年7月16日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2013年7月12日上場廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月、神戸市と事業連携協定を締結し、須磨・垂水エリアの活性化を図る取り組みを進めている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2019年（平成31年）2月28日 -",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2007年には前身の兵庫電気軌道から創業100周年を機に新しいシンボルマークが制定された",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の阪神なんば線開業10周年の節目にも近鉄主催で3社直通の貸切列車が運行された",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月19日改定",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月31日をもって自社線完結の",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2011年6月20日にホームページのリニューアルを行い、運行情報案内を開始した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1999年から毎年5月ごろ、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2013年2月12日夕方に兵庫県",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2010年はアニメのため、出演者なし",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1959年12月に川崎電機製造として電機部門が独立、以後は富士電機への合併まで同社名義での製造となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月8日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月27日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月20日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月1日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月26日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月19日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月15日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月29日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2027年エントリーはこちら",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "昭和8年6月6日（創立 明治40年7月2日）",
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "山陽電気鉄道 (株)の会社概要 | マイナビ2028 — 山陽電気鉄道 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp58130 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 株式会社様 | 事例 - ビジネスブレイン太田昭和 — 山陽電気鉄道 株式会社様 | 事例 - ビジネスブレイン太田昭和 ビジネスブレイン太田昭和（BBS） https://www.bbs.co.jp > case > case-16",
+    "url": "https://www.bbs.co.jp/case/case-16/",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 - Wikipedia — 山陽電気鉄道 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 山陽電気鉄道",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 、不動産取得などに360億円投資 新中期経営計画 — 山陽電気鉄道 、不動産取得などに360億円投資 新中期経営計画 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUF158AX0V10C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "【 山陽電気鉄道 】[9052]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 山陽電気鉄道 】[9052]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 【9052】の最新 決算 発表、業績修正 - 株探 — 山陽電気鉄道 【9052】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 山陽電気鉄道 (9052) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=9052",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 ：2027年3月期 第1四半期 決算 短信 ... - Moomoo — 山陽電気鉄道 ：2027年3月期 第1四半期 決算 短信 ... - Moomoo Moomoo https://www.moomoo.com > news > notice > sanyo-electri...",
+    "url": "https://www.moomoo.com/news/notice/307859387/sanyo-electric-railway-first-quarter-earnings-release-for-the-fiscal",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 株式会社 - 日本民営鉄道協会 — 山陽電気鉄道 株式会社 - 日本民営鉄道協会 日本民営鉄道協会 https://www.mintetsu.or.jp > corporates > local > sanyou",
+    "url": "https://www.mintetsu.or.jp/corporates/local/sanyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 （9052）｜上場企業 事業 内容の全文 — 山陽電気鉄道 （9052）｜上場企業 事業 内容の全文 株トレンドpro https://jigyou.kabu-trendpro.com > 一覧",
+    "url": "https://jigyou.kabu-trendpro.com/company.php?ticker=9052",
+    "pass": 3
+   },
+   {
+    "quote": "山陽電気鉄道 ・伊東正博 社長 沿線の魅力、さらに高める — 山陽電気鉄道 ・伊東正博 社長 沿線の魅力、さらに高める 神戸新聞 http://www.kobe-np.co.jp > news > economy",
+    "url": "http://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "＜新 社長 ＞ 山陽電気鉄道 は伊東氏 - 産経ニュース — ＜新 社長 ＞ 山陽電気鉄道 は伊東氏 - 産経ニュース 産経ニュース https://www.sankei.com > 経済 > 人事",
+    "url": "https://www.sankei.com/article/20250429-USCJD7TZURJT7PYPHSHCF7JYEY/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "利用者数上位10駅",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "定期利用者数",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "定期利用者率",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "定期利用者順位",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "乗車人員および定期利用者数の表に基づく",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "定期利用者数の表に基づく",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "(GE) 製およびGE社の日本でのライセンス先であった芝浦製作所（現・",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://sanyo-denki.tetsudou.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sanyo-railway.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-railway.co.jp/company/kessan.html?back_number=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-railway.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山陽電気鉄道",
+   "results": [
+    "https://www.sanyo-railway.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://x.com/sanyo_cs",
+    "https://www.mintetsu.or.jp/corporates/local/sanyou.html",
+    "https://ja.wikipedia.org/wiki/山陽電気鉄道",
+    "https://ja.wikipedia.org/wiki/山陽電気鉄道本線",
+    "https://en.wikipedia.org/wiki/Sanyo_Electric_Railway",
+    "https://www.wikiwand.com/ja/山陽電気鉄道",
+    "http://sanyo-denki.tetsudou.jp/",
+    "https://ekitan.com/transit/railway/company/615"
+   ]
+  },
+  {
+   "query": "山陽電気鉄道 ビジネスモデル",
+   "results": [
+    "https://www.sanyo-railway.co.jp/company/about.html",
+    "https://job.mynavi.jp/28/pc/search/corp58130/outline.html",
+    "https://www.bbs.co.jp/case/case-16/",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://www.nikkei.com/article/DGXZQOUF158AX0V10C26A5000000/",
+    "https://www.arc-navi.shikaku.co.jp/companyList/details.php?client_id=8274",
+    "https://www.youtube.com/watch?v=WAF__ufaiho",
+    "https://mba.nucba.ac.jp/case/document/11-1020.html",
+    "https://shikiho.toyokeizai.net/stocks/9052/corporate",
+    "https://www.carfax.com/vehicle-history-reports/"
+   ]
+  },
+  {
+   "query": "山陽電気鉄道 決算説明資料",
+   "results": [
+    "https://www.sanyo-railway.co.jp/company/kessan.html?back_number=1",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9052",
+    "https://www.sanyo-railway.co.jp/company/ir.html?back_number=1",
+    "https://kabutan.jp/stock/finance?code=9052",
+    "https://www.moomoo.com/news/notice/307859387/sanyo-electric-railway-first-quarter-earnings-release-for-the-fiscal",
+    "https://kitaishihon.com/company/9052/ir-library",
+    "https://irbank.net/9052/ir",
+    "https://www.americanexpress.com/",
+    "https://www.americanexpress.com/es-mx/account/login",
+    "https://www.americanexpress.com/en-gb/"
+   ]
+  },
+  {
+   "query": "山陽電気鉄道 事業系統図",
+   "results": [
+    "https://www.sanyo-railway.co.jp/company/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://www.mintetsu.or.jp/corporates/local/sanyou.html",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=9052",
+    "https://www.youtube.com/watch?v=PM3QLXej97s",
+    "https://raillab.jp/company/sanyo-railway",
+    "https://www.sanyo-railway.co.jp/company/",
+    "https://www.haisenryakuzu.net/documents/pr/sanyo/",
+    "https://search.showakan.go.jp/search/book/detail.php?material_cord=000043311",
+    "https://www.facebook.com/groups/3375650022461392/posts/29924651763801190/"
+   ]
+  },
+  {
+   "query": "山陽電気鉄道 社長 インタビュー",
+   "results": [
+    "https://www.sanyo-railway.co.jp/recruit/about.html",
+    "http://www.kobe-np.co.jp/news/economy/202512/0019768641.shtml",
+    "https://www.youtube.com/watch?v=WAF__ufaiho",
+    "https://www.sanyo-railway.co.jp/recruit/interview.html",
+    "https://www.sankei.com/article/20250429-USCJD7TZURJT7PYPHSHCF7JYEY/",
+    "https://x.com/kobeshinbun/status/1995630325427536261",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%99%BD%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "https://kitaishihon.com/company/9052/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/70249",
+    "https://www.google.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

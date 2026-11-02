@@ -1,0 +1,1936 @@
+{
+ "name": "オーバル",
+ "aliases": [],
+ "context": "証券コード7727／精密機器／スタンダード（内国株式）／2026.03期 売上高15,589百万円 営業利益率10.9%",
+ "researched_at": "2026-11-02T20:39:06.154856+00:00",
+ "official_url": "https://www.oval.co.jp/",
+ "identified_by": "search:yahoo_jp:オーバル",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "150 170 200",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "15,589百万円（連結）（2026年3月31日現在）",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "11,144 13,312 14,347 15,048 15,589",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和24年（1949年）5月10日",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "678名（連結）（2026年3月31日現在）",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "label": "■従業員離職率",
+    "value": "2025年3月期離職率維持",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1.オーバル歯車式およびその他各種流量計の製作販売 2.計測管理およびエネルギー管理用諸機器、諸装置の製作販売 3.計装及び環境制御に関する諸工事ならびにこれに関連する諸機器の製作販売",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "株式会社オーバル | 流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計測を支えるサービス・",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品記号から探す",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ALTImassⅡPLUS」製品Webページ公開のお知らせ",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品についてのお問い合わせ",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご質問、製品の購入、お見積もり、資料請求、修理、サービス、サポートなど製品に対する内容については、こちらからお願いします",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品以外の弊社に関するお問い合わせ",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社および弊社グループに対するご意見、ご要望など、製品以外の内容についてはこちらからお問い合わせください",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "以来、75年以上の長きに渡り事業を継続し続けることができた理由は、社会課題やお客様が解決したい課題に真摯に向き合い、経験と技術の積み重ねによってモノづくりに付加価値を築き上げ、お客様の課題を解決するためにいち早く商品やサービスを提供してきた結果であると考えております",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、10年後の中長期経営ビジョン「アジアNo.1のセンシング・ソリューションカンパニーへ」を達成するために、PHASE2成長期のミッション「確かなはかる技術と新しい価値でサステナブルな取り組みを加速」の完遂により、持続可能な社会の実現に挑戦してまいります",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "』に基づき、当社企業グループの企業活動を通じて、これまで培ってきた技術をより一層深化させることにより、持続的な社会の実現に貢献する商品およびサービスを提供し、アジアNo. 1 のセンシング・ソリューション・カンパニーを目指し、持続的な成長と中長期的な企業価値の向上に取り組んでおります",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業成長戦略",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに様々な創造性を付加し、多様化する社会が求める新しい価値を生み出して世の中に貢献する社会的存在であり、同時に株主様やお客様の信頼と高い評価を実現することを経営の基本方針としております",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューションの提供",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなお客様のニーズに対して、当社は幅広い製品ラインアップを取りそろえることでお応えしております",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、お客様が安心して安全に流量計をご使用いただけるよう全国にサービス拠点を設け、日常の点検はもとより、緊急時の対応も迅速に行うことができる体制を整えております",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、お客様の課題を解決するため、流体計測のみにとどまらず様々な自動化システムや校正設備といった大規模なシステムソリューションも、当社の長年蓄積してきた技術力を発揮してお引き受けすることが可能となっております",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これからさらに進んでいく高齢化や人口減少による労働力不足、大規模災害に備えるためのインフラの冗長化といった日本における課題に対しても、オーバルの技術を活かし、オーバルらしさを打ち出した製品づくり、ソリューションやサービスをご提供してまいります",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と綿密な打ち合わせの後、ご使用状況やお客様の課題に応じた製品をつくり、ご利用いただいています",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/library/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/library/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/library/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/library/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/stock/info/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/stock/info/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/stock/return/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/stock/return/",
+    "pass": 1
+   },
+   {
+    "quote": "流量計とシステムソリューションのオーバル",
+    "url": "https://www.oval.co.jp/ir/stock/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "- 製品情報",
+    "url": "https://www.oval.co.jp/ir/stock/procedure/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりのご依頼につきましては、弊社代理店からご連絡させていただく場合もございます",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、株主の皆様、パートナー企業や地域・社会のステークホルダーの皆様のご支援の賜物でもあり、深く感謝し厚く御礼申し上げます",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/library/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/library/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/library/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/library/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "オーバルの株主還元に関する方針と実績をご紹介しています",
+    "url": "https://www.oval.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/stock/info/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/stock/info/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/stock/return/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/stock/return/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/stock/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/stock/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "個人投資家の皆さまにオーバルのことをわかりやすく知っていただける様々な情報をご紹介しています",
+    "url": "https://www.oval.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "オーバルの株主還元に関する方針と実績をご紹介しています",
+    "url": "https://www.oval.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/products/flowmeter/ultrasonic/panel-mount-wireless-totalizer/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/products/flowmeter/ultrasonic/panel-mount-wireless-totalizer/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "- 代理店・特約店一覧",
+    "url": "https://www.oval.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "- 会社紹介動画一覧",
+    "url": "https://www.oval.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "また、アジア各子会社・各代理店の販売チャネルを強化するとともに、相互連携および",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(ⅴ) 指名・報酬諮問委員会",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の指名に関する手続きおよび報酬等に",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関する手続きの公正性・透明性・客観性を強化し、当社コーポレート・ガバナンスの充実を図るため、指名・報",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本有価証券報告書提出日（2026年６月19日）現在、指名・報酬諮問委員は、",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬諮問委員会は、取締役会からの諮問を受け、取締役の選解任方針および基準の策定と取締役の選解",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "任・候補者指名、役員の報酬体系ならびに個々の取締役の報酬額の決定方針を審議し、取締役会に勧告いたしま",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年熊本地震に関するお見舞い",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月05日",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月23日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月14日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月06日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年３月期 決算説明会 ログミーFinance書き起こし記事および動画公開のお知らせ",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（105期）",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月12日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月14日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月29日",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算短信〔日本基準〕(連結)",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月23日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月14日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月06日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年３月期 決算説明会 ログミーFinance書き起こし記事および動画公開のお知らせ",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月02日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月01日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月26日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月18日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年３月期 決算説明会 動画公開のお知らせ",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月04日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月02日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期の配当予想（増配）に関するお知らせ",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算短信〔日本基準〕(連結)",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月27日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月07日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月13日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月13日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月04日",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（実績）",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月期（計画）",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2032年3月期（計画）",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月期のROE7％必達に向けて、機動的な自己株式取得の実施を予定しています",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期～2028年3月期",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）に日本初の容積流量計であるオーバル流量計を世に送り出して以来、流量計のパイオニアとして、流体計測機器、電子計器、周辺・関連機器、システム機器、校正事業を展開しています",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社代表取締役社長 谷本 淳とストックウェザー「兜町カタリスト」",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社代表取締役社長 谷本 淳とストックウェザー「兜町カタリスト」",
+    "url": "https://www.oval.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、直感的な操作性により、マニュアル無しでも操作可能で、保守",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/10/20261027-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、売上高は、前年同四半期にAnton Paar GmbHとのライセンス契約におけるライセ",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益面につきましても、前年同四半期に計上したライセンス契約に伴う契約一時金の反",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ス契約におけるライセンスの対価である契約一時金の収受の計上があったため、全体では2,126百万円（同19.9％",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売単価の改善および収益性の高い製品を中心とした販売構成の改善が進んだことにより利益率が向上したこ",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当連結会計年度の売上高には、Anton Paar GmbHとのライセンス契約におけるライセンスの対価である契",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2)ライセンス契約",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）に係るライセンス契約（以下「本ライセンス契約」といいます",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ライセンス契約の概要は以下のとおりであります",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "財産をAnton Paarにライセンスすることとしております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ライセンス契約の対価として、当社は、Anton Paarから契約一時金のほか、Anton Paarの販売額に応じてラン",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利を引き続き保有いたしますので、本ライセンス契約によって、当社によるグローバルな事業展開が制限されるこ",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期定時株主総会において年額120,000千円以内と決議しております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、2016年６月28日開催の第94期定時株主総会において年額40,000千円以内と決議しております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• Anton Paar GmbHとのライセンス契約に伴う一時金の収受も増収増益を後押し",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 販売単価の改善および収益性の高い製品を中心とした販売構成の改善",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 原材料費・人件費の増加は見込まれるものの、販売単価の改善および継続的な",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売単価の改善および",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継続的な販売単価の改善およびシステム部門の収益性の改善により、コスト上昇を織り込みつつも、増益の見通し",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工場の保守・メンテナンス運用を合理化・自動化（DX化）するための",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益面では販売単価の改善および収益性の高い製品を中心とした販売構成の改善が進んだことにより利益率が向上し",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当連結会計年度の売上高には、Anton Paar GmbHとのライセンス契約におけるライセンスの対価である契",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単価の改善および継続的なシステム部門の収益性の改善などにより、営業利益、経常利益および親会社株主に帰属",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売単価の改善および収益性の高い製品を中心とした販売構成の改善が進んだことにより利益率が向上したことに加え、原材料費の上昇が当初想定を下回ったことから、売上原価率が57.3％と前連結会計年度と比較して1.9ポイント改善しました",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度の売上高には、Anton Paar GmbHとのライセンス契約におけるライセンスの対価である契約一時金の収受が含まれております",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "オーストリアAnton Paar社とのライセンス契約にかかわる特殊要因(一時金の収受がない減収分)などを除けば増益基調は変わらないとみている",
+    "url": "https://www.nsjournal.jp/%E3%80%90%E9%80%9F%E5%A0%B1%E7%89%88%E3%80%91%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB%E3%80%80%E4%BB%A3%E8%A1%A8/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "以来、75年以上の長きに渡り事業を継続し続けることができた理由は、社会課題やお客様が解決したい課題に真摯に向き合い、経験と技術の積み重ねによってモノづくりに付加価値を築き上げ、お客様の課題を解決するためにいち早く商品やサービスを提供してきた結果であると考えております",
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに様々な創造性を付加し、多様化する社会が求める新しい価値を生み出して世の中に貢献する社会的存在であり、同時に株主様やお客様の信頼と高い評価を実現することを経営の基本方針としております",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの経営の基本方針とコーポレートガバナンス・コードを基軸に、持続的な成長と中長期的な企業価値向上を図るため、磐石な経営の組織体制を構築し、取締役会の効率的な運営と監督機能を強化し、株主・顧客・従業員・債権者・地域社会等の全ステークホルダーとのコミュニケーションを積極的に行いながら、経営の迅速性、透明性、健全性を確保するように努めてまいります",
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなお客様のニーズに対して、当社は幅広い製品ラインアップを取りそろえることでお応えしております",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、お客様が安心して安全に流量計をご使用いただけるよう全国にサービス拠点を設け、日常の点検はもとより、緊急時の対応も迅速に行うことができる体制を整えております",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、お客様の課題を解決するため、流体計測のみにとどまらず様々な自動化システムや校正設備といった大規模なシステムソリューションも、当社の長年蓄積してきた技術力を発揮してお引き受けすることが可能となっております",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "受注生産によるお客様本位",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と綿密な打ち合わせの後、ご使用状況やお客様の課題に応じた製品をつくり、ご利用いただいています",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "オーバル取引先持株会",
+    "url": "https://www.oval.co.jp/ir/stock/info/",
+    "pass": 1
+   },
+   {
+    "quote": "オーバル取引先持株会",
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、お客様が現在ご使用中の従来品(ALTImassⅡ)につきましては、変換器内部の一部部品（表示ユニット）",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/10/20261027-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、従来品をご使用中のお客様にいち早く「ALTImassⅡ PLUS 」を体験いただくため、「乗り換えキャンペーン」",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/10/20261027-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高は、国内において、半導体関連業界向けが好調に推移しているほか、主要顧客である化学業界関連向け",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注高は、国内においては、石油関連業界向けなどの主要顧客を中心に堅調に推移しており、海外においては",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客である化学関連業界向けおよび石油関連業界向けが好調を維持しております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客訪問による",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現地流量計校正サービスの提供や、他社製流量計校正サービスなど、顧客のニーズに即したきめの細かい対応を",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "-お客様に付加価値の高いセンサ・ソリューション、そしてサービスを提供",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "景気変動に伴う顧客の設備投資額の減少や",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エレクトロニクスの進展に係る商品について、急速な技術の変化や顧客ニーズの変化を特徴としております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るよう顧客ニーズの把握により新商品の開発に努めております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しかし、技術の変化や顧客ニーズの変化に適切に",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は、国内では、主要顧客である化学関連",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客である化学関連業界向けおよび石油関連業界向けが引き続き堅調に推移しました",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客訪問に",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる現地流量計校正サービスの提供や、他社製流量計校正サービスなど、顧客のニーズに即したきめの細かい対",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業グループは＜流れに価値を加えます＞を企業メッセージとし、顧客満足を常に念頭において事業展開し、",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オーバル取引先持株会 東京都新宿区上落合３丁目10－８ 402 1.98",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を生み出して世の中に貢献する社会的存在であり、同時に株主様やお客様の信頼と高い評価を実現することを経営",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "寺尾氏は当社の取引先の国立研究開発法人産業技術総合研究所の出身者（2019年３月に",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "松本氏は当社の取引先の株式会社チノーの出身者（2021年６月取締役退任、2023",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、当社の販売先であり、受注・売上拡大の効",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、過去に事業譲渡の実績もある当社の取引先",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オーバル協助会（会員数299名）は会員相互の地",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 増大する現地需要に対し、顧客ニーズを的確に捉えた製品を迅速に供給するべく、現地生産キャパシティを",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「校正品質」という付加価値でお客様の課題を解決",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は、国内では、主要顧客である化学関連",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客である化学関連業界向けおよび石油関連業界向けが引き続き堅調に推移しました",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客訪問に",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よる現地流量計校正サービスの提供や、他社製流量計校正サービスなど、顧客のニーズに即したきめの細かい対",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当企業グループの収益に大きく影響を及ぼす顧客各",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は、国内では、主要顧客である化学関連業界向けが好調であったことに加え、半導体関連業界向けが回復し、海外では中国において船舶関連業界向けが好調に推移したことにより、10,427百万円（同9.9％増）となりました",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "主要顧客である化学関連業界向けおよび石油関連業界向けが引き続き堅調に推移しました",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客訪問による現地流量計校正サービスの提供や、他社製流量計校正サービスなど、顧客のニーズに即したきめの細かい対応を継続してまいりました",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 売上高は顧客の所在地を基礎とし、国または地域に分類しております",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "事業と強み | 株式会社オーバル",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "オーバルの強み",
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "pass": 1
+   },
+   {
+    "quote": "企業グループでは、品質・価格・納期で競争優位性を維持できるように、また、市場を先取りした機能を提案でき",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て常に競争優位を維持できる保証はなく、商品・サービスが厳しい価格競争にさらされ当企業グループの収益と財",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業グループは競争優位性を維持できるよう、差別化された技術とノウハウを蓄積し知的財産の保護に努めて",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "われた様々な技術・ノウハウが組み込まれており、当社ならではの強みを活かした新製品となっています",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 9.5% 10.9% - -",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強み：幅広い流量計ラインアップ",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強み：流量計を中核としたシステム・サービス",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強み：標準供給を担うJCSS（計量法校正事業者登録制度）",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "――強みは何ですか",
+    "url": "https://www.nsjournal.jp/%E3%80%90%E9%80%9F%E5%A0%B1%E7%89%88%E3%80%91%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB%E3%80%80%E4%BB%A3%E8%A1%A8/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、セグメント情報の記載を省",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのためセグメント別の記載に代えて事業部門別で記載しております",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、セグメント別の記載を省略して",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業グループは、計測機器等の製造・販売事業の単一セグメントであることから、セグメント情報の記載を省略",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期 2026年3月期 構成比 増減率",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等) ……………………………………………………………………………………………13",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、セグメント情報については記",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "項 目 金 額 構成比 金 額 構成比 金 額",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、セグメント情報の記載を省略しております",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのためセグメント別の記載に代えて事業部門別で記載しております",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、セグメント情報については記載を省略しております",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "当企業グループは、計測機器等の製造・販売事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額および未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新 ビジネス 領域 - 株式会社オーヴァル/OVAL/オーバル — 新 ビジネス 領域 - 株式会社オーヴァル/OVAL/オーバル oval.gr.jp https://oval.gr.jp > business-field > business-new",
+    "url": "https://oval.gr.jp/business-field/business-new/",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 | 株式会社 オーバル — 説明 会 資料 | 株式会社 オーバル 株式会社オーバル https://www.oval.co.jp > 投資家向け情報 > IRライブラリ",
+    "url": "https://www.oval.co.jp/ir/library/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "投資家向け情報 | 株式会社 オーバル — 投資家向け情報 | 株式会社 オーバル 株式会社オーバル https://www.oval.co.jp > ...",
+    "url": "https://www.oval.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "オーバル （7727）のIR情報・ 決算資料 - IRBANK — オーバル （7727）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > オーバル",
+    "url": "https://irbank.net/7727/ir",
+    "pass": 3
+   },
+   {
+    "quote": "オーバル 、売上好調・営業利益は過去最高水準 下半期に向け ... — オーバル 、売上好調・営業利益は過去最高水準 下半期に向け ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383094",
+    "pass": 3
+   },
+   {
+    "quote": "【 オーバル 】[7727]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 オーバル 】[7727]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7727",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オーバル — 株式会社 オーバル 株式会社オーバル PDF https://www.oval.co.jp > 2025/06 > houkoku_053",
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2025/06/houkoku_053.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オーバル 【7727】の 事業 内容 - キタイシホン — オーバル 【7727】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7727/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オーバル | 流量計とシステムソリューションの オーバル — 株式会社 オーバル | 流量計とシステムソリューションの オーバル 株式会社オーバル https://www.oval.co.jp",
+    "url": "https://www.oval.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "じっくりわかる！ オーバル 会社紹介動画（ロング ver） — じっくりわかる！ オーバル 会社紹介動画（ロング ver） YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=u8TJyDxGxDA",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 オーバル 、売上高は過去最高水準を達成 増配で ... — 【QAあり】 オーバル 、売上高は過去最高水準を達成 増配で ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382117",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー – 株式会社 オーバル 採用情報 — 社長インタビュー – 株式会社 オーバル 採用情報 株式会社オーバル https://www.oval.co.jp > recruit > top_interview",
+    "url": "https://www.oval.co.jp/recruit/top_interview/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー オーバル 代表取締役 社長 谷本淳氏 流体 ... — トップ インタビュー オーバル 代表取締役 社長 谷本淳氏 流体 ... 日本証券新聞 https://www.nsjournal.jp > 【速報版】トップインタビュー...",
+    "url": "https://www.nsjournal.jp/%E3%80%90%E9%80%9F%E5%A0%B1%E7%89%88%E3%80%91%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB%E3%80%80%E4%BB%A3%E8%A1%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー 掲載のお知らせ（日本証券新聞社） — トップ インタビュー 掲載のお知らせ（日本証券新聞社） 株式会社オーバル https://www.oval.co.jp > topics > 日本証券新聞社",
+    "url": "https://www.oval.co.jp/topics/%E6%97%A5%E6%9C%AC%E8%A8%BC%E5%88%B8%E6%96%B0%E8%81%9E%E7%A4%BE/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー オーバル 谷本淳 社長 に聞く 2019年8月25 ... — トップ インタビュー オーバル 谷本淳 社長 に聞く 2019年8月25 ... 計量計測データバンク https://www.keiryou-keisoku.co.jp > interview > 3252-oval",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3252-oval.htm",
+    "pass": 3
+   },
+   {
+    "quote": "オーバル 、 社長 に谷本淳（たにもと・じゅん）氏 - 日刊工業新聞 — オーバル 、 社長 に谷本淳（たにもと・じゅん）氏 - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/162013",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oval.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/management/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/management/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/management/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/library/settlement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/library/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/library/integrated_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/stock/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/stock/return/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/stock/procedure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/products/flowmeter/ultrasonic/panel-mount-wireless-totalizer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/corp/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2021/02/service_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/10/20261027-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/08/tanshin202606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/houkoku_054.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/06/20260604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/05/tanshin202603-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/07/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%882026%E5%B9%B47%E6%9C%882%E6%97%A5%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/fwp/wp-content/uploads/2026/07/104-_rinjihoukokusho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oval.co.jp/common/img/ir/management/business/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oval.co.jp/common/img/ir/management/business/img_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oval.co.jp/common/img/ir/management/business/img_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ovalgroup.jp/business-field/business-new/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oval-japan-official.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7727/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsjournal.jp/%E3%80%90%E9%80%9F%E5%A0%B1%E7%89%88%E3%80%91%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB%E3%80%80%E4%BB%A3%E8%A1%A8/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オーバル",
+   "results": [
+    "https://www.oval.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB",
+    "https://ovall.net/",
+    "https://open.spotify.com/intl-ja/artist/5fajxqVLxJxAzMvZn0AGIv",
+    "https://ja.wikipedia.org/wiki/オーバル_(企業)",
+    "https://www.oval.co.jp/corp/profile/",
+    "https://www.oval-ha.jp/",
+    "https://finance.yahoo.co.jp/quote/7727.T",
+    "https://x.com/oval_corp",
+    "https://www.youtube.com/c/Ovall_Japan"
+   ]
+  },
+  {
+   "query": "オーバル ビジネスモデル",
+   "results": [
+    "https://oval.gr.jp/business-field/business-new/",
+    "https://www.oval-japan-official.org/",
+    "https://www.instagram.com/ovaljapan/",
+    "https://ut-base.info/circles/oval-japan",
+    "https://oval.gr.jp/",
+    "https://x.com/oval_japan",
+    "https://www.oval.co.jp/recruit/business/",
+    "https://oval.gr.jp/recruit-front/recruit-project01/",
+    "https://www.facebook.com/OVAL.biz/",
+    "https://ja.wikipedia.org/wiki/オーバル_(企業)"
+   ]
+  },
+  {
+   "query": "オーバル 決算説明資料",
+   "results": [
+    "https://www.oval.co.jp/ir/library/financial/",
+    "https://www.oval.co.jp/ir/",
+    "https://irbank.net/7727/ir",
+    "https://finance.logmi.jp/articles/383094",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7727",
+    "https://www.oval.co.jp/ir/individual/",
+    "https://www.net-presentations.com/7727/20260604/gs54hd/",
+    "https://ir-compass.com/docs/cashflow-statement/",
+    "https://www.oval.co.jp/ir/library/",
+    "https://edinetdb.jp/company/E02270/ir-docs/"
+   ]
+  },
+  {
+   "query": "オーバル 事業系統図",
+   "results": [
+    "https://www.oval.co.jp/fwp/wp-content/uploads/2025/06/houkoku_053.pdf",
+    "https://kitaishihon.com/company/7727/business",
+    "https://www.oval.co.jp/",
+    "https://www.youtube.com/watch?v=u8TJyDxGxDA",
+    "https://finance.logmi.jp/articles/382117",
+    "https://shikiho.toyokeizai.net/stocks/7727/corporate",
+    "https://www.quadcept.com/ja/case/oval/index.html",
+    "https://www.oval.co.jp/corp/profile/",
+    "https://www.oval.co.jp/ir/management/business/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7727"
+   ]
+  },
+  {
+   "query": "オーバル 社長 インタビュー",
+   "results": [
+    "https://www.oval.co.jp/recruit/top_interview/",
+    "https://www.nsjournal.jp/%E3%80%90%E9%80%9F%E5%A0%B1%E7%89%88%E3%80%91%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%80%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB%E3%80%80%E4%BB%A3%E8%A1%A8/",
+    "https://www.oval.co.jp/topics/%E6%97%A5%E6%9C%AC%E8%A8%BC%E5%88%B8%E6%96%B0%E8%81%9E%E7%A4%BE/",
+    "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3252-oval.htm",
+    "https://www.nikkan.co.jp/articles/view/162013",
+    "https://www.projectdesign.jp/articles/3362b9f1-714d-4039-a0b0-5ff222210480",
+    "https://www.youtube.com/watch?v=XiUb-m3EBLM",
+    "https://x.com/junchang/status/1986697629905174739",
+    "https://www.youtube.com/channel/UCNqAAclfGn13iYnEOk-MCVg",
+    "https://www.oval.co.jp/corp/president/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部4頁・検索5回）"
+ }
+}

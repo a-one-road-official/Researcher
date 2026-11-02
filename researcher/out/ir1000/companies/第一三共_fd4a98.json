@@ -1,0 +1,1635 @@
+{
+ "name": "第一三共",
+ "aliases": [],
+ "context": "証券コード4568／医薬品／プライム（内国株式）／2026.03期 売上高2,123,045百万円 営業利益率10.8%",
+ "researched_at": "2026-11-02T20:41:20.183652+00:00",
+ "official_url": "https://www.daiichisankyo.co.jp/",
+ "identified_by": "search:yahoo_jp:第一三共",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "20,171",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "2025年度連結売上収益",
+    "value": "2兆1,230 億円",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "1兆6,000億円  2兆1,230億円",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "label": "がん領域売上収益",
+    "value": "6,000億円以上 9,540億円",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "10％ 0～200％ 上限：目標×105％ 目標：期初公表予想値 下限：目標×95％",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "15％ 0～200％ 上限：目標×110％ 目標：中計公表予想値 下限：目標×90％",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "約80億円 増収影響",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "label": "◆売上収益",
+    "value": "1兆6,000億円 （がん領域：6,000億円以上）",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "第一三共ヘルスケア製品の情報はこちらから",
+    "url": "https://www.daiichisankyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社がん治療薬を提供する国・地域や適応症が広がる中、製品の需要はより大きく、複雑に変化します",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした変化に対応し、高品質な製品を安定して供給するため、私たちは国内外の自社工場に加え、医薬品製造受託機関（CMO）も活用して製造しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みにより、需要の変化に応じた供給計画を支え、患者さんへの高品質な製品の安定供給に取り組んでいます",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、開発段階から市販後まで、製品の安全性情報を迅速に収集・評価・分析し、必要な情報を提供する体制を強化してきました",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "また、150を超える社内データセットと接続し、一般の生成AIサービスでは扱えない社内情報を、管理された環境で活用しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "また、業務に精通した社員が自らデジタルソリューションを設計・実装する「市民開発」を支援しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "日本でのパイロット運営を通じて構築したモデルをもとに、ガバナンス、トレーニング、技術支援、開発基準を含むグローバルな枠組みを展開し、社員が自ら安全かつ効果的にデジタルソリューションを開発しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "また、実践例や再利用可能なソリューションをグローバルに共有しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした取り組みにより、業務上のニーズに応じたソリューション開発の迅速化、社員のデジタルスキルと社内開発力の向上、業務の質と効率の向上を図っています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "この社会では、ヘルスケアサービスや関連データが連携し、個人に最適化されたケアが提供されます",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールマガジン配信サービス 登録情報の変更、配信停止はこちら",
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールマガジン配信サービス パスワードの再発行はこちら",
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "IDAPはIT部門の開発者だけでなく、IT部門以外で自ら分析や業務用ソリューションの開発を行う社員、いわゆる「市民開発者」も利用できます",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "また、利用者のニーズを踏まえてクラウドサービスや分析環境を継続的に拡充し、使いやすさと解析性能の両立を図ることで、社員によるデータ分析やソリューションの開発・運用を支援しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の需給調整の効率化",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "*多様なデータや先進技術を活用し、一人ひとりに寄り添った最適な健康・医療サービスを提供すること",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/retabell-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "「報道関係者の皆さま」内のコンテンツは、当社の製品および開発品を推奨するものではなく、医薬品の宣伝や広告を目的とするものではありません",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "第一三共が、ClinicalTrials.gov（米国）、jRCT（日本）等の臨床試験情報登録サイトおよび本ウェブサイトに公開している臨床試験の情報は、情報の開示を目的としたものであり、製品を広告・販売促進することを目的としているものではありません",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "第一三共の製品で治療を受ける患者さんとご家族の方へ",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールマガジン配信サービス 登録情報の変更、配信停止はこちら",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールマガジン配信サービス パスワードの再発行はこちら",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース配信サービス サンプル",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトは、ご利用者様のウェブサイト利用に必要な機能、サービスを提供するために必須Cookie を利用しています",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "「すべてのCookie を受け入れる」を選択した場合、必須Cookie に加え、パフォーマンス、ターゲティングおよび機能性Cookie を利用し、第三者サイトを含むコンテンツの最適化やサービス向上を目的としてサイト利用分析を行います",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "Cookie の種類によっては、ブロックするとサイトの使い勝手や弊社が提供できるサービス内容に影響が出る場合がありますのでご注意ください",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプのCookieは、通常、ご利用者様のプライバシーに関する設定、ログインまたはフォームへの記入等の、サービス要求のためにご利用者様が行う操作に応じてのみ設定されるものです",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプのCookieは当社によって設定され、または当社が第三者プロバイダのサービスを当社のページに追加した場合、当該第三者プロバイダによって設定されます",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様がこのタイプのCookieを許可されない場合には、これらのサービスの一部またはすべてが適切に機能しない可能性があります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の資本市場で活動する機関投資家および債券の発行体を対象に、幅広い信用格付け、調査および情報サービスを提供しています",
+    "url": "https://www.daiichisankyo.co.jp/investors/tokyo_stock_exchange/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは、ご登録者の皆さまへの予告なしに運営の中止またはサービス内容の変更をさせていただく場合があります",
+    "url": "https://www.daiichisankyo.co.jp/investors/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスでは、ユーザ登録システムとして株式会社パイプドビッツのASP「SPIRAL（スパイラル）」を採用しております",
+    "url": "https://www.daiichisankyo.co.jp/investors/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールマガジン配信サービス 登録情報の変更、配信停止はこちら",
+    "url": "https://www.daiichisankyo.co.jp/investors/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールマガジン配信サービス パスワードの再発行はこちら",
+    "url": "https://www.daiichisankyo.co.jp/investors/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "ル技術の効果的活用による新しい価値・新規治療ソリューションの創製、デジタル",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/responsibility/global_policy/index/pdf/global_dx_management_policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 製品ポテンシャルに合わせた",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "との価値共創3ADC最大化の実現 更なる成長の柱の見極めと構築既存事業・製品の利益成長",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 製品価値最大化に向け、米国メルク*と戦略的提携を締結",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " リクシアナⓇ・タリージェⓇ・NilemdoⓇ等のスペシャリティ製品の売上収益、製品利益の拡大",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " InjectaferⓇの競争環境激化、VenoferⓇの後発品参入により、製品利益の減少",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品の利益成長",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " リクシアナⓇ等の既存製品による利益拡大",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 複数製品/適応症におけるLaunch Excellenceの強化",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 製品・適応症の上市や保険償還による事業拡大だけでなく、リアルワールドデータ等エビデンス",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を創出し、製品価値最大化に向け積極的に投資",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 競争力のあるパイプラインを有し、それらの製品価値を最大化できる自社ケイパビリティを構",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 複数製品および20以上の適応症を遅延なく上市",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 価格や償還戦略等を通じ、長期的な製品価値を確保",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "複数製品／適応症におけるlaunch excellenceの強化",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 製品価値最大化できる価格・償還戦略や、継続的なデータやエビデンス創出により、長期的な製",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 適応症拡大含むLCMにより製品価値最大化を図り、DXd ADCは3兆円以上のピークセールスポテ",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ンシャルを有することに加え、後続のDXd ADC製品もブロックバスターポテンシャルを有する",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すべての製品の価値を最大化し、世界中の患者さんに届ける",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " DXd ADCsの製品価値最大化により、2035年には",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力品のエンハーツ® ・ダトロウェイ®が順調に成長し、",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "伴う損益（開発品や上市製品の売却損益を除く）、有形固",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*2 製品売上による利益を当社と戦略的提携先が折半するために、",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DXd ADC製品のプロフィット・シェア 2,262 3,056 794",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*1 第一三共Inc.（米国）及び第一三共ヨーロッパのがん製品売上収益",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*1 エンハーツ®(製品名）: トラスツズマブ デルクステカン（一般名）、T-DXd, DS-8201（抗HER2 ADC）、ダトロウェイ®(製品名） : ダトポタマブ デルクステカン（一般名）、 DS-1062（抗TROP2 ADC）、",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "DX銘柄とは、東京証券取引所に上場している企業の中から、デジタル技術を前提として、ビジネスモデル等を抜本的に変革し、新たな成長・競争力強化につなげていく「デジタルトランスフォーメーション（DX）」に取り組む企業を選定するものです",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "製薬会社のビジネスモデル",
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "製薬会社のビジネスモデル",
+    "url": "https://www.daiichisankyo.co.jp/investors/individual/pharmaceutical/",
+    "pass": 1
+   },
+   {
+    "quote": " 新薬を軸とした収益構造への",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆ 新薬を軸とした収益構造への",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "さらに、利用者の声を反映しながら機能を継続的に改善し、社員が新しい生成AI技術を安全に活用できる環境を整えています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "本ポリシーは、当社グループ内の情報や資産に加え、ビジネスパートナーや顧客からお預かりする情報、記録媒体、情報システム、医薬品の製造や出荷プロセスに関わる制御装置やシステム（Operational Technology：OT）などを対象としています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者が自立的に分析・開発できるよう、経験や役割に応じたトレーニングとコンサルティングを提供しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "また、利用者のニーズを踏まえてクラウドサービスや分析環境を継続的に拡充し、使いやすさと解析性能の両立を図ることで、社員によるデータ分析やソリューションの開発・運用を支援しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトは、ご利用者様のウェブサイト利用に必要な機能、サービスを提供するために必須Cookie を利用しています",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様は当社のCookie 設定ツールによりいつでも同意を撤回し、Cookie 設定を変更することができます",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェブサイトを訪問すると、多くの場合 Cookie を用いてご利用者様のブラウザに情報を保管したりブラウザから情報を取得したりします",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "取得される情報には、ご利用者様に関するもの、優先設定、デバイスに関する情報が含まれている場合があります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "多くの場合、サイトの動作をご利用者様の期待通りにするために使用されています",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "取得される情報は、通常、ご利用者様を特定できるようなものではありませんが、ウェブ体験をパーソナライズするのに役立ちます",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではご利用者様のプライバシーを尊重し、一部の Cookie を使用しないようご利用者様が選択できるようにしています",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプのCookieは、通常、ご利用者様のプライバシーに関する設定、ログインまたはフォームへの記入等の、サービス要求のためにご利用者様が行う操作に応じてのみ設定されるものです",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様は、これらのCookieをブロックするためまたはこれらのCookieに関する警告を発するようにご自身のブラウザを設定することができますが、その場合、一部のサイトが作動しない可能性があります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様がこのタイプのCookieを許可されない場合には、当社はご利用者様がいつ当社のサイトを訪問したかを知ることができず、そのパフォーマンスをモニタリングすることができなくなります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンスCookieに関して処理された情報が個人データに該当する場合、当該処理の法的根拠は、ご利用者様の同意です",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様がこのタイプのCookieを許可されない場合には、これらのサービスの一部またはすべてが適切に機能しない可能性があります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "機能性Cookieに関して処理された情報が個人データに該当する場合、当該処理の法的根拠は、ご利用者様の同意です",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの会社がこのタイプのCookieを使用することによって、ご利用者様の興味に関するプロファイルを構築して、他のサイトにおいてご利用者様に関連する広告を提示することが可能となります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプのCookieは、直接に個人情報を保存することはありませんが、ご利用者様のブラウザおよびインターネット・デバイスを一意に識別することができます",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様がこのタイプのCookieを許可されない場合には、よりターゲティング性の低い広告が提示される可能性があります",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ターゲティングCookieに関して個人データを処理することの法的根拠は、ご利用者様の同意です",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録情報の入力および変更フォームはSSLに対応しており、お客様が入力する情報は暗号化により保護されていますが、インターネットの特性上、完全なセキュリティを保証できかねますのであらかじめご了承ください",
+    "url": "https://www.daiichisankyo.co.jp/investors/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の製薬企業は「創薬→開発→医師を通じた処方」が基本であり、患者さんは最終消費者であっても顧客とは位置づけられていませんでした",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "情報とも照合し、利用者の判断においてご利用ください",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CI: 信頼区間, ddAC:ドキソルビシン, シクロフォスファミドの併用療法, EFS: 無イベント生存期間, ESMO: 欧州臨床腫瘍学会, HR: ハザード比, pCR: 病理学的完全奏効, PDUFA date: 処方薬ユーザーフィー法に基づく審査終了目標日, THP:タキサン,トラ",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PDUFA date: 処方薬ユーザーフィー法に基づく審査終了目標日",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ORR: 客観的奏効率 , CI: 信頼区間, CR:完全奏効, PR: 部分奏効, DCR:病勢コントロール率, SCLC: 小細胞肺がん, TCE:T細胞エンゲージャー, WCLC: 世界肺癌学会, PDUFA: 処方薬ユーザーフィー法",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AGA:アクショナブル遺伝子変異, NSCLC: 非小細胞肺がん, PBC:プラチナベースの化学療法, PDUFA date:処方薬ユーザーフィー法に基づく審査終了目標日, TNBC:トリプルネガティブ乳がん,TPS:総腫瘍細胞数に対するPD-L1陽性腫瘍細胞数の割合",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報とも照合し、利用者の判断においてご利用ください",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_J.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "創薬研究から販売・情報提供に至るバリューチェーンの各領域における、データ、デジタル、AIの具体的な活用事例をこちらでご紹介します",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "**IDAPについては、後続のセクションで詳細に紹介しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "本ポリシーは、当社グループ内の情報や資産に加え、ビジネスパートナーや顧客からお預かりする情報、記録媒体、情報システム、医薬品の製造や出荷プロセスに関わる制御装置やシステム（Operational Technology：OT）などを対象としています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "外部のセキュリティパートナーと協力し、24時間体制で監視するとともに、インシデントに迅速に対応する体制を整えています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役が取締役会議長を務め、任意の組織として設置した指名委員会と報酬委員会は、社外取締役のみで構成されるなど、社外からの視点を十分に採り入れたガバナンス体制を敷くことで、健全な企業経営を目指しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会・指名委員会・報酬委員会",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "従来からの低分子化合物に加え、高度化する抗体や細胞を使用する創薬に第一三共の前身である三共と第一製薬が培ってきた120年以上に亘る創薬の歴史（実績）を礎として育まれたサイエンス＆テクノロジーの技術力を活かし、ビジネスパートナーやアカデミアとの連携を図りながら、挑戦していきます",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・報酬委員会",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会 委員長",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "サイト内で紹介しているレシピや食事のヒントは、体調を整えたり病気を治したりすることを目的としたものではありません",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/retabell-portal/",
+    "pass": 1
+   },
+   {
+    "quote": "・医療課題の解決のためのパートナーとしての貢献",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "・ビジネスパートナーとのガバナンス強化",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "第一三共が目指す社会的価値の創出と、その実現に向けた戦略や価値創造ストーリーを、サステナビリティの観点で紹介します",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/annual_report/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのテーマについて、ガバナンスならびにインパクト、リスクおよび機会、方針や実績を紹介します",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/annual_report/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会・指名委員会・報酬委員会",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介1",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介2",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "たった30秒のCMでは描き切れない、第一三共の想いをストーリー形式でご紹介します",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "第一三共の想いと挑戦の軌跡をご紹介します",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプのCookieは、当社の広告パートナーが当社のサイトを通じて設定することが可能です",
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2007年の三共株式会社と第一製薬株式会社の経営統合時より、任意の組織である指名委員会および報酬委員会を設置しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "経営の透明性確保を目的に、取締役会の諮問機関である指名委員会及び報酬委員会を任意の組織として設置し、CEO・COOの選定及び解職、CEO後継者計画、取締役候補者及び監査役候補者の選定等、並びに、取締役の報酬等の方針及び個人別の報酬等について審議しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の選定にあたっては、メンバーの過半数を社外取締役で構成する指名委員会において十分に審議された上で、取締役会において選定しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "監査役候補者の選定にあたっては、指名委員会において審議し、監査役会の同意を経て、取締役会において選定しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO候補者は、指名委員会において議論を重ねている後継者計画、資格要件定義等に基づき、選定しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO及びCOOの選定（再任を含む）にあたっては、指名委員会において十分に審議し、同委員会の答申を受けて、取締役会の決議により決定することとしております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役が会社法及び取締役規程に定める資格・職務遂行要件等を満たさない場合、取締役の解任要件に該当すると判断し、当該取締役の解任について、指名委員会及び取締役会における審議を経て、株主総会に諮ることとしております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO及びCOOの解職については、会社法及びCEO資格要件定義、職務遂行要件等に照らし合わせて判断し、選定同様、指名委員会において十分に審議し、同委員会の答申を受け、取締役会の決議により決定することとしております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "イ. 「第一三共グループ経営会議規程」を定め、最高経営責任者（Chief Executive Officer)（以下「CEO」）が戦略的な意思決定を行うことを目的として、CEOの指名する主要な事業・機能の責任者等をもって経営会議を構成し、重要事項を審議する",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会・指名委員会・報酬委員会 - 第一三共株式会社",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "渡辺章博氏及び木下玲子氏は、2025年度に開催された指名委員会のうち、2025年６月23日の就任後に開催されたもののみに出席しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会は社外取締役5名で構成され、社外監査役1名がオブザーバーとして参加しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "【指名委員会の具体的な検討事項】",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "９月及び４月には、通常の審議に加えて、代表取締役会長及び代表取締役社長CEOの目標設定、並びに両者の評価について、指名委員会と報酬委員会を合同で開催し、議論しました",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "重要会議への出席：取締役会、経営会議（常勤監査役、社外監査役）、企業倫理委員会等（常勤監査役）、指名委員会、報酬委員会（社外監査役）",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/audit/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会委員長",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "新たに指名委員会委員長に就任された渡辺社外取締役にお伺いします",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年度 取締役会評価において、当社取締役会は、取締役会の役割、責務、運営および構成の面、ならびに、取締役会の諮問機関である指名委員会、報酬委員会が適切に機能しており、取締役会全体の実効性が確保されているとの評価結果が出ております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "(4) 指名委員会･報酬委員会の機能",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "— 信頼されるパートナー",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 医療課題の解決のためのパートナーとしての貢献",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " ビジネスパートナーとのガバナンス強化",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 多様なステークホルダーへ貢献し、信頼されるパートナーに",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "— 信頼されるパートナー",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・パートナー（ある場合）",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・パートナー（ある場合）",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Reference_Data_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【Revvity 製品紹介】セルカウンターの更新をご検討中の方へ",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/070900062/",
+    "pass": 3
+   },
+   {
+    "quote": "【パセオン】遺伝子治療の未来を拓く：初期革新～商業成功のすべての段階でのウイルスベクターパートナー",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/070900062/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "実際のデータ解析業務を通じてその有用性を検証し、AIエージェントの強みと課題を確認しながら、創薬研究の現場で活用できる形へと具体化しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、すべての社員が同じ専門性を目指すのではなく、それぞれの職務と強みを活かしながら、変革に貢献できる道筋を明確にしています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "R&D費控除前コア営業利益率",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "第一三共第6期中期経営計画（FY2026-FY2030）の戦略の一つである「Being a trusted partner for sustainable society」のもと、当社の強みであるサイエンス＆テクノロジーを活かして患者さんをはじめとする多様なステークホルダーに価値を提供し、持続可能な社会の実現と企業価値向上を目指しています",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/annual_report/",
+    "pass": 1
+   },
+   {
+    "quote": "短期インセンティブ報酬となる年次業績連動賞与の支給額は、当該事業年度の親会社の所有者に帰属する当期利益、売上収益、コア営業利益率（注1）の期初に公表する業績予想値の達成度、また、期初に設定した各役員の目標･課題の達成度に応じて決定する",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "quote": "（注）1．コア営業利益率：事業の本質的な収益性を示す指標として営業利益からコアの営業損益を除外した指標",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "quote": "賞与支給額＝役位別の基準額×年度目標達成度（親会社の所有者に帰属する当期利益＋売上収益＋コア営業利益率）×業績評価",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "quote": "コア営業利益率",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、パーパス、ミッション、ビジョン、Core Values（価値観）、Core Behaviors（行動様式）も素晴らしく、この集合体であるOne DS Cultureを、全社員で共有し、共感、共振をしてoneチームとしてチームワーク良く取り組んでいるのが当社の大きな強みであると感じています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、「がんに強みを持つ先進的グローバル創薬企業」から、「先進的グローバルヘルスケアカンパニー」に変革をしていくことを2030年ビジョンに掲げています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "コア営業利益率",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５期中計 「がんに強みを持つ先進的グローバル創薬企業」を実現",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "RD費控除前コア営業利益率",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "がんに強みを持つ",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コア営業利益率",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５期中計 「がんに強みを持つ先進的グローバル創薬企業」を実現",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "RD費控除前コア営業利益率",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "がんに強みを持つ",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持続的な成長を実現するため、当社のサイエンス＆テクノロジーの強みを活かしたこれ",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Financial_Results_J.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2035 年に向けたDXビジョン",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度から2030年度を対象とする第6期中期経営計画では、データとデジタル技術の活用を、持続的な成長と経営戦略の実行を支える重要な基盤の一つと位置づけています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月現在、11カ国のグループ会社に所属する10,000名以上の社員が利用しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けた将来像の中でAI Readyを重要な要素として位置づけ、外部の知見も取り入れながら、一人ひとりが自律的にAIを活用できる組織文化への変革を進めています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年ビジョン",
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年計数目標",
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度連結売上収益",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度当期利益（親会社帰属）",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度連結研究開発費",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日時点",
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度｜学習機会の広がり",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度｜AI関連研修の拡充と応募の広がり",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度は研修機会をさらに増やし、AI関連研修を含むDX人材育成研修全体にも多くの応募が寄せられています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年からAI翻訳プラットフォームを導入し、さまざまな業務で活用しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月には、テキストやファイルを迅速かつ正確に翻訳する「DeepL Pro」、2026年5月にはオンライン会議の発言をリアルタイムで翻訳する「DeepL Voice」の運用を開始しました",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月： グローバルの財務データを一元的に収集するCentral Finance（CFIN）が稼働",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月： 欧州の対象国にグローバルERPを導入",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月： 米国にグローバルERPを導入",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度中：日本での稼働開始を予定",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度計数目標",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年代前半で営業利益1兆円規模を目指せる位置へ",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日更新",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度実績",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度決算発表及び第6期中期経営計画説明会資料",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算（2026年10月30日発表）",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/quarterly_result/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月11日に公表しました2025年度決算について、一部訂正すべき事項がありましたので、2026年7月31日付で訂正いたします",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/quarterly_result/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算（2026年7月31日発表）",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/quarterly_result/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月11日に公表しました2025年度決算について、一部訂正すべき事項がありましたので、2026年7月31日付で訂正いたします",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度決算説明会及び第6期（2026-2030年度）中期経営計画説明会（2026年7月31日訂正版）",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度決算説明会及び第6期（2026-2030年度）中期経営計画説明会（2026年5月11日公表版）",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 連結業績予想修正説明会（2026年5月8日 17:00 開催）",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年の医薬品市場の売上は、世界全体で1兆7,498億ドル（約262兆円",
+    "url": "https://www.daiichisankyo.co.jp/investors/individual/pharmaceutical/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年からは執行と監督の分離を促進し、取締役会の透明性および監督機能を向上させるために、社外取締役が取締役会議長に就任しています",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は計14回開催し、全ての取締役及び監査役が全ての回に出席しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は計10回開催し、全ての委員及びオブザーバーが全ての回に出席しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は計11回開催し、全ての委員及びオブザーバーが全ての回に出席しております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の役員ごとの連結報酬等の総額等",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 監査役監査の状況",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/audit/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 監査役会評価について",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/audit/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度の取締役会における重点施策の一つである「取締役会の監督機能のさらなる強化に向けた長期戦略や中期経営計画（以下、「中計」）、グローバル化等の重点テーマについての議論の充実」について、具体的な議論の内容や、今後重要になると思われるテーマなどについて、お一人ずつお聞かせください",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年ビジョンに向かって、当社の長期的な成長をけん引することが期待されるエンハーツ®の適応症の拡大やADCパイプラインは、他社に類を見ない非常に大きな資産です",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月には、３年連続でDX銘柄に選定され、ITパスポート資格を持った人材も約2,000名います",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度の取締役会における重点施策の一つである「取締役会の意思決定機能および監督機能のさらなる強化に向けた運営面での改善」について、医療用医薬品という非常に専門性が高いビジネスをモニタリングする難しさとそれをどのように克服されているのか、取り組みや工夫がありましたら、お聞かせください",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 取締役会評価 結果",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年度 取締役会評価において、当社取締役会は、取締役会の役割、責務、運営および構成の面、ならびに、取締役会の諮問機関である指名委員会、報酬委員会が適切に機能しており、取締役会全体の実効性が確保されているとの評価結果が出ております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年6月開催の定時株主総会の決議により、当社初の女性の社内取締役、外国籍の社内取締役が就任した",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 重点施策",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年度 取締役会評価において、前年度の評価における更なる改善課題について改善が進んでいることを確認したものの、「取締役会の意思決定機能および監督機能の更なる強化」、「取締役会のモニタリング、リスクマネジメント機能の更なる強化」、「取締役会における議論の更なる充実･深化に向けた取締役会運営」について、継続して改善を重ねる必要性が挙げられております",
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日付で、本資料の一部を訂正しております",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度計数目標",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度目標を達成し成長ステージへ",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年ビジョン",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年目標 ⇒ 実現",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年 目標",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社の研究所で生み出された革新的な医薬品が、ライセンスアウトを経て、現在患者さんに届きつつある",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アステラス、オーストラリアAudax社とIL-12融合蛋白質DAX-044の独占的ライセンスおよびオプション契約を締結",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/070900062/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "• 枠の範囲は現在の潜在的なターゲットセグメントを示す",
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参考：海外売上比率 69.9% 75.5% （第3四半期以降の想定レート）",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参考：海外売上比率 69.2% 70.7% 70.6% 79.1% 72.7% 74.6% 76.4% 75.5%",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報） ……………………………………………………………… 17",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Financial_Results_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報）",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Financial_Results_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、「医薬事業」の単一セグメントであるため、報告セグメント別の記載は省略しております",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Financial_Results_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参考：海外売上比率 69.2% 74.6% （第2四半期以降の想定レート）",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Reference_Data_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参考：海外売上比率 69.2% 70.7% 70.6% 79.1% 72.7% 74.6% 74.6%",
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Reference_Data_J.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "第一三共ビジネス アソシエ株式会社 — 第一三共ビジネス アソシエ株式会社 第一三共ビジネスアソシエ株式会社 https://www.daiichisankyo-ba.co.jp",
+    "url": "https://www.daiichisankyo-ba.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共 株式会社｜イノベーションに情熱を。ひとに思いやり ... — 第一三共 株式会社｜イノベーションに情熱を。ひとに思いやり ... 第一三共株式会社 https://www.daiichisankyo.co.jp",
+    "url": "https://www.daiichisankyo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共 子会社の 第一三共ビジネス アソシエを吸収合併 業務 ... — 第一三共 子会社の 第一三共ビジネス アソシエを吸収合併 業務 ... ミクスOnline https://www.mixonline.jp > tabid55",
+    "url": "https://www.mixonline.jp/tabid55.html?artid=79694",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略とビジョン - 第一三共 株式会社 — 経営戦略とビジョン - 第一三共 株式会社 第一三共株式会社 https://www.daiichisankyo.co.jp > vision > our_strategy",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の皆さま - 第一三共株式会社 — 個人投資家の皆さま - 第一三共株式会社 第一三共株式会社 https://www.daiichisankyo.co.jp > investors > individual",
+    "url": "https://www.daiichisankyo.co.jp/investors/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 発表関連 資料 - IR ライブラリ - 株主・投資家の皆さま — 決算 発表関連 資料 - IR ライブラリ - 株主・投資家の皆さま 第一三共株式会社 https://www.daiichisankyo.co.jp > library > quarterly_result",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/quarterly_result/",
+    "pass": 3
+   },
+   {
+    "quote": "IR ニュース - 株主・投資家の皆さま - 第一三共 株式会社 — IR ニュース - 株主・投資家の皆さま - 第一三共 株式会社 第一三共株式会社 https://www.daiichisankyo.co.jp > investors > ir_news",
+    "url": "https://www.daiichisankyo.co.jp/investors/ir_news/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さま - 第一三共 株式会社 — 株主・投資家の皆さま - 第一三共 株式会社 第一三共株式会社 https://www.daiichisankyo.co.jp > investors",
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 説明 会 資料 - IR ライブラリ - 株主・投資家の皆さま — IR 説明 会 資料 - IR ライブラリ - 株主・投資家の皆さま 第一三共株式会社 https://www.daiichisankyo.co.jp > library > materials",
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "pass": 3
+   },
+   {
+    "quote": "【 第一三共 】[4568]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 第一三共 】[4568]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4568",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルマネジメント体制図 - リーダーシップ - 理念と強み — グローバルマネジメント体制図 - リーダーシップ - 理念と強み 第一三共株式会社 https://www.daiichisankyo.co.jp > organizationchart",
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/organizationchart/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共 ってどんな会社 - 個人投資家の皆さま — 第一三共 ってどんな会社 - 個人投資家の皆さま 第一三共株式会社 https://www.daiichisankyo.co.jp > individual > about",
+    "url": "https://www.daiichisankyo.co.jp/investors/individual/about/",
+    "pass": 3
+   },
+   {
+    "quote": "DX - データと先進デジタル技術の活用 - 第一三共 について — DX - データと先進デジタル技術の活用 - 第一三共 について 第一三共株式会社 https://www.daiichisankyo.co.jp > about_us",
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共 国内外の主なグループ会社 — 第一三共 国内外の主なグループ会社 第一三共株式会社 https://www.daiichisankyo.co.jp > corporate_info > group",
+    "url": "https://www.daiichisankyo.co.jp/about_us/corporate_info/group/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜ 第一三共 株式会社｜Recruiting SITE — トップメッセージ｜ 第一三共 株式会社｜Recruiting SITE 第一三共株式会社 https://www.daiichisankyo.co.jp > atfirst > president",
+    "url": "https://www.daiichisankyo.co.jp/recruit/graduate/atfirst/president/",
+    "pass": 3
+   },
+   {
+    "quote": "第一三共 ・奥澤宏幸代表取締役 社長 兼CEO 社長 執行役員に聞く — 第一三共 ・奥澤宏幸代表取締役 社長 兼CEO 社長 執行役員に聞く 日経バイオテクONLINE https://bio.nikkeibp.co.jp > 日経バイオ年鑑2026目次",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/070900062/",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 奥沢宏幸 第一三共社長 - 週刊エコノミスト — 編集長 インタビュー 奥沢宏幸 第一三共社長 - 週刊エコノミスト 週刊エコノミスト https://www.weekly-economist.com > okuzawa_hiroyuki",
+    "url": "https://www.weekly-economist.com/interview/okuzawa_hiroyuki/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー - Recruiting SITE - 第一三共株式会社 — 社員 インタビュー - Recruiting SITE - 第一三共株式会社 第一三共株式会社 https://www.daiichisankyo.co.jp > graduate > people",
+    "url": "https://www.daiichisankyo.co.jp/recruit/graduate/people/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daiichisankyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/dxhr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/enablers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/dx/retabell-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/library/quarterly_result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/library/annual_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/financial_highlights/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/tokyo_stock_exchange/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/investors/individual/pharmaceutical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/structure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/board_committees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/compensation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/audit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/roundtabletalk_4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/about_us/governance/evaluation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/responsibility/global_policy/index/pdf/global_dx_management_policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/about_us/mission-strength/vision/strategy/5YBPJ2026-2030_updated.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2025/FY2025%20Financial%20Results%20and%205Year%20Business%20Plan%20Presentation_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Financial_Results_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/files/investors/library/quarterly_result/2026/FY2026Q1_Reference_Data_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/about_us/dx/img/img_flow01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/about_us/dx/img/img_flow02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/about_us/dx/img/img_flow03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/about_us/dx/img/img_flow04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/about_us/dx/img/img_flow05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/investors/individual/pharmaceutical/index/images/model_pic1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/investors/individual/pharmaceutical/index/images/model_pic2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daiichisankyo.co.jp/Portals/0/files/about_us/governance/structure/index/images/img_fig_CorporateGovernanceStructure_2026_001.webp?460",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.daiichisankyo-ba.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/070900062/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "第一三共",
+   "results": [
+    "https://www.daiichisankyo.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E4%B8%89%E5%85%B1",
+    "https://www.nikkei.com/nkd/company/?scode=4568",
+    "https://www.daiichisankyo-hc.co.jp/",
+    "https://www.daiichisankyo.com/",
+    "https://www.facebook.com/daiichisankyoJP/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/第一三共",
+    "https://en.wikipedia.org/wiki/Daiichi_Sankyo",
+    "https://www.daiichisankyo.co.jp/about_us/corporate_info/",
+    "https://finance.yahoo.co.jp/quote/4568.T"
+   ]
+  },
+  {
+   "query": "第一三共 ビジネスモデル",
+   "results": [
+    "https://www.daiichisankyo-ba.co.jp/",
+    "https://www.daiichisankyo.co.jp/",
+    "https://www.mixonline.jp/tabid55.html?artid=79694",
+    "https://www.daiichisankyo.co.jp/about_us/mission-strength/vision/our_strategy/",
+    "https://www.daiichisankyo.co.jp/investors/individual/",
+    "https://job.mynavi.jp/28/pc/search/corp96933/outline.html",
+    "https://www.daiichisankyo.co.jp/investors/individual/about/",
+    "https://www.daiichisankyo-hc.co.jp/recruit/fresh/about/business.html",
+    "https://iyakutsushinsha.com/2026/01/30/%E5%AE%8C%E5%85%A8%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%BC%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%80%8C%E7%AC%AC%E4%B8%80%E4%B8%89/",
+    "https://bizi-mo.com/c/daiichisankyo"
+   ]
+  },
+  {
+   "query": "第一三共 決算説明資料",
+   "results": [
+    "https://www.daiichisankyo.co.jp/investors/library/quarterly_result/",
+    "https://www.daiichisankyo.co.jp/investors/ir_news/",
+    "https://www.daiichisankyo.co.jp/investors/",
+    "https://www.daiichisankyo.co.jp/investors/library/materials/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4568",
+    "https://www.daiichisankyo.co.jp/investors/ir_news/detail/index_7376.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261028558612/",
+    "https://edinetdb.jp/company/E00984/presentations/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260730504173",
+    "https://www.irwebcasting.com/20261030/5/972039a5a0/mov/main/index.html"
+   ]
+  },
+  {
+   "query": "第一三共 事業系統図",
+   "results": [
+    "https://www.daiichisankyo.co.jp/about_us/mission-strength/organizationchart/",
+    "https://www.daiichisankyo.co.jp/investors/individual/about/",
+    "https://www.daiichisankyo.co.jp/about_us/dx/",
+    "https://www.daiichisankyo.co.jp/about_us/corporate_info/group/",
+    "https://www.daiichisankyo.co.jp/",
+    "https://www.daiichisankyo.co.jp/investors/",
+    "https://www.daiichisankyo-hc.co.jp/company/data/",
+    "https://kitaishihon.com/company/4568/business",
+    "https://www.daiichisankyo.co.jp/files/about_us/corporate_info/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85_200806_%E5%92%8C%E6%96%872.pdf",
+    "https://www.daiichisankyo-ep.co.jp/corporate/img/organization_chart_202604.pdf"
+   ]
+  },
+  {
+   "query": "第一三共 社長 インタビュー",
+   "results": [
+    "https://www.daiichisankyo.co.jp/recruit/graduate/atfirst/president/",
+    "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/070900062/",
+    "https://www.weekly-economist.com/interview/okuzawa_hiroyuki/",
+    "https://www.daiichisankyo.co.jp/recruit/graduate/people/",
+    "https://x.com/chemicaldailyad/status/2033681597543944259",
+    "https://toyokeizai.net/articles/-/953918?display=b",
+    "https://www.daiichisankyo-hc.co.jp/recruit/fresh/person/",
+    "https://www.instagram.com/p/DBx_Qw2TBKS/",
+    "https://www.j-big.de/ja/daiichi-sankyo%E3%80%8C%E5%88%A9%E7%9B%8A%E3%81%A0%E3%81%91%E3%82%92%E8%BF%BD%E6%B1%82%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AB%E6%88%90%E5%8A%9F%E3%81%AF%E3%81%AA%E3%81%84%E3%80%8D/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

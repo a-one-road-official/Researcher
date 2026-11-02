@@ -1,0 +1,1905 @@
+{
+ "name": "ユニ・チャーム",
+ "aliases": [],
+ "context": "証券コード8113／化学／プライム（内国株式）／2025.12期 売上高945,268百万円 営業利益率10.8%",
+ "researched_at": "2026-11-02T20:44:46.616272+00:00",
+ "official_url": "https://www.unicharm.co.jp/",
+ "identified_by": "search:yahoo_jp:ユニ・チャーム",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1961年2月10日",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "グループ合計16,542名（2025年12月）",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ウェルネスケア関連製品、ペットケア関連製品、フェミニンケア関連製品、ベビーケア関連製品、食品包材等の販売",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1.5兆円",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "1.3兆円（CAGR7%程度※）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "1.5兆円（CAGR10%程度※）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユニ・チャームと取引先小売業15社、売上の一部を「緑の募金」に寄付",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "「かんたん応募サービス」は、お客様がキャンペーン等に応募いただく際の入力操作を簡略化するためのサービスです",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、ウェルネスケア、ペットケア、フェミニンケア、ベビーケアの4つの事業が、より高品質な商品開発と積極的なマーケティング活動を通じて、さらなる顧客満足の向上を目指しています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "生理対象人口が減少する中、近年ユーザーが増加傾向にあるのが、おりものや下着の汚れなどの不快を取り除くパンティライナーです",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ･チャームのベビー用紙おむつは、お客様のニーズに合わせ、『ムーニー』・『マミーポコ』の2つのブランドを展開しています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客の表情」「繊維の違い」まで伝わる「デジタルスクラムシステム」開発",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "『ソフィガール』＆『ソフィ』アプリの利用者が100万人を突破",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、不織布・吸収体関連事業に経営資源を集中させ、専門メーカーならではのお客様のニーズにきめ細かく応える商品を先駆けて市場へ投入しています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ・チャーム株式会社（以下、当社）は、お客様、株主、投資家、お取引先等、あらゆるステークホルダーの皆さまに対し、情報の適時・適切かつ公平な開示を行うことにより、透明性の高い企業活動を推進します",
+    "url": "https://www.unicharm.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、ウェルネスケア、ペットケア、フェミニンケア、ベビーケアの4つの事業が、より高品質な商品開発と積極的なマーケティング活動を通じて、さらなる顧客満足の向上を目指しています",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "pass": 1
+   },
+   {
+    "quote": "生理対象人口が減少する中、近年ユーザーが増加傾向にあるのが、おりものや下着の汚れなどの不快を取り除くパンティライナーです",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ･チャームのベビー用紙おむつは、お客様のニーズに合わせ、『ムーニー』・『マミーポコ』の2つのブランドを展開しています",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "pass": 1
+   },
+   {
+    "quote": "トップーメーカーとして、社会や市場全体をリードし、商品を通していかに世の中に貢献できるか、いかにお客様のためになる提案ができるかを考え抜く",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロケア営業ではエリア担当としてエリア内のお客様の快適な排泄ケアを提案し、実現することで、「ライフリー」のシェア拡大を目指します",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "市場調査などを通してユーザーの行動やニーズを分析し、新たな商品開発や改良のアイデアを見つけ、パッケージ・広告・販売戦略に落とし込み、顧客を魅了する新しい価値を生み出していく",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "現場密着を大切にしており、開発者自らが世界中のお客様の生活現場に赴いてニーズを掘り起こし、仮説検証を繰り返しながらアイデアを形にしていきます",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "全世界の自社製品に使用する資材を対象に、共に成長できる取引先様の決定や、取引先様との協働を通じて今までにない新たな素材の開発に取り組んでいます",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業では原価に占める資材コストの割合が大きく、資材のコストダウンは企業の利益に大きく関わり、資材の性能・品質はお客様へ提供する製品機能に大きく関わります",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本及び海外の取引先様とコミュニケーションを密に取り、自社及び業界全体の価値創造に貢献するポジションです",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとって価値ある知的財産権を取得できるよう月度の打ち合わせや担当同士での都度連携によって、他社の権利を侵害しないように商品発売前の調査業務や、社内外の知的財産情報や技術情報を分析し、開発やマーケティングの戦略を誘導するような発信も行っています",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "その為に、新規事業の創出とより良いユーザー体験を提供することを目指し、顧客フリクションの探索から、デジタルプロダクトや、既存商品に閉じないリアル商品・サービスの構築を実現することに従事しています",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "各ライフコースごとに接続性のある顧客体験をデザインし、顧客から見たときに「自分の人生にとって重要なことに取り組んでくれている」状態に転換すること",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "②ブランド・商品単位の短期ROIベースの発想から、顧客との長期・多様な収益を前提とした考え方に収益モデルを転換することで、潜在ニーズを捉える新領域を創造・育成し、各ライフコースにおいて自社商品購入等を通じてLTV（生涯顧客価値）を向上すること",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "その過程で、リアルとデジタルの双方からユーザー体験を変えようと考えたのがMDX本部創設のきっかけです",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客起点によるUX改善や、ビジネスモデルの転換、サービスデザインの経験がある方が多いです",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "ジッとできない赤ちゃんを無理やり寝かせておむつを替えようと苦戦するママの様子を観察していた開発部員が、「赤ちゃんだけでなく、ママも紙おむつのユーザーだ」と気づきました",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/innovationstories.html",
+    "pass": 1
+   },
+   {
+    "quote": "タイでは、おむつ交換の簡便性を高めた「前後なし」パンツを発売し、育児の負担を軽減する商品としてお客様",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 381,679 75,578 6,913 464,170 － 464,170",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 396,815 82,870 7,448 487,133 － 487,133",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "タイでは、おむつ交換の簡便性を高めた「前後なし」パンツを発売し、育児の負担を軽減する商品としてお客様",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 381,679 75,578 6,913 464,170 － 464,170",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 396,815 82,870 7,448 487,133 － 487,133",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの売上高は、一時点で顧客に移転される財から生じる収益で構成 されております",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "債券の公正価値は、取引先金融機関から提示された評価額を用いて算定しております",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① ：顧客のLTVを最大化するモデルを構築",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・社会との「共創価値」の「最大化」",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・社会との",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 顧客との接点・深層心理の理解と領域拡張",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との接点",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との対話",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（顧客接点の創出）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "接点を「点」から「線（日常）」へ広げ、顧客解像度を向上",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との「共創」関係の構築",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 国内外各事業の核にLYPsの思想を据えることで、顧客との強い絆を構築",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "犬猫のお悩み共有サービス『DOQAT』にて「ペットの防災に関する実態調査」を実施",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス限定プレゼント",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "「かんたん応募サービス」は、お客様がキャンペーン等に応募いただく際の入力操作を簡略化するためのサービスです",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ・チャームの商品の一部をオンラインでご購入いただけます",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "ウェルネスケア関連製品、ペットケア関連製品、フェミニンケア関連製品、ベビーケア関連製品、食品包材等の販売",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "その願いを実現するために、ユニ・チャームは、不織布・吸収体の加工・成形分野で培ってきた技術を活かして、さまざまな世代に向けた商品やサービスをお届けしています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、ウェルネスケア、ペットケア、フェミニンケア、ベビーケアの4つの事業が、より高品質な商品開発と積極的なマーケティング活動を通じて、さらなる顧客満足の向上を目指しています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような中、ユニ･チャームの『ライフリー』ブランドは、日常生活の中で重要な排泄ケア分野において「自立と尊厳とゆとり」の提供をめざし、ご本人のお体の状態に応じた商品を提供しています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "排泄ケアにおける重要な点は、ご本人の状態や生活リズムに合わせ、最適な商品を選びうまく組合せて使うこと",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "仕事も家事もプライベートも充実させたいと忙しく活躍する方に最適な商品です",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "お料理から後片付けまで、快適・便利・衛生的を提供する商品です",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "『シルコット コットン』は、30年近く愛され続けているロングラン商品で、コスメ関連サイト人気ランキングでも高い評価をいただいています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年に開設した育児情報サイト「ベビータウン」では、育児の楽しさや喜びを実感していただけるよう、子育てに役立つ情報の発信やポイントキャンペーンの実施などのサービスを行って参りました",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "」としてサービスを継続させていただいています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "数々の独創的な技術や商品を開発し、パイオニアとして業界をリードし続けてきました",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内に大人用失禁製品の合弁会社ユニ・チャームメンリッケ（株）設立",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "犬用排泄ケア商品「オス用 おしっこオムツ」発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内主力3工場に太陽光発電システムを導入",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "犬用排泄ケア商品「マナーウェア」発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "犬用排泄ケア商品「マナーウェア女の子用」発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ライフリーさわやかパッド男性用 微量」が「2016年日経優秀製品・サービス賞優秀賞日経MJ賞」を受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "犬用排泄ケア商品「マナーウェア男の子用迷彩柄・女の子用チェック柄」発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベビー用紙おむつ定額制サービスを開始",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最高水準の繊維製品安全性認証「OEKO-TEX®Standard1000」、日本のおむつで初めて「ナチュラルムーニー」が取得",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "猫用排泄ケア商品“ねこ用吸収ウェア”「マナーウェアねこ用」発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "猫用排泄ケア商品 自宅での猫の体調管理を促進「おうちでおしっこチェックキット」発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第１回 日本子育て支援大賞」ベビー用紙おむつ定額制サービスで受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「店舗検索システム」サービスを開始",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシアでPEFC森林認証に対応した「CoC認証」搭載商品を発売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "イオン九州、コーナン商事でRefF（リーフ）商品を販売",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生制度に「卵子凍結あんしんバンク™」サービスを導入",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "“世界的に通用するユニークな商品やサービスを提供する統合した会社でありたい”という思いが込められました",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "絶対的価値：当社のコーポレートブランドエッセンス「Love Your Possibilities」を象徴する、当社にしか生み出せない商品・サービスを通じたサーキュラーエコノミーの創出で、シンボルとなる『RefF（リーフ）』のほか、『ソフィBe（ホルモンの変化に着目した生理・体調管理アプリ）』の取り組みなどです",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように当社は商品だけでなく、サービスを通じて社会課題を解決し、世界中の生活者にとってなくてはならないライフタイムパートナーへ進化することを目標に掲げています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ・チャームの商品",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ・チャームは、不織布、吸収体の加工・成形技術を活用した高付加価値な商品にさまざまなサービスを付加することで新たな価値を提供し、社会課題の解決を目指しています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、不織布・吸収体関連事業に経営資源を集中させ、専門メーカーならではのお客様のニーズにきめ細かく応える商品を先駆けて市場へ投入しています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力を活かし、赤ちゃんからお年寄り、またペットを含めた幅広い年齢層に対してバランスよく商品を展開していることにより、人口動態の影響を受けず、持続的に成長することが可能となっています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニ・チャームが提供するさまざまな商品やサービスは、清潔で健康的な生活のために不可欠なものとして、世界のあらゆる地域で需要が高まっています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん応募サービス",
+    "url": "https://www.unicharm.co.jp/ja/ir/library.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ユニ・チャームのサステナビリティ情報や、環境、人権等への取り組みについてご紹介します",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "〜グローバルで成長を加速させる、ユニ・チャームグループのペットケア事業を紹介〜",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "」では介護の必要な高齢者や介護される方々に、快適な排泄ケアの知恵と工夫を紹介しています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本の少子化・高齢化が進む中、犬や猫などのペット飼育数は増えており、もはやペットは、大切なパートナー・家族の一員としてかけがえのない存在となっています",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "グリーン物流パートナーシップ会議「経済産業大臣表彰」を共同受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Jリーグ「FC今治」とトップパートナー契約発表",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "グリーン物流パートナーシップ会議「国土交通大臣表彰」を共同受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「店舗検索システム」サービスを開始",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "〜グローバルで成長を加速させる、ユニ・チャームグループのペットケア事業を紹介〜",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように当社は商品だけでなく、サービスを通じて社会課題を解決し、世界中の生活者にとってなくてはならないライフタイムパートナーへ進化することを目標に掲げています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "〜グローバルで成長を加速させる、ユニ・チャームグループのペットケア事業を紹介〜",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/e-announcement.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/convocation.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/stock_search.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "」では介護の必要な高齢者や介護される方々に、快適な排泄ケアの知恵と工夫を紹介しています",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本の少子化・高齢化が進む中、犬や猫などのペット飼育数は増えており、もはやペットは、大切なパートナー・家族の一員としてかけがえのない存在となっています",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介｜採用情報-ユニ・チャーム",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業職は若いうちから大きな裁量を与えられ、小売業本部や、病院・施設への営業活動を行い、お得意先様の課題解決パートナーとして、幅広い業務に関わることができます",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "案件によってさまざまですが、基本はデザイン専門のパートナー企業様への発注になるため、クリエイティブディレクターとしての役割が大きくなります",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/innovationstories.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/recruit/recruit/requirements.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品取扱い店舗検索",
+    "url": "https://www.unicharm.co.jp/ja/ir/library/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業基盤と、当社グループのマーケティング力及び営業ノウハウを融合させ、ブランド投資や販売網の強化を通じ",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な事業基盤と、当社グループのマーケティング力及び営業ノウハウを融合させ、ブランド投資や販売網の強化を通",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 「３つのR」によるライフタイムパートナーへの変革",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "「海外でも自社生産にこだわってきたが、今後は現地OEMやODM（相手先ブランドによる設計・製造）のパートナーを活用した地産地消モデルに転換する",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震への支援について",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月29日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震に関するお知らせ",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月01日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期中間報告書を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月14日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月15日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月09日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 1
+   },
+   {
+    "quote": "1961年2月10日",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年に開設した育児情報サイト「ベビータウン」では、育児の楽しさや喜びを実感していただけるよう、子育てに役立つ情報の発信やポイントキャンペーンの実施などのサービスを行って参りました",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年度「消費者志向優良企業」として経済産業大臣表彰受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年度「知財功労賞」として経済産業大臣表彰受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年9月発行転換社債が「DEALWATCHAWARDS2015」と「キャピタル・アイAwards BEST DEALS OF2015」を受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年～現在",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和３年度エコシップ・モーダルシフト事業優良事業者「海運モーダルシフト大賞」を受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年度 消費者志向経営優良事例表彰「内閣府特命担当大臣表彰」を受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年度 みんな子育て応援団大賞「香川県知事賞」を受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年度 消費者志向経営優良事例表彰「消費者庁長官賞」を受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期中間配当金支払関係書類発送",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月01日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期中間報告書を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月14日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期半期報告書を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）決算説明資料を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）決算短信を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月02日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月29日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年統合レポートを掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月15日",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）（2026/01/01-2026/06/30）決算短信〔IFRS〕（PDF:374KB）",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）（2026/01/01-2026/06/30）決算説明資料（PDF:8,185KB）",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代にはペット関連事業を開始し、今日まで当社の成長を支えています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代からは不織布・吸収体の加工技術を活かしたコア事業へ再編し、ベビーケア、フェミニンケア、ウェルネスケア、ペットケアの4分野を中心に、お誕生から介護にいたるまで、人とペットの生涯をサポートする企業へと拡大を遂げました",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代からは地球温暖化やプラスチック汚染などの環境問題が深刻化する中、2015年に、使用済み紙パンツの再資源化を目指し、「紙パンツから紙パンツへの水平リサイクル」である、「RefF※（リーフ）プロジェクト」を開始するなど、当社は「共生社会の実現」・「SDGsの達成」に貢献すべく、「相対的価値」でも「絶対的価値」でも2030年までに世界一になることを目指しています",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年｜IRニュース一覧｜投資家情報-ユニ・チャーム",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月01日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期中間報告書を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月14日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期半期報告書を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）決算説明資料を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）決算短信を掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月02日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月29日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年統合レポートを掲載しました",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "日本サブスクリプションビジネス大賞2020「手ぶら登園」がグランプリを受賞",
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "いやすいパック単価への変更を実施しました",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "買いやすいパック単価への変更を実施しました",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "チャプター2 持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "相対的価値： 2030年までに売上高1.5兆円、コア営業利益率17％、世界シェアNo.1の実現、および時価総額4兆円の達成です",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "～中長期的な収益力と高い競争優位性を持つ企業として評価～",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/e-announcement.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/convocation.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/stock_search.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長を支えるユニ・チャームの強み",
+    "url": "https://www.unicharm.co.jp/ja/ir/library/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外においては、当社の強みとなるパンツタイプ紙おむつを中心に普及促進と独自性のある商品展開を進めまし",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの施策を着実に実行することによって来期に向けた高収益体制の整備を加速させ、次期における業績の拡",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Nutrire社が強みとする高品質な生産基盤と、当社が長年培ってきたマーケティングや商品開発力を融合させ",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外においては、当社の強みとなるパンツタイプ紙おむつを中心に普及促進と独自性のある商品展開を進めまし",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Nutrire社が強みとする高品質な生産基盤と、当社が長年培ってきたマーケティングや商品開発力を融合",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 コア営業利益率（COPM）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 消費者の価値観やチャネルの変化、競合との競争激化に対し、競争優位性が不足",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバルとローカルの強みを融合させた",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ ライフサイクルインサイトによる競争優位性を確立",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個々に寄り添う「パーソナライズ製品」で、高収益なプレミアム市場を開拓",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（粗利率向上）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（コア営業利益率の向上）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コア営業利益率：17%",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コア営業利益率：15%",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高1.5兆円・コア営業利益率17％へのチャレンジ",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が強みとする高",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/news/2026/20260515_%E5%BD%93%E7%A4%BE%E9%80%A3%E7%B5%90%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%82%88%E3%82%8B%E6%8C%81%E5%88%86%E8%AD%B2%E6%B8%A1%E5%A5%91%E7%B4%84%E7%B7%A0%E7%B5%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "MDX（Marketing By DX）本部の組成の目的は、女性の一生を通じたLTVビジネスモデルへの転換です",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "②ブランド・商品単位の短期ROIベースの発想から、顧客との長期・多様な収益を前提とした考え方に収益モデルを転換することで、潜在ニーズを捉える新領域を創造・育成し、各ライフコースにおいて自社商品購入等を通じてLTV（生涯顧客価値）を向上すること",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客起点によるUX改善や、ビジネスモデルの転換、サービスデザインの経験がある方が多いです",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "衛生用品の大手メーカーであり、ベビーケア・ヘルスケア関連商品にてアジアでトップクラスの売上を誇ります（海外売上比率6割超え）",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 1
+   },
+   {
+    "quote": "3．セグメント情報 ………………………………………………………………………………………………… 15",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと次のとおりであります",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、パーソナルケアの売上高は396,815百万円（前年同期比4.0％増）、セグメント利益（コア営業利益）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、ペットケアの売上高 は82,870百万円（前年同期比9.6％増）、セグメント利益 （コア営業利益 ）は",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、その他の売上高は7,448百万円（前年同期比7.7％増）、セグメント利益（コア営業利益）は1,270百万",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上高 － － 90 90 △90 －",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高合計 381,679 75,578 7,003 464,260 △90 464,170",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3．セグメント情報",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）報告セグメントの概要",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であ",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、当社グループは「パーソナルケア」「ペットケア」「その他」の3つを報告セグメントとして",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、報告セグメントの会計方針は要約中間連結財務諸表と同一であります",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）報告セグメントごとの売上高及び業績",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び業績は以下のとおりであります",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上高 － － 84 84 △84 －",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高合計 396,815 82,870 7,531 487,217 △84 487,133",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと次のとおりであります",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、パーソナルケアの売上高は396,815百万円（前年同期比4.0％増）、セグメント利益（コア営業利益）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、ペットケアの売上高 は82,870百万円（前年同期比 9.6％増）、セグメント利益（コア営業利益 ）は",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、その他の売上高は7,448百万円（前年同期比7.7％増）、セグメント利益（コア営業利益）は1,270百",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上高 － － 90 90 △90 －",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高合計 381,679 75,578 7,003 464,260 △90 464,170",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△）",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5．セグメント情報",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）報告セグメントの概要",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であ",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、当社グループは「パーソナルケア」「ペットケア」「その他」の3つを報告セグメントとして",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、報告セグメントの会計方針は要約中間連結財務諸表と同一であります",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）報告セグメントごとの売上高及び業績",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び業績は以下のとおりであります",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上高 － － 84 84 △84 －",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高合計 396,815 82,870 7,531 487,217 △84 487,133",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの売上高は、連結会社の所在地に基づき分解しております",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PC・WC売上高構成比計画",
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "チャプター2 持続的成長を支える ユニ ・ チャーム の強み — チャプター2 持続的成長を支える ユニ ・ チャーム の強み ユニ・チャーム https://www.unicharm.co.jp > step2",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step2.html",
+    "pass": 3
+   },
+   {
+    "quote": "職種紹介｜採用情報 - ユニ・チャーム — 職種紹介｜採用情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > 総合TOP > 採用",
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム の知財戦略： ビジネス と技術における競争優位 ... — ユニ ・ チャーム の知財戦略： ビジネス と技術における競争優位 ... TechnoProducer株式会社 https://www.techno-producer.com > AIレポート > 企業分析",
+    "url": "https://www.techno-producer.com/ai-report/unicharm_ip_strategy_report/",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる ユニ ・ チャーム チャプター1 — 3分でわかる ユニ ・ チャーム チャプター1 ユニ・チャーム https://www.unicharm.co.jp > step1",
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム 、売上高1兆円突破へ 自己実現価値や ... - note — ユニ ・ チャーム 、売上高1兆円突破へ 自己実現価値や ... - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/snowflake_note/n/n28144342f25f",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜IRライブラリー｜投資家情報 - ユニ・チャーム — 決算説明資料 ｜IRライブラリー｜投資家情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > ... > IRライブラリー",
+    "url": "https://www.unicharm.co.jp/ja/ir/library/investors.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 - ユニ・チャーム — 投資家情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > ...",
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜投資家情報 - ユニ・チャーム — IRライブラリー｜投資家情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > 総合TOP > 投資家情報",
+    "url": "https://www.unicharm.co.jp/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜IRライブラリー｜投資家情報 - ユニ・チャーム — 決算 短信｜IRライブラリー｜投資家情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > ... > IRライブラリー",
+    "url": "https://www.unicharm.co.jp/ja/ir/library/earnings.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ユニ ・ チャーム 】[8113]IR情報 中期経営計画や 決算 短信 — 【 ユニ ・ チャーム 】[8113]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=8113",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社案内｜企業情報 - ユニ・チャーム — 会社概要｜会社案内｜企業情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > 総合TOP > 企業情報",
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 分野｜会社案内｜企業情報 - ユニ・チャーム — 事業 分野｜会社案内｜企業情報 - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > 総合TOP > 企業情報",
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unicharm Group Integrated Report - 2025 - ユニ・チャーム — Unicharm Group Integrated Report - 2025 - ユニ・チャーム ユニ・チャーム PDF https://publish-www.unicharm.co.jp > library > annual",
+    "url": "https://publish-www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/annual/J_Integrated_Report_2025_all_print.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム : 総合TOP — ユニ ・ チャーム : 総合TOP ユニ・チャーム https://www.unicharm.co.jp > ...",
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム 【8113】の 事業 内容 - キタイシホン — ユニ ・ チャーム 【8113】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8113/business",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム社長 ｢海外企業と地産地消｣ 低迷のアジア業績 ... — ユニ ・ チャーム社長 ｢海外企業と地産地消｣ 低迷のアジア業績 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム 高原 社長 が語る経営哲学 - McKinsey — ユニ ・ チャーム 高原 社長 が語る経営哲学 - McKinsey McKinsey & Company https://www.mckinsey.com > ceo-interview > unicharm",
+    "url": "https://www.mckinsey.com/jp/ceo-interview/unicharm",
+    "pass": 3
+   },
+   {
+    "quote": "ユニ ・ チャーム ・高原豪久 社長 「AIとサーキュラーエコノミー ... — ユニ ・ チャーム ・高原豪久 社長 「AIとサーキュラーエコノミー ... 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/061100671/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜サステナビリティ - ユニ・チャーム — 社長 メッセージ｜サステナビリティ - ユニ・チャーム ユニ・チャーム https://www.unicharm.co.jp > 総合TOP > サステナビリティ",
+    "url": "https://www.unicharm.co.jp/ja/csr-eco/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 新春トップ インタビュー ―高原豪久 ユニ ・ チャーム 社長 — 2026年 新春トップ インタビュー ―高原豪久 ユニ ・ チャーム 社長 国際商業オンライン https://kokusaishogyo-online.jp > ユニ・チャーム",
+    "url": "https://kokusaishogyo-online.jp/2026/01/303639",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unicharm.co.jp/ja/home.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/company/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/individual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/financial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/e-announcement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/convocation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/stock_search.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/recruit/business/innovationstories.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/recruit/recruit/requirements.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/ja/ir/library/enterprise.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/en/company/business-field.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/en/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/en/ir.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/designs/corporate/page-custom/www_unicharm_co_jp/css/recruit/pdf/recruit-harassment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/news/2026/20260615_%E8%A6%AA%E4%BC%9A%E7%A4%BE%E7%AD%89%E3%81%AE%E6%B1%BA%E7%AE%97%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/earnings/20260805_%E7%AC%AC67%E6%9C%9F2Q_%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/investors/J_202606_Presentation%20Materials.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/2026%E5%B9%B412%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC67%E6%9C%9F%EF%BC%89%E5%8D%8A%E6%9C%9F%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/chukei/20260212_J_%E7%AC%AC13%E6%AC%A1%E4%B8%AD%E6%9C%9F%E8%A8%88%E7%94%BB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/news/2026/20260515_%E5%BD%93%E7%A4%BE%E9%80%A3%E7%B5%90%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%82%88%E3%82%8B%E6%8C%81%E5%88%86%E8%AD%B2%E6%B8%A1%E5%A5%91%E7%B4%84%E7%B7%A0%E7%B5%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/news/2026/20260515_%E7%89%B9%E5%AE%9A%E5%AD%90%E4%BC%9A%E7%A4%BE%EF%BC%88UNICHARM%20PET%20DO%20BRASIL%20LTDA%EF%BC%89%E3%81%AE%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/company/about/business-field/PC_%E3%83%AD%E3%82%B4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/company/about/business-field/FC%20%E3%83%AD%E3%82%B4%202024.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/company/about/business-field/BC_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/recruit2026/business/domain/img-recruit-domain-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/recruit2026/business/domain/img-recruit-domain-01-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/recruit2026/business/domain/img-recruit-domain-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/recruit2026/business/domain/img-recruit-domain-02-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/images/recruit2026/business/domain/img-recruit-domain-03.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/jp/ceo-interview/unicharm",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユニ・チャーム",
+   "results": [
+    "https://www.unicharm.co.jp/ja/home.html",
+    "https://www.d-unicharm.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%83%BB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%A0",
+    "https://x.com/UnicharmCorp_jp?lang=ja",
+    "https://jp.unicharmpet.com/ja/home.html",
+    "https://ja.wikipedia.org/wiki/ユニ・チャーム",
+    "https://en.wikipedia.org/wiki/Unicharm",
+    "https://www.unicharm.co.jp/ja/company/overview.html",
+    "https://www.d-unicharm.jp/product/catalog",
+    "https://www.unicharmproducts.co.jp/"
+   ]
+  },
+  {
+   "query": "ユニ・チャーム ビジネスモデル",
+   "results": [
+    "https://www.unicharm.co.jp/ja/ir/3minutes/step2.html",
+    "https://www.unicharm.co.jp/ja/recruit/business/work.html",
+    "https://www.techno-producer.com/ai-report/unicharm_ip_strategy_report/",
+    "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "https://note.com/snowflake_note/n/n28144342f25f",
+    "https://www.unicharm.co.jp/ja/recruit/company/sense.html",
+    "https://bizzine.jp/article/detail/12418",
+    "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/report/download/J_Integrated_Report_2021.pdf",
+    "https://mirai-design-company.co.jp/blog/business-model/455.html",
+    "https://www.unicharm.co.jp/ja/ir/report.html"
+   ]
+  },
+  {
+   "query": "ユニ・チャーム 決算説明資料",
+   "results": [
+    "https://www.unicharm.co.jp/ja/ir/library/investors.html",
+    "https://www.unicharm.co.jp/ja/ir.html",
+    "https://www.unicharm.co.jp/ja/ir/library.html",
+    "https://www.unicharm.co.jp/ja/ir/library/earnings.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8113",
+    "https://www.unicharm.co.jp/ja/ir/library/securities.html",
+    "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/investors/J_202603_0507_Presentation%20Materials.pdf",
+    "https://www.buffett-code.com/company/8113/library",
+    "https://packtimes.net/industry/626/",
+    "https://edinetdb.jp/company/E00678/presentations/"
+   ]
+  },
+  {
+   "query": "ユニ・チャーム 事業系統図",
+   "results": [
+    "https://www.unicharm.co.jp/ja/company/overview.html",
+    "https://www.unicharm.co.jp/ja/company/business-field.html",
+    "https://publish-www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/annual/J_Integrated_Report_2025_all_print.pdf",
+    "https://www.unicharm.co.jp/ja/home.html",
+    "https://kitaishihon.com/company/8113/business",
+    "https://www.techno-producer.com/ai-report/unicharm_ip_strategy_report/",
+    "https://www.unicharm.co.jp/ja/ir/report/download.html",
+    "https://www.unicharm.co.jp/content/dam/sites/www_unicharm_co_jp/pdf/ir/library/securities/UC%E7%AC%AC65%E6%9C%9F_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html",
+    "https://ja.wikipedia.org/wiki/ユニ・チャーム"
+   ]
+  },
+  {
+   "query": "ユニ・チャーム 社長 インタビュー",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUB1527I0V10C26A5000000/",
+    "https://www.mckinsey.com/jp/ceo-interview/unicharm",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/061100671/",
+    "https://www.unicharm.co.jp/ja/csr-eco/message.html",
+    "https://kokusaishogyo-online.jp/2026/01/303639",
+    "https://txbiz.tv-tokyo.co.jp/shacho/vod/post_323285",
+    "https://x.com/kokusaishogyo/status/2010861874502648295",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I4695110",
+    "https://president.jp/articles/-/110480",
+    "https://www.reuters.com/jp/world/interview/C65Y2RU2H5O7LDSIXZZCBD4XQI-2025-08-29/"
+   ]
+  }
+ ],
+ "missing": {}
+}

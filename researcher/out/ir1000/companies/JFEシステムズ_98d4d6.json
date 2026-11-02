@@ -1,0 +1,1773 @@
+{
+ "name": "ＪＦＥシステムズ",
+ "aliases": [],
+ "context": "証券コード4832／情報・通信業／スタンダード（内国株式）／2026.03期 売上高57,411百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:37:40.345573+00:00",
+ "official_url": "https://www.jfe-systems.com/",
+ "identified_by": "search:yahoo_jp:JFEシステムズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1983年9月1日（昭和58年9月1日）",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1986年10月24日",
+    "url": "https://www.jfe-systems.com/company/subsidiary.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1998年3月3日",
+    "url": "https://www.jfe-systems.com/company/subsidiary.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結：1,960人（2026年3月31日現在）　単体：1,600人（2026年3月31日現在）",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ITインフラ構築からシステム開発、DXまで、多彩な事業領域を融合したソリューションをご提案しています。 鉄鋼事業 ＪＦＥスチールの生産・操業管理システム、および本社・ＪＦＥグループ各社基幹・業務システムの構築・改善・運用・維持管理 鉄鋼業向け販売、生産・物流、会計、原価、購買、需給、品質などのシステム開発、保守 デジタル製造事業 SCMソリューション、産業データ＆AIプラットフォーム構築、デジタルワークプレイスの提供 サプライチェーンマネジメントシステム データサイエンス AI 産業ソリューション事業 製造業の豊富な業務知見に基づき、お客様のニーズに合った業務システムを構築 業務システム開発 ローコード開発 スマートソリューション事業 自社開発およびアライアンスソリューションを単独または組み合わせて提供 電子帳票システム（帳票データの電子化） 食品業界向け品質情報管理システム、製法管理システム 原価管理システム、購買管理システム、人事給与システム ERPソリューション事業 ERP（SAP社、Microsoft社）と自社開発のテンプレート群提供による基幹システム構築、およびBI/DWH構",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "SAPユーザー向けERP連携シミュレーション機能を追加",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な実績で培った高い技術力とノウハウを活かし、お客様のご要望を実現するソリューション・サービスをご提供します",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "業務革新を成功に導く仕組みをお客様と共に考える姿勢が、私たちのビジネスの原点です",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "培ったコンサルティング、システム設計・開発、プロジェクトマネジメント、ITインフラ構築のスキルを、製造業をはじめとするお客様にご提供し、お客様と社会の期待に応えます",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "」の核である「人間中心」が目指す未来は、「IT技術の提供を通して、お客様、私たち一人ひとりが持てる能力を発揮し、また有機的につながることで、想いをかたちにする喜びが広がること」です",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術・ノウハウをお客様へ、社会へ",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー系システムインテグレーターとして、お客様との長期的な信頼関係を大切にするカルチャーが根付いています",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業文化・業務・ニーズを理解",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との継続的な対話を通し、顧客企業を深く理解したIT提案を大切にしています",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、産業ソリューション事業では、製造業のお客様の特定領域に対する深い理解を前提とした、個社開発ビジネスを展開しています",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・社会課題に対する",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日々複雑化する顧客・社会課題に対応するためには、単一の視点や技術だけでは解決できません",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業の競争力向上、さらにその先の社会課題の解決に寄与します",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＦＥシステムズは、設立3年後の1986年に一般顧客向け事業をスタート",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の持つ課題に、多彩なソリューションを組み合わせた複合ソリューションをご提案します",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "設立時から現在まで、業務・お客様・売上・社員数・拠点数をそれぞれ拡大・増加してきました",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を存在意義とし、IT技術の提供を通して、お客様、私たち一人ひとりが持てる能力を発揮し、また有機的につながることで、想いをかたちにする喜びが広がる未来を目指しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼事業においては、製鉄所システムリフレッシュを計画どおり完遂し、重点成長事業を中心とするグループ外顧客向け事業では、前年度比で順調に増収を達成しました",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "（ファイブリッジ）シリーズ」は電子帳票システム分野のパイオニアであり、業種・業界を問わず4,700社以上のお客様にご利用いただき、企業シェアは19年連続No.1（*1）を誇っています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、様々なお客様の基幹システムおよび周辺システムを構築してきた経験を活かし、独自プロダクトを生み出してきました",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、「ベンダーフリー」という立場から、アライアンス契約した20のライセンス商品を取り扱っており、各ソリューションを組み合わせることで、お客様に最適なトータルソリューションをご提案しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "」は、食品業界の大手企業を中心に、500社以上のお客様に、また「MerQurius Net",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様やビジネスパートナー様をはじめ、",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客業務理解力、",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の母体である川崎製鉄のシステム部門を含め約70年間、24時間365日無停止かつ複雑で大規模な鉄鋼業システムの構築運用、発展に寄与し続けてきた歴史の中で、お客様との長期的な関係構築を前提とした責任感が醸成されました",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＦＥグループのみならず、一般顧客向け事業を展開できた背景には、製鉄業のIT構築で培った高い技術力があります",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般顧客向け事業への第一歩",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客業務理解力、ノウハウ​",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般顧客向け事業スタートと同年に、 「社内における技術ノウハウ・知見の幅広い共有」と「人材育成」を目的に、「技術発表会」が初めて開催されました",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造流通業のお客様向けに、特定業務領域の高い専門性を活かした「業務システムSI」が本格化",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ニーズの本質をとらえる／本質的な課題解決か／なぜ？を掘り下げる／意義が腹落ちしているか／大事な局面では時間をかけてでも本質を探る／些細なことでも疑問点があれば確認する／背景を理解する",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "何事にも真摯な態度で接する／顧客の目標・課題解決に誠実に取り組む／できること、できないことを正確に伝える／相手の立場に立った誠実な会話／自分に対して誠実であること",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "無理な計画は立てない／正しく丁寧に／高品質製品の提供／品質と開発スピードの両立 ／意図を汲み取る、伝える／一歩ずつ正確に前に進むカルチャー／顧客の要望を正確に把握した適切な提案",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・取引先と信頼関係を築く／周囲の信頼を裏切らないよう全力を尽くす／仕事を円滑に進めるには、信頼関係が必要／24時間365日稼働する製鉄所システムを支えてきた実績への信用",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パーパスには「IT技術の普及を通して、お客様、私たち一人ひとりが持てる能力を発揮し、また有機的につながることで、想いを形にするよろこびを広げる」という未来への意志が込められています",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業の豊富な業務知見に基づき、お客様のニーズに合った業務システムを構築",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "「企業としての成長・事業間の協力連携・お客様との共創」をテーマに、ＪＦＥグループで培った実績を強みとして、社会に貢献し、持続的に成長する企業を目指し、「事業シフト」、「企業文化の変革」、「投資・財務戦略の強化」の3点を基本戦略として会社課題に取り組んでいきます",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の経営課題に向き合い、コンサルティングを通じてお客様と一緒に課題解決に取り組む人材の確保・育成を進めるとともに、ＪＦＥグループでの課題解決の経験を持つ人材を活用していきます",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "JFEグループで培った知見に基づく企画力・技術力のさらなる強化し、グループ外の顧客への拡販を推進",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質なシステムインテグレーション力を武器に大口顧客化・継続取引の拡大するとともに、顧客との共創機会の発掘やパートナーシップを構築し、他事業・他商材との事業シナジーを醸成",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要産業界、大手顧客のなかでSIerとしての技術力を磨き、案件を通じた人材育成を積極的に進め、全社技術水準の向上につなげる",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "（調達システム）等］をERPビジネス参入への武器、ERP既存顧客へのクロスセル商材として活用し、事業間シナジーによる拡販戦略を展開",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "SI領域ではグループ内外既存顧客への業務システム更新案件への対応とともに、当社と協働でグループ外への拡販戦略を展開",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、長期的な視点からの成長を図るため、事業部を事業本部の元に集約し、組織体制を一体化・強化することで、人材や顧客基盤、技術等の柔軟な最適運用を進めます",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "SAPユーザー向けERP連携シミュレーション機能を追加",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パーパスを基軸に、お客様と未来を共創し続けます",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年積み重ねたコンサルティング、システム設計・開発、プロジェクトマネジメントのスキルを強みに、製造業をはじめとするお客様に向けて、業務システム開発、ITインフラ構築、自社開発・アライアンスプロダクトを組み合わせたITソリューションをご提供しています",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのもう一つの強みは、お客様との信頼関係に基づく長期視点のパートナーシップを大切にすることです",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "ITを通じた業務効率化の先にある、未来を見据えたシステムをご提案し、お客様と共に長期的な発展を目指します",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様や社会が直面する課題も複雑さを増しています",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとってのベストパートナーであり続けるために、この大きな変革の時代においても、私たちは当社パーパス「はたらくをスマートに",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を基軸に、ITサービスの提供を通じて、お客様や社会の「こうなりたい」という想いをかたちにしてまいります",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高は、鉄鋼事業の減収影響により、前年度比で10.3%減少しましたが、重点成長事業を中心とするグループ外顧客向け事業では、前年度比で順調に増収を達成しました",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高は、重点成長事業を中心とするグループ外顧客向け事業は堅調に推移し、鉄鋼事業の減収影響はあるものの、前年度比で4.5%の増収となる見込みです",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "成長戦略の中核としてＪＦＥグループ外顧客向け事業の拡大を最優先課題に位置づけ、積極的に取り組む",
+    "url": "https://www.jfe-systems.com/ir/management/capitalcost.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業理念に基づき、お客様の生産性を高め、温室効果ガスの排出量削減や省資源化に役立つソリューションを提供するとともに、コンプライアンス・ガバナンス・多様性の実現などのCSR活動に取り組むことを通じて、持続可能な社会の実現と、企業価値の継続的向上を目指します",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、親会社のJFEスチール株式会社におけるカーボンニュートラルの取り組みへの参画や、一般のお客様のDXやペーパレス化を支援するソリューションの提供などにより、地球環境保全に貢献しています",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "過去に上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "（1）国内景気と顧客のIT投資動向",
+    "url": "https://www.jfe-systems.com/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの顧客は、製造、流通、金融、サービス等の様々な業界に広がっております",
+    "url": "https://www.jfe-systems.com/ir/management/risk.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "企業のPlan（計画）・Do（実行）・See（分析／予測）のサイクルをカバーするトータルソリューション",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SCMソリューション",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "業務の効率化・最適化と収益の最大化をはかるSCMソリューションをご提供しています",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "食品統合データマネージメント・ソリューション",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "食の「情報開示」時代に向けた、新世代商品情報管理システム",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "品質情報管理トータルソリューション『MerQurius』導入事例として、日新化工株式会社様を掲載しました",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な実績で培った高い技術力とノウハウを活かし、お客様のご要望を実現するソリューション・サービスをご提供します",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "食品統合データマネージメントソリューション「MerQurius」",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "食品メーカーに特化した商品情報・配合・食品法規統合管理システムの決定版",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "企業のPlan（計画）・Do（実⾏）・See（分析／予測）のサイクルをカバーするトータルソリューション",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電子帳票ソリューション「FiBridgeII」",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報の詳細はこちらから",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "このサイトに記載されている社名・商品名は各社の商標または登録商標です",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "商品内容や構成については、予告なく変更する場合があります",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "購買受発注サービス",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "このサイトに記載されている社名・商品名は各社の商標または登録商標です",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品内容や構成については、予告なく変更する場合があります",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "購買受発注サービス",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、産業ソリューション事業では、製造業のお客様の特定領域に対する深い理解を前提とした、個社開発ビジネスを展開しています",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "多彩な事業領域を融合したソリューションをご提案",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "多彩なソリューションをラインアップ",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の持つ課題に、多彩なソリューションを組み合わせた複合ソリューションをご提案します",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "購買受発注サービス",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年9月の当社設立以降、2002年に川商インフォメーション・テクノロジー（株）（現 ＪＦＥコムサービス（株））を子会社化、2011年に（株）エクサからＪＦＥスチール（株）およびグループ会社向けアプリケーション開発・保守事業を承継、2019年4月には、BI事業を展開する（株）アイエイエフコンサルティングを子会社化するなど、従業員規模を拡大しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社はプライバシー保護の重要さを早くから認識し、初回審査が行われた1998年に情報サービス業界のトップを切ってプライバシーマーク使用許諾を取得しました",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社が長年にわたり培ってきた経験とノウハウを統合した、食品統合データマネージメント・ソリューション「MerQurius（メルクリウス）」は、食品業界500社以上に導入されています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社富士キメラ総研「パッケージソリューション・マーケティング便覧」「ソフトウェアビジネス新市場」に基づく",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子帳票ソリューション",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "MerQuriusソリューション",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "（シデロス）」を立上げ、競争力のあるソリューションとして提供しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューション",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要な製品・",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、「ベンダーフリー」という立場から、アライアンス契約した20のライセンス商品を取り扱っており、各ソリューションを組み合わせることで、お客様に最適なトータルソリューションをご提案しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2002年に食品業界向けの商品・品質情報データベース「Mercrius",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年には業界初の商品開発・法規業務支援システム「Quebel",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "（キューベル）」を、2011年からは原料規格書収集クラウドサービス「MerQurius Net",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、日々進化を続ける情報サービス業界で活躍するプロフェッショナル人材を育成するため、「人材育成」に力を入れ、充実した教育・研修制度を備えています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "このサイトに記載されている社名・商品名は各社の商標または登録商標です",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品内容や構成については、予告なく変更する場合があります",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "購買受発注サービス",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "より良いサービスを提供すべく努めてまいります",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "多彩な商品力、",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業譲受後、このマインドが「パッケージを核としたビジネスを確立する」というマインドとして当社に受け継がれ、現在約50に及ぶ自社開発製品・サービスの誕生に繋がっています",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「J-Smile」が「世界情報サービス産業機構IT賞」を受賞",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドや仮想サーバなどの進展に伴い、ITインフラソリューション事業を本格化",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "無理な計画は立てない／正しく丁寧に／高品質製品の提供／品質と開発スピードの両立 ／意図を汲み取る、伝える／一歩ずつ正確に前に進むカルチャー／顧客の要望を正確に把握した適切な提案",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ITインフラ構築からシステム開発、DXまで、多彩な事業領域を融合したソリューションをご提案しています",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "SCMソリューション、産業データ＆AIプラットフォーム構築、デジタルワークプレイスの提供",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業ソリューション事業",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートソリューション事業",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発およびアライアンスソリューションを単独または組み合わせて提供",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューション事業",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス、ネットワーク構築、仮想化技術、情報セキュリティなどITインフラの提供",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス、サーバ仮想化サービス",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報セキュリティ支援サービス",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "株式会社揚羽様の事例紹介として",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "行動指針）をご紹介します",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社のこれまでの歩みを、永遠を象徴する「円」と、慶びを表現する「赤いライン」でつながるストーリーとして、ご紹介しています",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様やビジネスパートナー様をはじめ、",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の5つのブランド価値の源泉を、当社の母体である「川崎製鉄（現ＪＦＥスチール）千葉製鉄所」開設から現在に至るまでの「BRAND HISTORY（ブランドヒストリー）」として、永遠を象徴する「円」と、慶びを表現する「赤いライン」でたどりながら、ご紹介します",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "OutSystemsジャパンとパートナー契約を締結",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業部・事業所最寄り駅に出稿した交通広告をご紹介します",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質なシステムインテグレーション力を武器に大口顧客化・継続取引の拡大するとともに、顧客との共創機会の発掘やパートナーシップを構築し、他事業・他商材との事業シナジーを醸成",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのもう一つの強みは、お客様との信頼関係に基づく長期視点のパートナーシップを大切にすることです",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとってのベストパートナーであり続けるために、この大きな変革の時代においても、私たちは当社パーパス「はたらくをスマートに",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、任意の指名・報酬委員会などの独立した諮問委員会を設置しておりませんが、取締役候補の指名については、取締役会において、適切な審議を経て決定しております",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役・監査役候補の個々の指名にあたりましては、４．の基準に基づき、社内外から幅広く候補者を人選し、経歴や人格、経営能力等を総合的に判断し、取締役会で決議しております",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に独立社外取締役・独立社外監査役は、豊富な経験・知見を有し、中長期的な企業価値向上への助言や経営の監督等、専門的かつ客観的な視点からその役割・責務を果たすことができる方を指名しております",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、指名委員会をはじめとした特別委員会は設置しておりませんが、取締役７名中２名が独立社外取締役である取締役会で、独立役員の意見を尊重し、十分議論した上で、各議案を審議・決議しています",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "同社 M&Aアドバイザリーサービス部門 パートナー",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "同事務所 パートナー",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "伊藤見富法律事務所（現 モリソン・フォースター法律事務所） パートナー",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "隼あすか法律事務所 パートナー",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "PwC弁護士法人 パートナー",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "一色法律事務所・外国法共同事業 パートナー（現任）",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "当該会社とは、当社の「e-ドキュメントソリューション」事業や「Web調達/購買ソリューション」事業において、共同セミナーの開催、顧客の相互紹介、顧客への共同提案などの拡販協力を中心に連携しており、当社の「e-ドキュメントソリューション」事業に重点を置いて協力体制を築いています",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_situation.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年１月 長島・大野・常松法律事務所 パートナー弁護士",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年６月 高井＆パートナーズ法律事務所 代表弁護士",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監 査 役 我 妻 由 佳 子 一色法律事務所・外国法共同事業パートナー",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＦＥシステムズはこんな会社（ＪＦＥシステムズの事業セグメントを記載しています）",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/company/subsidiary.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/data/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/capitalcost.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/management/disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_situation.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/stock/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.jfe-systems.com/ir/stock/haitou.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業別売上比率(単体)",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260630_presentation.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ＪＦＥシステムズの強み",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強み | ＪＦＥシステムズ株式会社",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＦＥシステムズの強み",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＪＦＥシステムズは、ミッションクリティカルな大規模システム構築、操業データの高度活用（DX）に強みを持ちます",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "強みのある業務領域",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「企業としての成長・事業間の協力連携・お客様との共創」をテーマに、ＪＦＥグループで培った実績を強みとして、社会に貢献し、持続的に成長する企業を目指し、「事業シフト」、「企業文化の変革」、「投資・財務戦略の強化」の3点を基本戦略として会社課題に取り組んでいきます",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自の強みとグループ連携を両立させた拡販戦略の展開",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年積み重ねたコンサルティング、システム設計・開発、プロジェクトマネジメントのスキルを強みに、製造業をはじめとするお客様に向けて、業務システム開発、ITインフラ構築、自社開発・アライアンスプロダクトを組み合わせたITソリューションをご提供しています",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのもう一つの強みは、お客様との信頼関係に基づく長期視点のパートナーシップを大切にすることです",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率において、10％を超える水準を継続",
+    "url": "https://www.jfe-systems.com/ir/management/capitalcost.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼で培った強みで社会に貢献、持続的に成長する企業へ",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260630_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ｅスチールとの取引で培った実績を強みとして、社会に貢献し、持続的に成長する企業を",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マに、ＪＦＥグループで培った実績を強みとして、社会に貢献し、持続的に成長する企業",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期） 決算短信を掲載しました",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月08日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月28日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月15日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月09日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算概況を掲載しました",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会は、開催いたしません",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月29日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月29日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月08日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月31日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月19日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月4日（金）は、当社創立記念休業日とさせていただきます",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月28日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月10日（月）は、当社夏季休業日とさせていただきます",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月16日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月1日（金）は、当社休業日とさせていただきます",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月13日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月12日",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革（会社情報）",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月で設立40周年を迎えました",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年9月の当社設立以降、2002年に川商インフォメーション・テクノロジー（株）（現 ＪＦＥコムサービス（株））を子会社化、2011年に（株）エクサからＪＦＥスチール（株）およびグループ会社向けアプリケーション開発・保守事業を承継、2019年4月には、BI事業を展開する（株）アイエイエフコンサルティングを子会社化するなど、従業員規模を拡大しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度売上高",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の連結売上高は574億円となりました",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年には、SAP S/4HANA",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年には業界初の商品開発・法規業務支援システム「Quebel",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の当社「年次有給休暇 平均年間取得日数」は14.8日、「年次有給休暇 平均年間取得率」は74.0％です",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度研修開催数は70回と、5日に1回のペースで研修が開催されています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度 事業ポートフォリオ",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代から、当社はナレッジ共有・人材育成の取り組みを進めてきました",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年に初版が制定された品質マネジメントシステムに関する国際規格「ISO9001」",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年には、全事業部門で「ISO9001」認証取得",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年に川崎製鉄のシステムエレクトロニクス事業を譲り受けたことが契機となり、新ビジネスに挑戦するマインドが受け継がれました",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年、株式会社川鉄インテリジェントシステムズを吸収合併",
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年9月1日（昭和58年9月1日）",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | JFEシステムズ株式会社",
+    "url": "https://www.jfe-systems.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月25日、「成長・協力・共創」をテーマに、中期経営計画（2025-2027年度）を策定・発表しました",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年には、連結売上高850億円以上、連結営業利益120億円以上を目指します",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年10月24日",
+    "url": "https://www.jfe-systems.com/company/subsidiary.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年3月3日",
+    "url": "https://www.jfe-systems.com/company/subsidiary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月27日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第3四半期 決算発表",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期） 決算短信を掲載しました",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算概況を掲載しました",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会は、開催いたしません",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月29日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月08日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月28日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月15日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月09日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月06日",
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ＪＦＥシステムズは、前身である川崎製鉄（現ＪＦＥスチール）のシステム部門を含め約70年間、製鉄所の生産・操業管理システム、本社基幹システム（販売・生産・物流、経営管理）の構築・運用・保守を支え続けてきました",
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年9月の当社設立以降、2002年に川商インフォメーション・テクノロジー（株）（現 ＪＦＥコムサービス（株））を子会社化、2011年に（株）エクサからＪＦＥスチール（株）およびグループ会社向けアプリケーション開発・保守事業を承継、2019年4月には、BI事業を展開する（株）アイエイエフコンサルティングを子会社化するなど、従業員規模を拡大しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、「ベンダーフリー」という立場から、アライアンス契約した20のライセンス商品を取り扱っており、各ソリューションを組み合わせることで、お客様に最適なトータルソリューションをご提案しています",
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼業向け販売、生産・物流、会計、原価、購買、需給、品質などのシステム開発、保守",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エクサからJFEスチール株式会社およびグループ会社向けアプリケーション開発・保守事業を承継",
+    "url": "https://www.jfe-systems.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発と保守運用の体制を分離し、事業所組織を再編",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、前身の川崎製鉄（現ＪＦＥスチール）システム部門を含め、約70年に渡り、大規模かつミッションクリティカルな生産設備を有する製鉄所の生産・操業管理システム、本社基幹システムの構築・運用・保守を担ってきました",
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役の報酬枠は、2011年６月24日開催の第28回定時株主総会において決議されており、300百万円以内（年額）と定めております",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は親会社であるＪＦＥスチール株式会社を含むＪＦＥグループ各社の情報システムの企画・設計から導入・開発・運用・保守を担当しています",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、ＪＦＥグループ外の法人にも、同様に情報システムの企画・設計から導入・開発・運用・保守などのサービスを提供しています",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社はＪＦＥスチール株式会社の情報子会社としてＪＦＥスチールグループ各社の情報システムの企画・設計から導入・開発・運用・保守を担当しています",
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、企業向けのコンピュータシステムの企画、設計、開発、運用保守を行うシステム・インテグレーションを主たる業務としております",
+    "url": "https://www.jfe-systems.com/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "第９条 当会社の株主権行使の手続きその他株式に関する取扱いおよび手数料は、法令または本定款の",
+    "url": "https://www.jfe-systems.com/ir/pdf/teikan_20250401.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステム開発、保守",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品質等のシステム開発、保守",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・金融業界向け：勘定系、年金等のシステム開発、保守",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、情報システムの企画、設計、開発、運用、保守を行うシステム・インテ",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "催の第28回定時株主総会において 年額300百万円以内（うち、社外取締役年額 30百万",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の報酬限度額は、1998年６月30日開催の第15回定時株主総会において年額40",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社と同社との間には、 システム保守",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "発等の成果物を移転する履行義務、システム企画支援・保守・運用及び情報通信に関する役務・",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム企画支援・保守・運用及び情報通信に関する役務・サービスを提供する履行義務は、",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム企画支援・保守・運用等役務・サービスを提供する履行義務に関する対価は、毎月支払いを受",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の総額から第三者のために回収した金額を差し引いた手数料の額で収益を表示しております",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約資産は、当社グループが行う 顧客仕様のソフトウエア開発、システム企画支援・保守・運用、",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "物を移転する履行義務、システム企画支援・保守・運用及び情報通信に関する役務・サービスを提",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム企画支援・保守・運用及び情報通信に関する役務・サービスを提供する履行義務は、主",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "SCMソリューションでの新機能拡販と新たなビジネスモデルの構築",
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "新しいビジネスモデルの確立",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ｍ＆Ａやキャリア採用を通じた新しいビジネスモデル構築と人材強化",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術力向上と新たなビジネスモデル構築に向けた戦略的な投資",
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業領域 | JFEシステムズ 株式会社 — 事業領域 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 会社情報",
+    "url": "https://www.jfe-systems.com/company/domain.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強み | JFEシステムズ 株式会社 — 当社の強み | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > about > strengths",
+    "url": "https://www.jfe-systems.com/about/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "JFEシステムズ 株式会社 — JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com",
+    "url": "https://www.jfe-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | JFEシステムズ 株式会社 — 会社概要 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 会社情報",
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "JFEシステムズ はこんな会社 — JFEシステムズ はこんな会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > ... > 個人投資家の皆様へ",
+    "url": "https://www.jfe-systems.com/ir/individual/kojin_about.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | JFEシステムズ 株式会社 — 決算説明 会 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > ... > IR資料室",
+    "url": "https://www.jfe-systems.com/ir/data/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | JFEシステムズ 株式会社 — IR 資料 室 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 株主・投資家情報",
+    "url": "https://www.jfe-systems.com/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | JFEシステムズ 株式会社 — 決算 短信 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > ... > IR資料室",
+    "url": "https://www.jfe-systems.com/ir/data/er/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 「決算発表」および「 決算説明 会」予定について — 2026年3月期 「決算発表」および「 決算説明 会」予定について ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > ニュース・プレスリリース",
+    "url": "https://www.jfe-systems.com/press/2026/20260327_yotei.html",
+    "pass": 3
+   },
+   {
+    "quote": "財政状況 | JFEシステムズ 株式会社 — 財政状況 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > ... > 財務・業績情報",
+    "url": "https://www.jfe-systems.com/ir/finance/fin_status.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | JFEシステムズ 株式会社 — 組織図 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 会社情報",
+    "url": "https://www.jfe-systems.com/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | JFEシステムズ 株式会社 — 会社情報 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > company",
+    "url": "https://www.jfe-systems.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 領域 | JFEシステムズ 株式会社 — 事業 領域 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 会社情報",
+    "url": "https://www.jfe-systems.com/company/domain.html",
+    "pass": 3
+   },
+   {
+    "quote": "役員体制 | JFEシステムズ 株式会社 — 役員体制 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 会社情報",
+    "url": "https://www.jfe-systems.com/company/officer.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | JFEシステムズ 株式会社 — トップメッセージ | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://www.jfe-systems.com > 会社情報",
+    "url": "https://www.jfe-systems.com/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介 | 採用特設サイト | JFEシステムズ 株式会社 — 社員紹介 | 採用特設サイト | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://saiyo.jfe-systems.com > members",
+    "url": "https://saiyo.jfe-systems.com/members/",
+    "pass": 3
+   },
+   {
+    "quote": "【JFEスチール・ JFEシステムズ ×TIS インタビュー 動画】 仙台 ... — 【JFEスチール・ JFEシステムズ ×TIS インタビュー 動画】 仙台 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=GTTWUViJAq4",
+    "pass": 3
+   },
+   {
+    "quote": "同期入社 | スマイル対談 | JFEシステムズ 株式会社 — 同期入社 | スマイル対談 | JFEシステムズ 株式会社 ＪＦＥシステムズ株式会社 https://saiyo.jfe-systems.com > special > talk",
+    "url": "https://saiyo.jfe-systems.com/special/talk/04.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jfe-systems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/about/strengths/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/about/number.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/about/40th/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/company/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/company/subsidiary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/data/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/capitalcost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/corporate_governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/officer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/management/disclosure_policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/sto_situation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/haitou.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jfe-systems.com/company/pdf/j_CompanyProfile_p14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/pdf/teikan_20250401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/pdf/sto_questionnaire.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/data/disclosure_materials/pdf/20260630_shihai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260630_presentation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/stock/sto_soukai/pdf/20260603_soukai1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jfe-systems.com/ir/data/disclosure_materials/pdf/20260522_teian.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "JFEシステムズ",
+   "results": [
+    "https://www.jfe-systems.com/",
+    "https://ja.wikipedia.org/wiki/JFE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://www.youtube.com/watch?v=4MkH6rNYNuc",
+    "https://kabutan.jp/stock/?code=4832",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fr9u",
+    "https://ja.wikipedia.org/wiki/JFEシステムズ",
+    "https://biz.jfe-systems.com/",
+    "https://finance.yahoo.co.jp/quote/4832.T",
+    "https://biz.jfe-systems.com/products",
+    "https://jp.linkedin.com/company/jfesystems"
+   ]
+  },
+  {
+   "query": "JFEシステムズ ビジネスモデル",
+   "results": [
+    "https://www.jfe-systems.com/company/domain.html",
+    "https://www.jfe-systems.com/about/strengths/",
+    "https://www.jfe-systems.com/",
+    "https://www.jfe-systems.com/company/overview.html",
+    "https://www.jfe-systems.com/ir/individual/kojin_about.html",
+    "https://saiyo.jfe-systems.com/about/overview.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr9u&q_no=9",
+    "https://biz.jfe-systems.com/hubfs/sideros/index.html",
+    "https://www.jfe-systems.com/ir/management/management_plan.html",
+    "https://consovation.com/株式会社jfeシステムズの成長戦略とビジネスモデ-2/"
+   ]
+  },
+  {
+   "query": "JFEシステムズ 決算説明資料",
+   "results": [
+    "https://www.jfe-systems.com/ir/data/pr/",
+    "https://www.jfe-systems.com/ir/data/",
+    "https://www.jfe-systems.com/ir/data/er/",
+    "https://www.jfe-systems.com/press/2026/20260327_yotei.html",
+    "https://www.jfe-systems.com/ir/finance/fin_status.html",
+    "https://www.jfe-systems.com/ir/stock/houtei.html",
+    "https://www.jfe-systems.com/ir/question.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4832",
+    "https://edinetdb.jp/company/E05173/presentations/",
+    "https://irbank.net/4832/ir"
+   ]
+  },
+  {
+   "query": "JFEシステムズ 事業系統図",
+   "results": [
+    "https://www.jfe-systems.com/company/organization.html",
+    "https://www.jfe-systems.com/company/",
+    "https://www.jfe-systems.com/company/domain.html",
+    "https://www.jfe-systems.com/company/overview.html",
+    "https://www.jfe-systems.com/",
+    "https://www.jfe-systems.com/company/officelist.html",
+    "https://www.jfe-systems.com/about/number.html",
+    "https://www.jfe-systems.com/ir/individual/kojin_about.html",
+    "https://www.jfe-systems.com/ir/",
+    "https://ja.wikipedia.org/wiki/JFEシステムズ"
+   ]
+  },
+  {
+   "query": "JFEシステムズ 社長 インタビュー",
+   "results": [
+    "https://www.jfe-systems.com/company/officer.html",
+    "https://www.jfe-systems.com/company/message.html",
+    "https://saiyo.jfe-systems.com/members/",
+    "https://www.youtube.com/watch?v=GTTWUViJAq4",
+    "https://saiyo.jfe-systems.com/special/talk/04.html",
+    "https://www.youtube.com/@jfe-systems",
+    "https://www.jfe-systems.com/ir/management/",
+    "https://www.bbs.co.jp/insight/talk/talk-03/",
+    "https://www.ageha.tv/works/jfe-systems_2/",
+    "https://www.japanmetal.com/news-to20210804109445.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索5回）"
+ }
+}

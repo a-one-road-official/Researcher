@@ -1,0 +1,1885 @@
+{
+ "name": "富士電機",
+ "aliases": [],
+ "context": "証券コード6504／電気機器／プライム（内国株式）／2026.03期 売上高1,227,595百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:36:08.852873+00:00",
+ "official_url": "https://www.fujielectric.co.jp/",
+ "identified_by": "search:yahoo_jp:富士電機",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1923年（大正12年）8月29日 沿革",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1923 年 8 月 29 日",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/16/20261019.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "1950 年 5 月 10 日",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/16/20261019.pdf",
+    "pass": 2
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高*",
+    "value": "連結 12,276億円 決算サマリー",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数*",
+    "value": "26,955名",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コア技術であるパワー半導体とパワーエレクトロニクスのシナジーを徹底的に追求し、 エ",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/16/20261019.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "環境 ・ 経済 ・ 防災 ・ 生活の４つの領域で、日本気象協会は気象を軸にした未来予測により、",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/16/20261019.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "富士電機機器制御製 気中負荷開閉器「LB-6/200f(L)」をご使用のお客様への重要なお知らせ",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製 自動給茶機をご使用のお客様へのお知らせとお願い",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電気・熱エネルギーを効率的に利用できる製品・システムを創り出し、お客様、お取引先様とともに社会・環境課題の解決に貢献していきます",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機とその社員は、行動指針である企業行動基準に基づき、経営理念、経営方針を実践することにより、お客様、お取引先様とともに、社会・環境課題の解決、お客様価値の創造に応え、安全・安心で持続可能な社会の実現に貢献します",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機は、地球社会の良き企業市民として、地域、顧客、パートナーとの信頼関係を深め、豊かさへの貢献、創造への挑戦、自然との調和を使命とすることを経営理念とし、「エネルギー・環境事業で社会に貢献する」「グローバルで事業拡大する」「多様な人材の意欲を尊重し、チームで総合力を発揮する」ことを経営方針に掲げています",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、脱炭素社会の実現に向けて、クリーンエネルギーの創出、エネルギーの安定化、省エネ・自動化・電化の領域で、お客様のニーズに応える製品・ソリューションを提供するとともに、サプライチェーン全体で脱炭素化を推し進めてまいります",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機は、経営スローガン「熱く、高く、そして優しく」を実践し、お客様、お取引先様、私たちを取り巻くステークホルダーの皆様から信頼される企業であり続けたいと思います",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客用途に応じた幅広い製品ラインアップ",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客価値を創造する研究開発",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機は、お取引先様を含むサプライチェーン全体で、廃棄物の排出量を最小化する環境配慮型製品への切り替えを進めていくことで、循環型社会の実現に貢献します",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(2)お取引先様と協力し、カーボンフットプリントの算定に取り組みます",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年に水素がトレンドになると、小藤のもとに「水素をもっと安く製造したい」という顧客からの相談が集まってきた",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "そもそも開発を始めた当初は、蓄電池システムの制御効率を上げて他社より電池の容量を小さくすることで、取引先企業の設備投資コストを抑えることを目標にしていた",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客から見ると、どれぐらい得をしているのか分かりづらくなる",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "小藤は「水素製造装置は顧客それぞれに合わせてカスタマイズする",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "セルフレジのニーズが一気に高まり、「新たな顧客からの相談が増えた」と営業統括部の大西は話す",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方の縦型釣銭機は、筐体と釣銭機を一体型にしたことで、顧客の手間を大幅に減らしている",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "「それに、2年目で担当顧客を任せてもらえるなんて、他の部署ではありえません",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "釣銭機を愛する三人が優しさを詰め込んだ「縦型釣銭機」は、徹底したユーザー目線で、売り場の多様なニーズに応えていく",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客用途に応じた幅広い製品ラインアップ",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第一の堀は、顧客の「スイッチングコスト（乗り換え障壁）」の高さです",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機が提供する発電プラント、変電設備、工場の自動化システム（FA）、そしてパワー半導体といった製品群は、いずれも顧客のビジネスの根幹を支えるミッションクリティカルな機器です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "数十年にわたる安定稼働の実績と、全国に張り巡らされた保守メンテナンスのネットワークがあるからこそ、顧客は富士電機を指名買いし続けます",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "富士通やファナックといった古河グループおよび取引先関連の株式を歴史的に保有してきた背景がありますが、この強固な含み益は、企業価値を下支えする強力なクッションとして機能します",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【製品に関する重要なお知らせ】京セラ住宅向けソーラー発電システム用パワーコンディショナ「エコノライン®550」の使用中止および回収のお願い",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "FA機器、計測機器、IoT製品など",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会ソリューション",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道、船舶･港湾、放射線、防災関連製品など",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション/サービスメンテナンス",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoTソリューション、サービスメンテなど",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新技術や新製品を紹介しています",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高圧真空遮断器 MULTI. VCB「HAシリーズ」 製品交換に関するお願い",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "電気・熱エネルギーを効率的に利用できる製品・システムを創り出し、お客様、お取引先様とともに社会・環境課題の解決に貢献していきます",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、産業・社会インフラ分野において、エネルギーの供給サイドから需要サイドまで、「クリーンなエネルギーの創出」「エネルギーの安定供給」「省エネ」「自動化」を実現するソリューションを幅広く提案し、安全・安心で持続可能な社会の実現に貢献しています",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、脱炭素社会の実現に向けて、クリーンエネルギーの創出、エネルギーの安定化、省エネ・自動化・電化の領域で、お客様のニーズに応える製品・ソリューションを提供するとともに、サプライチェーン全体で脱炭素化を推し進めてまいります",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "GXやDXなど新しい社会の潮流のなかで、燃料転換、熱電化など、脱炭素社会の実現に向けた新製品・新事業の創出に挑むとともに、生産時における温室効果ガス排出量の削減や、サーキュラーエコノミーの実現に向けた取り組みを強化してまいります",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "電力の安定供給と最適化に貢献する幅広い製品、システムから保守サービスまでの一括提案",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客用途に応じた幅広い製品ラインアップ",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機の強みは、省エネのキーデバイスであるパワー半導体を自社で開発・製造し、それを搭載したパワーエレクトロニクス機器、それらを組み合わせたシステム、エンジニアリング・サービスをトータルで提供できること",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品創出の取り組み",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機技報 第99巻第1号 “特集 GX実現と自動化に貢献する計測・制御・情報・排熱利用ソリューション”を掲載しました",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティへの取り組み",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスについて",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機製家電製品について",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のトップへ",
+    "url": "https://www.fujielectric.co.jp/ir/library/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗設備機器、金銭機器など",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会・環境課題の解決に向けた富士電機の取り組みを紹介します",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主な国内関係会社を紹介しています",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新技術や新製品を紹介しています",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機は、地球社会の良き企業市民として、地域、顧客、パートナーとの信頼関係を深め、豊かさへの貢献、創造への挑戦、自然との調和を使命とすることを経営理念とし、「エネルギー・環境事業で社会に貢献する」「グローバルで事業拡大する」「多様な人材の意欲を尊重し、チームで総合力を発揮する」ことを経営方針に掲げています",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介「持続可能な社会の実現に貢献する富士電機」",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 富士電機",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗向け設備機器の幅広いラインアップ",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の取り組みをご紹介します",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発者の業務紹介",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機の経営の考え方をご紹介します",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度中期経営計画について紹介しています",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/personal/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機の業績と経営改革の変遷についてご紹介します",
+    "url": "https://www.fujielectric.co.jp/ir/personal/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "スコープ3排出量を開示し、物流における省エネの取り組みを紹介しています",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/advertisement/cm.html",
+    "pass": 1
+   },
+   {
+    "quote": "風神役の向里祐香さんが富士電機の製品を紹介",
+    "url": "https://www.fujielectric.co.jp/about/advertisement/cm.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の人手不足やキャッシュレス決済の広まりの影響などで、会計のセルフ化が急速に進んでいる",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでセルフレジとは縁の薄かった小型店舗でも珍しい光景ではなくなっている",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "「飲食店やクリニック、調剤薬局など、小型店舗から問い合わせがきたんです",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "実際に、大西が「筐体下部にレシート紙などの備品やUPSを収納できるスペースを設けてほしい」という店舗の声を反映したところも、他社と差別化する大きなポイントになった",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_plasma_technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/windchallenger_drive_control_system.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_generative_design.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 富士電機",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗向け設備機器の幅広いラインアップ",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/domestic_base/network.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/news/",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/ir/library/detail/index06.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動販売機・店舗",
+    "url": "https://www.fujielectric.co.jp/about/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "士電機は、Helical Fusion が主導する「ヘリックス計画」の公式パートナーとして参画しましたので、お知ら",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/07/20261008.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注） 、今般、「ヘリックス計画」の公式パートナーとなることで、Helical Fusion が進める統合実証装置",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/07/20261008.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食品流通 1,150 140 1,090 135 -60 -5 自販機分野、店舗流通分野の需要減",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・店舗流通分野は、コンビニエンスストア向けカウンター機材の需要増により、売上高、営業損益ともに前年同",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "数十年にわたる安定稼働の実績と、全国に張り巡らされた保守メンテナンスのネットワークがあるからこそ、顧客は富士電機を指名買いし続けます",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "これはバフェットのパートナーであったチャーリー・マンガーが絶賛するであろう、極めて合理的で美しい資本の循環です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月24日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月19日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期の業績について",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.fujielectric.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度から2026年度までの3カ年の中期経営計画「熱く、高く、そして優しく2026」",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度中期経営計画は、当社経営の原点に立ち返り、経営スローガン「熱く、高く、そして優しく」のもと、脱炭素社会への転換加速、デジタル化の進展など変化する時代に適応しながら、収益力の強化、成長戦略の推進ならびに持続的な企業価値向上を支える経営基盤の強化に取り組みます",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日現在",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1923年（大正12年）8月29日",
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算説明会",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 事業戦略説明会",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月27日",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算説明会の音声配信と質疑応答を掲載しました",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期の業績について",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 2Q",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 1Q",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 経営計画／事業戦略",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度中期経営計画について紹介しています",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 2Q",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 1Q",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 経営計画／事業戦略",
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 2Q",
+    "url": "https://www.fujielectric.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 1Q",
+    "url": "https://www.fujielectric.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 経営計画／事業戦略",
+    "url": "https://www.fujielectric.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 2Q",
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 1Q",
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 経営計画／事業戦略",
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 2Q",
+    "url": "https://www.fujielectric.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 1Q",
+    "url": "https://www.fujielectric.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 経営計画／事業戦略",
+    "url": "https://www.fujielectric.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 2Q",
+    "url": "https://www.fujielectric.co.jp/ir/personal/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 1Q",
+    "url": "https://www.fujielectric.co.jp/ir/personal/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 経営計画／事業戦略",
+    "url": "https://www.fujielectric.co.jp/ir/personal/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度の目標",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年には、今後当社が長期的に取り組むべき環境活動の方向性を明確化するため、「環境ビジョン2050」を策定しました",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月には、脱炭素社会の実現を目指す社会の動向を踏まえ、環境ビジョン2050および2030年度目標を見直しました",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月、循環経済への移行を目指す近年の社会動向を踏まえ、「循環型社会の実現」のメッセージおよび2030年度目標を改定しました",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度目標",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度比削減率54%超",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月、Scope1,2とScope3(カテゴリ1-8,11)の削減目標は、国際的イニシアチブであるSBTi（Science Based Targets initiative）(注)による「1.5℃水準」の認証を取得しました",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の取り組み・実績",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年に水素がトレンドになると、小藤のもとに「水素をもっと安く製造したい」という顧客からの相談が集まってきた",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月、2人は開発に踏み出した",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年下期、目標を「運用収益を10%高める」へと切り替えた",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月、2人は水素アシスト制御システムの骨組みをつくった",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月の月曜日の朝、シミュレーションの計算が途中で止まることなく、最後まで行って終わっていた",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度に入ると、興味を持つ企業にプレゼンする機会が増えた",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "構成比率は2026年度の事業組替を反映",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント間の内部取引等を消去・調整する前の金額に基づき算出",
+    "url": "https://www.fujielectric.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "構成比率は2026年度の事業組替を反映",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント間の内部取引等を消去・調整する前の金額に基づき算出",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績を掲載しています",
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "構成比率は2026年度の事業組替を反映",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント間の内部取引等を消去・調整する前の金額に基づき算出",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第2四半期（中間期）セグメント別売上高・営業損益（対前年）",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第2四半期（中間期）セグメント別業績概況（対前年）",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率15%、全サブセグメントで増収増益",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全サブセグメントで増益",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 12",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続き、セグメント間",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間の報告セグメント別の状況は次のとおりです",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、各セグメントの前年同期の数",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "値は、変更後の報告セグメントの区分に組み替えたうえで算出しております",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」の区分は報告セグメントに含まれない事業セグメントであり、金融サービス、不動産業、保険代",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失の調整額△3,577百万円には、各報告セグメントに配分していない全社費用△3,672",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない当社の管理部門に係る費用であり",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又は損失は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失の調整額△4,214百万円には、各報告セグメントに配分していない全社費用△4,226",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの変更等に関する事項",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（報告セグメントの変更）",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メントにおいて、集約する事業セグメントを変更しております",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前中間連結会計期間のセグメント情報は、変更後の報告セグメントの区分に基づき作成したものを開示",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別売上高構成比率",
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2026/05/11/business_img02_2.webp",
+    "pass": 2
+   },
+   {
+    "quote": "同社の事業は大きく4つのセグメントに分類されており、それぞれのセグメントが相互に技術を補完し合う構造となっています 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "直近の実績データを用いて、セグメント別の売上高と利益の構成比を分解してみましょう",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "データ出典：2024年度（2025年3月期）実績に基づくセグメント別概況 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "この事業構造の分析から導き出される最も重要な洞察は、売上高全体のわずか21%を占めるに過ぎない「半導体」セグメントが、全社の営業利益の実に30%を稼ぎ出す最大のキャッシュカウ（高収益源）として機能しているという事実です 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "また、「エネルギー」と「インダストリー」の両セグメントは、売上の約66%を占める屋台骨であり、社会インフラを支える重厚長大なビジネスです",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、「食品流通」セグメントでは、自動販売機や自動釣銭機という身近な機械を提供しており、特に2024年から2025年にかけては新紙幣発行という制度変更に伴う改刷特需を的確に取り込み、利益の底上げに貢献しました 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "マージン推移とセグメント収益性",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "この劇的なマージン改善を牽引しているのが、やはり「半導体セグメント」です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "すでに2026年3月期第3四半期の半導体セグメントにおいて、人的投資に伴う人件費増と並んで、この原材料高が減益要因として一部顕在化しています 7",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社は、強みとするパワー半導体とパワーエレクトロニクスをコア技術に、クリーンエネルギーの主流化、エネルギー供給の安定化、省エネ・自動化・電化を実現する「エネルギー」「インダストリー」「半導体」「食品流通」の4事業を展開しています",
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機の強みは、省エネのキーデバイスであるパワー半導体を自社で開発・製造し、それを搭載したパワーエレクトロニクス機器、それらを組み合わせたシステム、エンジニアリング・サービスをトータルで提供できること",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "この強みを生かし、富士電機は、世界が目指す脱炭素社会の実現に貢献していきます",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "蓄電池の強みを水素へ",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラズマを連続で安定して噴き出すことができるし、扱いやすいのも強みです」（髙野）",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_plasma_technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "2つの研究は、競い合うのではなく、それぞれの強みを探りながら並走している",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_plasma_technology.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機は「冷却器」や「熱交換器」の設計を強みとしているため、差別化の勝負どころになる",
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_generative_design.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士電機の強みは、省エネのキーデバイスであるパワー半導体を自社で開発・製造し、それを搭載したパワーエレクトロニクス機器、それらを組み合わせたシステム、エンジニアリング・サービスをトータルで提供できること",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "この強みを生かし、富士電機は、世界が目指す脱炭素社会の実現に貢献していきます",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後は両者のサービス連携を進めることでそれぞれの強みを融合し、電力市場に関わる事業者が直面",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/16/20261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業損益 営業利益率 売上高 営業損益 営業利益率 売上高 営業損益",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率15%、全サブセグメントで増収増益",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業損益 営業利益率 売上高 営業損益 営業利益率 売上高 営業損益 売上高 営業損益",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営による更なる企業価値向上」を基本方針とし、売上高１兆2,500億円、営業損益1,400億円、営業利益率11％超",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を目標に掲げ、営業利益率の目標は2025年度に１年前倒しで達成しました",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ブランド/コスト/スイッチングコスト/無形資産/参入障壁",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "この事業構造の分析から導き出される最も重要な洞察は、売上高全体のわずか21%を占めるに過ぎない「半導体」セグメントが、全社の営業利益の実に30%を稼ぎ出す最大のキャッシュカウ（高収益源）として機能しているという事実です 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同社の真の強みは「総合力」で大企業と真正面から戦うことではなく、特定のニッチ領域に経営資源を集中投下し、グローバル市場で圧倒的なトップシェアを獲得する戦略にあります",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富士経済の調査によれば、EVの需要鈍化や中国の景気悪化による一時的な在庫調整を経て、2026年以降は次世代パワー半導体市場が再び大きく伸長すると予測されています 6",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機の経済的な堀は、「極めて高いスイッチングコスト」、「長年の技術蓄積による無形資産」、そして「莫大な資本を要する参入障壁」という3つの強固な石垣によって構成されています",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "第三の堀は、規模の経済と資本要件による「参入障壁」です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "その最大の理由は、エネルギー転換というマクロトレンドが、同社の強みを最大限に引き出す方向に動いているためです",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "全社の収益性を示す売上高営業利益率も、目覚ましい改善を遂げています",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度には5.5%に過ぎなかった営業利益率は、構造改革と高付加価値化の進展により、2024年度（2025年3月期）には10.5%へとほぼ倍増しました 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "過去に設定した中期経営計画の目標（売上規模、営業利益率、ROEなど）を、コロナ禍やサプライチェーンの混乱といった逆風下であっても確実にクリア、あるいは前倒しで達成してきました",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "一方の富士電機は、パワー半導体やインバータという分野で圧倒的な技術力と高収益性を誇る素晴らしい企業ですが、そのビジネスモデルは依然として多額の設備投資と工場での生産活動を伴う「純然たるハードウェア製造業」の域を出ていません",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "電力の安定供給と最適化に貢献する幅広い製品、システムから保守サービスまでの一括提案",
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "電力の安定供給と最適化に貢献する幅広い製品、システムから保守サービスまでの一括提案",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究所での研究開発が行われてきた結果、発電所に必須の「正味発電」 「定常運転」 「保守性」のすべての要素",
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/07/20261008.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一度導入されれば長期間にわたって使用され、保守・メンテナンスによる継続的な収益（リカーリングレベニュー）をもたらします 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "数十年にわたる安定稼働の実績と、全国に張り巡らされた保守メンテナンスのネットワークがあるからこそ、顧客は富士電機を指名買いし続けます",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "過去の無理な買収に伴う「のれん」の減損リスク等も見当たらず、富士電機のバランスシートは「極めてクリーンかつ、隠れた価値を秘めた保守的な設計」であると断言できます",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の低金利環境と、同社の極めて強固なバランスシート（低い負債比率）を考慮し、さらに将来の金利上昇リスク（1%程度の上昇）を保守的に織り込んだとしても、富士電機のWACCは概ね「8%前後」と推計されます 3",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "モデルの入力値（前提条件）には、将来の過度な楽観を排除し、保守的な数値を採用します",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "ここから、成長を持続するために不可欠な純投資（設備投資額から減価償却費を差し引いた金額）や運転資本の増加分を保守的に差し引き、出発点となるベースFCFを「約650億円」と設定します",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "これは日本および世界の長期的なインフレ目標や実質GDP成長率に準拠した保守的な数値です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "最も蓋然性が高いと判断される保守的なベースケースにおいて、富士電機の",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "近年、資源を循環的に利用するビジネスモデルである「サーキュラーエコノミー」の必要性が世界的に求められています",
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと収益源",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機が手掛ける事業は、まさに現代社会の血液とも言える「電力」を制御する技術であり、AIブームというゴールドラッシュにおいて、「ツルハシとジーンズを売る」ような極めて堅実で不可欠なビジネスモデルを有しています",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析の出発点である「ビジネスモデルの理解（サークル・オブ・コンピテンス）」に始まり、競合他社の追随を許さない「経済的な堀（モート）」の深さと幅を定性的に評価します",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機のビジネスモデルは、極めて明確です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "このように、社会の基盤を支えるインフラ事業の安定性と、パワー半導体という成長ドライバーを見事に組み合わせた多角化経営が、富士電機のビジネスモデルの本質です",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "一方の富士電機は、パワー半導体やインバータという分野で圧倒的な技術力と高収益性を誇る素晴らしい企業ですが、そのビジネスモデルは依然として多額の設備投資と工場での生産活動を伴う「純然たるハードウェア製造業」の域を出ていません",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 - 富士電機 — 事業紹介 - 富士電機 富士電機 https://www.fujielectric.co.jp > about > business",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 富士電機 株式会社は『買い』か？ - note — 【バフェットの視点】 富士電機 株式会社は『買い』か？ - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機 について — 富士電機 について 富士電機 https://www.fujielectric.co.jp > about",
+    "url": "https://www.fujielectric.co.jp/about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業・部門・拠点紹介 | 富士電機 - Recruitment site — 事業・部門・拠点紹介 | 富士電機 - Recruitment site 富士電機 https://www.fujielectric.co.jp > graduates > business",
+    "url": "https://www.fujielectric.co.jp/recruit/graduates/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "対処すべき課題 - 富士電機 — 対処すべき課題 - 富士電機 富士電機 PDF https://www.fujielectric.co.jp > data",
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20250625_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IR 説明 会 - 富士電機 — IR 説明 会 - 富士電機 富士電機 https://www.fujielectric.co.jp > detail > presentation",
+    "url": "https://www.fujielectric.co.jp/ir/library/detail/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 - 富士電機 — IR 資料 室 - 富士電機 富士電機 https://www.fujielectric.co.jp > library",
+    "url": "https://www.fujielectric.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - 富士電機 — 株主・投資家情報 - 富士電機 富士電機 https://www.fujielectric.co.jp > ...",
+    "url": "https://www.fujielectric.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信（2027年3月期） - 富士電機 — 決算 短信（2027年3月期） - 富士電機 富士電機 https://www.fujielectric.co.jp > library > detail > index06",
+    "url": "https://www.fujielectric.co.jp/ir/library/detail/index06.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家向け 説明 会 | 富士電機 — 個人投資家向け 説明 会 | 富士電機 富士電機 https://www.fujielectric.co.jp > detail > individual",
+    "url": "https://www.fujielectric.co.jp/ir/personal/detail/individual.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 ・部門・拠点紹介 | 富士電機 - Recruitment site — 事業 ・部門・拠点紹介 | 富士電機 - Recruitment site 富士電機 https://www.fujielectric.co.jp > graduates > business",
+    "url": "https://www.fujielectric.co.jp/recruit/graduates/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 - 富士電機 — 事業 紹介 - 富士電機 富士電機 https://www.fujielectric.co.jp > about > business",
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機 — 富士電機 富士電機 https://www.fujielectric.co.jp",
+    "url": "https://www.fujielectric.co.jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料室 - 富士電機 — IR資料室 - 富士電機 富士電機 https://www.fujielectric.co.jp > library",
+    "url": "https://www.fujielectric.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 COO インタビュー - 富士電機 — 社長 COO インタビュー - 富士電機 富士電機 https://www.fujielectric.co.jp > about > library > interview",
+    "url": "https://www.fujielectric.co.jp/about/ir/library/ar2024/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ 富士電機 ・近藤史郎 社長 「チームで総合力」 — 経営ひと言／ 富士電機 ・近藤史郎 社長 「チームで総合力」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/778482",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機 PR - X — 富士電機 PR - X X https://x.com > @fujielectric_jp",
+    "url": "https://x.com/fujielectric_jp/status/1944909782944497889",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機 の歴代 社長 - The社史 — 富士電機 の歴代 社長 - The社史 The社史 https://the-shashi.com > 富士電機の歴史",
+    "url": "https://the-shashi.com/tse/6504/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機 レポート2026/統合報告書/会長CEOメッセージ — 富士電機 レポート2026/統合報告書/会長CEOメッセージ 富士電機 https://www.fujielectric.co.jp > detail > ar2026_ceo",
+    "url": "https://www.fujielectric.co.jp/ir/library/detail/ar2026_ceo.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fujielectric.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/personal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/environment01/management_02_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/csr/global_environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/advertisement/cm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_control-tec-hb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_Slim-Automatic-Change-Dispenser.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_plasma_technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/windchallenger_drive_control_system.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/stories/detail/PJ_story_generative_design.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/domestic_base/network.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/library/detail/index06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/notice/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/16/20261019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/__icsFiles/afieldfile/2026/10/09/Corporate_Profile_J_202610_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/company/__icsFiles/afieldfile/2026/10/09/Corporate_Profile_J_202610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/news/detail/__icsFiles/afieldfile/2026/10/07/20261008.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20261029_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/2026q2_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/common-resource/ir/data/20260824.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2026/09/03/energy_tmb_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2026/09/03/industry_tmb_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2026/09/03/semiconductors_tmb_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2026/09/03/food_tmb_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2024/06/10/business_img01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/business/__icsFiles/afieldfile/2026/05/11/business_img02_2.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/ir/personal/__icsFiles/afieldfile/2023/08/25/tmb_business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/open_azalea2045/n/na94aee170540",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/778482",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富士電機",
+   "results": [
+    "https://www.fujielectric.co.jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E9%9B%BB%E6%A9%9F",
+    "https://www.fujielectric.com/index.html",
+    "https://x.com/fujielectric_jp",
+    "https://www.nikkei.com/nkd/company/?scode=6504",
+    "https://ja.wikipedia.org/wiki/富士電機",
+    "https://www.fujielectric.co.jp/",
+    "https://www.fujielectric.co.jp/about/company/index.html",
+    "https://finance.yahoo.co.jp/quote/6504.T",
+    "https://finance.yahoo.co.jp/quote/6504.T/profile"
+   ]
+  },
+  {
+   "query": "富士電機 ビジネスモデル",
+   "results": [
+    "https://www.fujielectric.co.jp/about/business/index.html",
+    "https://note.com/open_azalea2045/n/na94aee170540",
+    "https://www.fujielectric.co.jp/about/index.html",
+    "https://www.fujielectric.co.jp/recruit/graduates/business/index.html",
+    "https://www.fujielectric.co.jp/common-resource/ir/data/20250625_1.pdf",
+    "https://kigyobunseki.com/company/fuji-electric",
+    "https://www.youtube.com/watch?v=dHG-VAk_o30",
+    "https://www.fujielectric.co.jp/ir/policy/detail/plan.html",
+    "https://www.fujielectric.co.jp/common-resource/ir/data/ar202403.pdf"
+   ]
+  },
+  {
+   "query": "富士電機 決算説明資料",
+   "results": [
+    "https://www.fujielectric.co.jp/ir/library/detail/presentation.html",
+    "https://www.fujielectric.co.jp/ir/library/index.html",
+    "https://www.fujielectric.co.jp/ir/index.html",
+    "https://www.fujielectric.co.jp/ir/library/detail/index06.html",
+    "https://www.fujielectric.co.jp/ir/personal/detail/individual.html",
+    "https://www.fujielectric.co.jp/ir/other/faq.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6504",
+    "https://www.fujielectric.co.jp/ir/personal/index.html",
+    "https://www.fujielectric.co.jp/ir/finance/detail/summary.html",
+    "http://www.o-rid.com/presentation.html"
+   ]
+  },
+  {
+   "query": "富士電機 事業系統図",
+   "results": [
+    "https://www.fujielectric.co.jp/about/index.html",
+    "https://www.fujielectric.co.jp/recruit/graduates/business/index.html",
+    "https://www.fujielectric.co.jp/about/business/index.html",
+    "https://www.fujielectric.co.jp/index.html",
+    "https://www.fujielectric.co.jp/ir/library/index.html",
+    "https://www.fujielectric.co.jp/fcs/about/",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E9%9B%BB%E6%A9%9F",
+    "https://www.fujielectric.co.jp/about/domestic_base/network.html",
+    "https://www.fujielectric.co.jp/about/ir/library/ar2020/strategy03/",
+    "https://ja.wikipedia.org/wiki/富士電機"
+   ]
+  },
+  {
+   "query": "富士電機 社長 インタビュー",
+   "results": [
+    "https://www.fujielectric.co.jp/about/ir/library/ar2024/interview/",
+    "https://www.nikkan.co.jp/articles/view/778482",
+    "https://x.com/fujielectric_jp/status/1944909782944497889",
+    "https://the-shashi.com/tse/6504/ceo/",
+    "https://www.fujielectric.co.jp/ir/library/detail/ar2026_ceo.html",
+    "https://fujielectric.brightcovegallery.com/jpn/detail/videos/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/video/6341095533112/%E8%84%B1%E7%82%AD%E7%B4%A0%E6%99%82%E4%BB%A3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AF%8C%E5%A3%AB%E9%9B%BB%E6%A9%9F%E3%81%AE%E4%BD%BF%E5%91%BD_cnt%E7%A4%BE%E9%95%B7%E7%AF%87",
+    "https://kitaishihon.com/company/6504/board-of-director",
+    "https://jobtalk.jp/companies/2193/answers/8755848",
+    "https://www.youtube.com/watch?v=9xyi5qDrRH8",
+    "https://www.fujielectric.co.jp/ir/library/detail/ar2025_coo.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

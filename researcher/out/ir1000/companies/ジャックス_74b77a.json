@@ -1,0 +1,1288 @@
+{
+ "name": "ジャックス",
+ "aliases": [],
+ "context": "証券コード8584／その他金融業／プライム（内国株式）／2026.03期 売上高192,313百万円 営業利益率10.6%",
+ "researched_at": "2026-11-02T20:51:33.098020+00:00",
+ "official_url": "https://www.jts-web.co.jp/",
+ "identified_by": "search:ddgs:google:株式会社ジャックス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1948年 12月23日 （創業は 1954年 6月29日 ）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ショッピングクレジット 、 オートローン 、 クレジットカード 、 信用保証 、集金代行等",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結1,909億円 単独1,611億6,000万円 （2025年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結5,518名 単独2,673名 （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ジャックス・トータル・サービスは、お客様へ",
+    "url": "https://www.jts-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャックスグループの一員として、加盟店様、お客様に",
+    "url": "https://www.jts-web.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "導入法人および企業様と、受け取るお客様",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "欲しいものを選べるので、企業側でのギフト選定は不要になり、お客様からも高い満足を得ることが期待できます",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に送るものは「デジタルギフトを受取るためのURL」だけなので、在庫の管理はGiflet（ギフレット）一種類のみです",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "手数料は1ユーザーあたり1,000円未満の場合はGiflet商品代金の10%、1,000円以上の場合は1URLあたり100円となります",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "受け取るお客様のメリット",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "納品されたデジタルギフト交換用URLをご利用者さまへ配布してください",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、手軽に利用できるクレジットの仕組みを積極的に拡充することで、顧客にとっての利便性と安心感を高めています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の営業拠点やオンラインプラットフォームを駆使し、幅広い顧客層にサービスを提供しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な人材、安定した経営基盤、広範な顧客基盤、そして強固な営業ネットワークを持っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、巨大な金融グループとの提携により、資金力・ブランド力・顧客基盤を補強しながら新しいビジネスアイデアに挑戦しやすくなります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の営業拠点とオンラインプラットフォームを活用し、顧客との接点を増やしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗での対面営業とインターネット上での契約手続きの両方を整備し、多様な顧客層にアプローチしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、住宅ローンや高額ローンでは直接相談したいという需要も根強く、対面での手続きを望む顧客も一定数存在します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "個人顧客、法人や加盟店、さらにASEAN地域を中心とした海外市場の顧客をターゲットにしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジャックスでは、国内の多様なファイナンスサービスを提供することで顧客基盤を拡大し、得られた利益をもとに新商品の開発や海外拠点の強化へ再投資しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、オートローンで培ったノウハウをASEAN市場に応用することで、新興国でも顧客を獲得できる強みを築きました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、海外からの収益がさらに増え、その利益を再び国内外の顧客サービス拡充に回すという正の循環が生まれています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャックス・トータル・サービスは、お客様へ",
+    "url": "https://www.jts-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャックス・トータル・サービスなら、日々の生活を",
+    "url": "https://www.jts-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャックス・トータル・サービス",
+    "url": "https://www.jts-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お喜びいただけるようなサービスを展開しています",
+    "url": "https://www.jts-web.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "メールなどで簡単に送ることができ、受け取った方が商品を自由に選択できる新しい販促ツールです",
+    "url": "https://www.jts-web.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報 | 会社情報 | ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "選べるデジタルギフト Giflet（ギフレット） | ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "ギフト券や電子マネー、商品の引換券などです",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルギフトGiflet 商品一覧",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "少額商品から高額商品まで取り揃えております",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "本プログラムはジャックス・トータル・サービス株式会社による提供です",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社 デジタルギフト事務局までお願いいたします",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "商品は一例です",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "交換先のデジタルギフトはジャックス・トータル・サービスが一括で管理を行います",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "手数料は1ユーザーあたり1,000円未満の場合はGiflet商品代金の10%、1,000円以上の場合は1URLあたり100円となります",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "Gifletの交換商品の選択およびクリエイティブ作成等により予定日が変更となる可能性がございます",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "Gifletの交換商品の選択及びクリエイティブ作成の有無等により納品日までお時間頂くこともございます",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000円未満のGiflet： Giflet商品代金の10％",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "ローソン商品は納品月の翌月末日",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の商品につきましては納品日の175日後程度となります",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "商品によって変更となる場合がございます",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "選べるデジタルギフト Giflet(ギフレット)の使い方 | ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "pass": 1
+   },
+   {
+    "quote": "メール・2次元コード、提携先のサービスから商品受取URLにアクセスします",
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "pass": 1
+   },
+   {
+    "quote": "商品が交換できない（Amazonギフトカード）",
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "pass": 1
+   },
+   {
+    "quote": "②「商品画像」か「商品名称」をクリックする",
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "pass": 1
+   },
+   {
+    "quote": "③商品詳細ページ「上記の内容と利用規約に同意して交換を行う」に",
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "pass": 1
+   },
+   {
+    "quote": "間違った商品と交換してしまった",
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/info/20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan039.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan038.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan037.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan036.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan035.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全国に広がる強力な加盟店網と高度な与信審査・回収ノウハウを強みとし、消費者の購買機会や生活支援を支える多彩な決済・信用補完サービスを提供しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの多様なライフステージに寄り添う柔軟な支払いプランやローン商品を提供しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "また、住宅や自動車といった高額商品のローンを扱うことで、豊かな生活をサポートする役割を明確化し、市場での存在感を高めました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の営業拠点やオンラインプラットフォームを駆使し、幅広い顧客層にサービスを提供しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、クレジットやカード決済などのサービスは時代の変化に合わせて需要が大きく伸びてきたからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたって積み重ねてきた信用力と、金融サービスの運営ノウハウも大きな資産です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達や信用リスク管理の側面で強固な連携を実現し、新たなサービスの開発にも活かしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な支払プランやサービスを通じた長期的な信頼関係を築いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、金融サービスは一度利用して終わりではなく、長い付き合いになることが多いからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "完済した後も新たな商品を紹介したり、ライフステージの変化に合わせたサービスを提供することでリピート利用が増え、企業の安定的な成長に寄与しやすくなります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "また、消費行動が幅広くなる中、小売業やサービス業の加盟店との提携を強化することで、販売促進と金融サービスの相互メリットを追求しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、金融サービスを提供する以上、貸倒リスクと向き合うのは避けられないからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジャックスでは、国内の多様なファイナンスサービスを提供することで顧客基盤を拡大し、得られた利益をもとに新商品の開発や海外拠点の強化へ再投資しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、海外からの収益がさらに増え、その利益を再び国内外の顧客サービス拡充に回すという正の循環が生まれています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "また、三菱UFJフィナンシャル・グループとの連携もこの循環を後押ししており、信用力が高まることで大口ローンや法人向けサービスの提供がしやすくなります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "新興国では経済成長やクレジット需要の拡大が続いており、日本で培った信用管理ノウハウや多様な商品の提供力が強みとして活かされるでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした時代の変化に対応しながら、多角的な金融サービスを提供していくことが同社の成長戦略の要となるでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "特にIR資料などを通じて経営方針や財務状況を随時確認すると、今後のサービス拡充やグローバル展開における新たな施策が明らかになることが期待されます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績日本証券金融株式会社【全体の業績】日本証券金融株式会社は、証券市場のインフラとして金融商品取引所に与信を提供する制度信用取引の「貸借取引業務」を中核に、金融機関向けなどの融資業務や有価証券の貸付業務、信託銀行事業などを手...",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績株式会社クレディセゾン【全体の業績】株式会社クレディセゾンは、主力である「セゾンカード」の発行を中心に、個人の消費生活を支える決済ソリューションを提供する日本最大級の独立系ノンバンク企業です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績イー・ギャランティ株式会社【全体の業績】イー・ギャランティは、売買売掛金や未収金などの売上債権に係る与信リスクを肩代わりする信用保証サービスを展開する独自の金融サービス企業です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "証券・商品先物取引業",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックス債権回収サービス株式会社 他",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年3月期（第39期）決算公告を掲載しました",
+    "url": "https://www.jts-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（令和04年）3月期",
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和05年）3月期",
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年（令和06年）3月期",
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和07年）3月期",
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年（令和08年）3月期",
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月 31日",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan039.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 3月 31日",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan038.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 3月 31日",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan037.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 3月 31日",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan036.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 3月 31日",
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan035.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期の配当予想は4.77%と高めで、株主還元にも力を入れていることがうかがえます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月21日時点での株価は1株あたり3,895円で、堅調な業績を背景に株式市場でも一定の評価を得ている状況です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1976年11月4日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1954年に北海道函館市で創業した信販・クレジットカード会社",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1974年に東京へ進出し、1978年から東京証券取引所市場第一部へ上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期では、クレジット・カード(ペイメント)・ファイナンスとリテール金融の分野で年間5兆6,186億円の取扱高実績を有する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2010年以降は",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2008年3月17日に",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2011年より三菱UFJニコス（旧・",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にはプリンシパルメンバーとなり、自社発行を開始する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月に三菱UFJ銀行と二度目の資本業務提携契約を締結し、第三者割当による新株式を発行する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年（平成29年）5月‐インドネシアの持分法適用会社MPMFの株式を追加取得し、連結子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2018年（平成30年）1月‐カンボジアに設立したJACCS FINANCE CAMBODIA PLC.が事業開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2019年（令和元年）7月‐フィリピンの合弁会社（MAFS）を連結子会社化し、社名をJACCS FINANCE PHILIPPINES CORPORATIONに変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2023年（令和5年）2月‐ジャックスリース株式会社が、三菱オートリース株式会社と資本業務提携を締結",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（令和7年）5月‐マレーシアの現地企業Carsome Capital Sdn.Bhd.の株式49％を取得し、持分法適用会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（令和7年）9月‐株式会社三菱UFJ銀行と資本業務提携契約を締結し、第三者割当増資による新株式を発行",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1998年、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2000年12月の一審判決では",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代に店頭に並んだトランペットを物欲しげに見つめる少年のCMが流れ、それが志村けん等によりパロディにされていた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1997年以前に過払い状態となったものや、1997年以前から取引が継続しており、その前の取引を法定利息で計算した結果、現在は過払いとなっているケースが僅かに存在するが、それに対応する利息返還損失引当金は、他の信販・クレジットカード会社と比較すると遥かに少ない額である",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2007年のリリース",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "2013年5月18日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1948年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1973年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "1974年北日本信用販売（現",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E7%9B%B4%E6%A0%84",
+    "pass": 3
+   },
+   {
+    "quote": "2005年から",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E7%9B%B4%E6%A0%84",
+    "pass": 3
+   },
+   {
+    "quote": "2011年代表取締役会長（CEO）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E7%9B%B4%E6%A0%84",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介 | ジャックス・トータル・サービス株式会社",
+    "url": "https://www.jts-web.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗やオンラインで簡単に利用できます",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれの利用のメリットについてご紹介します",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱UFJフィナンシャル・グループとの戦略的パートナーシップを構築しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗での対面営業とインターネット上での契約手続きの両方を整備し、多様な顧客層にアプローチしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "完済した後も新たな商品を紹介したり、ライフステージの変化に合わせたサービスを提供することでリピート利用が増え、企業の安定的な成長に寄与しやすくなります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱UFJイノベーション・パートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "三菱UFJフィナンシャルパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "手数料は1ユーザーあたり1,000円未満の場合はGiflet商品代金の10%、1,000円以上の場合は1URLあたり100円となります",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "手数料は下記の通りになります",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジット手数料、カード年会費、ローン利息などが主な収益源です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "）のライセンスにより発行していた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "し、2009年度より同社ライセンスでのVISAカード発行を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E7%9B%B4%E6%A0%84",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%9E%A3%E5%BA%B7%E7%BE%A9",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "お客様に送るものは「デジタルギフトを受取るためのURL」だけなので、在庫の管理はGiflet（ギフレット）一種類のみです",
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "pass": 1
+   },
+   {
+    "quote": "全国に広がる強力な加盟店網と高度な与信審査・回収ノウハウを強みとし、消費者の購買機会や生活支援を支える多彩な決済・信用補完サービスを提供しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの強みは事業を継続的に広げていくうえで不可欠なリソースといえます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、オートローンで培ったノウハウをASEAN市場に応用することで、新興国でも顧客を獲得できる強みを築きました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "新興国では経済成長やクレジット需要の拡大が続いており、日本で培った信用管理ノウハウや多様な商品の提供力が強みとして活かされるでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の審査ノウハウや充実したアフターフォロー体制を強みに、借主にはスムーズ...",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アコムのビジネスモデルを解説 大手消費者金融の強みとは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社ジャックスのビジネスモデルと成長戦略を徹底解説 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジャックスのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "東京センチュリー株式会社のビジネスモデルを徹底解説します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本証券金融が支えるビジネスモデルと成長戦略の魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾンの魅力とビジネスモデルが生み出す成長への秘密",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社あんしん保証のビジネスモデルがすごい理由",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "芙蓉総合リースのビジネスモデルで実現する成長戦略とは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "イー・ギャランティのビジネスモデルがすごい 成長戦略とIR資料の注目ポイント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アコムのビジネスモデルを解説 大手消費者金融の強みとは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス株式会社の多角経営で築くビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グループ戦略｜ジャックスについて｜株式会社ジャックス — ジャックスは、MUFGグループとジャックスグループの力を結集し、多様な収益基盤を構築してまいります。 あわせて、ジャックスグループ各社の収益力を強化し、連結経営への転換を目指します。 MUFGグループ企業としてのシナジー効果の極大化",
+    "url": "https://www.jaccs.co.jp/corporate/about/group/strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジャックスのビジネスモデルと成長戦略を徹底解説 | チームマ... — Feb 28, 2025 · 株式会社ジャックスは、三菱UFJフィナンシャル・グループ（MUFG）の持分法適用会社として、ショッピングクレジットやオートローンなどの信販事業を中心に、クレジットカード、家賃保証や住宅リフォームローンなどの各種保証事業、さらにはASEAN地域に ...",
+    "url": "https://consovation.com/株式会社ジャックスのビジネスモデルと成長戦略/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックスの強み｜ジャックスについて｜株式会社ジャックス — ジャックスは、創業以来、お客様のより豊かな暮らしに貢献することを目的として真摯に事業に取り組み、現在ではMUFGグループの一員として、国内・海外においてコンシューマーファイナンスの分野でさまざまな商品・サービスを提供しています。",
+    "url": "https://www.jaccs.co.jp/corporate/about/glance/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックスカードの企業研究／信販業界の勝ち組かつMUFGグループの異... — Feb 28, 2026 · ここでは、MUFG（三菱UFJフィナンシャル・グループ）の中で独自のポジションを築き、信販業界の勝ち組として君臨するジャックスの全貌を、ビジネス視点から徹底的に解剖します。",
+    "url": "https://note.com/cccar/n/naafc1e0e7c06",
+    "pass": 3
+   },
+   {
+    "quote": "【信用リスクテイカー】還元方針はどう変わった？ジャックスのビジネ... — Jan 9, 2026 · 国内大手信販ジャックスのビジネスモデルと財務状況を金融業の視点で解説。 減配からDOE導入へ還元方針はどう変わったか、営業CFがマイナスでも問題ない理由、ROE・配当性向の推移まで、高配当株投資の判断材料を整理しました。",
+    "url": "https://yutorazaimu.com/jaccs/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料｜株主・投資家の皆様｜株式会社ジャックス — ジャックスの企業情報サイトです。 企業情報、事業・サービス、IR情報、サステナビリティなどについて掲載しております。 このページでは「決算説明資料」について掲載しています。",
+    "url": "https://www.jaccs.co.jp/corporate/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜株主・投資家の皆様｜株式会社ジャックス — ジャックスの企業情報サイトです。 企業情報、事業・サービス、IR情報、サステナビリティなどについて掲載しております。 このページでは「IRライブラリー」について掲載しています。",
+    "url": "https://www.jaccs.co.jp/corporate/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックスのIR資料 - 8584 / プライム / その他金融業 | バフェット... — ジャックス（8584 / プライム / その他金融業）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/8584/library",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックス【8584】のIR資料 - キタイシホン — ジャックス (8584/東証プライム/その他金融業)のIR資料はキタイシホンでCHECK!!統合報告書・有価証券報告書・決算説明会資料・株主通信・会社説明会資料・中期経営計画をまとめて確認",
+    "url": "https://kitaishihon.com/company/8584/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジャックス 決算説明資料 — EDINET DB — Feb 5, 2026 · 2026年3月期第3四半期連結決算は、営業収益が前年比1.6%増の1,458億円となった。 販売管理費は2.8%増の809億円、貸倒関連費用は2.7%減の228億円、金融費用は25.2%増の227億円となった。",
+    "url": "https://edinetdb.jp/company/E04768/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックス (信販) - Wikipedia — 株式会社ジャックス （英: JACCS CO.,LTD.）は日本の大手 信販会社。 本部は 東京都 渋谷区 恵比寿 4丁目1-18恵比寿ネオナート、登記上の本店は 北海道 函館市 若松町2-5明治安田生命函館ビル。 「ジャックス」は Ja pan C onsumer C redit S erviceの略である。",
+    "url": "https://ja.wikipedia.org/wiki/ジャックス_(信販)",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ｜株式会社ジャックス — ジャックスの企業情報サイトです。 企業情報、事業・サービス、IR情報、サステナビリティなどについて掲載しております。 このページでは「サイトマップ」について掲載しています。",
+    "url": "https://www.jaccs.co.jp/corporate/sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "事業・サービス｜株式会社ジャックス — ジャックスの企業情報サイトです。 企業情報、事業・サービス、IR情報、サステナビリティなどについて掲載しております。 このページでは「事業・サービス」について掲載しています。",
+    "url": "https://www.jaccs.co.jp/corporate/activities/",
+    "pass": 3
+   },
+   {
+    "quote": "【ジャックス】構造改革を発表｜組織改編と人員合理化を実施｜人事異... — Sep 11, 2026 · 株式会社ジャックス 審査事務部門の全国拠点を7拠点へ統合、札幌・名古屋・福岡・岡山の4拠点勤務者180名を対象に退職・転職支援等の人員合理化を実施。 最大で特別退職金11億円を見込む。 2027年4月1日を改編期日とし、2026年11月以降に人員選択開始予定。",
+    "url": "https://japanir.jp/company/company-8584/ir/8584-20260911-02_wp_executive_change/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャックス【8584】の事業内容 - キタイシホン — ② 海外の関係会社（持分法適用会社） マレーシアのCarsome Capital Sdn. Bhd.において、オートローン及びディーラーファイナンスの取扱いを行っております。 事業の系統図は次のとおりであります。",
+    "url": "https://kitaishihon.com/company/8584/business",
+    "pass": 3
+   },
+   {
+    "quote": "杉本直栄 - Wikipedia — 杉本直栄 杉本 直栄 （すぎもと なおえ、 1950年 4月10日 - ）は、 日本 の 実業家。 ジャックス 代表取締役 社長や、同社代表取締役会長、 日本クレジット協会 会長を務めた。",
+    "url": "https://ja.wikipedia.org/wiki/杉本直栄",
+    "pass": 3
+   },
+   {
+    "quote": "板垣康義 - Wikipedia — 板垣康義 板垣 康義 （いたがき やすよし、 1955年 2月25日 - ）は、 日本 の 実業家。 ジャックス 代表取締役 社長 最高経営責任者 兼 最高執行責任者 を経て、同社代表取締役会長最高経営責任者、 日本クレジット協会 副会長。",
+    "url": "https://ja.wikipedia.org/wiki/板垣康義",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧｜ジャックスについて｜株式会社ジャックス — ジャックスの企業情報サイトです。 企業情報、事業・サービス、IR情報、サステナビリティなどについて掲載しております。 このページでは「役員一覧」について掲載しています。",
+    "url": "https://www.jaccs.co.jp/corporate/about/management/",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ｜ジャックスについて｜株式会社ジャックス — ジャックスの企業情報サイトです。 企業情報、事業・サービス、IR情報、サステナビリティなどについて掲載しております。 このページでは「社長メッセージ」について掲載しています。",
+    "url": "https://www.jaccs.co.jp/corporate/about/message/",
+    "pass": 3
+   },
+   {
+    "quote": "村上亮氏の経歴｜ジャックスの歴代社長（2022年〜現任） — Oct 23, 2026 · ジャックス（社長）村上亮氏。 2022年6月、山﨑徹氏の後任として代表取締役社長COOに就任し、山﨑氏は代表取締役会長CEOへ移った。 三菱UFJ銀行が出資比率を約40%へ引き上げ、2026年3月期時点で39.41%を持つ筆頭株主である。",
+    "url": "https://the-shashi.com/tse/8584/executives/ceo/murakami-ryo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jts-web.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/company/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/howto/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jts-web.co.jp/info/20260618.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan039.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan038.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan037.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan036.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/company/pdf/kessan035.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/img/index_service_icon_giflet.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/img/index_service_icon_insurance.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/img/giflet_wordmark.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/img/hero_phone.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/img/hero_icon_headphones.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/img/hero_icon_coffee.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/img/hero_icon_chicken.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jts-web.co.jp/business/giflet/img/hero_icon_books.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jaccs.co.jp/corporate/about/group/strategy/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaccs.co.jp/corporate/ir/library/presentation/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaccs.co.jp/corporate/ir/library/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaccs.co.jp/corporate/sitemap/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E7%9B%B4%E6%A0%84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BF%E5%9E%A3%E5%BA%B7%E7%BE%A9",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジャックス",
+   "results": [
+    "https://www.jaccs.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%B9_(%E4%BF%A1%E8%B2%A9)",
+    "https://www.nikkei.com/nkd/company/?scode=8584",
+    "https://kakaku.com/card/list/?cc_spec=1035",
+    "https://www.facebook.com/jaccscard/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/ジャックス",
+    "https://ja.wikipedia.org/wiki/ジャックス_(信販)",
+    "https://en.wikipedia.org/wiki/JACCS",
+    "https://www.jaccs.co.jp/Service?_TRANID=JALG00001_00M",
+    "https://www.youtube.com/channel/UCCqHVvm3SXYAZF9CIeN-ndQ"
+   ]
+  },
+  {
+   "query": "株式会社ジャックス",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジャックス_(信販)",
+    "https://en.wikipedia.org/wiki/JACCS",
+    "https://www.jaccs.co.jp/corporate/",
+    "https://www.jaccs.co.jp/corporate/about/overview/",
+    "https://www.crex-data.com/company/8584",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8584",
+    "https://www.jts-web.co.jp/company/connection.html"
+   ]
+  },
+  {
+   "query": "ジャックス ビジネスモデル",
+   "results": [
+    "https://www.jaccs.co.jp/corporate/about/group/strategy/",
+    "https://consovation.com/株式会社ジャックスのビジネスモデルと成長戦略/",
+    "https://www.jaccs.co.jp/corporate/about/glance/",
+    "https://note.com/cccar/n/naafc1e0e7c06",
+    "https://yutorazaimu.com/jaccs/",
+    "https://www.dri.co.jp/auto/report/marketline/MLIG220412-204.html",
+    "https://note.com/kabu_shukatsu/n/na238b49c4e32"
+   ]
+  },
+  {
+   "query": "ジャックス 決算説明資料",
+   "results": [
+    "https://www.jaccs.co.jp/corporate/ir/library/presentation/",
+    "https://www.jaccs.co.jp/corporate/ir/library/",
+    "https://www.buffett-code.com/company/8584/library",
+    "https://kitaishihon.com/company/8584/ir-library",
+    "https://edinetdb.jp/company/E04768/presentations/",
+    "https://irbank.net/8584/ir",
+    "https://irbank.net/E04768/reports"
+   ]
+  },
+  {
+   "query": "ジャックス 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジャックス_(信販)",
+    "https://www.jaccs.co.jp/corporate/sitemap/",
+    "https://www.jaccs.co.jp/corporate/activities/",
+    "https://japanir.jp/company/company-8584/ir/8584-20260911-02_wp_executive_change/",
+    "https://kitaishihon.com/company/8584/business",
+    "https://irbank.net/E04768/business?f=S100TUC0",
+    "https://donburi.accountant/report/?t=3&es=3396"
+   ]
+  },
+  {
+   "query": "ジャックス 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/杉本直栄",
+    "https://ja.wikipedia.org/wiki/板垣康義",
+    "https://www.jaccs.co.jp/corporate/about/management/",
+    "https://www.jaccs.co.jp/corporate/about/message/",
+    "https://the-shashi.com/tse/8584/executives/ceo/murakami-ryo/",
+    "https://the-shashi.com/tse/8584/executives/",
+    "https://cir.nii.ac.jp/crid/1521417753481721088"
+   ]
+  }
+ ],
+ "missing": {}
+}

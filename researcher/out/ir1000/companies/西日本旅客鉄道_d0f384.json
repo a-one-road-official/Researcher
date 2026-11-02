@@ -1,0 +1,1037 @@
+{
+ "name": "西日本旅客鉄道",
+ "aliases": [],
+ "context": "証券コード9021／陸運業／プライム（内国株式）／2026.03期 売上高1,845,840百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:43:05.342289+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1987年4月1日",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1987年 （昭和62年） 4月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "旅客鉄道事業 流通業 不動産業 他",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 1兆8458億4000万円 単独: 1兆0590億8200万円 （2026年3月期） [ 4 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結: 47,225人 単独: 22,524人 （2026年3月31日現在） [ 4 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "JR西日本が挑む“移動を超えた”ビジネスモデルの構築 | BIPROGY TERASU",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本が挑む“移動を超えた”ビジネスモデルの構築",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "――現在開発中の「Wesmo!」は、JR西日本が挑む新たなビジネスモデルにおいて、大きな柱となる取り組みの1つです",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "DXでビジネスモデルを変革し、持続可能な社会を創造する",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "〈異色の収益構造〉JR九州の多角化戦略を生んだのは｢挫折の連続｣",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "2002年の人事ワークフローシステムから、会員管理システム、お客様センターのシステムの開発などが主な内容です",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービスに参入するには、ユーザーの安心と信頼が必須です",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、当社のビジネスはお客さまの業務効率化等による顧客課題解決が中心でした",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、2020年10月に、全てのモビリティや生活サービスとお客様、従業員をデジタルでつなげるエコシステムの構築を目指し、「JR西日本グループデジタル戦略」を策定しました",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "この「JR西日本グループデジタル戦略」は、「顧客体験」「鉄道システム」「従業員体験」の3つを再構築することを目指しています",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ、別々のマスターデータ（社員や顧客、商品、設備などの基礎情報）で構築されていたので、データ連携ができない状態だったのです",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "取引先のベンダーを通じてデータマネジメントのコンサルティング会社を複数社紹介してもらったうちの1社がデータ総研さんでした",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "そのご支援をいただいている当社も、データ活用でトップリーダーとなり、お客様の生活のクオリティ向上に貢献したいと強く思っているところです",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "お客様ご自身でこの後の行動をされる場合は降車のご案内があります」という案内に杜撰な対応だと不満をあらわにする乗客もいた",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本お客様センター",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "降積雪時における輸送の安全の確保及びお客様の救護への対応について",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "利用者向け）",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーガイド",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "ウェスモは「5年後利用者300万人」が目標",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "人口減少は、顧客と働き手の両方に影響するので非常に厳しい",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客へのアプローチとしては、BtoC事業に加え、BtoBやBtoG（政府や自治体との事業）を強化している",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "同社の「中期経営計画2025アップデート」では「デジタル戦略による多様なサービスの展開」や「新たな事業の創出」など5つの重点戦略が掲げられ、現在、移動に頼らない新たな事業の柱の創出に挑戦している",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも大きな取り組みの1つが新たな決済サービス「Wesmo!（ウェスモ）」のサービス導入だ",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年11月にデジタルソリューション本部が設立され、立ち上げ時から副本部長として関わり、翌年に本部長になりました",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "課題解決に向け、その先導やサポートをするのがデジタルソリューション本部の役割です",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "取締役 兼 常務執行役員 デジタルソリューション本部長",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、このあと詳しくお話する「Wesmo!（※）」の決済サービスのほか、2025年の大阪・関西万博の大阪ヘルスケアパビリオンでのミライのヘルスケア体験の実現に向けて、健康状態の計測サービスなども一緒に手掛けています",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "Wesmo!（ウェスモ）：JR西日本にて、第二種資金移動業の登録完了を前提に2025年春のサービス開始を目指し、導入準備中の新たな決済・ウォレットサービス",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本が提供するJ-WESTカード、ICOCAに続く、新たな決済サービスとなる",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "共感を軸にしたチームで新たな金融サービスに挑戦",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "どのようなサービスなのでしょうか",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "Wesmo!は当社が新たに提供する決済サービスです",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと私たちが持っていた、駅を中心としたホテルやショッピングセンター等のお客さまとのリアルな接点、近年開始したエリアや時間を限定せず、24時間365日全世界の人とつながることができるアプリに加えて、より日常での強固な接点を構築するため、本サービスが生まれました",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスコンセプトは「Moving is Value」",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービスに参入するには、ユーザーの安心と信頼が必須です",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "Wesmo!は、移動に新たな価値を加える、大変斬新なサービスです",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "世の中にまだないサービスをつくるので、我々にとっては大きな挑戦になります",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "コモン＝共有財としてこのサービスを生かしていきたいとの思いに共感があると、BIPROGYさんと会話を重ねるたびに感じています",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "人の心を動かすサービスで街を活性化し日本を元気にする",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "社会にあるさまざまなアセットをデジタルの力でつなぎ合わせて、多くの方々に使っていただけるサービスを提供していきたい",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "その最も大きなサービスがWesmo!です",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ目標を共有するプロフェッショナルのチームが一丸となってサービスを開発し、それによって街が活性化し日本が元気になっていく――",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "人、データ、サービスをつなげ“地域社会の未来”を創る",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングソリューション",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "様々なサービスを横断したデータ活用で、よりよい提案を目指す",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "オープンイノベーションで外部の技術や価値観を積極的に取り入れ、持続可能で魅力的な鉄道交通サービスを提供していきたいと考えています",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、2020年10月に、全てのモビリティや生活サービスとお客様、従業員をデジタルでつなげるエコシステムの構築を目指し、「JR西日本グループデジタル戦略」を策定しました",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ、別々のマスターデータ（社員や顧客、商品、設備などの基礎情報）で構築されていたので、データ連携ができない状態だったのです",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "モビリティ業/流通業/不動産業/旅行・地域ソリューション業/その他",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "2府16県に跨る広大な鉄道ネットワークや約1200もの「駅」という拠点を活かし、鉄道・交通、物販・飲食、ホテルなどのモビリティサービス事業や不動産、地域・まちづくり、デジタル戦略などを展開",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "マスターデータマネジメント（MDM）ソリューション",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "においては、「持続的発展に向けた事業戦略の推進」として「山陽新幹線の輸送サービス」と「京阪神エリアにおける線区価値の向上」を重点分野として明確に打ち出す一方、10年から15年後を見据えた「長期的視点からの経営構想の構築」におけるローカル線にかかる取り組みとして「ローカル線の設備、システムのダウンサイジング」や「〈バス、",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "(DMV) 等への輸送モードの転換も含めた〉地域にとって最適な形の輸送サービスの提供」を経営の方向性として打ち出している",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "等を含めた地域旅客運送サービスの確保に関する議論や検討を幅広く行いたい」としている",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "主力である鉄道や同じ旅客輸送であるバス・船舶などの交通事業に加えて、大阪駅の",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サービス「JR西日本×住まいサブスク」サービスの実証実験を開始している",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "の3自治体と連携し、自治体からの支援金や特急列車に一定回数まで定額で乗車できるなどのサービスを組み合わせた「「JR西日本×沿線自治体」共同プロジェクト おためし地方暮らし」を実施している",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "の運転や設備管理、サービスなど駅業務全般を行うほか、",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本交通サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本中国交通サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "共創ソリューション本部",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション営業企画部",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "データソリューション室",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道ソリューション営業企画室",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "」のサービスが開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "8月1日：こどもICOCAのサービスを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "のサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "9月1日：広島・岡山地区の135駅でICOCAのサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "交通系ICカード全国相互利用サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイアール西日本デイリーサービスネット",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "（きのくに線）宮前駅 - 海南駅間でICOCAサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "日岡駅 - 西脇市駅間でICOCAサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "高岡駅 - 新高岡駅間、IRいしかわ鉄道線でICOCAサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "またICOCAによるポイントサービスも開始",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "「食」と「暮らし」のソリューションブランドへ",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "関連サービス",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け関連サービス",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "東洋経済データサービス",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "WEBサービスでの情報収集",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "BIPROGYは、このプロジェクトを共創パートナーとしてサポート",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "共創パートナーとして同じ目標を目指す",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "をメッセージアウトし、持続可能な社会の実現に向けて多様なパートナーとの共創を実践しています",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナーとして一緒に実現させていきたいと考えました",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、これからは「ビジネスパートナー」として、お客さまと一緒に、社会課題を解決し新たな価値を生み出すことにもより積極的に取り組んでいきます",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "思いに共感してもらい、かつ我々が間違っている部分があれば、きちんと指摘していただけるパートナーを求めていました",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "BIPROGYさんのご紹介でデザイナーさんやスタートアップのIT企業にも入ってもらって、共感を軸にしたチームができたので、ここまで走ってこられたと思っています",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "データモデルのレビューやパートナー会社への事前研修で品質維持をサポート",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社にはデータマネジメントの知見がほとんどありませんでしたので、外部パートナーの支援を受けようと考えました",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "取引先のベンダーを通じてデータマネジメントのコンサルティング会社を複数社紹介してもらったうちの1社がデータ総研さんでした",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "それは、社内だけで進めようとしたり、データ総研さんのようにしっかり伴走支援してくださるパートナーに出会えなかったりしたことが原因だと思っています",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "なせMDMが求められているのかを3つのビジネス戦略『DX戦略、組織戦略、M＆A戦略』の視点でご紹介します",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "この後の5年間で、JRDSNが運営する既存売店のうち500店舗を「セブン-イレブン",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "当面はJR西日本グループの商業施設や全国160万か所以上の店舗におけるショッピング、およびネット予約サービス「",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "にもオフィシャルパートナーとして出資している",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本グループ紹介CM（1990年代初頭）",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "の有人店舗「JR西日本出張所」がある",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "のコーポレート・マーケティング・パートナーズで、オフィシャルトレインでもある",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本グループとセブン-イレブン・ジャパンの駅店舗事業における業務提携について",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東京電力エナジーパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "中古車販売店｢ガリバー｣のIDOMが業績下方修正の\"想定外\" 来期以降の出店ペ…",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "お金の話をするとパートナーが不機嫌になります",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "我々が持つデジタルの強みを活かしながら、様々な強みを持つ方たちと今後さらに共創の輪を広げていきたいと考えています",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "DRIの強み",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年10月16日",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年11月にデジタルソリューション本部が設立され、立ち上げ時から副本部長として関わり、翌年に本部長になりました",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2002年の人事ワークフローシステムから、会員管理システム、お客様センターのシステムの開発などが主な内容です",
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月には「DX銘柄2025」（※）で「DX注目企業2025」に選定されるなど、すでにJR西日本様の「鉄道DX」は注目を集めています",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "2021年11月まで開催されていた第一版「DX時代の重点課題！！MDM（マスタデータ管理）を早急に実現せよ マスター統合/コード統一/MDMセミナー～統合マスタ基盤のアジャイル開発～」より、弊社講演部分の資料をダウンロードいただけます",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年7月豪雨の影響",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月の大雪での対応",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代以降",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1996年10月8日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1996年10月8日 - 2020年12月26日",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1996年10月15日 - 2020年12月26日",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月1日には広島県から島根県をかけて走る",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1991年（",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2002年（平成14年）11月6日 -",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2005年（平成17年）4月25日 -",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2006年（平成18年）1月24日 -",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1995年1月17日に発生した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2011年3月11日に発生した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2011年4月2日から",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2013年8月、尼崎",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2017年12月11日、山陽新幹線と東海道新幹線を直通運行していたJR西日本所有車両による「",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2018年7月5日から8日にかけての",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年7月豪雨",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月24日-25日、",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月22日、特急",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2006年6月22日まで山陽新幹線は並行する在来線と同じ支社に属していたが、同年6月23日付で",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1987年の国鉄分割民営化から約40年",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "2031年｢なにわ筋線｣開業をにらむ南北の動き",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月から『会社四季報プロ500』編集長",
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事例 | 西日本旅客鉄道 株式会社（JR西日本）【マスターデータ ... — 事例 | 西日本旅客鉄道 株式会社（JR西日本）【マスターデータ ... 株式会社データ総研 https://jp.drinet.co.jp > case > westjr",
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "pass": 3
+   },
+   {
+    "quote": "西日本旅客鉄道 （9021） 決算説明資料 - IR BOX — 西日本旅客鉄道 （9021） 決算説明資料 - IR BOX irbox.jp https://irbox.jp > company",
+    "url": "https://irbox.jp/company/9021",
+    "pass": 3
+   },
+   {
+    "quote": "西日本旅客鉄道 - Wikipedia — 西日本旅客鉄道 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 西日本旅客鉄道",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "西日本旅客鉄道 （JR西日本）｜同業他社と比較して分かる ... — 西日本旅客鉄道 （JR西日本）｜同業他社と比較して分かる ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/magic_swift2546/n/n424b346147c0",
+    "pass": 3
+   },
+   {
+    "quote": "西日本旅客鉄道 の企業情報 - DeepPoint — 西日本旅客鉄道 の企業情報 - DeepPoint 株式会社リミックスポイント https://deeppoint.remixpoint.co.jp > ... > 大手企業",
+    "url": "https://deeppoint.remixpoint.co.jp/companies/west-japan-railway",
+    "pass": 3
+   },
+   {
+    "quote": "歴代 社長 - 西日本旅客鉄道 のページ - The社史 — 歴代 社長 - 西日本旅客鉄道 のページ - The社史 The社史 https://the-shashi.com > 西日本旅客鉄道の歴史",
+    "url": "https://the-shashi.com/tse/9021/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "西日本旅客鉄道 【9021】の 社長 ・役員 - キタイシホン — 西日本旅客鉄道 【9021】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9021/board-of-director",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "の利用料金をセットにした定住",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サービス「JR西日本×住まいサブスク」サービスの実証実験を開始している",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "その後の一年間でJR西日本が実施・表明した安全向上策として、新幹線の安全運行を担う「走行管理班」を復活させ、保守・検査部門を拡充した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "これまで各支社に分散していた車両管理や施設保守など駅業務を除く新幹線関係の業務を一元管理するとともに、新幹線固有の技術力の維持向上を図るのが狙い",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "10月1日：効率的な保守作業を目的に、兵庫県",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本発足以降の保守基地の新設は初めて",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "保守基地新設に合わせて、保線区境界を変更した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "既に新型コロナウイルス感染拡大の影響による業績悪化に伴い、2020年4月から役員報酬の返上を継続しており、返上後の月額からさらに今回の内容を返上することとなった",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR西日本×住まいサブスク",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東北地方太平洋沖地震に伴う車両保守部品の不足による列車運行への影響について",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東北地方太平洋沖地震に伴う車両保守部品の不足による運転計画の見直しについて",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "車両保守部品の不足に伴う列車運転計画の見直しについて",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "「新幹線の安全対策 報告／JR西 専任部署・保守拡充など」",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "山陽新幹線 保守基地の新設について",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.drinet.co.jp/case/westjr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.westjr.co.jp/company/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.westjr.co.jp/company/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.westjr.co.jp/company/info/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.westjr.co.jp/company/ir/policy/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/899255?display=b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "西日本旅客鉄道",
+   "results": [
+    "https://www.westjr.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.jr-odekake.net/",
+    "https://www.instagram.com/jrwest_official/",
+    "https://play.google.com/store/apps/details?id=jp.co.jrwest.trainserviceinfo&hl=en_IN&gl=JP",
+    "https://job.mynavi.jp/28/pc/search/corp10/outline.html",
+    "https://ja.wikipedia.org/wiki/西日本旅客鉄道",
+    "https://ja.wikipedia.org/wiki/JR",
+    "https://www.westjr.co.jp/company/info/outline/",
+    "https://finance.yahoo.co.jp/quote/9021.T"
+   ]
+  },
+  {
+   "query": "株式会社西日本旅客鉄道",
+   "results": [
+    "https://www.westjr.co.jp/company/info/outline/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.westjr.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp10/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9021",
+    "https://ivexl.com/company_overview.html?id=490",
+    "https://enehub.jp/companies/1120001059675/",
+    "https://en-hyouban.com/company/00005105658/",
+    "https://ja.wikipedia.org/wiki/西日本旅客鉄道",
+    "https://ja.wikipedia.org/wiki/西日本鉄道"
+   ]
+  },
+  {
+   "query": "西日本旅客鉄道 株式会社",
+   "results": [
+    "https://www.westjr.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9021",
+    "https://tenshoku.mynavi.jp/company/102732/",
+    "https://enehub.jp/companies/1120001059675/",
+    "https://ja.wikipedia.org/wiki/西日本旅客鉄道",
+    "https://ja.wikipedia.org/wiki/西日本鉄道",
+    "https://www.westjr.co.jp/company/info/outline/",
+    "https://www.nishitetsu.co.jp/ja/group/company/outline.html",
+    "https://finance.yahoo.co.jp/quote/9021.T"
+   ]
+  },
+  {
+   "query": "西日本旅客鉄道 ビジネスモデル",
+   "results": [
+    "https://terasu.biprogy.com/article/westjr-wesmo/",
+    "https://jp.drinet.co.jp/case/westjr",
+    "https://www.westjr.co.jp/company/info/plan/pdf/plan_2025.pdf",
+    "https://www.gmo-pg.com/pxplus/journal/8159/",
+    "https://mirai-design-company.co.jp/blog/business-model/336.html",
+    "https://syukatsu-kaigi.jp/companies/49661/company_studies",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.jstage.jst.go.jp/article/uhs/2017/97/2017_15/_pdf/-char/ja",
+    "https://note.com/magic_swift2546/n/n424b346147c0",
+    "https://ja.wikipedia.org/wiki/西日本旅客鉄道"
+   ]
+  },
+  {
+   "query": "西日本旅客鉄道 決算説明資料",
+   "results": [
+    "https://www.westjr.co.jp/company/ir/library/",
+    "https://www.westjr.co.jp/company/ir/",
+    "https://www.nishitetsu.co.jp/ja/ir.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9021",
+    "https://irbox.jp/company/9021",
+    "https://www.buffett-code.com/company/9021/library",
+    "https://irbank.net/9021/ir",
+    "https://www.westjr.co.jp/press/article/2026/08/05/page_30903.html",
+    "https://edinetdb.jp/company/E04148/presentations/",
+    "https://irbank.net/E04148/reports"
+   ]
+  },
+  {
+   "query": "西日本旅客鉄道 事業系統図",
+   "results": [
+    "https://www.westjr.co.jp/company/info/organization/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.westjr.co.jp/company/info/",
+    "https://note.com/magic_swift2546/n/n424b346147c0",
+    "https://deeppoint.remixpoint.co.jp/companies/west-japan-railway",
+    "https://edinetdb.jp/company/E04148/midterm-plans/",
+    "https://visionguide.jp/corp/westjr/",
+    "https://www.jr-odekake.net/station/pdf/ubn.pdf",
+    "https://www.westjr.co.jp/company/info/outline/",
+    "https://ja.wikipedia.org/wiki/西日本旅客鉄道"
+   ]
+  },
+  {
+   "query": "西日本旅客鉄道 社長 インタビュー",
+   "results": [
+    "https://www.westjr.co.jp/company/ir/policy/message/",
+    "https://toyokeizai.net/articles/-/899255?display=b",
+    "https://www.youtube.com/watch?v=zxXSJEgoTvQ",
+    "https://the-shashi.com/tse/9021/ceo/",
+    "https://kitaishihon.com/company/9021/board-of-director",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.travelnews.co.jp/closeup/tokusyu/2026011509011547715.html",
+    "https://www.westjr.co.jp/company/action/commitment/",
+    "https://www.youtube.com/watch?v=YjMEyH_rX-w",
+    "https://www.westjr.co.jp/company/action/training/report/detail1/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

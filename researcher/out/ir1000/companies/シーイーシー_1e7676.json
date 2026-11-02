@@ -1,0 +1,1889 @@
+{
+ "name": "シーイーシー",
+ "aliases": [],
+ "context": "証券コード9692／情報・通信業／プライム（内国株式）／2026.01期 売上高65,882百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:36:06.536596+00:00",
+ "official_url": "https://www.cec-ltd.co.jp/",
+ "identified_by": "search:yahoo_jp:シーイーシー",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "45,220 48,206 53,124 56,208 65,882",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "658億8千2百万円（2026年1月期）",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1968年2月24日",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,550名（2026年4月1日現在）",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "インテグレーションセグメント お客様の潜在ニーズを具現化し、牽引型インテグレーションで社会・顧客課題の解決をサポートします。 コネクティッドセグメント 産業の垣根を越えて、お客様企業や事業をデジタル技術とデータでつなぎ、創造社会に貢献します。 ソリューションセグメント セキュリティ技術とデータセンターサービスを活用し、お客様の多様な分野に対応したソリューションを提供します。",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "社会課題・顧客課題の解決に貢献",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客や事業をデジタル技術と",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケット（顧客や業務）に対応した3つの事業で、",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の抱える課題に対してICTを活用した解決策を",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様企業の経営課題にあわせたICTの活用方法を提案し、3つの事業でより実践的で具体的なサービスを提供いたします",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の潜在ニーズを具現化し、牽引型インテグレーションで社会・顧客課題の解決をサポートします",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の潜在ニーズを具現化し、牽引型インテグレーションで社会・顧客課題の解決をサポート",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業の垣根を越えて、お客様企業や事業をデジタル技術とデータでつなぎ、創造社会に貢献します",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の潜在ニーズを具現化し、牽引型インテグレーションで",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題・顧客課題の解決に貢献",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "ICTで必要不可欠なパートナーとなることで、お客様の業務課題や社会課題解決に貢献いたします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自のノウハウに加え、基本機能を強化する豊富なテンプレートなど、お客様の業務効率化・生産性向上を実現します",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報連携、営業支援、サービス業務、販売管理・会計システム連携",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業の垣根を越えて、顧客や事業をデジタル技術とデータでつなぎ、",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "それらの経験や顧客との信頼関係を活かし、ビジネスイノベーターとして、データを起点とした企業間・産業間の「つながり」による価値提案を行い、創造社会に貢献します",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "堅牢でセキュアな従来型のデータセンターサービスに加え、メガクラウドと低遅延で高速接続するマルチクラウド、データを国内で安全に保管する国内データクラウド、保守・運用から業務代行まで行う一元的なマネジメントサービスを組み合わせたハイブリッドクラウドセンターにより、データの安全な国内保管と迅速かつ効率的な活用を実現し、多様化・複雑化したお客様の課題解決を支援いたします",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "日々進化を続けるセキュリティ脅威に対し、最新世代のテクノロジーとセキュリティ専門集団として培ってきたノウハウを活用したソリューションでお客様のビジネスを守ります",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティプラットフォームは、エンドポイントからクラウドまでお客様のビジネスを支えるICT要素に対し、さまざまなセキュリティの脅威からお客様の環境・要件に沿ったコンサルティングから設計・導入、マネージドセキュリティをワンストップソリューションとしてスピーディにお客様へ提供いたします",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "取り組む領域の拡充と異分野間のデータ連携や複数分野の組み合わせによる新たな価値を創出し、クロスインダストリービジネスへと発展させ、お客様の課題に適したソリューションを提供いたします",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "IDカードをかざしてユーザー認証してから出力するため、ミスプリントや放置印刷を防止",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "※アプリケーションやコンテンツは無料ですが、インターネットの通信料や印刷代はお客様負担となります",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客要求事項に基づく受託ソフトウェア製品の設計・開発・製造および保守、情報サービス",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品・サービスを提供することで、お客様の生産性の向上、省エネルギー化に貢献します",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「ICTの力で新たな価値を創造し、社会、顧客、そして社員が、もっと輝く未来へ」をパーパスに掲げ、ICTの力で豊かな未来を創造し、社会の持続可能な発展に貢献することで、社会、顧客、社員、ビジネスパートナー、株主など、すべてのステークホルダーの皆様にとって、なくてはならない「エッセンシャルカンパニー」でありたいと考えています",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーグループは、ICTの力で豊かな未来を創造し、社会の持続可能な発展に貢献することで、社会、顧客、社員、ビジネスパートナー、株主など、すべてのステークホルダーにとって、なくてはならない「エッセンシャルカンパニー」でありたいと考えています",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ICTで必要不可欠なパートナーとなることで、お客様の業務課題や社会課題解決に貢献いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "それらの経験や顧客との信頼関係を活かし、ビジネスイノベーターとして",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "どれだけ高性能のコンピューターやソフトウェアを用意しても、それだけではお客様の課題は解決できません",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーはお客様個々の悩みと真の課題を捉え、グループの総合力とICTの力で最適な解決策を提供いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーは、独立系のICT企業として蓄積したさまざまなメーカーやプラットフォームのサービスを「つなぐ」力で、お客様に最適なICT環境を提供いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーは、お客様ICTを利用する際に必要となるすべてのサービスを、グループの総合力で一括して提供いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業の成長に必要なICT戦略の立案からシステムの設計・開発、インフラの構築、保守・運用サービスまで、お客様に最適なソリューションをワンストップで提供いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様企業の事業発展のため、常に最先端のITをリサーチし自社に取り込み、価値ある技術、価値ある製品・サービスの開発と提供に取り組んでいます",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、企業が常に「安心」して事業活動を推進できるよう、品質を重視するとともに利用者にとって「快適」なICT環境の提供を心がけています",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の潜在ニーズを具現化し、牽引型インテグレーションで社会・顧客課題の解決をサポートします",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業の垣根を越えて、お客様企業や事業をデジタル技術とデータでつなぎ、創造社会に貢献します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ技術とデータセンターサービスを活用し、お客様の多様な分野に対応したソリューションを提供します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスとしてはシステム開発にとどまらず、サーバー・ネットワークの構築と運用、セキュリティーの導入と領域が広く、業務としてもコンサルティングから導入まで行い、製造業・金融業・流通業・情報通信業・官公庁など多岐にわたる業界のお客様と直接取引をしています",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、シーイーシーは、各業界を牽引するリーディングカンパニーにITパートナーとして、選んでいただいており、創業当初より50年以上もお付き合いが続くお客様もあります",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様も経営環境・IT環境もどんどん変わっていきますので、私たちも進化していかなければなりません",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員時代、ドライバー（PC内蔵機器や周辺機器を動かすためのシステム）の開発を通してプログラミングを経験したのちにシステムインテグレーションに従事し、その間にお客様の間近で直接やり取りをさせていただくようになりました",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティサービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを探す",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス検索",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト製品連携",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Apache Struts1脆弱性対策サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Apache Struts2脆弱性対策サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AWSアセスメントサービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS移行サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS総合支援サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BizDevOps伴走支援サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DevOps・CI／CD・テスト自動化支援サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ICTインフラ運用サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ICTインフラ構築サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Officeアップグレード検証サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "RPA導入支援サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Windows移行サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリケーション移行アセスメントサービス for AWS",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガバメントクラウド移行支援サービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "銀行向けサービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジット向けサービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体ソリューション",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "証券向けサービス",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティサービス",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合わせ",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティサービス",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様企業の経営課題にあわせたICTの活用方法を提案し、3つの事業でより実践的で具体的なサービスを提供いたします",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフトサービス事業",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft製品に独自ノウハウを組み合わせ、業務改革、生産性向上を実現",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "マイグレーションサービス事業",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス開発事業",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ技術とデータセンターサービスを活用し、多様な分野に対応したソリューションを提供します",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "業界特化型ソリューション",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "公共、文教、物流、医療など多様な分野に対応したソリューションを提供",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "おすすめ製品・サービス",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティサービス",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフトサービス事業",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト クラウドサービス（Dynamics 365、Power Platform、Microsoft Azure、Microsoft 365）の導入相談から運用支援、定着支援に至るまでワンストップでサポートいたします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力と豊富な経験を持つシーイーシーが、マイクロソフト クラウドサービス導入から定着までをワンストップでサポートします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "他のクラウドサービスとの連携もサポート",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "各クラウドサービスの単体導入だけでなく連携までを支援することで、貴社内の統合的な情報連携を実現し、導入効果を最大化します",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報連携、営業支援、サービス業務、販売管理・会計システム連携",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連する製品・サービス名",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイグレーションサービス事業",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来のマイグレーションのイメージがリフォーム（原状回復）だとしたら、シーイーシーのマイグレーションサービスのイメージはリノベーション（再生／変革）です",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティサービス",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナープログラムサイト",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業募集に関するお問い合わせ",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ICTで必要不可欠なパートナーとなることで、お客様の業務課題や社会課題解決に貢献いたします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国約5万店舗のコンビニで、いつまでもどこでも紙遊び",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンビニプリントに対応しているため、全国5万店舗のコンビニでご利用が可能です",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの環境への取り組みをご紹介します",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの社会貢献への取り組みをご紹介します",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーのコーポレートガバナンスについてご紹介します",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの環境への取り組みをご紹介します",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの社会貢献への取り組みをご紹介します",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーのコーポレートガバナンスについてご紹介します",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「ICTの力で新たな価値を創造し、社会、顧客、そして社員が、もっと輝く未来へ」をパーパスに掲げ、ICTの力で豊かな未来を創造し、社会の持続可能な発展に貢献することで、社会、顧客、社員、ビジネスパートナー、株主など、すべてのステークホルダーの皆様にとって、なくてはならない「エッセンシャルカンパニー」でありたいと考えています",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーグループは、ICTの力で豊かな未来を創造し、社会の持続可能な発展に貢献することで、社会、顧客、社員、ビジネスパートナー、株主など、すべてのステークホルダーにとって、なくてはならない「エッセンシャルカンパニー」でありたいと考えています",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ICTで必要不可欠なパートナーとなることで、お客様の業務課題や社会課題解決に貢献いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの基本情報、役員などをご紹介します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーのパーパスについてご紹介します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの全国の拠点についてご紹介します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの組織体系についてご紹介します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーのこれまでの歩みをご紹介します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーのグループ会社各社をご紹介します",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用担当者紹介",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、シーイーシーは、各業界を牽引するリーディングカンパニーにITパートナーとして、選んでいただいており、創業当初より50年以上もお付き合いが続くお客様もあります",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://careerpark-agent.jp/interview/221-2",
+    "pass": 3
+   },
+   {
+    "quote": "さらに不思議なことに、知らない土地に赴任した際に出会った人たちこそが（それは社内の人脈のみならず、パートナー企業さんなどさまざまですが）、私自身の考え方や仕事への取り組み姿勢などに大きな影響を与えてくれました",
+    "url": "https://careerpark-agent.jp/interview/221-2",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント｜株式会社シーイーシー",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメントでは、蓄積した現場ノウハウに先端技術を組み合わせた知見で、レガシーシステムのリノベーションや、システム構想の企画から設計・開発から運用・保守に至るまでワンストップでのサポートを提供いたします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント｜株式会社シーイーシー",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント｜株式会社シーイーシー",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "「中期経営計画 2025-2027」では、事業ポートフォリオを見直し、①事業戦略、②コーポレート戦略の２軸を成長戦略の柱として、「インテグレーションセグメント」「コネクティッドセグメント」「ソリューションセグメント」の3つの事業セグメントにてビジネスを推進しています",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、インテグレーションセグメントにおける「マイグレーションサービス事業」、コネクティッドセグメントにおける「データマネタイゼーション事業」、ソリューションセグメントにおいては「セキュリティサービス事業」を注力事業とし、より高い次元での成長を加速させていきます",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/chart.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/chart.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/chart.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/publicity.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/publicity.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/publicity.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/stock_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティッドセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/stock_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションセグメント",
+    "url": "https://www.cec-ltd.co.jp/ir/stock_info.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/chart.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/publicity.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/stock_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/own_shares.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/treasury_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み｜株主の皆様へ｜株式会社シーイーシー",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーの強み",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "レジ打ちや品出しだけでなく、在庫管理や仕入れという普段目にしない部分にまで携わり、流通の一連の仕事を経験できたのは大きかったと感じています",
+    "url": "https://careerpark-agent.jp/interview/221-2",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クラウドアプリケーションの企画から運用保守までの開発支援と、DevOps環境を提供",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "インテグレーションセグメントでは、蓄積した現場ノウハウに先端技術を組み合わせた知見で、レガシーシステムのリノベーションや、システム構想の企画から設計・開発から運用・保守に至るまでワンストップでのサポートを提供いたします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "システム構想の企画・構想から維持保守まで、システムライフサイクルをトータルでサポートいたします",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスにおけるICTシステムの役割は日に日に大きくなる一方、予算・リソースともに現行システムの運用保守で手一杯という企業が多いのも現実です",
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ分析利活用による新たなビジネス創出において、クライアントが求めるソフトウェアサービスの企画から関わり、開発から運用保守までのワンストップソリューションを提供します",
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "pass": 1
+   },
+   {
+    "quote": "堅牢でセキュアな従来型のデータセンターサービスに加え、メガクラウドと低遅延で高速接続するマルチクラウド、データを国内で安全に保管する国内データクラウド、保守・運用から業務代行まで行う一元的なマネジメントサービスを組み合わせたハイブリッドクラウドセンターにより、データの安全な国内保管と迅速かつ効率的な活用を実現し、多様化・複雑化したお客様の課題解決を支援いたします",
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客要求事項に基づく受託ソフトウェア製品の設計・開発・製造および保守、情報サービス",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）の発行内容確定に関するお知らせ（PDF：112 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "株式報酬型ストック・オプション（新株予約権）の発行に関するお知らせ（PDF：161 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は取締役向けストックオプション制度や将来における従業員へのインセンティブ報酬、またはM&A戦略の実施など、機動的な事業投資資金を確保するために、一定量の自己株式を保有する",
+    "url": "https://www.cec-ltd.co.jp/ir/treasury_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "シーイーシーは、企業の日々の活動や成長に必要なさまざまなICTサービスを提供するとともに、それを支える高品質な製品やサービスの開発、システムの運用や保守を総合的に提供する事業を展開しています",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "蓄積した現場ノウハウに先端技術を組み合わせた知見で、レガシーシステムのリノベーションや、システム構想の企画から設計・開発から運用・保守に至るまでワンストップでのサポートを提供いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業の成長に必要なICT戦略の立案からシステムの設計・開発、インフラの構築、保守・運用サービスまで、お客様に最適なソリューションをワンストップで提供いたします",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2020年11月1日",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月、金融安定理事会により設置された「気候関連財務情報開示タスクフォース（TCFD）」の提言について賛同を表明いたしました",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年7月1日",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月1日",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月30日",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 中間報告書を掲示（PDF：3.5 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期決算説明会オンデマンド動画を配信開始",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期決算説明会補足資料（スクリプト付）を掲示（PDF：17.3 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月には情報システムサービス株式会社の株式取得を行い、グループに迎え入れるなど、成長のための種蒔きを進めております",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月1日",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 中間報告書を掲示（PDF：3.5 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期決算説明会オンデマンド動画を配信開始",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期決算説明会補足資料（スクリプト付）を掲示（PDF：17.3 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 半期報告書を掲示（PDF：406 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期決算説明会補足資料を掲示（PDF：2.6 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期（中間期）決算短信を掲示（PDF：293 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期通期連結業績予想の修正（上方修正）に関するお知らせ（PDF：521 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第1四半期決算補足資料を掲示（PDF：2.3 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第1四半期決算短信を掲示（PDF：272 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期第2四半期（中間期）の連結業績予想の修正（上方修正）および中間配当予想の修正（増配）に関するお知らせ（PDF：502 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期 有価証券報告書を掲示（PDF：1.7 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期 報告書を掲示（PDF：2.7 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期 決算説明会オンデマンド動画を配信開始",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期 決算説明会補足資料（スクリプト付）を掲示（PDF：5.7 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期 決算説明会補足資料を掲示（PDF：2.2 MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期 決算短信を掲示（PDF：359 KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期（中間期）決算短信（PDF：293KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 半期報告書（PDF：406KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 中間報告書（PDF：3.5MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期 第2四半期決算説明会補足資料（PDF：2.6MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期（第58期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期（第57期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期（第56期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月期（第55期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年1月期（第54期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月期（第53期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年1月期（第52期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年1月期（第51期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年1月期（第50期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月期（第49期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年1月期（第48期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年1月期（第47期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年1月期（第46期）",
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月期－2025年1月期の3カ年中期経営計画（PDF: 1.4MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度－20年度の3カ年中期経営計画（PDF: 2.6MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度－17年度の3ヵ年中期経営計画（PDF: 1.3MB）",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度－14年度の5ヵ年中期経営計画（基本方針）（PDF: 716KB）",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年1月期",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月期",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期",
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "従来の事業モデルに固執せず、デジタル技術のさらなる活用や先端技術の導入など、新たなビジネスモデルの創出により、事業領域を積極的に拡大していきます",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容｜株式会社 シーイーシー — 事業内容｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > business",
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "VISION 2030および 中期経営計画 2025-2027 - シーイーシー — VISION 2030および 中期経営計画 2025-2027 - シーイーシー 株式会社シーイーシー PDF https://www.cec-ltd.co.jp > aboutus > guide_pdf > vi...",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/guide_pdf/vision2030-management_plan2025-27.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーイーシー — 株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp",
+    "url": "https://www.cec-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "シーイーシー の「企業分析［強み・弱み・展望］」 OpenWork — シーイーシー の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > シーイーシー",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrzQ&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "事業説明会 - シーイーシー — 事業説明会 - シーイーシー 株式会社シーイーシー PDF https://www.cec-ltd.co.jp > guide_20250313-2",
+    "url": "https://www.cec-ltd.co.jp/ir/2025/03/guide_20250313-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 ｜株主の皆様へ - シーイーシー — 決算説明 会 資料 ｜株主の皆様へ - シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > guide",
+    "url": "https://www.cec-ltd.co.jp/ir/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜株主の皆様へ - シーイーシー — IRライブラリー｜株主の皆様へ - シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > library",
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜株主の皆様へ｜株式会社 シーイーシー — 決算 短信｜株主の皆様へ｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > accounting",
+    "url": "https://www.cec-ltd.co.jp/ir/accounting/",
+    "pass": 3
+   },
+   {
+    "quote": "株主の皆様へ｜株式会社 シーイーシー — 株主の皆様へ｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > ...",
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月期 決算 短信 - シーイーシー — 2026年1月期 決算 短信 - シーイーシー 株式会社シーイーシー PDF https://www.cec-ltd.co.jp > accounting_20260312",
+    "url": "https://www.cec-ltd.co.jp/ir/2026/03/accounting_20260312.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜企業情報｜株式会社 シーイーシー — 組織図｜企業情報｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > corporate > organigram",
+    "url": "https://www.cec-ltd.co.jp/corporate/organigram.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報｜株式会社 シーイーシー — 会社概要｜企業情報｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > corporate > outline",
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織変更、役員異動および人事異動について - シーイーシー — 組織変更、役員異動および人事異動について - シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > news",
+    "url": "https://www.cec-ltd.co.jp/news/2026/7283.html",
+    "pass": 3
+   },
+   {
+    "quote": "長期／中期経営計画｜株主の皆様へ｜株式会社 シーイーシー — 長期／中期経営計画｜株主の皆様へ｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > aboutus > management_plan",
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー | 採用情報 - シーイーシー — 社長インタビュー | 採用情報 - シーイーシー 株式会社シーイーシー https://recruit.cec-ltd.co.jp > about > interview",
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜株主の皆様へ｜株式会社 シーイーシー — 社長 メッセージ｜株主の皆様へ｜株式会社 シーイーシー 株式会社シーイーシー https://www.cec-ltd.co.jp > message",
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "シーイーシー の 社長 と経営方針【代表 : 姫野 貴】の口コミ — シーイーシー の 社長 と経営方針【代表 : 姫野 貴】の口コミ 転職会議 https://jobtalk.jp > ... > 社長と経営方針の口コミ",
+    "url": "https://jobtalk.jp/companies/3851/answers/8221716",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーイーシー 採用 - YouTube — 株式会社 シーイーシー 採用 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=To1jF45q8E0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cec-ltd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/integration.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/connected.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/solution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/esg/social_business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/esg/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/chart.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/topics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/shareholder_meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/publicity.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/stock_info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/own_shares.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/treasury_stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cec-ltd.co.jp/esg/pdf/environmental_data.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/esg/pdf/ems_organigram.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/2026/09/info_20260930_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/2026/09/info_20260930_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/2026/09/report_20260929.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/2026/09/guide_20260914.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/2026/09/financial_20260911.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/ir/2026/09/guide_20260910.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_integration_img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_integration_img02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_integration_img03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_connected_img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cec-ltd.co.jp/business/img/business_connected_img02.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://careerpark-agent.jp/interview/221-2",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シーイーシー",
+   "results": [
+    "https://www.cec-ltd.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B7%E3%83%BC",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9692",
+    "https://job.mynavi.jp/28/pc/search/corp1889/outline.html",
+    "https://www.youtube.com/channel/UC3250TSgGlCtrMcwjxvtppA/videos",
+    "https://ja.wikipedia.org/wiki/シーイーシー",
+    "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/9692/corporate",
+    "https://job.mynavi.jp/27/pc/search/corp1889/outline.html",
+    "https://finance.yahoo.co.jp/quote/9692.T/profile"
+   ]
+  },
+  {
+   "query": "シーイーシー ビジネスモデル",
+   "results": [
+    "https://www.cec-ltd.co.jp/business/",
+    "https://www.cec-ltd.co.jp/ir/aboutus/guide_pdf/vision2030-management_plan2025-27.pdf",
+    "https://www.cec-ltd.co.jp/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrzQ&q_no=9",
+    "https://www.cec-ltd.co.jp/ir/2025/03/guide_20250313-2.pdf",
+    "https://recruit.cec-ltd.co.jp/career/about/",
+    "https://prtimes.jp/main/html/rd/p/000000030.000005815.html",
+    "https://www.cec-ltd.co.jp/ir/aboutus/edge.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B7%E3%83%BC",
+    "https://edinetdb.jp/company/E04853/midterm-plans/"
+   ]
+  },
+  {
+   "query": "シーイーシー 決算説明資料",
+   "results": [
+    "https://www.cec-ltd.co.jp/ir/guide/",
+    "https://www.cec-ltd.co.jp/ir/library.html",
+    "https://www.cec-ltd.co.jp/ir/accounting/",
+    "https://www.cec-ltd.co.jp/ir/",
+    "https://www.cec-ltd.co.jp/ir/2026/03/accounting_20260312.pdf",
+    "https://www.cec-ltd.co.jp/ir/topics/2025/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9692",
+    "https://www.cec-ltd.co.jp/ir/calendar.html",
+    "https://edinetdb.jp/company/E04853/presentations/",
+    "https://edinetdb.jp/company/E04853/ir-docs/"
+   ]
+  },
+  {
+   "query": "シーイーシー 事業系統図",
+   "results": [
+    "https://www.cec-ltd.co.jp/corporate/organigram.html",
+    "https://www.cec-ltd.co.jp/corporate/outline.html",
+    "https://www.cec-ltd.co.jp/news/2026/7283.html",
+    "https://www.cec-ltd.co.jp/",
+    "https://www.cec-ltd.co.jp/ir/aboutus/management_plan.html",
+    "https://www.cec-ltd.co.jp/sitemap/",
+    "https://www.cec-ltd.co.jp/ir/2025/03/guide_20250313-2.pdf",
+    "https://j-lic.com/companies/9692/segments",
+    "https://www.cec-ltd.co.jp/ir/library.html",
+    "https://ja.wikipedia.org/wiki/シーイーシー"
+   ]
+  },
+  {
+   "query": "シーイーシー 社長 インタビュー",
+   "results": [
+    "https://recruit.cec-ltd.co.jp/about/interview.html",
+    "https://careerpark-agent.jp/interview/221-2",
+    "https://www.cec-ltd.co.jp/ir/message.html",
+    "https://jobtalk.jp/companies/3851/answers/8221716",
+    "https://www.youtube.com/watch?v=To1jF45q8E0",
+    "https://kitaishihon.com/company/9692/board-of-director",
+    "https://dempa-digital.com/article/381337",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrzQ&q_no=10",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260417506199/",
+    "https://recruit.cec-ltd.co.jp/about/"
+   ]
+  }
+ ],
+ "missing": {}
+}

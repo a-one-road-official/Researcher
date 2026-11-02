@@ -1,0 +1,1057 @@
+{
+ "name": "西部電機",
+ "aliases": [],
+ "context": "証券コード6144／機械／スタンダード（内国株式）／2026.03期 売上高39,265百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:45:11.702886+00:00",
+ "official_url": "https://www.seibudenki.co.jp/",
+ "identified_by": "search:yahoo_jp:西部電機",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1939年2月（創業1927年）",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "620名（連結681名）",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の数だけ答えがある、という自在な発想力によって、お客様に最適な物流システムを提案・構築します",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術と品質で、お客様からの信頼を大切に",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の商品は、自動車・電機・精密機械・金型・石油化学・食品・土木建築・船舶など幅広い分野で生産性の向上、物流の合理化・効率化・省力化・無人化に寄与、国内外のお客様から多大のご愛顧をいただいています",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "これからも、技術と品質でお客様からの信頼を大切にしてまいります",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い分野で生産性の向上、物流の合理化・効率化・省力化・無人化に寄与、国内外のお客様から多大のご愛顧をいただいています",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の数だけ答えがある、という自在な発想力によって、お客様に最適な物流システムを提案・構築します",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様を知り、問題を解析し、ハードウェアとソフトウェアの複合技術を駆使しながら、立体空間を自在に創造する、物流のプロフェッショナルです",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "近年では新たな分野への挑戦として、新規および更新需要に対し、お客様のニーズに合ったシステムを提案させていただいています",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "ピッチ加工精度で定評のワイヤ放電加工機、小物精密部品加工に応えるNC旋盤、自由形状加工を可能とした切削加工機などを、オンリーワン技術で開発し、お客様に提供してまいります",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "「～いいもの創ろう Seibuから～」をコンセプトにお客様のものづくりに貢献し、",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/52769e7b6bc243fa9a03b439ee096b43.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新卒入社した会社の一年目は営業職でしたが、今でも当時のお客様と年賀状のやり取りをしているというエピソードが、吉野さんの人柄を表していると感じました",
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・採用・出展に関する情報など、おすすめのトピックスをお知らせします",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりに対して、マスプロ生産では実現できない手づくりによる商品にこだわりを持ち、生産を行っています",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品や採用に関するお問い合わせ、工場見学のお申し込みなど",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の商品は、自動車・電機・精密機械・金型・石油化学・食品・土木建築・船舶など幅広い分野で生産性の向上、物流の合理化・効率化・省力化・無人化に寄与、国内外のお客様から多大のご愛顧をいただいています",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "部品・商品の塗装",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "北米地区（カナダ、メキシコを含む）における当社製品の販売および関連サービスの提供",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県市川市に東京サービスセンタを移転、新設",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "高精密小型NC施盤（商品名SNC）を開発",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工の匠の技を当社製品の部品加工に生かすため、有限会社西部テクノサービス(現 株式会社西部ハイテック)を設立",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社商品の塗装作業等を目的として、西部ペイント株式会社を設立",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の商品は、自動車・電機・精密機械・金型・石油化学・食品・土木建築・船舶・医療・エコプラントなど",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりに対して、マスプロ生産では実現できない手づくりによる商品にこだわりを持ち、生産を行っています",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "西部電機は、自然随順に即した技術の応用で、メカトロニクス商品を提供し、広く社会に貢献しています",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "省エネ、小型軽量化、部品点数の削減等環境に配慮した商品開発を推進します",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/medium_term_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/medium_term_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.seibudenki.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報TOP",
+    "url": "https://www.seibudenki.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "核とした製品開発を通じて、地域産業の発展に貢献してまいりました",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術力をもとに、社会構造の変革や多様化するニーズに対応したソリューションを提供して",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "密加工において極限の精度を追求する「精密機械事業 」について、各事業の製品・技術",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社ブースへお立ち寄りいただき、西部電機の技術・製品を",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は半世紀以上にわたり、数々の先駆的な新製品を世に送り出してまいりました",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/52769e7b6bc243fa9a03b439ee096b43.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は半世紀以上にわたり、 常に産業の最前線を走り数々の先駆的な新製品を世に送り",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/20260402084015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上席執行役員 サービス統括",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26051403410179adminyakuinoyobisikkouyakuinnoidou2026.05.15.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "執行役員 サービス統括",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26051403410179adminyakuinoyobisikkouyakuinnoidou2026.05.15.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "柳瀬 哲也 執行役員 サービス統括",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "執行役員 サービス統括 名古屋営業所長",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "福島 博美 マテハン事業部 サービス部 副部長",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "兼 マテハンサービス西日本担当",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "兼 九州サービス課長",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マテハン事業部 サービス部 副部長",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "兼 マテハンサービス東日本担当",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "兼 東京サービス課長",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "開発70周年を迎えたバルブコントロールの歩みをご紹介いたします",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会の設置に関するお知らせ［127KB］",
+    "url": "https://www.seibudenki.co.jp/ir/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "や導入事例をパネル・動画にてご紹介いたします",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "培ってきた技術・実績をご紹介するパネルも展示いたします",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 「超精密加工」 や 「自動化 ・ 省人化」 を実現する先端技術についてもご紹介いたします",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/52769e7b6bc243fa9a03b439ee096b43.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省人化を交えてご紹介いたします",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/20260402084015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "先端技術も併せてご紹介致します",
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/20260402084015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在は同社の和やかな社風に満足しているという吉野さんの転職体験談を紹介する",
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイレクトスカウトサービスが主流になりつつある中、次々と紹介される求人に振り回されず、皆さんも自分に合った職場を見つけてもらいたいですね",
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介へ",
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "pass": 3
+   },
+   {
+    "quote": "働き方の見直しに加えて、一緒に働く人たちとのつながりや関係性が吉野さんにとって非常に重要な要素だと感じ、確信を持って西部電機社をご紹介しました",
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年熊本地震に対する支援について",
+    "url": "https://www.seibudenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年（昭和61年）に現社名に変更、また福岡証券取引所に上場、さらに1991年（平成3年）に大阪証券取引所、2006年（平成18年）には東京証券取引所にも上場いたしました",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "1939年2月（創業1927年）",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革｜会社案内｜西部電機株式会社",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1927年に創業した西部電機",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1939年(昭和14年)現在の組織に改組、1945年(昭和20年)6月に本社を現在地である古賀市に移転しました",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年8月13日",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月13日",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日",
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信［546KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信［595KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算概要［1,082KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信［547KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期(中間期)決算短信[555KB]",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期(中間期)決算概要[1099KB]",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信［551KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信［605KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算概要［3,780KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信［551KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信［552KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算概要［1,067KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信［671KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信［781KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信［365KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信［379KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信［367KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信［428KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期決算短信 [370KB]",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期決算短信 [384KB]",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期決算短信 [370KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算短信［452KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期決算短信［378KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期決算短信［390KB］",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期第1四半期決算短信 [276KB]",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料［2,480KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算説明会資料［2,171KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算説明会資料［5,058KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算説明会資料［2,190KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算説明資料［1,250KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期 決算説明資料 ［3,538KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算説明会資料［1,778KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期 決算説明資料［1,848KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算説明資料 ［2,740KB］",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 決算説明資料 [1,736KB]",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期 決算説明資料 [2,796KB]",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期 決算説明資料",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料［1,091KB］",
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年定時株主総会招集通知及び株主総会資料［1,278KB］",
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年定時株主総会招集通知及び株主総会資料［1,147KB］",
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年定時株主総会招集通知及び株主総会資料［967KB］",
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 6月 16日",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26061510362227adminjinjiidou2026.06.16R1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26051403410179adminyakuinoyobisikkouyakuinnoidou2026.05.15.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月6日",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "積層ストックシステムを開発",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "タイにてバルブコントロールのストック販売を開始",
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容｜会社案内｜ 西部電機 株式会社 — 事業内容｜会社案内｜ 西部電機 株式会社 西部電機株式会社 https://www.seibudenki.co.jp > company > outline",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 Seibu Vision 2027 - 西部電機 株式会社 — 中期経営計画 Seibu Vision 2027 - 西部電機 株式会社 西部電機株式会社 PDF https://www.seibudenki.co.jp > temporary > file > pdf",
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/24051610420532admin20240515sv20907rr.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 - 西部電機株式会社 — 中期経営計画 - 西部電機株式会社 西部電機株式会社 https://www.seibudenki.co.jp > medium_term_plan",
+    "url": "https://www.seibudenki.co.jp/ir/medium_term_plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】 西部電機 の志望動機30例×面接質問の解答例30例 - note — 【27卒】 西部電機 の志望動機30例×面接質問の解答例30例 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/jobhuntkeyence/n/n574f947fd744",
+    "pass": 3
+   },
+   {
+    "quote": "241024_自動化提案コンセプト | Videos & Movies on Vimeo — 241024_自動化提案コンセプト | Videos & Movies on Vimeo Vimeo https://vimeo.com > 西部電機㈱管理者 > Videos",
+    "url": "https://vimeo.com/1154576215",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜ 西部電機 株式会社 — 決算説明資料 ｜ 西部電機 株式会社 西部電機株式会社 https://www.seibudenki.co.jp > financial_results",
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 西部電機株式会社 — 決算 短信 - 西部電機株式会社 西部電機株式会社 https://www.seibudenki.co.jp > summary",
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 西部電機株式会社 — IR情報 - 西部電機株式会社 西部電機株式会社 https://www.seibudenki.co.jp > ...",
+    "url": "https://www.seibudenki.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待制度について - 西部電機株式会社 — 株主優待制度について - 西部電機株式会社 西部電機株式会社 https://www.seibudenki.co.jp > stock",
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 西部電機 】[6144]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 西部電機 】[6144]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6144",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社案内 - 西部電機株式会社 — 会社概要｜会社案内 - 西部電機株式会社 西部電機株式会社 https://www.seibudenki.co.jp > company > data",
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所紹介｜会社案内｜ 西部電機 株式会社 — 事業 所紹介｜会社案内｜ 西部電機 株式会社 西部電機株式会社 https://www.seibudenki.co.jp > company > establishment",
+    "url": "https://www.seibudenki.co.jp/company/establishment.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容｜会社案内｜ 西部電機 株式会社 — 事業 内容｜会社案内｜ 西部電機 株式会社 西部電機株式会社 https://www.seibudenki.co.jp > company > outline",
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新着情報 - 西部電機株式会社 — 新着情報 - 西部電機株式会社 西部電機株式会社 https://www.seibudenki.co.jp > news > detail",
+    "url": "https://www.seibudenki.co.jp/news/detail.html?seq=206",
+    "pass": 3
+   },
+   {
+    "quote": "西部電機 株式会社｜転職成功者 インタビュー ｜福岡の転職事例 ... — 西部電機 株式会社｜転職成功者 インタビュー ｜福岡の転職事例 ... リージョナルキャリア福岡 https://rs-fukuoka.net > hero > 202407_seibudenki",
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "pass": 3
+   },
+   {
+    "quote": "北 智弘 - メッセージ | 西部電機 株式会社 採用サイト — 北 智弘 - メッセージ | 西部電機 株式会社 採用サイト job-gear.net https://job-gear.net > ... > メッセージ",
+    "url": "https://job-gear.net/seibudenki/interview_d.htm?L=BCSDetail&SF=1&ID=A10323876677",
+    "pass": 3
+   },
+   {
+    "quote": "西部電機 【6144】の 社長 ・役員 - キタイシホン — 西部電機 【6144】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6144/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "西部電機 さんの新精密工場を見学／働き方改革を説明 ... - 古賀市 — 西部電機 さんの新精密工場を見学／働き方改革を説明 ... - 古賀市 古賀市オフィシャルページ https://www.city.koga.fukuoka.jp > ... > 市長室ブログ",
+    "url": "https://www.city.koga.fukuoka.jp/blog/item/4398",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seibudenki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/company/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/company/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/ir_news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/summary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/medium_term_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.seibudenki.co.jp/assets/img/top/20240603_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/dcaa82ebb2a7a679d02217e5744f47e5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/52769e7b6bc243fa9a03b439ee096b43.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/temporary/file/news/other/20260402084015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/pdf/20230813-ISO14001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26061510362227adminjinjiidou2026.06.16R1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26051403410179adminyakuinoyobisikkouyakuinnoidou2026.05.15.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seibudenki.co.jp/temporary/file/pdf/26030509170742adminyakuinidou2026.03.06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "西部電機",
+   "results": [
+    "https://www.seibudenki.co.jp/",
+    "https://www.seibudenki.com/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E9%9B%BB%E6%A9%9F",
+    "https://www.youtube.com/channel/UCwHO9aJ6vmVZaehS576V5bQ",
+    "https://www.seibu-denki.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/西部電機",
+    "https://www.seibudenki.co.jp/products/",
+    "https://finance.yahoo.co.jp/quote/6144.T",
+    "https://finance.yahoo.co.jp/quote/6144.T/profile",
+    "https://www.seibudenki.co.jp/company/data.html"
+   ]
+  },
+  {
+   "query": "西部電機 ビジネスモデル",
+   "results": [
+    "https://www.seibudenki.co.jp/company/outline.html",
+    "https://www.seibudenki.co.jp/temporary/file/pdf/24051610420532admin20240515sv20907rr.pdf",
+    "https://www.seibudenki.co.jp/ir/medium_term_plan.html",
+    "https://note.com/jobhuntkeyence/n/n574f947fd744",
+    "https://vimeo.com/1154576215",
+    "https://job-gear.net/seibudenki/introduction.htm?L=BCSList&BCD=Tes&SF=1&SA=OID%2CID&NOI=1000",
+    "https://www.seibudenki.co.jp/sanki/",
+    "https://business.nikkei.com/atcl/seminar/19nv/120500136/120301320/",
+    "https://www.seibu-denki.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/西部電機"
+   ]
+  },
+  {
+   "query": "西部電機 決算説明資料",
+   "results": [
+    "https://www.seibudenki.co.jp/ir/financial_results.html",
+    "https://www.seibudenki.co.jp/ir/summary.html",
+    "https://www.seibudenki.co.jp/ir/",
+    "https://www.seibudenki.co.jp/ir/stock.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6144",
+    "https://www.seibudenki.co.jp/ir/securities.html",
+    "https://www.seibudenki.co.jp/ir/notice.html",
+    "https://www.fse.or.jp/files/lis_tkj/25051561441.pdf",
+    "https://www.seibu-denki.co.jp/company/ir/",
+    "https://edinetdb.jp/company/E01930/presentations/"
+   ]
+  },
+  {
+   "query": "西部電機 事業系統図",
+   "results": [
+    "https://www.seibudenki.co.jp/company/data.html",
+    "https://www.seibudenki.co.jp/temporary/file/pdf/24051610420532admin20240515sv20907rr.pdf",
+    "https://www.seibu-denki.co.jp/company/organization/",
+    "https://www.seibudenki.co.jp/company/establishment.html",
+    "https://www.seibudenki.co.jp/company/outline.html",
+    "https://job-gear.net/seibudenki/introduction.htm?L=BCSList&BCD=Tes&SF=1&SA=OID%2CID&NOI=1000",
+    "https://www.seibudenki.co.jp/sitemap.html",
+    "https://vimeo.com/1154576215",
+    "https://metoree.com/companies/11638/",
+    "https://irbank.net/E01930/business"
+   ]
+  },
+  {
+   "query": "西部電機 社長 インタビュー",
+   "results": [
+    "https://www.seibudenki.co.jp/news/detail.html?seq=206",
+    "https://rs-fukuoka.net/hero/202407_seibudenki.html",
+    "https://job-gear.net/seibudenki/interview_d.htm?L=BCSDetail&SF=1&ID=A10323876677",
+    "https://kitaishihon.com/company/6144/board-of-director",
+    "https://www.city.koga.fukuoka.jp/blog/item/4398",
+    "https://www.seibudenki.co.jp/company/message.html",
+    "https://www.youtube.com/channel/UCwHO9aJ6vmVZaehS576V5bQ",
+    "https://www.regional.co.jp/hero/detail/8906.html",
+    "https://www.seibu-denki.co.jp/company/profile/",
+    "https://www.seibudenki.co.jp/news/detail.html?seq=194"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部1頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部1頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部1頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

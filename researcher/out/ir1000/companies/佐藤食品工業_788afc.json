@@ -1,0 +1,835 @@
+{
+ "name": "佐藤食品工業",
+ "aliases": [],
+ "context": "証券コード2814／食料品／スタンダード（内国株式）／2026.03期 売上高6,833百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:37:29.286542+00:00",
+ "official_url": "https://aichi-select.net/",
+ "identified_by": "search:yahoo_jp:佐藤食品工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2020年",
+    "url": "https://aichi-select.net/company/irei/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "2003年",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1976年",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1983年",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1954年 （ 昭和 29年） 10月21日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "【事業内容】",
+    "value": "重量物の据付・撤去・移設工事業、機械・設備のメンテナンス業、機械・設備の運搬事業",
+    "url": "https://aichi-select.net/company/irei/",
+    "pass": 1
+   },
+   {
+    "label": "【事業内容】",
+    "value": "労働者派遣事業、有料職業紹介事業、管理部門特化の転職支援",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "label": "【事業内容】",
+    "value": "モンブランホテルの運営",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "label": "【事業内容】",
+    "value": "表面保護フィルム・両面接着テープ・各種粘着製品の卸販売業",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "植物エキス、天然調味料、粉末酒の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "63億60百万円（2025年3月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "168名（2025年3月31日現在） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "技術サービス業",
+    "url": "https://aichi-select.net/",
+    "pass": 1
+   },
+   {
+    "quote": "生活関連サービス・",
+    "url": "https://aichi-select.net/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食サービス業",
+    "url": "https://aichi-select.net/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社進和ライフサービス",
+    "url": "https://aichi-select.net/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、東海地区でいち早く「経理」「総務」「人事」などの管理部門＋士業に特化した転職支援サービスを展開してきました",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋を訪れた時間そのものを豊かにするサービスです",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "自動チェックイン機などの設備を導入しながらも、目指すのは無機質なサービスではありません",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年からは仕上加工事業も開始し、サービスを拡充しています",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品はものづくりの生産性を向上させ、様々な金属製品に利用されています",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "表面保護フィルム・両面接着テープ・各種粘着製品の卸販売業",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカーが量産した製品に、新たな価値を吹き込むのが私たちの役割です",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは金属板素材の加工・運搬・施工の各場面で発生し得る傷を防止すると共に、金属加工製品の歩留まり・生産性向上を目的とする「表面保護フィルム」の専門商社として、1983年創業以来、その道を歩んでいます",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "食品業界は、製粉・パスタ製造、冷凍食品・水産、即席めん、調味料、製油、精糖、乳製品、食肉加工、製菓・パンなど幅広い分野がある",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "少子化による人口減少にともない、国内の食品市場規模も縮小の一途をたどっており、各社とも商品自体に付加価値を付けたり、シェアの拡大、海外展開を行うなどの対応が迫られている",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "本ケースには、佐藤食品工業の創業からの今までの歴史、佐藤食品工業が取り扱う高付加価値商品、粉末酒、鰹節エキス、昆布エキス、椎茸エキスなどの天然調味料、粉末茶エキスの説明",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "主人公は、佐藤食品工業の製品、技術の特徴を前提にして、食品業界の動向と今後の変化に対応するべきであるか検討する",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "【粉末系エキス主力】粉体化技術に強み",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "当社といたしましては、主要原材料である茶葉原料を始めとする原材料及びエネルギーコストの動向に注視しつつ、安全・安心な原材料の安定調達や、製品の安定供給を維持するとともに、独自性・優位性を明確にした新製品開発や、技術開発力の向上を目的として新製法などを用いた製品開発に積極的に挑戦してまいりました",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、創業以来取り組んでまいりました「天然風味の粉末化」において、新たな領域を創造すべく、「茶エキス」、「天然調味料」などの新製品開発を進めてまいりました",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社名古屋住宅流通サービス取締役就任",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "東海地区でいち早く管理部門に特化した、人材紹介のスペシャリスト集団です",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "quote": "労働者派遣事業、有料職業紹介事業、管理部門特化の転職支援",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる人材紹介にとどまらず、求職者のこれからのキャリアや、企業が目指す将来の姿まで見据えながら向き合っています",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "quote": "金属鋼板の表面保護フィルム専門商社として、全国8拠点に販売網を展開",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の利益追求に留まらないCSVの考え方に基づき、「名東区街づくりパートナー」や金城学院大学との連携など、産官学で地域を盛り上げる活動にも注力",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジェイ・ウィル・パートナーズ入社",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "あらゆる企業に不可欠な部門を扱うため、景気変動の影響を受けにくく、堅実で安定した経営基盤を強みとしています",
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "pass": 1
+   },
+   {
+    "quote": "「専門性」という強み",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは、20・30代が中心となり「やってみよう！」と声を上げる挑戦的な社風です",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "【粉末系エキス主力】粉体化技術に強み",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "となり、売上高営業利益率は",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の「どこかいいお店は？」に、ありきたりではない言葉で応える",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "機械に任せられることは任せ、その分スタッフがお客様への案内や会話に時間を使う",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "地域を知り、好きになり、その魅力をお客様へつなげています",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフが楽しいから、お客様にも温かさが届く",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に喜んでいただき、地域のお店も喜び、スタッフもまた嬉しくなる",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "忘れ物対応の先に届いた、海外のお客様からのありがとう",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "海外のお客様が前に泊まったホテルへ忘れ物をされ、日本語でのやり取りが難しい場面がありました",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "チェックイン時に少し不機嫌そうだったお客様が、翌朝のチェックアウト時には「ありがとう、すごく良かった」と笑顔で帰られたことがあります",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "短い滞在時間の中でも、お客様の気持ちを変えられる瞬間があることが、この仕事の大きなやりがいです",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "お話を聞いて、ホテルの仕事は「泊まる場所を用意する仕事」ではなく、お客様の旅の気分までつくる仕事なのだと感じました",
+    "url": "https://aichi-select.net/company/shirono/",
+    "pass": 1
+   },
+   {
+    "quote": "『ここに集うすべての人たちと幸福であること』を経営理念に、取引先、社員、地域社会を含めた幸福の最大化を目指します",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の「欲しい」をカタチに",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "加工センターではお客様の多様なニーズに応えるため、積極的に最新機械を導入",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の「ものづくり」の物語の数だけ、「表面保護フィルム」にも物語があることが、この不思議な材料の魅力です",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2010年からは仕上加工事業も開始し、サービスを拡充しています",
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔日本基準〕(非連結)",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月まで「佐藤食品工業株式会社」を正式社名としていた新潟県の企業については「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1991年4月30日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月22日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1991年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1954年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2006年10月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2007年３月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2007年９月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2009年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2012年４月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2015年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2017年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2018年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2019年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2020年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2022年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1970年６月15日生",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1964年１月18日生",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1986年４月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1998年４月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2000年４月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2002年10月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2004年３月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2005年４月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2006年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2008年１月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2010年２月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2010年７月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2012年６月",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "#ビジネスモデル (56)",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業系統図は以下のとおりとなります",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "佐藤食品工業 株式会社 | ケース一覧 - 国際認証MBA — 佐藤食品工業 株式会社 | ケース一覧 - 国際認証MBA 名商大ビジネススクール https://mba.nucba.ac.jp > ... > ケース一覧",
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスルーム - 佐藤食品工業株式会社 — プレスルーム - 佐藤食品工業株式会社 佐藤食品工業 https://www.sato-foods.co.jp > company > press",
+    "url": "https://www.sato-foods.co.jp/company/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 株式会社（2814） - ENVALITH · セグメント — 佐藤食品工業 株式会社（2814） - ENVALITH · セグメント ENVALITH https://envalith.com > companies > segments",
+    "url": "https://envalith.com/companies/2814/segments",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 【2814】の事業内容 - キタイシホン — 佐藤食品工業 【2814】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 (株)【東京証券取引所スタンダード市場上場】 — 佐藤食品工業 (株)【東京証券取引所スタンダード市場上場】 マイナビ https://job.mynavi.jp > search > corp57602 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57602/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 佐藤食品工業株式会社 — 決算 短信 - 佐藤食品工業株式会社 佐藤食品工業 https://www.sato-foods.co.jp > statement",
+    "url": "https://www.sato-foods.co.jp/ir/statement.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 佐藤食品工業 】[2814]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 佐藤食品工業 】[2814]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 【2814】のIR 資料 - キタイシホン — 佐藤食品工業 【2814】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/2814/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 【2814】の最新 決算 発表、業績修正 - 株探 — 佐藤食品工業 【2814】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 佐藤食品工業 (2814) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=2814",
+    "pass": 3
+   },
+   {
+    "quote": "事業 報告書 - 佐藤食品工業株式会社 — 事業 報告書 - 佐藤食品工業株式会社 佐藤食品工業 https://www.sato-foods.co.jp > sales",
+    "url": "https://www.sato-foods.co.jp/ir/sales.html",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 【2814】の 事業 内容 - キタイシホン — 佐藤食品工業 【2814】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 佐藤食品工業 】[2814]企業概要 社員数や役員報酬・資本金 — 【 佐藤食品工業 】[2814]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=2814",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 | 企業情報 | イプロスものづくり — 佐藤食品工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他",
+    "url": "https://mono.ipros.com/company/detail/2052782/",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 - Wikipedia — 佐藤食品工業 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 佐藤食品工業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤食品工業 【2814】の 社長 ・役員 - キタイシホン — 佐藤食品工業 【2814】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "学生と創る愛知の企業100選 | 佐藤食品工業 株式会社 — 学生と創る愛知の企業100選 | 佐藤食品工業 株式会社 学生と創る愛知の企業100選 https://aichi-select.net > company > sato-shokuhin",
+    "url": "https://aichi-select.net/company/sato-shokuhin/",
+    "pass": 3
+   },
+   {
+    "quote": "創業70周年を機に、 「 佐藤食品工業 株式会社」から「サトウ ... — 創業70周年を機に、 「 佐藤食品工業 株式会社」から「サトウ ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/CDU622DjyCt/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は食品加工事業に関する単一の事業分野において単一の事業活動を営んでいるため、セグメント情報は記載しておりません",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は食品加工事業の単一セグメントであるため、セグメント情報は記載しておりません",
+    "url": "https://kitaishihon.com/company/2814/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://aichi-select.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aichi-select.net/company/irei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aichi-select.net/company/keiri-support-staff/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aichi-select.net/company/shirono/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aichi-select.net/company/shiroyama/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato-foods.co.jp/company/press.html",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato-foods.co.jp/ir/statement.html",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato-foods.co.jp/ir/sales.html",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/2814/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/2814/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "佐藤食品工業",
+   "results": [
+    "https://sato-foods.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=2814",
+    "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://job.mynavi.jp/28/pc/search/corp57602/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqo4",
+    "https://www.satosyokuhin.co.jp/",
+    "https://kabutan.jp/stock/?code=2814",
+    "https://aichi-select.net/company/sato-shokuhin/",
+    "https://ja.wikipedia.org/wiki/佐藤食品工業",
+    "https://finance.yahoo.co.jp/quote/2814.T"
+   ]
+  },
+  {
+   "query": "佐藤食品工業 ビジネスモデル",
+   "results": [
+    "https://mba.nucba.ac.jp/case/document/10-1053.html",
+    "https://www.sato-foods.co.jp/company/press.html",
+    "https://envalith.com/companies/2814/segments",
+    "https://kitaishihon.com/company/2814/business",
+    "https://job.mynavi.jp/28/pc/search/corp57602/outline.html",
+    "https://aichi-select.net/company/sato-shokuhin/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2814",
+    "https://www.jftc.go.jp/dk/kiketsu/toukeishiryo/keiei/h26jirei01.html",
+    "https://www.satosyokuhin.co.jp/corp/",
+    "https://ja.wikipedia.org/wiki/佐藤食品工業"
+   ]
+  },
+  {
+   "query": "佐藤食品工業 決算説明資料",
+   "results": [
+    "https://www.sato-foods.co.jp/ir/statement.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2814",
+    "https://www.satosyokuhin.co.jp/ir/",
+    "https://kitaishihon.com/company/2814/ir-library",
+    "https://kabutan.jp/stock/finance?code=2814",
+    "https://edinetdb.jp/company/E00484/presentations/",
+    "https://investalk.jp/2814/sato-foods-2026-03-earnings/",
+    "https://www.sato-foods.co.jp/ir/sales.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=2814",
+    "https://edinetdb.jp/company/E00484/ir-docs/"
+   ]
+  },
+  {
+   "query": "佐藤食品工業 事業系統図",
+   "results": [
+    "https://www.sato-foods.co.jp/ir/sales.html",
+    "https://kitaishihon.com/company/2814/business",
+    "https://job.mynavi.jp/28/pc/search/corp57602/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2814",
+    "https://mono.ipros.com/company/detail/2052782/",
+    "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://www.satou-shokuhin.co.jp/company/network/",
+    "https://aichi-select.net/company/sato-shokuhin/",
+    "https://www.satosyokuhin.co.jp/recruit/fresh/office/",
+    "https://ja.wikipedia.org/wiki/佐藤食品工業"
+   ]
+  },
+  {
+   "query": "佐藤食品工業 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://kitaishihon.com/company/2814/board-of-director",
+    "https://www.sato-foods.co.jp/company/press.html",
+    "https://aichi-select.net/company/sato-shokuhin/",
+    "https://www.instagram.com/p/CDU622DjyCt/",
+    "https://mono.ipros.com/company/detail/2052782/",
+    "https://job.mynavi.jp/27/pc/search/corp57602/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqo4",
+    "https://www.satosyokuhin.co.jp/corp/",
+    "https://ndlsearch.ndl.go.jp/books/R000000004-I028497974"
+   ]
+  }
+ ],
+ "missing": {}
+}

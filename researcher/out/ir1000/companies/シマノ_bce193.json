@@ -1,0 +1,953 @@
+{
+ "name": "シマノ",
+ "aliases": [],
+ "context": "証券コード7309／輸送用機器／プライム（内国株式）／2025.12期 売上高466,243百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:37:40.505867+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "村上茂久のビジネスモデル解剖図鑑",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "DX企画・推進人材のための「顧客価値提供力養成講座」",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の「本音」の捉え方 “心理データ”を活用したマーケティング戦略",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "Growing with Customers 散らばった顧客データをひとつに",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "「コンポーネント」による地位確立と「顧客インサイトを基にした製品開発」とは？",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "第5回 顧客に選ばれ続けるオイシックス・ラ・大地の、戦略的なデータ活用法とは？",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "同じ輸送機器である自動車業界では完成車メーカーが注目されがちだが、シマノは製品を「差異化」することで顧客からの支持を得て、部品メーカーでありながらもその名を轟かせるようになった",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "その要因は、1970年代の「コンポーネント」による業界での地位確立と「顧客インサイトを基にした製品開発」にある",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "プロの競技者がレースで使用するロードバイク向けの最高グレード「デュラエース（Dura-Ace）」から、エントリーユーザー向けの「クラリス（Claris）」まで、グレードに応じた製品ラインアップを整備しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "各グレード間で統一された操作感・互換性を担保しつつ、上位グレードへのステップアップ需要を自然に生み出す設計は、顧客の長期的なブランドロイヤリティ形成にも貢献しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "一度シマノ製品の使用感に慣れたユーザーは、他社製品への乗り換えに心理的ハードルを感じるようになります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "また、シマノ製品を採用した完成車は販売店でも「コンポーネントがシマノ」という点をセールスポイントとして訴求するため、ブランド認知がエンドユーザーにまで浸透する構造が生まれています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自転車の駆動系部品はメーカーや製品ラインが異なると互換性がないことが多く、ユーザーが各パーツを個別に選ぶ際には「他社製品と組み合わせて正常に機能するか」を確認する手間と不安が生じます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "という安心感をユーザーと自転車メーカーの双方に提供しました",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにユーザーの視点からは、すべてシマノ製品で統一することで自転車全体のパフォーマンスが最大化されるという価値提案が定着しました",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "「シマノの部品だけで事足りる」という状態をつくり出したことにより、ユーザーが他社製品を選ぶ動機が自然と薄れていきます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "これはロックイン効果とも呼べる状態であり、顧客の生涯価値（LTV）を高める観点から極めて優れた戦略です",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "最上位のデュラエースはプロ選手や上級アマチュア向けに最高の軽量性・精度・変速性能を追求した製品であり、その下に位置するアルテグラ・105・ティアグラ・ソラ・クラリスと順に、一般ユーザー向けの製品が続きます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "は、スポーツ自転車に初めて触れる初心者から本格的な競技参加者まで、幅広いユーザーをシマノブランドのエコシステム内に取り込む戦略としても機能しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "入門グレードで使用感を体験したユーザーが、自転車への習熟度が上がるにつれて上位グレードへステップアップする流れが自然に生まれています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "一度シマノのグレード体系に入ったユーザーは、ステップアップするたびにシマノ製品を選び続けます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "これは顧客を特定のブランド内でのアップセルの流れに乗せ続ける設計であり、単純なセット販売を超えたブランド内エコシステムの構築です",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "対象ユーザー",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "中級ユーザー",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "川下（エンドユーザー）への価値訴求による川上ポジションの強化",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーへの直接訴求",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "川下のエンドユーザーへの影響力を高めることで、川上のBtoBビジネス（部品メーカーとしての立場）をより強固にするという逆転の発想が、シマノのコンポーネント戦略の真髄といえるでしょう",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノのブランド戦略は、「自転車の完成品ではなく部品（コンポーネント）のブランドをエンドユーザーに認識させる」という点で極めてユニークです",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "これはインテルが「Intel Inside」キャンペーンでパソコン内部のプロセッサというパーツをエンドユーザーに直接訴求した戦略と構造的に類似しており、「自転車業界のインテル」という評価につながっています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、自転車のエンドユーザーが注目するのはホイールや車体フレームを持つ完成車ブランドです",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしシマノは、完成車に取り付けられたコンポーネントに「Shimano」のロゴを刻印し続けることで、エンドユーザーへの直接的な認知形成に成功しました",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツ自転車に関心を持つユーザーが購入を検討する際、「どのコンポーネントを使っているか」が選択基準のひとつとなる文化を育てたのです",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "プロチームへのサポートを通じて「プロが選ぶブランド」というイメージを確立し、そのステータスが一般ユーザーの購買意欲にも影響を与えています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "今や、自転車部品では97%くらいが海外のお客様ですが、何も不便は感じていません",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の期待に応え続けたくとも、様々な理由からやりきれていない企業もあります",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "：これは「いかにお客様の心が躍る商品か」ということに尽きます",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "業界の発展というのは、顧客が経験するアクティビティーがリスペクトされる対象であるのかどうかということです",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報が流出し、築き上げた信頼が揺らぐなど、企業の存続を左右する経…",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "わが社を変えたヒット商品開発物語",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "千葉哲幸「今、このフードサービス企業がおもしろい！」",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "「コンポーネント」による地位確立と「顧客インサイトを基にした製品開発」とは？",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "第8回 異業種間データ連携で新たなモビリティーサービスを実現、「クックパッドマート」の「共助」実践事例",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "同じ輸送機器である自動車業界では完成車メーカーが注目されがちだが、シマノは製品を「差異化」することで顧客からの支持を得て、部品メーカーでありながらもその名を轟かせるようになった",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "その要因は、1970年代の「コンポーネント」による業界での地位確立と「顧客インサイトを基にした製品開発」にある",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "デロイト トーマツ グループは、日本で最大級のプロフェッショナルグループのひとつであり、各法人がそれぞれの適用法令に従いプロフェッショナルサービスを提供しています",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "キャククルのサービス",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧を見る",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノは1921年（大正10年）に大阪府堺市で創業した、自転車部品と釣具を主力とする製造企業です",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "広く一般消費者に知られるような大衆商品を扱うのではなく、専門性の高い部品製造に特化したことが、長期的な競争優位の源泉となっています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自転車部品と釣具という2つの専門領域に注力することで、技術開発への投資効率を高め、各製品カテゴリで世界トップクラスの品質を実現しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自転車部品の分野ではフリーホイールや変速機などギア関係の製品を得意としてきましたが、これらを徹底的に磨き続けることで市場から得た評価が、次の製品開発への投資原資となり、さらに品質が高まるという好循環を生み出しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "製品品質と性能の高さによる参入障壁の形成",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "プロの競技者がレースで使用するロードバイク向けの最高グレード「デュラエース（Dura-Ace）」から、エントリーユーザー向けの「クラリス（Claris）」まで、グレードに応じた製品ラインアップを整備しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "一度シマノ製品の使用感に慣れたユーザーは、他社製品への乗り換えに心理的ハードルを感じるようになります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "また、シマノ製品を採用した完成車は販売店でも「コンポーネントがシマノ」という点をセールスポイントとして訴求するため、ブランド認知がエンドユーザーにまで浸透する構造が生まれています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自転車の駆動系部品はメーカーや製品ラインが異なると互換性がないことが多く、ユーザーが各パーツを個別に選ぶ際には「他社製品と組み合わせて正常に機能するか」を確認する手間と不安が生じます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "「シマノ製品同士であれば確実に高いパフォーマンスで動作する」",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにユーザーの視点からは、すべてシマノ製品で統一することで自転車全体のパフォーマンスが最大化されるという価値提案が定着しました",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "「シマノの部品だけで事足りる」という状態をつくり出したことにより、ユーザーが他社製品を選ぶ動機が自然と薄れていきます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "最上位のデュラエースはプロ選手や上級アマチュア向けに最高の軽量性・精度・変速性能を追求した製品であり、その下に位置するアルテグラ・105・ティアグラ・ソラ・クラリスと順に、一般ユーザー向けの製品が続きます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "階層的な製品ラインアップ",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "一度シマノのグレード体系に入ったユーザーは、ステップアップするたびにシマノ製品を選び続けます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自転車のコンポーネントという「部品」に対して、消費者が「どのグレードのシマノを使っているか」を意識するようになれば、完成車メーカーもシマノ製品を採用せざるを得ない状況が生まれます",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "川上製品のブランド化という独自アプローチ",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "「プロが認めた製品」というブランドストーリーをスポーツ支援を通じて醸成する",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "これはいわゆる「権威性」を活用したブランド戦略であり、製品品質の高さとあいまって強固な信頼感を構築しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノのオウンドメディア戦略の本質は、単なる製品宣伝を超えた",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "このアプローチは、製品を購入する前の潜在ユーザーにシマノブランドを認識させるとともに、既存ユーザーのロイヤリティを高める役割も果たしています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄積されたユーザーデータは、製品開発や販売戦略にも活かされる可能性があります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の変化に合わせて製品ラインアップを拡張しながらも、「高品質な部品メーカー」というコアアイデンティティは一貫して維持されています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "小売り・サービス",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、シマノは日本で生産した製品はすべて円建てで販売しています",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "それよりも、米国や欧州といった成熟した市場で新しい製品や新しい乗り方を提案し、自転車の楽しみ方を広げてきた",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "単に生産量を増やしたというだけではなく、製品の価値を高めてきたことも成長の大きな秘訣です",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば変速機では、かつてのワイヤで引っ張ってコントロールするものだけでなく、電動式の製品を新たに開発しました",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "アスリートのニーズをフィードバックし、高性能で新しい製品を提案する",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド力は、いかに素晴らしい商品を提案し、いかに素晴らしい乗り方を提案したかということの結果です",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "「いつかこれは実るんだ」という自信があっても、市場に受け入れられるまで時間がかかりそうな商品もある",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "5年前に何を目指して、どういう準備をして、どんな製品を開発してきたのか",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に自信があるのならば、果実を無理に取りに行く必要はありません",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "：これは「いかにお客様の心が躍る商品か」ということに尽きます",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質や機能だけでなく、所有する喜びを感じるものづくりかどうかも非常に重要な視点です",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自転車を長く大事にしてくれる人は、価格が高くとも耐久性のある製品を買って使ってくれる",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の作り方も、もちろん変わっていくと思います",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "良い商品を提案するということも必要ですし、文化を育てる取り組みもまた重要です",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "登録会員記事（月150本程度）が閲覧できるほか、会員限定の機能・サービスを利用できます",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "大変貌！DXパートナー企業の“今”",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "第4回は、業界内で唯一無二の存在となった「シマノ」の例を紹介する",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "ツール・パートナー探し",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略の立て方と成功事例を紹介、戦略策定に役立つ15のフレームワークを目的別に解説！",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "また、シマノ製品を採用した完成車は販売店でも「コンポーネントがシマノ」という点をセールスポイントとして訴求するため、ブランド認知がエンドユーザーにまで浸透する構造が生まれています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノは国内市場にとどまらず、欧州・北米・アジアなど世界各地に販売網と製造拠点を展開しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノは欧州の自転車メーカーや販売店との関係を深め、完成車メーカーへのOEM供給と小売市場への直接販売の両面で存在感を高めてきました",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "ASAKO Brand PRISMの料金・事例を紹介！パー…",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "パーパスコンサルを行う企業10社の特徴やプラン料金、導入事例などをまとめて紹介しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "のページで日経ビジネス電子版の「有料会員」と「登録会員(無料)」の違いも紹介しています",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "アフリカビジネスパートナーズ",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "日本の強みを取り戻す「価値創造」実践講義",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的な市場シェアを取り続けるシマノ、その強みとは",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "過剰在庫の真因は需要予測の精度にあらず、元オムロンCFO日戸興史氏が解説するサプライチェーン改革の重要メソッド",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "「ニッチ特化による参入障壁の形成」「コンポーネント（部品群）戦略」「データ活用型オウンドメディア」",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "精巧なギア機構や滑らかな回転性能が求められるという点で、両分野の技術的親和性は高く、シマノの強みである高精度な加工・設計技術を最大限に発揮できる領域として位置づけられています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "広く一般消費者に知られるような大衆商品を扱うのではなく、専門性の高い部品製造に特化したことが、長期的な競争優位の源泉となっています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社が「この市場でシマノを超えることは難しい」と判断し撤退するケースも見られるほど、参入障壁は高く積み上げられています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "品質追求が生み出す参入障壁",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "製品品質と性能の高さによる参入障壁の形成",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "互換性問題の解決がもたらした競争優位",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "できるという強みがあります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自社強みの棚卸しと集中投資の原則",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "精密な機械加工・品質管理・耐久性設計という強みを持つシマノが、これらの強みを最大限に発揮できる製品領域に絞り込んだことが、長期的な競争優位につながっています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "この戦略を自社に応用するためには、まず「自社が他社よりも優れている点は何か」「その強みを活かせる市場セグメントはどこか」を徹底的に分析することが出発点となります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "が、今日の競争優位を生み出しています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "これらが組み合わさることで、他社が容易には追随できない参入障壁が形成されています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 最も重要な示唆は「ニッチ特化による参入障壁の形成」です",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自社が最も優れている領域を見極め、その分野で競合が追いつけない品質・専門性を確立することが長期的な競争優位につながります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "「ニッチ特化による参入障壁の形成」「コンポーネント戦略によるユーザー課題の解決」「オウンドメディアとブランド戦略の統合」",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みを特定し、その強みを活かせる市場セグメントに集中投資するというシマノの経営戦略は、規模の大小を問わず多くの企業のマーケティング戦略に応用できる考え方です",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためにはどの市場セグメントなら自社の強みや優位性を示せるかという分析と、その強みを伝えるマーケティング戦略が必要になります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "Zenkenではクライアントの強みに則したWebマーケティング戦略の提案を得意とし、これまでに120業種を超えるクライアントを支援してきました",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "「他社との差別化ができていない」「伝えたい強みがユーザーに伝わっていない」といった集客・マーケティングのお悩みがあれば、ぜひご相談ください",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代のマウンテンバイク（MTB）ブームで自転車部品メーカーとして飛躍し、今や海外売り上げが9割、営業利益率が20％近いグローバルニッチトップ企業だ",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率約50％を誇り、国内製薬トップ級の時価総額に上り詰めた中外製薬",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2022年は過去最高益を記録するなど、創業から100年を超える現在でも高い成長ペースを持続している",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日号",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代のマウンテンバイク（MTB）ブームで自転車部品メーカーとして飛躍し、今や海外売り上げが9割、営業利益率が20％近いグローバルニッチトップ企業だ",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "1948年11月12日、大阪府生まれ",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代生まれがピーク 人が一生涯に排出する二酸化炭素量と人口問題",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年1月～ 全7日間",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "売上高の構成比は自転車部品が約8割、釣具が約2割を占めており、いずれも国内外で高い評価を得ています",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "売上比率（概算）",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "この戦略を自社に応用するためには、まず「自社が他社よりも優れている点は何か」「その強みを活かせる市場セグメントはどこか」を徹底的に分析することが出発点となります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みを特定し、その強みを活かせる市場セグメントに集中投資するというシマノの経営戦略は、規模の大小を問わず多くの企業のマーケティング戦略に応用できる考え方です",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためにはどの市場セグメントなら自社の強みや優位性を示せるかという分析と、その強みを伝えるマーケティング戦略が必要になります",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界最大手の自転車部品メーカー・ シマノ はなぜ高成長を遂げ ... — 世界最大手の自転車部品メーカー・ シマノ はなぜ高成長を遂げ ... JBpress https://jbpress.ismedia.jp > 特集一覧 > 良書抜粋",
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "pass": 3
+   },
+   {
+    "quote": "シマノ の経営戦略・マーケティング戦略を分析｜ニッチ特化と ... — シマノ の経営戦略・マーケティング戦略を分析｜ニッチ特化と ... キャククル https://www.shopowner-support.net > shimano-mgmt",
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノ を知る｜ シマノ コーポレートサイト - Shimano — シマノ を知る｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > recruitment > vision",
+    "url": "https://www.shimano.com/jp/recruitment/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "“Beyond Digital” シマノ が拓く新境地 | DiamondQuarterly — “Beyond Digital” シマノ が拓く新境地 | DiamondQuarterly ダイヤモンド・オンライン https://diamond.jp > 経営・戦略 > DiamondQuarterly",
+    "url": "https://diamond.jp/articles/-/266329",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜ シマノ コーポレートサイト - Shimano — 決算説明資料 ｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > presentations",
+    "url": "https://www.shimano.com/jp/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー｜ シマノ コーポレートサイト - Shimano — IRカレンダー｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > calendar",
+    "url": "https://www.shimano.com/jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "サステナビリティ開示｜ シマノ コーポレートサイト - Shimano — サステナビリティ開示｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > library > sustainability",
+    "url": "https://www.shimano.com/jp/ir/library/sustainability.html",
+    "pass": 3
+   },
+   {
+    "quote": "シマノ 【7309】のIR 資料 - キタイシホン — シマノ 【7309】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/7309/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト｜ シマノ コーポレートサイト - Shimano — 財務ハイライト｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > finance-highlights",
+    "url": "https://www.shimano.com/jp/ir/finance-highlights.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ シマノ コーポレートサイト - Shimano — 会社概要｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > company > profile",
+    "url": "https://www.shimano.com/jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "シマノ 【7309】の 事業 内容 - キタイシホン — シマノ 【7309】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7309/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜ シマノ コーポレートサイト - Shimano — 企業情報｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > company",
+    "url": "https://www.shimano.com/jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜ シマノ コーポレートサイト - Shimano — 社長 メッセージ｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > company > message",
+    "url": "https://www.shimano.com/jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "シマノ 島野 社長 「カルティエに置いても見劣りしない自転車 ... — シマノ 島野 社長 「カルティエに置いても見劣りしない自転車 ... 日経ビジネス電子版 https://business.nikkei.com > インタビュー",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー ｜ シマノ コーポレートサイト - Shimano — トップ インタビュー ｜ シマノ コーポレートサイト - Shimano Shimano https://www.shimano.com > recruitment > top_interview",
+    "url": "https://www.shimano.com/jp/recruitment/top_interview/",
+    "pass": 3
+   },
+   {
+    "quote": "シマノ の歴代 社長 - The社史 — シマノ の歴代 社長 - The社史 The社史 https://the-shashi.com > シマノの歴史",
+    "url": "https://the-shashi.com/tse/7309/ceo/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【締切迫る！】秋の年額2カ月増量キャンペーン実施中",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "年額プランなら12カ月分の料金で",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   },
+   {
+    "quote": "日経ビジネス、今なら2カ月分が実質無料！ 年額プランがお得に",
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/81482",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimano.com/jp/ir/presentations.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimano.com/jp/ir/calendar.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimano.com/jp/img/pdf/factsheet/h21_12/fs_20090331.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shimano.com/jp/company/profile.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimano.com/jp/company/message.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シマノ",
+   "results": [
+    "https://fish.shimano.com/ja-JP",
+    "https://bike.shimano.com/ja-JP/home.html",
+    "https://www.shimano.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9E%E3%83%8E",
+    "https://fish.shimano.com/en-US",
+    "https://www.youtube.com/@SHIMANO_TV",
+    "https://www.shimano.com/jp/company/profile.html",
+    "https://grokipedia.com/page/shimano_racing_team",
+    "https://www.realtor.com/realestateandhomes-search/Clinton_ME",
+    "https://www.zillow.com/clinton-me/"
+   ]
+  },
+  {
+   "query": "株式会社シマノ",
+   "results": [
+    "https://www.shimano.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9E%E3%83%8E",
+    "https://job.mynavi.jp/28/pc/search/corp57927/outline.html",
+    "https://hrmos.co/pages/shimano",
+    "https://www.shimano.com/",
+    "https://ja.wikipedia.org/wiki/株式会社マジルミエ",
+    "https://en.wikipedia.org/wiki/Matt_Rife",
+    "https://mattrifeofficial.com/",
+    "https://en.biographykind.com/matt-rife/",
+    "https://www.youtube.com/channel/UC2mKA8JTOCeodl9bEK7w42Q"
+   ]
+  },
+  {
+   "query": "シマノ 株式会社",
+   "results": [
+    "https://www.shimano.com/jp/company/profile.html",
+    "https://www.shimano.com/jp/",
+    "https://www.shimano.com/jp/recruitment/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9E%E3%83%8E",
+    "https://www.shimano.com/jp/company/access.html",
+    "https://hrmos.co/pages/shimano",
+    "https://job.mynavi.jp/28/pc/search/corp57927/outline.html",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00005590074/",
+    "https://www.shimano.com/jp/company/index.html",
+    "https://ja.wikipedia.org/wiki/シオン株式会社"
+   ]
+  },
+  {
+   "query": "シマノ ビジネスモデル",
+   "results": [
+    "https://jbpress.ismedia.jp/articles/-/81482",
+    "https://www.shopowner-support.net/glossary/management-strategy/shimano-mgmt/",
+    "https://www.shimano.com/jp/recruitment/vision/",
+    "https://www.itmedia.co.jp/business/articles/2403/13/news005_3.html",
+    "https://diamond.jp/articles/-/266329",
+    "https://www.shimano.com/jp/company/profile.html",
+    "https://photobook.sakura.ne.jp/dx/archives/603",
+    "https://otsumu.co.jp/knowledge/cases/shimano-bicycle-components-fishing.html",
+    "https://note.com/carlhirano/n/n9915d350f0bc",
+    "https://www.reddit.com/r/GTAVI/"
+   ]
+  },
+  {
+   "query": "シマノ 決算説明資料",
+   "results": [
+    "https://www.shimano.com/jp/ir/presentations.html",
+    "https://www.shimano.com/jp/ir/calendar.html",
+    "https://www.shimano.com/jp/ir/library/sustainability.html",
+    "https://kitaishihon.com/company/7309/ir-library",
+    "https://www.shimano.com/jp/ir/finance-highlights.html",
+    "https://edinetdb.jp/company/E02257/ir-docs/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260209552867/",
+    "https://note.com/fishinglab/n/n8dbc15b18598",
+    "https://www.irs.gov/pub/irs-pdf/f941sb.pdf",
+    "https://www.irs.gov/instructions/i941sb"
+   ]
+  },
+  {
+   "query": "シマノ 事業系統図",
+   "results": [
+    "https://www.shimano.com/jp/img/pdf/factsheet/h21_12/fs_20090331.pdf",
+    "https://www.shimano.com/jp/company/profile.html",
+    "https://www.shimano.com/jp/cms/news/japan/20251118_%28J%29Notice%20of%20Organizational%20and%20Personnel%20Changes.pdf",
+    "https://kitaishihon.com/company/7309/business",
+    "https://www.shimano.com/jp/company/index.html",
+    "https://www.shimano.com/jp/recruitment/vision/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9E%E3%83%8E",
+    "https://www.shimano.com/jp/recruitment/about_job/",
+    "https://www.theofficialboard.jp/%E7%B5%84%E7%B9%94%E5%9B%B3/shimano",
+    "https://en.wikipedia.org/wiki/Google"
+   ]
+  },
+  {
+   "query": "シマノ 社長 インタビュー",
+   "results": [
+    "https://www.shimano.com/jp/company/message.html",
+    "https://business.nikkei.com/atcl/gen/19/00005/121600168/",
+    "https://www.shimano.com/jp/recruitment/top_interview/",
+    "https://www.youtube.com/watch?v=MCJlHf0n6A4",
+    "https://the-shashi.com/tse/7309/ceo/",
+    "https://www.ohmae.ac.jp/mbaswitch/_komethod_shimano",
+    "https://jobtalk.jp/companies/2590/answers/1471350",
+    "https://kitaishihon.com/company/7309/board-of-director",
+    "https://www.flybreeze.com/",
+    "https://www.flybreeze.com/flight-status"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

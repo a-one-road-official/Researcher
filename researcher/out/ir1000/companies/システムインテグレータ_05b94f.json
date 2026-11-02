@@ -1,0 +1,2159 @@
+{
+ "name": "システムインテグレータ",
+ "aliases": [],
+ "context": "証券コード3826／情報・通信業／スタンダード（内国株式）／2026.02期 売上高5,558百万円 営業利益率10.7%",
+ "researched_at": "2026-11-02T20:46:48.753091+00:00",
+ "official_url": "https://corporate.sint.co.jp/",
+ "identified_by": "search:yahoo_jp:システムインテグレータ",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "システムインテグレータ 従業員持株会",
+    "value": "376,900 3.44",
+    "url": "https://corporate.sint.co.jp/ir/stock/basic",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "243名",
+    "url": "https://shachomeikan.jp/presidents/detail/10061201",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1995",
+    "url": "https://shachomeikan.jp/presidents/detail/10061201",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "自社で企画から開発したパッケージソフトウェアの開発、販売。ECサイト構築ソフトやアンケート作成ソフトなどがある。",
+    "url": "https://shachomeikan.jp/presidents/detail/10061201",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の業務を効率化する自社ソフトウェアの開発・提供を行っています",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その高い品質をお客様より高く評価いただいています",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の業務を効率化する自社ソフトウェアの開発・ご提供を行っています",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレータのサービス・商品を活用頂いているお客様の導入事例をご紹介します",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の業務を効率化する自社ソフトウェアの開発・提供を行っています",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "無駄な作業をなくし、収益を改善するわたしたちのサービスは、その高い品質をお客様より高く評価いただいています",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の業務を効率化する自社ソフトウェアの開発・ご提供を行っています",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "無駄な作業をなくし、収益を改善するわたしたちのサービスは、その高い品質をお客様より高く評価いただいています",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "これは、ユーザー様が同じということで、Object Browser という一つの事業体にしていた",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様が今、お客様となっていただいていますので",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らの全ての製品でお客様に合った提案をして、できる限りこのリスク分散を図っていく",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "注視というところですが、ただ一方で、GRANDIT の案件、これは顧客、お客様の事情、いろんな",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "視しながら、私どもはプライムベンダーとして直接取引でお客様に導入をしてきました",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た中で、上流工程にシフトをして、付加価値の高いお客様へのサービス提供をしていき、かつこれ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ということかもしれませんけれども、私ども今、お客様に提供いたしますパッケージライセンス",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れは例えば商社ですと、物を仕入れて売るというだけなのですが、製造業のお客様には作るとか、",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERP 関係に関しては、組立、プロセス両方とも 500 億前後のお客様に使っていただくことが多",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDIT の顧客が今、アクティブなお客様で 81 社ございます",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザー様から始めているのですが、ほかの ERP でも使える構造で作っていますので、GRANDIT",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そうすると、お客様",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な比率を占めてきますので、顧客数を増やしていくのも、私どもにとってはイコール、こういった",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私どもがシステムを導入するときは、お客様と対話しながら要件を決めていきます",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様にも見えるような画面とか帳票のイメージとか、そういったも",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もう一つ、私どもは今まで使っていただいたお客様のバージョンアップというのがあります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これ一番はお客様です",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザー数が非常に多いということ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実際に顧客数とか契約数を見ても、ちょっと横ばいに",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本資料を通じて利用者に提供された情報は、投資に関するアドバイスまたは証券売買の勧誘を目的",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本資料を利用した利用者による一切の行為は、すべて利用者の責任で行ってい",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "かかる利用及び行為の結果についても、利用者が責任を負うものとします",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本資料に関連して利用者が被った損害、損失、費用、並びに、本資料の提供の中断、停止、利用不",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "能、変更及び当社による利用者の情報の削除、利用者の登録の取消し等に関連して利用者が被った",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注は期初計画を上回り、導入案件の順調な進捗とクロスセルによる顧客単価の向上で増収増益",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・GRANDIT案件の中断・延期：顧客事情による一部案件の中断・延期が、売上・利益に影響す",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客への提供領域と収益構造を変え、売上・利益の成長を目指す",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ミッション「時間を与えるソフトウエアを創り続ける」：顧客の業務時間を生む価値を、成長・ストック収益・利益へつなぐ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存の顧客接点から、製造業の複数業務へ提案を広げる",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERP・SCM領域の顧客接点から、ECM（設計・エンジニアリング領域）の設計部門へ提案を広げる",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引合い・受注実績のある顧客属性と商材",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の売上規模 組立 プロセス",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の業務課題を起点に提案",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入順序は顧客ごとに異なる",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDIT顧客",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入・保守等で関係を持つ当社顧客",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存GRANDIT顧客",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERP・SCM領域の顧客接点から、ECM（設計・エンジニアリング領域）の設計部門",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存GRANDIT顧客で有償PoC2件",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（必要に応じて） 本番利用 月額契約 既存GRANDIT顧客へ追加提案（有償PoC） 本番利用 サブスクリプション提供・継続利用",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "目的は、設計業務の知見を製品・サービスとして提供し、複数顧客で継続利用できる事業へ育てること",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客からの反復受注 480 532",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※バージョンアップ・追加開発等：長期の顧客関係から生じる反復受注",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基本設計（SDD） 振る舞い仕様・顧客向け基本設計書を生成",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "位置付け 長年の利用顧客に支えられた収益基盤",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "進めていること サブスクリプション型への移行と既存顧客へのアップセル 新規開拓・アップセルによる月額収益の積み上げ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "検討していること ・AI時代のデータベース開発支援としての提供価値・既存の顧客・技術資産を活かした新たな事業モデルへの拡張 ・AI時代に顧客が必要とする機能・役割・プロジェクト損益データ基盤を中心とした新たな提供価値",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の利用継続・支払意思を確認しながら検討する",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIサービスの事業化 設計・基幹データ領域のAI開発力と顧客への提供体制",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル面では、お客様の利便性向上と当社の継続的な収益基盤の確立を目的として、従来の「買取型」",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長年にわたりご利用いただいているお客様への継続的な価値提供を重視し、マルチデータベース対応に加え、AI機",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、既存顧客へのアップセルやサブスクリプション型への移行を一層推進するとともに、新規顧客の獲得にも取",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソフトウェアにはゲームやSNSのように時間を奪うタイプと、当社製品のように時間を与えるタイプがあります",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "無駄な作業をなくし、収益を改善するわたしたちのサービスは、",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業が抱える「新しい課題」を解決するソリューションの企画・開発を通じ、豊かな社会の実現を目指しています",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "すべての製品を見る",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレータのサービス・商品を活用頂いているお客様の導入事例をご紹介します",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "無駄な作業をなくし、収益を改善するわたしたちのサービスは、その高い品質をお客様より高く評価いただいています",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "事業・サービス",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューションご紹介",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "統合型SCMソリューション",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "企業が抱える「新しい課題」を解決するソリューションの企画・開発を通じ、豊かな社会の実現を目指しています",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス一覧を見る",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "無駄な作業をなくし、収益を改善するわたしたちのサービスは、その高い品質をお客様より高く評価いただいています",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス紹介",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "企業のバックオフィス業務の効率化を支援するERP、製造現場のデジタル化を進める生産管理システム、システム開発現場の効率化を支援する開発ツール、その他に企業が抱える新しい課題を解決するAIを活用したソリューションを提供しています",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "最近では「プログラミングスキル判定サービス」や、「ディープラーニングを使った異常検知」などの新しい製品サービスもリリースしています",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "優れたソフトウェアにより社会に価値を提供することを会社の意義として、独創性のあるプロダクト・サービスの開発を続けています",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法その他関係法令および東京証券取引所の適時開示規則（以下、まとめて「法令・規則」といいます",
+    "url": "https://corporate.sint.co.jp/ir/disclosure-policy",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://corporate.sint.co.jp/ir/stock/basic",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、製品開発や人材投資、M&A等の成長投資を通じた企業価値の向上と、配当による株主の皆様への利益還元を経営の重要課題と位置付けております",
+    "url": "https://corporate.sint.co.jp/ir/stock/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、招集ご通知をより手軽にご覧いただけるよう、スマートフォン・タブレット対応の株主総会招集ご通知をサービスとして提供しています",
+    "url": "https://corporate.sint.co.jp/ir/stock/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん、組織も人も分けて、製造ソリューション、SAP、",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らの全ての製品でお客様に合った提案をして、できる限りこのリスク分散を図っていく",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "若干でございますけれども、GRANDIT から製造ソリューション＋SAP のほうにちょっとだけ比率",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設計領域 AI に関しましては、今はまだ KENZ という設計図面を検査するというソリューションだ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けなのですけれども、先月、SEKEY という新しいサービスをリリースいたしました",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "うというサービスです",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もっと大きな業務領域の中で、AI を使った業務改革をしていただけるようなサービスを 2 段、3",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た中で、上流工程にシフトをして、付加価値の高いお客様へのサービス提供をしていき、かつこれ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "額型でのサービス提供となっております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その後のアフターサービスとか、もっと今、手がけている設計領域とか、やはり業務のシーンが商",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こういったことで私どものサービスや商材が、組立、プロセス、企業規模、各所に散りばめら",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AI の事業化は、今申し上げた設計領域の AI のサービスと、ERP 領域の AI のサービス、二つがご",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "まずは BizSaaS は、業界を特化して、そこの製品を作って、そこから展開していくというふうな",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いただけるような製品にしていきたいと思います",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私どもが製品開発に投資しようとしていた中で、皮肉にも AI というのが出てきてしま",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る投資商品（価格、リターン、パフォーマンスが、本サービスに基づいている、または連動してい",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る投資商品、例えば金融派生商品、仕組商品、投資信託、投資資産等）の情報配信・取引・販売促",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDIT +14.0%（子会社除き +7.9%）、製造ソリューション +89.8%、SAP +27.4%",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDIT以外のERP事業（製造ソリューション・SAP）とAI事業の構成比を高め、収益源を多軸化",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造ソリューション＋SAPは11.2%（+2.8pt）、AIは1.6%（+1.0pt）へ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDIT 製造ソリューション SAP AI OB・PM",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 製造ソリューション＋SAP",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造ソリューション・SAPはSI単体の該当部門売上（管理会計）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高単価のAIサービスで",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守・月額サービス等を積み上げ、売",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実行基盤 人材／製品投資／アライアンス ｜ 2年のローリング方式で計画を更新",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造ソリューション（mcframe＋生産計画システム） 188 +89.8%",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIソリューションを追加提案",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みである 製造業の設計知見 × 基幹業務（ERP）の知見 × データモデル技術 を、AIサービスへ展開",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設計領域AI：32期・33期もKENZ・SEKEYの研究開発投資（製品・機能の開発）を先行させながら売上拡大を目指す",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "目的は、設計業務の知見を製品・サービスとして提供し、複数顧客で継続利用できる事業へ育てること",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現状 上期売上高 107,950千円、前年同期比12.9%減サブスクリプション型の増加が買取型の減少を補うには至らず プロジェクト管理事業（研修サービスを含む）：上期 売上高 前年同期比3.9%増、セグメント利益 同50.1%増OBPM Neo：MRR 前年同期末比7.7%増（金額・時点はp.16）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Object Browserはデータベース開発ツール事業、OBPM Neoは研修サービスを含むプロジェクト管理事業",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIサービスの事業化 設計・基幹データ領域のAI開発力と顧客への提供体制",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Object Browser事業」に含まれていた「OBPM Neo」に関する事業（プロジェクト管理研修サービス事業を含む）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "について、提供する製品・サービスの性質が異なることから、事業的性質をより適正に表示するために「Object",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ツール「SI Object Browser ER」の２製品で構成しており、国内のIT業界を中心に長きにわたりエンジニアのデフ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERP「GRANDIT」を中核としながら、お客様の業種・業務特性に応じた選択肢の拡充と、特定製品に偏らない収益基",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "盤の構築を目的として、クラウド型「SAP Cloud ERP」、SCMパッケージ「mcframe」を加えたERPソリューションの",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、ERPに蓄積されたデータを経営に活用するためのAIソリューションとして、2026年４月よりMCP（Model",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事例のご紹介",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレータのサービス・商品を活用頂いているお客様の導入事例をご紹介します",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業80年の精密部品メーカー・三和ニードル・ベアリング、30年以上稼働した基幹システムを刷新し「SAP® Cloud ERP」を採用－導入パートナーとして株式会社システムインテグレータを選定－",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "朝日新聞朝刊に、当社の勤務制度に関する取り組みが紹介されました",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社システムインテグレータ | 事業紹介",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューションご紹介",
+    "url": "https://corporate.sint.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス紹介",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "また、経営陣の指名・解任と報酬に関する決定の透明性・客観性を確保するため、任意の指名・報酬諮問委員会を設けております",
+    "url": "https://corporate.sint.co.jp/ir/governance-system",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会",
+    "url": "https://corporate.sint.co.jp/ir/governance-system",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、取締役の選解任・報酬の決定に関する透明性及び客観性の確保のため、任意の諮問機関として、社外役員が過半数を構成する指名・報酬諮問委員会を設置しており、代表取締役社長、社外取締役１名（議長）及び社外監査役２名により構成しております",
+    "url": "https://corporate.sint.co.jp/ir/governance-system",
+    "pass": 1
+   },
+   {
+    "quote": "「指名・報酬諮問委員会規程」に則り社外取締役を委員長とし運営しており、取締役及び執行役員の選解任・報酬について審議し、取締役会に答申することとしております",
+    "url": "https://corporate.sint.co.jp/ir/governance-system",
+    "pass": 1
+   },
+   {
+    "quote": "9 社、同じ社内の中でも事業部を超えて紹介していただくようなケースが増えております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ですが、この辺は営業体制の強化、やり方の強化、そういったものを含めて、来期以降効果が出て",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強固なパートナーコミュニティが高く評価され、「GRANDIT AWARD 2025」にて最上位である「Prime Partner of",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "将来性がないと言われる理由と問題点についてご紹介します",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の記事ではSIerのビジネスモデルの問題点についてご紹介しました",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "【SIerのPMの役割とは】フェーズごとの仕事内容やキャリアパスをご紹介",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "foRProは、大手取引者数100社超のフリーコンサル案件紹介サービスです",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "ご登録いただくと、高単価の非公開案件をご紹介します",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "200万円/月以上の独自案件を多数紹介しております",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "住商情報に入社させていただいたときには、当時31歳で入ったのですけれども、38（歳）のときには独立をしようと自分で一応目標を決めて（転職先の住商情報システムの）新規事業開発本部という、ちょっと新しいことをやるようなところで、今一緒にやっている専務が平成元年の7月1日に入社して、私が8月1日で（私たちと）あと新人2人という、非常に小さなところからのスタートになったのですけれども、そこでまず最初は、IBMのAS/400というコンピュータの販売契約をしたばかりで、全然売れていないので、それを立ちあげてくれという話で、まずはそういうIBMの販売パートナーとしての仕事を手がけたというのが最初です",
+    "url": "https://shachomeikan.jp/presidents/detail/10061201",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "SI Object Browserライセンス",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "データベース開発ツール事業は、今まで買取だったのですが、それをサブスクリプションの形態に",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プロジェクト管理ツール、こちらも先ほど申し上げたとおり、月額でも収入が増えつつあります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ですので、なるべくストック収益のほうの拡大を今、急いでいます",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ということかもしれませんけれども、私ども今、お客様に提供いたしますパッケージライセンス",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、もうほぼほぼ月額型の提供にしています",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取型だったのですけれども、私ども独自にこれを月額型に変更いたしまして、基本的には全てスト",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新しい設計領域の KENZ に関しましても月額型",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ック収益、それから併せて保守とか運用サポート、こういったものも月額でいただきますので、も",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "っともっとこのストック収益の比率も高めていきながら、先ほど申し上げた事業の偏り、依存度を",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こちらは、ストック収益の概念を絵にしたものです",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したが、今は全てライセンス型への移行を進めております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いろんな作業に関しても、いかに月額型に近い形で収益を組み立てられないかということを、今、",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益基盤としまして、若干ではございますけれども、売上に対してのストック型の比率を上げつつ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し上げたように、サブスクリプション型、月額型に移行した、かつその今、過程であるということ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で、新規開拓、アップセル、こういったところを重視した組織体制を取り、かつ月額型収益をとに",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いずれにしましても、この二つはストック型のビジネスにつながりますので、安定収益を支える基",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "又は一部について、複製、送信、表示、実施、配布（有料・無料を問いません）、ライセンスの付",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注は期初計画を上回り、導入案件の順調な進捗とクロスセルによる顧客単価の向上で増収増益",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプション型への移行は進んだが、買取型の減少を補えず減収減益",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益の積み上げと減価償却費の減少で増益",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・生成AIツール利用料 +22（1.7 → 23.4）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・支払手数料 +9、その他 −14",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データベース開発ツール事業 売上高 124 108 −16 −12.9% 買取型の減少をサブスク移行で補えず",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ミッション「時間を与えるソフトウエアを創り続ける」：顧客の業務時間を生む価値を、成長・ストック収益・利益へつなぐ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 業務領域の拡大 ② ストック収益の積み上げ ③ AIによる提供能力の向上",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高単価のAIサービスで",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益の拡大",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守・月額サービス等を積み上げ、売",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDITは新規ライセンスの月額化に32期から着手 31期後半から仕組みの検証・開発を開始",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入・保守等で関係を持つ当社顧客",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KENZ：月額ライセンスが基本",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（必要に応じて） 本番利用 月額契約 既存GRANDIT顧客へ追加提案（有償PoC） 本番利用 サブスクリプション提供・継続利用",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "過去契約のストック収益に、新規契約を積み上げる",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② ストック収益の積み上げ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一括型ライセンス（概念図）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月額型ライセンス（概念図）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型売上（保守＋月額） 805 940",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※保守・月額ライセンス等：契約継続に伴うストック収益",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "確約された将来売上ではなく、保守と同じ",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益には含めない",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERPの長期利用がストック収益を支える",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から「サブスクリプション型」への移行を引き続き推進しております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプション型への移行は進んだものの、従来の買取型の減少を補うには至らず、減収",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、既存顧客へのアップセルやサブスクリプション型への移行を一層推進するとともに、新規顧客の獲得にも取",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り組み、より強固で安定したストック収益基盤の構築に努めてまいります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スセル）による顧客単価の向上も進んだ結果、当中間連結会計期間の売上高は2,702,312千円（前年同期比18.1％",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の40,897千円となり、安定的なストック収益基盤を着実に拡大させております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの利益率の高いストック収益が順調に積み上がったことに加え、過年度の製品開発投資に係る減価償却費",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から「サブスクリプション型」への移行を戦略的に推進しております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプション型への移行は進んだものの、従来の買取型の減少を補うには至",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マルチデータベース対応と特許取得済みのAI機能による高いプロダクト競争力を武器に、コンプリートライセンス",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を通じた既存顧客へのアップセルと新規顧客の獲得を推進し、より強固で安定したストック収益基盤の拡大に努め",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、中長期的な収益構造の変革（ストックビジネス比率の向上）とAIネイティブ化を牽引する次世代基盤と",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "増の42,219千円となり、安定的なストック収益の基盤を着実に拡大させております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このように利益率の高いストック収益が順調に積み上がった結果、当第１四半期連結累計期間の売上高は",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SIerは各企業の情報システムの設計、開発、保守・運用、管理までを一括で請負する情報サービス企業を指します",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのSIerは受託業務で「人月単価×人数」が売上になります",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの企業は先述のとおり、多くの企業のシステム設計から開発、保守運用までを一貫して行ってきました",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月22日",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月25日",
+    "url": "https://corporate.sint.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会「ログミーFinance 書き起こし」",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会 スピーチ（テキスト）（",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会 動画",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会資料",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会「ログミーFinance 書き起こし」",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会 スピーチ（テキスト）（",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会 動画",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会資料",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月25日",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月15日",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2020年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2019年2月期",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2018年2月期以前",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月15日",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会資料",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期 第２四半期 決算説明会 動画",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 1
+   },
+   {
+    "quote": "2032年度のグランドデザイン",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期～2028年２月期の２年経営計画",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月期",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2027年２月期",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2028年２月期",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2033年２月期",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "1995年に３名でスタートしてから、「ECサイト構築パッケージ」、「データベース開発支援ツール」、「データベース設計ツール」、「ERPパッケージ」、「統合型プロジェクト管理システム」と、時代ニーズに合ったソフトウェアプロダクトを次々に開発してきました",
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期第１四半期からの報告セグメントの変更に伴い、2026年2月期の実績につきましては、変更後の区分に組み替えた数値を「参考値」として記載しております",
+    "url": "https://corporate.sint.co.jp/ir/performance-highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月末現在",
+    "url": "https://corporate.sint.co.jp/ir/stock/basic",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月28日 18:30 ※本総会は終了いたしました",
+    "url": "https://corporate.sint.co.jp/ir/stock/general-meeting",
+    "pass": 1
+   },
+   {
+    "quote": "2027 年 2 月期 第 2 四半期 決算説明会",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 22 日",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年2月期 第2四半期",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2月期 中間期 2027年2月期 中間期 2033年2月期（目標）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年9月〜2027年2月の計上予定分（8月末時点）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年2月期以前はSI単体、2025年2月期以降は連結",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年4月より提供開始",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月22日時点",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "「操作させるだけのソフトウエア」や「言われたことを正確にこなす仕事」が急速に価値を失っていく今、旧来のビジネスモデルに依存し続けることは許されません",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当面は収益構造が発展途上であり、成長投資を機動的に行う局面も想定されるため、事業環境、業績状況、財政状態及び投資機会等を総合的に勘案し、安定的かつ継続的な株主還元を実施してまいります",
+    "url": "https://corporate.sint.co.jp/ir/stock/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "をもうちょっと分散していく、収益構造を作るための計画を掲げておりますが、まだ ERP 事業、",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のですが、今期から収益構造とかトレンドが変わっていますので、皆様にも分かりやすいように、",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "域、こういったもので残りの部分を均等にリスク分散しながら、収益構造を作っていきたいと考え",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客への提供領域と収益構造を変え、売上・利益の成長を目指す",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル面では、お客様の利便性向上と当社の継続的な収益基盤の確立を目的として、従来の「買取型」",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル面では、お客様の利便性向上と当社の継続的な収益基盤の確立を目的として、従来の「買取型」",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、中長期的な収益構造の変革（ストックビジネス比率の向上）とAIネイティブ化を牽引する次世代基盤と",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SIerのビジネスモデルにおける4つの問題点と、今後の見通しについて解説",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "SIerのビジネスモデル",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "SIerにおける今後のビジネスモデル",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型のビジネスモデル",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "ITコンサル型のビジネスモデル",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "海外アウトソース型のビジネスモデル",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用型ビジネスモデル",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "SIerのビジネスモデルは「人月スタイル」と呼ばれています",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "SIer業界だけでなく各業界、既存ビジネスモデルの見直しと新たな収益源の確保が求められています",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "今後考えられるSIerのビジネスモデルについて解説します",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは従来型のビジネスモデルです",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、課題ありきでのシステム開発ではなく、企業や官公庁の課題を明確にコンサルティングを行っていくビジネスモデルが今後も増加してくると言われています",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "次に考えられるビジネスモデルとしては、SIerは今後生き残っていくために開発費用を抑えるビジネスモデルが考えられます",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "最後にAI活用型のビジネスモデルです",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの働き方に対して、「定型的な作業」などの低付加価値業務は、AIやRPAなどを用いて自動化し、限りのある人材リソースは企業課題の特定や方向性の検討などの高付加価値な業務を中心に行っていくビジネスモデルが考えられます",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の記事ではSIerのビジネスモデルの問題点についてご紹介しました",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "製造業の業務プロセスに深く入り込み、上流工程から課題を本質的に解決する当社の強みは、AIが容易に代替できるものではなく、むしろAIを組み合わせることで付加価値がさらに高まると確信しています",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "当社は引き続き、当社の強みである「業務システム」、「開発ツール」、「AI」３つの事業ドメインに経営資源を集中させ、事業ポートフォリオの見直しを行いながら競争力を高めてまいります",
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益・営業利益率",
+    "url": "https://corporate.sint.co.jp/ir/performance-highlight",
+    "pass": 1
+   },
+   {
+    "quote": "売上高が 31 億 6,900 万、営業利益で 3 億 2,500 万、営業利益率 10.3%と、いずれも前年同",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "という大きな波の中で、私どもの強みをどうやってこの AI で、もっともっと強くしていくかとい",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERP事業が牽引し増収増益、営業利益率は10.3%へ改善",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 3,169百万円（前年同期比 +16.3%） 営業利益 325百万円（同 +27.6%） 営業利益率 10.3%（+0.9pt）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 33.0% 33.9% +0.9pt — — —",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 9.4% 10.3% +0.9pt — 11.1% —",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期目標 2033年2月期 売上高 120億円 営業利益 20億円 営業利益率 約16.7%",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みである 製造業の設計知見 × 基幹業務（ERP）の知見 × データモデル技術 を、AIサービスへ展開",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は、強みである",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特にCRM（Customer Relation Management）やERP（Enterprise Resources Planning）などは比較的規模の大きい企業に対して注目されており、SIerとして強みを発揮できる部分になります",
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別業績",
+    "url": "https://corporate.sint.co.jp/ir/performance-highlight",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上構成表",
+    "url": "https://corporate.sint.co.jp/ir/performance-highlight",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期第１四半期からの報告セグメントの変更に伴い、2026年2月期の実績につきましては、変更後の区分に組み替えた数値を「参考値」として記載しております",
+    "url": "https://corporate.sint.co.jp/ir/performance-highlight",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別でございます",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また BizSaaS は、いずれ ERP セグメントにおいて販売され",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績（中間期）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 2026年2月期中間期 2027年2月期中間期 増減額 増減率 主な増減要因",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント合計 売上高 2,725 3,169 +444 +16.3%",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※事業利益合計は4セグメント計（その他：前年同期 −15、当中間期 −52を除く）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの変更 当中間期より「Object Browser事業」を「データベース開発ツール事業」と「プロジェクト管理事業」（OBPM Neo・研修）に分割（前年同期は組替後）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GRANDIT以外のERP事業（製造ソリューション・SAP）とAI事業の構成比を高め、収益源を多軸化",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現状 上期売上高 107,950千円、前年同期比12.9%減サブスクリプション型の増加が買取型の減少を補うには至らず プロジェクト管理事業（研修サービスを含む）：上期 売上高 前年同期比3.9%増、セグメント利益 同50.1%増OBPM Neo：MRR 前年同期末比7.7%増（金額・時点はp.16）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間のセグメント別の業績の状況は次のとおりです",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "については、変更後の報告セグメントに組み替えた数値で比較しております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間の売上高は107,950千円（前年同期比12.9％減）、セグメント利益は81,541千円（同8.1％",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "増）、セグメント利益は599,211千円（同29.2％増）となり、増収増益を確保しました",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間の売上高は50,786千円（前年同期比223.5％増）、セグメント損失は5,103千円（前年同期は",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "16,391千円のセグメント損失）となりました",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注）１．「その他」の区分は、報告セグメントに該当しない新規事業を含んでおります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）の調整額△340,518千円は、事業セグメントに配分していない全社費用でありま",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、事業セグメントに帰属しない一般管理費であります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又は損失（△）は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ERP事業セグメントにおいて、当中間連結会計期間より、新たに株式を取得した株式会社システム開発研究所を",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）の調整額△410,980千円は、事業セグメントに配分していない全社費用でありま",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの変更等に関する事項",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前中間連結会計期間のセグメント情報については、変更後の区分方法により作成したものを記載してお",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間のセグメント別の業績及び状況は次のとおりです",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年同四半期比較については、変更後の報告セグメントに組み替えた数値で比較しております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の売上高は53,852千円（前年同四半期比14.5％減）、セグメント利益は40,201千円",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "結果、当第１四半期連結累計期間の売上高は1,361,908千円（前年同四半期比27.1％増）、セグメント利益は",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "152,576千円（前年同四半期比7.7％増）、セグメント利益は58,566千円（同81.2％増）となりました",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の売上高は16,140千円（前年同四半期比467.1％増）、セグメント損失は5,778千円",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前年同四半期は11,693千円のセグメント損失）となりました",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注）１．「その他」の区分は、報告セグメントに該当しない新規事業を含んでおります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）の調整額△171,626千円は、事業セグメントに配分していない全社費用でありま",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、事業セグメントに帰属しない一般管理費であります",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又は損失（△）は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）の調整額△188,437千円は、事業セグメントに配分していない全社費用でありま",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの変更等に関する事項",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前第１四半期連結累計期間のセグメント情報については、変更後の区分方法により作成したものを",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※構成比は小数点以下第2位を四捨五入しているため、",
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/images/ir/2026/202607/Breakdown%20of%20sales%20by%20business.png",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IR資料一覧 - 株式会社システムインテグレータ — IR資料一覧 - 株式会社システムインテグレータ 株式会社システムインテグレータ https://corporate.sint.co.jp > library > document",
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社システムインテグレータ — IR情報 - 株式会社システムインテグレータ 株式会社システムインテグレータ https://corporate.sint.co.jp > ...",
+    "url": "https://corporate.sint.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "システムインテグレータ （3826）、来期も成長継続 事業 ... — システムインテグレータ （3826）、来期も成長継続 事業 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384306",
+    "pass": 3
+   },
+   {
+    "quote": "【 システムインテグレータ 】[3826]IR情報 中期経営計画や 決算 ... — 【 システムインテグレータ 】[3826]IR情報 中期経営計画や 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3826",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社システムインテグレータ — 会社概要 - 株式会社システムインテグレータ 株式会社システムインテグレータ https://corporate.sint.co.jp > company > profile",
+    "url": "https://corporate.sint.co.jp/company/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムインテグレータ | ご挨拶 — 株式会社システムインテグレータ 代表取締役社長 CEO 引屋敷 智",
+    "url": "https://corporate.sint.co.jp/company/message",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー動画－株式会社システムインテグレータ 代表取締役...株式会社システムインテグレータ | 役員紹介「信頼は自分から行うスキル」は大きな気づき。社長である自分から社...株式会社システムインテグレータ の企業情報｜社長\"直結\"メディア『社...株式会社システムインテグレータ・梅田弘之社長のインタビュー動画｜...株式会社システムインテグレータ｜世界で活躍する企業経営ドキュメン... — 【ERPやWeb関連のパッケージソフトの二本柱で成長する独立系IT企業】「株式会社システムインテグレータ」の代表取締役会長 CCO、「梅田弘之」氏の動画を配信。社長直結メディア『社長名鑑』は気になる経営者に直接提案が可能なメディアです。 株式会社システムインテグレータのコーポレートサイトです。 入社以来、ERPの開発・導入案件を中心に多くのお客様の業務システムに携わってきました。 お客様のご",
+    "url": "https://shachomeikan.jp/presidents/detail/10061201",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムインテグレータ | 役員紹介 — 株式会社システムインテグレータのコーポレートサイトです。 入社以来、ERPの開発・導入案件を中心に多くのお客様の業務システムに携わってきました。 お客様のご依頼の本質を見極めて、常に＋αの提案やサービスをソフトウェアを通して提供できる、プロ集団でありたいと思っています。",
+    "url": "https://corporate.sint.co.jp/company/board-member",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムインテグレータ の企業情報｜社長\"直結\"メディア『社...株式会社システムインテグレータ・梅田弘之社長のインタビュー動画｜...株式会社システムインテグレータ｜世界で活躍する企業経営ドキュメン... — 「株式会社システムインテグレータ」の企業情報ページです。「株式会社システムインテグレータ」の会社概要、社長のインタビューを掲載しています。社長名鑑に掲載しているインタビュー動画や記事を見て、社長に直接メッセージを送ったり、右腕に立候補したりすることが可能です。 ハイクラスの求人をお探しなら【転機】すべての求人において経営者と直接面談を実現するハイクラス向け転職情報サイトです。求人案件は1,000件以上、あらゆる業種、職種、ポジションの案件がございます。 株式会社システムインテグレータ｜管理ソフトの新しいスタンダード｢ERP｣生みの親 Cow-TVの「社長室101」は世界で活",
+    "url": "https://shachomeikan.jp/corporations/22567",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムインテグレータ｜世界で活躍する企業経営ドキュメン... — 株式会社システムインテグレータ｜管理ソフトの新しいスタンダード｢ERP｣生みの親 Cow-TVの「社長室101」は世界で活躍中の日本人経営者を突撃取材するシリーズ番組です。",
+    "url": "https://cowtv.jp/channel/boss/353umeda/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corporate.sint.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/library/document",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/management-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/for-investor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/performance-highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/governance-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/en/library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/governance-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/disclosure-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/stock/basic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/stock/dividend",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/ir/stock/general-meeting",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260925.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260715.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20261015-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/documents/ir-library-document/2026/20260414-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.sint.co.jp/hubfs/corp-site/images/ir/2026/202607/Breakdown%20of%20sales%20by%20business.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isfnet-services.com/blog/hr/sier-business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ist-software.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/presidents/detail/10061201",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "システムインテグレータ",
+   "results": [
+    "https://corporate.sint.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fqxi",
+    "https://job.mynavi.jp/27/pc/search/corp68166/outline.html",
+    "https://recruit.sint.co.jp/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10001124329/",
+    "https://en-hyouban.com/company/10001124329/",
+    "https://ja.wikipedia.org/wiki/システムインテグレーター",
+    "https://ja.wikipedia.org/wiki/システムインテグレータ_(企業)",
+    "https://corporate.sint.co.jp/company/profile"
+   ]
+  },
+  {
+   "query": "システムインテグレータ ビジネスモデル",
+   "results": [
+    "https://for-professional.jp/media/engineer/programmer/article/engineer-sier-problem/",
+    "https://www.isfnet-services.com/blog/hr/sier-business-model",
+    "https://japan.zdnet.com/article/35233218/",
+    "https://blogs.itmedia.co.jp/itsolutionjuku/2025/10/sier_12.html",
+    "https://www.esupport.co.jp/features/insights/si-business/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC",
+    "https://www.sios.com/ja/blog/bcn-eventreport.html",
+    "https://www.cio.com/article/4138485/%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA%E3%81%8B%E3%82%89%E4%BE%A1%E5%80%A4%E5%85%B1%E5%89%B5%E3%81%B8%EF%BC%9A%E6%97%A5%E7%B1%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0.html",
+    "https://note.com/otomaru97/n/nbf0be1b8cddb",
+    "https://ja.wikipedia.org/wiki/システムインテグレーター"
+   ]
+  },
+  {
+   "query": "システムインテグレータ 決算説明資料",
+   "results": [
+    "https://corporate.sint.co.jp/ir/library/document",
+    "https://corporate.sint.co.jp/ir",
+    "https://finance.logmi.jp/articles/384306",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3826",
+    "https://www.mec.co.jp/ir/library/",
+    "https://www.buffett-code.com/company/3826/library",
+    "https://corporate.sint.co.jp/ir/library",
+    "https://www.excite-holdings.co.jp/ir/library/",
+    "https://edinetdb.jp/company/E05643/presentations/",
+    "https://irbank.net/3826/ir"
+   ]
+  },
+  {
+   "query": "システムインテグレータ 事業系統図",
+   "results": [
+    "https://corporate.sint.co.jp/company/profile",
+    "https://www.ist-software.co.jp/company/organization/",
+    "https://www.skygroup.jp/media/article/4079/",
+    "https://www.rand.co.jp/ir/individual/business.php",
+    "https://www.tsh-world.co.jp/company/organization/",
+    "http://www1.tcue.ac.jp/home1/sanken/pdf/44-1/44-1ishikawasekikawa.pdf",
+    "https://career.levtech.jp/guide/knowhow/article/98/",
+    "https://www.njs-net.co.jp/about/detail.php?eid=00003",
+    "https://www.nttdata.com/global/ja/-/media/nttdataglobal-ja/files/news/release/2005/110100/2005ibsr_02.pdf"
+   ]
+  },
+  {
+   "query": "システムインテグレータ 社長 インタビュー",
+   "results": [
+    "https://corporate.sint.co.jp/company/message",
+    "https://shachomeikan.jp/presidents/detail/10061201",
+    "https://corporate.sint.co.jp/company/board-member",
+    "https://shachomeikan.jp/corporations/22567",
+    "https://cowtv.jp/channel/boss/353umeda/",
+    "https://ten-ki.jp/presidents/detail/10061201",
+    "https://meets-and-dialogue.co.jp/voice/001/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部4頁・検索5回）"
+ }
+}

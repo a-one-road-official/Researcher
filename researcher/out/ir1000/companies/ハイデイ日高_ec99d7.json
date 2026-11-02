@@ -1,0 +1,797 @@
+{
+ "name": "ハイデイ日高",
+ "aliases": [],
+ "context": "証券コード7611／小売業／プライム（内国株式）／2026.02期 売上高62,253百万円 営業利益率10.6%",
+ "researched_at": "2026-11-02T20:46:19.809815+00:00",
+ "official_url": "https://hidakaya.hiday.co.jp/",
+ "identified_by": "search:yahoo_jp:ハイデイ日高",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1978年3月22日",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1983年 （ 昭和 58年） 10月22日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ラーメン チェーン店",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "556億29百万円 (2025/2月期)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "913名（2024年4月末日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://hidakaya.hiday.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://hidakaya.hiday.co.jp/service/rairaiken.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル | 株式会社 ハイデイ日高",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "法人のお客様向け窓口",
+    "url": "https://hidakaya.hiday.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様各位（店内でのお願い）",
+    "url": "https://hidakaya.hiday.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様向け窓口",
+    "url": "https://hidakaya.hiday.co.jp/service/rairaiken.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様各位（店内でのお願い）",
+    "url": "https://hidakaya.hiday.co.jp/service/rairaiken.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様向け窓口",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様各位（店内でのお願い）",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様向け窓口",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様各位（店内でのお願い）",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラーメン＋αの魅力で、定食・炒め物などのサイドメニューを充実させ、常にお客様の多様なニーズに応えていきます",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様向け窓口",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様各位（店内でのお願い）",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の利用者である日本人労働者の怒りを買い、公式Xアカウントが謝罪に追い込まれた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "主要商品エネルギー表",
+    "url": "https://hidakaya.hiday.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主要商品エネルギー表",
+    "url": "https://hidakaya.hiday.co.jp/service/rairaiken.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要商品エネルギー表",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在の主力業態である「日高屋」の展開を開始",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "第11回優良フードサービス事業者等表彰・新規業態開発部門において「農林水産大臣賞」を受賞",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要商品エネルギー表",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "本物の味を納得のいく価格とサービスで提供する",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "仲間と共に理念を共有し、すべてのお店で均一な商品とサービスを提供する直営店方式を原則としています",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要商品エネルギー表",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を主力事業とする",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "以前は1回利用するごとに次回以降使えるサービス券がもらえた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "3月 - 第11回優良フードサービス事業者等表彰の「新規業態開発部門」において、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "同社の主力業態",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "ソニーセミコンダクタソリューションズグループ 採用インタビュー動画",
+    "url": "https://www.youtube.com/watch?v=ksVSElFby8k",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1973年創業",
+    "url": "https://hidakaya.hiday.co.jp/service/rairaiken.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月26日現在",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月22日",
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社 ハイデイ日高",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "1999年9月16日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2016年（平成28年）12月 - 大宮区大門町に在った直営のとんかつ専門店かつ元が隣接する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月13日、青野敬成社長が",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2011年6月22日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月17日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2021年11月12日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月3日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "1983年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "1999年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2012年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2009年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2006年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2005年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2004年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2003年2月期",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版、初心者向けクロード完全チュートリアル！(プロになろう！)",
+    "url": "https://www.youtube.com/watch?v=ksVSElFby8k",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗数が20店舗を超える",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "多店舗展開当時の「ラーメン館」",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「日高屋六本木店」を開店し、総店舗数100店舗達成",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "これをもって総店舗数150店舗達成",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「日高屋茅ヶ崎北口店」を開店し、総店舗数200店舗を達成",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "これをもって総店舗数250店舗を達成",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "FC3店舗を含め、株式公開時の目標であった店舗数300店舗を達成",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "北関東地区にも店舗展開を開始",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗数400店舗を達成",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "関東1都6県に店舗展開",
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セントラルキッチンと連携した食材価格の低減と店舗におけるフレンド社員の積極的な採用によりストア･マネージメントの高度化をはかり低価格を実現します",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "は「熱烈中華食堂」で、各店舗の看板にも「熱烈中華食堂 日高屋」と毛筆書体で大書されている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "全店舗で使用する食材を、機械化され少人数の社員で稼動する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "が吊り下げられている店舗もある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "12月 - 100店舗達成",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "（平成20年）7月 - 200店舗達成",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "（平成24年）2月 - 300店舗達成",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "店舗（フランチャイジーは",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "→店舗一覧については、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイト内の店舗検索",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "店舗の利用者である日本人労働者の怒りを買い、公式Xアカウントが謝罪に追い込まれた",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "の要件（1地方1商圏内に11店舗以上）を満たしていたが現在は満たしていない店舗",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   },
+   {
+    "quote": "「サイゼリヤで働くこととは？」サイゼリヤ社員紹介",
+    "url": "https://www.youtube.com/watch?v=ksVSElFby8k",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ハイデイ日高 - Wikipedia — ハイデイ日高は、本社が所在するさいたま市大宮区を本拠地とする Jリーグ クラブ・ 大宮アルディージャ の スポンサー も務めている。 生ビール や つまみ などの サイドメニュー を豊富にすることで、 居酒屋 利用層の「ちょい飲み」需要も取り込んで ...",
+    "url": "https://ja.wikipedia.org/wiki/ハイデイ日高",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル | 株式会社 ハイデイ日高 — 熱烈中華食堂日高屋の「ビジネスモデル」です。本物の味を納得のいく価格とサービスで提供するために独自の高収益 ...",
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 ハイデイ日高株式会社ハイデイ日高の魅力と最新の成長戦略 | チームマイクの企業分...【最新決算分析】ハイデイ日高に潜む「3つの成長ドライバー」：プロが...ハイデイ日高 - Wikipedia中期経営計画の見直しに関するお知らせ株式会社ハイデイ日高 中期経営計画 — EDINET DB — ちょいのみ日高 こだわり おいしさの秘密 IR情報 サステナビリティ 会社情報 会社概要 代表メッセージ 経営理念 沿革 業態紹介 ビジネスモデル 成長戦略 女性活躍推進行動計画 安心･安全･環境への取り組み カスタマーハラスメント基本方針 組織図 採用 ... Feb 24, 2025 · 企業概要と最近の業績 株式会社ハイデイ日高 【全体の業績】 株式会社ハイデイ日高は、関東エリアを中心に「日高屋」をはじめとする低価格ラーメン・中華料理チェーンや「焼き鳥日高」などの居酒屋業",
+    "url": "https://hidakaya.hiday.co.jp/co/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハイデイ日高の魅力と最新の成長戦略 | チームマイクの企業分... — Feb 24, 2025 · 企業概要と最近の業績 株式会社ハイデイ日高 【全体の業績】 株式会社ハイデイ日高は、関東エリアを中心に「日高屋」をはじめとする低価格ラーメン・中華料理チェーンや「焼き鳥日高」などの居酒屋業態を展開する外食企業です。「駅前・繁華街の立地」への集中出店（ドミナント戦略）と ...",
+    "url": "https://consovation.com/株式会社ハイデイ日高の魅力と最新の成長戦略/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新決算分析】ハイデイ日高に潜む「3つの成長ドライバー」：プロが... — Jun 18, 2025 · イントロダクション: なぜ今、ハイデイ日高なのか？ デフレの象徴とも言われた低価格チェーン。しかし、原材料費と人件費の高騰という未曾有のインフレの波は、彼らのビジネスモデルそのものを揺さぶっています。牛丼チェーンの相次ぐ値上げ、ファミリーレストランの価格改定が日常の ...",
+    "url": "https://note.com/hr793/n/nbb6c20d47094",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・説明会 - 株式会社 ハイデイ日高 — 株式会社 ハイデイ日高の決算短信・説明会についてご紹介します。",
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 株式会社 ハイデイ日高 — 株式会社 ハイデイ日高のIRライブラリーについてご紹介します。",
+    "url": "https://www.hiday.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハイデイ日高 決算説明資料 — EDINET DB — 株式会社ハイデイ日高の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなど ...",
+    "url": "https://edinetdb.jp/company/E03318/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイデイ日高（7611）のIR情報・決算資料 - IRBANK — Sep 3, 2026 · ハイデイ日高（7611）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/7611/ir",
+    "pass": 3
+   },
+   {
+    "quote": "ハイデイ日高のIR資料 - 7611 / プライム / 小売業 | バフェット・コ... — ハイデイ日高（7611 / プライム / 小売業）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/7611/library",
+    "pass": 3
+   },
+   {
+    "quote": "ハイデイ日高 - Wikipedia — 株式会社ハイデイ日高 （ハイデイひだか、Hiday Hidaka）は、 埼玉県 さいたま市 大宮区 に本社を置く 外食 企業。 低価格 ラーメン ・ 中華料理 チェーン店 「日高屋」を主力事業とする。 東証プライム 上場 企業。",
+    "url": "https://ja.wikipedia.org/wiki/ハイデイ日高",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 ハイデイ日高ハイデイ日高 - Wikipediaサイトマップ | 株式会社 ハイデイ日高報告書 - 株式会社 ハイデイ日高中期経営計画の見直しに関するお知らせ株式会社ハイデイ日高 有価証券報告書 全文（最新）｜事業内容・リス... — ちょいのみ日高 こだわり おいしさの秘密 IR情報 サステナビリティ 会社情報 会社概要 代表メッセージ 経営理念 沿革 業態紹介 ビジネスモデル 成長戦略 女性活躍推進行動計画 安心･安全･環境への取り組み カスタマーハラスメント基本方針 組織図 採用 ... 株式会社ハイデイ日高 （ハイデイひだか、Hiday Hidaka）は、 埼玉県 さいたま市 大宮区 に本社を置く 外食 企業。 低価格 ラーメン ・ 中華料理 チェーン店 「日高屋」を主力事業とする。 東証プライム 上場 企業。 ちょい飲み日高 日高屋のこだわり おいしさの秘",
+    "url": "https://hidakaya.hiday.co.jp/co/",
+    "pass": 3
+   },
+   {
+    "quote": "報告書 - 株式会社 ハイデイ日高 — 株式会社 ハイデイ日高の報告書についてご紹介します。",
+    "url": "https://www.hiday.co.jp/ir/index5-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハイデイ日高 有価証券報告書 全文（最新）｜事業内容・リス... — 株式会社ハイデイ日高（証券コード 76110）の有価証券報告書 全文（最新 提出版）。事業内容・経営分析（MD&A）・リスク情報・コーポレートガバナンス・サステナビリティ・R&D・沿革など 11 セクションを原文ベースで表示。EDINET 原本 PDF へも直リンク。",
+    "url": "https://edinetdb.jp/company/E03318/text",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 株式会社 ハイデイ日高 — ちょいのみ日高 こだわり おいしさの秘密 IR情報 サステナビリティ 会社情報 会社概要 代表メッセージ 経営理念 沿革 業態紹介 ビジネスモデル 成長戦略 女性活躍推進行動計画 安心･安全･環境への取り組み カスタマーハラスメント基本方針 組織図 採用 ...",
+    "url": "https://hidakaya.hiday.co.jp/co/chart.html",
+    "pass": 3
+   },
+   {
+    "quote": "【採用動画】ハイデイ日高 社長インタビュー「ハイデイ日高社長インタビュー」の記事一覧 | PRESIDENT Online（プ...経営者インタビュー動画－株式会社ハイデイ日高 代表取締役社長 青野...アルバイト入社から30年で社長へ。語った「日高屋5つの成功要因」 | B...業界毎特集記事－株式会社ハイデイ日高 代表取締役社長（執行役員社長...（株）ハイデイ日高 代表取締役社長 青野敬成氏 | 商業施設新聞｢稼げない飲食業界｣なのに平均年収523万円に到達…日高屋が｢従業員... — Jun 11, 2025 · ハイデイ日高では一緒に働くみなさんをお待ちしております！ 詳しくはこちらから https://recruit.hiday.co.jp 「ハイデイ日高社長インタビュー」の記事一覧ページです。PRESIDENT Online（プレジデントオンライン）は、ビジネス誌「プレジデン",
+    "url": "https://www.youtube.com/watch?v=ksVSElFby8k",
+    "pass": 3
+   },
+   {
+    "quote": "「ハイデイ日高社長インタビュー」の記事一覧 | PRESIDENT Online（プ... — 「ハイデイ日高社長インタビュー」の記事一覧ページです。PRESIDENT Online（プレジデントオンライン）は、ビジネス誌「プレジデント」を発行する ...",
+    "url": "https://president.jp/category/c07254",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー動画－株式会社ハイデイ日高 代表取締役社長 青野...アルバイト入社から30年で社長へ。語った「日高屋5つの成功要因」 | B...業界毎特集記事－株式会社ハイデイ日高 代表取締役社長（執行役員社長...（株）ハイデイ日高 代表取締役社長 青野敬成氏 | 商業施設新聞｢稼げない飲食業界｣なのに平均年収523万円に到達…日高屋が｢従業員... — らーめん日高でのアルバイトを経て、1999年にハイデイ日高に入社。 店長、スーパーバイザー、エリアマネージャーなどを経て、2017年に執行役員、2019年に取締役執行役員営業管理部長・情報システム室長。 2022年5月に代表取締役社長に就任。 78年に法人化、99年にジャスダック、05年に東証二部、06年からは東証一部上場企業となったのが「日高屋」「焼鳥日高」などを展開するハイデイ日高だ。 今や約450店舗を展開する。 社長の青野",
+    "url": "https://shachomeikan.jp/presidents/detail/10063479",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社ハイデイ日高 代表取締役社長（執行役員社長... — ちょい飲み需要を捉え売上高1000億円を狙う挑戦 ～株式会社ハイデイ日高 代表取締役社長（執行役員社長) 青野 敬成～ ※本ページ内の情報は2026年6月時点のものです。 首都圏を中心に「日高屋」などのブランドを展開する株式会社ハイデイ日高。",
+    "url": "https://shachomeikan.jp/industry_article/5937",
+    "pass": 3
+   },
+   {
+    "quote": "（株）ハイデイ日高 代表取締役社長 青野敬成氏 | 商業施設新聞 — Sep 24, 2024 · 2024/9/24 「熱烈中華食堂日高屋」などを展開する（株）ハイデイ日高（さいたま市大宮区）の事業が好調だ。 2023年4月に公表した3カ年の中期経営計画を1年で達成したほどで、同社代表取締役社長の青野敬成氏は、好調には『7つの要因』があると分析する。",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=13545",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hidakaya.hiday.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hidakaya.hiday.co.jp/service/rairaiken.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hidakaya.hiday.co.jp/co/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hidakaya.hiday.co.jp/co/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hidakaya.hiday.co.jp/co/model.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hidakaya.hiday.co.jp/img/co/model/img_model_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hiday.co.jp/ir/index5-2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hiday.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ksVSElFby8k",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://president.jp/category/c07254",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハイデイ日高",
+   "results": [
+    "https://hidakaya.hiday.co.jp/co/",
+    "https://hidakaya.hiday.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%87%E3%82%A4%E6%97%A5%E9%AB%98",
+    "https://sharedresearch.jp/ja/companies/7611/overview",
+    "https://job.mynavi.jp/27/pc/search/corp62526/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7611",
+    "https://www.instagram.com/hidakayagroup_official/",
+    "https://en-hyouban.com/company/10000944171/",
+    "https://ja.wikipedia.org/wiki/ハイデイ日高",
+    "https://ja.wikipedia.org/wiki/神田正"
+   ]
+  },
+  {
+   "query": "ハイデイ日高 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ハイデイ日高",
+    "https://hidakaya.hiday.co.jp/co/model.html",
+    "https://hidakaya.hiday.co.jp/co/",
+    "https://consovation.com/株式会社ハイデイ日高の魅力と最新の成長戦略/",
+    "https://note.com/hr793/n/nbb6c20d47094",
+    "https://edinetdb.jp/company/E03318/midterm-plans/",
+    "https://hiday.co.jp/ir/assets/pdf/ir/hayawakari/doc_midtermplan.pdf"
+   ]
+  },
+  {
+   "query": "ハイデイ日高 決算説明資料",
+   "results": [
+    "https://hiday.co.jp/ir/index5-2.html",
+    "https://www.hiday.co.jp/ir/library.html",
+    "https://edinetdb.jp/company/E03318/presentations/",
+    "https://irbank.net/7611/ir",
+    "https://www.buffett-code.com/company/7611/library",
+    "https://www2.jpx.co.jp/disc/76110/140120261002545221.pdf",
+    "https://www2.jpx.co.jp/disc/76110/140120260410501665.pdf"
+   ]
+  },
+  {
+   "query": "ハイデイ日高 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ハイデイ日高",
+    "https://hidakaya.hiday.co.jp/co/",
+    "https://www.hiday.co.jp/ir/index5-4.html",
+    "https://edinetdb.jp/company/E03318/text",
+    "https://hidakaya.hiday.co.jp/co/chart.html",
+    "https://hiday.jp/info/sitemap.html",
+    "https://hiday.co.jp/ir/assets/pdf/ir/hayawakari/doc_midtermplan.pdf",
+    "https://edinetdb.jp/company/E03318/midterm-plans/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7611",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2401237611i8ge2c.pdf"
+   ]
+  },
+  {
+   "query": "ハイデイ日高 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=ksVSElFby8k",
+    "https://president.jp/category/c07254",
+    "https://shachomeikan.jp/presidents/detail/10063479",
+    "https://shachomeikan.jp/industry_article/5937",
+    "https://www.sangyo-times.jp/article.aspx?ID=13545",
+    "https://bizhint.jp/report/731147",
+    "https://president.jp/articles/-/99578",
+    "https://www.youtube.com/watch?v=Y-7GaPMKHyQ",
+    "https://hidakaya.hiday.co.jp/co/message.html",
+    "https://coki.jp/article/column/75327/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部6頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部6頁・検索5回）"
+ }
+}

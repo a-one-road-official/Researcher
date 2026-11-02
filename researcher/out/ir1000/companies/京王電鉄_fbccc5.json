@@ -1,0 +1,934 @@
+{
+ "name": "京王電鉄",
+ "aliases": [],
+ "context": "証券コード9008／陸運業／プライム（内国株式）／2026.03期 売上高496,939百万円 営業利益率10.5%",
+ "researched_at": "2026-11-02T20:56:57.972958+00:00",
+ "official_url": "https://www.mintetsu.or.jp/",
+ "identified_by": "search:ddgs:google:株式会社京王電鉄",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1948年 （ 昭和 23年） 6月1日 [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1948年（昭和23年）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "旅客鉄道事業 他（鉄道事業、土地・建物の賃貸業・販売業など）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 4086億9400万円 単独: 1261億4300万円 （2024年3月期） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "4,529億円（連結／2025年度3月期）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結: 12,918人 単独: 2,434人 （2024年3月31日現在） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "13,003名（連結／2025年度3月期）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "～誰もが安心してご利用いただけるサービスを目指して～ 歩行訓練士を招いて視覚に障がいのあるお客さまのご案内に関する 研修を開催します",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "京王電鉄は鉄道事業を中心に、安全性向上とサービス向上のための技術開発や設備投資を継続的に実",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トサービスの開始、防犯カメラの全車両・全駅設置完了、座席指定列車 5000 系の増備、改札機の QR",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "も活気とポテンシャルがあるエリア」「日本一安全でサービスの良い持続可能な交通」という長期的",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術を活用した新サービスの商標登録",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な鉄道サービスとしてのブランド価値向上",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「新たな時代に向けた交通の創造」の一環として、デジタル技術の活用により鉄道サービス全体が変",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転技術、 AI 駅サービス、データ分析による運行最適化などの技術開発",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "データや人的ネットワークを活用した新サービス創出につなげます",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "気とポテンシャルがあるエリア」「日本一安全でサービスの良い持続可能な交通」という長期ビジョ",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "旅客案内ディスプレイと鉄道運行情報メール配信サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道関連商品の許諾",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "当時の設備のままで脆弱であったこと、また戦前の京王電気軌道のもう一つの主力であった配電事業が失われたこと、東都乗合自動車（現・",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "グッドデザイン商品",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "3月31日：「列車運行情報サービス」を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "を発行できるサービスを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "3月15日：PASMO電子マネーのサービスを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "交通系ICカード全国相互利用サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "同月16日からサービス提供を開始し、保有する全車両で順次利用可能になった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "（企画乗車券）による乗車サービスの実証実験を開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "2017年4月27日から5月19日まで、この有料座席指定列車の愛称投票を実施し、京王電鉄の新サービスであることをシンプルに表現した「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "」、「smart（気の利いた）」サービスを表現した「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "」、「prime（最上の）」サービスを表現した「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄を中心に54社で構成され、鉄道・バス・タクシーの交通・運輸業、小売・流通業、不動産業、レジャー・サービス業などを展開する",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "など、次世代の移動サービス開発・進出や関東以外の地方での事業展開を進めている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "このディスプレイの設置と並行して、鉄道運行情報メール配信サービスを開始した",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "京王では他の大手私鉄と異なり、ゲームソフトや列車前面展望映像などの商品化許諾は消極的だった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "の「京王電鉄完全データDVDBOOK」付録DVDには京王線の前面展望映像がそれぞれ収録されているので、許諾商品が全くない訳ではなかった",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "など、その他の鉄道グッズの商品化許諾は基本的に実施している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "を受け取れるサービスを2017年12月4日に始めた（対象は6駅）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "京王線・井の頭線の列車内で公衆無線LAN (Wi-Fi) サービスを開始します 〜全車両でのサービス提供に向けて通信環境の整備に着手〜",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月1日（日）から京王線・井の頭線の鉄道乗車ポイントサービスを開始します",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "京王グループで「クレジットカード等のタッチ決済」「QRコード認証」を活用した乗車サービスの実証実験を開始 ～2024年3月25日（月）から、「高尾山きっぷ」を発売～",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "【京王電鉄】全駅でタッチ決済・QRコード認証を活用した乗車サービスの実証実験を11月6日開始",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "と競合し、高速運転によるサービス向上も実施されているが、平日ラッシュ時には相模原線からの直通列車と京王線列車双方の多数の列車が調布駅 - 新宿駅間で運行されており、複々線区間が短い（笹塚駅 - 京王線新宿駅・新線新宿駅間のみ）こともあり、所要時分が長くなってしまう不利な面も持ち合わせている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "阪急が12月にダイヤ改正、2024年には座席指定サービス開始へ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "その代表例が、LINEで忘れ物を探せるサービスだ",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ご紹介の鉄道会社：",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "民鉄各社紹介",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「外部パートナーとの共創」によるまちづくりの推進が「 HIRAKU2030 」の方針として掲げられてお",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、競合他社や技術パートナーとのライセンス",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術の活用、サステナビリティ経営の推進、外部パートナーとの共",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「プラットガール」誕生 〜カメラ女子が高尾山をはじめ、沿線の四季折々の魅力や見どころを紹介します〜",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "セルフ・リライアンス・パートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店や古着店、コワーキングスペースなど多彩な店舗が集まり、賑わいを創出",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年度 過去最多の12駅でホームドア運用開始",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年 5 月 12 日、京王電鉄株式会社は 2025 年度から 2030 年度までの 6 年間を対象とした新たな中期",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年度には、鉄道事業において総額 434 億円の設備投資が計画されています",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年度の設備投資計画では、「 AI 等のデジタル技術を活用」することが明記され",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年度の設備投資計画には「さらなる消費電力削減に資する装置の新設および更新」が含",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1949年5月16日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1922年（大正11年）：",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "が企図した事業であったが、その後の沿革が異なる両線が同一会社となったのは、京王線がまだ",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1948年度は現在の「大手私鉄」の中でも収益は最下位で、",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1989年（平成元年）11月24日：新社章（コーポレートロゴマーク）制定",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1998年（平成10年）7月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1910年9月21日 - 1914年5月11日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1914年5月11日 - 1915年6月24日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1915年6月24日 - 1928年12月18日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1928年12月18日 - 1935年12月18日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1935年12月18日 - 1937年2月5日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1937年2月5日 - 1944年5月30日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1944年5月31日 - 1945年3月12日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1945年3月12日 - 1945年8月20日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1945年8月20日 - 1946年3月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1946年3月1日 - 1947年9月9日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1947年10月16日 - 1948年5月31日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1948年5月29日 - 1957年4月15日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1957年5月18日 - 1969年5月26日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1969年5月26日 - 1975年5月26日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1975年5月26日 - 1982年2月25日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1982年2月25日 - 1986年6月27日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "1930年（昭和5年）「京王電車沿線名所図絵」",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "1971年からは",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度末まで",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2012年8月",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2013年2月22日ダイヤ改正前の京王線新宿駅の発車案内",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2001年のダイヤ改定でそれまでの高尾山口駅発着の急行にかわって",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2015年9月25日のダイヤ改正で日中の橋本駅発着と平日の京王八王子駅発着の特急は準特急に変更された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2018年2月22日のダイヤ改正で初の座席指定列車である",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2018年2月22日のダイヤ改正以降、このような列車の行先は最終的な終着駅を表示したまま変更せず、途中駅で種別の表示のみ変更している",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2018年2月21日までは行先はその種別で運行する区間の終点を表示し、その駅の到着時に新たな行先と種別の表示を両方変更していたが、上りの都営新宿線直通快速・区間急行（本八幡行・大島行）に関しては現在と同じく行先は変更せず、新線新宿駅で種別のみを各駅停車に変更していた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2013年2月22日のダイヤ改定で都営新宿線内は各駅停車と急行の2本立てとなった関係で京王の旅客向け路線案内では快速・区間急行は新線新宿駅から各駅停車になる旨の備考が記されている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月22日からは、京王線新宿行きの京王ライナーも設定された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月22日以降は、朝に新宿駅着の上り列車も運行されている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月18日のダイヤ改正から平日ダイヤは1番線、土休日ダイヤは2番線から発車する",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2013年ダイヤ改定以後の最速所要時間（分単位）は上り38分、下り36分、日中の標準所要時間は上り下り共に42分である",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "1992年から2001年3月のダイヤ改定までは現在と停車駅が異なる",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2018年2月21日までは行き先と種別の表示は両方変えられ、表示も『特急｜高幡不動』→『高幡不動から各停京王八王子行』といった形で切り替えて表示しており、「京王線新宿駅発高幡不動駅行き、高幡不動駅より各停京王八王子駅行き」といった形で案内されていた",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "1982年11月からは順次10両編成車両が充当され",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2001年3月の改定以降は再び他系列も使用されるようになり、現在では全列車が京王電鉄の車両の全車種の10両編成で運転される",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2001年3月のダイヤ改定により新種別の",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2013年1月1日には京王線新宿発高尾山口行の臨時特急「迎光」号が下り1本のみ運転された）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2013年2月22日のダイヤ改定で特急の運行を再開したが、京王線内については分倍河原駅・北野駅が停車駅に加わり、実質的にそれまでの準特急が特急に種別を変更されたものである",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月12日のダイヤ改正では笹塚駅・千歳烏山駅が停車駅に加わったほか、高尾線内が各駅停車となったため、改正前までの準特急と同じ停車駅となり、これに伴い準特急が廃止された",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2006年までは、土曜・休日シーズンダイヤでの高幡不動駅で連結・切り離しを行う京王線新宿駅 - 京王八王子駅・高尾山口駅間の運転、1992年までは一部の特急に「",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2013年2月のダイヤ改定までは日中も運行していたが、現在は朝晩を中心に運行される",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月9日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の売上高は過去最高の5020億円を見込む",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "に、データ利用契約やプラットフォームビジネスモデルに適した知財保護戦略を展開するでしょう",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ホテルの浴槽を活用し、魚と野菜を同時に育てる循環型農業を実現するなど、沿線の飲食店へ食材を供給する新たなビジネスモデルを模索している",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "これは顧客ロイヤルティの向上",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が利用者全てに正しいダイヤとは限らない等の理由からである",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "京王の新宿駅の1日平均利用者数は70万人を超え、",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "の利用者数としては",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   },
+   {
+    "quote": "座席のない広い空間「ひだまりスペース」を設置し、ベビーカーや車いす利用者が気兼ねなく過ごせる設計に",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みが実を結び、井の頭線の利用者は増加",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "駅員が撮影した落とし物の写真をAIが自動で分類・登録し、利用者はスマートフォンから簡単に検索できる仕組みで、返却率は10％から30％へと向上",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者の利便性と業務効率の両立を実現した",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "その結果、競合他社や技術パートナーとのライセンス",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "環境関連技術のパテントプールへの参加や、サステナブル技術のライセンス供与なども",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クロスライセンスなど柔軟な知財活用モデルの導入",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "必要な人財：「安全・安心を基本とし、個の強みに磨きをかけ、失敗を恐れず、変革や挑戦の気",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た知的基盤の確立が、同社の持続的な競争優位性につながると考えられます",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄は他の鉄道事業者と比較して運賃が低廉であり、新宿駅 - 八王子駅（京王八王子駅）間においてはJRが616円なのに対して京王は409円、新宿駅 - 高尾駅間はJRが715円・京王は409円、新宿駅 - 小田急多摩センター駅（京王多摩センター駅）間は小田急が387円・京王は356円となっており（2026年3月現在、いずれも交通系ICカード利用）、運賃の安さは競合他路線に対して強みとなっている",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "京王電鉄株式会社 — ・「京王聖蹟桜ヶ丘SC」のリニューアルを 機に、百貨店と専門店が融合したビジネスモデルの構築を目指す ・京王SCクリエイションとの統合に先駆け、 聖蹟桜ケ丘店勤務の京王百貨店従業員 全員が同社へ出向し、統合に向けた新体制をスタート",
+    "url": "https://www.keio.co.jp/assets/pdf/company/stockholder/individual/company_introduction.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄の中期経営計画「 」にみる知 — この方針に基づき、京王電鉄は「人財確保」「人財育成」「エンゲージメント」「DE&I(ダイバーシティ・エクイティ&インクルージョン)」「組織風土・組織構造」の5つの柱を掲げ、無形資産としての人的資本の強化に取り組んでいます[11]。",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】京王電鉄の財務分析と提言｜リンゴ — Jan 8, 2026 · 現在では、京王電鉄は交通、生活、商業のすべてに関わる企業として位置づけられている。 長い時間をかけて路線と地域を育ててきたことが、今の基盤を作っている。 当研究では、こうした歴史の積み重ねをふまえて、財務の動きや課題を考えていく。",
+    "url": "https://note.com/ringo019/n/n1c95cd190fe2",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略と将来性——京王電鉄 | ひよぺん企業分析 — 「この会社は30年後も大丈夫？ 」という不安に答える。 京王電鉄の成長エンジンと将来性を分析。 3つの成長エンジン 京王線高架化事業（笹塚〜仙川） 踏切25カ所を解消し 沿線価値を大幅に向上。 高架下の商業施設開発で新たな収益源を創出。",
+    "url": "https://research.alteil.net/company/keio/growth-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄の新中期経営計画により、知財・無形資産戦 略はどう変わるか... — 新中期経営計画「HIRAKU2030」の実行に伴い、京王電鉄の知財・無形資産戦略は、従来の「保護・管理」中心から、事業成長に貢献するための「創出・活用」をより重視する方向へと大きく転換すると予測されます。",
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/da96a948c3b911ca06df.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算関連資料 - 株主・投資家（IR） - 京王電鉄 — 決算関連資料ページです。京王電鉄の会社概要、株主・投資家情報、業績・財務情報、IR情報、株式・社債情報などをご覧 ...",
+    "url": "https://www.keio.co.jp/global/company/stockholder/library/account_report/",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄（9008）の決算発表資料一覧 | IRBANK — 京王電鉄（9008）の決算発表資料一覧 β版IRBANKでは、 すべての機能 が無料で使える 新規登録の受付は残り 1 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます",
+    "url": "https://irbank.net/E04092/reports",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄株式会社（9008）適時開示・決算短信 一覧｜毎日更新｜Treela... — Aug 6, 2026 · 京王電鉄株式会社（9008）の適時開示 2 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/9008/conference",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄のIR資料 - 9008 / プライム / 陸運業 | バフェット・コード — 京王電鉄（9008 / プライム / 陸運業）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/9008/library",
+    "pass": 3
+   },
+   {
+    "quote": "決算関連資料 | 株主・投資家（IR） | IR・企業情報 | 京王電鉄 — 決算関連資料ページです。「IR・企業情報」では、会社情報やサステナビリティ、IR情報などの情報をご覧いただけます。",
+    "url": "https://www.keio.co.jp/company/stockholder/library/account_report/",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄 - Wikipedia — 現在の京王電鉄は、 京王線 を営業していた旧 京王電気軌道 と、 小田急電鉄 系列の会社で 井の頭線 を営業していた旧 帝都電鉄 という、元々は 資本 系列の異なる会社が、 第二次世界大戦 時の 陸上交通事業調整法 による戦時統合を経て発足した経緯が ...",
+    "url": "https://ja.wikipedia.org/wiki/京王電鉄",
+    "pass": 3
+   },
+   {
+    "quote": "京王線 - Wikipedia — 京王電鉄の基軸となる路線であり、京王線と並ぶ幹線である 相模原線 [71] や支線である 高尾線 、相互乗り入れを行う 都営地下鉄 新宿線 への直通列車も多数運転される。 なお、相模原線直通列車については、「京王相模原線」を参照されたい。",
+    "url": "https://ja.wikipedia.org/wiki/京王線",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄 — 京王の取り組み 京王電鉄は 「あなたと あたらしい あしたへ」という スローガンのもと安全・安心を届けるとともに、 生活に寄り添い、幸せな暮らしの実現を目指した取り組みを 行っています。",
+    "url": "https://www.keio.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "業務組織 | 会社情報 | IR・企業情報 | 京王電鉄 — 業務組織ページです。「IR・企業情報」では、会社情報やサステナビリティ、IR情報などの情報をご覧いただけます。",
+    "url": "https://www.keio.co.jp/company/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "9008 京王電鉄 | 事業内容 - 有価証券報告書-第103期 (2023/04/01-202... — Apr 1, 2023 · 175項目 事業内容 当社の企業集団は、当社、子会社51社および関連会社7社で構成されており、その営んでいる主要な事業内容は、次のとおりです。 なお、各区分はセグメントの区分と同一であります。 (1) 運輸業 ... (2) 流通業 ... (3) 不動産業 ... (4) レジャー ...",
+    "url": "https://irbank.net/E04092/business?f=S100TQOE",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄株式会社 代表取締役社長・都村智史インタビュー。 共創パー... — 様々な事業を展開する中、基幹事業である鉄道事業での変革を掲げ、共創パートナーを募集している。 なぜ、「今」鉄道事業の変革が必要なのか。 鉄道事業の課題や、このプログラムにかける思いを京王電鉄代表取締役社長の都村智史さんに伺いました。",
+    "url": "https://www.keio.co.jp/railroad/keio-open-innovation/assets/pdf/news-220719.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月9日 放送 京王電鉄 社長 都村 智史 （つむら さとし）氏 ｜... — そして後から思うと、京王電鉄そのものが私にとって、懐かしく、それでいて現役で、たまに抜けているところがあったりして、でも時々会い ...",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "pass": 3
+   },
+   {
+    "quote": "「できない理由より、どうしたらできるか」――京王電鉄・都村社長が語... — Aug 5, 2026 · 京王電鉄の都村智史代表取締役社長に話を伺った。 人口動態やライフスタイルが変化する中、鉄道会社に求められるのは「江戸時代の長屋の大家さん」のような地域密着の顔役としての役割だと語る。",
+    "url": "https://www.diamondv.jp/article/epaZQveZKEM2UV6RJWfRYa",
+    "pass": 3
+   },
+   {
+    "quote": "人気低迷路線から“攻めの経営”でV字回復～京王電鉄 都村智史社長～【... — Apr 9, 2026 · 未公開インタビューでは鉄道会社“試練の時代”ながら売り上げ好調の要因や、沿線の価値を上げる“街づくり戦略”など、人気低迷路線からV字回復を果たした舞台裏について聞いています。",
+    "url": "https://txbiz.tv-tokyo.co.jp/cambria/vod/post_338505",
+    "pass": 3
+   },
+   {
+    "quote": "京王電鉄の社長と語り尽くす！ V字回復を果たした“攻めの経営術”とは... — Apr 9, 2026 · ゲストは、人気低迷路線ながら攻めの経営術でV字回復を果たした、京王電鉄の都村智史社長。 鉄道以外の分野へのチャレンジを厭わない精神や今後の京王線の展望など、ここでしか聞けない話が盛りだくさん。",
+    "url": "https://txbiz.tv-tokyo.co.jp/cambria/vod/post_338506",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mintetsu.or.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.keio.co.jp/assets/pdf/company/stockholder/individual/company_introduction.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keio.co.jp/global/company/stockholder/library/account_report/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://irbank.net/E04092/reports",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%89%84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%8E%8B%E7%B7%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keio.co.jp/railroad/keio-open-innovation/assets/pdf/news-220719.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "京王電鉄",
+   "results": [
+    "https://ja.wikipedia.org/wiki/京王電鉄",
+    "https://ja.wikipedia.org/wiki/京王線",
+    "https://en.wikipedia.org/wiki/Keio_Corporation",
+    "https://www.keio.co.jp/",
+    "https://www.keio.co.jp/train/",
+    "https://finance.yahoo.co.jp/quote/9008.T",
+    "https://x.com/keiopr_official"
+   ]
+  },
+  {
+   "query": "株式会社京王電鉄",
+   "results": [
+    "https://ja.wikipedia.org/wiki/京王電鉄",
+    "https://ja.wikipedia.org/wiki/京王グループ",
+    "https://en.wikipedia.org/wiki/Keio_Corporation",
+    "https://www.keio.co.jp/",
+    "https://www.keio.co.jp/company/corporate/summary/",
+    "https://www.mintetsu.or.jp/corporates/keio/index.html",
+    "https://www.keio-bus.com/outline/gaiyo/dentetsu.html"
+   ]
+  },
+  {
+   "query": "京王電鉄 ビジネスモデル",
+   "results": [
+    "https://www.keio.co.jp/assets/pdf/company/stockholder/individual/company_introduction.pdf",
+    "https://yorozuipsc.com/uploads/1/3/2/5/132566344/48d3c92eaf96678c87b3.pdf",
+    "https://note.com/ringo019/n/n1c95cd190fe2",
+    "https://research.alteil.net/company/keio/growth-strategy/",
+    "https://yorozuipsc.com/uploads/1/3/2/5/132566344/da96a948c3b911ca06df.pdf",
+    "https://consovation.com/京王電鉄のビジネスモデルとir資料から読み解く魅/",
+    "https://www.keio.co.jp/company/stockholder/policy/businessplan/"
+   ]
+  },
+  {
+   "query": "京王電鉄 決算説明資料",
+   "results": [
+    "https://www.keio.co.jp/global/company/stockholder/library/account_report/",
+    "https://irbank.net/E04092/reports",
+    "https://treelazy.com/stock-jp/9008/conference",
+    "https://www.buffett-code.com/company/9008/library",
+    "https://www.keio.co.jp/company/stockholder/library/account_report/",
+    "https://edinetdb.jp/company/E04092/presentations/",
+    "https://irbank.net/9008/ir"
+   ]
+  },
+  {
+   "query": "京王電鉄 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/京王電鉄",
+    "https://ja.wikipedia.org/wiki/京王線",
+    "https://www.keio.co.jp/",
+    "https://www.keio.co.jp/company/corporate/organization/",
+    "https://irbank.net/E04092/business?f=S100TQOE",
+    "https://japanir.jp/wp-content/uploads/2026/06/9008-20260625-01.pdf",
+    "https://www.keio-setsubi.co.jp/company/organization.html",
+    "https://mit-hd.co.jp/ir-information/keito/",
+    "https://www.keio.co.jp/company/corporate/"
+   ]
+  },
+  {
+   "query": "京王電鉄 社長 インタビュー",
+   "results": [
+    "https://www.keio.co.jp/railroad/keio-open-innovation/assets/pdf/news-220719.pdf",
+    "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/0409/",
+    "https://www.diamondv.jp/article/epaZQveZKEM2UV6RJWfRYa",
+    "https://txbiz.tv-tokyo.co.jp/cambria/vod/post_338505",
+    "https://txbiz.tv-tokyo.co.jp/cambria/vod/post_338506",
+    "https://x.com/shacho_meikan/status/2115021755291201847",
+    "https://www.keio.co.jp/assets/pdf/keio-open-innovation/2022/tsumura_shacho_interview.pdf"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索6回）"
+ }
+}

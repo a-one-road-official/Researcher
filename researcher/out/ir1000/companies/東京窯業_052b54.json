@@ -1,0 +1,823 @@
+{
+ "name": "東京窯業",
+ "aliases": [],
+ "context": "証券コード5363／ガラス・土石製品／スタンダード（内国株式）／2026.03期 売上高31,485百万円 営業利益率10.9%",
+ "researched_at": "2026-11-02T20:41:33.684257+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "4.3%",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "8.0%",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "21,557,993 4,650,065 4,418,531 896,451 31,523,042 410,388 31,933,430",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "4,542,219 12,053 75,890 47,390 4,677,553 1,109,120 5,786,674",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "21,726,051 4,069,568 4,518,893 829,417 31,143,931 340,632 31,484,563",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "4,131,448 2,732 83,797 67,643 4,285,621 1,215,368 5,500,990",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "前連結会計年度 当連結会計年度",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "「その他」の区分の売上高",
+    "value": "1,519,509 1,556,000",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "label": "連結財務諸表の売上高",
+    "value": "31,933,430 31,484,563",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "会社創立",
+    "value": "昭和22年（1947年）2月5日",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "927名／400名　（2026年3月 連結／単体 従業員数）",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "を解決するというTYKビジネスモデルの徹底により、新素材事業の中核を担う電子部品・環境関連セラミックス",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 今後拡大が見込まれる高付加価値の鋼生産市場においてTYKビジネスモデルの強みを発揮",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の抱えている課題を解決するというTYKビジネスモデルの徹底により、",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TYKビジネスモデルの徹底により、従来領域での売上拡大",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（事業系統図）",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上述べた事項を事業系統図によって示すと次の通りであります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "耐火物・ファインセラミックス事業で培った先端技術を用い、お客様と共にお客様の抱えている課題を解決するというTYKビジネ",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "► 従来領域である耐火物・ファインセラミックス事業で培った先端技術と、お客様と共にお客様の抱えている課題",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 鉄鋼産業向けは、お客様の鋼の品質、生産性向上といった耐火物への高度なニーズに真摯に",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向き合い、製品の開発から製造、アフターフォローまでを徹底し、お客様へ貢献",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "► 鉄鋼産業向け耐火物事業は、高級鋼・特殊鋼等付加価値の高い鋼を生産するお客様の鋼品質向上への",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様への誠意と新しい技術への挑戦",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物・ファインセラミックス事業で培った先端技術を用い、お客様と共に",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の抱えている課題を解決するというTYKビジネスモデルの徹底により、",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "► 新素材事業は大規模投資による生産量拡大、新製品の開発を実施し、お客様の新たなニーズに対応",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "-高級鋼、特殊鋼等高付加価値鋼生産のお客様が",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "-お客様と共にお客様の抱えている課題を解決するという",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題に対して、新製品で対応し、そのニーズに",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様の潜在的な課題を",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象をお客様使用後耐火物まで拡大",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 粗鋼生産量による影響を受けやすい市況産業であり、従来からお客様の操業状況や業界動向を注視し、単年度",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建築、修繕等については、㈱中日ホームが当社グループ及び一般顧客へ販売しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの経営成績に重要な影響を与える要因として、お客様における生産販売状況や、アルミナやジルコニア等の原料や重油・ブタンガス等の燃料の調達コストの変動、そして当社の技術力維持・向上のために不可欠な人材の慢性的な不足が挙げられます",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高の内、特定の顧客への売上高が連結損益計算書の売上高の10％に満たないため、主要な顧客ごとの情報の記載を省略しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "向き合い、製品の開発から製造、アフターフォローまでを徹底し、お客様へ貢献",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "燃焼用、水素燃焼用耐火物等、この分野においても技術革新により製品開発を推進",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品化を推進",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 抗菌製品による環境改善への取り組み",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "► 新素材事業は環境関連等の次世代産業向け製品を主としており成長性の高い事業が中心",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な製品事業",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "► 新素材事業は大規模投資による生産量拡大、新製品の開発を実施し、お客様の新たなニーズに対応",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "-新製品の開発/市場投入",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題に対して、新製品で対応し、そのニーズに",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "-高度化する新たなニーズに対して新製品で応える",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新製品の開発/市場投入",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 本資料は、金融商品取引法上のディスクロージャー資料",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "窯業・土石製品",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "東窯運送（株）（現：トーヨー流通サービス）を設立",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）TYK情報サービスを設立",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他、環境関連製品、窯業機械器具製造、建築、修繕、運輸他の事業を行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "明智セラミックス㈱、㈱ユーセラミック、㈱水野セラミックスは、上記の製品を製造し、当社が販売を行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "ＴＹＫアメリカINC.は、北米において耐火煉瓦、不定形耐火物の製造販売を行い、当社の製品の販売も行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "ＴＹＫヨーロッパGmbH（ドイツ）は、ヨーロッパにおいてＴＹＫ Ltd.の製品及び当社の製品の販売を行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "台湾東京窯業股份有限公司は、アジアにおいて耐火煉瓦、不定形耐火物の製造販売を行い、当社の製品の販売も行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "環境関連製品については、当社が廃棄物のリサイクルのための機器、リサイクル製品の販売を行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "運輸については、㈱トーヨー流通サービスが主として当社グループの製品の輸送を行っております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品である製鋼用耐火物をはじめ、ファインセラミックス等の先端材料技術や環境創造技術へ挑戦し、コスト削減など経営合理化を進めて参りました",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "各々の現地法人はそれぞれ独立した経営単位であり、取り扱う製品については各地域の包括的な戦略を立案し、事業活動を展開しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、環境関連製品、窯業機械器具、建築、修繕、運輸等を含んでおります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "3会社概要｜セグメント概要",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10セグメント別成長戦略",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、次の４つの区分は「第５ 経理の状況 １ 連結財務諸表等 (1)連結財務諸表 注記事項」に掲げるセグメントの区分と同一であります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は次の通りであります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売構成の変化により、セグメント利益は30億88百万円（前期比22.1％減）となりました",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "関税政策の影響等により、セグメント利益は2億92百万円（前期比33.4％減）となりました",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は3億96百万円（前期比12.1％増）となりました",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は70百万円（前期比46.4％減）となりました",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、セグメント利益は1億11百万円（前期比13.5％減）となりました",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次の通りであります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント（耐火物関連事業）計（千円）",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の受注実績をセグメントごとに示すと、次の通りであります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次の通りであります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１.セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社は、生産・販売体制を基礎とした地域別のセグメントから構成されており、「日本」、「北米」、「ヨーロッパ」及び「アジア」の４つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "• 今後拡大が見込まれる高付加価値の鋼生産市場においてTYKビジネスモデルの強みを発揮",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "► 耐火物事業の安定収益を基に、高収益・高成長が期待できる新素材事業への挑戦によって目標達成を目指す",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率(FY28)",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うち高収益・高成長企業の実現に向けて新素材事業に重点投資",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 取締役会の実効性を更に向上させるため、強みの伸長や問題点の改善等について継続的な取組みが必要",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2023年度（予想） 2028年度（目標）",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 11月14日",
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革-企業情報｜株式会社TYK",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "昭和22年（1947年）2月5日",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東京窯業 (5363) の企業概要・業績・財務・IR資料 — 東京窯業 (5363) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/5363",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 (株)( TYK CORPORATION)【東証スタンダード上場】 — 東京窯業 (株)( TYK CORPORATION)【東証スタンダード上場】 マイナビ https://job.mynavi.jp > corp73978 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp73978/recruiting_course27042422/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 （5363）の 決算 発表 資料 一覧 - IRBANK — 東京窯業 （5363）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > ガラス・土石製品 > 東京窯業",
+    "url": "https://irbank.net/E01149/reports",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 【5363】の 事業 内容 - キタイシホン — 東京窯業 【5363】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5363/business",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 (株)( TYK CORPORATION)【東証スタンダード上場】 — 東京窯業 (株)( TYK CORPORATION)【東証スタンダード上場】 マイナビ https://job.mynavi.jp > search > corp73978 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp73978/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 の企業情報 - 5363 / ｽﾀﾝﾀﾞｰﾄﾞ / ガラス・土石製品 — 東京窯業 の企業情報 - 5363 / ｽﾀﾝﾀﾞｰﾄﾞ / ガラス・土石製品 バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/5363/",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 (株)( TYK CORPORATION)【東証スタンダード上場】 — 東京窯業 (株)( TYK CORPORATION)【東証スタンダード上場】 マイナビ https://job.mynavi.jp > search > corp73978 > premium",
+    "url": "https://job.mynavi.jp/28/pc/search/corp73978/premium.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京窯業 【5363】の 社長 ・役員 - キタイシホン — 東京窯業 【5363】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5363/board-of-director",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "pass": 3
+   },
+   {
+    "quote": "スペインINCOTECNICA社に代理店契約",
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.crex-data.com/company/5363",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tyk.co.jp/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tyk.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5363/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagoya.ryosui.jp/42assault-interview-andou31/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tyk.co.jp/recruit/training/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京窯業",
+   "results": [
+    "https://www.tyk.co.jp/company/company.html",
+    "https://tyk.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AA%AF%E6%A5%AD",
+    "https://job.mynavi.jp/27/pc/search/corp73978/outline.html",
+    "https://kabutan.jp/stock/?code=5363",
+    "https://doda.jp/DodaFront/View/Company/j_id__10004216624/",
+    "https://visionguide.jp/corp/tyk/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrCV",
+    "https://ja.wikipedia.org/wiki/東京窯業",
+    "https://www.kensetumap.com/company/31164/profile.php"
+   ]
+  },
+  {
+   "query": "株式会社東京窯業",
+   "results": [
+    "https://www.tyk.co.jp/company/company.html",
+    "https://tyk.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AA%AF%E6%A5%AD",
+    "https://job.mynavi.jp/28/pc/search/corp73978/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10004216624/",
+    "https://en-hyouban.com/company/10004216624/",
+    "https://www.buffett-code.com/company/5363/",
+    "https://job.mynavi.jp/27/pc/search/corp73978/premium.html",
+    "https://ja.wikipedia.org/wiki/株式会社東京証券取引所",
+    "https://ja.wikipedia.org/wiki/東京窯業"
+   ]
+  },
+  {
+   "query": "東京窯業 株式会社",
+   "results": [
+    "https://tyk.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AA%AF%E6%A5%AD",
+    "https://job.mynavi.jp/27/pc/search/corp73978/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10004216624/",
+    "https://visionguide.jp/corp/tyk/",
+    "https://ja.wikipedia.org/wiki/東京産業株式会社",
+    "https://ja.wikipedia.org/wiki/東京窯業",
+    "https://www.tyk.co.jp/company/company.html",
+    "https://eigyo-go.com/company/2732208",
+    "https://job.mynavi.jp/28/pc/search/corp73978/outline.html"
+   ]
+  },
+  {
+   "query": "東京窯業 ビジネスモデル",
+   "results": [
+    "https://www.tyk.co.jp/common/file/companyinfo/2024-2028_management_plan.pdf",
+    "https://www.crex-data.com/company/5363",
+    "https://note.com/good_abelia4787/n/n7df9b4e8ee67",
+    "https://job.mynavi.jp/27/pc/search/corp73978/recruiting_course27042422/recruiting_course.html",
+    "https://t-yog.com/notorp/aboutus.html",
+    "https://kitaishihon.com/company/5363/business",
+    "https://www.buffett-code.com/company/5363/",
+    "https://tyk.co.jp/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10004216624/",
+    "https://ja.wikipedia.org/wiki/東京窯業"
+   ]
+  },
+  {
+   "query": "東京窯業 決算説明資料",
+   "results": [
+    "https://www.tyk.co.jp/ir.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5363",
+    "https://irbank.net/E01149/reports",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=5363",
+    "https://kabutan.jp/stock/finance?code=5363",
+    "https://kitaishihon.com/company/5363/ir-library",
+    "https://minkabu.jp/stock/5363/settlement",
+    "https://www.tyk.co.jp/common/file/companyinfo/Briefing_TYK_106th_FY.pdf",
+    "https://www.buffett-code.com/company/5363/library",
+    "https://irbank.net/5363/ir"
+   ]
+  },
+  {
+   "query": "東京窯業 事業系統図",
+   "results": [
+    "https://www.tyk.co.jp/company/company.html",
+    "https://kitaishihon.com/company/5363/business",
+    "https://job.mynavi.jp/28/pc/search/corp73978/outline.html",
+    "https://t-yog.com/notorp/aboutus.html",
+    "https://www.buffett-code.com/company/5363/",
+    "https://www.mino-ceramic.co.jp/about/organization/",
+    "https://jigyou-v2.kabu-trendpro.com/company/5363/",
+    "https://salesnow.jp/db/companies/jcbru5un1n05ns25",
+    "https://irbank.net/E01149",
+    "https://irbank.net/E01149/business?f=S100W66G"
+   ]
+  },
+  {
+   "query": "東京窯業 社長 インタビュー",
+   "results": [
+    "https://nagoya.ryosui.jp/42assault-interview-andou31/",
+    "https://www.tyk.co.jp/recruit/training/index.html",
+    "https://t-yog.com/notorp/aboutus.html",
+    "https://job.mynavi.jp/28/pc/search/corp73978/premium.html",
+    "https://kitaishihon.com/company/5363/board-of-director",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrCV",
+    "https://www.tyk.co.jp/company/company.html",
+    "https://jobtalk.jp/companies/1735",
+    "https://www.chunichi.co.jp/article/794695",
+    "https://ja.wikipedia.org/wiki/東京窯業"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "お金の形": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

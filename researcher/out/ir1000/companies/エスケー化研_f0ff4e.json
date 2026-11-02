@@ -1,0 +1,1767 @@
+{
+ "name": "エスケー化研",
+ "aliases": [],
+ "context": "証券コード4628／化学／スタンダード（内国株式）／2026.03期 売上高109,707百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:35:58.757011+00:00",
+ "official_url": "https://www.sk-kaken.co.jp/",
+ "identified_by": "search:yahoo_jp:エスケー化研",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "昭和33年4月17日",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1958年4月",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （連結）",
+    "value": "1,097億7百万円（2026年3月期）",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "93,520 10,733 104,253 1,888 106,142 － 106,142",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "2 － 2 2 5 △5 －",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "96,168 11,672 107,841 1,866 109,707 － 109,707",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "1 － 1 2 4 △4 －",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "828億7,200万円（2013年3月期）",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数 （連結）",
+    "value": "2,404名",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1,782名",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "建築仕上塗材事業 有機無機水系塗材、合成樹脂塗料、無機質系塗材、高級内装装飾材、高意匠性内外シート建材、無機質建材の製造販売及び特殊仕上工事の請負 耐火断熱材事業 断熱材、耐火被覆材、耐火塗料の製造販売及び耐火断熱工事の請負 その他の事業 各種化成品の製造販売",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "建築仕上塗材事業（有機無機水性塗料･塗材、合成樹脂塗料、特殊塗料、無機質系塗材、シート建材、無機質建材の製造販売および特殊仕上工事の請負）、耐火断熱事業（無機断熱材、耐火被覆材、耐火塗料の製造販売および耐火断熱工事の請負）、その他の事業（各種化学化成品の製造販売）",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分類から探す",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品・各種資料",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "防火材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS表示製品",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ピックアップ",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレミアム品質の製品が充実のラインアップ！",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品採用事例",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選された高付加価値製品群",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分類から探す",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品・各種資料",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "防火材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS表示製品",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分類から探す",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品・各種資料",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "防火材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS表示製品",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "※製品に関するご質問は、最寄の各営業所へお問合せ下さい",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "マークのある支店・営業所は、製品調色の製造作業を実施している事業所となります",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "調色サービスステーション（SS）一覧",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分類から探す",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品・各種資料",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "防火材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS表示製品",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪市北区において四国化学研究所を創立し、塗料用廃液溶剤類の蒸留精製、建築用塗料製品の製造販売を始める",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄部用塗料 | 製品情報 | エスケー化研株式会社 - 建築用塗料・建築仕上材の総合メーカー",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分類から探す",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品・各種資料",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "防火材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS表示製品",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "防⽕材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "≫ 製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧（50音順）",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分類から探す",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品・各種資料",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "防火材料認定製品",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS表示製品",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "規格/認定製品",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和33年4月17日",
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | エスケー化研株式会社",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期有価証券報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期有価証券報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 半期報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期有価証券報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算短信［日本基準］（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期決算短信［日本基準］（連結）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第70期）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 半期報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第69期）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 有価証券報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 半期報告書",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第68期）",
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "いては、シンナーをはじめとする資材の品薄や今後の価格高騰を懸念した取引先による駆け込み需要と見られる受注",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 22,979 2,783 25,763 445 26,208 － 26,208",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 28,088 2,967 31,055 698 31,753 － 31,753",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の販売を強化し、既存取引先の深耕と新規開拓を強力に推進い",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "して、 今後もお客様へのサー",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すでに多く のお客様",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、全ての面において信頼と誠実の仕事の展開を第一に、あらゆるサービスを一層充実させ、「多くの顧客に",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客に対するサービスの向上",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このように、販売から施工、完成までをフォローし、顧客に対して満足のいく仕上げを提供していくことが、",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「快適」「健康」「安全」「安心」のテーマの需要開発に努めると共に、「多くの顧客に利益と喜びを与え、社会",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの人材育成方針は、経営戦略と連動した人材戦略を執行するにあたり、多様化する顧客ニーズに",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主要な取引先は、販売代理店、建設会社、住宅メーカー等であり、設計事務所に提案活動を行",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのため、各事業拠点の顧客ニーズに応じたＯＪＴを中心とした社員教育と定期的な社内研修を行っておりま",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．総売上の10％以上を占める販売先はありません",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も、新築・改修市場の双方において顧客満足度向上を図るとともに、シェア拡大及び建築物の資産価値向上に",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取引先との総合的な関係の維持・強化の手段の一つとして保有する株式を純投資目的以外の目的であ",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は取引先等との良好な関係を構築し、事業の円滑な推進を図るため、また、中長期的に社会的価値、",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、「多くの顧客に利益と喜びを与え、社会に貢献することを最大の使命」とする経営理念や",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、顧客が当該製品に対する支配を獲得した時点で収益を認識しておりますが、国内での販売においては、出荷",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "時から顧客による検収時までの期間が通常の期間である場合には、出荷時に収益を認識しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益は顧客との契約において約束された対価から返品、値引き及び割戻し等を控除した金額で測定しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "履行義務の充足に係る進捗率の見積りは、顧客との契約における義務",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を履行するにつれて顧客が便益を享受すると考えられるため、契約上の総出来高に対する実際出来高の割合（ア",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ 受取手形及び売掛金のうち、顧客との契約から生じた債権の金額は、それぞれ以下のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ 顧客との契約から生じる収益",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高については、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金、電子記録債権は、顧客の信用リスクに晒されております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 信用リスク（取引先の契約不履行等に係るリスク）の管理",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、営業債権について、事業本部が取引先の状況を定期的にモニタリングし、取引先毎に与信残高を",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、投資有価証券については、定期的に時価や発行体（取引先企業）の財務状況等を把握し、市況や",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先企業との関係を勘案して保有状況を継続的に見直しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "被覆材・断熱材などの販売を強化し、既存取引先の深耕と新規開拓を強力に推進いたします",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いては、顧客が当該製品に対する支配を獲得した時点で収益を認識しておりますが、国内での販売におい",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、出荷時から顧客による検収時までの期間が通常の期間である場合には、出荷時に収益を認識してお",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、収益は顧客との契約において約束された対価から返品、値引き及び割戻し等を控除した金",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "履行義務の充足に係る進捗率の見積りは、顧客との契約",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "における義務を履行するにつれて顧客が便益を享受すると考えられるため、契約上の総出来高に対する実",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金、電子記録債権は、顧客の信用リスクに晒されております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・信用リスク（取引先の契約不履行等に係るリスク）の管理",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、営業債権について、事業本部が取引先の状況を定期的にモニタリングし、取引先ごとに与信",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、投資有価証券については、定期的に時価や発行体（取引先企業）の財務状況等を把握し、市",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "況や取引先企業との関係を勘案して保有状況を継続的に見直しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 96,168 11,672 107,841 1,866 109,707",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いため、取引先金融機関から提示された価格等に基づき算定しており、レベル２の時価に分類して",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑴ 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権（期首残高） 21,730",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権（期末残高） 21,754",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑵ 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は主に、製品の引渡前に顧客から受け取った対価であり、履行義務を充足した時点で収益に振り",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権及び契約負債は以下のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から顧客による検収時までの期間が通常の期間である場合には、出荷時に収益を認識しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益は顧客との契約において約束された対価から返品、値引き及び割戻し等を控除した金額で測定しており",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "履行義務の充足に係る進捗率の見積りは、顧客との契約にお",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ける義務を履行するにつれて顧客が便益を享受すると考えられるため、契約上の総出来高に対する実際出来",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（顧客との契約から生じる収益を理解するための基礎となる情報）",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ウェブサイトは、英国FCAが定めるプロ顧客ならびに適格取引先のみを対象としています",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/painting-a-better-sk-kaken/",
+    "pass": 3
+   },
+   {
+    "quote": "２．総売上の10％以上を占める販売先はありません",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 7",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、52億50百万円（同69.3％増）と前年同四半期に比べて21億49百万円の増益となりました",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、５億31百万円（同29.1％増）となり、前年同四半期に比べて１億19百万円の増益と",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、１億74百万円（同196.1％増）と前年同四半期に比べて１億15百万円の",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 3,101 411 3,512 58 3,571 △751 2,820",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、各種化成品、洗浄剤等",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額は、各報告セグメントに配分していない全社費用△751百万円、セグメン",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 5,250 531 5,781 174 5,955 △756 5,198",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額は、各報告セグメントに配分していない全社費用△757百万円、セグメン",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期純利益 事業区分別売上高構成比",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、131億14百万円（同2.2％減）と前連",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、２億24百万円（同41.3％増）と",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、次の３部門は「第５ 経理の状況 １連結財務諸表等 (1)連結財務諸表 注記事項」に掲げるセグメント",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．主要な事業の内容欄には、セグメントの名称を記載しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建築仕上塗材事業は、売上高961億68百万円（同2.8％増）、セグメント利益131億14百万円（同2.2％減）とな",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "耐火断熱材事業は、売上高116億72百万円（同8.8％増）、セグメント利益17億86百万円（同14.2％増）となり",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の事業は、売上高18億66百万円（同1.2％減）、セグメント利益２億24百万円（同41.3％増）となりまし",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計（百万円） 107,657 102.8",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計（百万円） 107,841 103.4",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの財政状態及び経営成績の状況に関する認識及び分析・検討内容は次のとおりであります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は131億14百万円（同2.2％減）と前連結会計年度",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産は前連結会計年度末に比べて16億58百万円減少し、",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産は前",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は２億24百万円（同41.3％増）と前連結会計年度に比べて65百万円の増益とな",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産は前連結会計年度末に比べて１億30百万円減少し、15億84百万円となりました",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 当連結会計年度 前年同期比（％）",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計（百万円） 3,856 270.1",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（所在地） セグメントの名称 設備の内容",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名（所在地） セグメントの名称 設備の内容",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（所在地） セグメントの名称 設備の内容 従業員数（人） 土地面積（㎡） 建物面積（㎡） 年間賃借料又はリース料（百万円）",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数（人）",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 金 額 増減率",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）「その他」の区分は、報告セグメントに含まれない事業セグメントであり、各種化成品、洗浄剤等",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、次の３部門は「第５ 経理の状況 １連結財務諸表等 (1)連結財務諸表 注記事項」に掲げるセグメント情報の区分と同一であります",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "建築仕上塗材事業は、売上高961億68百万円（同2.8％増）、セグメント利益131億14百万円（同2.2％減）となりました",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "耐火断熱材事業は、売上高116億72百万円（同8.8％増）、セグメント利益17億86百万円（同14.2％増）となりました",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他の事業は、売上高18億66百万円（同1.2％減）、セグメント利益２億24百万円（同41.3％増）となりました",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "※商品の一例をご紹介",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このため、設計事務所や建設会社、販売店、施工店向けにセ",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主要な取引先は、販売代理店、建設会社、住宅メーカー等であり、設計事務所に提案活動を行",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すると、イギリス資本の販売代理店を紹介してもらえたんです",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐにシンガポールに駐在しているイギリス人社長に会いに行ったところ、無事に代理店契約を結ぶことができました",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "めるとともに、新築市場のみならず、膨大なストックを有する",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後、高齢化や人口減少が加速していきますが、建造物や住宅のストックは膨大なものがあり、その改修需要を",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "場だけでなく、膨大な住宅等のストックを有するリニューアル市場において改修需要を創造していくことで対応に努",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループが販売しております汎用製品におきましては、価格競争が厳しく、その対応によりましては販売単価",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設備保守、また、安全のための設備投資等を行っております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の報酬年額は300百万円以内（使用人兼務取締役の使用人給与は含まない",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）、監査等委員である取締役の報酬年額は30百万円以内（定款で定める監査等委員",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "67期定時株主総会において、年額300百万 円以内（使用人兼務取締役の使用人分給与は含まな",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の報酬額を年額400百万円以内と改めさせ",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて、年額30百万円以内とご承認いただき現在に至っておりますが、その後の経済情勢の変",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化など諸般の事情を考慮して、 監査等委員である取締役の報酬額を年額40百万 円以内と改めさ",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ず、膨大なストックを有するリニューアル市場を見据え、技術革新を背景とした製品の拡販に注",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．取締役の金銭報酬の額は、2023 年６月29日開催の第67期定時株主総会において年額300 百万円以",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況下、当社グループは、徹底した経費削減に努めるとともに、新築市場のみならず、膨大なストックを有するリニューアル市場を見据え、技術革新を背景とした製品の拡販に注力してまいりました",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社グループは、売上高、営業利益率を目標の達成状況を判断するための重要な指標の一つと捉えております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の目標は、売上高1,090億円、営業利益率は11.7％です",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は、収益性を測る指標であり、新需要、新製品の開発等によって市場競争力を保持し、また新技術の",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、多くの石油化学製品を原材料として使用しており、十分な在庫を保持しております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、売上高、営業利益率を目標の達成状況を判断するための重要な指標と考えております",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会計年度の売上高の目標1,090億円に対して実績1,097億７百万円、営業利益率の目標11.7％に対して実績11.1％と",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円、営業利益率の目標11.7％、実績11.1％等 であります",
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、売上高、営業利益率を目標の達成状況を判断するための重要な指標と考えております",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の売上高の目標1,090億円に対して実績1,097億７百万円、営業利益率の目標11.7％に対して実績11.1％となりました",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "大量の不良在庫も抱えてしまい、大打撃を受けました",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "エスケー化研は、優れたビジネスモデルを有し、国内の建築用塗料市場で支配的なシェアを誇っているにもかかわらず、EV/EBIT倍率は0.0倍以下、PBR（株価純資産倍率）も僅か0.7倍です",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/painting-a-better-sk-kaken/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エスケー化研 の企業情報 | CFN（CareerForum.Net） — エスケー化研 の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail",
+    "url": "https://careerforum.net/ja/company_list/5059/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 に株主提案 創業家の少数株主軽視がもたらす6 ... — エスケー化研 に株主提案 創業家の少数株主軽視がもたらす6 ... PR TIMES https://prtimes.jp > その他",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000055611.html",
+    "pass": 3
+   },
+   {
+    "quote": "【低PBR株】 エスケー化研 （4628）vs 菊水化学工業（7953） — 【低PBR株】 エスケー化研 （4628）vs 菊水化学工業（7953） note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/kabutabi2000/n/n28b195740376",
+    "pass": 3
+   },
+   {
+    "quote": "仕事と挑戦 | 採用情報 | エスケー化研 株式会社 — 仕事と挑戦 | 採用情報 | エスケー化研 株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > 採用情報",
+    "url": "https://www.sk-kaken.co.jp/recruit/work-and-challenge/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 のご報告 アーカイブ | エスケー化研 株式会社 — 決算 のご報告 アーカイブ | エスケー化研 株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > library > business-report",
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | エスケー化研 株式会社 — IR情報 | エスケー化研 株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > ...",
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 アーカイブ | エスケー化研 株式会社 - 建築用塗料 ... — 決算 短信 アーカイブ | エスケー化研 株式会社 - 建築用塗料 ... エスケー化研株式会社 https://www.sk-kaken.co.jp > library > financial-report",
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスケー化研 】[4628] 決算 発表や業務・財務情報 | 日経電子版 — 【 エスケー化研 】[4628] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4628",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 【4628】のIR 資料 - バフェット・コード — エスケー化研 【4628】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/4628/library",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 株式会社 - 建築用塗料・建築仕上材の総合メーカー — エスケー化研 株式会社 - 建築用塗料・建築仕上材の総合メーカー エスケー化研株式会社 https://www.sk-kaken.co.jp",
+    "url": "https://www.sk-kaken.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 【4628】の 事業 内容 - キタイシホン — エスケー化研 【4628】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4628/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内拠点 | エスケー化研 株式会社 — 国内拠点 | エスケー化研 株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > business-bases",
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 ,塗料,塗料図鑑 (1/ 16 ) - 小林塗装へ — エスケー化研 ,塗料,塗料図鑑 (1/ 16 ) - 小林塗装へ yuzu-tosou.com https://www.yuzu-tosou.com > 塗料検索 > 塗料のメーカー",
+    "url": "https://www.yuzu-tosou.com/category/paint_search/paint_maker/skkaken/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 - Wikipedia — エスケー化研 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > エスケー化研",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E5%8C%96%E7%A0%94",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 株式会社 代表取締役 社長 藤井 實 - 経営者通信 — エスケー化研 株式会社 代表取締役 社長 藤井 實 - 経営者通信 経営者通信Online https://k-tsushin.jp > interview > skkaken",
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 からのご挨拶 | 採用情報 | エスケー化研 株式会社 — 社長 からのご挨拶 | 採用情報 | エスケー化研 株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > 採用情報",
+    "url": "https://www.sk-kaken.co.jp/recruit/message/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | 採用情報 | エスケー化研 株式会社 — 社員 インタビュー | 採用情報 | エスケー化研 株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > 採用情報",
+    "url": "https://www.sk-kaken.co.jp/recruit/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケー化研 【4628】の 社長 ・役員 - キタイシホン — エスケー化研 【4628】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/4628/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sk-kaken.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/business-bases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/product/iron-parts-paint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/library/securities-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/library/agm-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/ir/library/electronic-public-notice/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260807-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/70kessan_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260626__resolution_notice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260625_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260602.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260513-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-kaken.co.jp/wp/wp-content/uploads/20260513-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/painting-a-better-sk-kaken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careerforum.net/ja/company_list/5059/company_detail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4628/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k-tsushin.jp/interview/skkaken/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エスケー化研",
+   "results": [
+    "https://www.sk-kaken.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E5%8C%96%E7%A0%94",
+    "https://www.paint-city.com/item/42/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00004930823/",
+    "https://ja.wikipedia.org/wiki/エスケー化研",
+    "https://www.sk-kaken.co.jp/product/",
+    "https://sk-chemical.co.jp/",
+    "https://fai.sk-kaken.co.jp/",
+    "https://finance.yahoo.co.jp/quote/4628.T/profile",
+    "https://sk-kaken.pro/news/20261005/"
+   ]
+  },
+  {
+   "query": "エスケー化研 ビジネスモデル",
+   "results": [
+    "https://www.assetvalueinvestors.com/ja/campaign/painting-a-better-sk-kaken/",
+    "https://careerforum.net/ja/company_list/5059/company_detail/",
+    "https://prtimes.jp/main/html/rd/p/000000016.000055611.html",
+    "https://note.com/kabutabi2000/n/n28b195740376",
+    "https://www.sk-kaken.co.jp/recruit/work-and-challenge/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr4E&q_no=10",
+    "https://hikari-paintcraft.jp/zhumaini-xinshii-si-zhiwo-ti-gongsuruesuke-hua-yanno-zui-qian-xian/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00004930823/",
+    "https://job.mynavi.jp/28/pc/search/corp64743/outline.html",
+    "https://ja.wikipedia.org/wiki/エスケー化研"
+   ]
+  },
+  {
+   "query": "エスケー化研 決算説明資料",
+   "results": [
+    "https://www.sk-kaken.co.jp/ir/library/business-report/",
+    "https://www.sk-kaken.co.jp/ir/",
+    "https://www.sk-kaken.co.jp/ir/library/financial-report/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4628",
+    "https://www.buffett-code.com/company/4628/library",
+    "https://kitaishihon.com/company/4628/top",
+    "https://kabutan.jp/news/?b=k202608070405",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260512526737",
+    "https://kabuyoho.jp/sp/report?bcode=4628",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260512526737/"
+   ]
+  },
+  {
+   "query": "エスケー化研 事業系統図",
+   "results": [
+    "https://www.sk-kaken.co.jp/",
+    "https://kitaishihon.com/company/4628/business",
+    "https://www.sk-kaken.co.jp/business-bases/",
+    "https://www.yuzu-tosou.com/category/paint_search/paint_maker/skkaken/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E5%8C%96%E7%A0%94",
+    "https://www.sk-kaken.co.jp/company/",
+    "https://www.kensetsu-plaza.com/kohyo/price/C6330303639333030/page/3",
+    "https://exterior-paint.net/sk-kaken-exterior-paint-lineup/",
+    "https://www.kenkocho.co.jp/asp/data/kd_cotoda/500340",
+    "https://ja.wikipedia.org/wiki/エスケー化研"
+   ]
+  },
+  {
+   "query": "エスケー化研 社長 インタビュー",
+   "results": [
+    "https://k-tsushin.jp/interview/skkaken/",
+    "https://www.sk-kaken.co.jp/recruit/message/",
+    "https://careerforum.net/ja/company_list/5059/company_detail/",
+    "https://www.sk-kaken.co.jp/recruit/interview/",
+    "https://kitaishihon.com/company/4628/board-of-director",
+    "https://the-shashi.com/tse/4628/ceo/",
+    "https://www.youtube.com/watch?v=MoPZiws964c",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr4E&q_no=1",
+    "https://sk-kaken.pro/recruit/interview/",
+    "https://www.nikken-times.co.jp/feature/1159234467.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

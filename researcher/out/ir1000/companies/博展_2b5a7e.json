@@ -1,0 +1,685 @@
+{
+ "name": "博展",
+ "aliases": [],
+ "context": "証券コード2173／サービス業／グロース（内国株式）／2025.12期 売上高23,336百万円 営業利益率11.1%",
+ "researched_at": "2026-11-02T20:37:11.333837+00:00",
+ "official_url": "https://www.hakuten.co.jp/",
+ "identified_by": "search:yahoo_jp:博展",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "当社のウェブサイトはサービス向上およびお客様により適したサービスを提供するため、Cookieを使用しております",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のウェブサイトはサービス向上およびお客様により適したサービスを提供するため、Cookieを使用しております",
+    "url": "https://ir.hakuten.co.jp/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のウェブサイトはサービス向上およびお客様により適したサービスを提供するため、Cookieを使用しております",
+    "url": "https://ir.hakuten.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "8時間以上関与した顧客関連プロジェクト",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は企業が一般のお客様に向けて行うBtoCのイベントができる部署を希望していたのですが、企業の展示会サービスを提供する部署への配属に",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "制作ディレクターに就いて1年足らずながら、課題に対して真摯に取り組む姿勢で顧客やパートナーから信頼を集めている",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "やりたいことが明確な人であればそれを実現できるように、そうじゃない場合でも役割や働き方が見出せるように、そしてその活動の結果、事業として社会、顧客から求められるものになるように",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "リアルな場づくりという自社の強みを活かしながら、課題解決に最適な、ユーザーファーストなクリエイティブを企画立案します",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーを知っているからこそできる顧客課題の解決方法でコンテンツを企画しディレクションする「テクニカルディレクター」はリアル・デジタルを通じて、人の”体験”を統合的にデザインします",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題を見極め企画する〜進行、実装、実現までと業務関与フェーズが広いため、幅広い知識と経験、責任感が必要です",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題解決の核となるコンテンツの開発、表現を担当する「クリエイティブエンジニア」は顧客課題への興味関心と、圧倒的な技術的専門知識を掛け合わせて、困難な開発も体験者目線を忘れずに実装します",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ストーリーのチカラで、顧客の体験価値を高める",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会やイベント、企業のショールームにおける体験型コンテンツの動画やBtoB企業を中心としたセールスプロモーション用の動画を制作する「映像デザイナー」は最適な顧客体験を目指す動画コンテンツを、ゼロから創り上げます",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は企業が一般のお客様に向けて行うBtoCのイベントができる部署を希望していたのですが、企業の展示会サービスを提供する部署への配属に",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "制作ディレクターに就いて1年足らずながら、課題に対して真摯に取り組む姿勢で顧客やパートナーから信頼を集めている",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "やりたいことが明確な人であればそれを実現できるように、そうじゃない場合でも役割や働き方が見出せるように、そしてその活動の結果、事業として社会、顧客から求められるものになるように",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "リアルな場づくりという自社の強みを活かしながら、課題解決に最適な、ユーザーファーストなクリエイティブを企画立案します",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーを知っているからこそできる顧客課題の解決方法でコンテンツを企画しディレクションする「テクニカルディレクター」はリアル・デジタルを通じて、人の”体験”を統合的にデザインします",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題を見極め企画する〜進行、実装、実現までと業務関与フェーズが広いため、幅広い知識と経験、責任感が必要です",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題解決の核となるコンテンツの開発、表現を担当する「クリエイティブエンジニア」は顧客課題への興味関心と、圧倒的な技術的専門知識を掛け合わせて、困難な開発も体験者目線を忘れずに実装します",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "ストーリーのチカラで、顧客の体験価値を高める",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会やイベント、企業のショールームにおける体験型コンテンツの動画やBtoB企業を中心としたセールスプロモーション用の動画を制作する「映像デザイナー」は最適な顧客体験を目指す動画コンテンツを、ゼロから創り上げます",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "国内最大規模の展示会「CSPI」にて、コマツの「建設機械とソリューションの融合」を実現",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のウェブサイトはサービス向上およびお客様により適したサービスを提供するため、Cookieを使用しております",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のウェブサイトはサービス向上およびお客様により適したサービスを提供するため、Cookieを使用しております",
+    "url": "https://ir.hakuten.co.jp/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のウェブサイトはサービス向上およびお客様により適したサービスを提供するため、Cookieを使用しております",
+    "url": "https://ir.hakuten.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は新サービスの拡大だけでなく、後輩の育成にも尽力している",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ブースデザインから制作や運営、DXサービスなど幅広くサポートを行う",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は企業が一般のお客様に向けて行うBtoCのイベントができる部署を希望していたのですが、企業の展示会サービスを提供する部署への配属に",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当時は未知の領域でしたが、サービスの幅を広げるチャンスだと思いました",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自社サービスの価値を改めて実感しましたし、自分がクライアントにとって何ができるのかを意識して仕事に取り組めるようになりました",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "学生時代に起業し、ITサービス系の営業支援をするビジネスを行なっていましたが、モチベーションを保てずに失敗したことがあって",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントの表面的な要望だけではなく、各社の製品が持つ魅力を十二分に伝えるといった根底の目的を汲み取ることが重要だと考えています",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントのブランドや商品の価値を深く理解し、 クライアントの要望をグラフィックという手法で具現化します",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は新サービスの拡大だけでなく、後輩の育成にも尽力している",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "ブースデザインから制作や運営、DXサービスなど幅広くサポートを行う",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は企業が一般のお客様に向けて行うBtoCのイベントができる部署を希望していたのですが、企業の展示会サービスを提供する部署への配属に",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "当時は未知の領域でしたが、サービスの幅を広げるチャンスだと思いました",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "自社サービスの価値を改めて実感しましたし、自分がクライアントにとって何ができるのかを意識して仕事に取り組めるようになりました",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "学生時代に起業し、ITサービス系の営業支援をするビジネスを行なっていましたが、モチベーションを保てずに失敗したことがあって",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントの表面的な要望だけではなく、各社の製品が持つ魅力を十二分に伝えるといった根底の目的を汲み取ることが重要だと考えています",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントのブランドや商品の価値を深く理解し、 クライアントの要望をグラフィックという手法で具現化します",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "#店舗/ウィンドウディスプレイ",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "博展の制作力を支える強力なパートナーコミュニティ「博展会」の軌跡と未来",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "案件のご依頼、ご相談、各種パートナー企業様の",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "以前の会社では式場の紹介業務のみを担当していたため、結婚式を見届けることができずに物足りなさを感じていて",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "商業施設の屋外案件を中心に、パートナー会社への発注業務や現場管理を担当",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "制作ディレクターに就いて1年足らずながら、課題に対して真摯に取り組む姿勢で顧客やパートナーから信頼を集めている",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "入社1年目ながら、物怖じしないコミュニケーション能力を活かし、社外のパートナー会社への指揮も率先してこなす",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店に内定していたものの、1年目から主担当で最前線に立つことができ、体験を通じたプロモーションに強い博展に魅力を感じ、「誰よりも早く成長できそう」と入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プランナーはプロジェクトチームの軸にもなるため、クライアントやチームメンバー、パートナーとの円滑なコミュニケーションや、会話を通じて信頼を築く力、最後までやり抜く粘り強さが欠かせません",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "図面を見ながらどれだけクライアントの思いを実現できるか、社内の製作やデザイナー、プロデューサーとコミュニケーションを取りながらプロジェクトを進行するだけではなく、外部のパートナー企業とも 連携しながら納品に向けて管理をする仕事です",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "公式noteで、社員のキャリア転機を紹介する企画『キリヒラ』を公開しています",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "以前の会社では式場の紹介業務のみを担当していたため、結婚式を見届けることができずに物足りなさを感じていて",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "商業施設の屋外案件を中心に、パートナー会社への発注業務や現場管理を担当",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "制作ディレクターに就いて1年足らずながら、課題に対して真摯に取り組む姿勢で顧客やパートナーから信頼を集めている",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "入社1年目ながら、物怖じしないコミュニケーション能力を活かし、社外のパートナー会社への指揮も率先してこなす",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店に内定していたものの、1年目から主担当で最前線に立つことができ、体験を通じたプロモーションに強い博展に魅力を感じ、「誰よりも早く成長できそう」と入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プランナーはプロジェクトチームの軸にもなるため、クライアントやチームメンバー、パートナーとの円滑なコミュニケーションや、会話を通じて信頼を築く力、最後までやり抜く粘り強さが欠かせません",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "図面を見ながらどれだけクライアントの思いを実現できるか、社内の製作やデザイナー、プロデューサーとコミュニケーションを取りながらプロジェクトを進行するだけではなく、外部のパートナー企業とも 連携しながら納品に向けて管理をする仕事です",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 博展 HAKUTEN | Communication Design® — 株式会社 博展 HAKUTEN | Communication Design® 株式会社博展 HAKUTEN https://www.hakuten.co.jp",
+    "url": "https://www.hakuten.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SERVICE | 株式会社 博展 HAKUTEN | Communication Design® — SERVICE | 株式会社 博展 HAKUTEN | Communication Design® 株式会社博展 HAKUTEN https://www.hakuten.co.jp > service",
+    "url": "https://www.hakuten.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "博展 を知る 事業ユニット戦略 - YouTube — 博展 を知る 事業ユニット戦略 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=YV77u2c42iY",
+    "pass": 3
+   },
+   {
+    "quote": "体験創造のプロフェッショナル集団、 博展 とは？ 事例 ... - WWD — 体験創造のプロフェッショナル集団、 博展 とは？ 事例 ... - WWD WWDJAPAN https://www.wwdjapan.com > articles",
+    "url": "https://www.wwdjapan.com/articles/2281668",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY | 株式会社 博展 HAKUTEN | Communication Design® — COMPANY | 株式会社 博展 HAKUTEN | Communication Design® 株式会社博展 HAKUTEN https://www.hakuten.co.jp > company",
+    "url": "https://www.hakuten.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ・動画 | 株主・投資家の皆さまへ | 株式会社 博展 ... — 決算説明資料 ・動画 | 株主・投資家の皆さまへ | 株式会社 博展 ... 株式会社博展 HAKUTEN https://ir.hakuten.co.jp > IRライブラリー",
+    "url": "https://ir.hakuten.co.jp/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ | 株式会社 博展 HAKUTEN ... — 株主・投資家の皆さまへ | 株式会社 博展 HAKUTEN ... 株式会社博展 HAKUTEN https://ir.hakuten.co.jp",
+    "url": "https://ir.hakuten.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「IRサイト」リニューアルのお知らせ | 株式会社 博展 HAKUTEN — 「IRサイト」リニューアルのお知らせ | 株式会社 博展 HAKUTEN 株式会社博展 HAKUTEN https://www.hakuten.co.jp > news > post_9512",
+    "url": "https://www.hakuten.co.jp/news/post_9512",
+    "pass": 3
+   },
+   {
+    "quote": "【 博展 】[2173]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 博展 】[2173]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2173",
+    "pass": 3
+   },
+   {
+    "quote": "博展 IR - YouTube — 博展 IR - YouTube YouTube https://www.youtube.com > playlist",
+    "url": "https://www.youtube.com/playlist?list=PLorkogyqNoXiACFDHuBYBbmJFukvERC-5",
+    "pass": 3
+   },
+   {
+    "quote": "会社を知る - 博展 採用サイト — 会社を知る - 博展 採用サイト 博展 採用サイト https://recruit.hakuten.co.jp > company",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ 博展 2173.T] 中期経営計画（FY2026-FY2028） 事業 計画 ... — [G－ 博展 2173.T] 中期経営計画（FY2026-FY2028） 事業 計画 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260317583178",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260317583178",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 株主・投資家の皆さまへ | 株式会社 博展 HAKUTEN — 会社情報 | 株主・投資家の皆さまへ | 株式会社 博展 HAKUTEN 株式会社博展 HAKUTEN https://ir.hakuten.co.jp > company",
+    "url": "https://ir.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【掲載情報】「IBASHO」に当社 社長 の インタビュー が ... - 博展 — 【掲載情報】「IBASHO」に当社 社長 の インタビュー が ... - 博展 株式会社博展 HAKUTEN https://www.hakuten.co.jp > news > post_9264",
+    "url": "https://www.hakuten.co.jp/news/post_9264",
+    "pass": 3
+   },
+   {
+    "quote": "人を知る - 博展 採用サイト — 人を知る - 博展 採用サイト 博展 採用サイト https://recruit.hakuten.co.jp > member",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "増収増益の「 博展 」、成長戦略とその進捗 - YouTube — 増収増益の「 博展 」、成長戦略とその進捗 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4ecLwRgfY0g",
+    "pass": 3
+   },
+   {
+    "quote": "【掲載情報】「経営ノウハウの泉」に当社 社長 の インタビュー ... — 【掲載情報】「経営ノウハウの泉」に当社 社長 の インタビュー ... 株式会社博展 HAKUTEN https://www.hakuten.co.jp > news > post_8679",
+    "url": "https://www.hakuten.co.jp/news/post_8679",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 博展 会長及び 社長 就任のお知らせ。次世代の成長に ... — 株式会社 博展 会長及び 社長 就任のお知らせ。次世代の成長に ... 株式会社博展 HAKUTEN https://www.hakuten.co.jp > news > post_6848",
+    "url": "https://www.hakuten.co.jp/news/post_6848",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "108ストック",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "108ストック",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "その経験から感じた博展の強みの一つは「若さ」です",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、この強みを未来に引き継ぎ、さらに発展させていくのは、間違いなく皆さん一人ひとりです",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "強みを活かせるプロジェクトがあれば、1年目から積極的に手を挙げていました",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ショーウィンドウに限らず、常設のイベントや展示会といった幅広い領域の案件でも自分の強みを活かしていきたいです",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "どうしてもどちらかを選ぶような風潮がありますが、総合企業の強みの上にクリエイティブ組織の尖りを求めていくことができれば、今までにないメンバー構成やキャリアを生み出し、だからこそのアウトプットの幅や深みにつなげられるのではないかと",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "リアルな場づくりという自社の強みを活かしながら、課題解決に最適な、ユーザーファーストなクリエイティブを企画立案します",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "強みを活かせるプロジェクトがあれば、1年目から積極的に手を挙げていました",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "ショーウィンドウに限らず、常設のイベントや展示会といった幅広い領域の案件でも自分の強みを活かしていきたいです",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "どうしてもどちらかを選ぶような風潮がありますが、総合企業の強みの上にクリエイティブ組織の尖りを求めていくことができれば、今までにないメンバー構成やキャリアを生み出し、だからこそのアウトプットの幅や深みにつなげられるのではないかと",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "リアルな場づくりという自社の強みを活かしながら、課題解決に最適な、ユーザーファーストなクリエイティブを企画立案します",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2021年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年からは常設部署のマネジャーへ",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年の営業最終年に常設部門のプロデューサーという肩書きで、見積、デザイン、設計、施工、全ての責任者として案件を担当していました",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年からは常設部署のマネジャーへ",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年の営業最終年に常設部門のプロデューサーという肩書きで、見積、デザイン、設計、施工、全ての責任者として案件を担当していました",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年新卒入社",
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hakuten.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ir.hakuten.co.jp/library/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.hakuten.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.hakuten.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.hakuten.co.jp/member/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "博展",
+   "results": [
+    "https://www.hakuten.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%B1%95",
+    "https://www.instagram.com/hakuten__/?hl=ja",
+    "https://x.com/HakutenCorp",
+    "https://note.com/hakuten_corp",
+    "https://www.wwdjapan.com/articles/2281668",
+    "https://ja.wikipedia.org/wiki/博展",
+    "https://www.hakuten.co.jp/company",
+    "https://hakuten.snar.jp/index.aspx",
+    "https://hos.hakuten.co.jp/"
+   ]
+  },
+  {
+   "query": "博展 ビジネスモデル",
+   "results": [
+    "https://www.hakuten.co.jp/",
+    "https://www.hakuten.co.jp/service",
+    "https://www.youtube.com/watch?v=YV77u2c42iY",
+    "https://www.wwdjapan.com/articles/2281668",
+    "https://www.hakuten.co.jp/company",
+    "https://prtimes.jp/main/html/rd/p/000000159.000039931.html",
+    "https://recruit.hakuten.co.jp/company/",
+    "https://www.youtube.com/watch?v=EmmwpG0DRWc",
+    "https://note.com/hakuten_corp/n/nd46bfc18c89c",
+    "https://ja.wikipedia.org/wiki/博展"
+   ]
+  },
+  {
+   "query": "博展 決算説明資料",
+   "results": [
+    "https://ir.hakuten.co.jp/library/presentations/",
+    "https://ir.hakuten.co.jp/",
+    "https://www.hakuten.co.jp/news/post_9512",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2173",
+    "https://www.youtube.com/playlist?list=PLorkogyqNoXiACFDHuBYBbmJFukvERC-5",
+    "https://ir.hakuten.co.jp/finance/",
+    "https://note.com/hakuten_corp/m/mb85230aab62b",
+    "https://irbank.net/2173/ir"
+   ]
+  },
+  {
+   "query": "博展 事業系統図",
+   "results": [
+    "https://www.hakuten.co.jp/company",
+    "https://recruit.hakuten.co.jp/company/",
+    "https://www.hakuten.co.jp/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260317583178",
+    "https://ir.hakuten.co.jp/company/",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%B1%95",
+    "https://prtimes.jp/main/html/rd/p/000000159.000039931.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250317/20250317594823.pdf",
+    "https://note.com/hakuten_corp/n/n628c60c2f4b2",
+    "https://ja.wikipedia.org/wiki/博展"
+   ]
+  },
+  {
+   "query": "博展 社長 インタビュー",
+   "results": [
+    "https://www.hakuten.co.jp/news/post_9264",
+    "https://recruit.hakuten.co.jp/member/",
+    "https://www.youtube.com/watch?v=4ecLwRgfY0g",
+    "https://www.hakuten.co.jp/news/post_8679",
+    "https://www.hakuten.co.jp/news/post_6848",
+    "https://www.youtube.com/watch?v=EmmwpG0DRWc",
+    "https://recruit.hakuten.co.jp/company/",
+    "https://kitaishihon.com/company/2173/board-of-director",
+    "https://www.hakuten.co.jp/news/post_15379",
+    "https://www.youtube.com/watch?v=b-GqjWOzBQo"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

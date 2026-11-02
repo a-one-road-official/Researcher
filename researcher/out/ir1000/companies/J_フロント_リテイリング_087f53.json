@@ -1,0 +1,1767 @@
+{
+ "name": "Ｊ．フロント　リテイリング",
+ "aliases": [],
+ "context": "証券コード3086／小売業／プライム（内国株式）／2026.02期 売上高445,094百万円 営業利益率11.0%",
+ "researched_at": "2026-11-02T20:40:03.779788+00:00",
+ "official_url": "https://www.j-front-retailing.com/",
+ "identified_by": "search:yahoo_jp:J.フロント リテイリング",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "百貨店業等の事業を行う子会社及びグループ会社の経営計画・管理並びにそれに付帯する業務",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "百貨店業などを行う子会社やグループ会社の経営計画・管理など",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2007年(平成19年)9月3日",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2007年",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "7,428人　※2026年2月末時点",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "5277人（24年2月末現在、連結）",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "4070億円",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ハイブリッド型ビジネスモデル「大丸心斎橋店本館」",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "百貨店ビジネスモデル",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル転換",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "【特集】ビジネスモデル転換",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "百貨店ビジネスモデル転換",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "百貨店ビジネスモデル変革",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月にローンチしたファッション・サブスクリプション事業「AnotherADdress」は、\"服は使い捨てではない\"という信念のもと、ファッションの本質的な価値や、サステナブルな取り組みを重視し、社会や環境にとって持続性の高いビジネスモデルへ転換することを目指すサービスです",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "その問題に真剣に向き合い、ビジネスモデル全体をより持続可能な方向に舵を切ることは、当社グループの大きな責務であると考えています",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "また100%WEB注文、サブスクリプション型のストックビジネスとすることで、従来の百貨店ビジネスが抱えるリアル店舗依存、フロービジネスからのビジネスモデルの分散にも挑戦します",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、ビジネスモデルは、従来の百貨店とはまったく異なり、全体面積の約65％を定期賃貸借の売場で構成するといった斬新なレイヤー構造をベースとしたものとなります",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、店舗の魅力化と収益の最大化を実現する新たなビジネスモデルとは何かを追求し、そのひとつの答えが心斎橋店新本館で具現化することになりました",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の視点ではまったくのシームレスでありながら、買取･消化仕入の利点と定期賃貸借の利点を最適バランスでミックスした、新時代のハイブリッドな百貨店ビジネスモデルです",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、この新たなトライアルで得られた成果を、各店舗やエリア特性によってカスタマイズしながら、“拡張性ある新たな百貨店ビジネスモデル”として、順次展開していきたいと考えています",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は、利用者ご自身のご判断において行われるようお願いいたします",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "・新顧客情報システムスタート",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様満足向上のための取り組み",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに行う社会貢献活動",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン方針(お取引先様行動原則)",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様との協働によるScope3温室効果ガス排出量削減",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様と共に成長する取り組み",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "名刺情報およびお取引先様情報の取り扱いについて",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "「JFR行動原則」と「JFRお取引先様行動原則」",
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心への貢献",
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "大丸・松坂屋・パルコの店舗等に関するお問い合わせ",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "百貨店事業は、全国主要都市に「大丸」「松坂屋」を15店舗、またSC事業でもショッピングセンター「PARCO」を15店舗展開し、両事業を合わせたグループ全社売上収益に占める割合は約8割となっています",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "・指名委員会等設置会社へ移行",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "・神戸店周辺店舗1号店（現、旧居留地38番館）開店",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/policy/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/policy/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/policy/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/strategic.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/strategic.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/strategic.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/finance/monthly.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/finance/monthly.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/finance/monthly.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/library/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/library/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/library/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/stock/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/stock/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/stock/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "大丸、松坂屋でのお買物優待など株主様のご優待特典を紹介しています",
+    "url": "https://www.j-front-retailing.com/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "J.フロントリテイリング発足からの歴史と、大丸、松坂屋の歴史を紹介しています",
+    "url": "https://www.j-front-retailing.com/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "⑥当社およびグループ各社が扱う商品・サービスの企画・開発、店舗フロア・オンラインサイトの改善等にかかわるマーケティング調査、お客様情報の統合的分析、分析データ作成のため",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、店舗等へのお問い合わせや、商品・サービスなど投資家情報以外のお問い合わせにつきましては",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・監査委員会・報酬委員会",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・選任・後継者計画",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "価値共創するパートナーを増やす",
+    "url": "https://www.j-front-retailing.com/ir/mail.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/strategic.html",
+    "pass": 1
+   },
+   {
+    "quote": "リテールの深化─ GINZA SIX／リユース事業／サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "リアル×デジタル戦略 -- サブスクリプション事業に参入",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業｜Ｊ．フロント リテイリング株式会社",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業への参入",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月にローンチしたファッション・サブスクリプション事業「AnotherADdress」は、\"服は使い捨てではない\"という信念のもと、ファッションの本質的な価値や、サステナブルな取り組みを重視し、社会や環境にとって持続性の高いビジネスモデルへ転換することを目指すサービスです",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がいま着たいものを選択できる自由さでファッションをサブスクライブする体験を創造し、既存事業にはない新たなマーケットを構築したいと考えています",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の洗練されたブランドの中から自由に選べるサブスクリプション型（定額制）のファッションサービス",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "月額12,430円（税込み）で、お好きなアイテム3着を1ヶ月レンタルできます",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "月額料金には、往復の送料やクリーニング、基本的な修繕の料金もすべて含まれています",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な使用に伴う、擦れやキズ、汚れについては月額料金の中で対応します",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "また100%WEB注文、サブスクリプション型のストックビジネスとすることで、従来の百貨店ビジネスが抱えるリアル店舗依存、フロービジネスからのビジネスモデルの分散にも挑戦します",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shibuyaparco.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/dominant.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業",
+    "url": "https://www.j-front-retailing.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、中国からの団体観光客はコロナ禍前の水準に戻っていませんが、富裕層を中心に個人の観光客は戻ってきており、購入単価が跳ね上がっています",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年8月以前",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年～2023年度7つのマテリアリティ別の取組一覧",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度〜2020年度",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年ネットゼロを目指して",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年8月以前",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年～2023年度7つのマテリアリティ別の取組一覧",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度〜2020年度",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年ネットゼロを目指して",
+    "url": "https://www.j-front-retailing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別売上収益構成比",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "※上記円グラフの構成比は調整額を除いて記載",
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別事業概況",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1102_renketsu110315.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1101_renketsu110215.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1012_renketsu110114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1011_renketsu101216.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1010_renketsu101115.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1009_renketsu101015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1008_renketsu100917.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．セグメント別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1007-renketsu100816.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "・(株)大丸クレジットサービスがＪＦＲカード(株)に社名変更",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "・松坂サービス(株)が(株)ＪＦＲサービスに社名変更",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "・(株)ＪＦＲサービスが(株)大丸リース＆サービスを吸収合併",
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "pass": 1
+   },
+   {
+    "quote": "・（株）大丸リース＆サービスを設立",
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "pass": 1
+   },
+   {
+    "quote": "・(株)大丸と商品面での業務提供発表",
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、お客様の個人情報は、私たちがお客様にサービスをご提供する上で必要不可欠なものであり、お客様からの信頼に応え得る適法適切な取扱いは、私たちに課せられた社会的責務と考えております",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "②商品情報、サービス情報、生活情報、各種ご優待サービス等のご案内など、当社およびグループ各社が扱う商品・サービスの販売促進活動（お客様ごとにパーソナライズしたご提案を含みます",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "）、売上処理、修理加工、後日お渡し、お届け(配送)、接客、アフターサービス、各種ご優待サービスの提供など、当社およびグループ各社が扱う商品・サービスの販売、およびこれに付随するサービスの提供のため",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "④当社およびグループ各社におけるお買い上げ商品・ご提供サービス、売上処理、配送、お忘れ物などについてのお問い合わせへの対応やご連絡のため",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "⑤当社およびグループ各社が取り扱う外商サービスの新規入会のご案内のため",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "⑥当社およびグループ各社が扱う商品・サービスの企画・開発、店舗フロア・オンラインサイトの改善等にかかわるマーケティング調査、お客様情報の統合的分析、分析データ作成のため",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "③ 共同利用する個人情報の項目は、氏名（会員番号その他管理ID）・住所・電話番号・電子メールアドレス･生年月日・性別・職業・肩書・商品購入履歴などとなります",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ウェブサイトにおけるより良いサービス提供のため、クッキーを使用することがあります",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、お客様は、クッキーの使用を制限することができますが、その場合、一部サービスが利用できないことがありますので、ご了承ください",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、店舗等へのお問い合わせや、商品・サービスなど投資家情報以外のお問い合わせにつきましては",
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の月次百貨店売上速報、月次連結営業報告をはじめ、決算情報、その他適時開示資料などを、 ご登録いただいた方々に電子メールでお届けするサービスです",
+    "url": "https://www.j-front-retailing.com/ir/mail.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチサービスリテイラー",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "自主編集売場・オリジナル商品",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "自主運営売場・オリジナル商品・サービス",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル商品・サービス",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月にローンチしたファッション・サブスクリプション事業「AnotherADdress」は、\"服は使い捨てではない\"という信念のもと、ファッションの本質的な価値や、サステナブルな取り組みを重視し、社会や環境にとって持続性の高いビジネスモデルへ転換することを目指すサービスです",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "AnotherADdress ）をきっかけに、お客様とファッションが自由に交流することを願い、サービス名に込めました",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファッションの貴重な資源を受け継ぐ役割を果たしながら、\"アドレス\"の中にある装うための\"ドレス\"1枚1枚に愛を込めて、ここから送り届ける未来に向けたサービスを目指します",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "エイジレス（年齢を超えた訴求）を前提に、「新しくなることを探求し、輝き続けるすべての人」と行動軸でターゲットを設定し、いまの時代を前向きに捉えて活躍されている方に支持されるサービスを目指します",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、所有に対する意欲の違いや経済合理性から、購入しなかった、できなかった潜在層の方々にもサービスを通して、洗練されたブランド、ファッションの持つ力を体験していただきたいと考えています",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の洗練されたブランドの中から自由に選べるサブスクリプション型（定額制）のファッションサービス",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファサードを彩るメゾネット型式のラグジュアリーブティックの数々、アートでもてなす大胆な吹き抜けなど店舗空間の演出、“銀座の路地裏”をイメージした独特の通路レイアウトや、いわゆる百貨店の商品分類の枠を超えたフロア構成など、ここでしか得ることができない、特別な体験、特別な価値を創造することができました",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/dominant.html",
+    "pass": 1
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1102_renketsu110315.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1101_renketsu110215.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ １２月度の百貨店事業の売上高は、特選ブランドなどを中心に婦人服の定価商品が好調であったほか、お歳暮",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1012_renketsu110114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1012_renketsu110114.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1011_renketsu101216.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1010_renketsu101115.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1009_renketsu101015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1008_renketsu100917.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次項２の商品別売上高も同様",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1007-renketsu100816.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．大丸松坂屋百貨店直営店 商品別売上高（対前年増減率：％）",
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1007-renketsu100816.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3086",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "グループの強み",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "J.フロント リテイリンググループの強み",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "伝統的な百貨店は、かつては買取が主体でしたが、その後在庫を持たない消化仕入という取引形態が現れ、80年代にはその割合が8割を占めるようになりました",
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ラグジュアリーブランドや時計、アートなどに強みを持つ大丸松坂屋百貨店、エンターテインメントやカルチャーに特色を持つパルコを包含するグループです",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   },
+   {
+    "quote": "互いの強みを生かすことを視野に入れ、成長を目指したストーリーを描きました",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   },
+   {
+    "quote": "── 中計ではグループの強みを融合する地域として名古屋市の栄地区を挙げていますね",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   },
+   {
+    "quote": "それに合わせて松坂屋やパルコが強みをさらに出し、それぞれの戦略を掛け合わせていきたい",
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "価値共創リテイラーへ ～ J . フロントリテイリング の挑戦～ — 価値共創リテイラーへ ～ J . フロントリテイリング の挑戦～ Ｊ．フロント リテイリング株式会社 PDF https://www.j-front-retailing.com > 240727_kojin",
+    "url": "https://www.j-front-retailing.com/ir/investors/pdf/240727_kojin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書｜ J ． フロント リテイリング 株式会社 — 統合報告書｜ J ． フロント リテイリング 株式会社 Ｊ．フロント リテイリング株式会社 https://www.j-front-retailing.com > ... > 統合報告書",
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム｜ J ． フロント リテイリング 株式会社 — ホーム｜ J ． フロント リテイリング 株式会社 Ｊ．フロント リテイリング株式会社 https://www.j-front-retailing.com",
+    "url": "https://www.j-front-retailing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "J . フロント リテイリング の 価値創造プロセス — J . フロント リテイリング の 価値創造プロセス Ｊ．フロント リテイリング株式会社 PDF https://www.j-front-retailing.com > pdf > annual > J...",
+    "url": "https://www.j-front-retailing.com/ir/library/pdf/annual/2026/J_FRONT_2026_J_18_19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "J . フロント リテイリング の 価値創造プロセス — J . フロント リテイリング の 価値創造プロセス Ｊ．フロント リテイリング株式会社 PDF https://www.j-front-retailing.com > pdf > annual > J...",
+    "url": "https://www.j-front-retailing.com/ir/library/pdf/annual/2024/J_FRONT_2024_J-18_19.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "J . フロントリテイリング 【3086】のIR 資料 - バフェット・コード — J . フロントリテイリング 【3086】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3086/library",
+    "pass": 3
+   },
+   {
+    "quote": "J . フロント リテイリング 【3086】のIR動画 - キタイシホン — J . フロント リテイリング 【3086】のIR動画 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-meeting",
+    "url": "https://kitaishihon.com/company/3086/ir-meeting",
+    "pass": 3
+   },
+   {
+    "quote": "J . フロントリテイリング （3086）の 決算 発表 資料 一覧 - IRBANK — J . フロントリテイリング （3086）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 小売業 > J.フロントリテイリング",
+    "url": "https://irbank.net/E03516/reports",
+    "pass": 3
+   },
+   {
+    "quote": "月次情報｜ J ． フロント リテイリング 株式会社 — 月次情報｜ J ． フロント リテイリング 株式会社 Ｊ．フロント リテイリング株式会社 https://www.j-front-retailing.com > ... > 月次情報",
+    "url": "https://www.j-front-retailing.com/ir/finance/monthly.html",
+    "pass": 3
+   },
+   {
+    "quote": "J . フロント リテイリング 【3086】の 事業 内容 - キタイシホン — J . フロント リテイリング 【3086】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3086/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.j-front-retailing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/history_jfr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/history_daimaru.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/history_matsuzakaya.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/policy/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/strategic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/finance/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/finance/monthly.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/library/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/stock/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/schedule.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/mail.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/library/sustainability.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/library/annual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/subscription.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shinsaibashi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/rebuilding_shibuyaparco.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/strategic_policy/dominant.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1102_renketsu110315.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1101_renketsu110215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1012_renketsu110114.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1011_renketsu101216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1010_renketsu101115.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1009_renketsu101015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1008_renketsu100917.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/_data/ir_monthly/1007-renketsu100816.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/business/business_01.svg?2609",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/business/business_map_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/business/business_map_a.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/business/business_map_b.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.j-front-retailing.com/company/business/business_map_c.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3086",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/DA3S16281691.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "J.フロント リテイリング",
+   "results": [
+    "https://www.j-front-retailing.com/",
+    "https://ja.wikipedia.org/wiki/J.%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88_%E3%83%AA%E3%83%86%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0",
+    "https://www.nikkei.com/nkd/company/?scode=3086",
+    "https://kabutan.jp/stock/?code=3086",
+    "https://www.facebook.com/J.FrontRetailing/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/J.フロント_リテイリング",
+    "https://en.wikipedia.org/wiki/J._Front_Retailing",
+    "https://finance.yahoo.co.jp/quote/3086.T",
+    "https://www.j-front-retailing.com/company/company.html",
+    "https://diamond-rm.net/jfrontretailing/"
+   ]
+  },
+  {
+   "query": "J.フロント リテイリング ビジネスモデル",
+   "results": [
+    "https://www.j-front-retailing.com/ir/investors/pdf/240727_kojin.pdf",
+    "https://www.j-front-retailing.com/ir/library/annual.html",
+    "https://www.j-front-retailing.com/",
+    "https://www.j-front-retailing.com/ir/library/pdf/annual/2026/J_FRONT_2026_J_18_19.pdf",
+    "https://www.j-front-retailing.com/ir/library/pdf/annual/2024/J_FRONT_2024_J-18_19.pdf",
+    "https://ja.wikipedia.org/wiki/J.%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88_%E3%83%AA%E3%83%86%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0",
+    "https://note.com/ijnrdx/n/na61c6c776887",
+    "https://jbpress.ismedia.jp/articles/-/90956",
+    "https://www.j-front-retailing.com/sustainability/community/community01.html",
+    "https://ja.wikipedia.org/wiki/J.フロント_リテイリング"
+   ]
+  },
+  {
+   "query": "J.フロント リテイリング 決算説明資料",
+   "results": [
+    "https://www.j-front-retailing.com/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3086",
+    "https://www.buffett-code.com/company/3086/library",
+    "https://kitaishihon.com/company/3086/ir-meeting",
+    "https://irbank.net/E03516/reports",
+    "https://biz.chunichi.co.jp/news/article/30/131635/"
+   ]
+  },
+  {
+   "query": "J.フロント リテイリング 事業系統図",
+   "results": [
+    "https://www.j-front-retailing.com/",
+    "https://www.j-front-retailing.com/ir/library/annual.html",
+    "https://www.j-front-retailing.com/ir/finance/monthly.html",
+    "https://www.jfps.co.jp/organization/",
+    "https://kitaishihon.com/company/3086/business",
+    "https://www.j-front-retailing.com/sustainability/community/community01.html",
+    "https://ja.wikipedia.org/wiki/J.%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88_%E3%83%AA%E3%83%86%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0",
+    "https://www.j-front-retailing.com/_data_json/financialresults/_upload/2702_2Q_presentation_J.pdf",
+    "https://www.j-front-retailing.com/ir/library/pdf/annual/jfrnow38_40.pdf",
+    "https://ja.wikipedia.org/wiki/J.フロント_リテイリング"
+   ]
+  },
+  {
+   "query": "J.フロント リテイリング 社長 インタビュー",
+   "results": [
+    "https://www.weekly-economist.com/interview/ono_keiichi/",
+    "https://www.asahi.com/articles/DA3S16281691.html",
+    "https://www.j-front-one-partner.jp/recruit/work/interview03/",
+    "https://www.wwdjapan.com/articles/1785114",
+    "https://www.instagram.com/p/C7DDwG3SMdV/",
+    "https://the-shashi.com/tse/3086/ceo/",
+    "https://jbpress.ismedia.jp/articles/-/82093",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC281HK0Y6A021C2000000",
+    "https://www.youtube.com/watch?v=OytDaxkIgzM",
+    "https://ja.wikipedia.org/wiki/小野圭一"
+   ]
+  }
+ ],
+ "missing": {}
+}

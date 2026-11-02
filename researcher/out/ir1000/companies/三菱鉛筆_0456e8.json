@@ -1,0 +1,534 @@
+{
+ "name": "三菱鉛筆",
+ "aliases": [],
+ "context": "証券コード7976／その他製品／プライム（内国株式）／2025.12期 売上高89,814百万円 営業利益率10.8%",
+ "researched_at": "2026-11-02T20:51:27.059302+00:00",
+ "official_url": "https://onlineshops.mpuni.co.jp/",
+ "identified_by": "search:ddgs:yahoo:三菱鉛筆",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1887年（明治20年）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1925年（大正14年）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "898億円（2025年12月期）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2871人（グループ全体）",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様相談室",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこでも、多くのユーザーが声をそろえるのが品質の高さだ",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "おすすめ商品",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品お届時に商品と引き換えに、お支払いください",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1.【商品出荷について】",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業日の午前9:00までにご注文頂いた商品で、弊社に在庫がある商品につきましては、原則として、ご注文から起算して４営業日以内に出荷いたします",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※速達サービスはご利用いただけません",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・「代金引換サービス」はご利用いただけません",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・商品到着までに、出荷から2~7日かかります",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1.商品の返品・交換やキャンセルは受け付けないものとします",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2. 1．に拘らず、ケースの破損等弊社に原因のある不良商品、又は注文と異なる商品が到着した場合のみ、返品・交換の受付をします",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この場合、商品到着後1週間以内に弊社へ電話にて通知するものとし、弊社は良品と交換致します",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当該商品の返送及び再送に要する送料は、弊社にて負担するものとします",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "化粧品、カーボン製品、印章、ファイル、事務用品",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "注）当オンラインショップでは、当社が販売する上記商品のボールペン替芯や一部の部品のみを取り扱っております",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品お届時に商品と引き換えに、お支払いください",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "1.【商品出荷について】",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業日の午前9:00までにご注文頂いた商品で、弊社に在庫がある商品につきましては、原則として、ご注文から起算して４営業日以内に出荷いたします",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "※速達サービスはご利用いただけません",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・「代金引換サービス」はご利用いただけません",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・商品到着までに、出荷から2~7日かかります",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "1.商品の返品・交換やキャンセルは受け付けないものとします",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "2. 1．に拘らず、ケースの破損等弊社に原因のある不良商品、又は注文と異なる商品が到着した場合のみ、返品・交換の受付をします",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "この場合、商品到着後1週間以内に弊社へ電話にて通知するものとし、弊社は良品と交換致します",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当該商品の返送及び再送に要する送料は、弊社にて負担するものとします",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの三菱鉛筆の伝統である研究開発に注力するだけでなく、デザイン性を追求し、ヒット商品を生み出し続けている",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでになかった新商品の開発や、既存商品のブラッシュアップに社を挙げて取り組んでいるのだ",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、時代の変化に合わせて商品の作り方にも大きな変化が表れている",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "機能を追求した商品も、つい何かを描きたくなる子供心をくすぐる商品も展開してくれる",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "別途代引手数料",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "又、代金引換の場合は、別途手数料をいただきます",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "別途代引手数料",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "又、代金引換の場合は、別途手数料をいただきます",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業日の午前9:00までにご注文頂いた商品で、弊社に在庫がある商品につきましては、原則として、ご注文から起算して４営業日以内に出荷いたします",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業日の午前9:00までにご注文頂いた商品で、弊社に在庫がある商品につきましては、原則として、ご注文から起算して４営業日以内に出荷いたします",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "そんな中、5期連続で増収を達成し、2025年度の売り上げも898億円と、過去最高収益を更新し続けている三菱鉛筆の躍進がとまらない",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "プロも愛用する品質の高さ…過去最高収益を達成",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年 11月",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 12月",
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 11月",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 12月",
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月11日",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「中期経営計画 2025-2027」の策定に関するお知らせ - 三菱鉛筆 — 「中期経営計画 2025-2027」の策定に関するお知らせ - 三菱鉛筆 三菱鉛筆株式会社 PDF https://www.mpuni.co.jp > news > images > news",
+    "url": "https://www.mpuni.co.jp/news/images/news/20250213chukei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三菱鉛筆 株式会社 — 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp",
+    "url": "https://www.mpuni.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜経営情報｜ 三菱鉛筆 株式会社 — 中期経営計画｜経営情報｜ 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > holders > plan",
+    "url": "https://www.mpuni.co.jp/ir/holders/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜企業情報｜ 三菱鉛筆 株式会社 — 事業内容｜企業情報｜ 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > company",
+    "url": "https://www.mpuni.co.jp/company/rd/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱鉛筆 - Wikipedia — 三菱鉛筆 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 三菱鉛筆",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 決算 短信・ 説明資料 - 三菱鉛筆 — IRライブラリ - 決算 短信・ 説明資料 - 三菱鉛筆 三菱鉛筆株式会社 https://www.mpuni.co.jp > finance",
+    "url": "https://www.mpuni.co.jp/ir/finance/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜企業情報｜ 三菱鉛筆 株式会社 — IR情報｜企業情報｜ 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > ...",
+    "url": "https://www.mpuni.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜IR情報｜ 三菱鉛筆 株式会社 — IRライブラリ｜IR情報｜ 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > library",
+    "url": "https://www.mpuni.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー｜IR情報｜ 三菱鉛筆 株式会社 — IRカレンダー｜IR情報｜ 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > calendar",
+    "url": "https://www.mpuni.co.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第3四半期 決算 補足 説明資料 ｜ニュース - 三菱鉛筆 — 2025年12月期第3四半期 決算 補足 説明資料 ｜ニュース - 三菱鉛筆 三菱鉛筆株式会社 https://www.mpuni.co.jp > news",
+    "url": "https://www.mpuni.co.jp/news/20251030-54076.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - 三菱鉛筆 — 会社概要｜企業情報 - 三菱鉛筆 三菱鉛筆株式会社 https://www.mpuni.co.jp > company > outline",
+    "url": "https://www.mpuni.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜会社について｜新卒採用情報 三菱鉛筆 株式会社 — 企業情報｜会社について｜新卒採用情報 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > jinji > company",
+    "url": "https://www.mpuni.co.jp/jinji/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容｜企業情報｜ 三菱鉛筆 株式会社 — 事業 内容｜企業情報｜ 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > company",
+    "url": "https://www.mpuni.co.jp/company/rd/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱鉛筆 【7976】の 事業 内容 - キタイシホン — 三菱鉛筆 【7976】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7976/business",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書 - 三菱鉛筆 — 有価証券報告書 - 三菱鉛筆 三菱鉛筆株式会社 PDF https://www.mpuni.co.jp > news > images > news",
+    "url": "https://www.mpuni.co.jp/news/images/news/0327yuhou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 放送 三菱鉛筆 社長 数原 滋彦 （すはら しげ ... — 2026年10月22日 放送 三菱鉛筆 社長 数原 滋彦 （すはら しげ ... tv-tokyo.co.jp https://www.tv-tokyo.co.jp > cambria > backnumber",
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "みんな使った 三菱鉛筆 の高級鉛筆「uni」愛され66年 「お前が ... — みんな使った 三菱鉛筆 の高級鉛筆「uni」愛され66年 「お前が ... 賢者の選択サクセッション https://kenja-succession.com > interview-mitsubishi-pencil",
+    "url": "https://kenja-succession.com/articles/strategy/interview-mitsubishi-pencil/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の筆記具メーカートップ対談： 三菱鉛筆 とゼブラ — 日本の筆記具メーカートップ対談： 三菱鉛筆 とゼブラ smo-inc.com https://www.smo-inc.com > Insights",
+    "url": "https://www.smo-inc.com/insights/3118",
+    "pass": 3
+   },
+   {
+    "quote": "カンブリア宮殿 on X: \" 三菱鉛筆 ・数原滋彦 社長 の インタビュー ... — カンブリア宮殿 on X: \" 三菱鉛筆 ・数原滋彦 社長 の インタビュー ... X https://x.com > @cambrian_palace",
+    "url": "https://x.com/cambrian_palace/status/2114187692590219603",
+    "pass": 3
+   },
+   {
+    "quote": "仕事について｜新卒採用情報 三菱鉛筆 株式会社 — 仕事について｜新卒採用情報 三菱鉛筆 株式会社 三菱鉛筆株式会社 https://www.mpuni.co.jp > jinji > job",
+    "url": "https://www.mpuni.co.jp/jinji/job/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://onlineshops.mpuni.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlineshops.mpuni.co.jp/html/company.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mpuni.co.jp/news/images/news/20250213chukei.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mpuni.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mpuni.co.jp/ir/finance/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mpuni.co.jp/ir/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mpuni.co.jp/company/outline.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mpuni.co.jp/jinji/company/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kenja-succession.com/articles/strategy/interview-mitsubishi-pencil/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三菱鉛筆",
+   "results": [
+    "https://www.mpuni.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+    "https://www.amazon.co.jp/stores/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86-uni/page/1BB874D1-86EB-47DD-A9E9-2B9DDE2A77B0",
+    "https://www.uniball.com/",
+    "https://www.yodobashi.com/maker/0000001396/",
+    "https://www.youtube.com/channel/UCFo_5ORIvnTNST7U7Hzd9QA",
+    "https://ja.wikipedia.org/wiki/三菱鉛筆",
+    "https://onlineshops.mpuni.co.jp/",
+    "https://www.mpuni.co.jp/products/index.html",
+    "https://onlineshops.mpuni.co.jp/shopbrand/407484/"
+   ]
+  },
+  {
+   "query": "三菱鉛筆 ビジネスモデル",
+   "results": [
+    "https://www.mpuni.co.jp/news/images/news/20250213chukei.pdf",
+    "https://www.mpuni.co.jp/",
+    "https://www.mpuni.co.jp/ir/holders/plan.html",
+    "https://www.mpuni.co.jp/company/rd/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+    "https://note.com/jobhuntkeyence/n/nc823bc842418",
+    "https://www.mpuni.co.jp/jinji/company/index.html",
+    "https://kenja-succession.com/articles/strategy/interview-mitsubishi-pencil-2/",
+    "https://www.youtube.com/watch?v=aEjVKhYUMTE",
+    "https://ja.wikipedia.org/wiki/三菱鉛筆"
+   ]
+  },
+  {
+   "query": "三菱鉛筆 決算説明資料",
+   "results": [
+    "https://www.mpuni.co.jp/ir/finance/index.html",
+    "https://www.mpuni.co.jp/ir/",
+    "https://www.mpuni.co.jp/ir/library/index.html",
+    "https://www.mpuni.co.jp/ir/calendar.html",
+    "https://www.mpuni.co.jp/news/20251030-54076.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7976",
+    "https://finance.logmi.jp/articles/383696",
+    "https://kitaishihon.com/company/7976/ir-library",
+    "https://www.mpuni.co.jp/ir/finance/",
+    "https://treelazy.com/stock-jp/7976/conference"
+   ]
+  },
+  {
+   "query": "三菱鉛筆 事業系統図",
+   "results": [
+    "https://www.mpuni.co.jp/company/outline.html",
+    "https://www.mpuni.co.jp/jinji/company/index.html",
+    "https://www.mpuni.co.jp/company/rd/",
+    "https://kitaishihon.com/company/7976/business",
+    "https://www.mpuni.co.jp/news/images/news/0327yuhou.pdf",
+    "https://www.mpuni.co.jp/company/",
+    "https://www.dsk-cloud.com/casestudy/mpuni",
+    "https://edinetdb.jp/company/E02366/text",
+    "https://www.mpuni.co.jp/ir/holders/plan.html",
+    "https://ja.wikipedia.org/wiki/三菱鉛筆"
+   ]
+  },
+  {
+   "query": "三菱鉛筆 社長 インタビュー",
+   "results": [
+    "https://www.tv-tokyo.co.jp/cambria/backnumber/2026/1022/",
+    "https://kenja-succession.com/articles/strategy/interview-mitsubishi-pencil/",
+    "https://www.smo-inc.com/insights/3118",
+    "https://x.com/cambrian_palace/status/2114187692590219603",
+    "https://www.mpuni.co.jp/jinji/job/",
+    "https://www.youtube.com/watch?v=QvprhxMUGL8",
+    "https://kigyo-scope.jp/company/7976/ceo/",
+    "https://open.spotify.com/episode/7yPBJeW2ukq6HNNBh2kjsR?autoplay=true",
+    "https://www.youtube.com/watch?v=yuTCJMfJvCw",
+    "https://forbesjapan.com/articles/detail/71840"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "どうやって売るか": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}
