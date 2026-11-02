@@ -32,34 +32,68 @@ CACHE = OUT / "screen.csv"
 FIELDS = ["code", "name", "market", "industry", "period", "sales_mil", "op_mil", "margin", "status"]
 
 
-def listed() -> list[dict]:
+EDINET_CODES = "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip"
+
+
+def _from_jpx() -> list[dict]:
     import pandas as pd
 
-    url = JPX_XLS
-    try:  # the file name can change; take the .xls linked from the page if so
-        html = requests.get(JPX_PAGE, headers={"User-Agent": UA}, timeout=30).text
-        m = re.search(r'href="([^"]+data_j\.xls)"', html)
-        if m:
-            url = requests.compat.urljoin(JPX_PAGE, m.group(1))
-    except Exception:
-        pass
-    r = requests.get(url, headers={"User-Agent": UA, "Referer": JPX_PAGE}, timeout=60)
-    raw = r.content
-    print(f"jpx {url} status={r.status_code} type={r.headers.get('content-type')} bytes={len(raw)} head={raw[:60]!r}", flush=True)
-    if raw[:4] == b"\xd0\xcf\x11\xe0":
-        df = pd.read_excel(io.BytesIO(raw), dtype=str, engine="xlrd")
-    elif raw[:2] == b"PK":
-        df = pd.read_excel(io.BytesIO(raw), dtype=str, engine="openpyxl")
-    else:
-        df = pd.read_html(io.StringIO(raw.decode("utf-8", "ignore")))[0].astype(str)
-    out = []
-    for _, r in df.iterrows():
-        market = str(r.get("市場・商品区分", ""))
-        if "内国株式" not in market:  # drop ETF, REIT, foreign stocks, PRO Market
+    html = requests.get(JPX_PAGE, headers={"User-Agent": UA}, timeout=30)
+    links = re.findall(r"""href=["']([^"']+\.xlsx?)["']""", html.text)
+    print(f"jpx page status={html.status_code} xls_links={links[:5]}", flush=True)
+    for link in links:
+        url = requests.compat.urljoin(JPX_PAGE, link)
+        r = requests.get(url, headers={"User-Agent": UA, "Referer": JPX_PAGE}, timeout=60)
+        raw = r.content
+        print(f"jpx {url} status={r.status_code} bytes={len(raw)}", flush=True)
+        if raw[:4] == b"\xd0\xcf\x11\xe0":
+            df = pd.read_excel(io.BytesIO(raw), dtype=str, engine="xlrd")
+        elif raw[:2] == b"PK":
+            df = pd.read_excel(io.BytesIO(raw), dtype=str, engine="openpyxl")
+        else:
             continue
-        out.append({"code": str(r["コード"]).strip(), "name": str(r["銘柄名"]).strip(), "market": market,
-                    "industry": str(r.get("33業種区分", "")).strip()})
+        if "コード" not in df.columns:
+            continue
+        out = []
+        for _, r in df.iterrows():
+            market = str(r.get("市場・商品区分", ""))
+            if "内国株式" not in market:  # drop ETF, REIT, foreign stocks, PRO Market
+                continue
+            out.append({"code": str(r["コード"]).strip(), "name": str(r["銘柄名"]).strip(), "market": market,
+                        "industry": str(r.get("33業種区分", "")).strip()})
+        if out:
+            return out
+    return []
+
+
+def _from_edinet() -> list[dict]:
+    """Fallback: FSA's EDINET code list (free, no key). Listed domestic companies only."""
+    import zipfile
+
+    raw = requests.get(EDINET_CODES, headers={"User-Agent": UA}, timeout=60).content
+    z = zipfile.ZipFile(io.BytesIO(raw))
+    text = z.read(z.namelist()[0]).decode("cp932", "ignore")
+    rows = list(csv.reader(io.StringIO(text)))
+    head = rows[1]
+    idx = {h: i for i, h in enumerate(head)}
+    out = []
+    for r in rows[2:]:
+        g = lambda k: r[idx[k]].strip() if k in idx and idx[k] < len(r) else ""
+        code = g("証券コード")
+        if g("上場区分") != "上場" or not code or "内国" not in g("提出者種別"):
+            continue
+        out.append({"code": code[:4], "name": g("提出者名"), "market": "上場（EDINET）", "industry": g("提出者業種")})
+    print(f"edinet listed={len(out)}", flush=True)
     return out
+
+
+def listed() -> list[dict]:
+    try:
+        out = _from_jpx()
+    except Exception as e:
+        print(f"jpx failed: {type(e).__name__}: {e}", flush=True)
+        out = []
+    return out or _from_edinet()
 
 
 def _num(s) -> float | None:
