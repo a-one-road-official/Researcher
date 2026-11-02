@@ -1,0 +1,1989 @@
+{
+ "name": "デジタルヘルス",
+ "en": "digital health",
+ "aliases": [
+  "ヘルスケアアプリ",
+  "ウェアラブル",
+  "ライフログ"
+ ],
+ "context": "11 創薬 ⑤ライフログ等ヘルスケア",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:52:40.396997+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "日本のデジタルヘルス市場規模、成長、2034年予測",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本デジタルヘルス市場 タイプ別、コンポーネント別、地域別の市場規模、シェア、トレンドおよび予測 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場規模、シェア、動向および予測（2026-2034）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場規模は2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測市場規模（2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "東京都による500億円規模のデジタルイノベーション基金（2024-2028年）および、2024年にシリーズA以上の資金調達を受けた40社以上のデジタルヘルススタートアップの誕生によってさらに強固なものとなっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場は地理的に集中しており、2025年には関東圏が国内収益の3分の1以上を占める見込みです",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "東京の病院集中、500億円のDXファンド、2024年に40社以上のデジタルヘルススタートアップがシリーズAラウンドを実施",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場規模は最小だが、2026年までの国のDX助成プログラムにより拡大が加速",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場は、全体としては中程度の集中度を示しており、上位5社（オムロン、NTTデータ、M3、LINEヘルスケア、CureApp）が2025年の市場総収益の約28～33％を占めると推定されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス市場は、2032年までにCAGR19.15％で、1,115億9,600万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "○ デジタルヘルス市場市場動向 ヘルスケア産業の市場規模は2025年に約12.5兆円に成長見込み 2021年の医療機器の市場規模は4.4兆円",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は拡大傾向だが、輸入依存が続く（参考4～5） 資金調達の推移（出典3） ヘルスケア産業（公的保険外サービス）の市場規模は2016年に約9.2兆円で、2025年には約12.5兆円に拡大すると推計されている",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年の内訳では、「食（サプリメント・健康食品等）（3.2兆円）」「遊・学（ヘルスツーリズム等）（2.4兆円）」の占める割合が大きいが、伸び率では「知（ヘルスケア関連アプリ等）（CAGR8.0％）」や「健康経営を支えるサービス（メンタルヘルス対策等）（同3.5％）」の成長余地が大きい",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表 33．ヘルスケア産業の市場規模予測（出典2） 国内における医療機器の市場規模（国内生産額＋輸入額－輸出額）は年々拡大し、2018年の2.9兆円から2021年には4.4兆円となった",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内におけるデジタルヘルス市場は黎明期にあるが、デジタルヘルスのスタートアップによる資金調達額と調達件数は、2019年までにそれぞれ383億円（対2017年比255.3％増）、93件（同200.0％増）と急速に拡大している",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表 34．デジタルヘルス分野のスタートアップの遠隔医療の市場規模（事業者売上高ベース）は、2021年度に154億円と予測される",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "膨れ上がる市場規模は約5倍 | 医療・ヘルスケア 事業開発をトータルサポート｜ドクターズ株式会社",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "膨れ上がる市場規模は約5倍",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデジタルヘルス市場は3,362億米ドルから1兆5,006億米ドルに成長",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の動向として、2023年の世界のデジタルヘルス市場規模は3,362億9千万米ドルと評価されている調査レポートがでています",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模でいうと9年間で約5倍に成長する分野となるわけです",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2024年のデジタルヘルスケア市場規模が2.964億米ドルで2029年には6.555億万米ドルとなり、CAGRは17.20%と予想している調査レポートや、ヘルスケア市場における拡張現実（AR）と仮想現実（VR）の分野の規模と動向については、2023年に34億米ドル、2024年の市場規模価値は45億米ドル、2030年の収益予測は113億ドルに達すると推定し、2024年から2030年にかけてCAGR が16.8%と示しているレポートもあります",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要なデジタルヘルスケア企業の一覧と、各社の2025年の世界市場シェア・市場規模について分析しています",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のデジタルヘルスケア業界の市場シェアを簡易に試算しますと、1位はエピックシステムズ、2位はフィリップス、3位はGEヘルスケアとなります",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のデジタルヘルス市場は、電子カルテ（EHR）企業、医療IT企業、AI診断企業、CGM企業が牽引しています",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年のデジタルヘルス業界の市場規模を4,272億ドルとしております",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社フォーチュンビジネスインサイトによると、2025年の同業界の市場規模は4,272億ドルです",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年に4,916億ドル、2033年にかけて年平均21.6%で成長し、規模は2兆3,512憶ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "4,272億ドル",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "4,916億ドル",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "2兆3,512億ドル",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス業界の世界市場規模の年平均成長率見込み(202年) ©2026 Deallab",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス業界の市場規模の予想成長推移 ©2026 Deallab",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデジタルヘルスケア市場規模は2033年までに1兆9,209億米ドルに達する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "2,609億ドル",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "最新の分析に基づくと、半導体メモリIP市場は、2026年から2033年にかけて年平均成長率（CAGR）10.00%という堅調な成長を遂げると予測されています",
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場2025～2033年、市場規模・企業動向・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場2025～2033年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場は、2024年に109億6,000万米ドル規模となり、2033年には514億2,000万米ドルに達すると予測されている",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本のデジタルヘルス市場は、2024年の109億6,000万米ドルから2033年には514億2,000万米ドルへ約4.7倍に拡大する高成長市場であり、CAGR19.0％という予測は、高齢化、医療人材不足、慢性疾患管理、遠隔医療、AI、ウェアラブル、mHealthの普及を反映している",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場2025～2033年、市場規模・企業動向・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場2025～2033年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場は、2024年に109億6,000万米ドル規模となり、2033年には514億2,000万米ドルに達すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本のデジタルヘルス市場は、2024年の109億6,000万米ドルから2033年には514億2,000万米ドルへ約4.7倍に拡大する高成長市場であり、CAGR19.0％という予測は、高齢化、医療人材不足、慢性疾患管理、遠隔医療、AI、ウェアラブル、mHealthの普及を反映している",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルスケア市場規模、トレンド、予測、2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルインフラに関するAU-WHO連携(AIの労働力訓練など)は、慢性疾患管理におけるIoT/ウェアラブルメーカーの市場規模が11.8Bに拡大しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中国のデジタル健康市場は急速に拡大し、AI、テレメディシン、スマート病院の開発を推進する「健康中国2030」計画のような強い政府の取り組みによって運転されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "技術の洞察(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コンポーネントの洞察(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーインサイト(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "に達すると予測されており、2026年から2034年の予測期間中に年平均",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "成長率（CAGR）6.9%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026-2034）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2034年の予測期間において、日本のデジタルヘルス市場内で最も急速に成長する2つのサブカテゴリーとして、ヘルスケア・アナリティクスとテレヘルスを強調したセグメント別のCAGR比較を以下に示す",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル治療薬の保険適用経路の確立、5Gの地方エリアへの普及、主要な画像診断モダリティにおけるAI診断の臨床的有効性の立証が進むにつれ、2034年までのCAGRは6.9%と予測され、市場の見通しは極めて明るい",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "NTTやKDDIによる5Gネットワークの拡大により、高品質な遠隔診療や診断が可能となり、地方や医療過疎地域における医療へのアクセスが改善される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモとKDDIは、5Gの医療分野におけるユースケースを拡大し、コネクテッドケアの提供を加速させている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは、企業のEMR/EHR導入、病院管理システム、および政府の2025年EMR標準化義務化の下で急速に拡大するSaaSベースの遠隔医療プラットフォームに牽引されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、テレヘルスが26.4%で首位を占める見込みであり、厚生労働省の規制緩和や「LINEドクター」のプラットフォームへの組み込みによる拡大が追い風となっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療用ウェアラブルは18.7%を占め、オムロンの普及した接続型血圧計群と、臨床グレードの健康モニタリング機能を備えた民生用スマートウォッチの採用拡大が牽引役となっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場規模は最小だが、2026年までの国のDX助成プログラムにより拡大が加速",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス市場は、2032年までにCAGR19.15％で、1,115億9,600万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは19.15%です",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は拡大傾向だが、輸入依存が続く（参考4～5） 資金調達の推移（出典3） ヘルスケア産業（公的保険外サービス）の市場規模は2016年に約9.2兆円で、2025年には約12.5兆円に拡大すると推計されている",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年の内訳では、「食（サプリメント・健康食品等）（3.2兆円）」「遊・学（ヘルスツーリズム等）（2.4兆円）」の占める割合が大きいが、伸び率では「知（ヘルスケア関連アプリ等）（CAGR8.0％）」や「健康経営を支えるサービス（メンタルヘルス対策等）（同3.5％）」の成長余地が大きい",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表 33．ヘルスケア産業の市場規模予測（出典2） 国内における医療機器の市場規模（国内生産額＋輸入額－輸出額）は年々拡大し、2018年の2.9兆円から2021年には4.4兆円となった",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "○ 遠隔医療市場デジタルヘルスや遠隔医療等の新市場が立ち上がる（参考6） ただし、輸入額の増加率（対2018年比73.7％増）が国内生産額の増加率（同33.5％増）を上回っており、国内生産の拡大が求められる",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内におけるデジタルヘルス市場は黎明期にあるが、デジタルヘルスのスタートアップによる資金調達額と調達件数は、2019年までにそれぞれ383億円（対2017年比255.3％増）、93件（同200.0％増）と急速に拡大している",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、「オンライン診療システム」は、コロナ禍以前の2019年度から86.4％増と急激に拡大しており、今後の本格的な市場形成が期待されている",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には3,766億8千万米ドルから、2032年までに1兆5,006億9千万米ドルに成長すると予測されており、CAGR（一定期間における各年成長率）は18.9%を示しています",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2024年のデジタルヘルスケア市場規模が2.964億米ドルで2029年には6.555億万米ドルとなり、CAGRは17.20%と予想している調査レポートや、ヘルスケア市場における拡張現実（AR）と仮想現実（VR）の分野の規模と動向については、2023年に34億米ドル、2024年の市場規模価値は45億米ドル、2030年の収益予測は113億ドルに達すると推定し、2024年から2030年にかけてCAGR が16.8%と示しているレポートもあります",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本国内の調査レポートでも、2025年には4,837億米ドル、年平均成長率（CAGR）20%以上と見込んでいるレポートもあります",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年に4,916億ドル、2033年にかけて年平均21.6%で成長し、規模は2兆3,512憶ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス業界の世界市場規模の年平均成長率見込み(202年) ©2026 Deallab",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、2023年の2,609億米ドルから2033年には1,9209億米ドルに拡大し、2023年から2033年の予測期間中に22.10%のCAGRで成長すると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023 - 2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "最新の分析に基づくと、半導体メモリIP市場は、2026年から2033年にかけて年平均成長率（CAGR）10.00%という堅調な成長を遂げると予測されています",
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2033年の年平均成長率（CAGR）は19.0％であり、高齢化、慢性疾患管理需要、遠隔医療、ウェアラブル、AI、電子健康記録（EHR）、モバイルヘルスなどの普及を背景に、高い成長が見込まれている",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本のデジタルヘルス市場は、2024年の109億6,000万米ドルから2033年には514億2,000万米ドルへ約4.7倍に拡大する高成長市場であり、CAGR19.0％という予測は、高齢化、医療人材不足、慢性疾患管理、遠隔医療、AI、ウェアラブル、mHealthの普及を反映している",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2033年の年平均成長率（CAGR）は19.0％であり、高齢化、慢性疾患管理需要、遠隔医療、ウェアラブル、AI、電子健康記録（EHR）、モバイルヘルスなどの普及を背景に、高い成長が見込まれている",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本のデジタルヘルス市場は、2024年の109億6,000万米ドルから2033年には514億2,000万米ドルへ約4.7倍に拡大する高成長市場であり、CAGR19.0％という予測は、高齢化、医療人材不足、慢性疾患管理、遠隔医療、AI、ウェアラブル、mHealthの普及を反映している",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに、化合物の年間成長率を示す",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "21.2%のCAGR",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルインフラに関するAU-WHO連携(AIの労働力訓練など)は、慢性疾患管理におけるIoT/ウェアラブルメーカーの市場規模が11.8Bに拡大しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中国のデジタル健康市場は急速に拡大し、AI、テレメディシン、スマート病院の開発を推進する「健康中国2030」計画のような強い政府の取り組みによって運転されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて、Digital Health MarketのCAGRが21.2%になるように計画されています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "「生活の質の向上」「社会的課題の解決」「ビジネス機会の拡大」という三つの視点を設定し、AIと医療、AI創薬、医療ビッグデータ、スマートウエア、スマートコンタクトレンズ、健康長寿、毛髪診断、口腔ケア、腸内デザイン、精密医療、疲労科学、個別化食、フェイクフード、バイオエコノミーなど、市場価値と時流の変化に合わせて進化する今後10年の技術の変遷を予測しています",
+    "url": "https://www.nikkeibpm.co.jp/item/4363/4363/index.html?srsltid=AYCX9vJB6JmE72_7vVK3_iEWsmRPqiN1fdLrXIA6IMIgFRUEuMNqZhED",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本のデジタルヘルス市場の規模はどの程度なのですか？そして、2037年には日本のヘルスケア市場はどの程度の規模になりますか？SDKI analyticsのアナリストによると、日本のデジタルヘルス市場は2025ー2037年に約10%のCAGR で着実に成長し、2037年には市場規模が約180億米ドルに達すると予想されています",
+    "url": "https://www.sdki.jp/blog/transforming-digital-health-in-japan/126",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global digital health market size was valued at USD 347.4 billion in 2025 and is projected to grow from USD 420.2 billion in 2026 to USD 1,830.4 billion by 2033, at a CAGR of 23.4% from 2026 to 2033. North America digital health market dominated global market in 2025 with a revenue share of 37.1%. The market is driven by several factors, such as a strong domestic digital health market for",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 23.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 23.4% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million and CAGR from 2026 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global digital health market is expected to grow at a compound annual growth rate of 23.4% from 2026 to 2033 to reach USD 1,830.4 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "]. This figure dropped to $142.9 billion in 2022, but rebounded to $180.2 billion in 2023. It is projected to reach $549.7 billion by 2028, with a compound annual growth rate (CAGR) of 25% from 2023 to 2028 [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "]. However, it then experienced a decline and is projected to reach $3.5 billion by 2024. The market is forecasted to grow at a CAGR of 4.52% from 2024 to 2028, reaching $4.1 billion by 2028 [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "The global DTx market size is projected to expand from $3.9 billion in 2022 to $17.3 billion by 2030, with a CAGR of 20.5% [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "The global telehealth market is poised for significant growth, with projections indicating an increase from $613 billion in 2021 to $3.42 trillion by 2028, with a CAGR of 23.2% [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. digital health market size was exhibited at USD 117.15 billion in 2025 and is projected to hit around USD 713.36 billion by 2035, growing at a CAGR of 19.8% during the forecast period 2026 to 2035.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The diabetes segment held the largest revenue share of over 24.3% in 2023 and is expected to register the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The patient segment held the largest share of 35.0% in 2025 and is expected to witness the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 19.8%",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. digital health market is expected to grow at a compound annual growth rate of 17.11% from 2023 to 2032",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue is expected to show an annual growth rate (CAGR 2026-2031) of 8.44%, resulting in a projected market volume of US$271,823,124,498.27 by 2031.",
+    "url": "https://www.statista.com/outlook/hmo/digital-health/worldwide/?srsltid=AYCX9vKNFPQ9c0_krZ36DwMpYC0MlhNxtt4FsJ8qG7YeQI-pOZC9AY0u",
+    "pass": 3
+   },
+   {
+    "quote": "US Digital Health Market Size, Share | CAGR of 19.6%",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 19.6%",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "日本デジタルヘルス市場 タイプ別、コンポーネント別、地域別の市場規模、シェア、トレンドおよび予測 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルヘルス市場規模、シェア、動向および予測（2026-2034）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で、コンポーネント別ではソフトウェアが52.8%で最大シェアを占め、タイプ別ではテレヘルスが26.4%で最大のセグメントとなっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、東京に病院、デジタルヘルスベンチャー、公共部門のDX投資が集中していることを背景に、関東地方が38.5%で最大のシェアを占めている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方（2025年時点で38.5%のシェア）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア（2025年時点で52.8%のシェア）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔医療（2025年時点のシェア26.4%）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ソフトウェアソリューションが市場収益の52.8%を占め、これはEMR/EHRプラットフォーム、病院管理システム、およびAI診断ツールに対する企業の導入が堅調であることを反映している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、厚生労働省による初診オンライン診療の規制緩和を受け、2025年にはテレヘルスが26.4%を占め、主要なセグメントとして台頭した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "EMR/EHRシステムは、全国医療情報プラットフォームの義務化を背景に、2025年に21.3%を占めた",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、2025年に関東地方が国内市場シェアの38.5%を占め、デジタルヘルス分野のスタートアップ、大学病院、政府のDX投資資金が最も集中している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア - シェア52.8%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔医療 - シェア26.4%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "EMR/EHRシステム - 21.3%のシェア（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方 - 売上高シェア38.5%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年の内訳では、「食（サプリメント・健康食品等）（3.2兆円）」「遊・学（ヘルスツーリズム等）（2.4兆円）」の占める割合が大きいが、伸び率では「知（ヘルスケア関連アプリ等）（CAGR8.0％）」や「健康経営を支えるサービス（メンタルヘルス対策等）（同3.5％）」の成長余地が大きい",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "金額ベースでは、2018年時点で「治療系医療機器（カテーテル、ペースメーカー等）」が約6割、「診断系医療機器（内視鏡、CT、MRI等）」が2割を占める",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "内訳では「遠隔画像診断（読影サービス）」が約9割を占めている",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要なデジタルヘルスケア企業の一覧と、各社の2025年の世界市場シェア・市場規模について分析しています",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のデジタルヘルスケア業界の市場シェアを簡易に試算しますと、1位はエピックシステムズ、2位はフィリップス、3位はGEヘルスケアとなります",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "※デジタルヘルス業界の市場シェアとランキング（2025年）",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス業界の世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、米国急性期病院EHR市場で 42.3% のシェア に達し、過去最大の増加幅を記録しました",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルスケア市場の動向、規模、シェア、2033年までの予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデジタルヘルスケア市場の規模、シェア、COVID-19の影響分析、テクノロジー別(ヘルスケア分析、mHealth、遠隔医療など)、コンポーネント別(ハードウェア、ソフトウェア、サービス)、アプリケーション別(肥満、心血管、糖尿病、呼吸器疾患など)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、2023年～2033年の分析と予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデジタルヘルスケア市場の規模、シェア、COVID-19の影響分析、",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーをベースに、Tele-healthは、医療データのデジタル化、老化人口、およびパーソナライズされたケアに対する患者の要求に対する60.5%の著名なシェアを獲得しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コンポーネントセグメントに基づき、ソフトウェアは2025年に45.62%の推定シェアを占め、デジタルヘルスケアソリューションを可能にする重要な役割を果たしています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーセグメントに基づいて、病院のセグメントは40.62%の市場シェアで市場を支配します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "60歳以上の人口のシェアは、2020年の1億から1.4億に増加します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "The global digital health market size was valued at USD 347.4 billion in 2025 and is projected to grow from USD 420.2 billion in 2026 to USD 1,830.4 billion by 2033, at a CAGR of 23.4% from 2026 to 2033. North America digital health market dominated global market in 2025 with a revenue share of 37.1%. The market is driven by several factors, such as a strong domestic digital health market for",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component: Software segment dominated the market, with a revenue share of 45.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology: Tele healthcare segment held the largest market share of 44.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Diabetes segment held the largest market share of over 25% in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Patient segment held the largest market share of over 35.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. Technology Market Share Analysis, 2025 & 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.2. Application Market Share Analysis, 2025 & 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. Component Market Share Analysis, 2024 & 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.2. End Use Market Share Analysis, 2024 & 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.1. Regional Market Share Analysis, 2024 & 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The tele-healthcare segment led the market with the highest revenue share of 43.2% in 2025.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the services segment dominated the market with the highest revenue share of more than 37.8%.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The diabetes segment held the largest revenue share of over 24.3% in 2023 and is expected to register the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The patient segment held the largest share of 35.0% in 2025 and is expected to witness the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The product type segment is divided into software, hardware, and services, with services taking the lead in 2024 with a market share of",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The services segment led in 2024, claiming a market share of",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "According to studies conducted by key global market leaders, in 2022, the Google Play Store offered approximately 54,546 healthcare and medical apps. The number of m-Health apps available to Android users on the platform steadily increased from the beginning of 2020 to the end of 2021, peaking at over 65,300 apps in the last quarter of 2021.",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By clinical workflow: Telemedicine & Virtual Care Consultations are expected to concentrate 39.7% in 2026 owing to permanent outpatient reimbursement for video primary care and behavioral health visits.",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "By distribution and care channel: Hospital, Clinic, and Institutional Procurement is anticipated to account for 47.4% in 2026 through multi-year group purchasing contracts.",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 6: Solution Component Leadership and Market Growth for the Digital Health Market (segment and CAGR percentage), 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on deployment architecture, HIPAA/GDPR cloud-native SaaS is projected to account for 64.7% in 2026, supported by elastic FHIR interoperability and automated security patching.",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hospitals & integrated health systems are forecast to account for 48.9% of end user demand in 2026 as health networks centralize multi-site virtual care governance.",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The digital care provision category holds the largest market share, of 60%, in 2025, driven by widespread adoption of telemedicine platforms, remote consultations, and virtual care ecosystems across healthcare systems.",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The providers category holds the largest market share, of 45%, in 2025, due to large-scale adoption of digital solutions by hospitals and healthcare systems.",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cloud category holds the larger market share, of 70%, in 2025, and will also have the higher CAGR, of 21.1%, driven by scalable and cost-efficient healthcare IT deployment models.",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America holds the largest market share, of 40%, in 2025, while Asia-Pacific will have the highest CAGR, of 24.7%, due to rapid digital infrastructure expansion and government-led initiatives.",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要プレイヤー／事例",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業プロファイル",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した診断支援やデジタルツイン技術にも注力しており、世界の医療インフラを支える主要企業の一つです",
+    "url": "https://deallab.info/digital-health/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルスケア市場の主要企業としては、Koninklijke Philips NV、Abbott、Siemens Healthineers AG、Medtronic、General Electric Company、Dexcom Inc.、Johnson & Johnson、Fitbit, Inc.、Masimo、AirStrip Technologies、Telefonica SA、IBM corporation、CISCO System, Inc、Apple Inc. などが挙げられます",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、タイプ別の違いを踏まえながらデジタルヘルス市場の世界シェアと主要企業を整理します",
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "pass": 3
+   },
+   {
+    "quote": "半導体機器用の金属チャンバーの地域別シェアと主要企業",
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業として、Takeda Pharmaceutical、OMRON、CureApp、Shionogi、HealthNode、Whill、Allm、Dai-ichi Life Holdings、Xiaomi、Hitachi Energyなどが挙げられている",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "新興の先駆的企業および主要プレイヤー",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 その他の主要企業",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "※各主要企業について、原則として同様の企業分析項目が提供されます",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業として、Takeda Pharmaceutical、OMRON、CureApp、Shionogi、HealthNode、Whill、Allm、Dai-ichi Life Holdings、Xiaomi、Hitachi Energyなどが挙げられている",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "新興の先駆的企業および主要プレイヤー",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "※各主要企業について、原則として同様の企業分析項目が提供されます",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "急速に実用化が進む有望分野について、2030 年の国内市場規模予測や各分野ごとの現状と未来展望、サプライチェーンや参入企業の技術開発・サービス動向、などを豊富な図版を交えて解説しています",
+    "url": "https://www.nikkeibpm.co.jp/item/4363/4363/index.html?srsltid=AYCX9vJB6JmE72_7vVK3_iEWsmRPqiN1fdLrXIA6IMIgFRUEuMNqZhED",
+    "pass": 3
+   },
+   {
+    "quote": "参入企業が相次ぎ競争激化",
+    "url": "https://www.nikkeibpm.co.jp/item/4363/4363/index.html?srsltid=AYCX9vJB6JmE72_7vVK3_iEWsmRPqiN1fdLrXIA6IMIgFRUEuMNqZhED",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 9. Competitive Landscape",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the digital health market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "]. Meanwhile, the number of digital health mergers and acquisitions (M&A) doubled in 2023, signaling a growing interest in consolidation as an alternative strategy for startups facing financial challenges [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "]. Additionally, Vuno offers specialized AI software for ophthalmic imaging detection and diagnostic assistance, termed “VUNO Med – Fundus AI.” Other key players include DeepNoid and JLK Inspection [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3:Who are the key players in U.S. digital health market?",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the U.S. digital health market include Apple Inc., Google Inc, Greenway Health, American Well, Teladoc Health, McKesson Corporation, Cerner Corporation, Vodafone Group, AT&T, NextGen Healthcare, Allscripts, CureMD Healthcare, and IBM Corporation.",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the US Digital Health Market",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health - Market Insights, Competitive Landscape, and Market Forecast - 2032",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Key Players:",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key market players operating in the Digital Health market include",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies dominating the digital health market.",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players operating in the digital health market?",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "3. Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Digital Health Market",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2026 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Digital Health Market:",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Competitive Landscape and Forecasts to 2030",
+    "url": "https://finance.yahoo.com/news/digital-health-market-competitive-landscape-133200125.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Digital Health - Market Insights, Competitive Landscape, and Market Forecast - 2030\"",
+    "url": "https://finance.yahoo.com/news/digital-health-market-competitive-landscape-133200125.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies dominating the digital health market.",
+    "url": "https://finance.yahoo.com/news/digital-health-market-competitive-landscape-133200125.html",
+    "pass": 3
+   },
+   {
+    "quote": "3. Competitive Landscape",
+    "url": "https://finance.yahoo.com/news/digital-health-market-competitive-landscape-133200125.html",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market by Component, Categories, End User and Region - Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "The report also helps in understanding the Digital Health market dynamics, structure by analyzing the market segments and project the market size. Clear representation of competitive analysis of key players by product, price, financial position, product portfolio, growth strategies, and regional presence in the Digital Health market make the report investor’s guide.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": ", smartphone users, and the presence of key players are major factors driving the market growth of this region. Rising implementation of HER in ambulatory care hospital-owned, developed health IT infrastructure and government initiatives for digital health technologies implementation in the healthcare sector are factors expected to drive the market growth through the forecast period.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Digital Health Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "東京都による500億円規模のデジタルイノベーション基金（2024-2028年）および、2024年にシリーズA以上の資金調達を受けた40社以上のデジタルヘルススタートアップの誕生によってさらに強固なものとなっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "3,000以上の診療所でAIによる初期診断を提供、シリーズDの資金調達を完了",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は拡大傾向だが、輸入依存が続く（参考4～5） 資金調達の推移（出典3） ヘルスケア産業（公的保険外サービス）の市場規模は2016年に約9.2兆円で、2025年には約12.5兆円に拡大すると推計されている",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内におけるデジタルヘルス市場は黎明期にあるが、デジタルヘルスのスタートアップによる資金調達額と調達件数は、2019年までにそれぞれ383億円（対2017年比255.3％増）、93件（同200.0％増）と急速に拡大している",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容や主要メンバーの経歴、業務提携の意向、主要な出資企業や取引先、2030年時点の事業イメージなど、100社それぞれに16項目を調査",
+    "url": "https://www.nikkeibpm.co.jp/item/4363/4363/index.html?srsltid=AYCX9vJB6JmE72_7vVK3_iEWsmRPqiN1fdLrXIA6IMIgFRUEuMNqZhED",
+    "pass": 3
+   },
+   {
+    "quote": "3.2.1.4. Increase in investments supporting mHealth & digital health",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.2.1.5. Increase in investments supporting mHealth & digital health",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.14. Digital Health Venture Capital (VC) Deal Activity",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.15. Top 10 Digital Health VC Deals in 2024",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "1) Market size and investment trends",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, the generative AI startup TORTUS, based in London, recently secured an investment of $4.2 million for its AI personal assistant. This technology automatically transcribes conversations between clinicians and patients directly into electronic health records (EHRs) and automates the creation of various clinical documents, all without recording or storing the conversations themselves [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "https://m.health.chosun.com/svc/news_view.html?contid=2023042801047",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "Lee JI. The evolving customized US Telehealth Market: what opportunities await our companies? [Internet] Seoul, Korea: Korea Trade-Investment Promotion Agency (KOTRA); 2024. [cited at 2024 Jul 20]. Available from:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital health venture funding in North America H1 2025",
+    "url": "https://www.statista.com/outlook/hmo/digital-health/worldwide/?srsltid=AYCX9vKNFPQ9c0_krZ36DwMpYC0MlhNxtt4FsJ8qG7YeQI-pOZC9AY0u",
+    "pass": 3
+   },
+   {
+    "quote": "The providers category holds the largest market share, of 45%, in 2025, driven by large-scale investments by hospitals, clinics, and healthcare systems in digital transformation initiatives. Healthcare providers are adopting electronic health",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Favorable Government Policies: Several government organizations impose policies to implement digital health in the country. The US government released the “USAID Digital Health Position Paper (2024-2029)” with a strategic vision for USAID investments and activities that advance global health using digital technologies.",
+    "url": "https://www.towardshealthcare.com/insights/digital-health-market-is-key-to-a-healthier-future",
+    "pass": 3
+   },
+   {
+    "quote": "In the UK, more than 28 million people use the NHS app, and over 40 million people have an NHS login. The UK government announced an investment of £150 million in funding for digital adoption in healthcare organizations. It has also made plans to invest £2 billion to support electronic patient records in all NHS trusts.",
+    "url": "https://www.towardshealthcare.com/insights/digital-health-market-is-key-to-a-healthier-future",
+    "pass": 3
+   },
+   {
+    "quote": "The company has transformed into one of the few unicorns in the space, most recently getting a $3.3 billion valuation in mid-2024 after its $100 million Series E funding round. This investment is fueling continued product innovation and the company’s global reach.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "With more than $500 million raised to date from leading investors like the Carlyle Group, Included Health continues to expand a seamless, whole-person experience that simplifies benefits and elevates outcomes. Members get clear guidance and quality care, while organizations benefit from having a unified solution that turns a complex system into a smooth, supportive journey.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Amwell has turned virtual care from a stopgap into durable infrastructure. Co-founded in Boston in 2006 by physicians Ido and Roy Schoenberg, the company’s Converge platform embeds virtual, in-person, and automated programs into a single experience for health systems, plans, and government agencies. It has raised over $850 million from investors including Allianz X and Takeda.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder-CEO Kate Ryder’s mission to address major gaps in family healthcare gained fresh momentum with a $125 million Series F in October 2024 that brought total funding above $425 million and valued Maven at $1.7 billion. Notable investors include Lux Capital, General Catalyst, and Icon Ventures.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The company closed a $200 million Series D in December 2024 at a $5.2 billion valuation, alongside a $75 million strategic investment from Dexcom. It’s using this funding to accelerate a push into metabolic insights after acquiring Veri. Annual revenue reportedly passed $500 million in 2024.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkinen wants to reverse type 2 diabetes and obesity in one billion people. Virta has raised over $370 million across several rounds from the likes of Tiger Global Management and Venrock to help achieve this goal, with its most recent valuation being $2 billion off the back of its Series E in April 2021.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2018, the Austin-born company has facilitated millions of patient visits, acquired GoodRx Care’s virtual-care backend to deepen infrastructure, and partnered across retail and life sciences. It has raised over $215 million trying to achieve this goal, most recently closing a $150 million Series C round in January 2022. Notable investors include Tiger Global, Tusk Venture Partners, and CRV.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "AppliedVR has raised about $70 million from big name investors like Sway Ventures and SVB Ventures. Co-founder and CEO Matthew Stoudt drives the company’s vision of immersive therapeutics to shift the chronic pain paradigm. AppliedVR now has helped treat over 60,000 patients and it partners with 200+ leading health systems.",
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "デジタルヘルス市場規模 、トレンド、成長、分析、2026年 ... — デジタルヘルス市場規模 、トレンド、成長、分析、2026年 ... Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E5%B8%82%E5%A0%B4-100227",
+    "pass": 3
+   },
+   {
+    "quote": "日本の デジタルヘルス市場規模 、成長、2034年予測 — 日本の デジタルヘルス市場規模 、成長、2034年予測 IMARC Group https://www.imarcgroup.com > Healthcare",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス 市場 | 市場規模 分析 予測 2026-2032年 【市場 ... — デジタルヘルス 市場 | 市場規模 分析 予測 2026-2032年 【市場 ... グローバルインフォメーション https://www.gii.co.jp > ... > 医療機器 > eヘルス",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス ケア 市場 の動向、規模、 シェア 、2033年まで ... — デジタルヘルス ケア 市場 の動向、規模、 シェア 、2033年まで ... Spherical Insights https://www.sphericalinsights.com > Healthcare",
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の デジタルヘルス市場 規模、成長、2034年予測 — 日本の デジタルヘルス市場 規模、成長、2034年予測 IMARC Group https://www.imarcgroup.com > Healthcare",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス 世界 シェア ランキング | 記事 - inkrichブログ — デジタルヘルス 世界 シェア ランキング | 記事 - inkrichブログ inkrich https://pliable316.inkrich.com > posts",
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "pass": 3
+   },
+   {
+    "quote": "日本の デジタルヘルス市場2025 ～2033年 - Newscast.jp — 日本の デジタルヘルス市場2025 ～2033年 - Newscast.jp Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "日本の デジタルヘルス市場2025 ～2033年 - アットプレス — 日本の デジタルヘルス市場2025 ～2033年 - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルヘルス ケア 市場 規模、トレンド、予測、 2025 -2032 — デジタルヘルス ケア 市場 規模、トレンド、予測、 2025 -2032 Coherent Market Insights https://www.coherentmarketinsights.com > デジタルヘル...",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Size And Share Report, 2026-2033 — Digital Health Market Size And Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Report 2025 -2030, By Offering, Disease ... — Digital Health Market Report 2025 -2030, By Offering, Disease ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html",
+    "pass": 3
+   },
+   {
+    "quote": "US Digital Health Market Size 2025 To 2035 - Nova One Advisor — US Digital Health Market Size 2025 To 2035 - Nova One Advisor Nova One Advisor https://www.novaoneadvisor.com > u...",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Size , Trends, Growth, Analysis, 2026-2034 — Digital Health Market Size , Trends, Growth, Analysis, 2026-2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/digital-health-market-100227",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Report 2025-2030, By Offering, Disease ... — Digital Health Market Report 2025-2030, By Offering, Disease ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html",
+    "pass": 3
+   },
+   {
+    "quote": "US Digital Health Market Size, Share | CAGR of 19.6% — US Digital Health Market Size, Share | CAGR of 19.6% Market.us https://market.us > ... > Healthcare IT",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Size, Share & Trends Analysis, 2032 — Digital Health Market Size, Share & Trends Analysis, 2032 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "pass": 3
+   },
+   {
+    "quote": "US Digital Health Market (2025-2030) - MarketsandMarkets — US Digital Health Market (2025-2030) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/digital-health-market/US",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Trends 2025 | IQVIA — Digital Health Trends 2025 | IQVIA IQVIA https://www.iqvia.com > reports > dig...",
+    "url": "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/digital-health-trends-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health Market Size, Demand and Trends Analysis 2035 — Digital Health Market Size, Demand and Trends Analysis 2035 Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/digital-health-market-is-key-to-a-healthier-future",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.9",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "quote": "成長率（CAGR）6.9%"
+   },
+   {
+    "value": "19.15",
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "quote": "デジタルヘルス市場は、2032年までにCAGR19.15％で、1,115億9,600万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "quote": "2016年の内訳では、「食（サプリメント・健康食品等）（3.2兆円）」「遊・学（ヘルスツーリズム等）（2.4兆円）」の占める割合が大きいが、伸び率では「知（ヘルスケア関連アプリ等）（CAGR8.0％）」や「健康経営を支えるサービス（メンタルヘルス対策等）（同3.5％）」の成長余地が大きい"
+   },
+   {
+    "value": "18.9",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "quote": "2024年には3,766億8千万米ドルから、2032年までに1兆5,006億9千万米ドルに成長すると予測されており、CAGR（一定期間における各年成長率）は18.9%を示しています"
+   },
+   {
+    "value": "17.20",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "quote": "例えば、2024年のデジタルヘルスケア市場規模が2.964億米ドルで2029年には6.555億万米ドルとなり、CAGRは17.20%と予想している調査レポートや、ヘルスケア市場における拡張現実（AR）と仮想現実（VR）の分野の規模と動向については、2023年に34億米ドル、2024年の市場規模価値は45億米ドル、2030年の収益予測は113億ドルに達すると推定し、2024年から2030年にかけてCAGR が16.8%と示しているレポートもあります"
+   },
+   {
+    "value": "16.8",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "quote": "例えば、2024年のデジタルヘルスケア市場規模が2.964億米ドルで2029年には6.555億万米ドルとなり、CAGRは17.20%と予想している調査レポートや、ヘルスケア市場における拡張現実（AR）と仮想現実（VR）の分野の規模と動向については、2023年に34億米ドル、2024年の市場規模価値は45億米ドル、2030年の収益予測は113億ドルに達すると推定し、2024年から2030年にかけてCAGR が16.8%と示しているレポートもあります"
+   },
+   {
+    "value": "20",
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "quote": "また、日本国内の調査レポートでも、2025年には4,837億米ドル、年平均成長率（CAGR）20%以上と見込んでいるレポートもあります"
+   },
+   {
+    "value": "10.00",
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "quote": "最新の分析に基づくと、半導体メモリIP市場は、2026年から2033年にかけて年平均成長率（CAGR）10.00%という堅調な成長を遂げると予測されています"
+   },
+   {
+    "value": "19.0",
+    "url": "https://newscast.jp/smart/news/3740280",
+    "quote": "2025～2033年の年平均成長率（CAGR）は19.0％であり、高齢化、慢性疾患管理需要、遠隔医療、ウェアラブル、AI、電子健康記録（EHR）、モバイルヘルスなどの普及を背景に、高い成長が見込まれている"
+   },
+   {
+    "value": "19.0",
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "quote": "2025～2033年の年平均成長率（CAGR）は19.0％であり、高齢化、慢性疾患管理需要、遠隔医療、ウェアラブル、AI、電子健康記録（EHR）、モバイルヘルスなどの普及を背景に、高い成長が見込まれている"
+   },
+   {
+    "value": "21.2",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "quote": "2025年から2032年にかけて、Digital Health MarketのCAGRが21.2%になるように計画されています"
+   },
+   {
+    "value": "23.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "The global digital health market size was valued at USD 347.4 billion in 2025 and is projected to grow from USD 420.2 billion in 2026 to USD 1,830.4 billion by 2033, at a CAGR of 23.4% from 2026 to 2033. North America digital health market dominated global market in 2025 with a revenue share of 37.1"
+   },
+   {
+    "value": "25",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "quote": "]. This figure dropped to $142.9 billion in 2022, but rebounded to $180.2 billion in 2023. It is projected to reach $549.7 billion by 2028, with a compound annual growth rate (CAGR) of 25% from 2023 to 2028 ["
+   },
+   {
+    "value": "4.52",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "quote": "]. However, it then experienced a decline and is projected to reach $3.5 billion by 2024. The market is forecasted to grow at a CAGR of 4.52% from 2024 to 2028, reaching $4.1 billion by 2028 ["
+   },
+   {
+    "value": "20.5",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "quote": "The global DTx market size is projected to expand from $3.9 billion in 2022 to $17.3 billion by 2030, with a CAGR of 20.5% ["
+   },
+   {
+    "value": "23.2",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "quote": "The global telehealth market is poised for significant growth, with projections indicating an increase from $613 billion in 2021 to $3.42 trillion by 2028, with a CAGR of 23.2% ["
+   },
+   {
+    "value": "19.8",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "quote": "The U.S. digital health market size was exhibited at USD 117.15 billion in 2025 and is projected to hit around USD 713.36 billion by 2035, growing at a CAGR of 19.8% during the forecast period 2026 to 2035."
+   },
+   {
+    "value": "17.11",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "quote": "The U.S. digital health market is expected to grow at a compound annual growth rate of 17.11% from 2023 to 2032"
+   },
+   {
+    "value": "19.6",
+    "url": "https://market.us/report/us-digital-health-market/",
+    "quote": "US Digital Health Market Size, Share | CAGR of 19.6%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "52.8",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "quote": "2025年時点で、コンポーネント別ではソフトウェアが52.8%で最大シェアを占め、タイプ別ではテレヘルスが26.4%で最大のセグメントとなっている"
+   },
+   {
+    "value": "26.4",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "quote": "2025年時点で、コンポーネント別ではソフトウェアが52.8%で最大シェアを占め、タイプ別ではテレヘルスが26.4%で最大のセグメントとなっている"
+   },
+   {
+    "value": "38.5",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "quote": "地域別では、東京に病院、デジタルヘルスベンチャー、公共部門のDX投資が集中していることを背景に、関東地方が38.5%で最大のシェアを占めている"
+   },
+   {
+    "value": "21.3",
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "quote": "EMR/EHRシステムは、全国医療情報プラットフォームの義務化を背景に、2025年に21.3%を占めた"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "quote": "2016年の内訳では、「食（サプリメント・健康食品等）（3.2兆円）」「遊・学（ヘルスツーリズム等）（2.4兆円）」の占める割合が大きいが、伸び率では「知（ヘルスケア関連アプリ等）（CAGR8.0％）」や「健康経営を支えるサービス（メンタルヘルス対策等）（同3.5％）」の成長余地が大きい"
+   },
+   {
+    "value": "3.5",
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "quote": "2016年の内訳では、「食（サプリメント・健康食品等）（3.2兆円）」「遊・学（ヘルスツーリズム等）（2.4兆円）」の占める割合が大きいが、伸び率では「知（ヘルスケア関連アプリ等）（CAGR8.0％）」や「健康経営を支えるサービス（メンタルヘルス対策等）（同3.5％）」の成長余地が大きい"
+   },
+   {
+    "value": "42.3",
+    "url": "https://deallab.info/digital-health/",
+    "quote": "2024年には、米国急性期病院EHR市場で 42.3% のシェア に達し、過去最大の増加幅を記録しました"
+   },
+   {
+    "value": "60.5",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "quote": "テクノロジーをベースに、Tele-healthは、医療データのデジタル化、老化人口、およびパーソナライズされたケアに対する患者の要求に対する60.5%の著名なシェアを獲得しました"
+   },
+   {
+    "value": "45.62",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "quote": "コンポーネントセグメントに基づき、ソフトウェアは2025年に45.62%の推定シェアを占め、デジタルヘルスケアソリューションを可能にする重要な役割を果たしています"
+   },
+   {
+    "value": "40.62",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "quote": "エンドユーザーセグメントに基づいて、病院のセグメントは40.62%の市場シェアで市場を支配します"
+   },
+   {
+    "value": "23.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "The global digital health market size was valued at USD 347.4 billion in 2025 and is projected to grow from USD 420.2 billion in 2026 to USD 1,830.4 billion by 2033, at a CAGR of 23.4% from 2026 to 2033. North America digital health market dominated global market in 2025 with a revenue share of 37.1"
+   },
+   {
+    "value": "37.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "The global digital health market size was valued at USD 347.4 billion in 2025 and is projected to grow from USD 420.2 billion in 2026 to USD 1,830.4 billion by 2033, at a CAGR of 23.4% from 2026 to 2033. North America digital health market dominated global market in 2025 with a revenue share of 37.1"
+   },
+   {
+    "value": "45.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "By component: Software segment dominated the market, with a revenue share of 45.7% in 2025."
+   },
+   {
+    "value": "44.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "By technology: Tele healthcare segment held the largest market share of 44.7% in 2025."
+   },
+   {
+    "value": "25",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "By application: Diabetes segment held the largest market share of over 25% in 2025"
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "quote": "By end use: Patient segment held the largest market share of over 35.0% in 2025."
+   },
+   {
+    "value": "43.2",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "quote": "The tele-healthcare segment led the market with the highest revenue share of 43.2% in 2025."
+   },
+   {
+    "value": "37.8",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "quote": "In 2025, the services segment dominated the market with the highest revenue share of more than 37.8%."
+   },
+   {
+    "value": "24.3",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "quote": "The diabetes segment held the largest revenue share of over 24.3% in 2023 and is expected to register the fastest CAGR from 2026 to 2035."
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "quote": "The patient segment held the largest share of 35.0% in 2025 and is expected to witness the fastest CAGR from 2026 to 2035."
+   },
+   {
+    "value": "39.7",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "quote": "By clinical workflow: Telemedicine & Virtual Care Consultations are expected to concentrate 39.7% in 2026 owing to permanent outpatient reimbursement for video primary care and behavioral health visits."
+   },
+   {
+    "value": "47.4",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "quote": "By distribution and care channel: Hospital, Clinic, and Institutional Procurement is anticipated to account for 47.4% in 2026 through multi-year group purchasing contracts."
+   },
+   {
+    "value": "64.7",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "quote": "Based on deployment architecture, HIPAA/GDPR cloud-native SaaS is projected to account for 64.7% in 2026, supported by elastic FHIR interoperability and automated security patching."
+   },
+   {
+    "value": "48.9",
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "quote": "Hospitals & integrated health systems are forecast to account for 48.9% of end user demand in 2026 as health networks centralize multi-site virtual care governance."
+   },
+   {
+    "value": "60",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "quote": "The digital care provision category holds the largest market share, of 60%, in 2025, driven by widespread adoption of telemedicine platforms, remote consultations, and virtual care ecosystems across healthcare systems."
+   },
+   {
+    "value": "45",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "quote": "The providers category holds the largest market share, of 45%, in 2025, due to large-scale adoption of digital solutions by hospitals and healthcare systems."
+   },
+   {
+    "value": "70",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "quote": "The cloud category holds the larger market share, of 70%, in 2025, and will also have the higher CAGR, of 21.1%, driven by scalable and cost-efficient healthcare IT deployment models."
+   },
+   {
+    "value": "21.1",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "quote": "The cloud category holds the larger market share, of 70%, in 2025, and will also have the higher CAGR, of 21.1%, driven by scalable and cost-efficient healthcare IT deployment models."
+   },
+   {
+    "value": "40",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "quote": "North America holds the largest market share, of 40%, in 2025, while Asia-Pacific will have the highest CAGR, of 24.7%, due to rapid digital infrastructure expansion and government-led initiatives."
+   },
+   {
+    "value": "24.7",
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "quote": "North America holds the largest market share, of 40%, in 2025, while Asia-Pacific will have the highest CAGR, of 24.7%, due to rapid digital infrastructure expansion and government-led initiatives."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E5%B8%82%E5%A0%B4-100227",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/digital-health/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/europe-digital-health-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4759677",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3740280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3740280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkeibpm.co.jp/item/4363/4363/index.html?srsltid=AYCX9vJB6JmE72_7vVK3_iEWsmRPqiN1fdLrXIA6IMIgFRUEuMNqZhED",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/blog/transforming-digital-health-in-japan/126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/outlook/hmo/digital-health/worldwide/?srsltid=AYCX9vKNFPQ9c0_krZ36DwMpYC0MlhNxtt4FsJ8qG7YeQI-pOZC9AY0u",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/us-digital-health-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/digital-health-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/u-s-digital-health-market-108744",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/digital-health-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2949866X24001229",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/digital-health-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/digital-health-market-competitive-landscape-133200125.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/digital-health-trends-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/digital-health-market-is-key-to-a-healthier-future",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/digital-health-market-100227",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rockhealth.com/insights/2025-year-end-digital-health-funding-overview-a-tale-of-two-markets/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デジタルヘルス 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E5%B8%82%E5%A0%B4-100227",
+    "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "https://doctors-inc.jp/lp/doctors-hub/column/digital-health-market-is-borderless/",
+    "https://www.surveyreports.jp/industry-analysis/japan-digital-healthcare-market/1038325",
+    "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/europe-digital-health-market",
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E4%B8%96%E7%95%8C%E7%94%A3%E6%A5%AD%E5%88%86%E6%9E%90%E6%88%90%E9%95%B7%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-42%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-nylye",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/デジタルヘルス市場-100227"
+   ]
+  },
+  {
+   "query": "デジタルヘルス 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/digital-health/",
+    "https://www.sphericalinsights.com/jp/reports/digital-healthcare-market",
+    "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/europe-digital-health-market",
+    "https://pando.life/article/4759677",
+    "https://pliable316.inkrich.com/posts/digital-health-507024-mvw8sqwi",
+    "https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E5%B8%82%E5%A0%B4-108744",
+    "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "https://jp.linkedin.com/pulse/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E8%BF%BD%E8%B7%A1%E3%82%A2%E3%83%97%E3%83%AA%E5%9B%BD%E5%86%85%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A8%E3%82%B7%E3%82%A7%E3%82%A2-zylphion-labs-pwi5e",
+    "https://www.deallab.info/digital-health/"
+   ]
+  },
+  {
+   "query": "デジタルヘルス 市場 前年比 2025",
+   "results": [
+    "https://newscast.jp/smart/news/3740280",
+    "https://www.atpress.ne.jp/news/3740280",
+    "https://www.coherentmarketinsights.com/ja/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E5%B8%82%E5%A0%B4",
+    "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation/electronic/book/pageindices/index29.html",
+    "https://www.nikkeibpm.co.jp/item/4363/4363/index.html?srsltid=AYCX9vJB6JmE72_7vVK3_iEWsmRPqiN1fdLrXIA6IMIgFRUEuMNqZhED",
+    "https://www.imarcgroup.com/report/ja/japan-digital-health-market",
+    "https://www.sdki.jp/blog/transforming-digital-health-in-japan/126",
+    "https://www.gii.co.jp/report/ires2085470-digital-health-market-by-component-therapeutic.html",
+    "https://deallab.info/digital-health/",
+    "https://www.gminsights.com/ja/industry-analysis/digital-health-market"
+   ]
+  },
+  {
+   "query": "digital health market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "https://www.statista.com/outlook/hmo/digital-health/worldwide/?srsltid=AYCX9vKNFPQ9c0_krZ36DwMpYC0MlhNxtt4FsJ8qG7YeQI-pOZC9AY0u",
+    "https://www.fortunebusinessinsights.com/industry-reports/digital-health-market-100227",
+    "https://media.market.us/global-digital-health-market-news/",
+    "https://www.towardshealthcare.com/insights/digital-health-market-is-key-to-a-healthier-future",
+    "https://www.marketresearchfuture.com/reports/digital-healthcare-market-7636",
+    "https://www.gminsights.com/industry-analysis/digital-health-market"
+   ]
+  },
+  {
+   "query": "digital health market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html",
+    "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "https://market.us/report/us-digital-health-market/",
+    "https://www.delveinsight.com/report-store/digital-health-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "https://www.linkedin.com/pulse/leading-digital-health-market-companies-share-stratoviq-insights-t8cqf/",
+    "https://www.fortunebusinessinsights.com/u-s-digital-health-market-108744",
+    "https://www.futuremarketinsights.com/reports/global-digital-health-market",
+    "https://www.mordorintelligence.com/industry-reports/digital-health-market",
+    "https://www.sci-tech-today.com/stats/digital-health-statistics-updated/"
+   ]
+  },
+  {
+   "query": "digital health market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.delveinsight.com/report-store/digital-health-market",
+    "https://www.psmarketresearch.com/market-analysis/digital-health-market",
+    "https://www.sciencedirect.com/science/article/pii/S2949866X24001229",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/digital-health-market/US",
+    "https://finance.yahoo.com/news/digital-health-market-competitive-landscape-133200125.html",
+    "https://www.linkedin.com/pulse/digital-health-market-size-share-trends-analysis-1jwte",
+    "https://www.maximizemarketresearch.com/market-report/global-digital-health-market/3311/",
+    "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333813/",
+    "https://en.wikipedia.org/wiki/Consolidated_(band)"
+   ]
+  },
+  {
+   "query": "digital health market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/digital-health-market",
+    "https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html",
+    "https://www.delveinsight.com/report-store/digital-health-market",
+    "https://www.novaoneadvisor.com/report/us-digital-health-market",
+    "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/digital-health-trends-2025",
+    "https://www.towardshealthcare.com/insights/digital-health-market-is-key-to-a-healthier-future",
+    "https://www.fortunebusinessinsights.com/industry-reports/digital-health-market-100227",
+    "https://rockhealth.com/insights/2025-year-end-digital-health-funding-overview-a-tale-of-two-markets/",
+    "https://www.linkedin.com/pulse/top-10-companies-digital-health-industry-accelerating-global-cxgnf",
+    "https://thehealthcaretechnologyreport.com/the-top-25-digital-health-companies-of-2025/"
+   ]
+  }
+ ],
+ "missing": {}
+}

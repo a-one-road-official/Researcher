@@ -1,0 +1,1865 @@
+{
+ "name": "装甲材料（セラミック装甲）",
+ "en": "ceramic armor",
+ "aliases": [
+  "armor ceramics",
+  "boron carbide armor",
+  "防弾セラミックス"
+ ],
+ "context": "防衛",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:56:22.310935+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.99%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.99%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "装甲材市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）6.99%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門家予測によると、セラミック装甲材市場は大幅な成長が見込まれており、2026年から2033年にかけて年平均成長率（CAGR）6.80%で、数十億ドル規模に達する見通しです",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "現在市場規模は拡大中で、2026年から2033年まで6.80% CAGRでの成長が予測されます",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "レポートの購入: (シングルユーザーライセンス: 3590 USD):",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size, Share & Trends Analysis Report By Material, By Application (Body, Aircraft, Defense Vehicle, Marine), By Platform (Defense, Homeland Security), By Region, And Segment Forecasts, 2026 - 2033",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場は、2025年に32億米ドルの規模となり、2026年の34億米ドルから2033年には60億米ドルへと成長し、2026年から2033年までの年間平均成長率（CAGR）は8.4％になると予測されています",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用セラミック装甲パネル市場規模、シェア、成長分析：セラミック材料別、パネルタイプ別、航空機タイプ別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック鎧市場規模・シェア・トレンド | 2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.81 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.01 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.75 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のUSD 2.81億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までのUSD 5.01億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のUSD 2.6 Bn",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2031年までにUSD 3.8 Bn",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、米国防衛省が公表したデータによると、2022年4月、防衛予算は2021年のUSD 703.7 Bnと2022年に742.3 Bnでした",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、プレス情報局(PIB)が公表したデータによると、インド政府の納税機関は、2023年2月1日、防衛省は、総予算の13.18パーセントであったUSD 71.50 Bnの合計予算を割り当てました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルインサイト(Revenue、USD) Bn & KT, 2019年 - 2031年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "軍用車両用装甲ソリューションの世界市場（2026年～2032年）、市場規模（セラミック装甲、複合装甲、鋼鉄装甲、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "軍用車両用装甲ソリューションの世界市場（2026年～2032年）、市場規模（セラミック装甲、複合装甲、鋼鉄装甲、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用車両装甲ソリューション市場規模は、2025年の71億8600万米ドルから2032年には110億9800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模の年平均成長率（CAGR）、および2021年、2025年、2032年の国/地域別の現状と将来の分析が含まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、装甲材料別（セラミック装甲、複合装甲、鋼装甲、その他）、保護タイプ別（パッシブ装甲タイプ、アクティブ装甲タイプ、ハイブリッド装甲タイプ）、車両統合レベル別（完全車両装甲パッケージタイプ、モジュラーアドオン装甲キットタイプ、コンポーネント固有装甲タイプ、その他）、および用途別（主力戦車、装甲兵員輸送車、戦術車両、特殊軍用車両、その他）の市場セグメントの詳細な要約が示されており、それぞれのセグメントの市場規模、CAGR、および2021年から2026年までの市場シェアが含まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「プレイヤー別軍用車両用装甲ソリューション市場規模」には、主要プレイヤーの分析が示されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地域別軍用車両用装甲ソリューション」には、2021年から2026年までの地域別市場規模、国/地域別の年間収益、およびアメリカ、APAC、ヨーロッパ、中東・アフリカにおける軍用車両用装甲ソリューション市場規模の成長率（2021年から2026年）に関する情報が記載されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第5章「アメリカ」には、2021年から2026年までのアメリカにおける国別（米国、カナダ、メキシコ、ブラジル）、装甲材料別、および用途別の軍用車両用装甲ソリューション市場規模が詳細に分析されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第6章「APAC」には、2021年から2026年までのAPAC地域における国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、装甲材料別、および用途別の軍用車両用装甲ソリューション市場規模が詳細に分析されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第7章「ヨーロッパ」には、2021年から2026年までのヨーロッパにおける国別（ドイツ、フランス、英国、イタリア、ロシア）、装甲材料別、および用途別の軍用車両用装甲ソリューション市場規模が詳細に分析されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第8章「中東・アフリカ」には、2021年から2026年までの中東・アフリカ地域における国別（エジプト、南アフリカ、イスラエル、トルコ、GCC諸国）、装甲材料別、および用途別の軍用車両用装甲ソリューション市場規模が詳細に分析されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "装甲車用装甲部品の世界市場（2026年～2032年）、市場規模（モノリシック型、セグメント型）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "装甲車用装甲部品の世界市場（2026年～2032年）、市場規模（モノリシック型、セグメント型）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "世界の地上車両用装甲部品市場規模は、2025年の18億1100万米ドルから2032年には28億2100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.2％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "米国の地上車両装甲部品市場は、2025年のX百万米ドルから2032年までにX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "中国の地上車両装甲部品市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の地上車両装甲部品市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジル市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "韓国市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "世界の装甲材料市場規模、2032 年までの成長予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2022:",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size, Share, and Growth Analysis, By Material Type (Alumina, Boron Carbide), By Application (Body Armor, Aircraft Armor), By End-User, By Region - Industry Forecast 2026-2033",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,300 換算",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場規模/シェア/動向分析レポート（2024年～2030年）：車体、航空機、その他 - マーケットリサーチ＆レポート",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.99%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.99%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料セグメントは、年平均成長率（CAGR）6.91%で拡大し、最大のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両分野は最大の市場シェアを占めると予測されており、年平均成長率（CAGR）は4.8%です",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、年平均成長率（CAGR）5.17%で拡大し、地域市場を牽引する可能性が高い",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門家予測によると、セラミック装甲材市場は大幅な成長が見込まれており、2026年から2033年にかけて年平均成長率（CAGR）6.80%で、数十億ドル規模に達する見通しです",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "現在市場規模は拡大中で、2026年から2033年まで6.80% CAGRでの成長が予測されます",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "2026年からの年平均成長率5.80%での臨床治療用椅子市場の需要の分析と予測",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場は、2025年に32億米ドルの規模となり、2026年の34億米ドルから2033年には60億米ドルへと成長し、2026年から2033年までの年間平均成長率（CAGR）は8.4％になると予測されています",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは8.4%です",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.5%のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測CAGR (2026–2033):",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2024年、CoorsTekは、米国やNATOに並んだ力から、高度防衛調達契約をサポートするために、その装甲セラミックス生産能力の拡大を発表しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンカーバイドのセグメントは、2025年から2032年にかけての最速成長率を記録し、高性能なアーマーシステムに対する需要の増加と、その球面の効率性を高める製造技術の進歩によって推進されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "体装甲セグメントは、2024年に最大の収益シェアで市場を支配し、防衛予算の上昇と軍人のための軽量保護のための需要の拡大を支援しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用装甲セグメントは、2025年から2032年まで最速のCAGRを目撃する見込みで、軍用航空機における先進的なセラミックコンポジットの使用量を増加させ、生存性と重量の減少を強化しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ホームランドセキュリティセグメントは、2025年から2032年までの最速の成長率を体験することを期待しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィック・セラミック・アーマー・マーケットは、中国、インド、日本など主要国において、地政的緊張の拡大、防衛予算の拡大、国内生産のイニシアチブが主導する2025年から2032年までの9.5%の最速のCAGRで成長する予定です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年～2031年(CAGR) 5.6%",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2024～2031 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックアーマーマーケットのCAGRは、2024年から2031年にかけて7.5%となる予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用車両装甲ソリューション市場規模は、2025年の71億8600万米ドルから2032年には110億9800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模の年平均成長率（CAGR）、および2021年、2025年、2032年の国/地域別の現状と将来の分析が含まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、装甲材料別（セラミック装甲、複合装甲、鋼装甲、その他）、保護タイプ別（パッシブ装甲タイプ、アクティブ装甲タイプ、ハイブリッド装甲タイプ）、車両統合レベル別（完全車両装甲パッケージタイプ、モジュラーアドオン装甲キットタイプ、コンポーネント固有装甲タイプ、その他）、および用途別（主力戦車、装甲兵員輸送車、戦術車両、特殊軍用車両、その他）の市場セグメントの詳細な要約が示されており、それぞれのセグメントの市場規模、CAGR、および2021年から2026年までの市場シェアが含まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地域別軍用車両用装甲ソリューション」には、2021年から2026年までの地域別市場規模、国/地域別の年間収益、およびアメリカ、APAC、ヨーロッパ、中東・アフリカにおける軍用車両用装甲ソリューション市場規模の成長率（2021年から2026年）に関する情報が記載されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "世界の地上車両用装甲部品市場規模は、2025年の18億1100万米ドルから2032年には28億2100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.2％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "米国の地上車両装甲部品市場は、2025年のX百万米ドルから2032年までにX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "中国の地上車両装甲部品市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の地上車両装甲部品市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)10.7%で成長し、2022年の71億米ドルから2032年には142億6000万米ドルに達すると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2022 – 2032 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック防弾装甲市場の規模は、2024年に31億米ドルと評価され、2025年の32億9,000万米ドルから2033年までに52億8,000万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR6.1％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.1%です",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の前年比比較（2023年-2025年）",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場規模は2023年に26.9億米ドルと評価され、2024年から2030年までCAGR 8.2%で成長すると予測されています",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料（CMC）分野は、予測期間において最も速いCAGR 10.9%を記録する見込みです",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "民間プラットフォーム分野は、予測期間中に最も速いCAGR 9.8%を記録する見込みです",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のセラミック装甲市場は、予測期間中に最も速いCAGR 9.0%を記録する見込みです",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "モジュラーフローリングの世界市場規模は2031年までにCAGR 3.3％で拡大する見通し",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "ドア＆窓のグローバル市場規模は2025年に2,076億8,000万ドル、2031年までにCAGR 4.14％で拡大する見通し",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 8.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.4% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global ceramic armor market is expected to grow at a CAGR of 8.4% from 2026 to 2033, reaching USD 6.0 billion.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The ceramic armor market was valued at USD 2.78 billion in 2025, is projected to reach USD 3.01 billion in 2026, is expected to expand at a 7.67% CAGR (2026–2035), and is forecast to reach USD 5.85 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continued defense expenditure growth through 2030 anchors the 7.67% CAGR scenario; further rearmament acceleration in Europe or APAC would skew demand above the base case",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "If supplemental appropriations remain absent through 2027 and base budgets face sequestration pressure, North American ceramic armor growth stays below the global 7.67% CAGR in the 2026–2028 window",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic matrix composites generated USD 222 million in 2025 and are projected to expand at a 9.81% CAGR (2026–2035). Ceramic matrix composites address a specialized performance envelope in which ballistic protection must coexist with thermal durability and complex aerospace integration. Their adoption is tied closely to the advancement of high-performance aircraft and unmanned systems.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aluminum nitride generated USD 111 million in 2025 and is forecast to grow at a 10.08% CAGR (2026–2035). Aluminum nitride benefits from applications requiring ballistic protection alongside thermal management or electrical insulation, making it relevant to specialized aerospace and electronics-intensive defense platforms.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Composite armor assemblies accounted for 22.0% of demand in 2025 and are forecast to expand at a 9.70% CAGR (2026–2035). Growth in assemblies reflects a shift from component purchasing to engineered protection packages. Defense OEMs increasingly require suppliers to solve integration, backing, attachment, and survivability challenges as a single system-level offering.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft armor accounted for 13.0% of demand in 2025 and is forecast to grow at a 9.36% CAGR (2026–2035). Aviation programs place a premium on weight efficiency, creating an attractive role for silicon carbide, boron carbide, and composite-derived solutions. Demand is reinforced by protection needs for crews, avionics, and mission-critical subsystems.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Civilians represented 12.0% of demand in 2025 and are forecast to grow at an 8.62% CAGR (2026–2035). Civilian demand spans private-security contractors, executive-protection providers, and other users operating in elevated-risk environments. Buyers in this channel value mobility and discreet integration alongside protection performance.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Poland generated USD 109 million in 2025 and is forecast to grow at a 10.36% CAGR (2026–2035). Poland is a high-growth European market because its force-modernization agenda requires simultaneous investment in personnel protection, armored platforms, and interoperable allied capabilities.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Korea generated USD 79 million in 2025 and is forecast to grow at an 8.29% CAGR (2026–2035). South Korea combines domestic force-protection needs with an export-oriented defense industry. This creates demand for ceramic solutions that can be qualified for both indigenous platforms and internationally marketed systems.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Middle East & Africa represented 7.0% of global demand in 2025 and is forecast to generate USD 444 million by 2035. The region's demand is reinforced by active operational requirements, force modernization, and growing attention to localized defense-industrial capability. Body armor, vehicle protection, and critical-infrastructure security remain central application areas.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 5.85 billion by 2035, growing at a CAGR of 7.67% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "デュポン、ハネウェル、3Mなどの主要メーカーが北米の装甲材料市場に参入している",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "装甲材市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要市場参入企業による最近の動向と影響分析",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミックアーマー市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業、最新動向、競争インテリジェンス",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、軍用車両装甲ソリューションのポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、世界的な軍用車両装甲ソリューション市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの企業の戦略を分析しています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、軍用車両装甲ソリューション市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「プレイヤー別軍用車両用装甲ソリューション市場規模」には、主要プレイヤーの分析が示されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの世界軍用車両用装甲ソリューションのプレイヤー別収益と市場シェア、主要プレイヤーの本社所在地と提供される製品、市場集中度分析（競争状況分析、CR3、CR5、CR10集中度、2024年から2026年）、新製品と潜在的参入者、合併・買収、拡張戦略などの詳細な分析が示されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "第11章「主要プレイヤー分析」には、Isoclima、Integris、Plasan、Mehler Protection、DuPont、AMEFO、Dyneema、VASG、Saint-Gobain、Dynamic Defense Solutions、RUAG、ASL、CITE Armored、AGP sGlass、Roketsan、Indian Armour、Thales、QinetiQ、SVI、Cemar International、JCBL Armouring Solutions、Carat Duchateletなど、各主要企業の詳細なプロファイルが提供されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、地上車両装甲部品のポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の地上車両装甲部品市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、主要企業の年間販売量と販売市場シェア（2021-2026年）、年間収益と収益市場シェア（2021-2026年）、販売価格が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10比率）、新製品と新規参入企業、市場におけるM&A活動と戦略に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要企業分析」には、Coorstek、Multotec、HMT GmbH、LTC、CeramTecs、Saint Gobain、BAE Systems、IBD Deisenroth Engineering、Rheinmetall、ArmorWorks、NP Aerospace、TenCate Advanced Armor、Plasan、QinetiQ、DuPont、Schunk Ceramics、DYNEEMA、Isoclima Defenseといった主要な装甲車用装甲部品メーカー18社の詳細な企業プロファイルが記載されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、高価な機械や熟練した労働力の必要性は、新規メーカーにとって大きな参入障壁となっており、商業化のペースを鈍化させ、購入者に対し、初期投資がより手頃な代替防護技術の検討を促しています",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場に参入している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場ポジショニング、2025年",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の全企業プロファイル",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業プロファイル",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業・市場シェア",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック防護服市場の主要企業には、ArmorWorks Enterprises, LLC、Ceradyne, Inc. 著名な企業は、製品の性能、革新性、品質、価格で競争しています",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的パートナーシップ、合併、買収は競争優位を得るための重要な戦略であり、新興国の新規参入企業は市場競争を激化させています",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場の主要企業は以下の通り",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.1.4. 新規参入による脅威",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the ceramic armor market",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in ceramic armor market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include ArmorWorks Enterprises, LLC; Ceradyne, Inc. (3M); CeramTec GmbH; CoorsTek Inc.; Integris; Armor Express; Safariland, LLC.; Compagnie de Saint-Gobain; DSM; Alpine Armoring Inc.; General Dynamics Corporation; Saab AB, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in Ceramic Armor Market?",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in Ceramic Armor Market include CoorsTek, Point Blank Enterprises, Safariland Group, MKU Limited, Saint-Gobain.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/our-insights/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Data, Premium Insights, Market Dynamic, Analysis and Projection, By Product, Analysis and Projection, By Application, Analysis and Projection, By End-Use, Analysis and Projection, By Regional Analysis, Competitive Landscape, Company Profiles, Market Revenue, Sale & Price Analysis",
+    "url": "https://www.sphericalinsights.com/our-insights/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major key players in the ceramic armor market include Koninklijke DSM N.V., BAE Systems, Morgan Advanced Materials, Saint-Gobain S.A., 3M Company, CeramTec, II-VI Incorporated, Safariland, LLC, Coorstek, Inc., MKU Limited, and Others.",
+    "url": "https://www.sphericalinsights.com/our-insights/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are major players in ceramic armor market?",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Players in",
+    "url": "https://www.prnewswire.com/news-releases/ceramic-armor-market-to-reach-3-5-billion-globally-by-2027-at-8-6-cagr-says-marketsandmarkets-301636548.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market by Material, Application, Platform and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market, Key Players are",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "4] What are the major key players of the Global Ceramic Armor Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "The major key players of the Global Ceramic Armor Market are Ceradyne (U.S.), SAAB AB (Sweden), ArmorWorks (U.S.), CeramTec (Germany), CoorsTek Inc. (U.S.), and Koninklijke Ten Cate BV (Netherlands).",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "9. Global Ceramic Armor Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "9.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "9.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "Low Foam Surfactants Market Size by Type, Application, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2029",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "Expanded Perlite Market Size by Application, End User, Type, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2029",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the Ceramic Armor Market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Koninklijke DSM N.V., BAE Systems, Morgan Advanced Materials, Saint-Gobain S.A., 3M Company, CeramTec, II-VI Incorporated, Safariland, LLC, Coorstek, Inc., MKU Limited are the major players.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is evolving through strategic partnerships and capacity expansion.",
+    "url": "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "さらに、中国、日本、韓国などの国々における軍事力近代化計画の進展に伴い、車両および航空宇宙用装甲材の需要が増加すると予想される",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoceraは産業用基盤の防衛転用でコスト競争力を持ち、3D積層技術で持続性を確保",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋では中国が低コスト生産と技術向上で急成長し、日本と韓国は精密加工技術を強みに高付加価値市場で存在感を示しています",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本など主要国における地政的緊張の拡大、防衛予算の増加、国内生産への取り組み",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィック・セラミック・アーマー・マーケットは、中国、インド、日本など主要国において、地政的緊張の拡大、防衛予算の拡大、国内生産のイニシアチブが主導する2025年から2032年までの9.5%の最速のCAGRで成長する予定です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミックアーマーマーケットインサイト",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミックの装甲市場は、自衛隊の先進的な保護システムへの先進的な防衛意識と投資により、牽引力を高めています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の強力な材料科学能力とイノベーションに重点を置いたのは、航空宇宙と海軍のアプリケーションにおけるセラミックス装甲の統合を奨励し、防衛と平和の両方の使命を担っています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "これはオリジナルレポートの日本語翻訳ページです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本、オーストラリア、韓国、アセアン、アジアパシフィックの残り",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "第6章「APAC」には、2021年から2026年までのAPAC地域における国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、装甲材料別、および用途別の軍用車両用装甲ソリューション市場規模が詳細に分析されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：軍用車両用装甲ソリューションの世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別および用途別の販売量の詳細なデータが含まれています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：装甲車用装甲部品の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、韓国、日本は、軍事力を強化するためにセラミック装甲などの最先端技術を採用し、この傾向をリードしています",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; China; Japan; India; South Korea; Australia; Brazil; Saudi Arabia; UAE; South Africa",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan represented 3.3% of global demand in 2025 and is expected to account for 2.9% by 2035. Japan's relative share changes as faster-growing regional markets expand, yet its domestic demand remains supported by broad capability development and the protection requirements of modernized ground and aviation assets.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "escalating geopolitical tensions, increasing defense budgets, and domestic production initiatives in key nations such as China, India, and Japan",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ceramic Armor Market Insight",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "UENO FOOD TECHNO INDUSTRY, LTD. (JAPAN)",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "(China, South Korea, Japan, India, Australia, Indonesia, Malaysia, Vietnam, Taiwan, Bangladesh, Pakistan and Rest of APAC)",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.3.1. Japan Ceramic Armor Market Size and Forecast, by Material (2024-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.3.2. Japan Ceramic Armor Market Size and Forecast, by Application (2024-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.3.3. Japan Ceramic Armor Market Size and Forecast, by Platform (2024-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, Japan, Australia, South Korea, ASEAN, and Rest of Asia Pacific",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising defense modernization programs in China, India, South Korea, and Japan are driving demand for advanced lightweight armor systems. Governments are increasingly investing in military vehicle protection, soldier survivability equipment, naval armor, and aerospace defense applications, accelerating ceramic armor adoption across the region.",
+    "url": "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, South Korea, and Australia are rapidly expanding defense procurement initiatives and next-generation soldier protection programs.",
+    "url": "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "装甲材料市場の規模、シェア、成長、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "装甲材市場の規模、シェア、トレンド分析レポート：材料タイプ別（金属・合金、セラミックス、複合材料、パラアラミド繊維、超高分子量ポリエチレン（UHMWPE）、グラスファイバー、その他）、用途別（車両、航空宇宙、車体、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に38.5%の市場シェアを占め、装甲材料市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料セグメントは、年平均成長率（CAGR）6.91%で拡大し、最大のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属・合金部門は2番目に大きな市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両分野は最大の市場シェアを占めると予測されており、年平均成長率（CAGR）は4.8%です",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門は2番目に大きなシェアを占めるだろう",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国セラミック協会の報告によると、米国政府および関連機関は、防弾チョッキ、ミサイルの先端部、軍用ヘリコプターなどを3M社から購入しており、これは同社の装甲材料市場の3分の1を占めている",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中国は世界の防弾装備品市場の約70%を占めており、市場拡大をさらに加速させている",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の装甲材料市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場の規模、シェアおよび動向分析レポート：素材別、用途別、プラットフォーム別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "北米のセラミック装甲市場が市場を牽引しており、2025年には売上高シェアの30.0％を占めました",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、2025年に防衛車両用装甲セグメントが売上高シェア40.0％超で市場を牽引しました",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "素材別では、2025年にアルミナ素材セグメントが売上高シェア約35.0％を占め、世界のセラミック装甲市場を牽引しました",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には売上高シェアの30.0%を占めました",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に防衛車両用装甲セグメントが売上高シェア40.0%超で市場を牽引しました",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にアルミナ素材セグメントが売上高シェア約35.0%を占めました",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場地域別シェア、2025年& 2033年",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "防弾セラミック市場の規模、シェア、成長分析：製品タイプ別、材質タイプ別、防護レベル別、用途別、エンドユーザー別、流通チャネル別、地域別- 業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用セラミック装甲パネル市場規模、シェア、成長分析：セラミック材料別、パネルタイプ別、航空機タイプ別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック鎧市場規模・シェア・トレンド | 2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミックアーマー市場の規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "32.7%のシェア",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛セグメントは、軍事操作のための高度な保護システムの継続的な調達による2024年に63.1%の市場シェアで市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Alumina セグメントは、2024 年に 34.7% の最大の市場収益シェアを保持し、そのコスト効率性、優れた弾道性能、および広範な可用性に起因し、軍事およびセキュリティ アプリケーション全体で軽量装甲ソリューションの優先的な選択肢となっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "体装甲セグメントは、2024年に最大の収益シェアで市場を支配し、防衛予算の上昇と軍人のための軽量保護のための需要の拡大を支援しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛部門は、2024年に最大の収益分配0f 63.1%を占め、軍事操作のための高度な保護システムの継続的な調達に向けました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカは、2024年に32.7%の最大の収益シェアを誇るセラミックの装甲市場を支配し、重要な防衛支出、継続的な軍事近代化プログラム、および軽量保護ソリューションの需要の増加",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のセラミック・アーマー・マーケットは、2024年に北米で最大89.4%の収益シェアを獲得し、軍用および戦術的な用途における次世代のアーマー技術の継続的な投資によって燃料を供給しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にアジア・パシフィックで最大の収益シェアを占める中国製陶器の市場は、国の積極的な軍事近代化戦略をサポートし、防衛グレード材料の国内製造に重点を置いています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックアーマー市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "現在、世界規模のセラミックス装甲市場における材料セグメントは、現在、市販のシェア40.1%のアルミナが占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "応用面では、軍および法執行の人員からの需要を増加させる経験として、世界セラミック鎧市場の35.1%の最大のシェアのための体装甲アカウント",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザの面では、主要な支出国の防衛配分を高めるために、グローバルセラミック鎧市場の42.1%の最大シェアのための防衛セクターアカウント",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、世界38.6%の市場シェアと共に、セラミックの鎧の最大の地域市場として誕生しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "6 年以上の経験を持つ Vidyesh は、カスタマイズされた調査ソリューションのための市場予測、サプライヤー ランドスケープ分析、市場シェア評価の熟練度で高い評価を得ています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "素材の面で、アルミナ、市場収益シェア2024を支配すると推定した",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、装甲材料別（セラミック装甲、複合装甲、鋼装甲、その他）、保護タイプ別（パッシブ装甲タイプ、アクティブ装甲タイプ、ハイブリッド装甲タイプ）、車両統合レベル別（完全車両装甲パッケージタイプ、モジュラーアドオン装甲キットタイプ、コンポーネント固有装甲タイプ、その他）、および用途別（主力戦車、装甲兵員輸送車、戦術車両、特殊軍用車両、その他）の市場セグメントの詳細な要約が示されており、それぞれのセグメントの市場規模、CAGR、および2021年から2026年までの市場シェアが含まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの世界軍用車両用装甲ソリューションのプレイヤー別収益と市場シェア、主要プレイヤーの本社所在地と提供される製品、市場集中度分析（競争状況分析、CR3、CR5、CR10集中度、2024年から2026年）、新製品と潜在的参入者、合併・買収、拡張戦略などの詳細な分析が示されています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "各プロファイルには、企業情報、提供される軍用車両用装甲ソリューション製品、2021年から2026年までの収益、粗利益、市場シェア、主要事業概要、および最新の動向が含まれています",
+    "url": "https://newscast.jp/news/2249712",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約%を占めました",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品タイプ（一体型、分割型）、素材（鉄素材、アルミニウム素材、複合素材）、および用途（軍事用、民生用）ごとの装甲車用装甲部品市場のセグメント分析が詳細に示されており、それぞれのタイプ、素材、用途別の世界の販売量、収益、市場シェア、および販売価格（2021-2026年）が分析されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、主要企業の年間販売量と販売市場シェア（2021-2026年）、年間収益と収益市場シェア（2021-2026年）、販売価格が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "pass": 3
+   },
+   {
+    "quote": "世界の装甲材料市場の規模、シェア、および COVID-19 の影響 (材料別 (金属および合金、セラミックス、パラアラミド繊維、UHMWPE)、用途別 (車両装甲、航空宇宙装甲、ボディアーマー、民間装甲)、地域別 (北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、分析および予測 2022 ～ 2032 年)",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模、シェア、および COVID-19の",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: セラミック装甲市場の規模、シェア、および成長分析：素材別、用途別、エンドユーザー別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場の規模、シェア、および成長分析：素材別、用途別、エンドユーザー別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場の規模、シェアおよび動向分析レポート：素材別、用途別、プラットフォーム別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "防弾セラミック市場の規模、シェア、成長分析：製品タイプ別、材質タイプ別、防護レベル別、用途別、エンドユーザー別、流通チャネル別、地域別- 業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用セラミック装甲パネル市場規模、シェア、成長分析：セラミック材料別、パネルタイプ別、航空機タイプ別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場規模/シェア/動向分析レポート（2024年～2030年）：車体、航空機、その他 - マーケットリサーチ＆レポート",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミック装甲市場規模/シェア/動向分析レポート（2024年～2030年）：車体、航空機、その他",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミナ材料セグメントは、2023年に34.2%の収益シェアで世界のセラミック装甲市場を支配しました",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛車両装甲セグメントは、強化された保護、機動性、生存性の必要性により、2023年に41.0%の収益シェアで市場をリードしました",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "装甲材料市場規模 、トレンドおよび 成長 分析レポート、2031年 — 装甲材料市場規模 、トレンドおよび 成長 分析レポート、2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "装甲材料市場 の 規模 、シェア、 成長 、分析、レポート、2034年 — 装甲材料市場 の 規模 、シェア、 成長 、分析、レポート、2034年 Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲 材 市場 は大幅な 成長 が見込まれており、2026 ... — セラミック装甲 材 市場 は大幅な 成長 が見込まれており、2026 ... inkrich https://pulmonary915.inkrich.com > posts",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲 市場 | 市場規模 シェア 動向分析 予測 2026 ... — セラミック装甲 市場 | 市場規模 シェア 動向分析 予測 2026 ... グローバルインフォメーション https://www.gii.co.jp > ... > 航空宇宙/防衛 > 防衛産業",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "装甲材料市場 規模、トレンドおよび成長分析レポート、2031年 — 装甲材料市場 規模、トレンドおよび成長分析レポート、2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック装甲市場 | 市場 規模 シェア 動向分析 予測 2026 ... — セラミック装甲市場 | 市場 規模 シェア 動向分析 予測 2026 ... グローバルインフォメーション https://www.gii.co.jp > ... > 航空宇宙/防衛 > 防衛産業",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "装甲材料 市場の規模、シェア、成長、分析、レポート、2034年 — 装甲材料 市場の規模、シェア、成長、分析、レポート、2034年 Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size , Growth Report, 2026-2033 — Ceramic Armor Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size & Share, Forecasts Report 2035 — Ceramic Armor Market Size & Share, Forecasts Report 2035 Global Market Insights Inc. https://www.gminsights.com > cerami...",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size , Share & Trends | 2032 — Ceramic Armor Market Size , Share & Trends | 2032 Data Bridge Market Research https://www.databridgemarketresearch.com > ...",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market to reach $3.5 billion, Globally, by 2027 ... — Ceramic Armor Market to reach $3.5 billion, Globally, by 2027 ... PR Newswire https://www.prnewswire.com > ceram...",
+    "url": "https://www.prnewswire.com/news-releases/ceramic-armor-market-to-reach-3-5-billion-globally-by-2027-at-8-6-cagr-says-marketsandmarkets-301636548.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size, Growth Report, 2026-2033 — Ceramic Armor Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Size, Trends & YoY Growth Rate, 2033 — Ceramic Armor Market Size, Trends & YoY Growth Rate, 2033 Coherent Market Insights https://www.coherentmarketinsights.com > industry-reports",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Armor Market Growth Rate & Industry Share 2033 — Ceramic Armor Market Growth Rate & Industry Share 2033 DataM Intelligence https://www.datamintelligence.com > ...",
+    "url": "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "NATO members committed at the June 2025 summit to escalated multi-year defense investment encompassing soldier systems, armored vehicles, and rotary-wing platforms",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Poland generated USD 109 million in 2025 and is forecast to grow at a 10.36% CAGR (2026–2035). Poland is a high-growth European market because its force-modernization agenda requires simultaneous investment in personnel protection, armored platforms, and interoperable allied capabilities.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Homeland Security segment is anticipated to experience the fastest growth rate from 2025 to 2032, driven by growing concerns over terrorism, border security threats, and increasing investments in protective equipment for law enforcement agencies.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The year 2026 is expected to mark a significant growth phase as governments and defense organizations accelerate investments in advanced protection technologies to improve soldier survivability, vehicle protection, and mission effectiveness.",
+    "url": "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.99",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "quote": "世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.99%となる見込みです"
+   },
+   {
+    "value": "6.91",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "quote": "複合材料セグメントは、年平均成長率（CAGR）6.91%で拡大し、最大のシェアを占めると予測されています"
+   },
+   {
+    "value": "4.8",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "quote": "車両分野は最大の市場シェアを占めると予測されており、年平均成長率（CAGR）は4.8%です"
+   },
+   {
+    "value": "5.17",
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "quote": "北米は、年平均成長率（CAGR）5.17%で拡大し、地域市場を牽引する可能性が高い"
+   },
+   {
+    "value": "6.80",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "quote": "専門家予測によると、セラミック装甲材市場は大幅な成長が見込まれており、2026年から2033年にかけて年平均成長率（CAGR）6.80%で、数十億ドル規模に達する見通しです"
+   },
+   {
+    "value": "0.06",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "quote": "本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています"
+   },
+   {
+    "value": "5.80",
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "quote": "2026年からの年平均成長率5.80%での臨床治療用椅子市場の需要の分析と予測"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "quote": "世界のセラミック装甲市場は、2025年に32億米ドルの規模となり、2026年の34億米ドルから2033年には60億米ドルへと成長し、2026年から2033年までの年間平均成長率（CAGR）は8.4％になると予測されています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "2024年～2031年(CAGR) 5.6%"
+   },
+   {
+    "value": "6.4",
+    "url": "https://newscast.jp/news/2249712",
+    "quote": "世界の軍用車両装甲ソリューション市場規模は、2025年の71億8600万米ドルから2032年には110億9800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4%で成長すると見込まれています"
+   },
+   {
+    "value": "7.2",
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "quote": "世界の地上車両用装甲部品市場規模は、2025年の18億1100万米ドルから2032年には28億2100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.2％で成長すると見込まれています"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)10.7%で成長し、2022年の71億米ドルから2032年には142億6000万米ドルに達すると予想されています"
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "quote": "世界のセラミック防弾装甲市場の規模は、2024年に31億米ドルと評価され、2025年の32億9,000万米ドルから2033年までに52億8,000万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR6.1％で成長すると見込まれています"
+   },
+   {
+    "value": "8.2",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "quote": "世界のセラミック装甲市場規模は2023年に26.9億米ドルと評価され、2024年から2030年までCAGR 8.2%で成長すると予測されています"
+   },
+   {
+    "value": "10.9",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "quote": "セラミックマトリックス複合材料（CMC）分野は、予測期間において最も速いCAGR 10.9%を記録する見込みです"
+   },
+   {
+    "value": "9.8",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "quote": "民間プラットフォーム分野は、予測期間中に最も速いCAGR 9.8%を記録する見込みです"
+   },
+   {
+    "value": "9.0",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "quote": "アジア太平洋地域のセラミック装甲市場は、予測期間中に最も速いCAGR 9.0%を記録する見込みです"
+   },
+   {
+    "value": "3.3",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "quote": "モジュラーフローリングの世界市場規模は2031年までにCAGR 3.3％で拡大する見通し"
+   },
+   {
+    "value": "4.14",
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "quote": "ドア＆窓のグローバル市場規模は2025年に2,076億8,000万ドル、2031年までにCAGR 4.14％で拡大する見通し"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "quote": "CAGR of 8.4% from 2026 to 2033"
+   },
+   {
+    "value": "7.67",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "quote": "The market is projected to reach USD 5.85 billion by 2035, growing at a CAGR of 7.67% from 2026 to 2035."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "2.81",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "quote": "USD 2.81 Billion"
+   },
+   {
+    "value": "5.01",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "quote": "USD 5.01 Billion"
+   },
+   {
+    "value": "3.75",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "quote": "USD 3.75 Billion"
+   },
+   {
+    "value": "2.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "2024年のUSD 2.6 Bn"
+   },
+   {
+    "value": "3.8",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "2031年までにUSD 3.8 Bn"
+   },
+   {
+    "value": "703.7",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "たとえば、米国防衛省が公表したデータによると、2022年4月、防衛予算は2021年のUSD 703.7 Bnと2022年に742.3 Bnでした"
+   },
+   {
+    "value": "71.50",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "たとえば、プレス情報局(PIB)が公表したデータによると、インド政府の納税機関は、2023年2月1日、防衛省は、総予算の13.18パーセントであったUSD 71.50 Bnの合計予算を割り当てました"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/armor-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4-116899",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2249712",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4225318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4749364",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/askscience/comments/20bduq/why_does_ceramic_tank_plating_stop_projectiles/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/ceramic-armor-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/sky2065368-ceramic-armor-market-size-share-growth-analysis-by.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mktresearch.hatenablog.com/entry/ceramic-armor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/ceramic-armor-market-to-reach-3-5-billion-globally-by-2027-at-8-6-cagr-says-marketsandmarkets-301636548.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slideshare.net/slideshow/ceramic-armor-marketpdf/255758568",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/ceramic-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bodyarmornews.com/evolving-requirements-in-ceramic-armor-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/body-armor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/ceramic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bulletproofzone.com/blogs/bullet-proof-blog/ceramic-body-armor-buyers-guide?srsltid=AYCX9vIfRAEI2xfQ7RCOBrpuDk6m_zrSOSZnzTu2OkTtiE_enR3pht4Y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "装甲材料（セラミック装甲） 市場規模 年平均成長率",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market",
+    "https://straitsresearch.com/jp/report/armor-materials-market",
+    "https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u",
+    "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "https://newscast.jp/news/2249712",
+    "https://www.zionmarketresearch.com/ja/report/ballistic-composites-market",
+    "https://www.sphericalinsights.com/jp/reports/armor-materials-market",
+    "https://www.atpress.ne.jp/news/2249712",
+    "https://www.mordorintelligence.com/ja/industry-reports/ceramic-armor-materials-market"
+   ]
+  },
+  {
+   "query": "装甲材料（セラミック装甲） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market",
+    "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4-116899",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "https://newscast.jp/news/2249712",
+    "https://straitsresearch.com/jp/report/armor-materials-market",
+    "https://www.atpress.ne.jp/news/4225318",
+    "https://www.sphericalinsights.com/jp/reports/armor-materials-market"
+   ]
+  },
+  {
+   "query": "装甲材料（セラミック装甲） 参入 企業 国内",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4-116899",
+    "https://pando.life/article/4749364",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "https://straitsresearch.com/jp/report/armor-materials-market",
+    "https://www.reddit.com/r/askscience/comments/20bduq/why_does_ceramic_tank_plating_stop_projectiles/?tl=ja",
+    "https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market",
+    "https://newscast.jp/news/2249712",
+    "https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/ceramic-armor-materials-market"
+   ]
+  },
+  {
+   "query": "ceramic armor market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "https://www.sphericalinsights.com/our-insights/ceramic-armor-market",
+    "https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market",
+    "https://www.prnewswire.com/news-releases/ceramic-armor-market-to-reach-3-5-billion-globally-by-2027-at-8-6-cagr-says-marketsandmarkets-301636548.html",
+    "https://www.marketresearchfuture.com/reports/ceramic-armor-materials-market-8174",
+    "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "https://www.linkedin.com/pulse/ceramic-armor-market-share-size-2026-2033-detailed-q7xge",
+    "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "https://dataintelo.com/report/ceramic-armor-market"
+   ]
+  },
+  {
+   "query": "ceramic armor market key players competitive landscape",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "https://www.maximizemarketresearch.com/market-report/ceramic-armor-market/164762/",
+    "https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market",
+    "https://www.linkedin.com/pulse/global-ceramic-armor-consumption-market-bgmcf",
+    "https://www.slideshare.net/slideshow/ceramic-armor-marketpdf/255758568",
+    "https://www.datamintelligence.com/research-report/ceramic-armor-market",
+    "https://www.gminsights.com/industry-analysis/ceramic-armor-market",
+    "https://www.expertmarketresearch.com/reports/ceramic-armor-market",
+    "https://www.marketreportsworld.com/market-reports/body-armor-market-14715134",
+    "https://www.mordorintelligence.com/industry-reports/ceramic-armor-materials-market"
+   ]
+  },
+  {
+   "query": "ceramic armor startup funding 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market",
+    "https://bodyarmornews.com/evolving-requirements-in-ceramic-armor-systems/",
+    "https://www.precedenceresearch.com/body-armor-market",
+    "https://www.linkedin.com/pulse/who-top-companies-north-america-ceramic-armor-market-torqenalpha-ijj5f/",
+    "https://startupintros.com/orgs/ceramic",
+    "https://bulletproofzone.com/blogs/bullet-proof-blog/ceramic-body-armor-buyers-guide?srsltid=AYCX9vIfRAEI2xfQ7RCOBrpuDk6m_zrSOSZnzTu2OkTtiE_enR3pht4Y",
+    "https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/",
+    "https://www.taipeitimes.com/News/front/archives/2025/08/05/2003841484",
+    "https://dealroom.co/news/140158-intalus-lands-20m-seed-to-fuse-ceramics-into-metals-for-defense/",
+    "https://tracxn.com/d/companies/ceramic/__nXtTBRFOpZekgusuLTxuAbyIJQ1BNa60jKgl7zVBJjw/funding-and-investors"
+   ]
+  }
+ ],
+ "missing": {}
+}

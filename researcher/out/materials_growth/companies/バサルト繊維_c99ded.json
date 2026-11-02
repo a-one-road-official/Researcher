@@ -1,0 +1,1980 @@
+{
+ "name": "バサルト繊維",
+ "en": "basalt fiber",
+ "aliases": [
+  "basalt fibre",
+  "バサルト繊維",
+  "玄武岩繊維"
+ ],
+ "context": "繊維",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:04:39.797494+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年11月25日にREPORTOCEANが発行した新しいレポートによると、-バサルトファイバーの世界市場は、2021年から2027年の予測期間において、11.80%以上の健全な成長率が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルトファイバー市場は2027年までに5億5410万米ドルに達する見込みです",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルトファイバー市場は、2020年に約2億5379万米ドルと評価されており、2021年から2027年の予測期間に11.80%以上の健全な成長率が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調査の目的は、近年の異なるセグメント＆国の市場規模を定義し、今後8年間の値を予測することです",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "バサルトファイバーの市場規模2021年",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維の市場規模は、2023年の2億7,900万米ドルから、予測期間中は12.5%のCAGRで推移し、2028年には5億300万米ドルの規模に成長すると予測されています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維市場は、2022年の106百万ドルから2031年には303.5百万ドルへと収益が増加する見込みです",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維の市場規模、シェア、需要、産業予測 - 2032年",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の玄武岩繊維市場規模は2023年に3億7,010万米ドルに達した",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARC Groupは、市場は2032年までに7億2950万米ドルに達し、2024年から2032年の間に7.6%の成長率（CAGR）を示すと予測している",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維プリプレグの市場規模、シェア、動向、予測：製造プロセス、樹脂タイプ、樹脂、最終用途産業、地域別、2025-2033年",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の玄武岩繊維市場規模は、2025年には3億5810万米ドルと評価され、2026年の3億9176万米ドルから2034年には8億382万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は9.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩ロービング市場は、複合材料製造、自動車部品、建築材料、および産業用途における連続玄武岩繊維の需要増加を背景に、年平均成長率（CAGR）12.1%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の玄武岩繊維市場は、急速なインフラ開発、建設活動の拡大、軽量で耐腐食性に優れた高強度補強材への需要増加を背景に、2025年には地域別で最大の38.5%のシェアを占めると予測されている",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の玄武岩繊維市場は、高速道路、高速鉄道、港湾、空港、都市インフラなど、2026年から2030年にかけての大規模なインフラ開発の進展に伴い、持続的な需要が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の玄武岩繊維市場は、インフラの近代化、軽量で耐腐食性に優れた補強材への需要の高まり、橋梁、高速道路、建物、産業施設への投資の増加を背景に、2026年から2034年にかけて年平均成長率（CAGR）13.4%を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の米国の玄武岩繊維市場は、建設およびインフラ整備活動の活発化により恩恵を受け、2025年12月時点の建設支出総額は年間換算で2兆1,700億ドルに達し、そのうち1兆2,400億ドルは非住宅建設に充てられました",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "連邦政府のインフラ整備資金も引き続き潤沢で、2025会計年度高速道路インフラ整備計画に基づき、橋梁の架け替え、改修、保全、保護、建設に55億ドルが割り当てられ、耐久性のある補強材の需要を支えました",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの玄武岩繊維市場は、2025年の力強い建設投資に支えられ、建築物建設投資総額は8.5%増の2,721億カナダドル、住宅建設投資は1,780億カナダドルに達した",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の玄武岩繊維市場は、インフラの近代化、老朽化し​​た橋梁や輸送ネットワークの改修、軽量で耐久性があり耐腐食性に優れた建築材料への需要の高まりを背景に、2025年には地域シェアの38.5%を占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "全米自動車販売協会 (NADA) は、北米の自動車産業が年間 1,700 万台の自動車を製造し、約 5,000 億ドルの売上を上げていると推定しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場規模、レポート、見通し 2035 | Expert Market Research",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.34 Million",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size 2025",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 36.99 Million",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にUSD 15.34 Million",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までにUSD 36.99 Million",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模：",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 2025",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場は、2025年に2億9,335万米ドルと評価され、2026年には3億2,528万米ドルに成長し、CAGR10.66％で推移し、2032年までに5億9,646万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/9568965",
+    "pass": 3
+   },
+   {
+    "quote": "建設用バサルト繊維の世界市場（2026年～2032年）、市場規模（＜10mm、10-50mm、50-100mm）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、建設用バサルト繊維の世界市場規模、市場動向、セグメント別予測（＜10mm、10-50mm、50-100mm）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界の建設用バサルト繊維市場規模は、2025年の3,714万米ドルから2032年には7,114万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.9％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までの地域別および国別の世界過去市場規模（年間売上高および年間収益）が含まれます",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2027年から2032年までの地域別のグローバル市場規模予測（売上高と年間収益）、アメリカ、APAC、ヨーロッパ、中東およびアフリカの国別予測、ならびにタイプ別およびアプリケーション別のグローバル予測が含まれています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "建設用バサルト繊維の世界市場（2026年～2032年）、市場規模（＜10mm、10-50mm、50-100mm）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場 | 市場規模 成長性 産業動向 予測 2026-2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size, Share, Trends and Forecast by Product, Type, Form, Method, End Use Industry, and Region 2026-2034",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維市場規模は、2025年に4億2,730万米ドルと評価され、2034年までに8億290万米ドルに達すると予測されており、2026年から2034年の予測期間においてCAGR 7.3％を示すと見込まれています",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,999 換算",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,999 換算",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,999 換算",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維（玄武岩繊維）の市場規模、シェア、動向分析レポート：用途別、最終用途別、地域別、セグメント別予測、2026年～2033年",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場規模、シェア、成長分析：種類別、形態別、用途別、最終用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場：形態別、用途別、最終用途別、国別、地域別―世界の業界分析、市場規模、市場シェアおよび2026年から2033年までの予測",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年11月25日にREPORTOCEANが発行した新しいレポートによると、-バサルトファイバーの世界市場は、2021年から2027年の予測期間において、11.80%以上の健全な成長率が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルトファイバー市場は、2020年に約2億5379万米ドルと評価されており、2021年から2027年の予測期間に11.80%以上の健全な成長率が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、北米は、同地域における有利な貿易政策により、2021年から2027年の予測期間において最も高い成長率を示すと予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維の市場規模は、2023年の2億7,900万米ドルから、予測期間中は12.5%のCAGRで推移し、2028年には5億300万米ドルの規模に成長すると予測されています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場の成長、106百万米ドルから303.5百万米ドルへ12.4%のCAGRで（2022年-2031年）",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、2023年から2031年の予測期間において年平均成長率（CAGR）12.4％を記録すると予測されています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARC Groupは、市場は2032年までに7億2950万米ドルに達し、2024年から2032年の間に7.6%の成長率（CAGR）を示すと予測している",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 (2024-2032)",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の玄武岩繊維市場規模は、2025年には3億5810万米ドルと評価され、2026年の3億9176万米ドルから2034年には8億382万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は9.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩鉄筋セグメントは、高い強度対重量比、耐腐食性、耐久性、そして建設およびインフラ用途における従来の鉄筋の代替としての利用拡大により、2025年には28.7%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩ロービング市場は、複合材料製造、自動車部品、建築材料、および産業用途における連続玄武岩繊維の需要増加を背景に、年平均成長率（CAGR）12.1%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "個別玄武岩繊維セグメントは、繊維強化コンクリートの需要増加、インフラ開発の拡大、軽量かつ耐久性の高い補強材の採用拡大を背景に、年平均成長率（CAGR）10.9%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)12.37%で成長し、2023年の2億7,600万米ドルから2033年には8億8,600万米ドルに成長する見込みです",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 9.20%",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別では、ロービング分野が予測期間中にCAGR 9.8%で成長すると予想されています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、複合材料分野が予測期間中にCAGR 9.9%を記録すると予測されています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "最終用途別では、建築・建設セグメントが予測期間中にCAGR 11.2%で成長すると予想されています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年までのCAGR：",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2019-2025",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035 - 製品タイプ別市場",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035 - 用途別市場",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035 - 最終用途別市場",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月 – バサルト・インフラストラクチャー・パートナーズLLCによるインフラ投資プラットフォームの拡大",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場は、2025年に2億9,335万米ドルと評価され、2026年には3億2,528万米ドルに成長し、CAGR10.66％で推移し、2032年までに5億9,646万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/9568965",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 10.66%",
+    "url": "https://newscast.jp/smart/news/9568965",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは10.66%です",
+    "url": "https://newscast.jp/smart/news/9568965",
+    "pass": 3
+   },
+   {
+    "quote": "世界の建設用バサルト繊維市場規模は、2025年の3,714万米ドルから2032年には7,114万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.9％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバサルト繊維市場規模は、2025年に4億2,730万米ドルと評価され、2034年までに8億290万米ドルに達すると予測されており、2026年から2034年の予測期間においてCAGR 7.3％を示すと見込まれています",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2026～2035年の間に10.12%のCAGRで百万",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2026～2035年の間に10.12%のCAGRで2035万人",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは、バサルトを他の繊維と組み合わせる繊維の一貫性、ハイブリッドコンポジットを強化し、3Dプリンティングおよび高度な補強システムでの使用を拡大する製造プロセスを改善しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の10.12%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Basalt Fiber Market Size was estimated at 0.28 USD Billion in 2024. The Basalt Fiber industry is projected to grow from USD 0.3 Billion in 2025 to USD 0.9 Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 11.2% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "The Basalt Fiber Market is projected to grow at a 11.2% CAGR from 2025 to 2035, driven by increasing demand in construction, automotive, and aerospace sectors.",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Basalt Fiber Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Basalt Fiber Market during the forecast period 2025 - 2035 is 11.2%.",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.4%",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2024 to 2029 : 13.4%",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 13.4%",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2024-2025(%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "USD 336.6 million, at a CAGR of 13.4%",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Composites - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Composites - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Non-composites - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Non-composites - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Construction and infrastructure - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Construction and infrastructure - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Automotive and transportation - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "279 Million in 2024 and is likely to grow at CAGR of 12.5% in the long run to reach US$ 503 Million in 2030.”",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2032, growing at a compound annual growth rate",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "さらに、競合状況や主要企業の製品提供に関する詳細な分析とともに、利害関係者が投資するミクロ市場での利用可能な機会についても記載しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "バサルトファイバー市場の主要企業",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、世界のバサルト繊維の市場を調査し、市場概要、市場影響因子および市場機会の分析、技術・特許動向、ケーススタディ、法規制環境、市場規模の推移・予測、各種区分・地域別の詳細分析、競合情勢、主要企業のプロファイルなどをまとめています",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、特に建設、自動車、航空宇宙などの産業における玄武岩繊維の需要増加を背景に、市場には多数の中小企業や新規参入企業が存在し、ダイナミックな市場競争をさらに助長している",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の詳細なプロフィールも掲載している",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には以下のようなものがある：",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターのファイブ・フォース分析は、利害関係者が新規参入の影響、競争上のライバル関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、ステークホルダーが競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供する",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kamenny Vek、Zhejiang GBF Basalt Fiber Co.、Mafic SA、Technobasalt-Invest LLC、ISOMATEX SA Inc.などの主要企業は、世界の玄武岩繊維市場シェアの約24%を占めると推定されており、これは複数の地域および専門サプライヤーの存在を反映しています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場の主要企業は、建設用補強材、海洋インフラ、風力発電用複合材料に注力しており、これらの分野ではバサルトの耐食性により、ライフサイクル全体でのコスト削減効果が顕著に表れています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場のその他の主要企業には、TESPE、ISOMATEX SA、Mafic USA、Galen Ltd.、Arrow Technical Textiles Pvt. Ltd.などが挙げられる",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "調達、パートナーシップ、市場参入計画を支援する、即座に意思決定に活用できる情報",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場における主要企業はどれか？",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の主要企業には、以下の企業が含まれます",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の戦略",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、建設用バサルト繊維のポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、主要グローバル企業の戦略を分析することで、加速する世界の建設用バサルト繊維市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "新規製品と潜在的な参入企業、および市場のM&A活動と戦略についても言及されています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の分析が詳細に記載されています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業プロファイル",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業は、 Kamenny Vek（ロシア） 、",
+    "url": "https://www.aichi-inst.jp/other/up_docs/no.213_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "leading the charge. The competitive landscape is marked by a strong emphasis on research and development, fostering collaborations between industry and academia. This focus on innovation is expected to enhance product performance and expand market opportunities.",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Basalt Fiber Market include",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in the Basalt Fiber Market?",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Basalt Fiber Market include Kamenny Vek, Basalt Fiber Tech, Technobasalt-Invest, and Mafic.",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "The study further included a global market analysis, wherein the estimated market size of the global basalt fiber market was determined. The market analysis included an evaluation of the current market size and the expected market growth rate. The analysis also provided an overview of the key players in the market.",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Basalt Fiber Market?",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Most of the major players compete in some of the governing factors including price, service offerings, regional presence, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the key players in the basalt fiber market:",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Service portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kamenny Vek, Zhejiang GBF Basalt Fiber Co., JFE RockFiber Corp., Mafic SA, Technobasalt-Invest LLC, Russian Basalt, ISOMATEX SA, INCOTELOGY GmbH, Sudaglass Basalt Fiber Technology, Shanxi Basalt Fiber Technology Co., Ltd, Mudanjiang Basalt Fiber Co. are the leading players in the basalt fiber market.",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous Basalt Fiber Market: Competitive Landscape",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of key players in continuous basalt fiber market are",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of key players in continuous basalt fiber market are Zhejiang GBF Basalt Fiber Co., LTD, Sudaglass and Basaltex NV., Technobasalt Invest LLC, Mudanjiang Jinshi Basalt Fiber Co., Ltd., Kamenny Vek, Ltd, Shanxi Basalt Fibre Technology Co., Ltd, Yingkou Hongyuan Fiberglass Technology Co., Mafic SA, and Technobasalt Invest LLC.",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players of the Basalt fiber market",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "5] Key players in the Basalt fiber Market.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Basalt Fiber Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "Large Diameter Steel Pipes Market by Type, Application, Distribution and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "アジア太平洋地域（中国、インド、日本、韓国、オーストラリアおよびニュージーランド、ASEAN諸国、その他のアジア太平洋地域）",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、北米（米国、カナダ）、欧州（ドイツ、フランス、英国、イタリア、スペイン、ロシア、その他）、アジア太平洋（中国、日本、インド、韓国、オーストラリア、インドネシア、その他）、中南米（ブラジル、メキシコ、その他）、中東・アフリカといった主要地域市場についても包括的な分析を行っている",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Research",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の玄武岩繊維市場は、インフラ投資の継続と老朽化した輸送インフラの近代化によって恩恵を受けると予想されている",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場規模、レポート、見通し 2035 | Expert Market Research",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場の規模、シェアおよび予測動向 - 成長分析と見通しレポート（2026-2035）",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場：製品タイプ別：ロービング、チョップドストランド、ファブリック、メッシュ・グリッド；用途別：複合材料、非複合材料；最終用途別：建築・建設、自動車、航空宇宙・防衛、造船、風力発電、スポーツ用品およびその他；バリューチェーン分析；地域別分析；市場動向：SWOT分析、ポーターの5つの力分析、需要に関する主要指標；競合状況； 2026-2035",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場レポートの概要",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場規模は、",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーはバサルト繊維を鉄筋と炭素繊維の中間的な存在として位置づけており、プレミアム価格を伴わずに優れた耐久性を提供することで、日本のバサルト繊維市場全体の成長を後押ししています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、バサルトはニッチな複合材料としてではなく、インフラ更新における実用的な選択肢として位置づけられ、日本のバサルト繊維市場価値全体を加速させています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本バサルト繊維市場レポートの概要",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "ICOMATEXのエネルギー効率に優れた繊維機械は、バサルト繊維の織物およびメッシュの生産を柔軟に拡大可能にし、日本の加工業者が建設およびインフラ補強用途において、一貫性を向上させながら加工コストを削減できるよう支援します",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "このアルミニウム被覆バサルト繊維は、熱安定性と熱伝導性を向上させ、従来の建設用途にとどまらず、日本の産業、エネルギー、耐火複合材料分野におけるバサルトの適用範囲を拡大しています",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "インフラや産業用補強プロジェクトにおいて、持続可能性に関する指標が材料選定にますます大きな影響を与える中、UBEの低GHG複合材料は、日本の玄武岩繊維市場における需要を後押ししている",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "公共事業体や建設業者は、塩化物による腐食にさらされる沿岸・海洋資産のライフサイクル維持管理コストを削減するため、玄武岩繊維強化ポリマー（BFRP）製鉄筋の試験導入を進めており、これにより日本の玄武岩繊維市場における需要が加速している",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のプレキャストおよび現場施工のワークフローに適応するため、需要は生繊維から、ロービング、織物、チョップドストランド、BFRP鉄筋などの加工製品へと移行しつつある",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場におけるこうしたパッケージングの動向により、施工性の良さや認証実績が評価される自治体プロジェクトにおいて、仕様承認の迅速化や目に見える実証試験が可能になっている",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://newscast.jp/smart/news/9568965",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の売上高と収益、タイプ別の売上高、アプリケーション別の売上高が含まれています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：建設用バサルト繊維の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "天災を経験し日本国内全ての建造物が老朽化、経年劣化する中で今後も起こり得る天災に備え、補強・耐震・耐久に優れた素材を日本国内に広めようと事業を開始致しました",
+    "url": "https://tsservice.co.jp/business-basaltfiber/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、日本の繊維産業は低迷しているといわ",
+    "url": "https://www.aichi-inst.jp/other/up_docs/no.213_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "APAC (China, Japan, and India), North America (US, Canada, and Mexico), Europe (Germany, France, and UK), South America (Brazil, Argentina, and Colombia), Middle East and Africa (Saudi Arabia, UAE, and South Africa), and Rest of World (ROW)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "China, Japan, India, South Korea, Australia, Indonesia, US, Canada, Mexico, Germany, France, UK, Italy, The Netherlands, Spain, Brazil, Argentina, Colombia, Saudi Arabia, UAE, South Africa, Israel and Turkey",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "12.3.2 Japan - Market size and forecast 2024-2029",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Japan - Market size and forecast 2024-2029 ($ million)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Japan - Market size and forecast 2024-2029 ($ million)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Japan - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Japan - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "China, Japan, India, South Korea, Australia, Indonesia, US, Canada, Mexico, Germany, France, UK, Italy, The Netherlands, Spain, Brazil, Argentina, Colombia, Saudi Arabia, UAE, South Africa, Israel, Turkey",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "(North America [The USA, Canada, and Mexico], Europe [Germany, France, The UK, Russia, and Rest of Europe], Asia-Pacific [China, Japan, India, and Rest of Asia-Pacific], and Rest of the World [Brazil, Saudi Arabia, and Others]).",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Country Analysis: Japan, China, India, and Rest of Asia-Pacific)",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "(China, South Korea, Japan, India, Australia, Indonesia, Malaysia, Vietnam, Taiwan, and the Rest of APAC)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.1. Japan Basalt Fiber Market Size and Forecast, by Form (2024-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.2. Japan Basalt Fiber Market Size and Forecast, by Usage (2024-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.3. Japan Basalt Fiber Market Size and Forecast, by End User Industry (2024-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "China infrastructure boom, domestic fiber manufacturing, rapid wind energy growth, India construction expansion, Japan/Korea advanced composite demand",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, Germany, France, United Kingdom, Italy, Spain, Russia, China, Japan, India, South Korea, Australia, Indonesia, Brazil, Mexico",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Basalt Fiber Market Size, Share, Trends and Forecast by Product, Type, Form, Method, End-Use Industry, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Bamboo Fiber Market Size, Share, Trends and Forecast by Type, Application, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Research",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Growth Rate (2024 to 2034)",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is the demand projection for basalt fiber in Japan?",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market in Japan is analyzed to rise at a CAGR of 11% from 2024 to 2034.",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "バサルト繊維の市場規模、シェア、需要、産業予測 - 2032年",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維プリプレグの市場規模、シェア、動向、予測：製造プロセス、樹脂タイプ、樹脂、最終用途産業、地域別、2025-2033年",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場の規模、シェア、成長、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場の規模、シェア、トレンド分析レポート：製品タイプ別（玄武岩鉄筋、玄武岩ロービング、玄武岩ファブリック、メッシュおよびグリッド、チョップドストランド、その他）、形態別（連続玄武岩繊維、離散玄武岩繊維）、最終用途産業別（建設およびインフラ、自動車および輸送、電気および電子機器、化学、風力エネルギー、海洋、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に38.5%の市場シェアを占め、玄武岩繊維市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩鉄筋セグメントは、高い強度対重量比、耐腐食性、耐久性、そして建設およびインフラ用途における従来の鉄筋の代替としての利用拡大により、2025年には28.7%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "連続玄武岩繊維セグメントは、高い引張強度、耐久性、耐腐食性、熱安定性、そして複合材料、補強材、構造用途における幅広い利用により、2025年には68.4%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "建設・インフラ分野は、2025年には42.6%のシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の玄武岩繊維市場は、急速なインフラ開発、建設活動の拡大、軽量で耐腐食性に優れた高強度補強材への需要増加を背景に、2025年には地域別で最大の38.5%のシェアを占めると予測されている",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の玄武岩繊維市場は、インフラの近代化、老朽化し​​た橋梁や輸送ネットワークの改修、軽量で耐久性があり耐腐食性に優れた建築材料への需要の高まりを背景に、2025年には地域シェアの38.5%を占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kamenny Vek、Zhejiang GBF Basalt Fiber Co.、Mafic SA、Technobasalt-Invest LLC、ISOMATEX SA Inc.などの主要企業は、世界の玄武岩繊維市場シェアの約24%を占めると推定されており、これは複数の地域および専門サプライヤーの存在を反映しています",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の玄武岩繊維市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の玄武岩繊維市場の規模、シェア、レポート予測 - 2033 年",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の玄武岩繊維市場の規模、シェア、COVID-19の影響分析、用途別(複合材料と非複合材料)、形態別(連続と離散)、最終用途産業別(自動車と輸送、建設とインフラ、電気と電子、風力エネルギー、海洋、その他)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、2023年～2033年の分析と予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模、シェア、COVID-19の影響分析、用途別(複合材料と非複合材料)、形態別(連続および離散)、最終用途産業別(自動車および輸送、建設およびインフラ、電気および電子、風力エネルギー、海洋、その他)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、分析および予測2023～2033年」に関するレポートから、197ページにわたる主要な業界の洞察と110の市場データ表、図表を参照します",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバサルト繊維市場の規模、シェアおよび予測動向 - 成長分析と見通しレポート（2026-2035）",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品タイプ別（10mm以下、10-50mm、50-100mm）の建設用バサルト繊維の売上動向、2021年から2026年までのタイプ別売上市場シェア、収益と市場シェア、および販売価格が詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アプリケーション別（工業ビル、民生ビル、商業ビル）の売上動向、2021年から2026年までのアプリケーション別売上市場シェア、収益と市場シェア、および販売価格についても要約が収録されています",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までの企業別年間売上高と売上市場シェア、企業別年間収益と収益市場シェア、企業別販売価格が含まれます",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場の規模、シェア、動向および予測：製品タイプ別、タイプ別、形態別、方法別、最終用途産業別、地域別（2026年～2034年）",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品セグメントでは2025年にロービングが25.1%で首位を占め、タイプセグメントでは複合材料が90.7%で圧倒的なシェアを占めています",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に世界全体の売上高の47.0%を占め、世界最大の地域市場となっています",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維（玄武岩繊維）の市場規模、シェア、動向分析レポート：用途別、最終用途別、地域別、セグメント別予測、2026年～2033年",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場規模、シェア、成長分析：種類別、形態別、用途別、最終用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "玄武岩繊維市場：形態別、用途別、最終用途別、国別、地域別―世界の業界分析、市場規模、市場シェアおよび2026年から2033年までの予測",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "連続玄武岩繊維市場- 世界の産業規模、シェア、動向、機会、予測：製品タイプ別、加工技術別、エンドユーザー別、地域別＆競合、2021年～2031年",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "segment accounted for the largest market revenue share in 2023",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Application - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Application - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on End-user - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on End-user - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Form Factor - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Form Factor - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by geography 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by geography 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "North American region constituted the second-largest share a market share in the global continuous basalt fiber market in 2024. There has been rapid adoption of high-quality materials in various industry verticals such as aerospace, automotive, composites, and construction has been a major growth driving factor for the North America continuous basalt fiber market.",
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "2] Which region is expected to hold the highest share of the Global Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3. Market Size (USD) and Market Share (%) – By Segments and Regions",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.8. Market Share",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "driven by epoxy and vinyl-ester laminates dominating wind, automotive, and marine construction, with interfacial shear strength of ~40 MPa enabling 10–15% weight savings over equivalent glass fiber structures.",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the basalt fiber market share by the end of 2034.",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share of Ship Building Segment (2034F)",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "East Asia Market Share (2034F)",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "share of the global market by the end of 2034. An expansion of numerous end-use industries, including automotive, aerospace, etc. is projected to generate more demand for basalt fiber in the region.",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "share of the global market by the end of 2034. The rising use of basalt fiber in shipbuilding is due to its low iron and high silica content. Its fireproof and strong properties make it ideal for use as a textile in the shipbuilding process. Considering its features, it is comparatively pocket-friendly, therefore gaining more prominence among end-use sectors.",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "East Asia is forecasted to hold 24.6% share of global market revenue by 2034.",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Non-composite basalt fiber is evaluated to account for 69.2% of the global market share by 2034.",
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界の バサルト繊維市場 は2027年まで 年平均成長率 11.80%で ... — 世界の バサルト繊維市場 は2027年まで 年平均成長率 11.80%で ... PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維 - メーカー・企業4社の業務用製品ランキング — バサルト繊維 - メーカー・企業4社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > バサルト繊維",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維 の 市場規模 、シェア、需要、産業予測 - 2032年 — バサルト繊維 の 市場規模 、シェア、需要、産業予測 - 2032年 IMARC Group https://www.imarcgroup.com > Chemical & Materials",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の バサルト繊維市場 規模、レポート、見通し 2035 — 日本の バサルト繊維市場 規模、レポート、見通し 2035 Expert Market Research https://www.expertmarketresearch.com > reports > japan-...",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "建設用 バサルト繊維 の世界 市場 （2026年～2032年） — 建設用 バサルト繊維 の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維 の 市場 規模、シェア、需要、産業 予測 - 2032年 — バサルト繊維 の 市場 規模、シェア、需要、産業 予測 - 2032年 IMARC Group https://www.imarcgroup.com > Chemical & Materials",
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維市場 | 市場 規模 成長性 産業動向 予測 2026-2034 ... — バサルト繊維市場 | 市場 規模 成長性 産業動向 予測 2026-2034 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 繊維",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の バサルト繊維 市場規模、レポート、見通し 2035 — 日本の バサルト繊維 市場規模、レポート、見通し 2035 Expert Market Research https://www.expertmarketresearch.com > reports > japan-...",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "バサルト繊維 （玄武岩繊維）について — バサルト繊維 （玄武岩繊維）について あいち産業科学技術総合センター PDF https://www.aichi-inst.jp > up_docs > no.213_04.pdf",
+    "url": "https://www.aichi-inst.jp/other/up_docs/no.213_04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size , Share & Forecast Report 2035 — Basalt Fiber Market Size , Share & Forecast Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Analysis, Size , and Forecast 2025 -2029 — Basalt Fiber Market Analysis, Size , and Forecast 2025 -2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size , Share & Industry Forecast Report 2025 — Basalt Fiber Market Size , Share & Industry Forecast Report 2025 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size , Share, Growth Report, 2034 — Basalt Fiber Market Size , Share, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/basalt-fiber-market-102317",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market worth $0.70 billion by 2031 - PR Newswire — Basalt Fiber Market worth $0.70 billion by 2031 - PR Newswire PR Newswire https://www.prnewswire.com > basalt-...",
+    "url": "https://www.prnewswire.com/news-releases/basalt-fiber-market-worth-0-70-billion-by-2031---exclusive-report-by-marketsandmarkets-302765398.html",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size, Share & Forecast Report 2035 — Basalt Fiber Market Size, Share & Forecast Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size, Share, Growth Report, 2034 — Basalt Fiber Market Size, Share, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/basalt-fiber-market-102317",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Analysis, Size, and Forecast 2025-2029 — Basalt Fiber Market Analysis, Size, and Forecast 2025-2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size, Share, Growth Trends & Forecast 2032 — Basalt Fiber Market Size, Share, Growth Trends & Forecast 2032 maximize market research https://www.maximizemarketresearch.com > ...",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in Global Continuous Basalt Fiber Market — Top 20 Companies in Global Continuous Basalt Fiber Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market worth $0.70 billion by 2031 — Basalt Fiber Market worth $0.70 billion by 2031 MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/core/PressReleases/basalt-fiber.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt Fiber Market Size, Share & Report Forecast 2034 — Basalt Fiber Market Size, Share & Report Forecast 2034 IMARC Group https://www.imarcgroup.com > basalt...",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Additionally, SGL Carbon strengthened its commitment to high-strength composites in March 2023 by introducing the SIGRAFIL® C T50‑4.9/235 carbon fiber, expanding its material line. In order to address the increasing demand for sustainable building, Swiss company Arges secured USD 12 million in investment in September 2023 to expand its manufacture of basalt fiber composite rebars.",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "pass": 3
+   },
+   {
+    "quote": "The global basalt fiber market growth trajectory from 2020 through 2034, contrasting a consistent historical expansion base against a sustained forecast curve powered by rising infrastructure investment, automotive lightweighting mandates, wind energy deployments, and growing preference for sustainable composite reinforcement materials.",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "15% YoY import growth (2025), federal infrastructure investment, Florida DOT bridge validations, EV lightweighting demand, aerospace adoption",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "GCC infrastructure expansion, high-humidity corrosion-resistant applications, Saudi Vision 2030 smart mobility investments",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads with a 47.0% share in 2025, driven by China's large-scale infrastructure investment, domestic fiber manufacturing base, rapid wind energy deployment, and India's growing construction sector demand.",
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements raises €2.6 million seed funding for 3D basalt fiber | CompositesWorld",
+    "url": "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University",
+    "url": "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.",
+    "url": "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements raises €2.6 million seed funding for 3D basalt fiber",
+    "url": "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "(Leoben, Austria), a startup specializing in automated basalt fiber manufacturing for the construction industry, has raised €2.6 million in seed funding. The round was led by LEA Partners alongside the Amadeus APEX Technology Fund.",
+    "url": "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements Raises €2.6M Seed Funding — Fiber Elements",
+    "url": "https://fiber-elements.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements Raises €2.6M Seed Funding",
+    "url": "https://fiber-elements.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements, a startup specializing in automated basalt fiber manufacturing for the construction industry, today announced it has raised €2.6 million in seed funding. The round was led by LEA Partners alongside the Amadeus APEX Technology Fund.",
+    "url": "https://fiber-elements.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements has raised $3.0M across 1 funding round.",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "1 funding round",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements has raised $3.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Elements has raised $3.0M across 1 funding round. Most recently, it raised $3.0M Seed in July 2025.",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "$3.0M raised",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "techfundingnews.com/fiber-elements-raises-e2-6-to-reinvent-concrete-with-basalt-and-ai",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "amadeuscapital.com/fiber-elements-raises-e2-6m-seed-funding-to-replace-steel-reinforcement-with-basalt-fiber-technology",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   },
+   {
+    "quote": "compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "11.80",
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "quote": "世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み | Report Oceanのプレスリリース"
+   },
+   {
+    "value": "12.4",
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "quote": "この成長は、2023年から2031年の予測期間において年平均成長率（CAGR）12.4％を記録すると予測されています"
+   },
+   {
+    "value": "9.4",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "quote": "世界の玄武岩繊維市場規模は、2025年には3億5810万米ドルと評価され、2026年の3億9176万米ドルから2034年には8億382万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は9.4%となる見込みです"
+   },
+   {
+    "value": "12.1",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "quote": "玄武岩ロービング市場は、複合材料製造、自動車部品、建築材料、および産業用途における連続玄武岩繊維の需要増加を背景に、年平均成長率（CAGR）12.1%で成長すると予測されています"
+   },
+   {
+    "value": "10.9",
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "quote": "個別玄武岩繊維セグメントは、繊維強化コンクリートの需要増加、インフラ開発の拡大、軽量かつ耐久性の高い補強材の採用拡大を背景に、年平均成長率（CAGR）10.9%で成長すると予測されています"
+   },
+   {
+    "value": "12.37",
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)12.37%で成長し、2023年の2億7,600万米ドルから2033年には8億8,600万米ドルに成長する見込みです"
+   },
+   {
+    "value": "9.20",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "quote": "CAGR 9.20%"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "quote": "製品タイプ別では、ロービング分野が予測期間中にCAGR 9.8%で成長すると予想されています"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "quote": "用途別では、複合材料分野が予測期間中にCAGR 9.9%を記録すると予測されています"
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "quote": "最終用途別では、建築・建設セグメントが予測期間中にCAGR 11.2%で成長すると予想されています"
+   },
+   {
+    "value": "10.66",
+    "url": "https://newscast.jp/smart/news/9568965",
+    "quote": "バサルト繊維市場は、2025年に2億9,335万米ドルと評価され、2026年には3億2,528万米ドルに成長し、CAGR10.66％で推移し、2032年までに5億9,646万米ドルに達すると予測されています"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "quote": "世界の建設用バサルト繊維市場規模は、2025年の3,714万米ドルから2032年には7,114万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.9％で成長すると見込まれています"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "quote": "世界のバサルト繊維市場規模は、2025年に4億2,730万米ドルと評価され、2034年までに8億290万米ドルに達すると予測されており、2026年から2034年の予測期間においてCAGR 7.3％を示すと見込まれています"
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "quote": "As per Market Research Future analysis, the Basalt Fiber Market Size was estimated at 0.28 USD Billion in 2024. The Basalt Fiber industry is projected to grow from USD 0.3 Billion in 2025 to USD 0.9 Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 11.2% during the forecast period "
+   },
+   {
+    "value": "13.4",
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "quote": "CAGR of 13.4%"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "quote": "279 Million in 2024 and is likely to grow at CAGR of 12.5% in the long run to reach US$ 503 Million in 2030.”"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "15.34",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "quote": "USD 15.34 Million"
+   },
+   {
+    "value": "36.99",
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "quote": "USD 36.99 Million"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9568965",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsservice.co.jp/business-basaltfiber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-inst.jp/other/up_docs/no.213_04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/basalt-fiber-market/companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4739373",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/basalt-fiber-market-39388070.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/basalt-fiber-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/basalt-fiber-market-102317",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/basalt-fiber-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fiber-elements.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/fiber-elements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/core/PressReleases/basalt-fiber.asp",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バサルト繊維 市場規模 年平均成長率",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000003914.000067400.html",
+    "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/",
+    "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "https://straitsresearch.com/jp/report/basalt-fiber-market",
+    "https://www.sphericalinsights.com/jp/reports/basalt-fiber-market",
+    "https://www.atpress.ne.jp/news/9390022",
+    "https://www.fortunebusinessinsights.com/jp/%E7%8E%84%E6%AD%A6%E5%B2%A9%E7%B9%8A%E7%B6%AD%E5%B8%82%E5%A0%B4-102317",
+    "https://www.databridgemarketresearch.com/jp/reports/global-basalt-fiber-market",
+    "https://marketdata.hatenablog.com/entry/basalt-fiber/",
+    "https://www.globalresearch.co.jp/basalt-fiber-market/"
+   ]
+  },
+  {
+   "query": "バサルト繊維 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "https://newscast.jp/smart/news/9568965",
+    "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "https://www.imarcgroup.com/report/ja/basalt-fiber-market",
+    "https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html",
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112411816&la=ja",
+    "https://note.com/qy_research/n/nc196ea7f998e",
+    "https://fujiiannaayr.gorillawiki.jp/entry/945cd01794ca29ce3992d70c2b774014"
+   ]
+  },
+  {
+   "query": "バサルト繊維 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD%E8%A3%BD%E5%93%81/",
+    "https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market",
+    "https://tsservice.co.jp/business-basaltfiber/",
+    "https://www.aichi-inst.jp/other/up_docs/no.213_04.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/basalt-fiber-market/companies",
+    "https://pando.life/article/4739373",
+    "https://www.credenceresearch.jp/report/india-basalt-fiber-market-ja",
+    "https://www.samaterials.jp/content/a-complete-guide-to-basalt-fiber.html",
+    "https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "https://qyresearch-news.hatenablog.com/entry/2025/12/12/115521"
+   ]
+  },
+  {
+   "query": "basalt fiber market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/basalt-fiber-market-39388070.html",
+    "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "https://www.mordorintelligence.com/industry-reports/basalt-fiber-market",
+    "https://www.fortunebusinessinsights.com/basalt-fiber-market-102317",
+    "https://www.prnewswire.com/news-releases/basalt-fiber-market-worth-0-70-billion-by-2031---exclusive-report-by-marketsandmarkets-302765398.html",
+    "https://www.imarcgroup.com/basalt-fiber-market",
+    "https://www.grandviewresearch.com/industry-analysis/basalt-fiber-market",
+    "https://www.linkedin.com/pulse/continuous-discrete-non-metallic-fibers-basalt-fiber-market-0sbke",
+    "https://dataintelo.com/report/basalt-fiber-market"
+   ]
+  },
+  {
+   "query": "basalt fiber market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907",
+    "https://www.stratviewresearch.com/market-reports/basalt-fiber-market.html",
+    "https://www.fortunebusinessinsights.com/basalt-fiber-market-102317",
+    "https://www.technavio.com/report/basalt-fiber-market-industry-analysis",
+    "https://www.zionmarketresearch.com/report/continuous-basalt-fiber-market",
+    "https://www.maximizemarketresearch.com/market-report/global-basalt-fiber-market/33313/",
+    "https://www.imarcgroup.com/basalt-fiber-market",
+    "https://www.factmr.com/report/1312/basalt-fibers-market",
+    "https://www.linkedin.com/pulse/comprehensive-overview-basalt-fiber-products-market-jurue",
+    "https://www.marketsandmarkets.com/Market-Reports/basalt-fiber-market-39388070.html"
+   ]
+  },
+  {
+   "query": "basalt fiber startup funding 2025",
+   "results": [
+    "https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber",
+    "https://fiber-elements.com/news",
+    "https://startupintros.com/orgs/fiber-elements",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-continuous-basalt-fiber-market-2026-2035-spherical-insights-analysis",
+    "https://www.marketsandmarkets.com/core/PressReleases/basalt-fiber.asp",
+    "https://www.imarcgroup.com/basalt-fiber-market",
+    "https://www.coherentmarketinsights.com/industry-reports/continuous-basalt-fiber-market",
+    "https://www.openpr.com/news/4652725/basalt-fiber-market-gains-momentum-as-fiber-elements-secures",
+    "https://www.grandviewresearch.com/industry-analysis/basalt-fiber-market",
+    "https://www.ventureradar.com/funding/Basalt+fibers"
+   ]
+  }
+ ],
+ "missing": {}
+}

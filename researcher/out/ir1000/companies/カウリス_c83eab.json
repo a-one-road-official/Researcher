@@ -1,0 +1,1377 @@
+{
+ "name": "カウリス",
+ "aliases": [],
+ "context": "証券コード153A／情報・通信業／グロース（内国株式）／2025.12期 売上高1,401百万円 営業利益率29.1%",
+ "researched_at": "2026-11-02T16:55:27.021386+00:00",
+ "official_url": "https://caulis.jp/",
+ "identified_by": "search:yahoo_jp:カウリス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2015年12月4日",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2015年12月",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "不正アクセス検知サービス、本人確認サービスの開発・提供",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "14人",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "青木信用金庫、電力契約情報を活用した本人確認サービス「Grid Data KYC」を用いた実証実験を開始 ～継続的顧客管理業務の効率化・高度化を目指す～",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "250超のパラメータ（検知項目）を活用して、オンラインの顧客接点である「口座開設」「ログイン」「入出金」チャネルを、金融庁が定めるガイドラインや要請に則してモニタリング",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機関が保有する顧客情報を電力契約情報と照合し、電力契約の有無等により名義人等の整合性や空き家の状態を確認",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "継続的顧客管理の完了率向上やコスト削減、不正な口座開設・入会の防止を実現します",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "X（旧Twitter）に投稿される口座買取のポストをクローリングし、顧客企業の買取件数・金額を日次で集計してメールでお知らせ",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業以外の状況についても週次でExcelファイルをお送りします",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろんお客様の声を伺いながら新たな武器の開発にも取り組んでおり、今後新たなサービスとして提供できるよう努めてまいります",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社カウリスは、顧客とともに「インターネットの安全を提供するインフラ」となることを目指している、サイバーセキュリティのスタートアップです",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からお預かりする膨大なデータを機械学習を用いて解析",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業者・ユーザー双方にとって安心なインターネット環境をご提供するためのプラットフォームづくりを目指しています",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "月間アクティブユーザーが数千万単位の大手サービスからユーザー数の比較的少ないサービスまでお使いいただけるよう、できるだけ安価にセキュリティサービスを提供しています",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、業界・業種をまたいだ幅広い顧客基盤から集まった大量のデータを検知ロジックの改善に活用",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へのサービス提供内容や具体的な対応の詳細につきましては、当該お客様や関係先様のセキュリティ体制・機密情報に関わる事項を含むため、弊社としてはお答えいたしかねますことあらかじめご承知おきください",
+    "url": "https://caulis.jp/ir/form-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力サービス「Fraud Alert（フロードアラート）」では、不正に利用された情報をブラックリスト化してユーザー企業間で共有することで、企業や業界を越えて不正なアクセスを捕捉することが可能となっております",
+    "url": "https://caulis.jp/ir/management-message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、株主や顧客をはじめ、取引先、従業員等、あらゆるステークホルダーと良好な関係を築き、持続的に企業価値を向上させることが経営の重要課題と捉えております",
+    "url": "https://caulis.jp/ir/management-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "：API 数を 3 → 6 系統へ拡張し、既存顧客 ARPU を 1.4 倍へ",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "AI モデルのバイアス問題：不正検知の誤判定率上昇で顧客離反を招くリスク",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「情報インフラを共創し、世界をより良くする」というミッションのもと、先端技術を活用した実用的なサービスを創り続け、犯罪のビッグデータをアルゴリズムと掛け合わせた法人向けクラウド型不正アクセス検知サービス「Fraud Alert」（フロードアラート）を提供するとともに、2025年９月には、同様に犯罪・不正対策分野におけるデータ活用を強みとした新規事業として、本人確認・顧客管理領域に対応する「Grid Data KYC」（グリッドデータケーワイシー）をリリースいたしました",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは個社ごとにモニタリングし、検知するというアプローチが主流ですが、個社で解決するには時間もコストもかかることから顧客横断・業界横断でデータを流通させ日本全体の犯罪データをプラットフォーム化し国民の生命・財産を守ることを目指しています",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "「Fraud Alert」は、マネー・ローンダリング対策・サイバーセキュリティ対策等として 、銀行、証券会社等の資金移動業、並びに、膨大な個人ユーザー（以下「エンドユーザー」",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "）を有する通信キャリア、ガス等のインフラ事業者、その他のサービス事業者（以下「顧客」",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の利用シーンは、個人ユーザーが、顧客のウェブサイト（以下「顧客サイト」",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "）や、スマホアプリにエンドユーザーが訪問し、口座開設（アカウント開設）や、残高照会・送金などの取引を実施する際であり、このときに不正利用の可能性をモニタリングしております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、端末から取得される情報をFraud Alertのアルゴリズムで算出し、なりすましではないか、自社・他社において不正利用履歴がないか、などを算定し、法人顧客にリアルタイムでアラートを上げるサービスです",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュは流通するため、個社で、検知しにくいマネー・ローンダリングを、顧客横断・業界横断でデータ流通させ、早期検知・不正予防する点が提供価値となっております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "IPA（独立行政法人情報処理推進機構）が2023年２月に公表した2022年度情報セキュリティの脅威に対する意識調査(注１)によると、パスワードの使い回しのパソコン利用者が約４割、スマートフォン利用者では約５割に上る中、不正アクセスの手口は巧妙化し情報漏えいが増加しています",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ロケーション情報の異なるアクセス（例：東京からログインがあった１分後に大阪から同じアカウント情報を使ったアクセス）や、１つの端末に５つ以上の口座が紐づくアクセス（例：同じパソコンで５つ以上の口座のインターネットバンキングにアクセス）、並びにFraud Alertにブラックリストとして登録されている端末情報（顧客が危険と判断し、Fraud Alertのブラックリストデータベースに登録した端末情報）からのアクセスなどです",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、警視庁・各県警から、当社顧客に凍結依頼があった銀行口座に紐づく端末情報をブラックリストデータベース登録も行っておりますが、総務省、警察庁及び経済産業省の調査(注３)によると、2025年の不正アクセス行為の認知件数は7,190件あり、そのうち９割弱がインターネットバンキングでの不正送金等につながっております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "ログインの際に、不正なエンドユーザーを検知し水際で防ぐ対策が求められています",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "これによって、通常のID・パスワード認証に加え、エンドユーザーの個人情報を用いず、端末から取得するエンドユーザーの各種パラメータ（IPアドレス、端末情報、OS、ログイン場所、時間、アクセス履歴、ページ内遷移など250以上）からエンドユーザーの行動履歴をデータベース化し、ログインやアクセスが本人のものかを独自の検知アルゴリズムでリアルタイムにアクセス解析を実施し、「本人らしさ」を判定します",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "「Fraud Alert」は、Webブラウザ、Mobileブラウザ、スマートフォンアプリに対応しており、同一口座がどの端末からログインしているのかを検知し、端末レベル、口座レベル、IPアドレスレベルで、不正利用の検知が可能であり、さらに顧客間で、悪意のあるアクセス、過去に他社で不正利用に使われた端末を捕捉することが可能となります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザーのID・パスワードの使い回しが依然として見受けられている今、ID・パスワードによる認証だけでは安全なセキュリティが確保できません",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、毎回二要素・多要素認証により認証を行うことは、高いセキュリティを確保できるものの、エンドユーザーへの負荷が大きく利用してもらえなくなる可能性もあります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、エンドユーザーの行動パターンや位置情報などを元に、何らかのリスクがあると判断された場合にのみ追加認証を要求する「リスクベース認証」に注目しており、「Fraud Alert」では、上記のエンドユーザーのアクセス環境から”本人らしさ”を判定し、不正アクセスのリスクを検知致しますので、このリスクのある場合にだけ顧客側から追加認証を発動させるため、エンドユーザーに負荷をかけずに顧客はサービスを提供できます",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、毎日処理する不正検知データから当社独自の「ホワイトリスト（正しい本人が利用していると特定された端末やアカウント）」、「ブラックリスト（不審者データベース）」が作成され、当社の顧客ネットワーク全体でブラックリストを共有（注５）することにより業界全体で不正アクセスを防ぐことを実現しています",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "例えばクラウド上の共通ロジックでなりすましリスクを検知し、攻撃者情報をブラックリスト化して顧客間で共有することが可能となり、マネー・ローンダリング口座の検知をするなどに活用されています",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の必要コスト（サーバー設置費用、システム改修費用等）が抑えられる点や、サービス開始までの導入に要する時間が短期間（JavaScriptコード埋込型の場合１ヶ月程度、API連携型の場合は顧客都合による）であること、不正ユーザー情報の蓄積データベースへの共有APIが当社の強みとして挙げられます",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「Fraud Alert」は、都度改定される金融庁のガイドラインへの対応や、顧客企業との情報連携を通じた不正利用者の端末傾向を分析した上で検知ルールをチューニングしており、顧客企業のモニタリングの負担を軽減できるのも特徴となっております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルは利用者のインプレッション数（注６）、ユニークユーザー数（注７）を基に契約金額を決定するモデルとなっております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注７）決まった集計期間内にウェブサイトに訪問したユーザーの数を意味します",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのほか、顧客企業のフィッシングサイトを検知・通知するサービスや、金融機関等向け電力契約情報を活用したサービス（一般送配電事業者が保有する電力設備情報の一部を不正口座開設の抑止、継続的顧客管理に活用するサービス）等も手掛けております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "Fraud Alertログイン検知サービスは、エンドユーザーのアクセス環境から「本人らしさ」を判定します",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カウリスは、不正ログインやアカウントの乗っ取りなどが増加する中、クラウド型の不正アクセス検知サービス「Fraud Alert（フロードアラート）」を開発し、ユーザーが普段アクセスを行う利用環境等から約200のパラメーターを基準に“本人らしさ”を判定",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "全ての事業者とエンドユーザーの接点を安全に",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "当時世界中で展開していたロゼッタストーンの法人部門の中で、売上成長率と顧客満足度が最も高かったのが、1人部署の日本だったんです",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "事業計画を立て実行する傍ら、顧客サポートもPRもしました",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "システム構築の際、ユーザーの業務を把握・分析し、ユーザーの課題を解決するようなシステムの企画、構築、運用サポートなどの業務をすべて請け負う）に委託するのが一般的です",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様の企業に関しても誰がシステムに関するオーナーシップを持っているのか、分かりにくいといった壁もあります",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "確かに2年前はそういった状況でしたが、現在は情報の拡散・共有が早いですから、日本より海外サービスの方が良いと、顧客が離れてしまいます",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "また、エンタープライズの最大手企業をお客様にするといったやりがいもあります",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で弊社は、早くリーズナブルに、顧客のニーズを最大限に応えて作り込むことができます",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "青木信用金庫、電力契約情報を活用した本人確認サービス「Grid Data KYC」を用いた実証実験を開始 ～継続的顧客管理業務の効率化・高度化を目指す～",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社西京銀行がさいきょうスマホバンキングにおいて、不正アクセス検知サービス「Fraud Alert 口座開設検知」「Fraud Alert ログイン検知」を導入",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不正アクセス検知サービス Fraud Alert",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電力契約情報を用いた本人確認サービス Grid Data KYC",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のサービスはメガバンク様をはじめ",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "おかげさまで現在、金融機関を中心に40社以上の企業でサービスを導入いただいており、業界を越えた不正アクセスの捕捉に成果を上げています",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、誰もが安心してインターネットを利用できる環境を提供すること、電気、ガス、水道、通信に次ぐ“第5の社会インフラ”となることを目指し、サービスの開発・提供に努めてまいります",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このブラックリストを実現したのが、不正アクセス検知サービス「Fraud Alert（フロードアラート）」です",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初から日本のサイバーセキュリティ/AML業界には外資系サービスしか存在せず、サービスを導入しても使いこなせない、という状況が見受けられました",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その中においてカウリスは国内発のサービスとして、複数の部署間で調整が必要な導入から運用、分析にいたるまで支援体制を整えています",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろんお客様の声を伺いながら新たな武器の開発にも取り組んでおり、今後新たなサービスとして提供できるよう努めてまいります",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "犯罪者の新たな手口を先読みし、攻撃を未然に防ぐ、そのようなサービスを提供できるよう、今後とも業界を牽引し努めてまいります",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "不正アクセス検知サービス、本人確認サービスの開発・提供",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "事業部長として不正ログイン対策のソリューションの提案を大手企業に提案",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "不正アクセス検知サービス「Fraud Alert」を提供開始",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソニー株式会社（現：ソニーグループ株式会社）及び株式会社電通国際情報サービスを引受人として第三者割当増資を実施",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソニー株式会社（現：ソニーグループ株式会社）及び株式会社電通国際情報サービス、株式会社セブン銀行、株式会社リヴァンプを引受人として第三者割当増資を実施",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "規制のサンドボックス制度で実証を行なった「電力サービス」の受注を一部開始",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "入出金のモニタリングを行う「Fraud Alert 入出金検知」サービスを正式リリース",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機関等向け電力契約情報を活用したKYCサービス「Grid Data KYC」の提供を開始",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型不正アクセス検知サービス「Fraud Alert（フロードアラート）」の開発・販売を行い、月間延べ数億人のエンドユーザを情報漏えいから守っています",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型不正アクセス検知サービス「Fraud Alert」",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの特徴",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "従来よりも手軽で安価なクラウド型セキュリティサービス",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "月間アクティブユーザーが数千万単位の大手サービスからユーザー数の比較的少ないサービスまでお使いいただけるよう、できるだけ安価にセキュリティサービスを提供しています",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "またFraud Alertは実装も簡単で、すぐにサービスをご利用いただけます",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へのサービス提供内容や具体的な対応の詳細につきましては、当該お客様や関係先様のセキュリティ体制・機密情報に関わる事項を含むため、弊社としてはお答えいたしかねますことあらかじめご承知おきください",
+    "url": "https://caulis.jp/ir/form-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/ir/form-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/environmental-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力サービス「Fraud Alert（フロードアラート）」では、不正に利用された情報をブラックリスト化してユーザー企業間で共有することで、企業や業界を越えて不正なアクセスを捕捉することが可能となっております",
+    "url": "https://caulis.jp/ir/management-message/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに当社は、「規制のサンドボックス制度（新たなビジネスモデルに現行規制が課題となる場合、実証により規制の見直しにつなげられる制度）」を利用し、電力会社のデータベースを活用して不正を検知するサービスの事業化を実現いたしました",
+    "url": "https://caulis.jp/ir/management-message/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/ir/management-message/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/ir/management-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める適時開示等に関する規則（以下「適時開示規則」という）に従って、情報開示を行います",
+    "url": "https://caulis.jp/ir/management-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "諸法令および適時開示規則に基づく情報開示にあたっては、TDnet（Timely Disclosure network：適時開示情報伝達システム）、EDINET（Electronic Disclosure for Investors’ NETwork：金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）において開示した後、当社ウェブサイトへ掲載します",
+    "url": "https://caulis.jp/ir/management-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "※当Webサイトに記載されている会社名や製品名等は、各社の登録商標または商標です",
+    "url": "https://caulis.jp/ir/management-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "：クラウド型不正アクセス検知サービス「Fraud Alert」、AML・KYC 支援 API の開発・運用",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナルサービス",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "国内金融向け AML 省令対応を最速で製品反映",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "ガイドラインは「監督指針」位置付けとなり罰則リスクが高まったため、対応ソリューション需要が前倒しで顕在化",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "【第3部】技術・製品・サービスの深掘り",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "API は〈ログイン〉〈入出金〉〈口座開設〉の 3 層構造で、機械学習モデルがサービス間で情報を相互強化",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "CTO 梅田敬介：元楽天カードの Fraud チーム統括、Python・Go でマイクロサービス基盤を設計【Caulis 技術ブログより】",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「情報インフラを共創し、世界をより良くする」というミッションのもと、先端技術を活用した実用的なサービスを創り続け、犯罪のビッグデータをアルゴリズムと掛け合わせた法人向けクラウド型不正アクセス検知サービス「Fraud Alert」（フロードアラート）を提供するとともに、2025年９月には、同様に犯罪・不正対策分野におけるデータ活用を強みとした新規事業として、本人確認・顧客管理領域に対応する「Grid Data KYC」（グリッドデータケーワイシー）をリリースいたしました",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社のアプローチは、従来の不正検知サービスと大きく異なるのが、ミッションの中にある「共創」という点にあります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "）を有する通信キャリア、ガス等のインフラ事業者、その他のサービス事業者（以下「顧客」",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "）に対して、サービス提供しております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、端末から取得される情報をFraud Alertのアルゴリズムで算出し、なりすましではないか、自社・他社において不正利用履歴がないか、などを算定し、法人顧客にリアルタイムでアラートを上げるサービスです",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に、資金移動業社においては、個社ごとに、自社に還流するキャッシュが正当なものかどうかを判断する要素が限られるため、送金元における利用履歴を活用することで判定精度を向上させたい、というニーズから本サービスは生まれております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "「Fraud Alert」は、インターネットバンキングなどの各種サービスにおけるWEBサイトに、JavaScriptのコードを数行埋め込むことでアクセス解析されたデータを取得し、解析結果を元にした追加認証やメール通知など、ログイン後の挙動をカスタマイズできるサービスになります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに認証ごとにコストがかかる場合、サービスの成長と共に運用コストが膨らむ結果になります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、エンドユーザーの行動パターンや位置情報などを元に、何らかのリスクがあると判断された場合にのみ追加認証を要求する「リスクベース認証」に注目しており、「Fraud Alert」では、上記のエンドユーザーのアクセス環境から”本人らしさ”を判定し、不正アクセスのリスクを検知致しますので、このリスクのある場合にだけ顧客側から追加認証を発動させるため、エンドユーザーに負荷をかけずに顧客はサービスを提供できます",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "さらにカウリスでは、ブラックリストのビジネスモデルを生かし、犯罪の傾向や実例、対策について、金融庁や警察庁などの政府に情報提供を行っています",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、新たなビジネスモデルに現行規制が課題となる場合、実証により規制の見直しにつなげられる「規制のサンドボックス制度」を利用しました",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な技術とビジネスモデルで世界に新しい価値を提供すべく、政府の支援を受けています",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その連携が実を結び、電力事業者との取り組みにおいて、新しい技術やビジネスモデルを用いた事業活動を促進するため政府が進める「新技術等実証制度」（いわゆる「規制のサンドボックス制度」）を活用し、国内で初めての事業化を実現しました",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに当社は、「規制のサンドボックス制度（新たなビジネスモデルに現行規制が課題となる場合、実証により規制の見直しにつなげられる制度）」を利用し、電力会社のデータベースを活用して不正を検知するサービスの事業化を実現いたしました",
+    "url": "https://caulis.jp/ir/management-message/",
+    "pass": 1
+   },
+   {
+    "quote": "2. ビジネスモデルの詳細分析",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2‑1. 収益構造（2024年12月期）",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルは利用者のインプレッション数（注６）、ユニークユーザー数（注７）を基に契約金額を決定するモデルとなっております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "＜事業系統図＞",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2007年以降、ブログシステムがフリーミアム（基本的なサービスや製品は無料で提供し、さらに高度な機能や特別な機能については料金を課金するビジネスモデル）となり、オープンソースが配られるようになったので、ドリコムのブログ事業としては厳しくなりました",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "Fraud Alertは、業界内やグループ会社内でご紹介いただく形で成長してきました",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "同年事務所復帰、2021年パートナー就任",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | Caulis カウリス｜情報インフラを共創し、世界をより良くする",
+    "url": "https://caulis.jp/career/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、コンサルティング契約に基づく、他社事例紹介やモニタリングルール改善等のコンサルティングサービスを行っております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "エンパワーショップ株式会社「［2023年最新版］国内のECサイト・ネットショップの総稼働店舗数」から引用",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "運転資金需要のうち主なものは、当社サービスを拡大していくための開発人員及び営業人員の人件費、また研究開発に係る費用であります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンバレーで作っているものを日本の販売代理店が売る場合、日本の実情に合わせて調整するのは非常に困難で値段も高くなり、結果導入が難しくなります",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版『すごいベンチャー100』が発表！採用強化している22社を紹介！",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2021年には、台湾で行われた「Taiwan RegTech Challenge 2020」で最優秀に値する賞に選出され、台湾の金融監督当局から賞をいただきました",
+    "url": "https://caulis.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月4日",
+    "url": "https://caulis.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年、オンライン英会話学習のロゼッタストーン・ジャパン株式会社入社",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年よりCapy社入社",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月、株式会社カウリス設立",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年、株式会社ドリコムに入社",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年、株式会社ノボットに創業期から出資、取締役CFOとしてエグジットに導く",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年にグリー株式会社に入社",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年陸上自衛隊入隊",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月より当社取締役就任",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年、企業合併によりKDDI発足",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年～2018年、株式会社ウェブマネー常勤監査役",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年公認会計士試験合格後、TAC株式会社にて公認会計士講座の講師を務める傍ら、監査法人で上場企業監査、IPOコンサルティング等の業務に従事",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年公認会計士登録、2015年税理士登録",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月より当社監査役就任",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年から金融庁監督局総務課 課長補佐（法令等遵守調査室、国際監督室、政策課を併任）として、金融機関における反社対応、AML/CFT、個人情報保護その他の業態横断的分野についての監督業務に従事",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年仮想通貨モニタリングチーム モニタリング管理官、検査局総務課 金融証券検査官（AML/CFT担当）",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年にドリコムに入社",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年から10年間株式会社ザッパラスに在籍し管理部ゼネラルマネージャーを経て、2018年にカウリスに入社",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月に管理担当執行役員に就任",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | Caulis カウリス｜情報インフラを共創し、世界をより良くする",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月28日 東証証券取引所グロース市場上場",
+    "url": "https://caulis.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 年12 月21 日",
+    "url": "https://caulis.jp/environmental-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月3日 18:13",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月2日、東証グロース市場でカウリス（証券コード153A）が前日比＋15.02％とストップ高を記録",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "沿革のポイント",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2015年：FinTech 特化インキュベータ “FINOLAB” で創業",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2018年：ソニー銀行に導入し金融機関向けに特化",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：マネロン対策機能を追加、AML 市場へ本格参入",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2024年：IPO",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 4 月 30 日 金融庁 AML 強化通知を再掲",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 5 月 2 日 大型サイバー攻撃（北米系銀行）の報道で関連銘柄として買いが集中【主要経済紙】",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 5 月 15 日 24/12 期 1Q 決算発表予定",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "1989年のアルシュ・サミット経済宣言を受けて設立された",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "2010年オンライン英会話学習のロゼッタストーン・ジャパン株式会社入社",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年Capy社入社",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年12月、株式会社カウリス設立",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年12月",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年前半にInternet ExplorerやFirefox等が翻訳機能を採り入れたため、それまで機能していた不正ログインへの日本語言語によるバリアがなくなっていました",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版『すごいベンチャー100』が発表！採用強化している22社を紹介！",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月28日、東証グロース市場に新規上場した",
+    "url": "https://www.youtube.com/watch?v=JCRqdzo5Y88",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月20日(木)18:30～株式会社カウリスIR説明会(証券コード:153A) ご登壇者：代表取締役 島津 敦好 様",
+    "url": "https://www.youtube.com/watch?v=JCRqdzo5Y88",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "SaaS サブスクリプション",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関ごとに月間判定件数ベースで従量課金",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "平均 ARPU（年間換算）約600万円",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "：粗利率63％、チャーンレート0.28％と高いサブスク安定性",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績は50社前後、チャーンや料金体系で劣後",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "チャーン率 0.3％未満を維持",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "：API 数を 3 → 6 系統へ拡張し、既存顧客 ARPU を 1.4 倍へ",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "：フリマ・決済アプリ向け簡易版エンジンを 2025 年 Q4 に提供し、月額 3 万円からのライトプランを新設",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "海外大型ベンダーが価格破壊的に参入し、サブスク単価が圧迫される可能性【ITreview トレンド分析 turn3search3】",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "逆に海外競合の値下げ攻勢：ARPU ▲15％想定で理論株価 ▲18％",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "高粗利＆低チャーンによりキャッシュ創出力が強い",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "MRRは対象月末時点における継続課金となる契約に基づく当月分の料金の合計額",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "ARPU226万円（2023年12月期の当社対象顧客のMRR平均値）として当社算出",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に、トラフィック増加に伴うアップセルによるストック売上の増加が堅調に推移しました",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当事業年度末時点のMRR（注６）は119,942千円（前年同期比13.6％増）、ARR（注７）は1,439,312千円（同13.6％増）、契約社数は48社（同2.1％増）（注８）、ARPU（注９）は2,498千円（同11.2％増）、契約残高（注10）は585,177千円（同11.9％減）、直近12ヶ月の平均月次契約解約率（グロスレベニューチャーンレート）は0.6％（同増減なし）（注11）となりました",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注９）ARPU：Average Recurring Revenue per Userの略称",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注11）月中に解約及びダウンセルとなったサブスクリプション額÷前月末時点でのMRRの対象期間12ヵ月の平均",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当時、売上の90％以上がブログシステムを開発し、月額課金するというビジネスでした",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、例えば、銀行系列は保守的だと思うので、自行や自行系列にこだわるといったことはありませんか？",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "本稿では、同社の事業構造・財務・競争優位を徹底分析し、投資価値を多角的に検証します",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "：粗利率63％、チャーンレート0.28％と高いサブスク安定性",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "高粗利 SaaS × 規制ドライバー",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "売上 CAGR 19％（2024 – 2029）、終端営業利益率 32％、WACC 8.4％",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "高粗利＆低チャーンによりキャッシュ創出力が強い",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「情報インフラを共創し、世界をより良くする」というミッションのもと、先端技術を活用した実用的なサービスを創り続け、犯罪のビッグデータをアルゴリズムと掛け合わせた法人向けクラウド型不正アクセス検知サービス「Fraud Alert」（フロードアラート）を提供するとともに、2025年９月には、同様に犯罪・不正対策分野におけるデータ活用を強みとした新規事業として、本人確認・顧客管理領域に対応する「Grid Data KYC」（グリッドデータケーワイシー）をリリースいたしました",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の必要コスト（サーバー設置費用、システム改修費用等）が抑えられる点や、サービス開始までの導入に要する時間が短期間（JavaScriptコード埋込型の場合１ヶ月程度、API連携型の場合は顧客都合による）であること、不正ユーザー情報の蓄積データベースへの共有APIが当社の強みとして挙げられます",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Caulis カウリス ｜情報インフラを共創し、世界をより良くする。 — Caulis カウリス ｜情報インフラを共創し、世界をより良くする。 caulis.jp https://caulis.jp > about",
+    "url": "https://caulis.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "カウリス (153A) — 「Fraud Alert」で金融インフラを守る日本 ... — カウリス (153A) — 「Fraud Alert」で金融インフラを守る日本 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "pass": 3
+   },
+   {
+    "quote": "カウリス ［153A］グロース IPO - YouTube — カウリス ［153A］グロース IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=JCRqdzo5Y88",
+    "pass": 3
+   },
+   {
+    "quote": "カウリス 【153A】の事業内容 - キタイシホン — カウリス 【153A】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | Caulis カウリス ｜情報インフラを共創し — 決算説明資料 | Caulis カウリス ｜情報インフラを共創し caulis.jp https://caulis.jp > IR情報",
+    "url": "https://caulis.jp/ir/library-presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "カウリス （153A） 2025年12月期第3四半期 決算説明 - YouTube — カウリス （153A） 2025年12月期第3四半期 決算説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=dSU02AdsrXE",
+    "pass": 3
+   },
+   {
+    "quote": "【 カウリス 】[153A]有価証券報告書 | 日経電子版 — 【 カウリス 】[153A]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=153A",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カウリス - X — 株式会社 カウリス - X X https://x.com > @CaulisJP",
+    "url": "https://x.com/CaulisJP/status/2055176351536091335",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | Caulis カウリス ｜情報インフラを共創し — よくあるご質問 | Caulis カウリス ｜情報インフラを共創し caulis.jp https://caulis.jp > IR情報",
+    "url": "https://caulis.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス | Caulis カウリス ｜情報インフラを ... — コーポレート・ガバナンス | Caulis カウリス ｜情報インフラを ... caulis.jp https://caulis.jp > IR情報",
+    "url": "https://caulis.jp/ir/management-governance/",
+    "pass": 3
+   },
+   {
+    "quote": "カウリス 【153A】の 事業 内容 - キタイシホン — カウリス 【153A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月20日(木)18:30～株式会社 カウリス IR ... - YouTube — 2025年2月20日(木)18:30～株式会社 カウリス IR ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=3NOD2I4gBP4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カウリス 代表取締役 島津敦好氏 - CEO インタビュー — 株式会社 カウリス 代表取締役 島津敦好氏 - CEO インタビュー スタクラ https://startupclass.co.jp > ... > CEOインタビュー",
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "pass": 3
+   },
+   {
+    "quote": "執行役員 - カウリス — 執行役員 - カウリス caulis.jp https://caulis.jp > 企業情報",
+    "url": "https://caulis.jp/about/board/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カウリス の社員 インタビュー | IT/Web業界の転職 ... — 株式会社 カウリス の社員 インタビュー | IT/Web業界の転職 ... 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/6304/interview",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カウリス の働き方とストーリー - Wantedly — 株式会社 カウリス の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社カウリス",
+    "url": "https://www.wantedly.com/companies/caulis/stories",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社はマネー・ローンダリング及びサイバーセキュリティ対策事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に、売上比率の高い金融機関である顧客間では下記のガイドラインに立脚したモニタリングを実施しております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はマネー・ローンダリング及びサイバーセキュリティ対策事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はマネー・ローンダリング及びサイバーセキュリティ対策事業の単一セグメントのため、セグメント別の記載は省略しております",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名称",
+    "url": "https://kitaishihon.com/company/153A/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://caulis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/about/board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/career/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/ir/form-ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/environmental-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/ir/management-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/ir/management-governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caulis.jp/ir/management-disclosure/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dSU02AdsrXE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/153A/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=JCRqdzo5Y88",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "カウリス",
+   "results": [
+    "https://caulis.jp/",
+    "https://kabutan.jp/stock/?code=153A",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=153A&exchange_code=JPN",
+    "https://www.nikkei.com/nkd/company/?scode=153A",
+    "https://x.com/CaulisJP",
+    "https://www.wantedly.com/companies/caulis",
+    "https://minkabu.jp/stock/153A",
+    "https://grokipedia.com/page/Caulis_Inc",
+    "https://caulis.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/153A.T"
+   ]
+  },
+  {
+   "query": "カウリス ビジネスモデル",
+   "results": [
+    "https://caulis.jp/about/",
+    "https://note.com/tatsuya_sabato/n/n78bd591cb580",
+    "https://finance.logmi.jp/articles/379553",
+    "https://www.youtube.com/watch?v=JCRqdzo5Y88",
+    "https://kitaishihon.com/company/153A/business",
+    "https://aihataraku.com/caulis-ai-company/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=153A",
+    "https://shikiho.toyokeizai.net/news/0/744592",
+    "https://www.youtube.com/watch?v=dNLPz3F2vn8",
+    "https://consovation.com/株式会社カウリスの成長戦略を徹底解剖するブロ/"
+   ]
+  },
+  {
+   "query": "カウリス 決算説明資料",
+   "results": [
+    "https://caulis.jp/ir/library-presentation/",
+    "https://www.youtube.com/watch?v=dSU02AdsrXE",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=153A",
+    "https://x.com/CaulisJP/status/2055176351536091335",
+    "https://caulis.jp/ir/faq/",
+    "https://www.youtube.com/watch?v=GDW9VH8MuD0",
+    "https://www.moomoo.com/ja/stock/153A-JP/earnings",
+    "https://www.buffett-code.com/company/153A/library",
+    "https://caulis.jp/ir/library-material/",
+    "https://edinetdb.jp/company/E39397/presentations/"
+   ]
+  },
+  {
+   "query": "カウリス 事業系統図",
+   "results": [
+    "https://caulis.jp/ir/management-governance/",
+    "https://kitaishihon.com/company/153A/business",
+    "https://note.com/kenmo_kenmo/n/na0a2304a9dbb",
+    "https://www.youtube.com/watch?v=3NOD2I4gBP4",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=153A",
+    "https://finance.logmi.jp/articles/382115",
+    "https://www2.jpx.co.jp/disc/153A0/140120260330592362.pdf",
+    "https://search.sbisec.co.jp/v2/popwin/info/connect/ipo/202402222101.pdf",
+    "https://www.youtube.com/watch?v=dSU02AdsrXE",
+    "https://caulis.jp/about/company/"
+   ]
+  },
+  {
+   "query": "カウリス 社長 インタビュー",
+   "results": [
+    "https://startupclass.co.jp/article/2018/10/15/web-application-caulis/",
+    "https://www.youtube.com/watch?v=JCRqdzo5Y88",
+    "https://caulis.jp/about/board/",
+    "https://www.green-japan.com/company/6304/interview",
+    "https://www.wantedly.com/companies/caulis/stories",
+    "https://www.nikkei.com/article/DGKKZO89296400R10C25A6EE9000/",
+    "https://www.bk.mufg.jp/houjin/festa/interview06/index.html",
+    "https://caulis.jp/career/interview/",
+    "https://www.youtube.com/watch?v=cwerSnGrIjA",
+    "https://www.youtube.com/watch?v=1Th0V_OEuyo"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部5頁・検索5回）"
+ }
+}

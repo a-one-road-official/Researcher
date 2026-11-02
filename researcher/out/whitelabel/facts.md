@@ -1341,13 +1341,28 @@
 
 ## ホワイトラベル翻訳（white label translation software）
 - 文脈：翻訳
+- 自社名で出せる条件：
+  - 「代理店向けホワイトラベルウェブサイト翻訳 | MultiLipiパートナー」（https://ja.multilipi.com/solutions/agencies）
+  - 「ホワイトラベル翻訳およびGEOソリューション」（https://ja.multilipi.com/solutions/agencies）
+  - 「ホワイトラベルクライアントポータル」（https://ja.multilipi.com/solutions/agencies）
+  - 「ホワイトラベルのオプションはありますか？」（https://ja.multilipi.com/solutions/agencies）
+- 再販制度：
+  - 「代理店向けホワイトラベルウェブサイト翻訳 | MultiLipiパートナー」（https://ja.multilipi.com/solutions/agencies）
+  - 「「AI対応多言語インフラストラクチャ」を提供することで、代理店の差別化を図ります」（https://ja.multilipi.com/solutions/agencies）
+  - 「シームレスな代理店統合のための完全な共同ブランディング」（https://ja.multilipi.com/solutions/agencies）
+  - 「代理店パートナー向けよくある質問」（https://ja.multilipi.com/solutions/agencies）
+  - 「ほとんどの代理店は月額「国際SEOリテイナー」を請求します」（https://ja.multilipi.com/solutions/agencies）
+  - 「代理店の収益を拡大します」（https://ja.multilipi.com/solutions/agencies）
+  - 「AIインフラストラクチャで継続的な収益を構築している200以上の代理店に参加しましょう」（https://ja.multilipi.com/solutions/agencies）
+- 価格：
+  - 「$1,200」（https://ja.multilipi.com/solutions/agencies）
+  - 「$3,500」（https://ja.multilipi.com/solutions/agencies）
+  - 「+$15,000」（https://ja.multilipi.com/solutions/agencies）
+- 使いやすさ：
+  - 「ノーコード統合」（https://ja.multilipi.com/solutions/agencies）
 - 提供企業：記載なし（読んだ30頁・検索6回）
-- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
-- 再販制度：記載なし（読んだ30頁・検索6回）
 - 無料体験・貸出：記載なし（読んだ30頁・検索6回）
-- 価格：記載なし（読んだ30頁・検索6回）
 - 日本対応：記載なし（読んだ30頁・検索6回）
-- 使いやすさ：記載なし（読んだ30頁・検索6回）
 
 ## ホワイトラベル3Dビューア（white label 3D product configurator）
 - 文脈：製品紹介

@@ -1,0 +1,1989 @@
+{
+ "name": "セルロースナノファイバー",
+ "en": "cellulose nanofiber",
+ "aliases": [
+  "CNF",
+  "nanocellulose",
+  "セルロースナノファイバー"
+ ],
+ "context": "天然素材",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:11:49.420755+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ナノファイバー市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナノファイバー市場規模、シェア、トレンド分析レポート：製品タイプ別（カーボンナノファイバー、セラミックナノファイバー、複合ナノファイバー、ポリマーナノファイバー、炭水化物ベースナノファイバー、金属および金属酸化物ナノファイバー）、用途別（水・空気ろ過、自動車・輸送、繊維、医療、電子機器、エネルギー貯蔵、その他）、カテゴリー別（カーボン、セラミック、複合、ガラス、ポリマー、その他）、技術別（マグネトスピニング、フォーススピニング、ロータリージェットスピニング、その他）、エンドユーザー別（機械、化学・環境、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナノファイバー市場規模は、2025年には28億8000万米ドルと評価され、2026年の31億2000万米ドルから2034年には59億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンナノファイバー分野は、世界のナノファイバー市場において28.6%のシェアを占め、市場規模は約8億2,000万米ドルに達し、圧倒的なシェアを誇っています",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "水・空気ろ過セグメントは、世界のナノファイバー市場を29.4%のシェアで支配し、その市場規模は約8億5000万米ドルに達した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンナノファイバーは、世界のナノファイバー市場において30.1%のシェアを占め、市場規模は約8億7000万米ドルに達し、圧倒的な存在感を示した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の技術分野は、ナノファイバー市場において30.0%のシェアを占め、約8億6,000万米ドルの市場規模を誇りました",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "化学・環境分野は、世界のナノファイバー市場において27.9%のシェアを占め、約8億米ドルの市場規模を記録し、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のナノファイバー市場は世界市場の36.2%を占め、2025年には10億4,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は22.85%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年には約8億8000万米ドル規模となり、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年には約1億6000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノ結晶・ナノファイバー市場規模とシェア、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノクリスタル・ナノファイバー市場の市場規模は2025年に1,750万米ドルとなり、2026年には2,050万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模は約9.5千メートルトンに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、明確に異なる2つの商業展開をたどるとみている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals And Nanofibers Market Size By Type 2025 And 2035 Usd Million",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の北米のセルロースナノクリスタル・ナノファイバー市場は490万米ドルで、市場シェアは28%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の米国市場は390万米ドルで、北米需要の約80%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のカナダは北米需要の約20%を占め、2035年には地域需要の約20%を維持しながら、市場規模は400万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のドイツ市場は110万米ドルで、欧州需要の約20%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に33%のシェアを占める最大の地域市場であり、2035年には市場規模が3,660万米ドル、シェアが40%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の2025年の市場規模は230万米ドルで、アジア太平洋地域の需要の約40%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナノセルロースの日本市場（2026年～2034年）、市場規模（ナノフィブリル化セルロース（NFC）、ナノ結晶セルロース（NCC）、バクテリアセルロース、マイクロフィブリル化セルロース（MFC））・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "ナノセルロースの日本市場（2026年～2034年）、市場規模（ナノフィブリル化セルロース（NFC）、ナノ結晶セルロース（NCC）、バクテリアセルロース、マイクロフィブリル化セルロース（MFC））・分析レポートを発表",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "日本のナノセルロース市場規模は2025年に3,700万米ドルに達しました",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "）によれば、世界のナノセルロース市場は2025年に約6,211万米ドル、2032年には1億6,359万米ドルに達し、2026-2032年のCAGRは15.16%と見込まれる",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は807万米ドルから3,066万米ドルへ拡大し、パルプ・製紙企業、バイオマス精製案件、機能材料メーカーの増設が支える",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、ナノセルロースの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、ナノセルロースの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるナノセルロース市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、ナノセルロースの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "2023年は規模の大きいガラス繊維が低迷しているものの、その他品目の原材料や輸出コストの上昇などを要因とした値上げにより、市場は拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "高機能化による用途開発が進められており、2023年の市場は1,864億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノファイバー、2025年に75億円規模へ：矢野経済研究所が世界市場を調査 - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノファイバー、2025年に75億円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "MEMSデバイス、2025年には約2兆円の市場規模に",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所の調査によれば、ファウンドリーを除いたMEMSデバイスの世界市場規模は、2025年に約2兆円の市場規模となる見通しだ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "照明用半導体レーザー、2030年に8755億円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "出荷金額（メーカーの出荷ベース）は、2022年の5897億1000万円に対し、2030年には8755億円規模になると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の高機能フィルム市場は、応用機器メーカーの生産調整などにより成長率が鈍化し、足踏み状態にある",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "【表】CNFの世界市場規模予測（固形分 2019～2023年、2024年見込み、2025,2030年予測）",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "【ク゛ラフ】CNFの世界市場規模予測（2017～2023年、2024年見込み、2025年予測）／【表・ク゛ラフ】CNF生産キャパ推移（2013,2016～2023年、2024年見込）",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "【ク゛ラフ】CNF用途別市場規模推移（固形分換算）重量ベース（2022～2023年、2024年見込み、2025年予測）／CNF用途別市場規模推移（金額ベース 2022～2023年、2024年見込み、2025年予測）",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "【ク゛ラフ】CNF強化樹脂市場規模推移（重量ベース 2022～2023年、2024年見込み、2025年予測）",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "庁舎工事トラブル巡る世田谷区と大成建設の攻防、交渉18回で違約金16億円に合意",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals and Nanofibers Market Size & Share, 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals and Nanofibers Market Size & Share 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cellulose nanocrystals and nanofibers market was valued at USD 17.5 million in 2025, is projected to reach USD 20.5 million in 2026, and is expected to grow at an 18.1% CAGR (2026-2035) to reach USD 91.5 million by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 17.5 Million",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ナノファイバー市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナノファイバー市場規模は、2025年には28億8000万米ドルと評価され、2026年の31億2000万米ドルから2034年には59億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合ナノファイバー分野は、年平均成長率（CAGR）25.41%で最も速い成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー貯蔵分野は、年平均成長率（CAGR）26.42%で最も速い成長を遂げると予測されている",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア18.9%を占める医療分野は、年平均成長率（CAGR）25.73%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）18.1%で拡大し、2035年には9,150万米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界リーダーからの情報に基づくと、セルロースナノクリスタル・ナノファイバー市場の売上高は2022〜2025年に年平均成長率（CAGR）20.1%で拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "この基準年以前の期間における成長率は、研究開発から市場投入への移行が集中した時期に、第1世代の商業生産施設が急速に成熟したことを反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "バクテリアナノセルロースは、年率約23%で成長し、2035年には1,300万米ドル、14.2%のシェアに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "コーティング・フィルムは2025年に310万米ドルを生み出し、年率約18%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、2034年までに同市場が1億5,030万米ドルに達し、2026年から2034年にかけて16.85%の年平均成長率（CAGR）を示すと予測しています",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "ナノセルロースマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）15.2%の高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "ナノセルロースマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）15.2%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "）によれば、世界のナノセルロース市場は2025年に約6,211万米ドル、2032年には1億6,359万米ドルに達し、2026-2032年のCAGRは15.16%と見込まれる",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "販売数量は同期間に2,169トンから8,178トンへ拡大する",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋が最大の成長市場であり、売上高は2025年の約2,780万米ドルから2032年には8,264万米ドルへ拡大する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は807万米ドルから3,066万米ドルへ拡大し、パルプ・製紙企業、バイオマス精製案件、機能材料メーカーの増設が支える",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ナノセルロースの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、ナノセルロースの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "電気デサルター＆脱水機マーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 10.1%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーガス供給サービス市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）4.9%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "無人運転配車サービスマーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 57.2%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "衛星リモートセンシングサービスマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）10.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "試作やサンプル供給分を含む2024年のセルロースナノファイバー（以下、CNF）世界生産量は、前年比120.0％の132ｔ、出荷金額は同107.7％の62億9,000万円の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vJ7JhQCMoiaSLzQ5-5FzpJcqxR2rOuvbjjvFToC1lqfMUIMQvum",
+    "pass": 3
+   },
+   {
+    "quote": "CN2050（2050年カーボンニュートラル）や欧州ELV（End-of-Life Vehicles）規則案、プラスチック資源循環促進法など、国内外での気候変動対策やプラスチック廃棄物の発生抑制に向けた施策の進展は、CNF需要拡大のまたとないチャンスである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vJ7JhQCMoiaSLzQ5-5FzpJcqxR2rOuvbjjvFToC1lqfMUIMQvum",
+    "pass": 3
+   },
+   {
+    "quote": "2023年は規模の大きいガラス繊維が低迷しているものの、その他品目の原材料や輸出コストの上昇などを要因とした値上げにより、市場は拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "高機能フィルム市場の成長率、2022年は足踏み状態",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の高機能フィルム市場は、応用機器メーカーの生産調整などにより成長率が鈍化し、足踏み状態にある",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は5G（第5世代移動通信）関連向けなどの需要が拡大し、2023年には市場が回復する見通しである",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "・石巻、江津の量産設備、富士の実証設備ともに安定的な稼働率を確保 サンプルワークが製品化検討フェーズに移行する中、今後1～2年での採用拡大に期待",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "・TEMPO酸化CNF「レオクリスタ」生産開始から10年が経過し採用実績も拡大 設備稼動率、アウトプット量ともに安定した規模を確保",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "・ユーザー各社のCN化、バイオマス度向上ニーズが拡大 CNF複合樹脂の生産体制は10ｔ/年の試作機から100～150ｔ/年の準量産機へ移行",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "CNFを樹脂へ10％複合化することで、樹脂の弾性率を1.3～1.4倍に向上し、強度も1.1倍～1.2倍向上できるため、樹脂部材をCNF複合樹脂と置き換えることで、構造材料部材の薄肉化が期待できます",
+    "url": "https://nanocellulose.biz/manufacturing-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試作やサンプル供給分を含む2024年のセルロースナノファイバー（以下、CNF）世界生産量は、前年比120.0％の132ｔ、出荷金額は同107.7％の62億9,000万円の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vKDE7R1XjFhAwyTlzYmNba68FF24G5zPiJCgMfXQy3PAkYk1Jr9",
+    "pass": 3
+   },
+   {
+    "quote": "CN2050（2050年カーボンニュートラル）や欧州ELV（End-of-Life Vehicles）規則案、プラスチック資源循環促進法など、国内外での気候変動対策やプラスチック廃棄物の発生抑制に向けた施策の進展は、CNF需要拡大のまたとないチャンスである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vKDE7R1XjFhAwyTlzYmNba68FF24G5zPiJCgMfXQy3PAkYk1Jr9",
+    "pass": 3
+   },
+   {
+    "quote": "The cellulose nanocrystals and nanofibers market was valued at USD 17.5 million in 2025, is projected to reach USD 20.5 million in 2026, and is expected to grow at an 18.1% CAGR (2026-2035) to reach USD 91.5 million by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 91.5 million by 2035, growing at a CAGR of 18.1% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cellulose nanocrystals and nanofibers market is estimated to be valued at USD 1081.4 million in 2025 and is projected to reach USD 7581.0 million by 2035, registering a compound annual growth rate (CAGR) of 21.5% over the forecast period.",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals and Nanofibers Market Forecast CAGR: 21.5%",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cellulose nanocrystals and nanofibers market is expected to grow at a 21.5% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nanocellulose Market Size, Share | CAGR of 20.6%",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, and grow at a",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 20.6%",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cellulose Nanofibers Market reached US$ 2.83 billion in 2025 and is expected to reach US$ 5.44 billion by 2033, growing at a CAGR of 8.5% during the forecast period 2026-2033.",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 480.08 Million in 2025 and the total Cellulose Nanocrystals revenue is expected to grow at a CAGR of 23.5% from 2025 to 2032, reaching nearly USD 2103.7 Million by 2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2032 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 8.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.8% from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Volume in tons, revenue in USD million/billion, and CAGR from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global nanofibers market is expected to grow at a CAGR of 8.8% from 2024 to 2030, reaching USD 4.8 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Copper Market Report 2026: 6.5% CAGR & Global Supply Investment Trends",
+    "url": "https://www.startus-insights.com/innovators-guide/cellulosic-materials/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "この業界の主要企業には、Applied Sciences Inc.、Argonide Corporation、中津パルプ・製紙株式会社、Donaldson Company Inc.、DuPont、Hollingsworth & Vose Company、IREMA-Filter GmbH、ジャパン・バイリーン株式会社、Merck KGaA、NanoLayr Limited、日本製紙株式会社、サッピ株式会社、帝人株式会社、東レ株式会社などが挙げられます",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車サプライチェーンへの参入が実証されることで、需要は研究室規模の研究開発向け調達から年間数メートルトン規模へと移行し、CNCおよびCNFの対象複合材料市場が大幅に拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、燃料電池および電気化学デバイス用途への参入を後押しする",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノ結晶およびナノファイバー市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノクリスタルおよびナノファイバー市場の主要企業には、Borregaard ASA、CelluForce Inc.、Daio Paper Corporation、Nippon Paper Industries、Anomera Inc.が含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場調査レポートは、競合環境の包括的な分析も提供しており、市場構造、主要企業のポジショニング、トップの勝利戦略、競合ダッシュボード、企業評価象限などが含まれています",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には地域別の日本ナノセルロース市場の内訳が記載されており、関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国の各地域について、概要、過去および現在の市場トレンド、製品タイプ別内訳、用途別内訳、主要プレイヤー、ならびに市場予測が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第10章には主要プレイヤーのプロフィールが記載されており、各企業についてビジネス概要、製品ポートフォリオ、ビジネス戦略、SWOT分析、および主要なニュースとイベントが含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ナノセルロースの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役：水越孝）は2024年のセルロースナノファイバー（CNF）世界市場を調査し、市場動向、参入企業動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vJ7JhQCMoiaSLzQ5-5FzpJcqxR2rOuvbjjvFToC1lqfMUIMQvum",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙や大王製紙など日系製紙メーカーが多く参入している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "いずれにおいても、参入メーカーでは開発段階から実用化段階へとフェーズを移し、今後の用途開発・市場開発の動向が注目されます",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役：水越孝）は2024年のセルロースナノファイバー（CNF）世界市場を調査し、市場動向、参入企業動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vKDE7R1XjFhAwyTlzYmNba68FF24G5zPiJCgMfXQy3PAkYk1Jr9",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、CNFのメリット・デメリットから、用途、主要企業の製品開発事例をわかりやすく解説",
+    "url": "https://www.egmkt.co.jp/column/consumer/7651/",
+    "pass": 3
+   },
+   {
+    "quote": "開発をリードする日本の主要企業",
+    "url": "https://www.egmkt.co.jp/column/consumer/7651/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals & Nanofibers Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in cellulose nanocrystals and nanofibers market?",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in cellulose nanocrystals and nanofibers market include Borregaard ASA, CelluForce Inc., Daio Paper Corporation, Nippon Paper Industries, Anomera Inc..",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in Cellulose Nanocrystals and Nanofibers Market: Borregaard AS, CelluForce, Stora Enso, Nippon Paper Industries, FiberLean Technologies, CelluComp, Melodea, Kruger Inc., Sappi, UPM",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Cellulose Nanocrystals and Nanofibers Market",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Cellulose Nanocrystals and Nanofibers Market",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the main challenges in the nanocellulose market is its high production cost. Making nanocellulose involves complex processes, advanced equipment, and high energy use, which makes it expensive. Many small manufacturers and startups find it difficult to invest in this technology due to the upfront costs.",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Analysis, Company Profile Analysis, Market Size, Share, Growth, Demand, Recent Developments, Mergers and Acquisitions, New Product Launches, Growth Strategies, Revenue Analysis, Porter’s Analysis, Pricing Analysis, Regulatory Analysis, Supply-Chain Analysis, and Other key Insights.",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Competitive Landscape",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Product mapping available as excel consisting of key products of all the major players.",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Global Cellulose NanoFibers Market ?",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players are GEA Group, Nippon Paper Group, OJI Holdings, Daio Paper, Cellucomp, CelluForce, Tokushu Tokai Paper co Ltd, Rettenmaier, and Akzonobel.",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cellulose Nanofibers Markets, 2019-2030: Competitive Landscape, Market Volumes, Key Trends and Growth",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape analysis for competing materials.",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape of CNF by market, volumes, key trends and growth. Potential for CNF to gain market share by market volume across all end user markets.",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth key player profiles, include products, current capacities and plans for new capacities, production processes, prices per kg and commercial activities. Companies profiled in the report include American Process, Inc., Imerys, Innventia AB, Asahi Kasei, Chuetsu Pulp & Paper Daicel, Daiichi Kogyo, Daio Paper, Nippon Paper, Oji Holdings, Sugino Machine, Seiko PMC, StoraEnso and Borregaard.",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.5 Competitive landscape",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape analysis of the Cellulose Nanocrystals Market",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals Market, Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "23. Others Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the leading players in the Nanocellulose market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the global nano cellulose market include GranBio Technologies, Axcelon Biopolymers Corporation, Borregaard, CelluComp, CelluForce, Chuetsu, Pulp & Paper Co. Ltd, Daicel Finechem Ltd.",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Cellulose Nanocrystals Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2 Regional Expansion Strategies for Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "13 Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "13.23 Others Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Base Oil Market by Type, Application and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Blow Molding Machine Market by Raw Material, Type, End-use Industry, Application and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Volume and revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in nanofibers market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the nanofibers market include FibeRio Technology Corporation, Toray Industries, Ahlstrom Corp., Revolution Fibres, Donaldson, Elmarco, and Johns Manville Corp.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "5 Top Startups developing Cellulosic Materials | StartUs Insights",
+    "url": "https://www.startus-insights.com/innovators-guide/cellulosic-materials/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本のナノファイバー市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に約1億5000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "この業界の主要企業には、Applied Sciences Inc.、Argonide Corporation、中津パルプ・製紙株式会社、Donaldson Company Inc.、DuPont、Hollingsworth & Vose Company、IREMA-Filter GmbH、ジャパン・バイリーン株式会社、Merck KGaA、NanoLayr Limited、日本製紙株式会社、サッピ株式会社、帝人株式会社、東レ株式会社などが挙げられます",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙工業：市場における有力企業",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙は、従来の紙製品にとどまらず、セルロースナノファイバー技術をはじめとする先進的なバイオベース素材へと事業を拡大している",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙株式会社は、先進的なCNF材料の開発の一環として、2026年4月にカルボキシメチル化セルロースナノファイバー技術「cellenpia」を発表しました",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Vilene Company Ltd.",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "TORAY INDUSTRIES INC",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "東レは、ろ過、電子機器、医療用途向けの高度なポリマー加工技術への投資を通じて、ナノファイバーの研究開発および生産能力を拡大した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の大手製紙メーカーでCNF複合樹脂の商業規模での生産が始まり、政府による技術開発への継続的な資金支援を受けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域の勢いは、日本のアプリケーション開発、中国の複合材料製造の規模、そしてエレクトロニクス、車両部品、持続可能な包装材からの需要拡大が相まって生じている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーとの連携が長期にわたる認定サイクルを通じて継続される日本のOEMおよび先端材料のエコシステムに近いことが、同社の地位を強化している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナノセルロースの日本市場（2026年～2034年）、市場規模（ナノフィブリル化セルロース（NFC）、ナノ結晶セルロース（NCC）、バクテリアセルロース、マイクロフィブリル化セルロース（MFC））・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "ナノセルロースの日本市場（2026年～2034年）、市場規模（ナノフィブリル化セルロース（NFC）、ナノ結晶セルロース（NCC）、バクテリアセルロース、マイクロフィブリル化セルロース（MFC））・分析レポートを発表",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「ナノセルロースの日本市場（2026年～2034年）、英文タイトル：Japan Nanocellulose Market 2026-2034」調査資料を発表しました",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、ナノセルロースの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "日本のナノセルロース市場規模は2025年に3,700万米ドルに達しました",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるナノセルロース市場は、いくつかの主要な推進要因により著しい成長を遂げています",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本の政府および規制機関は、持続可能な慣行を奨励する政策や規制を通じてナノセルロースの使用を推進しています",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで回答される主要な質問には、これまでの日本ナノセルロース市場の動向と今後の見通し、COVID-19が市場に与えた影響、製品タイプ別および用途別の市場内訳、日本ナノセルロース市場のバリューチェーンにおける様々な段階、主要な推進要因と課題、市場構造と主要プレーヤー、日本ナノセルロース市場における競争の度合いなどが含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には日本ナノセルロース市場の紹介が記載されており、市場の概要、市場の動向、業界のトレンド、および競合情報に関する項目が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第5章には日本ナノセルロース市場の概観が記載されており、2020年から2025年までの過去および現在の市場トレンドと、2026年から2034年までの市場予測が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第6章には製品タイプ別の日本ナノセルロース市場の内訳が記載されており、ナノフィブリル化セルロース（NFC）、ナノクリスタルセルロース（NCC）、バクテリアセルロース、ミクロフィブリル化セルロース（MFC）などの各製品タイプについて、概要、過去および現在の市場トレンド、ならびに市場予測が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第7章には用途別の日本ナノセルロース市場の内訳が記載されており、パルプ・板紙、複合材料、医薬品・バイオメディカル、電子機器、食品・飲料などの各用途について、概要、過去および現在の市場トレンド、ならびに市場予測が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には地域別の日本ナノセルロース市場の内訳が記載されており、関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国の各地域について、概要、過去および現在の市場トレンド、製品タイプ別内訳、用途別内訳、主要プレイヤー、ならびに市場予測が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第9章には日本ナノセルロース市場の競合情勢が記載されており、市場の概要、市場構造、市場プレイヤーのポジショニング、主要な成功戦略、競合ダッシュボード、および企業評価象限が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には日本ナノセルロース市場の業界分析が記載されており、促進要因、抑制要因、機会、ポーターの5つの力分析、およびバリューチェーン分析が含まれます",
+    "url": "https://newscast.jp/news/7441725",
+    "pass": 3
+   },
+   {
+    "quote": "日本、カナダ、中国の企業が主要な役割を担う",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上高シェアは日本製紙が約18.03%、桂林奇宏科技が14.61%、CelluForceが10.40%、Anomeraが9.23%、済南聖泉集団が7.64%で、上位5社合計は約59.90%であった",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "日本は高機能CNFと用途開発、北米はCNC量産とブランド顧客認定で強みを持つ",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本はアパレル向け活況",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 社長 菊地 弘幸 03-3241-3470）は、脱炭素、サーキュラーエコノミーといったトレンドや資源制約への課題解決などの観点から、高機能化や高性能化が進むことで注目度が高まる産業用繊維・次世代繊維・不織布の市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙や大王製紙など日系製紙メーカーが多く参入している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、市場を後押しする政策はみられないものの、農業用資材や土嚢袋や防草シートといった土木資材で以前より使用されており、近年はスタートアップ企業や商社が、アパレル企業とのアライアンスを進めており、アパレル繊維での展開がみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2026 日本の石油化学工業と誘導品市場の将来…",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノファイバー、2025年に75億円規模へ：矢野経済研究所が世界市場を調査 - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "電源設計（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは日本を救うのか",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japanについて",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆日本製紙株式会社",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "こうした情勢について同社は、CNFは「日本発の新しい高機能材料としてワールドワイドでの需要拡大が期待されてきた」としつつ、「このままでは市場が本格的に確立する前に『高性能だが高価でニッチなガラパゴス』な材料になる懸念も否定できない状況となってきた」と分析",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船や今治造船など7社、アンモニア燃料船でタッグ 2030年に商用船4隻",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "日本流、フィジカルAIのつくり方",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "日本的スマホ論",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "NTTデータグループ・日立がFDEで攻勢、AI需要巡る覇権争い 脱・人月へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "日立製作所、GPUの冷却電力3割減 新構造コールドプレートで",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボット市場、米中対立の間隙狙えるか 日本で中核部品の開発加速",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機がABBと合弁へ、シュナイダーはソフト強化 FA業界に再編の波",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ペイント、50年間に蓄積した29万件の実験報告書が生成AIでよみがえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "部品に名乗り上げる日本とドイツ、米中対立の間隙を突き第三極へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイフクと三菱重工、レゾナックの3社に再考させられた「選択と集中」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   },
+   {
+    "quote": "坂茂氏にプリツカー賞、日本人が2年連続受賞＜追加情報あり＞",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ナノファイバー市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナノファイバー市場規模、シェア、トレンド分析レポート：製品タイプ別（カーボンナノファイバー、セラミックナノファイバー、複合ナノファイバー、ポリマーナノファイバー、炭水化物ベースナノファイバー、金属および金属酸化物ナノファイバー）、用途別（水・空気ろ過、自動車・輸送、繊維、医療、電子機器、エネルギー貯蔵、その他）、カテゴリー別（カーボン、セラミック、複合、ガラス、ポリマー、その他）、技術別（マグネトスピニング、フォーススピニング、ロータリージェットスピニング、その他）、エンドユーザー別（機械、化学・環境、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に36.2%の市場シェアを占め、ナノファイバー市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンナノファイバー分野が市場を席巻し、28.6%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンナノファイバー分野は、世界のナノファイバー市場において28.6%のシェアを占め、市場規模は約8億2,000万米ドルに達し、圧倒的なシェアを誇っています",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマーナノファイバー分野は、市場シェアの25.7%という大きな割合を占めています",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "水・空気ろ過セグメントが市場を席巻し、29.4%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "水・空気ろ過セグメントは、世界のナノファイバー市場を29.4%のシェアで支配し、その市場規模は約8億5000万米ドルに達した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア18.9%を占める医療分野は、年平均成長率（CAGR）25.73%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭素セグメントが市場を席巻し、30.1%のシェアを獲得した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンナノファイバーは、世界のナノファイバー市場において30.1%のシェアを占め、市場規模は約8億7000万米ドルに達し、圧倒的な存在感を示した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマー分野は24.6%という大きなシェアを占めており、年平均成長率（CAGR）23.69%で拡大すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のセグメントが市場シェア30.0%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノ結晶・ナノファイバー市場規模とシェア、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノクリスタルおよびナノファイバー市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値グレードへの追加投資と、特殊品および機能化製品への需要構成の構造的な移行を背景に、MFC-Cの売上高シェアは2035年まで低下すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノクリスタル・ナノファイバー市場では、セルロースナノクリスタル分野が2025年に380万米ドルの売上高を計上し、市場シェアは21.7%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には2,400万米ドル、市場シェア26.2%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノファイバーの市場シェアは2025年に14.9%で、年間約19%の成長が見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "特殊グレードのミクロフィブリル化セルロースは、2025年に390万米ドルの売上高を計上し、市場シェアは22.3%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "コモディティグレードのミクロフィブリル化セルロースは2025年に18.9%のシェアを占め、2035年には13.1%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "バクテリアナノセルロースは、年率約23%で成長し、2035年には1,300万米ドル、14.2%のシェアに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料・ナノ複合材料は2025年に440万米ドルを生み出し、25.1%のシェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントは2035年までに2,700万米ドル、29.5%のシェアに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "紙・包装・バリア用途は2025年に20.0%のシェアを占め、2035年には2,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上高シェアは日本製紙が約18.03%、桂林奇宏科技が14.61%、CelluForceが10.40%、Anomeraが9.23%、済南聖泉集団が7.64%で、上位5社合計は約59.90%であった",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "CNCは約2,611万米ドル、42.04%、BNCは約823万米ドル、13.25%を占めた",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料が最大で、2025年売上高は約1,712万米ドル、27.57%を占めた",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、ナノセルロースの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ナノセルロースの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals And Nanofibers Market Share By Application 2025",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals And Nanofibers Market Share By Region 2025 And 2035",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the cellulose nanocrystals and nanofibers market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanocrystals And Nanofibers Market Europe Country Market Share Analysis, 2025 & 2035",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the application segment of the Nanocellulose Market in 2024, accounting for a",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Composites dominated the application segment of the nanocellulose market with a 42.2% share in 2024.",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The tempo-cellulose nanofibers from the product type segment accounted for approximately 54.1% of the cellulose nanofibers market share",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "The tempo-cellulose nanofibers from the product type segment accounted for approximately 54.1%. TEMPO-cellulose nanofibers (TEMPO-CNFs) are a type of cellulose nanofiber with enhanced properties and functionalities. They are produced through TEMPO oxidation, a chemical modification process that selectively oxidizes the primary hydroxyl groups of cellulose.",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is estimated to hold about 38.4% of the total market share throughout the forecast period",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is estimated to hold about 38.4% of the total market share throughout the forecast period due to an increase in government initiatives to adopt renewable resources and to increase the utilization of carbon nanofibers in numerous applications.",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "1.1.2. Market Size (Value & Volume) and Market Share (%) - By Segments, Regions and Country",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "By product, polymer accounted for the largest market revenue share of 46.8% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, The MCE segment dominated the market with a revenue share of 36.2% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 34.0% revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Sparxellは2026年2月、セルロースナノクリスタルを基盤とする植物由来フォトニック顔料プラットフォームの規模拡大に向け、500万米ドルのプレシリーズA資金調達ラウンドを完了した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging Scotland. \"Sparxell in $5M Funding Boost to Scale Plant-Based Colour Technology.\" packagingscotland.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "MFC-C revenue share is forecast to decline through 2035 as higher-value grades attract incremental investment and demand mix shifts structurally toward specialty and functionalized forms",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cellfion secured EUR 6.9 million in funding and established a nanocellulose-based membrane production facility in Norrköping, Sweden, in the second half of 2026, supporting its entry into fuel-cell and electrochemical-device applications. The development broadens the market's addressable application base beyond structural reinforcement and formulation additives toward energy-system components.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sparxell completed a USD 5 million Pre-Series A funding round in February 2026 to scale its plant-based photonic pigment platform based on cellulose nanocrystals. The development highlights commercial interest in optical applications that can capture substantially higher value than conventional bulk-material uses.",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging Scotland. \"Sparxell in $5M Funding Boost to Scale Plant-Based Colour Technology.\" packagingscotland.com",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "7 Regional Initiatives And Government Funding",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "5 Investment and Expansion Opportunities",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3 Investment Trends in the Cellulose Nanocrystals Market",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "pass": 3
+   },
+   {
+    "quote": "Copper Market Report 2026: 6.5% CAGR & Global Supply Investment Trends",
+    "url": "https://www.startus-insights.com/innovators-guide/cellulosic-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "The global copper market is entering a capital-intensive expansion cycle driven by electrification, grid demand, and resource security. With production surpassing 26.71 Mt refined output and multi-billion-dollar investments underway, 2026 marks a strategic inflection point for miners, investors, and technology innovators alike.",
+    "url": "https://www.startus-insights.com/innovators-guide/cellulosic-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Funding: Q2 2025",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors were drawn to a wide range of innovative approaches in Q2 2025, backing startups developing superconducting logic, chips for an emerging number format, big data processors, and novel power semi architectures. At the same time, photonics continues to draw investment dollars due to its ability to move data faster and with less energy at both the chip-to-chip and data center levels.",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Other highlights include physics-informed AI for chip design, secure silicon, and a massive round for neutral-atom quantum systems. Semiconductor Engineering tracked 75 startups in Q2 that collectively raised $1.9 billion.",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$50.0M in Series B funding",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$44.0M in Series B funding",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$23.0M in seed funding",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "€5.7M (~$6.5M) in funding",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "€5.0M (~$5.8M) Series A round",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ". Phoenix recreates legacy chips that are no longer in production but are still critical for keeping large capital investments running. The startup says its process enables it to create drop-in replacement chips for the Department of Defense, automotive, medical, manufacturing, oil & gas, and OEM verticals. Founded in 2023, it is based in Austin, Texas, USA.",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$1.1M in a pre-Series A round",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$46.0M in funding",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$20.0M CAD (~$14.1M) in a Series A round",
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界の セルロースナノファイバー市場 の 成長 と2034年の展望 — 世界の セルロースナノファイバー市場 の 成長 と2034年の展望 Data Insights Reports https://www.datainsightsreports.com > Home > 先端材料",
+    "url": "https://www.datainsightsreports.com/ja/reports/noserursunanofaib-26022",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノファイバー 、2025年に75億円規模へ — セルロースナノファイバー 、2025年に75億円規模へ EE Times Japan https://eetimes.itmedia.co.jp > articles > news049",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 セルロースナノファイバー市場 の展望と戦略 — 2024年版 セルロースナノファイバー市場 の展望と戦略 ヤノデータバンク https://www.ydb.jp > market_reports",
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "pass": 3
+   },
+   {
+    "quote": "セルロースナノファイバー 関連サンプル提供 企業 一覧 — セルロースナノファイバー 関連サンプル提供 企業 一覧 京都市産業技術研究所 PDF https://tc-kyoto.or.jp > app > uploads > 2023/09",
+    "url": "https://tc-kyoto.or.jp/app/uploads/2023/09/CNF_Sample_16th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Nanocellulose Market Size , Share | CAGR of 20.6% — Nanocellulose Market Size , Share | CAGR of 20.6% Market.us https://market.us > report > global-na...",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanofibers Market Size to Reach US$ 5.44 Billion — Cellulose Nanofibers Market Size to Reach US$ 5.44 Billion openPR.com https://www.openpr.com > news > cel...",
+    "url": "https://www.openpr.com/news/4645536/cellulose-nanofibers-market-size-to-reach-us-5-44-billion",
+    "pass": 3
+   },
+   {
+    "quote": "Cellulose Nanofibers Market Size, Share & Growth 2026-2033 — Cellulose Nanofibers Market Size, Share & Growth 2026-2033 DataM Intelligence https://www.datamintelligence.com > ...",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cellulose Nanofibers Markets, 2019-2030 - PR Newswire — Global Cellulose Nanofibers Markets, 2019-2030 - PR Newswire PR Newswire https://www.prnewswire.com > global...",
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nanocellulose Market Size, Share | CAGR of 20.6% — Nanocellulose Market Size, Share | CAGR of 20.6% Market.us https://market.us > report > global-na...",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.4",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "quote": "世界のナノファイバー市場規模は、2025年には28億8000万米ドルと評価され、2026年の31億2000万米ドルから2034年には59億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.4%となる見込みです"
+   },
+   {
+    "value": "25.41",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "quote": "複合ナノファイバー分野は、年平均成長率（CAGR）25.41%で最も速い成長を遂げると予測されています"
+   },
+   {
+    "value": "26.42",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "quote": "エネルギー貯蔵分野は、年平均成長率（CAGR）26.42%で最も速い成長を遂げると予測されている"
+   },
+   {
+    "value": "25.73",
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "quote": "市場シェア18.9%を占める医療分野は、年平均成長率（CAGR）25.73%で成長すると予測されている"
+   },
+   {
+    "value": "18.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）18.1%で拡大し、2035年には9,150万米ドルに達する見込みである"
+   },
+   {
+    "value": "20.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "業界リーダーからの情報に基づくと、セルロースナノクリスタル・ナノファイバー市場の売上高は2022〜2025年に年平均成長率（CAGR）20.1%で拡大した"
+   },
+   {
+    "value": "15.2",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "ナノセルロースマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）15.2%の高成長 | LP Information Co.,Ltdのプレスリリース"
+   },
+   {
+    "value": "15.16",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "）によれば、世界のナノセルロース市場は2025年に約6,211万米ドル、2032年には1億6,359万米ドルに達し、2026-2032年のCAGRは15.16%と見込まれる"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "電気デサルター＆脱水機マーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 10.1%の高成長"
+   },
+   {
+    "value": "4.9",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "レーザーガス供給サービス市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）4.9%の安定成長"
+   },
+   {
+    "value": "57.2",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "無人運転配車サービスマーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 57.2%の超高成長"
+   },
+   {
+    "value": "0.19",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "quote": "衛星リモートセンシングサービスマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）10.7%の高成長"
+   },
+   {
+    "value": "18.1",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "The market is projected to reach USD 91.5 million by 2035, growing at a CAGR of 18.1% from 2026 to 2035."
+   },
+   {
+    "value": "21.5",
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "The cellulose nanocrystals and nanofibers market is estimated to be valued at USD 1081.4 million in 2025 and is projected to reach USD 7581.0 million by 2035, registering a compound annual growth rate (CAGR) of 21.5% over the forecast period."
+   },
+   {
+    "value": "20.6",
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "quote": "Nanocellulose Market Size, Share | CAGR of 20.6%"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "quote": "Global Cellulose Nanofibers Market reached US$ 2.83 billion in 2025 and is expected to reach US$ 5.44 billion by 2033, growing at a CAGR of 8.5% during the forecast period 2026-2033."
+   },
+   {
+    "value": "23.5",
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "quote": "size was valued at USD 480.08 Million in 2025 and the total Cellulose Nanocrystals revenue is expected to grow at a CAGR of 23.5% from 2025 to 2032, reaching nearly USD 2103.7 Million by 2032."
+   },
+   {
+    "value": "8.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "quote": "CAGR of 8.8% from 2024 to 2030"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "17.5",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "The cellulose nanocrystals and nanofibers market was valued at USD 17.5 million in 2025, is projected to reach USD 20.5 million in 2026, and is expected to grow at an 18.1% CAGR (2026-2035) to reach USD 91.5 million by 2035."
+   },
+   {
+    "value": "20.5",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "The cellulose nanocrystals and nanofibers market was valued at USD 17.5 million in 2025, is projected to reach USD 20.5 million in 2026, and is expected to grow at an 18.1% CAGR (2026-2035) to reach USD 91.5 million by 2035."
+   },
+   {
+    "value": "91.5",
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "quote": "The cellulose nanocrystals and nanofibers market was valued at USD 17.5 million in 2025, is projected to reach USD 20.5 million in 2026, and is expected to grow at an 18.1% CAGR (2026-2035) to reach USD 91.5 million by 2035."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/nanofibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7441725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/nanofiber-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000361789",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vJ7JhQCMoiaSLzQ5-5FzpJcqxR2rOuvbjjvFToC1lqfMUIMQvum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ydb.jp/market_reports/C65128200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanocellulose.biz/manufacturing-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vKDE7R1XjFhAwyTlzYmNba68FF24G5zPiJCgMfXQy3PAkYk1Jr9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tc-kyoto.or.jp/app/uploads/2023/09/CNF_Sample_16th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.egmkt.co.jp/column/consumer/7651/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/7355/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/nanofiber-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/nanocellulose-market-104565",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-nanocellulose-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20250822701295/en/Global-Cellulose-Nanofiber-Market-Outlook-2026-2036-Regional-Analysis-Technologies-and-Pricing-Trends---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startus-insights.com/innovators-guide/cellulosic-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenqueen.com.hk/seprify-cellulose-materials-titanium-dioxide-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/150427-bioweg-lifts-series-a-to-30m-to-build-europes-largest-bacterial-cellulos/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セルロースナノファイバー 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/nanofibers-market",
+    "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "https://newscast.jp/news/7441725",
+    "https://www.mordorintelligence.com/ja/industry-reports/nanofiber-market",
+    "https://www.dreamnews.jp/press/0000361789",
+    "https://www.datainsightsreports.com/ja/reports/noserursunanofaib-26022",
+    "https://japan.zdnet.com/release/31204868/",
+    "https://stoke756.inkrich.com/posts/nanocellulose-329197-mvvsamqj",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9%E7%B9%8A%E7%B6%AD%E5%B8%82%E5%A0%B4",
+    "https://www.360marketupdates.com/jp/market-reports/cellulose-nanofibers-cnf-market-407933"
+   ]
+  },
+  {
+   "query": "セルロースナノファイバー 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vJ7JhQCMoiaSLzQ5-5FzpJcqxR2rOuvbjjvFToC1lqfMUIMQvum",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja",
+    "https://straitsresearch.com/jp/report/nanofibers-market",
+    "https://x.com/FkgKoho/status/1769906641468535084",
+    "https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html",
+    "https://www.ydb.jp/market_reports/C65128200",
+    "https://www.mordorintelligence.com/ja/industry-reports/nanofiber-market",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/10364/",
+    "https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market"
+   ]
+  },
+  {
+   "query": "セルロースナノファイバー 参入 企業 国内",
+   "results": [
+    "https://nanocellulose.biz/manufacturing-jp/",
+    "https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vKDE7R1XjFhAwyTlzYmNba68FF24G5zPiJCgMfXQy3PAkYk1Jr9",
+    "https://tc-kyoto.or.jp/app/uploads/2023/09/CNF_Sample_16th.pdf",
+    "https://www.egmkt.co.jp/column/consumer/7651/",
+    "https://metoree.com/categories/7355/",
+    "https://mono.ipros.com/cg3/%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8A%E3%83%8E%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90/",
+    "https://minkabu.jp/theme/%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%8A%E3%83%8E%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC",
+    "https://www.youtube.com/watch?v=fTsasanYxx0",
+    "https://www.env.go.jp/content/900441263.pdf"
+   ]
+  },
+  {
+   "query": "cellulose nanofiber market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market",
+    "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "https://www.mordorintelligence.com/industry-reports/nanofiber-market",
+    "https://www.fortunebusinessinsights.com/nanocellulose-market-104565",
+    "https://market.us/report/global-nanocellulose-market/",
+    "https://www.openpr.com/news/4645536/cellulose-nanofibers-market-size-to-reach-us-5-44-billion",
+    "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "https://www.grandviewresearch.com/industry-analysis/nanocellulose-market",
+    "https://dataintelo.com/report/global-nanocellulose-market",
+    "https://dataintelo.com/report/global-cellulose-nanofibers-cnf-market"
+   ]
+  },
+  {
+   "query": "cellulose nanofiber market key players competitive landscape",
+   "results": [
+    "https://www.datamintelligence.com/research-report/cellulose-nanofibers-market",
+    "https://www.futuremarketinsights.com/reports/cellulose-nanocrystals-and-nanofibers-market",
+    "https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html",
+    "https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/",
+    "https://www.grandviewresearch.com/industry-analysis/nanofibers-market",
+    "https://market.us/report/global-nanocellulose-market/",
+    "https://www.businesswire.com/news/home/20250822701295/en/Global-Cellulose-Nanofiber-Market-Outlook-2026-2036-Regional-Analysis-Technologies-and-Pricing-Trends---ResearchAndMarkets.com",
+    "https://www.htfmarketintelligence.com/report/global-cellulose-nanofibers-market",
+    "https://www.linkedin.com/pulse/nano-cellulose-market-report-in-depth-analysis-56-cagr-projection-kmx4e",
+    "https://www.researchandmarkets.com/reports/5771336/cellulose-nanofiber-global-market-insights"
+   ]
+  },
+  {
+   "query": "cellulose nanofiber startup funding 2025",
+   "results": [
+    "https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/",
+    "https://www.startus-insights.com/innovators-guide/cellulosic-materials/",
+    "https://www.greenqueen.com.hk/seprify-cellulose-materials-titanium-dioxide-funding/",
+    "https://www.linkedin.com/posts/tech-funding-news_startup-in-spotlight-bioweg-raises-16m-activity-7373655690508218369-BvYX",
+    "https://dealroom.co/news/150427-bioweg-lifts-series-a-to-30m-to-build-europes-largest-bacterial-cellulos/",
+    "https://semiengineering.com/startup-funding-q2-2025/",
+    "https://www.venturekick.ch/Impossible-Materials-raises-CHF-34-million-to-develop-titanium-dioxide-alternative",
+    "https://techfundingnews.com/bioweg-scales-bacterial-cellulose-to-replace-microplastics/",
+    "https://market.us/report/global-nanocellulose-market/",
+    "https://chemicalresearchinsight.com/2026/01/29/top-10-companies-in-the-nano-cellulose-industry-2026-leaders-driving-the-bio-based-materials-revolution/"
+   ]
+  }
+ ],
+ "missing": {}
+}

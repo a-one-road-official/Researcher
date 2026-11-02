@@ -1,0 +1,1960 @@
+{
+ "name": "石英ガラス",
+ "en": "quartz glass semiconductor",
+ "aliases": [
+  "fused silica",
+  "synthetic quartz",
+  "合成石英"
+ ],
+ "context": "半導体",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:02:10.124498+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "石英ガラス市場：市場規模・シェアと2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス市場規模と予測（2021～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：製品別（天然石英、合成石英）、用途別（半導体、光ファイバー、照明、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス市場規模は、2025年の52億1000万米ドルから2034年には94億9000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年から2034年にかけて年平均成長率（CAGR）6.89%を記録すると推定されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2025",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 5.21 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模別 2034",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 9.49 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年の世界石英ガラス製品市場は約10990百万米ドルに達すると見込まれています",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の成長軌道は年平均成長率（CAGR）6.0%で推移し、2026年には市場規模が7751百万米ドル、2025年時点では約7353百万米ドルと推計されています",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "抵抗溶接用電極の世界市場規模：2026年は499百万米ドルに達する見込み",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "溶融石英ガラス 市場規模、成長、予測 2032",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "世界の溶融石英ガラス市場規模は2025年に20億6,000万ドルで、このレポートは2026年から2032年までの市場の成長、傾向、機会、予測をカバーしています",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年までに、溶融石英ガラス市場は",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "世界の溶融石英ガラス市場規模2024年",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "20.6億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "1.8億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2.2億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2.6億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "0.5億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "■ファインセラミックス材料 366.0億ドル(29.0%増)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "●酸化アルミニウム(アルミナ) 53.4億ドル(28.7%増)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "315.9億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "361.6億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2.9億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "4.4億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "318.8億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "366.0億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の市場は、新型コロナウイルス感染症の感染拡大の影響を受け、上期に多くの産業分野で生産活動が低迷したことによりファインセラミックスの需要が減少した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、5G通信やxEVの普及によって放熱部材関連の需要増加が期待されるほか、塗料・インキなどで汎用的に使用される酸化チタンが新興国の経済発展を背景に堅調に伸びていき、2026年には2020年比29.0%増の366.0億ドルが予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "320.7億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "426.2億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "今後はIoTや5G通信の進展により通信機器だけでなく自動車や民生機器でも半導体や電子部品の需要が増加することに加え、環境対応の進展により自動車・機械部品が伸びることで、2026年には2020年比48.2%増の426.2億ドルが予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "45.7億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "53.4億ドル",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル高級石英ガラスの市場は2022年の 百万米ドルから2029年には 百万米ドルに成長し、2023年から2029年の間にCAGRは ％になると予測されている",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "（1）グローバル高級石英ガラスの市場規模、2018年から2023年の過去データ、2024年から2029年の予測データ",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "2019年から2030年までの期間において、セグメント間の成長により、種類別、用途別の市場規模の正確な計算と予測を提供します",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「SMD スーパーキャパシタの世界市場」調査資料（国内市場規模も記載）を発行、年平均8.2%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体用メタルベローズの世界市場」（～2030年までの市場規模予測）資料を発行、年平均8.7%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体検査装置の世界市場」調査レポート（日本市場規模も記載）を発行、年平均7.2%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 石英市場規模・シェア分析 – 成長トレンドおよび予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "石英市場規模・シェア分析 – 成長トレンドおよび予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "石英市場は、2025年から2030年の予測期間において、半導体、太陽光発電、光ファイバー、加工表面といったハイテク製造エコシステムにおける不可欠な役割により、堅調な拡大が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には359万トンと推定される石英市場規模は、2030年までに481万トンに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.03%です",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別では、エレクトロニクス・半導体分野が2024年に石英市場規模の41.03%を占め、2030年までに最も速い6.72%のCAGRで成長すると見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* エレクトロニクス・半導体: 2024年に石英市場規模の41.03%を占め、TSMC、Samsung、Intelなどの設備投資サイクルを反映して、2030年までに6.72%のCAGRで成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "溶融石英チャンバー、石英ボート、エッチングリングは、新しいノードごとにライフサイクル粒子仕様が厳しくなり、交換頻度が高まっています* 太陽光発電: 2024年に石英市場規模の28.5%を占め、2030年までに5.8%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 照明: 2024年に石英市場規模の12.3%を占め、2030年までに3.2%のCAGRで成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 光学・通信: 2024年に石英市場規模の8.1%を占め、2030年までに4.5%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場は2026年から2034年にかけて年平均成長率（CAGR）6.89%を記録すると推定されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なCAGR (2026 - 2034)",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の成長軌道は年平均成長率（CAGR）6.0%で推移し、2026年には市場規模が7751百万米ドル、2025年時点では約7353百万米ドルと推計されています",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "回転ステアリングツール市場の最新予測：2026年に447百万米ドル規模、成長率4.9%の見通し",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "精密光学、半導体、宇宙技術ではより高純度の材料が求められるため、2031 年までの CAGR が予測されます",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "6.49% CAGR",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR、ヨーロッパは絶対的に約50％の利益を得る可能性がある",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "、中国は約30％拡大する可能性がある",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "高温炉における規模の優位性、半導体およびフォトニクス大手との長期供給契約、および独自の溶解化学により、全体の需要が2031年までに30億米ドルと予測されることに向けて6.49 %の健全なCAGRで拡大する中でも、リーダー企業はシェアを守ることができます",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "5G通信やxEVの普及によって放熱部材関連が拡大",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の市場は、新型コロナウイルス感染症の感染拡大の影響を受け、上期に多くの産業分野で生産活動が低迷したことによりファインセラミックスの需要が減少した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "下期には各国の産業が回復に向かったものの、上期の落ち込みの影響が大きく、前年比2.5%減となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2021年は自動車や半導体などの需要回復による市場拡大に加え、原料価格や船賃の高騰から値上げされた材料が多いことから、前年比二桁増が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2020年は、テレワークの普及や巣ごもり需要の増加、5G通信の商用化により、電子部品や半導体・FPD製造装置部品を中心に市場が拡大した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "下期には各国の産業が回復に向かい、2021年から2022年にかけては、5G通信やxEVの普及、主要用途である耐火物向けの回復および放熱基板や放熱フィラーなどの伸びにより、大幅に拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2021年以降は、自動車向けの回復、5G通信やxEVなどの普及によって市場は拡大し、特に放熱フィラー向けが好調に推移するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の市場は、新型コロナの影響を受け産業機器や自動車などの産業分野で生産活動が低迷したことで、汎用的に用いられるアルミナ回路基板の需要が減少した一方で、窒化ケイ素回路基板の採用が増加したことにより、前年比6.6%増となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2021年は産業の回復により自動車向けを中心に伸びていることに加え、電動車向けパワーカードでの採用増加により拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル高級石英ガラスの市場は2022年の 百万米ドルから2029年には 百万米ドルに成長し、2023年から2029年の間にCAGRは ％になると予測されている",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：高級石英ガラスの世界の主要生産地域、パーセントとCAGR（2018～2029）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2018～2029）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2018～2029）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2018～2029）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、パーセントとCAGR（2018～2029）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "（5）グローバル高級石英ガラスの主要生産地域、生産能力、生産量、前年比成長率",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "「SMD スーパーキャパシタの世界市場」調査資料（国内市場規模も記載）を発行、年平均8.2%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体用メタルベローズの世界市場」（～2030年までの市場規模予測）資料を発行、年平均8.7%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体検査装置の世界市場」調査レポート（日本市場規模も記載）を発行、年平均7.2%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「コンデンサ用BOPPフィルムの世界市場」市場規模予測・企業動向レポートを発行、年平均6.6%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「アルミ電解コンデンサ用箔の世界市場」市場規模・動向・予測レポートを発行、年平均0.8%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "石英市場は、2025年から2030年の予測期間において、半導体、太陽光発電、光ファイバー、加工表面といったハイテク製造エコシステムにおける不可欠な役割により、堅調な拡大が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には359万トンと推定される石英市場規模は、2030年までに481万トンに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.03%です",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 製品タイプ別では、シリコンメタルが2024年に96.88%の石英市場シェアを占め、高純度石英は2030年までに7.52%のCAGRで拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別では、エレクトロニクス・半導体分野が2024年に石英市場規模の41.03%を占め、2030年までに最も速い6.72%のCAGRで成長すると見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別では、アジア太平洋地域が2024年に55.24%の石英市場シェアを保持し、2030年までに最高の6.51%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 太陽光発電容量の急増（CAGRへの影響：+1.5%）: 世界の太陽光発電設備建設の増加は、石英市場の主要な牽引役の一つです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "M12のような大型ウェーハフォーマットの採用は、ラインあたりの容量を増加させ、るつぼメーカーに直径と壁の均一性の両方を拡大するよう促しています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 半導体ノード微細化による超高純度需要（CAGRへの影響：+1.2%）: 7nm以下の最先端ロジックおよびメモリ製造工場では、不純物含有量がppbレベルに制限されており、溶融石英および石英製品サプライヤーにとって技術的なハードルが上がっています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 加工石英内装表面のブーム（CAGRへの影響：+0.8%）: 住宅のリフォームや商業施設の改修において、色の一貫性、低多孔性、加工の容易さから、天然石よりも加工石英が好まれる傾向が強まっています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 5G/FTTxにおける光ファイバー展開（CAGRへの影響：+0.6%）: 5GおよびFTTx（Fiber-to-the-X）ネットワークのグローバルな展開は、光ファイバー製造における石英の需要を促進しています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 尾鉱由来HPQによるコスト曲線低下（CAGRへの影響：+0.3%）: 鉱業コングロマリットは、既存の尾鉱から高純度石英を抽出する可能性を調査しており、一次鉱石採掘を不要にすることでコスト構造を変化させる可能性があります",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 石英採掘の生態学的影響（CAGRへの影響：-0.9%）: 生息地の破壊、地下水位の変化、粒子状物質の排出は、ノースカロライナ州、ケベック州、スカンジナビアの一部地域でより厳格な許認可制度を促しています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2. エネルギー集約型精製プロセス（CAGRへの影響：-0.7%）: 1,700℃を超える熱処理と多段階化学浸出は、高純度石英1トンあたり約1MWhの電力消費を伴います",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にUSD 8.0 Billionと評価され、2033年までにUSD 12.5 Billionに達すると予測されており、2025年から2033年の間に年平均成長率（CAGR）4.97%を示す見込みです",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "フレーバーエッセンス市場分析と2026年から2033年までの4.90%のCAGR成長による収益予測",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用石英ガラスの世界産業レポート2026：市場シェア、競争状況、成長率7.8%分析",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年にUS$ 772 Millionへ拡大し、2032年にはUS$ 1,353 Millionに達する見通しであり、2026年から2032年までの年平均成長率（CAGR）は9.8%と予測されています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "今後数年間は、AIチップ、データセンター、自動車用半導体、5G通信、産業デジタル化などの需要拡大を背景に、高品質・高精度な半導体用石英ガラスの市場は引き続き拡大し、業界は高性能化、精密加工技術の高度化、サプライチェーンの最適化および地域分散化へと発展していくことが期待されています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "今後の展望として、プロセスノード、HBM、3D NAND、先端パッケージング、次世代（第3世代）半導体技術の進化や、サプライチェーンの現地化が進展するにつれ、競争の焦点は単なる生産能力の拡大から、多面的な要素へと移行していくでしょう",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、人工知能（AI）、ハイパフォーマンス・コンピューティング（HPC）、先端パッケージング、第3世代半導体の成長に伴い、高純度石英部品への需要は今後も拡大し続けると予想されます",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.8%",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2024 to 2029 : 6.8%",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "As demand for advanced electronics escalates, so does the need for high-performance components like fused quartz glass with exceptional optical homogeneity. This directly translates to increased production, with some fabs increasing their quartz component consumption by 15% year-over-year.",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 6.8%",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2024-2025(%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の石英ガラス製品市場における売上規模、販売量、平均価格、市場シェア、主要企業のランキングを中心に、市場全体の推移と現状を詳細な分析しています",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、競争環境の変化、主要企業の戦略動向、新規参入の状況、技術革新の影響など、業界関係者が注目すべきポイントを整理しています",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーの戦略を分類し、競争構造の変化を整理します",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：主要企業の競争力分析とランキング",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "製品別・用途別データを網羅し、国別の市場潜在力や参入戦略の提言を明らかにします",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：主要企業プロファイル",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "炉建設とエネルギー効率の高い溶解に対する高い資本集中により、新規参入者は制限されています",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "それにもかかわらず、アジアからの新規参入者が低コストの生産能力をオンラインにもたらしているため、競争の激しさは高まっていますが、リソグラフィーの買い手は、レーザーおよび航空宇宙アプリケーションでは、供給ショックを避けるためにデュアルソース化が進んでいます",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "半導体や航空宇宙産業の顧客との長い認定サイクルは、単一の欠陥が複数年の供給契約を危うくする可能性があるため、新規参入をさらに阻止します",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "エリア別の需要では、半導体製造装置部品や放熱基板は参入する日系メーカーが多いことから、日本の比率が高い",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "技術的ボトルネック、コスト制限、高い参入障壁など、石英ガラス繊維が直面する主な課題を特定し分析しています",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "・主要企業のプロフィールを含め、企業の販売量、売上、価格、粗利益率、製品紹介、最近の開発など、市場における主要企業の基本的な状況を詳しく紹介",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "これに伴う設備投資の集中と認定サイクルは新規参入を効果的に阻止し、既存企業はトン数ではなく純度に応じた複数年価格設定を交渉できるようになっています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Ferroglobe、Elkem、Hoshineといった企業は、大型の水中アーク炉と自社鉱山を活用してコスト優位性を維持しており、電力の利用可能性が新規参入者にとって変動要因となっています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業：市場は統合され、技術革新が競争優位性を確立",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "高純度石英市場は、少数の主要企業によって支配されており、技術革新と顧客との長期的な関係が競争優位性を確立しています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "高純度クォーツ市場の主要プレイヤーには、Sibelco、The Quartz Corp.、Heraeus Conamic、Jiangsu Pacific Quartzなどが挙げられます",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "レポートでは、市場集中度、戦略的動向、市場シェア分析、および主要企業のプロファイル（グローバルおよび市場レベルの概要、主要セグメント、財務情報、戦略情報、市場ランク/シェア、製品とサービス、最近の動向を含む）が詳細に分析されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4.5.3 新規参入の脅威",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバルレベルの概要、市場レベルの概要、主要セグメント、利用可能な財務情報、戦略情報、主要企業の市場ランク/シェア、製品とサービス、および最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "石英市場の主要企業には、Kyocera Corporation, Momentive Technologies, Asahi Glass Co. Ltd., Caesarstone Ltd., Compagnie de Saint-Gobain S.A., Jiangsu Pacific Quartz Co. Ltd., Nihon Dempa Kogyo Co. Ltd., Heraeus Holding, Quality Quartz Engineering Inc. (Conax Technologies LLC), Sibelco, そしてThe Quartz Corporation,など多数",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では溶融石英ガラス市場に参入している企業のうち、国内勢の位置づけを中心に整理します",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "溶融石英ガラス市場の参入企業",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のランキングとプロファイル",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "車のバンパーガードの世界シェアと主要企業",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "一方、新規参入企業や地域プレーヤーは、コスト優位性、現地配送、迅速な対応、および国産代替の機会を活かして市場に参入しています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "中国やアジアのメーカーにとっては、自国製品への切り替え（国産化）やサプライチェーンの地域化が市場での地位を強化する追い風となる一方、ハイエンド用途においては、長期にわたる認定プロセス、顧客の強い定着性、そして技術や品質面での高い参入障壁といった要因により、主要な国際的企業が引き続き強力な競争優位性を維持すると予想されます",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "これらには材料の純度、耐熱性、熱安定性に関して極めて高い基準が求められ、技術的な参入障壁も高くなっています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "この業界における主な参入障壁としては、超高純度原料の調達能力（金属不純物をppmまたはppbレベルで制御）、複雑な石英溶融・熱処理技術、寸法安定性および熱応力の制御、超精密加工能力、超清浄な生産環境、長期信頼性の検証、顧客による認定プロセスの長さ（通常6ヶ月から2年以上）、世界の半導体製造装置メーカーとの共同開発能力、そして安定的かつ大規模な供給能力などが挙げられます",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "これらの製品はウェハ製造の中核工程で直接使用されるため、その研究開発や製造には、高純度石英原料の調製、溶融・成形、精密加工、表面処理、超清浄化処理、品質検査、顧客による認定など、多くの重要な段階が含まれ、技術面および認定面で高い参入障壁が生じています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "高純度石英資源の偏在、高度な製造プロセスにおける高い参入障壁、顧客認定にかかる長い期間、世界的なサプライチェーンの再編、ハイエンド製品の現地化率向上といった課題に直面しつつも、世界的なウェハ工場（ファブ）の増設、設備投資の拡大、現地サプライチェーンの構築・発展が、長期的な成長の原動力となっています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なサプライチェーンの地域化や国内製品への切り替え（国産化）の動きは、より多くの現地企業がハイエンド市場に参入することを可能にするでしょう",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Quartz Glass Market?",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Heraeus Holding GmbH, Momentive Technologies, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the quartz glass industry?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players of the global quartz glass market are AGC Inc., Corning Incorporated, Feilihua Quartz Glass Co., Ltd., Heraeus Holding GmbH, Jiangsu Pacific Quartz Co., Ltd., MARUWA Co., Ltd., Momentive Technologies, QSIL AG, Shin-Etsu Chemical Co., Ltd., Tosoh Corporation, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled in the report include Sibelco, The Quartz Corp, Jiangsu Pacific Quartz Co., Ltd., Heraeus Conamic, Momentive Technologies, Shin-Etsu Quartz Products Co., Ltd., Tosoh Quartz Corporation, Ferrotec Holdings Corporation, QSIL GmbH, Hubei Feilihua Quartz Glass Co., Ltd., Japan Super Quartz Corporation, and Mitsubishi Chemical Group Corporation.",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "11. Competitive Landscape",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Size, share, trends, segmentation, regional outlook, competitive landscape, and forecast analysis report.",
+    "url": "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape across key participants",
+    "url": "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape & Developments",
+    "url": "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the Quartz Materials for Semiconductors Market are undertaking various initiatives to strengthen their presence and increase the reach of their products and services. Strategies such as expansion activities and partnerships are key in propelling market growth.",
+    "url": "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Shin-Etsu Chemical Co., Ltd.",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング担当 japan@qyresearch.com",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan Top Story",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "日立、過去最高業績を更新--成長をリードする「Lumada」と「HMAX」",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "「Hitachi Digital」2030年度までに事業規模2倍へ--CEOアナンド・ビルジェ氏が語る新戦略",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF Report at ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 – 日本の大原工業株式会社、トップ精工株式会社、韓国のHaisheng Optical、および中国での強力な能力が主導",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (中国/日本/韓国を除く):",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "、日本はまだ大まかに追加する立場にあります",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (旧中国/日本/韓国)",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "日本のレーザー OEM と提携して高損傷閾値コンポーネントを共同開発し、デザインイン サイクルを短縮します",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "– 日本電気硝子溶融石英ユニット（2024年2月、7.8億ドル）：OLEDガラスのノウハウとアジアの顧客ベースを確保",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済(東京都中央区日本橋小伝馬町 社長 清口 正夫 03-3664-5811)は、半導体産業の活況や5G通信関連の普及により安定的・着実な需要が期待されるファインセラミックス材料・製品の世界市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "エリア別の需要では、半導体製造装置部品や放熱基板は参入する日系メーカーが多いことから、日本の比率が高い",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本は工作機械に用いられるスピンドルモーター向けが中心となっている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026 日本の石油化学工業と誘導品市場の将来…",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には、日本企業に専門的な市場調査レポートを提供するために、日本語公式サイトを設立しました",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "アジア市場：日本（国内）、中国、韓国、東南アジア、インド",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "・調査対象地域：北米、ヨーロッパ、アジア、日本（国内）、アメリカ、中国、インドなど",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体検査装置の世界市場」調査レポート（日本市場規模も記載）を発行、年平均7.2%で成長する見込み",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "pass": 3
+   },
+   {
+    "quote": "※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、韓国、台湾、日本などの国々が、エレクトロニクス・半導体、太陽光発電産業の主要な生産拠点であるため、この地域が最大の需要地となっています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "主要なプレーヤーには、Momentive Technologies、Heraeus Quarzglas、Shin-Etsu Chemical、Tosoh Quartz、Saint-Gobain Quartzなどが含まれます",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* Shin-Etsu Chemical: 日本の化学大手であり、半導体製造プロセスで使用される高純度石英製品の主要サプライヤーの一つです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* Tosoh Quartz: 日本の東ソーグループの一員であり、半導体製造装置向けの石英ガラス製品に特化しています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.1.3 日本",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.12 日本電波工業株式会社",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では、天然石英はブラジル、米国、マダガスカルなどで採掘され、合成石英は日本、米国、ドイツなどの先進国で高度な技術を用いて製造されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業、旭硝子（AGC）、ヘレウス、コーニングといった企業が主要なプレイヤーとして市場をリードしています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "これには、北米（アメリカ合衆国およびカナダ）、アジア太平洋（中国、日本、インド、韓国、オーストラリア、インドネシアなど）、ヨーロッパ（ドイツ、フランス、イギリス、イタリア、スペイン、ロシアなど）、ラテンアメリカ（ブラジル、メキシコなど）、中東およびアフリカが含まれます",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国、日本、韓国が半導体の主要生産国であり、世界的な電子機器製造の拠点でもある",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "石英市場の主要企業には、Kyocera Corporation, Momentive Technologies, Asahi Glass Co. Ltd., Caesarstone Ltd., Compagnie de Saint-Gobain S.A., Jiangsu Pacific Quartz Co. Ltd., Nihon Dempa Kogyo Co. Ltd., Heraeus Holding, Quality Quartz Engineering Inc. (Conax Technologies LLC), Sibelco, そしてThe Quartz Corporation,など多数",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月12日、京セラAVXは新しい49,000平方フィートの生産および設計センターの起工式を行いました",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ、カナダ、ドイツ、フランス、イギリス、イタリア、スペイン、ロシア、中国、日本、インド、韓国、オーストラリア、インドネシア、ブラジル、メキシコ",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "Asahi Glass Co. Ltd., Caesarstone Ltd., Compagnie de Saint-Gobain S.A., Heraeus Holding, Jiangsu Pacific Quartz Co. Ltd., Kyocera Corporation, Momentive Technologies, Nihon Dempa Kogyo Co. Ltd., Quality Quartz Engineering Inc. (Conax Technologies LLC), Sibelco, The Quartz Corporation,など",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Research",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "pass": 3
+   },
+   {
+    "quote": "溶融石英ガラスの分野で、日本メーカーはどの程度の存在感を持っているのでしょうか",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "日本メーカーの位置づけ",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "このリストに掲載されている企業の中で、日本の企業は二社あります",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "これらの日本企業は、それぞれの専門性を活かして市場において重要な役割を担っています",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "日本の溶融石英ガラス市場において、国内サプライヤーと海外サプライヤーを比較すると、技術面ではOhara CorporationやCorningが先端光学用途での高純度素材開発で強みを持ち、Translumeはフェムト秒レーザー加工で独自技術を有します",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "日本における合成石英ガラスの需要は、主に半導体とフラットパネルディスプレイ（FPD）のリソグラフィー技術の高度化によって牽引されています",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "これらの業界が日本の合成石英ガラス需要を主に支えています",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "日本の内視鏡脊椎手術市場見通し2026",
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "pass": 3
+   },
+   {
+    "quote": "半導体グレードの石英ガラスの主要な生産地域には、日本、ドイツ、米国、中国、および欧州の一部が含まれます",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "石英ガラス市場：市場規模・シェアと2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス市場：規模・シェア・予測 2034",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス市場規模と予測（2021～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：製品別（天然石英、合成石英）、用途別（半導体、光ファイバー、照明、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "QY Research株式会社（東京都中央区）は、「石英ガラス製品―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の最新レポートを発表しました",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のシェア",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2031年のシェア",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年までの上位 3 地域のシェア",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2031年までに欧州は首位を維持する可能性があるが、中国の8.10％の急騰とインドネシアの新たな生産能力により、シェアが再編される可能性がある",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "溶融石英ガラス市場は依然として適度に集中しており、上位 10 社のサプライヤーが世界収益の推定 60% を占めています",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "高温炉における規模の優位性、半導体およびフォトニクス大手との長期供給契約、および独自の溶解化学により、全体の需要が2031年までに30億米ドルと予測されることに向けて6.49 %の健全なCAGRで拡大する中でも、リーダー企業はシェアを守ることができます",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "上位 5 社の生産者は現在、世界の溶融石英ガラス生産量の 3 分の 2 以上を占めており、現在の取引の波が起こる前の約半分から増加しています",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 タイプ別のグローバル溶融石英ガラス販売市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 タイプ別のグローバル溶融石英ガラス収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "市場の6割以上を占める酸化チタンが自動車や建築物の一時的な需要減少により、単価が低下したことも影響した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月4日に、YHResearchは「グローバル高級石英ガラスのトップ会社の市場シェアおよびランキング 2023」の調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：グローバル高級石英ガラスの主要会社の市場シェアとランキング、販売量、売上、平均価格（2018～2023）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国高級石英ガラスの主要会社の市場シェアとランキング、販売量、売上、平均価格（2018～2023）",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "（2）世界の高級石英ガラス会社別売上、価格、市場シェア、業界ランキング2018-2023",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "（3）中国の高級石英ガラス会社別売上、価格、市場シェア、業界ランキング2018-2023",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 石英市場規模・シェア分析 – 成長トレンドおよび予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "石英市場規模・シェア分析 – 成長トレンドおよび予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 製品タイプ別では、シリコンメタルが2024年に96.88%の石英市場シェアを占め、高純度石英は2030年までに7.52%のCAGRで拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別では、エレクトロニクス・半導体分野が2024年に石英市場規模の41.03%を占め、2030年までに最も速い6.72%のCAGRで成長すると見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別では、アジア太平洋地域が2024年に55.24%の石英市場シェアを保持し、2030年までに最高の6.51%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* シリコンメタル: 2024年に96.88%の石英市場シェアを占め、アルミニウム合金、シリコーン、ポリシリコンにおける不可欠な役割を強調しています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* エレクトロニクス・半導体: 2024年に石英市場規模の41.03%を占め、TSMC、Samsung、Intelなどの設備投資サイクルを反映して、2030年までに6.72%のCAGRで成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "溶融石英チャンバー、石英ボート、エッチングリングは、新しいノードごとにライフサイクル粒子仕様が厳しくなり、交換頻度が高まっています* 太陽光発電: 2024年に石英市場規模の28.5%を占め、2030年までに5.8%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 照明: 2024年に石英市場規模の12.3%を占め、2030年までに3.2%のCAGRで成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 光学・通信: 2024年に石英市場規模の8.1%を占め、2030年までに4.5%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* アジア太平洋地域: 2024年に石英市場規模の55.7%を占め、2030年までに7.1%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 北米: 2024年に石英市場規模の18.2%を占め、2030年までに4.9%のCAGRで成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 欧州: 2024年に石英市場規模の15.5%を占め、2030年までに3.8%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクスおよび半導体製造は、高純度クォーツの需要を牽引する主要なセグメントであり、2024年には全体の41.03%を占め、2030年までには6.72%のCAGRで拡大すると見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用石英ガラスの世界産業レポート2026：市場シェア、競争状況、成長率7.8%分析",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「半導体用石英ガラス―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用石英ガラスの世界産業レポート2026：市場シェア、競争状況、成長率7.8%分析 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   },
+   {
+    "quote": "segment accounted for the largest market revenue share in 2023",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The geographic landscape is dominated by the APAC region, which accounts for nearly 50% of the market's incremental growth, driven by its heavy concentration of semiconductor and electronics manufacturing.",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "In comparison, the market share in South America is less than 5%, reflecting a more nascent industrial base.",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Product Type - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Product Type - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Application - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Application - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Distribution Channel - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Distribution Channel - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by geography 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by geography 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "By product: The natural quartz segment accounted for the largest revenue share of 75.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: The semiconductor segment dominated the market with a revenue share of 39.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the quartz glass market with the largest revenue share of 48.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The natural quartz segment accounted for the largest revenue share of 75.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The semiconductor segment dominated the market with a revenue share of 39.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.2.1. Geographic Concentration of Supply and Exposure to Disruption",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "11.5. Market Share/Rank Analysis, by Key Player (2025)",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global quartz glass market size was valued at USD 1.28 billion in 2025 and is projected to grow from USD 1.36 billion in 2026 to USD 2.18 billion by 2034, registering a CAGR of 6.1% during the forecast period from 2026 to 2034. Asia Pacific dominated the quartz glass market with a market share of 43.2% in 2025.",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the Quartz Glass Market and accounted for a 28% share in 2024.",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the distribution channel, Direct industrial supply and B2B distribution channels dominate the quartz glass market.",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region accounted for the largest share of the the quartz glass market in 2025?",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the market with a share of 43.2% in 2025.",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "石英ガラス 市場： 市場規模 ・シェアと2034年までの予測 — 石英ガラス 市場： 市場規模 ・シェアと2034年までの予測 The Insight Partners https://www.theinsightpartners.com > quartz-glass-market",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 石英ガラス 製品 市場 動向、 年平均成長率 6.0%で拡大 ... — 世界の 石英ガラス 製品 市場 動向、 年平均成長率 6.0%で拡大 ... ZDNET Japan https://japan.zdnet.com > プレスリリース",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "pass": 3
+   },
+   {
+    "quote": "溶融 石英ガラス 市場規模 、 成長 、予測 2032 - Report Prime — 溶融 石英ガラス 市場規模 、 成長 、予測 2032 - Report Prime Report Prime https://www.reportprime.com > 溶融石英ガラス-r2140",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス市場 ： 市場 規模・シェアと2034年までの 予測 — 石英ガラス市場 ： 市場 規模・シェアと2034年までの 予測 The Insight Partners https://www.theinsightpartners.com > quartz-glass-market",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "溶融 石英ガラス 市場 規模、成長、 予測 2032 - Report Prime — 溶融 石英ガラス 市場 規模、成長、 予測 2032 - Report Prime Report Prime https://www.reportprime.com > 溶融石英ガラス-r2140",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス 製品 - メーカー・ 企業 9社の業務用製品ランキング — 石英ガラス 製品 - メーカー・ 企業 9社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 石英ガラス製品",
+    "url": "https://mono.ipros.com/cg2/%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9%E8%A3%BD%E5%93%81/",
+    "pass": 3
+   },
+   {
+    "quote": "石英ガラス 加工 会社122社 - Metoree — 石英ガラス 加工 会社122社 - Metoree Metoree https://metoree.com > 加工サービス",
+    "url": "https://metoree.com/categories/9029/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用 石英ガラス の世界産業レポート2026：市場シェア — 半導体用 石英ガラス の世界産業レポート2026：市場シェア アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "In May 2025, QSIL SE announced a significant investment in energy-efficient melting technologies to upgrade its production facilities and reduce carbon emissions associated with its manufacturing processes.",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber optics is anticipated to witness the fastest CAGR of 9.1% over the forecast period, owing to the rising deployment of high-speed communication networks and growing data transmission requirements globally. Increasing investments in",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.2. Investment in Supply Chain Resilience",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.11. Investment & M&A Landscape",
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "pass": 3
+   },
+   {
+    "quote": "For example, in October 2024, Hurricane Helene caused severe flooding in Spruce Pine, North Carolina, disrupting operations at mines that supply 70–90% of the world’s ultra-pure quartz used in semiconductors. This raised alarms across the global chip industry, and chipmakers began reassessing sourcing strategies amid supply chain concerns.",
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "America’s Chip Resurgence: $828 Billion in Semiconductor Supply Chain Investments",
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "The Advanced Manufacturing Investment Credit (Section 48D) and manufacturing grant incentives have sparked substantial investments in the U.S. In fact, companies in the semiconductor ecosystem have announced",
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "in private investments—since 2020. These announced projects will",
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "“The proposed CHIPS funding would support the expansion and modernization of MACOM’s existing facility which would increase the production of 100mm Gallium Nitride (GaN) and Gallium Arsenide (GaAs) semiconductor fabrication and introduce the production of 150mm GaN.”",
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "pass": 3
+   },
+   {
+    "quote": "“This facility packages semiconductor power modules for important defense applications including the F-35, as well as commercial and industrial applications. The proposed funding would be expected to nearly double capacity and modernize key equipment. The project is estimated to create over 55 manufacturing jobs and up to 20 construction jobs.”",
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.89",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "quote": "市場は2026年から2034年にかけて年平均成長率（CAGR）6.89%を記録すると推定されています"
+   },
+   {
+    "value": "6.0",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "quote": "世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032 - ZDNET Japan"
+   },
+   {
+    "value": "12.8",
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大"
+   },
+   {
+    "value": "50",
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "quote": "CAGR、ヨーロッパは絶対的に約50％の利益を得る可能性がある"
+   },
+   {
+    "value": "6.03",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "2025年には359万トンと推定される石英市場規模は、2030年までに481万トンに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.03%です"
+   },
+   {
+    "value": "1.5",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "1. 太陽光発電容量の急増（CAGRへの影響：+1.5%）: 世界の太陽光発電設備建設の増加は、石英市場の主要な牽引役の一つです"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "2. 半導体ノード微細化による超高純度需要（CAGRへの影響：+1.2%）: 7nm以下の最先端ロジックおよびメモリ製造工場では、不純物含有量がppbレベルに制限されており、溶融石英および石英製品サプライヤーにとって技術的なハードルが上がっています"
+   },
+   {
+    "value": "0.8",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "3. 加工石英内装表面のブーム（CAGRへの影響：+0.8%）: 住宅のリフォームや商業施設の改修において、色の一貫性、低多孔性、加工の容易さから、天然石よりも加工石英が好まれる傾向が強まっています"
+   },
+   {
+    "value": "0.6",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "4. 5G/FTTxにおける光ファイバー展開（CAGRへの影響：+0.6%）: 5GおよびFTTx（Fiber-to-the-X）ネットワークのグローバルな展開は、光ファイバー製造における石英の需要を促進しています"
+   },
+   {
+    "value": "0.3",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "5. 尾鉱由来HPQによるコスト曲線低下（CAGRへの影響：+0.3%）: 鉱業コングロマリットは、既存の尾鉱から高純度石英を抽出する可能性を調査しており、一次鉱石採掘を不要にすることでコスト構造を変化させる可能性があります"
+   },
+   {
+    "value": "0.9",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "1. 石英採掘の生態学的影響（CAGRへの影響：-0.9%）: 生息地の破壊、地下水位の変化、粒子状物質の排出は、ノースカロライナ州、ケベック州、スカンジナビアの一部地域でより厳格な許認可制度を促しています"
+   },
+   {
+    "value": "0.7",
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "quote": "2. エネルギー集約型精製プロセス（CAGRへの影響：-0.7%）: 1,700℃を超える熱処理と多段階化学浸出は、高純度石英1トンあたり約1MWhの電力消費を伴います"
+   },
+   {
+    "value": "4.97",
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "quote": "2024年にUSD 8.0 Billionと評価され、2033年までにUSD 12.5 Billionに達すると予測されており、2025年から2033年の間に年平均成長率（CAGR）4.97%を示す見込みです"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "quote": "市場規模は2026年にUS$ 772 Millionへ拡大し、2032年にはUS$ 1,353 Millionに達する見通しであり、2026年から2032年までの年平均成長率（CAGR）は9.8%と予測されています"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "quote": "CAGR of 6.8%"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "5.21",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "quote": "US$ 5.21 Billion"
+   },
+   {
+    "value": "9.49",
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "quote": "US$ 9.49 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31177768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/news/4421/high-purity-synthetic-quartz-glass",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/high-purity-quartz-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7948739",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000320555/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9%E8%A3%BD%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4690224",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/9029/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3030144",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/market-reports/quartz-glass-for-semiconductor-market-111118",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/quartz-glass-market-22323",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vocal.media/journal/quartz-market-size-to-reach-12-5-b-by-2033-driven-by-electronics-and-construction-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/reports/quartz-glass-for-semiconductor-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/quartz-glass-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-purity-quartz-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q3-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-list-deals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vcbacked.co/directory/industries/semiconductor",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "石英ガラス 市場規模 年平均成長率",
+   "results": [
+    "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "https://japan.zdnet.com/release/31177768/",
+    "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "https://jp.linkedin.com/pulse/%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9%E8%A3%BD%E5%93%81-market-trendssector-overview-%E3%81%8A%E3%82%88%E3%81%B3-size%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-gjgxe",
+    "https://www.qyresearch.co.jp/news/4421/high-purity-synthetic-quartz-glass",
+    "https://www.mordorintelligence.com/ja/industry-reports/high-purity-quartz-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/high-purity-synthetic-quartz-glass-market-102909",
+    "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "https://www.marketreport.jp/quartz-glass-global-top-players-yhr24ap56023",
+    "https://straitsresearch.com/jp/report/quartz-glass-market"
+   ]
+  },
+  {
+   "query": "石英ガラス 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.theinsightpartners.com/ja/reports/quartz-glass-market",
+    "https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "https://www.qyresearch.co.jp/news/4421/high-purity-synthetic-quartz-glass",
+    "https://www.atpress.ne.jp/news/7948739",
+    "https://www.dreamnews.jp/press/0000320555/",
+    "https://www.marketresearch.co.jp/insights/quartz-market-mordor/",
+    "https://www.imarcgroup.com/pressrelease/ja/quartz-market-statistics",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E7%B4%94%E5%BA%A6%E5%90%88%E6%88%90%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B2026-2033%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E8%A6%8F%E6%A8%A1%E3%81%8A%E3%82%88%E3%81%B3%E4%BA%88%E6%B8%AC14cagr-host-horizons-iwspe"
+   ]
+  },
+  {
+   "query": "石英ガラス 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg2/%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9%E8%A3%BD%E5%93%81/",
+    "https://aanyasterlingford.inkrich.com/posts/fused-silica-glass-397505-mvqygmxq",
+    "https://pando.life/article/4690224",
+    "https://metoree.com/categories/9029/",
+    "https://www.atpress.ne.jp/news/3030144",
+    "https://www.himejirika.co.jp/recruit/what.html",
+    "https://baseconnect.in/companies/keyword/25c1725b-3798-46ec-b718-42fc975ce899",
+    "https://dg-tec.jp/company/philosophy.html",
+    "https://baike.baidu.com/ja/item/%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A8%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9/2188637",
+    "https://mono.ipros.com/cg2/石英ガラス/"
+   ]
+  },
+  {
+   "query": "quartz glass semiconductor market size CAGR 2025",
+   "results": [
+    "https://www.technavio.com/report/quartz-glass-market-industry-analysis",
+    "https://www.marketgrowthreports.com/market-reports/quartz-glass-for-semiconductor-market-111118",
+    "https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report",
+    "https://www.marketresearchfuture.com/reports/quartz-glass-market-22323",
+    "https://vocal.media/journal/quartz-market-size-to-reach-12-5-b-by-2033-driven-by-electronics-and-construction-demand",
+    "https://www.linkedin.com/pulse/quartz-glass-semiconductor-market-size-forecast-across-s448f",
+    "https://www.wiseguyreports.com/reports/quartz-sand-for-semiconductor-market",
+    "https://uk.finance.yahoo.com/news/quartz-glass-market-outlook-report-091200870.html",
+    "https://www.strategicrevenueinsights.com/industry/high-purity-quartz-market",
+    "https://dataintelo.com/report/global-quartz-glass-for-semiconductor-market"
+   ]
+  },
+  {
+   "query": "quartz glass semiconductor market key players competitive landscape",
+   "results": [
+    "https://www.wiseguyreports.com/reports/quartz-glass-for-semiconductor-market",
+    "https://www.linkedin.com/pulse/quartz-glass-semiconductor-market-size-forecast-across-s448f",
+    "https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html",
+    "https://straitsresearch.com/report/quartz-glass-market",
+    "https://www.grandviewresearch.com/industry-analysis/high-purity-quartz-market-report",
+    "https://vocal.media/journal/quartz-market-size-to-reach-12-5-b-by-2033-driven-by-electronics-and-construction-demand",
+    "https://www.marketgrowthreports.com/market-reports/quartz-glass-for-semiconductor-market-111118",
+    "https://www.reportsanddata.com/report-detail/quartz-materials-for-semiconductors-market",
+    "https://www.persistencemarketresearch.com/market-research/high-purity-quartz-market.asp",
+    "https://dataintelo.com/report/global-quartz-glass-for-semiconductor-market"
+   ]
+  },
+  {
+   "query": "quartz glass semiconductor startup funding 2025",
+   "results": [
+    "https://semiengineering.com/startup-funding-q3-2025/",
+    "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "https://newmarketpitch.com/blogs/news/semiconductor-list-deals",
+    "https://www.facebook.com/sibelcogroup/posts/today-sibelco-announced-that-sibelco-north-america-has-signed-a-letter-of-intent/1984371256201175/",
+    "https://www.vcbacked.co/directory/industries/semiconductor",
+    "https://www.nist.gov/chips/chips-rd-funding-opportunities",
+    "https://siliconcatalyst.com/investors",
+    "https://www.interface-eu.org/publications/semiconductor-startup-funding-activities",
+    "https://dataintelo.com/report/global-quartz-glass-for-semiconductor-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

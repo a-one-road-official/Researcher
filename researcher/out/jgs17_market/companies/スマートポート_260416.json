@@ -1,0 +1,1788 @@
+{
+ "name": "スマートポート",
+ "en": "smart port",
+ "aliases": [
+  "サイバーポート",
+  "港湾DX"
+ ],
+ "context": "15 港湾ロジ ②サイバーポート",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:00:28.534027+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "北アメリカのスマートな港の市場は2024年のUSD 584.6,000,000で推定されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年から2035年の間に27.63パーセントのCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカのスマートな港の市場のサイズは2035年までのUSD 8558.8百万に達するために予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "球面的洞察とコンサルティングによって公表された研究報告によると、北アメリカのスマートポート市場規模は、USD 8558.8を保持することを期待しています 2025年から2035年にかけて27.63パーセントのCAGRで成長する2035年まで",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2024:",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模、シェア、成長レポート2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.25 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "USD 22.70 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "67.74 (USD十億)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンポート技術の市場は成長が見込まれており、持続可能なインフラへの投資は2025年までに40億米ドルに達する見込みです",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "港湾自動化の世界市場は、2026年までに60億米ドルに達する見込みで、約12%の年平均成長率を反映しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模は2025年の35億ドルから2035年には407億ドルに拡大すると予想されており、年平均成長率は27.8%となる見込みです",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場規模:",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 スマートポート市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場は、2025年には44.9億米ドルと評価され、2030年までに110.6億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は19.78%です",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* アプリケーション別: スマートターミナル自動化が2024年の市場規模の44.4%を占め、スマートエネルギーおよび環境ソリューションは2030年までに24.2%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 市場規模と成長予測（価値）",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（金額）",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "RFフロントエンドモジュール市場：市場規模・シェア分析、成長トレンドと予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "細胞溶解市場：市場規模・シェア分析、成長動向、予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "自己組織化ネットワーク市場規模・シェア分析 – 成長トレンド・予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "動物成長促進剤市場規模と展望、2025-2033",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年〜2033年のデジタルヘルス市場の展望：市場規模、シェア、潜在成長率、収益、および売上動向（現在の年平均成長率（CAGR）は6.5%）",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8章 市場における世界の総潜在市場規模（TAM）",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模、シェア、成長分析：港湾タイプ別、技術別、コンポーネント別、処理能力別、構成要素別、地域別－業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模、シェア、成長、世界の業界分析、地域別動向および2026年～2034年までの予測",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマート港湾の世界市場規模、シェア、動向及び成長分析レポート、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポートの世界市場規模、シェア、動向分析レポート：タイプ別、スループット容量別、技術別、地域別、展望と予測、2025年～2032年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な港湾機器市場は、2024年に19.3億米ドルで評価され、2025年から2034年の間に5.7%のCAGRを登録すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模：193億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォード・ポートは、2024年12月、ライス港に£50百万(USD 63,000,000)を投資すると宣言されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Port Equipment Market Size, By Equipment, 2022 – 2034, (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物取扱機器部門では、45%を超える市場シェアを保有し、2034年までのUSD 17.8億を越えることが期待されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Port Equipment Market Size, 2022 -2034, (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国ポート機器市場は、ポートインフラの近代化のために10億を予約したインフラ投資およびジョブズ法(2021年)により、より大きなブーストを受けています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの港湾機器市場は、2025年から2034年までの有意で有望な成長を経験することが期待されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の港湾機器市場は、2025年から2034年までの有意で有望な成長を経験することが期待されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size, Share & Trends Report, 2026 – 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 4.0 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 5.0 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 39.1 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size value in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.0 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size value in 2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.0 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 39.1 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場規模は2025年から2035年の間に27.63パーセントのCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "球面的洞察とコンサルティングによって公表された研究報告によると、北アメリカのスマートポート市場規模は、USD 8558.8を保持することを期待しています 2025年から2035年にかけて27.63パーセントのCAGRで成長する2035年まで",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2025-2035の :",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "プロセス・オートメーション・セグメントは、2024年に大幅なシェアを持ち、予測期間中に重要なCAGRで成長することが期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、プロセス・オートメーション・セグメントは、2024年に重要なシェアを保有し、予測期間中に重要なCAGRで成長することが期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に大幅な株式を保有し、予報期間中に重要なCAGRで成長する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、海運セグメントは2024年に大幅なシェアを持ち、予測期間中に重要なCAGRで成長することが期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート業界は、2025年に244.7億米ドルから2035年には677.4億米ドルに成長すると予測されており、2025年から2035年の予測期間中に年平均成長率（CAGR）は10.72を示します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "世界貿易機関は、世界の商品の貿易が安定して増加しており、年率3.5%の成長が見込まれていると報告しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "港湾自動化の世界市場は、2026年までに60億米ドルに達する見込みで、約12%の年平均成長率を反映しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場は、2023年の180.2億米ドルから2032年には450億米ドルに成長すると予測されており、年平均成長率（CAGR）は10.7%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場は、2024年から2035年までの間に10.72%のCAGRで成長すると予測されており、自動化、IoT統合、持続可能性の取り組みの進展によって推進されます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中のスマートポート市場の期待CAGRはどのくらいですか？",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場の予測期間2025年から2035年のCAGRは10.72%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "主な用途には環境モニタリングが含まれ、6.6から20.24 USD十億に拡大することが期待されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模は2025年の35億ドルから2035年には407億ドルに拡大すると予想されており、年平均成長率は27.8%となる見込みです",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "2. 成長率:",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "世界の業界動向、2017年の実績データ、今後数年間の予測、そして予測期間終了までの年平均成長率（CAGR）の予測",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "セキュア アクセス サービス エッジ (SASE) 市場 規模、成長率、トレンド、将来展望（2026年～2033年）",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場は、2025年には44.9億米ドルと評価され、2030年までに110.6億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は19.78%です",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 技術別: 2024年にはIoTがスマートポート市場シェアの37.1%を占め、デジタルツインプラットフォームは2030年までに27.5%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* アプリケーション別: スマートターミナル自動化が2024年の市場規模の44.4%を占め、スマートエネルギーおよび環境ソリューションは2030年までに24.2%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年〜2033年のデジタルヘルス市場の展望：市場規模、シェア、潜在成長率、収益、および売上動向（現在の年平均成長率（CAGR）は6.5%）",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の31億3,000万米ドルから2026年には38億3,000万米ドルへと、CAGR22.5％で成長が見込まれております",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には83億7,000万米ドルに達し、CAGRは21.6％となる見込みです",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の31億3,000万米ドルから2026年には38億3,000万米ドルへと成長が見込まれ、CAGRは22.5％です",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な港湾機器市場は、2024年に19.3億米ドルで評価され、2025年から2034年の間に5.7%のCAGRを登録すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025年～2034年）：5.7%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この投資は、1.1ギガワットの容量が予想され、きれいなエネルギー開発で港湾活動の統合を拡大するインチの岬沖合の風車を促進すると期待されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月、Konecranesはドイツ クレーンおよびサービス製造者のKocks Kranbau GmbHを買収することによって港サービスを拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025 - 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポート機器の市場規模は、2024年のUSD 19.3億で評価され、2034年までにUSD 33.1億に達する見込みで、2034年までに5.7% CAGRで成長しました.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Europe (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 34.3%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 34.3% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The seaport segment held the largest revenue share (82.1)% revenue share in 2025, while inland port segment is expected to grow at fastest CAGR over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global smart port market is expected to grow at a compound annual growth rate of 34.3% from 2026 to 2023 to reach USD 39.1 billion by 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The process automation segment held the largest revenue share of 38.1% in 2025, while artificial intelligence (AI) segment is expected to grow at the fastest CAGR over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 24.46%",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific smart port market size is exhibited at USD 2.10 billion in 2025 and is projected to be worth around USD 18.73 billion by 2035, growing at a CAGR of 24.46% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global smart port market?",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 24.24% during 2022-2028",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "24.24% CAGR",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "The process automation segment held more than 30% of market share in 2021 and is expected to grow at the highest rate during the assessment period.",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "The smart ports market is likely to grow at a CAGR of 24.24% during 2022-2028.",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 3.31 Billion in 2025 and the total Smart Ports revenue is expected to grow at a CAGR of 23.9% from 2026 to 2032, reaching nearly USD 14.85 Billion by 2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2032 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "The Global market is growing at a CAGR of 23.9% during forecasting period 2026-2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "According to a new report from Fact.MR, the global smart ports market — currently valued at $2.5 billion — is set to reach $16 billion by 2033, surging ahead at 20.4 percent CAGR from 2023 to 2033.",
+    "url": "https://www.sdmmag.com/articles/101825-smart-ports-market-to-reach-16b-by-2033",
+    "pass": 3
+   },
+   {
+    "quote": "of December 2022), which states that digitalisation has allowed a 40% growth in port activity, adding that",
+    "url": "https://repositorium.uminho.pt/server/api/core/bitstreams/039b7c8f-43aa-45e7-a82b-1c14146a4235/content",
+    "pass": 3
+   },
+   {
+    "quote": "“Global Smart Port Market to reach a market value of USD 11.85 Billion by 2032 growing at a CAGR of 23.9%”",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Smart Port Market size is expected to reach $11.85 billion by 2032, rising at a market growth of 23.9% CAGR during the forecast period.",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 23.9% from 2025 to 2032",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR of this Market is 23.9% from 2023 to 2032.",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "プロセス・オートメーション・セグメントは、2024年に大幅なシェアを持ち、予測期間中に重要なCAGRで成長することが期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、プロセス・オートメーション・セグメントは、2024年に重要なシェアを保有し、予測期間中に重要なCAGRで成長することが期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "プロセス・オートメーションは、高度に自動化された装置、実時間監視および混雑を減らし、効率を改善するためにデジタルワークフローに依存しているため、2024年にかなりのシェアを保持しました",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、海運セグメントは2024年に大幅なシェアを持ち、予測期間中に重要なCAGRで成長することが期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Seaportsは、北米の国際貿易の大部分を扱い、自動化、デジタル化、スマートインフラへの高い投資を推進しているため、2024年に大幅なシェアを開催しました",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模、シェア、成長レポート2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界のシェアの約40%を占める最大の市場であり、次いでヨーロッパが約30%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界の市場シェアの約30%を占めており、最大の市場は北米です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界の市場シェアの約25%を占めており、中国が最大の貢献者であり、特に上海港を通じてその影響を及ぼしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界の市場シェアの約5%を占めており、UAEがドバイ港を通じてリードしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of technology providers and port authorities representing 75-80% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート 市場 規模、シェア、成長、将来展望（2026年～2033年） | 記事 | ブログ",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート 市場 規模、シェア、成長、将来展望（2026年～2033年）",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "産業データ管理 市場 規模、成長、シェア、長期予測（2026年～2033年）",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "マネジメントシステム認証 市場 シェア、規模、成長動向、予測展望（2026年～2033年）",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 スマートポート市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 技術別: 2024年にはIoTがスマートポート市場シェアの37.1%を占め、デジタルツインプラットフォームは2030年までに27.5%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* アプリケーション別: スマートターミナル自動化が2024年の市場規模の44.4%を占め、スマートエネルギーおよび環境ソリューションは2030年までに24.2%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 市場シェア分析",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル (グローバルレベルの概要、市場レベルの概要、主要セグメント、利用可能な財務情報、戦略情報、主要企業の市場ランキング/シェア、製品とサービス、および最近の動向を含む)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "RFフロントエンドモジュール市場：市場規模・シェア分析、成長トレンドと予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "細胞溶解市場：市場規模・シェア分析、成長動向、予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "自己組織化ネットワーク市場規模・シェア分析 – 成長トレンド・予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "エアピュリファイングスプレー市場の規模、シェアおよびトレンド分析レポート：タイプ別（アロマ、ノンアロマ）、エンドユーザー別（法人、家庭）、販売チャネル別（スーパーマーケット/ハイパーマーケット、リテール薬局、オンライン）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "咳治療薬市場の規模、シェアおよびトレンド分析レポート：製品タイプ別（去痰薬、抗ヒスタミン薬、気管支拡張薬、去鼻充血薬、抗生物質）、年齢層別（成人、小児）、流通チャネル別（小売薬局、病院薬局、オンライン薬局）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート管理メーカー上位企業2026 | 記事 | ブログ",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート管理メーカー上位企業2026",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "pass": 3
+   },
+   {
+    "quote": "2026年〜2033年のデジタルヘルス市場の展望：市場規模、シェア、潜在成長率、収益、および売上動向（現在の年平均成長率（CAGR）は6.5%）",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場：競合情勢と市場シェア、2024年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模、シェア、成長分析：港湾タイプ別、技術別、コンポーネント別、処理能力別、構成要素別、地域別－業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模、シェア、成長、世界の業界分析、地域別動向および2026年～2034年までの予測",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマート港湾の世界市場規模、シェア、動向及び成長分析レポート、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場- 世界の産業規模、シェア、動向、機会、および予測：技術別、処理能力別、港湾技術別、地域別および競合状況、2021-2031年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポートの世界市場規模、シェア、動向分析レポート：タイプ別、スループット容量別、技術別、地域別、展望と予測、2025年～2032年",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "港湾設備市場の規模とシェア、2034年予測レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "港湾設備市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物取扱機器部門では、45%を超える市場シェアを保有し、2034年までのUSD 17.8億を越えることが期待されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Port Equipment Market Share, By Propulsion, 2024",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ディーゼル部門では、2024年に54%の市場会計を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "マニュアルセグメントは、2024年に48%の市場シェアを保持しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "一緒に、彼らは、ポート機器市場で41%の市場シェアを保持しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology: Process automation segment dominated the market, with a revenue share of 38.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "By throughput capacity: Extensively busy segment held the largest market share of 55.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type: Seaport segment held the largest revenue share of 82.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on throughput capacity, the extensively busy led the market with the largest revenue share of 55.3% in 2025. With the increasing global trade and the need for faster, more reliable port operations, these busy ports are investing heavily in innovations like IoT, process automation, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on type, the seaport segment led the market with the largest revenue share of 82.1% in 2025. As major hubs for international trade, seaports are critical for the efficient movement of goods globally. The increasing volume of maritime trade, coupled with advancements in technology, has significantly enhanced the operational efficiency and capacity of seaports.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominant with a 39.3% market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The process automation segment held the largest revenue share of 38.1% in 2025, while artificial intelligence (AI) segment is expected to grow at the fastest CAGR over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "China takes the position of the leader in the Asia-Pacific region thanks to the numerous ports, huge volumes of freight handled annually and rapid transition to digitization of port operations which has made it possible for leading ports to implement cutting-edge technologies such as AI, 5G, automation, and big data analytics.",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The extensively busy segment held more than 45% share of the market in 2021 and is expected to remain dominant during the forecast period.",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "The process automation segment held more than 30% of market share in 2021 and is expected to grow at the highest rate during the assessment period.",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific held more than 35% market share in 2021 and is estimated to be the largest market during the forecast period",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global market report helps with the PESTEL, PORTER, COVID-19 Impact analysis, Recommendations for Investors & Leaders, and market estimation of the forecast period.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "17.1. Market Share Analysis, by Company",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業リスト",
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と競争の洞察",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場市場の主要企業には以下が含まれます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のプロファイル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境の分析では、市場集中度、主要企業の戦略的動向、市場シェアが詳細に検討されます",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB Ltd.、Siemens AG、IBM Corporation、Honeywell International Inc.、Cargotec Corporation (Kalmar)、Konecranes Plc、Navis LLC、Huawei Technologies Co., Ltd.、Shanghai Zhenhua Heavy Industries (ZPMC)など、多数の主要企業のプロファイルが含まれており、各社の概要、主要セグメント、戦略情報、製品・サービス、最近の動向が提供されます",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル (グローバルレベルの概要、市場レベルの概要、主要セグメント、利用可能な財務情報、戦略情報、主要企業の市場ランキング/シェア、製品とサービス、および最近の動向を含む)",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場の主要企業は、業務効率の向上と物流管理の強化を目的として、ドローン技術への投資を拡大しています",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場の主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界内の主要プレイヤーは、インテリジェントな貨物処理、予測船舶管理、リアルタイムの物流管理のためのAIシステムをすべて網羅するよう努めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key companies in the smart port market are Royal HaskoningDHV, ABB, Trelleborg Group, Accenture, and others. These employ various strategies to maintain a competitive edge, including the development of advanced technologies that integrate",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the smart port market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the smart port market include Royal HaskoningDHV; ABB; Trelleborg Group; Accenture; Ramboll Group A/S; Port Solutions Limited; Awake.AI; IBM; Siemens; General Electric Company.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size, Key Companies, Technology Adoption, Digital Transformation, Infrastructure Modernization, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the smart port market?",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the smart port market are Royal Dutch Shell plc, IBM Corporation, WÃ¤rtsilÃ¤ Corporation, Navis LLC, Trelleborg AB, Kongsberg Gruppen AS, Cisco Systems, Inc., Liebherr-International AG, Abu Dhabi Ports Company, Port of Rotterdam, Port of Singapore, Intel Corporation, Huawei Technologies Co., Ltd., ABB Ltd., Yokogawa Electric Corporation and Others.",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the market are-",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape analysis, Market share analysis",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to 3 players)",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Product portfolio, geographical reach, regional presence, and strategic alliances.",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the key companies in the market?",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Royal HaskoningDHV, IBM Corporation, ABB Group, Trelleborg AB, Port of Rotterdam Authority, Abu Dhabi Ports, Accenture plc, General Electric Company, Wipro Ltd., Ramboll Group, Ikusi Velatia, Port Solutions Ltd., and Scientific Enterprises. are the key companies in the market.",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive developments, investments, strategic expansion and competitive landscape of the key players operating in the Global Smart Ports Market are also profiled.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players are:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in Global Smart Ports market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "The important key players in the Global market are – Port of Rotterdam, Trelleborg, Royal Haskoning, IBM, Accenture, General Electric, Abu Dhabi Ports, ABB, Wipro, Ramboll Group, Ikusi Velatia, Port Solutions, Scientific Enterprises, Navis, Awake.AI, Cisco, Siemens, Roambee, Washington Maritime Blue, and WISTA The Netherlands.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "4.8. Global Smart Ports Market Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "17.2.1. Competitive Benchmarking of key players by price, presence, market share, Applications and R&D investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "17.2.3.2. M&A Key Players, Forward Integration and Backward",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "17.3. Company Profiles: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-Destructive Testing Market Size by Offering, Test Method, Verticals, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the smart ports market are actively implementing marketing tactics such as collaborations, investments, and acquisitions to gain market share. Numerous start-ups are raising funds to focus on new developments.",
+    "url": "https://www.sdmmag.com/articles/101825-smart-ports-market-to-reach-16b-by-2033",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size, Share, Growth & Top Key Players 2032",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies Profiled",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "What are the major top companies in the competitive landscape?",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape shortlist",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "CHAPTER 9 - Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Overview",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides detailed cross-comparison of key players across 10 performance parameters to identify competitive strengths and weaknesses.",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "スマートポート市場規模 、シェア |業界レポート [2026-2034] — スマートポート市場規模 、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > スマートポート...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4-112364",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場規模 、シェア、成長レポート2035 — スマートポート市場規模 、シェア、成長レポート2035 Market Research Future https://www.marketresearchfuture.com > reports > smart-p...",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート 市場 規模 、シェア、成長、将来展望（2026年 ... — スマートポート 市場 規模 、シェア、成長、将来展望（2026年 ... inkrich https://mrctechblogs.inkrich.com > posts > スマートポート...",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場 規模、 シェア |業界レポート [2026-2034] — スマートポート市場 規模、 シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > スマートポート...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4-112364",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場 規模・ シェア 分析 – 成長動向と予測 (2025 ... — スマートポート市場 規模・ シェア 分析 – 成長動向と予測 (2025 ... (株)マーケットリサーチセンター https://www.marketresearch.co.jp > insights > smart-port-...",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート 管理メーカー 上位企業 2026 | 記事 - inkrichブログ — スマートポート 管理メーカー 上位企業 2026 | 記事 - inkrichブログ inkrich https://press462.inkrich.com > posts",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート の世界 市場 レポート 2026年 — スマートポート の世界 市場 レポート 2026年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > インフラ > 港湾/空港",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートポート市場 規模・シェア分析 – 成長動向と予測 ( 2025 ... — スマートポート市場 規模・シェア分析 – 成長動向と予測 ( 2025 ... (株)マーケットリサーチセンター https://www.marketresearch.co.jp > insights > smart-port-...",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size , Share & Trends Report, 2026 – 2033 — Smart Port Market Size , Share & Trends Report, 2026 – 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size , Share | Industry Report [2026-2034] — Smart Port Market Size , Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Report 2025 - 2030, By Technology, Geo — Smart Port Market Report 2025 - 2030, By Technology, Geo MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/smart-ports-market-165784113.html",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Companies, Size & Trends 2026-2035 — Smart Port Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size Share and Growth Report 2035 — Smart Port Market Size Share and Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "UK Smart Port Market (2025-2030) - MarketsandMarkets — UK Smart Port Market (2025-2030) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/uk",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size, Share | Industry Report [2026-2034] — Smart Port Market Size, Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size, Share & Trends Report, 2026 – 2033 — Smart Port Market Size, Share & Trends Report, 2026 – 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "pass": 3
+   },
+   {
+    "quote": "US Smart Port Market ( 2025 -2030) - MarketsandMarkets — US Smart Port Market ( 2025 -2030) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/us",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Port Market Size, Share , Growth & Top Key Players 2032 — Smart Port Market Size, Share , Growth & Top Key Players 2032 KBV Research https://www.kbvresearch.com > smart...",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "17.2.1. Competitive Benchmarking of key players by price, presence, market share, Applications and R&D investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "17.2.3.1. M&A by Regions, Investment and Applications",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "pass": 3
+   },
+   {
+    "quote": "8. Investment in safety",
+    "url": "https://www.ie.uh.edu/sites/ie/files/faculty/glim/IJST-SmartPort-small.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11. Investment in protection (maintenance and investment)",
+    "url": "https://www.ie.uh.edu/sites/ie/files/faculty/glim/IJST-SmartPort-small.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ports,” 11th International Symposium on Signal, Image, Video and Communications, ISIVC 2022 - Conference Proceedings , pp. 5–10,",
+    "url": "https://repositorium.uminho.pt/server/api/core/bitstreams/039b7c8f-43aa-45e7-a82b-1c14146a4235/content",
+    "pass": 3
+   },
+   {
+    "quote": "2022, doi: 10.1109/ISIVC54825.2022.9800728.",
+    "url": "https://repositorium.uminho.pt/server/api/core/bitstreams/039b7c8f-43aa-45e7-a82b-1c14146a4235/content",
+    "pass": 3
+   },
+   {
+    "quote": "North America generated USD 0.82 billion in 2025, backed by federal clean-port funding.",
+    "url": "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific ranks first in the report model at approximately USD 993 million in 2025, supported by dense cargo corridors and the world's largest concentration of automated terminal investment.",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   },
+   {
+    "quote": "China reported port investment of CNY 122.3 billion in January-November 2024, highlighting the capital backing needed to pair smart software with modern terminal infrastructure.",
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.7",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "スマートポート市場は、2023年の180.2億米ドルから2032年には450億米ドルに成長すると予測されており、年平均成長率（CAGR）は10.7%です"
+   },
+   {
+    "value": "10.72",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "スマートポート市場の予測期間2025年から2035年のCAGRは10.72%です"
+   },
+   {
+    "value": "27.8",
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "quote": "スマートポート市場規模は2025年の35億ドルから2035年には407億ドルに拡大すると予想されており、年平均成長率は27.8%となる見込みです"
+   },
+   {
+    "value": "19.78",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "quote": "スマートポート市場は、2025年には44.9億米ドルと評価され、2030年までに110.6億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は19.78%です"
+   },
+   {
+    "value": "6.5",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "quote": "2026年〜2033年のデジタルヘルス市場の展望：市場規模、シェア、潜在成長率、収益、および売上動向（現在の年平均成長率（CAGR）は6.5%）"
+   },
+   {
+    "value": "22.5",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "quote": "2025年の31億3,000万米ドルから2026年には38億3,000万米ドルへと、CAGR22.5％で成長が見込まれております"
+   },
+   {
+    "value": "21.6",
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "quote": "2030年には83億7,000万米ドルに達し、CAGRは21.6％となる見込みです"
+   },
+   {
+    "value": "34.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "quote": "CAGR of 34.3% from 2026 to 2033"
+   },
+   {
+    "value": "24.46",
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "quote": "CAGR of 24.46%"
+   },
+   {
+    "value": "24.24",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "quote": "CAGR of 24.24% during 2022-2028"
+   },
+   {
+    "value": "23.9",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "quote": "size was valued at USD 3.31 Billion in 2025 and the total Smart Ports revenue is expected to grow at a CAGR of 23.9% from 2026 to 2032, reaching nearly USD 14.85 Billion by 2032."
+   },
+   {
+    "value": "23.9",
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "quote": "“Global Smart Port Market to reach a market value of USD 11.85 Billion by 2032 growing at a CAGR of 23.9%”"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "40",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "この地域は、世界のシェアの約40%を占める最大の市場であり、次いでヨーロッパが約30%を占めています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "この地域は、世界のシェアの約40%を占める最大の市場であり、次いでヨーロッパが約30%を占めています"
+   },
+   {
+    "value": "25",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "この地域は、世界の市場シェアの約25%を占めており、中国が最大の貢献者であり、特に上海港を通じてその影響を及ぼしています"
+   },
+   {
+    "value": "5",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "この地域は、世界の市場シェアの約5%を占めており、UAEがドバイ港を通じてリードしています"
+   },
+   {
+    "value": "80",
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "quote": "Coverage of technology providers and port authorities representing 75-80% of global market share in 2024"
+   },
+   {
+    "value": "37.1",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "quote": "* 技術別: 2024年にはIoTがスマートポート市場シェアの37.1%を占め、デジタルツインプラットフォームは2030年までに27.5%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "27.5",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "quote": "* 技術別: 2024年にはIoTがスマートポート市場シェアの37.1%を占め、デジタルツインプラットフォームは2030年までに27.5%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "44.4",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "quote": "* アプリケーション別: スマートターミナル自動化が2024年の市場規模の44.4%を占め、スマートエネルギーおよび環境ソリューションは2030年までに24.2%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "24.2",
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "quote": "* アプリケーション別: スマートターミナル自動化が2024年の市場規模の44.4%を占め、スマートエネルギーおよび環境ソリューションは2030年までに24.2%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "6.5",
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "quote": "2026年〜2033年のデジタルヘルス市場の展望：市場規模、シェア、潜在成長率、収益、および売上動向（現在の年平均成長率（CAGR）は6.5%）"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "quote": "貨物取扱機器部門では、45%を超える市場シェアを保有し、2034年までのUSD 17.8億を越えることが期待されています"
+   },
+   {
+    "value": "54",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "quote": "ディーゼル部門では、2024年に54%の市場会計を占める"
+   },
+   {
+    "value": "48",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "quote": "マニュアルセグメントは、2024年に48%の市場シェアを保持しました"
+   },
+   {
+    "value": "41",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "quote": "一緒に、彼らは、ポート機器市場で41%の市場シェアを保持しています"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "38.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "quote": "By technology: Process automation segment dominated the market, with a revenue share of 38.1% in 2025."
+   },
+   {
+    "value": "55.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "quote": "By throughput capacity: Extensively busy segment held the largest market share of 55.3% in 2025."
+   },
+   {
+    "value": "82.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "quote": "By type: Seaport segment held the largest revenue share of 82.1% in 2025."
+   },
+   {
+    "value": "39.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "quote": "Asia Pacific dominant with a 39.3% market share in 2025."
+   },
+   {
+    "value": "45",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "quote": "The extensively busy segment held more than 45% share of the market in 2021 and is expected to remain dominant during the forecast period."
+   },
+   {
+    "value": "30",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "quote": "The process automation segment held more than 30% of market share in 2021 and is expected to grow at the highest rate during the assessment period."
+   },
+   {
+    "value": "35",
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "quote": "Asia-Pacific held more than 35% market share in 2021 and is estimated to be the largest market during the forecast period"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/smart-port-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4-112364",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9740148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mic-r.co.jp/mr/03440/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3794?srsltid=AYCX9vIMCdWlj_cWb6RveNEjbHoqrdtULvuxh53QXkbswW0wu2Klo_ox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0%E5%B8%82%E5%A0%B410%E5%A4%A7%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/6623034",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9728901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2881242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/smart-ports-market-165784113.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/smart-port-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/smart-port-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/uk",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/smart-ports-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ie.uh.edu/sites/ie/files/faculty/glim/IJST-SmartPort-small.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sdmmag.com/articles/101825-smart-ports-market-to-reach-16b-by-2033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2071-1050/18/6/2770",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://repositorium.uminho.pt/server/api/core/bitstreams/039b7c8f-43aa-45e7-a82b-1c14146a4235/content",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated_(band)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/consolidated",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kbvresearch.com/smart-port-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369708/0/en/2026-smart-ports-market-report-global-forecast-to-2036.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/global-smart-ports-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "スマートポート 市場規模 CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/smart-port-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4-112364",
+    "https://jp.linkedin.com/pulse/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88-market-insights%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%8E%A8%E5%AE%9Acagr%E3%81%AF71-rq2re",
+    "https://www.sphericalinsights.com/jp/reports/north-america-smart-port-market",
+    "https://www.marketresearchfuture.com/ja/reports/smart-port-market-29632",
+    "https://mrctechblogs.inkrich.com/posts/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E5%85%B1%E6%9C%89%E5%85%B1%E6%9C%89",
+    "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "https://aimedia.maritime-pedia.com/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E7%AE%A1%E7%90%86%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026-2033%E5%B9%B4%EF%BC%9A%E5%B8%82%E5%A0%B4/",
+    "https://www.kingsresearch.com/ja/smart-port-market-1346",
+    "https://www.fortunebusinessinsights.com/jp/スマートポート市場-112364"
+   ]
+  },
+  {
+   "query": "スマートポート 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9D%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4-112364",
+    "https://www.mordorintelligence.com/ja/industry-reports/smart-port-market",
+    "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "https://press462.inkrich.com/posts/smart-ports-management-486109-mv3zs27l",
+    "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "https://newscast.jp/smart/news/9740148",
+    "https://www.gminsights.com/ja/industry-analysis/port-equipment-market",
+    "https://www.atpress.ne.jp/news/8160413",
+    "https://pando.life/article/4753605",
+    "https://www.fortunebusinessinsights.com/jp/スマートポート市場-112364"
+   ]
+  },
+  {
+   "query": "スマートポート 市場 前年比 2025",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/smart-port-market",
+    "https://www.marketresearch.co.jp/insights/smart-port-market-mordor/",
+    "https://mic-r.co.jp/mr/03440/",
+    "https://www.yano.co.jp/press-release/show/press_id/3794?srsltid=AYCX9vIMCdWlj_cWb6RveNEjbHoqrdtULvuxh53QXkbswW0wu2Klo_ox",
+    "https://baike.baidu.com/ja/item/2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0%E5%B8%82%E5%A0%B410%E5%A4%A7%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/6623034",
+    "https://www.gii.co.jp/report/tbrc1977458-smart-ports-global-market-report.html",
+    "https://newscast.jp/smart/news/9728901",
+    "https://www.atpress.ne.jp/news/2881242",
+    "https://it.impress.co.jp/articles/-/27960",
+    "https://www.globalresearch.co.jp/smart-port-market/"
+   ]
+  },
+  {
+   "query": "smart port market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "https://www.marketsandmarkets.com/Market-Reports/smart-ports-market-165784113.html",
+    "https://www.mordorintelligence.com/industry-reports/smart-port-market",
+    "https://www.precedenceresearch.com/smart-port-market",
+    "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "https://www.marketdataforecast.com/market-reports/smart-port-market",
+    "https://www.linkedin.com/pulse/smart-port-service-market-cagr-size-regional-growth-my21f",
+    "https://www.imarcgroup.com/smart-port-market",
+    "https://www.expertmarketresearch.com/reports/smart-ports-market"
+   ]
+  },
+  {
+   "query": "smart port market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/smart-port-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/uk",
+    "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "https://www.stratviewresearch.com/market-reports/smart-ports-market.html",
+    "https://www.linkedin.com/pulse/smart-port-service-market-share-ranking-key-companies-graventoc-pjpue",
+    "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "https://www.ie.uh.edu/sites/ie/files/faculty/glim/IJST-SmartPort-small.pdf",
+    "https://www.sdmmag.com/articles/101825-smart-ports-market-to-reach-16b-by-2033",
+    "https://www.kbvresearch.com/smart-port-market/"
+   ]
+  },
+  {
+   "query": "smart port market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "https://www.mordorintelligence.com/industry-reports/smart-port-market",
+    "https://www.maximizemarketresearch.com/market-report/global-smart-ports-market/32861/",
+    "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/uk",
+    "https://www.stratviewresearch.com/market-reports/smart-ports-market.html",
+    "https://www.linkedin.com/pulse/evaluating-profitability-growth-japan-smart-ports-market-rqove",
+    "https://www.mdpi.com/2071-1050/18/6/2770",
+    "https://repositorium.uminho.pt/server/api/core/bitstreams/039b7c8f-43aa-45e7-a82b-1c14146a4235/content",
+    "https://en.wikipedia.org/wiki/Consolidated"
+   ]
+  },
+  {
+   "query": "smart port market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/smart-port-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/us",
+    "https://www.mordorintelligence.com/industry-reports/smart-port-market",
+    "https://www.fortunebusinessinsights.com/smart-ports-market-112364",
+    "https://www.kbvresearch.com/smart-port-market/",
+    "https://www.marketresearchfuture.com/reports/smart-port-market-29632",
+    "https://www.precedenceresearch.com/smart-port-market",
+    "https://www.linkedin.com/pulse/smart-port-service-market-share-ranking-key-companies-graventoc-pjpue",
+    "https://www.globenewswire.com/news-release/2026/09/28/3369708/0/en/2026-smart-ports-market-report-global-forecast-to-2036.html",
+    "https://www.kenresearch.com/industry-reports/global-smart-ports-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

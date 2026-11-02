@@ -1,0 +1,1985 @@
+{
+ "name": "放射線遮蔽材料",
+ "en": "radiation shielding materials",
+ "aliases": [
+  "radiation shielding",
+  "遮蔽材"
+ ],
+ "context": "宇宙・医療・原子力",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:17:09.852323+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の放射線遮蔽材市場規模は、2025年には17億1000万米ドルと評価され、2026年の18億2000万米ドルから2034年には30億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）6.6%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "X線遮蔽材の世界市場（2026年～2032年）、市場規模（従来型鉛シールド、鉛複合シールド、鉛フリーシールド）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "X線遮蔽材の世界市場（2026年～2032年）、市場規模（従来型鉛シールド、鉛複合シールド、鉛フリーシールド）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "世界のX線遮蔽材市場規模は、2025年の2億1,700万米ドルから2032年には2億7,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別の世界市場規模予測（販売量と年間収益）、米州、アジア太平洋地域、欧州、中東およびアフリカの国/地域別予測、そしてタイプ別およびアプリケーション別のX線遮蔽材の世界予測が詳細に記載されています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "YH Researchによるとのグローバル柔軟な放射線遮蔽材の市場は2024年の72.6百万米ドルから2031年には90.4百万米ドルに成長し、2025年から2031年の間にCAGRは3.6%になると予測されている",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "１.市場規模と予測データ：世界の柔軟な放射線遮蔽材市場に関する過去データ（2020～2025年）および将来予測データ（2026～2031年）を提供し、市場の成長と規模を明確に示します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 グローバル柔軟な放射線遮蔽材の市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.1 売上別のグローバル柔軟な放射線遮蔽材の市場規模（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.2 販売量別のグローバル柔軟な放射線遮蔽材の市場規模（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 中国柔軟な放射線遮蔽材の市場規模・予測",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 売上別の中国柔軟な放射線遮蔽材市場規模（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売量別の中国柔軟な放射線遮蔽材市場規模（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 柔軟な放射線遮蔽材の市場規模、中国VS世界（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材料市場は2024-2029年に3億9,010万米ドル、予測期間中のCAGRは7.4％で成長すると予測されます",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、放射線遮蔽材料市場の全体的な分析、市場規模・予測、動向、成長促進要因、課題、約25のベンダーを網羅したベンダー分析などを掲載しています",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 市場規模",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模実績",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場は、2024年に7億6,536万米ドルと評価され、2025年には8億1,274万米ドルに成長し、CAGR 6.65％で推移し、2032年までに12億8,183万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "マルチモダリティ美容プラットフォームの市場規模、シェアおよび動向分析レポート：製品別、用途別、最終用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場規模、シェア、成長分析：材料タイプ別、用途別、形態別、最終用途産業別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療用放射線遮蔽市場：製品タイプ別、素材別、ソリューション別、エンドユーザー別、国別、地域別―世界の業界分析、市場規模、市場シェアおよび2026年から2033年までの予測",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "EMIシールド材料市場規模、シェアおよび予測、2026～2033年",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "EMI シールド材料の市場規模と動向: 2026 ～ 2033 年",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "EMI シールド材料市場は、2026 年に",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アジアパシフィック市場は、エレクトロニクス製造の需要増加、中国、日本、インド、韓国などの国における自動車電子機器の5Gインフラ開発、および消費者の需要増加による最速成長市場であることを期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "EMI遮蔽材料の米国市場は、増加する5Gネットワーク、コンシューマーエレクトロニクス、自動車、防衛分野におけるEMIシールドの必要性のために牽引を得ています",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コンポーネントの洞察(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "適用 洞察(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域インサイト(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "EMIシールド材料市場は、2026年にUSD 10.56 Bnで評価され、2033年までにUSD 15.54 Bnに達すると予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "EMIシールド材料市場は2026年から2033年にかけて5.7%となる予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "核放射線遮蔽材の世界市場（2026年～2032年）、市場規模（従来の鉛遮蔽材、鉛複合遮蔽材、鉛フリー遮蔽材）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "核放射線遮蔽材の世界市場（2026年～2032年）、市場規模（従来の鉛遮蔽材、鉛複合遮蔽材、鉛フリー遮蔽材）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核放射線遮蔽材市場規模は、2025年の5,735万米ドルから2032年には7,377万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地理的地域別世界の歴史的核放射線遮蔽材レビュー」には、2021年から2026年までの地理的地域別および国/地域別の核放射線遮蔽材の歴史的な市場規模が詳細に記載されており、年間販売量と年間収益が示されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「地理的地域別世界の核放射線遮蔽材予測レビュー」には、2027年から2032年までの地理的地域別、国別（アメリカ地域、アジア太平洋地域、ヨーロッパ地域、中東およびアフリカ地域）、種類別、用途別の核放射線遮蔽材市場規模、年間収益に関する詳細な予測が提供されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "アルファベットの時価総額が「約76.8兆円」減少、米株市場で史上2番目の規模",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Radiation Shielding Market Size, Trends 2026-2035",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "放射線遮蔽材市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の放射線遮蔽材市場規模は、2025年には17億1000万米ドルと評価され、2026年の18億2000万米ドルから2034年には30億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場の規模は、2026年には18億2000万米ドルと評価され、2034年までに30億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.6%です",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）6.6%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のX線遮蔽材市場規模は、2025年の2億1,700万米ドルから2032年には2億7,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟な放射線遮蔽材市場、CAGR3.60%で成長し、2031年には90.4百万米ドル規模に",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "YH Researchによるとのグローバル柔軟な放射線遮蔽材の市場は2024年の72.6百万米ドルから2031年には90.4百万米ドルに成長し、2025年から2031年の間にCAGRは3.6%になると予測されている",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "５.主要生産地域のデータ：世界の柔軟な放射線遮蔽材市場における主要な生産地域、生産能力、生産量、前年比成長率に関する情報を提供します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：柔軟な放射線遮蔽材の世界の主要生産地域、パーセントとCAGR（2020～2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟な放射線遮蔽材市場、CAGR3.60%で成長し、2031年には90.4百万米ドル規模に | YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材料市場は2024-2029年に3億9,010万米ドル、予測期間中のCAGRは7.4％で成長すると予測されます",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 6.8%",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 7.4%",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場は、2024年に7億6,536万米ドルと評価され、2025年には8億1,274万米ドルに成長し、CAGR 6.65％で推移し、2032年までに12億8,183万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.65%です",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR) 2026 年から 2033 年までに 5.7%",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2026〜2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカ地域は依然として主要な採用地ですが、アジア太平洋地域は、電子機器の大規模な生産と5Gおよびスマートデバイスの増加による最高の成長率を表示することが期待されています",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核放射線遮蔽材市場規模は、2025年の5,735万米ドルから2032年には7,377万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "今出資すると4年後に約12倍になるという計算です",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Non-lead composites are projected to grow at about a 9.0% CAGR from 2026 to 2035, driven by environmental regulations restricting lead use in healthcare construction.",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Proton and heavy ion therapy is forecast to post the fastest segment CAGR of approximately 10.2% through 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Ambulatory surgery centers are expected to expand at a roughly 10.6% CAGR from 2026 to 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is projected to register the highest regional CAGR of about 7.8% through 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~7.8% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~6.2% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~7.1% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~5.8% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~6.0% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~8.5% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~7.4% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~5.9% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "The global radiation shielding materials market is projected to grow at a substantial CAGR of 3.3% over the coming years. The global Radiation Shielding Materials industry was estimated to be worth USD 254.3 million in 2022 and was expected to be worth USD 319.18 million by 2028.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.2.3 CAGR and Year-on-Year Growth",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.3.6 Segment CAGR and Growth Drivers",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.4.6 Segment CAGR and Growth Drivers",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.5.6 Segment CAGR and Growth Drivers",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "India basalt fiber market worth USD 50.7 million in 2025 is forecast to reach USD 115.5 million by 2035 at an 8.59% CAGR, led by rust-free reinforcement.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Australian technical foam for insulation, packaging and cushioning worth USD 425.0 million in 2025 will reach USD 646.3 million by 2035 at a 4.28% CAGR.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Australia high-temperature thermoplastics market worth USD 104.5 million in 2025 will reach USD 212.5 million by 2035 at a 7.39% CAGR on defense and mining use.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Australia honeycomb core materials market worth USD 100.5 million in 2025 will reach USD 228.9 million by 2035 at an 8.06% CAGR as defense work grows.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America textiles market worth USD 37.19 billion in 2025 is set to reach USD 78.40 billion by 2035 at a 7.70% CAGR, led by Brazil and Mexico nearshoring.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Concrete admixtures market valued at USD 21.35 billion in 2025, forecast to reach USD 35.87 billion by 2035 at a 5.33% CAGR as low-clinker cement lifts dosage.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2024-2025(%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.4%",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 7.4%",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Electromagnetic radiation - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Electromagnetic radiation - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Particle radiation - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "放射線遮蔽材市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、X線遮蔽材のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なX線遮蔽材市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、各プレーヤーが提供するX線遮蔽材製品、市場集中度分析（競争状況分析、CR3, CR5, CR10の集中度比率とその推移）、新製品と潜在的な新規参入者、および市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業分析として、MAVIG、Nelco Worldwide、Ets-Lindgrenなど、多数の企業の詳細な情報が掲載されています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要生産地域、消費地域、及び主要企業の生産・消費の観点から、市場動向を深く理解し、企業が新規市場の開拓や競争力強化に向けた戦略を立てるための有益な情報を提供します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国の柔軟な放射線遮蔽材市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析によるセグメント、ベンダー情勢が含まれています",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、国内サプライヤーの参入を迅速化する認定プログラムを正式に策定し、現実的な運用上のストレス条件下で新素材を検証するための加速試験プロトコルを取り入れることです",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーは、株式会社KGaA、北川インダストリーズ株式会社、レイドPlc、リーダーテック株式会社、PPGインダストリーズ株式会社、RTPカンパニー、Schaffner Holding AG、テックエッチング株式会社の3Mカンパニー、パクサーチョメリック株式会社、株式会社PPGインダストリーズ",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、加速する世界の放射線遮蔽材市場における主要企業の独自の立場をより深く理解するため、放射線遮蔽材のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、グローバル主要企業の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの核放射線遮蔽材の生産地域分布、販売地域、提供製品の種類、市場集中度分析（競争環境分析、CR3, CR5, CR10の集中度 (2024-2026年)）、新製品と潜在的参入企業、市場におけるM&A活動と戦略に関する情報も示されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要企業分析」には、John Caunt Scientific ltd.、Liberty Polyglas、King Plastic Corporation、Röchling SE & Co. KG、MarShield、RAY-BAR ENGINEERING CORP、Holtec Internationalといった主要企業それぞれについて、企業情報、核放射線遮蔽材の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要な事業概要、最新の動向に関する詳細な分析が収録されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "What are the major players planning for the future of the radiation shielding materials market?",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Shielding Materials Market Key Companies",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Shielding Materials Market Competitive Landscape",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Market Positioning",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.10 Competitive Landscape Summary",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.11 Regional Competitive Landscape",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Insights",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Thorough analysis of the market's competitive landscape and detailed information about companies",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14 Competitive Landscape",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14.2 Competitive Landscape",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Radiation Shielding Market: Competitive Landscape",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the leading players in the global medical radiation shielding market include;",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players leveraging the medical radiation shielding market growth?",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key strategies of major players",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zion Market Research is a leading market research organization offering industry expertise and scrupulous consulting services to clients for their business development. The reports and services offered by Zion Market Research are used by prestigious academic institutions, start-ups, and companies globally to measure and understand the changing international and regional business backgrounds.",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Protection Market Trends, Leading Companies, Company Revenue / Sales Performance, Procedure Volume, Healthcare Spending, Technology Adoption, Reimbursement Analysis, Competitive Landscape, and Growth Outlook",
+    "url": "https://www.precedenceresearch.com/radiation-protection-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America is expected to witness substantial growth in the market, driven by rapid industrialization and increasing healthcare expenditures. The growing awareness of radiation safety in medical and industrial sectors, coupled with supportive government initiatives, is propelling market growth and boosting adoption. Countries such as Brazil and Mexico are leading players in the region.",
+    "url": "https://www.precedenceresearch.com/radiation-protection-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the radiation protection market?",
+    "url": "https://www.precedenceresearch.com/radiation-protection-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the radiation protection market are Marswell Group of Companies, Mirion Technologies, Inc., Gaven Industries, Inc., Nelco, Inc., Marshield, Radiation Protection Product, Inc., Ultraray, Lemer Pax, Berthold Technologies GmbH & Co.KG, SDS Specialist Door Solutions, Esco Micro Pte. Ltd., MAVIG GmbH., Radiation Ltd., Burlington Medical, and Others.",
+    "url": "https://www.precedenceresearch.com/radiation-protection-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Radiation Shielding Material Market include",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Radiation Shielding Material Market?",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Radiation Shielding Material Market include Raytheon Technologies, L3Harris Technologies, and Babcock International Group.",
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Shielding Material Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Exhibit: Data Table: Emerging startups details)",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Identify racial solutions and innovation, connected to deep ecosystems of innovators, start-ups, academics, and strategic partners.",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space",
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Shielding for Space Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "アジア太平洋地域：インド、中国、日本、韓国の急速な成長",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド、日本、韓国などの国々は、新たな病院や診断センターの建設に多額の投資を行っており、放射線遮蔽材の需要が増加しています",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国/地域ごとの市場情報も詳細に説明されています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：X線遮蔽材の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域：中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋地域",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションはTechNavio（テクナビオ）の日本における正規代理店です",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "これはオリジナルレポートの日本語翻訳ページです",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アジアパシフィック市場は、エレクトロニクス製造の需要増加、中国、日本、インド、韓国などの国における自動車電子機器の5Gインフラ開発、および消費者の需要増加による最速成長市場であることを期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年7月、コヨ産業株式会社では、日本初の非燃性電磁干渉(EMI)シールドフィルムを屋外テント用途や過酷な産業環境向けに導入しました",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "産業・防衛用途向けEMI遮蔽材料の日本運転革新とは?",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、特に産業、防衛、電気通信アプリケーション向けに、EMI遮蔽材料市場で重要な革新者として誕生しています",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年7月、コヨ産業株式会社が日本で初めての非可燃性EMI遮蔽フィルムを発売しました",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本、オーストラリア、韓国、アセアン、アジアパシフィックの残り",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "日本マタイ株式会社 岡山事業所",
+    "url": "https://mono.ipros.com/cg1/%E9%81%AE%E8%94%BD%E6%9D%90%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "日本マタイ株式会社",
+    "url": "https://mono.ipros.com/cg1/%E9%81%AE%E8%94%BD%E6%9D%90%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章「アジア太平洋地域」には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の核放射線遮蔽材の販売量と収益、種類別および用途別の販売量に関する詳細なデータと分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：核放射線遮蔽材の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "環境負荷の少ない放射線遮蔽材USC、福島廃炉への投入を目指したクラウドファンディング | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN CAREER・Paid Program",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN Web-News | Forbes JAPAN編集部",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANを",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、日本原子力研究開発機構などでの実証試験をクリアし、大手電力会社へのテスト納品の段階にまで達しています",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "この投資型クラウドファンディングは、日本で唯一、財務省から認可を受けた「",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "「食べチョク」秋元里奈が見据える日本の農業の未来：クレイ勇輝",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "●（公財）日本防災協会認定品",
+    "url": "https://www.togawa.co.jp/products/rubber-sheets/1010.html",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽用ヘビーアロイ「壁ロイ」（KABELLOY）＜しゃへい材、おもり関連｜日本タングステン株式会社",
+    "url": "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "pass": 3
+   },
+   {
+    "quote": "電気接点材料＜電気接点関連｜日本タングステン株式会社 (nittan.co.jp)",
+    "url": "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本タングステンへのお問い合わせはこちら",
+    "url": "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本タングステン株式会社(Nippon Tungsten Co.,Ltd)",
+    "url": "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific (Japan, India, South Korea, China, South East Asia, and the Rest of Asia Pacific)",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.6.3 Japan",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US and Canada), Europe (France, Germany, Italy, and UK), APAC (China, India, and Japan), South America (Brazil), and Rest of World (ROW)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "US, Germany, Canada, Japan, China, Brazil, UK, France, Italy, and India",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "12.9 Japan - Market size and forecast 2024-2029",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Japan - Market size and forecast 2024-2029 ($ million)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Japan - Market size and forecast 2024-2029 ($ million)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Japan - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Japan - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "US, Germany, Canada, Japan, China, Brazil, UK, France, Italy, India",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kuraray Co., Ltd. (Japan)",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, France, United Kingdom, Italy, Spain, Rest of Europe), Asia Pacific (China, India, Japan, Rest of Asia-Pacific), Latin America (Brazil, Rest of Latin America), Middle East & Africa (South Africa, GCC Countries, Rest of MEA)",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, China, Japan, India, South Korea, France, Italy, Germany, United Kingdom, Brazil, Argentina, Mexico, Israel, United Arab Emirates, Saudi Arabia",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.2.2 Japan",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "放射線遮蔽材市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場の規模、シェア、トレンド分析レポート：タイプ別（電磁放射線、粒子放射線）、材料別（鉛、タングステン、ビスマス、銅、スズ、ゴム、その他）、エンドユーザー別（医療、原子力発電、航空宇宙、産業用途、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に36.5%の市場シェアを占め、放射線遮蔽材市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の放射線遮蔽材市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、伝統的な鉛遮蔽材、鉛複合遮蔽材、非鉛遮蔽材といったタイプ別のX線遮蔽材セグメント、および発電、医療、その他のアプリケーション別のX線遮蔽材セグメントについて、それぞれの販売量、収益、市場シェア、販売価格が2021年から2026年の期間で詳細に分析されています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格が提供されています",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月6日に、YH Research株式会社（本社：東京都中央区）が発行した「グローバル柔軟な放射線遮蔽材のトップ会社の市場シェアおよびランキング 2025」によると、本調査レポートでは、柔軟な放射線遮蔽材市場の現状、定義、分類、用途、産業チェーン構造を総合的に分析し、開発方針、製造プロセス、コスト構造についても詳細に説明します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "２.会社別の売上と市場シェア：世界の柔軟な放射線遮蔽材会社別の売上、価格、市場シェア、業界ランキングを提供します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国の柔軟な放射線遮蔽材市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界柔軟な放射線遮蔽材の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国柔軟な放射線遮蔽材の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 世界における中国柔軟な放射線遮蔽材の市場シェア",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.1 世界における売上別の中国柔軟な放射線遮蔽材市場シェア（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 世界市場における販売量別の中国柔軟な放射線遮蔽材市場シェア（2020-2031）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "2 世界主要会社市場シェアとランキング",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "2.1 会社別の世界柔軟な放射線遮蔽材売上の市場シェア（2020-2025）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "2.2 会社別の世界柔軟な放射線遮蔽材販売量の市場シェア（2020-2025）",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析, 2024",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療用放射線遮蔽：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "マルチモダリティ美容プラットフォームの市場規模、シェアおよび動向分析レポート：製品別、用途別、最終用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場規模、シェア、成長分析：材料タイプ別、用途別、形態別、最終用途産業別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療用放射線遮蔽市場の規模、シェア、成長分析：製品別、材質別、ソリューション別、エンドユーザー別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療用放射線遮蔽市場：製品タイプ別、素材別、ソリューション別、エンドユーザー別、国別、地域別―世界の業界分析、市場規模、市場シェアおよび2026年から2033年までの予測",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "EMIシールド材料市場規模、シェアおよび予測、2026～2033年",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションに基づくと、家電部門は 2026 年に約 38% のシェアを獲得して市場を支配すると予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域別に見ると、北米は 2026 年に 46% のシェアを獲得し、Emi シールド材料市場をリードすると予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コンポーネントに基づき、導電性コーティングおよび塗料セグメントは2026年に約34%の市場シェアを占める",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントは、2026年の約38%の最大の市場シェアのアカウントに予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2026年にEMI遮蔽材料のリーディングマーケットであり、市場シェアは46%となりました",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、種類別（従来の鉛遮蔽、鉛複合遮蔽、鉛フリー遮蔽）の核放射線遮蔽材セグメントの詳細分析が示され、2021年から2026年までの種類別の販売市場シェア、収益と市場シェア、販売価格が提供されます",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（発電、医療、その他）の核放射線遮蔽材セグメントについても、2021年から2026年までの用途別の販売市場シェア、収益と市場シェア、販売価格が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「企業別グローバル分析」には、企業別の核放射線遮蔽材の年間販売量と販売市場シェア（2021-2026年）、年間収益と収益市場シェア（2021-2026年）、販売価格が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "Hospitals accounted for an estimated 66% of the medical radiation shielding market size in 2025.",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. dominates the North American medical radiation shielding market, driven by over 4,000 operational radiation therapy centers and the world's densest network of PET-CT scanners. Federal investment through the DOE Isotope Program and NIH-funded proton research centers at institutions like the Mayo Clinic and MD Anderson sustain a steady pipeline of high-value shielding contracts",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~76% market share (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "~66% market share (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 75-80% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, the acoustic radiation segment accounted for the largest revenue share of the market due to the increasing demand for noise reduction and control in industries such as construction, automotive, and aerospace.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, the lead material segment was anticipated to hold a prominent global radiation shielding materials market share. Due to its high density, lead is an effective absorber of gamma rays and x-rays. It is a common material for radiation shielding in different settings, such as medical facilities, industrial areas, and",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The acoustic radiation segment had a major global market share in 2022.",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.11 Regional Supply and Demand Concentration",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.9 Supplier Concentration and Risk",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.1 Segmentation Summary and Market Shares",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.3.5 Base-Year Market Share",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.4.5 Base-Year Market Share",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.5.5 Base-Year Market Share",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.2 Market Structure and Concentration",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.3 Market Share and Competitive Positioning",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "18.2.7 Market Share and Competitive Position",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Type - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Type - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Material - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "放射線遮蔽材市場 の 規模 、シェア、 成長率 （2034年まで） — 放射線遮蔽材市場 の 規模 、シェア、 成長率 （2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "X線 遮蔽材 の世界 市場 （2026年～2032年） - Newscast.jp — X線 遮蔽材 の世界 市場 （2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟な 放射線遮蔽材市場 、CAGR3.60%で 成長 し - アットプレス — 柔軟な 放射線遮蔽材市場 、CAGR3.60%で 成長 し - アットプレス アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場 の規模、シェア、成長率（2034年まで） — 放射線遮蔽材市場 の規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟な 放射線遮蔽材市場 、CAGR3.60%で成長し - アットプレス — 柔軟な 放射線遮蔽材市場 、CAGR3.60%で成長し - アットプレス アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材料 の世界 市場 2025-2029 - Newscast.jp — 放射線遮蔽材料 の世界 市場 2025-2029 - Newscast.jp Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場 規模、シェア、レポート、2035年 — 放射線遮蔽材市場 規模、シェア、レポート、2035年 Market Reports World https://www.marketreportsworld.com > Home > サービス",
+    "url": "https://www.marketreportsworld.com/jp/market-reports/radiation-shielding-materials-market-14730223",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材市場 | 市場 規模 分析 予測 2026-2032年 【 市場 ... — 放射線遮蔽材市場 | 市場 規模 分析 予測 2026-2032年 【 市場 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > 市場調査レポート > 医療機器",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材料市場 規模とシェアレポート、2035年 — 放射線遮蔽材料市場 規模とシェアレポート、2035年 Business Research Insights https://www.businessresearchinsights.com > ... > 情報技術",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/radiation-shielding-materials-market-129827",
+    "pass": 3
+   },
+   {
+    "quote": "遮蔽材料 - メーカー・ 企業 7社の業務用製品ランキング — 遮蔽材料 - メーカー・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 遮蔽材料",
+    "url": "https://mono.ipros.com/cg1/%E9%81%AE%E8%94%BD%E6%9D%90%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽材 市場の規模、シェア、成長率（2034年まで） — 放射線遮蔽材 市場の規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "核 放射線遮蔽材 の世界市場（2026年～2032年） - アットプレス — 核 放射線遮蔽材 の世界市場（2026年～2032年） - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "pass": 3
+   },
+   {
+    "quote": "X線 遮蔽材 の世界市場（2026年～2032年） - Newscast.jp — X線 遮蔽材 の世界市場（2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Radiation Shielding Market Size , Trends 2026-2035 — Medical Radiation Shielding Market Size , Trends 2026-2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Shielding Material Market Size 2025 -2029 — Radiation Shielding Material Market Size 2025 -2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Radiation Shielding Market Size Is Valued At USD 3.2 ... — Medical Radiation Shielding Market Size Is Valued At USD 3.2 ... Yahoo Finance https://finance.yahoo.com > news > m...",
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "pass": 3
+   },
+   {
+    "quote": "Radiation Shielding Material Market Size 2025-2029 — Radiation Shielding Material Market Size 2025-2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Radiation Shielding Market Size, Share, Forecast, 2034 — Medical Radiation Shielding Market Size, Share, Forecast, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/medical-radiation-shielding-market-101052",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "1口あたりの出資金は25万円となっています",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": "今出資すると4年後に約12倍になるという計算です",
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "pass": 3
+   },
+   {
+    "quote": ". Each hot cell and cyclotron vault requires heavily shielded enclosures rated for high-energy gamma and neutron emissions. Similar investments are underway in the Netherlands (SHINE Medical Technologies), Australia (ANSTO), and South Korea (KAERI), collectively adding dozens of new shielded production suites to the global installed base by 2028 .",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "India’s National Health Mission is aiming for 1.5 new district hospital oncology wings per state each year till 2030, and Saudi Arabia’s Vision 2030 healthcare pillar is funding 22 specialized medical cities",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. dominates the North American medical radiation shielding market, driven by over 4,000 operational radiation therapy centers and the world's densest network of PET-CT scanners. Federal investment through the DOE Isotope Program and NIH-funded proton research centers at institutions like the Mayo Clinic and MD Anderson sustain a steady pipeline of high-value shielding contracts",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "pass": 3
+   },
+   {
+    "quote": "4.9 Government and Private Sector Investment Trends",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.3 Infrastructure and Investment Drivers",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 New Capacity and Investment Hotspots",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.6 End-Use Industry Investment Priorities",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.10 Regional Investment, Policy and Supply Chain Differences",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.5 Innovation Pipeline and R&D Investment",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.4 Technology Investment and Product Differentiation",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "18.2.6 Financial Performance and Investment",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sweden's Texray secured an investment of € 3.9 million to enhance radiation protection for medical practitioners with advanced textile solutions.",
+    "url": "https://www.precedenceresearch.com/radiation-protection-market",
+    "pass": 3
+   },
+   {
+    "quote": "is the largest contributor to North America's radiation shielding material market, driven by its extensive healthcare infrastructure and significant investments in nuclear energy and defense sectors. The U.S. performs over 80 million CT scans annually, necessitating advanced shielding solutions to ensure patient and staff safety.",
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmic Shielding Corporation has raised $1.0M across 1 funding round.",
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "1 funding round",
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmic Shielding Corporation has raised $1.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Cosmic Shielding Corporation has raised $1.0M across 1 funding round. Most recently, it raised $1.0M Pre-Seed in May 2021.",
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "$1.0M raised",
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.6",
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "quote": "世界の放射線遮蔽材市場規模は、2025年には17億1000万米ドルと評価され、2026年の18億2000万米ドルから2034年には30億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです"
+   },
+   {
+    "value": "3.7",
+    "url": "https://newscast.jp/smart/news/9165216",
+    "quote": "世界のX線遮蔽材市場規模は、2025年の2億1,700万米ドルから2032年には2億7,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています"
+   },
+   {
+    "value": "3.60",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "quote": "柔軟な放射線遮蔽材市場、CAGR3.60%で成長し、2031年には90.4百万米ドル規模に"
+   },
+   {
+    "value": "3.6",
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "quote": "YH Researchによるとのグローバル柔軟な放射線遮蔽材の市場は2024年の72.6百万米ドルから2031年には90.4百万米ドルに成長し、2025年から2031年の間にCAGRは3.6%になると予測されている"
+   },
+   {
+    "value": "7.4",
+    "url": "https://newscast.jp/smart/news/5727321",
+    "quote": "放射線遮蔽材料市場は2024-2029年に3億9,010万米ドル、予測期間中のCAGRは7.4％で成長すると予測されます"
+   },
+   {
+    "value": "6.65",
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "quote": "放射線遮蔽材市場は、2024年に7億6,536万米ドルと評価され、2025年には8億1,274万米ドルに成長し、CAGR 6.65％で推移し、2032年までに12億8,183万米ドルに達すると予測されています"
+   },
+   {
+    "value": "3.7",
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "quote": "世界の核放射線遮蔽材市場規模は、2025年の5,735万米ドルから2032年には7,377万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています"
+   },
+   {
+    "value": "10.2",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "quote": "Proton and heavy ion therapy is forecast to post the fastest segment CAGR of approximately 10.2% through 2035."
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "quote": "Asia-Pacific is projected to register the highest regional CAGR of about 7.8% through 2035."
+   },
+   {
+    "value": "3.3",
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "quote": "The global radiation shielding materials market is projected to grow at a substantial CAGR of 3.3% over the coming years. The global Radiation Shielding Materials industry was estimated to be worth USD 254.3 million in 2022 and was expected to be worth USD 319.18 million by 2028."
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "quote": "CAGR of 7.4%"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "10.56",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "quote": "EMIシールド材料市場は、2026年にUSD 10.56 Bnで評価され、2033年までにUSD 15.54 Bnに達すると予想されます"
+   },
+   {
+    "value": "15.54",
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "quote": "EMIシールド材料市場は、2026年にUSD 10.56 Bnで評価され、2033年までにUSD 15.54 Bnに達すると予想されます"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/9165216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7128898",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/medical-radiation-shielding-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%8C%BB%E7%99%82%E6%94%BE%E5%B0%84%E7%B7%9A%E9%81%AE%E8%94%BD%E5%B8%82%E5%A0%B4-101052",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5727321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/radiation-shielding-materials-market-14730223",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/radiation-shielding-materials-market-129827",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%81%AE%E8%94%BD%E6%9D%90%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1949837",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/60510",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.togawa.co.jp/products/rubber-sheets/1010.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/radiation-protection-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/medical-radiation-shielding-market-101052",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/market-reports/radiation-shielding-materials-market-14730223",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/radiation-shielding-material-market-size-and-share.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shielddrivecenter.com/shield-seed-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/space_business/n/n09213c5d5b7f?hl=en",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "放射線遮蔽材料 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "https://newscast.jp/smart/news/9165216",
+    "https://www.atpress.ne.jp/news/7128898",
+    "https://www.mordorintelligence.com/ja/industry-reports/medical-radiation-shielding-market",
+    "https://jp.linkedin.com/pulse/%E6%94%BE%E5%B0%84%E7%B7%9A%E9%81%AE%E8%94%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%82%AF%E3%82%B9%E3%81%A8%E6%88%90%E9%95%B7%E8%A6%81%E5%9B%A0%E3%82%92%E5%88%86%E6%9E%90%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%9C%9F%E9%96%93%E3%82%92%E4%BA%88%E6%B8%AC%E3%81%99%E3%82%8B-barista-brand-bkuje",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%8C%BB%E7%99%82%E6%94%BE%E5%B0%84%E7%B7%9A%E9%81%AE%E8%94%BD%E5%B8%82%E5%A0%B4-101052",
+    "https://www.marketreportsworld.com/jp/market-reports/radiation-shielding-materials-market-14730223",
+    "https://www.sphericalinsights.com/jp/reports/radiation-shielding-materials-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/radiation-shielding-textile-market-100870",
+    "https://www.marketreport.jp/insight/radiation-shielding-material-market-mam/"
+   ]
+  },
+  {
+   "query": "放射線遮蔽材料 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "https://www.atpress.ne.jp/news/7128898",
+    "https://newscast.jp/smart/news/5727321",
+    "https://www.marketreportsworld.com/jp/market-reports/radiation-shielding-materials-market-14730223",
+    "https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/radiation-shielding-materials-market-129827",
+    "https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "https://www.databridgemarketresearch.com/jp/reports/global-equated-monthly-installment-emi-shielding-market",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E7%A3%81%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E5%B8%82%E5%A0%B4-109431",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "放射線遮蔽材料 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg1/%E9%81%AE%E8%94%BD%E6%9D%90%E6%96%99/",
+    "https://straitsresearch.com/jp/report/radiation-shielding-material-market",
+    "https://www.atpress.ne.jp/news/1949837",
+    "https://newscast.jp/smart/news/9165216",
+    "https://forbesjapan.com/articles/detail/60510",
+    "https://www.togawa.co.jp/products/rubber-sheets/1010.html",
+    "https://www.nittan.co.jp/products/kabelloy_001_009.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/medical-radiation-shielding-market",
+    "https://www.marketreportsworld.com/jp/market-reports/radiation-shielding-materials-market-14730223",
+    "https://www.gii.co.jp/report/smrc2169701-spacecraft-radiation-shielding-materials-market.html"
+   ]
+  },
+  {
+   "query": "radiation shielding materials market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461",
+    "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "https://finance.yahoo.com/news/medical-radiation-shielding-market-size-182400477.html",
+    "https://www.precedenceresearch.com/radiation-protection-market",
+    "https://www.marketsandmarkets.com/Market-Reports/emi-shielding-market-105681800.html",
+    "https://www.linkedin.com/pulse/radiation-protection-materials-market-analysis-from-ljrle",
+    "https://straitsresearch.com/report/radiation-shielding-material-market",
+    "https://www.cognitivemarketresearch.com/radiation-shielding-materials-market-report",
+    "https://dataintelo.com/report/radiation-shielding-material-market"
+   ]
+  },
+  {
+   "query": "radiation shielding materials market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/radiation-shielding-material-market-23442",
+    "https://www.credenceresearch.com/report/radiation-shielding-materials-market",
+    "https://www.linkedin.com/pulse/united-states-radiation-shielding-material-q81df",
+    "https://www.skyquestt.com/report/radiation-shielding-material-market",
+    "https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis",
+    "https://www.fortunebusinessinsights.com/industry-reports/medical-radiation-shielding-market-101052",
+    "https://www.marketreportsworld.com/market-reports/radiation-shielding-materials-market-14730223",
+    "https://www.marketsandmarkets.com/ResearchInsight/radiation-shielding-material-market-size-and-share.asp",
+    "https://www.linkedin.com/pulse/regional-segment-trends-radiation-shielding-materials-market-o7nof",
+    "https://straitsresearch.com/report/radiation-shielding-material-market"
+   ]
+  },
+  {
+   "query": "radiation shielding materials startup funding 2025",
+   "results": [
+    "https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/",
+    "https://startupintros.com/orgs/cosmic-shielding-corporation",
+    "https://dataintelo.com/report/radiation-shielding-for-space-market",
+    "https://shielddrivecenter.com/shield-seed-funding/",
+    "https://note.com/space_business/n/n09213c5d5b7f?hl=en",
+    "https://www.precedenceresearch.com/radiation-protection-market",
+    "https://evtoday.com/news/rampart-ic-secures-financing-to-expand-radiation-protection-portfolio",
+    "https://science.nasa.gov/researchers/sara/grant-solicitations/",
+    "https://f4.fund/startups/cosmicshielding",
+    "https://fundediq.co/cosmic-shielding-corporation-cosmicshielding-com-funding/"
+   ]
+  }
+ ],
+ "missing": {}
+}

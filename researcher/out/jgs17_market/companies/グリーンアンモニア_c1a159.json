@@ -1,0 +1,1998 @@
+{
+ "name": "グリーンアンモニア",
+ "en": "green ammonia",
+ "aliases": [
+  "燃料アンモニア",
+  "アンモニア発電"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:52:38.010905+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "グリーンアンモニア市場は、CAGR約73.94%で急成長中、2035年に2,30,447.83百万米ドル規模に達する見込み",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模、シェア、競争環境、トレンド分析レポート、技術別、用途別、エンドユーザー別、販売チャネル別： 2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模とシェア：2026〜2035年レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場は2025年に5億米ドルと評価され、2026年には10.2億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, by Technology, 2025 & 2035 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のグリーンアンモニア市場は2025年に13.0%のシェアを占め、2035年には24.9億米ドルの売上高を生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のグリーンアンモニア市場は2025年に1億6,600万米ドルの売上高を生み出し、2035年には26.0%のシェアを占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋のグリーンアンモニア市場は、2035年までに売上高57億1,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）39.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカのグリーンアンモニア市場は、2025年に2,500万米ドルの売上高を計上し、2035年には8億9,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fertilizer Daily. \"Chile Approves $11 Billion HNH Energy Green Ammonia Project in Record Environmental Ruling.\" fertilizerdaily.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカのグリーンアンモニア市場は、2025年に22.0%のシェアを占め、2035年には23.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模は2025年に5億米ドルと推定され、2026年には10.2億米ドルに達すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場規模、シェア、トレンド分析レポート：タイプ別（液体、気体）、用途別（農業、繊維、鉱業、医薬品、冷凍、その他）、販売チャネル別（直接販売、流通）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアンモニア市場規模は、2025年には1,723億1,000万米ドルと評価され、2026年の1,854億1,000万米ドルから2034年には3,331億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "液状アンモニアは、2025年には世界のアンモニア市場において72.6%のシェアを占め、市場規模は1,251億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "農業分野は2025年に世界市場を席巻し、70.8%のシェアを占め、市場規模は1,220億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、アンモニアの世界市場において、直接販売チャネルが68.3%のシェアを占め、市場規模は1,176億9,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアンモニア市場は世界市場の47.2%を占め、2025年には813億3000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は2025年に407億6000万米ドル規模となり、選定されたアジア太平洋諸国の中で最大の貢献度を示した",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に138億4000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のアンモニア市場は世界市場の20.4%を占め、2025年には351億5000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.42%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年には301億2000万米ドル規模となり、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのグリーンアンモニア市場規模、成長、および2032年までの予測",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのグリーンアンモニア市場は0.4百万米ドルと評価され、再生可能エネルギーへの投資の増加により、予測期間（2024年～2032年）中に約101.5%の堅調なCAGRで成長すると予想されています",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの州が、2つの新しいグリーン水素ベースのアンモニアプラントへの20億ドル以上の投資を承認しました",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "1) グリーンアンモニア市場規模",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場に関する当社の調査レポートによると、市場は予測期間2025ー2035年中に年平均成長率（CAGR）6.39%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には、市場規模は179億米ドルに達すると見込まれています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は3億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "4) 日本のグリーンアンモニア市場規模:",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "日本のグリーンアンモニア市場は、世界のグリーンアンモニア市場の5.2%を占めています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンアンモニア市場規模は、予測期間中に年平均成長率6.39%で成長し、2035年には179億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2025年のグリーンアンモニア市場規模は適度なペースで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 グリーンアンモニア市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "「グリーンアンモニア市場規模、成長、シェアレポート＆競争環境2030」は、グリーンアンモニア市場の包括的な分析を提供しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場は、2025年には0.27百万トンと推定され、2030年には5.41百万トンに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は82.47%という驚異的な成長が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2030年にかけて、年平均成長率（CAGR）82.47%という驚異的な速度で拡大し、0.27百万トンから5.41百万トンに達すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（数量）",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "鉛市場規模・シェア分析ー成長トレンドと予測 (2026年～2031年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電動手術器具市場規模（2024～2032年）：製品別（ハンドピース、アクセサリー）、用途別、電源別、エンドユーザー別",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "カンナビジオール（CBD）オイル市場規模・シェア分析 – 成長動向と予測（2025年～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライアイ治療機器市場規模と展望、2025-2033年",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: グリーンアンモニアの世界市場：技術別、生産方法別、用途別、エンドユーザー別、国別、地域別 - 産業分析、市場規模、市場シェア、予測（2025年～2032年）",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニアの世界市場：技術別、生産方法別、用途別、エンドユーザー別、国別、地域別 - 産業分析、市場規模、市場シェア、予測（2025年～2032年）",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market, By Technology, By Production Method, By Application, By End-User, By Country, and By Region - Global Industry Analysis, Market Size, Market Share & Forecast from 2025-2032",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンアンモニアの市場規模は、2024年に2億9,189万米ドルとなり、2025年～2032年に67.98%のCAGRで拡大する見込みです",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストが共有した分析によると、世界市場は予測期間（2025～2032年）に約67.98％のCAGRで毎年成長すると推定されます",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は技術別に5つのカテゴリーに分けられ、アルカリ水電解（AWE）、プロトン交換膜（PEM）、固体酸化物電解（SOE）、光触媒合成、バイオマスガス化です",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は生産方法別に5つのカテゴリーに分けられ、電解ベース、バイオマスベース、メタン熱分解、熱化学サイクル、光化学プロセスです",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "グリーンアンモニア市場は、CAGR約73.94%で急成長中、2035年に2,30,447.83百万米ドル規模に達する見込み",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "均成長率（CAGR）が 72.94％",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2022年の世界の再生可能エネルギー容量は3,372GW（2.79テラワット）であり、前年比9.6%の増加となりました",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は37.4%と見込まれ、2035年までに178.5億米ドルに達する予測である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "規制遵守の期限により、発表段階の新造船計画が確定的な燃料調達契約へと移行するにつれて、輸送・海運用途は2035年まで最も高い成長率を維持する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2029年のGMIの供給量拡大を支え、短期的に能力増強を主導する地域としてのアジア太平洋の役割を裏付ける",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "この時期、年間売上高の伸びは前年比3桁台から、2035年まで続く高い2桁台の成長へと落ち着く",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2028年に供給不足が生じるリスクにより、買い手は納期の長期化や引取プレミアムの上昇を受け入れざるを得ず、短期的な供給量の拡大が抑制される可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場のAWEセグメントは、2025年に62.0%のシェアを占め、2026〜2035年には年平均成長率（CAGR）33.3%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "SOEは2035年までに売上高10.7億米ドルを生み出すと予測され、2026〜2035年に年平均成長率（CAGR）42.9%で拡大する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送・海運は2025年に15.0%のシェアを占め、2026〜2035年に年平均成長率（CAGR）45.9%で成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアンモニア市場規模は、2025年には1,723億1,000万米ドルと評価され、2026年の1,854億1,000万米ドルから2034年には3,331億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアンモニア市場は世界市場の47.2%を占め、2025年には813億3000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のアンモニア市場は世界市場の20.4%を占め、2025年には351億5000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.42%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のアンモニア市場は世界市場の17.8%を占め、2025年には306億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は4.31%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域のアンモニア市場は、2025年には世界市場の9.1%を占め、総額156億8,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.74%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのグリーンアンモニア市場は0.4百万米ドルと評価され、再生可能エネルギーへの投資の増加により、予測期間（2024年～2032年）中に約101.5%の堅調なCAGRで成長すると予想されています",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 101.5%で加速",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのグリーンアンモニア市場は、2023年には0.4百万米ドルと評価され、再生可能エネルギーの拡大と政策支援に牽引され、2024年から2032年まで年平均成長率101.5%という目覚ましい成長が見込まれています",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場に関する当社の調査レポートによると、市場は予測期間2025ー2035年中に年平均成長率（CAGR）6.39%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2025ー2035年）",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に9.5%の年平均成長率（CAGR）で35%以上の市場シェアを占め、世界のグリーンアンモニア市場を牽引すると予想されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、持続可能な植物由来オメガ3の選択肢が拡大し、海洋オメガ3セクターにおける供給課題への対応が可能になります",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンアンモニア市場規模は、予測期間中に年平均成長率6.39%で成長し、2035年には179億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場は、2025年には0.27百万トンと推定され、2030年には5.41百万トンに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は82.47%という驚異的な成長が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場シェアでは、アプリケーション別では農業が87.96%を占め、2030年まで85.66%のCAGRで最も速く成長するセグメントです",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、欧州が35.89%の市場シェアを保持し、2030年まで87.18%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 海運におけるグリーン燃料を加速する脱炭素化政策: 国際海事機関（IMO）の2050年までに排出量を半減するという目標と、EUの炭素価格設定の拡大は、アンモニア燃料の採用を促進しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2030年にかけて、年平均成長率（CAGR）82.47%という驚異的な速度で拡大し、0.27百万トンから5.41百万トンに達すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、農業分野が2024年の需要の87.96%を占め、開発途上地域の食料安全保障プログラムに牽引され、85.66%のCAGRで最も急速に成長しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、欧州が2024年に35.89%の市場シェアを占め、87.18%という最も高い地域CAGRを記録し、市場を牽引しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンアンモニアの市場規模は、2024年に2億9,189万米ドルとなり、2025年～2032年に67.98%のCAGRで拡大する見込みです",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストが共有した分析によると、世界市場は予測期間（2025～2032年）に約67.98％のCAGRで毎年成長すると推定されます",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": " 燃料アンモニアの導入及び活用拡大に対応するために、昨年10月に官民で「燃料アンモニア導",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_006_03_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1. 燃料アンモニア導入・拡大に向けた４つの視点（安定確保、コスト低減、環境配慮、海外展開）を提示",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_006_03_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "的（～2050 年）には、アンモニア火力（専焼）の実用化・拡大、アジアのみならず世界全体に技術展",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_006_03_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．燃料アンモニアの導入・拡大に向けた技術的課題",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_006_03_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場2025年:世界の産業は2032年までに大幅なCAGRで成長すると予測されています | SkyQuest Technology and Consulting Pvt. Ltd.のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000314975",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場2025年:世界の産業は2032年までに大幅なCAGRで成長すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000314975",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニアの市場規模は2023年に3億米ドルと評価され、2024年の5億1,870万米ドルから2032年までに414億2,632万米ドルに成長し、予測期間（2025-2032）の間に72.9%のCAGRで成長する態勢を整えています",
+    "url": "https://www.dreamnews.jp/press/0000314975",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界グリーンアンモニア分析レポートによると、世界グリーンアンモニア市場規模は576.64百万ドルであり、将来的には8903.21百万ドルに達し、CAGRは57.80%です",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には販売量75.29万トン、売上高5.77億米ドル、平均価格約766米ドル/トンへ拡大すると予測される",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "2032年には販売量が1,349.62万トン、売上高が89.02億米ドルに達し、2026～2032年の販売量CAGRは61.78%、売上高CAGRは57.8%となる見通しである",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電由来グリーン水素は2026～2032年に63.24%の販売量CAGRが見込まれるが、2032年でも風力発電由来と風力・太陽光ハイブリッド由来がそれぞれ約38.52%、35.51%を占める見通しである",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "2026～2032年の販売量CAGRは発電が65.01%、船舶燃料が64.99%で、肥料の60.73%を上回るが、2032年でも肥料は世界販売量の約61.9%を占める見通しである",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、グリーンアンモニアの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、グリーンアンモニアの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2045",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2045年）中、年平均成長率（CAGR）5.2%で成長が見込まれます",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "pass": 3
+   },
+   {
+    "quote": "のアンモニア市場は、農業、水素貯蔵、その他産業における需要の増加を背景に、2026年から2045年にかけて年平均成長率（CAGR）5.9%で成長すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2045年）中、年平均成長率（CAGR）5.2%で拡大すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2025年~2033年）には、2025年に16億9000万米ドルから2033年に1682億米ドルに達し、CAGR 77.78%の成長が見込まれています",
+    "url": "https://www.marketresearch.co.jp/green-ammonia-market-2/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Policy alignment supports the GMI forecast inflection point between 2027 and 2030, where annual revenue growth normalizes from triple-digit YoY rates to sustained high-double-digit expansion through 2035",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 17.85 billion by 2035, growing at a CAGR of 37.4% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "グリーンアンモニア市場規模、シェア、競争環境、トレンド分析レポート、技術別、用途別、エンドユーザー別、販売チャネル別： 2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、水力発電は1,256GWで最大の割合（37%）を占めており、最も大きなシェアを持つ再生可能エネルギーとなっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア製造における主要コストの多く（約75%）は、天然ガスや石炭といった化石燃料が占めており、運用コストに大きく影響しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際再生可能エネルギー機関（IRENA）は、2050年までに世界のアンモニア需要が6億8,800万トンに達すると予測しており、その中でグリーンアンモニアは、海運業界の脱炭素化に貢献する主要な手段として重要な割合を占めると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニアは、2050年までに船舶燃料の約25%を占めると予想されており、このような見通しは、政府の支援によるグリーンアンモニア技術の革新から生まれる商業的機会の大きさを浮き彫りにしています",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年において、グリーンアンモニア市場ではアルカリ水電解セグメントが収益面で優位を占めました",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年において、グリーンアンモニア市場ではヨーロッパが収益面で優位を占めました",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模とシェア：2026〜2035年レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMOネットゼロ枠組みは、国際海運のCO₂排出量の85%を占める船舶に対し、GHG燃料強度の拘束力ある削減を課すもので、2027年に発効する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場のAWEセグメントは、2025年に62.0%のシェアを占め、2026〜2035年には年平均成長率（CAGR）33.3%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEMは2035年に85億6,000万米ドルの売上高を生み出すと予測され、2025年には34.0%のシェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "肥料・農業は2025年にグリーンアンモニア市場の45.0%を占め、2035年までに売上高53.5億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電・エネルギー貯蔵は2035年に30.0%のシェアを占めると予測され、2025年の売上高は1億2,600万米ドルであった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送・海運は2025年に15.0%のシェアを占め、2026〜2035年に年平均成長率（CAGR）45.9%で成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用原料は2025年に10.0%のシェアを占め、2035年までに売上高14.2億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の用途は2025年に5.0%のシェアを占め、2035年までに売上高7億1,400万米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場規模、シェア、トレンド分析レポート：タイプ別（液体、気体）、用途別（農業、繊維、鉱業、医薬品、冷凍、その他）、販売チャネル別（直接販売、流通）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に47.2%の市場シェアを占め、アンモニア市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "天然ガスはヨーロッパのアンモニア産業における主要なコスト要因であり、生産コストの約70～85%を占めています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "液体セグメントは2025年に72.6%のシェアを占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "液状アンモニアは、2025年には世界のアンモニア市場において72.6%のシェアを占め、市場規模は1,251億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "農業分野は2025年に市場シェア70.8%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "農業分野は2025年に世界市場を席巻し、70.8%のシェアを占め、市場規模は1,220億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ダイレクトセールスチャネルが市場シェア68.3%を占め、圧倒的なシェアを獲得する見込みです",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、アンモニアの世界市場において、直接販売チャネルが68.3%のシェアを占め、市場規模は1,176億9,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアンモニア市場は世界市場の47.2%を占め、2025年には813億3000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のアンモニア市場は世界市場の20.4%を占め、2025年には351億5000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.42%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のアンモニア市場は世界市場の17.8%を占め、2025年には306億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は4.31%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3：技術別に見たインドのグリーンアンモニアで最大のシェアを占めるセグメントはどれですか？",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "[最新リリース]グリーンアンモニア市場レポート：規模、シェア、需要傾向、メーカー分析 2025－2035年",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― アプリケーション別、生産技術別、エンドユーザー産業別、処方タイプ別、及び地域別―世界市場の見通しと予測 2025－2035年",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "日本のグリーンアンモニア市場は、世界のグリーンアンモニア市場の5.2%を占めています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）の報告書によると、グリーンアンモニアの生産は現在、最終エネルギー消費全体のわずか2%を占めています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、肥料は市場シェアの大部分を占めており、2035年までに52.3%を占めると予想されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、PEM電気分解が41.7%のシェアを占め、圧倒的なシェアを占めています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア合成プロセス（天然ガスを用いたハーバー ボッシュ法）に対する市場需要は、炭素集約度が非常に高く、世界のCO₂排出量の約2%を占めています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に9.5%の年平均成長率（CAGR）で35%以上の市場シェアを占め、世界のグリーンアンモニア市場を牽引すると予想されています",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場の製造シェアを独占する世界トップ10の企業は次のとおりです:",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "日本のグリーンアンモニア市場におけるメーカーシェアを独占するトップ10社は以下のとおりです:",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 グリーンアンモニア市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "「グリーンアンモニア市場規模、成長、シェアレポート＆競争環境2030」は、グリーンアンモニア市場の包括的な分析を提供しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場シェアでは、アプリケーション別では農業が87.96%を占め、2030年まで85.66%のCAGRで最も速く成長するセグメントです",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、欧州が35.89%の市場シェアを保持し、2030年まで87.18%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、農業分野が2024年の需要の87.96%を占め、開発途上地域の食料安全保障プログラムに牽引され、85.66%のCAGRで最も急速に成長しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、欧州が2024年に35.89%の市場シェアを占め、87.18%という最も高い地域CAGRを記録し、市場を牽引しています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 市場シェア(%)/ランキング分析",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバルレベルの概要、市場レベルの概要、コアセグメント、利用可能な財務情報、戦略情報、主要企業の市場ランク/シェア、製品&サービス、および最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "鉛市場規模・シェア分析ー成長トレンドと予測 (2026年～2031年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用プラスチック市場 規模・シェア分析：成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "カンナビジオール（CBD）オイル市場規模・シェア分析 – 成長動向と予測（2025年～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "エアピュリファイングスプレー市場の規模、シェアおよびトレンド分析レポート：タイプ別（アロマ、ノンアロマ）、エンドユーザー別（法人、家庭）、販売チャネル別（スーパーマーケット/ハイパーマーケット、リテール薬局、オンライン）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場の主要企業には、Yara International、CF Industries、Air Products & Chemicals、ACME Cleantech Solutions、thyssenkrupp Nuceraなどが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、CF Industries Holdings Inc.、Yara International、Togliattiazot、QAFCO、Koch Industries Inc.、SABIC、BASF SE、CSBP Limited、旭化成株式会社、EuroChem、IFFCO、OCI Global、Nutrien、三井化学などが挙げられる",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy、Yara International,、 ITM Power、Casale SA、ACME Groupなどが、世界のグリーンアンモニア市場で活動する主要企業です",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、 IHI Corporation、Mitsubishi Gas Chemical、Mizuho Bank、Sumitomo Corporation、JERA Co., Inc.などが、グリーンアンモニア市場において日本国内で活動する主要企業です",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "pass": 3
+   },
+   {
+    "quote": "レポートでは、ACME Group、AM Green、Casale SA、Engie SA、ENOWA、Fortescue、Greenko Group、Iberdrola, S.A.、ITM Power plc、KAPSOM plc、MAN Energy Solutions、Ocior、Ørsted AS、Proton Ventures、Siemens Energy、Technip Energies N.V.、thyssenkrupp Uhde GmbHなど、多数の主要企業のプロファイルも提供されています",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバルレベルの概要、市場レベルの概要、コアセグメント、利用可能な財務情報、戦略情報、主要企業の市場ランク/シェア、製品&サービス、および最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場は競争が激しく、主要企業は技術の進歩、戦略的パートナーシップ、大規模生産プロジェクトに注力しています",
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、グリーンアンモニアの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア市場の主要企業をいくつかご紹介します",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニア業界の主要企業は、エネルギー効率の向上と設備投資の削減を目的として、グリーンアンモニアの生産に再生可能エネルギーへの転換を進めています",
+    "url": "https://www.marketresearch.co.jp/green-ammonia-market-2/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場の主要企業一覧",
+    "url": "https://www.marketresearch.co.jp/green-ammonia-market-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in Green Ammonia Market?",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in Green Ammonia Market include Yara International, CF Industries, Air Products & Chemicals, ACME Cleantech Solutions, thyssenkrupp Nucera.",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the green ammonia market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in The Industry",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nel Hydrogen, Siemens Energy, MAN Energy Solutions, ThyssenKrupp AG, ITM Power PLC, Hydrogenics, Green Hydrogen Systems, McPhy Energy, Electrochaea, EXYTRON, AquaHydrex, Enapter, BASF SE, Yara International, ENGIE, Uniper, Haldor Topsoe, Starfire Energy, Queensland Nitrates Pty Ltd, Hiringa Energy, Other Key Players.",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, growing governmental & private expenditures & fast-falling cost of producing renewable power are the other aspects contributing in enhancing the Green Ammonia Market size. It, in turn, is also generating lucrative opportunities for the leading players to increase their production & distribution capacities and cater to the burgeoning demands worldwide. For instance:",
+    "url": "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Report by MarkNtel Advisors provides a detailed & thorough analysis of market size & share, growth rate, competitive landscape, and key players. This comprehensive analysis helps businesses gain a holistic understanding of the market dynamics & make informed decisions.",
+    "url": "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "), and leading players.",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Green Ammonia Market",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of key companies engaged in the green ammonia industry (",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed projections of the current and future market shares of the leading players engaged in the green ammonia market.",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players engaged in the production of green ammonia (which have also been captured in this market report, arranged in alphabetical order) include Aquamarine, Envision Technology Group, Fertiglobe, Helios Industry, Iberdrola, Sany Heavy Energy, Sonangol, TGS, The Hydrogen Utility™ (H2U), and Unigel.",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The global green ammonia market is highly fragmented, with major players such as Yara International ASA, CF Industries Holdings, Inc., BASF SE, Air Products and Chemicals, Inc., Siemens Energy AG, and Thyssenkrupp AG pursuing projects across production, electrolyzers, renewable power, and ammonia technologies.",
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market, Key Players are",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "5. What are the major key players in the Global Green Ammonia Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Green Ammonia Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "Power System Simulator Market Size by Modules, Offering, End User, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Green Ammonia Market?",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/green-ammonia-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーンアンモニア市場 は、 CAGR 約73.94%で急成長中 — グリーンアンモニア市場 は、 CAGR 約73.94%で急成長中 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > green-ammonia-market",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場規模 とシェア：2026〜2035年レポート — グリーンアンモニア市場規模 とシェア：2026〜2035年レポート Global Market Insights Inc. https://www.gminsights.com > green-ammonia-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの グリーンアンモニア市場規模 、成長、および2032年 ... — インドの グリーンアンモニア市場規模 、成長、および2032年 ... UnivDatos https://univdatos.com > india-green-ammonia-market",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場 規模と シェア ：2026〜2035年レポート — グリーンアンモニア市場 規模と シェア ：2026〜2035年レポート Global Market Insights Inc. https://www.gminsights.com > green-ammonia-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル グリーンアンモニア市場 規模・産業レポート2031 — グローバル グリーンアンモニア市場 規模・産業レポート2031 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場 規模とシェア：2026〜2035年レポート — グリーンアンモニア市場 規模とシェア：2026〜2035年レポート Global Market Insights Inc. https://www.gminsights.com > green-ammonia-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場2025 年:世界の産業は2032年までに ... — グリーンアンモニア市場2025 年:世界の産業は2032年までに ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000314975",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンアンモニア市場 は、CAGR約73.94%で急成長中 — グリーンアンモニア市場 は、CAGR約73.94%で急成長中 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > green-ammonia-market",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size & Share , 2026-2035 Report — Green Ammonia Market Size & Share , 2026-2035 Report Global Market Insights Inc. https://www.gminsights.com > green-...",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size , Share And Trends Report, 2034 — Green Ammonia Market Size , Share And Trends Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market (2026 - 2035) - Market Research Future — Green Ammonia Market (2026 - 2035) - Market Research Future Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size & Share Report, 2026-2033 — Green Ammonia Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size , Share | CAGR of 95.6% — Green Ammonia Market Size , Share | CAGR of 95.6% Market.us https://market.us > report > green-am...",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market 2026-32 - Markntel Advisor — Green Ammonia Market 2026-32 - Markntel Advisor Markntel Advisor https://www.marknteladvisors.com > ...",
+    "url": "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, Share And Trends Report, 2034 — Green Ammonia Market Size, Share And Trends Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, Share , Growth, Industry 2032 — Green Ammonia Market Size, Share , Growth, Industry 2032 Roots Analysis https://www.rootsanalysis.com > gree...",
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Green Ammonia Market Size & Industry Report 2031 — Global Green Ammonia Market Size & Industry Report 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, Share | CAGR of 95.6% — Green Ammonia Market Size, Share | CAGR of 95.6% Market.us https://market.us > report > green-am...",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, Trends & Industry Overview, 2033 — Green Ammonia Market Size, Trends & Industry Overview, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Analysis, Size, and Forecast 2026-2030 — Green Ammonia Market Analysis, Size, and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "UAE Green Ammonia Market (2024-2029) - MarketsandMarkets — UAE Green Ammonia Market (2024-2029) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/green-ammonia-market/uae",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size, Trends & YoY Growth Rate, 2033 — Green Ammonia Market Size, Trends & YoY Growth Rate, 2033 Coherent Market Insights https://www.coherentmarketinsights.com > industry-reports",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Companies , Size & Trends 2026-2034 — Green Ammonia Market Companies , Size & Trends 2026-2034 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Ammonia Market Size To Exceed $124.15 Billion By 2035 — Green Ammonia Market Size To Exceed $124.15 Billion By 2035 SNS Insider https://www.snsinsider.com > global-...",
+    "url": "https://www.snsinsider.com/press-release/global-green-ammonia-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Approximately USD 2.49 trillion in investment is required to build the global green hydrogen and ammonia supply chain infrastructure",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional supply constraints underpin the 2025–2028 elevated price environment in the GMI model; sustained price compression accelerates meaningfully only as infrastructure investment reaches commercial scale after 2030",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's revised hydrogen strategy commits JPY 15 trillion of public and private funding through 2035 and names ammonia co-firing as the principal route to decarbonizing existing coal units . Korea's",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": ". At typical conversion ratios, this offsets roughly USD 530 per ton of finished ammonia, enough to close most of the cost gap against Gulf Coast conventional product. The Department of Energy has paired the credit with USD 7 billion in regional hub funding, concentrating early US capacity in Texas and the Midwest",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "Section 45V credit and regional hub funding",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "Treasury's final 45V guidance resolved the hourly matching question that had frozen investment decisions for two years, and sanctioning resumed within months of publication",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "European Commission (February 2023): Adopted the delegated acts defining renewable fuels of non-biological origin, establishing the temporal and geographic correlation rules that govern EU-eligible production and unlocking stalled investment decisions",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "Japan METI (June 2023): Published the revised hydrogen strategy committing JPY 15 trillion in combined public and private funding, with explicit support for ammonia co-firing at existing coal units .",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "US Treasury and IRS (January 2025): Issued final Section 45V regulations confirming credit values up to USD 3.00 per kilogram and setting hourly matching requirements from 2030, resolving two years of investment uncertainty",
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "pass": 3
+   },
+   {
+    "quote": "through FY2030, creates a certified domestic supply framework that underpins export credibility and investment bankability simultaneously.",
+    "url": "https://market.us/report/green-ammonia-market/",
+    "pass": 3
+   },
+   {
+    "quote": "signed an agreement with the Samara regional government at SPIEF for more than 80 billion rubles in investment. This includes building a new urea or carbamide unit capable of producing 2,500 tonnes/day, which would add about 800,000 tonnes/year of urea capacity.",
+    "url": "https://straitsresearch.com/blog/top-10-players-in-the-green-ammonia-market",
+    "pass": 3
+   },
+   {
+    "quote": "India's National Green Hydrogen Mission targets five million metric tons of green hydrogen annually by 2030, with green ammonia exports representing an important commercial pathway. Japan's Green Transformation (GX) program has committed over 20 trillion yen to decarbonization investments through 2030, with ammonia utilization in power generation representing a near-term application.",
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "North America is expected to hold nearly 18% share of the green ammonia market in 2026, supported by U.S. clean hydrogen incentives, expanding renewable energy capacity, and growing investment in low-carbon ammonia production. The U.S. Inflation Reduction Act (IRA)'s Section 45V clean hydrogen production tax credit is supporting large-scale project development across the Gulf Coast and Southwest.",
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The market within Latin America is supported by abundant solar and wind resources, favorable renewable energy conditions, and growing investment in green hydrogen infrastructure. Chile's National Green Hydrogen Strategy targets 25 GW of electrolysis capacity by 2030, while Patagonia's high-capacity wind resources support some of the lowest projected green ammonia production costs globally.",
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Secured definitive agreements for a US$105 million equity investment led by IFC, Siemens Financial Services, and Fullerton.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "pass": 3
+   },
+   {
+    "quote": "North America represented around 28.64% of worldwide revenue in 2025 backed by substantial policy initiatives, hydrogen infrastructure expansion, and huge investments in the renewable ammonia production process. Clean hydrogen development policies along with existing infrastructure for manufacturing fertilizers are boosting the region's competitive landscape.",
+    "url": "https://www.snsinsider.com/press-release/global-green-ammonia-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "73.94",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "quote": "グリーンアンモニア市場は、CAGR約73.94%で急成長中、2035年に2,30,447.83百万米ドル規模に達する見込み"
+   },
+   {
+    "value": "72.94",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "quote": "均成長率（CAGR）が 72.94％"
+   },
+   {
+    "value": "37.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は37.4%と見込まれ、2035年までに178.5億米ドルに達する予測である"
+   },
+   {
+    "value": "33.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "グリーンアンモニア市場のAWEセグメントは、2025年に62.0%のシェアを占め、2026〜2035年には年平均成長率（CAGR）33.3%で成長すると予測される"
+   },
+   {
+    "value": "42.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "SOEは2035年までに売上高10.7億米ドルを生み出すと予測され、2026〜2035年に年平均成長率（CAGR）42.9%で拡大する見込みである"
+   },
+   {
+    "value": "45.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "輸送・海運は2025年に15.0%のシェアを占め、2026〜2035年に年平均成長率（CAGR）45.9%で成長すると見込まれる"
+   },
+   {
+    "value": "7.6",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "世界のアンモニア市場規模は、2025年には1,723億1,000万米ドルと評価され、2026年の1,854億1,000万米ドルから2034年には3,331億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.6%となる見込みです"
+   },
+   {
+    "value": "5.65",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "アジア太平洋地域のアンモニア市場は世界市場の47.2%を占め、2025年には813億3000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています"
+   },
+   {
+    "value": "6.42",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "北米のアンモニア市場は世界市場の20.4%を占め、2025年には351億5000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.42%と見込まれています"
+   },
+   {
+    "value": "4.31",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "欧州のアンモニア市場は世界市場の17.8%を占め、2025年には306億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は4.31%と見込まれています"
+   },
+   {
+    "value": "5.74",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "中東・アフリカ地域のアンモニア市場は、2025年には世界市場の9.1%を占め、総額156億8,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.74%と見込まれています"
+   },
+   {
+    "value": "101.5",
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "quote": "CAGR 101.5%で加速"
+   },
+   {
+    "value": "6.39",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "グリーンアンモニア市場に関する当社の調査レポートによると、市場は予測期間2025ー2035年中に年平均成長率（CAGR）6.39%で成長すると予想されています"
+   },
+   {
+    "value": "35",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "アジア太平洋地域は、予測期間中に9.5%の年平均成長率（CAGR）で35%以上の市場シェアを占め、世界のグリーンアンモニア市場を牽引すると予想されています"
+   },
+   {
+    "value": "82.47",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "quote": "グリーンアンモニア市場は、2025年には0.27百万トンと推定され、2030年には5.41百万トンに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は82.47%という驚異的な成長が見込まれています"
+   },
+   {
+    "value": "57.80",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "quote": "LPI世界グリーンアンモニア分析レポートによると、世界グリーンアンモニア市場規模は576.64百万ドルであり、将来的には8903.21百万ドルに達し、CAGRは57.80%です"
+   },
+   {
+    "value": "61.78",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "quote": "2032年には販売量が1,349.62万トン、売上高が89.02億米ドルに達し、2026～2032年の販売量CAGRは61.78%、売上高CAGRは57.8%となる見通しである"
+   },
+   {
+    "value": "57.8",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "quote": "2032年には販売量が1,349.62万トン、売上高が89.02億米ドルに達し、2026～2032年の販売量CAGRは61.78%、売上高CAGRは57.8%となる見通しである"
+   },
+   {
+    "value": "65.01",
+    "url": "https://newscast.jp/smart/news/3635212",
+    "quote": "2026～2032年の販売量CAGRは発電が65.01%、船舶燃料が64.99%で、肥料の60.73%を上回るが、2032年でも肥料は世界販売量の約61.9%を占める見通しである"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "quote": "予測期間（2026年から2045年）中、年平均成長率（CAGR）5.2%で成長が見込まれます"
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "quote": "のアンモニア市場は、農業、水素貯蔵、その他産業における需要の増加を背景に、2026年から2045年にかけて年平均成長率（CAGR）5.9%で成長すると予想されています"
+   },
+   {
+    "value": "77.78",
+    "url": "https://www.marketresearch.co.jp/green-ammonia-market-2/",
+    "quote": "予測期間（2025年~2033年）には、2025年に16億9000万米ドルから2033年に1682億米ドルに達し、CAGR 77.78%の成長が見込まれています"
+   },
+   {
+    "value": "37.4",
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "quote": "The market is projected to reach USD 17.85 billion by 2035, growing at a CAGR of 37.4% from 2026 to 2035."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "37",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "quote": "このうち、水力発電は1,256GWで最大の割合（37%）を占めており、最も大きなシェアを持つ再生可能エネルギーとなっています"
+   },
+   {
+    "value": "75",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "quote": "アンモニア製造における主要コストの多く（約75%）は、天然ガスや石炭といった化石燃料が占めており、運用コストに大きく影響しています"
+   },
+   {
+    "value": "25",
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "quote": "アンモニアは、2050年までに船舶燃料の約25%を占めると予想されており、このような見通しは、政府の支援によるグリーンアンモニア技術の革新から生まれる商業的機会の大きさを浮き彫りにしています"
+   },
+   {
+    "value": "85",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "IMOネットゼロ枠組みは、国際海運のCO₂排出量の85%を占める船舶に対し、GHG燃料強度の拘束力ある削減を課すもので、2027年に発効する"
+   },
+   {
+    "value": "62.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "グリーンアンモニア市場のAWEセグメントは、2025年に62.0%のシェアを占め、2026〜2035年には年平均成長率（CAGR）33.3%で成長すると予測される"
+   },
+   {
+    "value": "33.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "グリーンアンモニア市場のAWEセグメントは、2025年に62.0%のシェアを占め、2026〜2035年には年平均成長率（CAGR）33.3%で成長すると予測される"
+   },
+   {
+    "value": "34.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "PEMは2035年に85億6,000万米ドルの売上高を生み出すと予測され、2025年には34.0%のシェアを占めた"
+   },
+   {
+    "value": "45.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "肥料・農業は2025年にグリーンアンモニア市場の45.0%を占め、2035年までに売上高53.5億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "30.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "発電・エネルギー貯蔵は2035年に30.0%のシェアを占めると予測され、2025年の売上高は1億2,600万米ドルであった"
+   },
+   {
+    "value": "15.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "輸送・海運は2025年に15.0%のシェアを占め、2026〜2035年に年平均成長率（CAGR）45.9%で成長すると見込まれる"
+   },
+   {
+    "value": "45.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "輸送・海運は2025年に15.0%のシェアを占め、2026〜2035年に年平均成長率（CAGR）45.9%で成長すると見込まれる"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "産業用原料は2025年に10.0%のシェアを占め、2035年までに売上高14.2億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "quote": "その他の用途は2025年に5.0%のシェアを占め、2035年までに売上高7億1,400万米ドルを生み出すと予測される"
+   },
+   {
+    "value": "47.2",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "アジア太平洋地域は、2025年に47.2%の市場シェアを占め、アンモニア市場を牽引しました"
+   },
+   {
+    "value": "85",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "天然ガスはヨーロッパのアンモニア産業における主要なコスト要因であり、生産コストの約70～85%を占めています"
+   },
+   {
+    "value": "72.6",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "液体セグメントは2025年に72.6%のシェアを占め、市場を席巻するだろう"
+   },
+   {
+    "value": "70.8",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "農業分野は2025年に市場シェア70.8%を占め、市場を席巻した"
+   },
+   {
+    "value": "68.3",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "2025年には、ダイレクトセールスチャネルが市場シェア68.3%を占め、圧倒的なシェアを獲得する見込みです"
+   },
+   {
+    "value": "5.65",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "アジア太平洋地域のアンモニア市場は世界市場の47.2%を占め、2025年には813億3000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています"
+   },
+   {
+    "value": "20.4",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "北米のアンモニア市場は世界市場の20.4%を占め、2025年には351億5000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.42%と見込まれています"
+   },
+   {
+    "value": "6.42",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "北米のアンモニア市場は世界市場の20.4%を占め、2025年には351億5000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.42%と見込まれています"
+   },
+   {
+    "value": "17.8",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "欧州のアンモニア市場は世界市場の17.8%を占め、2025年には306億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は4.31%と見込まれています"
+   },
+   {
+    "value": "4.31",
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "quote": "欧州のアンモニア市場は世界市場の17.8%を占め、2025年には306億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は4.31%と見込まれています"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "日本のグリーンアンモニア市場は、世界のグリーンアンモニア市場の5.2%を占めています"
+   },
+   {
+    "value": "2",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "国際エネルギー機関（IEA）の報告書によると、グリーンアンモニアの生産は現在、最終エネルギー消費全体のわずか2%を占めています"
+   },
+   {
+    "value": "52.3",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "これらの中で、肥料は市場シェアの大部分を占めており、2035年までに52.3%を占めると予想されています"
+   },
+   {
+    "value": "41.7",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "これらのうち、PEM電気分解が41.7%のシェアを占め、圧倒的なシェアを占めています"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "アジア太平洋地域は、予測期間中に9.5%の年平均成長率（CAGR）で35%以上の市場シェアを占め、世界のグリーンアンモニア市場を牽引すると予想されています"
+   },
+   {
+    "value": "35",
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "quote": "アジア太平洋地域は、予測期間中に9.5%の年平均成長率（CAGR）で35%以上の市場シェアを占め、世界のグリーンアンモニア市場を牽引すると予想されています"
+   },
+   {
+    "value": "87.96",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "quote": "2024年の市場シェアでは、アプリケーション別では農業が87.96%を占め、2030年まで85.66%のCAGRで最も速く成長するセグメントです"
+   },
+   {
+    "value": "85.66",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "quote": "2024年の市場シェアでは、アプリケーション別では農業が87.96%を占め、2030年まで85.66%のCAGRで最も速く成長するセグメントです"
+   },
+   {
+    "value": "35.89",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "quote": "地域別では、欧州が35.89%の市場シェアを保持し、2030年まで87.18%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "87.18",
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "quote": "地域別では、欧州が35.89%の市場シェアを保持し、2030年まで87.18%のCAGRで成長すると予測されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/green-ammonia-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_006_03_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000314975",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3635212",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiareengage.com/wp-content/uploads/2025/06/reviewed_Japan_Ammonia_Strategy_JPN-AC.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/green-ammonia-market-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/green-ammonia-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/green-ammonia-market-118396942.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/green-ammonia-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/blog/top-10-players-in-the-green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/green-ammonia-market/uae",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/ammonia-market-101716",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/press-release/global-green-ammonia-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/ammonia-technology-roadmap/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/green-ammonia-market/companies",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グリーンアンモニア 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "https://straitsresearch.com/jp/report/ammonia-market",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%9C%9F%E9%96%93%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A666%E3%81%AEcagr%E3%81%A7%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95-7495202484521705472-sruae",
+    "https://univdatos.com/ja/reports/india-green-ammonia-market",
+    "https://newscast.jp/news/6882953",
+    "https://www.researchnester.jp/industry-analysis/clean-ammonia-market/2770",
+    "https://www.mordorintelligence.com/ja/industry-reports/green-ammonia-market",
+    "https://www.fortunebusinessinsights.com/jp/グリーンアンモニア市場-105642"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "https://www.sdki.jp/reports/green-ammonia-market/114905",
+    "https://www.mordorintelligence.com/ja/industry-reports/green-ammonia-market",
+    "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "https://www.gii.co.jp/report/anvi1684371-green-ammonia-market-by-technology-by-production.html",
+    "https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E8%B2%AF%E8%94%B5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%8A%E3%82%88%E3%81%B3%E8%B2%A9%E5%A3%B2%E4%BE%A1%E6%A0%BC%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%89203-7519527539212455936-phree",
+    "https://www.meti.go.jp/shingikai/energy_environment/green_innovation/pdf/gi_006_03_06.pdf",
+    "https://straitsresearch.com/jp/report/ammonia-market",
+    "https://www.fortunebusinessinsights.com/jp/グリーンアンモニア市場-105642"
+   ]
+  },
+  {
+   "query": "グリーンアンモニア 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E5%B8%82%E5%A0%B4-105642",
+    "https://www.gminsights.com/ja/industry-analysis/green-ammonia-market",
+    "https://www.dreamnews.jp/press/0000314975",
+    "https://www.reportocean.co.jp/industry-reports/green-ammonia-market",
+    "https://newscast.jp/smart/news/3635212",
+    "https://www.researchnester.com/ja/reports/ammonia-market/4518",
+    "https://jp.linkedin.com/pulse/green-ammonia-market-growth-accelerates-global-shift-toward-patil-jv3gf?tl=ja",
+    "https://www.marketresearch.co.jp/insights/green-ammonia-market-mordor/",
+    "https://asiareengage.com/wp-content/uploads/2025/06/reviewed_Japan_Ammonia_Strategy_JPN-AC.pdf",
+    "https://www.marketresearch.co.jp/green-ammonia-market-2/"
+   ]
+  },
+  {
+   "query": "green ammonia market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/green-ammonia-market",
+    "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "https://market.us/report/green-ammonia-market/",
+    "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "https://straitsresearch.com/report/ammonia-market",
+    "https://www.futuremarketinsights.com/reports/green-ammonia-market",
+    "https://www.linkedin.com/pulse/united-states-green-ammonia-market-analysis-based-predicted-9tcwf",
+    "https://www.imarcgroup.com/green-ammonia-market"
+   ]
+  },
+  {
+   "query": "green ammonia market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/green-ammonia-market-118396942.html",
+    "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "https://www.fortunebusinessinsights.com/green-ammonia-market-105642",
+    "https://www.rootsanalysis.com/green-ammonia-market",
+    "https://www.mordorintelligence.com/industry-reports/green-ammonia-market",
+    "https://market.us/report/green-ammonia-market/",
+    "https://www.linkedin.com/pulse/top-10-green-synthetic-ammonia-market-leaders-strengths-lvxde",
+    "https://straitsresearch.com/blog/top-10-players-in-the-green-ammonia-market",
+    "https://www.sphericalinsights.com/reports/green-ammonia-market",
+    "https://www.futuremarketinsights.com/reports/green-ammonia-market"
+   ]
+  },
+  {
+   "query": "green ammonia market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.persistencemarketresearch.com/market-research/green-ammonia-market.asp",
+    "https://www.maximizemarketresearch.com/market-report/global-green-ammonia-market/115753/",
+    "https://www.mordorintelligence.com/industry-reports/green-ammonia-market",
+    "https://www.technavio.com/report/green-ammonia-market-analysis",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/green-ammonia-market/uae",
+    "https://www.coherentmarketinsights.com/industry-reports/green-ammonia-market",
+    "https://www.linkedin.com/pulse/green-ammonia-market-set-explosive-growth-projected-reach-ram-v-fioic",
+    "https://unfccc.int/sites/default/files/resource/A6.4._PMM006_Supplementary_Information.pdf",
+    "https://www.skyquestt.com/report/green-ammonia-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "green ammonia market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/green-ammonia-market-report",
+    "https://www.marketresearchfuture.com/reports/green-ammonia-market-11519",
+    "https://www.fortunebusinessinsights.com/industry-reports/ammonia-market-101716",
+    "https://www.precedenceresearch.com/green-ammonia-market",
+    "https://www.linkedin.com/pulse/green-ammonia-market-size-share-growth-trends-demand-forecast-kumar-2fafc",
+    "https://www.snsinsider.com/press-release/global-green-ammonia-market",
+    "https://www.marketsandmarkets.com/Market-Reports/green-ammonia-market-118396942.html",
+    "https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html",
+    "https://www.iea.org/reports/ammonia-technology-roadmap/executive-summary",
+    "https://market.us/report/green-ammonia-market/"
+   ]
+  }
+ ],
+ "missing": {}
+}

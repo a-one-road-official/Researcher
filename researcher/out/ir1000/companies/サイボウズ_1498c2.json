@@ -1,0 +1,808 @@
+{
+ "name": "サイボウズ",
+ "aliases": [],
+ "context": "証券コード4776／情報・通信業／プライム（内国株式）／2025.12期 売上高37,430百万円 営業利益率27.0%",
+ "researched_at": "2026-11-02T16:54:22.794326+00:00",
+ "official_url": "https://cybozu.co.jp/",
+ "identified_by": "search:yahoo_jp:サイボウズ",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "インターネット/イントラネット用ソフトウェアの開発、販売",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1997年8月8日",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "製品導入をご検討中のお客様",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中のお客様",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からのお申し出による遠隔サポートは承っておりません",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "メールや郵送物の配信停止、お客様情報の変更手続き",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "Eメールや郵送等のご連絡先変更、配信停止を希望されるお客様は、以下よりお手続きください",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更手続き",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社からのメールや郵送物の配信停止をご希望のお客様は下記よりお手続きください",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズの製品、サービスをご利用中でないお客様",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "配信先を変える場合は「お客様情報の変更手続き」ページをご覧ください",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の契約、利用環境に関する内容",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更依頼フォーム",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "配信停止・お客様情報の変更に関するお問い合わせは、",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更手続き",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更手続き | サイボウズ株式会社",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更手続き",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "住所、メールアドレス、電話番号など、サイボウズに登録したお客様情報の変更方法をご案内します",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更は、下記のサイボウズドットコムストアから設定いただけます",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更手順",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の変更依頼フォーム",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "配信停止・お客様情報の変更に関するお問い合わせは、",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスク型ビジネスの最大の強みは「売上が積み上がる」点にあり、新規顧客の獲得に加え、既存顧客の契約継続が収益を安定化させます",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "これは元社員の私からみても想定通りで、もともと競合商品より大幅に安価な価格設定のため、20％程度の値上げをしても現時点では十分にユーザーから支持をされていると考えていいと思います",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "事業継続のための投資として値上げを行い、それが顧客に受け入れられたことが今回のサイボウズの発表の一番の安心材料といえます",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "特に会計・人事・給与といった基幹業務システムとの連携は、顧客にとっての価値を大きく高めるポテンシャルがあります",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "短期的にも、双方の顧客基盤を活かしたクロスセルのような施策が可能であり、この戦略的提携の価値は高く評価すべきです",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型のサービス提供においては、顧客の継続的な利用価値は個々の社員（営業担当者やSE、サポートスタッフ）との関係性よりも、製品・サービス自体の価値に直結しています",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "チームで働くことが、楽しくなるサービスを",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チームワークを促進するサービス・製品",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "すべての製品",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体のデジタル化・DX推進にはサイボウズ！サイボウズには自治体のデジタル化・DXを支える製品・支援プログラムがあります",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入をご検討中のお客様",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご利用中のお客様",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサービス",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとによくあるご質問をまとめました",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとに使い方、手順を詳しくまとめました",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別お問い合わせ先一覧",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサービス",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をお試し中、ご利用中の方",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとによくあるご質問をまとめました",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとに使い方、手順を詳しくまとめました",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス別お問い合わせ先一覧",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズ リモートサービス",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "「cybozu.com 共通管理」については、ご契約のサービスのお問い合わせ先からお願いします",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズ株式会社では、製品を購入、または試用の申し込みをされた方へ各種お知らせをお送りしております",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス改善への取り組み",
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサービス",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズの製品、サービスをご利用中でないお客様",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズのクラウド版サービスをご利用の方",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "・サービスの活用情報",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "・新サービスやキャンペーンに関するお知らせ",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズのパッケージ版製品をご利用の方",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する情報",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "新バージョンリリース、サービスメンテナンスのご案内",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "製品アンケート 等",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の画面最下部にあるフッターをご確認ください",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス改善への取り組み",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサービス",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズのクラウド版サービスをご利用の方",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズのパッケージ版製品をご利用の方",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の画面最下部にあるフッターをご確認ください",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス改善への取り組み",
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "pass": 1
+   },
+   {
+    "quote": "また、主力製品であるkintoneの売上は前年比24.4%増の161億9,200万円と、引き続き成長をけん引しています",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "これは元社員の私からみても想定通りで、もともと競合商品より大幅に安価な価格設定のため、20％程度の値上げをしても現時点では十分にユーザーから支持をされていると考えていいと思います",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "私が在籍していた頃は中小企業向け「圧倒的王者」であるOBCはkintoneのような「汎用的な」なサービスは機能を補完する周辺サービスのうちの一つとして位置づけ、協業先としてはあまり相手にしていない印象さえありましたが、今回の提携は市場ポジションが向上した証左といえるでしょう",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "「グローバルで戦える製品展開に向けた研究開発に注力する」",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "一時的に海外販売のスピードを抑え、まずは商品力の向上に集中するという姿勢には好感が持てます",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "過去には「今の商品でグローバル展開を加速する」というアプローチを取っていましたが、それが必ずしも成功しなかった経験から学び、戦略を見直すこととした、と理解しました",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型のサービス提供においては、顧客の継続的な利用価値は個々の社員（営業担当者やSE、サポートスタッフ）との関係性よりも、製品・サービス自体の価値に直結しています",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "HRソリューション業界で働く人のネットワーク",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションナビとは",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "『日本の人事部』ソリューションナビ管理画面",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "『プロネット』 - HRソリューション業界で働く人のネットワーク",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビュー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "コラボレーションサービス",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "青野社長はチームに最適なコラボレーションサービスを生み出し、日本企業のチームワークに革新的な進化をもたらした「イノベーター」です",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "介護サービスを受ける患者さんを中心に、施設スタッフだけでなく、家族や病院、自治体、地域のボランティアまでがチームを組んでケアにあたれば、より効果的なサービスを提供することができるでしょう",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "ゲームソフトならともかく、ビジネスソフトで世界的に有名な日本の企業や製品は皆無でしょう",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の開発にせよ、プロモーションにせよ、あるいは社内のさまざまな制度設計にせよ、サイボウズで新しく行われることは、基本的にすべて社員の発案なんです",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビューのバックナンバー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HRソリューション業界TOPインタビュー バックナンバー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HRビジネス（採用・教育・研修・人材開発等）、人事BPOサービス（制度運用・給与計算・福利厚生等）で働く人のための情報ポータルサイト",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "メンタルヘルス関連サービス、EAPの傾向と選び方",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "適性検査の傾向と選び方――直近のトレンド、サービスの分類・比較",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HRソリューションの傾向と選び方",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HRソリューション業界講座",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "私たちが理想の会社になるための「人とチームを支援する施策」について、具体的な実績とともに紹介します",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "災害支援チーム／パートナーの活動について、災害支援プログラムのサイトやSNSに掲載しています",
+    "url": "https://cybozu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズが過去の失敗から学び、海外市場に対して過度に大きな目標を掲げるのではなく、パートナーシップを軸とした現実的なアプローチを取っている点も評価できます",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "現時点では勝算の薄い米国市場での販売にかける大きな投資を抑え、市場は小さくても勝ち筋が見えてきているアジア市場や、パートナー戦略の拡大に焦点を当てつつ、並行して、海外戦略のためのプロダクト研究開発に取り組む姿勢を率直に評価したいと思います",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "「ゼロリセット」のゲームで築いた「IT人材紹介」の城",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "HR業界の代表的な業界団体をご紹介いたします",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "米国ATDの活動に賛同しているパートナー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 日本人材紹介事業協会",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働大臣の許可を受けてホワイトカラーを中心とした職業紹介を行う人材紹介事業者の団体です",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライセンス更新のご案内",
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "特筆すべきはクラウド売上の割合が90.3%（267億9,100万円）に達していることで、サブスクリプション（サブスク）であることから当面は安定した収益がほぼ約束されていることです",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク型ビジネスの最大の強みは「売上が積み上がる」点にあり、新規顧客の獲得に加え、既存顧客の契約継続が収益を安定化させます",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型のサービス提供においては、顧客の継続的な利用価値は個々の社員（営業担当者やSE、サポートスタッフ）との関係性よりも、製品・サービス自体の価値に直結しています",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク事業の安定成長は評価できますが、",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "は、サイボウズのビジネスモデルの本質にあります",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "サブスク型ビジネスの最大の強みは「売上が積み上がる」点にあり、新規顧客の獲得に加え、既存顧客の契約継続が収益を安定化させます",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "このため、仮に離職率が一時的に上昇したとしても、短期的な業績への直接的な悪影響はほとんど生じないという構造的な強みがあります",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年3月20日 12:54",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のサイボウズの決算は、非常に好調な結果となりました",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月に実施されたkintoneの価格改定（1,500円→1,800円）は、大きな注目ポイントでした",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "1997年8月8日",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年に株式会社ワークポートを仲間とともに創業し、リーマン・ショックという会社存続の危機を「仕組み化」と「決断」で乗り越えてきた、代表取締役社長COO・林徹...",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年設立",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サイボウズ の事業戦略 | 採用情報 — サイボウズ の事業戦略 | 採用情報 サイボウズ株式会社 https://cybozu.co.jp > recruit > strategy > business",
+    "url": "https://cybozu.co.jp/recruit/strategy/business/",
+    "pass": 3
+   },
+   {
+    "quote": "元社員が サイボウズ の決算・事業説明会を読み解く（その1） — 元社員が サイボウズ の決算・事業説明会を読み解く（その1） note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ の ビジネスモデル 転換 - デジタル経営研究センター — サイボウズ の ビジネスモデル 転換 - デジタル経営研究センター デジタル経営研究センター https://d-keiei.org > Case Study",
+    "url": "https://d-keiei.org/casestudy/288/",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ のパートナー ビジネス の真意に迫る | メソッド | 才流 — サイボウズ のパートナー ビジネス の真意に迫る | メソッド | 才流 株式会社才流 https://sairu.co.jp > method",
+    "url": "https://sairu.co.jp/method/23456/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 サイボウズ の事業戦略を構造化 ... — 【 ビジネスモデル 図解2026】 サイボウズ の事業戦略を構造化 ... mindmeister.jp https://mindmeister.jp > posts > bm-cybozu",
+    "url": "https://mindmeister.jp/posts/bm-cybozu",
+    "pass": 3
+   },
+   {
+    "quote": "事業ダイジェスト（ 決算説明 会 資料 ） | サイボウズ 株式会社 — 事業ダイジェスト（ 決算説明 会 資料 ） | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > company > briefing",
+    "url": "https://cybozu.co.jp/company/ir/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家向け情報 | サイボウズ 株式会社 — 株主・投資家向け情報 | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > company",
+    "url": "https://cybozu.co.jp/company/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | サイボウズ 株式会社 — 決算 短信 | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > company > financial",
+    "url": "https://cybozu.co.jp/company/ir/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ 株式会社 2025年12月期 決算説明 会 - YouTube — サイボウズ 株式会社 2025年12月期 決算説明 会 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=fAey0YTg9KQ",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ 株式会社 2025年12月期 決算説明 会 — サイボウズ 株式会社 2025年12月期 決算説明 会 サイボウズ株式会社 PDF https://cybozu.co.jp > company > meeting > pdf",
+    "url": "https://cybozu.co.jp/company/ir/meeting/pdf/2512_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織 | サイボウズ 株式会社 — 組織 | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > company > organization",
+    "url": "https://cybozu.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ の 事業 戦略 | 採用情報 — サイボウズ の 事業 戦略 | 採用情報 サイボウズ株式会社 https://cybozu.co.jp > recruit > strategy > business",
+    "url": "https://cybozu.co.jp/recruit/strategy/business/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 ダイジェスト（決算説明会資料） | サイボウズ 株式会社 — 事業 ダイジェスト（決算説明会資料） | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > company > briefing",
+    "url": "https://cybozu.co.jp/company/ir/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 | サイボウズ 株式会社 — 企業概要 | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > company > outline",
+    "url": "https://cybozu.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "チームワークの向上 | サイボウズ の人的資本経営 — チームワークの向上 | サイボウズ の人的資本経営 サイボウズ株式会社 https://cybozu.co.jp > human-capital > teamwork",
+    "url": "https://cybozu.co.jp/human-capital/teamwork/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ：青野慶久さん（ サイボウズ 株式会社） — インタビュー ：青野慶久さん（ サイボウズ 株式会社） 日本の人事部『プロネット』 https://service.jinjibu.jp > article > detl > innovator",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 採用情報 | サイボウズ 株式会社 — トップメッセージ | 採用情報 | サイボウズ 株式会社 サイボウズ株式会社 https://cybozu.co.jp > recruit > about > message",
+    "url": "https://cybozu.co.jp/recruit/about/message/",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ 株式会社 代表取締役 社長 青野慶久さん「『100人 ... — サイボウズ 株式会社 代表取締役 社長 青野慶久さん「『100人 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/wiwiw_info/n/nf814ce9b5087",
+    "pass": 3
+   },
+   {
+    "quote": "サイボウズ ・青野慶久氏の変革の哲学 働き方改革から夫婦 ... — サイボウズ ・青野慶久氏の変革の哲学 働き方改革から夫婦 ... 日経ビジネス電子版 https://business.nikkei.com > テーマ別まとめ記事",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/052900825/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cybozu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybozu.co.jp/customer/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybozu.co.jp/customer/inquiry/unsubscribe-from-mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybozu.co.jp/customer/inquiry/update-user-information/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サイボウズ",
+   "results": [
+    "https://cybozu.co.jp/",
+    "https://www.cybozu.com/jp/login/index.html",
+    "https://cybozu.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA",
+    "https://x.com/cybozu",
+    "https://ja.wikipedia.org/wiki/サイボウズ",
+    "https://en.wikipedia.org/wiki/Bentonville,_Arkansas",
+    "https://www.visitbentonville.com/",
+    "https://bentonville.ar.gov/",
+    "https://www.tripadvisor.com/Attractions-g31441-Activities-Bentonville_Arkansas.html"
+   ]
+  },
+  {
+   "query": "サイボウズ ビジネスモデル",
+   "results": [
+    "https://cybozu.co.jp/recruit/strategy/business/",
+    "https://note.com/jolly_robin7449/n/nf563a1ab012f",
+    "https://d-keiei.org/casestudy/288/",
+    "https://sairu.co.jp/method/23456/",
+    "https://mindmeister.jp/posts/bm-cybozu",
+    "https://cybozu.co.jp/recruit/strategy/business/next-now.html",
+    "https://cybozu.co.jp/recruit/strategy/",
+    "https://partner.cybozu.co.jp/join/overview/",
+    "https://cybozu.co.jp/recruit/strategy/business/eco-system.html",
+    "https://www.gotoliquorstore.com/"
+   ]
+  },
+  {
+   "query": "サイボウズ 決算説明資料",
+   "results": [
+    "https://cybozu.co.jp/company/ir/briefing/",
+    "https://cybozu.co.jp/company/ir/",
+    "https://cybozu.co.jp/company/ir/financial/",
+    "https://www.youtube.com/watch?v=fAey0YTg9KQ",
+    "https://cybozu.co.jp/company/ir/meeting/pdf/2512_01.pdf",
+    "https://cybozu.co.jp/company/ir/meeting/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4776",
+    "https://www.youtube.com/watch?v=TpEWhYUXPbk",
+    "https://cybozu.co.jp/company/ir/schedule/",
+    "https://www.aquinasinstitute.com/apps/staff/"
+   ]
+  },
+  {
+   "query": "サイボウズ 事業系統図",
+   "results": [
+    "https://cybozu.co.jp/company/organization/",
+    "https://cybozu.co.jp/recruit/strategy/business/",
+    "https://cybozu.co.jp/company/ir/briefing/",
+    "https://cybozu.co.jp/company/outline/",
+    "https://cybozu.co.jp/human-capital/teamwork/",
+    "https://www.slideshare.net/slideshow/2026-2025-11/284143820",
+    "https://cybozu.co.jp/company/outline/pdf/corporate_profile.pdf",
+    "https://cybozu.co.jp/company/history/",
+    "https://cybozu.com/",
+    "https://ja.wikipedia.org/wiki/サイボウズ"
+   ]
+  },
+  {
+   "query": "サイボウズ 社長 インタビュー",
+   "results": [
+    "https://service.jinjibu.jp/article/detl/innovator/1318/3/",
+    "https://cybozu.co.jp/recruit/about/message/",
+    "https://note.com/wiwiw_info/n/nf814ce9b5087",
+    "https://www.youtube.com/watch?v=poT8WFcc8F0",
+    "https://business.nikkei.com/atcl/gen/19/00081/052900825/",
+    "https://cybozu.co.jp/company/ceo-message/",
+    "https://x.com/aono",
+    "https://ledge.ai/articles/interview_cybozu",
+    "https://dentsu-ho.com/articles/7600",
+    "https://www.geeksforgeeks.org/java/java-if-statement-with-examples/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部2頁・検索5回）"
+ }
+}

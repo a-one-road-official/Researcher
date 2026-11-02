@@ -1,0 +1,1882 @@
+{
+ "name": "食品機械",
+ "en": "food processing equipment",
+ "aliases": [
+  "食品加工機械"
+ ],
+ "context": "16 フードテック ③食品機械",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:07:04.559689+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "食品加工機械市場規模、シェア、トレンド分析レポート タイプ別（加工機器、包装機器、デポジター、押出機、ミキサー、冷凍機、スライサー、ダイサー）、製品別（固体、液体、半固体）、操作モード別（半自動、自動）、用途別（貯蔵タンク、チラー、低温殺菌装置、フィルター、CIPユニット、クリーム分離器、スプレードライヤー、ホモジナイザー、バッチコレクター＆フィーダー、粉砕と混合、溶解、加熱＆調理、フレーク化、チップ化＆切断、成形、冷却＆チリング、フレーバー付け＆調味料付け、洗浄/破砕、パルプ化/製粉/スライス、タンク＆貯蔵、発酵、ろ過、蒸留/殺菌、瓶詰め/充填、洗浄、ショートニング/分離、皮むき＆スライス、冷却/冷凍、乾燥／揚げ物／調理、その他の用途）および地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の食品加工機械市場規模は、2025年には837億8000万米ドルと評価され、2026年の884億5000万米ドルから2034年には1365億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.58%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は予測期間中、年平均成長率（CAGR）7.15%で成長すると見込まれている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の食品加工機械市場は、2025年には196億米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食品加工機械市場は、2025年には65億3000万米ドル規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の食品加工機械市場は、2025年には170億9000万米ドルの規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの食品加工機械市場は、2025年には30億2000万米ドルの規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は世界の食品加工機械市場の22%を占め、2025年には184億3000万米ドルの市場規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機器の世界市場（2026年～2032年）、市場規模（自動、半自動、手動）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機器の世界市場（2026年～2032年）、市場規模（自動、半自動、手動）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "世界の加熱食品加工機器市場規模は、2025年の261億7,000万米ドルから2032年には443億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.0％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "米国の高温食品加工機器市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "中国の加熱食品加工機器市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のホットフード加工機器市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの各地理的地域および国/地域ごとの年間販売量と年間収益に基づいた市場規模データが含まれています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までのグローバル市場規模予測が地域別、タイプ別、用途別に提供されており、アメリカ、アジア太平洋地域、ヨーロッパ、中東・アフリカの国別予測も含まれています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "世界の食品加工機器市場規模、シェア、成長分析レポート - 2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の食品加工機器市場規模は、2024年には約",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の食品加工機器市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約4.1%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界の食品加工機器市場規模は2024年に約548億6000万米ドルと評価され、2034年までに820億7000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品機械工業会の最新の調査結果（グラフ）によると、2022年の食品機械の販売額は前年比3.0%増の5901億円となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "6000億円の大台には届かなかったものの、コロナ前の水準を上まわり、アフターコロナへ向けて回復に向かっていることが鮮明になりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品機械工業会の「令和6年（2024）食品機械調査統計資料」によると、2024年の食品機械販売額は前年比5.0%増の6,346億円となった",
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に初めて6,000億円を超え、2024年も国内外での活発な設備投資を背景に引き続き堅調な動きを見せた",
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が6月30日に公表した25年の生産動態統計調査年報によると、同年の食料品加工機械および包装・荷造機械の総販売金額は前年比3.5％増の3130億円となり、コロナ禍終盤の22年から4年連続で増加した",
+    "url": "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "pass": 3
+   },
+   {
+    "quote": "機械品目別の販売額は精米麦機械61億円（前年比15.6％減）、製パン・製菓機械356億円（同10.",
+    "url": "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する食品加工機械メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する食品加工機械メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "堅調な成長 2,058億円（現在）→2,152億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機械メーカー AIによる市場規模予測 5年間で4.56%の成長",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機械メーカーの国内市場規模は、現在の2,058億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "今後 5年間で4.56% 成長し2,152億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な縮小 1.54兆円（現在）→1.49兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 3,214億円（現在）→3,645億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "概ね横ばい 2.87兆円（現在）→2.85兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 3.0兆円（現在）→2.5兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 1.8兆円（現在）→1.7兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "日本工作機械工業会がまとめた2024年1～11月の受注実績（11月は速報値）は、前年同期比1.3%減の1兆3420億円となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "同工業会は、2024年通年の受注金額を前年比1.1%減の1兆4700億円前後になるとの見通しを示しています（グラフ2）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年後半からは米国での受注回復や自動車・半導体関連産業の設備投資プロジェクトが動き出すことが期待され、同工業会は2025年通年の受注金額を前年比8.8%増の1兆6000億円と予想しています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本建設機械工業会が公表している「建設機械需要予測」によると、2024年度の建設機械出荷金額（補給部品含まず）は3兆1610億円（前年度比5%減）で、4年ぶりに減少します（グラフ3）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の出荷金額は、3兆2033億円（前年度比1%増）の微増と予測しています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "このうち「国内」は公共投資などに支えられて、横ばいで推移するとみられるため、9714億円（同±0%）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "「輸出」は「油圧ショベル」「ミニショベル」「基礎機械」などが増加に転じ、ゆるやかに回復するため、2兆2319億円（同2%増）で2年ぶりの増加になると予測しました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "確定している2024年4～10月の出荷金額（補給部品を含まず）の累計は1兆7214億円（国内5269億円、輸出1兆1945億円）となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本農業機械工業会によると、2023年の農業機械の出荷金額は4720億円（前年比5.5%減）となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "内訳を見ると、国内向けが2437億円（同3.5%増）、輸出向けが1756億円（同17.5%減）、作業機が527億円（同3.9%増）となっています（グラフ4）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の農業機械市場は、新型コロナウイルスの影響で2020年は落ち込みが見られましたが、農業従事者が利用することのできる給付タイプの補助金、無担保融資タイプの支援制度の効果もあって、2020年度後半から上向いてきています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "初の6000億円超を達成！",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "食品加工機械市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の食品加工機械市場規模は、2025年には837億8000万米ドルと評価され、2026年の884億5000万米ドルから2034年には1365億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.58%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体セグメントは予測期間中に6.4%という最高の年平均成長率（CAGR）を記録すると予想される",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体セグメントは、予測期間中に6.4%という最も速いCAGRで成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "乾燥、揚げ物、調理セグメントは、予測期間中に6.55%という最高のCAGRを記録すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "乾燥、揚げ物、調理の分野は、予測期間中に年平均成長率（CAGR）6.55%で最も高い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は予測期間中、年平均成長率（CAGR）7.15%で成長すると見込まれている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の加熱食品加工機器市場規模は、2025年の261億7,000万米ドルから2032年には443億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.0％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "米国の高温食品加工機器市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "中国の加熱食品加工機器市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のホットフード加工機器市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "でしたが、2025年から2034年までの年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の食品加工機器市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約4.1%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.1％のCAGR",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2034年までの食品加工機器市場の年平均成長率（CAGR）はどのくらいになるでしょうか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の食品加工機器市場は、予測期間中に年平均成長率（CAGR）4.1%で成長すると予想されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "本年は前年比約3倍の受注をいただき、製造部門専用の工場を新設し、製造能力強化と生産体制を確立",
+    "url": "https://mono.ipros.com/cg2/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品機械工業会の最新の調査結果（グラフ）によると、2022年の食品機械の販売額は前年比3.0%増の5901億円となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "食品機械業界は景気変動の影響を受けにくいとされており、コロナ禍の影響が表れた2021年も前年比2.2%減と小幅な落ち込みにとどまりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、構成比の大きい「製パン・製菓機械」（構成比23.1%）が4年ぶり、「その他の食品機械」（同43.7%）が2年ぶりに前年比増に転じたことは注目されます",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品機械工業会の「令和6年（2024）食品機械調査統計資料」によると、2024年の食品機械販売額は前年比5.0%増の6,346億円となった",
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比増は3年連続",
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも構成比が大きい「その他の食品機械」（構成比43.4%、前年比＋4.6%）、「製パン・製菓機械」（構成比23.4%、同＋5.5%）、「乳製品加工機械」（構成比11.6%、同＋7.6%）が堅調で、販売額全体の押し上げに寄与した",
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が6月30日に公表した25年の生産動態統計調査年報によると、同年の食料品加工機械および包装・荷造機械の総販売金額は前年比3.5％増の3130億円となり、コロナ禍終盤の22年から4年連続で増加した",
+    "url": "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "pass": 3
+   },
+   {
+    "quote": "機械品目別の販売額は精米麦機械61億円（前年比15.6％減）、製パン・製菓機械356億円（同10.",
+    "url": "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "pass": 3
+   },
+   {
+    "quote": "成長率を内訳別に見ると、製パン・製菓機械メーカー（-3.88%）と穀物処理機械メーカー（-2.56%）、肉類・水産加工機械メーカー（-1.76%）の市場縮小が予測されるも､ 牛乳加工・乳製品製造用機械メーカー（+1.1%）と加熱調理機械メーカー（+0.31%）の成長が寄与し、全体として 4.56%の成長と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で食品加工機械メーカーに影響する市場環境の変化を8つのカテゴリーに分類すると、拡大、減少共に国策・規制の影響が大きいと予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なプラス要因は、農業支援ファンドの投資を円滑にする改正特別措置法成立や103万円の壁引き上げ、学童保育制度拡大と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "IMFの見通しによると、2024年の世界経済の成長率は、前回（2024年7月）と同じ＋3.2%と予想しました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2024年の成長率は0.4ポイント引き下げ、＋0.3%としました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ1：2025年の世界の経済成長率予測（％）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府が発表した2024年7-9月期の実質GDP成長率は、前期比0.3%増と小幅の伸びにとどまっています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本工作機械工業会がまとめた2024年1～11月の受注実績（11月は速報値）は、前年同期比1.3%減の1兆3420億円となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "同工業会は、2024年通年の受注金額を前年比1.1%減の1兆4700億円前後になるとの見通しを示しています（グラフ2）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年後半からは米国での受注回復や自動車・半導体関連産業の設備投資プロジェクトが動き出すことが期待され、同工業会は2025年通年の受注金額を前年比8.8%増の1兆6000億円と予想しています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "加工最高だった昨年に比べて前年同期比11.1%減となったものの、歴代2位の出荷額にあたる2022年度を上まわるペースで推移しています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本農業機械工業会によると、2023年の農業機械の出荷金額は4720億円（前年比5.5%減）となりました",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "農家数の減少と営農化が進んだことに伴い、1経営体あたり経営耕地面積が拡大しています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本食品機械工業会によると、2023年の食品機械の販売額は前年比2.4%増の6045億円と、史上初の6000億円超となりました（グラフ5）",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "最近の年平均成長率は3.0～5.0%で拡大が続いていて、編集部では2025年は前年比5.0%増の6350億円を見込んでいます",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global food processing equipment market size was valued at USD 56.8 billion in 2025 and is projected to grow from USD 59.0 billion in 2026 to USD 78.7 billion by 2033, at a CAGR of 4.2% from 2026 to 2033. The market in Asia Pacific dominated with a revenue share of 35.5% in 2025. Rising demand for processed and convenience foods is a major factor driving the food processing equipment market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 4.2%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.2% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global food processing equipment market, in terms of revenue, is expected to grow at a compound annual growth rate of 4.2% from 2026 to 2033 to reach USD 78.7 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global food processing equipment market size accounted for USD 60.35 billion in 2026 and is predicted to reach around USD 87.82 billion by 2035, growing at a CAGR of 4.27% from 2026 to 2035. The food processing equipment market is driven by increasing demand for processed food and automation in the food processing industry.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.27%",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific food processing equipment market size is valued at USD 20.81 billion in 2025 and is expected to be worth around USD 31.62 billion by 2035, at a CAGR of 4.27% from 2026 to 2035",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Food Processing Handling Equipment Market was estimated at 33.66 USD Billion in 2024. The Food Processing Handling Equipment industry is projected to grow from 35.12 USD Billion in 2025 to 53.67 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 4.33% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "The Food Processing Handling Equipment Market is projected to grow at a 4.33% CAGR from 2025 to 2035, driven by automation, sustainability, and increasing food safety regulations.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Food Processing Handling Equipment Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "The market is anticipated to grow at a CAGR of 4.33% from 2025 to 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "USD 65,710.63 Mn (2025) → USD 123,416.29 Mn (2035); CAGR 6.51%",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "食品加工機械市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機械市場規模、シェア、トレンド分析レポート タイプ別（加工機器、包装機器、デポジター、押出機、ミキサー、冷凍機、スライサー、ダイサー）、製品別（固体、液体、半固体）、操作モード別（半自動、自動）、用途別（貯蔵タンク、チラー、低温殺菌装置、フィルター、CIPユニット、クリーム分離器、スプレードライヤー、ホモジナイザー、バッチコレクター＆フィーダー、粉砕と混合、溶解、加熱＆調理、フレーク化、チップ化＆切断、成形、冷却＆チリング、フレーバー付け＆調味料付け、洗浄/破砕、パルプ化/製粉/スライス、タンク＆貯蔵、発酵、ろ過、蒸留/殺菌、瓶詰め/充填、洗浄、ショートニング/分離、皮むき＆スライス、冷却/冷凍、乾燥／揚げ物／調理、その他の用途）および地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に市場シェア39%を占め、食品加工機械市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "加工機器セグメントは2025年に31％のシェアを占め、市場を牽引するだろう",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機械市場において、加工機器セグメントは圧倒的なシェアを占め、2025年には市場全体の31%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には自動運転セグメントが市場を席巻し、57%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動化分野は市場を席巻し、2025年には市場シェアの57%を占めた",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は世界の食品加工機械市場を牽引し、市場シェアの39%を占め、2025年には326億7000万米ドルの規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の食品加工機械市場の24%を占め、2025年には201億1000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.85%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は世界の食品加工機械市場の22%を占め、2025年には184億3000万米ドルの市場規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域は世界の食品加工機械市場の8%を占め、2025年には67億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.45%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "南米は世界の食品加工機械市場の7%を占め、2025年には58億6000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.35%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "また、自動、半自動、手動といったタイプ別の食品加工機器市場の内訳や、食品加工産業、食品サービス産業、家庭、その他といった用途別の内訳が示され、それぞれについて2021年から2026年までの販売量、収益、市場シェア、および販売価格のデータが網羅されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな食品加工機器市場における企業別の販売量、販売市場シェア、年間収益、収益市場シェア、販売価格（すべて2021年から2026年）、主要メーカーの生産拠点分布、販売地域、提供製品タイプが詳述されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機器市場の規模、シェア、動向、および2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の食品加工機器市場規模、シェア、成長分析レポート - 2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社の売上構成は、充填機を格納するクリーンブース関連が50%、食品機械部品・装置が20%を占めています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、埼玉県内にある製菓・製パン機械メーカーからの受注が好調で、売上全体の20%超を占めています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "本業界に関連する今後成長/衰退する製品・サービス（上位8個）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、出荷金額の機種別構成比で約40%を占める「油圧ショベル」の需要減が大きく影響しています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額のうち、約8割をトラクタ、コンバイン、田植機などの製品が占めていて、稲作を中心とした土地利用型農業に対応した生産体制となっています",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "pass": 3
+   },
+   {
+    "quote": "The global food processing equipment market size was valued at USD 56.8 billion in 2025 and is projected to grow from USD 59.0 billion in 2026 to USD 78.7 billion by 2033, at a CAGR of 4.2% from 2026 to 2033. The market in Asia Pacific dominated with a revenue share of 35.5% in 2025. Rising demand for processed and convenience foods is a major factor driving the food processing equipment market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type: Processing equipment segment held the largest market share of 53.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By mode of operation: Automatic equipment segment held the largest market share of 51.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Bakery and confectionaries segment held the largest market share of 21.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: Germany held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bakery and confectionaries segment dominated the food processing equipment market in 2025 and accounted for 21.5% share due to strong consumer demand for packaged baked goods,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the food processing equipment market in 2025 and accounted for 35.5% share, due to rapid industrialization of the food sector and rising demand for packaged and processed foods. Growing population, urbanization, and changing dietary preferences encouraged manufacturers to expand processing capacity.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global food processing equipment market size accounted for USD 60.35 billion in 2026 and is predicted to reach around USD 87.82 billion by 2035, growing at a CAGR of 4.27% from 2026 to 2035. The food processing equipment market is driven by increasing demand for processed food and automation in the food processing industry.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific led the global market with the highest market share of 36% in 2025.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Type, the processing segment has held the largest market share in 2025.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Mode of Operation, the automatic segment registered the maximum market share in 2025.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the meat, poultry, and seafood segment is estimated to hold the highest market share in 2025.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the Asia Pacific region dominated the market holding a major share of about 36%. The growth of the region is driven by the rising demand for food due to increasing population, increasing disposable incomes, increasing demand for processed food, and changing preferences of consumers towards packaged foods due to rising awareness about their advantages.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 4: Which region is expected to dominate the global food processing equipment market?",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for consolidation and for specialized regional suppliers.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 68-73% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific held the largest revenue share of over 37.3% in 2024 and is forecasted to grow at the highest rate through the forecast period, driven by a large population, rising disposable incomes, and changing food consumption patterns across China, India, Japan, and Australia.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which region dominates the food processing equipment market?",
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific held the largest revenue share of over 37.3% in 2024 and is forecasted to grow at the highest rate through the forecast period, driven by a large population and rising disposable incomes across China, India, and Japan.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use sector: Bakery, pasta & confectionery facilities are expected to concentrate 37.3% of sector valuation in 2026 owing to high-tonnage flour mixing and continuous tunnel baking investments.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By mode of operation: Continuous high-throughput lines are anticipated to account for 65.1% of segment valuation in 2026 through uninterrupted 24-hour processing of staple dairy and meat volumes.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 6: Equipment Type Leadership and Market Growth for the Food Processing Equipment Market (segment and CAGR percentage), 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "3-A & EHEDG clean-in-place sanitary designs are forecast to account for 61.3% of hygienic design standard market value in 2026 as food-safety auditors penalize dead-leg piping.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous high-throughput lines are anticipated to account for 65.1% of mode of operation value in 2026, reinforced by uninterrupted processing.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "running on unified control software. In February 2026, JBT Marel Corporation reported USD 3.8 billion in full-year 2025 consolidated revenue with inbound orders of USD 3.8 billion as protein and prepared-food processors expanded full-line orders",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bakery & Confectionery products held the dominant position with a share of 28.5% in 2025, driven by growing consumer demand for snack foods, baked goods, and confectionery.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe held a share of 20% of the Food Processing & Handling Equipment market share, followed by Asia Pacific and North America in 2025. APAC is expected to be the leading region during the forecast period.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, food processing equipment held the 48% share of the total market when measured by revenues. The sub-sector includes machinery for activities that include processing, grading, sorting, heating, and milling. Manufacturers are investing heavily in automated and high capacity processing lines to support growth in processed foods and improve operational efficiency.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has declared to plan to spin off their food processing business into a standalone business. It is expected to be share of the new entity by early 2026.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "2] Which region is expected to hold the highest share of the Food Processing & Handling Equipment Market by 2032?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.6. Market Share (%)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "2.4.1. Market Leaders",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "3.5. Key Opinion Leader Analysis for the Food Processing & Handling Equipment Market",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, JBT Corporation, one of the leading companies in providing high-value food and beverage products, announced that the agreement had been finalized with Marel Shares. The merger between these companies is accounted for in bringing out new and innovative equipment in the food industry.",
+    "url": "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the food processing equipment market in 2023?",
+    "url": "https://www.snsinsider.com/reports/food-processing-equipment-market-7399",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "さらに、市場集中度分析、競争環境分析、集中度比率（CR3、CR5、CR10）、新製品と新規参入企業、市場のM&A活動と戦略についても触れられています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の詳細な分析が記載されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "GEA Group AG、Buhler AG、The Middleby Corporationなど、16社の主要企業について、企業情報、食品加工機器の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の動向が個別に詳述されています",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、食品加工機器市場における主要企業のグローバルおよび地域レベルでの買収・合併、新製品発売、契約、提携、協力・合弁事業、研究開発、地域展開など、市場の主要な戦略的動向についても網羅しています",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機器市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には株式会社アペックス・株式会社ソディック・エア・ウォーター北海道株式会社などがあります",
+    "url": "https://salesnow.jp/db/industries/mechanical/subIndustries/food-machinery",
+    "pass": 3
+   },
+   {
+    "quote": "大手・主要企業の把握",
+    "url": "https://salesnow.jp/db/industries/mechanical/subIndustries/food-machinery",
+    "pass": 3
+   },
+   {
+    "quote": "食品機械の主要企業（正社員規模順・推定）",
+    "url": "https://salesnow.jp/db/industries/mechanical/subIndustries/food-machinery",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する食品加工機械メーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する食品加工機械メーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "食品加工機械メーカー 主要企業シェアランキング 岩井機械工業株式会社・株式会社マスダック・澁谷工業株式会社等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Bühler AG, GEA Group Aktiengesellschaft, and Tetra Laval.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the food processing equipment market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global food processing equipment market include BAADER Group; JBT Marel; Bühler AG; GEA Group Aktiengesellschaft; The Middleby Corporation; Tetra Laval; Alfa Laval; Krones AG; SPX Flow Inc.; LEHUI; Equipamientos Cárnicos, S.L. (MAINCA); FENCO Food Machinery s.r.l.; Bigtem Makine A.S.; TNA Australia Pty Limited; Foodmate.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing Equipment Market Size, Key Companies, Company Market Share, Equipment Production Volume, Sales Performance, Manufacturing Cost, Export & Import Trends, Competitive Positioning, and Market Analysis",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The food processing industry in India is exponentially rising due to some major reasons owing to the rapid urbanization, evolving consumer preferences, rising MSMEs and startups in rural areas, rapid advancements in technology, and supportive government framework.",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Food Processing Handling Equipment Market include",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Which key players dominate the Food Processing Handling Equipment Market?",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players include Buhler Group, Marel, Tetra Pak, GEA Group, and JBT Corporation.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "How concentrated is the competitive landscape?",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Food Processing Equipment Market",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing & Handling Equipment Market Size by Equipment Type, End Product Form, Application, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has introduced extruder equipment, which is designed to meet the demand of Key players operating in the global biscuit market. An innovation is expected to support to increase the volume and high speed.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "5] Who are the major players in the Food Processing & Handling Equipment Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Food Processing & Handling Equipment Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Positioning of Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "12. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "Fat Replacers Market Size by Source, Type, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2029",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional and Country Level Analysis; Segment-Level Analysis; DROC; PESTLE Analysis; Porter’s Five Forces Analysis; Competitive Landscape; Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "KEY PLAYERS IN THE GLOBAL FOOD PROCESSING MACHINERY MARKET",
+    "url": "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major Key Players in the Global Food Processing Machinery Market are Anko Food Machine, Atlas Pacific Engineering Co. Inc, Bean (John) Technologies Corp., Bühler AG, Tetra Laval, GEA, Tomra Systems, Krones, SPX Corp, and Berkshire Hathaway Inc",
+    "url": "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing Equipment - Market Insights, Competitive Landscape, and Market Forecast - 2030",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing Equipment Market Key Players:",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key market players operating in the Food Processing Equipment market include",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies dominating the global Food Processing Equipment market.",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players operating in the global Food Processing Equipment market?",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key market players operating in food processing equipment include",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "3. Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in",
+    "url": "https://www.snsinsider.com/reports/food-processing-equipment-market-7399",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "pass": 3
+   },
+   {
+    "quote": "野村ホールディングス等から「累計18億円」の資金調達をしています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "By 2035, the market is expected to be robust, driven by innovation and strategic investments.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "pass": 3
+   },
+   {
+    "quote": ". The investment strengthens Alfa Laval's aftermarket and lifecycle service offering in Asia-Pacific, the fastest-growing regional market (8.13% CAGR), and reflects the growing importance of service revenue as the installed base of automated separation and heat-transfer equipment expands.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": ". The project demonstrates a scalable model for shared, energy-efficient food manufacturing infrastructure and positions GEA strongly in sustainability-driven refrigeration and thermal investments across Europe, where the UK is among the fastest-growing major markets (6.29% CAGR).",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": ". The move supports processors' need to validate high-throughput and new-product lines before investment, strengthening JBT Marel's competitive position in North America, a region valued at USD 13,884.66 Million in 2025.",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use sector: Bakery, pasta & confectionery facilities are expected to concentrate 37.3% of sector valuation in 2026 owing to high-tonnage flour mixing and continuous tunnel baking investments.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bakery, pasta & confectionery plants are expected to command 37.3% of end-use sector valuation in 2026, reflecting continuous dough-line investments.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key takeaway: In Brazil, surging meat and beverage export slaughterhouse investments are anticipated to drive the fastest national machinery growth rate through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top-down food and beverage manufacturing capital-investment models reconciled against bottom-up OEM machinery order backlogs and aftermarket service contracts from 2026 to 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil is projected to lead national market growth at a 6.6% CAGR through 2036, backed by expanding beef and poultry export slaughterhouse automation and spiral-freezing investments.",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.4. Investment Outlook & Risk Analysis",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.2. High initial investment",
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "between 2024 and 2029. The market is experiencing significant growth, driven by escalating investments in the food processing sector, particularly in developing economies in Asia Pacific.",
+    "url": "https://www.technavio.com/report/food-processing-machinery-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.3.1. High initial investment cost",
+    "url": "https://www.emergenresearch.com/industry-report/food-processing-equipment-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "食品 加工 機械市場 の 規模 、シェア、成長率、分析（2034年 ... — 食品 加工 機械市場 の 規模 、シェア、成長率、分析（2034年 ... Straits Research https://straitsresearch.com > ... > 食品加工および加工食品",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品 加工 機械市場 の詳細分析：2026年から2033年までの13.1 ... — 食品 加工 機械市場 の詳細分析：2026年から2033年までの13.1 ... LinkedIn https://jp.linkedin.com > pulse > 食品加工機械市場の詳...",
+    "url": "https://jp.linkedin.com/pulse/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE131%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87%E3%81%8A%E3%82%88%E3%81%B3cagr%E3%81%AE%E4%BA%88%E6%B8%AC-aromatics-market-lab-joeue",
+    "pass": 3
+   },
+   {
+    "quote": "食品 加工 機械 - メーカー・ 企業 34社の業務用製品ランキング — 食品 加工 機械 - メーカー・ 企業 34社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 食品加工機械",
+    "url": "https://mono.ipros.com/cg2/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "食品 加工 機械市場 の規模、 シェア 、成長率、分析（2034年 ... — 食品 加工 機械市場 の規模、 シェア 、成長率、分析（2034年 ... Straits Research https://straitsresearch.com > ... > 食品加工および加工食品",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界ウォッチ | 食品機械 業界 — 業界ウォッチ | 食品機械 業界 アマダ https://www.sheetmetal.amada.co.jp > foodmachinery01",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "pass": 3
+   },
+   {
+    "quote": "食品 加工 機械市場 分析レポート 2031年 - Mordor Intelligence — 食品 加工 機械市場 分析レポート 2031年 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品機械 販売額が3年連続増 ― 過去最高を更新 - マシニスト出版 — 食品機械 販売額が3年連続増 ― 過去最高を更新 - マシニスト出版 マシニスト出版 https://www.machinist.co.jp > 2025/07",
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "pass": 3
+   },
+   {
+    "quote": "食品 加工 機械市場 の規模、シェア、成長率、分析（2034年 ... — 食品 加工 機械市場 の規模、シェア、成長率、分析（2034年 ... Straits Research https://straitsresearch.com > ... > 食品加工および加工食品",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品機械 の総販売額、4年連続増 高まる後工程自動化ニーズ — 食品機械 の総販売額、4年連続増 高まる後工程自動化ニーズ 日本食糧新聞・電子版 https://news.nissyoku.co.jp > ニュース",
+    "url": "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する 食品 加工 機械 メーカー ｜2030年 市場 規模推移と ... — AIが予測する 食品 加工 機械 メーカー ｜2030年 市場 規模推移と ... xenoBrain https://service.xenobrain.jp > forecastresults > market-size",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing Equipment Market Size Report, 2026-2033 — Food Processing Equipment Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing Equipment Market Size , Forecast Report 2034 — Food Processing Equipment Market Size , Forecast Report 2034 Global Market Insights Inc. https://www.gminsights.com > food-p...",
+    "url": "https://www.gminsights.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food Processing Equipment Market Size, Forecast Report 2034 — Food Processing Equipment Market Size, Forecast Report 2034 Global Market Insights Inc. https://www.gminsights.com > food-p...",
+    "url": "https://www.gminsights.com/industry-analysis/food-processing-equipment-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.58",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "世界の食品加工機械市場規模は、2025年には837億8000万米ドルと評価され、2026年の884億5000万米ドルから2034年には1365億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.58%となる見込みです"
+   },
+   {
+    "value": "6.55",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "乾燥、揚げ物、調理の分野は、予測期間中に年平均成長率（CAGR）6.55%で最も高い成長が見込まれています"
+   },
+   {
+    "value": "7.15",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "同市場は予測期間中、年平均成長率（CAGR）7.15%で成長すると見込まれている"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "quote": "世界の加熱食品加工機器市場規模は、2025年の261億7,000万米ドルから2032年には443億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.0％で成長すると見込まれています"
+   },
+   {
+    "value": "4.1",
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "quote": "当社のリサーチアナリストによる分析によると、世界の食品加工機器市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約4.1%で成長すると推定されています"
+   },
+   {
+    "value": "4.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "quote": "The global food processing equipment market size was valued at USD 56.8 billion in 2025 and is projected to grow from USD 59.0 billion in 2026 to USD 78.7 billion by 2033, at a CAGR of 4.2% from 2026 to 2033. The market in Asia Pacific dominated with a revenue share of 35.5% in 2025. Rising demand f"
+   },
+   {
+    "value": "4.27",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "quote": "The global food processing equipment market size accounted for USD 60.35 billion in 2026 and is predicted to reach around USD 87.82 billion by 2035, growing at a CAGR of 4.27% from 2026 to 2035. The food processing equipment market is driven by increasing demand for processed food and automation in "
+   },
+   {
+    "value": "4.33",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "quote": "As per Market Research Future analysis, the Food Processing Handling Equipment Market was estimated at 33.66 USD Billion in 2024. The Food Processing Handling Equipment industry is projected to grow from 35.12 USD Billion in 2025 to 53.67 USD Billion by 2035, exhibiting a compound annual growth rate"
+   },
+   {
+    "value": "6.51",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "USD 65,710.63 Mn (2025) → USD 123,416.29 Mn (2035); CAGR 6.51%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "39",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "アジア太平洋地域は、2025年に市場シェア39%を占め、食品加工機械市場を牽引しました"
+   },
+   {
+    "value": "31",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "加工機器セグメントは2025年に31％のシェアを占め、市場を牽引するだろう"
+   },
+   {
+    "value": "57",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "2025年には自動運転セグメントが市場を席巻し、57%のシェアを占める見込みです"
+   },
+   {
+    "value": "24",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "北米は世界の食品加工機械市場の24%を占め、2025年には201億1000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.85%と見込まれています"
+   },
+   {
+    "value": "5.85",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "北米は世界の食品加工機械市場の24%を占め、2025年には201億1000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.85%と見込まれています"
+   },
+   {
+    "value": "22",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "欧州は世界の食品加工機械市場の22%を占め、2025年には184億3000万米ドルの市場規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています"
+   },
+   {
+    "value": "5.65",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "欧州は世界の食品加工機械市場の22%を占め、2025年には184億3000万米ドルの市場規模に達すると予測されており、予測期間中の年平均成長率（CAGR）は5.65%と見込まれています"
+   },
+   {
+    "value": "8",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "中東・アフリカ地域は世界の食品加工機械市場の8%を占め、2025年には67億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.45%と見込まれています"
+   },
+   {
+    "value": "6.45",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "中東・アフリカ地域は世界の食品加工機械市場の8%を占め、2025年には67億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.45%と見込まれています"
+   },
+   {
+    "value": "7",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "南米は世界の食品加工機械市場の7%を占め、2025年には58億6000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.35%と見込まれています"
+   },
+   {
+    "value": "6.35",
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "quote": "南米は世界の食品加工機械市場の7%を占め、2025年には58億6000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.35%と見込まれています"
+   },
+   {
+    "value": "50",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "quote": "同社の売上構成は、充填機を格納するクリーンブース関連が50%、食品機械部品・装置が20%を占めています"
+   },
+   {
+    "value": "20",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "quote": "同社の売上構成は、充填機を格納するクリーンブース関連が50%、食品機械部品・装置が20%を占めています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "quote": "中でも、出荷金額の機種別構成比で約40%を占める「油圧ショベル」の需要減が大きく影響しています"
+   },
+   {
+    "value": "4.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "quote": "The global food processing equipment market size was valued at USD 56.8 billion in 2025 and is projected to grow from USD 59.0 billion in 2026 to USD 78.7 billion by 2033, at a CAGR of 4.2% from 2026 to 2033. The market in Asia Pacific dominated with a revenue share of 35.5% in 2025. Rising demand f"
+   },
+   {
+    "value": "35.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "quote": "The global food processing equipment market size was valued at USD 56.8 billion in 2025 and is projected to grow from USD 59.0 billion in 2026 to USD 78.7 billion by 2033, at a CAGR of 4.2% from 2026 to 2033. The market in Asia Pacific dominated with a revenue share of 35.5% in 2025. Rising demand f"
+   },
+   {
+    "value": "53.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "quote": "By type: Processing equipment segment held the largest market share of 53.3% in 2025."
+   },
+   {
+    "value": "51.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "quote": "By mode of operation: Automatic equipment segment held the largest market share of 51.1% in 2025."
+   },
+   {
+    "value": "21.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "quote": "By application: Bakery and confectionaries segment held the largest market share of 21.5% in 2025."
+   },
+   {
+    "value": "4.27",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "quote": "The global food processing equipment market size accounted for USD 60.35 billion in 2026 and is predicted to reach around USD 87.82 billion by 2035, growing at a CAGR of 4.27% from 2026 to 2035. The food processing equipment market is driven by increasing demand for processed food and automation in "
+   },
+   {
+    "value": "36",
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "quote": "Asia Pacific led the global market with the highest market share of 36% in 2025."
+   },
+   {
+    "value": "22.9",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "7.0",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "3.8",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "2.0",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "1.7",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "0.9",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "61.7",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "The market is moderately fragmented, with an estimated HHI of approximately 600–650. Tetra Laval leads with a 22.9% share, followed by Krones (7.0%), JBT Marel (3.8%), Alfa Laval (2.0%), GEA (1.7%) and Bühler (0.9%), while 61.7% of revenue is held by other players. This leaves significant room for c"
+   },
+   {
+    "value": "73",
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "quote": "Coverage of manufacturers representing 68-73% of global market share in 2024"
+   },
+   {
+    "value": "37.3",
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "quote": "Asia-Pacific held the largest revenue share of over 37.3% in 2024 and is forecasted to grow at the highest rate through the forecast period, driven by a large population, rising disposable incomes, and changing food consumption patterns across China, India, Japan, and Australia."
+   },
+   {
+    "value": "37.3",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "quote": "By end-use sector: Bakery, pasta & confectionery facilities are expected to concentrate 37.3% of sector valuation in 2026 owing to high-tonnage flour mixing and continuous tunnel baking investments."
+   },
+   {
+    "value": "65.1",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "quote": "By mode of operation: Continuous high-throughput lines are anticipated to account for 65.1% of segment valuation in 2026 through uninterrupted 24-hour processing of staple dairy and meat volumes."
+   },
+   {
+    "value": "61.3",
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "quote": "3-A & EHEDG clean-in-place sanitary designs are forecast to account for 61.3% of hygienic design standard market value in 2026 as food-safety auditors penalize dead-leg piping."
+   },
+   {
+    "value": "28.5",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "quote": "Bakery & Confectionery products held the dominant position with a share of 28.5% in 2025, driven by growing consumer demand for snack foods, baked goods, and confectionery."
+   },
+   {
+    "value": "20",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "quote": "Europe held a share of 20% of the Food Processing & Handling Equipment market share, followed by Asia Pacific and North America in 2025. APAC is expected to be the leading region during the forecast period."
+   },
+   {
+    "value": "48",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "quote": "In 2025, food processing equipment held the 48% share of the total market when measured by revenues. The sub-sector includes machinery for activities that include processing, grading, sorting, heating, and milling. Manufacturers are investing heavily in automated and high capacity processing lines t"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-101768",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9666312",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/food-processing-machinery-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://salesnow.jp/db/industries/mechanical/subIndustries/food-machinery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/category/5b681f97-c14a-4f9e-8900-e2e1d0d8396d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machinist.co.jp/2025/07/22460/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fooma.or.jp/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/food-processing-and-handling-equipment-market-101701",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://market.us/report/global-prepared-food-equipment-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/food-processing-equipment-market-7399",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/food-processing-and-handling-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/food-processing-machinery-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/food-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/food-and-beverage-processing-equipment-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/food-processing-equipment-market-101768",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "食品機械 市場規模 CAGR",
+   "results": [
+    "https://www.sphericalinsights.com/jp/reports/japan-food-processing-equipment-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-101768",
+    "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "https://jp.linkedin.com/pulse/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE131%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87%E3%81%8A%E3%82%88%E3%81%B3cagr%E3%81%AE%E4%BA%88%E6%B8%AC-aromatics-market-lab-joeue",
+    "https://www.atpress.ne.jp/news/9666312",
+    "https://www.zionmarketresearch.com/ja/report/food-processing-equipment-market",
+    "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "https://kerchief274.inkrich.com/posts/food-processing-machinery-350167-mvcrpd0h",
+    "https://www.fooma.or.jp/statistics/",
+    "https://www.businessresearchinsights.com/jp/market-reports/food-processing-machinery-and-equipment-market-124922"
+   ]
+  },
+  {
+   "query": "食品機械 市場 シェア 上位 企業",
+   "results": [
+    "https://mono.ipros.com/cg2/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0/",
+    "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "https://www.sheetmetal.amada.co.jp/column/industry/foodmachinery01/",
+    "https://www.mordorintelligence.com/ja/industry-reports/food-processing-machinery-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%A3%9F%E5%93%81%E5%8A%A0%E5%B7%A5%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-101768",
+    "https://salesnow.jp/db/industries/mechanical/subIndustries/food-machinery",
+    "https://baseconnect.in/companies/category/5b681f97-c14a-4f9e-8900-e2e1d0d8396d",
+    "https://www.machinist.co.jp/2016/07/4273/",
+    "https://jp.linkedin.com/pulse/%E9%A3%9F%E5%93%81%E9%A3%B2%E6%96%99%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0%E5%B8%82%E5%A0%B4%E3%83%88%E3%83%83%E3%83%9710%E4%BC%81%E6%A5%AD-artifice-aim-neeyc",
+    "https://www.businessresearchinsights.com/jp/market-reports/food-processing-machinery-and-equipment-market-124922"
+   ]
+  },
+  {
+   "query": "食品機械 市場 前年比 2025",
+   "results": [
+    "https://www.machinist.co.jp/2025/07/22460/",
+    "https://www.fooma.or.jp/statistics/",
+    "https://straitsresearch.com/jp/report/food-processing-machinery-market",
+    "https://news.nissyoku.co.jp/news/yokotah20260630084711774",
+    "https://service.xenobrain.jp/forecastresults/market-size/food-processing-machinery-manufacturer",
+    "https://www.sheetmetal.amada.co.jp/column/industry/trend2025_01/",
+    "https://www.gii.co.jp/report/ires1960126-food-processing-machinery-market-by-equipment-type.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/food-processing-machinery-market",
+    "https://japan.zdnet.com/release/31189604/",
+    "https://www.industry-reports.com/global-food-machine-market-qyr/"
+   ]
+  },
+  {
+   "query": "food processing equipment market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "https://www.fortunebusinessinsights.com/industry-reports/food-processing-and-handling-equipment-market-101701",
+    "https://market.us/report/global-prepared-food-equipment-market/",
+    "https://www.gminsights.com/industry-analysis/food-processing-equipment-market",
+    "https://www.technavio.com/report/food-processing-machinery-market-industry-analysis",
+    "https://www.linkedin.com/pulse/automatic-food-processing-equipment-market-analysis-report-zxy1e",
+    "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "https://www.emergenresearch.com/industry-report/food-processing-equipment-market"
+   ]
+  },
+  {
+   "query": "food processing equipment market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/food-processing-and-handling-equipment-market-101701",
+    "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "https://www.linkedin.com/pulse/automatic-food-processing-equipment-market-analysis-report-zxy1e",
+    "https://www.futuremarketinsights.com/reports/food-processing-equipment-market",
+    "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "https://www.marketdataforecast.com/market-reports/global-food-processing-machinery-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/food-processing-equipment-market-101768"
+   ]
+  },
+  {
+   "query": "food processing equipment market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.delveinsight.com/report-store/food-processing-equipment-market",
+    "https://www.maximizemarketresearch.com/market-report/global-food-processing-and-handling-equipment-market/33436/",
+    "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "https://www.marketresearchfuture.com/reports/food-processing-handling-equipment-market-25421",
+    "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "https://www.linkedin.com/pulse/navigating-competitive-landscape-food-processing-machinery-zss3e",
+    "https://www.fortunebusinessinsights.com/industry-reports/food-processing-and-handling-equipment-market-101701",
+    "https://www.snsinsider.com/reports/food-processing-equipment-market-7399",
+    "https://www.factmr.com/report/food-processing-and-handling-equipment-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "food processing equipment market key companies share 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/food-processing-equipment-market",
+    "https://www.precedenceresearch.com/food-processing-equipment-market",
+    "https://www.grandviewresearch.com/industry-analysis/food-processing-equipment-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/food-processing-and-handling-equipment-market-101701",
+    "https://www.intellectualmarketinsights.com/blogs/global-food-processing-equipment-market-top-companies",
+    "https://www.snsinsider.com/reports/food-processing-equipment-market-7399",
+    "https://www.technavio.com/report/food-processing-machinery-market-industry-analysis",
+    "https://www.factmr.com/report/food-processing-and-handling-equipment-market",
+    "https://www.marketresearchfuture.com/reports/food-processing-machinery-market-12364",
+    "https://www.emergenresearch.com/industry-report/food-processing-equipment-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

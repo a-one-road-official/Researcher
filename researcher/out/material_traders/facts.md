@@ -1,0 +1,2446 @@
+# 素材商社・金属流通・素材情報の稼ぎ方（口銭・加工付き・小口・EC・フランチャイズ・データ課金）（事実のみ・34社）
+
+## Argus Media
+- 公式URL：https://www.argusmedia.com（given）
+- 誰に：
+  - 「Our international leadership team is made up of dedicated, focused and experienced executives, who are passionate about commodity markets. In line with our company values, they shape our strategy and lead our people to deliver value for our customers.」（https://www.argusmedia.com/en/about-argus・1回目）
+  - 「Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.」（https://www.argusmedia.com/en/about-argus/careers・1回目）
+  - 「We work for mutual good with our customers and with all our colleagues.」（https://www.argusmedia.com/en/about-argus/careers・1回目）
+  - 「We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.」（https://www.argusmedia.com/en/about-argus/careers・1回目）
+  - 「We proactively help hundreds of customers each week across every part of the energy and commodities supply chain. From onboarding and set-up to platform training and in-depth demonstrations, our customer success team constantly unlocks additional value for our clients.」（https://www.argusmedia.com/en/about-argus/training-and-support・1回目）
+  - 「These are used to track the effectiveness of our marketing emails and to learn more about how customers use our website and what content they are interested in」（https://www.argusmedia.com/en/privacy-policy/content-platforms-cookies-drm-tools・1回目）
+  - 「Our international leadership team is made up of dedicated, focused and experienced executives, who are passionate about commodity markets. In line with our company values, they shape our strategy and lead our people to deliver value for our customers.」（https://www.argusmedia.com/ja/about-argus・1回目）
+  - 「Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.」（https://www.argusmedia.com/de/about-argus/careers・1回目）
+  - 「We work for mutual good with our customers and with all our colleagues.」（https://www.argusmedia.com/de/about-argus/careers・1回目）
+  - 「We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.」（https://www.argusmedia.com/de/about-argus/careers・1回目）
+  - 「Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.」（https://www.argusmedia.com/ja/about-argus/careers・1回目）
+  - 「We work for mutual good with our customers and with all our colleagues.」（https://www.argusmedia.com/ja/about-argus/careers・1回目）
+- 何を：
+  - 「Argus Metals」（https://www.argusmedia.com/・1回目）
+  - 「Oil products」（https://www.argusmedia.com/・1回目）
+  - 「Oil products overview」（https://www.argusmedia.com/・1回目）
+  - 「Metals」（https://www.argusmedia.com/・1回目）
+  - 「Metals overview」（https://www.argusmedia.com/・1回目）
+  - 「Minor metals」（https://www.argusmedia.com/・1回目）
+  - 「Base metals」（https://www.argusmedia.com/・1回目）
+  - 「Products」（https://www.argusmedia.com/・1回目）
+  - 「Price benchmarks and forward looking analysis for global refined oil products, including; road fuels, jet fuel, marine fuels, base oils and more.」（https://www.argusmedia.com/・1回目）
+  - 「We published over 1,300 proprietary metals prices for regional markets across the world, along with in-depth news and analysis.」（https://www.argusmedia.com/・1回目）
+  - 「Our products & platforms give you access across marketplaces」（https://www.argusmedia.com/・1回目）
+  - 「Register below and we will customise a solution that meets your exact needs. When you speak to one of our experts, you may be qualified to sample our industry-leading products on a no-cost basis.」（https://www.argusmedia.com/・1回目）
+- お金の形：
+  - 「US plants run hard, margins triple」（https://www.argusmedia.com/・1回目）
+  - 「Record Gasoline Margins Pressure Europe's Aromatics Chain」（https://www.argusmedia.com/・1回目）
+  - 「Our customer success specialists are on hand to help you get the most out of your Argus subscription.」（https://www.argusmedia.com/・1回目）
+  - 「Our global team of customer success specialists are here to ensure you extract the maximum value from your Argus subscription」（https://www.argusmedia.com/en/about-argus/training-and-support・1回目）
+  - 「If your subscription includes access to one of the Argus platforms, you can download copies of the reports you subscribe to by clicking on the Publications tab at the top of the page. From there, you can select the report you want to download and click the PDF button to download the most recent report.」（https://www.argusmedia.com/en/about-argus/training-and-support・1回目）
+  - 「southern Pelotas basin and the equatorial margin. Lula has been a strong」（https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027・1回目）
+  - 「Record Gasoline Margins Pressure Europe's Aromatics Chain」（https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook・1回目）
+  - 「Key pricing benchmarks and margin drivers across North America」（https://www.argusmedia.com/en/news-and-insights/market-insight-papers/spotlight-renewable-diesel・1回目）
+  - 「Access your Argus subscription via Argus Mobile.」（https://www.argusmedia.com/en/solutions/how-we-deliver/client-portal・1回目）
+  - 「Our global team of customer success specialists are here to ensure you extract the maximum value from your Argus subscription」（https://www.argusmedia.com/zh/about-argus/training-and-support・1回目）
+  - 「If your subscription includes access to one of the Argus platforms, you can download copies of the reports you subscribe to by clicking on the Publications tab at the top of the page. From there, you can select the report you want to download and click the PDF button to download the most recent report.」（https://www.argusmedia.com/zh/about-argus/training-and-support・1回目）
+  - 「Our global team of customer success specialists are here to ensure you extract the maximum value from your Argus subscription」（https://www.argusmedia.com/de/about-argus/training-and-support・1回目）
+- 創業期：
+  - 「The unique market insights we deliver are founded on a deep understanding of market mechanisms. Our methodologies for price discovery are transparent and firmly based on rigorous processes and specifications developed in consultation with market participants.」（https://www.argusmedia.com/・1回目）
+  - 「Founded in 1970, Argus remains a privately held UK-registered company owned by employee shareholders and global growth equity firm General Atlantic.」（https://www.argusmedia.com/en/about-argus・1回目）
+  - 「3.9mn b/d in September, up from 3.53mn b/d in February, before the war started,」（https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027・1回目）
+  - 「exported more electricity last year than any country in history. Cutting」（https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027・1回目）
+  - 「10-year forecast and five-year history covering supply and demand fundamentals across 80+ countries and all major methanol derivatives. A 10-year methanol price forecast covering all major market hubs is also included.」（https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook・1回目）
+  - 「Founded in 1970, Argus remains a privately held UK-registered company owned by employee shareholders and global growth equity firm General Atlantic.」（https://www.argusmedia.com/ja/about-argus・1回目）
+- 検索結果の抜粋：
+  - 「AI Solutions for Market Research and Forecasting - Argus Media — AI Solutions for Market Research and Forecasting - Argus Media Argus Media https://www.argusmedia.com > solutions > ai-solutions」（https://www.argusmedia.com/ja/solutions/how-we-deliver/ai-solutions・3回目）
+  - 「Argus Media : 商品価格、予測、ニュース＆市場分析 | アルガス ... — Argus Media : 商品価格、予測、ニュース＆市場分析 | アルガス ... Argus Media https://www.argusmedia.com > ...」（https://www.argusmedia.com/ja・3回目）
+  - 「CEO, Board of Directors & Leadership | Argus Media — CEO, Board of Directors & Leadership | Argus Media Argus Media https://www.argusmedia.com > about-argus > our-people」（https://www.argusmedia.com/ja/about-argus/our-people・3回目）
+  - 「Argus Media - The Org — Argus Media - The Org The Org https://theorg.com > argus-media-group」（https://theorg.com/org/argus-media-group・3回目）
+  - 「Argus Media : 求人 - LinkedIn — Argus Media : 求人 - LinkedIn LinkedIn https://jp.linkedin.com > company > argus-media > jobs」（https://jp.linkedin.com/company/argus-media/jobs・3回目）
+  - 「Fleet Topco ( Argus Media ) 'B+' Ratings Affirmed; Outlook Stable — Fleet Topco ( Argus Media ) 'B+' Ratings Affirmed; Outlook Stable S&P Global https://www.spglobal.com > sourceId」（https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101612469・3回目）
+  - 「Financial Services | Argus Media — Financial Services | Argus Media Argus Media https://www.argusmedia.com > financ...」（https://www.argusmedia.com/en/industries/financial-services-commodity-market・3回目）
+  - 「Hg mulls sale of minority stake in Argus Media at 3bn-plus EV — Hg mulls sale of minority stake in Argus Media at 3bn-plus EV ION Analytics Community https://community.ionanalytics.com > ...」（https://community.ionanalytics.com/hg-mulls-minority-stake-sale-argus-media-3bn-plus-ev・3回目）
+  - 「Argus Media - Overview, News & Similar companies - ZoomInfo — Argus Media - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > argus-m...」（https://www.zoominfo.com/c/argus-media-ltd/6999263・3回目）
+  - 「Argus Media - LinkedIn — Argus Media - LinkedIn LinkedIn https://uk.linkedin.com > argus-media」（https://uk.linkedin.com/company/argus-media・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+- 加工・付加価値：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）
+
+## Asian Metal
+- 公式URL：https://www.asianmetal.com（given）
+- 誰に：
+  - 「Asian Metal enables international companies to post buying or selling plans directly through our forum. Once posted, each listing is immediately presented to a broad audience of potential customers worldwide. Users also gain access to a separate, easy-to-manage platform for information sharing and negotiations.」（https://www.asianmetal.com/about/aboutusEnV2.shtml・1回目）
+  - 「Asian Metal combines over 25 years of accumulated data with an intuitive world map to help users identify target customers. Users can search by region, explore operations, and gather consumer intelligence before sending product or information inquiries. Companies can also personalize their profiles on the map to promote their products and better target potential customers.」（https://www.asianmetal.com/about/aboutusEnV2.shtml・1回目）
+  - 「Asian Metal hosts specialized international conferences annually, providing a platform for thousands of professionals in the metals sector to meet and actively engage in industry discussions. These events offer industry leaders from around the world an opportunity to exchange ideas, connect with customers, and participate in meaningful dialogue on sector developments.」（https://www.asianmetal.com/about/aboutusEnV2.shtml・1回目）
+- 何を：
+  - 「Base Metals」（https://www.asianmetal.com/・1回目）
+  - 「Minor Metals」（https://www.asianmetal.com/・1回目）
+  - 「Steel Products」（https://www.asianmetal.com/・1回目）
+  - 「Metals」（https://www.asianmetal.com/・1回目）
+  - 「Metals Map」（https://www.asianmetal.com/・1回目）
+  - 「Precious Metals」（https://www.asianmetal.com/・1回目）
+  - 「Scrap Metals」（https://www.asianmetal.com/・1回目）
+  - 「Contact us - Asian Metal - The World Metals Information Center」（https://www.asianmetal.com/about/contactusEnV2.shtml・1回目）
+  - 「Base Metals」（https://www.asianmetal.com/about/contactusEnV2.shtml・1回目）
+  - 「Minor Metals」（https://www.asianmetal.com/about/contactusEnV2.shtml・1回目）
+  - 「Metals Map」（https://www.asianmetal.com/about/contactusEnV2.shtml・1回目）
+  - 「Precious Metals」（https://www.asianmetal.com/about/contactusEnV2.shtml・1回目）
+- 加工・付加価値：
+  - 「Steel deep processing project breaks ground in China-Mongolia zone」（https://www.asianmetal.com/Wire-Rod-News/・1回目）
+  - 「Zhongjiu Iron Mine's mining and processing project passes safety facility acceptance」（https://www.asianmetal.com/Iron-Ore-News/・1回目）
+- 創業期：
+  - 「- Founded in 2000 by industry experts」（https://www.asianmetal.com/about/aboutusEnV2.shtml・1回目）
+  - 「Founded in 2000 by industry professionals, Asian Metal is committed to providing comprehensive metals market pricing and coverage across all regions. We offer users access to metals market pricing, data, statistics, and news worldwide.」（https://www.asianmetal.com/about/aboutusEnV2.shtml・1回目）
+- 検索結果の抜粋：
+  - 「Asian Metal - The World Metal Information Center — Asian Metal - The World Metal Information Center Asian Metal https://www.asianmetal.com」（https://www.asianmetal.com/・3回目）
+  - 「Asian Metal | LinkedIn — Asian Metal | LinkedIn LinkedIn https://jp.linkedin.com > company > asianmetal-inc」（https://jp.linkedin.com/company/asianmetal-inc・3回目）
+  - 「Return Local - Asian Metal — Return Local - Asian Metal Asian Metal https://www.asianmetal.com > news」（https://www.asianmetal.com/news/2384168/Japan-silicon-carbide-import-and-export-statistics-202608/17・3回目）
+  - 「Return Local - Asian Metal — Return Local - Asian Metal Asian Metal https://www.asianmetal.com > news」（https://www.asianmetal.com/news/2382918/Chinese-traders-of-CR-coil-hold-bearish-sentiments-towards-the-market/18・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+
+## Fastmarkets
+- 公式URL：https://www.fastmarkets.com（given）
+- 誰に：
+  - 「markets. We give customers the insights to trade today and plan for tomorrow.」（https://www.fastmarkets.com/・1回目）
+  - 「Our price data, forecasts, and market analyses give our customers a strategic advantage in complex, volatile and often opaque markets. Our events provide immersive experiences to network, trade and discuss the critical issues of the day.」（https://www.fastmarkets.com/about-us/・1回目）
+  - 「We marry a culture energized by a diversity of intellect, experiences, and perspective with a passion to make our customers successful.」（https://www.fastmarkets.com/about-us/・1回目）
+  - 「We combine the authority of our expertise with a pragmatic view of how markets work to help our customers see clearly even in volatile and opaque markets.」（https://www.fastmarkets.com/about-us/・1回目）
+  - 「markets. We give customers the insights to trade today and plan for tomorrow.」（https://www.fastmarkets.com/about-us/・1回目）
+  - 「Fastmarkets is a dynamic, inclusive organization that believes in the greatness of every individual. The combined power of diverse intellects, perspectives, and experiences is what fuels our team. We bring a growth mindset and a passion for our customers’ success to work every day.」（https://www.fastmarkets.com/about-us/careers/・1回目）
+  - 「Our price data, forecasts, and market analyses give our customers strategic advantage in complex, volatile, often opaque markets. Our events provide immersive experiences to network, trade, and discuss the critical issues of the day.」（https://www.fastmarkets.com/about-us/careers/・1回目）
+  - 「We use insights to improve our customers’ experience and our business performance」（https://www.fastmarkets.com/about-us/careers/・1回目）
+  - 「Our people are creative, action-orientated, close to their customers, passionate about their brands, knowledgeable about the industries they serve and accountable for their results.」（https://www.fastmarkets.com/about-us/careers/・1回目）
+  - 「markets. We give customers the insights to trade today and plan for tomorrow.」（https://www.fastmarkets.com/about-us/careers/・1回目）
+  - 「markets. We give customers the insights to trade today and plan for tomorrow.」（https://www.fastmarkets.com/about-us/people/・1回目）
+  - 「markets. We give customers the insights to trade today and plan for tomorrow.」（https://www.fastmarkets.com/about-us/sustainability-at-fastmarkets/・1回目）
+- 何を：
+  - 「Forest products」（https://www.fastmarkets.com/・1回目）
+  - 「Metals and mining」（https://www.fastmarkets.com/・1回目）
+  - 「Products」（https://www.fastmarkets.com/・1回目）
+  - 「Forest products events」（https://www.fastmarkets.com/・1回目）
+  - 「Metals events」（https://www.fastmarkets.com/・1回目）
+  - 「Data centre copper demand nears 1 million tonnes, tin price doubles: LME Week metals debate」（https://www.fastmarkets.com/・1回目）
+  - 「Access more than 5,500 prices in agriculture, forest products, metals and mining and new generation energy」（https://www.fastmarkets.com/・1回目）
+  - 「Forest Products North America and International Containerboard Conference 2026」（https://www.fastmarkets.com/・1回目）
+  - 「agency (PRA) in the agriculture, forest products and metals and mining」（https://www.fastmarkets.com/・1回目）
+  - 「Our products」（https://www.fastmarkets.com/・1回目）
+  - 「Forest products」（https://www.fastmarkets.com/about-us/・1回目）
+  - 「Metals and mining」（https://www.fastmarkets.com/about-us/・1回目）
+- 加工・付加価値：
+  - 「EU adds four rare earth projects to strategic list to support recycling, processing goals」（https://www.fastmarkets.com/・1回目）
+- お金の形：
+  - 「European tissue jumbo roll prices start to rise in March as input cost increases erode margins」（https://www.fastmarkets.com/about-us/people/andrea-venturini/・1回目）
+- 売上構成：
+  - 「Base metals prices mixed as participants question if this is a ‘buy the dip’ moment」（https://www.fastmarkets.com/about-us/people/william-adams/・1回目）
+  - 「MORNING VIEW: Base metals prices mixed following Thursday’s sharp pullbacks」（https://www.fastmarkets.com/about-us/people/william-adams/・1回目）
+- 創業期：
+  - 「Get started」（https://www.fastmarkets.com/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/careers/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/people/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/sustainability-at-fastmarkets/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/insights/us-fats-and-oils-prices-largely-steady-as-forward-interest-firms-august-biofuel-consumption-declines/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/people/sarahschneider/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/people/yana-suharskaya/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/people/abhishekpathak/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/people/andrea-venturini/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/about-us/people/angelkrasimirov/・1回目）
+  - 「Get started」（https://www.fastmarkets.com/insights/how-cbam-will-widen-the-premium-for-high-grade-iron-ore/・1回目）
+- 検索結果の抜粋：
+  - 「Fastmarkets : Commodity price data, forecasts, insights and ... — Fastmarkets : Commodity price data, forecasts, insights and ... Fastmarkets https://www.fastmarkets.com」（https://www.fastmarkets.com/・3回目）
+  - 「About us - Fastmarkets — About us - Fastmarkets Fastmarkets https://www.fastmarkets.com > about-us」（https://www.fastmarkets.com/about-us/・3回目）
+  - 「Fastmarkets Methodology | Benchmark Commodity Prices — Fastmarkets Methodology | Benchmark Commodity Prices Fastmarkets https://www.fastmarkets.com > metho...」（https://www.fastmarkets.com/methodology/・3回目）
+  - 「Our people - Fastmarkets — Our people - Fastmarkets Fastmarkets https://www.fastmarkets.com > people」（https://www.fastmarkets.com/about-us/people/・3回目）
+  - 「Robert England, Author at Fastmarkets — Robert England, Author at Fastmarkets Fastmarkets https://www.fastmarkets.com > people」（https://www.fastmarkets.com/about-us/people/robert-england/・3回目）
+  - 「Podcast Archives - Fastmarkets — Podcast Archives - Fastmarkets Fastmarkets https://www.fastmarkets.com > podcast」（https://www.fastmarkets.com/insights/category/podcast/・3回目）
+  - 「Our people - Fastmarkets — Our people - Fastmarkets Fastmarkets https://www.fastmarkets.com > page」（https://www.fastmarkets.com/about-us/people/page/21/?_fs=649d808a-1ebd-46c3-9b24-5c08ef19e46b・3回目）
+  - 「How is Fastmarkets helping companies navigate CBAM? — How is Fastmarkets helping companies navigate CBAM? YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=lkZWsF_fZ2Q・3回目）
+  - 「North American pulp and paper industry profit margin at 4.2 ... — North American pulp and paper industry profit margin at 4.2 ... Fastmarkets https://www.fastmarkets.com > insights」（https://www.fastmarkets.com/insights/north-american-pulp-and-paper-industry-profit-margin-drop-1q-2023/・3回目）
+  - 「What does the Mill level Profitability Report show? - Fastmarkets — What does the Mill level Profitability Report show? - Fastmarkets Fastmarkets https://help.fastmarkets.com > test-2」（https://help.fastmarkets.com/test-2/what-does-the-profitability-report-show・3回目）
+  - 「Fastmarkets - LinkedIn — Fastmarkets - LinkedIn LinkedIn https://uk.linkedin.com > fastmarkets」（https://uk.linkedin.com/company/fastmarkets・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部3頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部3頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部3頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部3頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部3頁・検索4回）
+
+## JX金属商事
+- 公式URL：https://www.jx-tsusho.co.jp（given）
+- 誰に：
+  - 「輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+- 何を：
+  - 「商品に関するお知らせ」（https://www.jx-kinzokushoji.com/corporate/auditors.html・3回目）
+  - 「商品・サービス」（https://www.jx-kinzokushoji.com/corporate/auditors.html・3回目）
+  - 「薄膜材料・レアメタルなど」（https://www.jx-kinzokushoji.com/corporate/auditors.html・3回目）
+  - 「Copyright © 2021 JX Metals Trading Co., Ltd. All Rights Reserved.」（https://www.jx-kinzokushoji.com/corporate/auditors.html・3回目）
+  - 「新社長に聞く／ＪＸ金属商事／鈴木章仁氏／再生原料需要増に対応 | 鉄鋼・非鉄金属業界の専門紙「日刊産業新聞」」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「非鉄金属ニュース」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「鉄・非鉄金属リサイクル」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「特殊鋼・ステンレス」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「非鉄ニュースのジャンル」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「アルミ地金・二次合金」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「ニッケル・チタン」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「レアメタル他」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+- 加工・付加価値：
+  - 「金属加工材料」（https://www.jx-kinzokushoji.com/corporate/auditors.html・3回目）
+  - 「非鉄二・三次加工」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+- 創業期：
+  - 「History」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+- 検索結果の抜粋：
+  - 「JX金属商事 の「企業分析［強み・弱み・展望］」 OpenWork — JX金属商事 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > JX金属商事」（https://www.openwork.jp/company_answer.php?m_id=a0C10000011FJcX&q_no=9・3回目）
+  - 「役員紹介 | 会社情報 - JX金属商事 — 役員紹介 | 会社情報 - JX金属商事 ＪＸ金属商事 https://www.jx-kinzokushoji.com > 会社情報」（https://www.jx-kinzokushoji.com/corporate/auditors.html・3回目）
+  - 「JX金属商事 ／鈴木章仁氏／再生原料需要増に対応 — JX金属商事 ／鈴木章仁氏／再生原料需要増に対応 japanmetal.com https://www.japanmetal.com > news-to20220531118367」（https://www.japanmetal.com/news-to20220531118367.html・3回目）
+  - 「JX金属商事 — JX金属商事 ＪＸ金属商事 https://www.jx-kinzokushoji.com」（https://www.jx-kinzokushoji.com/・3回目）
+  - 「JX金属商事社長 ・細谷一彦氏「新分野増やし成長拡大」 — JX金属商事社長 ・細谷一彦氏「新分野増やし成長拡大」 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/00255293・3回目）
+  - 「JX金属商事 (株)の新卒採用・会社概要 | マイナビ2027 — JX金属商事 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp66107 > outline」（https://job.mynavi.jp/27/pc/search/corp66107/outline.html・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## Kloeckner Metals
+- 公式URL：https://www.kloeckner.com（given）
+- 誰に：
+  - 「Kloeckner Metals Corporation is headquartered in Alpharetta, Georgia and has more than 3,200 employees. Kloeckner is a pioneer in the digital transformation of the steel industry and looks to be a full-line service center to its customers while fully digitalizing the supply and service chain.」（https://www.kloecknermetals.com/about/・3回目）
+  - 「Our footprint has grown strategically over the years to better serve customers all over North America and beyond.」（https://www.kloecknermetals.com/about/・3回目）
+  - 「60,000+ Customers」（https://www.kloecknermetals.com/about/・3回目）
+- 何を：
+  - 「Products & Services」（https://www.kloecknermetals.com/・3回目）
+  - 「Building Products」（https://www.kloecknermetals.com/・3回目）
+  - 「Kloeckner Metals transforms raw elements into essential tools and structures that power daily life. With every innovation and perfected process, we're not just supplying metal; we're creating possibility.」（https://www.kloecknermetals.com/・3回目）
+  - 「Kloeckner Metals Metal Calculator」（https://www.kloecknermetals.com/・3回目）
+  - 「From the Hub of Kloeckner Metals」（https://www.kloecknermetals.com/・3回目）
+  - 「Learn more from our blog about Kloeckner Metals」（https://www.kloecknermetals.com/・3回目）
+  - 「Kloeckner Metals Corporation」（https://www.kloecknermetals.com/・3回目）
+  - 「The Kloeckner Metals Building Products Group will be at booth...」（https://www.kloecknermetals.com/・3回目）
+  - 「Kloeckner Metals is excited to attend the 2025 SMU Steel...」（https://www.kloecknermetals.com/・3回目）
+  - 「©2026 Kloeckner Metals Corporation. All Rights Reserved.」（https://www.kloecknermetals.com/・3回目）
+  - 「The Kloeckner Metals website uses modern technologies. Unfortunately, your browser doesn't support those technologies.」（https://www.kloecknermetals.com/・3回目）
+  - 「About - Kloeckner Metals Corporation」（https://www.kloecknermetals.com/about/・3回目）
+- 加工・付加価値：
+  - 「Plate Processing」（https://www.kloecknermetals.com/・3回目）
+  - 「Tell us what you’re building, and we’ll match it with the right metal, precision processing, and delivery speed—so you get a quote that fits your project, not the other way around.」（https://www.kloecknermetals.com/・3回目）
+  - 「Wide range of services: consulting, procurement, warehousing, processing and distribution」（https://www.kloecknermetals.com/about/・3回目）
+- 検索結果の抜粋：
+  - 「Klöckner & Co to sell eight U.S. distribution sites to intensify its ... — Klöckner & Co to sell eight U.S. distribution sites to intensify its ... Klöckner & Co SE https://www.kloeckner.com > media」（https://www.kloeckner.com/en/media/press-releases/kloeckner-co-to-sell-eight-u-s-distribution-sites-to-intensify-its-focus-on-the-higher-value-added-and-service-center-business/・3回目）
+  - 「Kloeckner Metals — Kloeckner Metals Kloeckner Metals Corporation https://www.kloecknermetals.com」（https://www.kloecknermetals.com/・3回目）
+  - 「Kloeckner Metals to Build New Columbus Facility as Part of ... — Kloeckner Metals to Build New Columbus Facility as Part of ... Mississippi Business Journal https://msbusinessjournal.com > kloec...」（https://msbusinessjournal.com/kloeckner-metals-to-build-new-columbus-facility-as-part-of-expansion/・3回目）
+  - 「Kloeckner Metals Corporation - Wikipedia — Kloeckner Metals Corporation - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Kloe...」（https://en.wikipedia.org/wiki/Kloeckner_Metals_Corporation・3回目）
+  - 「Klöckner & Co gets off to a solid start in the fiscal year 2025 ... — Klöckner & Co gets off to a solid start in the fiscal year 2025 ... Klöckner & Co SE https://www.kloeckner.com > media」（https://www.kloeckner.com/en/media/press-releases/q1-2025/・3回目）
+  - 「About - Kloeckner Metals Corporation — About - Kloeckner Metals Corporation Kloeckner Metals Corporation https://www.kloecknermetals.com > a...」（https://www.kloecknermetals.com/about/・3回目）
+  - 「Kloeckner Metals - Americas (@kloecknermetals) - Facebook — Kloeckner Metals - Americas (@kloecknermetals) - Facebook Facebook https://www.facebook.com > ... > Metal Supplier」（https://www.facebook.com/kloecknermetals/・3回目）
+  - 「Kloeckner Metals : The Wisdom of Troubled Times — Kloeckner Metals : The Wisdom of Troubled Times BOSS Publishing https://thebossmagazine.com > profile」（https://thebossmagazine.com/profile/kloeckner-metals/・3回目）
+  - 「Kloeckner Metals - Americas - LinkedIn — Kloeckner Metals - Americas - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/kloeckner-metals-americas・3回目）
+  - 「Kloeckner Metals （クロエックナー・メタルズ）、グリーン ... — Kloeckner Metals （クロエックナー・メタルズ）、グリーン ... South Carolina Department of Commerce https://www.sccommerce.com > newsroom > kloeckner-m...」（https://www.sccommerce.com/ja/newsroom/kloeckner-metalskuroetsukunametarusukurinhirujunteshiyekuoda・3回目）
+  - 「Klöckner & Co considerably increases its operating income in ... — Klöckner & Co considerably increases its operating income in ... Klöckner & Co SE https://www.kloeckner.com > media」（https://www.kloeckner.com/en/media/press-releases/q1-2026/・3回目）
+  - 「Klöckner & Co to Sell Eight U.S. Distribution Sites to Intensify ... — Klöckner & Co to Sell Eight U.S. Distribution Sites to Intensify ... Kloeckner Metals Corporation https://www.kloecknermetals.com > k...」（https://www.kloecknermetals.com/news/klockner-co-to-sell-eight-u-s-distribution-sites-to-intensify-its-focus-on-the-higher-value-added-and-service-center-business-2/・3回目）
+- 設立：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索4回）
+
+## Metal Supermarkets
+- 公式URL：https://www.metalsupermarkets.com（given）
+- ビジネスモデル：
+  - 「We offer value-added services such as」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Metal Supermarkets’ unique business model quickly made it a success and it wasn’t long until interested entrepreneurs wanted to take advantage of the system Bill Mair created. In 1987, Metal Supermarkets began franchising in Canada, opening a 2nd location in Scarborough, Ontario.」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「We offer value-added services such as」（https://www.metalsupermarkets.com/es-la/about/・1回目）
+  - 「Metal Supermarkets provided us with all the support and tools necessary to run a strong B2B business on our own, but not alone. With a reliable franchisor, a proven business model and a strong brand, we started off on the right foot.」（https://www.metalsupermarkets.com/franchise/why-metal-supermarkets/・1回目）
+  - 「We pride ourselves on fostering ‘profitable partnerships’ built on a supportive and lucrative franchise network. Many of our franchisees have been with us for decades – a testament to the strength, reliability and earning potential of our proven business model.」（https://www.metalsupermarkets.com/franchise/our-reputation/・1回目）
+  - 「7. The survey results reinforce the strength of the Metal Supermarkets business model and the ongoing and increasing demand for small-quantity metals. This business has proven to be recession resistant and stable, even during unprecedented economic turbulence.」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+- 誰に：
+  - 「Metal Supermarkets provides fast, friendly world-class customer service to over 250,000 customers. Our associates will find the right metal solutions and can source any rare metal requests. When you need metal, we're your one-stop-shop.」（https://www.metalsupermarkets.com/・1回目）
+  - 「We’ve built a 4-decade-long track record of passion for our customers, products and services. Call or visit one of our stores, or order online to experience it firsthand!」（https://www.metalsupermarkets.com/・1回目）
+  - 「What Our Customers Are Saying...」（https://www.metalsupermarkets.com/・1回目）
+  - 「For 40 years, customers have relied on Metal Supermarkets for finding, buying and receiving the metals when and where they need them!」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Over 250,000 customers choose Metal Supermarkets because of our speed, variety and convenience. We carry over 8,000 metal types, grades, and shapes, providing same-day service and fast turnaround. We are conveniently located and offer fast and easy access to metal products and services. No need to wait.」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「We provide fast, reliable same-day service. Orders can be cut to size while you wait, and we deliver! Just tell us how many pieces you need and in what lengths; we’ll do the rest. It’s that easy. We are the perfect solution for customers who need metal fast.」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Customers rely on Metal Supermarkets for fast and reliable metal-related products and services. Our customers include Manufacturers, Machinists, Maintenance and Repair, Tool & Die Shops, Hospitals, Hotels, Universities, Schools, Homeowners, Artists, Hobbyists and more.」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Loyal Customers」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Metal Supermarkets has been providing businesses and customers across North America with fast and reliable metal services since 1985.」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「After over 10 years of sustained network growth, Metal Supermarkets launched an eCommerce site in 2007 to meet the growing needs of online customers. Relying on the backbone of North American stores, the eCommerce site added to our ability to deliver speed, variety and convenience.」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「We digitally transformed our customer experience by launching a brand new eCommerce platform. This made it easy for customers to order the metal they need, whenever they need it.」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「Visiting Metal Supermarkets for the first time? You’ll be greeted by a friendly, knowledgeable team ready to help with all your metal needs. With over 40 years of trusted service, we’ve stayed true to our core values while continually evolving to better serve our customers.」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+- 何を：
+  - 「More Metals」（https://www.metalsupermarkets.com/・1回目）
+  - 「Browse All More Metals」（https://www.metalsupermarkets.com/・1回目）
+  - 「The world's premier metal supplier! Instant access to over 8,000 types, shapes and grades of metal. For over 40 years, we've made finding, buying and receiving the metals you need easy! Visit our metal store and place an online order today」（https://www.metalsupermarkets.com/・1回目）
+  - 「Metal Supermarkets is the world’s largest supplier of small-quantity metals. Choose from Aluminum, Hot-Rolled Steel, Cold-Rolled Steel, Stainless Steel, Alloy Steel, Galvanized Steel, Tool Steel, Brass, Bronze and Copper in various shapes and grades and get it today. Whatever your metal supply needs, we have you covered.」（https://www.metalsupermarkets.com/・1回目）
+  - 「We’ve built a 4-decade-long track record of passion for our customers, products and services. Call or visit one of our stores, or order online to experience it firsthand!」（https://www.metalsupermarkets.com/・1回目）
+  - 「Metal Supermarkets Opens Second Raleigh Location to Serve Growing Demand for Small-Quantity Metals」（https://www.metalsupermarkets.com/・1回目）
+  - 「We're the World's Largest Supplier of Small-Quantity Metals with over 135 locations serving the United States and Canada」（https://www.metalsupermarkets.com/・1回目）
+  - 「Highest quality products」（https://www.metalsupermarkets.com/・1回目）
+  - 「Over 8,000 Products」（https://www.metalsupermarkets.com/・1回目）
+  - 「Buy Metals」（https://www.metalsupermarkets.com/・1回目）
+  - 「More Metals」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Browse All More Metals」（https://www.metalsupermarkets.com/about/・1回目）
+- 加工・付加価値：
+  - 「With over 135 metal store locations across North America, we offer a wide inventory, light processing services, excellent customer service and quick order turnarounds. Shop in-store or online.」（https://www.metalsupermarkets.com/・1回目）
+  - 「Buy whatever amount of metal you need, quickly and easily, with no minimum order size. No need to buy full lengths! Simply purchase the size and shape you want.」（https://www.metalsupermarkets.com/・1回目）
+  - 「No Minimum Order」（https://www.metalsupermarkets.com/・1回目）
+  - 「Any Metal Cut to Size」（https://www.metalsupermarkets.com/・1回目）
+  - 「Any Metal. Cut to Size」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「We provide fast, reliable same-day service. Orders can be cut to size while you wait, and we deliver! Just tell us how many pieces you need and in what lengths; we’ll do the rest. It’s that easy. We are the perfect solution for customers who need metal fast.」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「No Minimum Order Quantities」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Buy only the amount of metal you need, quickly and easily, with no minimum order quantity. No need to buy full lengths! Simply purchase the size and shape you want.」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「No Minimum Order」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Any Metal Cut to Size」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Forging can also close or reduce internal voids and porosity that are present in the casting process. The combination of controlled deformation and appropriate processing conditions can produce components with consistent mechanical properties.」（https://www.metalsupermarkets.com/what-is-the-forging-process/・1回目）
+  - 「No Minimum Order」（https://www.metalsupermarkets.com/what-is-the-forging-process/・1回目）
+- お金の形：
+  - 「Franchise Opportunities」（https://www.metalsupermarkets.com/・1回目）
+  - 「Franchise Opportunities」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Turn Metal into Money - Metal Supermarkets Franchise」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「As a Metal Supermarkets franchisee, you’ll join a growing network of the world’s largest supplier of small-quantity metals.」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Request Franchise Information」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Information contained do not constitute the offer or sale of a Franchise.」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Entrepreneur Magazine's Franchise 500」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Average Gross Margins」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「We believe that any candidate with these qualities, a keen business sense, and the right amount of motivation can find great success and financial reward as a Metal Supermarkets franchise owner!」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Our Franchisees」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Coming from a diverse range of different backgrounds – the majority without any prior metal experience – Metal Supermarkets franchisees share the mutual goal of wanting to establish and develop a successful, long-term business.」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Read all about our franchisees」（https://www.metalsupermarkets.com/franchise/・1回目）
+- 売上構成：
+  - 「Our initial training program covers all aspects of running a Metal Supermarkets franchise. From product knowledge and inventory management to customer service and sales techniques, our mix of online, in-class and in-store training will equip you with the skills necessary to operate efficiently and effectively. Our team will be there to assist you with all aspects of the set-up and grand opening.」（https://www.metalsupermarkets.com/franchise/training-and-support/・1回目）
+- 利益の源泉：
+  - 「Average Gross Margins」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「2017, 2018, 2019, and 2020 average store gross margin; and average, median, high, and low gross profit per store」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Part 2 – Average Gross Margin and Gross Profit (Franchised Stores)」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Average Store Gross Margin: 50.75%」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Number and Percentage of Stores That Met or Exceeded the Average Gross Margin: 24 (56%)」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Average Store Gross Margin: 51.48%」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Number and Percentage of Stores That Met or Exceeded the Average Gross Margin: 25 (58%)」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Average Store Gross Margin: 50.64%」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Number and Percentage of Stores That Met or Exceeded the Average Gross Margin: 22 (51%)」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Number and Percentage of Stores That Met or Exceeded the Average Gross Margin: 23 (53%)」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Gross Margin is calculated as the percentage of Gross Sales less cost of goods sold.」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Except for the Gross Margin figures in the chart, the chart does not reflect operating expenses or other costs that must be deducted from the Gross Sales figures to obtain your net income or profit.」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+- 創業期：
+  - 「History」（https://www.metalsupermarkets.com/・1回目）
+  - 「History」（https://www.metalsupermarkets.com/about/・1回目）
+  - 「Get Started」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「Get started today」（https://www.metalsupermarkets.com/franchise/・1回目）
+  - 「History」（https://www.metalsupermarkets.com/what-is-the-forging-process/・1回目）
+  - 「Our History - Metal Supermarkets」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「Our History」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「The History of Metal Supermarkets」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「History」（https://www.metalsupermarkets.com/about/our-history/・1回目）
+  - 「History」（https://www.metalsupermarkets.com/about/virtual-tour/・1回目）
+  - 「Get Started」（https://www.metalsupermarkets.com/franchise/contact-us/・1回目）
+  - 「If the idea of a Metal Supermarkets franchise interests you, please complete the form and our franchise development team will contact you to help get you started. An exciting and rewarding investment opportunity is right around the corner!」（https://www.metalsupermarkets.com/franchise/contact-us/・1回目）
+- 検索結果の抜粋：
+  - 「Turn Metal into Money - Metal Supermarkets Franchise — Turn Metal into Money - Metal Supermarkets Franchise Metal Supermarkets https://www.metalsupermarkets.com > ...」（https://www.metalsupermarkets.com/franchise/・3回目）
+  - 「FDD Talk: How Much Does a Metal Supermarkets Franchise ... — FDD Talk: How Much Does a Metal Supermarkets Franchise ... Franchise Chatter https://www.franchisechatter.com > fd...」（https://www.franchisechatter.com/2022/01/25/fdd-talk-how-much-does-a-metal-supermarkets-franchise-make-average-revenues-and-or-profits/・3回目）
+  - 「Metal Supermarkets Franchise Analysis: Cost, FDD & More — Metal Supermarkets Franchise Analysis: Cost, FDD & More Franzy https://franzy.com > franchises > meta...」（https://franzy.com/franchises/metal-supermarkets・3回目）
+  - 「Metal Supermarkets Maps Out Us Growth Plan - Franchise News — Metal Supermarkets Maps Out Us Growth Plan - Franchise News The Franchise Mall https://www.thefranchisemall.com > a...」（https://www.thefranchisemall.com/news/articles/16828-0.htm・3回目）
+  - 「Our History - Metal Supermarkets — Our History - Metal Supermarkets Metal Supermarkets https://www.metalsupermarkets.com > ...」（https://www.metalsupermarkets.com/about/our-history/・3回目）
+  - 「Industry Overview - Metal Supermarkets Franchise — Industry Overview - Metal Supermarkets Franchise Metal Supermarkets https://www.metalsupermarkets.com > ...」（https://www.metalsupermarkets.com/franchise/why-metal-supermarkets/industry-overview/・3回目）
+  - 「Metal Supermarkets - YouTube — Metal Supermarkets - YouTube YouTube https://www.youtube.com > metalsup...」（https://www.youtube.com/c/metalsupermarkets・3回目）
+  - 「Metal Supermarkets - Wikipedia — Metal Supermarkets - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Meta...」（https://en.wikipedia.org/wiki/Metal_Supermarkets・3回目）
+  - 「Metal Supermarkets Names New President and CEO — Metal Supermarkets Names New President and CEO Metal Center News https://www.metalcenternews.com > ...」（https://www.metalcenternews.com/editorial/current-news/metal-supermarkets-names-new-president-and-ceo/45912・3回目）
+  - 「Our Opportunity - Metal Supermarkets Franchise — Our Opportunity - Metal Supermarkets Franchise Metal Supermarkets https://www.metalsupermarkets.com > ...」（https://www.metalsupermarkets.com/franchise/our-opportunity/・3回目）
+  - 「Metal Supermarkets Franchise - BizBuySell — Metal Supermarkets Franchise - BizBuySell BizBuySell https://www.bizbuysell.com > metal-s...」（https://www.bizbuysell.com/franchise-for-sale/metal-supermarkets/・3回目）
+  - 「Metal Supermarkets - Facebook — Metal Supermarkets - Facebook Facebook https://www.facebook.com > MetalSupermarkets > posts」（https://www.facebook.com/MetalSupermarkets/posts/join-metal-supermarkets-the-worlds-largest-supplier-of-small-quantity-metals-and/1074878081736068/・3回目）
+- 設立：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+
+## Metalshub
+- 公式URL：https://www.metals-hub.com（given）
+- 誰に：
+  - 「Customers」（https://www.metals-hub.com/en/・1回目）
+  - 「Simplify enquiry-to-contract, run auctions, discover new customers and allocate the most suited inventory to optimise your netback across offers. On average companies」（https://www.metals-hub.com/en/・1回目）
+  - 「Discover 3 new customers」（https://www.metals-hub.com/en/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/industry/iron-and-steel/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「Metalshub is backed internationally proclaimed investors with significant experience in helping Software as a Service (SaaS) companies create lasting value for its customers.」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/raw-materials/iron/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/raw-materials/steel-iron-scrap/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+  - 「, inviting existing customers alongside new buyers from the Metalshub network. Its first bidding round led to a trial shipment with a Chinese buyer CBL had never worked with before.」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+  - 「Growing the counterparty base beyond existing suppliers or customers matters.」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+- 何を：
+  - 「Metalshub - Platform to Buy, Sell and Trade Raw Materials」（https://www.metals-hub.com/en/・1回目）
+  - 「Precious Metals」（https://www.metals-hub.com/en/・1回目）
+  - 「PLATFORM FOR METALS & MINING」（https://www.metals-hub.com/en/・1回目）
+  - 「Join the leading platform to buy and sell raw materials for the metals, mining & recycling industry, trusted by over 3,000 industry participants.」（https://www.metals-hub.com/en/・1回目）
+  - 「Metalshub Benefits」（https://www.metals-hub.com/en/・1回目）
+  - 「Why Metalshub?」（https://www.metals-hub.com/en/・1回目）
+  - 「Tailored digital solutions for metals, mining, and recycling, unlocking efficiency, transparency, and growth across industries.」（https://www.metals-hub.com/en/・1回目）
+  - 「Base Metals」（https://www.metals-hub.com/en/・1回目）
+  - 「Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.」（https://www.metals-hub.com/en/・1回目）
+  - 「Why should I choose Metalshub over other non-industry-focused platforms and software?」（https://www.metals-hub.com/en/・1回目）
+  - 「What languages does Metalshub’s platform support?」（https://www.metals-hub.com/en/・1回目）
+  - 「Where is Metalshub available?」（https://www.metals-hub.com/en/・1回目）
+- 加工・付加価値：
+  - 「Magnetite (Fe₃O₄; ~72% Fe): Magnetite is processed via magnetic separation and is often converted into pellets for use in electric arc furnaces and blast furnaces. It requires more processing than hematite but is highly valued for its iron content and magnetic properties​」（https://www.metals-hub.com/en/raw-materials/iron/・1回目）
+  - 「Fastmarkets and CRU set no minimum amount of trade data for their alumina indices, and with no new deals, the last price carries over.」（https://www.metals-hub.com/en/blog/alumina-pricing/・1回目）
+- お金の形：
+  - 「How does membership on GlobalOre work?」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+  - 「Leveraging Dashboards for Measurable Margin Performance」（https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/・1回目）
+  - 「Full visibility across enquiries, offers, and margins lets leaders prioritise resources and direct material to the highest-netback deals.」（https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/・1回目）
+  - 「Capturing and visualising sales data is essential, but the real value lies in consistently translating this data into decisions that improve margins and execution quality.」（https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/・1回目）
+  - 「In heavy industries like metals and mining, direct procurement dominates the cost base, carrying the primary profit and margin risks because raw materials and energy heavily shape EBITDA.」（https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/・1回目）
+  - 「While direct procurement influences margin via raw material costs, indirect procurement supports overall profitability by maximising operational efficiency, preventing plant downtime, and maintaining corporate compliance. If administrative or IT systems fail, the plant’s productivity is bottlenecked; if site security or PPE is unavailable, operations must halt for safety compliance.」（https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/・1回目）
+  - 「Software-as-a-Service (SaaS) subscriptions, enterprise hardware, back-office IT services, and ERP integrations.」（https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/・1回目）
+  - 「Distorted Margin Reporting:」（https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/・1回目）
+- 創業期：
+  - 「Founded With Passion」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「GlobalOre is a Singapore-based electronic marketplace for physical iron ore. It went live in May 2012, founded by seven industry shareholders: Baosteel, BHP, China Minmetals, Glencore, Rio Tinto, Vale and Valin Steel. BHP announced the project in 2011, modelled on the ownership structure of globalCOAL, the marketplace for physical thermal coal.」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+  - 「Based in Düsseldorf, the company was founded in 2016 by Dr Frank Jackel and Dr Sebastian Kreft. Both previously ran sales at Anglo American, in ferroalloys and nickel. There, they saw how much raw material trading still relied on phone, email and spreadsheets. Metalshub’s」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+  - 「Who founded GlobalOre?」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+  - 「GlobalOre launched in 2012, founded by Baosteel, BHP, China Minmetals, Glencore, Rio Tinto, Vale and Valin Steel. Based in Singapore, it describes itself as a neutral marketplace built by the iron ore industry for its own members.」（https://www.metals-hub.com/en/blog/globalore-vs-metalshub/・1回目）
+- 検索結果の抜粋：
+  - 「Metalshub - Platform to Buy, Sell and Trade Raw Materials — Metalshub - Platform to Buy, Sell and Trade Raw Materials Metals Hub https://www.metals-hub.com > ...」（https://www.metals-hub.com/en/・3回目）
+  - 「Metalshub | LinkedIn — Metalshub | LinkedIn LinkedIn https://jp.linkedin.com > company > metalshub」（https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image・3回目）
+  - 「LME and Metalshub Developing Trusted Commodity Spot ... — LME and Metalshub Developing Trusted Commodity Spot ... London Metal Exchange https://www.lme.com > lme-digest > l...」（https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices・3回目）
+  - 「Metalshub - Valuation, Funding & Investors - PitchBook — Metalshub - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/233432-47・3回目）
+  - 「Metalshub Revenue 2025: $6.5M Est. - GetLatka — Metalshub Revenue 2025: $6.5M Est. - GetLatka GetLatka https://getlatka.com > metals-hub」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「Metalshub - YouTube — Metalshub - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UC3X17hSVldeIPjj7y_6cZcw・3回目）
+  - 「LME CEO on Metalshub Partnership, Aluminum - YouTube — LME CEO on Metalshub Partnership, Aluminum - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=4Y7Dzp0GKr8・3回目）
+  - 「metalshub - Instagram — metalshub - Instagram Instagram https://www.instagram.com > metalshub」（https://www.instagram.com/metalshub/・3回目）
+  - 「Metalshub : Revenue , Competitors, Alternatives - Growjo — Metalshub : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Metalshub」（https://growjo.com/company/Metalshub・3回目）
+  - 「Metalshub — venture-backed company profile - Dealroom — Metalshub — venture-backed company profile - Dealroom Dealroom https://dealroom.co > metalshub」（https://dealroom.co/companies/metalshub/・3回目）
+- 設立：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）
+
+## OnlineMetals
+- 公式URL：https://www.onlinemetals.com（given）
+- 検索結果の抜粋：
+  - 「Our Story - The History of Online Metals | OnlineMetals .com® — Our Story - The History of Online Metals | OnlineMetals .com® Online Metals https://www.onlinemetals.com > our-s...」（https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vLHeQundlm_1uT8xZ7VqlWgMqHNjMVtS9HrVUslkV2sLsVtPYi2・3回目）
+  - 「News & Updates from OnlineMetals .com — News & Updates from OnlineMetals .com Online Metals https://www.onlinemetals.com > news」（https://www.onlinemetals.com/en/news?srsltid=AYCX9vKbOLJs3xu6oQ0wNz0xmN6Orpm1jwI6V2vovzN_lxwF6T0S1Uy4・3回目）
+  - 「Our Story - The History of Online Metals | OnlineMetals .com® — Our Story - The History of Online Metals | OnlineMetals .com® Online Metals https://www.onlinemetals.com > our-s...」（https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vLH1z-RWEGTLiOlt8sFl9Lq_ApvD5dd9yviVwYIRW8QYnmdZHLZ・3回目）
+  - 「OnlineMetals .com - 20 Years of Online Metals — OnlineMetals .com - 20 Years of Online Metals Online Metals https://www.onlinemetals.com > video-collection > video-...」（https://www.onlinemetals.com/en/video-collection/video-20yearsofonlinemetals・3回目）
+  - 「Guide to 6000 Series Aluminum | OnlineMetals .com® — Guide to 6000 Series Aluminum | OnlineMetals .com® Online Metals https://www.onlinemetals.com > video-collection」（https://www.onlinemetals.com/en/video-collection/video-guideto6000series・3回目）
+  - 「OnlineMetals .com - Metal and More - YouTube — OnlineMetals .com - Metal and More - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=RCeqvoTYQbo・3回目）
+  - 「Avoid OnlineMetals .com - dishonest company - General Forum — Avoid OnlineMetals .com - dishonest company - General Forum Chief Delphi https://www.chiefdelphi.com > avoid-...」（https://www.chiefdelphi.com/t/avoid-onlinemetals-com-dishonest-company/156414?page=2・3回目）
+  - 「Online Metals : Trailblazing a slick consumer-grade B2B e ... — Online Metals : Trailblazing a slick consumer-grade B2B e ... SAP https://www.sap.com > asset > 2024/07」（https://www.sap.com/asset/dynamic/2024/07/64705193-cc7e-0010-bca6-c68f7e60039b.html・3回目）
+  - 「Our Story - The History of Online Metals | OnlineMetals .com® — Our Story - The History of Online Metals | OnlineMetals .com® Online Metals https://www.onlinemetals.com > our-s...」（https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vIoRJPFUAmfQNTYUKPNsnHE7B9WkzovbsVT9a__t3SuesoQnLXV・3回目）
+  - 「How Online Metals trailblazed a slick consumer-grade B2B e ... — How Online Metals trailblazed a slick consumer-grade B2B e ... Emarsys https://emarsys.com > success-stories」（https://emarsys.com/why-emarsys/success-stories/how-online-metals-trailblazed-a-slick-consumer-grade-b2b-e-commerce-for-cutting-on-demand-metals-and-plastics/・3回目）
+  - 「How Online Metals became the go-to marketplace for ... - Mirakl — How Online Metals became the go-to marketplace for ... - Mirakl Mirakl https://www.mirakl.com > blogs > ho...」（https://www.mirakl.com/blogs/b2b/how-online-metals-became-the-go-to-marketplace-for-metals-and-plastics/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 誰に：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 何を：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 加工・付加価値：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）
+
+## Reliance Steel & Aluminum
+- 公式URL：https://www.rsac.com（given）
+- ビジネスモデル：
+  - 「Discover how we turn metal into solutions. Find out about our advantages, products, value-added processing, and the many industries we serve.」（https://www.reliance.com/・1回目）
+  - 「Value-Added Services」（https://www.reliance.com/・1回目）
+- 誰に：
+  - 「We’re a leading global diversified metal solutions provider delivering unrivalled service and positive results for our valued customers.」（https://www.reliance.com/・1回目）
+  - 「More than 125,000 customers come to Reliance for an unmatched combination of metals variety, precision processing, and industry expertise.」（https://www.reliance.com/・1回目）
+  - 「Reliance sells and processes metal, delivering to customers just-in-time. Each company is an expert in its region and industry, adapting quickly to changing market conditions to offer custom solutions and exceptional service. Backed by a vast network of metals service centers, our Family of Companies can easily scale to accommodate any project and the most exacting customer requirements.」（https://www.reliance.com/・1回目）
+- 何を：
+  - 「Discover how we turn metal into solutions. Find out about our advantages, products, value-added processing, and the many industries we serve.」（https://www.reliance.com/・1回目）
+  - 「Metal Products」（https://www.reliance.com/・1回目）
+  - 「Connect with a metals partner that understands your business.」（https://www.reliance.com/・1回目）
+  - 「PREMIER PRODUCTS」（https://www.reliance.com/・1回目）
+  - 「More than 125,000 customers come to Reliance for an unmatched combination of metals variety, precision processing, and industry expertise.」（https://www.reliance.com/・1回目）
+  - 「Our strength – and our position as North America’s largest metals service center company – comes from our people. Their focus, expertise, and commitment turn metal into momentum.」（https://www.reliance.com/・1回目）
+  - 「Products」（https://www.reliance.com/・1回目）
+  - 「We provide a comprehensive range of metal products and processing solutions that deliver precise, efficient, and dependable results across diverse industries.」（https://www.reliance.com/・1回目）
+  - 「Reliance sells and processes metal, delivering to customers just-in-time. Each company is an expert in its region and industry, adapting quickly to changing market conditions to offer custom solutions and exceptional service. Backed by a vast network of metals service centers, our Family of Companies can easily scale to accommodate any project and the most exacting customer requirements.」（https://www.reliance.com/・1回目）
+  - 「Reliance Steel & Aluminum Co. operates as a metals service center company primarily in the United States and Canada. The company provides metals processing services and distributes a line of approximately 100,000 metal products, including alloy, aluminum, brass, copper, carbon steel, stainless steel, titanium, and specialty steel products to mills and original equipment manufacturers.」（https://www.annualreports.com/Company/reliance-steel-aluminum-co・3回目）
+  - 「Additionally, the company will commemorate the completion of the integration of its $1.2 billion acquisition of Metals USA, along with the closing of two smaller acquisitions earlier this month, Northern Illinois Steel Supply Co. and Aluminum Services UK Ltd.」（https://www.youtube.com/watch?v=T550OTyZK_k・3回目）
+- 加工・付加価値：
+  - 「Reliance, Inc | Global Diversified Metal Solutions & Processing」（https://www.reliance.com/・1回目）
+  - 「Discover how we turn metal into solutions. Find out about our advantages, products, value-added processing, and the many industries we serve.」（https://www.reliance.com/・1回目）
+  - 「More than 125,000 customers come to Reliance for an unmatched combination of metals variety, precision processing, and industry expertise.」（https://www.reliance.com/・1回目）
+  - 「We provide a comprehensive range of metal products and processing solutions that deliver precise, efficient, and dependable results across diverse industries.」（https://www.reliance.com/・1回目）
+  - 「Reliance Steel & Aluminum Co. operates as a metals service center company primarily in the United States and Canada. The company provides metals processing services and distributes a line of approximately 100,000 metal products, including alloy, aluminum, brass, copper, carbon steel, stainless steel, titanium, and specialty steel products to mills and original equipment manufacturers.」（https://www.annualreports.com/Company/reliance-steel-aluminum-co・3回目）
+- お金の形：
+  - 「Record quarterly gross profit of $1.08 billion driven by strong gross profit margin of 31.7%」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Record quarterly pretax income of $444.1 million and record pretax income margin of 13.0%」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Announces increase in estimated sustainable gross profit margin range to 29% to 31%」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Gross profit margin」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Non-GAAP gross profit margin」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Gross profit margin - LIFO」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Non-GAAP gross profit margin - FIFO」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+- 創業期：
+  - 「Learn more about the Reliance story. Explore our history, meet our leaders, and look through FAQs that share who we are.」（https://www.reliance.com/・1回目）
+  - 「Our History」（https://www.reliance.com/・1回目）
+- 検索結果の抜粋：
+  - 「Reliance Steel & Aluminum Co. SupplierIQ Procurement Profile — Reliance Steel & Aluminum Co. SupplierIQ Procurement Profile IBISWorld https://www.ibisworld.com > supplieriq」（https://www.ibisworld.com/united-states/supplieriq/reliance-steel-aluminum-co/9572/・3回目）
+  - 「Reliance Steel & Aluminum Co. - AnnualReports.com — Reliance Steel & Aluminum Co. - AnnualReports.com Annual Reports https://www.annualreports.com > relia...」（https://www.annualreports.com/Company/reliance-steel-aluminum-co・3回目）
+  - 「Reliance Steel & Aluminum Co. - Encyclopedia.com — Reliance Steel & Aluminum Co. - Encyclopedia.com Encyclopedia.com https://www.encyclopedia.com > books」（https://www.encyclopedia.com/books/politics-and-business-magazines/reliance-steel-aluminum-co・3回目）
+  - 「Reliance Steel & Aluminum Co. Agrees to Acquire American ... — Reliance Steel & Aluminum Co. Agrees to Acquire American ... Reliance, Inc https://investor.reliance.com > detail」（https://investor.reliance.com/news-events/press-releases/detail/120/reliance-steel-aluminum-co-agrees-to-acquire-american-alloy-steel-inc・3回目）
+  - 「RELIANCE STEEL & ALUMINUM COの企業情報 - RS — RELIANCE STEEL & ALUMINUM COの企業情報 - RS バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/us/0000861884/・3回目）
+  - 「Reliance Steel & Aluminum Co. Q3 2026 Earnings Call ... — Reliance Steel & Aluminum Co. Q3 2026 Earnings Call ... Yahoo Finance https://finance.yahoo.com > articles」（https://finance.yahoo.com/markets/stocks/articles/reliance-steel-aluminum-co-q3-123000897.html・3回目）
+  - 「Reliance Steel & Aluminum Co. Stock Price - Perplexity — Reliance Steel & Aluminum Co. Stock Price - Perplexity Perplexity https://www.perplexity.ai > finance」（https://www.perplexity.ai/finance/RS・3回目）
+  - 「Reliance Steel & Aluminum Co. Celebrates 20 ... - YouTube — Reliance Steel & Aluminum Co. Celebrates 20 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=T550OTyZK_k・3回目）
+  - 「Reliance Steel & Aluminum Company - Encyclopedia.com — Reliance Steel & Aluminum Company - Encyclopedia.com Encyclopedia.com https://www.encyclopedia.com > books」（https://www.encyclopedia.com/books/politics-and-business-magazines/reliance-steel-aluminum-company・3回目）
+  - 「Reliance Steel & Aluminum Co. - Fitch Ratings — Reliance Steel & Aluminum Co. - Fitch Ratings Fitch Ratings https://www.fitchratings.com > research」（https://www.fitchratings.com/research/corporate-finance/reliance-steel-aluminum-co-16-03-2022・3回目）
+  - 「Reliance Steel & Aluminum Co. Reports Record Second ... — Reliance Steel & Aluminum Co. Reports Record Second ... Reliance, Inc https://investor.reliance.com > detail」（https://investor.reliance.com/news-events/press-releases/detail/161/reliance-steel-aluminum-co-reports-record-second-quarter-2021-financial-results・3回目）
+  - 「Reliance Steel & Aluminum Strategy and Business Model — Reliance Steel & Aluminum Strategy and Business Model Umbrex https://umbrex.com > reliance-inc」（https://umbrex.com/resources/company-profiles/reliance-inc/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## Ryerson
+- 公式URL：https://www.ryerson.com（given）
+- ビジネスモデル：
+  - 「center and carry a wide range of products and value-added services.」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「With the acquisition of Singer Steel Company, a value-added flat」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「consistent with our focus on long products and value-added services.」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「the stainless market, including value-added services such as “Pit Free Dairy” and “Super4”」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「United States and added a range of value-added services. This included blanking, stamping, laser」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「), a leading value-added processor and distributor of industrial metals, today reported results for the third quarter ended September 30, 2026.」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Ryerson is a leading value-added processor and distributor of industrial metals, with operations in the United States, Canada, Mexico, and China. Founded in 1842, Ryerson, together with Olympic Steel, has approximately 6,500 employees and approximately 150 locations. Visit Ryerson at」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Ryerson Holding Corporation (NYSE: RYZ), a leading value-added processor and distributor of industrial metals, today announces that it will host a...」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Ryerson Holding Corporation (NYSE: RYZ), a leading value-added processor and distributor of industrial metals, today reported results for the second...」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+- 誰に：
+  - 「We are Ryerson, one of North America's largest and most trusted metal distributors. With a rich history dating back to 1842, we've grown to over 100 locations and offer a diverse catalog of more than 70,000 metal products. While our roots are in metal distribution, we've evolved to provide comprehensive and innovative solutions to thousands of customers across hundreds of industries.」（https://www.ryerson.com/about-us/・1回目）
+  - 「serve our customers better.」（https://www.ryerson.com/about-us/・1回目）
+  - 「best each day. The result is a transformative experience for customers with each」（https://www.ryerson.com/about-us/leadership-team/・1回目）
+  - 「growing needs of customers.」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「in McAllen, Texas. These facilities helped better service customers from」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「allows customers to purchase metal online. It is later rebranded as ryerson.com」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「In May, our investment in FreeForm technologies introduces additive manufacturing as an option for our customers.」（https://www.ryerson.com/about-us/history/・1回目）
+  - 「The Ryerson Family of Companies consists of multiple brands within the organization, each of which offers distinct value and expertise that allow us to serve our customers better.」（https://www.ryerson.com/about-us/family-of-companies/・1回目）
+  - 「From a 48,000-square-foot facility, our Richmond facility serves customers throughout northern, central and eastern Virginia and the Shenandoah Valley. Our materials are used in the manufacture of HVAC equipment and poultry processing equipment, as well as by defense contractors and fabrication shops.」（https://www.ryerson.com/locations/united-states/virginia/richmond/・1回目）
+  - 「Since 2002, Hudson Tool Steel Corp., has been supplying tool steels, high speed steels, carbon steels, and alloy steels to customers around the country. Our motto is "We make tool steel easy", and we strive every day to uphold that ideal.」（https://www.ryerson.com/locations/united-states/new-hampshire/hudson-tool-steel-nh/・1回目）
+  - 「What Our Customers Say」（https://www.ryerson.com/metal-solutions/capabilities/sheet-coil-processing/・1回目）
+  - 「What Our Customers Say」（https://www.ryerson.com/metal-solutions/capabilities/plate-processing/・1回目）
+- 何を：
+  - 「Online Metals Supplier - Metal Processing & Distribution - Ryerson」（https://www.ryerson.com/・1回目）
+  - 「70,000+ products.」（https://www.ryerson.com/・1回目）
+  - 「Products」（https://www.ryerson.com/・1回目）
+  - 「Our experience in the metals industry is unmatched.」（https://www.ryerson.com/・1回目）
+  - 「From finished parts to fully fabricated subassemblies, we take your stock plate through first and second-stage processing, delivering high-quality products.」（https://www.ryerson.com/・1回目）
+  - 「59. Absolute Metal Products」（https://www.ryerson.com/locations/・1回目）
+  - 「62. Guy Metals」（https://www.ryerson.com/locations/・1回目）
+  - 「1890 Guy Metals Drive, Hammond, Wisconsin 54015」（https://www.ryerson.com/locations/・1回目）
+  - 「63. Howard Precision Metals」（https://www.ryerson.com/locations/・1回目）
+  - 「68. Excelsior Metals」（https://www.ryerson.com/locations/・1回目）
+  - 「More than 180 years of experience. 70,000+ products. An extensive」（https://www.ryerson.com/metal-solutions/capabilities/・1回目）
+  - 「Metal Products」（https://www.ryerson.com/metal-solutions/capabilities/・1回目）
+- 加工・付加価値：
+  - 「Online Metals Supplier - Metal Processing & Distribution - Ryerson」（https://www.ryerson.com/・1回目）
+  - 「Processing」（https://www.ryerson.com/・1回目）
+  - 「Sheet & Coil Processing」（https://www.ryerson.com/・1回目）
+  - 「Plate Processing」（https://www.ryerson.com/・1回目）
+  - 「From finished parts to fully fabricated subassemblies, we take your stock plate through first and second-stage processing, delivering high-quality products.」（https://www.ryerson.com/・1回目）
+  - 「Bar, Tube, & Structural Processing」（https://www.ryerson.com/・1回目）
+  - 「From welding and machining to forming and kitting, we deliver secondary processing with first-rate quality.」（https://www.ryerson.com/・1回目）
+  - 「Ryerson offers processing capabilities for every product we sell. We deliver expertise in metal finishes, custom fabrication, and complex assemblies to help you produce the parts you need.」（https://www.ryerson.com/・1回目）
+  - 「Ryerson Advanced Processing」（https://www.ryerson.com/・1回目）
+  - 「Plate Cut To Size」（https://www.ryerson.com/locations/・1回目）
+  - 「Processing」（https://www.ryerson.com/locations/・1回目）
+  - 「Advanced Processing」（https://www.ryerson.com/locations/・1回目）
+- お金の形：
+  - 「Gross margin」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Gross margin, excl. LIFO」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Adj. EBITDA, excl. LIFO margin」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Gross margin, excluding LIFO expense」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「For EBITDA, Adjusted EBITDA, Adjusted EBITDA, excluding LIFO and gross margin, excluding LIFO please see Schedule 2」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Gross margin, excluding LIFO expense and purchase」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+- 利益の源泉：
+  - 「合併の背景にある戦略的ビジョン、両組織の強みを結集することでどのように新たな機会が生まれるのか、そして金属バイヤーが今後期待できることについて解説します」（https://www.youtube.com/watch?v=X8kzLSa1R2U・3回目）
+  - 「Gross margin」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Gross margin, excl. LIFO」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Gross margin, excluding LIFO expense」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「For EBITDA, Adjusted EBITDA, Adjusted EBITDA, excluding LIFO and gross margin, excluding LIFO please see Schedule 2」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Gross margin, excluding LIFO expense and purchase」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+- 創業期：
+  - 「History」（https://www.ryerson.com/・1回目）
+  - 「History」（https://www.ryerson.com/locations/・1回目）
+  - 「History」（https://www.ryerson.com/metal-solutions/capabilities/・1回目）
+  - 「Be a part of history. Join our team.」（https://www.ryerson.com/about-us/careers/・1回目）
+  - 「History」（https://www.ryerson.com/about-us/careers/・1回目）
+  - 「We are Ryerson, one of North America's largest and most trusted metal distributors. With a rich history dating back to 1842, we've grown to over 100 locations and offer a diverse catalog of more than 70,000 metal products. While our roots are in metal distribution, we've evolved to provide comprehensive and innovative solutions to thousands of customers across hundreds of industries.」（https://www.ryerson.com/about-us/・1回目）
+  - 「History」（https://www.ryerson.com/about-us/・1回目）
+  - 「Be a part of history. Join our team.」（https://www.ryerson.com/about-us/・1回目）
+  - 「Be a part of history. Join our team.」（https://www.ryerson.com/about-us/careers/working-at-ryerson/・1回目）
+  - 「Ryerson has been very supportive since the day I started. … the culture and environment of Ryerson is very positive, supportive, and genuine. You can definitely feel that Ryerson is invested in your career success.」（https://www.ryerson.com/about-us/careers/working-at-ryerson/・1回目）
+  - 「History」（https://www.ryerson.com/about-us/careers/working-at-ryerson/・1回目）
+  - 「History」（https://www.ryerson.com/about-us/leadership-team/・1回目）
+- 検索結果の抜粋：
+  - 「News and Events - Ryerson — News and Events - Ryerson Ryerson Holding https://www.ryerson.com > news-events」（https://www.ryerson.com/about-us/news-events・3回目）
+  - 「Ryerson – Olympic Steel Merger - YouTube — Ryerson – Olympic Steel Merger - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=X8kzLSa1R2U・3回目）
+  - 「Ryerson - YouTube — Ryerson - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UCAjLhGiGaSBbTOwq52rZNAw・3回目）
+  - 「Ryerson (@ryersonmetals) - Facebook — Ryerson (@ryersonmetals) - Facebook Facebook https://www.facebook.com > ... > Business service」（https://www.facebook.com/ryersonmetals/・3回目）
+  - 「Ryerson Makes Slew of Leadership Changes after Olympic ... — Ryerson Makes Slew of Leadership Changes after Olympic ... National Association of Wholesaler-Distributors https://www.naw.org > mdm > news」（https://www.naw.org/mdm/news/ryerson-makes-slew-of-leadership-changes-after-olympic-steel-merger/・3回目）
+  - 「Ryerson Reports Third Quarter 2026 Results - PR Newswire — Ryerson Reports Third Quarter 2026 Results - PR Newswire PR Newswire https://www.prnewswire.com > ryerso...」（https://www.prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html・3回目）
+  - 「Ryerson Reports First Quarter 2026 Results — Ryerson Reports First Quarter 2026 Results Ryerson Holding https://www.ryerson.com > news > ry...」（https://www.ryerson.com/about-us/news-events/news/earnings-releases/ryerson-reports-first-quarter-2026-results・3回目）
+  - 「Ryerson Holding Gross Profit 2012-2026 | RYZ - Macrotrends — Ryerson Holding Gross Profit 2012-2026 | RYZ - Macrotrends Macrotrends https://www.macrotrends.net > RYZ」（https://www.macrotrends.net/stocks/charts/RYZ/ryerson-holding/gross-profit・3回目）
+  - 「Ryerson Holding Corporation Strategy and Business Model — Ryerson Holding Corporation Strategy and Business Model Umbrex https://umbrex.com > company-profiles」（https://umbrex.com/resources/company-profiles/ryerson-holding-corporation/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索4回）
+
+## SMM（上海有色网）
+- 公式URL：https://www.metal.com（given）
+- 誰に：
+  - 「Databases. We actively widen our data sets and insights to 400,000+ enterprise-level customers.」（https://www.metal.com/・1回目）
+- 何を：
+  - 「Steel, Aluminum, Nickel, Rare Earth, New Energy, Copper Prices Charts & News-Shanghai Metals Market (SMM)」（https://www.metal.com/・1回目）
+  - 「Metals Information Provider」（https://www.metal.com/・1回目）
+  - 「Takeaways from 2026 SMM Australia Metals & Investment Seminar: Outlook for Ferrous, Nonferrous and Battery Metals」（https://www.metal.com/・1回目）
+  - 「Hosted by Shanghai Metals Market (SMM), the 2026 SMM Australia Metals & Investment Seminar concluded successfully in Sydney on October 26. The event brought ...」（https://www.metal.com/・1回目）
+  - 「This world-class lead and zinc industry gathering has been upgraded to be an even bigger event! Shanghai Metals Market (SMM) is delighted to announce that ou...」（https://www.metal.com/・1回目）
+  - 「2027 SMM (5th) Indonesia Critical Minerals Conference & Expo June 16–18, 2027 | Jakarta, Indonesia Shanghai Metals Market (SMM) is pleased to announce the fi...」（https://www.metal.com/・1回目）
+  - 「Metals Industry」（https://www.metal.com/・1回目）
+  - 「Leveraging industry-leading analytical frameworks since 1999, SMM Research Series deliver more than precise price and supply chain insights—covering integrated analysis and forecast to help you seize opportunities in the global metals market.」（https://www.metal.com/・1回目）
+  - 「Shanghai Metals Market」（https://www.metal.com/・1回目）
+  - 「About Us | Global Metals Pricing, Market Data & Intelligence - Shanghai Metals Market (SMM)」（https://www.metal.com/about-us・1回目）
+  - 「Shanghai Metals Market (SMM) is an Integrated Internet Platform Provider of Nonferrous and Ferrous Metals.」（https://www.metal.com/about-us・1回目）
+  - 「At SMM, we envision a world in which the resources that build economies — metals, energy and compute — are priced transparently, so that capital and materials can move to where they are needed most.」（https://www.metal.com/about-us・1回目）
+- 加工・付加価値：
+  - 「进口粗铜加工费CIF」（https://data.smm.cn/・3回目）
+  - 「国内粗铜加工费」（https://data.smm.cn/・3回目）
+  - 「SMM鹰潭8mm铜杆加工费(月度)」（https://data.smm.cn/・3回目）
+  - 「中国铜市场调研数据库包含了铜冶炼、铜杆线、铜管、铜板带箔、电线电缆五大国内从铜生产、铜加工到铜终端消费的主要铜实体企业」（https://data.smm.cn/・3回目）
+  - 「长期以来在市场上占有率较高，具有广泛市场认可度的铜杆加工企业多数被列为长期跟踪样本，月度更新的铜杆生产及订单情况较为客观的反应了铜消费的情况」（https://data.smm.cn/・3回目）
+  - 「华南铜杆加工费」（https://www.smm.cn/・3回目）
+  - 「铜精矿采购指导加工费（季度）」（https://www.smm.cn/・3回目）
+  - 「国产粗铜加工费」（https://www.smm.cn/・3回目）
+  - 「CIF进口粗铜加工费」（https://www.smm.cn/・3回目）
+  - 「SMM鹰潭8mm铜杆加工费」（https://www.smm.cn/・3回目）
+  - 「华东铜杆加工费」（https://www.smm.cn/・3回目）
+  - 「华北铜杆加工费」（https://www.smm.cn/・3回目）
+- 創業期：
+  - 「Founded」（https://www.metal.com/about-us・1回目）
+- 検索結果の抜粋：
+  - 「有色数据_有色行业数据_ 上海有色网 — 有色数据_有色行业数据_ 上海有色网 上海有色金属网 https://data-pro.smm.cn」（https://data-pro.smm.cn/・3回目）
+  - 「SMM Metal Price Index & Methodology — SMM Metal Price Index & Methodology Shanghai Metals Market https://www.metal.com > methodology」（https://www.metal.com/methodology・3回目）
+  - 「smm （ 上海有色网 发布的有色金属现货基准价格指数体系） — smm （ 上海有色网 发布的有色金属现货基准价格指数体系） 百度百科 https://baike.baidu.com > item > smm」（https://baike.baidu.com/item/smm/2494427・3回目）
+  - 「上海有色网 _原上海有色金属网_有色金属价格行情门户 — 上海有色网 _原上海有色金属网_有色金属价格行情门户 上海有色金属网 https://www.smm.cn」（https://www.smm.cn/・3回目）
+  - 「铜- 上海有色网 行业数据接口 — 铜- 上海有色网 行业数据接口 上海有色金属网 https://data.smm.cn」（https://data.smm.cn/・3回目）
+  - 「上海有色网 -国内期货市场-和讯行情中心 — 上海有色网 -国内期货市场-和讯行情中心 和讯网 https://quote.hexun.com > futures > shjs」（https://quote.hexun.com/futures/shjs.html・3回目）
+  - 「【央广网】2026SMM香港金属论坛圆满落幕中信建投携手 上海 ... — 【央广网】2026SMM香港金属论坛圆满落幕中信建投携手 上海 ... 中信建投期货 https://www.cfc108.com > zxjtqh > ar...」（https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml・3回目）
+  - 「中国最大の非鉄金属業界向けポータルサイト SMM とMIRUが ... — 中国最大の非鉄金属業界向けポータルサイト SMM とMIRUが ... Iru-miru.com https://www.iru-miru.com > article」（https://www.iru-miru.com/article/46482・3回目）
+  - 「上海有色网 -有色资讯-精选要闻 — 上海有色网 -有色资讯-精选要闻 上海有色金属网 https://news.smm.cn」（https://news.smm.cn/・3回目）
+  - 「SMM “负责任金属价格体系”在联合国峰会发布致力于推动绿色 ... — SMM “负责任金属价格体系”在联合国峰会发布致力于推动绿色 ... 凤凰网 https://i.ifeng.com > 公益 > 新闻益事」（https://i.ifeng.com/c/8jmGVhsaZd9・3回目）
+  - 「SMM reselling as a semi-passive income stream - Reddit — SMM reselling as a semi-passive income stream - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/passive_income/comments/1qircpw/smm_reselling_as_a_semipassive_income_stream_my/・3回目）
+  - 「Social Media Marketing ( SMM ): What It Is, How It Works, Pros ... — Social Media Marketing ( SMM ): What It Is, How It Works, Pros ... Investopedia https://www.investopedia.com > terms」（https://www.investopedia.com/terms/s/social-media-marketing-smm.asp・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）
+
+## Speedy Metals
+- 公式URL：https://www.speedymetals.com（given）
+- 何を：
+  - 「Speedy Metals Online Industrial Metal Supply」（https://www.speedymetals.com/・1回目）
+  - 「Now In: Welcome to Speedy Metals」（https://www.speedymetals.com/・1回目）
+  - 「SPEEDY METALS BLOG」（https://www.speedymetals.com/・1回目）
+  - 「September‘s news from Speedy Metals」（https://www.speedymetals.com/・1回目）
+  - 「August‘s news from Speedy Metals」（https://www.speedymetals.com/・1回目）
+  - 「July‘s news from Speedy Metals - 4340 Alloy Round now available, at a steep discount, but only if you call!」（https://www.speedymetals.com/・1回目）
+  - 「sales@speedymetals.com」（https://www.speedymetals.com/・1回目）
+  - 「These products can potentially expose you to chemicals including Nickel, Chromium, Lead, Cobalt, Mercury and Beryllium, which are known to the state of California to cause cancer and/or birth defects or other reproductive harm. For more information, visit」（https://www.speedymetals.com/・1回目）
+  - 「About Speedy Metals®」（https://www.speedymetals.com/・1回目）
+  - 「©Speedy Metals® 2006-2026. All Rights Reserved.」（https://www.speedymetals.com/・1回目）
+  - 「Speedy Metals - Cast Iron」（https://www.speedymetals.com/c-8386-cast-iron.aspx・1回目）
+  - 「These products can potentially expose you to chemicals including Nickel, Chromium, Lead, Cobalt, Mercury and Beryllium, which are known to the state of California to cause cancer and/or birth defects or other reproductive harm. For more information, visit」（https://www.speedymetals.com/c-8386-cast-iron.aspx・1回目）
+- 検索結果の抜粋：
+  - 「Testimonials - Speedy Metals — Testimonials - Speedy Metals Speedy Metals https://www.speedymetals.com > t-Te...」（https://www.speedymetals.com/t-Testimonials.aspx?srsltid=AYCX9vKnZtK6Ilz3fMYtqoRVLjDUaACaqjRKgFj0UQkytE-0_6rrUe4A・3回目）
+  - 「Speedy Metals - Rockford | LinkedIn — Speedy Metals - Rockford | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/speedy-metals-rockford・3回目）
+  - 「Speedy Metals - YouTube — Speedy Metals - YouTube YouTube https://www.youtube.com > speedym...」（https://www.youtube.com/speedymetals・3回目）
+  - 「Speedy Metals on X: "Job Fair this Thursday! https://t.co ... — Speedy Metals on X: "Job Fair this Thursday! https://t.co ... X https://x.com > @SpeedyMetals」（https://x.com/SpeedyMetals/status/808405045515616256・3回目）
+  - 「Speedy Metals - Overview, News & Similar companies — Speedy Metals - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > speedy-...」（https://www.zoominfo.com/c/speedy-metals/131170575・3回目）
+  - 「Speedy Metals Online Industrial Metal Supply — Speedy Metals Online Industrial Metal Supply Speedy Metals https://www.speedymetals.com」（https://www.speedymetals.com/?srsltid=AYCX9vKN2US2nBwnoJqbtT2u3XNlD8XybEdtVdbWnrndfCCybHbFHhio・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 誰に：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 加工・付加価値：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索4回）
+
+## UACJトレーディング
+- 公式URL：https://www.uacj-trading.co.jp（given）
+- 設立：2014年6月（https://www.uacj.co.jp/release/20140807.html・3回目）
+- 設立：1947年11月（https://www.uacj.co.jp/release/20140807.html・3回目）
+- ビジネスモデル：
+  - 「当社のビジネスモデルは？」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「人々の暮らしを彩るモノづくりを幅広くサポートする事業領域、ビジネスモデルを紹介します」（https://utr.uacj-group.com/recruit/newgrads/・3回目）
+- 誰に：
+  - 「顧客の声を汲み取り、」（https://utr.uacj-group.com/recruit/newgrads/・3回目）
+  - 「このたびの現地法人設立により、米国における顧客と地域への密着度をさらに向上させ、自動車関連部材、IT関連部材などの非鉄金属材料および加工製品についての営業活動強化をはかります」（https://www.uacj.co.jp/release/20140807.html・3回目）
+  - 「また、顧客のグローバル事業展開および現地調達の支援を行う拠点として、加工、在庫機能のコーディネート役としての体制整備も進めてまいります」（https://www.uacj.co.jp/release/20140807.html・3回目）
+  - 「UACJは今後も、顧客ニーズに迅速に応えるグローバルサプライチェーン構築へ向け、より一層尽力してまいります」（https://www.uacj.co.jp/release/20140807.html・3回目）
+- 何を：
+  - 「会社を知る | UACJトレーディング 採用サイト｜非鉄金属専門商社でキャリアを拓く」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「アルミニウムをはじめ非鉄金属に捉われない様々な素材及び製品を取り扱っております」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「また、お客様の製品開発・設計段階から携わるため、一般的な取引関係の枠を超えた開発パートナーとして課題や問題点の解決、」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「世の中に新たな製品を送り出す一翼を担います」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「特定領域における専門的な知見や経験を活かし、商品の流通に付加価値を与えることができる点が特徴です」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「世界を舞台に、多彩な製品と事業領域でビジネスを創造できることが当社の強みです」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「従業員数・取扱高」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「社員数は約140名で取扱高は1,000億円以上！成長したいあなたに」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「国内外取扱高比率」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「世界トップクラスのアルミ圧延メーカーであるUACJの製品のみならず、国内外の様々な製品・サービスを付加価値とともに提供することで、UACJトレーディングは日常のあらゆるシーンで豊かな暮らしに貢献しています」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「新卒採用 | UACJトレーディング 採用サイト｜非鉄金属専門商社でキャリアを拓く」（https://utr.uacj-group.com/recruit/newgrads/・3回目）
+  - 「アルミでかなえる軽やかな世界」（https://www.uacj.co.jp/release/20140807.html・3回目）
+- 加工・付加価値：
+  - 「素材に加工や表面処理などの＋αを加え、より付加価値の高い提案を行うことでお客様の要求に積極的に応えております」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「UACJ Trading & Processing America,Inc.」（https://utr.uacj-group.com/recruit/newgrads/・3回目）
+  - 「このたびの現地法人設立により、米国における顧客と地域への密着度をさらに向上させ、自動車関連部材、IT関連部材などの非鉄金属材料および加工製品についての営業活動強化をはかります」（https://www.uacj.co.jp/release/20140807.html・3回目）
+  - 「また、顧客のグローバル事業展開および現地調達の支援を行う拠点として、加工、在庫機能のコーディネート役としての体制整備も進めてまいります」（https://www.uacj.co.jp/release/20140807.html・3回目）
+- 利益の源泉：
+  - 「UACJトレーディングの強み」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「世界を舞台に、多彩な製品と事業領域でビジネスを創造できることが当社の強みです」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+- 検索結果の抜粋：
+  - 「会社を知る | UACJトレーディング 採用サイト｜非鉄金属専門 ... — 会社を知る | UACJトレーディング 採用サイト｜非鉄金属専門 ... 株式会社UACJトレーディング https://utr.uacj-group.com > recruit > newgrads > about」（https://utr.uacj-group.com/recruit/newgrads/about/・3回目）
+  - 「#19690 決算分析 : 株式会社 UACJトレーディング 第83期決算 ... — #19690 決算分析 : 株式会社 UACJトレーディング 第83期決算 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/08/19」（https://ryo-nakamura1.hatenablog.jp/entry/2026/08/19/171500・3回目）
+  - 「株式会社 UACJトレーディング による米国の現地法人設立 ... — 株式会社 UACJトレーディング による米国の現地法人設立 ... 株式会社UACJ https://www.uacj.co.jp > リリース・お知らせ」（https://www.uacj.co.jp/release/20140807.html・3回目）
+  - 「資料ライブラリ - 株式会社UACJトレーディング — 資料ライブラリ - 株式会社UACJトレーディング 株式会社UACJトレーディング https://utr.uacj-group.com > library」（https://utr.uacj-group.com/library/・3回目）
+  - 「#19690 決算 分析 : 株式会社 UACJトレーディング 第83期 決算 ... — #19690 決算 分析 : 株式会社 UACJトレーディング 第83期 決算 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/08/19」（https://ryo-nakamura1.hatenablog.jp/entry/2026/08/19/171500・3回目）
+  - 「新卒採用 | UACJトレーディング 採用サイト｜非鉄金属専門 ... — 新卒採用 | UACJトレーディング 採用サイト｜非鉄金属専門 ... 株式会社UACJトレーディング https://utr.uacj-group.com > recruit > newgrads」（https://utr.uacj-group.com/recruit/newgrads/・3回目）
+  - 「非鉄金属専門商社でキャリアを拓く — 非鉄金属専門商社でキャリアを拓く 株式会社UACJトレーディング https://utr.uacj-group.com > ホーム > 仕事を知る」（https://utr.uacj-group.com/recruit/newgrads/interview/interview-06/・3回目）
+  - 「UACJトレーディング ・加藤将人氏／新領域参入で顧客開拓 ... — UACJトレーディング ・加藤将人氏／新領域参入で顧客開拓 ... 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄」（https://www.japanmetaldaily.com/articles/-/263157・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## thyssenkrupp Materials Services
+- 公式URL：https://www.thyssenkrupp-materials-services.com（given）
+- ビジネスモデル：
+  - 「We make our customers' success our priority and ensure that they can concentrate on what is essential – their core business. As one of the world's leading materials distribution and service providers, we cover the entire materials supply chain. Our business model ranges from materials trading and processing to digital supply chain solutions.」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+- 誰に：
+  - 「Geopolitical uncertainties are leading to an increased demand for local production and greater flexibility. Thanks to our close-knit network of branches, we can cater to this. We can provide our customers with targeted local support.」（https://www.thyssenkrupp-materials-services.com/en/company/strategy・1回目）
+  - 「We make our customers' success our priority and ensure that they can concentrate on what is essential – their core business. As one of the world's leading materials distribution and service providers, we cover the entire materials supply chain. Our business model ranges from materials trading and processing to digital supply chain solutions.」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「: In addition to materials, we provide our customers with services and digital solutions for their supply chains. Our supply chain services ensure reliable, timely delivery, even in case of bottlenecks.」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「Customers」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「– We redefine industry standards by tailoring and digitizing solutions for our customers’ supply chain needs from source to motion. We never stop improving.」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+- 何を：
+  - 「Products and services」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「Business units Processing and Materials present their products and solutions in hall 3, stand E37」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「tk accelis Materials focuses on lead-free aluminum, custom profiles and paperless sheet products」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「Digital B2B platform for various flat-rolled metals」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「While other sectors have rapidly moved the sale of their products online, the steel industry has continued to rely on traditional methods of manual RFQ rounds, ordering by email, phone, or fax. steelbuy presents a comprehensive digital solution to complement and simplify these traditional channels.」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「Products and services」（https://www.thyssenkrupp-materials-services.com/en/company/strategy・1回目）
+  - 「Products and services」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「There is hardly anything in our everyday lives that has not been supplied, processed, or moved by tk accelis. Our products and services ensure that cars roll off production lines, buildings are constructed, airplanes take off, and plants are manufactured – day after day.」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「We go beyond materials and answer our customer needs with an unparalleled depth and breadth of services and solutions building on customer focus, state-of-the-art technology, service excellence, and deep expertise in materials, logistics, consulting, and digital products. That’s what we call:」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「Copper and Brass Sales, thyssenkrupp Engineered Plastics, Online Metals, tkX Logistics」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+  - 「Ken-Mac Metals and thyssenkrupp Steel Services」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+  - 「President, Online Metals」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+- 加工・付加価値：
+  - 「Business units Processing and Materials present their products and solutions in hall 3, stand E37」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「tk accelis Processing presents prefabrication solutions for materials as well as supply concepts」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「For the first time under its new brand name, tk accelis is attending Aluminium 2026 in Dusseldorf. The trade fair is taking place at Dusseldorf’s exhibition center from October 6 to October 8. As an expert for material supply and processing as well as supply chain management, tk accelis is participating with the business units Processing and Materials.」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「Expanded service center of tk accelis Processing Europe in Stuttgart: production milestone on new high-performance slitting and packaging line reached」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「A defining feature of the new installation is its end-to-end digital integration: processing, material handling, packaging, and the automated knife assembly robot are fully interconnected and centrally managed via tk accelis proprietary toii® platform, which is designed to enable real-time data availability, high transparency, and reproducible process quality.」（https://www.thyssenkrupp-materials-services.com/・1回目）
+  - 「tk accelis is a leading global materials distributor and service provider that is increasingly focusing on materials processing and digital supply chain services. In this transformation, we rely on our "Materials as a Service" strategy.」（https://www.thyssenkrupp-materials-services.com/en/company/strategy・1回目）
+  - 「We make our customers' success our priority and ensure that they can concentrate on what is essential – their core business. As one of the world's leading materials distribution and service providers, we cover the entire materials supply chain. Our business model ranges from materials trading and processing to digital supply chain solutions.」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「Processing」（https://www.thyssenkrupp-materials-services.com/en/company・1回目）
+  - 「Responsible for the business units "Distribution & Trading", "Processing", and "Solutions" as well as the central function "Corporate Strategy & Communications".」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+  - 「Chief Executive Officer of Processing business unit, Chief Executive Officer of Processing North America」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+  - 「President, Coil Processing Group」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+- 売上構成：
+  - 「Member of the Executive Board of thyssenkrupp AG, Chief Executive Officer of the Executive Board of the Materials Services segment, Chief Executive Officer of the Executive Board of thyssenkrupp Materials Services GmbH」（https://www.thyssenkrupp-materials-na.com/tkmna-leadership・3回目）
+- 検索結果の抜粋：
+  - 「The pillars of our sustainable strategy — The pillars of our sustainable strategy thyssenkrupp Materials Services https://www.thyssenkrupp-materials-services.com > ...」（https://www.thyssenkrupp-materials-services.com/en/sustainability-at-materials-services/our-path・3回目）
+  - 「Strategy - thyssenkrupp Materials Services — Strategy - thyssenkrupp Materials Services thyssenkrupp Materials Services https://www.thyssenkrupp-materials-services.com > ...」（https://www.thyssenkrupp-materials-services.com/en/company/strategy・3回目）
+  - 「thyssenkrupp Materials Services : Home — thyssenkrupp Materials Services : Home thyssenkrupp Materials Services https://www.thyssenkrupp-materials-services.com」（https://www.thyssenkrupp-materials-services.com/・3回目）
+  - 「At thyssenkrupp Materials Services we are constantly working ... — At thyssenkrupp Materials Services we are constantly working ... Facebook https://www.facebook.com > ... > thyssenkrupp > Videos」（https://www.facebook.com/thyssenkrupp/videos/at-thyssenkrupp-materials-services-we-are-constantly-working-to-make-our-supply-/1498084507447422/・3回目）
+  - 「Materials Services Equity Story — Materials Services Equity Story thyssenkrupp Materials Services PDF https://www.thyssenkrupp-materials-services.com > ...」（https://www.thyssenkrupp-materials-services.com/_binary/UCPthyssenkruppBAMXServices/3f0a1cc1-55e7-44f1-8c48-88eb680962ba/Equity-Story_Nov-2023_Materials-Services.pdf・3回目）
+  - 「thyssenkrupp Materials Services - Wikipedia — thyssenkrupp Materials Services - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Thys...」（https://en.wikipedia.org/wiki/Thyssenkrupp_Materials_Services・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部5頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部5頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部5頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部5頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部5頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部5頁・検索4回）
+
+## アルコニックス
+- 公式URL：https://alconix-mitaka.com/（search:yahoo_jp:アルコニックス）
+- ビジネスモデル：
+  - 「アルコニックスグループ 事業説明動画 / ALCONIX Group Business Model Overview - YouTube」（https://www.youtube.com/watch?v=BVJAlIX1iGk・3回目）
+  - 「アルコニックスグループ 事業説明動画 / ALCONIX Group Business Model Overview」（https://www.youtube.com/watch?v=BVJAlIX1iGk・3回目）
+  - 「ビジネスモデル解説動画」（https://www.alconix.com/ir/・3回目）
+- 誰に：
+  - 「祖業であり優良な取引先と商権を持つ「製品」分野では、主に自動車、家電、半導体向けのアルミ圧延品、伸銅品等を取扱っています」（https://www.alconix.com/business/・3回目）
+  - 「この自走力を高めるサポート、設備投資や新規顧客の発掘や、稼ぐ力を維持・向上させるための内部統制構築をPMIにて行っていきます」（https://www.alconix.com/business/・3回目）
+- 何を：
+  - 「事業製品・サービス」（https://alconix-mitaka.com/・1回目）
+  - 「は、温暖化防止に寄与する製品群を多く取り扱っています」（https://alconix-mitaka.com/・1回目）
+  - 「冷媒に使用される専用銅合金管や環境配慮型製品に使われる」（https://alconix-mitaka.com/・1回目）
+  - 「非鉄金属材料を「いままでも、これからも」提供していきます」（https://alconix-mitaka.com/・1回目）
+  - 「ミタカが提供する次世代の製品群は、」（https://alconix-mitaka.com/・1回目）
+  - 「提供する材料や部品は皆様の身近な製品に使用されています」（https://alconix-mitaka.com/・1回目）
+  - 「素材・加工・製品について」（https://alconix-mitaka.com/・1回目）
+  - 「クラウドファンディングサイト：マクアケにて、当社開発の「アルミデスクペン」の 応援購入を募集致します」（https://alconix-mitaka.com/・1回目）
+  - 「当社名古屋支店商品課が立ち上げた日用雑貨品ブランド「JAPAN CRAFT WORKS®」 が開発した商品をご紹介致します」（https://alconix-mitaka.com/・1回目）
+  - 「レタスクラブ（発行KADOKAWA）1月号に当社名古屋支店商品課の開発商品（ＪＡＰＡＮ ＣＲＡＦＴ ＷＯＲＫＳ）に関する記事が掲載されました」（https://alconix-mitaka.com/・1回目）
+  - 「製品やサービスに関するお問い合わせはこちら」（https://alconix-mitaka.com/・1回目）
+  - 「アルミ銅事業」（https://www.alconix.com/business/・3回目）
+- 加工・付加価値：
+  - 「素材・加工・製品について」（https://alconix-mitaka.com/・1回目）
+  - 「【社長対談】アルコニックス（3036・プライム）同社グループの金属加工事業で、精密研削加工と検査工程に注力し業容を拡大している「大羽精研」篇」（https://www.youtube.com/watch?v=BVJAlIX1iGk・3回目）
+  - 「グループ会社 坂本電機製作所 精密機械加工」（https://www.youtube.com/watch?v=BVJAlIX1iGk・3回目）
+  - 「金属加工事業」（https://www.alconix.com/business/・3回目）
+  - 「国内有数の製造・測定・分析設備及び卓越した加工技術を持つ「人財」を強みとして、主にスマートフォンやタブレット端末、半導体、自動車、航空・宇宙分野で使用される各種加工部品の製造を行っています」（https://www.alconix.com/business/・3回目）
+  - 「また、培ってきた加工技術の応用による他産業機器分野への展開にも取り組んでいます」（https://www.alconix.com/business/・3回目）
+  - 「加工する機械や設備などを調査し、次なる成長（Growth）への糧を見出す」（https://www.alconix.com/business/・3回目）
+  - 「金属加工事業」（https://www.alconix.com/ir/library/document/・3回目）
+  - 「金属加工事業」（https://www.alconix.com/ir/・3回目）
+  - 「金属加工事業」（https://www.alconix.com/news/2026/08/ceo.html・3回目）
+- 売上構成：
+  - 「私たちアルコニックスグループが、「商社流通」「製造」二つのセグメントを通じて、如何に収益を確保しているのか」（https://www.youtube.com/watch?v=BVJAlIX1iGk・3回目）
+  - 「商社流通セグメント」（https://www.alconix.com/business/・3回目）
+  - 「製造セグメント」（https://www.alconix.com/business/・3回目）
+  - 「当社の製造セグメントは、M&Aで取得した製造子会社で構成されています」（https://www.alconix.com/business/・3回目）
+  - 「グループ全体のEBITDAに対する製造セグメントの比率は、平均（2017年3月期～2023年3月期）66.6%と、グループ全体の約三分の二を占めており、収益の柱になっています」（https://www.alconix.com/business/・3回目）
+  - 「商社流通セグメント」（https://www.alconix.com/ir/library/document/・3回目）
+  - 「製造セグメント」（https://www.alconix.com/ir/library/document/・3回目）
+  - 「商社流通セグメント」（https://www.alconix.com/ir/・3回目）
+  - 「製造セグメント」（https://www.alconix.com/ir/・3回目）
+  - 「商社流通セグメント」（https://www.alconix.com/news/2026/08/ceo.html・3回目）
+  - 「製造セグメント」（https://www.alconix.com/news/2026/08/ceo.html・3回目）
+- 利益の源泉：
+  - 「私たちの強み」（https://alconix-mitaka.com/・1回目）
+  - 「三高の"強み"について」（https://alconix-mitaka.com/・1回目）
+  - 「国内有数の製造・測定・分析設備及び卓越した加工技術を持つ「人財」を強みとして、主にスマートフォンやタブレット端末、半導体、自動車、航空・宇宙分野で使用される各種加工部品の製造を行っています」（https://www.alconix.com/business/・3回目）
+  - 「陳腐化しないニッチ（Niche）な分野で強みをもつ企業を選択する」（https://www.alconix.com/business/・3回目）
+- 検索結果の抜粋：
+  - 「ALCONIX Group Business Model Overview - YouTube — ALCONIX Group Business Model Overview - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=BVJAlIX1iGk・3回目）
+  - 「事業紹介 | アルコニックス 株式会社 — 事業紹介 | アルコニックス 株式会社 アルコニックス株式会社 https://www.alconix.com > business」（https://www.alconix.com/business/・3回目）
+  - 「長期経営計画 2030 - アルコニックス株式会社 — 長期経営計画 2030 - アルコニックス株式会社 アルコニックス株式会社 PDF https://www.alconix.com > assets > docs > long-term...」（https://www.alconix.com/assets/docs/ir/long-term_management_plan2030_final1.0.pdf?utm_source=tvtokyo_plus&utm_medium=article&utm_campaign=entry-9660・3回目）
+  - 「アルコニックス /商社流通 - ログミーファイナンス — アルコニックス /商社流通 - ログミーファイナンス ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/377873・3回目）
+  - 「アルコニックス グループの価値創造プロセス — アルコニックス グループの価値創造プロセス アルコニックス株式会社 https://www.alconix.com > sustainability > process」（https://www.alconix.com/sustainability/process/・3回目）
+  - 「決算説明資料 | アルコニックス 株式会社 — 決算説明資料 | アルコニックス 株式会社 アルコニックス株式会社 https://www.alconix.com > library > document」（https://www.alconix.com/ir/library/document/・3回目）
+  - 「IR情報 | アルコニックス 株式会社 — IR情報 | アルコニックス 株式会社 アルコニックス株式会社 https://www.alconix.com > ...」（https://www.alconix.com/ir/・3回目）
+  - 「IRライブラリー | アルコニックス 株式会社 — IRライブラリー | アルコニックス 株式会社 アルコニックス株式会社 https://www.alconix.com > library」（https://www.alconix.com/ir/library/・3回目）
+  - 「アルコニックス 2026年3月期 第3四半期 決算説明 - YouTube — アルコニックス 2026年3月期 第3四半期 決算説明 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ykld7w2ASOc・3回目）
+  - 「【 アルコニックス 】[3036]IR情報 中期経営計画や 決算 短信 — 【 アルコニックス 】[3036]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=3036・3回目）
+  - 「代表取締役CEO 手代木の インタビュー 記事が『日経ビジネス ... — 代表取締役CEO 手代木の インタビュー 記事が『日経ビジネス ... アルコニックス株式会社 https://www.alconix.com > news > 2026/08 > ceo」（https://www.alconix.com/news/2026/08/ceo.html・3回目）
+  - 「アルコニックス IR特集（2026.2.17放送分） - Apple Podcasts — アルコニックス IR特集（2026.2.17放送分） - Apple Podcasts Apple Podcasts https://podcasts.apple.com > podcast > アルコニックスir特...」（https://podcasts.apple.com/us/podcast/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9ir%E7%89%B9%E9%9B%86-2026-2-17%E6%94%BE%E9%80%81%E5%88%86/id1640020114?i=1000750053022&l=ru・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 創業期：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+
+## トラスコ中山
+- 公式URL：https://www.trusco.co.jp（given）
+- 設立：1959年5月15日（https://www.trusco.co.jp/company/outline/・1回目）
+- 設立：1964年3月2日（https://www.trusco.co.jp/company/outline/・1回目）
+- 設立：1964（https://shachomeikan.jp/presidents/detail/10062878?page=2・3回目）
+- 従業員数：連結3,482名 （2026年9月末時点） （役員８名、社員1,917名、パートタイマー1,557名）（https://www.trusco.co.jp/company/outline/・1回目）
+- 従業員数：3,280 3,476 3,482（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+- 従業員数：2,906 2,954 3,043 3,184 3,258（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+- 売上高：3,200億43百万円（2025年12月期） 3,500億00百万円（2026年12月期計画）（https://www.trusco.co.jp/company/outline/・1回目）
+- 売上高：86,961 +9.8 178,204 +12.6 266,081 +12.1（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+- 売上高：226,833 -- 246,453 +8.6 268,154 +8.8 295,024 +10.0 320,043 +8.5（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+- ビジネスモデル：
+  - 「3,729社のメーカー様の商品を一元調達できるだけでなく、即日配送やモノづくり現場のユーザー様への直送サービスなどの機能を活用でき、自社のビジネスを拡大することができます」（https://www.trusco.co.jp/・1回目）
+  - 「商品検索から直送サービスまで、モノづくり現場をサポートするサービスをご活用ください」（https://www.trusco.co.jp/・1回目）
+  - 「これにより、夏季休暇や年末年始に発生するユーザー様直送サービスの需要や、地域ごとのユーザー様の稼働状況に合わせた需要にも対応可能となり、社員も有給休暇を活用することで混雑時を避けての帰省や旅行が可能となります」（https://www.trusco.co.jp/company/history/・1回目）
+  - 「ビジネスモデル全体の省エネ設計」（https://www.trusco.co.jp/sustainability/environment/・1回目）
+  - 「当社では豊富な在庫を持つことによる調達の一元化や固定費型物流（リンク）など、ビジネスモデル全体を通じた省エネ設計をはじめ、環境に配慮したPBの企画開発、積極的なリサイクル・リユース・リターナブルを実施しています」（https://www.trusco.co.jp/sustainability/environment/・1回目）
+  - 「ユーザー様直送による環境負荷削減」（https://www.trusco.co.jp/sustainability/environment/・1回目）
+  - 「豊富な在庫と物流DXが実現した「ユーザー様直送」により、得意先様を経由した2段階配送からユーザー様への直送を実現（848万個/年）」（https://www.trusco.co.jp/sustainability/environment/・1回目）
+  - 「日本で長年親しまれているビジネスモデル「置き薬」の工具版です」（https://www.trusco.co.jp/sustainability/environment/・1回目）
+  - 「サプライチェーン全体の環境負荷軽減に向けた当社独自の取組みとして配送効率が高く、梱包材の削減につながるユーザー様直送の件数やMROストッカーの導入数を環境負荷軽減にまつわる「指標」として捉え、それぞれ「目標」を設定しています」（https://www.trusco.co.jp/sustainability/environment/tcfd/・1回目）
+  - 「ユーザー様直送拡大」（https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf・2回目）
+  - 「・「ニアワセ＋ユーチョク」（荷物詰合わせ＋ユーザー様直送）」（https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf・2回目）
+  - 「ビジネスモデル」（https://review.tanabeconsulting.co.jp/column/seminarreport/52243/・3回目）
+- 誰に：
+  - 「（2） 当社を主要な取引先（年間取引額が連結売上高」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「（3） 当社の主要な取引先（年間取引額が連結売上高の」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「資材） の卸売業を主な事業としており、顧客と」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「ては、通常、顧客に商品を引き渡した時点で収」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「収益は、顧客との契約に」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「1． 顧客との契約から生じる収益を分解した情報」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「当社及び連結子会社の売上高は、顧客との契約」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「活動に伴い発生するものであり、顧客の信用リス」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「取引先企業等からの依頼により取得したものであ」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「売掛金及び電子記録債権に係る顧客の信用リス」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「価の把握を行い、取引先企業との関係を勘案して」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「を主な事業としており、顧客との契約に基づいて」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+- 何を：
+  - 「商品検索＆カタログ」（https://www.trusco.co.jp/・1回目）
+  - 「個人情報の取扱い」（https://www.trusco.co.jp/・1回目）
+  - 「商品情報を検索」（https://www.trusco.co.jp/・1回目）
+  - 「5,680社の販売店様へ販売することができるだけでなく、商品データ連携や、在庫保有、カタログ掲載など幅広い販売支援サービスをご提供しています」（https://www.trusco.co.jp/・1回目）
+  - 「3,729社のメーカー様の商品を一元調達できるだけでなく、即日配送やモノづくり現場のユーザー様への直送サービスなどの機能を活用でき、自社のビジネスを拡大することができます」（https://www.trusco.co.jp/・1回目）
+  - 「生産現場における商品調達が簡単、便利」（https://www.trusco.co.jp/・1回目）
+  - 「モノづくり現場に必要な商品がなんでも揃い、すぐ届く」（https://www.trusco.co.jp/・1回目）
+  - 「商品検索から直送サービスまで、モノづくり現場をサポートするサービスをご活用ください」（https://www.trusco.co.jp/・1回目）
+  - 「ブランド商品」」（https://www.trusco.co.jp/・1回目）
+  - 「商品検索サイト」（https://www.trusco.co.jp/・1回目）
+  - 「商品検索＆カタログ」（https://www.trusco.co.jp/ir/・1回目）
+  - 「個人情報の取扱い」（https://www.trusco.co.jp/ir/・1回目）
+- 加工・付加価値：
+  - 「即納こそ最大のサービス」（https://www.trusco.co.jp/・1回目）
+  - 「「究極の即納」」（https://www.trusco.co.jp/・1回目）
+  - 「即納に応える」（https://www.trusco.co.jp/company/about/・1回目）
+  - 「豊富な品揃えと在庫でモノづくり現場の即納ニーズに応えています」（https://www.trusco.co.jp/company/about/・1回目）
+  - 「トラスコは日本全国に30か所の物流センターを配置し、物流センターを中心にその周辺事業所でネットワークを構築し、販売店様へ1日2回、ドライバー1本から即日配送する独自のプロツール供給体制を構築しています」（https://www.trusco.co.jp/company/about/・1回目）
+  - 「生産加工用品」（https://www.trusco.co.jp/ir/financial/monthly/・1回目）
+  - 「生産加工用品」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「お客様への即納率を高めるための在庫という考えでやってきましたが、実は「在庫のおかげで」という枕詞で語ることができるように、残業も激減しました」（https://shachomeikan.jp/presidents/detail/10062878?page=2・3回目）
+- お金の形：
+  - 「工場や作業現場で利用されているプロツールの総合サイト『トラスコ オレンジブック.Com』のユーザー様向け（会員）購買サイト『トラスコ オレンジブック.Com クロス』をリリース」（https://www.trusco.co.jp/company/history/・1回目）
+  - 「売上総利益率(%)」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「営業利益率(%)」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「経常利益率(%)」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「四半期/中間/当期純利益率(%)」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「売上総利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「営業利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「経常利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「当期純利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「ROA 総資本経常利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「ROE 自己資本当期純利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「A １.利益率の向上は当社としても改革すべき重要な課題であり」（https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf・2回目）
+- 売上構成：
+  - 「セグメント別月次売上高」（https://www.trusco.co.jp/ir/financial/monthly/・1回目）
+  - 「ルート別売上高構成比2026年12月期」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「商品分類別売上構成比2026年12月期」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「%表示は構成比」（https://www.trusco.co.jp/sustainability/environment/tcfd/・1回目）
+  - 「の報告セグメントを商品分類別に分解した場合の」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「報告セグメント」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+- 利益の源泉：
+  - 「トラスコの強み」（https://www.trusco.co.jp/ir/・1回目）
+  - 「売上総利益率(%)」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「営業利益率(%)」（https://www.trusco.co.jp/ir/financial/quarterly/%20・1回目）
+  - 「売上総利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「営業利益率（％）」（https://www.trusco.co.jp/ir/financial/settlement/・1回目）
+  - 「A １.広報ＩＲ課にて、様々な情報を基に独自の技術があるなど強みのある」（https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf・2回目）
+  - 「２.営業利益率や経常利益率といった指標は社内で管理している」（https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf・2回目）
+  - 「ので、物流や在庫、システムなどの強みをもっと発信すべきではない」（https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf・2回目）
+  - 「物流センターを運営する強みを生かし、私が社長就任時の1994年12月に830億円だった売上高は、30年後の2024年12月には2950億円にまで拡大した」（https://review.tanabeconsulting.co.jp/column/seminarreport/52243/・3回目）
+  - 「誰も真似しないことを続けていくと、自分たちの理想とするビジネススタイルを確立でき、結果として合理的な強みになると言うのです」（https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym・3回目）
+  - 「「顧客第一」と言いながら、在庫回転率などの自社目線の指標を気にして在庫を減らすのは矛盾しています」（https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym・3回目）
+  - 「例えば、在庫回転率ひとつとっても、それは、お客様が知らなくていいものですし」（https://shachomeikan.jp/presidents/detail/10062878?page=2・3回目）
+- 創業期：
+  - 「業界最後発企業として創業した当社は、枠にとらわれない発想で、「ありたい姿」の実現に向けた事業活動と積極的な設備投資を通じて、お客様の利便性向上に努めてまいりました」（https://www.trusco.co.jp/company/history/・1回目）
+  - 「営目標が当初の予定どおりに進捗しているか取締役」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「品等の販売実績が当初の想定を大きく下回った場」（https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf・2回目）
+  - 「創業者である私の父は、損得勘定の「取捨」（https://review.tanabeconsulting.co.jp/column/seminarreport/52243/・3回目）
+  - 「世界初光学単結晶実用化成功の舞台裏と創業者が見据える未来像」（https://shachomeikan.jp/presidents/detail/10062878?page=2・3回目）
+  - 「“フレッシュさ”を徹底追求！創業180年超、老舗企業の新たな挑戦！」（https://shachomeikan.jp/presidents/detail/10062878?page=2・3回目）
+- 検索結果の抜粋：
+  - 「トラスコ中山 の「教科書にない経営」 - TCG REVIEW — トラスコ中山 の「教科書にない経営」 - TCG REVIEW タナベコンサルティング https://review.tanabeconsulting.co.jp > seminarreport」（https://review.tanabeconsulting.co.jp/column/seminarreport/52243/・3回目）
+  - 「事業内容（ ビジネス フロー）｜TRUSCO トラスコ中山 株式会社 — 事業内容（ ビジネス フロー）｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > business」（https://www.trusco.co.jp/business/・3回目）
+  - 「トラスコ中山 （9830）の減益予想に隠された本質。PBR0.85 ... — トラスコ中山 （9830）の減益予想に隠された本質。PBR0.85 ... note https://note.com > 政治・経済 > ビジネス・経済」（https://note.com/hr793/n/nbd611a53edbd・3回目）
+  - 「四半期業績（累計）｜TRUSCO トラスコ中山 株式会社 — 四半期業績（累計）｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > financial > quarterly」（https://www.trusco.co.jp/ir/financial/quarterly/2025.html・3回目）
+  - 「決算説明資料 ｜TRUSCO トラスコ中山 株式会社 — 決算説明資料 ｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library > explanation」（https://www.trusco.co.jp/ir/library/explanation/・3回目）
+  - 「IRライブラリー｜TRUSCO トラスコ中山 株式会社 — IRライブラリー｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library」（https://www.trusco.co.jp/ir/library/・3回目）
+  - 「決算 短信｜TRUSCO トラスコ中山 株式会社 — 決算 短信｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library > statements」（https://www.trusco.co.jp/ir/library/statements/・3回目）
+  - 「統合報告書｜TRUSCO トラスコ中山 株式会社 — 統合報告書｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library > eng_report」（https://www.trusco.co.jp/ir/library/eng_report/・3回目）
+  - 「IR情報｜TRUSCO トラスコ中山 株式会社 — IR情報｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > ...」（https://www.trusco.co.jp/ir/・3回目）
+  - 「トラスコ中山社長 が語る、AIにも教科書にもない独自哲学と ... — トラスコ中山社長 が語る、AIにも教科書にもない独自哲学と ... ダイヤモンド・ビジョナリー https://www.diamondv.jp > article」（https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym・3回目）
+  - 「トラスコ中山 株式会社 代表取締役 社長 中山哲也 - 社長名鑑 — トラスコ中山 株式会社 代表取締役 社長 中山哲也 - 社長名鑑 社長名鑑 https://shachomeikan.jp > presidents > detail」（https://shachomeikan.jp/presidents/detail/10062878?page=2・3回目）
+  - 「ホワイト企業に成長！ トラスコ中山 の中山哲也 社長 から滲み ... — ホワイト企業に成長！ トラスコ中山 の中山哲也 社長 から滲み ... Kindai Picks https://kindaipicks.com > article」（https://kindaipicks.com/article/002342・3回目）
+
+## ミスミグループ本社
+- 公式URL：https://www.misumi.co.jp（given）
+- 設立：1963年2月23日（https://www.misumi.co.jp/about/company/summary・1回目）
+- 設立：田口　弘（https://www.misumi.co.jp/about/company/management・1回目）
+- 設立：三枝　匡（https://www.misumi.co.jp/about/company/management・1回目）
+- 従業員数：11,304名（2026年3月31日時点）（https://www.misumi.co.jp/about/company/summary・1回目）
+- 売上高：441,383百万円（2026年3月期）（https://www.misumi.co.jp/about/company/summary・1回目）
+- 売上高：22９億円⇒今回：230億円（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+- 売上高：366,160 373,151 367,649 401,987 441,383（https://www.nikkei.com/nkd/company/kessan/?scode=9962・3回目）
+- ビジネスモデル：
+  - 「ユニークなビジネスモデルで、ものづくり産業の未来を拓く」（https://www.misumi.co.jp/・1回目）
+  - 「メーカー事業、流通事業にIT・AIを最大活用したユニークなビジネスモデルで、ものづくり産業の未来を支えます」（https://www.misumi.co.jp/・1回目）
+  - 「※2：内訳（FY25 上期：M＆A仲介費用▲11億円・Fictiv単体業績▲3億円、FY26 上期：Fictiv単体業績▲3億円）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「※2：M＆A仲介費用、のれん等償却含まず」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「ミスミ、「製造業の常識を変えた」日本発のビジネスモデル｜若手ハイキャリアのスカウト転職ならアンビ（AMBI）」（https://en-ambi.com/featured/251/・3回目）
+  - 「ミスミ、「製造業の常識を変えた」日本発のビジネスモデル」（https://en-ambi.com/featured/251/・3回目）
+  - 「「ミスミ」日本発のビジネスモデル――製造業の常識を変えた同社で磨く、経営者マインド」（https://en-ambi.com/featured/251/・3回目）
+  - 「日本発ビジネスモデル、世界で「ミスミ」が注目されるワケ」（https://en-ambi.com/featured/251/・3回目）
+  - 「事業内容としては「機械部品におけるEC・カタログ販売」と一見しただけではわかりづらいが、革新的なビジネスモデルが注目される」（https://en-ambi.com/featured/251/・3回目）
+  - 「日本発のビジネスモデルは、グローバルでも注目される」（https://en-ambi.com/featured/251/・3回目）
+  - 「その両方にとってメリットの大きい独自のビジネスモデルは、なぜ生み出されたのか」（https://en-ambi.com/featured/251/・3回目）
+- 誰に：
+  - 「これにより主要顧客産業である自動車関連の稼働も膠着状態が続きました」（https://www.misumi.co.jp/ir/message・1回目）
+  - 「こうした環境において、当社は、メーカー事業と流通事業を併せ持つユニークな業態を活かし、その事業基盤をグローバルで進化させ、顧客の確実短納期ニーズに応えることで、世界の製造業を中心とした自動化関連産業に貢献しています」（https://www.misumi.co.jp/ir/message・1回目）
+  - 「これまで当社が築いてきたIT、生産、物流の強固な事業基盤やグローバル拠点網を活用しながら、新商品・新サービスを含む新事業開発を継続し、顧客の需要を的確に捉えることに努めましたが、一部地域においてはアメリカの関税政策による需要低迷の影響を受けました」（https://www.misumi.co.jp/ir/message・1回目）
+  - 「また、中国では、「現地顧客×現地商品開発×現地マネジメント」の域内体制でさらなる市場浸透を図ります」（https://www.misumi.co.jp/ir/message・1回目）
+  - 「当社グループは、社員の挑戦を起点として、顧客であるものづくり産業の持続的成長へ貢献し、社会の持続的発展を支える、成長連鎖経営を志向しております」（https://www.misumi.co.jp/ir/message・1回目）
+  - 「さらにIT・AIを活用したデジタルマニュファクチャリングを展開し顧客時間価値を高めています」（https://www.misumi.co.jp/news/news_261029・1回目）
+  - 「商品バリエーションの継続強化で顧客拡大」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「対応力拡大で顧客浸透を図る」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「える事業基盤をグローバルで進化させ、顧客の確実短納期ニーズに応えることで世界の製造業を中心とした自動化」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「活用しながら、新商品・新サービスを含む新事業開発を継続し、顧客の需要を的確に捉えることに努めました」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「加え、主要顧客産業である自動車関連の一部に見られた需要の持ち直しを取り込みました」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「顧客との契約から生じる収益 72,743 42,573 90,498 205,814 ― 205,814」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+- 何を：
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/about/company・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/ir・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/about/company/summary・1回目）
+  - 「他社ブランド商品を販売する新事業「ミスミVONA(ヴォーナ)」を開始」（https://www.misumi.co.jp/about/company/history・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/about/company/history・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/about/company/global・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/about/company/management・1回目）
+  - 「商品・部品の調達における取り組み」（https://www.misumi.co.jp/esg/environment・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/esg/environment・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/ir/financial・1回目）
+  - 「ミスミ他、国内外の取扱メーカーは4,000社以上」（https://www.misumi.co.jp/ir/library・1回目）
+- 加工・付加価値：
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/about/company・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/ir・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/about/company/summary・1回目）
+  - 「FA用加工部品カタログ創刊」（https://www.misumi.co.jp/about/company/history・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/about/company/history・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/about/company/global・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/about/company/management・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/esg/environment・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/ir/financial・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/ir/library・1回目）
+  - 「自動化装置・設備向けの特注部品や金型用部品、工具・消耗品など、最短当日出荷でお届け」（https://www.misumi.co.jp/ir/stock・1回目）
+- お金の形：
+  - 「営業利益率 9.5% 13.2％ 13.6% +4.1pt（＋2.7pt） +0.4pt（＋0.2pt）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「営業利益率 10.8％ 12.6％ 13.8% +3.0pt（＋2.6pt） +1.2pt（＋1.1pt）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「営業利益率は13.8%へ向上（公表比+1.2pt）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「利益率 10.9% 15.1% +4.2pt(+2.8pt)」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「利益率 10.9％ 15.1% +4.2pt(+2.8pt)」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「利益率 11.4% 13.3% 14.5% +3.1pt(+2.6pt) +1.2pt(+1.1pt)」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「利益率 10.8% 12.6% 13.8% +3.0pt(+2.6pt) +1.2pt(+1.1pt)」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「全事業で前年比増収増益、営業利益率は13.8%（前年比+3.0pt）へ改善」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「収益性も営業利益率13.8%（+1.2pt）へ向上」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「支払手数料 1 6」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「会員登録をすると、企業・ヘッドハンターからの」（https://en-ambi.com/featured/251/・3回目）
+  - 「会員登録（無料）」（https://en-ambi.com/featured/251/・3回目）
+- 売上構成：
+  - 「セグメント別に見ると、FA事業は、日本の設備投資需要の低調が継続した一方、中国の通信関連需要の攻略をはじめ、meviy、エコノミーシリーズ、D-JIT等の独自施策による需要獲得により海外地域が総じて堅調に推移したことから、売上高は1,604億9千8百万円（前年同期比18.2％増）となりました」（https://www.misumi.co.jp/ir/message・1回目）
+  - 「セグメント別業績」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「AI・DX商品MIX」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「売上数量増、商品MIX等が先行支出を吸収し、前年比＋176億円（＋89.8％）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「MIX： ＋39」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「MIX: +26」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「1. ターゲット市場セグメントの定義」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「（セグメント情報等） …………………………………………………………………………………………９」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「・報告セグメントの業績」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「（セグメント情報等）」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「（セグメント情報）」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+- 利益の源泉：
+  - 「営業利益率 9.5% 13.2％ 13.6% +4.1pt（＋2.7pt） +0.4pt（＋0.2pt）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「営業利益率 10.8％ 12.6％ 13.8% +3.0pt（＋2.6pt） +1.2pt（＋1.1pt）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「営業利益率は13.8%へ向上（公表比+1.2pt）」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「全事業で前年比増収増益、営業利益率は13.8%（前年比+3.0pt）へ改善」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「収益性も営業利益率13.8%（+1.2pt）へ向上」（https://www.misumi.co.jp/sites/default/files/2026-10/financial_2026_02_2.pdf・2回目）
+  - 「営業利益率（%）」（https://www.nikkei.com/nkd/company/kessan/?scode=9962・3回目）
+  - 「Over the twelve months ended June 30, 2026, MISUMI Group Inc. posted a gross margin of 46.93, reflecting its pricing power and cost economics. The operating margin of 11.79 and net profit margin of 9.49 provide insight into operational efficiency.」（https://www.roic.ai/quote/TSE-9962/statistics・3回目）
+  - 「Gross Margin」（https://www.roic.ai/quote/TSE-9962/statistics・3回目）
+  - 「Operating Margin」（https://www.roic.ai/quote/TSE-9962/statistics・3回目）
+- 創業期：
+  - 「沿革 | 株式会社ミスミグループ本社」（https://www.misumi.co.jp/about/company/history・1回目）
+  - 「特別顧問･創業者」（https://www.misumi.co.jp/about/company/management・1回目）
+  - 「特別顧問･第2期創業者」（https://www.misumi.co.jp/about/company/management・1回目）
+  - 「※３ 2026年３月期中間期のセグメント情報は、暫定的な会計処理の確定による取得原価の当初配分額の重要な見直」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「原価の当初配分額の重要な見直しが反映されております」（https://www.misumi.co.jp/sites/default/files/2026-10/fr_26_2Q.pdf・2回目）
+  - 「Getting started」（https://www.roic.ai/quote/TSE-9962/statistics・3回目）
+- 検索結果の抜粋：
+  - 「CFOメッセージ - 株式会社ミスミグループ本社 — CFOメッセージ - 株式会社ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > cfo_message」（https://www.misumi.co.jp/ir/cfo_message・3回目）
+  - 「株式会社 ミスミグループ本社 - en-courage — 株式会社 ミスミグループ本社 - en-courage en-courage https://app.en-courage.com > companies」（https://app.en-courage.com/companies/01GHZ0YVQN4GKTEWX94HJRBW6T?locale=ja・3回目）
+  - 「ミスミグループ本社 決算・業績 2026年3月期 - SalesNow — ミスミグループ本社 決算・業績 2026年3月期 - SalesNow SalesNow https://salesnow.jp > Data Lab > 決算分析」（https://salesnow.jp/insights/earnings/6010601006372/・3回目）
+  - 「ミスミグループ本社 の「企業分析［強み・弱み・展望 ... — ミスミグループ本社 の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > ミスミグループ本社」（https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs4D&q_no=9・3回目）
+  - 「決算説明 会（動画）／ その他の説明会 資料 - ミスミ — 決算説明 会（動画）／ その他の説明会 資料 - ミスミ 株式会社ミスミグループ本社 https://www.misumi.co.jp > library > financial_document」（https://www.misumi.co.jp/ir/library/financial_document・3回目）
+  - 「【 ミスミグループ本社 】[9962] 決算 発表や業務・財務情報 — 【 ミスミグループ本社 】[9962] 決算 発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=9962・3回目）
+  - 「決算 短信 | 株式会社 ミスミグループ本社 — 決算 短信 | 株式会社 ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > library > tanshin」（https://www.misumi.co.jp/ir/library/tanshin・3回目）
+  - 「【 ミスミグループ本社 】 決算 短信の「経営成績等の概況」は ... — 【 ミスミグループ本社 】 決算 短信の「経営成績等の概況」は ... インベストーク https://investalk.jp > 9962-tanshin-text-2026」（https://investalk.jp/9962/9962-tanshin-text-2026/・3回目）
+  - 「社員の声 - 株式会社ミスミグループ本社 — 社員の声 - 株式会社ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > corp > recruit > career > voice」（https://www.misumi.co.jp/corp/recruit/career/voice・3回目）
+  - 「ミスミグループ本社 の歴代 社長 - The社史 — ミスミグループ本社 の歴代 社長 - The社史 The社史 https://the-shashi.com > ミスミグループ本社の歴史」（https://the-shashi.com/tse/9962/ceo/・3回目）
+  - 「MISUMI Group Inc. Statistics — 9962 Key Data & Ratios | Roic AI — MISUMI Group Inc. Statistics — 9962 Key Data & Ratios | Roic AI Roic AI https://www.roic.ai > quote > statistics」（https://www.roic.ai/quote/TSE-9962/statistics・3回目）
+  - 「MISUMI Group Inc. FY2025 first half consolidated financial ... — MISUMI Group Inc. FY2025 first half consolidated financial ... 株式会社ミスミグループ本社 PDF https://www.misumi.co.jp > english > system > files」（https://www.misumi.co.jp/english/system/files?file=2025-10/en_summary_26_02.pdf・3回目）
+
+## メタルワン
+- 公式URL：https://www.mtlo.co.jp（given）
+- ビジネスモデル：
+  - 「ブラジルにファスナーの在庫販売を手がけるNifast do Brasil Ltda.を設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「脱炭素に資する新技術や新たなビジネスモデルについては、社会実装までに時間を要するケースも多いことから、中長期的な視点に立ち、段階的に排出削減貢献ビジネスの拡大を図っていきます」（https://www.mtlo.co.jp/sustainability/sus_environment/env_climate-change/・1回目）
+- 誰に：
+  - 「また、ステンレスの厚板分野では、溶断、曲げ、機械加工などの各種設備とノウハウを持つ西鋼が顧客のきめ細かいニーズにお応えしています」（https://www.mtlo.co.jp/business/wire/・1回目）
+  - 「we supply highly specialized products to a broad range of customers in Japan and elsewhere.」（https://www.mtlo.co.jp/en/business/wire/・1回目）
+  - 「We use the knowledge and expertise developed over our many years in the specialty steel industry—which demands high specialization—to meet the diverse requirements of customers in the automotive, construction equipment, and other industries.」（https://www.mtlo.co.jp/en/business/wire/・1回目）
+  - 「輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感」（https://www.japanmetal.com/news-to20241119139071.html・3回目）
+- 何を：
+  - 「線材・特殊鋼・ステンレス事業部」（https://www.mtlo.co.jp/・1回目）
+  - 「線材・特殊鋼・ステンレス事業部」（https://www.mtlo.co.jp/about/・1回目）
+  - 「ステンレス事業部」（https://www.mtlo.co.jp/about/・1回目）
+  - 「線材・特殊鋼・ステンレス事業部」（https://www.mtlo.co.jp/company/company/・1回目）
+  - 「線材・特殊鋼・ステンレス事業部」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「メタルワンは、2003年1月に三菱商事と日商岩井（現双日）の鉄鋼製品部門が統合し誕生」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「日商岩井金属販売と日商岩井鉄鋼製品販売を統合し、メタルワン鉄鋼製品販売を設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「自動車用向けコイルセンターの佛山市順徳区美達王鋼材制品有限公司を設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「ステンレス事業の統合再編でステンレスワンを設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「中国に鋼材流通の五礦鋼鉄（武漢）を合併で設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「シンガポールのステンレス3 子会社を統合し、Metal One Stainless (Asia) を設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「中国でステンレスコイルセンターの美達王精密金属（蘇州）有限公司が稼働」（https://www.mtlo.co.jp/company/history/・1回目）
+- 加工・付加価値：
+  - 「自動車向けブランキング加工の水島メタルプロダクツの設立に参画」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「神鋼線材加工（佛山）有限公司の設立に参画」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「建機向け溶断・加工製品の杭州美達王鋼鉄制品加工有限公司（HMOP）を設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「ベトナムの鋼板加工拠点、Hanoi Metal One Steel Center が稼働開始」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「ベトナムの鉄骨加工、Universal Steel Fabrication Vina-Japan Co., Ltd. の設立に参画」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「インドで鋼板加工センター（Manesar Steel Processing (India)Private Limited）を設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「米国での厚板加工拠点、Tubular Structures International, LCCの設立に参画」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「インドに建機向け厚板加工のIMOPを設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「米国の熱延鋼板加工事業のカーギル社からの買収完了」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「ベトナムで鋼板加工サービスセンターを設立」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「線材二次加工メーカーと部品メーカー向けサービス「Metal X WR」の提供開始」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「自動車や建機、土木・建築などの産業に不可欠な線材、特殊鋼、ステンレスの素材から加工品、部品までを提供し、」（https://www.mtlo.co.jp/business/wire/・1回目）
+- お金の形：
+  - 「株主やグループ企業、各地域のメタルワンクラブの会員企業さま、その他様々な機能を持った企業さまと連携のうえ、弊社が提供する機能にソリューションのサービスを加えながら世の中の変化の早さ・課題に対応していく」（https://www.japanmetal.com/news-to20241119139071.html・3回目）
+- 創業期：
+  - 「沿革｜株式会社メタルワン」（https://www.mtlo.co.jp/company/history/・1回目）
+  - 「同社は創業100年以上の歴史を持つメタルワン特殊鋼と線材、線材二次・三次製品、ファスナーなどを扱う専門商社のメタルワン鉄鋼製品販売という、メタルワングループにおける特殊鋼・線材の両分野で高い専門性とネットワークを併せ持つ2つの機能商社が統合」（https://www.mtlo.co.jp/business/wire/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/about/・1回目）
+  - 「History｜Metal One Corporation」（https://www.mtlo.co.jp/en/company/history/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/company/history/・1回目）
+  - 「沿革｜株式会社美达王」（https://www.mtlo.co.jp/cn/company/history/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/business/wire/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/sustainability/sus_environment/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/ir/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/company/origin/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/company/officer/・1回目）
+  - 「History」（https://www.mtlo.co.jp/en/sustainability/sus_environment/env_policy-management/・1回目）
+- 検索結果の抜粋：
+  - 「メタルワン の事業と役割 — メタルワン の事業と役割 株式会社メタルワン https://www.mtlo.co.jp > business」（https://www.mtlo.co.jp/business/・3回目）
+  - 「メタルワン グループの総合力とは？ — メタルワン グループの総合力とは？ 株式会社メタルワン https://www.mtlo.co.jp > group > outline」（https://www.mtlo.co.jp/group/outline/・3回目）
+  - 「【27卒】 メタルワン の内定獲得ガイド｜志望動機30例×面接 ... — 【27卒】 メタルワン の内定獲得ガイド｜志望動機30例×面接 ... note https://note.com > キャリア > 就職活動」（https://note.com/jobhuntkeyence/n/n521518161fb6・3回目）
+  - 「事業紹介｜株式会社 メタルワン ｜新卒・キャリア採用情報 — 事業紹介｜株式会社 メタルワン ｜新卒・キャリア採用情報 metalone-recruit.jp https://www.metalone-recruit.jp > business > business」（https://www.metalone-recruit.jp/business/business.html・3回目）
+  - 「#3499 決算分析 : 株式会社 メタルワン 菱和 第57期決算 当期純 ... — #3499 決算分析 : 株式会社 メタルワン 菱和 第57期決算 当期純 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/09/19」（https://ryo-nakamura1.hatenablog.jp/entry/2025/09/19/190000_2・3回目）
+  - 「決算 情報｜株式会社 メタルワン — 決算 情報｜株式会社 メタルワン 株式会社メタルワン https://www.mtlo.co.jp > ...」（https://www.mtlo.co.jp/ir/・3回目）
+  - 「2025 年 3 月期 連結 決算 公表 | 株式会社 メタルワン — 2025 年 3 月期 連結 決算 公表 | 株式会社 メタルワン 株式会社メタルワン PDF https://www.mtlo.co.jp > 2025/05 > 決算2024」（https://www.mtlo.co.jp/wp-content/uploads/2025/05/%E6%B1%BA%E7%AE%972024.pdf・3回目）
+  - 「ニュースリリース - 株式会社メタルワン — ニュースリリース - 株式会社メタルワン 株式会社メタルワン https://www.mtlo.co.jp > newsrelease」（https://www.mtlo.co.jp/newsrelease/・3回目）
+  - 「2025年度 連結 決算 概要 - 株式会社メタルワン — 2025年度 連結 決算 概要 - 株式会社メタルワン 株式会社メタルワン PDF https://www.mtlo.co.jp > 2026/06 > 決算2025」（https://www.mtlo.co.jp/wp-content/uploads/2026/06/%E6%B1%BA%E7%AE%972025.pdf・3回目）
+  - 「株式会社 メタルワン — 株式会社 メタルワン 株式会社メタルワン https://www.mtlo.co.jp」（https://www.mtlo.co.jp/・3回目）
+  - 「わたしたちは「 メタルワン 」という新しいグループを創り上げ ... — わたしたちは「 メタルワン 」という新しいグループを創り上げ ... 株式会社メタルワン https://www.mtlo.co.jp > group > crosstalk > vol01」（https://www.mtlo.co.jp/group/crosstalk/vol01/・3回目）
+  - 「新 社長 に聞く／ メタルワン ／渡邉善之氏／機能重視 成長施策 ... — 新 社長 に聞く／ メタルワン ／渡邉善之氏／機能重視 成長施策 ... japanmetal.com https://www.japanmetal.com > news-to20241119139071」（https://www.japanmetal.com/news-to20241119139071.html・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部3頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部3頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部3頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部3頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部3頁・検索4回）
+
+## ユアサ商事
+- 公式URL：https://www.yuasa.co.jp（given）
+- 設立：1666年(寛文6年）3月（https://www.yuasa.co.jp/corporate/data/・1回目）
+- 設立：1919年(大正8年）6月25日（https://www.yuasa.co.jp/corporate/data/・1回目）
+- 設立：1919年6月25日（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf・2回目）
+- 従業員数：3,156名（連結） 1,331名（単体） （2026年 4月末時点）（https://www.yuasa.co.jp/corporate/data/・1回目）
+- 売上高：5,048 5,265 5,283 5,450 5,460（https://www.yuasa.co.jp/ir/finance/performance-plan/・1回目）
+- 売上高：432,185 462,725 504,806 526,569 528,387（https://www.yuasa.co.jp/ir/finance/highlight/・1回目）
+- 売上高：5,100 億円※・経常利益：145 億円（https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf・2回目）
+- ビジネスモデル：
+  - 「時代の先を見据えたビジネスモデル転換は、当社にとって最初のイノベーションでありました」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「目指すべきビジネスモデル」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「マーケッ トアウ ト型のビジネスモデル」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「に左右されに く いビジネスモデルへの変革を進めていきます」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「収益性の高いビジネスモデルへ」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「ビジネスモデル変革収益性 成長性」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「ビジネスモデル」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「ビジネスモデルを変革し既存取引先ネッ トワークを発展させる こ と によ り 、 既存事業 ・ 成長戦略を国内外で拡大し ます」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「付加価値の高いビジネスモデルを創出していきます」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「このマーケッ トアウ ト型のビジネスモデルを」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「▎ 収益性の高いビジネスモデルへ ▎ 「コア事業の拡大 」 と 「 新たな市場展開 」 で成長を加速」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+  - 「● マーケッ トアウ ト型のビジネスモデルを確立」（https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf・2回目）
+- 誰に：
+  - 「また、「収益性」の向上に向けては、当社独自の「つなぐ」機能と、YUASAグループ各社および取引先ネットワーク等からなる「総合力」の発揮を通じた社会課題の解決に取り組むことで、当社グループ独自の付加価値を創造し収益性を高めてまいります」（https://www.yuasa.co.jp/ir/topmessage/・1回目）
+  - 「「ネットワーク」については、当社は主要販売先約20,000社、主要仕入先6,000社と取引があり、販売先様の会である「やまずみ会」（約3,000社）、仕入先様の会である「炭(たん)協会」（約500社）が組織されております」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社の販売先様の会で1969年（昭和44年）に発足し、会員社数は全国に約3,000社ございます」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社の販売先の会である「やまずみ会」が主催、仕入先様の会である「炭(たん)協会」が協賛し、ＹＵＡＳＡが後援する展示会です」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社が持つ歴史や経験を可能な限りデジタル化しつつ、現在の取引先様からの情報と市場データを集約しAIの活用により分析することで、「コト売り」への変革に向け新たなサービスや商品開発につなげてまいります」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「一方、価格の高騰や品薄など、当社販売先様に対する影響は今後少なからず表面化することが想定されますが、当社ネットワークを活用した在庫の融通などを通じ、当社そしてお取引先様ともにこの影響を最小限に留め、またビジネスチャンスを拡げていけるよう取り組んでまいります」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「今日までの当社をつないでくださいましたお取引先様、株主の皆様、役職員をはじめすべてのステークホルダーにこの場をお借りして改めて感謝を申し上げるとともに、より一層の企業価値向上に向け、その先頭に立って邁進していく所存です」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「当社が有する主要仕入先様6,000社、主要販売先様20,000社のネットワークは、競争優位をもたらすビジネス領域の広さのみならず、その幅広いネットワークから集められる最新の市場動向やユーザーの声を反映し、製品・市場戦略に展開できる強みそのものとなっています」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「事業においても、グリーン事業を全社推進事業と位置づけ、販売先やそのお客さまによる製品使用時のCO2排出量の削減を進めるため、省エネ製品や脱炭素関連製品の提案・販売を推進しています」（https://www.yuasa.co.jp/sustainability/environment/climate/・1回目）
+  - 「当社グループでは、省エネコンサルティングの専門部隊であるYES（YUASA ENVIRONMENT SOLUTION） 部を中心に、お取引先様のカーボンニュートラルに向けた取り組みをワンストップでご支援しています」（https://www.yuasa.co.jp/sustainability/environment/climate/・1回目）
+  - 「エネルギー管理士や1 級電気工事士などの専門資格所有者などにより、工場やビル全体の設備更新から、小規模な設備改修・運用改善まで、お取引先様のニーズに応じた最適なソリューションを提供し、持続可能な社会の実現に貢献しています」（https://www.yuasa.co.jp/sustainability/environment/climate/・1回目）
+  - 「当社グループの事業は、主に国内の多様な産業分野にわたる大企業、中小・中堅企業との取引から成り立っており、気候変動に関するリスクは、法規制や政策の変化、顧客需要の変化、経済社会情勢の変化など多岐にわたります」（https://www.yuasa.co.jp/sustainability/environment/climate/・1回目）
+- 何を：
+  - 「新流通ビジネス部では、ECビジネスを展開するお客様向けに当社の豊富な商品やサービスを提供しています」（https://www.yuasa.co.jp/business/・1回目）
+  - 「第64回十大新製品賞」（https://www.yuasa.co.jp/solutions/processing-environment/・1回目）
+  - 「このような業界最大級の「ネットワーク」と独自の「機能」を通じ、モノづくり、すまいづくり、まちづくり、くらしづくりの社会課題解決に向けた商品・サービスを提案できることが当社の強みといえます」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「どんな取扱商品がありますか」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「モノづくり、すまいづくり、まちづくり、くらしづくりに不可欠な生産財を中心に約500万アイテム以上の商品取扱がございます」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「主な取扱商品は、産業機器、工業機械、住設・管材・空調、建築・エクステリア、建設機械、エネルギー、消費財・木材製品などです」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社が持つ歴史や経験を可能な限りデジタル化しつつ、現在の取引先様からの情報と市場データを集約しAIの活用により分析することで、「コト売り」への変革に向け新たなサービスや商品開発につなげてまいります」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「個人向けについては、グループ会社ユアサプライムス㈱において、家電商品（扇風機、コタツ、ストーブ、調理家電他）をＥＣサイト、全国の家電量販店、ホームセンター、総合スーパーを通じて販売しております」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「切削工具に用いられるタングステンなどのレアメタルは、世界的に品薄・価格高騰が発生しています」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社が有する主要仕入先様6,000社、主要販売先様20,000社のネットワークは、競争優位をもたらすビジネス領域の広さのみならず、その幅広いネットワークから集められる最新の市場動向やユーザーの声を反映し、製品・市場戦略に展開できる強みそのものとなっています」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「単独企業や単独商品で解決できない課題」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「当社オリジナルの新たな商品やサービス」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+- 加工・付加価値：
+  - 「脆性材加工の課題解決/工具寿命延長」（https://www.yuasa.co.jp/・1回目）
+  - 「脆性材加工の課題解決/」（https://www.yuasa.co.jp/・1回目）
+  - 「脆性材加工の課題解決/工具寿命延長」（https://www.yuasa.co.jp/corporate/data/・1回目）
+  - 「脆性材加工の課題解決/」（https://www.yuasa.co.jp/corporate/data/・1回目）
+  - 「脆性材加工の課題解決/工具寿命延長」（https://www.yuasa.co.jp/business/・1回目）
+  - 「脆性材加工の課題解決/」（https://www.yuasa.co.jp/business/・1回目）
+  - 「脆性材加工の課題解決/工具寿命延長」（https://www.yuasa.co.jp/solutions/kizukimirai/・1回目）
+  - 「脆性材加工の課題解決/」（https://www.yuasa.co.jp/solutions/kizukimirai/・1回目）
+  - 「脆性材加工の課題解決/工具寿命延長 | 「つなぐ」ソリューションズ | 株式会社YUASA」（https://www.yuasa.co.jp/solutions/processing-environment/・1回目）
+  - 「脆性材加工の課題解決/工具寿命延長」（https://www.yuasa.co.jp/solutions/processing-environment/・1回目）
+  - 「脆性材加工の課題解決/」（https://www.yuasa.co.jp/solutions/processing-environment/・1回目）
+  - 「自動化設備やセンシングでの情報収集などは、加工機内がクリーンな状態でなければ、安定化しません」（https://www.yuasa.co.jp/solutions/processing-environment/・1回目）
+- お金の形：
+  - 「さらに、「効率性」の向上を図る指標として、資本効率の向上と規律ある成長投資を推進する観点から新たにROIC（投下資本利益率）を重要KPIに位置づけました」（https://www.yuasa.co.jp/ir/topmessage/・1回目）
+  - 「当社の販売先様の会で1969年（昭和44年）に発足し、会員社数は全国に約3,000社ございます」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社の仕入先様の会で1977年（昭和52年）に発足し、会員社数は全国に約500社ございます」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「さらに、投下資本全体の効率性を希求する観点から、収益性指標としてROEに代えて新たにROIC（投下資本利益率）を導入いたしました」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「（営業利益率）」（https://www.yuasa.co.jp/ir/finance/performance-plan/・1回目）
+  - 「（経常利益率）」（https://www.yuasa.co.jp/ir/finance/performance-plan/・1回目）
+  - 「ROE（自己資本当期純利益率）」（https://www.yuasa.co.jp/ir/finance/highlight/・1回目）
+  - 「自己資本利益率 (％) 8.9 10.8 12.0 9.7 10.5」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+  - 「自己資本利益率 (％) 8.8 12.3 9.6 9.4 10.1」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+  - 「経常利益率 3.2％ 3.2％」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+  - 「が年額1.5百万円以内であり、同社にとって当社への経済的依存度が生じるほどに多額ではなく、「主要な取引」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+  - 「め、コンサルティング契約を締結しておりますが、その契約額は年額10百万円以内であり、同社にとって当社への」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+- 売上構成：
+  - 「セグメント別売上高構成」（https://www.yuasa.co.jp/corporate/data/・1回目）
+  - 「ビジネスフィールドと事業セグメント」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 9」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「セグメント別の状況は以下のとおりです」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「部門」としていた報告セグメント名称を「工場設備部門」に、「建設機械部門」としていた報告セ」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「報告セグメント」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「セグメント間の」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「セグメント利益 345 597 1,702 296 249 18 3,211 76 3,287 △1,130 2,156」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「【セグメント情報】」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「のセグメント情報については、当該見直し反映後のものを記載しております」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf・2回目）
+- 利益の源泉：
+  - 「過去の歴史から培ってきた強みを活かし、人 ・モノ・資金・情報・データ・技術など、あらゆるものを「つなぐ」ことで付加価値を創出し、社会課題を解決する「つなぐ」イノベーションモデルを推進しています」（https://www.yuasa.co.jp/・1回目）
+  - 「ＹＵＡＳＡの強みは何ですか」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「このような業界最大級の「ネットワーク」と独自の「機能」を通じ、モノづくり、すまいづくり、まちづくり、くらしづくりの社会課題解決に向けた商品・サービスを提案できることが当社の強みといえます」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「このように、当社の強みの強化、また当社に不足しているピースの獲得につながるかを軸に、M&Aを推進してまいります」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「当社の強みとオリジナリティ」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「当社が有する主要仕入先様6,000社、主要販売先様20,000社のネットワークは、競争優位をもたらすビジネス領域の広さのみならず、その幅広いネットワークから集められる最新の市場動向やユーザーの声を反映し、製品・市場戦略に展開できる強みそのものとなっています」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「（営業利益率）」（https://www.yuasa.co.jp/ir/finance/performance-plan/・1回目）
+  - 「多数の省エネ製品を取り扱うだけではなく、独自のノウハウを活かしニーズに沿った製品・サービスの提供、そしてグループ全体の総合力を強みとし、事業を通じてサプライチェーン全体の環境負荷低減に取り組んでいます」（https://www.yuasa.co.jp/sustainability/environment/climate/・1回目）
+  - 「強みである「人財」を中心に据え、今まで以上に社員が活躍できる風土改革を実現」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf・2回目）
+  - 「当社の強みである「人財」を中心に据え、今まで以上に社員が活躍できる風土改革を実現し、サステナビリティ経」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+  - 「変化を市場機会や競争優位性に転換する「攻め」と、潜在的損失を防ぐ「守り」のリ」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+  - 「多様な個の強みを組織力に昇華させる連携の仕組み不足」（https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf・2回目）
+- 創業期：
+  - 「ＹＵＡＳＡは、創業400年を見据え「つなぐ力で社会の基盤を支え、豊かな、変化に強い未来」を実現します」（https://www.yuasa.co.jp/business/・1回目）
+  - 「加工環境ソリューションは、スラッジ対策（精密濾過）から始まり、加工環境を整えることで、製造現場が抱える様々な問題を解決し、スマートファクトリー化を目指す製造業の皆様を応援します」（https://www.yuasa.co.jp/solutions/processing-environment/・1回目）
+  - 「当社グループは、創業370周年を迎える2036年3月期までを対象とする10年間の長期ビジョン「YUASA vision 370」の達成に向け、2031年3月期までの5か年を対象とする中期経営計画「Reborn 2031」を推進しています」（https://www.yuasa.co.jp/ir/topmessage/・1回目）
+  - 「沿革について」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「1666年（寛文6年）創業以来350年以上の歴史を持つ「『つなぐ』複合型専門商社グループ」です」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「会社創業・設立の経緯について教えてください」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「1666年（寛文6年）京都で初代湯浅庄九郎が木炭商として創業後、8年後の1674年に江戸本石町（現在の日本橋本石町）に打刃物商を開きました」（https://www.yuasa.co.jp/ir/faq/・1回目）
+  - 「360年分の感謝を胸に、創業400年へ「生まれ変わる」覚悟と決意」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「創業360年という大きな節目、またこの4月より「株式会社ＹＵＡＳＡ」として新たなスタートを迎えた年にバトンを受け取ることとなり、身が引き締まる思いでございます」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「当社はこの4月に、創業370年を迎える2036年3月期を最終年度とする新たな長期ビジョン「YUASA vision 370」と、2031年3月期までの5か年を計画期間とする中期経営計画「Reborn 2031」を発表いたしました」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「当社の創業は1666（寛文6）年、時は徳川4代将軍・家綱の時代にまで遡ります」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+  - 「炭の卸に始まり打刃物問屋への転業を経、金物卸として日本の産業とくらしを支えてまいりました」（https://www.yuasa.co.jp/ir/individual-investor/・1回目）
+- 検索結果の抜粋：
+  - 「ユアサ商事 グループの価値創造 モデル — ユアサ商事 グループの価値創造 モデル 株式会社ＹＵＡＳＡ PDF https://www.yuasa.co.jp > pdf > yuasa_report02」（https://www.yuasa.co.jp/assets/annual_report/pdf/yuasa_report02.pdf・3回目）
+  - 「【QAあり】 ユアサ商事 、 収益 性の向上が進み増収増益 売上総 ... — 【QAあり】 ユアサ商事 、 収益 性の向上が進み増収増益 売上総 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/382926・3回目）
+  - 「ユアサ商事 株式会社 - 2025年3月期 決算説明会 — ユアサ商事 株式会社 - 2025年3月期 決算説明会 株式会社ＹＵＡＳＡ PDF https://www.yuasa.co.jp > cms > uploads > 2025/06」（https://www.yuasa.co.jp/cms/wp-content/uploads/2025/06/%E3%80%90%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%80%91%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2025%E5%B9%B43%E6%9C%88%E6%9C%9F.pdf・3回目）
+  - 「ユアサ商事 株式会社 - 2025年3月期 決算説明 会 — ユアサ商事 株式会社 - 2025年3月期 決算説明 会 株式会社ＹＵＡＳＡ PDF https://www.yuasa.co.jp > cms > uploads > 2025/06」（https://www.yuasa.co.jp/cms/wp-content/uploads/2025/06/%E3%80%90%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%80%91%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2025%E5%B9%B43%E6%9C%88%E6%9C%9F.pdf・3回目）
+  - 「ユアサ商事社長 ・田村博之氏 来月「YUASA」に社名変更 — ユアサ商事社長 ・田村博之氏 来月「YUASA」に社名変更 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/775723・3回目）
+  - 「日刊工業新聞電子版 on X: " インタビュー ／ ユアサ商事社長 ... — 日刊工業新聞電子版 on X: " インタビュー ／ ユアサ商事社長 ... X https://x.com > @Nikkan_BizLine」（https://x.com/Nikkan_BizLine/status/2030805721370038566・3回目）
+  - 「ユアサ商事 濱安 守常務取締役「材・工の同時供給で総合力 ... — ユアサ商事 濱安 守常務取締役「材・工の同時供給で総合力 ... 日本産機新聞 https://nihonsanki-shimbun.com > yuasasyouji-topinterview」（https://nihonsanki-shimbun.com/yuasasyouji-topinterview/・3回目）
+
+## 三菱マテリアルトレーディング
+- 公式URL：https://www.mmtc.co.jp（given）
+- 設立：1947年5月9日（https://www.mmtc.co.jp/company/about/・1回目）
+- 売上高：1,184億円（2026年3月期）（https://www.mmtc.co.jp/company/about/・1回目）
+- 誰に：
+  - 「私たちは三菱マテリアルグループの一員として、グループ行動規範である人権尊重・安全優先・法令遵守・共存共栄・環境保全を信条に、社会に愛され、顧客に信頼され、社員の幸せを追求する会社を目指します」（https://www.mmtc.co.jp/company/environment/resolution.html・1回目）
+  - 「このガイドラインは、環境負荷物質（Substances of Concern：以下「SOC」という）の適正管理、資源の減量化・再生化、商品の長寿命化等、環境負荷に配慮した商品の購買と販売に関わる手順を定め、グリーン調達体制を確立することにより、環境負荷の低減と顧客満足の向上を図ることを目的としております」（https://www.mmtc.co.jp/company/environment/green.html・1回目）
+  - 「原料の種類や形状、顧客の所在地によって、どの製錬所が最適かを判断し、取引開始に向けて打ち合わせを重ねることが営業の役割です」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+  - 「顧客にはこうした仕組みを丁寧に説明し、納得いただいた上で取引を進めています」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+  - 「まだ立ち上がったばかりの部署ということもあり、体制づくりの最中ではありますが、一つひとつの案件を積み重ねることによって新たな顧客先を獲得していく過程に、強いやりがいと成長を感じています」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+  - 「だからこそ、相場の動きを正確に把握し、顧客と製錬所の双方にとって最適な提案を行わなければなりません」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+  - 「業務を進めていくうえで、製錬所が求める受入条件や納期と、顧客が出したい荷物の数量や形状、出荷日といった取引条件が完全に一致することは多くありません」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+  - 「こうした日々の積み重ねによって信頼が深まり、既存のお客様から新たな取引先をご紹介いただけたときには、努力が形になったと実感がありました」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+- 何を：
+  - 「製品・サービス」（https://www.mmtc.co.jp/・1回目）
+  - 「製品・サービス トップ」（https://www.mmtc.co.jp/・1回目）
+  - 「製品から探す」（https://www.mmtc.co.jp/・1回目）
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/・1回目）
+  - 「産業機器・製錬技術製品・副資材」（https://www.mmtc.co.jp/・1回目）
+  - 「当社の注力製品」（https://www.mmtc.co.jp/・1回目）
+  - 「製品・サービスをご覧ください」（https://www.mmtc.co.jp/・1回目）
+  - 「創意工夫のワンストップ・ソリューションでお客様の期待以上の商品を提案する」（https://www.mmtc.co.jp/・1回目）
+  - 「環境・リサイクル | 製品・サービス | 三菱マテリアルトレーディング株式会社」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+  - 「製品・サービス」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+  - 「製品・サービス トップ」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+  - 「製品から探す」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+- 加工・付加価値：
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/・1回目）
+  - 「金属材料・金属加工品」（https://www.mmtc.co.jp/・1回目）
+  - 「提案から加工まで」（https://www.mmtc.co.jp/・1回目）
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+  - 「金属材料・金属加工品」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/company/about/・1回目）
+  - 「金属材料・金属加工品」（https://www.mmtc.co.jp/company/about/・1回目）
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/company/history/・1回目）
+  - 「金属材料・金属加工品」（https://www.mmtc.co.jp/company/history/・1回目）
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/company/environment/resolution.html・1回目）
+  - 「金属材料・金属加工品」（https://www.mmtc.co.jp/company/environment/resolution.html・1回目）
+  - 「銅材料・銅加工品」（https://www.mmtc.co.jp/company/environment/quality-assurance.html・1回目）
+- 利益の源泉：
+  - 「私たちの強み」（https://www.mmtc.co.jp/・1回目）
+  - 「私たちの強み」（https://www.mmtc.co.jp/products/category/environment.html・1回目）
+  - 「私たちの強み」（https://www.mmtc.co.jp/company/about/・1回目）
+  - 「私たちの強み」（https://www.mmtc.co.jp/company/history/・1回目）
+  - 「私たちの強み」（https://www.mmtc.co.jp/company/environment/resolution.html・1回目）
+  - 「私たちの強み」（https://www.mmtc.co.jp/company/environment/quality-assurance.html・1回目）
+  - 「私たちの強み」（https://www.mmtc.co.jp/company/environment/green.html・1回目）
+- 創業期：
+  - 「沿革 | 会社情報 | 三菱マテリアルトレーディング株式会社」（https://www.mmtc.co.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「私たちの強み | 会社情報 | 三菱マテリアルトレーディング 株式 ... — 私たちの強み | 会社情報 | 三菱マテリアルトレーディング 株式 ... 三菱マテリアルトレーディング株式会社 https://www.mmtc.co.jp > 会社情報」（https://www.mmtc.co.jp/company/advantage/・3回目）
+  - 「電子公告 - 三菱マテリアルトレーディング株式会社 — 電子公告 - 三菱マテリアルトレーディング株式会社 三菱マテリアルトレーディング株式会社 https://www.mmtc.co.jp > public-notice」（https://www.mmtc.co.jp/public-notice.html・3回目）
+  - 「社員 インタビュー 07 | 三菱マテリアルトレーディング 株式会社 ... — 社員 インタビュー 07 | 三菱マテリアルトレーディング 株式会社 ... 三菱マテリアルトレーディング株式会社 https://recruit.mmtc.co.jp > interview」（https://recruit.mmtc.co.jp/interview/d-07/・3回目）
+  - 「会社概要 | 会社情報 - 三菱マテリアルトレーディング株式会社 — 会社概要 | 会社情報 - 三菱マテリアルトレーディング株式会社 三菱マテリアルトレーディング株式会社 https://www.mmtc.co.jp > 会社情報」（https://www.mmtc.co.jp/company/about/・3回目）
+  - 「非鉄業界で働く／ 三菱マテリアルトレーディング ／女性総合職 ... — 非鉄業界で働く／ 三菱マテリアルトレーディング ／女性総合職 ... japanmetal.com https://www.japanmetal.com > news-to20250605143104」（https://www.japanmetal.com/news-to20250605143104.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）
+
+## 中山福
+- 公式URL：https://www.nakayamafuku.co.jp（given）
+- 設立：1925年3月（https://www.nakayamafuku.co.jp/company/profile/・1回目）
+- 設立：1947年2月（https://www.nakayamafuku.co.jp/company/profile/・1回目）
+- 設立：1999年9月（https://www.nakayamafuku.co.jp/company/group/・1回目）
+- 従業員数：330名（グループ428名）2026年6月現在（https://www.nakayamafuku.co.jp/company/profile/・1回目）
+- 従業員数：16名（https://www.nakayamafuku.co.jp/company/group/・1回目）
+- 従業員数：25名（https://www.nakayamafuku.co.jp/company/group/・1回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「独自のビジネスモデルで」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/info/index.php?ir・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/company/profile/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/company/group/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/about/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/about/group/・1回目）
+  - 「中山福グループ ビジネスモデル」（https://www.nakayamafuku.co.jp/about/group/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/about/sites/・1回目）
+  - 「ビジネスモデル」（https://www.nakayamafuku.co.jp/about/network/・1回目）
+- 誰に：
+  - 「当連結会計年度における当社グループを取り巻く環境は、取引先が属する業界の再編成、原材料価格や人手不足に伴う人件費の上昇、中東情勢悪化に伴う取引先の原材料調達遅延や商品供給の不安定化の懸念等、経営環境は厳しい状況が続いております」（https://www.nakayamafuku.co.jp/ir/business/・1回目）
+  - 「これらの結果、消費者の価値観・需要に合った商品の販売や取引先への営業展開等が順調に進み、また、特に「家庭用品卸売事業」においては、期末にかけて石油由来の一部商品に関して前倒し需要が顕在化し、売上高が一時的に伸長した結果、当連結会計年度の売上高は430億52百万円となりました」（https://www.nakayamafuku.co.jp/ir/business/・1回目）
+  - 「販売先チャネル別」（https://www.nakayamafuku.co.jp/ir/individual/data.php・1回目）
+  - 「持つことで、全国の取引先店舗に」（https://www.nakayamafuku.co.jp/ir/individual/data.php・1回目）
+  - 「2017年に弊社へ出向してから、5年間は本部職だったので、お取引先や従業員との接点が少なかったと言えます」（https://shachomeikan.jp/industry_article/4284・3回目）
+  - 「弊社でも、地域別の売れ筋や市場の動向を分析し、消費者ニーズに合わせた売り場づくりを取引先へ提案するなど、サービスの幅を広げています」（https://shachomeikan.jp/industry_article/4284・3回目）
+  - 「また、全国から取引先を招く、年2回の見本市も弊社のビジネスモデルに欠かせません」（https://shachomeikan.jp/industry_article/4284・3回目）
+  - 「モノを売るだけでなく、その先の未来を共に描く！1000人の社員の声から進める組織変革と顧客起点の課題解決・共創への挑戦」（https://shachomeikan.jp/industry_article/4284・3回目）
+- 何を：
+  - 「製品を通じ、」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「これからもホームユース製品の品揃えを」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「多様な製品を社会に」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「製品安全自主行動指針」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「製品安全自主行動指針」（https://www.nakayamafuku.co.jp/info/index.php?ir・1回目）
+  - 「製品安全自主行動指針」（https://www.nakayamafuku.co.jp/company/profile/・1回目）
+  - 「商品・物流本部長」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「商品・物流本部 商品開発部長」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「執行役員 商品本部 商品開発部長」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「常務取締役 / 商品・物流本部長」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「営業本部 商品企画部 担当部長」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「執行役員 営業本部 商品企画部長」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+- 売上構成：
+  - 「セグメント別売上構成」（https://www.nakayamafuku.co.jp/ir/individual/data.php・1回目）
+  - 「2026年3月期より、「家庭用品卸売事業」内の卸売事業と製造・販売事業を新たに報告セグメントとして記載しております」（https://www.nakayamafuku.co.jp/ir/individual/data.php・1回目）
+  - 「※セグメント別売上構成には連結財務諸表上の調整額を含んでおりません」（https://www.nakayamafuku.co.jp/ir/individual/data.php・1回目）
+- 利益の源泉：
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/info/index.php?ir・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/company/profile/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/company/directors/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/company/group/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/about/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/about/group/・1回目）
+  - 「グループ会社には、メーカー機能を持つグリーンパル株式会社、株式会社インターフォルム・株式会社LIV PLUSを構えており、各社の強みを活かしたグループ一体でのものづくりを推進しています」（https://www.nakayamafuku.co.jp/about/group/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/about/sites/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/about/network/・1回目）
+  - 「選ばれる強み」（https://www.nakayamafuku.co.jp/ir/・1回目）
+- 創業期：
+  - 「中山福は一九二五年の創業以来、」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「2025年3月に創業」（https://www.nakayamafuku.co.jp/・1回目）
+  - 「沿革｜会社案内｜中山福」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「OUR HISTORY」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「「中山福松商店」創業」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「ビジネスオフィスやデパート、和洋折衷の文化住宅などが登場し、人々が豊かになる暮らしを実感し始めた時代に、中山福松氏は豊かな暮らし創りを目指し、1925年に「中山福松商店」の創業をスタートさせました」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「また、国内での事業拡大とともに、輸出入業にも注力し、創業50年を迎えるころには、海外メーカー約100社、国内メーカー約130社との取引を実現します」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「創業から90年代にかけて、全国を網羅した物流体制を、より効率化させるため、関東圏の3支店を統合し、東日本エリアの核となる物流体制へと発展させます」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「創業100周年を迎えました」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「中山福株式会社は2025年3月に創業100年を迎えました」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「創業以来、ものづくりと暮らしをつなぐ架け橋として、皆さまのより豊かな暮らし創りを目指し、得意先さま、メーカーさまとともに時代の変化に柔軟に対応し続けてまいりました」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+  - 「・創業50周年を迎える」（https://www.nakayamafuku.co.jp/company/outline/・1回目）
+- 検索結果の抜粋：
+  - 「トップメッセージ｜IR情報 - 中山福 — トップメッセージ｜IR情報 - 中山福 中山福 https://www.nakayamafuku.co.jp > business」（https://www.nakayamafuku.co.jp/ir/business/・3回目）
+  - 「中山福 (7442) の企業概要・業績・財務・IR資料 — 中山福 (7442) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/7442・3回目）
+  - 「中山福 （7442）— 決算発表で業績回復を確認、「増配＋自社 ... — 中山福 （7442）— 決算発表で業績回復を確認、「増配＋自社 ... note https://note.com > 投資・マネー > 日本株」（https://note.com/maah1969/n/n72dad62f233f・3回目）
+  - 「銘柄分析 中山福 （7442） | 自由への投資書斎。～日米株 ... — 銘柄分析 中山福 （7442） | 自由への投資書斎。～日米株 ... アメーバブログ https://ameblo.jp > furupanko1130 > entry-12950990968」（https://ameblo.jp/furupanko1130/entry-12950990968.html・3回目）
+  - 「選ばれる強み - 中山福 — 選ばれる強み - 中山福 中山福 https://www.nakayamafuku.co.jp > reason」（https://www.nakayamafuku.co.jp/reason/・3回目）
+  - 「決算説明資料 ｜IR情報 - 中山福 — 決算説明資料 ｜IR情報 - 中山福 中山福 https://www.nakayamafuku.co.jp > library > presentation」（https://www.nakayamafuku.co.jp/ir/library/presentation.php・3回目）
+  - 「決算 短信｜IR情報 - 中山福 — 決算 短信｜IR情報 - 中山福 中山福 https://www.nakayamafuku.co.jp > library」（https://www.nakayamafuku.co.jp/ir/library/・3回目）
+  - 「【 中山福 】[7442]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 中山福 】[7442]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7442・3回目）
+  - 「中山福 【7442】の最新 決算 発表、業績修正 - 株探 — 中山福 【7442】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 中山福 (7442) > 決算」（https://kabutan.jp/stock/finance?code=7442・3回目）
+  - 「[ 中山福 7442.T] 2027年3月期 第2四半期（中間期） 決算 短信 ... — [ 中山福 7442.T] 2027年3月期 第2四半期（中間期） 決算 短信 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261030561032」（https://finance.biggo.jp/news/jpx_tdnet_140120261030561032・3回目）
+  - 「社長 ご挨拶｜会社案内 - 中山福 — 社長 ご挨拶｜会社案内 - 中山福 中山福 https://www.nakayamafuku.co.jp > company > messega」（https://www.nakayamafuku.co.jp/company/messega/・3回目）
+  - 「業界毎特集記事－ 中山福 株式会社 代表取締役 社長 橋本 謹也 — 業界毎特集記事－ 中山福 株式会社 代表取締役 社長 橋本 謹也 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/4284・3回目）
+- 売上高：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部4頁・検索4回）
+- 加工・付加価値：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部4頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部4頁・検索4回）
+
+## 伊藤忠丸紅鉄鋼
+- 公式URL：https://www.benichu.com（given）
+- 設立：2001年10月1日（https://www.benichu.com/organization/・1回目）
+- 設立：2001年10月1日（https://www.benichu.com/corporate/organization/・1回目）
+- 従業員数：単体人員: 1,086名 (2026年4月1日現在) 連結人員: 10,737名（2026年4月1日現在)（https://www.benichu.com/organization/・1回目）
+- 従業員数：単体人員: 1,086名 (2026年4月1日現在) 連結人員: 10,737名（2026年4月1日現在)（https://www.benichu.com/corporate/organization/・1回目）
+- ビジネスモデル：
+  - 「ビジネスモデル ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼株式会社」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「ビジネスモデル」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「鉄鋼を扱う商社の仕事と聞いて、多くの人が「鉄鋼メーカーから鉄板やパイプなどの鉄鋼製品を仕入れ、鉄を素材にして製品を作る企業に販売する」といった、とてもシンプルなビジネスモデルを思い浮かべると思います」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「確かに、このビジネスモデルは鉄鋼を扱う全ての商社に当てはまりますが、MISIのビジネスはそれだけには留まりません」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「ここでは、MISIのビジネスモデルやMISIが提供している商社機能の一部を紹介していきます」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「BUSINESS MODEL」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「事業投資に対する社員の意識改革を全社運動として展開し、ビジネスモデルを大きく転換させていく」」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「アンガス社は、グラスゴー近郊の拠点に、最新鋭の厚板加工設備を保有し、高強度鋼板の加工・在庫販売を行っている」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「商社の経営戦略―需給・収益構造対策― 伊藤忠丸紅鉄鋼 石谷誠社長／国内流通機能見直し急ぐ／米・欧阿中東の収益基盤を拡充」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+- 誰に：
+  - 「当社では、様々な需要家・業界で使用されている鉄という素材を通じて、グリーンインフラ・環境対応車普及・CCUS（Carbon Capture, Utilization and Storage）といった分野への貢献を目指すとともに、産業構造の変化に伴う本質的な課題にまで踏み込み、付加価値の高いソリューション提供に取り組んでいます」（https://www.benichu.com/csr/environment/・1回目）
+  - 「offers a wide range of services to our customers.」（https://www.benichu.com/en/csr_en/environment/・1回目）
+  - 「We are using cookies to improve our services and to provide a more suitable services to our customers' interests and needs. Please refer to」（https://www.benichu.com/en/csr_en/environment/・1回目）
+  - 「このような数々の機能を有機的に組み合わせることによって、総合商社同様、顧客に質の高いソリューションを提供すること、それがMISIのビジネスです」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「単純に「右から左へ」モノを流すのではなく、多くの情報を集めてあらゆる需要家と供給家のニーズを正確に把握し、そのニーズに対して総合商社が持つ物流機能や金融機能をはじめとする様々な機能を駆使することで、両者のニーズを繋ぎ合わせ、付加価値のあるモノ・仕組みを提供することによって収益を生み出します」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「商社機能を駆使することで付加価値をつけ、需要家と供給家の間に生まれるニーズのギャップを埋め、より高い価値を生み出し利益を上げています」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「銀行などの金融機関とは異なる商社独自の金融機能を提供しており、例えば、取引先に対する立替与信、債務保証、融資、プロジェクトファイナンスなどがある」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「顧客のニーズに合わせた、きめ細かな搬入・仕分け・配送など全体最適の物流システムを実現する」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「顧客ニーズの情報収集・分析などを通じた新たな市場の構築、新技術の紹介や導入先企業の発掘、取引先が開発した新規商品の拡販など、様々な開拓を行う」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「商社の持つ各種機能を組み合わせ、情報収集、企画・立案、パートナーの選定、資金調達、原料・資機材の調達、製品販売先の開拓などを包括的に遂行し、プロジェクトを牽引する」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「「社員には目線を上げて、取引先の経営層と需給や業界構造の変化に関する議論を重ねながら信頼関係を構築し、事業投融資や合弁事業の機会創出に取り組んでいくよう指示している」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「また、ITツールによる業務改革を推進する狙いで立ち上げた社内コンテスト『BPR（ビジネス・プロセス・リエンジニアリング）CUP』による成果が大きく広がっており、取引先の業務改善にも寄与する提案を高く評価している」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+- 何を：
+  - 「鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資」（https://www.benichu.com/organization/・1回目）
+  - 「取締役 兼 常務執行役員（営業担当：鋼材第二本部、自動車鋼材本部、鋼管本部）」（https://www.benichu.com/organization/・1回目）
+  - 「取締役 兼 常務執行役員（営業担当：鋼材第一本部、鋼材第三本部、インキュベーション室）」（https://www.benichu.com/organization/・1回目）
+  - 「執行役員（鋼材第一本部長）」（https://www.benichu.com/organization/・1回目）
+  - 「執行役員（鋼材第二本部長）」（https://www.benichu.com/organization/・1回目）
+  - 「執行役員（鋼材第三本部長）」（https://www.benichu.com/organization/・1回目）
+  - 「執行役員（自動車鋼材本部長）」（https://www.benichu.com/organization/・1回目）
+  - 「MIステンレスセンターと万世鋼機が統合し、MI万世ステンレス設立」（https://www.benichu.com/organization/・1回目）
+  - 「インド・JSWスチール社と鋼材加工会社JSW MI Steel Service Center設立」（https://www.benichu.com/organization/・1回目）
+  - 「中国・河南省に宝鋼集団と合弁で自動車用鋼材加工センターMI BAO Metal Processing Zhengzhou設立」（https://www.benichu.com/organization/・1回目）
+  - 「中国・上海市にイタリア・EURO GROUPと合弁でモーター発電機用ラミネーション製品販売会社EURO-MISI LAMINATIONS（SHANGHAI）設立」（https://www.benichu.com/organization/・1回目）
+  - 「米国会社傘下の鋼材加工センター3社を統合し、MISA Metal Processingを設立」（https://www.benichu.com/organization/・1回目）
+- 加工・付加価値：
+  - 「鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資」（https://www.benichu.com/organization/・1回目）
+  - 「メキシコ・アグアスカリエンテス州に自動車向けコイルセンターMI Metal Processing Mexicana設立」（https://www.benichu.com/organization/・1回目）
+  - 「インド・JSWスチール社と鋼材加工会社JSW MI Steel Service Center設立」（https://www.benichu.com/organization/・1回目）
+  - 「米国のブランキング加工会社RSDC of Michiganを100％子会社化」（https://www.benichu.com/organization/・1回目）
+  - 「中国・河南省に宝鋼集団と合弁で自動車用鋼材加工センターMI BAO Metal Processing Zhengzhou設立」（https://www.benichu.com/organization/・1回目）
+  - 「マレーシアの金属加工会社Anshin Precision Industriesを子会社化」（https://www.benichu.com/organization/・1回目）
+  - 「米国会社傘下の鋼材加工センター3社を統合し、MISA Metal Processingを設立」（https://www.benichu.com/organization/・1回目）
+  - 「インドに自動車用鋼材加工センターMI STEEL PROCESSING INDIA設立」（https://www.benichu.com/organization/・1回目）
+  - 「パキスタンに鋼材加工センターMID Pakistan Coil Center設立」（https://www.benichu.com/organization/・1回目）
+  - 「英国の建材加工・販売会社Barclay & Mathieson Limited社を買収」（https://www.benichu.com/organization/・1回目）
+  - 「Worthington Specialty Processing社ジャクソン工場を買収」（https://www.benichu.com/organization/・1回目）
+  - 「鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資」（https://www.benichu.com/corporate/organization/・1回目）
+- お金の形：
+  - 「本年度はトレードを起点とした成長投資案件の発掘を続け、リスク管理をさらに徹底し、新たに既存取引の利益率改善に取り組む」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「――商社にとって売上総利益率はひとつの経営指標となる」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「「米国鉄鋼流通大手のワージントンやリライアンスは総利益率が20％を超えている」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「売上高が3兆円を超えており、総利益率を1％改善すれば300億円超の利益回復が可能となる」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+- 売上構成：
+  - 「was launched in September 2023 as a collaborative service with NTT DOCOMO BUSINESS, Inc. (NTT DOCOMO BUSINESS) and WasteBox Inc. (WasteBox). By combining the expertise of MISI, a leading player in the steel distribution segment, NTT DOCOMO BUSINESS, a major telecommunications company, and WasteBox, a pioneer in CO」（https://www.benichu.com/en/csr_en/environment/・1回目）
+- 利益の源泉：
+  - 「――商社にとって売上総利益率はひとつの経営指標となる」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+- 創業期：
+  - 「History」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+- 検索結果の抜粋：
+  - 「ビジネスモデル ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 — ビジネスモデル ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 misi-recruit.com https://www.misi-recruit.com > business > company」（https://www.misi-recruit.com/business/company.html・3回目）
+  - 「伊藤忠丸紅鉄鋼 の「企業分析［強み・弱み・展望］」 OpenWork — 伊藤忠丸紅鉄鋼 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 伊藤忠丸紅鉄鋼」（https://www.openwork.jp/company_answer.php?m_id=a0910000000G0dN&q_no=9・3回目）
+  - 「商社の経営戦略 構造 変化を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... — 商社の経営戦略 構造 変化を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... japanmetal.com https://www.japanmetal.com > news-to20260713149921」（https://www.japanmetal.com/news-to20260713149921.html・3回目）
+  - 「事業内容 - 伊藤忠丸紅鉄鋼 株式会社 — 事業内容 - 伊藤忠丸紅鉄鋼 株式会社 伊藤忠丸紅鉄鋼株式会社 https://www.benichu.com > business」（https://www.benichu.com/business/・3回目）
+  - 「伊藤忠丸紅鉄鋼 とは？総合商社系鉄鋼商社の特徴を解説 — 伊藤忠丸紅鉄鋼 とは？総合商社系鉄鋼商社の特徴を解説 shousha.net https://shousha.net > 専門商社」（https://shousha.net/marubeni-itochu-steel/・3回目）
+  - 「決算 情報 - 伊藤忠丸紅鉄鋼 株式会社 — 決算 情報 - 伊藤忠丸紅鉄鋼 株式会社 伊藤忠丸紅鉄鋼株式会社 https://www.benichu.com > news > financial」（https://www.benichu.com/news/financial/・3回目）
+  - 「2025年度 決算 報告 資料 - 伊藤忠丸紅鉄鋼 — 2025年度 決算 報告 資料 - 伊藤忠丸紅鉄鋼 伊藤忠丸紅鉄鋼株式会社 PDF https://www.benichu.com > images > news」（https://www.benichu.com/wp/images/news/20260501-P-2.pdf・3回目）
+  - 「2025年度 上半期 決算 報告 資料 - 伊藤忠丸紅鉄鋼 — 2025年度 上半期 決算 報告 資料 - 伊藤忠丸紅鉄鋼 伊藤忠丸紅鉄鋼株式会社 PDF https://www.benichu.com > news > 251105-PPT」（https://www.benichu.com/wp/images/news/251105-PPT.pdf・3回目）
+  - 「商社の経営戦略 10年先を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... — 商社の経営戦略 10年先を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... japanmetal.com https://www.japanmetal.com > news-to20250627144399」（https://www.japanmetal.com/news-to20250627144399.html・3回目）
+  - 「荷宮 亜梨子 ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 — 荷宮 亜梨子 ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 misi-recruit.com https://www.misi-recruit.com > department > interview08」（https://www.misi-recruit.com/business/department/interview08.html・3回目）
+  - 「会社概要・役員・組織 - 伊藤忠丸紅鉄鋼 株式会社 — 会社概要・役員・組織 - 伊藤忠丸紅鉄鋼 株式会社 伊藤忠丸紅鉄鋼株式会社 https://www.benichu.com > organization」（https://www.benichu.com/organization/・3回目）
+  - 「【 伊藤忠丸紅鉄鋼 】商社はモノを作っていない。だから自分で ... — 【 伊藤忠丸紅鉄鋼 】商社はモノを作っていない。だから自分で ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=rE3fPyQzbYU・3回目）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像2件／外部5頁・検索4回）
+
+## 佐藤商事
+- 公式URL：https://www.sato-shoji.co.jp（given）
+- ビジネスモデル：
+  - 「①存在意義と社会的役割→②歴史が証明する組織の本質→③ビジネスモデルの根幹と進化→④企業文化のDNAと継承→⑤競争優位の本質的源泉→⑥未来への適応力という順番で読み進めることで、佐藤商事の全体像が立体的に浮かび上がります」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「📖 第3章 佐藤商事のビジネスモデルの根幹と進化の法則」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤商事のビジネスモデルは、単純な「仕入れて売る」商社機能を遥かに超えた複合的なシステムです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🔹 ビジネスモデルの独自性」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🎯 収益構造の核心」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「営業開発部門の存在は、佐藤商事が単なる仲介業者ではなく、積極的な価値創造者として機能していることの証拠です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「金融商品仲介業について」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+- 誰に：
+  - 「🔍 1-3 顧客が本当に評価している核心価値」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤商事が顧客に提供しているのは、鋼材という「モノ」ではなく、「安心できる事業パートナーとしての信頼」です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「独立系商社として、特定のメーカーや商社グループに縛られない立場から、常に顧客の利益を最優先に考えた提案ができます」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「6つの事業部門（鉄鋼、非鉄金属、電子事業、機械、ライフ営業、営業開発）を持つ佐藤商事だからこそ、顧客の多様なニーズにワンストップで応えることができます」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「この仕組みが威力を発揮するのは、顧客企業が新規事業や海外展開を計画する時です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🎯 顧客が離れない本当の理由」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤商事の顧客リピート率の高さの背景には、「約束を必ず守る信頼性」があります」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「この価値観は顧客との関係でも一貫しており、短期的な利益より長期的な信頼関係を重視する経営姿勢として現れています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「コロナ禍、リーマンショック、東日本大震災など、様々な危機の際に、佐藤商事は顧客企業との関係をより強固にしてきました」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「独立系商社として自由度が高いからこそ、状況に応じて柔軟に対応し、顧客の事業継続を支えることができるのです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「また、6事業部門の連携による「予想外の提案力」も顧客が高く評価する点です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「鋼材の相談に来た顧客に対して、電子事業部門の知見も活かした革新的なソリューションを提案できる」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+- 何を：
+  - 「1930年、日本が昭和恐慌に苦しむ中で佐藤昌二が立ち上げた佐藤ハガネ商店は、単なる鋼材販売業ではありませんでした」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「当時の日本では、優良な鋼材を安定供給できる流通業者が圧倒的に不足していたのです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「自動車産業、建設業界、造船業界など、日本の基幹産業が求める多様な鋼材ニーズに対して、7大鉄鋼商社の一角として確実に応え続けています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤商事が顧客に提供しているのは、鋼材という「モノ」ではなく、「安心できる事業パートナーとしての信頼」です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「6つの事業部門（鉄鋼、非鉄金属、電子事業、機械、ライフ営業、営業開発）を持つ佐藤商事だからこそ、顧客の多様なニーズにワンストップで応えることができます」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「例えば、自動車メーカーが新型車開発で鋼材だけでなく電子部品も必要とする時、佐藤商事なら部門間連携により最適なソリューションを提案できるのです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「戦後復興期には建設需要に応える鋼材供給、高度経済成長期には自動車産業の躍進を支える特殊鋼の流通、バブル経済とその崩壊では安定した事業基盤による継続的なサービス提供」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「これは鋼材商社から「生活を豊かにする商社」への進化を象徴する出来事でした」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「戦後復興で生活水準が向上する中、佐藤商事は産業用途だけでなく、人々の暮らしを直接豊かにする商品分野にも事業を拡大したのです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「同時に90年以上蓄積された専門知識により、単なる商品販売を超えたコンサルティング機能を発揮します」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「鋼材の相談に来た顧客に対して、電子事業部門の知見も活かした革新的なソリューションを提案できる」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「1926年に山形から上京し、鋼材を積んだ大八車を曳く配送業務から始まった彼の人生は、佐藤商事の企業DNAそのものを体現しています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+- 加工・付加価値：
+  - 「一方、高洋電機株式会社(三重県度会郡)は、金属加工技術に強みを持つ、技術力の高い老舗企業」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「また、自社で加工メーカーを抱えている点も特徴です」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「高洋電機は、金属加工を専門とする会社です」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「創業から74年を迎え、難削材の切削加工を得意としています」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「特徴としては、一般的な金属加工に加え、タングステン、モリブデン、ニオブなどの特殊金属や、プラチナ、樹脂、セラミックスなどの加工も行っています」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「これらの特殊素材の加工には高度な技術とノウハウが必要です」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「高洋電機が難削材の加工技術を持っているため、エヌケーテックとのシナジー効果が期待できます」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+- お金の形：
+  - 「佐藤商事の収益モデルは「取引量×マージン率×付加価値サービス料」の複合構造です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「2023年度から始まった第三次中期経営計画では、ROIC（投下資本利益率）5.0％以上という明確な財務目標を設定しています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「JobVoice の企業別「志望動機30例×面接質問の解答例30例」（1,000社以上）を、月額 ¥10,000 で読み放題にするメンバーシップです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+- 売上構成：
+  - 「事業セグメント（連結）」（https://www.satoshoji.co.jp/ja/ir.html・3回目）
+  - 「鉄鋼部門、非鉄部門、電子部門、機械部門、ライフ部門、営業開発部門の6つのセグメントで事業を展開しています」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+- 利益の源泉：
+  - 「なぜなら、佐藤商事の真の強みは「鉄鋼という商材」ではなく、「90年間で培った独自の事業構造」にあるからです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「同じ7大鉄鋼商社でも、伊藤忠丸紅鉄鋼やメタルワンは大手総合商社の傘下で安定感を武器にし、阪和興業は特定メーカーとの密接な関係を強みとしています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「表面的な企業研究では、この本質的な競争優位性は見えてきません」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🎯 競争優位の4要素分析™では、価値・希少性・模倣困難性・組織力に未来拡張性を加えた5次元分析で、佐藤商事の持続的な強みを解明します」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「①存在意義と社会的役割→②歴史が証明する組織の本質→③ビジネスモデルの根幹と進化→④企業文化のDNAと継承→⑤競争優位の本質的源泉→⑥未来への適応力という順番で読み進めることで、佐藤商事の全体像が立体的に浮かび上がります」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤商事が90年かけて築いた「独立性と信頼性の両立」は、他社には容易に真似できない強固な参入障壁なのです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「この思想は、独立系商社でありながら「系列に属さない自由度」を強みに変える発想の転換を可能にしました」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「各部門の担当者が他部門の商材や市場についても基本的な知識を持ち、顧客のニーズに応じて部門を越えた提案ができる体制は、佐藤商事ならではの強みです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「📖 第5章 佐藤商事の競争優位の本質的源泉」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「商社業界の激しい競争の中で、佐藤商事が7大鉄鋼商社の地位を維持し続けている背景には、一朝一夕では築けない本質的な競争優位があります」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🔍 5-1 時代が変わっても色褪せない強み」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤商事の競争優位を語る上で欠かせないのが、全国に展開する41の営業拠点です」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+- 創業期：
+  - 「その答えは、創業時から一貫して貫かれている「流通・サービスを通じて広く社会に貢献する」という理念の実践にあります」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「これは創業者の佐藤昌二から受け継がれた企業DNAです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「特に佐藤商事の場合、昭和恐慌という最悪の経済状況下での創業という「試練の洗礼」を受けていることが、組織の底力となっています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「1930年の創業から現在まで、佐藤商事は幾多の危機を乗り越えて成長してきました」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「これらすべての困難を乗り越えた背景には、創業時から変わらない強固な価値観と、危機を成長の機会に変える組織能力があります」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🔍 2-1 創業から変わらない信念・価値観」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「🎯 創業者の原体験と理念」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「佐藤昌二が1930年に佐藤ハガネ商店を創業した時の状況は、現在では想像も困難なほど厳しいものでした」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「創業者の佐藤昌二は「体躯堂々たる好男子」で「酒量も多いがのどもよく大人の風格」があったと記録されています」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「さらに戦後の経済混乱と、創業者佐藤昌二の逝去という二重の危機に直面したのです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「秋元氏が配送業務から始まり、現場の声を誰よりも理解していたように、佐藤商事は常に顧客との直接接点を重視し、マーケットの変化を敏感に察知する体制を築いてきました」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「これは創業時から受け継がれる「現場主義」の現れです」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+- 検索結果の抜粋：
+  - 「【27卒】 佐藤商事 の内定獲得ガイド｜志望動機30例×面接回答 ... — 【27卒】 佐藤商事 の内定獲得ガイド｜志望動機30例×面接回答 ... note https://note.com > キャリア > 就職活動」（https://note.com/jobhuntkeyence/n/n5f99e423ce3c・3回目）
+  - 「トップメッセージ | 経営方針 | IR情報 | 佐藤商事 株式会社 — トップメッセージ | 経営方針 | IR情報 | 佐藤商事 株式会社 佐藤商事株式会社 https://www.satoshoji.co.jp > management > message」（https://www.satoshoji.co.jp/ja/ir/management/message.html・3回目）
+  - 「佐藤商事 】利益の42%を稼ぐ電子事業とは？ 収益構造 を分析 — 佐藤商事 】利益の42%を稼ぐ電子事業とは？ 収益構造 を分析 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=q94YU_J5t4U・3回目）
+  - 「中期経営計画 - 佐藤商事株式会社 — 中期経営計画 - 佐藤商事株式会社 佐藤商事株式会社 PDF https://www.satoshoji.co.jp > news > news83221160...」（https://www.satoshoji.co.jp/ja/news/news8322116041921068291.html・3回目）
+  - 「決算説明資料 | IRライブラリ | IR情報 | 佐藤商事 株式会社 — 決算説明資料 | IRライブラリ | IR情報 | 佐藤商事 株式会社 佐藤商事株式会社 https://www.satoshoji.co.jp > library > material」（https://www.satoshoji.co.jp/ja/ir/library/material.html・3回目）
+  - 「IR情報 | 佐藤商事 株式会社 — IR情報 | 佐藤商事 株式会社 佐藤商事株式会社 https://www.satoshoji.co.jp > ...」（https://www.satoshoji.co.jp/ja/ir.html・3回目）
+  - 「決算 短信 | IRライブラリ | IR情報 | 佐藤商事 株式会社 — 決算 短信 | IRライブラリ | IR情報 | 佐藤商事 株式会社 佐藤商事株式会社 https://www.satoshoji.co.jp > library > result」（https://www.satoshoji.co.jp/ja/ir/library/result.html・3回目）
+  - 「有価証券報告書 | IRライブラリ | IR情報 | 佐藤商事 株式会社 — 有価証券報告書 | IRライブラリ | IR情報 | 佐藤商事 株式会社 佐藤商事株式会社 https://www.satoshoji.co.jp > library > securities」（https://www.satoshoji.co.jp/ja/ir/library/securities.html・3回目）
+  - 「【 佐藤商事 】[8065]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 佐藤商事 】[8065]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=8065・3回目）
+  - 「M&Aで加速させる成長： 高洋電機の戦略と 佐藤商事 の決断 — M&Aで加速させる成長： 高洋電機の戦略と 佐藤商事 の決断 株式会社ストライク https://www.strike.co.jp > case > interviews > detail_117」（https://www.strike.co.jp/case/interviews/detail_117.html・3回目）
+  - 「新 社長 に聞く／ 佐藤商事 ／野澤哲夫氏／信頼強固にさらに成長 — 新 社長 に聞く／ 佐藤商事 ／野澤哲夫氏／信頼強固にさらに成長 note https://note.com > インタビュー・対談 > インタビュー・対談」（https://note.com/sangyo_web/n/nf67a87f85613・3回目）
+  - 「大タカシ on Instagram: "【株式会社 佐藤商事 】 2025年2月1日 ... — 大タカシ on Instagram: "【株式会社 佐藤商事 】 2025年2月1日 ... Instagram https://www.instagram.com > ...」（https://www.instagram.com/p/DFh-0Fuyq8D/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## 古河商事
+- 公式URL：https://www.furukawa-shoji.co.jp（given）
+- 誰に：
+  - 「顧客・社員・社会から支持される「ウェルビーイング経営入門」(25)」（https://plus.jmca.jp/leader/leader465.html・3回目）
+- 何を：
+  - 「日本経営合理化協会 商品・サービス案内」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「トレンド 新技術・商品／キーワード」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「北村森の「今月のヒット商品」(111)」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「明治10年(1977年)には、栃木県の足尾銅山を買収して近代技術を導入して国内最大の銅山に育てあげた」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「同鉱山の銅産出量は、わが国全体の半分を占めるまでになる」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「そこで彼は、ドル箱の銅商いに専心し、「赤ガネ(銅)以外には手を出すな」と公言し、これが古河の不文律となっていた」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「他の取り扱い品目は、銅製錬に不可欠な石炭ぐらいなものだった」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「この遺訓は、市兵衛の死後も、番頭たちが頑なに守り、三代目の虎之助の時代に商社ブームが起きて、社内の営業部から起こる「取扱品目を増やすべきだ」との突き上げにブレーキをかけていた」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「同じころ、内務官僚出身でやはり銅山(別子銅山)経営が主力だった住友のトップの総理事に就いていた鈴木馬左也(すずき・まさや)は、多方面の情報を整理して、社内の商社設立の動きに、「住友にはいまだ、商社のノウハウはない」として、商社設立計画を白紙に戻している」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「銅は戦時に軍需品として重宝される商品であるのは間違いない」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「しかし、1918年11月に第一次大戦が終わると、銅は加工品の電線も含めて世界的にだぶつき価格が暴落した」（https://plus.jmca.jp/leader/leader465.html・3回目）
+  - 「古河商事では、取扱商品の多角化の一環として、」（https://plus.jmca.jp/leader/leader465.html・3回目）
+- 加工・付加価値：
+  - 「しかし、1918年11月に第一次大戦が終わると、銅は加工品の電線も含めて世界的にだぶつき価格が暴落した」（https://plus.jmca.jp/leader/leader465.html・3回目）
+- 検索結果の抜粋：
+  - 「永続企業の知恵(11) 好況のわな( 古河商事 の破綻) — 永続企業の知恵(11) 好況のわな( 古河商事 の破綻) plus.jmca.jp https://plus.jmca.jp > 指導者たる者かくあるべし」（https://plus.jmca.jp/leader/leader465.html・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## 大同興業
+- 公式URL：https://www.daido-kogyo.co.jp（given）
+- ビジネスモデル：
+  - 「世界的に産業構造が大きく変化する中で、お客様と共に持続的に成長していくには、高付加価値製品の提案、ビジネスモデルの構築、コスト削減、営業力の強化、「グループのソリューション力」などによる競争力の向上が不可欠です」（https://www.daidokogyo.co.jp/business/・3回目）
+  - 「輸出取引（仲介貿易含む）」（https://www.daidokogyo.co.jp/koukoku/・3回目）
+- 誰に：
+  - 「輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+- 何を：
+  - 「鉄筋コンクリート住宅「優渾」を商品化」（https://www.daido-kogyo.co.jp/history.html・1回目）
+  - 「大同特殊鋼グループの中核商社として、提案力や製品知識に磨きをかけています」（https://www.daidokogyo.co.jp/business/・3回目）
+  - 「世界的に産業構造が大きく変化する中で、お客様と共に持続的に成長していくには、高付加価値製品の提案、ビジネスモデルの構築、コスト削減、営業力の強化、「グループのソリューション力」などによる競争力の向上が不可欠です」（https://www.daidokogyo.co.jp/business/・3回目）
+  - 「CASTINGS, FORGINGS, AND RELATED PRODUCTS」（https://www.daidokogyo.co.jp/business/・3回目）
+  - 「大同興業 社長に伊藤常務が昇格 | 鉄鋼・非鉄金属業界の専門紙「日刊産業新聞」」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「非鉄金属ニュース」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「鉄・非鉄金属リサイクル」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「特殊鋼・ステンレス」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「非鉄ニュースのジャンル」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「アルミ地金・二次合金」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「ニッケル・チタン」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「レアメタル他」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+- 加工・付加価値：
+  - 「非鉄二・三次加工」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「パイプ加工機械」（https://www.daidokogyo-kk.co.jp/about/message・3回目）
+- お金の形：
+  - 「現代表取締役会長／堀口武彦が(社)日本建築学会の会員となる」（https://www.daido-kogyo.co.jp/history.html・1回目）
+- 売上構成：
+  - 「輸出・輸入売上高の国別構成比」（https://www.daidokogyo.co.jp/koukoku/・3回目）
+  - 「セグメント別売上高」（https://www.daidokogyo.co.jp/koukoku/・3回目）
+- 創業期：
+  - 「創業から100年、設立から66年、著名建築家の方々や施主様の「今まで見たことのない建築の施工」に応えつづけてきました」（https://www.daido-kogyo.co.jp/・1回目）
+  - 「history of DAIDO」（https://www.daido-kogyo.co.jp/history.html・1回目）
+  - 「100周年を迎える当社は、創業以来「誠意」を信条として参りました」（https://www.daido-kogyo.co.jp/history.html・1回目）
+  - 「創業者／堀口春吉が山梨県下部町に堀口組を設立」（https://www.daido-kogyo.co.jp/history.html・1回目）
+  - 「History」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「当社は、1954年(昭和29年)の創業以来、モノづくりに欠かせない生産機材の先進商品をお客様に提案し、販売してまいりました」（https://www.daidokogyo-kk.co.jp/about/message・3回目）
+- 検索結果の抜粋：
+  - 「事業紹介 | 大同興業 株式会社（DKK） — 事業紹介 | 大同興業 株式会社（DKK） 大同興業株式会社 https://www.daidokogyo.co.jp > business」（https://www.daidokogyo.co.jp/business/・3回目）
+  - 「【27卒】 大同興業 の内定獲得ガイド｜志望動機30例×面接回答 ... — 【27卒】 大同興業 の内定獲得ガイド｜志望動機30例×面接回答 ... note https://note.com > キャリア > 就職活動」（https://note.com/jobhuntkeyence/n/n47903f64c4d6・3回目）
+  - 「信頼をつなぐ商社へ 大同興業 株式会社が描く循環型成長戦略 — 信頼をつなぐ商社へ 大同興業 株式会社が描く循環型成長戦略 PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000418.000039303.html・3回目）
+  - 「決算 公告 | 大同興業 株式会社（DKK） — 決算 公告 | 大同興業 株式会社（DKK） 大同興業株式会社 https://www.daidokogyo.co.jp > koukoku」（https://www.daidokogyo.co.jp/koukoku/・3回目）
+  - 「大同興業 社長 に伊藤常務が昇格 - 日刊産業新聞 — 大同興業 社長 に伊藤常務が昇格 - 日刊産業新聞 japanmetal.com https://www.japanmetal.com > news-t20250701144583」（https://www.japanmetal.com/news-t20250701144583.html・3回目）
+  - 「社長 のご挨拶｜産業機械の専門商社 - 大同興業株式会社 — 社長 のご挨拶｜産業機械の専門商社 - 大同興業株式会社 daidokogyo-kk.co.jp https://www.daidokogyo-kk.co.jp > about > message」（https://www.daidokogyo-kk.co.jp/about/message・3回目）
+  - 「大同興業 株式会社（DKK） — 大同興業 株式会社（DKK） 大同興業株式会社 https://www.daidokogyo.co.jp」（https://www.daidokogyo.co.jp/・3回目）
+  - 「大同興業社長 に伊藤常務 | 日刊鉄鋼新聞 Japan Metal Daily — 大同興業社長 に伊藤常務 | 日刊鉄鋼新聞 Japan Metal Daily 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 鉄鋼」（https://www.japanmetaldaily.com/articles/-/241557・3回目）
+  - 「大同興業 | みんなの商社オンライン — 大同興業 | みんなの商社オンライン みんなの商社オンライン https://minshou.net > ...」（https://minshou.net/?page_id=299・3回目）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）
+- 利益の源泉：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）
+
+## 小野建
+- 公式URL：https://www.onoken.co.jp（given）
+- 設立：昭和24年8月11日（1949年8月11日）（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+- 設立：1949年（https://shachomeikan.jp/industry_article/6303・3回目）
+- 設立：1949年8月（https://jobtalk.jp/companies/2600/answers/1219497・3回目）
+- 従業員数：994名（連結1,235名）（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+- 従業員数：1,105人（https://jobtalk.jp/companies/2600/answers/1219497・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデルの特徴（1/3）～業界ポジション」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「ビジネスモデルの特徴（2/3）～業界シェア」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「ビジネスモデルの特徴（3/3）～工事請負事業への展開」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「 他業界の小売事業者とのビジネスモデルの比較」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「独自のビジネスモデルと若手が躍動する組織」（https://shachomeikan.jp/industry_article/6303・3回目）
+- 誰に：
+  - 「社員同士のみならず取引先とも融和しつつ、情熱を持って仕事に取り組む決意を表しています」（https://www.onoken.co.jp/jp/about/mission.html・1回目）
+  - 「こうした「顧客第一の姿勢」で着実に信頼を築きながら、鋼板類から条鋼類、さらには丸鋼類と、取扱商品の幅を広げ、今に続く事業基盤を固めていきました」（https://www.onoken.co.jp/jp/about/history.html・1回目）
+  - 「2 【顧客仕様への加工作業】」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「顧客管理 顧客管理基盤構築」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「• 取引先も参加する安全大会の」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「顧客利便性を向上」（https://www.onoken.co.jp/jp/ir/management/pdf/mid-term_management_plan.pdf・2回目）
+  - 「◦顧客需要に応じて加工機能の深化」（https://www.onoken.co.jp/jp/ir/management/pdf/mid-term_management_plan.pdf・2回目）
+  - 「顧客利便性を高めるための、加工・物流機能向上への投資」（https://www.onoken.co.jp/jp/ir/management/pdf/mid-term_management_plan.pdf・2回目）
+  - 「【クラシコム20期連続増収増益】バズを捨てる最強戦略／熱狂しない経営の正体／なぜ顧客を追わないのか／持続的成長の完全方程式／PL直結の利益構造／【PIVOT BUSINESS】」（https://www.youtube.com/watch?v=dj_WX50l1Y0・3回目）
+- 何を：
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/・1回目）
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/jp/about/・1回目）
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/jp/ir/・1回目）
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/jp/inquiry/・1回目）
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/jp/about/message.html・1回目）
+  - 「当時から「地域社会に貢献できる企業」をモットーに、社会インフラ整備や建設需要に対し、建設資材等を取扱ってまいりました」（https://www.onoken.co.jp/jp/about/message.html・1回目）
+  - 「このように、私たちの使命は単に商品を届けることではなく、創業時の精神である社会への貢献を通じ、未来を支えることだと考えています」（https://www.onoken.co.jp/jp/about/message.html・1回目）
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/jp/about/mission.html・1回目）
+  - 「単に商品を届けることではありません」（https://www.onoken.co.jp/jp/about/mission.html・1回目）
+  - 「鉄鋼・建材商品を小ロットの注文から対応し、ご要望があれば加工まで行い納入するきめ細かなサービス、この理念を貫くことで、お客様の最高のパートナーとして共に発展していきます」（https://www.onoken.co.jp/jp/about/mission.html・1回目）
+  - 「鉄鋼商品販売事業」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鋼材の販売・加工ならびに輸出入業、」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+- 加工・付加価値：
+  - 「H形鋼・加工ライン」（https://www.onoken.co.jp/・1回目）
+  - 「以来70年以上にわたり、鉄鋼事業と建設事業に携わりながら、全国に物流ネットワークや鉄の加工機能を整え、地域社会と共に成長を続けてきました」（https://www.onoken.co.jp/jp/about/message.html・1回目）
+  - 「さらに在庫、物流、加工の各機能を駆使して日本の製造業に必要な素材を流通させる「モノづくり」への貢献」（https://www.onoken.co.jp/jp/about/message.html・1回目）
+  - 「鉄鋼・建材商品を小ロットの注文から対応し、ご要望があれば加工まで行い納入するきめ細かなサービス、この理念を貫くことで、お客様の最高のパートナーとして共に発展していきます」（https://www.onoken.co.jp/jp/about/mission.html・1回目）
+  - 「鋼材の販売・加工ならびに輸出入業、」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「及びその加工(レベラ－、シャーリング)」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鋼板レベラー剪断加工」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鋼板シャー剪断加工」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鋼材の販売、加工ならび輸出入業」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鉄板加工、販売業」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鉄筋コンクリート用異形棒鋼販売、加工、鉄筋工事業」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+  - 「鉄鋼加工、販売業」（https://www.onoken.co.jp/jp/about/outline.html・1回目）
+- お金の形：
+  - 「小野建は手数料を収受」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・2回目）
+  - 「ROE ＝ 純利益率 × 総資産回転率 × レバレッジ」（https://www.onoken.co.jp/jp/ir/management/pdf/mid-term_management_plan.pdf・2回目）
+  - 「利益率の向上」（https://www.onoken.co.jp/jp/ir/management/pdf/mid-term_management_plan.pdf・2回目）
+  - 「「企業の口コミ」が無料で見られます！会員登録（無料）へ」（https://jobtalk.jp/companies/2600/answers/1219497・3回目）
+  - 「会員登録後、続きをご覧いただけます（無料）」（https://jobtalk.jp/companies/2600/answers/1219497・3回目）
+- 利益の源泉：
+  - 「小野建の強みである鉄鋼事業と」（https://www.onoken.co.jp/jp/ir/management/pdf/mid-term_management_plan.pdf・2回目）
+  - 「全国を網羅する物流ネットワークと高度な加工機能を強みに、業界内でも独自の存在感を放つ」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「しかし当時の大阪支店には、九州の本社がやっているような「鉄を1本、2本単位で細かくお客様の元へお届けする」という、小野建の本来の強みである商売の基盤がありませんでした」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「ーー業界における貴社の強みはどこにあるとお考えでしょうか」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「鉄鋼事業においては、「在庫の保有」「自社での加工」「独自の物流網」の3機能を掛け合わせていることが最大の強みです」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「このきめ細やかなネットワークは、災害時などの有事にも強みを発揮します」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「拠点の多さが、結果として地域のお役に立てる強みになっています」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「この鉄鋼事業の供給力と建設事業の施工力を噛み合わせている点こそが弊社の最大の強みであり、これを全国規模で展開している点において、業界でもオンリーワンの存在であると考えています」（https://shachomeikan.jp/industry_article/6303・3回目）
+- 創業期：
+  - 「沿革の情報を掲載しています」（https://www.onoken.co.jp/jp/about/・1回目）
+  - 「このように、私たちの使命は単に商品を届けることではなく、創業時の精神である社会への貢献を通じ、未来を支えることだと考えています」（https://www.onoken.co.jp/jp/about/message.html・1回目）
+  - 「創業時の精神である」（https://www.onoken.co.jp/jp/about/mission.html・1回目）
+  - 「沿革｜会社情報｜小野建株式会社」（https://www.onoken.co.jp/jp/about/history.html・1回目）
+  - 「小野建の創業は大正15年」（https://www.onoken.co.jp/jp/about/history.html・1回目）
+  - 「それから十数年、個人商店として長年培った実績と信頼をベースに、セメント、金物、土木建築資材の販売を目的として、創業の地・大分に株式会社小野建材社を設立しました」（https://www.onoken.co.jp/jp/about/history.html・1回目）
+  - 「そこで当初は発生品、いわば「鉄のアウトレット商品」から取扱を開始し、鋼材1本、切板1枚といった小口注文にもきめ細かく対応」（https://www.onoken.co.jp/jp/about/history.html・1回目）
+  - 「1926年の創業以来、鉄鋼および建設資材の専門商社として、長年にわたり日本のインフラを足元から支え続けてきた小野建株式会社」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「正直なところ、商社マンとしてこれから海外へ飛び立とうというタイミングだったため当初は頭を抱えましたが、これも一つの運命だと腹をくくり、2005年の10月に小野建へ入社することを決断したのです」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「創業6年で国内No.1規模へ拡大」（https://shachomeikan.jp/industry_article/6303・3回目）
+- 検索結果の抜粋：
+  - 「長期ビジョン2035 | 小野建 株式会社 — 長期ビジョン2035 | 小野建 株式会社 小野建株式会社 PDF https://www.onoken.co.jp > pdf > long_term_vision」（https://www.onoken.co.jp/jp/ir/management/pdf/long_term_vision.pdf・3回目）
+  - 「【 小野建 株式会社】2025年3月期第2四半期決算説明会 — 【 小野建 株式会社】2025年3月期第2四半期決算説明会 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=dj_WX50l1Y0・3回目）
+  - 「【QAあり】 小野建 、鉄鋼商品市況は想定よりも弱含みで推移 ... — 【QAあり】 小野建 、鉄鋼商品市況は想定よりも弱含みで推移 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/380743・3回目）
+  - 「業界毎特集記事－ 小野建 株式会社 代表取締役社長 小野 剛 — 業界毎特集記事－ 小野建 株式会社 代表取締役社長 小野 剛 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「[ 小野建 7414.T] 2026年3月期 決算説明資料 — [ 小野建 7414.T] 2026年3月期 決算説明資料 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260528551865」（https://finance.biggo.jp/news/jpx_tdnet_140120260528551865・3回目）
+  - 「決算説明資料 （決算説明動画） - 小野建株式会社 — 決算説明資料 （決算説明動画） - 小野建株式会社 小野建株式会社 https://www.onoken.co.jp > library > financialreport」（https://www.onoken.co.jp/jp/ir/library/financialreport.html・3回目）
+  - 「IRライブラリ｜IR情報｜ 小野建 株式会社 — IRライブラリ｜IR情報｜ 小野建 株式会社 小野建株式会社 https://www.onoken.co.jp > library」（https://www.onoken.co.jp/jp/ir/library/・3回目）
+  - 「【 小野建 】[7414]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 小野建 】[7414]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7414・3回目）
+  - 「小野建 、2026年3月期は上場来初の最終赤字 ... - インベストーク — 小野建 、2026年3月期は上場来初の最終赤字 ... - インベストーク インベストーク https://investalk.jp > onoken-2026-03-earnings」（https://investalk.jp/7414/onoken-2026-03-earnings/・3回目）
+  - 「【 小野建 株式会社】2025年3月期 決算 ＆中期経営計画 説明 会 — 【 小野建 株式会社】2025年3月期 決算 ＆中期経営計画 説明 会 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=3TLvXHQN2J8・3回目）
+  - 「業界毎特集記事－ 小野建 株式会社 代表取締役 社長 小野 剛 — 業界毎特集記事－ 小野建 株式会社 代表取締役 社長 小野 剛 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/6303・3回目）
+  - 「小野建 の 社長 と経営方針【代表 : 小野 剛】の口コミ - 転職会議 — 小野建 の 社長 と経営方針【代表 : 小野 剛】の口コミ - 転職会議 転職会議 https://jobtalk.jp > ... > 社長と経営方針の口コミ」（https://jobtalk.jp/companies/2600/answers/1219497・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部5頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部5頁・検索4回）
+
+## 山善
+- 公式URL：https://www.yamazen.co.jp（given）
+- 誰に：
+  - 「現地化を徹底的に進め、現地の独特なビジネス慣習と顧客ニーズに熟知しているナショナルスタッフ（現地社員）が、各々の国・地域で責任者として活躍できる環境をつくります」（https://monoque.jp/columns/post-364/・3回目）
+- 何を：
+  - 「家庭機器事業部も、B2B、B2Cの双方で商品開発を含む緻密な戦略を推し進め、高い結果を残しています」（https://monoque.jp/columns/post-364/・3回目）
+  - 「具体的にひとつ、当社の産業ソリューション事業部を例にあげると、自動化、省力化、インフラ、脱炭素、環境関係など時代のテーマや関心事に沿う商品群を数多く扱っています」（https://monoque.jp/columns/post-364/・3回目）
+  - 「これらの商品を積極的に市場に出していくには、それぞれの分野で専門知識に長け、マーケットを知り、そしてお客様の為にハートで提案できる人財が欠かせません」（https://monoque.jp/columns/post-364/・3回目）
+  - 「地域商社様とメーカー様、事務局山善が三位一体となって需要を喚起し、地域製造業の発展に資する機会と商品を提供する」（https://monoque.jp/columns/post-364/・3回目）
+  - 「「人手不足」、「技術（事業）承継」、「技術開発」、「営業力不足」など中小企業様が抱える課題の解決に商品とリアル対話を通じて役立つ催しにします」（https://monoque.jp/columns/post-364/・3回目）
+- 加工・付加価値：
+  - 「製造・機械加工」（https://monoque.jp/columns/post-364/・3回目）
+- 売上構成：
+  - 「――セグメント別では?」（https://monoque.jp/columns/post-364/・3回目）
+- 利益の源泉：
+  - 「これは、過去から山善の強みでした」（https://monoque.jp/columns/post-364/・3回目）
+  - 「その強みをもう一度、はっきり具現化してゆきます」（https://monoque.jp/columns/post-364/・3回目）
+- 検索結果の抜粋：
+  - 「決算説明会 - 山善 — 決算説明会 - 山善 株式会社山善 PDF https://www.yamazen.co.jp > archives」（https://www.yamazen.co.jp/archives/001/slide_80_3Q_20260310_j.pdf・3回目）
+  - 「ひと目でわかる 山善 | 会社情報 | 株式会社 山善 — ひと目でわかる 山善 | 会社情報 | 株式会社 山善 株式会社山善 https://www.yamazen.co.jp > 会社情報」（https://www.yamazen.co.jp/about/know.html・3回目）
+  - 「2030年企業ビジョン実現に向けた取組み | 株式会社 山善 — 2030年企業ビジョン実現に向けた取組み | 株式会社 山善 株式会社山善 https://www.yamazen.co.jp > IR情報」（https://www.yamazen.co.jp/ir/initiatives2030/・3回目）
+  - 「市場が見落とす 山善 (8051)に隠された「二刀流 ビジネス 」の ... — 市場が見落とす 山善 (8051)に隠された「二刀流 ビジネス 」の ... note https://note.com > ビジネス > ビジネス全般」（https://note.com/hr793/n/n48b728f9feb9・3回目）
+  - 「開発力とグローバル拠点が強みの 山善 が展開する ビジネス ... — 開発力とグローバル拠点が強みの 山善 が展開する ビジネス ... MarkeZine（マーケジン） https://markezine.jp > article > detail」（https://markezine.jp/article/detail/71120・3回目）
+  - 「決算 短信・ 説明 会 資料 | 株式会社 山善 — 決算 短信・ 説明 会 資料 | 株式会社 山善 株式会社山善 https://www.yamazen.co.jp > IR情報 > IRライブラリ」（https://www.yamazen.co.jp/ir/library/financial-statements/・3回目）
+  - 「決算 短信・ 説明 会 資料 | 株式会社 山善 — 決算 短信・ 説明 会 資料 | 株式会社 山善 株式会社山善 https://www.yamazen.co.jp > ... > 決算短信・説明会資料」（https://www.yamazen.co.jp/ir/library/financial-statements/?backnumber=2127・3回目）
+  - 「2027年3月期 第1四半期 決算 短信〔日本基準〕（連結） - 山善 — 2027年3月期 第1四半期 決算 短信〔日本基準〕（連結） - 山善 株式会社山善 PDF https://www.yamazen.co.jp > archives」（https://www.yamazen.co.jp/archives/001/2_81_1Q_Financial_Results_20260810_j.pdf・3回目）
+  - 「【 決算説明 会】「 山善 」/ 2026年3月期第2四半期 決算説明 会 — 【 決算説明 会】「 山善 」/ 2026年3月期第2四半期 決算説明 会 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=R28gl9gHyr0・3回目）
+  - 「IRSTREET (8051: 山善 ) JP — IRSTREET (8051: 山善 ) JP IRStreet https://www.irstreet.com > new > brand」（https://www.irstreet.com/new/jp/brand/index.php?brand=386&contents=brand_presentation・3回目）
+  - 「株式会社 山善 代表取締役 社長 岸田 貢司 氏 - モノクエ — 株式会社 山善 代表取締役 社長 岸田 貢司 氏 - モノクエ Mono Que https://monoque.jp > columns > post-364」（https://monoque.jp/columns/post-364/・3回目）
+  - 「社長 メッセージ | 会社情報 | 株式会社 山善 — 社長 メッセージ | 会社情報 | 株式会社 山善 株式会社山善 https://www.yamazen.co.jp > 会社情報」（https://www.yamazen.co.jp/about/message.html・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部2頁・検索4回）
+
+## 岡谷鋼機
+- 公式URL：https://www.okaya.co.jp（given）
+- 設立：1669年(寛文9年) (金山祭(通称ふいご祭)が行われる11月8日を当社創立記念日としています。)（https://www.okaya.co.jp/company/profile/index.html・1回目）
+- 設立：1937年(昭和12年)（https://www.okaya.co.jp/company/profile/index.html・1回目）
+- 従業員数：連結：6,536名　単体：773名 (2026年2月末)（https://www.okaya.co.jp/company/profile/index.html・1回目）
+- 売上高：1兆円以上（https://www.okaya.co.jp/company/plan/index.html・1回目）
+- 売上高：連結：1兆1,557億円　単体：5,916億円 (2026年2月期)（https://www.okaya.co.jp/company/profile/index.html・1回目）
+- 売上高：960,809 962,016 1,111,934 1,121,764 1,155,774（https://www.okaya.co.jp/ir/financial/pl/index.html・1回目）
+- ビジネスモデル：
+  - 「デジタル技術を活用したビジネスモデル(DX)によって商社機能を柔軟に進化させ、顧客に新たな価値を提供します」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「デジタル技術を活用した新たなビジネスモデル(DX)の構築」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「企業概要とビジネスモデル: 伝統と革新を両輪とする複合型専門商社」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「4つのセグメントが織りなす収益構造」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「2025年度を最終年度とする中期経営計画「GIC 2025」では、連結売上高1兆円以上、純利益200億円以上という高い目標を掲げ、グローバル展開の深化（Global）、デジタル技術を活用したビジネスモデルの革新（Innovation）、そして社員一人ひとりの主体的な挑戦（Challenge）を推進しています」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「同社の強みと競争優位の源泉は、その歴史と独自のビジネスモデルの中に深く根差しています」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「さらに専門性を高め、新たなビジネスモデルを構築し、機能ある商社としてその役割を果たしていきます」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「ビジネスモデル(DX)によって」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+- 誰に：
+  - 「デジタル技術を活用したビジネスモデル(DX)によって商社機能を柔軟に進化させ、顧客に新たな価値を提供します」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「商品又は製品の販売は、顧客に商品又は製品を引き渡した時点で収益を認識しております」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「販売は、出荷時から当該商品又は製品の支配が顧客に移転される時までの期間が通常の期間であ」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「められた貿易条件に基づきリスク負担が顧客に移転した時点で収益を認識しております」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「なお、顧客への財又はサービスの提供における当社及び連結子会社の役割が代理人に該当する取」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「引については、顧客から受け取る額から仕入先に支払う額を控除した純額で収益を認識しており」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「し、一般債権については貸倒実績率により、貸倒懸念債権については、取引先の財政状態に加」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「将来、取引先の財務状況等が悪化し支払能力」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「受取手形及び売掛金、電子記録債権に係る顧客の信用リスクは、信用管理規程に沿ってリスク低減」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「また、投資有価証券は主として重要な取引先等の株式であり、上場株式につい」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「為替予約の時価は、取引先金融機関から提示された価格等に基づき算定しており、レベル２の時」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+- 何を：
+  - 「金属取扱業を規制する条例」（https://www.okaya.co.jp/・1回目）
+  - 「高い技術力を有するグループ会社と連携し最先端商品を提供」（https://www.okaya.co.jp/・1回目）
+  - 「：環境貢献製品、エンジニアリングプラスチックス」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「環境製品の取扱拡大・カーボンニュートラルの取組」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「鉄鋼、特殊鋼、非鉄金属、電機・電子部品、化成品、機械・工具、配管住設機器、建設関連、食品などの国内販売・輸出入(三国間取引含む)」（https://www.okaya.co.jp/company/profile/index.html・1回目）
+  - 「金属取扱業を規制する条例（金属くず条例）に基づく表示」（https://www.okaya.co.jp/company/profile/index.html・1回目）
+  - 「環境保全に効果的な商品・技術・サービス・情報の提供および生産活動を積極的に推進する」（https://www.okaya.co.jp/csr/environment/policy/index.html・1回目）
+  - 「今後は、次世代自動車および再生可能エネルギーの導入を拡大するとともに、環境配慮型商品、電動車や再生可能エネルギー向け設備・部品・素材等の取扱いを拡大してまいります」（https://www.okaya.co.jp/csr/environment/activity/index.html・1回目）
+  - 「浄化槽法、建設工事に係る資材の再資源化等に関する法律、自動車NOx・PM法(自動車から排出される窒素酸化物および粒子状物質の特定地域における総量の削減等に関する特別措置法)、フロン回収・破壊法(特定製品に係るフロン類の回収および破壊の実施の確保等に関する法律)、土壌汚染対策法、石綿障害予防規則、下水道法、ビル用水法」（https://www.okaya.co.jp/csr/environment/activity/index.html・1回目）
+  - 「（エレクトロニクス、非鉄金属）」（https://www.okaya.co.jp/storage/reports/8euUNiuKxMqq5aeM9g4BoY7bKMFrpv0EtsPZsA8s.pdf・2回目）
+  - 「非鉄金属は自動車関連及び環境配慮型材料が増加」（https://www.okaya.co.jp/storage/reports/8euUNiuKxMqq5aeM9g4BoY7bKMFrpv0EtsPZsA8s.pdf・2回目）
+  - 「中 部 合 成 樹 脂 工 業 ㈱ 100 100.00 プ ラスチック製品製造業」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf・2回目）
+- 加工・付加価値：
+  - 「鉄鋼、特殊鋼の加工、販売をグローバルに展開」（https://www.okaya.co.jp/・1回目）
+  - 「：海外の加工・物流機能強化」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「属メッキ加工業」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf・2回目）
+  - 「東 海 プ レ ス 工 業 ㈱ 210 100.00 金 属プレス加工・金型製造業」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf・2回目）
+  - 「KOYO Marketing and Processing Asia Co., Ltd.、光洋加工流通(香港)有限公司ほか６社」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「KOYO Marketing and Processing Asia Co., Ltd.、光洋加工流通(香港)有限公司ほか６社の非連」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「商材を販売するだけにとどまらず、物流や加工、システム構築を含むビジネススキームを戦略的な視点にたって構築」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「大手鉄鋼メーカーの一次指定商社として、鉄鋼製品・原料を国内外に販売するだけでなく、国内外に数多くの加工拠点を有し、ものつくり、土木・建築分野などにおいてグローバルな展開でさまざまなニーズに応えています」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「海外現地法人や製造・加工会社と連携し、きめ細やかなサービスを提案できる体制を構築しています」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「プレス加工や金属加工、自動車・バイク部品製造、樹脂着色などを行う製造加工拠点を設けるなどして、世界市場における競争力強化に取り組んできました」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+- お金の形：
+  - 「取 締 役 第87期定時株主総会（令和 ５ 年 ５ 月25日） 年額600百万円以内（うち社外取締役は年額10百万円以内） 17名（うち社外取締役１名）」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf・2回目）
+  - 「監 査 役 第71期定時株主総会（平成19年 ５ 月2 4日） 年額80百万円以内 ３名」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf・2回目）
+  - 「ROE (自己資本利益率)」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「🆓メンバーシップは月額2,980円で有料記事が全て読み放題」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「月額2,980円でご利用いただけます」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+- 売上構成：
+  - 「鉄鋼セグメント」（https://www.okaya.co.jp/・1回目）
+  - 「情報・電機セグメント」（https://www.okaya.co.jp/・1回目）
+  - 「産業資材セグメント」（https://www.okaya.co.jp/・1回目）
+  - 「生活産業セグメント」（https://www.okaya.co.jp/・1回目）
+  - 「鉄鋼セグメント」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「情報・電機セグメント」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「産業資材セグメント」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「生活産業セグメント」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「セグメント事業戦略(重要取組テーマ)」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「鉄鋼セグメント」（https://www.okaya.co.jp/company/profile/index.html・1回目）
+  - 「情報・電機セグメント」（https://www.okaya.co.jp/company/profile/index.html・1回目）
+  - 「産業資材セグメント」（https://www.okaya.co.jp/company/profile/index.html・1回目）
+- 利益の源泉：
+  - 「強みと弱みの考察」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「同社の強みと競争優位の源泉は、その歴史と独自のビジネスモデルの中に深く根差しています」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「これは「グローバル最適調達パートナー」という企業理念を体現する上で大きな強みとなります」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「長年の歴史で培った信用力と独立系ならではの柔軟性が強みである一方、特定業界への依存や市況変動リスクといった課題も抱えています」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「市場環境と競合ポジショニング: 変革期のグローバル市場で輝く独立系の強み」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「また、独立系商社であることから、特定の企業に縛られることなく、世界中の商材から最適なものを自由に提案できるのも強みのひとつです」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+- 創業期：
+  - 「岡谷鋼機グループは、創業以来「地域社会との共生」を重要な経営課題と位置づけ、事業活動を推進してまいりました」（https://www.okaya.co.jp/company/plan/index.html・1回目）
+  - 「沿革 | 岡谷鋼機株式会社」（https://www.okaya.co.jp/company/history/index.html・1回目）
+  - 「初代岡谷總助宗治が、名古屋の鉄砲町(現：本社所在地)にて金物商「笹屋」を創業」（https://www.okaya.co.jp/company/history/index.html・1回目）
+  - 「創業350周年」（https://www.okaya.co.jp/company/history/index.html・1回目）
+  - 「当社及び連結子会社の残存履行義務に配分した取引価格については、当初に予想される契約期間」（https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf・2回目）
+  - 「創業から350年超、時代の変化と共に歩んだ沿革」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「岡谷鋼機の歴史は、江戸時代の寛文9年（1669年）に、初代岡谷總助宗治が名古屋で金物商「笹屋」を創業したことに始まります」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「HISTORY」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「創業初期は、鉄鋼事業を主軸としていましたが、時代のニーズに応える形で事業を多角化」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「1669年に名古屋で金物商として創業した、鉄鋼を主に扱う産業材商社の」（https://ny-benricho.com/business/interview/interview-okaya/・3回目）
+  - 「アメリカでの沿革や事業内容を教えてください」（https://ny-benricho.com/business/interview/interview-okaya/・3回目）
+  - 「当初は、米国から鉄のスクラップを日本へ輸出するための連絡業務が事務所の主な役割でした」（https://ny-benricho.com/business/interview/interview-okaya/・3回目）
+- 検索結果の抜粋：
+  - 「PBR0.5倍割れの「眠れる獅子」 岡谷鋼機 ：資本効率改善で ... — PBR0.5倍割れの「眠れる獅子」 岡谷鋼機 ：資本効率改善で ... note https://note.com > ビジネス > ビジネス全般」（https://note.com/hr793/n/nc2d7f59d6d52・3回目）
+  - 「OKAYA & CO.,LTD. - 岡谷鋼機株式会社 — OKAYA & CO.,LTD. - 岡谷鋼機株式会社 岡谷鋼機株式会社 https://www.recruit.okaya.co.jp > graduate > about」（https://www.recruit.okaya.co.jp/graduate/about/・3回目）
+  - 「中期経営計画 | 岡谷鋼機 株式会社 — 中期経営計画 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > company > plan」（https://www.okaya.co.jp/company/plan/index.html・3回目）
+  - 「岡谷鋼機 の27年2月期、純利益5％増に上方修正 自動車向け堅調 — 岡谷鋼機 の27年2月期、純利益5％増に上方修正 自動車向け堅調 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOFD302C90Q6A930C2000000/・3回目）
+  - 「岡谷鋼機 の「企業分析［強み・弱み・展望］」 OpenWork — 岡谷鋼機 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > 岡谷鋼機」（https://www.openwork.jp/company_answer.php?m_id=a0910000000FrXp&q_no=9・3回目）
+  - 「令和9年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 — 令和9年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 岡谷鋼機株式会社 https://www.okaya.co.jp > IR情報 > IRライブラリ」（https://www.okaya.co.jp/ir/library/financial_statements/index.html・3回目）
+  - 「IR情報 | 岡谷鋼機 株式会社 — IR情報 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > ...」（https://www.okaya.co.jp/ir/index.html・3回目）
+  - 「令和6年2月期の報告書・中間報告書 | 岡谷鋼機 株式会社 — 令和6年2月期の報告書・中間報告書 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > ... > 報告書・中間報告書」（https://www.okaya.co.jp/ir/library/report/r6/index.html・3回目）
+  - 「令和4年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 — 令和4年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 岡谷鋼機株式会社 https://www.okaya.co.jp > ... > 決算短信・決算説明資料」（https://www.okaya.co.jp/ir/library/financial_statements/r4/index.html・3回目）
+  - 「岡谷鋼機 [7485]：令和8年2月期 決算説明資料 2026年3月31日 ... — 岡谷鋼機 [7485]：令和8年2月期 決算説明資料 2026年3月31日 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260330592207/・3回目）
+  - 「社長 挨拶 | 岡谷鋼機 株式会社 — 社長 挨拶 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > company > president」（https://www.okaya.co.jp/company/president/index.html・3回目）
+  - 「【アメリカで活躍する日本企業 インタビュー 】米国 岡谷鋼機 ... — 【アメリカで活躍する日本企業 インタビュー 】米国 岡谷鋼機 ... ニューヨーク便利帳 https://ny-benricho.com > interview > interview-okaya」（https://ny-benricho.com/business/interview/interview-okaya/・3回目）
+
+## 日鉄物産
+- 公式URL：https://www.nipponsteel-tradinghd.com（given）
+- ビジネスモデル：
+  - 「「前中長計の5年間は、米国の関税政策、中国の鋼材輸出による国際市況下落、国内鉄鋼需要の停滞など厳しい環境が続いたが、4年連続で過去最高益を更新し、一過性要因を除いた実力損益で500億円を超える収益構造を築いた」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「インフラ分野は工業団地事業における土地販売に加え、電力・水などのインフラ供給、環境対策などの進出企業支援やサービスを強化し、継続性の高いビジネスモデルへ進化させていく」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「――需給、相場に左右されやすい収益構造にある」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 誰に：
+  - 「「人材」「複合力」「専門性」という３つのキーワードを軸とし、顧客の想いにどこまでも応え続け、各事業それぞれが高い専門性と業界トップクラスの競争力を有し、自らの手で新しい商品や価値をつくる、この道では誰にも負けないプロフェッショナル集団です」（https://www.nst.nipponsteel.com/recruit/fresher/interview_cat/interview/・3回目）
+  - 「お客様、取引先、日本製鉄グループ、そして社会から信頼され、『日鉄物産に任せれば安心』『日鉄物産と組めば新しい価値が生まれる』と評価いただいて、選ばれ続ける会社を目指す」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「こうした経営環境の大きな変化を先取りし、加工・物流・在庫、与信、情報、海外ネットワークなどの商社機能を強化し、取引先にとって不可欠な存在として選ばれることが重要だと認識している」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「国内では商社としての基盤機能をさらに強化し、取引先の調達、生産、物流などの課題に対する付加価値の高い解決策を提案していく」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「いかに優れた戦略や高い収益目標を掲げても、社会や取引先からの信頼を失えば、企業としての存続が危うくなる」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「サプライチェーンを自ら設計し、サプライヤーと需要家をつなぐプラットフォームとしての機能を高めながら海外地場取引も拡大し、持続的成長につなげていく」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「「アパレルOEMは、国内衣料消費の停滞、顧客サイドの在庫抑制、小ロット・短納期化によって受注効率が低下している」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 何を：
+  - 「「人材」「複合力」「専門性」という３つのキーワードを軸とし、顧客の想いにどこまでも応え続け、各事業それぞれが高い専門性と業界トップクラスの競争力を有し、自らの手で新しい商品や価値をつくる、この道では誰にも負けないプロフェッショナル集団です」（https://www.nst.nipponsteel.com/recruit/fresher/interview_cat/interview/・3回目）
+  - 「日本製鉄グループの中核商社として、鉄鋼原料の調達からお客様への製品納入まで、総合的なサービスを提供しています」（https://www.nst.nipponsteel.com/recruit/fresher/interview_cat/interview/・3回目）
+  - 「産業機械事業、インフラ事業、マテリアル事業と、成長が見込まれるバリエーション豊かな事業分野・商品の展開を図っています」（https://www.nst.nipponsteel.com/recruit/fresher/interview_cat/interview/・3回目）
+  - 「新社長に聞く／日鉄物産 園田裕人氏／鉄鋼軸に「選ばれる力」磨く | 鉄鋼・非鉄金属業界の専門紙「日刊産業新聞」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「非鉄金属ニュース」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「鉄・非鉄金属リサイクル」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「特殊鋼・ステンレス」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「非鉄ニュースのジャンル」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「アルミ地金・二次合金」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「ニッケル・チタン」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「レアメタル他」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「非鉄二・三次加工」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 加工・付加価値：
+  - 「非鉄二・三次加工」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「こうした経営環境の大きな変化を先取りし、加工・物流・在庫、与信、情報、海外ネットワークなどの商社機能を強化し、取引先にとって不可欠な存在として選ばれることが重要だと認識している」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「海外では、北米、欧州、インド、ASEANなど需要成長が見込まれる地域を中心に販売、加工、物流、事業投資を含めた取り組みを進めていく」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「「日本製鉄グループにおける営業、調達をつなぐハブ機能を果たし、販売、加工、物流、情報といった機能を組み合わせながら、最適な価値を提供できる機能を担っていく」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「国内では流通・加工分野の構造対策や効率化を進め、グループ会社間の連携をさらに深めることで、より安定的で付加価値の高いサービスを提供」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「電磁鋼板をはじめとした高付加価値品や冷鉄源、カーボンニュートラル関連商材などの重点分野で協働を深め、素材、加工、物流、サービスを含む最適な提案につなげていく」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「コイルセンターを含む流通・加工機能の効率化や高度化を通じて、サプライチェーン全体の持続性を高め、健全な流通市場の構築にも貢献」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「欧州を含め、日本製鉄グループの海外戦略と歩調を合わせて、電磁鋼板など戦略商品の加工・物流態勢の強化に向け、成長投資を積極展開したい」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「「単なる原料供給から、一次加工、品質管理、物流、安定調達を組み合わせた高付加価値モデルへの転換を図っており、確実に成長して選ばれる商社としての存在感を高めていく」」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 売上構成：
+  - 「――三井物産との合弁会社、MNインターファッションが事業主体となる繊維セグメントは」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 利益の源泉：
+  - 「鉄鋼事業で培った現場力、信用力、ネットワーク、リスクマネジメント力は他の事業領域でも発揮できる当社の強み」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 創業期：
+  - 「History」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+- 検索結果の抜粋：
+  - 「INTEGRATED REPORT 2025 - 日鉄物産 - 日本製鉄 — INTEGRATED REPORT 2025 - 日鉄物産 - 日本製鉄 日鉄物産株式会社 PDF https://www.nst.nipponsteel.com > corporate > pdf」（https://www.nst.nipponsteel.com/corporate/ir/integrated_report/pdf/integrated_report2025_01.pdf・3回目）
+  - 「INTEGRATED REPORT 2025 - 日鉄物産 - 日本製鉄 — INTEGRATED REPORT 2025 - 日鉄物産 - 日本製鉄 日鉄物産株式会社 PDF https://www.nst.nipponsteel.com > corporate > pdf」（https://www.nst.nipponsteel.com/en/corporate/ir/integrated_report/pdf/integrated_report2025_digest_02.pdf・3回目）
+  - 「【27卒】 日鉄物産 の内定獲得ガイド｜志望動機30例×面接回答 ... — 【27卒】 日鉄物産 の内定獲得ガイド｜志望動機30例×面接回答 ... note https://note.com > キャリア > 就職活動」（https://note.com/jobhuntkeyence/n/n519f8d1a73df・3回目）
+  - 「複合専業商社とは？ - 日鉄物産 - 日本製鉄 — 複合専業商社とは？ - 日鉄物産 - 日本製鉄 日鉄物産株式会社 https://www.nst.nipponsteel.com > 日鉄物産を知る」（https://www.nst.nipponsteel.com/about/fukugosengyoshosha.html・3回目）
+  - 「決算 公告｜財務情報 - 日鉄物産 — 決算 公告｜財務情報 - 日鉄物産 日鉄物産株式会社 https://www.nst.nipponsteel.com > 会社情報 > 財務情報」（https://www.nst.nipponsteel.com/corporate/ir/public/・3回目）
+  - 「財務情報｜会社情報｜ 日鉄物産 株式会社 - 日本製鉄 — 財務情報｜会社情報｜ 日鉄物産 株式会社 - 日本製鉄 日鉄物産株式会社 https://www.nst.nipponsteel.com > 会社情報」（https://www.nst.nipponsteel.com/corporate/ir/・3回目）
+  - 「日鉄物産 のIR・投資家情報アーカイブ - 日本製鉄 — 日鉄物産 のIR・投資家情報アーカイブ - 日本製鉄 日鉄物産株式会社 https://www.nst.nipponsteel.com > ... > 過去の資料」（https://www.nst.nipponsteel.com/corporate/ir/past_list/nst/・3回目）
+  - 「業績状況｜財務情報｜ 日鉄物産 株式会社 - 日本製鉄 — 業績状況｜財務情報｜ 日鉄物産 株式会社 - 日本製鉄 日鉄物産株式会社 https://www.nst.nipponsteel.com > 会社情報 > 財務情報」（https://www.nst.nipponsteel.com/corporate/ir/financial/・3回目）
+  - 「過去の 資料 ｜財務情報 - 日鉄物産 - 日本製鉄 — 過去の 資料 ｜財務情報 - 日鉄物産 - 日本製鉄 日鉄物産株式会社 https://www.nst.nipponsteel.com > 会社情報 > 財務情報」（https://www.nst.nipponsteel.com/corporate/ir/past_list/・3回目）
+  - 「社員 インタビュー ｜ 新卒採用サイト｜ 日鉄物産 株式会社 — 社員 インタビュー ｜ 新卒採用サイト｜ 日鉄物産 株式会社 日鉄物産株式会社 https://www.nst.nipponsteel.com > interview_cat > interview」（https://www.nst.nipponsteel.com/recruit/fresher/interview_cat/interview/・3回目）
+  - 「日鉄物産 園田裕人氏／鉄鋼軸に「選ばれる力」磨く — 日鉄物産 園田裕人氏／鉄鋼軸に「選ばれる力」磨く japanmetal.com https://www.japanmetal.com > news-to20261016151120」（https://www.japanmetal.com/news-to20261016151120.html・3回目）
+  - 「共に、もっと。｜ 日鉄物産 株式会社 - YouTube — 共に、もっと。｜ 日鉄物産 株式会社 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Hq7LJ8AOS34・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## 東邦金属
+- 公式URL：https://www.tohokinzoku.co.jp（given）
+- 設立：1950年（昭和25年）2月3日（https://www.tohokinzoku.co.jp/company/company.html・1回目）
+- 設立：1954年(昭和29年)（http://www.toho-metal.co.jp/company/・3回目）
+- 従業員数：250名（2026年3月末現在）（https://www.tohokinzoku.co.jp/company/company.html・1回目）
+- 従業員数：37名（2024年1月現在）（http://www.toho-metal.co.jp/company/・3回目）
+- 誰に：
+  - 「電球用フィラメントの製造から産声を上げた東邦金属の製品群は、タングステンやモリブデンなどの高融点金属の可能性を拡げ、放射線遮蔽生地、耐熱マグネシウム合金の極細ワイヤーなど、産学連携、企業間共同開発など、旧来の枠組みにとらわれない柔軟なスタイルで不可能を可能にする研究に挑戦、顧客ニーズを先取りする製品の実現を目指し続けています」（https://www.tohokinzoku.co.jp/develop/product-history.html・1回目）
+  - 「東邦金属は、顧客を重視するとともに、事業活動を通じて地球環境保護を目的とした以下の項目に継続的に取り組みます」（https://www.tohokinzoku.co.jp/sustainability/quality-environment.html・1回目）
+  - 「１．顧客の立場に立ち、高品質・安定供給の追求」（https://www.tohokinzoku.co.jp/sustainability/quality-environment.html・1回目）
+  - 「・製造技術、管理技術のレベルアップにより、顧客迷惑度ゼロの品質を目指す」（https://www.tohokinzoku.co.jp/sustainability/quality-environment.html・1回目）
+  - 「・精度の高い製品等の顧客情報を入手し、関連部署の連携を図り、どうすればできるか考え、」（https://www.tohokinzoku.co.jp/sustainability/quality-environment.html・1回目）
+  - 「私たちは、顧客の立場に立ち、品質向上に継続的に取り組み、常に顧客が期待する水準の品質を提供できるよう努めます」（https://www.tohokinzoku.co.jp/ir/sustainability・1回目）
+  - 「私たちは、取引先、株主、従業員、地域社会等すべてのステークホルダーとの双方向の対話を通じて、強固な信頼関係の構築を目指します」（https://www.tohokinzoku.co.jp/ir/sustainability・1回目）
+  - 「私たちは、顧客の立場に立ち、品質向上に継続的に取り組み、常に顧客が期待する水準の品質を提供できるよう努めます」（https://www.tohokinzoku.co.jp/ir/procedures/sustainability・1回目）
+  - 「私たちは、取引先、株主、従業員、地域社会等すべてのステークホルダーとの双方向の対話を通じて、強固な信頼関係の構築を目指します」（https://www.tohokinzoku.co.jp/ir/procedures/sustainability・1回目）
+  - 「事業継続リスクの強化 取引先開」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「評価実施と強化 顧客満足 100 ％ 100%」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「医療用部材 77.8% 顧客在庫調整で需要が低調であった」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+- 何を：
+  - 「タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「タングステン・モリブデン製品」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「タングステン合金製品」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「銅タングステンヒートシンク」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「銅タングステン合金」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「超硬合金製品」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「タングステン銅合金板 SDS」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「東邦新規製品のあゆみ」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「IR情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「タングステン・モリブデン製品」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「タングステン合金製品」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「銅タングステンヒートシンク」（https://www.tohokinzoku.co.jp/ir・1回目）
+- 加工・付加価値：
+  - 「タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「タングステン/モリブデン板加工品」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「タングステン加工品」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「タングステン針加工品」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「原料から素材加工まで一貫体制」（https://www.tohokinzoku.co.jp/・1回目）
+  - 「IR情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「タングステン/モリブデン板加工品」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「タングステン加工品」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「タングステン針加工品」（https://www.tohokinzoku.co.jp/ir・1回目）
+  - 「会社概要 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社」（https://www.tohokinzoku.co.jp/company/company.html・1回目）
+  - 「タングステン/モリブデン板加工品」（https://www.tohokinzoku.co.jp/company/company.html・1回目）
+  - 「タングステン加工品」（https://www.tohokinzoku.co.jp/company/company.html・1回目）
+- お金の形：
+  - 「営業利益率 (当初計画 ) 営業利益率 (実績・見直し計画 )」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「営業利益 営業利益率」（https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf・2回目）
+- 利益の源泉：
+  - 「営業利益率 (当初計画 ) 営業利益率 (実績・見直し計画 )」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「に強みがあると認識しております」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「や研究内容を融合し最適条件を見出すことで、それぞれの強みを活かすことが可能となると考え」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「企業との信頼関係構築において、学生の就職先として実績があることは大きな強みであると考え」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「匿性の高い情報や研究内容を融合し最適条件を見出すことにより、それぞれの強みを」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「営業利益 営業利益率」（https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf・2回目）
+  - 「当社の強みであるAGF工法でリニア」（https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf・2回目）
+- 創業期：
+  - 「企業沿革 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社」（https://www.tohokinzoku.co.jp/company/history・1回目）
+  - 「売上高 (当初計画 ) 売上高 (実績・見直し計画 )」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「営業利益 (当初計画 ) 営業利益 (実績・見直し計画 )」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「営業利益率 (当初計画 ) 営業利益率 (実績・見直し計画 )」（https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf・2回目）
+  - 「また、 当社は、 本特別委員会の委員として設置当初からこの３名」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「なお、本特別委員会の委員は、設置当初から変更され」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「るまでには、当社株式１株当たり1,570 円とする太陽鉱工の当初の提案より、315 円の価」（https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf・2回目）
+  - 「当初計画数値」（https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf・2回目）
+  - 「2017年度～2018年度は、当初計画した通りに推移しました」（https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf・2回目）
+  - 「東邦金属株式会社 TOHO METAL 1954年創業 ステンレス鋼及び特殊鋼を扱う流通業」（http://www.toho-metal.co.jp/company/・3回目）
+  - 「東邦金属は1954年(昭和29年)創業者・加古晃氏によってステンレス鋼および特殊鋼を扱う流通企業として設立以来、半世紀を超える年月が経過いたしました」（http://www.toho-metal.co.jp/company/・3回目）
+  - 「さらに信頼されるステンレス流通企業として、創業の原点を大切にしつつ新たな飛翔を実現します」（http://www.toho-metal.co.jp/company/・3回目）
+- 検索結果の抜粋：
+  - 「決算 情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦 ... — 決算 情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦 ... 東邦金属株式会社 https://www.tohokinzoku.co.jp > ir_finfo」（https://www.tohokinzoku.co.jp/ir/ir_finfo・3回目）
+  - 「東邦金属 、 社長 に小樋誠二氏 | 人物 ニュース - 日刊工業新聞 — 東邦金属 、 社長 に小樋誠二氏 | 人物 ニュース - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/473528・3回目）
+  - 「会社情報 - 東邦金属 株式会社 TOHO METAL — 会社情報 - 東邦金属 株式会社 TOHO METAL toho-metal.co.jp http://www.toho-metal.co.jp > company」（http://www.toho-metal.co.jp/company/・3回目）
+  - 「東邦金属 ・小樋誠二 社長 ／自動車用電極開発に注力／W・Mo ... — 東邦金属 ・小樋誠二 社長 ／自動車用電極開発に注力／W・Mo ... 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄」（https://www.japanmetaldaily.com/articles/-/136156・3回目）
+  - 「会社概要 - 東邦金属工業株式会社 — 会社概要 - 東邦金属工業株式会社 東邦金属工業株式会社 https://www.tohometal.co.jp > company > company」（https://www.tohometal.co.jp/company/company.html・3回目）
+  - 「タングステン モリブデン 銅タン 超硬加工の 東邦金属 株式会社 — タングステン モリブデン 銅タン 超硬加工の 東邦金属 株式会社 東邦金属株式会社 https://www.tohokinzoku.co.jp > company > compliance」（https://www.tohokinzoku.co.jp/company/compliance.html・3回目）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索4回）
+- ビジネスモデル：記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索4回）
+
+## 白銅
+- 公式URL：https://www.hakudo.co.jp（given）
+- 設立：1932年2月（https://www.hakudo.co.jp/corporate/outline/・1回目）
+- 設立：1949年11月（https://www.hakudo.co.jp/corporate/outline/・1回目）
+- 従業員数：812名（2026年4月1日現在）（https://www.hakudo.co.jp/corporate/outline/・1回目）
+- 従業員数：10名 野菜の種類 ： 30種類（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+- ビジネスモデル：
+  - 「13 白銅の強みと ビジネスモデル」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「Ｐ 11 価値創造プロセス Ｐ 13 白銅の強みとビジネスモデル Ｐ 15 ステークホルダーとのかかわり」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「白銅がどのよ う な強みをもち、 ビジネスモデルを展開 しているか」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「独自のビジネスモデルを展開」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「ダン トツのビジネスモデルにより、 実現」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「2. 事業内容・ビジネスモデル」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「２. 事業内容・ビジネスモデル」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「ビジネスモデル① 標準在庫品」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「ビジネスモデル② 特注品」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「ビジネスモデル① 標準在庫品」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B48%E6%9C%88ver2.pdf・2回目）
+  - 「ビジネスモデル② 特注品」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B48%E6%9C%88ver2.pdf・2回目）
+  - 「 FIT非化石証書の仲介販売開始」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B48%E6%9C%88ver2.pdf・2回目）
+- 誰に：
+  - 「提供価値／顧客への約束」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「の提供による顧客利益拡大・」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「取扱い商品と顧客業界1 他社にない付加価値2 安定した財務基盤3 白 銅 ネット サ ー ビ ス に よ る」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「通 じて、 顧客の利益拡大に貢献」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「・ 顧客の課題解決を支援 し、 持続的な成長」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「・顧客向け 「新 ・ 白銅通信」 の定期発行 （年4回）」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「通 じた顧客との対話の実施」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「・顧客ニーズの把握および新規取引機会の創出」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「取引先 （仕入れ先）」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「白銅ネ ッ トサービスの進化による顧客基盤の強化・拡大と利益率向上」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「顧客満足度向上をベースに したコア事業の深化・事業領域の拡大と 、 DXや組織体制強化」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「顧客基盤の強化・拡大と利益率の向上」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+- 何を：
+  - 「ホーム｜白銅株式会社」（https://www.hakudo.co.jp/・1回目）
+  - 「白銅ネットサービスを中心としたDX戦略」（https://www.hakudo.co.jp/・1回目）
+  - 「商品・サービス」（https://www.hakudo.co.jp/・1回目）
+  - 「商品・サービス関連のお知らせ」（https://www.hakudo.co.jp/・1回目）
+  - 「商品（標準在庫品・お取寄せ品）」（https://www.hakudo.co.jp/・1回目）
+  - 「オリジナル・テーマ別シリーズ商品」（https://www.hakudo.co.jp/・1回目）
+  - 「商品（特注品）」（https://www.hakudo.co.jp/・1回目）
+  - 「アルミニウム押出型材」（https://www.hakudo.co.jp/・1回目）
+  - 「鋳造品・鍛造製品」（https://www.hakudo.co.jp/・1回目）
+  - 「アルミフォーミュラ」（https://www.hakudo.co.jp/・1回目）
+  - 「白銅ネットサービスのご案内」（https://www.hakudo.co.jp/・1回目）
+  - 「新・白銅通信」（https://www.hakudo.co.jp/・1回目）
+- 加工・付加価値：
+  - 「オーダーメイド材料・加工部品の提供」（https://www.hakudo.co.jp/・1回目）
+  - 「機械加工品の受託」（https://www.hakudo.co.jp/・1回目）
+  - 「加工について」（https://www.hakudo.co.jp/・1回目）
+  - 「受注から加工、配送までのサービスを進化させ、」（https://www.hakudo.co.jp/・1回目）
+  - 「受注から加工、」（https://www.hakudo.co.jp/・1回目）
+  - 「NC旋盤加工機を導入しました！」（https://www.hakudo.co.jp/・1回目）
+  - 「メーカー製造品や機械加工品など」（https://www.hakudo.co.jp/・1回目）
+  - 「オーダーメイド材料・加工部品の提供」（https://www.hakudo.co.jp/inquiry/index.html・1回目）
+  - 「機械加工品の受託」（https://www.hakudo.co.jp/inquiry/index.html・1回目）
+  - 「加工について」（https://www.hakudo.co.jp/inquiry/index.html・1回目）
+  - 「加工について｜白銅株式会社」（https://www.hakudo.co.jp/product/service/about/・1回目）
+  - 「オーダーメイド材料・加工部品の提供」（https://www.hakudo.co.jp/product/service/about/・1回目）
+- お金の形：
+  - 「プレミアム優待倶楽部では、株主優待ポイントを共通株主優待コイン「WILLsCoin」と交換することができ、個人株主向け会員制サイト「プレミアム優待倶楽部PORTAL」にて優待商品と交換することができます」（https://www.hakudo.co.jp/ir/individual/・1回目）
+  - 「また、この他に証券会社にお支払いただく売買手数料が必要となります」（https://www.hakudo.co.jp/ir/individual/・1回目）
+  - 「同業平均を上回る高い利益率」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「白銅ネ ッ トサービスの進化による顧客基盤の強化・拡大と利益率向上」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「顧客基盤の強化・拡大と利益率の向上」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「標準在庫品の粗利益の減少および販管費の増加によ り」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「定の迅速化を図り 、 ECサイ ト や切断加工事業の展開によ り 付加価値・利益率の向上を目指 し ます」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「プール、 ゴルフ レ ッ スンなど、 月会費制のスポーツ施設を継続利用」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「している従業員に対 し、 月会費を補助 しています」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「６ 運動機会の創出 スポーツ クラブの月会費を補助 し、 運動習慣の定着を促進 している」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「売上総利益率 （％） 18.6 16.5 16.2 15.9 15.6」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「営業利益率 （％） 7.7 6.1 4.4 4.5 4.2」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+- 売上構成：
+  - 「業種別売上高構成比」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「上高構成比率は生成 A I や」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「界は売上高構成比率は減少 し」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「【 品種別売上高構成比 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「【 業種別売上高構成比(国内) 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「【 品種別売上高構成比 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B48%E6%9C%88ver2.pdf・2回目）
+  - 「【 業種別売上高構成比(国内) 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B48%E6%9C%88ver2.pdf・2回目）
+  - 「【 品種別売上高構成比 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B45%E6%9C%88ver2.pdf・2回目）
+  - 「【 業種別売上高構成比(国内) 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%992025%E5%B9%B45%E6%9C%88ver2.pdf・2回目）
+  - 「【 品種別売上高構成比 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E3%80%90150%E9%83%A8%E5%8D%B0%E5%88%B7%E5%B0%81%E7%AD%92%E5%85%A5%E3%82%8C%E3%80%91%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2024%E5%B9%B48%E6%9C%88%E9%96%8B%E7%A4%BAVer3.1.pdf・2回目）
+  - 「【 業種別売上高構成比(国内) 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E3%80%90150%E9%83%A8%E5%8D%B0%E5%88%B7%E5%B0%81%E7%AD%92%E5%85%A5%E3%82%8C%E3%80%91%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2024%E5%B9%B48%E6%9C%88%E9%96%8B%E7%A4%BAVer3.1.pdf・2回目）
+  - 「【 品種別売上高構成比 】」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E4%BC%9A%E7%A4%BE%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2024%E5%B9%B45%E6%9C%88%E9%96%8B%E7%A4%BA.pdf・2回目）
+- 利益の源泉：
+  - 「13 白銅の強みと ビジネスモデル」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「Ｐ 11 価値創造プロセス Ｐ 13 白銅の強みとビジネスモデル Ｐ 15 ステークホルダーとのかかわり」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「白銅がどのよ う な強みをもち、 ビジネスモデルを展開 しているか」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「理念と強みを浸透さ」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「当社には三つの強みがあります」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「一つ目の強みは現場力です」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「その現場力は、 白銅が持つ強みです」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「二つ目の強みは、 風通しの良さです」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「断へつなげることができるのは大きな強みです」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「この強みを再確認し、 事業」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「現在の事業は当社の強みであり 、 今後も」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+  - 「白銅の強み と ビ ジ ネ ス モ デル」（https://www.hakudo.co.jp/Portals/0/images/ir/IR%20Data/%E7%99%BD%E9%8A%85%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE_%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82026.pdf・2回目）
+- 創業期：
+  - 「History」（https://www.hakudo.co.jp/・1回目）
+  - 「History」（https://www.hakudo.co.jp/inquiry/index.html・1回目）
+  - 「History」（https://www.hakudo.co.jp/product/service/about/・1回目）
+  - 「History」（https://www.hakudo.co.jp/product/service/about/e-catalog/・1回目）
+  - 「History」（https://www.hakudo.co.jp/corporate/outline/・1回目）
+  - 「歴史・沿革｜白銅株式会社」（https://www.hakudo.co.jp/corporate/history/・1回目）
+  - 「History」（https://www.hakudo.co.jp/corporate/history/・1回目）
+  - 「白銅の歴史・沿革」（https://www.hakudo.co.jp/corporate/history/・1回目）
+  - 「白銅商店として東京市京橋区(現 中央区八丁堀)にて個人創業」（https://www.hakudo.co.jp/corporate/history/・1回目）
+  - 「History」（https://www.hakudo.co.jp/ir/・1回目）
+  - 「History」（https://www.hakudo.co.jp/ir/news/・1回目）
+  - 「History」（https://www.hakudo.co.jp/ir/management/mid_tern.html・1回目）
+- 検索結果の抜粋：
+  - 「【27卒】 白銅 の志望動機30例×面接質問の解答例30例 - note — 【27卒】 白銅 の志望動機30例×面接質問の解答例30例 - note note https://note.com > キャリア > 就職活動」（https://note.com/jobhuntkeyence/n/n18728f8ede14・3回目）
+  - 「白銅 IR特集 - Podcast - Apple Podcasts — 白銅 IR特集 - Podcast - Apple Podcasts Apple Podcasts https://podcasts.apple.com > podcast > 白銅ir特集」（https://podcasts.apple.com/us/podcast/%E7%99%BD%E9%8A%85ir%E7%89%B9%E9%9B%86/id1612608554・3回目）
+  - 「【 白銅 株式会社】統合報告書2025紹介動画 - YouTube — 【 白銅 株式会社】統合報告書2025紹介動画 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=o8ojwXdeRPY・3回目）
+  - 「トップメッセージ｜ 白銅 株式会社 — トップメッセージ｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > corporate > message」（https://www.hakudo.co.jp/corporate/message/・3回目）
+  - 「決算説明 会｜ 白銅 株式会社 — 決算説明 会｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > library > presentation」（https://www.hakudo.co.jp/ir/library/presentation.html・3回目）
+  - 「IR情報｜ 白銅 株式会社 — IR情報｜ 白銅 株式会社 白銅株式会社 https://www.hakudo.co.jp > ...」（https://www.hakudo.co.jp/ir/・3回目）
+  - 「【 決算説明 会】「 白銅 」/ 2027年3月期第1四半期 決算説明 会 — 【 決算説明 会】「 白銅 」/ 2027年3月期第1四半期 決算説明 会 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Yi1PvQyXNoo・3回目）
+  - 「白銅 [7637]：2026年3月期 決算説明資料 2026 ... - 日本経済新聞 — 白銅 [7637]：2026年3月期 決算説明資料 2026 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260513528440/・3回目）
+  - 「【 決算説明 会】「 白銅 」/ 2026年3月期第3四半期 ... - YouTube — 【 決算説明 会】「 白銅 」/ 2026年3月期第3四半期 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=bnp2D18agdc・3回目）
+  - 「新 社長インタビュー ／ 白銅 ・山田哲也氏／商品・加工をさらに ... — 新 社長インタビュー ／ 白銅 ・山田哲也氏／商品・加工をさらに ... 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄」（https://www.japanmetaldaily.com/articles/-/257242・3回目）
+  - 「トップに訊く 白銅 株式会社 - 日経ビジネス電子版 Special — トップに訊く 白銅 株式会社 - 日経ビジネス電子版 Special 日経BP Special https://special.nikkeibp.co.jp > atclh > ONB > hakudo0823」（https://special.nikkeibp.co.jp/atclh/ONB/21/hakudo0823/・3回目）
+  - 「白銅社長 に山田専務 - 日刊産業新聞 — 白銅社長 に山田専務 - 日刊産業新聞 japanmetal.com https://www.japanmetal.com > news-h20260212147667」（https://www.japanmetal.com/news-h20260212147667.html・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部5頁・検索4回）
+
+## 神鋼商事
+- 公式URL：https://www.shinsho.co.jp（given）
+- 設立：1946年11月12日（https://www.shinsho.co.jp/info/about.html・1回目）
+- 従業員数：［連結］1,518名 ［単体］526名※2021年度までは実働数でしたが、2022年度からは当社での雇用者数を記載しております。（https://www.shinsho.co.jp/info/about.html・1回目）
+- 従業員数：39歳3ヶ月（https://www.shinsho.co.jp/info/about.html・1回目）
+- 売上高：6,081億4,200万円（2026年3月期）（https://www.shinsho.co.jp/info/about.html・1回目）
+- ビジネスモデル：
+  - 「中期経営計画2026（2024年度 ～ 2026年度）では、(1) KOBELCOグループの中核商社として更なる事業の拡大・深掘りを進めると共に、(2) 当社独自のサプライチェーン構築によるビジネスモデルの多様化、(3) 社会課題の解決と収益力強化に資する新規事業推進の3本柱を同時に追求しつつ、ROIC指標導入によりビジネス単位のモニタリングを強化し、収益性の改善も図って参ります」（https://www.shinsho.co.jp/ir/policy/medium_term_management.html・1回目）
+  - 「を更に強化する事でトレードに多くを依存する収益構造を変化させ、どのような経済環境下でも一定」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「めると共に、(2) 当社独自のサプライチェーン構築 によるビジネスモデルの多様化 、(3) 社会課題の」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「⚫ 事業分野が近接する本部を統合し、ビジネスモデルの横展開や適切な人材配置を行い、収益力や商社機能を強化」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「・DX時代に適したビジネスモデルの」（https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf・2回目）
+  - 「(2)当社独自のサプライチェーン構築によるビジネスモデルの多様化、」（https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf・2回目）
+  - 「６．不動産の売買、賃貸借並びにその仲介及び管理業」（https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf・2回目）
+- 誰に：
+  - 「●海外取引先との事業確立(廃タイヤ)」（https://www.shinsho.co.jp/csr/environment/sustainability.html・1回目）
+  - 「需要家との連携強化によりEV向け部材の開発・販売を強化」（https://www.shinsho.co.jp/csr/environment/tcfd.html・1回目）
+  - 「販売先（単体）」（https://www.shinsho.co.jp/ir/individual/numbers.html・1回目）
+  - 「素材を見極め、現場で考え、顧客と語り、課題を解く」（https://www.shinsho.co.jp/ir/individual/beginner.html・1回目）
+  - 「株主や投資家の皆さま、お取引先様、グループ社員、地域社会をはじめとした全てのステークホルダーの期待に応えることであり、それが企業価値の向上に繋がると考えております」（https://www.shinsho.co.jp/ir/policy/governance.html・1回目）
+  - 「当社グループの主要な取引先又はその業務執行者」（https://www.shinsho.co.jp/ir/policy/governance.html・1回目）
+  - 「取引額が直前事業年度における当社グループの連結売上高の２％を超える取引先」（https://www.shinsho.co.jp/ir/policy/governance.html・1回目）
+  - 「当社グループを主要な取引先とする者又はその業務執行者」（https://www.shinsho.co.jp/ir/policy/governance.html・1回目）
+  - 「顧客情報等の守秘情報を厳重管理し、正当な理由なく他に漏洩しません」（https://www.shinsho.co.jp/ir/policy/corporate_compliance.html・1回目）
+  - 「2020年に「神鋼商事グループ贈収賄防止ポリシー」を制定し、「公務員、取引先への贈収禁止」「取引先からの収賄禁止」を定めています」（https://www.shinsho.co.jp/ir/policy/corporate_compliance.html・1回目）
+  - 「委託事業者と中小受託事業者との望ましい取引慣行を遵守し、取引先とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組みます」（https://www.shinsho.co.jp/ir/policy/corporate_compliance.html・1回目）
+  - 「⚫ 現在の本部はユニット制に移行し、顧客ニーズに応えるきめ細やかな商社機能を維持」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+- 何を：
+  - 「アルミ・銅ユニット」（https://www.shinsho.co.jp/・1回目）
+  - 「定款・株式取扱規則」（https://www.shinsho.co.jp/・1回目）
+  - 「アルミ・銅ユニット」（https://www.shinsho.co.jp/ir/news/・1回目）
+  - 「定款・株式取扱規則」（https://www.shinsho.co.jp/ir/news/・1回目）
+  - 「アルミ・銅ユニット」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「定款・株式取扱規則」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「鉄鋼、鉄鋼原料、非鉄金属、機械・情報産業、溶材各製品の売買及び輸出入」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「上場金融商品取引所」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「アルミ・銅ユニット」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「定款・株式取扱規則」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「この想いが1946年に実を結び、神戸製鋼の製品を扱う戦後初のメーカー専門商社、太平商事株式会社（神鋼商事前身）が誕生しました」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「神商金属加工（株）（現・神商非鉄（株））を設立」（https://www.shinsho.co.jp/info/history.html・1回目）
+- 加工・付加価値：
+  - 「神商金属加工（株）（現・神商非鉄（株））を設立」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「Grand Blanc Processing, L.L.C.を買収」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「Aiken Wire Processing, L.L.C.を設立」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「また、現地二次加工メーカーの立ち上げや物流機能の高度化など、これまでのサプライチェーン構築ノウハウを磨き上げ、新たな付加価値の創出に挑戦しています」（https://www.shinsho.co.jp/biz/iron_steel.html・1回目）
+  - 「さらに現地の二次加工メーカーや提携先には、神鋼商事のスタッフを派遣し、現場のものづくりや商品知識を獲得することで、情報力強化・付加価値の向上に努めています」（https://www.shinsho.co.jp/biz/iron_steel.html・1回目）
+  - 「神鋼商事は二次加工メーカーと連携し付加価値商品の安定供給を実現します」（https://www.shinsho.co.jp/biz/iron_steel.html・1回目）
+  - 「加工性や溶接性に優れた神戸製鋼所の厚板をお客様のニーズに対応しながら提供し、幅広い産業の基礎を支えます」（https://www.shinsho.co.jp/biz/iron_steel.html・1回目）
+  - 「EVの急速な普及に対する、アルミ加工事業への追加投資」（https://www.shinsho.co.jp/csr/environment/sustainability.html・1回目）
+  - 「北米では自動車部品の加工センター、アジアではアルミ板の加工センター、ヨーロッパでは当社の主要ユニット全般ビジネスのフォローと新規事業の推進」（https://www.shinsho.co.jp/ir/individual/future.html・1回目）
+  - 「けれど、グループの力だけに頼るのではなく、自らの力で販売・加工・物流のネットワークを築き、誠実をモットーに信頼される独立した商社へと進化してきました」（https://www.shinsho.co.jp/ir/individual/beginner.html・1回目）
+  - 「特殊鋼 非鉄加工」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「（設備）GRAND BLANC PROCESSING/」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+- お金の形：
+  - 「安定的・継続的な株主還元を実施しつつ、目指す自己資本の水準を確保するために、自己資本比率及び株主資本利益率（ROE）を重要な経営指標と捉え、この目標値を公表し、自己資本の充実を推進するとともに、最適資本構成の構築を図ります」（https://www.shinsho.co.jp/ir/policy/governance.html・1回目）
+  - 「連結経常利益、ROE（自己資本利益率）、ROIC（投下資本利益率）、自己資本比率を重要目標達成指標」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「ROE（自己資本利益率）」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「ROIC（投下資本利益率）」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「ROIC（投下資本利益率）を新たに重要目標達成指標（KGI）とし、全社でROIC経営を推進」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「）の報酬限度額は、2024年6月26日開催の第106回定時株主総会において年額352百万円以内（うち社」（https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf・2回目）
+  - 「外取締役は年額29百万円以内）と決議しております」（https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf・2回目）
+  - 「監査等委員である取締役の報酬限度額は、2024年6月26日開催の第106回定時株主総会において年額75百万円以内（うち社外取締役は年額3」（https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf・2回目）
+  - 「従業員への社内教育を徹底するとともに、従業員持株会を通じて会員の株式引出管理を実施しました」（https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf・2回目）
+  - 「当会社の株式および新株予約権に関する取扱いならびに手数料は、法令または」（https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf・2回目）
+  - 「ところが、私はこれまでトラックに乗ったことも、場内で使用するフォークリフトのライセンスも取得したことがありませんでした」（https://shinkoh-kk.com/recruit/interview03/・3回目）
+- 売上構成：
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/ir/news/・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「※ユニット構成比には報告ユニットに属さないその他の売上高及び内部取引消去額を含んでおりません」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「ユニット構成比(2025年度)」（https://www.shinsho.co.jp/info/about.html・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/biz/・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/biz/iron_steel.html・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/csr/environment/・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/csr/environment/environment.html・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/csr/environment/sustainability.html・1回目）
+  - 「セグメント情報(連結)」（https://www.shinsho.co.jp/csr/environment/tcfd.html・1回目）
+- 利益の源泉：
+  - 「特にEV関連製品については、当社が強みをもつ高級線材のさらなる拡販に努める他、EV向けアルミ材の研究開発を軽圧メーカーと一体的に推進するなど、新たなニーズの確保に向けた対応も実施しています」（https://www.shinsho.co.jp/csr/environment/tcfd.html・1回目）
+  - 「強みと未来へ」（https://www.shinsho.co.jp/ir/individual/・1回目）
+  - 「強みと未来 | 個人投資家の皆さまへ | 神鋼商事 株式会社」（https://www.shinsho.co.jp/ir/individual/future.html・1回目）
+  - 「神鋼商事の強みと未来」（https://www.shinsho.co.jp/ir/individual/future.html・1回目）
+  - 「⚫ 主力の自動車分野では、当社の強みである特殊鋼線材ビジネスの収益力強化策を継続実施」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+- 創業期：
+  - 「沿革 | 神鋼商事 株式会社」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「創業から14年目の1960年、太平商事株式会社は神戸製鋼グループの中核商社を目指し、「神鋼」の名を採用」（https://www.shinsho.co.jp/info/history.html・1回目）
+  - 「創業者兼CEO藤田氏による講演会を開催」（https://www.shinsho.co.jp/csr/environment/env_approaches.html・1回目）
+  - 「商都・大阪の事務所から、神鋼商事の物語は始まりました」（https://www.shinsho.co.jp/ir/individual/beginner.html・1回目）
+  - 「このようなあらゆる変化をチャンスと捉え、創業から築き上げてきた安定収益基盤に一層の磨きをかけながら、新たにサステナブルな社会の実現を牽引するビジネスを創出することが当社の発展に必須と考え、「中期経営計画2023」を策定しました」（https://www.shinsho.co.jp/ir/policy/medium_term_management.html・1回目）
+  - 「前中期経営計画で掲げた「第二の創業」とは、KOBELCOグループで培ったアセットを最大限有効」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「1USD 104円（当初予算）」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「「第二の創業」の本格化」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「⚫ 「第二の創業」の本格化とは、前中期経営計画で掲げた質の高い経営と真のグローバル企業への変革を具現化する」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・2回目）
+  - 「当社は1946年、株式会社神戸製鋼所及び関係会社におけるメーカー商社として創業致しました」（https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf・2回目）
+  - 「創業期の非鉄製品及び工具を中心とした販売体制から、鉄鋼製品、鉄鋼原料、機械、溶材、」（https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf・2回目）
+  - 「現在推進する「中期経営計画2026」では第二の創業としての「質の高い経営」と「真のグローバル企業への変革」に向け」（https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf・2回目）
+- 検索結果の抜粋：
+  - 「ビジネスモデル と事業ユニット｜新卒採用情報 - 神鋼商事 — ビジネスモデル と事業ユニット｜新卒採用情報 - 神鋼商事 神鋼商事 株式会社 https://www.shinsho.co.jp > aboutus > businessmodel」（https://www.shinsho.co.jp/saiyo/aboutus/businessmodel/・3回目）
+  - 「中期経営計画 2026 - 神鋼商事 — 中期経営計画 2026 - 神鋼商事 神鋼商事 株式会社 PDF https://www.shinsho.co.jp > pdf > 2026-chuki」（https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf・3回目）
+  - 「商社の経営戦略 構造 変化を見据えて／ 神鋼商事 髙下拡展社長 ... — 商社の経営戦略 構造 変化を見据えて／ 神鋼商事 髙下拡展社長 ... japanmetal.com https://www.japanmetal.com > news-to20260803150177」（https://www.japanmetal.com/news-to20260803150177.html・3回目）
+  - 「統合報告書 - 神鋼商事 — 統合報告書 - 神鋼商事 神鋼商事 株式会社 PDF https://www.shinsho.co.jp > pdf > igr_2024_view」（https://www.shinsho.co.jp/ir/library/pdf/igr_2024_view.pdf・3回目）
+  - 「【 神鋼商事 】据置・見通し変更：BBB／安定的→ポジティブ — 【 神鋼商事 】据置・見通し変更：BBB／安定的→ポジティブ 日本格付研究所 - JCR PDF https://www.jcr.co.jp > download」（https://www.jcr.co.jp/download/e2000ece6f45e77668eb5709639e97df57b02dbae37f6290db/25d1065.pdf・3回目）
+  - 「決算説明 会 | 神鋼商事 株式会社 — 決算説明 会 | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > ... > IRライブラリー」（https://www.shinsho.co.jp/ir/library/settlement.html・3回目）
+  - 「決算 短信 | 神鋼商事 株式会社 — 決算 短信 | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > ... > IRライブラリー」（https://www.shinsho.co.jp/ir/library/summary.html・3回目）
+  - 「財務情報 | 神鋼商事 株式会社 — 財務情報 | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > 株主・投資家情報」（https://www.shinsho.co.jp/ir/finance/・3回目）
+  - 「事業報告書・中間報告書（招集ご通知） | 神鋼商事 株式会社 — 事業報告書・中間報告書（招集ご通知） | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > ... > IRライブラリー」（https://www.shinsho.co.jp/ir/library/report.html・3回目）
+  - 「神鋼商事 株式会社 — 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp」（https://www.shinsho.co.jp/・3回目）
+  - 「社員 インタビュー ｜新卒採用情報｜ 神鋼商事 株式会社 — 社員 インタビュー ｜新卒採用情報｜ 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > saiyo > job」（https://www.shinsho.co.jp/saiyo/job/・3回目）
+  - 「インタビュー 営業部門 | 採用情報 - 神鋼商事 — インタビュー 営業部門 | 採用情報 - 神鋼商事 shinkoh-kk.com https://shinkoh-kk.com > recruit > interview03」（https://shinkoh-kk.com/recruit/interview03/・3回目）
+
+## 豊通マテリアル
+- 公式URL：https://www.toyotsu-material.co.jp（given）
+- ビジネスモデル：
+  - 「SD295=直送 16～25ミリ」（https://www.japanmetaldaily.com/articles/-/137024・3回目）
+- 誰に：
+  - 「当社および当社グループ会社役職員を装い、お取引先に対しメールや電話で、発行済請求書の振込先銀行口座が変更になったため、商品代金を変更後の口座に振り込むよう依頼する」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「また、上記のような発行済み請求書の口座変更を依頼するのではなく、いきなり偽の請求書をお取引先に送り付ける詐欺も発生しています」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊通マテリアル株式会社はお取引先様との適切な価格協議・価格転嫁について、取り組み方針を策定いたしました」（https://www.toyotsumaterial.co.jp/・3回目）
+- 何を：
+  - 「非鉄素材事業」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「非鉄製品事業」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「当社および当社グループ会社役職員を装い、お取引先に対しメールや電話で、発行済請求書の振込先銀行口座が変更になったため、商品代金を変更後の口座に振り込むよう依頼する」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「自動車の電動化が進む中、製品に使用される素材のニーズも大きく変化しています」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊通マテリアル株式会社の子会社である豊通ソーテック株式会社は、アルミサッシの水平リサイクル拡大に向けて新工場を竣工し、本格稼働を開始いたしました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊通マテリアル株式会社の子会社である豊通ソーテック株式会社が、アルミサッシの水平リサイクル拡大に向けた新工場の建設を開始しました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「アルミサッシスクラップの選別加工事業の合弁会社を設立」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊田通商株式会社のグループ会社である豊通マテリアル株式会社と株式会社三光埼玉は、アルミサッシの水平リサイクル拡大を目的に、アルミサッシスクラップの選別加工事業会社「豊通ソーテック株式会社」を、2023年10月に設立しました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「「IFCPF World Championship 2022」で当社社員が銅メダルを獲得！」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「当社社員の深尾が、2022年9月27日からイタリア・オルビアで開催された、男子CPサッカー※の国際大会「IFCPF World Championship 2022」に日本代表選手として出場し、日本CPサッカー史上初の世界大会でのメダル（銅メダル）を獲得しました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「レアメタルのリサイクルを手掛けるメタルドゥへの追加出資のお知らせ」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊通マテリアルは、2003年に出資を行いレアメタルの販売などで連携してきた株式会社メタルドゥの株式を23.8％追加取得し、株式比率を33.4％に引き上げます」（https://www.toyotsumaterial.co.jp/・3回目）
+- 加工・付加価値：
+  - 「展示では協賛企業の取り組み紹介コーナーが設けられ、当社はリユース・リサイクル分野における電池リサイクルスキームや加工設備、グローバルネットワークについて紹介しました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「アルミサッシスクラップの選別加工事業の合弁会社を設立」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊田通商株式会社のグループ会社である豊通マテリアル株式会社と株式会社三光埼玉は、アルミサッシの水平リサイクル拡大を目的に、アルミサッシスクラップの選別加工事業会社「豊通ソーテック株式会社」を、2023年10月に設立しました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「これにより、製販一体化によって加工を含めたバリューチェーン全体を俯瞰し、循環型社会実現への取り組みを加速していく予定です」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「スロバキアの鋼板加工・販売会社／日鉄物産、伊ＣＬＮグループから買収／日鉄子会社ＮＳＳＫの製鉄所内に拠点」（https://www.japanmetaldaily.com/articles/-/137024・3回目）
+  - 「スロバキアの鋼板加工・販売会社／日鉄物産、伊ＣＬＮグループから買収／日...」（https://www.japanmetaldaily.com/articles/-/137024・3回目）
+- お金の形：
+  - 「当社は電池サプライチェーン協議会（BASC）の会員企業として、2025年に開催された「CEATEC2025」に協賛し出展しました」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊通マテリアル株式会社は、一般社団法人電池サプライチェーン協議会（略称：BASC）の会員として、2024年10月15日（火）から10月18日（金）まで幕張メッセで開催される「CEATEC 2024」に共同出展いたします」（https://www.toyotsumaterial.co.jp/・3回目）
+- 利益の源泉：
+  - 「長い年月をかけて築いたネットワークと、資源の動脈・静脈をつなぐノウハウは、他社にはない強みです」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「エムエム建材統合発足１２周年／温井健夫社長に聞く／「建設鋼材」「製鋼原料」併せ持つ〝動脈・静脈〟が強み／資源循環「ステラハブ」で社会インフラに進化を」（https://www.japanmetaldaily.com/articles/-/137024・3回目）
+- 検索結果の抜粋：
+  - 「豊通マテリアル 株式会社 — 豊通マテリアル 株式会社 豊通マテリアル株式会社 https://www.toyotsumaterial.co.jp」（https://www.toyotsumaterial.co.jp/・3回目）
+  - 「豊通マテリアル の「企業分析［強み・弱み・展望］」 OpenWork — 豊通マテリアル の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 豊通マテリアル」（https://www.openwork.jp/company_answer.php?m_id=a0C30000019WJ63&q_no=9・3回目）
+  - 「電子公告 - 豊通マテリアル株式会社 — 電子公告 - 豊通マテリアル株式会社 豊通マテリアル株式会社 https://www.toyotsumaterial.co.jp > koukoku」（https://www.toyotsumaterial.co.jp/koukoku/・3回目）
+  - 「豊通マテリアル ・浅井繁氏／自動車電動化での新需要捕捉 ... — 豊通マテリアル ・浅井繁氏／自動車電動化での新需要捕捉 ... 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄」（https://www.japanmetaldaily.com/articles/-/137024・3回目）
+  - 「健康経営 - 豊通マテリアル株式会社 — 健康経営 - 豊通マテリアル株式会社 豊通マテリアル株式会社 https://www.toyotsumaterial.co.jp > recruit > style」（https://www.toyotsumaterial.co.jp/recruit/style/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+- 創業期：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）
+
+## 阪和興業
+- 公式URL：https://www.hanwa.co.jp（given）
+- 設立：昭和22年（1947年）4月1日（https://www.hanwa.co.jp/company/outline.html・1回目）
+- 従業員数：1,820名　（連結：6,079名） ※2026年3月31日時点（https://www.hanwa.co.jp/company/outline.html・1回目）
+- 売上高：2,164,049 2,668,228 2,431,980 2,554,514 2,662,669（https://www.hanwa.co.jp/ir/finance/・1回目）
+- ビジネスモデル：
+  - 「IR活動は投資家が当社の事業実態や収益構造についての理解を深めて、成長性、将来期待度などの判断への材料提供の場と捉えており、」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+  - 「社の事業実態や収益構造についての理解を深めて、成長性、将来期待度などの判断への材料提供の場と捉え」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf・2回目）
+  - 「より、当社国内外の事務所訪問の仲介なども行っております」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf・2回目）
+  - 「「例えばASEANでは『東南アジアに第二の阪和を』をテーマに国内同様のビジネスモデルで事業を拡充してきている」（https://www.japanmetal.com/news-to20250625144313.html・3回目）
+  - 「商社の経営戦略―需給・収益構造対策―／阪和興業 中川洋一社長／物流協業で輸送最適化／資本効率追求し利益成長図る」（https://www.japanmetal.com/news-to20250625144313.html・3回目）
+- 誰に：
+  - 「阪和興業取引先持株会」（https://www.hanwa.co.jp/ir/stock/・1回目）
+  - 「外部顧客への売上高 262,968 49,820 62,755 35,352 92,373 106,152 609,423」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「外部顧客への売上高 30,442 639,865 － 639,865」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「外部顧客への売上高 257,734 57,188 87,084 38,886 121,697 123,744 686,336」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「外部顧客への売上高 32,237 718,573 － 718,573」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「特に、顧客の求める納期に柔軟に対応できる体制や構造設計分野における技術力・品質」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「を強みとしており、長年にわたり地域顧客との信頼関係を構築しております」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「当社は、業務提携、事業機会の創出、取引関係の維持・強化等の観点から、中長期的に企業価値の向上に資すると判断した場合に、取引先等」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+  - 「当社の経営理念は、「私たちは、時代と市場の変化に迅速に対応し、『流通のプロ』として顧客の多様なニーズに応え、広く社会に貢献します」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+  - 「この理念の下、付加価値を高めた商品流通や顧客ニーズに即応した提案型サービスを提供するユーザー系商社として、存在感のある商社」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+  - 「３．当社の主要な取引先（直近の事業年度において、取引金額が当社の年間連結売上高の２％を超える取引先）またはその業務執行者」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+  - 「阪和興業取引先持株会 2,429,800 6.25」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+- 何を：
+  - 「輸入鋼材 岸壁在庫推移表（PDF：」（https://www.hanwa.co.jp/・1回目）
+  - 「鋼板、条鋼、形鋼、鋼管、建材など多種多様な製品群を有し、あらゆる業界のお客様のあらゆるニーズにお応えしています」（https://www.hanwa.co.jp/・1回目）
+  - 「各種金属製品に加えて、アルミニウム、銅、ステンレス原料などのリサイクル事業にいち早く参入し、資源の有効活用に貢献しています」（https://www.hanwa.co.jp/・1回目）
+  - 「石油製品、石化製品、紙料を取り扱い、的確な情報と迅速な対応でお客様とのリレーションシップの強化に努めています」（https://www.hanwa.co.jp/・1回目）
+  - 「世界有数の林産業から優良な製材品を輸入している木材部門、多様な遊戯機械や産業機械を取扱っている機械部門などがあります」（https://www.hanwa.co.jp/・1回目）
+  - 「条鋼、建材、鋼板、鋼管、線材特殊鋼など多種多様な製品群を有し、あらゆる業界のお客様のニーズにお応えしています」（https://www.hanwa.co.jp/business/・1回目）
+  - 「各種金属製品に加えて、アルミニウム、銅、ステンレス原料などのリサイクル事業にいち早く参入し、資源の有効活用に貢献しています」（https://www.hanwa.co.jp/business/・1回目）
+  - 「エビ、カニをはじめ豊富な商材を取扱い、多数のトップシェア品目を有し、日本の食卓に豊かさを提供しています」（https://www.hanwa.co.jp/business/・1回目）
+  - 「エネルギー、化学品、生活資材・合成樹脂などを取扱い、的確な情報と迅速な対応でお客様とのリレーションシップの強化に努めています」（https://www.hanwa.co.jp/business/・1回目）
+  - 「国内外の木材製品・建材商品などを取扱い、住宅メーカーまでのサプライチェーンを構築しています」（https://www.hanwa.co.jp/business/・1回目）
+  - 「大阪薄板・アルミステンレス・スチールサービス事業推進担当」（https://www.hanwa.co.jp/company/director.html・1回目）
+  - 「鋼材倶楽部へ加入」（https://www.hanwa.co.jp/company/history.html・1回目）
+- 加工・付加価値：
+  - 「レジャー施設分野ではテーマパークなどに遊戯機械や造形演出を提案、産業機械分野では各種鉄鋼加工機械、搬送機械などを販売しています」（https://www.hanwa.co.jp/business/・1回目）
+  - 「H形鋼切断設備の導入」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「東莞事務所（現・阪和鋼板加工 (東莞) 有限公司）を開設」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「PCM PROCESSING （THAILAND） LTD.の設立に資本参加」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「阪和鋼板加工（東莞）有限公司を設立」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「正起金属加工株式会社の株式を取得」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「正起金属加工株式会社の株式を追加取得」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「offices, Steel Processing Project Promote Dept.,Tokyo HQ」（https://www.hanwa.co.jp/en/company/director.html・1回目）
+  - 「Processing Project Promotion Dept.」（https://www.hanwa.co.jp/en/company/director.html・1回目）
+  - 「Capital participation to PCM Processing (Thailand)」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「で設計・加工された鉄骨部品を現場で組み立てるPEMB建築システム（Pre-Engineered Metal Building）を」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「の流通、高付加価値な加工、及び設計・施工分野におけるソリューション提供のノウハウを活かして、ASG」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+- お金の形：
+  - 「金属リサイクル事業ライセンス取得」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「自己資本利益率（％）」（https://www.hanwa.co.jp/ir/finance/・1回目）
+  - 「銭報酬は2025年６月開催の定時株主総会で決定された年間総額８億６千万円以内（うち社外取締役は年額１億円以内）とし、また、譲渡制限付株」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf・2回目）
+  - 「された年間総額８億６千万円以内（うち社外取締役は年額１億円以内）とし、また、譲渡制限付株」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf・2回目）
+  - 「（注）１ ROE（株主資本利益率）=親会社株主に帰属する当期純利益÷期首・期末平均株主資本」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf・2回目）
+  - 「――「第10次中計」では、ROE（株主資本利益率）12％以上、ネットDER1倍以下などの財務目標を掲げている」（https://www.japanmetal.com/news-to20250625144313.html・3回目）
+- 売上構成：
+  - 「事業セグメント情報」（https://www.hanwa.co.jp/ir/・1回目）
+  - 「事業セグメント情報」（https://www.hanwa.co.jp/ir/finance/・1回目）
+  - 「部門別売上高構成比」（https://www.hanwa.co.jp/ir/finance/・1回目）
+  - 「地域別売上高構成比」（https://www.hanwa.co.jp/ir/finance/・1回目）
+  - 「（セグメント情報等の注記） …………………………………………………………………………………８」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「【セグメント別の状況】」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「年同期比0.9％増の2,724億16百万円、セグメント利益は前年同期比13.6％減の84億29百万円となりました」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「これらの結果、当事業の売上高は前年同期比13.5％増の625億19百万円、セグメント損失は２億57百万円（前年同期」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「当事業の売上高は前年同期比36.4％増の874億31百万円、セグメント利益は26億18百万円（前年同期は、85百万円の損」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「10.4％増の393億98百万円、セグメント利益は前年同期比3.4％減の９億51百万円となりました」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「同期比32.2％増の1,237億88百万円、セグメント利益は前年同期比126.7％増の56億３百万円となりました」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「これらの結果、売上高は前年同期比19.4％増の1,414億円、セグメント利益は前年同期比9.7％減」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+- 利益の源泉：
+  - 「当社が培ってきた強みであるサプライチェーン創造力を起点に、ユーザー価値向上と社会課題への対応に資する領域を重要テーマとした事業を強化してまいります」（https://www.hanwa.co.jp/company/about.html・1回目）
+  - 「本レポートでは、当社の事業内容とその強み・課題の分析、事業計画、業績動向などが紹介されています」（https://www.hanwa.co.jp/news/ir/202610135471/・1回目）
+  - 「を強みとしており、長年にわたり地域顧客との信頼関係を構築しております」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「ASGの連結子会社化によって米州におけるPEMB領域の事業基盤を獲得し、当社の強みである建設向け鋼材」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf・2回目）
+  - 「的な成長を確保する上での強みとなり得る、との認識に立ち、社内における女性の活躍促進を含む多様性の確」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf・2回目）
+- 創業期：
+  - 「創業以来、「流通のプロ」たることを基本理念に、高度な専門性と国内外の豊富なネットワークを活かし、鉄鋼を中心とした幅広い分野で多様なニーズに応え続けています」（https://www.hanwa.co.jp/company/about.html・1回目）
+  - 「当社は2027年度に創業80周年を迎えます」（https://www.hanwa.co.jp/company/about.html・1回目）
+  - 「沿革 - 阪和興業株式会社」（https://www.hanwa.co.jp/company/history.html・1回目）
+  - 「History」（https://www.hanwa.co.jp/en/company/about.html・1回目）
+  - 「History」（https://www.hanwa.co.jp/en/company/director.html・1回目）
+  - 「History - Hanwa Co., Ltd.」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「History」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「Started trading with People's Republic of China」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「Started direct trading with」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「Started operation Hanwa Steel」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「Started operation of Pt. QMB New Energy」（https://www.hanwa.co.jp/en/company/history.html・1回目）
+  - 「History」（https://www.hanwa.co.jp/en/csr/environment/・1回目）
+- 検索結果の抜粋：
+  - 「中期経営計画 2025 - 阪和興業 — 中期経営計画 2025 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf」（https://www.hanwa.co.jp/ms/data/pdf/ir/20230525-1_4321.pdf・3回目）
+  - 「中期経営計画2028 - 阪和興業 — 中期経営計画2028 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf > company」（https://www.hanwa.co.jp/ms/data/pdf/company/20260512_medium-term-management-plan.pdf・3回目）
+  - 「統合報告書 2025 - 阪和興業 — 統合報告書 2025 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > pdf > 統合報告書2025」（https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf・3回目）
+  - 「商社の経営戦略 構造 変化を見据えて／ 阪和興業 中川洋一社長 ... — 商社の経営戦略 構造 変化を見据えて／ 阪和興業 中川洋一社長 ... japanmetal.com https://www.japanmetal.com > news-to20260630149627」（https://www.japanmetal.com/news-to20260630149627.html・3回目）
+  - 「【伸びがエグい】人気商社・ 阪和興業 の企業研究・強み・弱み ... — 【伸びがエグい】人気商社・ 阪和興業 の企業研究・強み・弱み ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ifNz5w6eFO4・3回目）
+  - 「決算説明資料 - 阪和興業 株式会社 — 決算説明資料 - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > 投資家情報 > IRライブラリー」（https://www.hanwa.co.jp/ir/library/explain.html・3回目）
+  - 「2026年3月期 決算説明資料 - 阪和興業 株式会社 — 2026年3月期 決算説明資料 - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > ... > IR関連ニュース > 2026」（https://www.hanwa.co.jp/news/ir/202605125257/・3回目）
+  - 「決算 短信 - 阪和興業 株式会社 — 決算 短信 - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > 投資家情報 > IRライブラリー」（https://www.hanwa.co.jp/ir/library/summary.html・3回目）
+  - 「2025年度(2026年3月期) 決算説明資料 - 阪和興業 — 2025年度(2026年3月期) 決算説明資料 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf」（https://www.hanwa.co.jp/ms/data/pdf/ir/20260512_5257.pdf・3回目）
+  - 「IRライブラリー - 阪和興業 株式会社 — IRライブラリー - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > 投資家情報」（https://www.hanwa.co.jp/ir/library/・3回目）
+  - 「商社の経営戦略 10年先を見据えて／ 阪和興業 中川洋一 社長 ... — 商社の経営戦略 10年先を見据えて／ 阪和興業 中川洋一 社長 ... japanmetal.com https://www.japanmetal.com > news-to20250625144313」（https://www.japanmetal.com/news-to20250625144313.html・3回目）
+  - 「阪和興業社長 ・中川洋一氏 欧米でM&A、大胆投資 — 阪和興業社長 ・中川洋一氏 欧米でM&A、大胆投資 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/787267・3回目）

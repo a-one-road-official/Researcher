@@ -1,0 +1,1353 @@
+{
+ "name": "神鋼商事",
+ "aliases": [
+  "Shinsho"
+ ],
+ "context": "鉄鋼・非鉄・溶接材料の商社（上場）",
+ "researched_at": "2026-11-02T16:51:48.567205+00:00",
+ "official_url": "https://www.shinsho.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1946年11月12日",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "［連結］1,518名 ［単体］526名※2021年度までは実働数でしたが、2022年度からは当社での雇用者数を記載しております。",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員平均年齢",
+    "value": "39歳3ヶ月",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "6,081億4,200万円（2026年3月期）",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、鉄鋼原料、非鉄金属、機械・情報産業、溶材各製品の売買及び輸出入",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "この想いが1946年に実を結び、神戸製鋼の製品を扱う戦後初のメーカー専門商社、太平商事株式会社（神鋼商事前身）が誕生しました",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "神商金属加工（株）（現・神商非鉄（株））を設立",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "現地では、溶材の資材納入をはじめ、日系エアコンメーカーへの銅管・アルミ材供給などで実績を上げ続けています",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vesper Metals（株）の設立",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち神鋼商事は、メーカー商社としての提案力や技術力に磨きをかけ、鉄鋼、アルミ・銅、原料の『金属本部』と、機械、溶接の『機械・溶接本部』の2本部体制で、それぞれが独創的なビジネスを展開しています",
+    "url": "https://www.shinsho.co.jp/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミと銅製品を主軸に、製品特性を知り尽くしたプロたちが、ものづくりをトータルプロデュース",
+    "url": "https://www.shinsho.co.jp/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸製鋼グループの製品をはじめ、世界中からお客様に最適な産業機械や電子・情報機材を選定して、仕組みとともにご提供します",
+    "url": "https://www.shinsho.co.jp/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "神戸製鋼グループ製品を主軸に、お客様のニーズに合わせ、世界各地から鉄鋼製品を調達・供給しています",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに現地の二次加工メーカーや提携先には、神鋼商事のスタッフを派遣し、現場のものづくりや商品知識を獲得することで、情報力強化・付加価値の向上に努めています",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、「神戸製鋼所の鉄鋼製品販売商社」から、線材・鋼板・自動車部品・建材・チタン・ステンレスの各品種において、「お客様との強固な信頼関係の下、自ら考え行動する、なくてはならない存在」となることを目標としています",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業などで使用される神戸製鋼所の線材・棒鋼製品",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "神鋼商事は二次加工メーカーと連携し付加価値商品の安定供給を実現します",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "高張力鋼板の生産に取組実績を積み重ねてきた神戸製鋼所の薄板製品を提供しています",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "信頼の高い神戸製鋼所のチタン製品をはじめ、海外メーカーからの調達も可能です",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械構造用炭素鋼・合金鋼、ステンレス鋼、耐熱鋼、工具鋼、ばね鋼、軸受鋼、快削鋼、高抗張力鋼、高マンガン鋼、特殊合金",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "冷間圧造用鋼線、硬鋼線、PC鋼線、ワイヤロープ、バネ線、ステンレスワイヤ、ナマシ鉄線、釘、針金、金網、有刺鉄線、磨棒鋼、ネジ、ボルト、ナット、結束線、冷圧部品",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタン／ステンレス",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタン原料（粉末）、純チタン、チタン合金、チタン二次製品、チタン板、チタン管、ステンレス鋼板、ステンレス鋼管",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物原料及び製品",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "Owari Precision Products (India) Pvt. Ltd.への出資について（522.45 KB）",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/csr/environment/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/csr/environment/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、温室効果ガス削減に寄与する製品・サービスの取扱いを推進します",
+    "url": "https://www.shinsho.co.jp/csr/environment/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "●基本戦略：取扱商品を通じて省資源やサーキュラーエコノミーに貢献するビジネスを推進",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "再生可能エネルギー設備向け部材の取扱増",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "非鉄リサイクル原料の取扱い拡大",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "●自動車アルミパネル屑の選別事業",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "EVの急速な普及に対する、アルミ加工事業への追加投資",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス燃料の取扱い拡大と事業化",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "●基本戦略：取扱商品を通じ、SDGsへの取り組みを意識・強化する",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "EV向け部材の取扱増",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・銅ユニット",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款・株式取扱規則",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「鉄鋼ユニット」「アルミ・銅ユニット」「原料ユニット」 が属する『金属本部』と、",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "再エネ発電設備・水素関連設備向けのステンレス・チタンの需要が拡大",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "再エネを動力源とした自動車・船舶や、再エネ関連設備向けのアルミ・銅需要が増加",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "新車販売に占めるBEVの比率は、乗用車で9割以上、商用車で約半分を占め、軽量化ニーズによるアルミ需要が増加",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミスクラップ比率は全アルミ需要に対して5割以上、銅スクラップ比率は全銅需要に対して2割以上までそれぞれ上昇",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ等の代替素材のサプライヤーを開拓しサプライチェーンを最適化・EV関連機会を補足",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "EV化の進展に伴う内燃機関関連の製品の売上減少",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "豪雨・洪水などで仕入先が被災した場合、代替製品手配などの追加的コストが発生",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "EV向け高級綿材製品の売上増加",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "※ユニット構成比には報告ユニットに属さないその他の売上高及び内部取引消去額を含んでおりません",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット構成比(2025年度)",
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/csr/environment/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/csr/environment/env_approaches.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/csr/environment/env_iso14001.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報（連結）",
+    "url": "https://www.shinsho.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/individual/numbers.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上高構成比(2025年度)",
+    "url": "https://www.shinsho.co.jp/ir/individual/numbers.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/individual/future.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/individual/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/individual/beginner.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/medium_term_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/irsr.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/security_measures.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/corporate_compliance.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報(連結)",
+    "url": "https://www.shinsho.co.jp/ir/policy/articles.html",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 金属セグメントはトレードビジネスについて商社機能の強化に取り組む一方で、事業投資を行い収益体質を変えていく",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 機械・溶接セグメントは、従来の販売業務から周辺業務（メンテナンス・サービス）や周辺機器のセールスを加え、",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントを5つから2つに変更",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属セグメント",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機械・溶接セグメント",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 鉄鋼セグメントが北米エネルギー関連ビジネスで",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント毎の施策",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 施策",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【 20年度実績と23年度目標の差異分析（セグメント別） 】",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 増益計画の主な要素",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※23年度は調整の数値を各セグメントに織り込んでおります",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "神商金属加工（株）（現・神商非鉄（株））を設立",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Grand Blanc Processing, L.L.C.を買収",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Aiken Wire Processing, L.L.C.を設立",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、現地二次加工メーカーの立ち上げや物流機能の高度化など、これまでのサプライチェーン構築ノウハウを磨き上げ、新たな付加価値の創出に挑戦しています",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに現地の二次加工メーカーや提携先には、神鋼商事のスタッフを派遣し、現場のものづくりや商品知識を獲得することで、情報力強化・付加価値の向上に努めています",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "神鋼商事は二次加工メーカーと連携し付加価値商品の安定供給を実現します",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工性や溶接性に優れた神戸製鋼所の厚板をお客様のニーズに対応しながら提供し、幅広い産業の基礎を支えます",
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "pass": 1
+   },
+   {
+    "quote": "EVの急速な普及に対する、アルミ加工事業への追加投資",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "北米では自動車部品の加工センター、アジアではアルミ板の加工センター、ヨーロッパでは当社の主要ユニット全般ビジネスのフォローと新規事業の推進",
+    "url": "https://www.shinsho.co.jp/ir/individual/future.html",
+    "pass": 1
+   },
+   {
+    "quote": "けれど、グループの力だけに頼るのではなく、自らの力で販売・加工・物流のネットワークを築き、誠実をモットーに信頼される独立した商社へと進化してきました",
+    "url": "https://www.shinsho.co.jp/ir/individual/beginner.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊鋼 非鉄加工",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（設備）GRAND BLANC PROCESSING/",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特殊鋼2次加工 能力増強（設備）蘇州神商/大型レベラーシャーライン導入",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 環境リサイクル事業、アルミ加工事業は事業環境想定の変化により一部案件を中止",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車向け鋼材加工事業（中国・北米） 20億円 設備投資 特殊鋼2次加工（北米） 13億円",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アルミ加工事業（北米、中国、東南アジア） 80億円 設備投資 アルミコイルセンター 能力増強（中国） 17億円",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 現地販売拠点・特殊鋼加工拠点、および日本の連携に",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• ベトナムアルミ加工会社出資拡大、インド建設機械部",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄鋼 仕入れソース多様化、加工機能強化、JIT対応によるサプライチェーン強化建材ビジネスの強化",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非鉄金属 加工拠点の拡大、設備増強によるEV・自動車軽量化需要の取り込みアルミ屑・銅屑リサイクル、三国間取引の強化",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建材製品 非鉄加工",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アルミ精密加工",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アルミ厚板切断",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車向け鋼材加工事業（中国・北米） 20億円",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アルミ加工事業（北米、中国、東南アジア） 80億円",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境への負荷影響を最大限抑えることを前提とした加工体制を構築",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗切断・破砕 湿式選別（比重） 乾燥",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "切断比重選別 加熱（混練） 押出成形",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Kobelco Plate Processing India",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "［チェンナイ］（ 厚鋼板加工、販売）",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "林産物、畜産物及びそれらの加工品",
+    "url": "https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．前号物品の開発、生産、製造及び加工業",
+    "url": "https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1年ほど現場作業に携わって品物の仕分けや加工、出荷作業について学んだ後、営業部門で取引先訪問を始めました",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "沿革 | 神鋼商事 株式会社",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業から14年目の1960年、太平商事株式会社は神戸製鋼グループの中核商社を目指し、「神鋼」の名を採用",
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業者兼CEO藤田氏による講演会を開催",
+    "url": "https://www.shinsho.co.jp/csr/environment/env_approaches.html",
+    "pass": 1
+   },
+   {
+    "quote": "商都・大阪の事務所から、神鋼商事の物語は始まりました",
+    "url": "https://www.shinsho.co.jp/ir/individual/beginner.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようなあらゆる変化をチャンスと捉え、創業から築き上げてきた安定収益基盤に一層の磨きをかけながら、新たにサステナブルな社会の実現を牽引するビジネスを創出することが当社の発展に必須と考え、「中期経営計画2023」を策定しました",
+    "url": "https://www.shinsho.co.jp/ir/policy/medium_term_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "前中期経営計画で掲げた「第二の創業」とは、KOBELCOグループで培ったアセットを最大限有効",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1USD 104円（当初予算）",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「第二の創業」の本格化",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 「第二の創業」の本格化とは、前中期経営計画で掲げた質の高い経営と真のグローバル企業への変革を具現化する",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は1946年、株式会社神戸製鋼所及び関係会社におけるメーカー商社として創業致しました",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業期の非鉄製品及び工具を中心とした販売体制から、鉄鋼製品、鉄鋼原料、機械、溶材、",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在推進する「中期経営計画2026」では第二の創業としての「質の高い経営」と「真のグローバル企業への変革」に向け",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "入社後は工場部門に配属となり、主要な品物や全体の作業工程を学ぶことから始まりました",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "●海外取引先との事業確立(廃タイヤ)",
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "需要家との連携強化によりEV向け部材の開発・販売を強化",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売先（単体）",
+    "url": "https://www.shinsho.co.jp/ir/individual/numbers.html",
+    "pass": 1
+   },
+   {
+    "quote": "素材を見極め、現場で考え、顧客と語り、課題を解く",
+    "url": "https://www.shinsho.co.jp/ir/individual/beginner.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主や投資家の皆さま、お取引先様、グループ社員、地域社会をはじめとした全てのステークホルダーの期待に応えることであり、それが企業価値の向上に繋がると考えております",
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの主要な取引先又はその業務執行者",
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引額が直前事業年度における当社グループの連結売上高の２％を超える取引先",
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループを主要な取引先とする者又はその業務執行者",
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報等の守秘情報を厳重管理し、正当な理由なく他に漏洩しません",
+    "url": "https://www.shinsho.co.jp/ir/policy/corporate_compliance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年に「神鋼商事グループ贈収賄防止ポリシー」を制定し、「公務員、取引先への贈収禁止」「取引先からの収賄禁止」を定めています",
+    "url": "https://www.shinsho.co.jp/ir/policy/corporate_compliance.html",
+    "pass": 1
+   },
+   {
+    "quote": "委託事業者と中小受託事業者との望ましい取引慣行を遵守し、取引先とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組みます",
+    "url": "https://www.shinsho.co.jp/ir/policy/corporate_compliance.html",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 現在の本部はユニット制に移行し、顧客ニーズに応えるきめ細やかな商社機能を維持",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客視点の提供価値創出、生産性向上/働き方改革、DX人材育成による商社機能の強化を推進",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サプライチェーンDX新たな顧客提供価値の創出 デジタル人材の増強情報のデータベース化と業務効率化",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "少子高齢化と需要家の海外生産拡大による国内需要の減少",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つつ、持続的発展を目指していくことが、株主や投資家の皆さま、お取引先様、グループ社員、地域社会をはじめとした全てのステークホルダーの",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "神商取引先持株会 2,091,228 7.87",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主・取引先・従業員などすべてのステークホルダーの信頼と期待に応えていくことを「企",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業部門では、既存のお客様のもとを訪問して品物を引き取ったり、新規顧客の開拓などを行なったりしています",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客を訪問し、トラックで品物の引き取りに伺います",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフトの資格も取得し、新規顧客開拓も実現",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "1年ほど現場作業に携わって品物の仕分けや加工、出荷作業について学んだ後、営業部門で取引先訪問を始めました",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "現在顧客リストを精査しながら、先輩社員の手の行き届かない顧客担当を自分に切り替え、訪問できていなかったお客様の訪問ができるような体制を整えつつあります",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客の訪問、同じ方面の新規開拓訪問など",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "特にEV関連製品については、当社が強みをもつ高級線材のさらなる拡販に努める他、EV向けアルミ材の研究開発を軽圧メーカーと一体的に推進するなど、新たなニーズの確保に向けた対応も実施しています",
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "pass": 1
+   },
+   {
+    "quote": "強みと未来へ",
+    "url": "https://www.shinsho.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "強みと未来 | 個人投資家の皆さまへ | 神鋼商事 株式会社",
+    "url": "https://www.shinsho.co.jp/ir/individual/future.html",
+    "pass": 1
+   },
+   {
+    "quote": "神鋼商事の強みと未来",
+    "url": "https://www.shinsho.co.jp/ir/individual/future.html",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 主力の自動車分野では、当社の強みである特殊鋼線材ビジネスの収益力強化策を継続実施",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "中期経営計画2026（2024年度 ～ 2026年度）では、(1) KOBELCOグループの中核商社として更なる事業の拡大・深掘りを進めると共に、(2) 当社独自のサプライチェーン構築によるビジネスモデルの多様化、(3) 社会課題の解決と収益力強化に資する新規事業推進の3本柱を同時に追求しつつ、ROIC指標導入によりビジネス単位のモニタリングを強化し、収益性の改善も図って参ります",
+    "url": "https://www.shinsho.co.jp/ir/policy/medium_term_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "を更に強化する事でトレードに多くを依存する収益構造を変化させ、どのような経済環境下でも一定",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "めると共に、(2) 当社独自のサプライチェーン構築 によるビジネスモデルの多様化 、(3) 社会課題の",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 事業分野が近接する本部を統合し、ビジネスモデルの横展開や適切な人材配置を行い、収益力や商社機能を強化",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・DX時代に適したビジネスモデルの",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2)当社独自のサプライチェーン構築によるビジネスモデルの多様化、",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６．不動産の売買、賃貸借並びにその仲介及び管理業",
+    "url": "https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "安定的・継続的な株主還元を実施しつつ、目指す自己資本の水準を確保するために、自己資本比率及び株主資本利益率（ROE）を重要な経営指標と捉え、この目標値を公表し、自己資本の充実を推進するとともに、最適資本構成の構築を図ります",
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "連結経常利益、ROE（自己資本利益率）、ROIC（投下資本利益率）、自己資本比率を重要目標達成指標",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROE（自己資本利益率）",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROIC（投下資本利益率）",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROIC（投下資本利益率）を新たに重要目標達成指標（KGI）とし、全社でROIC経営を推進",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の報酬限度額は、2024年6月26日開催の第106回定時株主総会において年額352百万円以内（うち社",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外取締役は年額29百万円以内）と決議しております",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査等委員である取締役の報酬限度額は、2024年6月26日開催の第106回定時株主総会において年額75百万円以内（うち社外取締役は年額3",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員への社内教育を徹底するとともに、従業員持株会を通じて会員の株式引出管理を実施しました",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当会社の株式および新株予約権に関する取扱いならびに手数料は、法令または",
+    "url": "https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ところが、私はこれまでトラックに乗ったことも、場内で使用するフォークリフトのライセンスも取得したことがありませんでした",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル と事業ユニット｜新卒採用情報 - 神鋼商事 — ビジネスモデル と事業ユニット｜新卒採用情報 - 神鋼商事 神鋼商事 株式会社 https://www.shinsho.co.jp > aboutus > businessmodel",
+    "url": "https://www.shinsho.co.jp/saiyo/aboutus/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 2026 - 神鋼商事 — 中期経営計画 2026 - 神鋼商事 神鋼商事 株式会社 PDF https://www.shinsho.co.jp > pdf > 2026-chuki",
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 構造 変化を見据えて／ 神鋼商事 髙下拡展社長 ... — 商社の経営戦略 構造 変化を見据えて／ 神鋼商事 髙下拡展社長 ... japanmetal.com https://www.japanmetal.com > news-to20260803150177",
+    "url": "https://www.japanmetal.com/news-to20260803150177.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 - 神鋼商事 — 統合報告書 - 神鋼商事 神鋼商事 株式会社 PDF https://www.shinsho.co.jp > pdf > igr_2024_view",
+    "url": "https://www.shinsho.co.jp/ir/library/pdf/igr_2024_view.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 神鋼商事 】据置・見通し変更：BBB／安定的→ポジティブ — 【 神鋼商事 】据置・見通し変更：BBB／安定的→ポジティブ 日本格付研究所 - JCR PDF https://www.jcr.co.jp > download",
+    "url": "https://www.jcr.co.jp/download/e2000ece6f45e77668eb5709639e97df57b02dbae37f6290db/25d1065.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | 神鋼商事 株式会社 — 決算説明 会 | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > ... > IRライブラリー",
+    "url": "https://www.shinsho.co.jp/ir/library/settlement.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 神鋼商事 株式会社 — 決算 短信 | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > ... > IRライブラリー",
+    "url": "https://www.shinsho.co.jp/ir/library/summary.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務情報 | 神鋼商事 株式会社 — 財務情報 | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > 株主・投資家情報",
+    "url": "https://www.shinsho.co.jp/ir/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "事業報告書・中間報告書（招集ご通知） | 神鋼商事 株式会社 — 事業報告書・中間報告書（招集ご通知） | 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > ... > IRライブラリー",
+    "url": "https://www.shinsho.co.jp/ir/library/report.html",
+    "pass": 3
+   },
+   {
+    "quote": "神鋼商事 株式会社 — 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp",
+    "url": "https://www.shinsho.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー ｜新卒採用情報｜ 神鋼商事 株式会社 — 社員 インタビュー ｜新卒採用情報｜ 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > saiyo > job",
+    "url": "https://www.shinsho.co.jp/saiyo/job/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー 営業部門 | 採用情報 - 神鋼商事 — インタビュー 営業部門 | 採用情報 - 神鋼商事 shinkoh-kk.com https://shinkoh-kk.com > recruit > interview03",
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜新卒採用情報｜ 神鋼商事 株式会社 — トップメッセージ｜新卒採用情報｜ 神鋼商事 株式会社 神鋼商事 株式会社 https://www.shinsho.co.jp > saiyo > aboutus > topmessage",
+    "url": "https://www.shinsho.co.jp/saiyo/aboutus/topmessage/",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 構造変化を見据えて／ 神鋼商事 髙下拡展 社長 ... — 商社の経営戦略 構造変化を見据えて／ 神鋼商事 髙下拡展 社長 ... japanmetal.com https://www.japanmetal.com > news-to20260803150177",
+    "url": "https://www.japanmetal.com/news-to20260803150177.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ 神鋼商事社長 ・村瀬敬一氏 | 日刊工業新聞 電子版 — インタビュー ／ 神鋼商事社長 ・村瀬敬一氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/129780",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shinsho.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/info/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/info/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/biz/iron_steel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/csr/environment/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/csr/environment/tcfd.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/csr/environment/env_approaches.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/csr/environment/env_iso14001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/individual/numbers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/individual/future.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/individual/merit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/individual/beginner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/medium_term_management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/irsr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/security_measures.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/corporate_compliance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/articles.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/2023-chuki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/policy/pdf/cg_report_260701f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/pdf/teikan_2025_0401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinsho.co.jp/ir/pdf/kabushikitoriatsukai_240124.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shinkoh-kk.com/recruit/interview03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bdc.ca/en/articles-tools/entrepreneur-toolkit/templates-business-guides/glossary/gross-margin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mercury.com/blog/gross-margin-versus-revenue",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "神鋼商事 ビジネスモデル 収益構造",
+   "results": [
+    "https://www.shinsho.co.jp/saiyo/aboutus/businessmodel/",
+    "https://www.shinsho.co.jp/ir/policy/pdf/2026-chuki.pdf",
+    "https://www.japanmetal.com/news-to20260803150177.html",
+    "https://www.shinsho.co.jp/ir/library/pdf/igr_2024_view.pdf",
+    "https://www.jcr.co.jp/download/e2000ece6f45e77668eb5709639e97df57b02dbae37f6290db/25d1065.pdf",
+    "https://www.shinsho.co.jp/biz/strategies.html",
+    "https://www.onecareer.jp/companies/4202/appeal",
+    "https://www.shinsho.co.jp/ir/pdf/kessan_2022_0511.pdf",
+    "https://www.shinsho.co.jp/csr/environment/sustainability.html",
+    "https://consovation.com/神鋼商事株式会社のビジネスモデルと成長戦略が/"
+   ]
+  },
+  {
+   "query": "神鋼商事 決算説明資料 セグメント",
+   "results": [
+    "https://www.shinsho.co.jp/ir/library/settlement.html",
+    "https://www.shinsho.co.jp/ir/library/summary.html",
+    "https://www.shinsho.co.jp/ir/finance/",
+    "https://www.shinsho.co.jp/ir/library/report.html",
+    "https://www.shinsho.co.jp/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260212556003/",
+    "https://www.shinsho.co.jp/ir/calendar.html",
+    "https://www.shinsho.co.jp/ir/library/integrated_report.html",
+    "https://edinetdb.jp/company/E02522/presentations/",
+    "https://japanir.jp/company/company-8075/ir/8075-20260806-01_wp_financial_summary/"
+   ]
+  },
+  {
+   "query": "神鋼商事 社長 インタビュー",
+   "results": [
+    "https://www.shinsho.co.jp/saiyo/job/",
+    "https://shinkoh-kk.com/recruit/interview03/",
+    "https://www.shinsho.co.jp/saiyo/aboutus/topmessage/",
+    "https://www.japanmetal.com/news-to20260803150177.html",
+    "https://www.nikkan.co.jp/articles/view/129780",
+    "https://solution.lmi.ne.jp/hr_development/case/shinsho",
+    "https://kitaishihon.com/company/8075/board-of-director",
+    "https://www.youtube.com/watch?v=4iGIbrRWv0k",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrjE&q_no=9",
+    "https://www.shinsho.co.jp/info/message.html"
+   ]
+  },
+  {
+   "query": "神鋼商事 business model revenue gross margin",
+   "results": [
+    "https://www.bdc.ca/en/articles-tools/entrepreneur-toolkit/templates-business-guides/glossary/gross-margin",
+    "https://mercury.com/blog/gross-margin-versus-revenue",
+    "https://www.crestmontcapital.com/blog/what-is-gross-profit-margin",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.investopedia.com/terms/g/grossmargin.asp",
+    "https://manexconsulting.com/blog/gross-margin-drives-your-business-model/",
+    "https://ecapital.com/financial-term/gross-margin-gross-profit/",
+    "https://us.plus500.com/en/newsandmarketinsights/gross-margin-explained",
+    "https://www.vikingmergers.com/blog/gross-margin-vs-net-margin-understanding-business-profitability/",
+    "https://www.shinsho.co.jp/ir/finance/"
+   ]
+  }
+ ],
+ "missing": {}
+}

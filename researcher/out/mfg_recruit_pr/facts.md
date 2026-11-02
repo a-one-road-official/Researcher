@@ -1,0 +1,816 @@
+# 町工場・中小製造業の採用広報・求人広告の売り手と料金（月額・成果報酬・継続）（事実のみ・14品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 製造業特化の求人サイト（manufacturing job board Japan）
+- 文脈：求人広告
+- 売り手：
+  - 「・日本企業が運営する求人検索エンジン」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「Indeed Japan株式会社」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「株式会社カカクコム」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「株式会社アイデム」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「株式会社キャリアデザインセンター」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「ディーピーティー株式会社」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「」というミッションを掲げており、求職者の希望と実際の働く現場のギャップをフラットにするよう、リアルな目線でサービスを提供しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「株式会社コンフィデンス・インターワークス」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「高収入、寮・社宅完備、未経験者歓迎など多様な条件の求人を提供しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「株式会社Techouse」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「株式会社京栄コンサルティング」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「中途採用・アルバイト・派遣領域の集客を広く手がけ、これまでに大手上場企業からベンチャー企業まで計200社近くの採用支援実績を持つ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「東京の採用に強いIndeed運用代行【株式会社ネオキャリア】給与...」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「Meets Company（ミーツカンパニー）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「自社運営による応募後フォロー体制が強み」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+- 料金：
+  - 「製造業の求人サイト8選！企業向けに特徴・料金・選び方など徹底解説」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「クリック課金：1クリック15円～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「掲載課金： 30,000円/1週間～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「成果報酬：15,000円/1応募～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「無料掲載〇 クリック課金：1クリック25円～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「掲載課金：350,000円/4週間2原稿～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「また、製造業におすすめの求人サイト9サービスについて、それぞれの特徴や料金をご説明しました」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「建設業の求人サイト13選！料金・特徴の比較や選び方のポイントを解説」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「厳選した200種以上の取り扱いサービスの中から、貴社に最適なプランをご提案させて頂きます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「製造業の求人掲載におすすめなサイト8選！料金や特徴、ポイントなど徹底解説 - 採用係長の採用アカデミー」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「製造業の求人掲載におすすめなサイト8選！料金や特徴、ポイントなど徹底解説」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「有料：クリック課金（1クリックあたり15円～999円でAIが自動調整）」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「有料：クリック課金（1クリックあたり25円～）」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「30,000円/週～」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「15,000円/1応募」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+- 成果報酬・採用課金：
+  - 「クリック課金」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「クリック課金：1クリック15円～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「成果報酬：要問合せ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「成果報酬：15,000円/1応募～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「また、Indeedはクリック課金型という料金体系をとっており、求職者が自社の求人に興味を持ってクリックした時点で初めて課金されます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「無料掲載〇 有料掲載：クリック課金型」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「無料掲載〇 クリック課金：1クリック25円～」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「有料：クリック課金（1クリックあたり15円～999円でAIが自動調整）」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「有料：クリック課金（1クリックあたり25円～）」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「成果報酬型で初期費用ゼロ」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「応募課金プラン（掲載無料）」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「求人は無料で掲載でき、有料プランはクリック課金制のため、コストの最適化が可能」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「クリック課金制でありながら、競合が多すぎないためクリック単価が抑えやすく、中小企業でも費用対効果の高い運用が可能です」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「成果報酬型の料金体系で、1応募あたり15,000円〜の明朗な価格設定が魅力」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「採用決定時など、成果が発生した段階で料金を支払う」（https://corp.joblink.co.jp/blog/blog-1123/）
+- 継続・規模：
+  - 「会員数は392万人おり、スカウト利用会員の比率は86%と高い比率を誇っています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「会員の経験職種は、販売・サービス・スタッフ系が22.7%、営業系が17.5%、IT・通信・Webエンジニアが13.9%です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「累計2,400社以上の企業が利用しており、業界での実績は豊富な点が魅力といえるでしょう」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「簡単10秒！無料会員登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「「同じ求人条件なのに『応募ゼロ』と『30件以上』」」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「無期転換ルールで会社がやること｜5年の数え方と、求人票・契約書への書き方」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「全体の非公開求人数26万件以上*」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「エンジニア（設計・生産技術・品質管理）の公開・非公開求人合計11万件以上*」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「エンジニア（設計・生産技術・品質管理）で年収600万円以上の求人は公開・非公開あわせて7万件以上*あります」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「工場ファシリティ・ユーティリティ・労働安全衛生職種の年間休日120日以上かつ年収600万円以上の公開求人は700件以上*を誇ります」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「同じくdodaの工場ファシリティ・ユーティリティ・労働安全衛生職種の第二新卒歓迎公開求人は500件以上*です」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「製造・工場関連職種かつ未経験者歓迎公開求人が2千件以上*」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「特化型転職サイトの中でトップクラスの公開求人数1万9千件以上*を誇る」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「ブランク有OKかつミドル（40代〜）活躍中の工場求人が22,000件以上*あります」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「ブランクOKの製造・軽作業求人が500件以上*」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+- 効果：
+  - 「製造業に関わる職業の有効求人倍率は2022年以降、ゆるやかに下降していますが、1倍を超える職業が大半を占めます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「「機械整備・修理」「製造技術者」の有効求人倍率は4倍を超え」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「、2023年以降も有効求人倍率が上昇を続けました」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「2004年4月の製造派遣の解禁は製造業の求人動向に大きな変化をもたらしましたが、派遣で賄える単純な業務は比較的有効求人倍率も低い傾向です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「「機械整備・修理」「金属加工」「溶接」などの技術職では、有効求人倍率が2〜4倍を超える水準」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「一方、「組立」「検査」など習得しやすい職種では1倍前後で推移」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「離職率改善 (4)」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「外国人採用 (5)」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「3Kイメージの払拭・応募者の不安解消・若年層へのリーチ不足」（https://www.shopowner-support.net/hr/personnel-recruitment/manufacturing-industry/manufacturing-industry-recruit/）
+  - 「3Kイメージで若い人の応募が少ない」（https://www.shopowner-support.net/hr/personnel-recruitment/manufacturing-industry/manufacturing-industry-recruit/）
+  - 「求人検索画面では離職率5%以下を選択できます」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「転職後の定着率97.5%*」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「2020年10月1日～2021年9月30日にマイナビの人材紹介サービスで入社された方の90日の定着率」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「転職後の定着率90%**」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「離職率が2〜3%程度*なら許容範囲といえますが、5%以上*だと職場環境に問題がある可能性がある」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+- 法的な区分：
+  - 「一般職業紹介状況（職業安定業務統計）～令和8年4月」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「**厚生労働省「人材サービス総合サイト」における、有料職業紹介事業者が報告した「4か月以上有期および無期」の就職者数（2025年度実績）2026年5月時点」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：13-ユ-306789」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：14-ユ-150026」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：26-ユ-300062」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：13-ユ-305783」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：23-ユ-300970」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：13-ユ-010554」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：27-ユ-300013」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「有料職業紹介事業：24-ユ-300256」（https://www.kakehashi-skysol.co.jp/media/post-1043/）
+  - 「自社での採用が難しい場合は、人材紹介会社（有料職業紹介事業者）の活用が非常に有効です」（https://hypex.jp/articles/how-to-manufacturing-industry-recruitment）
+  - 「マイベストは有料職業紹介事業の許認可を受けています」（https://my-best.com/18153）
+  - 「期間工の職業紹介」（https://hatara.co.jp/magazine/oubo/tenshoku-site）
+- 採用の困りごと：
+  - 「近年、少子高齢化などにより、さまざまな産業において人手不足が加速しています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「・採用コストを抑えたい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「✔採用費をできるだけ抑えたい企業」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「✔採用費を最小限に抑えたい企業」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「typeは、エンジニアや20代の若手人材に強みを持つ転職サイトです」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「特に、採用難易度の高い製造業の職種では、効果的な母集団獲得のために複数のペルソナを設定することが重要です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/）
+  - 「採用費用を削減する」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「人手不足が常態化する今、経験者は取り合い、未経験者には届かない」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「日本の製造業では、採用難が年々深刻さを増しています」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「少子高齢化にともなう労働力人口の減少に加え、若手の製造業離れや技術者の高齢化も進み、企業にとって人材確保は経営の根幹を揺るがす課題となっています」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「特に、技能や資格を要する職種では有効求人倍率が高止まりしており、慢性的な人手不足が続いています」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「このように、職種ごとに採用難易度に大きな差があるため、求人を出す際にはポジションごとの特性を見極めた戦略が欠かせません」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「※製造業界の人手不足について、現状や課題解決について知りたい方はこちら」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「製造業の求人に応募が来ないのはなぜ？理由と改善のポイントを徹底解説」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+  - 「製造業に特化し、TVCM等の認知施策で若手・地方応募者の獲得に強みを持つ専門サイト」（https://saiyo-kakaricho.com/wp/seizougyo-kyujin/）
+
+## 成果報酬型の求人広告（採用課金）（pay per hire job advertising）
+- 文脈：求人広告の料金形態
+- 売り手：
+  - 「※参考：株式会社マイナビ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・のべ1万社以上の企業が利用しており、大手から中小・ベンチャー企業など幅広い支援実績がある」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・求職者は採用されると運営元から「マッハボーナス」として採用された方に最大1万円が支給される」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・求職者は採用されると運営元からお祝い金が支給される」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・Googleが提供するWeb広告」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・カカクコムが運営する、国内最大級の求人検索エンジン」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・メタ・プラットフォームズが運営しているFacebookやInstagramへ広告を配信できる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「東京の採用に強いIndeed運用代行【株式会社ネオキャリア】給与...」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「Meets Company（ミーツカンパニー）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「dodaでは、さまざまな採用支援サービスを提供しています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「また、採用課金型の人材紹介サービスであれば、サービス提供会社は成果報酬を得るために、希望に合う転職希望者を探すことに注力してくれる可能性があります」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「「doda」ではさまざまな中途採用サービスを提供しており、予算や要件に合わせて柔軟なサポートが可能です」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「」を提供しています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「株式会社日本エコシステム」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「岸和田製鋼株式会社」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+- 料金：
+  - 「成果報酬型求人媒体おすすめ23選・応募課金や採用課金の費用相場比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・成果報酬型求人媒体23サービスの費用、特徴比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「1．成果報酬型の求人媒体とは？仕組みと料金発生の判定基準」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「2．成果報酬型求人媒体の費用相場比較と「コスト超過を防ぐ運用ノウハウ」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「ダイレクトリクルーティングの費用相場【年収の15〜20%】とスカウト工数」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型の求人サイト・サービス28選｜メリットや特徴・費用を解説 - 【公式】しゅふＪＯＢ求人掲載・掲載料のご案内｜主婦/主夫採用・求人料金」（https://part.shufu-job.jp/business/details/1639/）
+  - 「成果報酬型の求人サイト・サービス28選｜メリットや特徴・費用を解説」（https://part.shufu-job.jp/business/details/1639/）
+  - 「「1週間〇円」「2週間〇円」など掲載期間に応じて料金が設定されています」（https://part.shufu-job.jp/business/details/1639/）
+  - 「たとえば、1応募の単価が3,000円だとすると、10件の応募があった場合は30,000円の費用がかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「たとえば、1クリックあたりの単価が100円だとすると、10件応募があった場合は1,000円の費用がかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「表示回数は1,000回に設定されているサービスが多く、1,000件に達成した時点で初めて費用がかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「応募課金型の求人媒体は、掲載が0円のため応募からの採用率が高い求人で費用対効果が高い」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「2,500円～／アルバイト」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「7,500円～／正社員・パート」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「7,500円～/アルバイト・パート」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+- 成果報酬・採用課金：
+  - 「成果報酬型求人媒体おすすめ23選・応募課金や採用課金の費用相場比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型の主な求人媒体は、転職サイト（求人サイト）・人材紹介・ダイレクトリクルーティング・求人検索エンジン・SNS広告の5種類です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型には応募課金や採用課金、クリック課金などがあり、費用の発生条件が異なります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型の求人媒体の代表的なメリットは初期費用が抑えやすい点です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型の求人媒体は、それぞれ特徴や費用の発生条件が異なるため、事前の確認が大切です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・成果報酬型求人媒体23サービスの費用、特徴比較」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・成果報酬型の費用発生条件」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・成果報酬型求人媒体のメリットとデメリット」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「自社のターゲットにあう成果報酬型採用媒体をお探しの方へ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「1．成果報酬型の求人媒体とは？仕組みと料金発生の判定基準」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型求人媒体の費用発生条件と「応募課金（PPA）・採用課金」の違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型のメリットと複数名採用時に費用が高騰するリスク・デメリット」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「掲載課金型のメリットとデメリット、成果報酬型との最適な使い分け」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「2．成果報酬型求人媒体の費用相場比較と「コスト超過を防ぐ運用ノウハウ」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「人材紹介の費用相場【理論年収の30〜40%】とミスマッチ防止の仕組み」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+- 継続・規模：
+  - 「・のべ1万社以上の企業が利用しており、大手から中小・ベンチャー企業など幅広い支援実績がある」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「簡単10秒！無料会員登録」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「​累計会員数は約934万人を超え、特に、20〜34歳の若手・中堅層の登録者が多いのが特徴です」（https://part.shufu-job.jp/business/details/1639/）
+  - 「※応募があるまでは10,500円で継続して掲載が可能」（https://part.shufu-job.jp/business/details/1639/）
+  - 「※解約・返金：​掲載開始から3ヶ月経過後、応募が1件もなかった場合、解約時に手数料1,000円を差し引いた9,500円を返金」（https://part.shufu-job.jp/business/details/1639/）
+  - 「導入法人数27,000社以上・掲載求人数260,000件以上で、月間ユーザー数は75万人以上を誇ります」（https://part.shufu-job.jp/business/details/1639/）
+  - 「年間1000万人以上が集まり、導入企業様数2万社以上の”主婦/主夫採用”に特化した」（https://part.shufu-job.jp/business/details/1639/）
+  - 「独自のコーディングテストを突破したエンジニアが5段階にランク分けされているため、自社が求めるスキルレベルに合わせてスクリーニングできます」（https://one-group.jp/humanresource/use/career_reccomend.html）
+  - 「愛知県で35年以上事業を展開している有限会社西三河広告社が運営しています」（https://one-group.jp/humanresource/use/career_reccomend.html）
+  - 「Indeedプラチナムパートナー・求人ボックスダブルスターパートナー・Google Partner として、全国6拠点（東京・千葉・名古屋・京都・大阪・福岡）から、35,000社以上の企業様の採用をサポートしてきました」（https://www.tracom.co.jp/tralog/ppa-job-ads/）
+  - 「■Indeed運用実績：2,100社以上」（https://www.tracom.co.jp/tralog/ppa-job-ads/）
+  - 「■SNS運用実績：40社以上」（https://www.tracom.co.jp/tralog/ppa-job-ads/）
+  - 「年間1万社以上の取引と採用実績から採用課題の解決につながる、現場のリアルな事例やお役立ち情報を発信しております」（https://www.tracom.co.jp/tralog/ppa-job-ads/）
+  - 「国内大手、外資からベンチャー企業まで累計40,000社以上」（https://boxil.jp/mag/a1447/）
+  - 「累計導入社数10,000社以上」（https://boxil.jp/mag/a1447/）
+- 効果：
+  - 「1応募あたりの単価に、応募数をかけることで費用の算出が可能です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「応募が集まりやすいターゲットであれば、掲載課金型を活用した方が圧倒的に1人あたりの採用単価（採用コスト）を抑えられます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「また、掲載課金型の求人媒体は、4週間の掲載や12週間の掲載など期間を定めて求人掲載をおこなうため、応募者対応や面接対応の期間もあらかじめ予測しやすく、採用担当者や面接官がスケジュールを調整しやすくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「1人あたりの採用コスト ＝（1応募単価 × 必要応募数）÷（面接設定率 × 内定承諾率）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・入社後のフォローもおこなうため、3年以内の離職率実績は8.0％」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・応募者の90％が女性、有資格者のパート採用も可能」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「たとえば、1応募の単価が3,000円だとすると、10件の応募があった場合は30,000円の費用がかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「たとえば、1クリックあたりの単価が100円だとすると、10件応募があった場合は1,000円の費用がかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「たとえば、1人の採用に10万円がかかるプランだと、10人採用すると100万円のコストがかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「たとえば、１応募につき1万円が課金される場合、3人から応募がくると3万円のコストがかかります」（https://levtech.jp/partner/guide/article/detail/111/）
+  - 「実績：月間応募数 150件」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「実績：月間応募数 100件」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「実績：月間応募数 30件」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「応募数：40～50件/月」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+  - 「応募数：60～80件/月」（https://www.n-lights.com/nlplus/oubokakin-kyujinbaitai/）
+- 法的な区分：
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「有料職業紹介事業 許可番号：13-ユ-304785」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「職業紹介優良事業者に認定されています」（https://www.saiyo-doda.jp/guide/kihon/recruitment-ad-performance-reward）
+  - 「有料職業紹介事業 許可番号：13-ユ-304785」（https://www.saiyo-doda.jp/guide/kihon/performance-reward-recruitment-service）
+  - 「職業紹介優良事業者に認定されています」（https://www.saiyo-doda.jp/guide/kihon/performance-reward-recruitment-service）
+- 採用の困りごと：
+  - 「■採用コストをコントロールしやすい」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「採用人数に応じて費用が発生する採用課金型のサービスを利用する場合は、採用計画にあわせた人数分だけ採用をおこなうことで、採用コストを予算内に収めやすくなります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「初期費用がかかるサービスもありますが、掲載期間が長いサービスや掲載期間に制限がないサービスなどを選ぶことで、採用コストを抑えることが可能です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「■複数名の採用時は採用コストが高騰してしまう可能性がある」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「採用人数に応じた成果報酬型サービスの場合は採用人数分の採用コストがかかります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「採用コストが高騰してしまう可能性」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「また、希少職種の採用や、エリアを限定した採用時など、採用までに時間がかかりそうなときは成果報酬型の求人媒体の利用により採用コストを削減しやすいのですが、採用条件を厳しく設定しすぎてしまうと、採用ターゲットがより少なくなり、採用までに時間がかかる可能性があります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「自社にとって「成果報酬型」と「掲載課金型」のどちらの料金形態が最適かを判断する際は、職種やエリアの採用難易度と、採用予定人数で選択するのが確実です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「応募が集まりやすいターゲットであれば、掲載課金型を活用した方が圧倒的に1人あたりの採用単価（採用コスト）を抑えられます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「・若手ITエンジニアや」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「■事前に採用コストが把握できる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「掲載開始時に費用が発生するため、決められた採用コスト内で採用活動ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「ダイレクトリクルーティングを利用した企業の2025年の中途採用費用（年間実績）は、」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「を利用した企業の2025年の中途採用費用（年間実績）は、」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「若手採用に特化した完全成果報酬型の人材紹介サービス」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+- 検索結果の抜粋：
+  - 「成果報酬型求人 媒体おすすめ23選・応募課金や 採用課金 の費用 ... — 成果報酬型求人 媒体おすすめ23選・応募課金や 採用課金 の費用 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+  - 「成果報酬型求人 媒体おすすめ23選・ 応募 課金や 採用課金 の費用 ... — 成果報酬型求人 媒体おすすめ23選・ 応募 課金や 採用課金 の費用 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-seikahousyugata-kyuzinbaitai241031/）
+
+## 町工場の採用動画制作（factory recruitment video production）
+- 文脈：採用広報
+- 売り手：記載なし（読んだ25頁・検索5回）
+- 料金：記載なし（読んだ25頁・検索5回）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 継続・規模：記載なし（読んだ25頁・検索5回）
+- 効果：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+
+## 町工場の採用取材記事・社員インタビュー制作（recruitment interview article manufacturing）
+- 文脈：採用広報
+- 売り手：記載なし（読んだ25頁・検索5回）
+- 料金：記載なし（読んだ25頁・検索5回）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 継続・規模：記載なし（読んだ25頁・検索5回）
+- 効果：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+
+## 製造業の採用ブランディング支援（manufacturing employer branding）
+- 文脈：採用広報
+- 売り手：記載なし（読んだ25頁・検索5回）
+- 料金：記載なし（読んだ25頁・検索5回）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 継続・規模：記載なし（読んだ25頁・検索5回）
+- 効果：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+
+## 製造業の採用代行（RPO）（recruitment process outsourcing manufacturing）
+- 文脈：採用支援
+- 売り手：
+  - 「2. 採用代行（RPO）サービス提供会社カオスマップ」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「3. 採用代行（RPO）サービス提供会社45社の比較表」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「4. 採用代行サービス提供会社の4つの種類と選び方」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「8. 採用代行（RPO）サービス提供会社45社の詳細」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「11. 【企業別】採用代行導入企業の成功事例」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行サービスを提供する会社は、業務範囲や強みによって大きく4つのタイプに分かれます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行（RPO）サービス提供会社は、それぞれ特徴が異なります」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「株式会社ネオキャリア」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「年間15,000社以上の導入実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「ESSTNER株式会社（i-recruiting）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「株式会社レジェンダ（変革RPO）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・支援実績800社以上、リピート率90％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「株式会社キャリタス」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「株式会社ONE」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「株式会社キャリアマート」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+- 料金：
+  - 「採用代行（RPO）おすすめ45社を比較！料金相場・選び方【2026年版】」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「総合支援型・オペレーション特化型・コンサルティング型・サービス特化型に分類した45社について、特徴・料金・契約期間を一覧表で比較ができます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「本記事で紹介している45社を、タイプ別に料金・契約期間で比較できる50ページ超の資料です」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「5. 【比較の軸】料金体系・契約期間で見る違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「6. 料金や知名度だけで選ぶと失敗する？採用代行選びの「3つの注意点」」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「月額14万円～（ニーズに合わせてお見積り）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「12万5,400円」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行（RPO）の費用は料金体系や委託する業務範囲によって大きく異なり、月額5万円程度から100万円を超えるケースまで幅広く存在します」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「採用代行の3つの料金体系と費用相場」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「：採用代行（RPO）の月額費用は、新卒・中途ともに10万〜40万円が一般的で、業務範囲や採用人数により変動します」（https://www.ssen.co.jp/blog/149）
+  - 「採用代行（アウトソーシング/RPO）料金と注目の会社厳選5社紹介」（https://www.ssen.co.jp/blog/149）
+  - 「採用代行サービスの費用は採用規模や依頼業務の量や範囲によって違いますのであくまで参考となりますが、その内容量と規模によって1ヶ月ごとに設定されている場合が多いです」（https://www.ssen.co.jp/blog/149）
+  - 「10万円~100万円／年間」（https://www.ssen.co.jp/blog/149）
+  - 「特にインターンシップや説明会のコンテンツ設計などは100万円単位で発生します」（https://www.ssen.co.jp/blog/149）
+  - 「採用代行(RPO)の費用相場はいくら？月額の分布・料金公開15社の一覧・見積書の見方【2026年10月更新】｜HeaR株式会社」（https://www.hear.co.jp/recruit/rpo-cost）
+- 成果報酬・採用課金：
+  - 「企業側（採用決定は企業）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「委託内容に応じた委託料（月額/従量/成果報酬）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「成功報酬型（年収の30%前後が相場）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・ライトプラン（月額税抜45万円＋初期費用10万＋成果報酬として年収の10%）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・アドバンスドプラン（月額税抜85万円＋初期費用10万＋成果報酬として年収の10%）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「「月額固定型」「従量課金型」「成果報酬型」のいずれか」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「（成果報酬が加わる場合はさらに上振れ）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「月額固定型・従量課金型・成果報酬型の違い」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行の料金タイプは、大きく月額固定型・従量課金型・成果報酬型の3つに分かれます」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「初期費用・成果報酬の有無を確認するポイント」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「成果報酬の追加有無」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「月額費用に加えて、採用1名あたりの成果報酬（年収の一定割合など）が別途発生するケースがある」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「振り返りミーティングの実施で、返信率や採用決定率の向上を図る」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「また、料金体系の中には「初期費用」「月額費用」「成果報酬」のように複数の項目があるため、」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「解約条件や成果報酬の算定基準が曖昧なまま契約すると後から追加費用が発生するリスク」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+- 継続・規模：
+  - 「年間15,000社以上の導入実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・支援実績800社以上、リピート率90％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・20年以上蓄積されたノウハウと19,000社以上の実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・採用代行部門15年以上、支援実績は770社以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・採用支援実績が累計100社以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・75％以上が社員で対応し、契約継続率は」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・累計600社以上の採用支援実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・800社以上への支援実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・20年間以上、2,000社以上へのサービス提供実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・業種・職種問わず累計12,000社以上の採用支援実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・継続率90%」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・10,000社以上の採用成功を支援してきたプロのノウハウを学べる」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・業界問わず100社以上の実績」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・リピート率90％以上」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「最低契約期間については、3か月〜6か月を設定している代行会社が主流です」（https://allhero.co.jp/blog/rpo-cost/）
+- 効果：
+  - 「・価格例②：応募者管理・ナビ代行（月額10万円～）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・応募者管理・ナビ代行（月額10万円）」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「・独自生成AIにより、スカウト効率最大20倍」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「ネオキャリアは、求人媒体・人材紹介・採用イベントを自社で網羅しているため、ただの事務代行に留まらず、どうすれば応募者が集まり、どうすれば辞退を防げるかのノウハウを実務に100%注入します」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「管理するメディアの数、内容、応募者数、インターンシップ説明会の開催数によって変わりますが、数名~20名程度採用規模であれは5万円~10万円程度が多いです」（https://www.ssen.co.jp/blog/149）
+  - 「採用数、応募者数や面接回数などで変わりますが、数名~20名程度の採用規模であれば10万円~20万円程度が一般的です」（https://www.ssen.co.jp/blog/149）
+  - 「管理するメディアの数、内容、応募者数によって変わりますが、数名20名程度採用規模であれは5万円から10万円程度が多いです」（https://www.ssen.co.jp/blog/149）
+  - 「採用数、応募者数、採用拠点数などで変わりますが、数名~20名程度の採用規模であれば10万円20万円程度が一般的です」（https://www.ssen.co.jp/blog/149）
+  - 「月10〜20万円はスカウト送信や応募者対応など業務を絞った契約、40万円以上は採用業務全般や複数職種をまとめて任せる契約、と読むのが実務の感覚にも合います」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「スカウト1通150円〜（BOXIL）・1通1,000〜2,000円（まるごと人事）、応募者対応 月2〜10万円、面接代行1回1万円〜」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「運用＋支援 1媒体29,800円〜、応募者対応込み268,000円〜」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「目安はスカウト1通150円〜（BOXIL）または1通1,000〜2,000円（まるごと人事）、応募者対応が月2〜10万円、面接代行が1回1万円〜です」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「業務単位の目安は、スカウト送信が1通150〜2,000円、応募者対応（日程調整を含む）が月2〜10万円、書類選考などの選考実務が1件1,000〜5,000円、面接代行が1回1万円〜です」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「同じ「面接代行」でも会社によって単価が倍近く違うことがあり、その差は多くの場合この3点の差です」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「同じ6ヶ月で3名採用できれば1名あたり60万円ですが、1名しか採用できなければ180万円になります」（https://www.hear.co.jp/recruit/rpo-cost）
+- 法的な区分：
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「一般労働者派遣許可 許可番号 13-070366」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyoudaikou-seikahousyuu-20260318/）
+  - 「有料職業紹介事業許可 許可番号 13-ユ-070309」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyoudaikou-seikahousyuu-20260318/）
+  - 「有料職業紹介事業者許可番号 13-ユ-305732」（https://r09.jp/columns/23420/）
+  - 「【完全無料・メアド登録も不要：ここをクリック】規定や契約書作成・届出ひな形・節税シミュレーション・会社設立時チェックリストなどの自動ツールを無料公開中！」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「申告・届出をしたい」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「さらに、職業安定法に抵触する無許可の人材斡旋などもNGです」（https://azu-rite.co.jp/clumn/rpo）
+  - 「採用代行を利用する際に確認したい、委託募集・職業紹介との違いや必要な許認可について、以下の記事で詳しく解説しています」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo/）
+  - 「厚生労働省「一般職業紹介状況（令和8年6月分）について」」（https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/rpo/）
+  - 「その他、労働者派遣事業、有料職業紹介事業、業務委託事業、福祉事業も」（https://www.ipros.com/cg2/%E6%8E%A1%E7%94%A8%E4%BB%A3%E8%A1%8C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+- 採用の困りごと：
+  - 「採用難易度の高い職種でも、的確なアプローチが可能になりました」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用工数の圧迫、母集団形成、採用難易度の高い職種の採用」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「特殊なハードウェアエンジニアという採用難易度の高い職種でも、的確なターゲティングとスカウト文面の提案を受けられるようになり、実務から解放されたことで採用活動の幅も広がっています」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「人手不足の深刻化や求職者の意識変化に伴い、従来の「掲載して応募を待つ」だけの手法が限界を迎える現実を見据え、自社が今優先して着手すべきボトルネックと改善策を提示」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「少子高齢化に伴い労働力人口が減少する中で、優秀な人材の獲得競争は年々激しさを増し、専門家が持つ知見の重要性が高まるようになりました」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「初期投資を抑えたいスタートアップや、採用難易度の高いポジションに挑戦する企業に向いた選択肢ですが、1人あたりの採用コストが高くなりやすい点は考慮しておくべきでしょう」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「採用難易度の高いポジションを採用したい企業」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「1人あたりの採用コストが高くなりやすい」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「【総応募1,822件】常識を覆す原稿設計で、若手のインサイトを撃ち抜く採用マーケティング」（https://allhero.co.jp/blog/rpo-cost/）
+  - 「業界を問わず人手不足は深刻化し、企業における人材採用の重要性、難易度はますます高まっています」（https://www.ssen.co.jp/blog/149）
+  - 「研修・教育: 「早期離職防止」と「戦力化」を軸とした新入社員〜若手向けプログラム立案・講師実績多数」（https://www.ssen.co.jp/blog/149）
+  - 「採用コストの平均と算出方法」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「製造業の採用課題と解決策【2026年10月更新】｜人手不足の最新データ・職種別の要件・採用手法の比較・採用代行の使い方」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「営業職の採用を成功させる方法｜応募が来ない原因、営業タイプ別の媒体と原稿、辞退を減らす選考設計」（https://innovel.jp/rpo-pricing-guide/）
+  - 「・欲しい人材の応募が来ない」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyoudaikou-seikahousyuu-20260318/）
+- 検索結果の抜粋：
+  - 「採用代行 （ RPO ）おすすめ45社を比較！ 料金 相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！ 料金 相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「採用代行 ( RPO )の費用相場はいくら？ 月額 の分布・ 料金 公開15 ... — 採用代行 ( RPO )の費用相場はいくら？ 月額 の分布・ 料金 公開15 ... HeaR株式会社 https://www.hear.co.jp > 採用ノウハウ」（https://www.hear.co.jp/recruit/rpo-cost）
+  - 「成果報酬 型の 採用代行 サービス（ RPO ）9選！費用相場や ... — 成果報酬 型の 採用代行 サービス（ RPO ）9選！費用相場や ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyoudaikou-seikahousyuu-20260318/）
+  - 「【比較表付き】 成果報酬 型の 採用代行 （ RPO ）4選 - AchieveHR — 【比較表付き】 成果報酬 型の 採用代行 （ RPO ）4選 - AchieveHR AchieveHR https://achievehr.jp > コラム > RPO」（https://achievehr.jp/column/rpo-success-fee/）
+  - 「【2026年最新】 採用代行 （ RPO ）の 導入 事例16選 — 【2026年最新】 採用代行 （ RPO ）の 導入 事例16選 まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo-usage/）
+  - 「【社名あり】 採用代行 （ RPO ）の 導入 事例10選｜ 業界 ・課題 ... — 【社名あり】 採用代行 （ RPO ）の 導入 事例10選｜ 業界 ・課題 ... 株式会社アールナイン https://r09.jp > 人事ノウハウ」（https://r09.jp/columns/23420/）
+  - 「採用代行 （ RPO ）おすすめ45 社 を比較！料金相場・選び方 ... — 採用代行 （ RPO ）おすすめ45 社 を比較！料金相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「【2026年版】エンジニア採用におすすめの RPO （ 採用代行 ... — 【2026年版】エンジニア採用におすすめの RPO （ 採用代行 ... AchieveHR https://achievehr.jp > コラム > RPO」（https://achievehr.jp/column/rpo-engineer-recommended/）
+  - 「【2026年】 採用代行 （ RPO ）のおすすめ54 社 を ... - ITreview — 【2026年】 採用代行 （ RPO ）のおすすめ54 社 を ... - ITreview ITreview https://www.itreview.jp > ... > その他パートナー > BPO」（https://www.itreview.jp/categories/rpo）
+  - 「【社名あり】 採用代行 （ RPO ）の導入 事例 10選｜ 業界 ・課題 ... — 【社名あり】 採用代行 （ RPO ）の導入 事例 10選｜ 業界 ・課題 ... 株式会社アールナイン https://r09.jp > 人事ノウハウ」（https://r09.jp/columns/23420/）
+  - 「【2026年最新】 採用代行 （ RPO ）の導入 事例 16選 — 【2026年最新】 採用代行 （ RPO ）の導入 事例 16選 まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo-usage/）
+  - 「RPO （ 採用代行 ）導入の教科書｜メリット・費用・成功 事例 を ... — RPO （ 採用代行 ）導入の教科書｜メリット・費用・成功 事例 を ... マルナゲカンリ https://marunagekanri.com > roumu > info_hr_1028」（https://marunagekanri.com/roumu/info_hr_1028/）
+  - 「採用代行 （ RPO ）のメリット・デメリットと導入 事例 を企業 ... — 採用代行 （ RPO ）のメリット・デメリットと導入 事例 を企業 ... 株式会社R4 https://service.r-4.co.jp > お役立ち情報 > 採用ノウハウ」（https://service.r-4.co.jp/knowhow/recruiting/rpo-merit-demerit/）
+  - 「採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... — 採用代行 （ RPO ）おすすめ45社を比較！料金相場・選び方 ... 株式会社ネオキャリア https://www.neo-career.co.jp > humanresource > knowhow」（https://www.neo-career.co.jp/humanresource/knowhow/a-contents-rpo-saiyodaiko_ryokinhikaku_190828/）
+  - 「【2026年最新】 採用代行 （ RPO ）47社タイプ別で 比較 ！料金 ... — 【2026年最新】 採用代行 （ RPO ）47社タイプ別で 比較 ！料金 ... まるごと人事 https://marugotoinc.jp > ... > 採用代行」（https://marugotoinc.jp/blog/rpo/）
+
+## 高卒採用支援（製造業）（high school graduate recruitment manufacturing Japan）
+- 文脈：採用支援
+- 売り手：
+  - 「株式会社ジンジブ」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「製造業での採用支援実績をもとに、製造業界での高卒採用の実践方法をご紹介します！」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「製造業を営む株式会社ナカミ様での、高卒採用事例をご紹介いたします」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「株式会社創様での、高卒採用成功事例をご紹介いたします」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「大阪市住吉区・堺市中区・堺市南区にて複数の病院・介護施設を運営されている」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「「株式会社フォービル」はアルファベットでは「for Build！」と書き、「建物のために！」という意味です」（https://www.harikennabi.jp/）
+  - 「「株式会社AOS」は街の安全を守る「警備」の”プロ”になるため、成長とステップアップを応援します」（https://www.harikennabi.jp/）
+  - 「株式会社IJTT【いすゞ自動車グループ】を掲載いたしました」（https://www.harikennabi.jp/）
+  - 「上野輸送株式会社を掲載いたしました」（https://www.harikennabi.jp/）
+  - 「株式会社エリアクエストを掲載いたしました」（https://www.harikennabi.jp/）
+  - 「「ハリケンナビ」は、株式会社ハリアー研究所が提供する高校新卒・既卒者向けの定着率NO.1を志す職場見学情報ポータルサービスの総合ブランドです」（https://www.harikennabi.jp/）
+  - 「当社では、「ハリケンナビ」を通して、高校生を積極的に採用しようとする企業の採用情報、 とくに職場見学情報を分かりやすく的確に「職場のリアルな写真や動画」を通して提供することにより、 限られた期間の中で職場見学を満足に行うことのできない生徒や先生のお役に立つことを大きな目的としています」（https://www.harikennabi.jp/）
+  - 「ハリケンナビを運営する株式会社ハリアー研究所について」（https://www.harikennabi.jp/）
+  - 「高卒・新卒・高校生のための就職・採用求人サイト、ハリケンナビを運営する株式会社ハリアー研究所は、高卒採用支援のパイオニア企業として、高卒採用支援20年間の実績を持ちます」（https://www.harikennabi.jp/）
+  - 「ミズサキ株式会社代表の藤村は元学校法人勤務」（https://mizusaki-inc.com/lp-highschool-recruiting）
+- 料金：
+  - 「面接代行（WEB）：1万円/件※現地別料金」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「面接同席・フィードバック：2万円～/件」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ミズサキの「完全成果報酬型ドライバー採用代行」の支援内容と、契約から採用までの流れを代表の藤村が徹底解説！初期費用0円、1人採用50万円の定額制」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ドラピタ代替サービスおすすめ8選！料金と特徴から失敗しない選び方まで解説」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「月給15万円〜20万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収600万円〜2,999万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,500円〜1,700円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給2,450円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収450万円〜600万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給2,000円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,240円 / 交通費支給」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年収1,500万円〜2,499万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「時給1,280円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「課金基盤シニアエンジニア「週4日リモート可」／年収800万円／1300万円」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 成果報酬・採用課金：
+  - 「成果報酬型 ドライバー採用代行」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「応募課金型 採用代行」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「成果報酬型 採用代行」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「成果報酬型 新卒採用代行」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ミズサキのドライバー採用代行の流れ｜完全成果報酬で選ばれる理由と支援内容」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ミズサキの「完全成果報酬型ドライバー採用代行」の支援内容と、契約から採用までの流れを代表の藤村が徹底解説！初期費用0円、1人採用50万円の定額制」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「成果報酬型を基盤として掲載を残しつつ、急募や複数名採用、地方募集などの課題に応じてIndeedやドラピタ、人材紹介、ミズサキの採用代行を組み合わせる手法を解説します」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「応募数の伸び悩みや採用コスト悪化を解消する社内データの分析手順や、成果報酬型採用代行・掲載型メディア・求人検索エンジンなど主要4手法を徹底比較」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ドラピタの代替サービスおすすめ8選を比較！ドライバー採用に悩む運送・物流企業に向け、成果報酬型や定額掲載型の料金・特徴から失敗しない選び方まで詳しく解説します」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「成果報酬 支援(製造業) 課金 高卒の求人・仕事・採用｜スタンバイでお仕事探し」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「高卒 支援(製造業) 成果報酬 課金」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「フルリモート！副業に／在宅での商品撮影・出品・発送／業務委託・完全成果報酬」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「圧倒的成果報酬ベンチャーマインドを持ち／事業作りに携わりたい方におすすめ」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「【応募資格】 [必須] ・これまでの業務でPDCAを重視し、高い成果を残してきた方 ・人材紹介・コンサルタントなどの経験は一切不問です ・学歴不問（高卒・専門卒の方も採用実績がございます） 【職種名】 圧倒的成果報酬ベンチャーマインドを持ち、事業作りに携わりたい方におすすめ 【仕事内容】 【業務内容】 キャリアコンサルタントとして、求職者様の転職活動、ひいては理想のキャリアアップの実現を支援していただきます」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「在宅・成果報酬／オンライン面談・登録案内スタッフ」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+- 継続・規模：
+  - 「これまでに1500社以上の新卒高校生の採用をお手伝いしてきた弊社が、求人票の書き方から学校へのアプローチ方法まで、ご説明させていただきます」（https://www.harikennabi.jp/）
+  - 「年間4,000件以上の人材マッチングを支援してきた責任者が、貴社の事業計画に沿った最適な採用戦略を設計」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「4000社以上」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「累計500社以上の採用支援に携わる」（https://www.update-up.com/update-hr/column/kensetsu-kousotsu）
+  - 「同社が展開する「TELUSDigital」では、100万人以上のコントリビューターが参加するグローバルAIコミュニティを運営」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「年間4,000件以上の採用をマッチングさせる転職サービスの開発・運用を経験」（https://mizusaki-inc.com/knowledge/article79）
+  - 「採用が成功しなかった場合のリスクは、原則としてサービス提供会社が100%負う」（https://mizusaki-inc.com/knowledge/article79）
+  - 「4000社以上」（https://mizusaki-inc.com/knowledge/article79）
+  - 「ベテランの技術に頼り切り、若手が入職しない状態が続けば、10年後には技術の継承が途絶え、事業継続そのものが困難になる「担い手不足」の局面を迎えます」（https://www.update-up.com/update-hr/column/unso-kosotsu）
+  - 「累計500社以上の採用支援に携わる」（https://www.update-up.com/update-hr/column/unso-kosotsu）
+  - 「つまり、1人の求職者に対して3社以上が競っている状態です」（https://hypex.jp/articles/how-to-manufacturing-industry-recruitment）
+  - 「成長企業における採用ブランディング・採用マーケティングを専門とし、過去2年で50社以上を直接支援」（https://hypex.jp/articles/how-to-manufacturing-industry-recruitment）
+  - 「《11月末まで延長決定》上場620社が受給している”雇用調整助成金（特例措置）”とは？」（https://graem.co.jp/sme-manufacturing-highschool-recruitment/）
+  - 「雇用調整助成金の特例措置 8月末まで継続を決定！」（https://graem.co.jp/sme-manufacturing-highschool-recruitment/）
+  - 「2026年卒の高卒採用の実態とは…約3割が「採用充足した」と回答！採用活動継続も3割を超える」（https://jinjib.co.jp/archives/25401）
+- 効果：
+  - 「「ハリケンナビ」は、株式会社ハリアー研究所が提供する高校新卒・既卒者向けの定着率NO.1を志す職場見学情報ポータルサービスの総合ブランドです」（https://www.harikennabi.jp/）
+  - 「採用成功率は91.2%(2023年度)を誇り、「定着」にこだわった人材採用計画をご提案します」（https://www.harikennabi.jp/）
+  - 「ハリケンナビでは、全国の進路指導担当教諭に直接アプローチができるほか、高卒採用一筋20年の専門家が採用はもちろん「定着する人材」の採用戦略もご提案しています」（https://www.harikennabi.jp/）
+  - 「高校新卒・既卒者向けの定着率NO.1を志す」（https://www.harikennabi.jp/）
+  - 「人柄の良い優秀な人材を2名採用！」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「実は、高卒新卒者の3年以内離職率は大卒とほぼ変わりません」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「9月の応募者数は大きく変わります」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「ミズサキの「完全成果報酬型ドライバー採用代行」の支援内容と、契約から採用までの流れを代表の藤村が徹底解説！初期費用0円、1人採用50万円の定額制」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「「〇〇高校の建設科から毎年1名採用する」といった太いパイプを築くことが、安定した採用の鍵となります」（https://www.update-up.com/update-hr/column/kensetsu-kousotsu）
+  - 「【在宅・成果報酬】ライバー応募者の面談と登録案内 ◆ こんな働き方を探している方へ □ 本業の後、18時以降にまとまった時間がある □ 土日のどちらかは丸1日使える □ 在宅で、人と話す仕事がしたい □ 対応した分だけ報酬が増える仕組みがいい ひとつでも当てはまる方に向けた募集です」（https://jp.stanby.com/search?q=%E9%AB%98%E5%8D%92+%E6%94%AF%E6%8F%B4%28%E8%A3%BD%E9%80%A0%E6%A5%AD%29+%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC+%E8%AA%B2%E9%87%91&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st）
+  - 「入社後、試用期間終了時や1ヶ月後など、定着を確認したタイミング」（https://mizusaki-inc.com/knowledge/article79）
+  - 「応募者の中から採用が決定した時点で費用が発生（例：1採用あたり20万円～100万円）」（https://mizusaki-inc.com/knowledge/article79）
+  - 「社員の人脈に完全に依存するため、「今月3名採用したい」といった計画的な採用には不向きです」（https://mizusaki-inc.com/knowledge/article79）
+  - 「Q.9月の解禁日に応募が来なかった場合、どう挽回すればよいですか？」（https://www.techs-s.com/media/show/424）
+  - 「Q.採用した若手が1年未満で離職してしまうのを防ぐには？」（https://www.techs-s.com/media/show/424）
+- 法的な区分：
+  - 「職業安定法などに基づき、本人の適性や能力とは関係のない事柄（本籍地、家族構成や職業、支持政党、思想・信条など）を質問することは固く禁じられています」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「自社での採用が難しい場合は、人材紹介会社（有料職業紹介事業者）の活用が非常に有効です」（https://hypex.jp/articles/how-to-manufacturing-industry-recruitment）
+- 採用の困りごと：
+  - 「2030年問題と若手人材の採用難や、なぜ今「高卒採用」」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■2030年問題と若手人材の採用難」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「■企業が抱える若手採用の課題」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「技能伝承を担う若手人材の採用を、貴社に合わせて支援します」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「特に、熟練技術者の高齢化が進む中で、将来を担う若手人材の確保と育成は、企業の持続的な成長に不可欠です」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「・若手人材の採用チャネルの多様化」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「・技能伝承を担う若手人材の採用機会の創出」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「同社では、介護業界の若手採用は、年々激化しており、多くの企業の採用が」（https://mono.ipros.com/cg3/%E9%AB%98%E5%8D%92%E6%8E%A1%E7%94%A8%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/）
+  - 「採用代行・採用コスト削減支援」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「「応募が来ない…」「手間がかかる…」」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「若手の後継者不足が深刻だった」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「また、一度関係性を築いた高校からは翌年以降も推薦をもらいやすく、長期的に見れば採用コストと手間を大幅に削減できます」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「若手人材の確保による組織活性化」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「「若手人材確保のため、今年は高卒採用に挑戦しよう！」 その意気込みは素晴らしいですが、」（https://mizusaki-inc.com/lp-highschool-recruiting）
+  - 「採用コストを抑えて目標数を達成したい企業の採用担当者は必見です」（https://mizusaki-inc.com/lp-highschool-recruiting）
+- 検索結果の抜粋：
+  - 「中小 製造業 の 高卒採用 は9月が勝負！選ばれる現場づくりと ... — 中小 製造業 の 高卒採用 は9月が勝負！選ばれる現場づくりと ... TECHSシリーズ https://www.techs-s.com > ... > 生産管理コンテンツ」（https://www.techs-s.com/media/show/424）
+  - 「製造業 は 高卒 こそ稼げる？年収の実態とキャリアアップの ... — 製造業 は 高卒 こそ稼げる？年収の実態とキャリアアップの ... e仕事 https://1145.jp > monozukuri > column > articles」（https://1145.jp/monozukuri/column/articles/3512/）
+
+## 町工場のインターン・職場体験受け入れ支援（manufacturing internship program small factory）
+- 文脈：採用支援
+- 売り手：記載なし（読んだ25頁・検索5回）
+- 料金：記載なし（読んだ25頁・検索5回）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 継続・規模：記載なし（読んだ25頁・検索5回）
+- 効果：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+
+## オープンファクトリーと採用（open factory recruitment）
+- 文脈：採用広報
+- 売り手：記載なし（読んだ25頁・検索5回）
+- 料金：記載なし（読んだ25頁・検索5回）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 継続・規模：記載なし（読んだ25頁・検索5回）
+- 効果：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+
+## Wantedly型の共感採用（製造業）（Wantedly manufacturing companies）
+- 文脈：採用広報
+- 売り手：
+  - 「Wantedly（ウォンテッドリー）の掲載料金は？プランを解説！ ｜ 採用クリエイティブ×採用代行なら株式会社NOVEL（ノーベル）」（https://novel-group.co.jp/20251021/3030/）
+  - 「株式会社NOVELのWantedly運用代行サービスの特徴」（https://novel-group.co.jp/20251021/3030/）
+  - 「ライトプランにも「本日の無料スカウト」という枠が提供されています」（https://novel-group.co.jp/20251021/3030/）
+  - 「株式会社NOVELのWantedly運用代行サービスは、クリエイティブとデータ分析の両面から採用成果を最大化する点が特徴です」（https://novel-group.co.jp/20251021/3030/）
+  - 「運用ノウハウを自社でも検証・改善を重ねており、“成果が出る運用”を再現性高く提供できる点が強みです」（https://novel-group.co.jp/20251021/3030/）
+  - 「<<株式会社NOVEのWantedly運用代行サービスについて>>」（https://novel-group.co.jp/20251021/3030/）
+  - 「株式会社NOVEL（ノーベル）」（https://novel-group.co.jp/20251021/3030/）
+  - 「ウォンテッドリーは、『シゴトでココロオドルひとをふやす』ために、はたらくすべての人が共感を通じて「であい」「つながり」「つながりを深める」ためのビジネスSNS「Wantedly」を提供しています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「はたらくすべての人が共感を通じて「であい」「つながり」「つながりを深める」ためのビジネスSNS『Wantedly』を提供しています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「求人募集掲載のほか、スカウト機能も提供しています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「他媒体と比較して「採用単価が約半額」に抑えられた｜インパクトホールディングス株式会社」（https://part.shufu-job.jp/business/details/1585/）
+  - 「採用コスト1万円以下でしゅふを採用｜ユニオン住宅機器株式会社」（https://part.shufu-job.jp/business/details/1585/）
+  - 「最新システムを活用し、また、運営スタッフの目で細やかにチェックし、改善を続けています」（https://part.shufu-job.jp/business/details/1585/）
+  - 「「しゅふＪＯＢ」は、お客様が安心して優秀な求職者と出会える場所を『低価格で』提供できるよう取り組んでいきます」（https://part.shufu-job.jp/business/details/1585/）
+  - 「・他媒体と比較して「採用単価が約半額」に抑えられた｜インパクトホールディングス株式会社」（https://part.shufu-job.jp/business/details/1585/）
+- 料金：
+  - 「比較1: 掲載料金・コスト構造の違い」（https://novel-group.co.jp/20251021/3030/）
+  - 「目安として、アルバイト・パート採用は月額数万円〜数十万円程度、中途採用は年間100万円〜200万円程度、新卒採用は年間150万円〜600万円超と、規模によって大きく開きがあります」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「初期費用0円、成果報酬0円」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「採用コスト1万円以下でしゅふを採用｜ユニオン住宅機器株式会社」（https://part.shufu-job.jp/business/details/1585/）
+  - 「求人媒体の料金プランは、大きく分けて「掲載課金」と「成果型報酬」の2つにわけることができ、応募課金は成果報酬型のプランに分類されます」（https://part.shufu-job.jp/business/details/1585/）
+  - 「本格運用から1年半で複数職種50名の採用に成功！採用単価約12万円で精度の高いマッチングを実現」（https://www.wantedly.com/customer_stories）
+  - 「売上高は2023年12月期で7.9億円です」（https://www.wantedly.com/hiringeek/interview/eventreport_20240521/）
+  - 「私が入社した2020年はコロナ禍のまっ只中、売上高もバブル期の15億円から三分の一の5億円に落ちていた時期でした」（https://www.wantedly.com/hiringeek/interview/eventreport_20240521/）
+  - 「資本金：4900万円」（https://www.wantedly.com/hiringeek/interview/eventreport_20240521/）
+  - 「売上高：7.9億円（2023年12期）」（https://www.wantedly.com/hiringeek/interview/eventreport_20240521/）
+  - 「同社ではプラントの仕事が生活インフラに近い第2次産業であり、昔ながらの技術仕事と後進育成の必要性が混ざりあう環境である点や「働きやすい現場の実現」にも取り組んでいる点の訴求を続けています」（https://www.wantedly.com/hiringeek/recruit/public_relations_example/）
+  - 「【2026年最新版】Wantedlyとは？仕組み・料金・成功事例まで完全ガイド | しなやかRPO｜成長企業のパートナー人事【Wantedly極めるなら】」（https://synayaka.com/about-wantedly2/）
+  - 「【2026年最新版】Wantedlyとは？仕組み・料金・成功事例まで完全ガイド」（https://synayaka.com/about-wantedly2/）
+  - 「3．Wantedlyの料金プランとできること【無料/有料比較】」（https://synayaka.com/about-wantedly2/）
+  - 「掲載費が0円なのに、求職者からの応募を受け付けられる」（https://synayaka.com/about-wantedly2/）
+- 成果報酬・採用課金：
+  - 「成果報酬ゼロ・掲載件数無制限を活かす」（https://novel-group.co.jp/20251021/3030/）
+  - 「成果報酬がゼロ」（https://novel-group.co.jp/20251021/3030/）
+  - 「掲載課金・成果報酬など料金モデルの違いや、採用コストを抑える具体的な手法も解説するので、媒体選定や予算計画の参考にしてください」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「初期費用0円、成果報酬0円」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「クリック課金型」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「クリック課金型は、求人広告がクリックされるたびに費用が発生するモデルで、Indeedや求人ボックスなどの求人検索エンジンに多く採用されています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「応募課金型は、求職者からの応募があった時点ではじめて費用が発生するモデルです」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「採用決定後に費用を支払うため、ローリスクで採用活動を行えます」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「ただし、決定時は比較的高い費用を支払う必要があるため、採用予定人数が多い場合は、成果報酬型以外の媒体や手法を併用するのがおすすめです」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「クリック課金（Indeed PLUS連携）※予算上限設定可」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「掲載課金型 / 成功報酬型」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「※成功報酬型プランの場合」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「成功報酬型 / 定額型」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「初期費用あり＋成功報酬30〜120万円」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「初期費用＋成功報酬型」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+- 継続・規模：
+  - 「「Wantedly認定パートナー」の資格を持ち、自社運用でもPVランキングベスト100に継続ランクイン」（https://novel-group.co.jp/20251021/3030/）
+  - 「年間1000万人以上が集まり、導入企業様数2万社以上の”主婦/主夫採用”に特化した」（https://part.shufu-job.jp/business/details/1585/）
+  - 「仙台の商社が2名の採用に成功！導入3か月でリーダー人材獲得にいたった秘訣とは」（https://www.wantedly.com/customer_stories）
+  - 「群馬県のメンテナンス会社が施工管理含め3名の採用に成功した、現場の想いを伝える「共感採用」とは」（https://www.wantedly.com/customer_stories）
+  - 「広島県福山市のホテル運営会社がWantedlyで県外人材8名を採用したワザとは」（https://www.wantedly.com/customer_stories）
+  - 「効果検証で自社に最適な運用を実践！創業1年目、札幌の開発会社が90名のエントリーを獲得」（https://www.wantedly.com/customer_stories）
+  - 「登録企業数は4.3万社以上、会員登録者数は427万人」（https://synayaka.com/about-wantedly2/）
+  - 「月間30件以上の応募」（https://synayaka.com/about-wantedly2/）
+  - 「応募数：月1件 → 月10件以上に増加」（https://synayaka.com/about-wantedly2/）
+  - 「Synayakaでは、270社以上のWantedly運用実績をもとに、」（https://synayaka.com/about-wantedly2/）
+  - 「「何もなかった会社が月10応募以上を獲得」」（https://synayaka.com/about-wantedly2/）
+  - 「ヤギッシュとは？会員数190万人の特徴・評判・料金・ヤギオファーも解説」（https://synayaka.com/about-wantedly2/）
+- 効果：
+  - 「下記の調査データでは、企業全体の平均値は161.7万円であるものの、上場企業では606.7万円、非上場企業では123.7万円と、約5倍の差が生じていることが読み取れるでしょう」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「7.2万円〜 / 1名採用」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「45万円〜 / 1名採用」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「例えば、掲載費が100万円かかっても、自社に定着し活躍する人材が10人採用できれば、1人あたりのコストは10万円となり、非常に効率的です」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「求人に応募が来ない6つの原因と対策｜人手不足を解消する方法・改善チェックリスト・事例など」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「スキルより想いを重視し、Wantedlyで1年間に7人採用」（https://www.wantedly.com/customer_stories）
+  - 「優秀なバックエンドエンジニアを2名採用」（https://www.wantedly.com/customer_stories）
+  - 「2週間でエントリー数を倍にしたWantedly＋αの採用方法とは」（https://www.wantedly.com/customer_stories）
+  - 「理念や事業の発信により執行役員などエース人材を含め67名採用」（https://www.wantedly.com/customer_stories）
+  - 「2020年の社員数は28名で、その後4年間に50人採用しましたが、現在の社員数は48名です」（https://www.wantedly.com/hiringeek/interview/eventreport_20240521/）
+  - 「パーパスへの共感度合いでモチベーションに2.5倍の差がでるとも言われている昨今」（https://www.wantedly.com/hiringeek/recruit/public_relations_example/）
+  - 「さらに、入社した社員の定着も進んでおり、1年も経たずに昇進したスタッフもいるそうです」（https://www.wantedly.com/hiringeek/recruit/public_relations_example/）
+  - 「応募数2倍・採用単価1/5・定着率UP」（https://synayaka.com/about-wantedly2/）
+  - 「人材紹介の1/5のコストで4名の定着採用に成功」（https://synayaka.com/about-wantedly2/）
+  - 「応募数：月間0→30件に増加」（https://synayaka.com/about-wantedly2/）
+- 採用の困りごと：
+  - 「年齢層は若手が多い」（https://novel-group.co.jp/20251021/3030/）
+  - 「特にスタートアップや中小企業のように、採用費を最小限に抑えたい企業におすすめ」（https://novel-group.co.jp/20251021/3030/）
+  - 「掲載課金・成果報酬など料金モデルの違いや、採用コストを抑える具体的な手法も解説するので、媒体選定や予算計画の参考にしてください」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「新聞折込チラシやフリーペーパーなどの紙媒体における1件あたりの平均採用コストは、正社員で11.2万円、非正社員で7.7万円となっています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「求人広告の費用対効果を測定する最も基本的な指標は、採用単価（1人あたりの採用コスト）です」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「▶︎採用コストを30%以上削減！施策集をダウンロードする」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「大量採用なら「掲載課金型」、採用難易度が高い職種の人材を1名探すなら「成果報酬型」が適しています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「厚生労働省の調査データでも、SNS採用の平均採用コスト（正社員0.9万円・非正社員0.2万円）は、求人サイト（正社員28.5万円・非正社員10.8万円）を大きく下回っています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「厚生労働省の調査結果でも、求人サイトを利用する場合と比べて採用コストを大幅に抑えられることが示されています」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「インセンティブ支給などの制度設計は必要ですが、定着率も高まり、結果としてトータルの採用コストを劇的に下げることが可能です」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「厚生労働省のデータも示している通り、従来の求人サイトだけに頼る手法では、採用コストが膨らみやすくなります」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「採用コストの削減と質の高いマッチングを両立させたいとお考えの方は、ぜひWantedlyの活用をご検討ください」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「求人に応募が来ない6つの原因と対策｜人手不足を解消する方法・改善チェックリスト・事例など」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「会社選びの軸は「年収」「出世」ではない？ 若手世代の本音を聞いてみた」（https://www.wantedly.com/hiringeek/recruit/advertising_cost_guide/）
+  - 「採用コスト1万円以下でしゅふを採用｜ユニオン住宅機器株式会社」（https://part.shufu-job.jp/business/details/1585/）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+
+## Indeed・求人ボックスの運用代行（製造業）（Indeed job ad management manufacturing）
+- 文脈：求人広告運用
+- 売り手：
+  - 「株式会社羅針／GINZA RASIN様」（https://listing-partners.com/indeed/）
+  - 「常に広告費用を積み上げることよりも採用の成功を目指した運営を行っております」（https://listing-partners.com/indeed/）
+  - 「サービス提供の流れ」（https://listing-partners.com/indeed/）
+  - 「Indeed･求人ボックス広告の運用代行ならスリーカウント株式会社【浜松｜静岡】」（https://www.three-count.jp/recruit/indeed/）
+  - 「"より良いサービスを提供するという強い決意"」（https://www.three-count.jp/recruit/indeed/）
+  - 「提供する製品やサービスを」（https://www.three-count.jp/recruit/indeed/）
+  - 「ツールを開発してお客様にご提供」（https://www.three-count.jp/recruit/indeed/）
+  - 「全国の中小企業様の支援実績」（https://www.three-count.jp/recruit/indeed/）
+  - 「エフィラグループ株式会社様」（https://www.three-count.jp/recruit/indeed/）
+  - 「光タクシー株式会社様（浜松市｜地域密着のタクシー会社）」（https://www.three-count.jp/recruit/indeed/）
+  - 「米澤製作株式会社様（湖西市｜精密板金加工）」（https://www.three-count.jp/recruit/indeed/）
+  - 「株式会社カカクコムが運営する求人情報の一括検索サイトで、Goole/Yahoo!などと同じように運用者の腕前が試される媒体」（https://www.three-count.jp/recruit/indeed/）
+  - 「スリーカウント株式会社」（https://www.three-count.jp/recruit/indeed/）
+  - 「サービス概要（事業者・提供範囲・料金）」（https://saiyo-commit.com/service/indeed/）
+  - 「採用コミットは、株式会社Abeyが提供する月額定額の採用代行（採用担当者代行）サービスです」（https://saiyo-commit.com/service/indeed/）
+- 料金：
+  - 「スマホショップ店員という高難度求人の応募単価が数十万円から21,000円に」（https://listing-partners.com/indeed/）
+  - 「8万円でアルバイト5名採用に成功」（https://listing-partners.com/indeed/）
+  - 「月10万円〜」（https://listing-partners.com/indeed/）
+  - 「100,000円～／月」（https://listing-partners.com/indeed/）
+  - 「いくら広告を出して見込みの応募者を採用ページに集めても、応募率が0％では費用が無制限にあっても足りません」（https://www.three-count.jp/recruit/indeed/）
+  - 「(2ヵ月目以降は費用負担なし)」（https://www.three-count.jp/recruit/indeed/）
+  - 「広告費が毎月50万円以上の場合は」（https://www.three-count.jp/recruit/indeed/）
+  - 「初期費用は50,000円となります」（https://www.three-count.jp/recruit/indeed/）
+  - 「まず費用についても弊社のお客様で月額5万円というお客様から数十万円以上のお客様もいらっしゃいます」（https://www.three-count.jp/recruit/indeed/）
+  - 「弊社自身の求人についても2016年非常に取れていましたが、CMが始まり爆発的に企業が増えた2017年は大きく費用対効果が落ちました」（https://www.three-count.jp/recruit/indeed/）
+  - 「Indeedの運用代行（RPO）｜月額10万円〜・成果報酬0円｜採用コミット」（https://saiyo-commit.com/service/indeed/）
+  - 「初期費用10万円〜」（https://saiyo-commit.com/service/indeed/）
+  - 「初期費用10万円・月額10万円〜、成果報酬0円、採用人数の上限なし（税別・最低契約期間3ヶ月）」（https://saiyo-commit.com/service/indeed/）
+  - 「Indeed・求人ボックス運用代行比較35選【人材紹介会社向け】｜2026年ルールと料金｜求職者送客ナビ」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「Indeed・求人ボックス運用代行比較35選【人材紹介会社向け】｜2026年ルールと料金」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+- 成果報酬・採用課金：
+  - 「クリック課金型で」（https://listing-partners.com/indeed/）
+  - 「成果報酬型SEO対策」（https://www.three-count.jp/recruit/indeed/）
+  - 「Indeedの運用代行（RPO）｜月額10万円〜・成果報酬0円｜採用コミット」（https://saiyo-commit.com/service/indeed/）
+  - 「初期費用10万円・月額10万円〜、成果報酬0円、採用人数の上限なし（税別・最低契約期間3ヶ月）」（https://saiyo-commit.com/service/indeed/）
+  - 「スポンサー求人（クリック課金）」（https://saiyo-commit.com/service/indeed/）
+  - 「月額定額・成果報酬なし」（https://saiyo-commit.com/service/indeed/）
+  - 「人材紹介は1名あたり想定年収の20〜35%が成果報酬として発生します」（https://saiyo-commit.com/service/indeed/）
+  - 「人材紹介・成果報酬型」（https://saiyo-commit.com/service/indeed/）
+  - 「無料枠で反応が出ない場合は、原稿を直したうえでスポンサー求人（クリック課金）を検討する、という順番になります」（https://saiyo-commit.com/service/indeed/）
+  - 「月額定額・成果報酬なし・採用人数の制限なし」（https://saiyo-commit.com/service/indeed/）
+  - 「月額定額型・成果報酬型・従量型それぞれの費用の出方と、1名あたりの採用単価の考え方です」（https://saiyo-commit.com/service/indeed/）
+  - 「求人ボックスは紹介求人を掲載でき、紹介会社向けに完全成果報酬（掲載手数料15%・採用決定時のみ）の「採用ボード for AGENT」があります」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「（完全成果報酬・掲載手数料15%）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「クリック課金（有料必須）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「for AGENTは採用決定時のみ／リスティング広告はクリック課金」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+- 継続・規模：
+  - 「広告が初めての方から本格的な改善を求める方まで、200社以上の課題解決を経験してきました」（https://www.three-count.jp/recruit/indeed/）
+  - 「媒体差配 月額6.5万円〜（初期・媒体費別）／Findin 原則3ヶ月・途中解約原則不可」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「媒体ごとに率が違う会社がある（クロスリンク＝Indeed15%・スタンバイ15%・求人ボックス20%）」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「0円と明記する会社と、5〜30万円程度とする会社がある」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「エンタープライズの説明に「100件以上求人をお持ちの人材派遣・紹介会社様」」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「「100件以上求人をお持ちの人材派遣・紹介会社様」」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「：求人100件以上を前提としたプランがあるため、紹介先ごとに会社名を設定する運用との相性は悪くありません」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「：①1年契約の途中解約の可否 ②Indeedへの連携はどのプランから使えるか ③紹介求人の有料掲載（2026年3月18日〜）に対応した設定ができるか ④運用手数料「1万円〜」「5万円〜」の上振れ条件」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「：①前入金は何ヶ月分か ②初期費用が5万円になるか30万円になるかの条件 ③3か月の途中解約と返金の扱い ④人材紹介会社としてIndeed PLUSを利用できるか ⑤紹介先の企業名を出せない求人の扱い」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「PROSEEKの会員ユーザー数は約76万で、毎月6,500人の新規登録者が増えています」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+  - 「20～30代の若手ユーザーが6割と非常に多く、会員の最終学歴は、「高卒・専門卒」が61.8％となっており、他の転職サイトよりも高い割合となっています」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+  - 「全国のアルバイト求人情報を、常時150,000件以上掲載しています」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+  - 「1. 効果を出すには継続的な運用・メンテナンスが必要になる」（https://marugotoinc.jp/blog/kyujinbox/）
+  - 「業種・職種を問わず常時2,000万件以上の求人情報が検索可能で、」（https://marugotoinc.jp/blog/kyujinbox/）
+  - 「リピート率95%!!料金やお得な活用方法、企業の声や事例、導入までの流れを無料でご紹介！」（https://marugotoinc.jp/blog/kyujinbox/）
+- 効果：
+  - 「約1ヶ月で2名採用！フルリモート提案で応募数が数倍に」（https://listing-partners.com/indeed/）
+  - 「8万円でアルバイト5名採用に成功」（https://listing-partners.com/indeed/）
+  - 「4か月11名採用」（https://listing-partners.com/indeed/）
+  - 「ご依頼したおかげで、3名採用に繋がりました」（https://listing-partners.com/indeed/）
+  - 「私たちはただ広告運用をするだけではなく、ありきたりな原稿を考えるだけでもなく、お客様1社1社ごとに状態を理解して応募が来る原稿を作り上げます」（https://www.three-count.jp/recruit/indeed/）
+  - 「１つ目は「見込み応募者のアクセス数」で、２つ目は応募者の「転換率（＝応募率）」となります」（https://www.three-count.jp/recruit/indeed/）
+  - 「いくら広告を出して見込みの応募者を採用ページに集めても、応募率が0％では費用が無制限にあっても足りません」（https://www.three-count.jp/recruit/indeed/）
+  - 「逆にいうと10人の応募者を獲得するのに、応募率が1％では1,000人のアクセスが必要で、応募率が10％では100人で済みます」（https://www.three-count.jp/recruit/indeed/）
+  - 「半年で1、2件の応募が5ヶ月で」（https://www.three-count.jp/recruit/indeed/）
+  - 「半年で1、2件の応募が」（https://www.three-count.jp/recruit/indeed/）
+  - 「人材紹介は、1名採用するごとに費用が発生します」（https://saiyo-commit.com/service/indeed/）
+  - 「求人ボックスで応募が集まらないときの5つの改善策」（https://marugotoinc.jp/blog/kyujinbox/）
+  - 「求人ボックスを含む複数媒体の活用で5か月63応募・6名採用」（https://marugotoinc.jp/blog/kyujinbox/）
+  - 「ここでは、求人ボックスでの応募数を増やしつつ、費用を抑えるための5つの改善ポイントを紹介します」（https://marugotoinc.jp/blog/kyujinbox/）
+  - 「まずは最安水準（50円〜など）から開始し、管理画面で表示回数・クリック数・応募数・応募単価を確認しながら段階的に調整するのがおすすめです」（https://marugotoinc.jp/blog/kyujinbox/）
+- 法的な区分：
+  - 「職業紹介求人の掲載ページを参照」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「求人情報の表示そのものについては、職業安定法にもとづく的確表示・明示事項のルールもかかります」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「「採用ボード・リスティング広告ともに、人材派遣や人材紹介の求人は掲載することができますが、労働者派遣事業または職業紹介事業の免許が確認できない・行政処分対象となるなど、当社掲載基準を満たさない場合は掲載をお断りすることがございます」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「公式に「職業紹介事業者向けの成果報酬求人が掲載〜選考管理できるサービス」と説明され、」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「代理店のコラムには「有料職業紹介は利用不可・対応予定」といった2024年時点の記述も見られますが、」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「職業紹介事業者向け」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「採用ボード for AGENTは、求人ボックスが職業紹介事業者向けに提供する成果報酬型のメニューです」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「転職アフィリエイトと求職者送客の違い｜副業に届出・許可は要るか」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+- 採用の困りごと：
+  - 「中小企業の採用コストを削減するプロの求人支援」（https://listing-partners.com/indeed/）
+  - 「とにかく人手不足で困っている」（https://listing-partners.com/indeed/）
+  - 「人手不足が深刻になっています」（https://listing-partners.com/indeed/）
+  - 「・求人広告に比べて採用コストが高い」（https://listing-partners.com/indeed/）
+  - 「近年の人手不足と技術革新の中で、求人難易度は年々高まっています」（https://listing-partners.com/indeed/）
+  - 「Indeed(インディード)･求人ボックス広告を外部に運用委託しているのに応募が来ないなど悩みはありますか？」（https://www.three-count.jp/recruit/indeed/）
+  - 「「応募が来ない」を、」（https://saiyo-commit.com/service/indeed/）
+  - 「採用が難しい理由と対策｜求人を出しても応募が来ない原因の切り分け方」（https://saiyo-commit.com/service/indeed/）
+  - 「応募が来ない原因を3段階で切り分ける手順をまとめています」（https://saiyo-commit.com/service/indeed/）
+  - 「採用コスト削減の方法｜手法別の相場と一人当たりを下げる順番」（https://saiyo-commit.com/service/indeed/）
+  - 「採用コスト・手法比較」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「「求人広告に予算をかけて求人を掲載しているけど、いつも応募が来ないで終わってしまう」」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+  - 「また、大人数を採用したいと考えている企業では、採用課金型より応募課金型の方が採用コストを抑えることができます」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+  - 「採用難易度が高く、掲載型の求人広告で結果が出ていない場合は掲載を検討してみることをおすすめします」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+  - 「20～30代の若手ユーザーが6割と非常に多く、会員の最終学歴は、「高卒・専門卒」が61.8％となっており、他の転職サイトよりも高い割合となっています」（https://www.bsearch.co.jp/media/carefully-selected-by-hiring-professionals-recommended-performance-based-recruitment-services/）
+- 検索結果の抜粋：
+  - 「Indeed ・ 求人ボックス運用代行 比較35選【人材紹介会社向け】 — Indeed ・ 求人ボックス運用代行 比較35選【人材紹介会社向け】 求職者送客ナビ https://hr.jobseeker-navi.com > ... > 求職者集客・送客」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「求人ボックス運用代行 おすすめ12 社 ｜選び方・費用・依頼範囲 ... — 求人ボックス運用代行 おすすめ12 社 ｜選び方・費用・依頼範囲 ... プロベル https://probel.jp > プロベル編集部のブログ一覧」（https://probel.jp/promaga/b/6528/）
+  - 「Indeed ・ 求人ボックス運用代行比較 35選【人材紹介 会社 向け】 — Indeed ・ 求人ボックス運用代行比較 35選【人材紹介 会社 向け】 求職者送客ナビ https://hr.jobseeker-navi.com > ... > 求職者集客・送客」（https://hr.jobseeker-navi.com/media/agent/leads/shokai-indeed-daiko/）
+  - 「求人ボックス運用代行 おすすめ12社｜選び方・費用・依頼範囲 ... — 求人ボックス運用代行 おすすめ12社｜選び方・費用・依頼範囲 ... プロベル https://probel.jp > プロベル編集部のブログ一覧」（https://probel.jp/promaga/b/6528/）
+
+## 採用ピッチ資料・採用サイト制作（中小製造業）（recruitment website production small manufacturer）
+- 文脈：採用広報
+- 売り手：
+  - 「株式会社ゴマシオカンパニー」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「重電メーカー・株式会社明電舎の新卒採用サイト」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「執筆者：株式会社ゴマシオカンパニー 代表取締役 山崎準也」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「© 2021 Gomashio Company Inc.」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「Company」（https://cubecube.net/it_blog/archives/12460）
+  - 「大阪のホームページ制作会社 株式会社キューブ」（https://cubecube.net/it_blog/archives/12460）
+  - 「CUBEでは、これまで多くのお客様に採用サイトの制作を提供し、お客様から嬉しいお言葉をいただくこともあります」（https://cubecube.net/it_blog/archives/12460）
+  - 「お客様の採用活動の成功をサポートするために、CUBEでは引き続き最適なソリューションを提供していきます」（https://cubecube.net/it_blog/archives/12460）
+- 料金：
+  - 「先輩社員の声は1本あたりの文量を短くまとめ、高校生でも負担なく読み進められる情報設計が徹底されています」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「採用サイト制作で「自社の事業価値をどう翻訳するか」に悩む製造業にこそ見てほしい1本です」（https://cresai.nashplan.jp/blog/?p=4205）
+- 効果：
+  - 「製造業の採用サイト事例9選｜応募が増える制作ポイントを徹底解説 | 採用おむすび」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「製造業の採用サイト事例9選｜応募が増える制作ポイントを徹底解説」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「採用サイトからの応募数に悩んでいる製造業の担当者の方は、今回紹介した9社の事例と制作の3つのポイントをぜひ参考にしてみてください」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「リニューアル後、A社の採用サイトのアクセス数は3倍に増加し、応募者数も大幅に増加しました」（https://cubecube.net/it_blog/archives/12460）
+  - 「特に、20代の若い求職者からの応募が増え、A社は新たな人材を確保することに成功しました」（https://cubecube.net/it_blog/archives/12460）
+  - 「採用サイトの公開後、B社は応募者数が50％増加し、特に経験豊富なスタッフの確保に成功しました」（https://cubecube.net/it_blog/archives/12460）
+  - 「実際に弊社でもwantedlyを運用することで、応募者数は10倍以上に増えました」（https://cubecube.net/it_blog/archives/12460）
+- 採用の困りごと：
+  - 「建設会社の採用サイト事例15選｜人手不足を解消する応募導線設計」（https://cresai.nashplan.jp/blog/?p=4205）
+  - 「例えば、A社の若手社員のインタビュー動画を掲載し、働く環境やキャリアパスについて具体的に伝えるコンテンツを制作しました」（https://cubecube.net/it_blog/archives/12460）
+- 成果報酬・採用課金：記載なし（読んだ24頁・検索5回）
+- 継続・規模：記載なし（読んだ24頁・検索5回）
+- 法的な区分：記載なし（読んだ24頁・検索5回）
+
+## 地方の製造業のUターン・移住採用（regional manufacturing U-turn recruitment）
+- 文脈：採用支援
+- 売り手：記載なし（読んだ25頁・検索5回）
+- 料金：記載なし（読んだ25頁・検索5回）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 継続・規模：記載なし（読んだ25頁・検索5回）
+- 効果：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）
+- 採用の困りごと：記載なし（読んだ25頁・検索5回）
+
+## 製造業の技能者・溶接工・機械オペレーター採用（welder machinist recruitment Japan）
+- 文脈：採用の困りごと
+- 売り手：
+  - 「三菱重工業株式会社」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 三菱重工業株式会社 求人名 【高砂/研究開発】アーク溶接, レーザ溶接,積層造形（AM）技術 仕事の内容 当社製品向けに、溶接・AM技術の研究開発から実機適用までを幅広く担当いただきます」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「株式会社三井E&S」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 株式会社三井Ｅ＆Ｓ 求人名 【大分】溶接工(大型クレーン)/年間休日127日/年休22日・平均取得19日 仕事の内容 ■国内トップシェアの港湾クレーンをはじめとしたクレーン製品の溶接業務をお任せいたします」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 一般社団法人日本溶接協会 求人名 【JIS溶接技能者認証制度の海外展開・事業立上げ】日本の技術を世界標準へ 仕事の内容 インドネシアやベトナム等の東南アジアにおいて、JIS溶接技能者検定試験を現地スタッフが自立運営できるようにするための準備・調整・フォローを担います」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「【具体的な業務内容】 ・現地関係者向けの教育プログラム策定および運営マニュアルの整備 ・国内外の関係機関との協力・調整、会議や行事の運営 ・現地への導入に向けた課題抽出とフォローアップ業務 日本の優れた認証システムを各国の技能向上に役立てるべく、国内外のステークホルダーと連携しながら試験運営の仕組みを構築します」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「DMG森精機株式会社」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 ＤＭＧ森精機株式会社 求人名 【三重県伊賀市】溶接エンジニア ★寮・社宅完備/手当・福利厚生充実★ 仕事の内容 ■工作機械の世界最大手メーカーである当社にて、工作機械向けの板金部品に関する、切断、プレス曲げ、溶接、塗装と一貫した生産を行います」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「ツルヤマテクノス株式会社」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 ツルヤマテクノス株式会社 求人名 千葉【自社工場での溶接工・製缶工】年休125日/スキルアップできる/福利厚生◎ 仕事の内容 今回、溶接工・製缶工の経験者を募集しております」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「株式会社三五」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 株式会社三五 求人名 【みよし・生産技術】排気系部品ライン立ち上げ/溶接工程の自動化にも携わる 仕事の内容 ■自動車用排気系の新規製品の量産開始に向け、生産準備チームメンバーの一員として業務をお任せします」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 一般社団法人日本溶接協会 求人名 契約社員【JIS溶接技能者認証制度の海外展開・事業立上げ】日本の技術を世界へ 仕事の内容 インドネシアやベトナム等の東南アジアにおいて、JIS溶接技能者検定試験を現地スタッフが自立運営できるようにするための準備・調整・フォローを担います」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「東京パワーテクノロジー株式会社」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 東京パワーテクノロジー株式会社 求人名 富津市【溶接技術者】東京電力グループ/福利厚生◎/面接回数1回 仕事の内容 当社は創業70年、東京電力グループ中核企業として、発電関連設備の工事・運転・保守と一貫したエンジニアリングサービスを提供」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+- 料金：
+  - 「26万2100円以上」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「28万円～45万円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「31万9160円～37万7200円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「30万円以上」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「40万円～60万円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「【具体的には…】 ■石油精製・各種化学プラント内で必要となる製品の製作とメンテナンス ■護衛艦のガスタービンエンジンの排気消音器の製作 (本社工場及び第二工場で各種圧力容器、配管、消音器、熱交換器の 製作・メンテナンスを行います) ■リチュービング作業(熱交換器のチューブを取り替える作業です） 募集職種 千葉【自社工場での溶接工・製缶工】年休125日/スキルアップできる/福利厚生◎」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「27万900円～310万1000円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「38万1612円～43万1668円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「26万円～40万円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「32万9000円～54万8000円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「31万1000円～50万5000円」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「26万円以上」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「27万4000円以上」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「25万円以上」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「20万円未満」（https://willtec.work/media/media-1784328/）
+- 継続・規模：
+  - 「★50年以上継続している事業であり、長年の現地工事経験から培ったノウハウに加え、会社として溶接技術の開発にも取り組んでおります」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「※変更の範囲：会社が定める業務 募集職種 【尼崎市/溶接工】面接一回/経験者歓迎/年間休日120日」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「【働き方】月平均残業時間は10時間程度と定時退社が基本」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+- 効果：
+  - 「新工場・設備【特殊車両の溶接作業/溶接経験】京王電鉄G/働き方 /定着率96% 製造オペレーター/ラインマネージャー(自動車/輸送機器)」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 東京特殊車体株式会社 求人名 ★新工場・設備【特殊車両の溶接作業/溶接経験】京王電鉄G/働き方◎/定着率96% 仕事の内容 完全受注生産の特殊車両製造事業を行う当社にて、溶接作業をお任せします」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「【具体的には】 ■設計図に基づく特殊車両の骨格・ボディー製作（溶接・板金） ■品質を担保する現場での微調整（角度や気密性、強度の確保） ■安全基準に沿った車両の仕上げ作業や複合技術の対応 ■入社後は現場でのOJTにより、一生モノの技術をイチから習得 ■2026年7月の相模原新工場移転に伴う、製造体制の強化 募集職種 ★新工場・設備【特殊車両の溶接作業/溶接経験】京王電鉄G/働き方◎/定着率96%」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 株式会社東工業 求人名 【白河/溶接工】年休110日/月平均残業10H程度/資格取得支援制度有り 仕事の内容 これからの当社を支える人材の育成と事業拡大の為、溶接工担当の方を1名採用いたします」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 株式会社後藤製作所 求人名 【東海村/溶接・製缶】年間休日108日/賞与年3.0ヶ月/SDGｓ宣言企業 仕事の内容 業績拡大に付き、溶接・製缶担当者を1名採用します」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「【総合職】未経験OK/公共事業を支える社会貢献 /離職率5.3%/賞与6ヶ月 市場調査」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「企業名 一般財団法人経済調査会 求人名 【総合職】未経験OK/公共事業を支える社会貢献◎/離職率5.3%/賞与6ヶ月 仕事の内容 当会は公共事業を手掛ける発注機関向けの価格調査事業を行うことで、公正な情報を社会に提供しております」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+- 採用の困りごと：
+  - 「■半自動溶接機（CO2）を使用した製缶・溶接作業 ■図面に基づいた材料の切断、仮組み、歪み取り ■溶接後のスパッタ除去、仕上げ作業（グラインダー等） ■溶接ロボットのオペレーション・ティーチング（意欲次第で） ■若手メンバーへの技術指導・サポート ※資格は必須ではありません」（https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/）
+  - 「職人の高齢化と人手不足の慢性化」（https://willtec.work/media/media-1784328/）
+  - 「しかし近年では、少子高齢化や技術革新といった社会全体の変化にともない、溶接工が働く環境や求められるスキルにも大きな変化が生まれつつあります」（https://willtec.work/media/media-1784328/）
+  - 「近年の日本ではさまざまな業界で高齢化が進んでおり、溶接工も例外ではありません」（https://willtec.work/media/media-1784328/）
+  - 「ベテラン職人の多くが高齢化する一方で、新たな人材の確保が進まないことから、人手不足が慢性的な課題となっています」（https://willtec.work/media/media-1784328/）
+  - 「特に大量生産の現場では、一定の精度を保ちながら高速で作業をこなせるロボット溶接機が重宝されており、人手不足の解消や品質の安定に大きく貢献しています」（https://willtec.work/media/media-1784328/）
+  - 「特に慢性的な人手不足に悩まされる企業が多い近年では、「無資格・未経験者歓迎」とする求人も増えつつあります」（https://willtec.work/media/media-1784328/）
+  - 「溶接工は高齢化や自動化の影響を受けつつも、専門的な技術と経験が求められるため、将来的にも安定した需要が見込まれる職種です」（https://willtec.work/media/media-1784328/）
+- 成果報酬・採用課金：記載なし（読んだ25頁・検索5回）
+- 法的な区分：記載なし（読んだ25頁・検索5回）

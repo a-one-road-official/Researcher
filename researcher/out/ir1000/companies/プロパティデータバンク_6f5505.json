@@ -1,0 +1,1303 @@
+{
+ "name": "プロパティデータバンク",
+ "aliases": [],
+ "context": "証券コード4389／情報・通信業／グロース（内国株式）／2026.03期 売上高3,721百万円 営業利益率29.9%",
+ "researched_at": "2026-11-02T16:50:31.948978+00:00",
+ "official_url": "https://propertydbk.com/",
+ "identified_by": "search:yahoo_jp:プロパティデータバンク",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1923年10月15日",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "2000年10月2日",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：2,250名／単体：89名",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "不動産の所有、経営、管理および賃貸借",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "label": "主な事業内容",
+    "value": "不動産・施設の運用管理に関するクラウドサービス事業 不動産・施設の運用管理に関する情報管理・分析業務 クラウドサービスに関するシステムインテグレータ業務",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユーザー専用サポート窓口",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題にあわせてさまざまなビジネスシーンでご利用いただける5つのサービスをご用意しています",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者インタビュー",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様それぞれのニーズにお応えし、大きな導入効果をあげています",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー専用サポート窓口",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "「インボイス対応についてはバージョンアップされた@propertyの機能をしっかり理解し、請求書などのフォーマットを変更してお客様にきちんと説明できるようにしていけたらと思っています",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー専用サポート窓口",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "② 顧客基盤・市場領域の拡大",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は、これまで通り顧客基盤と市場領域の拡大に取り組むことです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目の「顧客基盤・市場領域の拡大」です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社では棟数課金やユーザーの利用に応じた課金を行っており、社内で多くの方にご利用いただき、たくさんの物件でご利用いただくことで、利用料や単価が増加します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "大阪出張時にお客様をお呼びし商談を行ったり、アポイントの合間の作業時に使えるワークプレイスです",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの利用範囲が広がっており、1社当たりの利用メニュー数や利用ユーザー数が増えてきています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "利用ユーザー数は2万人を超えます",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "バックに近いスタッフや委託先のお金回りの担当者が使うものでしたが、利用者の範囲が従業員全員になってくると、1万人、2万人という規模になってきます",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの「@property」は、古いイメージの昔ながらのWebシステムというような見え方だったと思うのですが、「PDB-Platform」は新しいユーザーインターフェイスや操作性を取り込みながら展開しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "既存のユーザーには一部無料で提供し、追加機能等については有償で提供する方針で展開を始めています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "【会見映像①】GMO熊谷正寿会長ら会見「お客様を守れず申し訳ない」サイバー攻撃の経緯･取り組みは 会見冒頭～質疑前",
+    "url": "https://www.youtube.com/watch?v=oH_dORIhc80",
+    "pass": 3
+   },
+   {
+    "quote": "今後の方針としては既に公表している中期経営計画の達成とあわせて、データ活用を通じてお客様の意思決定をサポートする新サービス「PDB-Platform」の提供をスタートいたします",
+    "url": "https://corp.propertydbk.com/corporate/topmessage/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービストップ",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークプレイスの管理を支援するサービス",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PDB統合ソリューション",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2つのサービスで構成され多彩なニーズにお応えするサービス",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産文書管理ソリューション",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "データサイエンスサービス",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5つのサービスで構成される「PDB-Platform」を提供しています",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5つのサービス",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題にあわせてさまざまなビジネスシーンでご利用いただける5つのサービスをご用意しています",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "※2 @propertyサービスリリース以来累計契約社数",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PDB統合ソリューションサービス",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークプレイスの管理を支援するサービス",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "PDB統合ソリューション",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "2つのサービスで構成され多彩なニーズにお応えするサービス",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産文書管理ソリューション",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "データサイエンスサービス",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "活用サービス",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "「機能だけでなくインターフェイスなどを総合的に点数化してジャッジした結果、他のサービスより優れていることがわかったので@propertyに決めました」（村尾氏）",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "※2 @propertyサービスリリース以来累計契約社数",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "PDB統合ソリューションサービス",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "ワークプレイスの管理を支援するサービス",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "PDB統合ソリューション",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "2つのサービスで構成され多彩なニーズにお応えするサービス",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "不動産文書管理ソリューション",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "データサイエンスサービス",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "PBRの改善やROIC経営への要請、アクティビストの関心が高まるなか、企業が所有・賃借を含めて抱える不動産を“資本効率”の視点でどう見直し、投資家にどう説明していくべきかを、会計研究とソリューションの両面から解説します",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "※2 @propertyサービスリリース以来累計契約社数",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "PDB統合ソリューションサービス",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "プロパティデータバンク（4389）、過去最高業績を達成 クラウドとソリューションの相乗効果で全社売上年率約15％成長を目指す - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス月額利用料",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド事業とソリューション事業の位置づけ",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク、過去最高業績を達成 クラウドとソリューションの相乗効果で全社売上年率約15％成長を目指す",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、プロパティデータバンクのソリューションサービスは当初の予想を若干上回りましたが、それ以外の部分や、グループ会社を含めたセグメントでは予算に達しない部分がありました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "スライドにはプロパティデータバンクを含む3社のサマリーと新規サービスへの取組みを記載していますが、前のスライドと重複している部分が大半です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "新規サービスへの取組みについては、2年前にM&Aしたリーボ社の売上も含まれています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "それ以外にも、各社で取り組んでいる新サービスなどの売上が一部含まれています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "スライドのグラフは売上成長の推移を「クラウドサービス」と「ソリューションサービス」の2つのセグメントに分けて表したものです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社はパブリッククラウドを提供している会社であり、クラウドサービスの月額利用料は重要なKPIの1つとなっています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "スライド左側は四半期平均のクラウドサービス月額利用料の推移です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社の特徴として、大型ソリューションを導入したお客さまが、そのプロジェクト完了後に本格運用を開始することが多い点が挙げられます",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "また、スライド右側の1社当たり平均月額利用料単価も順調に伸びており、当社のサービスを多くの方に積極的にご利用いただいていることが表れています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "繰り返しになりますが、当社は第1四半期から第3四半期にかけてお客さまにソリューションを提供していることから、第4四半期に向けて売上が伸びていく特徴があります",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの重要な指標である、解約率についてご説明します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサービスはパブリッククラウドであり、お客さまの財務や経営に関する重要な情報や数値を扱っているため、解約率が非常に低くなっています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "創業来、「@property」として1つのサービスや単一プラットフォームに対応するかたちで展開してきました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、数年前からこれを汎用化し、さまざまなサービスや自社グループ会社のサービスを展開できるよう取り組んできました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社のシステムは、不動産会社だけでなく、不動産に関わるさまざまな方々に使っていただくサービスです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、不動産オーナーや不動産を借りているテナントなど、幅広いお客さまが利用できるサービスを提供することを目指し、これまで展開していなかった領域のお客さまにも向けたサービス拡大に取り組んでいきます",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサービスには、お客さまの取引データやトランザクションデータなど、さまざまなデータが蓄積されています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "不動産の一生涯を当社のサービスで各側面からサポートしていきたい、そこで蓄積されたデータを活用していきたいという思いで作成したものです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "発表当時は、スライドの図の右上と左上にあたる「@property」の機能のみでしたが、4年間の取り組みにより、さまざまなサービスを展開することができました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "これらのサービスをご利用いただいたお客さまのデータが徐々に蓄積されてきています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、不動産の一生涯を扱うプラットフォーム「不動産 WHOLE LIFE」のサービスが徐々に完成してきている状況です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産・施設の運用管理に関するクラウドサービス事業",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスに関するシステムインテグレータ業務",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス月額利用料（Q平均）",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "あらゆる業種の店舗でご利用いただける店舗管理クラウド",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "出店売上予測と多店舗展開する新規出店業務の効率化",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "三井物産・イデラパートナーズ株式会社",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産の運用・管理から店舗の出店判断、書類の保管、パートナーとの契約、設備・施設の運用まで、",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗管理DX",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "小売、飲食、アパレルなど幅広い業種でご利用いただける店舗管理クラウドです",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "役立つ情報を分かりやすくご紹介！",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる業種の店舗でご利用いただける店舗管理クラウド",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "出店売上予測と多店舗展開する新規出店業務の効率化",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "三井物産・イデラパートナーズ株式会社",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "その他事例紹介",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "役立つ情報を分かりやすくご紹介！",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる業種の店舗でご利用いただける店舗管理クラウド",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "出店売上予測と多店舗展開する新規出店業務の効率化",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "三井物産・イデラパートナーズ株式会社",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "役立つ情報を分かりやすくご紹介！",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに何度かご紹介した内容ですが、初めてご覧になる方のために簡単にご説明します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年、一昨年とご紹介している「@property」のシェアです",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "これは、我々がここ数年間取り組んでいる開発案件でのパートナー会社の育成により、パートナー会社と共創しながら良いものを作っていく仕組みなどができてきて、実を結んでいることが寄与しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "後ほどご紹介しますが、これまではどちらかといえば各社でがんばっている状況でしたが、今後はグループでシナジー効果を出していかなければいけない段階に入ると認識しており、グループでサービスを展開していく活動も始めています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "当初は当然PDBグループで行いますが、将来的にはその他パートナーの方たちも、当社のクラウドサービス上でさまざまな機能をチョイスしながら、自社用のサービスで展開できるようになることを想定しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://corp.propertydbk.com/corporate/topmessage/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月02日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月07日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月20日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月28日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月20日",
+    "url": "https://propertydbk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月に創業100年を迎えたダイビル株式会社",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "1923年10月15日",
+    "url": "https://propertydbk.com/case/daibiru/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月10日",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月19日（水）・25日（火）・27日（木）、各回13:00～14:00（各回同一内容）",
+    "url": "https://propertydbk.com/news/webinar2608",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 業績サマリー（連結）",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 業績ハイライト（前期比）",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期サマリー",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 通期連結業績予想",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 アクションプラン",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2030年3月期以降の成長シナリオ",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算説明",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期と2026年3月期の業績を比較しています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の通期サマリーです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期のアクションプランとして、大きく4つの重点施策を推進します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2030年3月期以降の成長シナリオです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期は、プロパティデータバンク、その他の各社、新規サービスに分けていました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期からは、「クラウドサービス」、クラウドサービスを実施するために必要な「ソリューションサービス」、この2つのセグメントに分けて開示していく予定です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2000年10月2日",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 業績サマリー（連結）",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 業績ハイライト（前期比）",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 通期サマリー",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期連結業績予想",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 計画",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 アクションプラン",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期業績の計画変更について",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期は若干、売上高・利益ともに目標を達成できない結果となりましたが、予定どおり元の巡航速度に戻り、確かな実績を出せています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期については、調子は上がっていますが予定には足りていないという残念な部分もあります",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は、例年と違う傾向を示しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の1株当たり配当金額は24円で、増配としています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期の業績は若干振るわなかったものの20円の配当として、前期を維持するかたちとしました",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期通期連結業績予想です",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の計画です",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度からリース資産の会計基準が正式に採用されるため、この部分の開発・販売に着手しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期業績の計画変更についてです",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "2018年06月27日、東証マザーズに新規上場した",
+    "url": "https://www.youtube.com/watch?v=oH_dORIhc80",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社はストック型のビジネスモデルを採用しています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には、大型案件を積み上げることで翌年以降のクラウド利用料が確実に増えていくビジネスモデルとなっています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルについての参考資料です",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クラウドサービス月額利用料",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "@property 解約率",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社はパブリッククラウドを提供している会社であり、クラウドサービスの月額利用料は重要なKPIの1つとなっています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "スライド左側は四半期平均のクラウドサービス月額利用料の推移です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、第4四半期には納品が終わると同時にクラウドの利用が開始されるため、クラウド利用料が急増する傾向があります",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "また、スライド右側の1社当たり平均月額利用料単価も順調に伸びており、当社のサービスを多くの方に積極的にご利用いただいていることが表れています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの重要な指標である、解約率についてご説明します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサービスはパブリッククラウドであり、お客さまの財務や経営に関する重要な情報や数値を扱っているため、解約率が非常に低くなっています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "解約率は、クラウド月額利用料ベースで0.25パーセント、解約件数ベースでも0.86パーセントと1パーセントを下回ります",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型の収益基盤の拡大を目指します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社はストック型のビジネスモデルを採用しています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は、ストック型のモデルを中核に据えた成長を加速させることです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社のパブリッククラウドでは、クラウド利用料型のサービスにあたる部分を「クラウド事業」、それにデータを登録したり、運用方法のコンサルティング、さまざまな関連業務を「ソリューション業務」と呼んでいます",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまの数を増やし、解約率を低減して維持することを目指しています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "当社では棟数課金やユーザーの利用に応じた課金を行っており、社内で多くの方にご利用いただき、たくさんの物件でご利用いただくことで、利用料や単価が増加します",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス月額利用料（Q平均）",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "1社当たりのクラウドサービス月額利用料単価",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "@property 解約率",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス月額利用料の四半期平均値の推移です",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には、大型案件を積み上げることで翌年以降のクラウド利用料が確実に増えていくビジネスモデルとなっています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "1社あたりのクラウドサービス月額利用料単価の推移です",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "これに併せて単価も増えていく傾向にあり、スライドのとおり、例年少しずつではありますが着実に増えてきています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "解約件数ベースの解約率は1.8パーセントと、若干上がっています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、クラウド月額利用料ベースでは約0.5パーセントとなっています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら解約率は若干増えていますが、 クラウド月額利用料ベースでは傾向として増えていません",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "我々としては、クラウドビジネスの解約率にしては、非常に少ない水準だと考えています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "スライドは2025年4月末の「@property」の受注ストックですが、好調に推移しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "受注ストックはどちらかといえばソリューションサービスとなり、ご発注からプロジェクト終了まで、大きいものでは3年ぐらいかかります",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、我々はこの3年間をストックと呼んでいます",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "スライドは毎年お話ししている内容ですが、クラウドの大型案件の受注ストックと月額利用料を増やしていきます",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "これを単独で利用し、当社の他のサービスでも利用できるようにして利用料をいただき、収益化するという位置づけで展開しています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "当社は創業以来「パブリック・クラウド」、「月額課金型モデル」にて事業を展開してまいりました",
+    "url": "https://corp.propertydbk.com/corporate/topmessage/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "基本的にどのセグメントにおいても前期比でプラスとなっていますが、若干マイナスとなっているのがプロパティデータテクノスです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、プロパティデータバンクのソリューションサービスは当初の予想を若干上回りましたが、それ以外の部分や、グループ会社を含めたセグメントでは予算に達しない部分がありました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "スライドのグラフは売上成長の推移を「クラウドサービス」と「ソリューションサービス」の2つのセグメントに分けて表したものです",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "この2つのセグメントに分けて、今後さまざまな施策を発表していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期からは、「クラウドサービス」、クラウドサービスを実施するために必要な「ソリューションサービス」、この2つのセグメントに分けて開示していく予定です",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、よりわかりやすいセグメントの開示方法に変更しました",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プロパティデータバンク 、過去最高業績を達成 クラウドと ... — プロパティデータバンク 、過去最高業績を達成 クラウドと ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384805",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク : 不動産情報を一元管理するシステム — プロパティデータバンク : 不動産情報を一元管理するシステム プロパティデータバンク https://propertydbk.com",
+    "url": "https://propertydbk.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク ［4389］東証マザーズ IPO - YouTube — プロパティデータバンク ［4389］東証マザーズ IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=oH_dORIhc80",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク 株式会社 | 受賞企業・事業レポート — プロパティデータバンク 株式会社 | 受賞企業・事業レポート ポーター賞 https://www.porterprize.org > pastwinner > 2009/12",
+    "url": "https://www.porterprize.org/pastwinner/2009/12/02144755.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク 株式会社の会社情報 - M&Aクラウド — プロパティデータバンク 株式会社の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/11248",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 IR PRESENTATION - 浜松町 — 決算説明 会 資料 IR PRESENTATION - 浜松町 プロパティデータバンク https://corp.propertydbk.com > IR情報",
+    "url": "https://corp.propertydbk.com/ir/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク （4389） 2026年3月期第2四半期 決算 ... — プロパティデータバンク （4389） 2026年3月期第2四半期 決算 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7TNjmyguqAQ",
+    "pass": 3
+   },
+   {
+    "quote": "【 プロパティデータバンク 】[4389]IR情報 中期 ... - 日本経済新聞 — 【 プロパティデータバンク 】[4389]IR情報 中期 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4389",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク 株式会社 2025年3月期 決算説明 会 — プロパティデータバンク 株式会社 2025年3月期 決算説明 会 ネットプレゼンテーションズ https://net-presentations.com > uyhfdtry765",
+    "url": "https://net-presentations.com/4389/20250530/uyhfdtry765/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - プロパティデータバンク — 会社概要 - プロパティデータバンク プロパティデータバンク https://corp.propertydbk.com > 企業情報",
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク 、売上高、営業利益ともに過去最高を ... — プロパティデータバンク 、売上高、営業利益ともに過去最高を ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク (株)【東証グロース市場上場】 — プロパティデータバンク (株)【東証グロース市場上場】 マイナビ https://job.mynavi.jp > search > corp290582 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp290582/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク 【4389】の 事業 内容 - キタイシホン — プロパティデータバンク 【4389】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4389/business",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク のご紹介 - Speaker Deck — プロパティデータバンク のご紹介 - Speaker Deck Speaker Deck https://speakerdeck.com > pdb > puropatei",
+    "url": "https://speakerdeck.com/pdb/puropatei",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ MESSAGE - プロパティデータバンク — トップメッセージ MESSAGE - プロパティデータバンク プロパティデータバンク https://corp.propertydbk.com > 企業情報",
+    "url": "https://corp.propertydbk.com/corporate/topmessage/",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク 株式会社 代表取締役 社長 武野 貞久 — プロパティデータバンク 株式会社 代表取締役 社長 武野 貞久 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2766",
+    "pass": 3
+   },
+   {
+    "quote": "不動産データの時代予見 プロパティデータバンク社長 — 不動産データの時代予見 プロパティデータバンク社長 日本経済新聞 https://www.nikkei.com > ビジネス > ネット・IT",
+    "url": "https://www.nikkei.com/article/DGXMZO52062120S9A111C1000000/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上・営業利益率推移",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "売上・営業利益率推移です",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、中期経営計画のKPIとして売上と営業利益率を掲げています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は目標値を上回る推移をしていますが、営業利益の金額ベースでは下回っています",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   },
+   {
+    "quote": "プロパティデータバンク、売上高は前年比26.1％増、営業利益は116.9％増 ソリューションサービスの好調と粗利率改善が奏功",
+    "url": "https://finance.logmi.jp/articles/382113",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://propertydbk.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://propertydbk.com/case/daibiru/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://propertydbk.com/news/webinar2608",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/384805",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.propertydbk.com/ir/presentation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/384805",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.propertydbk.com/corporate/outline/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/382113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=oH_dORIhc80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.propertydbk.com/corporate/topmessage/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "プロパティデータバンク",
+   "results": [
+    "https://propertydbk.com/",
+    "https://macloud.jp/companies/11248",
+    "https://www.openwork.jp/company.php?m_id=a0C10000013FcoW",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4389",
+    "https://job.mynavi.jp/27/pc/search/corp290582/outline.html",
+    "https://corp.propertydbk.com/",
+    "https://kabutan.jp/stock/?code=4389",
+    "https://finance.yahoo.co.jp/quote/4389.T",
+    "https://corp.propertydbk.com/corporate/outline/",
+    "https://propertydbk.com/login/"
+   ]
+  },
+  {
+   "query": "プロパティデータバンク ビジネスモデル",
+   "results": [
+    "https://finance.logmi.jp/articles/384805",
+    "https://propertydbk.com/",
+    "https://www.youtube.com/watch?v=oH_dORIhc80",
+    "https://www.porterprize.org/pastwinner/2009/12/02144755.html",
+    "https://macloud.jp/companies/11248",
+    "https://job.mynavi.jp/27/pc/search/corp290582/outline.html",
+    "https://www.r-agent.com/viewjob/jk11695110a485d07f/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10006731248/",
+    "https://kitaishihon.com/company/4389/business",
+    "https://note.com/asahikigyou/n/nee6625dc5e33"
+   ]
+  },
+  {
+   "query": "プロパティデータバンク 決算説明資料",
+   "results": [
+    "https://corp.propertydbk.com/ir/presentation/",
+    "https://finance.logmi.jp/articles/384805",
+    "https://www.youtube.com/watch?v=7TNjmyguqAQ",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4389",
+    "https://net-presentations.com/4389/20250530/uyhfdtry765/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260511521895.pdf",
+    "https://www.buffett-code.com/company/4389/library",
+    "https://www.youtube.com/watch?v=mePuopn8dM4",
+    "https://corp.propertydbk.com/ir/result/",
+    "https://irbank.net/4389/ir"
+   ]
+  },
+  {
+   "query": "プロパティデータバンク 事業系統図",
+   "results": [
+    "https://corp.propertydbk.com/corporate/outline/",
+    "https://finance.logmi.jp/articles/382113",
+    "https://job.mynavi.jp/27/pc/search/corp290582/outline.html",
+    "https://kitaishihon.com/company/4389/business",
+    "https://speakerdeck.com/pdb/puropatei",
+    "https://propertydbk.com/",
+    "https://blogs.autodesk.com/autodesk-news-japan/pdb-and-autodesk-revit-linkage/",
+    "https://app.en-courage.com/companies/01KZ8KG7CCDZESMGPE7HMRQV2E?locale=ja",
+    "https://edinetdb.jp/company/E34090/midterm-plans/",
+    "https://corp.propertydbk.com/"
+   ]
+  },
+  {
+   "query": "プロパティデータバンク 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=oH_dORIhc80",
+    "https://corp.propertydbk.com/corporate/topmessage/",
+    "https://shachomeikan.jp/industry_article/2766",
+    "https://speakerdeck.com/pdb/puropatei",
+    "https://www.nikkei.com/article/DGXMZO52062120S9A111C1000000/",
+    "https://macloud.jp/companies/11248",
+    "https://corp.propertydbk.com/corporate/outline/",
+    "https://kitaishihon.com/company/4389/board-of-director",
+    "https://www.openwork.jp/company.php?m_id=a0C10000013FcoW",
+    "https://www.any-students.com/interview-2308"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索5回）"
+ }
+}

@@ -1,0 +1,2006 @@
+{
+ "name": "培養肉",
+ "en": "cultivated meat",
+ "aliases": [
+  "細胞性食品"
+ ],
+ "context": "16 フードテック ④新規食品",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:05:41.584939+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "培養肉市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場規模は、2025年には3,624万米ドルと評価され、2026年の4,423万米ドルから2034年には2億1,762万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は22.04%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、米国農務省（USDA）がUPSIDE FoodsやGOOD Meatといった企業による培養鶏肉製品の販売を許可すると見込まれていた",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）22.04%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "デヴヤニ・デサレ（Devyani Desale）は、飲食・飲料（F&B）分野における市場インテリジェンスの専門家であり、市場分析、二次調査、市場規模の推計・予測において2年の経験を有しています",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場は、2025年に8,500万米ドルと推定されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発表した最新の報告書によると、市場規模は2026年の1億2,330万米ドルから2035年までに25億米ドルへ拡大し、年平均成長率（CAGR）39.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "シンガポールは2020年に培養鶏肉を承認し、米国では2023年に米国食品医薬品局（FDA）の協議および米国農務省（USDA）の検査の枠組みを通じて製品が認可されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ひき肉・ミンチ製品は、2025年の市場規模 9億180万米ドル、構成比 75.0% を占め、2035年まで約 36.15% の年平均成長率で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別の培養肉市場規模、2022〜2035年（100万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "構造化製品は、2025年に市場規模 6,010万米ドル、構成比 5.0% を占め、約 33.32% で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト向け食品は、2025年の市場規模 8億4,170万米ドル、構成比 70.0% を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "フードサービスは、2025年に市場規模 7億5,750万米ドル（シェア 63.0%）で流通をリードし、約 36.54% の年平均成長率で拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国培養肉市場規模、2022〜2035年（100万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模とシェア、2035年予測レポート",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模とシェア、流通チャネル別（B2B、B2C）、最終用途別、出典別、タイプ別 - 世界の需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "米国農務省（USDA）のデータによると、2025年9月の食品サービス施設の貢献額は1兆600億米ドルでした",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月のUSDAデータによると、2024年の家禽部門の総売上高は702億米ドルに達し、家禽製品の需要の高まりが浮き彫りになっています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "日本の培養肉市場規模、需要とシェア、2034年レポート",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の培養肉市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本代替肉市場規模、シェア、動向および予測種類別、流通チャネル別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉の市場規模、シェア、成長分析：原料別、製品形態別、流通チャネル別、地域別―業界予測2026-2033年 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉の市場規模、シェア、成長分析：原料別、製品形態別、流通チャネル別、地域別―業界予測2026-2033年",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社グローバルインフォメーション（所在地：神奈川県川崎市、代表者：樋口荘祐、証券コード：東証スタンダード 4171）は、市場調査レポート「培養肉の市場規模、シェア、成長分析：原料別、製品形態別、流通チャネル別、地域別―業界予測2026-2033年」（SkyQuest）の販売を開始しました",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場規模は、2024年に1億9,008万米ドルと評価され、2025年の2億5,509万米ドルから2033年までに26億8,355万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR34.2％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトでは、各調査会社等の公表データを参考にし、代替肉業界の2020年の世界市場規模を16億ドルとして市場シェアを計算しております",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のフォーチュンビジネスインサイツによると、2018年の同業界の市場規模は43億ドルです",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のマーケッツアンドマーケッツによると、2019年の同市場規模は16億ドルです",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のマーケットデータフォーキャストによると、2020年の同市場規模は16億ドルです",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所によると、2020年における代替肉の世界市場規模は、メーカー出荷金額ベースで2,572億6,300万円となります",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のリサーチアンドマーケッツによれば2019年の食肉加工業界の市場規模は6650億ドルなので、食肉市場に占める代替肉市場は1%未満です",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "フードテック革命 世界700兆円の新産業 「食」の進化と再定義",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月にテマセクやシンガポール経済開発庁EDBIから1億ドルの資金調達を行いました",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模、シェア、2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 326.51 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 998.83 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 571.07 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな食肉代替食品のうち、既に多くの企業によって多様な商品が投入され、市場が成長期にある米国のPBM市場をみると、PBMの売上高は約8億米ドル（856億円）であった",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、世界最大の市場は41%を占める欧州であり、同地域の2020年までのCAGRは約6.3%と見込まれている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アジア・太平洋地域の市場は、欧州や米国よりも市場規模は小さいものの、2020年までのCAGRは10.5%と見込まれ、急成長市場とみなされている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "FDAの元主席研究員でコンサルタントのStephen Ostroff氏によると、食肉代替食品市場は、 100社程のスタートアップ企業が参入し、大手ファストフードチェーンでも植物由来のパティが導入されるなど市場は活性化している",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "全米最大の肉用牛生産者団体である全国肉牛生産者・牛肉協会（NCBA）は2018年4月、消費者は誤解のない正確な情報を知る権利があり、すべての食品は公正な条件の下で取り扱われるべきであるとして、市場で食肉代替食品と従来の食肉と区別するために、従来の方法で収穫された動物の組織または肉以外の食品に対して、「clean meat」のような食肉を連想させる表示を禁止することを求める要望書をUSDA/FSISに提出した",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "NAMIの会員である大手パッカーのカーギル社やタイソン・フーズ社は、細胞培養肉の先駆けであるメンフィス・ミーツ社に出資しており、NAMIとメンフィス・ミーツ社は2018年8月、トランプ大統領宛てに共同書簡を送り、「細胞培養食肉」（cell-based meat and poultry）について明確な連邦法の整備を求めるとともに、細胞培養食肉の市販前の食品安全に関する検証をFDAが担当し、生産と 販売については従来の食肉と同様にUSDAが担当することを提案した",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2）細胞培養肉の所管をめぐるFDAとUSDAの動向",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした中、USDA/FSISと米国保健福祉省食品医薬品局（HHS/FDA）は2018年10月23〜24日、家畜や家きん由来の細胞を使った培養肉開発技術に関する共同公聴会を開催した",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉の日本市場（2026年～2034年）、市場規模（ナゲット、ハンバーガー、ミートボール、ソーセージ、ホットドッグ）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉の日本市場（2026年～2034年）、市場規模（ナゲット、ハンバーガー、ミートボール、ソーセージ、ホットドッグ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "日本の培養肉市場規模は2025年に1,630万米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "培養肉市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場規模は、2025年には3,624万米ドルと評価され、2026年の4,423万米ドルから2034年には2億1,762万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は22.04%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場の規模は、2026年には4,423万米ドルと評価され、2034年までに2億1,762万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は22.04%である",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）22.04%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール肉市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "クリーンラベル食品市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発表した最新の報告書によると、市場規模は2026年の1億2,330万米ドルから2035年までに25億米ドルへ拡大し、年平均成長率（CAGR）39.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "大型容器により設備単価が低下するほか、バイオプロセスの評価では、バイオリアクターの容量を拡大することで、1リットル当たりの設備コストをおよそ50%削減できることが示されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "潜在的な上振れCAGRを55%抑制",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "潜在的な上振れCAGRを45%抑制",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）33.6%で成長が見込まれます",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、培養肉への投資全体の83%は過去3年間に行われ、調達された資本の総額は前年比で減少しているにもかかわらず、投資家の信頼が高まっていることを反映しています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、EU、シンガポール、米国政府による公共部門の投資が拡大し続け、細胞農業研究と規制準備への資金提供が増加し、培養肉の商業化への道筋が後押しされました",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、食糧安全保障の圧力と政府の積極的な支持を受けて導入が加速し、2026年から2035年にかけて53.3%のCAGRで拡大すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的B2Bパートナーシップの拡大",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "33.6% CAGR（2026～2035年）",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的B2Bパートナーシップの拡大：",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉企業は、市場へのアクセス拡大を目指し、B2B原料サプライヤーモデルの採用を拡大しています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、培養肉市場が最も急速に成長すると予測されており、2026年から2035年の予測期間中に53.3%のCAGRで成長すると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、2026年～2034年の期間に年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）17.60%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率（2026-2034）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場規模は、2024年に1億9,008万米ドルと評価され、2025年の2億5,509万米ドルから2033年までに26億8,355万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR34.2％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは34.2%です",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "2026年にかけて、年平均8.4％での成長を見込みます",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年にかけて年平均12％での成長を見込みます",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にかけて年平均12％での成長を見込みます",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "15.00％のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "水産物セグメントは、2025年から2032年にかけて最も高いCAGR（年平均成長率）を達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "懸濁液ベースのセグメントは、2025年から2032年にかけて最も高いCAGRを達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ホールカットセグメントは、2025年から2032年にかけて最も高いCAGRを達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "フィレ／ステーキセグメントは、2025年から2032年にかけて最も高いCAGRを達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペットフード業界セグメントは、2025年から2032年にかけて最も速いCAGRを達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子商取引セグメントは、2025年から2032年にかけて最も速いCAGRを達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、市場の拡大とともに食肉企業もPBM市場に関与し始めており、2016年には米国の大手食肉企業であるタイソン・フーズ社がビヨンド・ミート社に投資を行い、2017年にはカナダの大手豚肉加工製造企業であるメープルリーフフーズ社がライトライフ社を買収した",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、植物由来食品協会（PBFA）によれば、北米地域は世界の食肉代替食品市場の31%を占める市場であり、同市場の規模は2020年まで4%の年平均成長率（CAGR）で成長し続けると予想されている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、世界最大の市場は41%を占める欧州であり、同地域の2020年までのCAGRは約6.3%と見込まれている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アジア・太平洋地域の市場は、欧州や米国よりも市場規模は小さいものの、2020年までのCAGRは10.5%と見込まれ、急成長市場とみなされている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "Maastrichtのパイロットを73,000 Lの容量に拡大しました",
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "pass": 3
+   },
+   {
+    "quote": "前年比で成長41.80％",
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "pass": 3
+   },
+   {
+    "quote": "R＆D CAGR 55.00％",
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、2034年までに市場が7,010万米ドルに達し、2026年から2034年の間に17.60%の年平均成長率（CAGR）を示すと予測しています",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場は、2025年の4億4,958万米ドルから2030年までに30億8,251万1,000米ドルに達し、CAGR46.97％で拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でも2022年までは二けた成長を見せていましたが、2023年には前年比売上増加率が一けた台に落ち込みます",
+    "url": "https://note.com/myconsulting/n/nbbd1e068d3e0",
+    "pass": 3
+   },
+   {
+    "quote": "販売企業は消費調査などをしていますが、その理由は、価格が高いままで通常の肉に比べて2～3倍となり節約志向の消費者に受け入れられないこと、味と食感の差が残っており改良は続いているものの本物の肉との差がまだ残っていること、とりわけ脂とジューシーさ、香りへの不満があること、消費者の中で加工や添加物への懸念が増えておりヘルシーさへの疑問が出ていること、そして主要なターゲットであるヴィーガン、フレキシタリアンの人口に限りがあり、消費者拡大に一つの壁が生じていることだとされています",
+    "url": "https://note.com/myconsulting/n/nbbd1e068d3e0",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 33.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 51.6% from 2023 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Million, CAGR from 2023 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global cultured meat market is expected to grow at a CAGR of 33.4% from 2026 to 2033, reaching USD 4000 million by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "55% drag on potential upside CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "45% drag on potential upside CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Others account for USD 240.5 million, or 20.0%, in 2025 and are projected to record the highest product CAGR (37.62%). The category includes hybrid products that use cultured biomass selectively alongside plant-based matrices, bringing cultured ingredients to retail while standalone output remains capacity-constrained.",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounts for USD 456.9 million, or 38.0%, of the 2025 market and is projected to grow at approximately 35.59% through 2035. The United States is the anchor market, supported by the FDA and USDA dual-agency pre-market consultation and inspection framework",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 2.5 billion by 2035, growing at a CAGR of 39.8% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at US$ 0.43 Bn. in the year 2025 and is expected to reach US$ 1.75 Bn. by 2032 with a growing CAGR of 21.9% over the forecast period of 2026-2032.",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "培養肉市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場の規模、シェア、トレンド分析レポート：供給源別（鶏肉、牛肉、魚介類、豚肉、その他）、最終製品別（ナゲットとハンバーガー、ソーセージとミートボール、フィレ肉とひき肉、その他）、生産技術別（足場ベース技術、足場フリー技術、その他）、流通チャネル別（小売、フードサービス、オンラインチャネル、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.5%の市場シェアを占め、培養肉市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で、培養肉市場において最大のシェアを占めていた地域はどこだったか？",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハラール肉市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "エビ市場の規模、シェア、成長、機会、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "クリーンラベル食品市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "和牛市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "オクラチップス市場の規模、シェア、成長率、および2034年までの予測",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "パルメザンチーズ市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場の規模とシェア、成長分析、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Eat Just（GOOD Meat）が 2025年に 18.2%を超える市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは 2025年に合計 67.5%に達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "多くの生産構成において、培地は製造コストの推定50%〜70%を占め、引き続き主要な経済的制約となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ひき肉・ミンチ製品は、2025年の市場規模 9億180万米ドル、構成比 75.0% を占め、2035年まで約 36.15% の年平均成長率で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "構造化製品は、2025年に市場規模 6,010万米ドル、構成比 5.0% を占め、約 33.32% で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他は、2025年に 2億4,050万米ドル、構成比 20.0% を占め、製品別では最も高い 37.62% の年平均成長率を記録すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト向け食品は、2025年の市場規模 8億4,170万米ドル、構成比 70.0% を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペットフードは、2025年の売上高 2億4,050万米ドル、構成比 20.0% を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発は 9,620万米ドル（8.0%）を占め、細胞株の実験、安全性試験、規制当局向け申請書類の作成を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他は 2,400万米ドル（2.0%）を占め、特殊原料や培養コラーゲンを含む",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "フードサービスは、2025年に市場規模 7億5,750万米ドル（シェア 63.0%）で流通をリードし、約 36.54% の年平均成長率で拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模とシェア、2035年予測レポート",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模とシェア、流通チャネル別（B2B、B2C）、最終用途別、出典別、タイプ別 - 世界の需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに38.7％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、その先駆的な規制の明確さと強力なベンチャーキャピタルの支援により、2035年までに培養肉市場の38.7%のシェアを獲得する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに、培養肉市場におけるB2Bセグメントは、確立された流通ネットワークを活用してスケーラブルな商業展開を実現し、60.4%のシェアを確保すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "北米（2035年までに38.7%のシェア）",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルにおいては、B2Bセグメントが市場をリードしており、2035年までに60.4%のシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "北米は培養肉市場の世界的リーダーであり、2035年までに収益シェアの38.7%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに培養肉市場で大きなシェアを獲得する流通チャネルセグメントはどれでしょうか?",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルセグメントに関しては、B2Bサブセグメントが2035年までに60.4%という最大の市場シェアを獲得し、2026年から2035年にかけて大きな成長機会を示すことが予想されています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、2035年末までに38.7%の最大の市場シェアを占めると予測されており、将来的にはさらに多くのビジネスチャンスが生まれると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "日本の培養肉市場規模、需要とシェア、2034年レポート",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食肉加工市場の規模、シェア、動向、予測製品、設備、食肉、操業形態、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本代替肉市場規模、シェア、動向および予測種類別、流通チャネル別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉の市場規模、シェア、成長分析：原料別、製品形態別、流通チャネル別、地域別―業界予測2026-2033年 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉の市場規模、シェア、成長分析：原料別、製品形態別、流通チャネル別、地域別―業界予測2026-2033年",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社グローバルインフォメーション（所在地：神奈川県川崎市、代表者：樋口荘祐、証券コード：東証スタンダード 4171）は、市場調査レポート「培養肉の市場規模、シェア、成長分析：原料別、製品形態別、流通チャネル別、地域別―業界予測2026-2033年」（SkyQuest）の販売を開始しました",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "代替肉開発会社の資金調達累計額を分子に、上述した業界全体の資金調達額を分母にして、資金調達額シェアを計算し、ランキング化すると、2022年3月時点では、1位はビヨンド・ミート、2位はインポッシブルフーズ、3位はフューチャーミートとなります",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア（2022年3月）",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "植物肉・代替肉の資金調達累計額の市場シェアランキング（2022年3月） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "当サイトでは、各調査会社等の公表データを参考にし、代替肉業界の2020年の世界市場規模を16億ドルとして市場シェアを計算しております",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のリサーチアンドマーケッツによれば2019年の食肉加工業界の市場規模は6650億ドルなので、食肉市場に占める代替肉市場は1%未満です",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター開発会社のカオスマップと資金調達額ベースの市場シェアを分析しています",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模、シェア、2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、早期の規制承認、活発な投資活動、そして持続可能で倫理的な代替食品に対する高い消費者意識に支えられ、培養肉市場において2025年には41.2%という最大の収益シェアを獲得し、市場を牽引しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "牛肉は2025年に35～40%という最大の市場収益シェアを獲得しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "牛肉は2025年に35～40%と最大の市場シェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "スキャフォールドベースは2025年に40～45%という最大の市場シェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "ひき肉は40～45%と最大の市場シェアを占めています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "バーガーパティは35～40%と最大の市場シェアを占めています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "食肉産業は90～95%と最大の市場シェアを占めています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "なお、植物由来食品市場の中では植物由来乳代替飲料がもっとも規模が大きく、植物由来乳代替飲料と植物由来乳製品の合計売上高は、植物由来食品売上高の約半数を占めている（コラム1−図1）",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、植物由来食品協会（PBFA）によれば、北米地域は世界の食肉代替食品市場の31%を占める市場であり、同市場の規模は2020年まで4%の年平均成長率（CAGR）で成長し続けると予想されている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、世界最大の市場は41%を占める欧州であり、同地域の2020年までのCAGRは約6.3%と見込まれている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "セルミート社とシーウィス社は、商業利用を目的とした培養牛肉や培養魚介類の開発を手がける主要企業である",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場の主要企業は、生産規模の拡大、食品技術の進歩、そして持続可能な代替肉の入手可能性とアクセス性を向上させるための戦略的パートナーシップの構築に注力している",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場の主要企業には、Eat Just（GOOD Meat）、Upside Foods、Believer Meats（旧称 Future Meat Technologies）、Biotech Foods、Mosa Meat などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー:",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、倫理的なポジショニングは、新規参入企業にとってブランドアイデンティティにおいて不可欠な要素となりつつあります",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "欧州、イスラエル、米国の主要企業が市場をリードしています",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場を支配している主要企業は誰ですか?",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要プレイヤーのポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業プロファイル",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "pass": 3
+   },
+   {
+    "quote": "世界の培養肉市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、主要な勝利戦略、競合ダッシュボード、企業評価象限などの競争分析がレポートに含まれています",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロファイルも提供されています",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "第9章には日本の各地域（関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国）ごとに、概要、2020年から2025年までの過去および現在の市場トレンド、原料別内訳、用途別内訳、エンドユーザー別内訳、主要プレイヤー、そして2026年から2034年までの市場予測が詳細に記載されています",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "競合情勢：主要プレイヤーが世界的に展開する戦略的動きを理解し、適切な戦略による市場参入の可能性を把握します",
+    "url": "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と戦略分析",
+    "url": "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the cultured meat market with a share of over 35.0% in 2025. Increased demand for sustainable meat and poultry products, coupled with the presence of key players in the region, is supporting the growth. Several U.S.-based companies, such as Fork & Goode and BlueNalu, are gradually investing in cell-agriculture technologies to produce cultivated meats in the region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The market is characterized by numerous startups and emerging companies. Companies have been implementing various strategies, such as mergers & acquisitions, expanding production facilities, investing in research and development, and launching new products, to gain a competitive advantage.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the cultured meat market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include include Aleph Farms; Avant Meats Company Limited; Biftek INC; Mosa Meat; BlueNalu, Inc.; BioFood Systems Ltd ;WildType ; New Age Eats; Shiok Meats Pte Ltd; SuperMeat; Meatable; Finless Foods, Inc.; Fork & Good, Inc.; Future Meat Technologies Ltd; UPSIDE Foods; Mission Barns",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cultured Meat Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in cultured meat market?",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in cultured meat market include Eat Just (GOOD Meat), Upside Foods, Believer Meats (formerly Future Meat Technologies), Biotech Foods, Mosa Meat.",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cultivated Meat Market Competitive Landscape:",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "Cultivated Meat Market Key Players:",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "3. Cultivated Meat Market: Competitive Landscape",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "3.2. Competitive Landscape",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "3.3. Key Players Benchmarking",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "11. Company Profile: Key players",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "Frozen Seafood Market Analysis: Growth Potential, Competitive Landscape, and Strategic Outlook (2025-2032)",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "Feed Market (2026–2032) Market Size, Growth Trends & Key Players",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "Bioreactor capacity in operation, sustained output over time, and run reliability and consistency all were strengthened in 2025. IntegriCulture announced that it achieved profitability by generating revenue from selling research tools and non-food products, a common diversification strategy pursued by startups needing to demonstrate clear and early paths to profitability.",
+    "url": "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional, and Country-Level Analysis; Segment-Level Analysis; DROC; PESTLE Analysis; Porter’s Five Forces Analysis; Competitive Landscape; Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "A few major players of the global cultured meat market include",
+    "url": "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players in the Global Cultured Meat Market",
+    "url": "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/reports/cultured-meat-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.rootsanalysis.com/reports/cultured-meat-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Growing investments by prominent players",
+    "url": "https://www.acumenresearchandconsulting.com/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.acumenresearchandconsulting.com/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "The prominent players of the global cultured meat market involve Aleph Farms, BlueNalu, Eat Just, Finless Foods, Future Meat Technologies Ltd, Higher Streaks, Just, Inc,Meatable, Memphis Meats, Mosa Meat, New Age Meats, and Shiok Meats.",
+    "url": "https://www.acumenresearchandconsulting.com/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships are expanding between cultivated meat startups, conventional meat companies, ingredient suppliers and restaurant groups.",
+    "url": "https://www.datamintelligence.com/research-report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cultured Meat Market Competitive Landscape",
+    "url": "https://www.datamintelligence.com/research-report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.datamintelligence.com/research-report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "Size, Share, Competitive Landscape and Trend Analysis Report, by Type (Red Meat, Poultry, Seafood), by End User (Household, Food Services)",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   },
+   {
+    "quote": "Major players such as Memphis Meats and Mosa Meat BV have adopted partnership, agreement, and acquisition as key developmental strategies to improve the product portfolio of the cultured meat market.",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   },
+   {
+    "quote": "The report includes the analysis of the regional as well as global cultured meat market trends, key players, market segments, application areas, and market growth strategies.",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the global cultured meat market include Aleph Farms Ltd., Cubiq Foods S.L., Future Meat Technologies, Meatable B.V., Memphis Meats, Mission Barns, Mosa Meat BV, Redefine Meat, and Vow Group Pty Ltd.",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2023年の最大投資額は3,500万米ドル（Meatable）でした",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "またIPOをした会社の場合は、直近1年間の資本金及び資本準備金の増減と合計を直近の資金調達額と資金調達累計額とみなしております",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "上記スタートアップの資金調達累計額は、本ページの更新時点で約4900百万ドルとなっております",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "代替肉開発会社の資金調達累計額を分子に、上述した業界全体の資金調達額を分母にして、資金調達額シェアを計算し、ランキング化すると、2022年3月時点では、1位はビヨンド・ミート、2位はインポッシブルフーズ、3位はフューチャーミートとなります",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "植物肉・代替肉の資金調達累計額の市場シェアランキング（2022年3月） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月にテマセクやシンガポール経済開発庁EDBIから1億ドルの資金調達を行いました",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "テマセク、K3 Ventures、Ontario Teachers’ Pension Plan、BlackRock、General Atlantic、CPT Capital、Fonterra、Louis Dreyfus、Sand Hill Angels、Evolution VC Partners、Stray Dog Capital、Greenlight Capital、Green Circle Foodtech Ventures、Clear Current Capital、",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "、DFJ、IndieBio、New Crop Capital、SOSV、New Crop Capital、Rich Products Corporation、Emerald Technology Ventures、S2G Ventures、Neto Group、TechU、Sand Hill Angels、FF Venture Capital、VisVires New Protein、L Catterton、VisVires New Protein、カーギル、Happiness Capital、Hanaco Ventures Capitalなどが植物肉や培養肉に出資を行っている会社となります",
+    "url": "https://deallab.info/meat-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月、アップサイドフーズは、次の成長段階を支えるため、シリーズCの資金調達で4億ドルを調達しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "なお、タイソン・フーズ社は2019年6月には独自の植物由来商品ブランド『Raised&Rooted』を立ち上げるなど、PBM市場への直接的かつ本格的な参入を果たしている",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "NAMIの会員である大手パッカーのカーギル社やタイソン・フーズ社は、細胞培養肉の先駆けであるメンフィス・ミーツ社に出資しており、NAMIとメンフィス・ミーツ社は2018年8月、トランプ大統領宛てに共同書簡を送り、「細胞培養食肉」（cell-based meat and poultry）について明確な連邦法の整備を求めるとともに、細胞培養食肉の市販前の食品安全に関する検証をFDAが担当し、生産と 販売については従来の食肉と同様にUSDAが担当することを提案した",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "pass": 3
+   },
+   {
+    "quote": "収益（25％）、資金調達強度（20％）、商業パートナーシップ（15％）、特許取得済みの技術深度（15％）、規制のマイルストーン（15％）、メディアの可視性（10％）を重み付けしました",
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "pass": 3
+   },
+   {
+    "quote": "データは、監査済みの2024の財務、クランチベースの資金調達フィード、特許登録、規制当局の提出、および検証済みのプレスリリースから調達されました",
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the cultivated meat sector experienced a mix of successes and struggles across the commercial, investment, technology, policy, and regulatory landscape. Highlights featured in the report include:",
+    "url": "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Production technology is shifting quickly. Early pilots depended on pharmaceutical-grade stirred-tank bioreactors and fetal bovine serum, an input that once represented 80–90% of production cost. Producers are replacing both with serum-free, food-grade media and purpose-built food bioreactors. Cumulative private investment in cultivated meat and",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": "Governments are funding the scale-up gap that private capital left open. The Netherlands awarded €60 million from its National Growth Fund in 2022 for cellular agriculture research, education, and shared facilities",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": ". Food companies with science-based emissions targets increasingly treat cultivated ingredients as a long-term Scope 3 lever, which supports offtake discussions and strategic investment.",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": "Capital has grown quite tight. Cultivated meat enterprises raised USD 226 million in 2023, approximately 75% less than in 2022, according to the Good Food Institute",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": ". Investment declined further to nearly USD 139 million in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "pass": 3
+   },
+   {
+    "quote": "North America (held the largest share in 2025 supported by technology adoption and high-end research funding)",
+    "url": "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "The industry has expanded to more than 175 companies across six continents, supported by cumulative investments exceeding USD 3.1 billion.",
+    "url": "https://www.rootsanalysis.com/reports/cultured-meat-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "raised £10.4 million in Series A financing to develop Europe's largest cultivated meat production facility in London.",
+    "url": "https://www.rootsanalysis.com/reports/cultured-meat-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "By region, the Asia-Pacific region led the industry in 2023, driven by strong investments, supportive regulations, and rising alternative protein demand. Meanwhile, Europe is projected to register the highest CAGR, fueled by sustainability initiatives, technological advancements, and increasing consumer acceptance.",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging economies with growing middle-class populations and rising protein demand offer untapped market potential. Expansion into diverse product categories, including poultry, seafood, and premium meat cuts, can broaden consumer appeal. Increasing government support, climate-focused policies, and strategic investments are expected to sustain long-term market growth between 2024 and 2033.",
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "pass": 3
+   },
+   {
+    "quote": "]. In the Netherlands, Mosa Meat raised €40 million and organized the first formal tasting of its cultivated beef, while Meatable hosted Europe’s inaugural lab-grown pork sausage tasting, rendered possible by a pioneering national code of practice that permits controlled tastings [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12732247/",
+    "pass": 3
+   },
+   {
+    "quote": "]. On the regulatory front, the FSA has received applications for cultivated steak, chicken, and foie gras, bolstered by £1.6 million in government funding aimed at expediting safety assessments, with a goal of completing evaluations within 2 years [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12732247/",
+    "pass": 3
+   },
+   {
+    "quote": "https://m.health.chosun.com/svc/news_view.html?contid=2025031401592",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12732247/",
+    "pass": 3
+   },
+   {
+    "quote": "industry has benefitted from private and public investment in research. The Good Food Institute estimated that from 2010 to",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022, approximately $3 billion in private capital was invested in cell-cultivated meat and seafood companies. In the last 10",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Private Investment ..................................................................................................................... 4",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Public Investment ...................................................................................................................... 4",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital. The Good Food Institute estimated that from 2010 to 2022, approximately $3",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest investment in 2022 was $400 million for UPSIDE Foods. Some of the world’s largest",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "meat companies. For example, Tyson Foods invested in UPSIDE Foods in 2018 and Believer",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cultivated meat research and development center in Brazil.22 Cargill invested in UPSIDE Foods in",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017 and 2020, and invested in Aleph Farms in 2019.23",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With over $3 billion in investments (some of it for non-lab-grown upgrades for animal-abusing foods like their popular Just Egg), its",
+    "url": "https://www.peta.org/lifestyle/food/top-lab-grown-meat/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "培養肉市場規模 、シェア、成長率、分析、レポート（2034年 ... — 培養肉市場規模 、シェア、成長率、分析、レポート（2034年 ... Straits Research https://straitsresearch.com > 食品・飲料 > 食品",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 の 規模 とシェア、成長分析、2026〜2035年 — 培養肉市場 の 規模 とシェア、成長分析、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > cultured-meat-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場規模 とシェア、2035年予測レポート — 培養肉市場規模 とシェア、2035年予測レポート Research Nester https://www.researchnester.com > cultured-meat-market",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 培養肉市場規模 、需要とシェア、2034年レポート — 日本の 培養肉市場規模 、需要とシェア、2034年レポート IMARC Group https://www.imarcgroup.com > Food & Beverages",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉 成分 市場 の予測 2034年 - グローバルインフォメーション — 培養肉 成分 市場 の予測 2034年 - グローバルインフォメーション グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 食料/飲料 > 加工食品",
+    "url": "https://www.gii.co.jp/report/smrc2149612-cultivated-meat-ingredients-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 の規模と シェア 、成長分析、2026〜2035年 — 培養肉市場 の規模と シェア 、成長分析、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > cultured-meat-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 規模と シェア 、2035年予測レポート — 培養肉市場 規模と シェア 、2035年予測レポート Research Nester https://www.researchnester.com > cultured-meat-market",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 規模、 シェア 、成長率、分析、レポート（2034年 ... — 培養肉市場 規模、 シェア 、成長率、分析、レポート（2034年 ... Straits Research https://straitsresearch.com > 食品・飲料 > 食品",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 規模、 シェア 、2032年までの予測 — 培養肉市場 規模、 シェア 、2032年までの予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 の規模とシェア、成長分析、2026〜2035年 — 培養肉市場 の規模とシェア、成長分析、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > cultured-meat-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 規模とシェア、2035年予測レポート — 培養肉市場 規模とシェア、2035年予測レポート Research Nester https://www.researchnester.com > cultured-meat-market",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 培養肉市場 規模、需要とシェア、2034年レポート — 日本の 培養肉市場 規模、需要とシェア、2034年レポート IMARC Group https://www.imarcgroup.com > Food & Beverages",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉市場 規模、シェア、成長率、分析、レポート（2034年 ... — 培養肉市場 規模、シェア、成長率、分析、レポート（2034年 ... Straits Research https://straitsresearch.com > 食品・飲料 > 食品",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉 の日本 市場 （2026年～2034年）、 市場 規模（ナゲット — 培養肉 の日本 市場 （2026年～2034年）、 市場 規模（ナゲット アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "pass": 3
+   },
+   {
+    "quote": "培養肉 の世界 市場 - 2025 年～2030年の予測 — 培養肉 の世界 市場 - 2025 年～2030年の予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 食料/飲料 > 加工食品",
+    "url": "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cultivated Meat Market Analysis and Forecast 2032 — Cultivated Meat Market Analysis and Forecast 2032 Stellar Market Research https://www.stellarmr.com > report",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "pass": 3
+   },
+   {
+    "quote": "2026 State of the Industry: Cultivated meat , seafood, and ... — 2026 State of the Industry: Cultivated meat , seafood, and ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=F1s702taM5o&vl=ja",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "22.04",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "quote": "世界の培養肉市場規模は、2025年には3,624万米ドルと評価され、2026年の4,423万米ドルから2034年には2億1,762万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は22.04%となる見込みです"
+   },
+   {
+    "value": "39.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "Global Market Insights Inc.が発表した最新の報告書によると、市場規模は2026年の1億2,330万米ドルから2035年までに25億米ドルへ拡大し、年平均成長率（CAGR）39.8%で成長すると予測されています"
+   },
+   {
+    "value": "55",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "潜在的な上振れCAGRを55%抑制"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "潜在的な上振れCAGRを45%抑制"
+   },
+   {
+    "value": "33.6",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）33.6%で成長が見込まれます"
+   },
+   {
+    "value": "17.60",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "quote": "（CAGR）17.60%"
+   },
+   {
+    "value": "34.2",
+    "url": "https://newscast.jp/smart/news/2974270",
+    "quote": "世界の培養肉市場規模は、2024年に1億9,008万米ドルと評価され、2025年の2億5,509万米ドルから2033年までに26億8,355万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR34.2％で成長すると見込まれています"
+   },
+   {
+    "value": "6.3",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "quote": "なお、世界最大の市場は41%を占める欧州であり、同地域の2020年までのCAGRは約6.3%と見込まれている"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "quote": "一方、アジア・太平洋地域の市場は、欧州や米国よりも市場規模は小さいものの、2020年までのCAGRは10.5%と見込まれ、急成長市場とみなされている"
+   },
+   {
+    "value": "55.00",
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "quote": "R＆D CAGR 55.00％"
+   },
+   {
+    "value": "46.97",
+    "url": "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "quote": "世界の培養肉市場は、2025年の4億4,958万米ドルから2030年までに30億8,251万1,000米ドルに達し、CAGR46.97％で拡大すると予測されています"
+   },
+   {
+    "value": "51.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "quote": "CAGR of 51.6% from 2023 to 2030"
+   },
+   {
+    "value": "33.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "quote": "The global cultured meat market is expected to grow at a CAGR of 33.4% from 2026 to 2033, reaching USD 4000 million by 2033."
+   },
+   {
+    "value": "37.62",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "quote": "Others account for USD 240.5 million, or 20.0%, in 2025 and are projected to record the highest product CAGR (37.62%). The category includes hybrid products that use cultured biomass selectively alongside plant-based matrices, bringing cultured ingredients to retail while standalone output remains c"
+   },
+   {
+    "value": "39.8",
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "quote": "The market is projected to reach USD 2.5 billion by 2035, growing at a CAGR of 39.8% from 2026 to 2035."
+   },
+   {
+    "value": "21.9",
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "quote": "was valued at US$ 0.43 Bn. in the year 2025 and is expected to reach US$ 1.75 Bn. by 2032 with a growing CAGR of 21.9% over the forecast period of 2026-2032."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "38.5",
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "quote": "北米は2025年に38.5%の市場シェアを占め、培養肉市場を牽引しました"
+   },
+   {
+    "value": "18.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "Eat Just（GOOD Meat）が 2025年に 18.2%を超える市場シェアを占め、市場をリードした"
+   },
+   {
+    "value": "67.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "が含まれ、これらの企業が占める市場シェアは 2025年に合計 67.5%に達した"
+   },
+   {
+    "value": "50",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "多くの生産構成において、培地は製造コストの推定50%〜70%を占め、引き続き主要な経済的制約となっています"
+   },
+   {
+    "value": "70",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "多くの生産構成において、培地は製造コストの推定50%〜70%を占め、引き続き主要な経済的制約となっています"
+   },
+   {
+    "value": "75.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "ひき肉・ミンチ製品は、2025年の市場規模 9億180万米ドル、構成比 75.0% を占め、2035年まで約 36.15% の年平均成長率で拡大すると予測される"
+   },
+   {
+    "value": "36.15",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "ひき肉・ミンチ製品は、2025年の市場規模 9億180万米ドル、構成比 75.0% を占め、2035年まで約 36.15% の年平均成長率で拡大すると予測される"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "構造化製品は、2025年に市場規模 6,010万米ドル、構成比 5.0% を占め、約 33.32% で拡大すると予測される"
+   },
+   {
+    "value": "33.32",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "構造化製品は、2025年に市場規模 6,010万米ドル、構成比 5.0% を占め、約 33.32% で拡大すると予測される"
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "その他は、2025年に 2億4,050万米ドル、構成比 20.0% を占め、製品別では最も高い 37.62% の年平均成長率を記録すると予測される"
+   },
+   {
+    "value": "37.62",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "その他は、2025年に 2億4,050万米ドル、構成比 20.0% を占め、製品別では最も高い 37.62% の年平均成長率を記録すると予測される"
+   },
+   {
+    "value": "70.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "ヒト向け食品は、2025年の市場規模 8億4,170万米ドル、構成比 70.0% を占める"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "研究開発は 9,620万米ドル（8.0%）を占め、細胞株の実験、安全性試験、規制当局向け申請書類の作成を支えている"
+   },
+   {
+    "value": "2.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "その他は 2,400万米ドル（2.0%）を占め、特殊原料や培養コラーゲンを含む"
+   },
+   {
+    "value": "63.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "フードサービスは、2025年に市場規模 7億5,750万米ドル（シェア 63.0%）で流通をリードし、約 36.54% の年平均成長率で拡大している"
+   },
+   {
+    "value": "36.54",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "quote": "フードサービスは、2025年に市場規模 7億5,750万米ドル（シェア 63.0%）で流通をリードし、約 36.54% の年平均成長率で拡大している"
+   },
+   {
+    "value": "38.7",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "quote": "2035年までに38.7％のシェアを獲得"
+   },
+   {
+    "value": "60.4",
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "quote": "2035年までに、培養肉市場におけるB2Bセグメントは、確立された流通ネットワークを活用してスケーラブルな商業展開を実現し、60.4%のシェアを確保すると予想されています"
+   },
+   {
+    "value": "1",
+    "url": "https://deallab.info/meat-tech/",
+    "quote": "調査会社のリサーチアンドマーケッツによれば2019年の食肉加工業界の市場規模は6650億ドルなので、食肉市場に占める代替肉市場は1%未満です"
+   },
+   {
+    "value": "41.2",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "quote": "北米は、早期の規制承認、活発な投資活動、そして持続可能で倫理的な代替食品に対する高い消費者意識に支えられ、培養肉市場において2025年には41.2%という最大の収益シェアを獲得し、市場を牽引しています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "quote": "牛肉は2025年に35～40%という最大の市場収益シェアを獲得しました"
+   },
+   {
+    "value": "45",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "quote": "スキャフォールドベースは2025年に40～45%という最大の市場シェアを占めました"
+   },
+   {
+    "value": "95",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "quote": "食肉産業は90～95%と最大の市場シェアを占めています"
+   },
+   {
+    "value": "31",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "quote": "また、植物由来食品協会（PBFA）によれば、北米地域は世界の食肉代替食品市場の31%を占める市場であり、同市場の規模は2020年まで4%の年平均成長率（CAGR）で成長し続けると予想されている"
+   },
+   {
+    "value": "4",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "quote": "また、植物由来食品協会（PBFA）によれば、北米地域は世界の食肉代替食品市場の31%を占める市場であり、同市場の規模は2020年まで4%の年平均成長率（CAGR）で成長し続けると予想されている"
+   },
+   {
+    "value": "41",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "quote": "なお、世界最大の市場は41%を占める欧州であり、同地域の2020年までのCAGRは約6.3%と見込まれている"
+   },
+   {
+    "value": "6.3",
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "quote": "なお、世界最大の市場は41%を占める欧州であり、同地域の2020年までのCAGRは約6.3%と見込まれている"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/2974270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/meat-tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://patentscouter.com/entry/alternative-cultivated-meat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7164755",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250827.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/myconsulting/n/nbbd1e068d3e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://framtiden.earth/cultivation-based-annual-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/lab-grown-food-market-117014",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/cultured-meat-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/reports/cultured-meat-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acumenresearchandconsulting.com/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12732247/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated_(band)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/cultured-meat-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peta.org/lifestyle/food/top-lab-grown-meat/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/lab-grown-meat-market-5293",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/articles/key-companies-in-cultured-meat",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "培養肉 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "https://newscast.jp/smart/news/2974270",
+    "https://www.gii.co.jp/report/smrc2149612-cultivated-meat-ingredients-market-forecasts.html",
+    "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "https://www.atpress.ne.jp/news/6314745",
+    "https://jp.linkedin.com/pulse/%E6%A0%BD%E5%9F%B9%E8%82%89%E5%B8%82%E5%A0%B4%E3%81%AE%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%82%AF%E3%82%B9%E3%81%A8%E4%BA%88%E6%B8%ACcagr-1412026%E5%B9%B42033%E5%B9%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%B0%82%E9%96%80%E5%AE%B6%E5%88%86%E6%9E%90-extraction-edge-e6jpe",
+    "https://www.gii.co.jp/report/tbrc2133583-cultured-meat-global-market-report.html"
+   ]
+  },
+  {
+   "query": "培養肉 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "https://deallab.info/meat-tech/",
+    "https://newscast.jp/smart/news/2974270",
+    "https://www.databridgemarketresearch.com/jp/reports/global-cultured-meat-market",
+    "https://www.alic.go.jp/joho-c/joho05_000777.html",
+    "https://patentscouter.com/entry/alternative-cultivated-meat",
+    "https://www.reportprime.com/ja/%E9%A4%8A%E6%AE%96%E8%82%89-r6422/company",
+    "https://www.gii.co.jp/report/tbrc2133583-cultured-meat-global-market-report.html"
+   ]
+  },
+  {
+   "query": "培養肉 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/cultured-meat-market",
+    "https://www.researchnester.com/ja/reports/cultured-meat-market/8272",
+    "https://www.imarcgroup.com/report/ja/japan-cultured-meat-market",
+    "https://straitsresearch.com/jp/report/cultured-meat-market",
+    "https://www.atpress.ne.jp/news/7164755",
+    "https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html",
+    "https://www.youtube.com/watch?v=EMONjaYASdY",
+    "https://www.aist.go.jp/aist_j/magazine/20250827.html",
+    "https://note.com/myconsulting/n/nbbd1e068d3e0",
+    "https://framtiden.earth/cultivation-based-annual-report/"
+   ]
+  },
+  {
+   "query": "cultivated meat market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "https://www.gminsights.com/industry-analysis/cultured-meat-market",
+    "https://www.stellarmr.com/report/cultivated-meat-market/2393",
+    "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "https://www.bccresearch.com/market-research/biotechnology/synthetic-cultured-meat.html?srsltid=AYCX9vLu8T5tTB-uubMUPwtN2kRpIO80ZO4HVDqpM6YQ_7GNCxyDOiHT",
+    "https://www.precedenceresearch.com/cultured-meat-market",
+    "https://www.linkedin.com/pulse/industry-projections-global-cultivated-meat-market-size-experiencing-myiqe",
+    "https://www.meticulousresearch.com/product/lab-grown-meat-market-5293"
+   ]
+  },
+  {
+   "query": "cultivated meat market share top players percent",
+   "results": [
+    "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "https://www.fortunebusinessinsights.com/lab-grown-food-market-117014",
+    "https://www.mordorintelligence.com/industry-reports/cultured-meat-market",
+    "https://www.rootsanalysis.com/reports/cultured-meat-market.html",
+    "https://www.acumenresearchandconsulting.com/cultured-meat-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8150824/",
+    "https://market.us/report/global-cultured-meat-market/",
+    "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "https://www.futuremarketinsights.com/reports/cultured-meat-market"
+   ]
+  },
+  {
+   "query": "cultivated meat market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.datamintelligence.com/research-report/cultured-meat-market",
+    "https://www.marketdataforecast.com/market-reports/cultured-meat-market",
+    "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "https://www.alliedmarketresearch.com/cultured-meat-market-A06670",
+    "https://www.mordorintelligence.com/industry-reports/cultured-meat-market",
+    "https://www.youtube.com/watch?v=F1s702taM5o&vl=ja",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12732247/",
+    "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "https://www.congress.gov/crs_external_products/R/PDF/R47697/R47697.3.pdf",
+    "https://en.wikipedia.org/wiki/Consolidated_(band)"
+   ]
+  },
+  {
+   "query": "cultivated meat market key companies share 2025",
+   "results": [
+    "https://gfi.org/resource/cultivated-meat-seafood-and-ingredients-state-of-the-industry/",
+    "https://www.grandviewresearch.com/industry-analysis/cultured-meat-market-report",
+    "https://www.precedenceresearch.com/cultured-meat-market",
+    "https://www.youtube.com/watch?v=F1s702taM5o&vl=ja",
+    "https://www.futuremarketinsights.com/reports/cultured-meat-market",
+    "https://www.marketresearchfuture.com/reports/cultured-meat-market-11918",
+    "https://www.fortunebusinessinsights.com/lab-grown-food-market-117014",
+    "https://www.peta.org/lifestyle/food/top-lab-grown-meat/",
+    "https://www.meticulousresearch.com/product/lab-grown-meat-market-5293",
+    "https://www.researchandmarkets.com/articles/key-companies-in-cultured-meat"
+   ]
+  }
+ ],
+ "missing": {}
+}

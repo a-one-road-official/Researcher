@@ -1,0 +1,1792 @@
+{
+ "name": "いちよし証券",
+ "aliases": [],
+ "context": "証券コード8624／証券、商品先物取引業／プライム（内国株式）／2026.03期 売上高24,577百万円 営業利益率25.1%",
+ "researched_at": "2026-11-02T16:58:08.338372+00:00",
+ "official_url": "https://www.ichiyoshi.co.jp/",
+ "identified_by": "search:yahoo_jp:いちよし証券",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1987年5月28日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1986年10月30日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1962年12月25日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2020年1月27日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "創立",
+    "value": "1950年8月18日",
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業の内容",
+    "value": "情報サービス業 投資助言・代理業",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "主な事業の内容",
+    "value": "投資運用業（投資信託委託業含む。） 投資助言・代理業",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "主な事業の内容",
+    "value": "不動産賃貸・仲介・管理業 事務用品等販売業及び金融商品仲介業",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "label": "主な事業の内容",
+    "value": "金融商品仲介業",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "978人（単体）（2026年9月末）",
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "1990年代後半の「日本版ビッグバン」を契機に「改革の断行」に踏み切り、「貯蓄から投資へ」の推進に向け、 売買手数料中心の「フロー型ビジネスモデル」から、お客様の資産を安全・着実にじっくりと増やすための 資産管理アドバイス中心の「ストック型ビジネスモデル」への転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そして2019年よりこのビジネスモデルを確実なものとするために20年振りの「改革の断行」に取組み、現在、 更なる高みを目指しています",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の「ストック型ビジネスモデル」への進捗度合いを測る最適指標がコストカバー率です",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ストック型ビジネスモデルのベースとなるのが、2015年に取り扱いをスタートさせたファンドラップ",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に制定された「いちよしのクレド」において、「社員」「お客様」「株主」「社会」といったステークホルダーの皆様への存在意義を定め、業績の向上と企業価値の最大化を図りつつ、持続的に成長してくためのビジネスモデル構築に努めています",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社の目指すビジネスモデルは「ストック型ビジネスモデル」です",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "本年3月末をもちまして2023年4月から取り組んでまいりました中期経営計画「3・D」の計画期間が終了することに伴い、この度、このお客様本位の「ストック型ビジネスモデル」への転換をより一層加速させるべく、新中期経営計画「ターゲット5 ＜ONE TEAM＞」を策定いたしました",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "いちよし証券は、「お客様に信頼され、選ばれる企業であり続ける」ことを経営理念としています",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一人一人のお客様のニーズに合った資産運用を実現すべく、お客様が納得いくまでお話しをお聞きし、アドバイスできる対面での資産運用のご相談にこだわっています",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来「お客様第一」を理念として業務を行ってきました",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代後半の「日本版ビッグバン」を契機に「改革の断行」に踏み切り、「貯蓄から投資へ」の推進に向け、 売買手数料中心の「フロー型ビジネスモデル」から、お客様の資産を安全・着実にじっくりと増やすための 資産管理アドバイス中心の「ストック型ビジネスモデル」への転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の「ストック型ビジネスモデル」への進捗度合いを測る最適指標がコストカバー率です",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなベースとなる資産を中心にお客様に中長期分散投資の観点で資産運用をご提案しています",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファンドラップの大手9社運用損益プラス顧客割合（2026年）",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファンドラップの大手9社運用損益プラス顧客割合（2025年）",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営をより一層推進するための方針",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよし証券が行っている、お客様、株主、社員、そして社会に向けた取り組みについてご紹介しています",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様本位の業務運営」",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の意向に",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせて最適なご提案ができるよう、幅広く商品を揃えています",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の投資スタイルに合わせ、2つのお取引方法を選ぶことができます",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "ファンドラップとは、お客様に代わって専門の担当者が金融資産の運用・管理を包括的に行うサービスです",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の投資スタイルに合わせ、2つのお取引方法を選ぶことができます",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の資産運用ニーズに合った株式商品・関連サービスをご利用いただけます",
+    "url": "https://www.ichiyoshi.co.jp/first/stock",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の資産運用ニーズに合った債券商品・関連サービスをご利用いただけます",
+    "url": "https://www.ichiyoshi.co.jp/first/bond",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託はお客様の代わりに専門家（ファンドマネージャー）が、豊富な経験やノウハウを活かして運用します",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお金を集め、1つの資金としてまとめて運用を行いますので、一人ひとりの資金は少なくても効率のよい運用ができるという仕組みです",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様が世界中の株式や債券などに直接分散投資をしようとすると、かなりの資金が必要となります",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の資産運用ニーズに合った投資信託・関連サービスをご利用いただけます",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のお預り残高状況やお取引履歴・各種投資レポート等がご覧いただける、お客様専用サイトです",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様のマイナンバー(個人番号)がわかる書類と本人確認書類のご提出が必要です",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様からのお振込みを確認させていただいてからご注文を承ります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "pass": 1
+   },
+   {
+    "quote": "また、株式等に関しましては、事務処理上お客様のご注文を弊社より市場へ取り次ぐ際、時間を要する場合があります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "また、委託手数料についてはお客様にお断りすることなく変更する場合がございます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から弊社へのご入金は「お振込」または「いちよしスマート振替サービス」をご利用いただきます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "弊社からお客様へのご出金はお振込みのみです",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "「いちよしスマート振替サービス」をご利用されていないお客様は、当社指定口座へお振込みください",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "※口座番号が6桁以外のお客様は頭に「0」を入れ、 6桁にてご入力ください",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "あらかじめお客様のお取引金融機関口座をご登録いただくことで、当社へお電話等による振替ご指示により、簡単・即時にお客様の当社証券総合口座にご資金を振替入金いただくことができるサービスです",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしスマート振替サービスは、お客様からの振替のご依頼に基づき、ご依頼いただいた金額をあらかじめご登録いただいた金融機関の預金口座から引落し、当社のお客様の口座に入金するサービスです",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "当社はご依頼をいただいたのち、速やかにご登録いただいた金融機関へ振替金額を請求し、弊社のお客様の口座に入金いたします",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "当社のお客様の口座からの返金をご希望の場合は、お客様のご依頼に基づき、当社にあらかじめご登録いただいた金融機関の預金口座へお振込いたします",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "お買付代金等のご入金が必要な場合であっても、お客様からの振替のご依頼がない場合は、自動的に振替は行われません",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "ご出金時及び利金・分配金における自動振込時の振込送金手数料は以下の通り、お客様のご負担とさせていただきます（※）",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "以下の金融機関各支店にあるお客様口座や法人のお客様への振込送金手数料につきましては、弊社の負担とさせていただきます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "さらに各部門のコ・ワーク（共同業務推進）によるシナジー効果により、お客様に「より良いサービス」、「より良い商品」、「より良い情報」をご提供し、その結果として、お客様の大切な金融資産の運用及び企業経営のお役に立つことになると考えております",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "お客様第一主義の",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "いちよし証券は、お客様のオンリーワンのパートナーとして長くお取引いただける会社を目指しています",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "オンラインではなく対面で、お客様のニーズや今後の人生設計をお伺いし、最適なポートフォリオの構築・提案を行います",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "「売れる商品でも、売らない信念」で、お客様により良い商品を提供",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、お客様の大切な資産を安心して中長期に保有していただけるよう、あえてお断りする事があります",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の資産を安全・着実にじっくりと増やしていくことが第一です",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様に信頼して頂き、より長い間お付き合いをして頂くことを目指しています",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "さらに各部門のコ・ワーク（共同業務推進）によるシナジー効果により、お客様に「より良いサービス」、「より良い商品」、「より良い情報」をご提供し、その結果として、お客様の大切な金融資産の運用及び企業経営のお役に立つことになると考えております",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営をより一層推進するための方針 | いちよし証券",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営をより一層推進するための方針",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "）は、「今までの日本にない証券会社をつくろう」を合言葉に、お客様本位の資産運用を実現すべく時代の変化に対応しながら、創立以来、揺るがぬ軸を受け継ぎながら歩んで参りました",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "品揃えではなく質にこだわり、「一人一人のお客様のお役に立つ」という想いを込めて対面営業にこだわった「金融・証券界のブランド・ブティックハウス」を目指すことを経営目標に掲げ、その実現に向けて「お客様本位の業務運営をより一層推進するための方針」を定めております",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本方針中の金融庁「顧客本位の業務運営に関する原則」との対応箇所には、原則番号を標記しております",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様本位の業務運営をより一層推進するための方針を公表し、定期的に見直しを行うことで、より良い業務運営を実現して参ります",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、創業以来「お客様第一」を理念として業務を行って参りました",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代後半の「日本版金融ビッグバン」を契機に、「貯蓄から投資へ」の推進に向け、お客様の資産を安全・着実にじっくりと増やすために、お役に立てる証券会社を目指し、資産管理型アドバイスへの転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の企業文化の公表・定着に向けて",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、目指してきた資産管理型アドバイスの基本であるお客様本位の姿勢をより徹底するため、2006年に「いちよしのクレド」を制定し、①当社ホームページへの掲載、②個人投資家、機関投資家向け説明会資料への掲載、③株主総会の招集ご通知や株主へのビジネスレポートへの掲載をしています",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "また、月に一度、全店放送にて「いちよしのクレド」の行動指針（感謝・誠実・勇気・迅速・継続）を実践し、お客様満足度の高い実績のあった資産アドバイザーを選び、全役職員の模範（ベストプラクティス）となる発表を行う「クレドアワー」を開催し、企業文化の定着に努めています",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品・資産運用サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取扱い商品",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしスマート振替サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしファンド・プレミアムサービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報提供サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品のご案内",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品一覧を見る",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレミアムサービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧を見る",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「いちよしメンバーズクラブ」サービス終了について",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の自動積立サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしビジネスサービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商号等／いちよし証券株式会社 金融商品取引業者 関東財務局長（金商）第24号",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "お取扱い商品",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしスマート振替サービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしファンド・プレミアムサービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "情報提供サービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "なぜいちよし証券が選ばれるのかを「サービスのこだわり」「信念」「経営構造」「財務体質」から紐解きます",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の自動積立サービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしビジネスサービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "商号等／いちよし証券株式会社 金融商品取引業者 関東財務局長（金商）第24号",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "お取扱い商品",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしスマート振替サービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしファンド・プレミアムサービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "情報提供サービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の自動積立サービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしビジネスサービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "商号等／いちよし証券株式会社 金融商品取引業者 関東財務局長（金商）第24号",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "お取扱い商品",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしスマート振替サービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしファンド・プレミアムサービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "情報提供サービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "運用商品について知ることは資産運用の第一歩です",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "対面でのコンサルティングサービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "沿った商品案内",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い商品ラインアップ",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせて最適なご提案ができるよう、幅広く商品を揃えています",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託の自動積立サービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしビジネスサービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "商号等／いちよし証券株式会社 金融商品取引業者 関東財務局長（金商）第24号",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "商品・資産運用サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "サービスTOP",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "お取扱い商品",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の魅力や投資の基礎知識についてご紹介します",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗をお探しの方はこちら",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの店舗をお探しの方はこちらから",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗案内を見る",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよし証券の会社概要や組織・役員の体制についてご紹介しています",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしグループの関連会社を紹介しています",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "いちよし証券が行っている、お客様、株主、社員、そして社会に向けた取り組みについてご紹介しています",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "お近くに店舗がない方",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは目的別に4つのおすすめ資産運用スタイルをご紹介します",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "お近くに店舗がない方",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/first/stock",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/first/bond",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "お近くに店舗がない方や、インターネットをご利用でない方でも安心してお取引いただけます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "入出金の手順についてご紹介しています",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "いちよし証券は、お客様のオンリーワンのパートナーとして長くお取引いただける会社を目指しています",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのご案内について",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ひとりひとりに最もふさわしい一着を仕立てあげる「テーラー」のように、いちよし証券は、お客様のオンリーワンのパートナーとして長くお取引いただける会社を目指しています",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "勧誘にあたり留意すべき商品をご紹介する場合には、事前に社内において、個別のお客様属性の確認等を慎重に行い部支店長の承認を経てからご提案させていただきます",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/principle",
+    "pass": 1
+   },
+   {
+    "quote": "」を宣言し、当社の主軸となる「真のお客様本位の営業体制」の構築を推進しています",
+    "url": "https://www.ichiyoshi.co.jp/about/principle",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ひとりひとりに最もふさわしい一着を仕立てあげる「テーラー」のように、いちよし証券は、お客様のオンリーワンのパートナーとして長くお取引いただける会社を目指しています",
+    "url": "https://www.ichiyoshi.co.jp/about/principle",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・",
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお取引",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "委員会等設置会社（現 指名委員会等設置会社）へ移行する",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料等説明ページ",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代後半の「日本版ビッグバン」を契機に「改革の断行」に踏み切り、「貯蓄から投資へ」の推進に向け、 売買手数料中心の「フロー型ビジネスモデル」から、お客様の資産を安全・着実にじっくりと増やすための 資産管理アドバイス中心の「ストック型ビジネスモデル」への転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の「ストック型ビジネスモデル」への進捗度合いを測る最適指標がコストカバー率です",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ストック型ビジネスモデルのベースとなるのが、2015年に取り扱いをスタートさせたファンドラップ",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/first/stock",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/first/bond",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託は、株式投資や債券投資とは異なり、運用をプロにお願いするため手数料がかかります",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "手数料は、投資信託ごとに異なるため購入前に必ず確認しましょう",
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "割安な株式委託手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "当社支店取引に比べて50%割引の株式委託手数料でお取引いただけます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、最低手数料は1,650円です",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "手数料について詳しく見る",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "割安な株式手数料でお取引いただけます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "株式売買手数料は支店取引の50%となりますが、それ以外の商品は買い付け手数料の割引はございません",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "購入時手数料率",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "ご投資にかかる手数料等およびリスクについて",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のホームページに記載の商品等にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "各ページに掲載された各商品等のご投資にかかる手数料等およびリスクについては、当サイトの当該商品等を説明したページに記載されておりますので、各商品別のページまたは目論見書をお開きいただき、よくお読みください",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしダイレクトの手数料 | いちよし証券",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしダイレクトの手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしダイレクト（テレフォントレード）の手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "いちよしダイレクトいちよしダイレクト（テレフォントレード）の手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "委託手数料（税込）",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "手数料計算例",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "上記の手数料率は消費税10%を加えた総額表示となっております",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "約定代金は一口注文によるもので、個別のお取引の手数料及び消費税は、当社手数料を計算した金額に消費税を加えた金額となります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託等、その他の商品の委託手数料及び、単元未満株式の買取請求等については別途お問い合わせ下さい",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "また、委託手数料についてはお客様にお断りすることなく変更する場合がございます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "なお、委託手数料の計算において、円未満の端数が生じた場合には切り捨てます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "上記手数料表は、プラネットダイヤルを除きます（プラネットダイヤルとは弊社幹事企業様向けの専用サービスです）",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "委託手数料の特例措置",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "上場廃止銘柄等において約定代金が最低手数料以下となる売付については、約定代金の50％に別途消費税を加えた金額が委託手数料となります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "当日中に約定した取引種別が同一の株式または転換社債型新株予約権付社債の同一銘柄の買付同士、または売付同士は「一口注文」として合算した約定金額で手数料が計算されます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "ご投資にかかる手数料およびリスクについて",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のホームページに記載の商品等にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "各ページに掲載された各商品等のご投資にかかる手数料等およびリスクについては、当サイトの当該商品別のページ又は目論見書をお開きいただき、よくお読みください",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスのご利用にあたり、手数料等はいただきません",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "ご出金時及び利金・分配金における自動振込時の振込送金手数料は以下の通り、お客様のご負担とさせていただきます（※）",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "振込送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "同日に複数銘柄にかかる利金・分配金の自動振込がある場合、振込送金手数料は１回分のみのご負担となります",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "以下の金融機関各支店にあるお客様口座や法人のお客様への振込送金手数料につきましては、弊社の負担とさせていただきます",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料",
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "外貨送金手数料返金サービス",
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1990年代後半の「日本版ビッグバン」を契機に「改革の断行」に踏み切り、「貯蓄から投資へ」の推進に向け、 売買手数料中心の「フロー型ビジネスモデル」から、お客様の資産を安全・着実にじっくりと増やすための 資産管理アドバイス中心の「ストック型ビジネスモデル」への転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年台風第18号に伴う災害により被害を受けた方々へのご支援について",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年台風第25号に伴う災害により被害を受けた方々へのご支援について",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期の中間普通配当予定の増配に関するお知らせ",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第２四半期（中間期）連結決算速報値に関するお知らせ",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期の中間配当予定について",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年5月28日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "1986年10月30日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "1962年12月25日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "2020年1月27日",
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代後半の「日本版金融ビッグバン」を契機に、「貯蓄から投資へ」の推進に向け、お客様の資産を安全・着実にじっくりと増やすために、お役に立てる証券会社を目指し、資産管理型アドバイスへの転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "2020年から「お客様のために為すべきこと」を「お客様独自のオーダーを仕立てる信念",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "1996年の中期経営計画以降、お客様本位の資産管理型アドバイスを実践するために、「営業マン」の名称を「資産アドバイザー」と変更するとともに、評価項目を従来の「手数料中心」から「預り資産重視」に見直しを行いました",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月から評価項目の「手数料」の割合を無くし、お客様の信頼のバロメーターと考えている「預り資産の純増」を評価項目の中心としています",
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "pass": 1
+   },
+   {
+    "quote": "2020年からは「貯蓄から資産形成へ」を推進すべく、お客様一人一人のニーズに合わせたポートフォリオ提案に取り組み、「お客様のために為すべきこと」として「お客様独自のオーダーを仕立てる信念",
+    "url": "https://www.ichiyoshi.co.jp/about/principle",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に制定された「いちよしのクレド」において、「社員」「お客様」「株主」「社会」といったステークホルダーの皆様への存在意義を定め、業績の向上と企業価値の最大化を図りつつ、持続的に成長してくためのビジネスモデル構築に努めています",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代後半の「日本版ビッグバン」を契機に、「貯蓄から投資へ」の推進に向け、お客様の資産を安全・着実にじっくりと増やすためにお役に立てる証券会社を目指し、資産管理型アドバイスへの転換を図りました",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "1950年8月18日",
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | いちよし証券",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1944年5月大阪市東区（現 中央区）に当社の前身である三栄証券株式会社として、",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "現在までの沿革は以下のとおりです",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1948年(S23)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1949年(S24)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1950年(S25)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1962年(S37)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1971年(S46)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1983年(S58)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1986年(S61)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1987年(S62)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "1989年(H元年)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2000年(H12)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2003年(H15)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2006年(H18)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2007年(H19)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2009年(H21)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2010年(H22)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2011年(H23)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2012年(H24)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2013年(H25)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2014年(H26)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2019年(R1)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2020年(R2)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   },
+   {
+    "quote": "2022年(R4)",
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "いちよし証券グループではこれらの条件を満たす「中小型成長株」の発掘に強みを持っています",
+    "url": "https://www.ichiyoshi.co.jp/first/stock",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、お客様のニーズや投資意向に沿って、安定的な運用を目指す「ベース資産」を土台とし、当社グループの強みである中小型成長株での運用を組み合わせた中長期分散投資の対面でのアドバイスを行っております",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画 - いちよし証券 — 中期経営計画 - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > about > plan",
+    "url": "https://www.ichiyoshi.co.jp/about/plan",
+    "pass": 3
+   },
+   {
+    "quote": "いちよし証券 | 中小型成長株投資・資産運用のことなら ... — いちよし証券 | 中小型成長株投資・資産運用のことなら ... いちよし証券 https://www.ichiyoshi.co.jp",
+    "url": "https://www.ichiyoshi.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "資本コストや株価を意識した経営の実現に向けた対応 — 資本コストや株価を意識した経営の実現に向けた対応 いちよし証券 https://www.ichiyoshi.co.jp > stockholder > capital_cost",
+    "url": "https://www.ichiyoshi.co.jp/stockholder/capital_cost",
+    "pass": 3
+   },
+   {
+    "quote": "いちよし証券 （8624）徹底解剖：新NISA時代の「孤高 ... - note — いちよし証券 （8624）徹底解剖：新NISA時代の「孤高 ... - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n7577bb9a5fb2",
+    "pass": 3
+   },
+   {
+    "quote": "ご挨拶 | いちよし証券 — ご挨拶 | いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > about > message",
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - いちよし証券 — 決算説明資料 - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > stockholder > report",
+    "url": "https://www.ichiyoshi.co.jp/stockholder/report",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - いちよし証券 — 株主・投資家情報 - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > stockholder",
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - いちよし証券 — 決算 短信 - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > stockholder > finance",
+    "url": "https://www.ichiyoshi.co.jp/stockholder/finance",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - いちよし証券 — IRカレンダー - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > stockholder > ir-calendar",
+    "url": "https://www.ichiyoshi.co.jp/stockholder/ir-calendar",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース - いちよし証券 — プレスリリース - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > stockholder > press",
+    "url": "https://www.ichiyoshi.co.jp/stockholder/press",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - いちよし証券 — 会社概要 - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > about > profile",
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "〔組織図〕 — 〔組織図〕 いちよし証券 PDF https://img.ichiyoshi.co.jp > soshikizu_20221003",
+    "url": "https://img.ichiyoshi.co.jp/ichiyoshi/pc/pdf/about/profile/soshikizu_20221003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いちよし証券 について — いちよし証券 について いちよし証券 https://www.ichiyoshi.co.jp > about",
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書等・業務及び財産の状況 - いちよし証券 — 有価証券報告書等・業務及び財産の状況 - いちよし証券 いちよし証券 https://www.ichiyoshi.co.jp > stockholder > securities",
+    "url": "https://www.ichiyoshi.co.jp/stockholder/securities",
+    "pass": 3
+   },
+   {
+    "quote": "いちよし証券社長 、資産10億円以下の富裕層に照準 - Bloomberg — いちよし証券社長 、資産10億円以下の富裕層に照準 - Bloomberg Bloomberg https://www.bloomberg.com > news > articles",
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-06-24/TGNEG4KJH6V400",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - いちよし証券採用情報 — 会社概要 - いちよし証券採用情報 いちよし証券採用情報 https://www.ichiyoshi-recruit.jp > profile",
+    "url": "https://www.ichiyoshi-recruit.jp/profile",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ichiyoshi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/stockholder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/first",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/first/asset-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/first/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/first/bond",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/first/fund",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/service/direct",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/service/direct/flow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/service/direct/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/service/direct/commissions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/service/direct/payment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/strengths",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/cust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/principle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ichiyoshi.co.jp/about/history",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://file.ichiyoshi.co.jp/ichiyoshi/images/common/img_first_fund_01_pc.png?v=20261102135750",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://file.ichiyoshi.co.jp/ichiyoshi/images/common/img_first_fund_01_sp.png?v=20261102135750",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://file.ichiyoshi.co.jp/ichiyoshi/images/common/img_direct_flow.png?v=20261102135750",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://file.ichiyoshi.co.jp/ichiyoshi/images/common/img_service_direct_payment_01.jpg?v=20261102135750",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://img.ichiyoshi.co.jp/ichiyoshi/pc/pdf/about/profile/soshikizu_20221003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-06-24/TGNEG4KJH6V400",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "いちよし証券",
+   "results": [
+    "https://www.ichiyoshi.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A1%E3%82%88%E3%81%97%E8%A8%BC%E5%88%B8",
+    "https://www.nikkei.com/nkd/company/?scode=8624",
+    "https://ichiyoshi.hclvoltmx.net/apps/LoginApp/",
+    "https://x.com/ichiyoshi_jp",
+    "https://ja.wikipedia.org/wiki/いちよし証券",
+    "https://finance.yahoo.co.jp/quote/8624.T",
+    "https://www.ichiyoshi.co.jp/service/online",
+    "https://members.ichiyoshi.co.jp/web/rmfIndexWebAction.do"
+   ]
+  },
+  {
+   "query": "いちよし証券 ビジネスモデル",
+   "results": [
+    "https://www.ichiyoshi.co.jp/about/plan",
+    "https://www.ichiyoshi.co.jp/",
+    "https://www.ichiyoshi.co.jp/stockholder/capital_cost",
+    "https://note.com/tatsuya_sabato/n/n7577bb9a5fb2",
+    "https://www.ichiyoshi.co.jp/about/message",
+    "https://toyokeizai.net/articles/-/841879",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frpy&q_no=9",
+    "https://www.ichiyoshi.co.jp/stockholder/presentation",
+    "https://www.ichiyoshi-recruit.jp/strength",
+    "https://ja.wikipedia.org/wiki/いちよし証券"
+   ]
+  },
+  {
+   "query": "いちよし証券 決算説明資料",
+   "results": [
+    "https://www.ichiyoshi.co.jp/stockholder/report",
+    "https://www.ichiyoshi.co.jp/stockholder",
+    "https://www.ichiyoshi.co.jp/stockholder/finance",
+    "https://www.ichiyoshi.co.jp/stockholder/ir-calendar",
+    "https://www.ichiyoshi.co.jp/stockholder/press",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261028558177/",
+    "https://www.moomoo.com/ja/news/notice/1002752405/financial-results-presentation-for-the-second-quarter-interim-period-of",
+    "https://www.ichiyoshi.co.jp/stockholder/securities",
+    "https://www.ichiyoshi.co.jp/stockholder/disclosure",
+    "https://www.ichiyoshi.co.jp/stockholder/investors"
+   ]
+  },
+  {
+   "query": "いちよし証券 事業系統図",
+   "results": [
+    "https://www.ichiyoshi.co.jp/about/profile",
+    "https://img.ichiyoshi.co.jp/ichiyoshi/pc/pdf/about/profile/soshikizu_20221003.pdf",
+    "https://www.ichiyoshi.co.jp/about",
+    "https://www.ichiyoshi.co.jp/stockholder/securities",
+    "https://www.ichiyoshiam.jp/company/profile",
+    "https://www.ichiyoshi.co.jp/",
+    "https://www.ichiyoshi-recruit.jp/strength",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8624",
+    "https://www.ichiyoshi.co.jp/policy",
+    "https://ja.wikipedia.org/wiki/いちよし証券"
+   ]
+  },
+  {
+   "query": "いちよし証券 社長 インタビュー",
+   "results": [
+    "https://www.ichiyoshi.co.jp/about/message",
+    "https://www.bloomberg.com/jp/news/articles/2026-06-24/TGNEG4KJH6V400",
+    "https://www.ichiyoshi.co.jp/about/profile",
+    "https://www.osaka-ue-denko.com/interview/3348/",
+    "https://www.ichiyoshi-recruit.jp/profile",
+    "https://www.youtube.com/watch?v=JJnQh0GQWQQ",
+    "https://kitaishihon.com/company/8624/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/650549",
+    "https://www.ichiyoshi.co.jp/information/2023/20231115",
+    "https://ja.wikipedia.org/wiki/玉田弘文"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部2頁・検索5回）"
+ }
+}

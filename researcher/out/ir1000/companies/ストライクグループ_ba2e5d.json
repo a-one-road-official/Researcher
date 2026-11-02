@@ -1,0 +1,1702 @@
+{
+ "name": "ストライクグループ",
+ "aliases": [],
+ "context": "証券コード6196／サービス業／プライム（内国株式）／2025.09期 売上高20,314百万円 営業利益率31.2%",
+ "researched_at": "2026-11-02T16:48:26.510513+00:00",
+ "official_url": "https://www.strike.co.jp/",
+ "identified_by": "search:yahoo_jp:ストライクグループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業者利益の確保",
+    "value": "株式現金化によるハッピーリタイアや、個人保証（経営者保証）の解除",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1997年7月",
+    "url": "https://www.strike.co.jp/group/ir/management/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員承継 （社内承継）",
+    "value": "役員・従業員 事業・企業文化を理解した人材へ引き継げる 株式取得資金、経営者保証、他の役員・株主との調整",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員の雇用や取引関係の承継",
+    "value": "引継ぎ方はスキームと契約条件で異なる",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "18人 20人未満が53.3%、50人未満が81.9% n=537",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "グループ全体：486名（2026年6月末現在）",
+    "url": "https://www.strike.co.jp/group/ir/management/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "約3.5億円 5億円未満が60.6% n=513",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "土木・建築分野におけるBIM・CIM関連業務、UAV（ドローン）による写真測量・解析（特許取得）、地上型レーザー計測 等 自動運転・ADASをはじめ多様な産業向けの高精度3次元データの提供",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "M&Aの支援",
+    "url": "https://www.strike.co.jp/group/ir/management/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客情報の国内グループ会社間での共有について",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大切なのは、「顧客の専門家」であること",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足度にこだわったM&Aをお届けするために",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の心情に寄り添った、丁寧で親身なコンサルティングをお約束します",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "を選択する「黒字廃業」は、経営者本人だけでなく、従業員や取引先にも大きな影響を与えます",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロから新規事業を立ち上げるよりも、既存の事業・人材・顧客基盤を一括で取得できるため、成長スピードを大きく高められます",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "背景には、人材確保や顧客基盤の獲得、地域展開といった目的の多様化があります",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "リソースの獲得： 優秀な人材、技術、ノウハウ、顧客基盤を一括で取得できる",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "自社が譲渡対象として評価されやすいかを考える際は、業績だけでなく、事業の継続性、顧客基盤、人材、許認可なども重要な判断材料になります",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・顧客基盤の獲得",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・人材や顧客基盤の質",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "買い手が重視する財務内容、事業の安定性、人材、顧客基盤、リスク要因などの評価ポイントを解説しています",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "財務基盤のしっかりとした買い手企業にM&Aにより事業承継すれば、買い手企業は、事業を継続するのみならず、拡大できる可能性もあり、取引先や顧客に安心感を与えることもM&Aの大きな効果といえます",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社の規模だけでなく、事業内容、収益性、取引先、技術、従業員体制などが総合的に評価されます",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡後も一定期間、経営者が会社に残り、取引先や従業員への引き継ぎを行うケースもあります",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "3. 従業員・取引先・顧客への影響をどう考えるか",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "判断を価格だけに絞ると、雇用、取引先、経営者保証、事業の将来など、重要な条件を見落とす可能性があります",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客、人材、技術、許認可、ブランド、立地など、買い手が引き継げる経営資源があるか",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "従業員の雇用、取引先への供給、顧客や地域への影響をどう考えるか",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "継続取引のある顧客、技術や資格を持つ人材、許認可、ブランド、地域での信用、立地、設備などが、買い手にとって価値になる場合があります",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "反対に、顧客やキーパーソンが離れた後では、引き継げる価値が小さくなる可能性があります",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "廃業では、従業員の退職、取引先との契約終了、顧客への供給停止などが生じます",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "価格、従業員の雇用、取引先との関係、社名・ブランド、事業所、経営者の退任時期など、すべての希望が同時に実現するとは限りません",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "損益だけでなく、顧客、人材、技術、許認可、ブランド、立地などを整理する",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "清算結果だけでなく、雇用、取引先、保証、事業継続を含めて比較する",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "資産の換価見込み、債務、退職・原状回復などの支出、税金、従業員・取引先への対応を整理します",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い手は損益だけでなく、顧客、人材、技術、許認可、資産、事業との相乗効果などを確認します",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "廃業を決めた後でも、営業、雇用、顧客との関係が維持されていれば、会社・事業を譲渡できる可能性があります",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "引き継げる経営資源、残された時間、従業員・取引先への影響、経営者の手元に残るものと責任、希望条件の優先順位を整理して判断します",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術、人材、取引先、ブランド、許認可",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、株式や設備を移転しても、主要取引先との関係、熟練者の技術、経営理念が引き継がれなければ、承継後の競争力が低下する可能性があります",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業承継には、後継者の選定・育成だけでなく、自社株評価、税務・法務、経営者保証、従業員や取引先への説明などが伴います",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業や取引先、企業文化への理解がある点が強みです",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "従業員と地域のお客様の未来を託すとともに、森口氏自身も、M&A実行から1か月後の取材で、経営判断の重圧が和らぎ、穏やかに過ごせるようになったと語っています",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "後継者がいない一方、顧客からは長期供給を求められていました",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社光響の松永啓吾CFOは、承継後、自社の営業・Webマーケティングを通じて問い合わせや新規顧客との対話が増えたと説明しています",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社の規模に加え、収益力、顧客基盤、人材・技術、許認可、買い手との相性、譲渡対価と専門家費用の関係を総合して検討する必要があります",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "財務、株主構成、借入・保証、許認可、主要取引先、人材、技術などを棚卸しします",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式・経営権の移転、代表者変更、金融機関・従業員・取引先への対応を行い、承継後の運営を安定させます",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "承継後の業務引継ぎ、従業員・取引先への継続的な説明、PMI",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との契約も、契約の引継ぎや支配権の変更に伴う承諾・通知等の要否を確認します",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "決算書だけでは、技術、取引先との信頼、人材、ブランド、地域での役割などは十分に伝わりません",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業承継やM&Aの情報が不用意に広がると、従業員の退職や取引先の不安につながる可能性があります",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "収益力、顧客基盤、人材・技術、許認可、買い手との相性などを総合して判断します",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、契約の引き継ぎには取引先の同意が必要になる場合があり、承継対象が多いほど手続き負担が大きくなる傾向があります",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "契約関係をまとめて移転できる場合があるため、取引先や契約数が多い事業を承継する方法として有力な選択肢となります",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社自体は存続するため、従業員の雇用関係や取引先との契約関係を原則として維持したまま経営権を移転できます",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "原則として契約関係をまとめて承継できるため、取引先や契約数が多い事業を整理する際にも利用されます",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "契約の引き継ぎには取引先の同意が必要になる場合があり、",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先との契約条件が変更されたり、取引規模が縮小したりする可能性がある点も注意が必要です",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式譲渡では契約関係や許認可が原則として維持されるため、従業員や取引先への手続き負担が比較的少ない傾向があります",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "7.取引先や従業員の同意取得（事業譲渡契約の締結が先行する場合もあります）",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社側では、経営体制や取引関係の変化に伴い、従業員や取引先への調整が必要になる場合があります",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社の販路を活用して顧客を増やし業績を伸ばすことはもちろん重要ですが、それだけでは成長拡大のスピード感に物足りなさを感じる経営者も多いと思います",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "再生型M&Aでは、再生を図る企業のみならず、金融機関をはじめとした債権者、株主、従業員、取引先、地域社会、スポンサー企業等の間で利害が複雑に絡み合います",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/method_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/value.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報のご入力",
+    "url": "https://www.strike.co.jp/about_ma/ev_simulation.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【北海道の老舗・自社工場保有】にしん・魚卵を主力とする水産加工品製造業",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "石油製品卸売",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "相応な業歴の中で営業基盤を確立している石油製品の卸売企業",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会計サービス",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大手税理士法人・企業向けにクラウド会計サービスの開発・提供を手掛ける企業",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのサービス",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのサービス",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのM&A仲介・アドバイザリーサービス",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・食品、機械・電気製品、素材・加工品：いずれも過半が承継目的",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・広告・情報通信サービス：約6割が「事業の成長と発展」",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・消費者サービス",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・法人サービス",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクの成約実績データ（2025年以降、n=175）を分析すると、建設業、情報通信業、運輸業、サービス業では、9割以上の案件で株式譲渡が採用されています",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "【北海道の老舗・自社工場保有】にしん・魚卵を主力とする水産加工品製造業",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのM&A仲介・アドバイザリーサービス",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "※注：上記は製造業のデータであり、IT業やサービス業などでは評価指標や水準が大きく異なる点に留意が必要です",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのM&A仲介・アドバイザリーサービス",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術・ブランド・地域サービスの維持",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのM&A仲介・アドバイザリーサービス",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品仲介業について",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 特許データ活用マッチングサービス",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業価値算定サービス",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "業界の最新のM&A動向をご紹介しています",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人投資家の皆さまに、より深く事業内容をご理解いただくために、ストライクの情報をご紹介しています",
+    "url": "https://www.strike.co.jp/group/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ここからは、主に上場企業やグループ再編、資本提携で用いられる手法を簡潔に紹介します",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "資金調達と同時に業務提携や資本関係を構築できる点が特徴で、成長資金の確保や戦略的パートナーの獲得を目的として利用されます",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクのご成約インタビューから、現在掲載中の事例2件をご紹介します",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "で詳しく紹介しています",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "つまり売り手企業にとっては、「選べるパートナー」が増えている状況であり、自社の意向や将来像に合った相手を見つけやすい環境が整いつつあるといえます",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "本セクションでは、M&A件数が増加している背景や今後の市場動向について、よく寄せられる質問を一部紹介します",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、ストライクの成約データから、後継者不在を理由に事業承継M&Aを実現した経営者の年齢と会社規模を紹介します",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ストライクが支援した2事例から、後継者不在に直面した経緯と承継先が決まった理由を紹介します",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクが支援した飲食業と製造業の2事例を、公開中の成約インタビューから紹介します",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "浜松市を拠点に35年にわたり飲食事業を営み、承継当時は「和ごはん とろろや」など8店舗を展開していた株式会社フード・フォレスト",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "紹介内容は各インタビュー時点のものです",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本セクションでは、会社売却（譲渡）を検討する経営者から多く寄せられる質問を一部紹介します",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プレマーケティングサービスのご紹介",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aについて皆様から多く寄せられる質問とその回答をご紹介いたします",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/method_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aについて皆様から多く寄せられる質問とその回答をご紹介いたします",
+    "url": "https://www.strike.co.jp/about_ma/method_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富なコンサルタントがお客様のお悩みやご意向をお伺いし、お客様に適したアドバイスや担当としてのご支援、事例のご紹介等を行います",
+    "url": "https://www.strike.co.jp/about_ma/value.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aについて皆様から多く寄せられる質問とその回答をご紹介いたします",
+    "url": "https://www.strike.co.jp/about_ma/value.html",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、これまでの内容を踏まえ、実務で確認されることが多い論点を紹介します",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただくことで、今後ご希望条件に合う案件をご紹介する際に、よりご希望に沿ったご案内がしやすくなります",
+    "url": "https://www.strike.co.jp/inquiry/?kubun=sell",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただくことで、今後ご希望条件に合う案件をご紹介する際に、よりご希望に沿ったご案内がしやすくなります",
+    "url": "https://www.strike.co.jp/inquiry/?kubun=buy",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただくことで、今後ご希望条件に合う案件をご紹介する際に、よりご希望に沿ったご案内がしやすくなります",
+    "url": "https://www.strike.co.jp/about_ma/ev_simulation.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご登録いただくことで、今後ご希望条件に合う案件をご紹介する際に、よりご希望に沿ったご案内がしやすくなります",
+    "url": "https://www.strike.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "DMP様がどのような会社か、自己紹介をお願いできますか",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "quote": "この案件の最初のリカノスさんの紹介から、最後のクロージングの場面まで、あるいはその後のリカノスさんの従業員への説明という場面でも関わっていただき、全ての場面で非常に手厚くサポートいただいたと思っております",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "quote": "商社・卸・代理店",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクの7つの強み・5つの約束 | M&Aならストライク【東証プライム上場グループ】",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクの7つの強み",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクの7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、各算定方法には強みと弱みがあります",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "・ビジネスモデルの強み",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "引き継げる強みを整理する際は、",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "設備・在庫の処分、賃貸物件の原状回復・解約、従業員への退職金や雇用終了への対応、専門家報酬・登記・公告、借入金やリース契約などの残債務も確認対象です",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "見えにくい強みの可視化と引継ぎ方法",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業や取引先、企業文化への理解がある点が強みです",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "食材調達の強みとなる水産加工会社などを傘下に持つことと、組織的な管理体制が決め手でした",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社の強みを言語化し、後継者や譲受候補が引き継げる状態にします",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/method_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/value.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/inquiry/?kubun=sell",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/inquiry/?kubun=buy",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/about_ma/ev_simulation.html",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "7つの強み・5つの約束",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "quote": "リカノスさんは車の入れない場所での飛行や土木系の3次元モデル作成を強みとしており、これまで我々のグループになかったドローン測量の技術力・知見を、今回のグループインによって手に入れたということになります",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年の創業以来培ってきたM&A仲介の豊富な実績と専門性を強みとしています",
+    "url": "https://www.strike.co.jp/group/ir/individual/business.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストライクは、着手金・企業価値算定費用・月額報酬ともに0円",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aでは仲介手数料などの「費用」と、譲渡方法に応じた「税金」が発生します",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "月額料金（リテイナーフィー）",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "無料～数百万円（成功報酬の10〜30%）",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "レーマン方式（取引金額に応じた成功報酬）が一般的",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクでは、相談料から着手金、月額報酬まで無料でM&Aの仲介を行っております",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "手数料体系の明確さ",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "手数料体系が明確で、納得感のある説明があるかも判断基準となります",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "成功報酬型やレーマン方式など、費用構造を事前に理解しておくことが重要です",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "ストライクでは、M&Aの初期段階で必要となる「相談料」「着手金」「月額報酬」がすべて無料です",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "成功報酬型のため、納得のいく成約に向けて安心して相談できます",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "仲介手数料などの費用と、譲渡方法に応じた税金が発生します",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "専門家の在籍、成約実績、手数料体系の明確さが重要です",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "M&Aの支援先を選ぶ際は、支援範囲、報酬の発生時期・計算方法、最低手数料、情報管理、利益相反への対応を確認します",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "仲介手数料等では、登録M&A支援機関への支払いであることなどの条件も確認してください",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "税金・手数料を差し引いた手取りも確認する",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "相談先の実績だけでなく、担当者の経験、利益相反への対応、手数料の算定基準、契約期間・解約・テール条項などを書面で確認します",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、譲渡費用には仲介手数料やアドバイザリー費用などが含まれ、これらは消費税込みの金額で計上されます",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡費用(仲介手数料・専門家報酬等)",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "背景としては、測量業はライセンス業ですので資格保有者がどんどん減っていること、そして後継者がうまく見つからず会社をつなげないという慢性的な人手不足があります",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1997年 創業",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 東京証券取引所マザーズ市場に上場",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 東京証券取引所市場第一部へ市場変更",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 東証プライム市場へ移行",
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月23日",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年から5年連続で増加",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年の海外M&A、3年連続で最多更新「インバウンド」案件が2割増（M&A Online）",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年問題とは、2025年にいわゆる「団塊の世代」が75歳以上となったことで発生する諸問題のことを指します",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年の上場企業によるM&A件数は前述のように1,344件と過去最高水準にあり、この活発な動きは、中小企業のM&A市場においても、買い手候補の分母を広げるとともに、評価水準にも一定の影響を与えるというポジティブな側面をもたらしています",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年調査",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年の全国後継者不在率",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年、まん福ホールディングス株式会社への承継を決断",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月23日",
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和9年分以降(2027〜)",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和9年分以降（改正後）",
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年にアメリカの同業他社（GMを中心に設立された3次元データプラットフォーム会社）を100%買収し、初めてのM&Aを行いました",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年に測量会社の日本海測量設計株式会社様をグループに迎え、今回のリカノスさんは3件目のM&Aになります",
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月に東京証券取引所プライム市場に移行いたしました",
+    "url": "https://www.strike.co.jp/group/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月の持株会社化に伴い、旧株式会社ストライク（現株式会社ストライクグループ）の事業を承継しました",
+    "url": "https://www.strike.co.jp/group/ir/individual/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年の創業以来培ってきたM&A仲介の豊富な実績と専門性を強みとしています",
+    "url": "https://www.strike.co.jp/group/ir/individual/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 通期決算説明資料",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月04日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月28日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月21日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月12日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月30日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算説明資料",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月14日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月13日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 半期報告書",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月30日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期決算説明資料",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期（中間期）決算短信〔日本基準〕(非連結)",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月23日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第2四半期(中間期)業績予想の修正及び通期業績予想の取り下げに関するお知らせ",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月01日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月30日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月06日",
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年7月",
+    "url": "https://www.strike.co.jp/group/ir/management/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年9月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年8月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年8月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年8月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年8月期",
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "・ビジネスモデルの強み",
+    "url": "https://www.strike.co.jp/about_ma/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な技術やビジネスモデルを有しているものの、資本力やブランド認知度に欠けやすい売り手の中小企業は、M&Aを戦略的に活用して買い手の大手企業の傘下に入ることにより、単独では超えられなかった事業上の限界を超えることが可能になります",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、買い手の大手企業は、既存のビジネスモデルの制約があるため、社内と競合する分野の技術開発やリソースを持たない領域への進出が難しく、市場の変化に対応できないという課題を抱えていることがあります",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "本数値はサンプル数やレンジを踏まえた統計的な傾向であり、個別企業の評価は事業内容、成長性、収益構造、買い手とのシナジーなどによって大きく変動します",
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "pass": 1
+   },
+   {
+    "quote": "⑵ 事業内容（主要製品・サービス、ビジネスモデル、主要取引先、許認可、所有不動",
+    "url": "https://www.strike.co.jp/group/news/pdf/20260401.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "構成比は小数第1位に丸めています",
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "pass": 1
+   },
+   {
+    "quote": "構成比は各指標の有効件数を分母に算出",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   },
+   {
+    "quote": "構成比は丸め前の件数から算出しているため、表示値の合計や区分の合算と一致しない場合があります",
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "社長×新卒社員インタビュー｜株式会社 ストライクグループ ... — 社長×新卒社員インタビュー｜株式会社 ストライクグループ ... 株式会社ストライク https://www.strike.co.jp > graduate > cross-talk",
+    "url": "https://www.strike.co.jp/graduate/cross-talk/",
+    "pass": 3
+   },
+   {
+    "quote": "ストライクグループ 【6196】の事業内容 - キタイシホン — ストライクグループ 【6196】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6196/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 ストライクグループ 】[6196]IR情報 中期経営計画や 決算 短信 — 【 ストライクグループ 】[6196]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6196",
+    "pass": 3
+   },
+   {
+    "quote": "株主通信 - 【 STRIKE GROUP IR】株式会社 ストライクグループ — 株主通信 - 【 STRIKE GROUP IR】株式会社 ストライクグループ 株式会社ストライク https://www.strike.co.jp > group > library > report",
+    "url": "https://www.strike.co.jp/group/ir/library/report.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営情報 | 【 STRIKE GROUP IR】株式会社 ストライクグループ — 経営情報 | 【 STRIKE GROUP IR】株式会社 ストライクグループ 株式会社ストライク https://www.strike.co.jp > group > management > outline",
+    "url": "https://www.strike.co.jp/group/ir/management/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 ×新卒社員 インタビュー ｜株式会社 ストライクグループ ... — 社長 ×新卒社員 インタビュー ｜株式会社 ストライクグループ ... 株式会社ストライク https://www.strike.co.jp > graduate > cross-talk",
+    "url": "https://www.strike.co.jp/graduate/cross-talk/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜株式会社 ストライクグループ 新卒採用サイト — 社長 メッセージ｜株式会社 ストライクグループ 新卒採用サイト 株式会社ストライク https://www.strike.co.jp > graduate > message",
+    "url": "https://www.strike.co.jp/graduate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "面接官 インタビュー ｜株式会社 ストライクグループ 新卒採用 ... — 面接官 インタビュー ｜株式会社 ストライクグループ 新卒採用 ... 株式会社ストライク https://www.strike.co.jp > project_story > interviewer",
+    "url": "https://www.strike.co.jp/graduate/project_story/interviewer.html",
+    "pass": 3
+   },
+   {
+    "quote": "Strike Method｜株式会社 ストライクグループ 新卒採用サイト — Strike Method｜株式会社 ストライクグループ 新卒採用サイト 株式会社ストライク https://www.strike.co.jp > graduate > method",
+    "url": "https://www.strike.co.jp/graduate/method/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.strike.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/feature/strengths.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/advantages.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/business_closure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/business_succession.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/sell_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/buyout.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/method_stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/value.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/tax_stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/inquiry/?kubun=sell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/inquiry/?kubun=buy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/inquiry_customer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/about_ma/ev_simulation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/case/interviews/detail_173.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/individual/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/management/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/library/result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/stock/ownership.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strike.co.jp/group/ir/financials/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.strike.co.jp/group/news/pdf/20260401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.strike.co.jp/assets/images/about_ma/business_succession/interview_153.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.strike.co.jp/assets/images/about_ma/business_succession/interview_148.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.strike.co.jp/assets/images/about_ma/business_succession/age-scale_successor.svg?v=20260512",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "ストライクグループ",
+   "results": [
+    "https://www.strike.co.jp/group/",
+    "https://www.strike.co.jp/group/about/",
+    "https://www.strike.co.jp/group/about/groupcompany.html",
+    "https://www.strike.co.jp/group/ir/news/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF_(%E4%BC%81%E6%A5%AD)",
+    "https://www.strike.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=6196",
+    "https://www.strike.co.jp/group/ir/management/outline.html",
+    "https://ja.wikipedia.org/wiki/ストライク_(企業)",
+    "https://shikiho.toyokeizai.net/stocks/6196/corporate"
+   ]
+  },
+  {
+   "query": "ストライクグループ ビジネスモデル",
+   "results": [
+    "https://www.strike.co.jp/service/growth/",
+    "https://www.strike.co.jp/graduate/cross-talk/",
+    "https://www.bizreach.jp/jobs/10106906/",
+    "https://www.youtube.com/watch?v=gNkTlE8WigY",
+    "https://kitaishihon.com/company/6196/business",
+    "https://www.strike.co.jp/group/sustainability/materiality.html",
+    "https://maonline.jp/db/companies/6196/articles",
+    "https://www.sba.hub.hit-u.ac.jp/information/2026/08/strike-ma.html",
+    "https://sharedresearch.jp/ja/companies/6196",
+    "https://www.strike.co.jp/group/about/"
+   ]
+  },
+  {
+   "query": "ストライクグループ 決算説明資料",
+   "results": [
+    "https://www.strike.co.jp/group/ir/library/explanation.html",
+    "https://www.strike.co.jp/group/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6196",
+    "https://www.strike.co.jp/group/ir/library/report.html",
+    "https://www.strike.co.jp/group/ir/disclosure/",
+    "https://twitter.com/MAstrike/status/2116070176114532437",
+    "https://kabutan.jp/stock/finance?code=6196",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261030560443",
+    "https://irbank.net/6196/ir",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261030560443/"
+   ]
+  },
+  {
+   "query": "ストライクグループ 事業系統図",
+   "results": [
+    "https://www.strike.co.jp/corporate/",
+    "https://www.strike.co.jp/group/ir/",
+    "https://www.sventurelab.com/news260303",
+    "https://www.strike.co.jp/group/ir/management/outline.html",
+    "https://prtimes.jp/main/html/rd/p/000000327.000034249.html",
+    "https://www.strike.co.jp/group/ir/library/securities.html",
+    "https://www.facebook.com/MAstrike/posts/%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%81%AF%E6%8C%81%E6%A0%AA%E4%BC%9A%E7%A4%BE%E4%BD%93%E5%88%B6%E3%81%B8%E3%81%AE%E7%A7%BB%E8%A1%8C%E3%81%AB%E4%BC%B4%E3%81%842026%E5%B9%B44%E6%9C%881%E6%97%A5%E4%BB%98%E4%BA%88%E5%AE%9A%E3%81%A7%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%B8%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%81%BE%E3%81%9F%E4%BA%8B%E6%A5%AD%E4%BC%9A%E7%A4%BE%E3%81%A8%E3%81%97%E3%81%A6%E8%A8%AD%E7%AB%8B%E3%81%95/1244927714340243/",
+    "https://www.strike.co.jp/recruitment/about/organization.html",
+    "https://sharedresearch.jp/ja/companies/6196",
+    "https://ja.wikipedia.org/wiki/ストライク_(企業)"
+   ]
+  },
+  {
+   "query": "ストライクグループ 社長 インタビュー",
+   "results": [
+    "https://www.strike.co.jp/graduate/cross-talk/",
+    "https://www.strike.co.jp/graduate/message/",
+    "https://www.strike.co.jp/graduate/project_story/interviewer.html",
+    "https://prtimes.jp/main/html/rd/p/000000313.000034249.html",
+    "https://www.strike.co.jp/graduate/method/",
+    "https://www.wantedly.com/companies/strike/stories",
+    "https://k-tsushin.jp/interview/kt56_strike/",
+    "https://www.strike.co.jp/group/about/media/detail.html?id=20250325a",
+    "https://ja.wikipedia.org/wiki/荒井邦彦",
+    "https://unique-box.jp/corporate-research/arai-kunihiko/"
+   ]
+  }
+ ],
+ "missing": {}
+}

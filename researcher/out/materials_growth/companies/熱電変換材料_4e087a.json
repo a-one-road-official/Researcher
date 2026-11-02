@@ -1,0 +1,1885 @@
+{
+ "name": "熱電変換材料",
+ "en": "thermoelectric materials",
+ "aliases": [
+  "thermoelectric",
+  "Bi2Te3",
+  "熱電材料"
+ ],
+ "context": "エネルギー",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:13:12.903566+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "この業績に寄与する低炭素エネルギーオプションの幅広い範囲は、2023年に、世界規模の投資は、新しい技術、再生可能エネルギー、および高度輸送によって支えられたUSD 1.77兆の高い記録に当たる",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "中国のUSD 676億投資でも、すべてのEU、米国、英国パッケージの合計は中国を超えています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料の市場規模は2024年のUSD 1.05億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱電デバイス市場は、2022年の10.2億米ドルから2031年には21.2億米ドルへと拡大する見込みであり、予測期間（2023年～2031年）における年平均成長率（CAGR）は8.5％に達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界の滅菌サービス市場は2031年に5,290.1百万米ドルへ拡大、CAGR5.1%で持続成長する医療インフラの中核分野",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のイムノアッセイ市場は2031年に548億5000万米ドルへ拡大、CAGR5.4％で持続成長を遂げる高度診断技術の中核分野",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパッケージの電源供給とチップの電源供給市場は2031年に24.8億米ドルへ拡大、CAGR 5%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のモジュラー式建設市場は2031年に2,233億米ドルへ拡大、CAGR6.1%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界の化学センサー市場は2031年に457億米ドル規模へ、CAGR 8.52％で拡大する次世代センシング技術の成長展望",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料の市場規模、2034年に21億米ドル到達予測 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料の市場規模、2034年に21億米ドル到達予測",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料の市場規模は、2026年の11億米ドルからCAGR8.1％で成長し、2034年までに21億米ドルに達すると予測されています",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 652.13 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,288.97 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 916.82 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のUSD 652.13百万",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までのUSD 1288.97百万",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場価値(2025):USD 652.13百万",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "全体予算は540万ユーロ(約7.8億円)で、EU補助金が4分の3の400万ユーロ弱(約5.7億円)である",
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Thermoelectric Materials Market Size, Share, and Trends Analysis Report – Industry Overview and Forecast to 2033",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 652.13 Million",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033 Market Size",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,288.97 Million",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 916.82 Million",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 652.13 million in 2025",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1288.97 million by 2033",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Value (2025): USD 652.13 million",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Expected Market Value (2033): USD 1288.97 million",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Material Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "$1.8 billion",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "$3.2 billion",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 6.8% | USD Billion",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "$688.4 million",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "$1.15 billion",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.2 million",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "18 million",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "45 million",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "$764.8 million",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "540 million",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market Size & Share Analysis - Growth Trends And Forecast (2025 - 2032)",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market was valued at USD 90.59 million in the year 2025. The size of this market is expected to increase to USD 155.26 million by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 8.0%.",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 90.59 Million",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2032)",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 155.26 Million",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market, By Material, 2022 - 2032 (USD Million)",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market, By Source, 2022 - 2032 (USD Million)",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market, By Temperature, 2022 - 2032 (USD Million)",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱電デバイス市場、2031年までに21.2億米ドル規模へ成長 ― 年平均成長率（CAGR）8.5％で持続的拡大を予測",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱電デバイス市場は、2022年の10.2億米ドルから2031年には21.2億米ドルへと拡大する見込みであり、予測期間（2023年～2031年）における年平均成長率（CAGR）は8.5％に達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界の滅菌サービス市場は2031年に5,290.1百万米ドルへ拡大、CAGR5.1%で持続成長する医療インフラの中核分野",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のイムノアッセイ市場は2031年に548億5000万米ドルへ拡大、CAGR5.4％で持続成長を遂げる高度診断技術の中核分野",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパッケージの電源供給とチップの電源供給市場は2031年に24.8億米ドルへ拡大、CAGR 5%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のモジュラー式建設市場は2031年に2,233億米ドルへ拡大、CAGR6.1%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界のPCB設計ソフトウェア市場：2032年に113億米ドル規模へ、CAGR14.8％で加速する次世代エレクトロニクス設計革命",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界の化学センサー市場は2031年に457億米ドル規模へ、CAGR 8.52％で拡大する次世代センシング技術の成長展望",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱電デバイス市場、2031年までに21.2億米ドル規模へ成長 ― 年平均成長率（CAGR）8.5％で持続的拡大を予測 | Panorama Data Insights Ltd.",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.2 動作温度領域の拡大",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料の市場規模は、2026年の11億米ドルからCAGR8.1％で成長し、2034年までに21億米ドルに達すると予測されています",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "8.89%のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測CAGR (2026～2033): 8.89%",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、2025年、消費者向け電子機器製造、自動車電気化、産業熱回収システム、中国、日本、韓国、インドにおける半導体・エネルギー貯蔵生産の急速な拡大により、熱電材料市場を占める",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、産業廃棄物の熱回収システム、EVバッテリー冷却ソリューション、航空宇宙熱システム、および米国およびカナダの先進エネルギー技術への投資の増加による先進的なエネルギー技術への投資を増加させることにより、2026から2033までの10.54%の最速のCAGRを登録する予定です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のセグメント(シリコンゲルマニウム、スケッタライト、先進ナノマテリアルを含む)は、2026年から2033年までの最速のCAGRで成長すると予想され、次世代の高温産業熱回復システム、航空宇宙アプリケーション、再生可能エネルギーの統合に対する需要が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー・ハーベスティング・セグメントは、IoT機器、ウェアラブル・エレクトロニクス、ワイヤレス・センサー、リモート・モニタリング・システムの導入により、2026年から2033年にかけて最速のCAGRで成長する予定です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "高温セグメントは、航空宇宙、防衛システム、産業炉、および高熱負荷が耐久性と高効率材料を必要とする発電所での使用を拡大することによって駆動され、2026年から2033年まで最速のCAGRで成長することが期待されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "高電力セグメントは、2026年から2033年まで最速のCAGRで成長し、産業発電、EV熱システム、航空宇宙機器、大型廃棄物熱回収プロジェクトでの使用率を高めています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、2025年、消費者向け電子機器製造、自動車電気化、産業熱回収システム、中国、日本、韓国、インドの半導体・エネルギー貯蔵生産の急速な拡大により、熱電材料市場を41.8%に拡大しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.89%",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2026–2033): 8.89%",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is projected to register the fastest CAGR of 10.54% from 2026 to 2033, driven by rising adoption of industrial waste heat recovery systems, EV battery cooling solutions, aerospace thermal systems, and increasing investment in advanced energy technologies across the U.S. and Canada",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Energy Harvesting segment is projected to grow at the fastest CAGR from 2026 to 2033, supported by rising adoption in IoT devices, wearable electronics, wireless sensors, and remote monitoring systems. Growing demand for self-powered devices and sustainable energy technologies is expected to significantly strengthen segment growth over the forecast period.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The High Temperature segment is expected to grow at the fastest CAGR from 2026 to 2033, driven by expanding use in aerospace, defence systems, industrial furnaces, and power plants where high thermal loads require durable and high-efficiency materials.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The High Power segment is anticipated to grow at the fastest CAGR from 2026 to 2033, driven by increasing use in industrial power generation, EV thermal systems, aerospace equipment, and large-scale waste heat recovery projects. Rising demand for higher output and efficient thermal-to-electric conversion is expected to accelerate segment expansion.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermoelectric materials market is to grow at a CAGR of 8.89% during the forecast period of 2025 to 2033.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at CAGR of",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, representing a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 6.8% | USD Billion",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market was valued at USD 90.59 million in the year 2025. The size of this market is expected to increase to USD 155.26 million by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 8.0%.",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 10.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The thermoelectric generator market in the U.S. is anticipated to grow at a CAGR of 9.6% from 2024 to 2030. The U.S. is witnessing significant expansion in renewable energy infrastructure, including solar, wind, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.5% from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD million/billion and CAGR from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global thermoelectric generator market is expected to grow at a CAGR of 10.5% from 2024 to 2030, reaching USD 1,610.1 million by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.6% (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Million, CAGR (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "A2: The market is projected to grow at a CAGR of 8.6% from 2024 to 2030.",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market to Grow at 8.89% CAGR Through",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market to Grow at 8.89% CAGR Through 2032",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Data Bridge Market Research analyses the global thermoelectric materials market will exhibit a CAGR value of 8.89% for the forecast period of 2022-2029. Data Bridge Market Research report thermoelectric materials market provides analysis and insights regarding the various factors expected to be prevalent.",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Structural Health Monitoring Market Poised to Hit $10.27B by 2030, Growing at 17 …",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Retail Market to Grow at 23.12% CAGR from 2022 to 2030",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Speaker Market Growing at 10.1% CAGR, Reach $22.48B by 2030.",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Vibration Monitoring Market to Reach $2.3B by 2032, Growing at 5.8% CAGR",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "𝐔𝐒𝐀, 𝐍𝐞𝐰 𝐉𝐞𝐫𝐬𝐞𝐲- The global Thermoelectric Modules Market is expected to record a CAGR of XX.X% from 2024 to 2031 In 2024, the market size is projected to reach a valuation of USD XX.X Billion. By 2031 the valuation is anticipated to reach USD XX.X Billion.",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "The thermoelectric generators market size is projected to grow from USD 0.86 billion in 2025 to USD 2.38 billion by 2035, representing a CAGR of 10.73% during the forecast period till 2035.",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (Till 2035)",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, the increasing need for sustainable power solutions in low-power, remote, and IoT-based applications is augmenting the growth of the energy harvesting segment. Resulted in, the heat harvesting segment is poised to grow at a higher CAGR of (12.80%) during this forecast period.",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, the automotive sector is emerging as a fastest growing vertical to reinforce the demand for TEGs owing to rising focus on fuel efficiency, emissions reduction, and sustainability. Consequently, the automotive vertical is anticipated to expand at an exceptional (15.5%) CAGR over this projection timeframe.",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to the thermoelectric generators market revenue forecast market is expected to grow at a compounded annual growth rate (CAGR) of over 10.73% during the forecast till 2035.",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "The global Thermoelectric Module Market was valued at USD 812.4 Million in 2025 and is projected to reach USD 872.5 Million in 2026, rising to USD 1,701.0 Million by 2035 at a CAGR of 7.7% over 2026–2035. Two catalysts anchor this outlook.",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-stage modules are forecast to grow at an 8.9% CAGR as infrared sensors and scientific cameras require deeper temperature differentials.",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の動向：技術革新と製品ポートフォリオの拡充",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業としては、Ferrotec Holdings、II-VI Incorporated、Laird Thermal Systems、Yamaha Corporation、Kryotherm、TEGProなどが挙げられます",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "本書が、熱電変換技術に関わる研究者・技術者の方々のお役にたち、またこの分野へ新規参入される研究者・技術者のきっかけとなり、さらには熱電発電技術を世に送り出す研究に少しでも多くの研究者・技術者が参加して頂く一助となれば幸いです",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱電材料市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "With a strong focus on analytical precision and strategic relevance, he has authored and contributed to customized reports, consulting deliverables, and competitive landscape assessments that serve leading semiconductors & ICT providers, automotive innovators, and logistics & transportation companies worldwide.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are major players in thermoelectric materials market?",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies such as Transphorm Inc. (U.S.), greenTEG AG (Switzerland), ThermoAura, Inc. (U.S.), and Alphabet Energy (U.S.) are major players in thermoelectric materials market.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Analyzed",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The threat of new entrants in the thermoelectric material market is low. This is due to the high capital investment required to enter the market as well as the need for specialized knowledge of thermoelectric materials. Additionally, the market is already well established and dominated by a few key players, making it difficult for new entrants to gain a foothold.",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market Competitive Landscape Analysis",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermoelectric materials market is moderately concentrated, with several key players holding dominant positions. Smaller companies are leveraging",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in Thermoelectric Materials Market include:",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the thermoelectric generator market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in this industry include Gentherm Inc., Coherent Corp., Ferrotec Holdings Corporation, Komatsu Ltd., Yamaha Corporation C0., Ltd., Global Power Technologies, Kyocera Corporation, TEC Microsystems GmbH, Laird Thermal Systems, TECTEG MFR",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Key Players:",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Strategic Insights",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Market Share Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Strategies Adopted by Key Players",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Browse Detailed TOC, Tables and Figures with Charts which is spread across 350 Pages that provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector.",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "How do you determine the list of the key players included in the report?",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players operating in the Thermoelectric Materials market? Which companies are the front runners?",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "The impact of manufacturers on the market is significant across various industries, influencing supply chains, consumer choices, and economic growth. Manufacturers are key players in",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Generators Market Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of key players involved in the market for thermoelectric generators (",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "An in-depth analysis of various patents that have been filed / granted related to the thermoelectric generators market and its components, based on various parameters, such as type of patent, patent publication year, patent age and leading players.",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key winning strategies framework that helps in analyzing the level of competition within an industry, by tracing the key market activities including partnership, funding, expansion of leading players",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, Danish start-up TEGnology reported that it is setting up production of its own thermoelectric generator components, with several thousand units planned. Local production of this kind shortens supply chains for sensor-system customers across the region.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Thermoelectric Materials Market?",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Thermoelectric Materials Market include INTERM, EVERREDtronics Limited, Thermonamic Electronics (Jiangxi) Corp., Ltd., Miracrys, Ferrotec Holdings Corporation, RMT Ltd., among others.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Find UK Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Get access to 2,452 funded UK startups in one database",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Birmingham Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Bristol Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Cambridge Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Edinburgh Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "London Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Manchester Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Biotech Startups",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "中国・日本・韓国・韓国の積極的な電子製造、政府主催の環境への取り組み、及び広範な産業化により、熱電材料の市場がアジア・パシフィックに浸透しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に中国で熱電材料の約34%が生産され、日本経済新聞社より30万米ドルの熱電研究開発プログラムが支援されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ株式会社",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "日本に本社を構えるフェロテックは、廃熱回収・発電に使用される熱電モジュールの製造を得意としています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ株式会社 - 日本",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ株式会社は、熱電モジュールの開発に大きな投資をし、日本に本社を構える多様化する技術会社です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "京セラの効率的な熱対電気変換技術は、省エネに貢献し、グローバルな持続可能性への取り組みを支援します",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本、中国、韓国は、材料開発と製造技術の両面で世界的な競争力を有しており、熱電発電モジュールや冷却システムの商用化が急速に進展しています",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、精密製造や電子部品分野での応用を中心に、信頼性の高い高効率デバイスの開発を推進しています",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "https://japaninsights.jp/",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "pass": 3
+   },
+   {
+    "quote": "(編纂):日本熱電学会",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "pass": 3
+   },
+   {
+    "quote": "岩崎悠真 日本電気㈱",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国一律660円",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料の市場規模、2034年に21億米ドル到達予測 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションはStratistics Market Research Consultingの日本における正規代理店です",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan Top Story",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF Report at ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan is operated by 4X Corp under license from Ziff Davis.",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": ">世界の熱電材料市場、材料別（テルル化ビスマス、テルル化鉛など）、供給源別（廃熱回収、エネルギーハーベスティング、直接発電、コジェネレーションなど）、温度別（低温（80°C未満）、中温（80°- 500°C）、高温（> 500°C）など）、ワット数別（低電力、中電力、高電力など）米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、イタリア、英国、フランス、スペイン、オランダ、ベルギー、スイス、トルコ、ロシア、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、サウジアラビア、UAE、南アフリカ、エジプト、イスラエル、その他の中東およびアフリカ）業界動向と2029年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱電材料市場、材料別（テルル化ビスマス、テルル化鉛など）、供給源別（廃熱回収、エネルギーハーベスティング、直接発電、コジェネレーションなど）、温度別（低温（80°C未満）、中温（80°- 500°C）、高温（ 500°C）など）、ワット数別（低電力、中電力、高電力など）米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、イタリア、英国、フランス、スペイン、オランダ、ベルギー、スイス、トルコ、ロシア、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、サウジアラビア、UAE、南アフリカ、エジプト、イスラエル、その他の中東およびアフリカ）業界動向と2029年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、2025年、消費者向け電子機器製造、自動車電気化、産業熱回収システム、中国、日本、韓国、インドにおける半導体・エネルギー貯蔵生産の急速な拡大により、熱電材料市場を占める",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、2025年、消費者向け電子機器製造、自動車電気化、産業熱回収システム、中国、日本、韓国、インドの半導体・エネルギー貯蔵生産の急速な拡大により、熱電材料市場を41.8%に拡大しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱電材料市場動向",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、先進自動車エレクトロニクス、精密産業機器、高性能冷却ソリューションの強力な採用により、地域成長に大きく貢献します",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、世界の熱電材料市場、材料別（テルル化ビスマス、テルル化鉛など）、供給源別（廃熱回収、エネルギーハーベスティング、直接発電、コジェネレーションなど）、温度別（低温（80°C未満）、中温（80°- 500°C）、高温（> 500°C）など）、ワット数別（低電力、中電力、高電力など）米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、イタリア、英国、フランス、スペイン、オランダ、ベルギー、スイス、トルコ、ロシア、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、サウジアラビア、UAE、南アフリカ、エジプト、イスラエル、その他の中東およびアフリカ）業界動向と2029年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "JAPANESE",
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "pass": 3
+   },
+   {
+    "quote": "有機系熱電変換技術に関する特許出願推移(図1)をみると、日本および米国でその研究開発が先行して進められてきたことが分かる",
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では80年代にも出願が継続的に行われている",
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本、米国に遅れて欧州や韓国、中国での出願件数が始まっている",
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ビジネス翻訳株式会社",
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の公的研究機関・産総研の公式ウェブマガジン",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまで米国をはじめとする国々が先行してきた分野に、我が国が本格的に取り組むことは、日本の宇宙探査能力を飛躍的に高める重要な一歩となるでしょう",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "pass": 3
+   },
+   {
+    "quote": "進行しているプロジェクトでは、日本原子力研究開発機構と協力して、熱電変換デバイスを用いて実際に使われる熱源を利用し、LEDを点灯させることが確認できています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "pass": 3
+   },
+   {
+    "quote": "写真提供：日本原子力研究開発機構",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "pass": 3
+   },
+   {
+    "quote": "熱電変換と安全性評価という、一見すると異なる分野の研究が結びつき、日本の宇宙開発を支える技術が育てられています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Japan Corporate Number 7010005005425）. All rights reserved.",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエネルギー基本計画では、省エネルギーと脱炭素化の推進",
+    "url": "https://www.hakodate-ct.ac.jp/wp-content/uploads/2026/09/60_yanagiya.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所属学会・協会： 応用物理学会，日本熱電学会",
+    "url": "https://www.hakodate-ct.ac.jp/wp-content/uploads/2026/09/60_yanagiya.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rajkumar Modak, Masayuki Murata, Dazhi Hou, Asuka Miura, Ryo Iguchi, Bin Xu, Rulei Guo, Junichiro Shiomi, Yuya Sakuraba, Ken-ichi Uchida, “Phase-transition-induced giant Thomson effect for thermoelectric cooling”, Applied Physics Reviews 9, 011414 (2022). [",
+    "url": "https://www.phonon.t.u-tokyo.ac.jp/research/thermoelectric-materials-and-devices/",
+    "pass": 3
+   },
+   {
+    "quote": "希少元素を使用しない低コスト・高信頼性の熱電発電デバイスを日本から世界へ発信",
+    "url": "https://www.miyazaki-u.ac.jp/newsrelease/edu-info/post-1474.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした日本中で発生している年間の排熱量は原子力発電所数十基分の発電量に相当すると試算されています",
+    "url": "https://www.miyazaki-u.ac.jp/newsrelease/edu-info/post-1474.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific dominated the thermoelectric materials market with a 41.8% revenue share in 2025, driven by strong growth in consumer electronics manufacturing, automotive electrification, industrial heat recovery systems, and rapid expansion of semiconductor and energy storage production across China, Japan, South Korea, and India",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Thermoelectric Materials Market Insight",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "UENO FOOD TECHNO INDUSTRY, LTD. (JAPAN)",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "have established vertically integrated production facilities combining raw material processing with module assembly, enabling competitive pricing and rapid technology deployment. Japanese companies like",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": ", headquartered in Japan, commands",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.2.2 Japan",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; France; UK; Italy; Spain; China; India; Japan; Brazil; Argentina; Saudi Arabia; South Africa; UAE",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Gentherm Inc.; Coherent Corp.; Ferrotec Holdings Corporation; Komatsu Ltd.; Yamaha Corporation C0., Ltd.; Global Power Technologies; Kyocera Corporation; TEC Microsystems GmbH; Laird Thermal Systems; TECTEG MFR",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in this industry include Gentherm Inc., Coherent Corp., Ferrotec Holdings Corporation, Komatsu Ltd., Yamaha Corporation C0., Ltd., Global Power Technologies, Kyocera Corporation, TEC Microsystems GmbH, Laird Thermal Systems, TECTEG MFR",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The fastest-growing region. China, Japan, and South Korea are investing heavily in electronics and automotive integration.",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "熱電材料市場 の洞察レポート2035のトップ50企業 — 熱電材料市場 の洞察レポート2035のトップ50企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-50-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料市場規模 と 成長 レポート、2035 年 — 熱電材料市場規模 と 成長 レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/thermoelectric-material-market-127583",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料 の 市場 規模、2034年に21億米ドル到達 予測 — 熱電材料 の 市場 規模、2034年に21億米ドル到達 予測 ZDNET Japan https://japan.zdnet.com > プレスリリース",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "pass": 3
+   },
+   {
+    "quote": "熱電材料市場 の規模、シェア、2030年までの動向 — 熱電材料市場 の規模、シェア、2030年までの動向 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "未利用熱を有効活用する 熱電変換材料 の開発 — 未利用熱を有効活用する 熱電変換材料 の開発 函館工業高等専門学校 PDF https://www.hakodate-ct.ac.jp > 60_yanagiya",
+    "url": "https://www.hakodate-ct.ac.jp/wp-content/uploads/2026/09/60_yanagiya.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Generator Market Size Report, 2024-2030 — Thermoelectric Generator Market Size Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market Report (2026) — Thermoelectric Materials Market Report (2026) Strategic Market Research https://www.strategicmarketresearch.com > ...",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoelectric Materials Market to Grow at 8.89% CAGR ... — Thermoelectric Materials Market to Grow at 8.89% CAGR ... openPR.com https://www.openpr.com > news > the...",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "アジア・パシフィックは、2025年、消費者向け電子機器製造、自動車電気化、産業熱回収システム、中国、日本、韓国、インドにおける半導体・エネルギー貯蔵生産の急速な拡大により、熱電材料市場を占める",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bismuthのテルル化物の区分は2025年の44.7%のシェアと市場を、それの低いから中温度の適用のための最も広く利用された熱電材料、特に冷却モジュール、消費者電子工学、医療機器および自動車シートの冷却装置で支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "BismuthのTerurideの区分は2025年の44.7%のシェアと市場を、それの低いから中温度の適用のための最も広く利用された熱電材料、特に冷却モジュール、消費者電子工学、医療機器および自動車シートの冷却装置で支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "廃熱回収部門は、産業製造プラント、自動車排気システム、発電ユニット、重機事業の展開を増加させ、2025年に38.9%のシェアで市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ミディアム温度セグメントは、2025年に41.3%のシェアで市場を支配し、産業廃棄物の熱回収、自動車システム、商業熱管理用途の広範な使用に向けました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ミディアム・パワー・セグメントは、自動車電子機器、産業用センサー、冷却システム、コンシューマー・アプライアンス・アプライアンスを横断する強力な配備により、2025年に36.5%のシェアで市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific dominated the thermoelectric materials market with a 41.8% revenue share in 2025, driven by strong growth in consumer electronics manufacturing, automotive electrification, industrial heat recovery systems, and rapid expansion of semiconductor and energy storage production across China, Japan, South Korea, and India",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Bismuth Telluride segment dominated the market with a 44.7% share in 2025, as it remains the most widely used thermoelectric material for low- to medium-temperature applications, particularly in cooling modules, consumer electronics, medical devices, and automotive seat cooling systems",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "On the basis of wattage, the market is segmented into Low Power, Medium Power, High Power, and Others. The Medium Power segment dominated the market with a 36.5% share in 2025, supported by strong deployment across automotive electronics, industrial sensors, cooling systems, and consumer appliances. These systems offer an ideal balance between energy efficiency and operational performance.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on application, the waste heat recovery segment accounted for the largest share of 58.32% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on vertical, the industrial segment held the largest market share of 48.94% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on type, the single-stage type segment held the largest market share of 45.96% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Waste heat recovery emerged as the largest application segment, with a market share of 58.32% in 2023, and is expected to witness robust growth over the forecast period. This significant share underscores the increasing adoption of TEG technology for harnessing and converting waste heat into usable electricity across various industries.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "held a significant share of 39.87% in the Asia Pacific region in 2023. China is among the global leaders in manufacturing and technology development. The country's advancements in thermoelectric materials, design, and manufacturing processes have led to improvements in efficiency and cost-effectiveness.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share by Material Type and Application (2024 vs. 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geographically, the detailed analysis of consumption, revenue, market share and growth rate, historical data and forecast (2025-2032) of the following regions are covered in Chapters",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "pass": 3
+   },
+   {
+    "quote": "This segment highlights the distribution of the thermoelectric generators market across various geographical regions, such as North America, Europe, Asia, Latin America, the Middle East and North Africa, and the rest of the world. North America is projected to hold the highest (~48%) of the market share till 2035 in terms of revenue.",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "pass": 3
+   },
+   {
+    "quote": "General Purpose modules accounted for a 71.3% share, serving consumer, food and industrial cooling.",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Electronics accounted for 22.4% of Thermoelectric Module Market revenue in 2025",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific combines the largest manufacturing capacity with the fastest demand growth in the Thermoelectric Module Market. China dominates bismuth telluride processing and module output, while Japan supplies high-reliability modules for optics. India's ₹22,919 crore component scheme",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "The Thermoelectric Module Market is moderately fragmented, with an estimated HHI of 900–1,100 and the top five suppliers holding roughly 42–48% of revenue. Japanese, U.S. and Chinese manufacturers lead in scale, while Russian and European specialists compete in micro and high-reliability modules. Competition centers on material efficiency, qualification credentials and raw-material access.",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 75-80% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "By Material, the Bismuth Telluride segment dominated the Thermoelectric Materials Market with approximately 43.35% share in 2025, while the Lead Telluride segment is the fastest growing with a CAGR of approximately 10.64%.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the Waste Heat Recovery segment dominated the Thermoelectric Materials Market with approximately 38.90% share in 2025, while the Co-generation segment is the fastest growing with a CAGR of approximately 9.53%.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "By End-Use Industry, the Automotive segment dominated the Thermoelectric Materials Market with approximately 29.35% share in 2025, while the Aerospace and Defense segment is the fastest growing with a CAGR of approximately 9.72%.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "By Temperature Range, the Medium Temperature segment dominated the Thermoelectric Materials Market with approximately 41.30% share in 2025, while the High Temperature segment is the fastest growing with a CAGR of approximately 9.32%.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "With a share of 39.90% in 2025, Asia Pacific led the Thermoelectric Materials Market on the strength of China's module output, Japan's materials expertise and South Korea's electronics industry. Guangdong Fuxin in Foshan manufactures semiconductor thermoelectric devices for consumer, industrial and telecom customers, while Ferrotec in Tokyo supplies modules and assemblies worldwide.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "The Bismuth Telluride segment dominated the Thermoelectric Materials Market with approximately 43.35% share in 2025.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the Thermoelectric Materials Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the Thermoelectric Materials Market in 2025 with a 39.90% share.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "North America is projected to register the fastest CAGR of 10.54% from 2026 to 2033, driven by rising adoption of industrial waste heat recovery systems, EV battery cooling solutions, aerospace thermal systems, and increasing investment in advanced energy technologies across the U.S. and Canada",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "sustain demand for multi-stage detector cooling, while hyperscalers drive transceiver volumes. CHIPS Act funding of USD 52.7 billion",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2026, Tark Thermal Solutions, formerly Laird Thermal Systems, announced a USD 5.50 million investment in Durham, North Carolina, that will more than double its U.S. production space for thermoelectric components, with completion expected in January 2027. The expansion reflects the regional push to build capacity near customers.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "2025, KELK, a member of the Komatsu group, was granted U.S. Patent 12,225,820 B2 for a thermoelectric generation device. The grant signals continued intellectual property investment in generator designs for converting heat into electricity.",
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "pass": 3
+   },
+   {
+    "quote": "Mater-AI secures £1.5m pre-seed startup funding | Startupmag | Startupmag",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Mater-AI secures £1.5m pre-seed startup funding",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "This article covers Mater-AI, a UK greentech startup, which has raised £1.5m in a",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": ", has raised £1.5m in a pre-seed round led by Twin Path Ventures to commercialise an AI-driven platform for discovering new thermoelectric materials. The technology targets recovery of waste heat across data centres, transport and industrial sites — a practical route to efficiency gains that could affect energy use and supply chains across the UK and Europe.",
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "UK based AI materials startup Mater-AI has raised £1.5M in a pre-seed round led by Twin Path Ventures with participation from Mishcon de Reya, One Planet Capital, XTX Ventures, the Conception X Angel Syndicate, Koro Capital and Tailored Solutions.",
+    "url": "https://mater-ai.com/news/mater-ai-raises-%C2%A31.5m-to-turn-waste-heat-into-electricity-with-ai-discovered-materials",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.5",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界の熱電デバイス市場、2031年までに21.2億米ドル規模へ成長 ― 年平均成長率（CAGR）8.5％で持続的拡大を予測"
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界の滅菌サービス市場は2031年に5,290.1百万米ドルへ拡大、CAGR5.1%で持続成長する医療インフラの中核分野"
+   },
+   {
+    "value": "5.4",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界のイムノアッセイ市場は2031年に548億5000万米ドルへ拡大、CAGR5.4％で持続成長を遂げる高度診断技術の中核分野"
+   },
+   {
+    "value": "5",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界のパッケージの電源供給とチップの電源供給市場は2031年に24.8億米ドルへ拡大、CAGR 5%で成長予測"
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界のモジュラー式建設市場は2031年に2,233億米ドルへ拡大、CAGR6.1%で成長予測"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界のPCB設計ソフトウェア市場：2032年に113億米ドル規模へ、CAGR14.8％で加速する次世代エレクトロニクス設計革命"
+   },
+   {
+    "value": "8.52",
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "quote": "世界の化学センサー市場は2031年に457億米ドル規模へ、CAGR 8.52％で拡大する次世代センシング技術の成長展望"
+   },
+   {
+    "value": "8.1",
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "quote": "熱電材料の市場規模は、2026年の11億米ドルからCAGR8.1％で成長し、2034年までに21億米ドルに達すると予測されています"
+   },
+   {
+    "value": "8.89",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "quote": "CAGR of 8.89%"
+   },
+   {
+    "value": "10.54",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "quote": "North America is projected to register the fastest CAGR of 10.54% from 2026 to 2033, driven by rising adoption of industrial waste heat recovery systems, EV battery cooling solutions, aerospace thermal systems, and increasing investment in advanced energy technologies across the U.S. and Canada"
+   },
+   {
+    "value": "6.8",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "quote": "CAGR: 6.8% | USD Billion"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "quote": "Thermoelectric Materials Market was valued at USD 90.59 million in the year 2025. The size of this market is expected to increase to USD 155.26 million by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 8.0%."
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "quote": "The thermoelectric generator market in the U.S. is anticipated to grow at a CAGR of 9.6% from 2024 to 2030. The U.S. is witnessing significant expansion in renewable energy infrastructure, including solar, wind, and"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "quote": "CAGR of 10.5% from 2024 to 2030"
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "quote": "CAGR of 8.6% (2024 – 2030)"
+   },
+   {
+    "value": "8.89",
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "quote": "Data Bridge Market Research analyses the global thermoelectric materials market will exhibit a CAGR value of 8.89% for the forecast period of 2022-2029. Data Bridge Market Research report thermoelectric materials market provides analysis and insights regarding the various factors expected to be prev"
+   },
+   {
+    "value": "10.73",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "quote": "The thermoelectric generators market size is projected to grow from USD 0.86 billion in 2025 to USD 2.38 billion by 2035, representing a CAGR of 10.73% during the forecast period till 2035."
+   },
+   {
+    "value": "12.80",
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "quote": "Furthermore, the increasing need for sustainable power solutions in low-power, remote, and IoT-based applications is augmenting the growth of the energy harvesting segment. Resulted in, the heat harvesting segment is poised to grow at a higher CAGR of (12.80%) during this forecast period."
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "quote": "The global Thermoelectric Module Market was valued at USD 812.4 Million in 2025 and is projected to reach USD 872.5 Million in 2026, rising to USD 1,701.0 Million by 2035 at a CAGR of 7.7% over 2026–2035. Two catalysts anchor this outlook."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "652.13",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "quote": "USD 652.13 Million"
+   },
+   {
+    "value": "916.82",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "quote": "USD 916.82 Million"
+   },
+   {
+    "value": "652.13",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "quote": "USD 652.13 Million"
+   },
+   {
+    "value": "916.82",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "quote": "USD 916.82 Million"
+   },
+   {
+    "value": "1288.97",
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "quote": "USD 1288.97 million by 2033"
+   },
+   {
+    "value": "1.8",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "quote": "$1.8 billion"
+   },
+   {
+    "value": "3.2",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "quote": "$3.2 billion"
+   },
+   {
+    "value": "688.4",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "quote": "$688.4 million"
+   },
+   {
+    "value": "1.15",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "quote": "$1.15 billion"
+   },
+   {
+    "value": "764.8",
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "quote": "$764.8 million"
+   },
+   {
+    "value": "90.59",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "quote": "Thermoelectric Materials Market was valued at USD 90.59 million in the year 2025. The size of this market is expected to increase to USD 155.26 million by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 8.0%."
+   },
+   {
+    "value": "155.26",
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "quote": "Thermoelectric Materials Market was valued at USD 90.59 million in the year 2025. The size of this market is expected to increase to USD 155.26 million by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 8.0%."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3622076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4759993",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/thermoelectric-material-market-127583",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%86%B1%E9%9B%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-100590",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=24017&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%86%B1%E9%9B%BB%E7%99%BA%E9%9B%BB%E6%A9%9F%E5%B8%82%E5%A0%B4-104022",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31207244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngb.co.jp/resource/news/2994/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hakodate-ct.ac.jp/wp-content/uploads/2026/09/60_yanagiya.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.phonon.t.u-tokyo.ac.jp/research/thermoelectric-materials-and-devices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miyazaki-u.ac.jp/newsrelease/edu-info/post-1474.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/thermoelectric-generators-market-91553904.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech.eu/2025/12/03/mater-ai-secures-ps15m-to-tackle-one-of-energys-oldest-problems-wasted-heat/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mater-ai.com/news/mater-ai-raises-%C2%A31.5m-to-turn-waste-heat-into-electricity-with-ai-discovered-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/energy-storage-funding-deals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q2-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "熱電変換材料 市場規模 年平均成長率",
+   "results": [
+    "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035",
+    "https://www.atpress.ne.jp/news/3622076",
+    "https://jp.linkedin.com/pulse/%E7%86%B1%E9%9B%BB%E5%8D%8A%E5%B0%8E%E4%BD%93-market%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A62026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr94%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%A4%A7%E5%B9%85%E3%81%AA%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-oauje",
+    "https://pando.life/article/4759993",
+    "https://www.businessresearchinsights.com/jp/market-reports/thermoelectric-material-market-127583",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%86%B1%E9%9B%BB%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-100590",
+    "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "https://www.thermoelectrics.jp/zata/20240909_social_implementation_v4.pdf",
+    "https://newscast.jp/smart/news/7107598",
+    "https://www.marketreport.jp/mon24cr8629"
+   ]
+  },
+  {
+   "query": "熱電変換材料 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=24017&la=ja",
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "https://www.fortunebusinessinsights.com/jp/%E7%86%B1%E9%9B%BB%E7%99%BA%E9%9B%BB%E6%A9%9F%E5%B8%82%E5%A0%B4-104022",
+    "https://japan.zdnet.com/release/31207244/",
+    "https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market",
+    "https://peltier.moo.jp/books.html",
+    "https://www.yano.co.jp/press/press.php/002600?srsltid=AYCX9vK6-lsbBYvP9kGibPncDuAbgvrPOX0Tb7882r-bNXip9V6mqP5-",
+    "https://www.fkg-report.jp/research-fields/energy/",
+    "https://www.ircp.niigata-u.ac.jp/wp-content/uploads/2024/01/20240126nuticpresen01.pdf",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "熱電変換材料 参入 企業 国内",
+   "results": [
+    "https://www.ngb.co.jp/resource/news/2994/",
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=116128",
+    "https://www.aist.go.jp/aist_j/magazine/20260424.html",
+    "https://www.youtube.com/watch?v=iG3I4hUYJ5k",
+    "https://www.hakodate-ct.ac.jp/wp-content/uploads/2026/09/60_yanagiya.pdf",
+    "https://www.phonon.t.u-tokyo.ac.jp/research/thermoelectric-materials-and-devices/",
+    "https://www.miyazaki-u.ac.jp/newsrelease/edu-info/post-1474.html",
+    "https://www.riken.jp/press/2020/20200622_1/",
+    "https://www.wpi-aimr.tohoku.ac.jp/jp/aimresearch/highlight/2021/20210125_001355.html"
+   ]
+  },
+  {
+   "query": "thermoelectric materials market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/thermoelectric-generators-market-91553904.html",
+    "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "https://dataintelo.com/report/global-thermoelectric-material-market",
+    "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "https://www.linkedin.com/pulse/in-depth-analysis-thermoelectric-material-market-growth-df2de",
+    "https://www.fortunebusinessinsights.com/industry-reports/thermoelectric-module-market-100590",
+    "https://www.emergenresearch.com/industry-report/thermoelectric-materials-market?srsltid=AYCX9vIacuZY-tFWVg1qJ21YnbuNwkdDwSs_qoEPcTPjkGEwfKL6eSdU",
+    "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "https://www.emergenresearch.com/industry-report/thermoelectric-materials-market"
+   ]
+  },
+  {
+   "query": "thermoelectric materials market key players competitive landscape",
+   "results": [
+    "https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market",
+    "https://www.reanin.com/reports/thermoelectric-materials-market",
+    "https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market",
+    "https://www.linkedin.com/pulse/thermoelectric-material-market-research-report-in-depth-60huf",
+    "https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report",
+    "https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through",
+    "https://www.rootsanalysis.com/thermoelectric-generators-market",
+    "https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503",
+    "https://www.snsinsider.com/reports/thermoelectric-materials-market-4738",
+    "https://www.marketresearch.com/Deep-Insights-Research-Co-DIR-v4285/Global-Thermoelectric-Material-Competitive-Landscape-46412150/"
+   ]
+  },
+  {
+   "query": "thermoelectric materials startup funding 2025",
+   "results": [
+    "https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/",
+    "https://www.instagram.com/p/DR1fKgKDT3n/",
+    "https://tech.eu/2025/12/03/mater-ai-secures-ps15m-to-tackle-one-of-energys-oldest-problems-wasted-heat/",
+    "https://mater-ai.com/news/mater-ai-raises-%C2%A31.5m-to-turn-waste-heat-into-electricity-with-ai-discovered-materials",
+    "https://newmarketpitch.com/blogs/news/energy-storage-funding-deals",
+    "https://semiengineering.com/startup-funding-q2-2025/",
+    "https://growthlist.co/energy-startups/",
+    "https://energy.mit.edu/news-events/news/thermoelectric-materials-are-one-key-energy-savings",
+    "https://www.innovationnewsnetwork.com/start-drives-eu-innovation-in-tellurium-free-thermoelectric-materials/63199/",
+    "https://www.ventureradar.com/funding/thermoelectric+materials"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1066 @@
+{
+ "name": "AI医療機器",
+ "en": "AI medical devices",
+ "aliases": [
+  "医療AI",
+  "AI画像診断"
+ ],
+ "context": "11 創薬 ④先端医療デバイス",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:53:36.286508+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の医療機器・ヘルスケア機器業界の市場シェアを簡易に試算しますと、1位はメドトロニック、2位はジョンソン＆ジョンソン、3位はシーメンスヘルシニアーズとなります",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年の医療機器・ヘルスケア機器業界の市場規模を6,789億ドルとしております",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社バイオスペースによると、2025年の同業界の市場規模は6,789億ドルです",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均5.94%で成長し、規模は1兆2,094億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "6,789億ドル",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "7,196億ドル",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "1兆2,094億ドル",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器・ヘルスケア機器業界の市場規模の成長予想 ©2026 Deallab",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 バクスターがヒルロムの買収を完了し、最大150億ドル規模の世界的な医療技術リーダーを創出",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2024年の医療機器は国内生産金額2兆6,642億円、国内出荷金額4兆7,195億円となっており、底堅い需要が確認できます",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の連結売上高は9,973億円で、消化器内視鏡ソリューションが6,740億円、サージカルインターベンションが3,228億円を占めています",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の売上収益は1兆361億円で、同社として初めて1兆円を突破しました",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の全社売上収益は8,660億円、そのうちライフケア事業は5,509億円でした",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は売上高5,000億円超を達成し、営業利益・当期利益ともに過去最高水準となりました",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の売上高は2,254億円で、国内売上は1,452億円、海外売上は801億円でした",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の売上高は1,390億円で、在宅レンタル事業、消耗品、保守などのランニングビジネスが堅調に推移しました",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "（1）2030年には世界の医療機器の売上高が約8,000億ドルに",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "KPMGは、世界の医療機器市場が年率5％超で成長し、2030年に約8,000億ドルに達する可能性があるとしています",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器 グローバル市場規模 98 111 123 130 162 5.7%",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "影響がはく落し、コロナ禍以前のトレンドに近い前年比+2.3%の4.5兆円を見込む",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器 医療機器 国内市場規模 99 103 110 113 121 1.8%",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機器別グローバル市場規模と日本企業のシェア及び売上高（2017年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オムロン ◆2022年、JMDCの株式33%を1,189億円で取得",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のヘルスケアAI市場2025～2033年、市場規模・企業動向・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本のヘルスケアAI市場2025～2033年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療AI市場は、2024年に14億2,000万米ドル規模となり、2033年には148億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の医療AI市場は、2024年の14億2,000万米ドルから2033年に148億米ドルへ約10倍に拡大する極めて高成長な市場であり、CAGR36.5％という予測は、AIが診断、精密医療、創薬、ロボティクス、遠隔モニタリング、病院業務など広範な領域へ浸透していくことを反映している",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本のヘルスケアAI市場2025～2033年、市場規模・企業動向・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本のヘルスケアAI市場2025～2033年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療AI市場は、2024年に14億2,000万米ドル規模となり、2033年には148億米ドルに達すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の医療AI市場は、2024年の14億2,000万米ドルから2033年に148億米ドルへ約10倍に拡大する極めて高成長な市場であり、CAGR36.5％という予測は、AIが診断、精密医療、創薬、ロボティクス、遠隔モニタリング、病院業務など広範な領域へ浸透していくことを反映している",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療AI市場は、2024 年に 14 億 2000 万米ドルに達し、2033 年には 148 億米ドルに達すると予測されており、2025 年から 2033 年の予測期間において 36.5% の CAGR で成長すると予想されています",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 1 2025 年、2029 年、2033 年の日本の医療AI市場規模（コンポーネント別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 3 2025 年、2029 年、2033 年の日本の医療AI市場規模（用途別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 4 2025 年、2029 年、2033 年の日本の医療AI市場規模（エンドユーザー別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 8 2022 年から 2033 年までの日本の医療AI市場規模（技術別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 9 2025 年、2029 年、2033 年の日本の医療AI市場規模（用途別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 10 2022 年から 2033 年までの日本の医療AI市場規模（用途別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 11 2025 年、2029 年、2033 年の日本の医療AI市場規模（エンドユーザー別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "表 12 2022 年から 2033 年の日本の医療AI市場規模（エンドユーザー別）（10 億米ドル)",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "US AI-Enabled Medical Devices Market Size, Share 2026 - 2035",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.58 Billion",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "18.94 Billion",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "had a size of 2.18 billion, with 467 FDA-approved algorithms based on a deep learning architecture as compared to 225 based on a more conventional machine learning method.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.58 billion",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Market Size in 2035",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 18.94 billion",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.82 billion",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enabled Medical Devices Market Size, Share & Trends Analysis, 2032",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enabled Medical Devices Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2026 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 18.8 Billion",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 24.7 Billion",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2032",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 133.2 Billion",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The AI-enabled medical devices market size will be an estimated USD 18.8 billion for 2025, and it will grow by 32.3% during 2026–2032, to reach USD 133.2 billion by 2032.",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "日本企業としては、カテーテル技術や人工心肺装置などを軸にグローバル展開を加速させるTerumo（テルモ）が12位、医療画像システムや内視鏡、医療IT事業を拡大するFujifilm（富士フイルム）が13位に入りました",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均5.94%で成長し、規模は1兆2,094億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "KPMGは、世界の医療機器市場が年率5％超で成長し、2030年に約8,000億ドルに達する可能性があるとしています",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "（3）3Dプリンタの活用拡大",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": " 医療機器の2023年のグローバル需要は、前年比+5.9%の6,067億米ドルで着地する見込み",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "― グローバル需要は、コロナ禍における手術の延期、受診抑制により、2020年に前年比▲2.3%と縮小した",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に伴い、年率+5.7%で拡大すると予想",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国・地域 CAGR（2022-2027年） 足下の動向・今後の方向性",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業種 指標 2020年（実績） 2021年（実績） 2022年（見込） 2023年（予想） 2027年（予想） CAGR2022-2027",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の市場成長率（CAGR）は情報サービス、航空に次いで高水準",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "影響がはく落し、コロナ禍以前のトレンドに近い前年比+2.3%の4.5兆円を見込む",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 中期的には、高齢化の進展、医療の高度化により、年率+1.8%の緩やかな拡大を予想",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高CAGR（直近5年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2033年の年平均成長率（CAGR）は36.5％と非常に高く、診断支援、治療計画、創薬、患者管理、精密医療、遠隔モニタリング、医療ロボティクスなど幅広い領域でAI活用が進むことが市場拡大の主因となっている",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の医療AI市場は、2024年の14億2,000万米ドルから2033年に148億米ドルへ約10倍に拡大する極めて高成長な市場であり、CAGR36.5％という予測は、AIが診断、精密医療、創薬、ロボティクス、遠隔モニタリング、病院業務など広範な領域へ浸透していくことを反映している",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2033年の年平均成長率（CAGR）は36.5％と非常に高く、診断支援、治療計画、創薬、患者管理、精密医療、遠隔モニタリング、医療ロボティクスなど幅広い領域でAI活用が進むことが市場拡大の主因となっている",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の医療AI市場は、2024年の14億2,000万米ドルから2033年に148億米ドルへ約10倍に拡大する極めて高成長な市場であり、CAGR36.5％という予測は、AIが診断、精密医療、創薬、ロボティクス、遠隔モニタリング、病院業務など広範な領域へ浸透していくことを反映している",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療AI市場は、2024 年に 14 億 2000 万米ドルに達し、2033 年には 148 億米ドルに達すると予測されており、2025 年から 2033 年の予測期間において 36.5% の CAGR で成長すると予想されています",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "成長要因としては、AIの進歩、政府支援、市場の潜在力などが挙げられ、2027 年までに大幅な拡大が見込まれています",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 6 2023 年から 2033 年までの日本の医療AI市場の前年比成長率（構成要素別）（%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 10 日本の医療AI市場の前年比成長率、技術別、2023 年~2033 年（%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 15 日本の医療AIの市場規模、用途別、2023 年~2033 年（前年比、%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 29 2023 年から 2033 年の日本の医療AIの前年比成長率（エンドユーザー別",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026-2035",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the deep learning segment will have the greatest CAGR of 17.2%.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Application-wise, the highest CAGR of 16.8% is projected to fall on the oncology segment in the lifespan of the projection, 2026-2035.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.8% CAGR",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific will have the highest CAGR, of 32.4%, driven by large patient populations, rising healthcare expenditure, increasing prevalence of chronic diseases, growing government initiatives to promote digital health, and expanding healthcare infrastructure. China, India, Japan, and South Korea are making substantial investments in AI technologies and healthcare digitalization.",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の医療機器・ヘルスケア機器業界の市場シェアを簡易に試算しますと、1位はメドトロニック、2位はジョンソン＆ジョンソン、3位はシーメンスヘルシニアーズとなります",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器・ヘルスケア機器業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器・ヘルスケア機器の世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "1位には、コヴィディエンの買収を経て循環器・低侵襲手術領域などの幅広い製品ポートフォリオと世界的な販売網を確立しているMedtronic（メドトロニック）が入り、業界首位を維持しています",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "5位は、MRIや超音波診断装置などの画像診断機器、ならびに生体情報モニタリング分野で世界的なシェアを持つGE（GEヘルスケア）が入っています",
+    "url": "https://deallab.info/medical-equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の医療機器メーカーの売上高ランキング・上位10社の特徴",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器メーカー上位10社の平均年収を解説",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "国内の主要医療機器メーカー上位10社は、いずれも転職先として人気の高い企業です",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の連結売上高は9,973億円で、消化器内視鏡ソリューションが6,740億円、サージカルインターベンションが3,228億円を占めています",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "実際、医療機器業界の大手企業は比較的給与水準が高く、今回の上位10社をみても、富士フイルムホールディングス、オリンパス、日本光電工業、HOYA、フクダ電子、シスメックスなどは高い水準にあります",
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器の国内出荷金額推移予測 国内出荷額上位10製品の国内出荷額推移",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注1）売上高上位20社に、テルモ、Mindray、キヤノン、ニプロ、シスメックス、HOYAを加えた計26社",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機器別グローバル市場規模と日本企業のシェア及び売上高（2017年）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 分析対象となった医療機器のうち、日本企業がグローバル市場で50%以上のシェアを有する機器は内視鏡、医療用",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注2）Key Opinion Leaderの略",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療AI市場（2025-2033）：規模、シェア分析、成長洞察、予測",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 2 2024 年および 2033 年の日本の医療AI市場シェア（コンポーネント別、%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 3 2024 年および 2033 年の日本の医療AI市場シェア（技術別、%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 4 2024 年および 2033 年の日本の医療AI市場シェア（用途別）（%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "図 5 2024 年および 2033 年の日本の医療AI市場シェア（エンドユーザー別）（%）",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の遠隔医療市場（2025-2033）：規模、シェア分析、成長洞察、予測",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療分析市場（2025-2033）：規模、シェア、予測",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の持続可能ジェット燃料用微細藻類市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアフローバランサー市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の単一素材PEソリューション市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の生物医学用冷蔵庫＆冷凍庫市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の特殊樹脂市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "The market share in 2025 based on the Northeast region had a 38% market share of the US AI-enabled medical devices market.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "The radiology and medical imaging AI had occupied over 42% of the market share in 2025 by product type.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end user, 58% of market share in 2025 was in the hands of hospitals.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "情報サービス 情報サービス・ソフトウェア投資額 108 121 134 147 214 9.8%",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設 名目建設投資額（年度） 97 99 101 102 103 0.4%",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific will have the highest CAGR, of 32.4%, driven by large patient populations, rising healthcare expenditure, increasing prevalence of chronic diseases, growing government initiatives to promote digital health, and expanding healthcare infrastructure. China, India, Japan, and South Korea are making substantial investments in AI technologies and healthcare digitalization.",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, Ketryx secured USD 39 million in Series B funding to expand its software platform for medical device development, including AI-enabled applications, supporting regulatory compliance and quality management.",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2025, the Austrian medical device company PIUR IMAGING GmbH raised EUR 5.6 million to advance its tomographic 3D ultrasound technology integrated with AI-powered image analysis for improved diagnostic accuracy.",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業として、IBM、Fujitsu、Microsoft、Cyberdyne Care Robotics、LPixel、Rakuten Group、MOLCURE、Medmain、AI Medical Serviceなどが挙げられている",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "新興の先駆的企業および主要プレイヤー",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 その他の主要企業",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業として、IBM、Fujitsu、Microsoft、Cyberdyne Care Robotics、LPixel、Rakuten Group、MOLCURE、Medmain、AI Medical Serviceなどが挙げられている",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "新興の先駆的企業および主要プレイヤー",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、業界の主要企業は、日本の医療AIの成長を促進する革新的な製品やサービスを発売すべきです",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、この業界の主要企業は、日本の医療AI市場におけるこのセグメントの成長を推進する革新的な製品を発表しています",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療AI市場の主要企業には、IBM、富士通、マイクロソフト、Cyberdyne Care Robotics GmbH、LPIXEL、楽天グループ、MOLCURE Inc.、Medmain Inc.、AI Medical Service Inc. などがあります",
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Estimation and Forecast, Company Profile, Competitive Landscape, Growth Factors and Recent Trends",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "My expertise lies in analyzing complex healthcare trends, market dynamics, and competitive landscapes to help organizations identify opportunities and navigate evolving industry challenges. I am passionate about transforming research into actionable insights that drive informed growth and innovation in the sector.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the US AI-Enabled Medical Devices market?",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market are Google Health, Microsoft Healthcare, IBM Watson Health, GE Healthcare, Siemens Healthineers, Philips Healthcare, Medtronic plc, Viz.ai, Tempus Labs, Paige.AI, iCAD Inc., Butterfly Network, Others.",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enabled Medical Devices Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2026 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "36.5",
+    "url": "https://newscast.jp/smart/news/5733058",
+    "quote": "2025～2033年の年平均成長率（CAGR）は36.5％と非常に高く、診断支援、治療計画、創薬、患者管理、精密医療、遠隔モニタリング、医療ロボティクスなど幅広い領域でAI活用が進むことが市場拡大の主因となっている"
+   },
+   {
+    "value": "36.5",
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "quote": "2025～2033年の年平均成長率（CAGR）は36.5％と非常に高く、診断支援、治療計画、創薬、患者管理、精密医療、遠隔モニタリング、医療ロボティクスなど幅広い領域でAI活用が進むことが市場拡大の主因となっている"
+   },
+   {
+    "value": "17.2",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "quote": "By technology, the deep learning segment will have the greatest CAGR of 17.2%."
+   },
+   {
+    "value": "16.8",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "quote": "Application-wise, the highest CAGR of 16.8% is projected to fall on the oncology segment in the lifespan of the projection, 2026-2035."
+   },
+   {
+    "value": "32.4",
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "quote": "Asia-Pacific will have the highest CAGR, of 32.4%, driven by large patient populations, rising healthcare expenditure, increasing prevalence of chronic diseases, growing government initiatives to promote digital health, and expanding healthcare infrastructure. China, India, Japan, and South Korea ar"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "50",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "quote": " 分析対象となった医療機器のうち、日本企業がグローバル市場で50%以上のシェアを有する機器は内視鏡、医療用"
+   },
+   {
+    "value": "38",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "quote": "The market share in 2025 based on the Northeast region had a 38% market share of the US AI-enabled medical devices market."
+   },
+   {
+    "value": "42",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "quote": "The radiology and medical imaging AI had occupied over 42% of the market share in 2025 by product type."
+   },
+   {
+    "value": "58",
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "quote": "By end user, 58% of market share in 2025 was in the hands of hospitals."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/ai%E5%AF%BE%E5%BF%9C%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-115850",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/2806866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/healthcare/iryou/downloadfiles/pdf/iryoukikisangyouvision2024/iryoukikisangyouvision2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-software-as-a-medical-device-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/medical-devices",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://deallab.info/medical-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-100085",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5733058",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzuyo.co.jp/3pl/column/medical-2025-topics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/iryou/ss_wg/agenda0327/siryo-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5733058",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/medical-devices-market-sizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://arterexmedical.com/medical-device-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orthospinenews.com/2025/12/10/medical-devices-market-size-worth-usd-1209-42-bn-by-2035-fueled-by-advances-in-diagnostic-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/smart-medical-devices-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/medical-devices-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/smart-medical-device-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/ai-in-medical-devices-market/2944",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/artificial-intelligence-machine-learning-medical-device-market/1789",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.todaysmedicaldevelopments.com/news/built-comply-how-ai-reshaping-medical-device-landscape/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5851133/ai-in-medical-devices-market-report?srsltid=AYCX9vLrf6YlFjehvasMKGRFmMdCVPs1KPEz-3Mc5HD5OalKuXyPeiVj",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mddionline.com/business/top-40-medical-device-companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-enabled-medical-devices-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/medical-devices-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intuitionlabs.ai/articles/top-20-medtech-companies-using-ai-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/ai-enabled-medical-devices-market-115850",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AI医療機器 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/ai%E5%AF%BE%E5%BF%9C%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-115850",
+    "https://newscast.jp/smart/news/2806866",
+    "https://www.meti.go.jp/policy/mono_info_service/healthcare/iryou/downloadfiles/pdf/iryoukikisangyouvision2024/iryoukikisangyouvision2024.pdf",
+    "https://www.sphericalinsights.com/jp/reports/japan-software-as-a-medical-device-market",
+    "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4",
+    "https://automotivindustry.substack.com/p/ai20262034-cbf",
+    "https://www.mordorintelligence.com/ja/industry-reports/ai-in-medical-coding-market",
+    "https://www.reportocean.co.jp/industry-reports/artificial-intelligence-in-medical-diagnostics-market",
+    "https://baike.baidu.com/ja/item/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%ABAI%E5%8C%BB%E7%99%82%E5%B8%82%E5%A0%B4/6221025",
+    "https://www.fortunebusinessinsights.com/jp/ai対応医療機器市場-115850"
+   ]
+  },
+  {
+   "query": "AI医療機器 市場 シェア 上位 企業",
+   "results": [
+    "https://service.xenobrain.jp/forecastresults/market-size/medical-devices",
+    "https://deallab.info/medical-equipment/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-100085",
+    "https://www.iryo-tenshoku.com/column/detail.html&id=107",
+    "https://www.meti.go.jp/shingikai/mono_info_service/medical_device/kento_wg/pdf/001_08_00.pdf",
+    "https://medimo.ai/column/AI-service-provider",
+    "https://jp.linkedin.com/pulse/%E5%8C%BB%E7%99%82%E7%94%A8%E5%93%81%E3%81%AEai%E3%81%AE%E5%A4%A7%E6%89%8B10%E7%A4%BE%E3%81%A8%E5%90%84%E7%A4%BE%E3%81%AE%E7%89%B9%E5%BE%B4-corona-catch-sgebe",
+    "https://www.iryokiki-tenshoku.jp/column/knowhow/1808/",
+    "https://www.quon-healthcare.com/articles?acd=10035",
+    "https://www.fortunebusinessinsights.com/jp/ai対応医療機器市場-115850"
+   ]
+  },
+  {
+   "query": "AI医療機器 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/ai%E5%AF%BE%E5%BF%9C%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4-115850",
+    "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E5%B8%82%E5%A0%B4",
+    "https://newscast.jp/smart/news/5733058",
+    "https://www.suzuyo.co.jp/3pl/column/medical-2025-topics.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/medical-devices",
+    "https://www8.cao.go.jp/iryou/ss_wg/agenda0327/siryo-2-1.pdf",
+    "https://www.atpress.ne.jp/news/5733058",
+    "https://www.globalresearch.co.jp/reports/japan-ai-in-healthcare-market-datam/",
+    "https://www.yano.co.jp/market_reports/C67108300?srsltid=AYCX9vKtHBtT0IuCrgi3_2lDf4JfKvdHbIpTk_R-mJP9zN0nou4UkTNW",
+    "https://ja.accio.com/business/医療機器トレンド"
+   ]
+  },
+  {
+   "query": "AI medical devices market size CAGR 2025",
+   "results": [
+    "https://www.towardshealthcare.com/insights/medical-devices-market-sizing",
+    "https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085",
+    "https://arterexmedical.com/medical-device-industry-statistics/",
+    "https://orthospinenews.com/2025/12/10/medical-devices-market-size-worth-usd-1209-42-bn-by-2035-fueled-by-advances-in-diagnostic-technologies/",
+    "https://www.delveinsight.com/report-store/smart-medical-devices-market",
+    "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html",
+    "https://www.precedenceresearch.com/medical-devices-market",
+    "https://www.researchnester.com/reports/ai-in-medical-devices-market/2944",
+    "https://finance.yahoo.com/news/ai-medical-devices-market-expands-160000497.html",
+    "https://www.grandviewresearch.com/industry-analysis/ai-enabled-medical-devices-market-report"
+   ]
+  },
+  {
+   "query": "AI medical devices market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085",
+    "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html",
+    "https://www.marketresearchfuture.com/reports/medical-devices-market/companies",
+    "https://www.gminsights.com/industry-analysis/smart-medical-device-market",
+    "https://www.delveinsight.com/report-store/smart-medical-devices-market",
+    "https://www.fda.gov/medical-devices/artificial-intelligence-enabled-medical-devices/list-artificial-intelligence-enabled-medical-devices",
+    "https://link.springer.com/chapter/10.1007/978-3-032-03577-6_18",
+    "https://www.towardshealthcare.com/insights/ai-in-medical-devices-market-sizing",
+    "https://www.fortunebusinessinsights.com/ai-enabled-medical-devices-market-115850"
+   ]
+  },
+  {
+   "query": "AI medical devices market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.researchnester.com/reports/ai-in-medical-devices-market/2944",
+    "https://www.psmarketresearch.com/market-analysis/ai-enabled-medical-devices-market-report",
+    "https://www.insightaceanalytic.com/report/artificial-intelligence-machine-learning-medical-device-market/1789",
+    "https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085",
+    "https://www.delveinsight.com/report-store/smart-medical-devices-market",
+    "https://www.todaysmedicaldevelopments.com/news/built-comply-how-ai-reshaping-medical-device-landscape/",
+    "https://www.researchandmarkets.com/reports/5851133/ai-in-medical-devices-market-report?srsltid=AYCX9vLrf6YlFjehvasMKGRFmMdCVPs1KPEz-3Mc5HD5OalKuXyPeiVj",
+    "https://www.linkedin.com/pulse/in-depth-analysis-ai-medical-devices-market-selling-price-gzc4e",
+    "https://www.mordorintelligence.com/industry-reports/global-medical-device-technologies-market-industry",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "AI medical devices market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/medical-devices-market-100085",
+    "https://www.mddionline.com/business/top-40-medical-device-companies",
+    "https://www.grandviewresearch.com/industry-analysis/ai-enabled-medical-devices-market-report",
+    "https://www.precedenceresearch.com/medical-devices-market",
+    "https://www.delveinsight.com/report-store/smart-medical-devices-market",
+    "https://www.marketresearchfuture.com/reports/medical-devices-market/companies",
+    "https://intuitionlabs.ai/articles/top-20-medtech-companies-using-ai-2025",
+    "https://www.healthcareforesights.com/reports/us-ai-enabled-medical-devices-market",
+    "https://www.linkedin.com/pulse/top-20-medical-device-companies-2025-the-pharmashots-kswyc",
+    "https://www.fortunebusinessinsights.com/ai-enabled-medical-devices-market-115850"
+   ]
+  }
+ ],
+ "missing": {}
+}

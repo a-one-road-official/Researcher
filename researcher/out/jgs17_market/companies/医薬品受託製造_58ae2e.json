@@ -1,0 +1,1958 @@
+{
+ "name": "医薬品受託製造",
+ "en": "pharmaceutical CDMO",
+ "aliases": [
+  "CDMO",
+  "CMO"
+ ],
+ "context": "11 創薬 ①ファーストインクラス等",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:48:21.896526+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "バイオ医薬品 受託製造 市場規模と予測 – 2025 – 2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のUSD 32.5億",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までのUSD 64.7億",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "この金額には、開発および規制マイルストーンの払い戻し額に1億5億ドルの前払いおよび450万ドルの額が含まれています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2032年までに64.7億米ドルに達すると予測され、 バイオロジックの需要と広範なアウトソーシングの傾向をエスケープします",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造および研究サービス市場は、2032年までにCAGR 10.92％で4,440億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://newscast.jp/news/9916613",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造市場：市場規模・シェア・動向分析（サービス別・製品別・医薬品別・操業規模別・ワークフロー別・用途別・最終用途別・企業別・地域別）、セグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical Contract Manufacturing Market Size, Share & Trends Analysis Report By Service, By Product, By Drug, By Scale Of Operation, By Workflow, By Application, By End Use, By Company, By Region, And Segment Forecasts, 2026 - 2033",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託開発製造組織（CDMO）市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約7.3%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "将来の年には、市場は約2,011 億米ドルの価値に達する見込みです",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は約1,203 億米ドルと記録されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託開発製造組織（CDMO）に関する当社の市場調査によると、北米の市場は予測期間中に約33％の主要市場シェアを維持すると予想され、一方でヨーロッパの市場は主に製薬業界への投資増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、世界の医薬品市場は 2024－2029 年の間に 4.87% 成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "キャップおよび閉鎖部品市場規模・シェア、成長機会、および傾向分析 ―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託開発製造組織（CDMO）市場規模は、2025―2037年間に 7.3% の CAGR で成長し、2037年までに 2,011 億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2025 年の医薬品受託開発製造組織（CDMO）市場規模は適度なペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の医薬品製造受託業界の市場シェアを簡易に試算しますと、1位はサーモ・フィッシャー・サイエンティフィック、2位はロンザ、3位はラボコープとなります",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2024年の医薬品製造受託業界の市場規模を2,705億ドルとしております",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社グランドビューリサーチによると、2024年の同業界の市場規模は2,705億ドルです",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて年平均9.68%で成長し、規模は4,710億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2,705億ドル",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "4,710億ドル",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の市場規模の予想成長推移 ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する医薬品製造受託（CMO） ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する医薬品製造受託（CMO） ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な成長 3,221億円（現在）→3,244億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託（ CMO） AIによる市場規模予測 5年間で0.72%の成長",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託（CMO）の国内市場規模は、現在の3,221億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "今後 5年間で0.72% 成長し3,244億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な縮小 1.54兆円（現在）→1.49兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 3,214億円（現在）→3,645億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "概ね横ばい 2.87兆円（現在）→2.85兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 3.0兆円（現在）→2.5兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 1.8兆円（現在）→1.7兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発行するリサーチレポートによると、Global Pharmaceutical Contract Manufacturing Organization (CMO) 市場規模は、2025 年 USD 220.07 Billion から 2035 年までに USD 140.23 から USD 220.07 Billion に成長する予定です.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発行するリサーチレポートによると、Global Pharmaceutical Contract Manufacturing Organization (CMO) 市場規模は、2025 年 USD 220.07 Billion から 2035 年までに USD 140.23 から USD 220.07 Billion に成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル製薬受託製造機構(CMO)市場規模は、2024年のUSD 134.05億ドル相当に推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造機構(CMO)市場規模は2025年のUSD 140.23億で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル製薬受託製造機構(CMO)市場は、2026年から2035年にかけて4.61%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造機構(CMO)市場規模は2035年までにUSD 220.07億に達する見込みです",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "光オレフィン市場規模・シェア | 業界レポート 2035",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託製造市場は、2024年から2029年にかけて730億8,790万米ドルの成長が見込まれ、予測期間中のCAGRは8.5％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "本報告書では、世界の医薬品受託製造市場に関する包括的な分析、市場規模と予測、動向、成長要因、課題に加え、約25社のベンダー分析を提供しております",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 市場規模",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模実績",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託製造市場は、2025年から2030年にかけて763億9,620万米ドルの成長が見込まれており、予測期間中のCAGRは8.2％と予測されています",
+    "url": "https://newscast.jp/news/2974066",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "アジアパシフィック地域は、最低12%以上の化合物年間成長率(CAGR)で成長しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、著名な契約メーカーは、2024年に哺乳類の細胞培養能力を倍増し、需要が高まります",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造および研究サービス市場は、2032年までにCAGR 10.92％で4,440億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://newscast.jp/news/9916613",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 10.92%",
+    "url": "https://newscast.jp/news/9916613",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは10.92%です",
+    "url": "https://newscast.jp/news/9916613",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2033年にかけては、CAGR 10.45％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは10.45%です",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託開発製造組織（CDMO）市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約7.3%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託開発製造組織（CDMO）市場規模は、2025―2037年間に 7.3% の CAGR で成長し、2037年までに 2,011 億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて年平均9.68%で成長し、規模は4,710億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 AlmacがYour Researchを買収し、参加者、医療機関、スポンサー向けのeClinicalソリューションを拡大",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "成長率を内訳別に見ると、医薬品製剤開発製造受託（CDMO）（+0.8%）とバイオ医薬品製造受託（CMO）（+5.17%）の成長が寄与し、全体として 0.72%の成長と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "「第23回 インターフェックスジャパン」で大幅に拡大した受託サービスをご紹介！ブース内セミナーも開催します！",
+    "url": "https://mono.ipros.com/cg2/%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル製薬受託製造機構(CMO)市場は、2026年から2035年にかけて4.61%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託製造市場は、2024年から2029年にかけて730億8,790万米ドルの成長が見込まれ、予測期間中のCAGRは8.5％と予測されています",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 7.7％",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 8.5％",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託製造市場は、2025年から2030年にかけて763億9,620万米ドルの成長が見込まれており、予測期間中のCAGRは8.2％と予測されています",
+    "url": "https://newscast.jp/news/2974066",
+    "pass": 3
+   },
+   {
+    "quote": "前年比2026年 7.9％",
+    "url": "https://newscast.jp/news/2974066",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 8.2％",
+    "url": "https://newscast.jp/news/2974066",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託製造研究市場規模は、2025年には2,290億1,000万米ドルと評価され、2026年の2,416億1,000万米ドルから2034年には3,707億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造業セグメントは世界市場を牽引しており、予測期間中に年平均成長率（CAGR）5.2%を示すと予測されています",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界銀行は2018年の世界経済成長率を3.1%と予測しています",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の医薬品受託製造研究市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）3.12%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は予測期間中に年平均成長率（CAGR）2.50%を示すと予想されています",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて9.9%のCAGR",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて、契約医薬品製造市場のCAGRが9.9%を予定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "The pharmaceutical contract development and manufacturing organization (CDMO) market was valued at USD 173.7 billion in 2025 and is projected to reach USD 342 billion by 2035, expanding at a CAGR of 7.1% from 2026 to 2035, according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 342 billion by 2035, growing at a CAGR of 7.1% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025-2035",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The global pharmaceutical CDMO market size was estimated at US$ 167.96 billion in 2025 and is projected to grow to US$ 337.89 billion by 2035, rising at a compound annual growth rate (CAGR) of 7.24% from 2026 to 2035. The pharmaceutical CDMOs are growing due to the growing demand for pharmaceutical products.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Growth is expected at a steady CAGR of 7.24% in between 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2035)",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The pharmaceutical CDMO market was valued at USD 167.96 billion in 2025, is expected to reach USD 180.12 billion by 2026, and is projected to grow steadily to USD 337.89 billion by 2035 at a CAGR of 7.24%.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Global CDMO Market Set for 7.0% CAGR Growth, Surpassing $191 Billion by 2029",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "“BCC Research Study Forecasts 7.0% CAGR, with the CDMO Market Expanding from $136.6 Billion in 2024 to $191.6 Billion by 2029, Fueled by Increased Demand for Outsourced Drug Development and Manufacturing.”",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at $128.0 billion in 2023 and is expected to grow from $136.6 billion in 2024 to $191.6 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.0% from 2024 to 2029.",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.0% from 2024 to 2029",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "The global CDMO market was valued at $128 billion in 2023 and is expected to reach $191.6 billion by the end of 2029. The market is expected to grow at a CAGR of 7.0% from 2024 to 2029.",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "AI in Clinical Trials Poised for Rapid Growth with a 22.6% CAGR Forecast",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "Consensus growth sits in the 6 to 10 percent CAGR range, comfortably above broader pharma manufacturing, driven by rising outsourcing penetration.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Biologics CDMO services are growing faster (roughly 7 to 15 percent CAGR depending on scope) than small molecule, though small molecule and APIs still hold the larger absolute share.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "More conservative scopes, such as Precedence Research, estimate about USD 211 billion in 2026 expanding to roughly USD 392.67 billion by 2035 at a 7.12 percent CAGR. The differences mostly come down to whether a firm counts only outsourced manufacturing or includes the full development-plus-manufacturing value chain.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Consensus growth sits in the 6 to 10 percent CAGR range. Mordor Intelligence cites about 6.33 percent to 2031, while Fortune Business Insights projects closer to 9.90 percent to 2034. Biologics and GLP-1-related capacity grow faster than the overall average.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Biologics is growing faster in percentage terms, with CAGRs reported between roughly 7 and 15 percent depending on scope. However, small molecule plus API services remain the larger absolute market and are being revitalized by GLP-1 peptides and high-potency APIs.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.2%",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 14.6% through 2033",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 14.1% through 2033",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Growth (CAGR 2026 to 2033)",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Growth (CAGR 2020 to 2025)",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The India market is expected to witness a CAGR of 13.2% between 2026 and 2033.",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "According to Jefferies, the overall CDMO market is expected to grow from $173 billion in 2024 to $185 billion this year and $323 billion by 2033—a compound annual growth rate (CAGR) of 7.2%, according to data from Statista and company forecasts cited by Jefferies.",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Addressing analysts on July 23 on the company’s quarterly earnings call, Stephen Williamson, Thermo Fisher Scientific’s senior vice president and chief financial officer, said the year-over-year impact of tariffs and related foreign exchange fluctuations lowered adjusted operating income by five percent, and reduced adjusted gross margins by approximately 150 basis points (1.5%).",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "CDMO operations finished H1 2025 with EBITDA of CHF 922 billion ($1.141 billion), up 21% from CHF 759 million (about $940 million) in H1 2024, on revenue that jumped 21% year-over-year to CHF 3.053 billion ($3.78 billion) from CHF 2.517 billion ($3.116 billion).",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "医薬品製造は、バイオロジスティックス製造における基礎的な役割につながり、サービス収益プールの約45%を占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Oncology は、モノクローナル抗体およびセルセラピーのパイプラインの容積が専門受託製造サービスを必要とするため、治療セグメント収益の約 38% を占める最大の部分を処理します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "マレーシア セル文化は、モノクローナル抗体や溶融タンパク質などの複雑なバイオロジックを生成し、その必要性に約52%のシェアを表しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な産業シェアの約38%を占める北アメリカの広範囲のバイオ医薬品インフラと規制調和、バイオ医薬品受託製造市場での領域の優位性を強調する",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "需要側のダイナミクスは、バイオシミラー輸入における重要な成長を明らかにし、2025年にグローバルバイオ医薬品輸入の約22%を占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "腫瘍学を中心とした受託製造などのマイクロインディケーターは、2024年にバイオ医薬品製造契約の約40%を占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、Samsung Biologicsは2024年に30万リットルの容量を拡張し、その市場シェアを哺乳類の細胞培養で強化しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造市場：市場規模・シェア・動向分析（サービス別・製品別・医薬品別・操業規模別・ワークフロー別・用途別・最終用途別・企業別・地域別）、セグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析；地域別（2024年・2030年）",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業シェア分析（2025年）",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託開発製造組織（CDMO）市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―製品別、ワークフロー別、アプリケーション別、エンドユーザー別、および地域別―世界市場の見通しと予測2025―2037年",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託開発製造組織（CDMO）に関する当社の市場調査によると、北米の市場は予測期間中に約33％の主要市場シェアを維持すると予想され、一方でヨーロッパの市場は主に製薬業界への投資増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、APIセグメントは、予測期間中に約55％の最大の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、腫瘍学セグメントは、予測期間中に約45％の最大の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託開発製造組織（CDMO）市場分析によると、アジア太平洋地域は、予測期間中に市場全体の収益の約25％の市場シェアを占めるはずです",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託開発製造組織 (CDMO) 市場の見通しと動向によると、北米市場地域は予測期間中に約 33% の最大市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "キャップおよび閉鎖部品市場規模・シェア、成長機会、および傾向分析 ―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2025年には北米地域が医薬品受託開発製造組織（CDMO）市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の医薬品製造受託業界の市場シェアを簡易に試算しますと、1位はサーモ・フィッシャー・サイエンティフィック、2位はロンザ、3位はラボコープとなります",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の市場シェア(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託の世界市場シェアと業界ランキング(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "本業界に関連する今後成長/衰退する製品・サービス（上位8個）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "光オレフィン市場規模・シェア | 業界レポート 2035",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造研究市場の規模、シェア、トレンド分析レポート：サービス別（製造、研​​究）および地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に38.4%の市場シェアを占め、医薬品受託製造研究市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の医薬品受託製造研究市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）3.12%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "抗体最適化サービス市場規模、シェア、成長率、需要、2034年",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dイメージング遠隔サービス市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "腫瘍学分野の前臨床CRO市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "眼科臨床試験市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "HIV臨床試験市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "外傷治療センター市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "契約製造組織(CMO)セグメントは、2025年の市場シェアの52.9%を保持すると推定され、堅牢なエンドツーエンドの能力を支持しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "小さな分子セグメントは、2025年の市場シェアの58.8%を保持すると推定され、さまざまな治療分野にわたって小さな分子薬の採用が高まります",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、グローバルコントラクト医薬品製造市場での優位性を維持し、2025年の市場シェアの32.6%を米国でメジャーな収益発生率で保有すると推定されています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月、女性の健康イノベーションのリーダーであるDaré Bioscience, Inc.と、グローバル臨床研究、製品開発、コンサルティング会社であるPremier Research International, LLCは、同社が、Premier Research International, LLCが引き続き米国内で独占契約研究機関(CRO)サービスを提供し、Daré Bioscience, Incの再生産健康ポートフォリオの臨床開発を支援することを発表しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biologics accounted for 45% of FDA novel drug approvals in 2025, while the European Medicines Agency recommended 104 medicines, including 41",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the pharmaceutical cdmo market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in pharmaceutical cdmo market include Lonza Group, Thermo Fisher Scientific, Catalent, Samsung Biologics, WuXi Biologics, which collectively held 30% market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the pharmaceutical CDMO market in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By product, the API segment dominated the market in 2025 and is expected to be the fastest growing during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By workflow, the commercial segment dominated the market in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the oncology segment dominated the market in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Why Did the API Segment Dominate in the Pharmaceutical CDMO Market in 2025?",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "How Commercial Segment Dominated the Pharmaceutical CDMO Market in 2025?",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Which Application Type Segment Held the Dominating Share of the Pharmaceutical CDMO Market in 2025?",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Which type of service will dominate the market in 2029?",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "The drug product/finished drug manufacturing service segment will dominate the market in 2029.",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "CDMO Market Size 2026: Data, Market Share & Top CDMOs",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CDMO Market Size 2026: The Data, the Market Leaders and the Outsourcing Opportunity",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Updated 26 October 2026 with the 2025 revenue ranking of the 10 largest CDMOs, market share, and the BIOSECURE timeline. First published in June 2026.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The ten largest CDMOs in GEN's 2026 ranking reported about USD 35 billion of 2025 revenue combined, roughly 13 percent of a market estimated near USD 270 billion. The figure is indicative, because some companies report only segment revenue, but it shows how fragmented the CDMO market remains.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Four drivers dominate: surging GLP-1 demand (projected above USD 200 billion in annual sales by 2031), persistent capacity constraints in sterile fill/finish and advanced modalities, a recovering biotech funding environment, and supply chain reshoring accelerated by the BIOSECURE Act.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "“As more antibody drugs reach commercialization, demand for mid- to large-scale manufacturing is rising, and long-term contracts are becoming a key growth driver. By 2030, these top-tier CDMOs are expected to capture a growing share of the biologics market, potentially exceeding 55%, as quality, scale, and reliability become critical differentiators,” Jefferies wrote.",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Finished Q2 with consolidated operating profit of KRW 475.6 billion ($343.4 million), up 9.5% year-over-year, on KRW 1.29 trillion ($931.3 billion) in revenue, up 11.5% from Q2 2024.",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Appointed Peter Freisler as Chief Business Officer and Executive Committee member effective August 1. Peter joined from Evonik, where he held several senior leadership roles, most recently Global Vice President Sales and Services for the Health Care business line.",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "医薬品受託製造および研究サービス市場における主要企業はどこですか？",
+    "url": "https://newscast.jp/news/9916613",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入企業の分類",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品受託開発製造組織（CDMO）市場の成長に重要な役割を果たす主要な主要企業には、Lonza Group、Cambrex Corporation、Siegfried Holding AG、Corden Pharma International GmbH、Recipharm ABなどが含まれます",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の医薬品受託開発製造組織（CDMO）市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、Lonza Group、Cambrex Corporation、Siegfried Holding AG、Corden Pharma International GmbH、Recipharm ABなどは、世界の医薬品受託開発製造組織（CDMO）市場で機能する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、Nipro Corporation、Bushu Pharmaceuticals Ltd.、CMIC Group、Sawai Pharmaceutical Co., Ltd.、Mitsubishi Corporationなどは、医薬品受託開発製造組織（CDMO）市場の日本の分野で機能している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する医薬品製造受託（CMO） ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する医薬品製造受託（CMO） ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託（ CMO） 主要企業シェアランキング ニプロファーマ株式会社・武州製薬株式会社・富士フイルム富山化学株式会社等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、グローバル製薬受託製造機構(CMO)市場における主要企業に関する詳細な分析を行っています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析を伴うセグメント、ベンダー情勢が含まれています",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析を伴うセグメント、ベンダー情勢が含まれています",
+    "url": "https://newscast.jp/news/2974066",
+    "pass": 3
+   },
+   {
+    "quote": "この分析では、市場規模、成長予測、および業界で活動する主要企業を調査します",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、ベーリンガーインゲルハイム、ロンザ、グリフォルス、ジュビラント・ライフ・サイエンシズ、ファイザーなどである",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業、最新動向、競争インテリジェンス",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in pharmaceutical cdmo market?",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in pharmaceutical cdmo market include Lonza Group, Thermo Fisher Scientific, Catalent, Samsung Biologics, WuXi Biologics, which collectively held 30% market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO Market Size, Trends and Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the key players shaping the global pharmaceutical CDMO landscape?",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Major players such as Lonza, Catalent, WuXi AppTec, Samsung Biologics, Thermo Fisher Scientific, Piramal Pharma Solutions, Recipharm, and Pfizer Centre One are driving innovation, scale, and global expansion through partnerships and acquisitions.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Opportunities and Competitive Landscape for CDMO",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Opportunities and Competitive Landscape for CDMO( PHM238B )",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "Download Report Overview - Global Market Opportunities and Competitive Landscape for CDMO",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "India CDMO Market Size, Trends & Leading Players, 2033",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape of the India CDMO market is highly dynamic, with a mix of established industry leaders and emerging players vying for dominance in various segments such as small molecules, biologics, biosimilars, vaccines, and advanced therapeutics.",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players like Piramal Pharma Solutions, Syngene International, Dr. Reddy’s Laboratories, Divi’s Laboratories, Lupin Limited lead the market. These companies benefit from India’s cost-effective production capabilities and regulatory expertise, enabling them to serve global markets efficiently.",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the global CDMO market profiled in this report are",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "TOP LEADING PLAYERS IN THE MARKET",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country-Level Analysis; Segment-Level Analysis; DROC; PESTLE; Porter's Five Forces; Competitive Landscape; Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in the CDMO Market?",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Opportunities and Competitive Landscape for CDMO",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Opportunities and Competitive Landscape for CDMO( PHM238B )",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "pass": 3
+   },
+   {
+    "quote": "Download Report Overview - Global Market Opportunities and Competitive Landscape for CDMO",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CMO CDMO market competitive landscape is highly fragmented, with established contract manufacturing organizations (CMO), contract development and manufacturing organizations (CDMO),",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "service providers, and specialized biopharmaceutical manufacturing companies. Key players such as Lonza, Catalent, Thermo Fisher Scientific, WuXi AppTec, and Wacker Chemie AG are estimated to account for approximately 25–30% of the global CMO CDMO market share.",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "The team focuses on identifying key market trends, emerging opportunities, technological developments, competitive landscapes, and changing industry dynamics. Through a thoughtful and research-driven approach, it aims to provide valuable insights that help businesses, investors, and decision-makers better understand their industries and make informed strategic decisions.",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the Major Key Players in the",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": ", autoimmune & CNS disorders, and others. Based on the end user, the market is divided into big pharma, biotech startups, virtual pharma, and government/NGOs.",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "Free customization report with the procurement of the report and modifications to the regional and segment scope. Particular Geographic competitive landscape.",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "Biotech Startups",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Pharmaceutical CDMO 2.0 Market?",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "See the data, methodology, and competitive landscape preview & delivered to your inbox shortly.",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3:Who are the key players in pharmaceutical CDMO market?",
+    "url": "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the pharmaceutical CDMO include Bushu Pharmaceuticals Ltd., Nipro Corporation, Thermo Fisher Scientific Inc, Samsung Biologics, Laboratory Corporation Of America Holdings, Siegfried Holding Ag, Catalent, Inc, Lonza Group Ag, Recipharm Ab, Piramal Pharma Solutions, Cordenpharma International, Cambrex Corporation, Wuxi Apptec.",
+    "url": "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "バイオ 医薬品受託製造市場 の洞察 2032 — バイオ 医薬品受託製造市場 の洞察 2032 Coherent Market Insights https://www.coherentmarketinsights.com > バイオ医薬品...",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造 市場 | 市場規模 シェア 動向分析 予測 2026 ... — 医薬品受託製造 市場 | 市場規模 シェア 動向分析 予測 2026 ... グローバルインフォメーション https://www.gii.co.jp > ... > 創薬 > 開発業務受託機関",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する 医薬品製造受託 （CMO） ｜2030年 市場 規模推移 ... — AIが予測する 医薬品製造受託 （CMO） ｜2030年 市場 規模推移 ... xenoBrain https://service.xenobrain.jp > forecastresults > market-size",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造 - メーカー・ 企業 8社の業務用製品ランキング — 医薬品受託製造 - メーカー・ 企業 8社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 医薬品受託製造",
+    "url": "https://mono.ipros.com/cg2/%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ 20 企業 グローバル製薬 受託製造 機構(CMO) 市場 — トップ 20 企業 グローバル製薬 受託製造 機構(CMO) 市場 Spherical Insights https://www.sphericalinsights.com > blogs > top-20-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 医薬品受託製造市場2025 -2029年 - アットプレス — 世界の 医薬品受託製造市場2025 -2029年 - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造 の世界 市場 2026年～2030年 - NEWSCAST — 医薬品受託製造 の世界 市場 2026年～2030年 - NEWSCAST Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/2974066",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品受託製造 研究 市場 規模、2034年 - Straits Research — 医薬品受託製造 研究 市場 規模、2034年 - Straits Research Straits Research https://straitsresearch.com > 健康管理 > 医療サービス",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO Market Size , Report 2026-2035 — Pharmaceutical CDMO Market Size , Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > pharm...",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO Market to Surge USD 337.89 Billion by ... — Pharmaceutical CDMO Market to Surge USD 337.89 Billion by ... Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CDMO Market Size 2026: Data, Market Share & Top CDMOs — CDMO Market Size 2026: Data, Market Share & Top CDMOs Corstrate https://www.corstrate.com > post > cd...",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO Market Size Worth USD 368.70 Bn By ... — Pharmaceutical CDMO Market Size Worth USD 368.70 Bn By ... BioSpace https://www.biospace.com > pharmac...",
+    "url": "https://www.biospace.com/press-releases/pharmaceutical-cdmo-market-size-worth-usd-368-70-bn-by-2034-driven-by-biologics-and-advanced-therapies-demand",
+    "pass": 3
+   },
+   {
+    "quote": "India CDMO Market Size, Trends & Leading Players , 2033 — India CDMO Market Size, Trends & Leading Players , 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "CDMO Market Size, Share , Growth & Trends, 2034 — CDMO Market Size, Share , Growth & Trends, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO 2.0 Market Size, Share & 2031 Growth ... — Pharmaceutical CDMO 2.0 Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/pharmaceutical-cdmo-20-market",
+    "pass": 3
+   },
+   {
+    "quote": "CMO CDMO Market Size, Share, Growth, Analysis, Report, 2034 — CMO CDMO Market Size, Share, Growth, Analysis, Report, 2034 Straits Research https://straitsresearch.com > report > c...",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pharmaceutical CDMO 2.0 Market Size? — What is Pharmaceutical CDMO 2.0 Market Size? Insightace Analytic https://www.insightaceanalytic.com > ...",
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical CDMO Market Size, Share Report, 2034 — Pharmaceutical CDMO Market Size, Share Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/pharmaceutical-cdmo-market-118019",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "野村ホールディングス等から「累計18億円」の資金調達をしています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "pass": 3
+   },
+   {
+    "quote": "Rising R&D investment and drug approvals globally. Large pharmaceutical-company R&D expenditure reached USD 190 billion in 2024, a 73% increase over five years, and biopharma funding reached USD 102 billion. IQVIA Institute for Human Data Science PhRMA member companies invested USD 104.3 billion in R&D in 2024. PhRMA",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Oct 2025: Cambrex announced a USD 120 million investment at Charles City, Iowa to increase API manufacturing and peptide capacity by 40%. The expansion strengthens US capacity for complex small-molecule and peptide programs.",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2023, with funding from a UK Government grant, Pharmaron spent £151 million in UK Gene Therapy CDMO to increase the size of its facilities for producing viral vectors and DNA by over 8,000 square meters.",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Global Bispecific Antibodies Market to Reach $22.3 Billion by 2030 as Immuno-Oncology Innovation and R&D Investment Accelerate",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "Neuroprotective Agents Market to Reach $60.9 Billion by 2030 as Neurological Disease Burden and Aging Populations Drive Pharmaceutical Investment",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "Protein Synthesis Research Market to Reach $42.8 Billion by 2031, Driven by Surging CGT Investment",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "pass": 3
+   },
+   {
+    "quote": "counts USD 16 billion of private biopharma investment across 314 deals in H1 2026, with the top 10 percent of first financings taking 63 percent of the money. Fourth, reshoring: the",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Four drivers dominate: surging GLP-1 demand (projected above USD 200 billion in annual sales by 2031), persistent capacity constraints in sterile fill/finish and advanced modalities, a recovering biotech funding environment, and supply chain reshoring accelerated by the BIOSECURE Act.",
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Aurigene Pharmaceutical Services, a division of Indian pharmaceutical giant Dr. Reddy’s Laboratories, announced an investment of $40 million to build a state-of-the-art production facility for therapeutic proteins, antibodies, and viral vectors. The facility was located at Genome Valley, a renowned biotech park in Hyderabad, and was expected to be fully operational by the first half of 2024.",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Raised FY 2025 outlook for CDMO business to CER sales growth of 20-21% (up from “approaching 20%”) and a core EBITDA margin of 30-31% (up from “approaching 30%”).",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "). Meanwhile capital continues to pour into new capacity: Fujifilm states it has invested more than £5 billion over the past decade to grow its CDMO business (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "), anchored by its Vienna, Austria plant, the largest single investment in the company's history at €700 million ($809 million), housing 48 bioreactors totaling 185,000 liters (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "(formerly Fujifilm Diosynth Biotechnologies) states it has invested more than £5 billion globally over the past decade to grow its CDMO business, and its total global investment now exceeds $8 billion (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": ", a family-owned CDMO, brought a new Milford, Massachusetts production line fully online in July 2024, calling it the largest investment in the company's 150-plus-year history and stating it doubled the firm's global cGMP capacity (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": ", privately held by Astorg, announced a record investment of approximately €900 million over three years in July 2024 to expand its peptide manufacturing platform in Colorado and a new European greenfield site, driven substantially by GLP-1 (glucagon-like peptide-1) agonist demand (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": ") and announced a $90 million investment to expand its Lexington, Kentucky (sterile injectables) and Riverview, Michigan (HPAPI/ADC) facilities at the 2025 SelectUSA Investment Summit (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "Three neutral, publicly documented transactions illustrate how consolidation and capacity investment are reshaping the CDMO landscape as of 2026.",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung Biologics' Plant 5, announced in 2023 as the anchor of its \"Bio Campus 2\" expansion, represented an investment of over KRW 1.9 trillion and was designed to expand the company's total site capacity to 784,000 liters upon completion (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": ", driven heavily by GLP-1 agonist demand; CordenPharma's roughly €900 million, three-year investment and Asymchem's expansion of solid-phase peptide synthesis capacity to over 45,000 liters both reflect sponsors' urgency to secure supply for this modality specifically (",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "A 2026 analyst comparison of the top lyophilization CDMOs, including Catalent, Lonza, Simtra, Vetter, and PCI Pharma Services, covering freeze-dryer capacity, sterile fill-finish specs, recent capacity investments, and how to choose a partner.",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "A 2026 analyst ranking of the top 10 sterile fill-finish CDMOs, covering isolator vs RABS technology, prefilled syringe capacity, EU Annex 1 compliance, and capital investment data for Lonza, Thermo Fisher, Catalent, and more.",
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "pass": 3
+   },
+   {
+    "quote": "Global Bispecific Antibodies Market to Reach $22.3 Billion by 2030 as Immuno-Oncology Innovation and R&D Investment Accelerate",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "pass": 3
+   },
+   {
+    "quote": "Neuroprotective Agents Market to Reach $60.9 Billion by 2030 as Neurological Disease Burden and Aging Populations Drive Pharmaceutical Investment",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "pass": 3
+   },
+   {
+    "quote": "Protein Synthesis Research Market to Reach $42.8 Billion by 2031, Driven by Surging CGT Investment",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in CMO CDMO Market, 2026",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2026, Resilience and Eli Lilly expanded their strategic partnership with a USD 750 million investment to increase U.S. manufacturing capacity for injectable medicines in Ohio.",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, Aarti Pharmalabs invested approximately USD 48 million in capital expenditure to expand its CMO and CDMO capabilities, including capacity expansion and production debottlenecking.",
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": ": Catalent announced a $250 million investment in its gene therapy manufacturing facility in Maryland, expanding viral vector and plasmid production.",
+    "url": "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma VC Funding in Q2 Reaches Highest Quarterly Level Since 2022",
+    "url": "https://www.biospace.com/press-releases/pharmaceutical-cdmo-market-size-worth-usd-368-70-bn-by-2034-driven-by-biologics-and-advanced-therapies-demand",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034 as new capacity investments and technology upgrades sustain output growth.",
+    "url": "https://dataintelo.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "from 2026 to 2034, supported by growing demand from both innovator pharmaceutical firms and a booming biosimilars segment that requires sophisticated manufacturing expertise. France, the Netherlands, and Italy are also emerging as important CDMO hubs, attracting both domestic and foreign direct investment to expand regional manufacturing capacity.",
+    "url": "https://dataintelo.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "from 2026 to 2034, outpacing the overall market growth rate and driving significant capacity expansion investments across the value chain.",
+    "url": "https://dataintelo.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/pharmaceutical-cdmo-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.92",
+    "url": "https://newscast.jp/news/9916613",
+    "quote": "医薬品受託製造および研究サービス市場は、2032年までにCAGR 10.92％で4,440億3,000万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "10.45",
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "quote": "2026年から2033年にかけては、CAGR 10.45％で成長すると見込まれています"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "quote": "世界の医薬品受託製造市場は、2024年から2029年にかけて730億8,790万米ドルの成長が見込まれ、予測期間中のCAGRは8.5％と予測されています"
+   },
+   {
+    "value": "8.2",
+    "url": "https://newscast.jp/news/2974066",
+    "quote": "世界の医薬品受託製造市場は、2025年から2030年にかけて763億9,620万米ドルの成長が見込まれており、予測期間中のCAGRは8.2％と予測されています"
+   },
+   {
+    "value": "5.5",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "quote": "世界の医薬品受託製造研究市場規模は、2025年には2,290億1,000万米ドルと評価され、2026年の2,416億1,000万米ドルから2034年には3,707億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.5%となる見込みです"
+   },
+   {
+    "value": "5.2",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "quote": "製造業セグメントは世界市場を牽引しており、予測期間中に年平均成長率（CAGR）5.2%を示すと予測されています"
+   },
+   {
+    "value": "3.12",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "quote": "北米は世界の医薬品受託製造研究市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）3.12%で成長すると予測されています"
+   },
+   {
+    "value": "2.50",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "quote": "欧州は予測期間中に年平均成長率（CAGR）2.50%を示すと予想されています"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "quote": "2025年から2032年にかけて、契約医薬品製造市場のCAGRが9.9%を予定しています"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "quote": "The pharmaceutical contract development and manufacturing organization (CDMO) market was valued at USD 173.7 billion in 2025 and is projected to reach USD 342 billion by 2035, expanding at a CAGR of 7.1% from 2026 to 2035, according to the latest report published by Global Market Insights Inc."
+   },
+   {
+    "value": "7.24",
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "quote": "The global pharmaceutical CDMO market size was estimated at US$ 167.96 billion in 2025 and is projected to grow to US$ 337.89 billion by 2035, rising at a compound annual growth rate (CAGR) of 7.24% from 2026 to 2035. The pharmaceutical CDMOs are growing due to the growing demand for pharmaceutical "
+   },
+   {
+    "value": "7.0",
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "quote": "was valued at $128.0 billion in 2023 and is expected to grow from $136.6 billion in 2024 to $191.6 billion by the end of 2029, at a compound annual growth rate (CAGR) of 7.0% from 2024 to 2029."
+   },
+   {
+    "value": "13.2",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "quote": "CAGR of 13.2%"
+   },
+   {
+    "value": "14.6",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "quote": "CAGR of 14.6% through 2033"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "quote": "CAGR of 14.1% through 2033"
+   },
+   {
+    "value": "7.2",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "quote": "According to Jefferies, the overall CDMO market is expected to grow from $173 billion in 2024 to $185 billion this year and $323 billion by 2033—a compound annual growth rate (CAGR) of 7.2%, according to data from Statista and company forecasts cited by Jefferies."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "45",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "quote": "医薬品製造は、バイオロジスティックス製造における基礎的な役割につながり、サービス収益プールの約45%を占めています"
+   },
+   {
+    "value": "38",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "quote": "Oncology は、モノクローナル抗体およびセルセラピーのパイプラインの容積が専門受託製造サービスを必要とするため、治療セグメント収益の約 38% を占める最大の部分を処理します"
+   },
+   {
+    "value": "52",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "quote": "マレーシア セル文化は、モノクローナル抗体や溶融タンパク質などの複雑なバイオロジックを生成し、その必要性に約52%のシェアを表しています"
+   },
+   {
+    "value": "22",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "quote": "需要側のダイナミクスは、バイオシミラー輸入における重要な成長を明らかにし、2025年にグローバルバイオ医薬品輸入の約22%を占めています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "quote": "腫瘍学を中心とした受託製造などのマイクロインディケーターは、2024年にバイオ医薬品製造契約の約40%を占めています"
+   },
+   {
+    "value": "33",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "quote": "医薬品受託開発製造組織（CDMO）に関する当社の市場調査によると、北米の市場は予測期間中に約33％の主要市場シェアを維持すると予想され、一方でヨーロッパの市場は主に製薬業界への投資増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています"
+   },
+   {
+    "value": "55",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "quote": "これらのうち、APIセグメントは、予測期間中に約55％の最大の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "45",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "quote": "これらのうち、腫瘍学セグメントは、予測期間中に約45％の最大の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "25",
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "quote": "世界の医薬品受託開発製造組織（CDMO）市場分析によると、アジア太平洋地域は、予測期間中に市場全体の収益の約25％の市場シェアを占めるはずです"
+   },
+   {
+    "value": "38.4",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "quote": "北米は、2025年に38.4%の市場シェアを占め、医薬品受託製造研究市場を牽引しました"
+   },
+   {
+    "value": "3.12",
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "quote": "北米は世界の医薬品受託製造研究市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）3.12%で成長すると予測されています"
+   },
+   {
+    "value": "52.9",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "quote": "契約製造組織(CMO)セグメントは、2025年の市場シェアの52.9%を保持すると推定され、堅牢なエンドツーエンドの能力を支持しています"
+   },
+   {
+    "value": "58.8",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "quote": "小さな分子セグメントは、2025年の市場シェアの58.8%を保持すると推定され、さまざまな治療分野にわたって小さな分子薬の採用が高まります"
+   },
+   {
+    "value": "32.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "quote": "北米は、グローバルコントラクト医薬品製造市場での優位性を維持し、2025年の市場シェアの32.6%を米国でメジャーな収益発生率で保有すると推定されています"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "quote": "Biologics accounted for 45% of FDA novel drug approvals in 2025, while the European Medicines Agency recommended 104 medicines, including 41"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "quote": "Some of the major players in pharmaceutical cdmo market include Lonza Group, Thermo Fisher Scientific, Catalent, Samsung Biologics, WuXi Biologics, which collectively held 30% market share in 2025."
+   },
+   {
+    "value": "55",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "quote": "“As more antibody drugs reach commercialization, demand for mid- to large-scale manufacturing is rising, and long-term contracts are becoming a key growth driver. By 2030, these top-tier CDMOs are expected to capture a growing share of the biologics market, potentially exceeding 55%, as quality, sca"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "quote": "Finished Q2 with consolidated operating profit of KRW 475.6 billion ($343.4 million), up 9.5% year-over-year, on KRW 1.29 trillion ($931.3 billion) in revenue, up 11.5% from Q2 2024."
+   },
+   {
+    "value": "11.5",
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "quote": "Finished Q2 with consolidated operating profit of KRW 475.6 billion ($343.4 million), up 9.5% year-over-year, on KRW 1.29 trillion ($931.3 billion) in revenue, up 11.5% from Q2 2024."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/pharmaceutical-contract-manufacturing-organization-cmo-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9916613",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/cdmo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cdmo-navi.com/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3334008",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ydb.jp/market_reports/C67106300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2974066",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/contract-development-and-manufacturing-organization-cdmo-outsourcing-market-102502",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/pharmaceutical-cdmo-20-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20211216005573/en/Global-Pharmaceutical-CDMO-Industry-and-Competition-Landscape-2021-2026---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/cmo-cdmo-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/pharmaceutical-cdmo-market-size-worth-usd-368-70-bn-by-2034-driven-by-biologics-and-advanced-therapies-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/pharmaceutical-cdmo-market-118019",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/pharmaceutical-cdmo-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/pharmaceutical-cdmo-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "医薬品受託製造 市場規模 CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/pharmaceutical-contract-manufacturing-organization-cmo-market",
+    "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4",
+    "https://newscast.jp/news/9916613",
+    "https://jp.linkedin.com/pulse/%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA%E3%81%8A%E3%82%88%E3%81%B3%E8%A3%BD%E9%80%A0market-size-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%83%B3cagr%E3%81%AF14%E3%81%A7%E3%81%99-nexalyticsz-9f9me",
+    "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "https://www.fortunebusinessinsights.com/jp/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%B8%82%E5%A0%B4-116596",
+    "https://www.dreamnews.jp/press/0000336402",
+    "https://japan.zdnet.com/release/31199943/",
+    "https://www.fortunebusinessinsights.com/jp/医薬品受託製造市場-116354"
+   ]
+  },
+  {
+   "query": "医薬品受託製造 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/cdmo/",
+    "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "https://www.mordorintelligence.com/ja/industry-reports/pharmaceutical-contract-manufacturing-organization-cmo-market",
+    "https://mono.ipros.com/cg2/%E5%8C%BB%E8%96%AC%E5%93%81%E5%8F%97%E8%A8%97%E8%A3%BD%E9%80%A0/",
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-global-pharmaceutical-contract-manufacturing-organization-cmo-market-in-2026-2035-spherical-insights-analysis",
+    "https://www.cdmo-navi.com/list/",
+    "https://www.fortunebusinessinsights.com/jp/%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA%E8%A3%BD%E9%80%A0%E6%A9%9F%E6%A7%8B%EF%BC%88cdmo%EF%BC%89%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-102502",
+    "https://metoree.com/categories/9287/",
+    "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "https://www.fortunebusinessinsights.com/jp/医薬品受託製造市場-116354"
+   ]
+  },
+  {
+   "query": "医薬品受託製造 市場 前年比 2025",
+   "results": [
+    "https://www.atpress.ne.jp/news/3334008",
+    "https://www.ydb.jp/market_reports/C67106300",
+    "https://www.mordorintelligence.com/ja/industry-reports/pharmaceutical-contract-manufacturing-organization-cmo-market",
+    "https://newscast.jp/news/2974066",
+    "https://straitsresearch.com/jp/report/pharmaceutical-contract-manufacturing-research-market",
+    "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E8%A3%BD%E9%80%A0%E5%8F%97%E8%A8%97%E5%B8%82%E5%A0%B4",
+    "https://www.sdki.jp/reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market/90200",
+    "https://service.xenobrain.jp/forecastresults/market-size/contract-pharmaceutical-manufacturing",
+    "https://www.gii.co.jp/report/grvi2017887-pharmaceutical-contract-manufacturing-market-size.html",
+    "https://www.yano.co.jp/market_reports/C67106300"
+   ]
+  },
+  {
+   "query": "pharmaceutical CDMO market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/pharmaceutical-cdmo-market",
+    "https://www.towardshealthcare.com/insights/pharmaceutical-cdmo-market-sizing",
+    "https://www.fortunebusinessinsights.com/contract-development-and-manufacturing-organization-cdmo-outsourcing-market-102502",
+    "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vKkTcmxIRwOZJ41TQITgc7q_kxXT59amlVVxgerS5oKQlw_Hsba",
+    "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "https://www.biospace.com/press-releases/pharmaceutical-cdmo-market-size-worth-usd-368-70-bn-by-2034-driven-by-biologics-and-advanced-therapies-demand",
+    "https://www.grandviewresearch.com/industry-analysis/active-pharmaceutical-ingredient-cdmo-market",
+    "https://www.credenceresearch.com/report/north-america-contract-development-and-manufacturing-cdmo-market",
+    "https://www.marketsandmarkets.com/Market-Reports/pharmaceutical-contract-manufacturing-market-201524381.html",
+    "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market"
+   ]
+  },
+  {
+   "query": "pharmaceutical CDMO market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/contract-development-and-manufacturing-organization-cdmo-outsourcing-market-102502",
+    "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "https://www.mordorintelligence.com/industry-reports/pharmaceutical-contract-development-and-manufacturing-organization-cdmo-market",
+    "https://www.persistencemarketresearch.com/market-research/india-cdmo-market.asp",
+    "https://www.genengnews.com/topics/bioprocessing/top-10-contract-development-and-manufacturing-organizations-2025/",
+    "https://www.marketdataforecast.com/market-reports/cdmo-market",
+    "https://intuitionlabs.ai/articles/top-cdmo-companies-2026-ranked",
+    "https://www.linkedin.com/pulse/cdmo-market-top-players-regions-investment-trends-2034-dubey-99crc",
+    "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "https://www.precedenceresearch.com/pharmaceutical-cdmo-market"
+   ]
+  },
+  {
+   "query": "pharmaceutical CDMO market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/pharmaceutical-cdmo-20-market",
+    "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vJqX3HziWXMk-0o_p1E6W_FZJ4LTS1tTd3QUkA4fsPbcp9OP9p3",
+    "https://www.businesswire.com/news/home/20211216005573/en/Global-Pharmaceutical-CDMO-Industry-and-Competition-Landscape-2021-2026---ResearchAndMarkets.com",
+    "https://straitsresearch.com/report/cmo-cdmo-market",
+    "https://www.insightaceanalytic.com/report/pharmaceutical-cdmo-20-market/3137",
+    "https://www.biospace.com/press-releases/pharmaceutical-cdmo-market-size-worth-usd-368-70-bn-by-2034-driven-by-biologics-and-advanced-therapies-demand",
+    "https://www.delveinsight.com/report-store/contract-development-manufacturing-organization-market",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-packaging-cdmo-market-trend-alytics-ijjwf",
+    "https://www.pharmasalmanac.com/downloads/nice-opinions-soti-cs-v4-1-single.pdf",
+    "https://visionlifesciences.com/insights/cdmo-market-analysis"
+   ]
+  },
+  {
+   "query": "pharmaceutical CDMO market key companies share 2025",
+   "results": [
+    "https://www.novaoneadvisor.com/report/pharmaceutical-cdmo-market",
+    "https://www.biospace.com/press-releases/pharmaceutical-cdmo-market-size-worth-usd-368-70-bn-by-2034-driven-by-biologics-and-advanced-therapies-demand",
+    "https://www.fortunebusinessinsights.com/pharmaceutical-cdmo-market-118019",
+    "https://www.grandviewresearch.com/industry-analysis/pharmaceutical-cdmo-market-report",
+    "https://dataintelo.com/report/pharmaceutical-cdmo-market",
+    "https://www.bccresearch.com/pressroom/phm/global-cdmo-market?srsltid=AYCX9vIrfWncI_tpbmcNLUEVBzzKGVFjP4KYxal40vToWXb0lw50IGFu",
+    "https://adragos-pharma.com/top-cdmo-companies-leading-2025/",
+    "https://www.mordorintelligence.com/industry-reports/pharmaceutical-cdmo-20-market",
+    "https://www.corstrate.com/post/cdmo-market-size-2026",
+    "https://www.statista.com/statistics/1662129/global-cdmo-market-share-by-company/"
+   ]
+  }
+ ],
+ "missing": {}
+}

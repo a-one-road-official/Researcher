@@ -1,0 +1,512 @@
+{
+ "name": "製造業の技能者・溶接工・機械オペレーター採用",
+ "en": "welder machinist recruitment Japan",
+ "aliases": [
+  "溶接工 求人",
+  "NC旋盤 オペレーター 求人",
+  "機械加工 職人 採用難"
+ ],
+ "context": "採用の困りごと",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:49:47.376153+00:00",
+ "evidence": {
+  "売り手": [
+   {
+    "quote": "三菱重工業株式会社",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 三菱重工業株式会社 求人名 【高砂/研究開発】アーク溶接, レーザ溶接,積層造形（AM）技術 仕事の内容 当社製品向けに、溶接・AM技術の研究開発から実機適用までを幅広く担当いただきます",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社三井E&S",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社三井Ｅ＆Ｓ 求人名 【大分】溶接工(大型クレーン)/年間休日127日/年休22日・平均取得19日 仕事の内容 ■国内トップシェアの港湾クレーンをはじめとしたクレーン製品の溶接業務をお任せいたします",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 一般社団法人日本溶接協会 求人名 【JIS溶接技能者認証制度の海外展開・事業立上げ】日本の技術を世界標準へ 仕事の内容 インドネシアやベトナム等の東南アジアにおいて、JIS溶接技能者検定試験を現地スタッフが自立運営できるようにするための準備・調整・フォローを担います",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的な業務内容】 ・現地関係者向けの教育プログラム策定および運営マニュアルの整備 ・国内外の関係機関との協力・調整、会議や行事の運営 ・現地への導入に向けた課題抽出とフォローアップ業務 日本の優れた認証システムを各国の技能向上に役立てるべく、国内外のステークホルダーと連携しながら試験運営の仕組みを構築します",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機株式会社",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ＤＭＧ森精機株式会社 求人名 【三重県伊賀市】溶接エンジニア ★寮・社宅完備/手当・福利厚生充実★ 仕事の内容 ■工作機械の世界最大手メーカーである当社にて、工作機械向けの板金部品に関する、切断、プレス曲げ、溶接、塗装と一貫した生産を行います",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "ツルヤマテクノス株式会社",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ツルヤマテクノス株式会社 求人名 千葉【自社工場での溶接工・製缶工】年休125日/スキルアップできる/福利厚生◎ 仕事の内容 今回、溶接工・製缶工の経験者を募集しております",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社三五",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社三五 求人名 【みよし・生産技術】排気系部品ライン立ち上げ/溶接工程の自動化にも携わる 仕事の内容 ■自動車用排気系の新規製品の量産開始に向け、生産準備チームメンバーの一員として業務をお任せします",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 一般社団法人日本溶接協会 求人名 契約社員【JIS溶接技能者認証制度の海外展開・事業立上げ】日本の技術を世界へ 仕事の内容 インドネシアやベトナム等の東南アジアにおいて、JIS溶接技能者検定試験を現地スタッフが自立運営できるようにするための準備・調整・フォローを担います",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "東京パワーテクノロジー株式会社",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 東京パワーテクノロジー株式会社 求人名 富津市【溶接技術者】東京電力グループ/福利厚生◎/面接回数1回 仕事の内容 当社は創業70年、東京電力グループ中核企業として、発電関連設備の工事・運転・保守と一貫したエンジニアリングサービスを提供",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイト「WILL+（ウイルタス）」を運営するウイルテックは、日本の製造業を支援する総合サービス企業です",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省の「優良派遣事業者認定制度」に認定されており、自動車や半導体業界の大手メーカーと取引を行っているため、安心して働ける安定した職場を提供しています",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "「ウイルタス」は、株式会社ウイルテックが運営する自社求人情報サイトです",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "quote": "26万2100円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "28万円～45万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "31万9160円～37万7200円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "40万円～60万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には…】 ■石油精製・各種化学プラント内で必要となる製品の製作とメンテナンス ■護衛艦のガスタービンエンジンの排気消音器の製作 (本社工場及び第二工場で各種圧力容器、配管、消音器、熱交換器の 製作・メンテナンスを行います) ■リチュービング作業(熱交換器のチューブを取り替える作業です） 募集職種 千葉【自社工場での溶接工・製缶工】年休125日/スキルアップできる/福利厚生◎",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "27万900円～310万1000円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "38万1612円～43万1668円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "26万円～40万円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "32万9000円～54万8000円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "31万1000円～50万5000円",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "26万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "27万4000円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "25万円以上",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円未満",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円以上",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "25万円以上",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "30万円以上",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "35万円以上",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   }
+  ],
+  "継続・規模": [
+   {
+    "quote": "★50年以上継続している事業であり、長年の現地工事経験から培ったノウハウに加え、会社として溶接技術の開発にも取り組んでおります",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "※変更の範囲：会社が定める業務 募集職種 【尼崎市/溶接工】面接一回/経験者歓迎/年間休日120日",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "【働き方】月平均残業時間は10時間程度と定時退社が基本",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   }
+  ],
+  "効果": [
+   {
+    "quote": "新工場・設備【特殊車両の溶接作業/溶接経験】京王電鉄G/働き方 /定着率96% 製造オペレーター/ラインマネージャー(自動車/輸送機器)",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 東京特殊車体株式会社 求人名 ★新工場・設備【特殊車両の溶接作業/溶接経験】京王電鉄G/働き方◎/定着率96% 仕事の内容 完全受注生産の特殊車両製造事業を行う当社にて、溶接作業をお任せします",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】 ■設計図に基づく特殊車両の骨格・ボディー製作（溶接・板金） ■品質を担保する現場での微調整（角度や気密性、強度の確保） ■安全基準に沿った車両の仕上げ作業や複合技術の対応 ■入社後は現場でのOJTにより、一生モノの技術をイチから習得 ■2026年7月の相模原新工場移転に伴う、製造体制の強化 募集職種 ★新工場・設備【特殊車両の溶接作業/溶接経験】京王電鉄G/働き方◎/定着率96%",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社東工業 求人名 【白河/溶接工】年休110日/月平均残業10H程度/資格取得支援制度有り 仕事の内容 これからの当社を支える人材の育成と事業拡大の為、溶接工担当の方を1名採用いたします",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社後藤製作所 求人名 【東海村/溶接・製缶】年間休日108日/賞与年3.0ヶ月/SDGｓ宣言企業 仕事の内容 業績拡大に付き、溶接・製缶担当者を1名採用します",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "【総合職】未経験OK/公共事業を支える社会貢献 /離職率5.3%/賞与6ヶ月 市場調査",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 一般財団法人経済調査会 求人名 【総合職】未経験OK/公共事業を支える社会貢献◎/離職率5.3%/賞与6ヶ月 仕事の内容 当会は公共事業を手掛ける発注機関向けの価格調査事業を行うことで、公正な情報を社会に提供しております",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   }
+  ],
+  "採用の困りごと": [
+   {
+    "quote": "■半自動溶接機（CO2）を使用した製缶・溶接作業 ■図面に基づいた材料の切断、仮組み、歪み取り ■溶接後のスパッタ除去、仕上げ作業（グラインダー等） ■溶接ロボットのオペレーション・ティーチング（意欲次第で） ■若手メンバーへの技術指導・サポート ※資格は必須ではありません",
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "職人の高齢化と人手不足の慢性化",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし近年では、少子高齢化や技術革新といった社会全体の変化にともない、溶接工が働く環境や求められるスキルにも大きな変化が生まれつつあります",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の日本ではさまざまな業界で高齢化が進んでおり、溶接工も例外ではありません",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテラン職人の多くが高齢化する一方で、新たな人材の確保が進まないことから、人手不足が慢性的な課題となっています",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大量生産の現場では、一定の精度を保ちながら高速で作業をこなせるロボット溶接機が重宝されており、人手不足の解消や品質の安定に大きく貢献しています",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "特に慢性的な人手不足に悩まされる企業が多い近年では、「無資格・未経験者歓迎」とする求人も増えつつあります",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工は高齢化や自動化の影響を受けつつも、専門的な技術と経験が求められるため、将来的にも安定した需要が見込まれる職種です",
+    "url": "https://willtec.work/media/media-1784328/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chibacari.com/career/job/?s=1&content_92=92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E6%89%8B%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E6%89%8B%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://employment.en-japan.com/s_seisan-ginoshi/t_listed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.717450.net/special/knowledge/weldingwork/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/sp/ts025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.career-on.jp/contents/17178/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iura-ss.recruit-page.jp/kyujin/7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ssw.uti-inc.com/seizou-lp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://talenco.jp/welder-recruitment-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://willtec.work/media/media-1784328/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chibacari.com/saiyo/case/13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plex-job.com/magazine/articles/4026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://04510.jp/columns/work/yosetsukou/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://next.rikunabi.com/session/destroy/?type=webSso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fanuci-falcon.com/ja/knowledge-base/laser-welder-operator-vs-traditional-welder-differences-in-requirements-skills-and-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maedagumi.net/archives/2201",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/ft/welder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5-%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC-%E6%B1%82%E4%BA%BA.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の技能者・溶接工・機械オペレーター採用 料金 月額",
+   "results": [
+    "https://www.chibacari.com/career/job/?s=1&content_92=92",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%89%8B%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85-%E6%B1%82%E4%BA%BA.html",
+    "https://www.r-agent.com/job_search/kw/%E6%89%8B%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85/",
+    "https://job-score.jp/search_journal/job-news-post/?jCD=351",
+    "https://tenshoku.mynavi.jp/sp/ts025/",
+    "https://www.717450.net/special/knowledge/weldingwork/",
+    "https://manten-comic.com/welder-career-guide/",
+    "https://www.uij-aichi.jp/introduction/ichinomiya/entry-5688.html",
+    "https://jp.indeed.com/q-溶接-オペレーター-求人.html"
+   ]
+  },
+  {
+   "query": "製造業の技能者・溶接工・機械オペレーター採用 成果報酬 採用課金",
+   "results": [
+    "https://www.chibacari.com/career/job/?s=1&content_92=92",
+    "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85-%E6%B1%82%E4%BA%BA.html",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/",
+    "https://employment.en-japan.com/s_seisan-ginoshi/t_listed/",
+    "https://www.717450.net/special/knowledge/weldingwork/",
+    "https://shigoto.mhlw.go.jp/User/Occupation/Detail/255",
+    "https://tenshoku.mynavi.jp/sp/ts025/",
+    "https://04510.jp/columns/work/yosetsukou/",
+    "https://kageyama-co.jp/2020/07/welder-chage-of-job.html"
+   ]
+  },
+  {
+   "query": "製造業の技能者・溶接工・機械オペレーター採用 導入実績 社",
+   "results": [
+    "https://www.chibacari.com/career/job/?s=1&content_92=92",
+    "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "https://www.career-on.jp/contents/17178/",
+    "https://iura-ss.recruit-page.jp/kyujin/7",
+    "https://ssw.uti-inc.com/seizou-lp/",
+    "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E5%B7%A5-%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD-%E6%B1%82%E4%BA%BA.html",
+    "https://xn--pckua2a7gp15o89zb.com/%E8%A3%BD%E9%80%A0%E6%A5%AD-%E3%83%97%E3%83%AC%E3%82%B9%E6%A9%9F-%E6%BA%B6%E6%8E%A5%E6%A9%9F-%E6%A9%9F%E6%A2%B0%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://employment.en-japan.com/s_seisan-ginoshi/t_listed/",
+    "https://tenshoku.mynavi.jp/sp/ts025/"
+   ]
+  },
+  {
+   "query": "製造業の技能者・溶接工・機械オペレーター採用 事例 応募数 採用",
+   "results": [
+    "https://talenco.jp/welder-recruitment-2025/",
+    "https://willtec.work/media/media-1784328/",
+    "https://www.chibacari.com/saiyo/case/13",
+    "https://www.plex-job.com/magazine/articles/4026/",
+    "https://04510.jp/columns/work/yosetsukou/",
+    "https://www.career-on.jp/contents/17178/",
+    "https://www.witc.co.jp/blog/92fjkby22ru/",
+    "https://next.rikunabi.com/job_search/kw/%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%20%E6%BA%B6%E6%8E%A5%E6%A5%AD%E5%8B%99/",
+    "https://www.717450.net/special/knowledge/weldingwork/"
+   ]
+  },
+  {
+   "query": "製造業の技能者・溶接工・機械オペレーター採用 会社 一覧 比較",
+   "results": [
+    "https://www.chibacari.com/career/job/?s=1&content_92=92",
+    "https://xn--pckua2a7gp15o89zb.com/%E6%89%8B%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B",
+    "https://www.r-agent.com/job_search/kw/%E6%BA%B6%E6%8E%A5%E5%B7%A5%20%E6%B1%82%E4%BA%BA/",
+    "https://jp.indeed.com/q-%E6%BA%B6%E6%8E%A5%E6%8A%80%E8%83%BD%E8%80%85-%E6%B1%82%E4%BA%BA.html",
+    "https://www.career-on.jp/contents/17178/",
+    "https://next.rikunabi.com/job_search/kw/%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%20%E6%BA%B6%E6%8E%A5%E6%A5%AD%E5%8B%99/",
+    "https://www.717450.net/special/knowledge/weldingwork/",
+    "https://fanuci-falcon.com/ja/knowledge-base/laser-welder-operator-vs-traditional-welder-differences-in-requirements-skills-and-costs",
+    "https://maedagumi.net/archives/2201",
+    "https://tenshoku.mynavi.jp/ft/welder/"
+   ]
+  }
+ ],
+ "missing": {
+  "成果報酬・採用課金": "記載なし（読んだ25頁・検索5回）",
+  "法的な区分": "記載なし（読んだ25頁・検索5回）"
+ }
+}

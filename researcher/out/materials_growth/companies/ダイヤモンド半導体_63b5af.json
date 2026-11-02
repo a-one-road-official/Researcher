@@ -1,0 +1,1715 @@
+{
+ "name": "ダイヤモンド半導体",
+ "en": "diamond semiconductor",
+ "aliases": [
+  "synthetic diamond wafer",
+  "CVD diamond",
+  "ダイヤモンド基板"
+ ],
+ "context": "次世代半導体",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:06:54.100715+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "産業ダイヤモンド市場規模と予測 – 2025 – 2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、米ドルから成長するために計画されています 2.1 2025 へ USD 2032年までに3.8億、増幅により運転される8.2%のCAGRを反映した 産業用途および技術の進歩",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米国のDiamond Foundryは、2023年に世界初の4インチ単結晶ウエハーを発表し、スペインに27.7億ドルの巨額を投じて大規模なファブを建設しています",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "非上場ながら38億ドルと推定される高い市場価値を持ち、量産規模で世界をリードしようとしています",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体市場は2025年から2033年にかけて年平均成長率（CAGR）25.8%で成長し、2033年には約7億ドル規模に達すると予測されています",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "WBG半導体単結晶の市場が急成長、2030年に3176億円：ダイヤモンドの開発も活発に - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "WBG半導体単結晶の市場が急成長、2030年に3176億円",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の世界市場は前年比47.1％増の268億8500万円になる予測だ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は拡大を続け、2030年には3176億1200万円に達する見込みだという",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料別での2023年の市場規模は、SiCが202億9300万円（構成比75.5％）、GaNは46億4700万円（同17.3％）、Ga",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "同調査によると、SiC市場は本格的な成長期に入っていて、2025年以降の車載用途への採用が急成長のポイントになるという",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の市場は3176億円1200万円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "主にパワーデバイスでの採用がけん引力となり、ワイドバンドギャップ半導体単結晶の世界市場は、2030年には3176億1200万円に達する見通しだ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所の調査によれば 、2030年のワイドバンドギャップ半導体単結晶市場は約3,176億円に上り、そのうちダイヤモンドは約5.8億円と予測されています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "pass": 3
+   },
+   {
+    "quote": "2) Market size: small today, growing fast (and forecasts vary)",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "~USD 0.35B (2025) to ~USD 0.56B (2030)",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "~USD 305.7M by 2030",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "~USD 61M (2024) to ~USD 139.1M (2030)",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "~USD 142M by 2031",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "The Global GaN Diamond Semiconductor Substrate Market Size Was Estimated at USD 0.703 Billion in 2025",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 13.25% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Worldwide GaN Diamond Semiconductor Substrate Market Size is Expected to Reach USD 2.439 Billion by 2035",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025:",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.703 Billion",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.439 Billion",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Diamond Materials for Semiconductor Market Size, Share 2033",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Diamond Materials for Semiconductor Market size was valued at USD 88.06 Million in 2024 and is poised to grow from USD 110.78 Million in 2025 to USD 694.87 Million by 2033, growing at a CAGR of 25.8% during the forecast period (2026-2033).",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 101.2 Million",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size value in 2024",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 88.06 Million",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size value in 2033",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 694.87 Million",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Data Table on Diamond Materials For Semiconductor Market size and forecast 2021-2027 ($ million)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Data Table on Segment Market size and forecast 2021-2027 ($ million)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, share and growth analysis by type, product type, application and end-user industry, across all major regions and key countries, with forecasts for 2024–2033. The competitive landscape profiles 15+ companies.",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 35.78 Mn",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, 2024",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 158 Mn",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "from 2024 to 2033. In 2024, the market size is projected to reach a valuation of USD",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "35.78 Million",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". By 2033, the valuation is anticipated to reach USD",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "158.46 Million",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market 2024–2033 (By Million)",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "895.9 Million",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2024",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Diamond Semiconductor Market Size & Growth Outlook 2025-2031",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2031 Forecast Market Size",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 6: Global Diamond Semiconductor by Type and by Application (2020-2031) Value (USD Million), Volume (K Tons) and Price (USD/K Tons)",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.6 Global Diamond Semiconductor Market Revenue Analysis (USD Million) by Type (2020-2031)",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.7 Global Diamond Semiconductor Market Revenue Analysis (USD Million) by Application (2020-2031)",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 7: Global Diamond Semiconductor Market Historical & Forecast Size by Country; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1 North America Diamond Semiconductor Market by Country; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2 North America Diamond Semiconductor Market by Type; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.3 North America Diamond Semiconductor Market by Application; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.1 South America Diamond Semiconductor Market by Country; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.2 South America Diamond Semiconductor Market by Type; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.3 South America Diamond Semiconductor Market by Application; Value (USD Million) & Sales Volume (K Tons) [2020-2031]",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "グローバル・インダストリアル・ダイアモンド・マーケット規模は、2025年から2032年までの8.2%のコンパウンド年間成長率(CAGR)を占めると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アジアパシフィックは、中国、インド、韓国で急速に拡大するエレクトロニクスおよび自動車製造分野を燃料化し、CAGRが10%を超える最速の成長を展示しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "競争力のある戦略: エレメンツ・シックスは、2020年に12%の産業ダイヤモンドシェアを増加させ、合成ダイヤモンドの生産を拡大するための資本支出に焦点を当てています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、米ドルから成長するために計画されています 2.1 2025 へ USD 2032年までに3.8億、増幅により運転される8.2%のCAGRを反映した 産業用途および技術の進歩",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、絶縁破壊電界強度はシリコンの約33倍に相当する 10 MV/cm 以上に達し、デバイスを劇的に薄くしながら高電圧に耐えることが可能です",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体市場は2025年から2033年にかけて年平均成長率（CAGR）25.8%で成長し、2033年には約7億ドル規模に達すると予測されています",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の世界市場は前年比47.1％増の268億8500万円になる予測だ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は拡大を続け、2030年には3176億1200万円に達する見込みだという",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年は前年比47.1％増、SiCが4分の3を占める",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に「パワーエレクトロニクスの進化」「極限環境下の電子機器需要」「脱炭素社会実現に向けた動き」の3つが、需要拡大の原動力となるでしょう",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "pass": 3
+   },
+   {
+    "quote": "その一方で、国内外のスタートアップ企業や大学・研究機関による技術革新が進展しており、EVの普及や次世代電力網の構築といったマクロトレンドも相まって、2030年代にはダイヤモンド半導体の本格的な市場立ち上がりと需要拡大が加速する可能性が高い",
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "pass": 3
+   },
+   {
+    "quote": "(with a stated CAGR for 2024–2030).",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "GaN-on-diamond is especially attractive for RF power because it attacks one of GaN’s core limits: removing heat from the channel region. Forecasts commonly model this segment at high CAGR into the early 2030s.",
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 13.25% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2026-2035 :",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The GaN-on-SiC substrates segment dominated the market in 2025, approximately 45%, and is projected to grow at a substantial CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CVD diamond segment accounted for the largest share in 2025, approximately 55%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The RF devices segment accounted for the highest market revenue in 2025, approximately 45%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Diamond Materials for Semiconductor Market size was valued at USD 88.06 Million in 2024 and is poised to grow from USD 110.78 Million in 2025 to USD 694.87 Million by 2033, growing at a CAGR of 25.8% during the forecast period (2026-2033).",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "22.5% CAGR",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Data on GDP - Year-over-year growth 2016-2022 (%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Diamond Materials For Semiconductor Market size was valued at USD 101.2 Million in 2024 and is poised to grow from USD 123.97 Million in 2025 to USD 628.64 Million by 2033, growing at a CAGR of 22.5% during the forecast period (2026-2033).",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2024-2033",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024-2033",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, growing at a",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17.98%",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 17.98% (Approx)",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 7.1% (Approx)",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "17.98% CAGR",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global market is projected to grow at a CAGR of 17.98% during the forecast period, 2024-2033.",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2031)",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Diamond Semiconductor Substrates Market is a syndicated IndustryARC market research report covering Diamond Type, Geography - Global Opportunity Analysis & Industry Forecast, 2024 - 2030. The market is projected to reach $305.70Mn by 2030, growing at a CAGR of 9.3% during 2024-2030. The study uses 2023 as the base year.",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2024-2030",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.3%",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.2%",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 14.1%",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Diamond Semiconductor Substrates Market is projected to grow at 9.3% CAGR during the forecast period 2024-2030.",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Diamond Semiconductor Substrates Market size is forecasted to reach $305.70Mn by 2030, growing at a CAGR of 9.3% during the forecast period.",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Diamond Semiconductor Substrates Market: $1.6B by 2034, 15.6% CAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "光学PETフィルム市場：2026-2034年のCAGR動向",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "ポリエステルイミドエナメル市場：2034年まで6.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "メタルパッケージ食品缶市場は2034年までに7.3%のCAGRで成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "サトウキビ製容器 2029 市場：2033年まで3.74%のCAGR成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム箔複合フィルム市場は2033年まで年率4.6%成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアルロン酸原料市場：2034年までに13%のCAGRを達成？",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロアルミナ粉末市場 2024-2034: 7億4,262万ドル、4.3% の CAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "トレーラ式ディスクハロー市場規模は235億ドル、4.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2034)",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.6% during 2026–2034",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 base year; 2026 estimated year; 2034 forecast end year; CAGR measured for 2026–2034.",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "13.6% CAGR during 2026–2034",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global GaAs Devices market was valued at US$ 11110 million in 2022 and is projected to reach US$ 18917.5 million by 2029, at a CAGR of 7.9% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes.",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global Oven-Controlled Crystal Oscillator market was valued at US$ 148.2 million in 2022 and is projected to reach US$ 173.7 million by 2029, at a CAGR of 2.3% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes.",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global Electric Fuses market was valued at US$ 3349.2 million in 2022 and is projected to reach US$ 5240.1 million by 2029, at a CAGR of 6.6% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes.",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global Microchannel Cooler market was valued at US$ 114.6 million in 2022 and is projected to reach US$ 225.4 million by 2029, at a CAGR of 10.1% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes.",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "これはオリジナルレポートの日本語翻訳ページです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Element Sixや住友電気などの企業は、堅牢な産業生態系の活用と、高性能な切削・研削工具の需要を担っています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": ": 中国、台湾、インド、日本、韓国、インドネシア、マレーシア、フィリピン、シンガポール、オーストラリア、アジアパシフィックの休み",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "要素6、河南Huanghe Whirlwind Co.、住友電工、IIa技術、Deビールグループ、産業ダイヤモンド、Sino-Crystal Diamond、Scio Diamond Technology Corporation、Diamond Innovations、AB Diamond Technologies",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は、オクマダイヤモンドデバイス株式会社がダイヤモンドを製造する施設を建設することを発表しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工業は、半導体用途に適した高度なモノクリスタル産業ダイヤモンドを発売し、2024年に15%以上の収益成長を実現しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、要素シックス、ヘナンなどの重要な選手によって支配される Huanghe Whirlwind、および住友電気工業、集団的に 戦略を通じて市場シェアの大きな部分に貢献 拡大およびプロダクト革新",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業 (5802)：圧倒的な品質と垂直統合",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "生産能力の観点から注目すべきは、日本のOrbray（旧アダマント並木精密宝石）です",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "WBG半導体単結晶の市場が急成長、2030年に3176億円：ダイヤモンドの開発も活発に - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "電源設計（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは日本を救うのか",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代半導体パッケージ実装技術の開発を目指すコンソーシアム「JOINT2」は「SEMICON Japan 2022」（会期：2022年12月14〜16日、会場：東京ビッグサイト）で、取り組みの内容や研究開発の進捗を紹介した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japanについて",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、1980年代頃から、無機材質研究所（現・国立研究開発法人 物質・材料研究機構（NIMS））がダイヤモンド半導体の基礎研究や応用研究を積極的に推進してきました",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "pass": 3
+   },
+   {
+    "quote": "この革新的材料を活用することは、人手不足に悩む日本の製造業にとって、生産性向上の大きなカギとなるでしょう",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人化学者",
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜主な掲載企業＞Orbray、イーディーピー、Mipox、大熊ダイヤモンドデバイス、Power Diamond Systems、ジェイテックコーポレーション、住友電気工業、ダイヤモンドセミコンダクター、Advent Diamond、Element Six、Diamond Quanta、DIAMFAB、Great Lakes Crystal Technologies",
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "pass": 3
+   },
+   {
+    "quote": "住友チタニウム、スポンジチタン生産能力を３割増強",
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の公的研究機関・産総研の公式ウェブマガジン",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本はダイヤモンド半導体研究で世界をリードしています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "この発明を機にダイヤモンド半導体の研究が本格的に進み、その後も日本の研究者から世界に先んじた成果発表が続いています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体が実際の製品に組み込まれたという例は少ないですが、実用化や量産化に向けた研究も日本がリードしています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本には廃炉という特別な需要があり、国の研究機関や大学、民間企業が一体となって、研究開発を進めています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Japan Corporate Number 7010005005425）. All rights reserved.",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は以前から、ダイヤモンド半導体分野では世界の最先端を走っており、佐賀大学の嘉数誠教授らのグループは、ダイヤモンドを用いたパワートランジスタの試作と特性評価を実施しており、高温・高電圧での安定動作を実証している",
+    "url": "https://bp-platinum.com/platinum/view/files/bpntogo/column/possiblity/0019/",
+    "pass": 3
+   },
+   {
+    "quote": "福島第一原発の廃炉実現を通じて日本発の次世代半導体産業を創造する",
+    "url": "https://ookuma-dd.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東日本大震災を機に創業した当社が、ダイヤモンド半導体の実用化によって社会に果たす使命と目指すビジョンを紹介します",
+    "url": "https://ookuma-dd.com/",
+    "pass": 3
+   },
+   {
+    "quote": "共に日本発の次世代半導体産業を",
+    "url": "https://ookuma-dd.com/",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "西日本フィナンシャルホールディングス",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "傘下の西日本シティ銀行系の投資ファンドがダイヤモンド半導体の研究開発を行うスタートアップ「Power Diamond Systems」に出資",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体関連株 本命株 5802 住友電気工業",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "5802 住友電気工業",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業もダイヤモンド半導体関連株の一角として注目したい銘柄",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業は",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体関連株 本命株？ 7189 西日本フィナンシャルホールディングス",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "7189 西日本フィナンシャルホールディングス",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは西日本フィナンシャルホールディングスをピックアップ",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "西日本フィナンシャルホールディングスは、",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体の研究開発型スタートアップの「Power Diamond Systems」に、傘下の西日本シティ銀行系の投資ファンドが出資",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "「Power Diamond Systems」には他にも三菱UFJフィナンシャルグループのベンチャーキャピタルも出資しているっぽいですが、こちらの方が規模が小さいので値動き的にはまだ面白そうかなと",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体関連株の中国依存度(中国売上比率)まとめ",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "Various government organizations are promoting semiconductors and advanced materials through various programs such as the United States' CHIPS and Science Act, Semicon India Programme in India, Japan Semiconductor Strategy and Green Innovation Fund in Japan, and European Chips Act in Europe. For instance,",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Element Six, Akash Systems, Inc., IIa Technologies Pte. Ltd., Sumitomo Electric Industries, Ltd., Diamond SA, New Diamond Technology, LLC, Qorvo, Inc., Wolfspeed, Inc., NXP Semiconductors N.V., Infineon Technologies AG, STMicroelectronics N.V., Mitsubishi Electric Corporation, Microchip Technology Inc., Coherent Corp., Others.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (China, Japan, India, Rest of APAC)",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Electric Corporation",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Sumitomo Electric and Osaka Metropolitan University successfully fabricated a GaN-HEMT on a 2-inch polycrystalline diamond substrate, improving heat dissipation for high-frequency communication devices and supporting future mobile and satellite applications.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Diamond Materials for Semiconductor Market",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Element Six declared, in January 2026, that a formal agreement for building a synthetic diamond manufacturing facility in the United States which Japanese government funding supports remains unexecuted while government and supply chain negotiations continues.",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, France, United Kingdom, Italy, Spain, Rest of Europe), Asia Pacific (China, India, Japan, Rest of Asia-Pacific), Latin America (Brazil, Rest of Latin America), Middle East & Africa (South Africa, GCC Countries, Rest of MEA)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific accounted for the largest share in the Diamond Materials for Semiconductor Market, driven by strong semiconductor manufacturing infrastructure, increasing adoption of high-power and wide-bandgap devices, growing electric vehicle and industrial electronics demand, and the presence of leading diamond material producers in countries like China, Japan, and South Korea.",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "グローバル・インダストリアル・ダイアモンド・マーケット規模は、2025年から2032年までの8.2%のコンパウンド年間成長率(CAGR)を占めると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製品カテゴリの分岐セグメントは、コスト効率の高い製造の進歩による68.5%以上の業界シェアを指揮し、合成産業ダイヤモンドであり続けています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、広範な政府有限のイノベーションと産業オートメーションへの取り組みにより、約34%の市場シェアを保有しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、エレクトロニクス部門は、産業ダイヤモンド消費量の約22%を占め、市場収益の実質的なドライバーと市場予測予測の予測を補強しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "競争力のある戦略: エレメンツ・シックスは、2020年に12%の産業ダイヤモンドシェアを増加させ、合成ダイヤモンドの生産を拡大するための資本支出に焦点を当てています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "6 年以上の経験を持つ Vidyesh は、カスタマイズされた調査ソリューションのための市場予測、サプライヤー ランドスケープ分析、市場シェア評価の熟練度で高い評価を得ています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "イーディーピー (7794)：素材供給の独占的技術",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "中国は世界の人工ダイヤモンド生産の大部分を占めており、特に河南省の企業群（黄河旋風など）は世界シェアの90%以上を握っています",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "2023年は前年比47.1％増、SiCが4分の3を占める",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電装置や自動車など、多くの用途で採用が進むSiCが市場の4分の3を占める見通しだ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料別構成比はSiCが96.8％を占めており、ワイドバンドギャップ半導体の中でもSiC市場の成長予測が突出して高いことが見て取れる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの種類と世界シェア4強メーカーランキング｜中小製造企業の課題解決メリットとは",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体銘柄のオンリーワン技術で市場独占している銘柄といえば、「EUV露光装置」向けのフォトマスク欠陥装置で市場シェア100％のレーザーテックが思い浮かびますが、ジェイテックももしかしたら次なるレーザーテックになれるポテンシャルがあるのか！期待したいですね！",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "ディスコは半導体製造の後工程「ダイシング装置」に強みがあり世界シェア80％を握る銘柄で、ディスコの公式ホームページをみると",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "それにSiC専用マルチワイヤーソーでは世界シェア100％に近い数字でトップシェアを誇っていますし",
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "pass": 3
+   },
+   {
+    "quote": "The GaN-on-SiC substrates segment dominated the market in 2025, approximately 45%, and is projected to grow at a substantial CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CVD diamond segment accounted for the largest share in 2025, approximately 55%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The RF devices segment accounted for the highest market revenue in 2025, approximately 45%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by geography 2021-2027 (%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by geography 2021-2027(%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by country 2021-2027 (%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by country 2021-2027(%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Chart on Market share 2021-2027 (%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Pie chart analysis on company market share, 2021(%)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The \"2-inch Wafers\" category dominated the market in 2023.",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market: company market share, 2023",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market Share, By Type, 2023 and 2033",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market Share, By Product Type, 2023 and 2033",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market Share, By Application, 2023 and 2033",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market Share, By End-user Industry, 2023 and 2033",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market Share, by Region, 2023 & 2033 (USD Million)",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "5.1 Global Diamond Semiconductor Market Concentration Ratio",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.1.2 % Market Share - Top 3",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Diamond Semiconductor market study is conducted on basis of 200+ companies (leaders as well as emerging regional players) dealing in the market with purpose to understand company’s market positioning by value, sales volume and their market share at global and/or regional level.",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "APAC region had the largest share with a market share of 41% in the Diamond Semiconductor Substrates Market size, owing to factors such as the increasing adoption of diamond substrates in high powers electronics applications and the presence of major manufacturers.",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "グルタミン酸市場規模、シェアおよび予測（2025-2035年）",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "pass": 3
+   },
+   {
+    "quote": "Logic semiconductors and AI compute are absorbing the biggest share of the new money. Logic reached 57.8% of deals and 73.5% of recorded capital, with a current median financing of $117.5 million.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The upper end is also broader than last year. Previously, the top three deals accounted for 51.2% of capital. Today they account for 23%. There are simply many more companies raising hundreds of millions of dollars.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "We counted 24 first financings, only slightly below the previous 27. Their share of deals stayed roughly flat at 17.8%, versus 16.8% a year earlier.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Logic companies increased their share of deals from 46.6% to 57.8%. Their share of capital jumped even more, from 40.8% to 73.5%. The answer depends on how you draw the market, so we set out what counts in",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Sensors provide the clearest contrast. Sensor-semiconductor deals fell from 24 to eight, cutting their share of activity from 14.9% to 5.9%.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Deals rose from 28 to 47, even as overall market activity fell. North America's share of transactions consequently doubled from 17.4% to 34.8%.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The quality-control pass focused on duplicate financings, date boundaries, financing type, company eligibility and unusually large or small amounts. We consolidated duplicate reports including Anabatic Semiconductor's KRW15 billion financing, Sunrise's near-RMB1 billion round and YXME's near-RMB100 million angel financing before calculating the period comparisons.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "半導体ダイヤモンド 基板 市場 : 2032 年の動向と 成長 分析 — 半導体ダイヤモンド 基板 市場 : 2032 年の動向と 成長 分析 WiseGuy Reports https://www.wiseguyreports.com > reports > semiconduct...",
+    "url": "https://www.wiseguyreports.com/ja/reports/semiconductor-diamond-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN on Diamond Semiconductor Substrates Market 2033 - CMI — GaN on Diamond Semiconductor Substrates Market 2033 - CMI Custom Market Insights https://www.custommarketinsights.com > ...",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ダイヤモンド半導体市場の技術的必然性と主要プレイヤーの投資妙味：IOWN、宇宙、次世代パワーデバイスを軸とした包括的分析｜パフェッチョLv5",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド半導体市場の技術的必然性と主要プレイヤーの投資妙味：IOWN、宇宙、次世代パワーデバイスを軸とした包括的分析",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーの技術的「堀」と市場ポジション",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "pass": 3
+   },
+   {
+    "quote": "はSiCデバイスと比較してコストや性能のポテンシャルが高いことから参入プレイヤーも増えてきており、パワーデバイス市場に食い込む勢いだという",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆本調査レポートは、ダイヤモンド半導体に関する技術動向・市場予測・参入企業の戦略・応用分野別のニーズ分析などを総合的に捉え、今後の市場成長ポテンシャルおよび実用化に向けた展望を明らかにすることを目的としている",
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、巻末には、国内外主要企業13社の技術開発の状況や製品戦略などの概要をまとめており、競合分析やパートナー選定の参考資料として活用できる内容となっている",
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、民間企業が参入して活性化する宇宙産業での応用や、無線通信や廃炉用のアナログ半導体としての活用に期待が高まっています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Diamond Materials For Semiconductor Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Exhibit: Data Table: Emerging startups details)",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Identify racial solutions and innovation, connected to deep ecosystems of innovators, start-ups, academics, and strategic partners.",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, share and growth analysis by type, product type, application and end-user industry, across all major regions and key countries, with forecasts for 2024–2033. The competitive landscape profiles 15+ companies.",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Estimation and Forecast, Company Profile, Competitive Landscape, Growth Factors and Recent Trends",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape –",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "number of manufacturers and retailers operating globally. Some of the key players in the market include:",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the GaN on Diamond Semiconductor Substrates market?",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market are Element Six, Akash Systems, Qorvo, RFHIC Corporation, Blue Wave Semiconductor, Microwave Enterprises, Advanced Diamond Technologies, IIa Technologies, NeoCoat, Crystallume, Mitsubishi Electric, TriQuint Semiconductor (a part of Qorvo), Raytheon Technologies, Texas Instruments, Northrop Grumman, Others.",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN on Diamond Semiconductor Substrates Market- Competitive Landscape",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANIES PROFILED",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "John Crane (United States), AKHAN Semiconductor (United States), Applied Diamond Inc. (United States), Blue Wave Semiconductors Inc. (United States), Crystallume (United States), De Beers Group (United Kingdom), Diamond Materials GmbH (Germany), Industrial Abrasives Ltd (United Kingdom), SP3 Technologies LLP (India), Coherent Corp. (United States) are some of the key players in study coverage.",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in Diamond Semiconductor Market?",
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides a detailed regional analysis of the Diamond Semiconductor Substrates Market across North America, Europe, Middle East and Africa. Each region is analyzed by country-level market size, growth drivers, key end-use industries, and competitive landscape.",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled include",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Are new semiconductor startups still getting funded, or are investors doubling down on existing winners?",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "New semiconductor startups are still getting funded, but almost all of the extra capital is flowing to companies that already have a financing history.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Do semiconductor startups need more proof to raise big money now?",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": ", we look at what broke startups before you, so you don't repeat it.",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top semiconductor startups by total funding raised?",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Element Six declared, in January 2026, that a formal agreement for building a synthetic diamond manufacturing facility in the United States which Japanese government funding supports remains unexecuted while government and supply chain negotiations continues.",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 – quantum and photonic integration attracts investment",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025–2026 – Gulf AI infrastructure investment accelerates",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 – defense and satellite investment sustains rugged electronics demand",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "All funding deals in the semiconductor industry over the last 24 months",
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "quote": "一方、アジアパシフィックは、中国、インド、韓国で急速に拡大するエレクトロニクスおよび自動車製造分野を燃料化し、CAGRが10%を超える最速の成長を展示しています"
+   },
+   {
+    "value": "25.8",
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "quote": "ダイヤモンド半導体市場は2025年から2033年にかけて年平均成長率（CAGR）25.8%で成長し、2033年には約7億ドル規模に達すると予測されています"
+   },
+   {
+    "value": "13.25",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 13.25% from 2026 to 2035"
+   },
+   {
+    "value": "25.8",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "quote": "Global Diamond Materials for Semiconductor Market size was valued at USD 88.06 Million in 2024 and is poised to grow from USD 110.78 Million in 2025 to USD 694.87 Million by 2033, growing at a CAGR of 25.8% during the forecast period (2026-2033)."
+   },
+   {
+    "value": "22.5",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "quote": "Global Diamond Materials For Semiconductor Market size was valued at USD 101.2 Million in 2024 and is poised to grow from USD 123.97 Million in 2025 to USD 628.64 Million by 2033, growing at a CAGR of 22.5% during the forecast period (2026-2033)."
+   },
+   {
+    "value": "17.98",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "quote": "CAGR of 17.98%"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "quote": "CAGR 7.1% (Approx)"
+   },
+   {
+    "value": "9.3",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "quote": "Diamond Semiconductor Substrates Market is a syndicated IndustryARC market research report covering Diamond Type, Geography - Global Opportunity Analysis & Industry Forecast, 2024 - 2030. The market is projected to reach $305.70Mn by 2030, growing at a CAGR of 9.3% during 2024-2030. The study uses 2"
+   },
+   {
+    "value": "13.2",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "quote": "CAGR of 13.2%"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "quote": "CAGR of 14.1%"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%"
+   },
+   {
+    "value": "13.6",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "quote": "CAGR of 13.6% during 2026–2034"
+   },
+   {
+    "value": "7.9",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "quote": "The global GaAs Devices market was valued at US$ 11110 million in 2022 and is projected to reach US$ 18917.5 million by 2029, at a CAGR of 7.9% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
+   },
+   {
+    "value": "2.3",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "quote": "The global Oven-Controlled Crystal Oscillator market was valued at US$ 148.2 million in 2022 and is projected to reach US$ 173.7 million by 2029, at a CAGR of 2.3% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
+   },
+   {
+    "value": "6.6",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "quote": "The global Electric Fuses market was valued at US$ 3349.2 million in 2022 and is projected to reach US$ 5240.1 million by 2029, at a CAGR of 6.6% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
+   },
+   {
+    "value": "10.1",
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "quote": "The global Microchannel Cooler market was valued at US$ 114.6 million in 2022 and is projected to reach US$ 225.4 million by 2029, at a CAGR of 10.1% during the forecast period. The influence of COVID-19 and the Russia-Ukraine War were considered while estimating market sizes."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "0.703",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "quote": "The Global GaN Diamond Semiconductor Substrate Market Size Was Estimated at USD 0.703 Billion in 2025"
+   },
+   {
+    "value": "2.439",
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "quote": "The Worldwide GaN Diamond Semiconductor Substrate Market Size is Expected to Reach USD 2.439 Billion by 2035"
+   },
+   {
+    "value": "88.06",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "quote": "Global Diamond Materials for Semiconductor Market size was valued at USD 88.06 Million in 2024 and is poised to grow from USD 110.78 Million in 2025 to USD 694.87 Million by 2033, growing at a CAGR of 25.8% during the forecast period (2026-2033)."
+   },
+   {
+    "value": "110.78",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "quote": "Global Diamond Materials for Semiconductor Market size was valued at USD 88.06 Million in 2024 and is poised to grow from USD 110.78 Million in 2025 to USD 694.87 Million by 2033, growing at a CAGR of 25.8% during the forecast period (2026-2033)."
+   },
+   {
+    "value": "694.87",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "quote": "Global Diamond Materials for Semiconductor Market size was valued at USD 88.06 Million in 2024 and is poised to grow from USD 110.78 Million in 2025 to USD 694.87 Million by 2033, growing at a CAGR of 25.8% during the forecast period (2026-2033)."
+   },
+   {
+    "value": "101.2",
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "quote": "USD 101.2 Million"
+   },
+   {
+    "value": "35.78",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "quote": "USD 35.78 Mn"
+   },
+   {
+    "value": "158",
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "quote": "USD 158 Mn"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/diamond-materials-for-semiconductor-market-102627",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/semiconductor-diamond-substrates-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=26046&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202303301069",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bp-platinum.com/platinum/view/files/bpntogo/column/possiblity/0019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ookuma-dd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabukarin.net/semiconductor/4990/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reanin.com/reports/diamond-materials-for-semiconductor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-diamond-based-semiconductors-market-strategic-research-report?srsltid=AYCX9vLHqJrC0-kJ5x87_ZX7EqrzxGNUtF7RWyKqz9FgBvcpgtraWeNz",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiconductorinsight.com/report/diamond-semiconductor-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q3-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finder.startupnationcentral.org/company_page/diamic-semiconductors",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interface-eu.org/publications/semiconductor-startup-funding-activities",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダイヤモンド半導体 市場規模 年平均成長率",
+   "results": [
+    "https://www.marketgrowthreports.com/jp/market-reports/diamond-materials-for-semiconductor-market-102627",
+    "https://straitsresearch.com/jp/report/diamond-market",
+    "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "https://www.wiseguyreports.com/ja/reports/semiconductor-diamond-substrates-market",
+    "https://jp.linkedin.com/pulse/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B1%95%E6%9C%9B-2026-2033%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E5%8F%8E%E7%9B%8A%E5%A3%B2%E4%B8%8A%E5%8B%95%E5%90%91%E7%8F%BE%E5%9C%A8%E3%81%AEcagr-62-ufpye",
+    "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "https://prtimes.jp/main/html/rd/p/000003300.000067400.html",
+    "https://www.fortunebusinessinsights.com/jp/%E5%90%88%E6%88%90%E5%8D%98%E7%B5%90%E6%99%B6%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4-104244",
+    "https://www.mordorintelligence.com/ja/industry-reports/semiconductor-industry-landscape",
+    "https://www.atpress.ne.jp/news/1624124"
+   ]
+  },
+  {
+   "query": "ダイヤモンド半導体 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.marketgrowthreports.com/jp/market-reports/diamond-materials-for-semiconductor-market-102627",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=26046&la=ja",
+    "https://note.com/mahjong_lab/n/n8e7719ab3de5",
+    "https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/",
+    "https://www.chem-station.com/chemistenews/2025/06/dmsc.html",
+    "https://newscast.jp/news/1624124",
+    "https://flashcard542.exblog.jp/36725577/",
+    "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKbPxsEQBwqT2WuCFj0nkVqA8iKUURqe1ndeTydMESz8ZHChh0G"
+   ]
+  },
+  {
+   "query": "ダイヤモンド半導体 参入 企業 国内",
+   "results": [
+    "https://kabutan.jp/news/marketnews/?b=n202303301069",
+    "https://www.aist.go.jp/aist_j/magazine/20250319.html",
+    "https://bp-platinum.com/platinum/view/files/bpntogo/column/possiblity/0019/",
+    "https://ookuma-dd.com/",
+    "https://kabukarin.net/semiconductor/4990/",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "https://strainer.jp/notes/8772",
+    "https://jioinc.jp/investleaders/diamond_toushi/",
+    "https://6sense-science-talk.blog/diamond-semiconductor-japan-4-players/",
+    "https://ko-invest.net/7689/"
+   ]
+  },
+  {
+   "query": "diamond semiconductor market size CAGR 2025",
+   "results": [
+    "https://www.reanin.com/reports/diamond-materials-for-semiconductor-market",
+    "https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030",
+    "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/",
+    "https://www.linkedin.com/pulse/diamond-materials-semiconductor-demand-sales-growth-forecasts-4gxqf",
+    "https://www.fortunebusinessinsights.com/industrial-diamond-market-112021",
+    "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "https://www.bccresearch.com/market-research/semiconductor-manufacturing?srsltid=AYCX9vKoqc6ZhDYQZhm2BBAjXrOE3EFprjCOI-XaJkvXaib8LBnd6XxS",
+    "https://semiconductorinsight.com/report/diamond-semiconductor-market/"
+   ]
+  },
+  {
+   "query": "diamond semiconductor market key players competitive landscape",
+   "results": [
+    "https://www.htfmarketintelligence.com/report/global-diamond-semiconductor-market",
+    "https://www.reanin.com/reports/diamond-materials-for-semiconductor-market",
+    "https://www.industryarc.com/report/17042/diamond-semiconductor-substrates-market",
+    "https://www.linkedin.com/pulse/global-diamond-based-semiconductors-eqlcf",
+    "https://www.marketresearchreports.com/reports/global-diamond-based-semiconductors-market-strategic-research-report?srsltid=AYCX9vLHqJrC0-kJ5x87_ZX7EqrzxGNUtF7RWyKqz9FgBvcpgtraWeNz",
+    "https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market",
+    "https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market",
+    "https://www.datainsightsreports.com/ja/reports/global-diamond-semiconductor-substrates-market-24934",
+    "https://www.linkedin.com/pulse/diamond-materials-semiconductor-demand-sales-growth-forecasts-4gxqf",
+    "https://semiconductorinsight.com/report/diamond-semiconductor-market/"
+   ]
+  },
+  {
+   "query": "diamond semiconductor startup funding 2025",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "https://semiengineering.com/startup-funding-q3-2025/",
+    "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "https://finder.startupnationcentral.org/company_page/diamic-semiconductors",
+    "https://www.interface-eu.org/publications/semiconductor-startup-funding-activities",
+    "https://siliconcatalyst.com/investors",
+    "https://www.vcbacked.co/directory/industries/semiconductor",
+    "https://evertiq.com/news/55516",
+    "https://www.youtube.com/watch?v=Rp-tr-YFGTI",
+    "https://tech.eu/2026/07/09/semiconductor-equipment-startup-quantumdiamonds-raises-eur15m-in-equity-funding/"
+   ]
+  }
+ ],
+ "missing": {}
+}

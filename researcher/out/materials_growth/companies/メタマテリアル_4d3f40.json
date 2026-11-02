@@ -1,0 +1,2164 @@
+{
+ "name": "メタマテリアル",
+ "en": "metamaterials",
+ "aliases": [
+  "metamaterial",
+  "メタマテリアル"
+ ],
+ "context": "電波・光学",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:53:12.002300+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "メタマテリアル市場は 2025 年に 14 億米ドルと評価され、2026 年から 2035 年にかけて年平均成長率（CAGR）22.2%で拡大し、2035 年には 111 億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：メタマテリアル市場規模、材料タイプ別、2022〜2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は2025年に 4億7,320万米ドルを生み出し、2035年まで年平均成長率（CAGR）21.6%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart: U.S. Metamaterial Market Size, 2022-2035 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場はドイツ、英国、フランスを中心に、2035年まで年平均成長率（CAGR）22.3%で拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは、2025年の市場規模が比較的小さいものの、同年から年平均成長率（CAGR）23.6%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ市場は、2035年まで年平均成長率（CAGR）16.5%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のメタマテリアル市場規模は14億米ドルと推定され、2026年には18億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年のメタマテリアル市場はどのように予測されていますか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のメタマテリアル市場規模は、2025年には19億1698万米ドルと評価され、2026年の25億1699万米ドルから2034年には222億3310万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は31.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の国防予算は、2020会計年度に7,215億ドルでピークに達した後、2021会計年度には7,162億ドルとなり、ドナルド・トランプ大統領の最初の任期の最後の2年間の支出水準としては過去最高を記録した",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）31.3%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "２０２４年、世界の電磁メタマテリアル市場は約１１．７８６５億ドルに達し、２０１９年以降年平均成長率１２．２９％で拡大しました",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は２０２４年の１１．７８６５億ドルから２０２９年には２４．９５８０億ドルへと１６．１９％の成長率で拡大すると予測され、さらに２０２９年以降は１４．６８％の年平均成長率で成長し、２０３４年には４９．４９４１億ドルに達する見通しです",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場は、2025年には15.3億ドルと推定され、2030年には52.1億ドルに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は27.65%と非常に高い成長が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2. ナノテクノロジーと材料科学の進歩： 米国国家ナノテクノロジーイニシアティブ（NNI）は、2025年に22億ドルの予算を要求しており、原子スケールでの製造インフラを強化しています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年におけるメタマテリアル市場規模は15.3億米ドルに達すると予測されており、今後も堅調な成長が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（金額）",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "シクロペンタン市場規模・シェア分析：成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "■音響メタマテリアルの国内市場 561億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2022年からオフィスの吸音パネルとエアコンの室外機向け遮音材として実用が始まり、2023年の市場は17億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "その後は航空・宇宙や医療機器で採用が始まり、2035年の市場は561億円に上ると予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代半ば以降は集合住宅の床振動遮断や工事現場の防音パネル、工場の機械や排熱ファンによる騒音対策、サーバールームの騒音対策としても需要増加が期待され、2035年の市場は434億円と予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "■音響メタマテリアルの国内市場 561億円",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年からオフィスの吸音パネルとエアコンの室外機向け遮音材として実用が始まり、2023年の市場は17億円が見込まれる",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "その後は航空・宇宙や医療機器で採用が始まり、2035年の市場は561億円に上ると予測される",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "[最新リリース] メタマテリアル市場規模と展望 2026―2035年 | グローバルレポートとジャパンインサイト",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "2026―2035年までのメタマテリアル市場の市場規模はどれくらいですか?",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場に関する当社の調査レポートによると、市場は予測期間2026―2035年において複利年間成長率（CAGR）22.42%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には、市場規模は111億米ドルに達する見込みです",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は18億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "これは、米国国勢調査局が2024年の通信機器出荷額が941億ドルに達したと報告したという事実によるものです",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "世界のメタマテリアル市場規模、株式、トレンド分析レポート – 業界概要と予測 2033",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.56 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.20 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.28 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のUSD 1.56億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、特に5Gおよび次世代ネットワークのための通信の高度材料の需要の増加によって運転される安定した成長を経験します",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場価値(2025):USD 1.56億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Market Size, Share & Trends Report, 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 1.1 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 1.3 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 3.7 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size value in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.1 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Market size in 2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.3 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Market size by 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "メタマテリアル市場は 2025 年に 14 億米ドルと評価され、2026 年から 2035 年にかけて年平均成長率（CAGR）22.2%で拡大し、2035 年には 111 億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の売上高は、2022 年の 5 億 5,220 万米ドルから、2023 年には 7 億 3,510 万米ドル、2024 年には 10 億 4,560 万米ドル、2025 年には 14 億 2,520 万米ドルへ増加し、2022〜2025 年の過去期間における年平均成長率は 37.2%となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの年平均成長率（CAGR）は 21.5%と見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォトニックメタマテリアルは 26.9%のシェアを占め、メタレンズやメタサーフェス光学が画像処理、LiDAR、コンパクトセンシングシステムにおける光学スタックの深さを縮小することから、CAGR 23.5%で拡大する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "画像処理および光学システムは 20.4%を占め、メタサーフェス光学がコンパクトな画像処理・LiDARアーキテクチャへのソリッドステート方式を提供することから、CAGR 24.7%で最も急速に成長する用途となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は12.5%を占め、レーダー、LiDAR、ワイヤレス電力伝送、音響制御が車両プログラムに導入されるなか、2035年まで年平均成長率（CAGR）25.0%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は2025年に 4億7,320万米ドルを生み出し、2035年まで年平均成長率（CAGR）21.6%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場はドイツ、英国、フランスを中心に、2035年まで年平均成長率（CAGR）22.3%で拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2035年までの年平均成長率（CAGR）が 23.6% と、最も急速に成長する地域市場である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のメタマテリアル市場規模は、2025年には19億1698万米ドルと評価され、2026年の25億1699万米ドルから2034年には222億3310万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は31.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁気分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.9%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンテナ・レーダー分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.8%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）34%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.9%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2030年までに16億米ドルの収益を上げると推定されており、年平均成長率（CAGR）は31.7%です",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metalenz社は、スマートフォン、民生用電子機器、自動車用センシング技術をサポートする、3Dセンシングおよびイメージング用途向けメタサーフェス光学部品の生産を拡大した",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場の規模は、2026年には25億1699万米ドルと評価され、2034年までに222億3310万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は31.3%です",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）31.3%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "２０２４年、世界の電磁メタマテリアル市場は約１１．７８６５億ドルに達し、２０１９年以降年平均成長率１２．２９％で拡大しました",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は２０２４年の１１．７８６５億ドルから２０２９年には２４．９５８０億ドルへと１６．１９％の成長率で拡大すると予測され、さらに２０２９年以降は１４．６８％の年平均成長率で成長し、２０３４年には４９．４９４１億ドルに達する見通しです",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場は、2025年には15.3億ドルと推定され、2030年には52.1億ドルに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は27.65%と非常に高い成長が見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域が市場を牽引しており、2024年には地域別収益の35.88%を占め、2030年までのCAGRは28.92%と最も速い成長を遂げる地域でもあります",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 5Gおよび6Gネットワークの拡大： メタマテリアルベースのアンテナは、ミリ波伝送において、ビームステアリングハードウェアを極薄層に圧縮しつつ、マルチギガビットのスループットを維持することで、次世代の接続性を再定義しています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "アンテナ利得が6dBから27dBに向上するなど、性能が飛躍的に向上し、通信範囲の拡大と傍受確率の低減につながっています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* タイプ別： 電磁メタマテリアルが市場を牽引しており、2024年の収益の44.19%を占め、29.27%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 用途別： アンテナ・レーダーシステムがメタマテリアル市場シェアの62.94%を占めており、2030年までに29.46%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別： 航空宇宙および防衛産業が2024年のセグメント収益の54.19%を占め、2030年までに30.67%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 北米： 35.88%の市場シェアと28.92%の最も高い地域CAGRを記録しています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、用途別ではアンテナおよびレーダーシステムが市場を強力に牽引しており、2024年の支出の62.94%を占め、2030年まで年平均成長率（CAGR）29.46%という高い成長率で拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2030年まで28.92%という最も高い地域CAGRを記録すると予測されており、この地域での研究開発投資と技術導入の活発さが伺えます",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の成長を促進する主な要因としては、5Gおよび6Gネットワーク計画の拡大、ナノテクノロジーと材料科学の継続的な進歩、量子コンピューティングとフォトニクス分野における発展、航空宇宙・防衛産業からの需要増加、そしてエネルギー効率と持続可能性への世界的な重視の高まりが挙げられます",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この課題を解決するため産総研では、ビルの窓などに配置することで電磁波を反射して通信エリアを拡大させることのできる「140 GHz帯メタサーフェス反射板」を開発しました",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場に関する当社の調査レポートによると、市場は予測期間2026―2035年において複利年間成長率（CAGR）22.42%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "2026―2035年までのCAGR",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "また、予測期間を通じて22.8%のCAGRで成長し、最も急速な成長が見込まれています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "市場の成長は、高密度5Gネットワークの拡大によって支えられています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "世界のメタマテリアル市場規模は、予測期間中に複利年間成長率（CAGR）22.42%で成長し、2035年には111億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2033年にかけて20.40%のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測CAGR (2026～2033):20.40%",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "・5G・6Gネットワークインフラの拡張、メタマテリアルベースアンテナの需要拡大",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "EchoShield、EchoFlight、EchoGuard製品ラインを横断して、世界規模で急速に成長する需要に応える投資額が40万ドル拡大しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のメタマテリアル市場市場は、2026年から2033年の予測期間に年平均成長率20.4%で成長すると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2033): 16.2%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 16.2% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global metamaterials market is expected to grow at a compound annual growth rate of 16.2% from 2026 to 2033 to reach USD 3.7 billion in 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Metamaterial Market Size was estimated at 400.45 USD Million in 2024. The Metamaterial industry is projected to grow from USD 457.2 Million in 2025 to USD 1720.37 Million by 2035, exhibiting a compound annual growth rate (CAGR) of 14.17% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "The Metamaterial Market is projected to grow at a 14.17% CAGR from 2025 to 2035, driven by advancements in telecommunications, healthcare applications, and energy efficiency technologies.",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Metamaterial Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Metamaterial Market during the forecast period 2025 - 2035 is 14.17%.",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Metamaterials Market Size is Expected to Grow from USD 776.9 Million in 2023 to USD 4376.9 Million by 2033, at a CAGR of 18.87% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Size is Expected to Grow from USD 776.9 Million in 2023 to USD 4376.9 Million by 2033, at a CAGR of 18.87% during the forecast period 2023-2033.",
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 14.51 Bn in 2025 and the total revenue is expected to grow at 36.7% CAGR through 2026 to 2034, reaching nearly USD 242.03 Bn.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場参入の最も現実的な経路は、材料単体の販売ではなく、認定を受けたシステムインテグレーターを通じた展開である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場で事業を展開する主要企業には、以下が含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場の主要企業には、Evolv Technologies、Echodyne Corporation、Pivotal Commware、Kymeta Corporation、Metalenz, Inc. などが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁メタマテリアル市場で主要企業が採用している戦略",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は以下の戦略を積極的に展開しています：",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電磁メタマテリアル市場の主要企業",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の主要企業は以下の通りです：",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "また、継続的かつカスタム型のリサーチサービスとして、市場参入調査パッケージ、競合追跡パッケージ、サプライヤー＆流通業者調査パッケージなど、多彩なサービスを提供しています",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのブレークスルーは、中期的には主流のデバイスメーカーにとって参入障壁を下げ、量産を可能にしています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、防衛、通信分野の主要企業の集中が初期段階の需要を保証し、地元サプライヤーが量産方法を洗練することを可能にしています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "また、市場集中度、主要企業の戦略的動向、市場シェア分析、および主要16社の企業プロファイル（グローバルおよび市場レベルの概要、コアセグメント、財務情報、戦略情報、市場ランク/シェア、製品とサービス、最近の動向を含む）を通じて、競争環境も深く掘り下げています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4.5.3 新規参入の脅威",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、市場は大学や研究機関が研究をリードし、多くのスタートアップ企業が実用化を目指して技術開発を進めており、一部の大手企業も参入し始めています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "東芝、工場廃熱発電で出力10%増 他社撤退の市場に参入",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "このような構造を作るのが非常に難しく、可視光に対して負の屈折率を示す物質の実現に時間がかかりましたが、微細加工技術が得意な研究グループが研究開発に多く参入してきたことで、可視光のメタマテリアル研究も加速しました",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした初期投資は収益性を圧迫する一方で、潤沢な資本準備のない新規参入者の参入を阻んでいます",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、世界のメタマテリアル市場の成長に重要な役割を果たしている主な主要企業には",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場で競合している日本の主要企業はどこですか?",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "TeraView Limited(イギリス)、NKT Photonics A/S(デンマーク)、Greenerwave(フランス)などの主要プレイヤーが欧州に本社を構え、地域の市場位置を強化しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のメタマテリアル市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、Kymeta Corporation(米国)、Echodyne(米国)、Pivotal Commware(米国)、Lumotive(米国)、Radi-Cool Inc.(米国)が含まれます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in metamaterial market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the metamaterials market include Metamaterial Technologies Inc., JEM Engineering LLC, Kymeta Corporation, Microwave Measurement Systems LLC, Applied EM, Inc., Teraview, Alps Electric Co., Ltd, PARC, Echodyne, and Phoebus Optoelectronics.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Metamaterial Market include",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Metamaterial Market?",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Metamaterial Market include Metamaterial Inc, Energid Technologies, Kymeta Corporation, and others.",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Data, Premium Insights, Market Dynamic, Analysis and Projection, By Product, Analysis and Projection, By Application, Analysis and Projection, By End-Use, Analysis and Projection, By Regional Analysis, Competitive Landscape, Company Profiles, Market Revenue, Sale & Price Analysis",
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major key players in the metamaterials market are Metamaterial Technologies Inc., JEM Engineering LLC, Kymeta Corporation, Microwave Measurement Systems LLC, Applied EM, Inc., Teraview, Alps Electric Co., Ltd, PARC, Echodyne, and Phoebus optoelectronics.",
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Key Players are:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "4] Who are the top key players in the Global Metamaterials Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Metamaterials Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "the major leading players in the global Metamaterial market are Keymeta Corporation, Echodyne Inc., Metasheild LLC., Plasmonic Inc., Multiwave Technologies AG, Nanohmics Inc., Phoebus Optoelectronics LLC, Metamagnetic Inc., Multiwave Metacrystal, Metamaterial Technologies, Inc., Phononic Vibes, Transsip, Inc, Radi-Cool, Jem Engineering, LLC, Aegis Technologies.",
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is led by specialized metamaterial antenna, radar, imaging and photonic technology developers with demonstrated commercial or advanced development activity.",
+    "url": "https://finance.yahoo.com/technology/articles/metamaterials-market-reach-usd-4-181500209.html",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://finance.yahoo.com/technology/articles/metamaterials-market-reach-usd-4-181500209.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies and Their Offerings",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The startup ecosystem fosters a vibrant market environment, ensuring continuous innovation and growth. There are 26 Metamaterials startups including Metalenz, HighT-Tech, Echodyne, Tunoptix and Metamaterial. The greatest number of companies are in the U.S. (12), followed by China and Canada with 2 companies.",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "In this competitive landscape, various companies are vying for market share by investing in research and development. Established firms are collaborating with startups to accelerate innovation and explore new applications of metamaterials. Additionally, strategic partnerships and acquisitions are common as organizations aim to leverage complementary technologies.",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the metamaterials market?",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本と韓国では、精密光学、半導体、民生用電子機器がフォトニックメタマテリアルの用途展開を後押ししている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁メタマテリアル市場：2034 年までの成長予測と市場動向 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan Top Story",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "日立、過去最高業績を更新--成長をリードする「Lumada」と「HMAX」",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "「Hitachi Digital」2030年度までに事業規模2倍へ--CEOアナンド・ビルジェ氏が語る新戦略",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF Report at ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan is operated by 4X Corp under license from Ziff Davis.",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、自動運転車やスマートファクトリー向けの高周波レーダー吸収体を洗練させています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.1.3 日本",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済(東京都中央区日本橋 社長 菊地 弘幸 03-3241-3470)は、近年、軽量・薄型の材料で騒音を防ぐことが自動車や建築の分野で求められる中、既存の材料では困難な防音を可能にすることが期待され、量産技術の確立や成形性の向上に向け技術開発が進む音響メタマテリアル市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本では天井開口率70%以下の場合、消防法により排煙装置やスプリンクラーを設置する必要が生じるため開口部を設けるオフィスが多く、開口部からの音漏れが問題となっていることから、音響メタマテリアル採用のニーズがある",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2026 日本の石油化学工業と誘導品市場の将来…",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済、次世代防音材として期待される音響メタマテリアル市場の調査結果を発表 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株ランキング",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株サマリー",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメント日本",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "今野真二「日本語日記」",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 社長 菊地 弘幸）は、近年、軽量・薄型の材料で騒音を防ぐことが自動車や建築の分野で求められる中、既存の材料では困難な防音を可能にすることが期待され、量産技術の確立や成形性の向上に向け技術開発が進む音響メタマテリアル市場を調査した",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日立・プリファードネットワークスなどに 日経優秀製品賞が決定",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "「ごみ」が日本を救う",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、廃エアコンからレアアース 再資源化で新規調達35％削減",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人は睡眠不足 第一人者が語る「科学的に見て正しい」睡眠との付き合い方",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社の関連サイト",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "NATIONAL GEOGRAPHIC 日本版",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel JAPAN",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社について",
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の公的研究機関・産総研の公式ウェブマガジン",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では2020年に第5世代移動通信システム（5G）の運用が開始されました",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Japan Corporate Number 7010005005425）. All rights reserved.",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場は日本の市場プレーヤーにどのような利益をもたらすのですか?",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI市場展望によると、メタマテリアル市場は、日本の強力な先端材料研究エコシステムと製造能力により、統合バリューチェーン全体にわたる日本の市場プレーヤーにとって新たな機会を提供しています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "日本は強力な製造基盤を有しています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "日本の強固な産業基盤は製造上の欠陥をある程度緩和するものの、熟練労働者や機械への継続的な投資が広範な展開を阻み、これらの材料は主に特殊な高級アプリケーションに限定されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国では、国家デジタルインフラ計画に支えられた同様のネットワーク高密度化プログラムがこの需要を強化し、高度な信号制御材料を研究オプションではなく実用的な要件にしています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場で競合している日本の主要企業はどこですか?",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "市場展望によれば、日本のメタマテリアル市場のトップ5企業は、",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "BMF Japan、Nature Architects、Pixie Dust Technologies, Inc.、Alps Alpine Co., Ltd.、NTT Device Innovation",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場のトップ 5 プレーヤー",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "BMF Japan",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場 における日本のキープレーヤートップ5は誰ですか?",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、メタマテリアル市場において日本国内で活躍する大手企業としては、BMF Japan、Nature Architects、Pixie Dust Technologies, Inc.、Alps Alpine Co., Ltd.、NTT Device Innovation などが挙げられます",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "Analyticsは、日本を代表するリサーチと戦略コンサルティング会社です",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "日本のニュース",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、通信や電子機器の用途におけるメタマテリアルの普及を目撃しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; Italy; Spain; China; Japan; India;",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "(China, South Korea, Japan, India, Australia, Indonesia, Malaysia, Vietnam, Taiwan, Bangladesh, Pakistan and Rest of APAC)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.1. Japan Metamaterials Market Size and Forecast, by Product (2025-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.2. Japan Metamaterials Market Size and Forecast, by Application (2025-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "メタマテリアル市場の規模とシェア、2026〜2035年予測レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "Evolv Technologies が 2025 年に 10.2% を超える市場シェアを占め、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは 2025 年に合計で",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁メタマテリアルは 2025年に 6億1,720万米ドルを計上し、収益の 43.3%を占めて首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォトニックメタマテリアルは 26.9%のシェアを占め、メタレンズやメタサーフェス光学が画像処理、LiDAR、コンパクトセンシングシステムにおける光学スタックの深さを縮小することから、CAGR 23.5%で拡大する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "テラヘルツ材料は 13.8%を占め、サブミリメートル単位の特徴制御によって性能と生産難度の双方が高まるスクリーニングおよび検査用途に依然として集中している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "チューナブルメタマテリアルは 11.0%を占め、その商業的価値は、再構成可能なインテリジェント・サーフェスや適応型開口向けのアクティブ制御にある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンテナおよびレーダーシステムは 2025年に 4億5,830万米ドルを生み出し、市場収益の 32.2%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "画像処理および光学システムは 20.4%を占め、メタサーフェス光学がコンパクトな画像処理・LiDARアーキテクチャへのソリッドステート方式を提供することから、CAGR 24.7%で最も急速に成長する用途となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "センシングおよび検知は 16.8%を占め、セキュリティスクリーニングと産業検査が牽引している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ワイヤレス電力伝送は 4.8%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：メタマテリアル市場収益シェア、用途別（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信分野は、ネットワーク機器で小型アンテナ、フィルタリング、制御可能な信号伝搬が求められることを背景に、2025年に 3億8,920万米ドル、27.3%のシェアを占め、最終用途需要をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は24.8%を占め、レーダー、電子戦、衛星通信に対する安定した需要基盤を維持した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場の規模、シェア、トレンド分析レポート：タイプ別（電磁波、テラヘルツ波、チューナブル、フォトニック、FSS、その他（キラル、非線形など））、用途別（アンテナ＆レーダー、センサー、クローキングデバイス、スーパーレンズ、光＆音フィルタリング、その他（太陽光、吸収体など））、エンドユーザー別（ヘルスケア、電気通信、航空宇宙＆防衛、エレクトロニクス、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東＆アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に市場シェア39.5%を占め、メタマテリアル市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に39.5%の市場シェアを占め、メタマテリアル市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁気分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.9%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンテナ・レーダー分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.8%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）34%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.9%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のメタマテリアル市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で39.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "２０２４年、上位１０社は市場全体の７．０７％を占めました",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "その中で最大のシェアを持つ企業はＫｙｍｅｔａ社で２．０８％でした",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 メタマテリアル市場 規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場 規模・シェア分析 – 成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域が市場を牽引しており、2024年には地域別収益の35.88%を占め、2030年までのCAGRは28.92%と最も速い成長を遂げる地域でもあります",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* タイプ別： 電磁メタマテリアルが市場を牽引しており、2024年の収益の44.19%を占め、29.27%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 用途別： アンテナ・レーダーシステムがメタマテリアル市場シェアの62.94%を占めており、2030年までに29.46%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別： 航空宇宙および防衛産業が2024年のセグメント収益の54.19%を占め、2030年までに30.67%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 北米： 35.88%の市場シェアと28.92%の最も高い地域CAGRを記録しています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 欧州： 英国のイノベーション戦略やドイツのインダストリー4.0ロードマップの下で、先進材料を対象とした官民プログラムにより、かなりのシェアを占めています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、用途別ではアンテナおよびレーダーシステムが市場を強力に牽引しており、2024年の支出の62.94%を占め、2030年まで年平均成長率（CAGR）29.46%という高い成長率で拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別に見ると、北米が市場をリードしており、35.88%の最大シェアを保持しています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "また、市場集中度、主要企業の戦略的動向、市場シェア分析、および主要16社の企業プロファイル（グローバルおよび市場レベルの概要、コアセグメント、財務情報、戦略情報、市場ランク/シェア、製品とサービス、最近の動向を含む）を通じて、競争環境も深く掘り下げています",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 市場シェア（%）/ランキング分析",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバル概要、市場概要、主要セグメント、利用可能な財務情報、戦略情報、市場ランク/シェア、製品とサービス、最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "シクロペンタン市場規模・シェア分析：成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "HPV検査およびパップテスト市場：規模とシェア分析 – 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― メタマテリアルタイプ別、アプリケーション別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアルに関する当社の市場調査によると、アジア太平洋地域は予測期間中に約34%の市場シェアを占め、市場を牽引すると予想されます",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器と部品材料は、主要生産量の約70%を占めています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "電磁メタマテリアルは、米国防総省のDARPA cooperationとの協力により、RF制御ビームステアリングやステルスなど、さまざまなプログラムに210百万米ドル以上（2018ー2024年）を投資し、レーダーや無線システムへの無線システムの直接的な採用を可能にしたことにより、2035年までに32%という驚異的な市場シェアを獲得すると予想されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "アンテナセグメントは2035年に市場全体の約25%を占めると見込まれ、大きな部分を占めることになります",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のメタマテリアル市場は、34%を超えるトップシェアを獲得し、世界市場において支配的な地位を維持すると予想されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "シリンガアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "プロピオンアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2035 年にはアジア太平洋地域がメタマテリアル市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に最大の収益シェアを占め、市場の40.0%を保持しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁製品群は、2025年に約29.2%の最大の市場シェアを保有し、アンテナや周波数選択面の多様なアプリケーションによって駆動しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アンテナは、2025年に約44.8%のシェアを持つ最大のアプリケーションセグメントを表し、通信におけるメタマテリアルベースのアンテナソリューションの需要が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁セグメントは、2025年に約29.2%の市場シェアを保有し、アンテナや周波数選択面の多様な役割を担っています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メタマテリアル市場 サイズとシェア 2026-2035 — メタマテリアル市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > metamaterial-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル市場規模 ・シェア・業界レポート、2034年 — メタマテリアル市場規模 ・シェア・業界レポート、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > メタマテリアル...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857",
+    "pass": 3
+   },
+   {
+    "quote": "電磁 メタマテリアル市場 ：2034 年までの 成長 予測と 市場 動向 — 電磁 メタマテリアル市場 ：2034 年までの 成長 予測と 市場 動向 ZDNET Japan https://japan.zdnet.com > プレスリリース",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル 吸収体材料 市場 の 規模 とシェア、2034年 — メタマテリアル 吸収体材料 市場 の 規模 とシェア、2034年 Global Market Insights Inc. https://www.gminsights.com > ... > 先端材料 > 機能性材料",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-absorbers-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル 市場規模・シェア・業界レポート、2034年 — メタマテリアル 市場規模・シェア・業界レポート、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > メタマテリアル...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル 市場 サイズとシェア 2026-2035 — メタマテリアル 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > metamaterial-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル - メーカー・ 企業 4社の業務用製品ランキング — メタマテリアル - メーカー・ 企業 4社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > メタマテリアル",
+    "url": "https://mono.ipros.com/cg2/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "メタマテリアル 市場規模・産レポート 2031 - Mordor Intelligence — メタマテリアル 市場規模・産レポート 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電磁 メタマテリアル 市場：2034 年までの成長予測と市場動向 — 電磁 メタマテリアル 市場：2034 年までの成長予測と市場動向 ZDNET Japan https://japan.zdnet.com > プレスリリース",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Market Size , Share & Trends Report, 2033 — Metamaterials Market Size , Share & Trends Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterial Market Size , Share & Industry Trends 2035 — Metamaterial Market Size , Share & Industry Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Market Size , Share & Industry Report, 2034 — Metamaterials Market Size , Share & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/metamaterials-market-113857",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterial Market Size, Share & Industry Trends 2035 — Metamaterial Market Size, Share & Industry Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Market Size, Share & Trends Report, 2033 — Metamaterials Market Size, Share & Trends Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterials Market Size, Share & Industry Report, 2034 — Metamaterials Market Size, Share & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/metamaterials-market-113857",
+    "pass": 3
+   },
+   {
+    "quote": "Metamaterial Market Size, Trend & Revenue Estimation, 2026 — Metamaterial Market Size, Trend & Revenue Estimation, 2026 Markntel Advisor https://www.marknteladvisors.com > ...",
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "China metamaterials industry held a substantial share in the Asia Pacific market in 2025, driven by its significant investments in",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2024, BASF Venture Capital (BVC) made an investment in Phomera Metamaterials Inc., a developer of photonic crystal metamaterials. This investment was part of Phomera’s Series A financing round and is intended to facilitate the expansion of the company’s capacity, the exploration of new markets, and the enhancement of its product offerings.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid adoption of 5G and next-generation wireless technologies, increasing defense and aerospace investments, growing demand for miniaturized high-performance electronic devices, and continuous advancements in photonic and electromagnetic material engineering are driving the metamaterials market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Material Development, Aerospace and Communication Applications, Research Investment, Manufacturing Innovation and Industry Forecast (2026-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "pass": 3
+   },
+   {
+    "quote": "In August 2020, Keymeta Corporation announced the company's recapitalization, coupled with the successful funding raise of approximately $85 million, led by Bill Gates.",
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2024, BASF Venture Capital increased its investment in Phomera Metamaterials Inc. through a Series A financing round intended to support capacity expansion, downstream market development and product upgrades in photonic crystal metamaterials.",
+    "url": "https://finance.yahoo.com/technology/articles/metamaterials-market-reach-usd-4-181500209.html",
+    "pass": 3
+   },
+   {
+    "quote": "the Engineering and Physical Sciences Research Council (EPSRC), as part of UK Research and Innovation's commitment in metamaterials research through a new, collaborative NetworkPlus, will provide an additional £2.5 million in funding to the UK science and tech research community.",
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kapta Space, a Seattle startup building lower-cost, steerable radar sensors for satellites, has raised $24 million in a Series A funding round to scale production and meet growing demand for defense intelligence contracts.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Neurophos Secures $110 Million Series A",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Neurophos just rocketed out of stealth with an oversubscribed $110 million Series A to commercialize its breakthrough photonic AI chips that are up to 100× faster and more energy-efficient than today’s GPUs for datacenter AI workloads.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Cephia Secures $4M Seed Funding",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Lumotive eyes new frontiers after $45M series B investment",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Total funding now tops $100M as a raft of new investors back the developer of light-controlling metasurfaces.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Neurophos, a spinout from Duke University and Metacept, has raised a $7.2 million seed round to pursue metamaterials and optical AI inference chips.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "LEADOPTIK Raises $5 Million in Series Seed Funding to Advance Early Lung Cancer Detection with Cutting-Edge Imaging Technology",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Metalens startup Imagia raises $4.5M Silicon Valley firm to aim flat, silicon-based optics at augmented reality applications as Gates Frontier provides seed funding.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Imagia, a startup company working on metamaterials technology, says it has raised $4.5 million in seed funding, with which it plans to accelerate development and initial commercial deployment of its novel lenses.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Lumotive, the Seattle-based startup company developing beam-steering semiconductor chips based around optical metasurfaces, says it has raised $13 million in a new round of venture finance.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Mangata Networks has raised $100 million (€95.4m) from (mostly) Scottish investors to fund the development of a satellite manufacturing plant at Prestwick, Scotland.",
+    "url": "https://www.metaventurepartners.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Erik Josberger, senior lidar engineer at Lumotive, holds a wafer of the company’s Light Control Metasurface beam-steering chips. Lumotive is one of the initial holdings of MetaVC Partners, a venture capital fund that has raised US$62 million for investment in metamaterials-based startups. [Image: Lumotive]",
+    "url": "https://www.optica-opn.org/home/industry/2023/may/vc_fund_targets_metamaterials/",
+    "pass": 3
+   },
+   {
+    "quote": ", a venture capital organization focused on firms involved with metamaterials development, announced on 12 April that it had raised US$62 million to launch MetaVC Partners LLC, a fund that will invest in “early-stage, hard-tech metamaterials startup companies.”",
+    "url": "https://www.optica-opn.org/home/industry/2023/may/vc_fund_targets_metamaterials/",
+    "pass": 3
+   },
+   {
+    "quote": ", which is developing liquid-crystal metasurface beam steerers for lidar, Industry 4.0 and other applications. Founded in 2017, again with Bill Gates as one of its investors, Lumotive to date has amassed more than US$56 million in early-stage funding, including US$13 million this past January in a strategic-funding round led by Samsung Ventures.",
+    "url": "https://www.optica-opn.org/home/industry/2023/may/vc_fund_targets_metamaterials/",
+    "pass": 3
+   },
+   {
+    "quote": "–accelerated “hardware-enabled office coffee service” Pearl Coffee—revealed that it had closed on a US$4.5 million seed-funding round “led by Gates Frontier and joined by MetaVC Partners and other strategic investors.”",
+    "url": "https://www.optica-opn.org/home/industry/2023/may/vc_fund_targets_metamaterials/",
+    "pass": 3
+   },
+   {
+    "quote": "The company had a €6 million seed funding round in",
+    "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+    "pass": 3
+   },
+   {
+    "quote": ") is an early stage thin-film lithium niobate foundry based in Switzerland. The company received $7 million in seed funding in 2024 to accelerate commercialization of its TFLN services.",
+    "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+    "pass": 3
+   },
+   {
+    "quote": ") is building inference computing hardware with its own optical modulators and optical processors. Its core technology is based on a proprietary “metasurface” technology that enables it to build very small modulators into very large arrays. The company is a spinout of Duke University and raised its seed round of funding in 2023.",
+    "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has partnered with Tower Semiconductor for manufacturing and has a recent (September 2025) investment from Nvidia, both of which are good names to have in your corner if you want to target CPO.",
+    "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Catalyst Portfolio Company Neurophos Secures $110 Million Series A",
+    "url": "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Catalyst Portfolio Company Owl Secures $15M in Series A Round",
+    "url": "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Catalyst Portfolio Company SigmaSense Closes $24M Series B Funding Round",
+    "url": "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "pass": 3
+   },
+   {
+    "quote": "Ayar Labs Secures $35 Million in Series B Funding",
+    "url": "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "pass": 3
+   },
+   {
+    "quote": ": Neurophos, a spinout from Duke University and Metacept Inc., has raised a $7.2M USD seed round to productize a breakthrough in both metamaterials and optical AI inference chips.",
+    "url": "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "22.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "メタマテリアル市場は 2025 年に 14 億米ドルと評価され、2026 年から 2035 年にかけて年平均成長率（CAGR）22.2%で拡大し、2035 年には 111 億米ドルに達すると予測されている"
+   },
+   {
+    "value": "37.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "世界の売上高は、2022 年の 5 億 5,220 万米ドルから、2023 年には 7 億 3,510 万米ドル、2024 年には 10 億 4,560 万米ドル、2025 年には 14 億 2,520 万米ドルへ増加し、2022〜2025 年の過去期間における年平均成長率は 37.2%となった"
+   },
+   {
+    "value": "21.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "2035年までの年平均成長率（CAGR）は 21.5%と見込まれる"
+   },
+   {
+    "value": "23.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "フォトニックメタマテリアルは 26.9%のシェアを占め、メタレンズやメタサーフェス光学が画像処理、LiDAR、コンパクトセンシングシステムにおける光学スタックの深さを縮小することから、CAGR 23.5%で拡大する見込みである"
+   },
+   {
+    "value": "24.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "画像処理および光学システムは 20.4%を占め、メタサーフェス光学がコンパクトな画像処理・LiDARアーキテクチャへのソリッドステート方式を提供することから、CAGR 24.7%で最も急速に成長する用途となっている"
+   },
+   {
+    "value": "25.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "自動車分野は12.5%を占め、レーダー、LiDAR、ワイヤレス電力伝送、音響制御が車両プログラムに導入されるなか、2035年まで年平均成長率（CAGR）25.0%で成長する見込みである"
+   },
+   {
+    "value": "21.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "北米市場は2025年に 4億7,320万米ドルを生み出し、2035年まで年平均成長率（CAGR）21.6%で成長する見込みである"
+   },
+   {
+    "value": "22.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "欧州市場はドイツ、英国、フランスを中心に、2035年まで年平均成長率（CAGR）22.3%で拡大する"
+   },
+   {
+    "value": "23.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "quote": "アジア太平洋地域は、2035年までの年平均成長率（CAGR）が 23.6% と、最も急速に成長する地域市場である"
+   },
+   {
+    "value": "31.3",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "quote": "世界のメタマテリアル市場規模は、2025年には19億1698万米ドルと評価され、2026年の25億1699万米ドルから2034年には222億3310万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は31.3%となる見込みです"
+   },
+   {
+    "value": "31.9",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "quote": "電磁気分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.9%で成長すると予測されています"
+   },
+   {
+    "value": "31.8",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "quote": "アンテナ・レーダー分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.8%で成長すると予測されています"
+   },
+   {
+    "value": "34",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "quote": "航空宇宙・防衛分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）34%で成長すると予測されています"
+   },
+   {
+    "value": "31.7",
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "quote": "アジア太平洋地域は2030年までに16億米ドルの収益を上げると推定されており、年平均成長率（CAGR）は31.7%です"
+   },
+   {
+    "value": "２９",
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "quote": "２０２４年、世界の電磁メタマテリアル市場は約１１．７８６５億ドルに達し、２０１９年以降年平均成長率１２．２９％で拡大しました"
+   },
+   {
+    "value": "27.65",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "quote": "メタマテリアル市場は、2025年には15.3億ドルと推定され、2030年には52.1億ドルに達すると予測されており、予測期間（2025年～2030年）における年平均成長率（CAGR）は27.65%と非常に高い成長が見込まれています"
+   },
+   {
+    "value": "28.92",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "quote": "北米地域が市場を牽引しており、2024年には地域別収益の35.88%を占め、2030年までのCAGRは28.92%と最も速い成長を遂げる地域でもあります"
+   },
+   {
+    "value": "29.46",
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "quote": "特に、用途別ではアンテナおよびレーダーシステムが市場を強力に牽引しており、2024年の支出の62.94%を占め、2030年まで年平均成長率（CAGR）29.46%という高い成長率で拡大すると予測されています"
+   },
+   {
+    "value": "22.42",
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "quote": "メタマテリアル市場に関する当社の調査レポートによると、市場は予測期間2026―2035年において複利年間成長率（CAGR）22.42%で成長すると予想されています"
+   },
+   {
+    "value": "20.4",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "quote": "世界のメタマテリアル市場市場は、2026年から2033年の予測期間に年平均成長率20.4%で成長すると予測されています"
+   },
+   {
+    "value": "16.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "quote": "CAGR of 16.2% from 2026 to 2033"
+   },
+   {
+    "value": "14.17",
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "quote": "As per Market Research Future analysis, the Metamaterial Market Size was estimated at 400.45 USD Million in 2024. The Metamaterial industry is projected to grow from USD 457.2 Million in 2025 to USD 1720.37 Million by 2035, exhibiting a compound annual growth rate (CAGR) of 14.17% during the forecas"
+   },
+   {
+    "value": "18.87",
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "quote": "The Global Metamaterials Market Size is Expected to Grow from USD 776.9 Million in 2023 to USD 4376.9 Million by 2033, at a CAGR of 18.87% during the forecast period 2023-2033."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "1.56",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "quote": "USD 1.56 Billion"
+   },
+   {
+    "value": "2.20",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "quote": "USD 2.20 Billion"
+   },
+   {
+    "value": "3.28",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "quote": "USD 3.28 Billion"
+   },
+   {
+    "value": "1.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "quote": "Market size in 2025: USD 1.1 Billion"
+   },
+   {
+    "value": "1.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "quote": "Estimated market size in 2026: USD 1.3 Billion"
+   },
+   {
+    "value": "3.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "quote": "Projected market size by 2033: USD 3.7 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metamaterials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31133059/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIr-iqKWNnH6hTrlq5EwOWbpV_pVw42odhtxswAApdytSwbW_3q",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metamaterials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/metamaterials-market-113857",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/metamaterials-market-reach-usd-4-181500209.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/metamaterials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/metamaterials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/metamaterials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaventurepartners.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optica-opn.org/home/industry/2023/may/vc_fund_targets_metamaterials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsj.com/articles/bill-gates-backs-new-vc-fund-focused-on-metamaterials-11622631600",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "メタマテリアル 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "https://straitsresearch.com/jp/report/metamaterials-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857",
+    "https://japan.zdnet.com/release/31133059/",
+    "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "https://www.gminsights.com/ja/industry-analysis/metamaterial-absorbers-materials-market",
+    "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%81%A8%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%97cagr-142%E3%82%92%E5%90%AB%E3%82%80%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%B8%BB%E3%81%AA%E5%B8%82%E5%A0%B4%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-t4i9e",
+    "https://www.imarcgroup.com/pressrelease/ja/metamaterials-market-statistics",
+    "https://www.astuteanalytica.com/ja/industry-report/metamaterials-market"
+   ]
+  },
+  {
+   "query": "メタマテリアル 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=23080&la=ja",
+    "https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/",
+    "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIr-iqKWNnH6hTrlq5EwOWbpV_pVw42odhtxswAApdytSwbW_3q",
+    "https://www.fkg-report.jp/",
+    "https://www.fcr.co.jp/",
+    "https://www.nikkei.com/article/DGXZRSP659081_S3A710C2000000/",
+    "https://www.gii.co.jp/report/ksi1627873-metamaterials-market-forecasts-from.html",
+    "https://www.fuji-keizai.co.jp/file.html?dir=press&file=23080.pdf&nocache",
+    "https://www.dri.co.jp/auto/report/fminc/FMimetamaterials.html"
+   ]
+  },
+  {
+   "query": "メタマテリアル 参入 企業 国内",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857",
+    "https://www.gminsights.com/ja/industry-analysis/metamaterial-market",
+    "https://mono.ipros.com/cg2/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB/",
+    "https://www.mordorintelligence.com/ja/industry-reports/metamaterials-market",
+    "https://www.aist.go.jp/aist_j/magazine/20240918.html",
+    "https://japan.zdnet.com/release/31133059/",
+    "https://www.sdki.jp/reports/metamaterial-market/108190",
+    "https://jp.linkedin.com/pulse/%E5%9B%BD%E5%86%85%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%AA%92%E8%B3%AA%E5%B8%82%E5%A0%B4%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%81%A8%E4%BB%8A%E5%BE%8C-viral-vector-ekjzf",
+    "https://www.databridgemarketresearch.com/jp/reports/global-metamaterials-market",
+    "https://mono.ipros.com/cg2/メタマテリアル/"
+   ]
+  },
+  {
+   "query": "metamaterials market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "https://www.fortunebusinessinsights.com/metamaterials-market-113857",
+    "https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/",
+    "https://www.linkedin.com/pulse/metamaterial-market-size-continuously-growing-cagr-72-from-3lgje",
+    "https://www.marketsandmarkets.com/PressReleases/metamaterials.asp",
+    "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "https://www.gminsights.com/industry-analysis/metamaterial-market",
+    "https://www.mordorintelligence.com/industry-reports/metamaterials-market"
+   ]
+  },
+  {
+   "query": "metamaterials market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/metamaterial-market-11050",
+    "https://www.grandviewresearch.com/industry-analysis/metamaterials-market",
+    "https://www.fortunebusinessinsights.com/metamaterials-market-113857",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-metamaterial-market-projekt-sage-jeije",
+    "https://www.sphericalinsights.com/our-insights/metamaterials-market",
+    "https://www.marknteladvisors.com/research-library/global-metamaterial-market.html",
+    "https://finance.yahoo.com/technology/articles/metamaterials-market-reach-usd-4-181500209.html",
+    "https://www.precedenceresearch.com/metamaterials-market",
+    "https://www.strategicmarketresearch.com/market-report/metamaterials-market",
+    "https://www.mordorintelligence.com/industry-reports/metamaterials-market"
+   ]
+  },
+  {
+   "query": "metamaterials startup funding 2025",
+   "results": [
+    "https://www.metaventurepartners.com/news",
+    "https://www.optica-opn.org/home/industry/2023/may/vc_fund_targets_metamaterials/",
+    "https://www.wsj.com/articles/bill-gates-backs-new-vc-fund-focused-on-metamaterials-11622631600",
+    "https://cignal.ai/2026/07/optical-component-startup-tracker/",
+    "https://siliconcatalyst.com/silicon-catalyst-portfolio-company-neurophos-raises-72-million-round",
+    "https://www.geekwire.com/2021/bill-gates-nathan-myhrvold-invest-new-fund-back-metamaterials-tech-startups/",
+    "https://dealroom.co/news/164980-jolt-capital-leads-25m-round-in-noise-cutting-metamaterials-startup-phon/",
+    "https://seedtable.com/best-metamaterial-startups",
+    "https://otc.duke.edu/news/neurophos-raises-7-2-million-round-to-create-super-fast-energy-efficient-metamaterial-based-optical-ai-chips-for-data-centers/",
+    "https://tracxn.com/d/trending-business-models/startups-in-metamaterials/__SG00NxHou96qtCrgTF5oBZw4hjtDCK0fHGgsbOKDMkI"
+   ]
+  }
+ ],
+ "missing": {}
+}

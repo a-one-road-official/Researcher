@@ -1,0 +1,437 @@
+{
+ "name": "大同興業",
+ "aliases": [
+  "Daido Kogyo"
+ ],
+ "context": "特殊鋼商社（大同特殊鋼系）",
+ "researched_at": "2026-11-02T17:03:02.172870+00:00",
+ "official_url": "https://www.daido-kogyo.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "創業期": [
+   {
+    "quote": "創業から100年、設立から66年、著名建築家の方々や施主様の「今まで見たことのない建築の施工」に応えつづけてきました",
+    "url": "https://www.daido-kogyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "history of DAIDO",
+    "url": "https://www.daido-kogyo.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "100周年を迎える当社は、創業以来「誠意」を信条として参りました",
+    "url": "https://www.daido-kogyo.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業者／堀口春吉が山梨県下部町に堀口組を設立",
+    "url": "https://www.daido-kogyo.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1954年(昭和29年)の創業以来、モノづくりに欠かせない生産機材の先進商品をお客様に提案し、販売してまいりました",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "鉄筋コンクリート住宅「優渾」を商品化",
+    "url": "https://www.daido-kogyo.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大同特殊鋼グループの中核商社として、提案力や製品知識に磨きをかけています",
+    "url": "https://www.daidokogyo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的に産業構造が大きく変化する中で、お客様と共に持続的に成長していくには、高付加価値製品の提案、ビジネスモデルの構築、コスト削減、営業力の強化、「グループのソリューション力」などによる競争力の向上が不可欠です",
+    "url": "https://www.daidokogyo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "CASTINGS, FORGINGS, AND RELATED PRODUCTS",
+    "url": "https://www.daidokogyo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "大同興業 社長に伊藤常務が昇格 | 鉄鋼・非鉄金属業界の専門紙「日刊産業新聞」",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属ニュース",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄・非鉄金属リサイクル",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼・ステンレス",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄ニュースのジャンル",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ地金・二次合金",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル・チタン",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタル他",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄二・三次加工",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属スクラップ",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄団体・官公庁",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "伸銅協会 データ拠点向け需要堅調 海外との競争激化も",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄ニュース",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "▽伊藤愼悟（いとう・しんご）氏＝85年大同興業入社、10年ステンレス・工具鋼営業本部ステンレス・工具鋼第一部長、17年取締役原料営業本部副本部長、原料営業本部特殊金属部長、20年取締役常務執行役員原料営業本部長、海外事業企画部、営業統括部担当",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同興業、越に販売拠点 特殊鋼鋼材の需要捕捉",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属市場価格",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄相場配信",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "北島鋼材／社長に北島取締役",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼・非鉄の速報をお届け",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼・非鉄業界の総合紙面",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎朝の非鉄金属相場をお届け",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品カタログを見る",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "製品カテゴリから探す",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1954年(昭和29年)の創業以来、モノづくりに欠かせない生産機材の先進商品をお客様に提案し、販売してまいりました",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "その事業の根底には、「時代に即したお客様のニーズを充足させるオリジナル商品の開発と提供」という基本姿勢があり、これまで当社独自の開発商品をはじめ、輸入商品や国内商品に改良を加えた高付加価値創造商品・システムを、数多く市場に投入しております",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "今後も当社は、独自の技術力・開発力を全面に押し出し、オリジナリティを追求するメーカー指向型商社を目指し、変化するユーザーニーズに沿った商品を提供してまいります",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "」の企業理念のもと、あらゆる業界に貢献出来るよう自社ブランド商品の開発に取りくみ、お客様から存在感のある会社と認められるべく前進してまいりますので、今後とも一層のご支援を賜りますようお願い申し上げます",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "全製品カタログを無料ダウンロード",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "現代表取締役会長／堀口武彦が(社)日本建築学会の会員となる",
+    "url": "https://www.daido-kogyo.co.jp/history.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "世界的に産業構造が大きく変化する中で、お客様と共に持続的に成長していくには、高付加価値製品の提案、ビジネスモデルの構築、コスト削減、営業力の強化、「グループのソリューション力」などによる競争力の向上が不可欠です",
+    "url": "https://www.daidokogyo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出取引（仲介貿易含む）",
+    "url": "https://www.daidokogyo.co.jp/koukoku/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 | 大同興業 株式会社（DKK） — 事業紹介 | 大同興業 株式会社（DKK） 大同興業株式会社 https://www.daidokogyo.co.jp > business",
+    "url": "https://www.daidokogyo.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】 大同興業 の内定獲得ガイド｜志望動機30例×面接回答 ... — 【27卒】 大同興業 の内定獲得ガイド｜志望動機30例×面接回答 ... note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/jobhuntkeyence/n/n47903f64c4d6",
+    "pass": 3
+   },
+   {
+    "quote": "信頼をつなぐ商社へ 大同興業 株式会社が描く循環型成長戦略 — 信頼をつなぐ商社へ 大同興業 株式会社が描く循環型成長戦略 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000418.000039303.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 公告 | 大同興業 株式会社（DKK） — 決算 公告 | 大同興業 株式会社（DKK） 大同興業株式会社 https://www.daidokogyo.co.jp > koukoku",
+    "url": "https://www.daidokogyo.co.jp/koukoku/",
+    "pass": 3
+   },
+   {
+    "quote": "大同興業 社長 に伊藤常務が昇格 - 日刊産業新聞 — 大同興業 社長 に伊藤常務が昇格 - 日刊産業新聞 japanmetal.com https://www.japanmetal.com > news-t20250701144583",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 のご挨拶｜産業機械の専門商社 - 大同興業株式会社 — 社長 のご挨拶｜産業機械の専門商社 - 大同興業株式会社 daidokogyo-kk.co.jp https://www.daidokogyo-kk.co.jp > about > message",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   },
+   {
+    "quote": "大同興業 株式会社（DKK） — 大同興業 株式会社（DKK） 大同興業株式会社 https://www.daidokogyo.co.jp",
+    "url": "https://www.daidokogyo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "大同興業社長 に伊藤常務 | 日刊鉄鋼新聞 Japan Metal Daily — 大同興業社長 に伊藤常務 | 日刊鉄鋼新聞 Japan Metal Daily 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 鉄鋼",
+    "url": "https://www.japanmetaldaily.com/articles/-/241557",
+    "pass": 3
+   },
+   {
+    "quote": "大同興業 | みんなの商社オンライン — 大同興業 | みんなの商社オンライン みんなの商社オンライン https://minshou.net > ...",
+    "url": "https://minshou.net/?page_id=299",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "輸出・輸入売上高の国別構成比",
+    "url": "https://www.daidokogyo.co.jp/koukoku/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://www.daidokogyo.co.jp/koukoku/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "非鉄二・三次加工",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得",
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "pass": 3
+   },
+   {
+    "quote": "パイプ加工機械",
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daido-kogyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido-kogyo.co.jp/history.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.daidokogyo.co.jp/business/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ir.daidometal.com/management/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidokogyo.co.jp/koukoku/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.did-daido.co.jp/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japanmetal.com/news-t20250701144583.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidokogyo-kk.co.jp/about/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mercury.com/blog/gross-margin-versus-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大同興業 ビジネスモデル 収益構造",
+   "results": [
+    "https://www.daidokogyo.co.jp/business/",
+    "https://www.ir.daidometal.com/management/policy.html",
+    "https://note.com/jobhuntkeyence/n/n47903f64c4d6",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240514/20240514595770.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000418.000039303.html",
+    "https://www.youtube.com/watch?v=TvOfCQLKwn4",
+    "https://www.tanabeconsulting.co.jp/webinar/blog/o_finance_2507",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000Wt6xE&q_no=9",
+    "https://www.daidokogyo-kk.co.jp/about/message",
+    "https://www.daidokogyo.co.jp/"
+   ]
+  },
+  {
+   "query": "大同興業 決算説明資料 セグメント",
+   "results": [
+    "https://www.daidokogyo.co.jp/koukoku/",
+    "https://www.did-daido.co.jp/ir/library/reports.html",
+    "https://www.ir.daidometal.com/library/presentation.html",
+    "https://www.tsubakimoto.jp/fileadmin/templates2020/pdf/ir/library/presentations/tsubaki-25-4q-financial-document.pdf",
+    "https://www.daido.co.jp/common/pdf/pages/ir/library/result/2603_4q.pdf",
+    "https://www.youtube.com/watch?v=hHhfrAEpVRQ",
+    "https://www.daido-life.co.jp/company/ir/finance/",
+    "https://denkikogyo.co.jp/ir/library/presentation/",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2511267670wl2H2H7.pdf"
+   ]
+  },
+  {
+   "query": "大同興業 社長 インタビュー",
+   "results": [
+    "https://www.japanmetal.com/news-t20250701144583.html",
+    "https://www.daidokogyo-kk.co.jp/about/message",
+    "https://www.daidokogyo.co.jp/",
+    "https://www.japanmetaldaily.com/articles/-/241557",
+    "https://minshou.net/?page_id=299",
+    "https://prtimes.jp/main/html/rd/p/000000418.000039303.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000Wt6xE&q_no=1",
+    "https://www.japanmetal.com/news-to20230309125456.html",
+    "https://www.daido-100th.com/topics/559/"
+   ]
+  },
+  {
+   "query": "大同興業 business model revenue gross margin",
+   "results": [
+    "https://mercury.com/blog/gross-margin-versus-revenue",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.hibob.com/financial-metrics/gross-margin/",
+    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html",
+    "https://vantainsights.com/insights/what-is-a-good-profit-margin",
+    "https://jboitnott.medium.com/how-to-analyze-and-optimize-your-gross-margin-e98db3b131b6",
+    "https://fullratio.com/profit-margin-by-industry",
+    "https://www.gsquaredcfo.com/blog/calculate-saas-gross-margin-by-cohort",
+    "https://www.shopify.com/sg/blog/gross-margin",
+    "https://catr.jp/companies/efe4a/55683"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）",
+  "利益の源泉": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索4回）"
+ }
+}

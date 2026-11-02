@@ -1,4 +1,4 @@
-# 素材ごとの市場の伸び・規模・大手の参入（ニッチで伸びがエグい素材を探す）（事実のみ・24品目）
+# 素材ごとの市場の伸び・規模・大手の参入（ニッチで伸びがエグい素材を探す）（事実のみ・48品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2504,3 +2504,2509 @@
   - 「Gallium Oxide Market Size, Share & Industry Forecast by 2035 — Gallium Oxide Market Size, Share & Industry Forecast by 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/gallium-oxide-market-23107）
   - 「Gallium Oxide startup NextGO Epi raises €2m — Gallium Oxide startup NextGO Epi raises €2m Compound Semiconductor https://compoundsemiconductor.net > ...」（https://compoundsemiconductor.net/article/124703/Gallium_Oxide_startup_NextGO_Epi_raises_%E2%82%AC2m）
   - 「NextGO Epi raises €2m for Gallium Oxide development — NextGO Epi raises €2m for Gallium Oxide development Electronics Weekly https://www.electronicsweekly.com > ...」（https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/）
+
+## ダイヤモンド半導体（diamond semiconductor）
+- 文脈：次世代半導体
+- 市場規模：
+  - 「産業ダイヤモンド市場規模と予測 – 2025 – 2032」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「2025年の市場規模:」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「市場は、米ドルから成長するために計画されています 2.1 2025 へ USD 2032年までに3.8億、増幅により運転される8.2%のCAGRを反映した 産業用途および技術の進歩」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「米国のDiamond Foundryは、2023年に世界初の4インチ単結晶ウエハーを発表し、スペインに27.7億ドルの巨額を投じて大規模なファブを建設しています」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「非上場ながら38億ドルと推定される高い市場価値を持ち、量産規模で世界をリードしようとしています」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「ダイヤモンド半導体市場は2025年から2033年にかけて年平均成長率（CAGR）25.8%で成長し、2033年には約7億ドル規模に達すると予測されています」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「WBG半導体単結晶の市場が急成長、2030年に3176億円：ダイヤモンドの開発も活発に - EE Times Japan」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「WBG半導体単結晶の市場が急成長、2030年に3176億円」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「2023年の世界市場は前年比47.1％増の268億8500万円になる予測だ」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「市場は拡大を続け、2030年には3176億1200万円に達する見込みだという」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「材料別での2023年の市場規模は、SiCが202億9300万円（構成比75.5％）、GaNは46億4700万円（同17.3％）、Ga」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「同調査によると、SiC市場は本格的な成長期に入っていて、2025年以降の車載用途への採用が急成長のポイントになるという」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「2030年の市場は3176億円1200万円規模へ」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「主にパワーデバイスでの採用がけん引力となり、ワイドバンドギャップ半導体単結晶の世界市場は、2030年には3176億1200万円に達する見通しだ」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+- 成長率：
+  - 「グローバル・インダストリアル・ダイアモンド・マーケット規模は、2025年から2032年までの8.2%のコンパウンド年間成長率(CAGR)を占めると予想される」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「一方、アジアパシフィックは、中国、インド、韓国で急速に拡大するエレクトロニクスおよび自動車製造分野を燃料化し、CAGRが10%を超える最速の成長を展示しています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「予測期間 2025〜2032 CAGR:」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「競争力のある戦略: エレメンツ・シックスは、2020年に12%の産業ダイヤモンドシェアを増加させ、合成ダイヤモンドの生産を拡大するための資本支出に焦点を当てています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「市場は、米ドルから成長するために計画されています 2.1 2025 へ USD 2032年までに3.8億、増幅により運転される8.2%のCAGRを反映した 産業用途および技術の進歩」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「また、絶縁破壊電界強度はシリコンの約33倍に相当する 10 MV/cm 以上に達し、デバイスを劇的に薄くしながら高電圧に耐えることが可能です」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「ダイヤモンド半導体市場は2025年から2033年にかけて年平均成長率（CAGR）25.8%で成長し、2033年には約7億ドル規模に達すると予測されています」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「2023年の世界市場は前年比47.1％増の268億8500万円になる予測だ」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「市場は拡大を続け、2030年には3176億1200万円に達する見込みだという」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「2023年は前年比47.1％増、SiCが4分の3を占める」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「特に「パワーエレクトロニクスの進化」「極限環境下の電子機器需要」「脱炭素社会実現に向けた動き」の3つが、需要拡大の原動力となるでしょう」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/）
+  - 「その一方で、国内外のスタートアップ企業や大学・研究機関による技術革新が進展しており、EVの普及や次世代電力網の構築といったマクロトレンドも相まって、2030年代にはダイヤモンド半導体の本格的な市場立ち上がりと需要拡大が加速する可能性が高い」（https://www.chem-station.com/chemistenews/2025/06/dmsc.html）
+  - 「(with a stated CAGR for 2024–2030).」（https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030）
+  - 「GaN-on-diamond is especially attractive for RF power because it attacks one of GaN’s core limits: removing heat from the channel region. Forecasts commonly model this segment at high CAGR into the early 2030s.」（https://www.diamondsemicon.com/blog/global-market-outlook-for-diamond-semiconductor-materials-through-2030）
+  - 「The Market Size is Expected to Grow at a CAGR of around 13.25% from 2026 to 2035」（https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market）
+- 主要企業：
+  - 「ダイヤモンド半導体市場の技術的必然性と主要プレイヤーの投資妙味：IOWN、宇宙、次世代パワーデバイスを軸とした包括的分析｜パフェッチョLv5」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「ダイヤモンド半導体市場の技術的必然性と主要プレイヤーの投資妙味：IOWN、宇宙、次世代パワーデバイスを軸とした包括的分析」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「主要プレイヤーの技術的「堀」と市場ポジション」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「はSiCデバイスと比較してコストや性能のポテンシャルが高いことから参入プレイヤーも増えてきており、パワーデバイス市場に食い込む勢いだという」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「◆本調査レポートは、ダイヤモンド半導体に関する技術動向・市場予測・参入企業の戦略・応用分野別のニーズ分析などを総合的に捉え、今後の市場成長ポテンシャルおよび実用化に向けた展望を明らかにすることを目的としている」（https://www.chem-station.com/chemistenews/2025/06/dmsc.html）
+  - 「また、巻末には、国内外主要企業13社の技術開発の状況や製品戦略などの概要をまとめており、競合分析やパートナー選定の参考資料として活用できる内容となっている」（https://www.chem-station.com/chemistenews/2025/06/dmsc.html）
+  - 「近年、民間企業が参入して活性化する宇宙産業での応用や、無線通信や廃炉用のアナログ半導体としての活用に期待が高まっています」（https://www.aist.go.jp/aist_j/magazine/20250319.html）
+  - 「Startups」（https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market）
+  - 「List of Key Companies」（https://www.sphericalinsights.com/reports/gan-diamond-semiconductor-substrate-market）
+  - 「Diamond Materials For Semiconductor Market Competitive Landscape」（https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market）
+  - 「(Exhibit: Data Table: Emerging startups details)」（https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market）
+  - 「Competitive Landscape」（https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market）
+  - 「Identify racial solutions and innovation, connected to deep ecosystems of innovators, start-ups, academics, and strategic partners.」（https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market）
+  - 「Market size, share and growth analysis by type, product type, application and end-user industry, across all major regions and key countries, with forecasts for 2024–2033. The competitive landscape profiles 15+ companies.」（https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/）
+  - 「Revenue Estimation and Forecast, Company Profile, Competitive Landscape, Growth Factors and Recent Trends」（https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/）
+- 日本企業：
+  - 「これはオリジナルレポートの日本語翻訳ページです」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「Element Sixや住友電気などの企業は、堅牢な産業生態系の活用と、高性能な切削・研削工具の需要を担っています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「: 中国、台湾、インド、日本、韓国、インドネシア、マレーシア、フィリピン、シンガポール、オーストラリア、アジアパシフィックの休み」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「要素6、河南Huanghe Whirlwind Co.、住友電工、IIa技術、Deビールグループ、産業ダイヤモンド、Sino-Crystal Diamond、Scio Diamond Technology Corporation、Diamond Innovations、AB Diamond Technologies」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「日本政府は、オクマダイヤモンドデバイス株式会社がダイヤモンドを製造する施設を建設することを発表しました」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「住友電気工業」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「住友電工業は、半導体用途に適した高度なモノクリスタル産業ダイヤモンドを発売し、2024年に15%以上の収益成長を実現しました」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「市場は、要素シックス、ヘナンなどの重要な選手によって支配される Huanghe Whirlwind、および住友電気工業、集団的に 戦略を通じて市場シェアの大きな部分に貢献 拡大およびプロダクト革新」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「住友電気工業 (5802)：圧倒的な品質と垂直統合」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「生産能力の観点から注目すべきは、日本のOrbray（旧アダマント並木精密宝石）です」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「住友電気工業」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「WBG半導体単結晶の市場が急成長、2030年に3176億円：ダイヤモンドの開発も活発に - EE Times Japan」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「電源設計（EDN Japan）」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「エレクトロニクス入門（EDN Japan）」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「SEMICON Japan」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+- 上位シェア：
+  - 「グローバル・インダストリアル・ダイアモンド・マーケット規模は、2025年から2032年までの8.2%のコンパウンド年間成長率(CAGR)を占めると予想される」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「製品カテゴリの分岐セグメントは、コスト効率の高い製造の進歩による68.5%以上の業界シェアを指揮し、合成産業ダイヤモンドであり続けています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「北米は、広範な政府有限のイノベーションと産業オートメーションへの取り組みにより、約34%の市場シェアを保有しています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「2024年、エレクトロニクス部門は、産業ダイヤモンド消費量の約22%を占め、市場収益の実質的なドライバーと市場予測予測の予測を補強しています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「競争力のある戦略: エレメンツ・シックスは、2020年に12%の産業ダイヤモンドシェアを増加させ、合成ダイヤモンドの生産を拡大するための資本支出に焦点を当てています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「6 年以上の経験を持つ Vidyesh は、カスタマイズされた調査ソリューションのための市場予測、サプライヤー ランドスケープ分析、市場シェア評価の熟練度で高い評価を得ています」（https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4）
+  - 「イーディーピー (7794)：素材供給の独占的技術」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「中国は世界の人工ダイヤモンド生産の大部分を占めており、特に河南省の企業群（黄河旋風など）は世界シェアの90%以上を握っています」（https://note.com/mahjong_lab/n/n8e7719ab3de5）
+  - 「2023年は前年比47.1％増、SiCが4分の3を占める」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「太陽光発電装置や自動車など、多くの用途で採用が進むSiCが市場の4分の3を占める見通しだ」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「材料別構成比はSiCが96.8％を占めており、ワイドバンドギャップ半導体の中でもSiC市場の成長予測が突出して高いことが見て取れる」（https://eetimes.itmedia.co.jp/ee/articles/2308/31/news064.html）
+  - 「産業用ロボットの種類と世界シェア4強メーカーランキング｜中小製造企業の課題解決メリットとは」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/4503/）
+  - 「半導体銘柄のオンリーワン技術で市場独占している銘柄といえば、「EUV露光装置」向けのフォトマスク欠陥装置で市場シェア100％のレーザーテックが思い浮かびますが、ジェイテックももしかしたら次なるレーザーテックになれるポテンシャルがあるのか！期待したいですね！」（https://kabukarin.net/semiconductor/4990/）
+  - 「ディスコは半導体製造の後工程「ダイシング装置」に強みがあり世界シェア80％を握る銘柄で、ディスコの公式ホームページをみると」（https://kabukarin.net/semiconductor/4990/）
+  - 「それにSiC専用マルチワイヤーソーでは世界シェア100％に近い数字でトップシェアを誇っていますし」（https://kabukarin.net/semiconductor/4990/）
+- 投資：
+  - 「Element Six declared, in January 2026, that a formal agreement for building a synthetic diamond manufacturing facility in the United States which Japanese government funding supports remains unexecuted while government and supply chain negotiations continues.」（https://www.skyquestt.com/report/diamond-materials-for-semiconductor-market）
+  - 「2025 – quantum and photonic integration attracts investment」（https://semiconductorinsight.com/report/diamond-semiconductor-market/）
+  - 「2025–2026 – Gulf AI infrastructure investment accelerates」（https://semiconductorinsight.com/report/diamond-semiconductor-market/）
+  - 「2026 – defense and satellite investment sustains rugged electronics demand」（https://semiconductorinsight.com/report/diamond-semiconductor-market/）
+  - 「All funding deals in the semiconductor industry over the last 24 months」（https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis）
+- 検索結果の抜粋：
+  - 「半導体ダイヤモンド 基板 市場 : 2032 年の動向と 成長 分析 — 半導体ダイヤモンド 基板 市場 : 2032 年の動向と 成長 分析 WiseGuy Reports https://www.wiseguyreports.com > reports > semiconduct...」（https://www.wiseguyreports.com/ja/reports/semiconductor-diamond-substrates-market）
+  - 「GaN on Diamond Semiconductor Substrates Market 2033 - CMI — GaN on Diamond Semiconductor Substrates Market 2033 - CMI Custom Market Insights https://www.custommarketinsights.com > ...」（https://www.custommarketinsights.com/report/gan-on-diamond-semiconductor-substrates-market/）
+
+## 窒化アルミニウム（AlN）（aluminum nitride）
+- 文脈：放熱・基板
+- 市場規模：
+  - 「高純度窒化アルミニウム（AlN）微粉末の世界市場（2026年～2032年）、市場規模（純度97%～99%、純度99%以上）・分析レポートを発表」（https://www.atpress.ne.jp/news/4914228）
+  - 「本資料には、高純度窒化アルミニウム（AlN）微粉末の世界市場規模、市場動向、セグメント別予測（純度97%～99%、純度99%以上）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/4914228）
+  - 「世界の超高純度窒化アルミニウム（AlN）微粉末市場規模は、2025年の9,508万米ドルから2032年には1億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.0％で成長すると見込まれています」（https://www.atpress.ne.jp/news/4914228）
+  - 「高純度窒化アルミニウム（AlN）マイクロパウダーの米国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「中国の高純度窒化アルミニウム（AlN）マイクロパウダー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「欧州の高純度窒化アルミニウム（AlN）マイクロパウダー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「2021年から2026年までの世界市場規模について、地理的地域別および国/地域別の年間販売量と年間収益のデータが提供されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「2027年から2032年までの期間における地域別（アメリカ地域、アジア太平洋地域、ヨーロッパ、中東・アフリカを含む国/地域別）、タイプ別、および用途別の市場規模と年間収益予測が提供されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「高純度窒化アルミニウム（AlN）微粉末の世界市場（2026年～2032年）、市場規模（純度97%～99%、純度99%以上）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/4914228）
+  - 「ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表」（https://www.atpress.ne.jp/news/4914228）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4914228）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/4914228）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/4914228）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4914228）
+  - 「窒化アルミニウム（AlN）の世界市場（2026年～2032年）、市場規模（直接窒化法、炭熱還元・窒化法）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/5855119）
+- 成長率：
+  - 「世界の超高純度窒化アルミニウム（AlN）微粉末市場規模は、2025年の9,508万米ドルから2032年には1億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.0％で成長すると見込まれています」（https://www.atpress.ne.jp/news/4914228）
+  - 「高純度窒化アルミニウム（AlN）マイクロパウダーの米国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「中国の高純度窒化アルミニウム（AlN）マイクロパウダー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「欧州の高純度窒化アルミニウム（AlN）マイクロパウダー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「世界の窒化アルミニウム（AlN）市場規模は、2025年の2億1800万米ドルから2032年には4億1100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）9.4％で成長すると見込まれています」（https://newscast.jp/news/5855119）
+  - 「2021年から2026年までの各地域（アメリカ、APAC、ヨーロッパ、中東・アフリカ）および国/地域ごとの窒化アルミニウム（AlN）の年間販売量と年間収益の推移が詳細に分析されており、各地域の販売成長率も示されています」（https://newscast.jp/news/5855119）
+  - 「Research Nester Japanによると、市場は2026年から2035年の間に年平均成長率（CAGR）6.8%で成長し、2035年末までに329.0百万米ドルに達すると予測されています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「予測期間CAGR（2026年–2035年）：」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「チップ製造の拡大や先端エレクトロニクス製品の生産増を牽引役として、2025年の市場規模は4,520万米ドルに達しました」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「自動車、エレクトロニクス、産業機器製造分野に支えられ、2025年の市場規模は5,160万米ドル、年平均成長率（CAGR）は6.2%を記録しました」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「小型かつ高出力な電子機器への需要拡大を背景に、電気・電子分野が2035年末までに市場シェアの62.4%を占めると予測されています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「エレクトロニクスに関するインドブランドエクイティ財団の報告によると、2017年6月、インドのエレクトロニクス市場は、2016年のUS $ 100億から2020年までに41.4%のCAGRを目撃する見込みです」（https://www.coherentmarketinsights.com/ja/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4）
+  - 「また、インドの半導体設計市場が29.4%のCAGRを目撃し、2015年14.5億米ドルから2020年までに52.58億米ドルに達すると報告しています」（https://www.coherentmarketinsights.com/ja/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4）
+  - 「COVID-19の流行により、世界の窒化アルミニウム(AlN)ウェハーの市場規模は2022年に百万米ドルと推定され、レビュー期間中にCAGR %で2028年までに...」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+  - 「COVID-19の流行により、世界の窒化アルミニウム(AlN)ウェハーの市場規模は2022年に百万米ドルと推定され、レビュー期間中にCAGR %で2028年までに百万米ドルの再調整サイズになると予測されています」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+- 主要企業：
+  - 「高純度窒化アルミニウム（AlN）マイクロパウダーの世界市場における主要企業には、トクヤマ、ホーガネス、東洋アルミニウム株式会社、アクメット・マテリアルズ、サーメット・コーポレーションなどが含まれます」（https://www.atpress.ne.jp/news/4914228）
+  - 「また、本レポートでは、高純度窒化アルミニウム（AlN）マイクロパウダーのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な高純度窒化アルミニウム（AlN）マイクロパウダー市場の急速な成長の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://www.atpress.ne.jp/news/4914228）
+  - 「また、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中度分析（競争環境とCR3、CR5、CR10の集中度）、新製品と潜在的な新規参入者、および市場におけるM&A活動と戦略についての情報も提供されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「第13章には、高純度窒化アルミニウム（AlN）微粉末市場の主要プレイヤーに関する詳細な分析が提供されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「世界のAlN市場は、主に日本、ドイツ、米国、中国のメーカーが主導しており、主要企業が市場の大部分を占めている」（https://newscast.jp/news/5855119）
+  - 「また、本レポートでは、窒化アルミニウム（AlN）のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な窒化アルミニウム（AlN）市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://newscast.jp/news/5855119）
+  - 「また、競争状況分析、市場集中度（CR3、CR5、CR10比率および2024年から2026年の予測）、新製品の動向と潜在的な新規参入者、市場のM&A活動と戦略についても分析されています」（https://newscast.jp/news/5855119）
+  - 「第13章には、窒化アルミニウム（AlN）市場における主要企業（Tokuyama、Accumet Materials、Surmet Corpなど24社）の詳細な分析が網羅されています」（https://newscast.jp/news/5855119）
+  - 「世界の窒化アルミニウム市場における主要企業には、NTK CERATEC、NGK Insulators、AdTech Ceramics、Nishimura Advanced Ceramics、GNPGraystar Specialty Materials、Great Ceramic、ADCERAXなどが挙げられます」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「主要企業としては、NTK CERATEC、NGK Insulators、AdTech Ceramics、Nishimura Advanced Ceramics、GNPGraystar Specialty Materials、Great Ceramic、ADCERAXなどが挙げられます」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「世界的な窒化アルミニウム市場での主要プレイヤーには、東洋アルミニウム(株)、サーメット(株)、丸和(株)、株式会社スターク(株)、東芝(株)、アドテックセラミックス(株)、CeramTec(株)、Goodfellow(株)、アメリカンエレメント、協セラ(株)、徳山(株)などがあります」（https://www.coherentmarketinsights.com/ja/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4）
+  - 「4.5 Analysis of Competitive Landscape」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+  - 「分野別の世界シェアと主要企業」（https://semirai.com/glossary/aluminum-nitride）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/aluminum-nitride-market-12088）
+  - 「Major Players」（https://www.marketresearchfuture.com/reports/aluminum-nitride-market-12088）
+- 日本企業：
+  - 「2021年から2026年までのAPAC内の地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別の販売量、および用途別の販売量に関するデータが提供されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「・日本語タイトル：高純度窒化アルミニウム（AlN）微粉末の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4914228）
+  - 「消費の観点から見ると、主要地域は日本、北米、欧州、中国である」（https://newscast.jp/news/5855119）
+  - 「生産面では、現在日本が世界最大のAlN生産国であり、その製品は品質と性能の安定性で定評がある」（https://newscast.jp/news/5855119）
+  - 「世界のAlN市場は、主に日本、ドイツ、米国、中国のメーカーが主導しており、主要企業が市場の大部分を占めている」（https://newscast.jp/news/5855119）
+  - 「2021年から2026年までの期間における、APAC各地域（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の販売量と収益、タイプ別および用途別の販売状況が分析されています」（https://newscast.jp/news/5855119）
+  - 「・日本語タイトル：窒化アルミニウム（AlN）の世界市場2026年～2032年」（https://newscast.jp/news/5855119）
+  - 「Global Aluminum Nitride Market（世界の窒化アルミニウム市場）調査レポート ― 最終用途産業別（電気・電子、輸送、通信、航空宇宙・防衛）、タイプ別、グレード別、方法別、アプリケーション別ー日本の需要と供給の分析、成長予測、統計レポート 2026ー2035年」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「Research Nester Japanによると、市場は2026年から2035年の間に年平均成長率（CAGR）6.8%で成長し、2035年末までに329.0百万米ドルに達すると予測されています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「Research Nester Japanは、同市場が2035年末までに著しい成長を遂げると予測しています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「Research Nester Japanは、2035年末までに電気・電子産業が驚異的な62.4%のシェアを獲得すると予測しています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「NTK CERATEC (Japan)」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「NGK Insulators (Japan)」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「Nishimura Advanced Ceramics (Japan)」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「日本のデキストリン市場」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+- 上位シェア：
+  - 「売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました」（https://www.atpress.ne.jp/news/4914228）
+  - 「また、純度97%～99%と純度99%以上のタイプ別、および電子部品、熱伝導材料、その他といった用途別の詳細なセグメント分析が示されており、それぞれについて2021年から2026年までの販売量、収益、市場シェア、販売価格が提供されています」（https://www.atpress.ne.jp/news/4914228）
+  - 「これには、2021年から2026年までの企業別の年間販売量、販売市場シェア、年間収益、収益市場シェア、および販売価格が含まれます」（https://www.atpress.ne.jp/news/4914228）
+  - 「さらに、直接窒化法と炭素熱還元窒化法の二つのタイプ、従来の粉末と超微細粉末の二つの粒度、直販と流通の二つのチャネル、セラミックパッケージング基板、半導体製造装置部品、薄膜材料、熱伝導材料、その他の用途という分類に基づき、2021年から2026年までの窒化アルミニウム（AlN）の販売量、収益、市場シェア、販売価格の詳細な分析がまとめられています」（https://newscast.jp/news/5855119）
+  - 「これには、2021年から2026年までの各企業の年間販売量と販売市場シェア、年間収益と収益市場シェア、販売価格、主要メーカーの生産地域分布、販売地域、および提供される製品タイプに関する情報が含まれています」（https://newscast.jp/news/5855119）
+  - 「世界の窒化アルミニウム市場調査レポート、規模とシェア、予測2035年」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「強固な半導体エコシステムと政府の取り組みを背景に、2035年末までに34.7%という最大の市場シェアを占めると予測されています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「小型かつ高出力な電子機器への需要拡大を背景に、電気・電子分野が2035年末までに市場シェアの62.4%を占めると予測されています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「北米の窒化アルミニウム市場は力強い急成長を見せており、予測期間を通じて34.7%という最大の市場シェアを占めると見込まれています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「米国は同地域において最大の市場を占め、2025年には45.2百万米ドル超の規模に達すると予測されています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「Research Nester Japanは、2035年末までに電気・電子産業が驚異的な62.4%のシェアを獲得すると予測しています」（https://www.researchnester.jp/industry-analysis/aluminium-nitride-market/1067）
+  - 「この健康危機による経済変化を十分に考慮し、2021年に窒化アルミニウム（AlN）ウェハーの世界市場の％を占める2インチは、2028年までに100万米ドルの価値を持ち、ポストCOVID-19期間に改訂された％のCAGRで成長すると予測されます」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+  - 「2021年、世界の上位5社は売上高で約 %のシェアを持つ」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+  - 「生産面では、2017年から2022年まで、2028年までの予測で、メーカー別、地域別（地域レベル、国レベル）の窒化アルミニウム（AlN）ウェハーの容量、生産量、成長率、市場シェアを調査しています」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+  - 「4.2.2 Global Aluminum Nitride (AlN) Wafer Sales Market Share by Manufacturers (2017-2022)」（https://www.dri.co.jp/auto/report/qyr/220415-global-aluminum-nitride-(aln)-wafer-market.html）
+- 投資：
+  - 「materials and rising demand for high-efficiency power electronics. The market expanded during this period owing to growing investments in EV powertrain technologies, expansion of 5G infrastructure, and increasing use of advanced thermal interface materials in high-power density electronic systems.」（https://www.gminsights.com/industry-analysis/aluminum-nitride-aln-semiconductor-market）
+  - 「The presence of robust R&D activities related to semiconductor substrates and initiatives for advanced materials and chips manufacturing supported by the German government are boosting innovation in wide bandgap semiconductor materials. Increasing investment in automotive electronics, automation systems, and 5G infrastructure has created rising opportunities for aluminum nitride semiconductors.」（https://www.gminsights.com/industry-analysis/aluminum-nitride-aln-semiconductor-market）
+  - 「Drives 17% growth through growing investments in advanced semiconductor manufacturing ecosystems, accelerating material innovation and production scalability.」（https://www.gminsights.com/industry-analysis/aluminum-nitride-aln-semiconductor-market）
+  - 「Key growth drivers include increasing adoption of high-performance thermal management materials in electronics, expanding EV production, 5G infrastructure rollout, and rising investment in renewable energy systems.」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「4.9 Government and Private Sector Investment Trends」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「7.1.3 Infrastructure and Investment Drivers」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「10.5 New Capacity and Investment Hotspots」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「13.6 End-Use Industry Investment Priorities」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「14.10 Regional Investment, Policy and Supply Chain Differences」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「15.5 Innovation Pipeline and R&D Investment」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「16.4 Technology Investment and Product Differentiation」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「18.2.6 Financial Performance and Investment」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/aluminum-nitride-ceramic-substrates-in-electronic-market）
+  - 「10.1.4 Research & Development Investment」（https://www.researchandmarkets.com/reports/6223345/aluminum-nitride-filler-market-growth-surging?srsltid=AYCX9vIWSTFljDSj1Sft1KXxK887BNo7WIurbb9iK6uNqqhBswBCwag_）
+  - 「Startup Funding: Q4 2025」（https://semiengineering.com/startup-funding-q4-2025/）
+- 検索結果の抜粋：
+  - 「高純度 窒化アルミニウム （ AlN ）微粉末の世界 市場 （2026年 ... — 高純度 窒化アルミニウム （ AlN ）微粉末の世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4914228）
+  - 「窒化アルミニウム （ AlN ）の世界 市場 （2026年～2032年） — 窒化アルミニウム （ AlN ）の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/5855119）
+  - 「窒化アルミニウム （ AlN ） 市場規模 、シェア |レポート [2033] — 窒化アルミニウム （ AlN ） 市場規模 、シェア |レポート [2033] Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/aluminum-nitride-aln-market-100024）
+  - 「窒化アルミニウム の 市場規模 、シェア |業界レポート [2032] — 窒化アルミニウム の 市場規模 、シェア |業界レポート [2032] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4-109543）
+  - 「窒化アルミニウム の 市場 規模、シェア |業界レポート [2032] — 窒化アルミニウム の 市場 規模、シェア |業界レポート [2032] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4-109543）
+  - 「窒化アルミニウム （ AlN ） 市場 規模、シェア |レポート [2033] — 窒化アルミニウム （ AlN ） 市場 規模、シェア |レポート [2033] Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/aluminum-nitride-aln-market-100024）
+  - 「窒化アルミニウム の市場規模、シェア |業界レポート [2032] — 窒化アルミニウム の市場規模、シェア |業界レポート [2032] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4-109543）
+  - 「窒化アルミ - メーカー・ 企業 7社の業務用製品ランキング — 窒化アルミ - メーカー・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 窒化アルミ」（https://mono.ipros.com/cg2/%E7%AA%92%E5%8C%96%E3%82%A2%E3%83%AB%E3%83%9F/）
+  - 「窒化アルミニウム メーカー21社 - メトリー — 窒化アルミニウム メーカー21社 - メトリー Metoree https://metoree.com > 化学物質」（https://metoree.com/categories/6722/）
+  - 「窒化アルミニウム （ AlN ）の世界市場（2026年～2032年） — 窒化アルミニウム （ AlN ）の世界市場（2026年～2032年） Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/5855119）
+  - 「Aluminum Nitride Market Size , Share & Forecast Report 2035 — Aluminum Nitride Market Size , Share & Forecast Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/aluminum-nitride-market-12088）
+  - 「Aluminum Nitride Semiconductor Market Size , Forecasts 2035 — Aluminum Nitride Semiconductor Market Size , Forecasts 2035 Global Market Insights Inc. https://www.gminsights.com > alumin...」（https://www.gminsights.com/industry-analysis/aluminum-nitride-aln-semiconductor-market）
+  - 「Aluminum Nitride Market Size, Share, Growth and Forecast 2032 — Aluminum Nitride Market Size, Share, Growth and Forecast 2032 Credence Research https://www.credenceresearch.com > ...」（https://www.credenceresearch.com/report/aluminum-nitride-market）
+  - 「Aluminum Nitride Ceramic Substrates Market 2026 — Aluminum Nitride Ceramic Substrates Market 2026 Electronics Media https://www.electronicsmedia.info > a...」（https://www.electronicsmedia.info/2026/03/25/aluminum-nitride-ceramic-substrates-market/）
+
+## 窒化ケイ素（Si3N4）セラミックス（silicon nitride ceramic）
+- 文脈：放熱・ベアリング
+- 市場規模：
+  - 「窒化ケイ素の市場規模は、2035年末までに303百万米ドルに達すると予想され、2024―2036年の予測期間中に6.85％のCAGRで拡大します」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本地域を除くアジア太平洋地域の市場は、2035年末までに1,650億米ドルの最大の市場シェアを保持すると予想されています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「北米地域の市場は、2036 年末までに 690 億米ドルという大きなシェアを占めると見込まれています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「回答: 市場は、2022－2035 年の予測期間にわたって約 6.85% の CAGR に達すると予想されます」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「回答: 日本を除くアジア太平洋地域の市場は、2036年末までに最大の市場シェアを獲得すると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされると予想されています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「ベアリングセグメントは、2036 年末までに最大の市場規模を獲得すると予想されており、大幅な成長の機会が見られます」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「テクニカルセラミックス市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：材料別（アルミナセラミックス、チタン酸塩セラミックス、ジルコン酸塩セラミックス、フェライトセラミックス、その他）、製品タイプ別（モノリシックセラミックス、セラミックマトリックス複合材料、セラミックコーティング）、用途別（電気機器、触媒担体、電子機器、摩耗部品、エンジン部品、フィルター、バイオセラミックス、その他）、最終用途産業別（電気・電子機器、自動車、産業、医療、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「2025年の市場規模」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「世界のテクニカルセラミックス市場は、2025年には121億3000万米ドルと評価され、2034年までに157億9000万米ドルに達すると予測されています」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「技術セラミックスの世界市場規模は、2025年には121億3000万米ドルと評価された」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「年間市場規模は2034年までに157億9000万米ドルに達すると予測されている」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「2026年から2034年までの潜在市場規模（TAM）は、約1,267億3,000万米ドルに達すると予測されています」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「市場は予測期間中に年平均成長率（CAGR）2.97%を記録すると予想されている」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「2034年までの市場規模」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「テクニカルセラミックス市場は、2026年から2034年にかけて年平均成長率（CAGR）3.36%で成長すると予測されている」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+- 成長率：
+  - 「窒化ケイ素の市場規模は、2035年末までに303百万米ドルに達すると予想され、2024―2036年の予測期間中に6.85％のCAGRで拡大します」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「Lithoz GmbH は WendtIndia Ltd と販売協力契約を締結し、2023 年 1 月中に亜大陸の急速に成長する 3D プリンティング市場で戦略的に事業を拡大します」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「回答: 市場は、2022－2035 年の予測期間にわたって約 6.85% の CAGR に達すると予想されます」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「2026年～2034年の年平均成長率（CAGR）」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「また、2026年から2034年にかけて年平均成長率（CAGR）2.97%を記録すると推定されています」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「市場は予測期間中に年平均成長率（CAGR）2.97%を記録すると予想されている」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「世界の年間平均成長率（2026年～2034年）」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「テクニカルセラミックス市場は、2026年から2034年にかけて年平均成長率（CAGR）3.36%で成長すると予測されている」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百万米ドルへ拡大 (2026年10月29日掲載) - ライブドアニュース」（https://news.livedoor.com/pr_topics/detail/32683515/）
+  - 「ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百万米ドルへ拡大」（https://news.livedoor.com/pr_topics/detail/32683515/）
+  - 「2025〜2031年の年平均成長率は17.0%で2031年に6.14億米ドルに達する」（https://news.livedoor.com/pr_topics/detail/32683515/）
+  - 「LP Information調査チームの最新レポートである「世界ベア窒化ケイ素 (Si3N4) セラミック基板市場の成長予測2026～2032」によると、2025年から2031年の予測期間中のCAGRが17.0%で、2031年までにグローバルベア窒化ケイ素 (Si3N4) セラミック基板市場規模は6.14億米ドルに達すると予測されている」（https://newscast.jp/news/7290928）
+  - 「第3章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/7290928）
+  - 「第4章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/news/7290928）
+  - 「同市場は、2024年から2030年の予測期間中に19.31％のCAGRで拡大し、2030年までに5億1,559万米ドルに達すると予測されています」（https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html）
+- 主要企業：
+  - 「市場の主要企業の包括的な分析」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「窒化ケイ素 市場で支配的な主要企業はどれですか?」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「3M、CoorsTek Inc.、CeramTec GmbH、京セラ株式会社、Morgan Advanced Materials plc、Saint-Gobain、Paul Rauschert GmbH and Co. KG.、STC Material Solutions、Elan Technology、Boschなどは、技術セラミックス市場で事業を展開する主要企業の一部である」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「第3章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/7290928）
+  - 「ベア窒化ケイ素（Si3N4）セラミック基板の世界の主要企業は、Denka、Proterial、Toshiba、Maruwa、Kyocera、Weihai Yuanhuanなどが含まれます」（https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html）
+  - 「本レポートは、ベア窒化ケイ素（Si3N4）セラミック基板の世界市場を包括的に紹介することを目的としており、ベア窒化ケイ素（Si3N4）セラミック基板の地域別・国別、タイプ別、用途別の分析とともに、総販売量、収益、価格、主要企業の市場シェア、ランキングに焦点を当てています」（https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html）
+  - 「当レポートでは、世界のベア窒化ケイ素（Si3N4）セラミック基板市場について調査し、市場の概要とともに、タイプ別、用途別、地域別の動向、および市場に参入する企業のプロファイルなどを提供しています」（https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html）
+  - 「Some of the key players operating in the market include KYOCERA Corporation, CoorsTek Inc., and others」（https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market）
+  - 「The following key companies have been profiled for this study on the」（https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market）
+  - 「Revenue forecast, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market）
+  - 「Who are the key players in advanced ceramics market?」（https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market）
+  - 「Some of the key players operating in the advanced ceramics market are 3M; AGC Ceramics Co., Ltd.; CeramTec GmbH; CoorsTek Inc.; Elan Technology; KYOCERA Corporation; Morgan Advanced Materials; Murata Manufacturing Co., Ltd.; Nishimura Advanced Ceramics Co., Ltd.; Ortech Advanced Ceramics, among others.」（https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market）
+- 日本企業：
+  - 「経済見通し：日本」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本の経済回復の限界」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本を除くアジア太平洋地域 市場価値 (千米ドル) および量 (トン) 現在および将来の予測、2022-2035 年」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本 市場価値 (千米ドル) および量 (トン) 現在および将来の予測、2022-2035 年」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本を除くアジア太平洋地域」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本 窒化ケイ素市場評価、ビジネス視点、地域別予測、」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本 窒化ケイ素市場評価、ビジネス視点、タイプ別予測、」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本 窒化ケイ素市場評価、ビジネス視点、用途別予測、」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本 窒化ケイ素市場評価、ビジネス視点、最終用途産業別予測、」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「KYOCERA Corporation」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本を除くアジア太平洋地域の市場予測」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本地域を除くアジア太平洋地域の市場は、2035年末までに1,650億米ドルの最大の市場シェアを保持すると予想されています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本のデキストリン市場」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「回答: 日本を除くアジア太平洋地域の市場は、2036年末までに最大の市場シェアを獲得すると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされると予想されています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+- 上位シェア：
+  - 「世界の窒化ケイ素市場調査、規模、シェアと予測、2036年」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「市場における主要な競合他社の市場シェア (%)、2023年」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「日本地域を除くアジア太平洋地域の市場は、2035年末までに1,650億米ドルの最大の市場シェアを保持すると予想されています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「北米地域の市場は、2036 年末までに 690 億米ドルという大きなシェアを占めると見込まれています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「2016年にはガソリン車が販売台数に占める割合は22％となり、2010年の3.3％から増加しました」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「アプリケーションに関しては、ベアリングセグメントが 2035 年末までに 135百万米ドルの最大の市場シェアを保持すると予想されます」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「タイプに基づいて、反応結合窒化ケイ素セグメントは、予測期間中に 7.03% の最大の市場シェアを保持する予定です」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「回答: 日本を除くアジア太平洋地域の市場は、2036年末までに最大の市場シェアを獲得すると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされると予想されています」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「テクニカルセラミックス市場の範囲、シェア、および2034年までの潜在力」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「テクニカルセラミックス市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：材料別（アルミナセラミックス、チタン酸塩セラミックス、ジルコン酸塩セラミックス、フェライトセラミックス、その他）、製品タイプ別（モノリシックセラミックス、セラミックマトリックス複合材料、セラミックコーティング）、用途別（電気機器、触媒担体、電子機器、摩耗部品、エンジン部品、フィルター、バイオセラミックス、その他）、最終用途産業別（電気・電子機器、自動車、産業、医療、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）」（https://www.theinsightpartners.com/ja/reports/technical-ceramics-market）
+  - 「上位10社が2024年に約92.0%のシェアを占め日系のNitteraが首位である」（https://news.livedoor.com/pr_topics/detail/32683515/）
+  - 「廃校舎のシェアハウス 家賃2.5万」（https://news.livedoor.com/pr_topics/detail/32683515/）
+  - 「2024年、世界のトップ10企業は売上の観点から約92.0%の市場シェアを持っていた」（https://newscast.jp/news/7290928）
+  - 「第2章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/news/7290928）
+  - 「第3章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/7290928）
+- 投資：
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/global-silicon-nitride-powder-market）
+- 検索結果の抜粋：
+  - 「世界の 窒化ケイ素市場 調査、 規模 、シェアと予測、2036年 — 世界の 窒化ケイ素市場 調査、 規模 、シェアと予測、2036年 Research Nester Japan https://www.researchnester.jp > 業界分析」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「窒化ケイ素市場規模 、シェア |業界レポート [2026-2034] — 窒化ケイ素市場規模 、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932）
+  - 「ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板の世界 市場規模 — ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板の世界 市場規模 ライブドアニュース https://news.livedoor.com > プレスリリース」（https://news.livedoor.com/pr_topics/detail/32683515/）
+  - 「ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板 市場 2026-2032：世界 ... — ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板 市場 2026-2032：世界 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7290928）
+  - 「窒化ケイ素市場 規模、シェア |業界レポート [2026-2034] — 窒化ケイ素市場 規模、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932）
+  - 「世界の 窒化ケイ素市場 調査、規模、シェアと 予測 、2036年 — 世界の 窒化ケイ素市場 調査、規模、シェアと 予測 、2036年 Research Nester Japan https://www.researchnester.jp > 業界分析」（https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109）
+  - 「窒化ケイ素 Si 3 N 4 [SNP] - 日本ファインセラミックス — 窒化ケイ素 Si 3 N 4 [SNP] - 日本ファインセラミックス 日本ファインセラミックス https://www.japan-fc.co.jp > cate01 > cate0101 > si3n4-1」（https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html）
+  - 「ベア 窒化ケイ素 （ Si3N4 ） セラミック 基板の世界 市場 — ベア 窒化ケイ素 （ Si3N4 ） セラミック 基板の世界 市場 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > report > qyr1609524-bare-silicon-...」（https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html）
+  - 「窒化ケイ素 Si3N4 | ファイン セラミックス - 京セラ — 窒化ケイ素 Si3N4 | ファイン セラミックス - 京セラ 京セラ株式会社 https://www.kyocera.co.jp > ... > セラミックスの材料」（https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html）
+  - 「窒化ケイ素 市場規模、シェア |業界レポート [2026-2034] — 窒化ケイ素 市場規模、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932）
+  - 「ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板市場2026-2032：世界 ... — ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板市場2026-2032：世界 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7290928）
+  - 「自動車の電動化を支える 窒化ケイ素セラミックス 製品 - 東芝 — 自動車の電動化を支える 窒化ケイ素セラミックス 製品 - 東芝 東芝 PDF https://www.global.toshiba > dam > review > 2023/01」（https://www.global.toshiba/content/dam/toshiba/jp/technology/corporate/review/2023/01/a11.pdf）
+  - 「Silicon Nitride Market Size , Share | Industry Report [2026-2034] — Silicon Nitride Market Size , Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/silicon-nitride-market-100932）
+  - 「Silicon Nitride Ceramics Market Size : $ 6.33 Bn (2035) — Silicon Nitride Ceramics Market Size : $ 6.33 Bn (2035) Vantage Market Research https://www.vantagemarketresearch.com > ...」（https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vL1g_bVB6ba1Cg7HJjXXAnzcWBzuHtaO3RCmNXb5WUR050dzO3h）
+  - 「Silicon Nitride Market Size , Share | CAGR of 7.4% — Silicon Nitride Market Size , Share | CAGR of 7.4% Market.us https://market.us > report > global-sili...」（https://market.us/report/global-silicon-nitride-market/）
+
+## ガラス基板（半導体パッケージ）（glass substrate semiconductor packaging）
+- 文脈：半導体後工程
+- 市場規模：
+  - 「ガラス基板市場規模、シェア&分析レポート、2025年~2034年」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「世界のガラス基板市場は、2024年に72億米ドルと推定され、2025年から2034年にかけて年平均成長率3.7%で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「2024年の市場規模」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「2034年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ガラス基板市場規模、タイプ別、2021年~2034年(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「中国ガラス基板市場規模、2021年~2034年(百万米ドル)」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「中国のガラス基板市場は、2024年に9億9230万米ドルの収益を創出しました」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「中国市場は年平均成長率3.9%で成長し、2034年までに15億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「米国のガラス基板市場は、国内の消費増加により、2025年から2034年にかけて有望な成長を経験すると予想されています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「先端半導体パッケージングの進展に伴い、ガラスコア基板市場は急成長を遂げ、2035年には81億4,000万米ドルに達する見通し - CNET Japan - CNET Japan」（https://japan.cnet.com/release/31194949/）
+  - 「先端半導体パッケージングの進展に伴い、ガラスコア基板市場は急成長を遂げ、2035年には81億4,000万米ドルに達する見通し」（https://japan.cnet.com/release/31194949/）
+  - 「市場分析によると、市場規模は2025年に2億90万米ドルと推定され、2035年には81億4,080万米ドルに達すると予測されています」（https://japan.cnet.com/release/31194949/）
+  - 「同市場は2025年の2億900万米ドルから2035年には81億4,000万米ドルへと拡大すると予測されており、この技術は将来のチップ・アーキテクチャを支える上でますます重要な役割を果たすと期待されています」（https://japan.cnet.com/release/31194949/）
+  - 「分析として、市場規模・シェア・成長率、2032年までの予測、主要メーカー、CTEクラス・用途・地域別の需要を網羅します」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「2025年市場規模」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+- 成長率：
+  - 「世界のガラス基板市場は、2024年に72億米ドルと推定され、2025年から2034年にかけて年平均成長率3.7%で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「CAGR (2025年~2034年)」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ホウケイ酸セグメントは、化学的安定性、高い耐熱性、高い耐久性といった優れた特性により、2021年に20億米ドル、2024年に22億米ドルの収益を4%のCAGRで創出しました」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「中国市場は年平均成長率3.9%で成長し、2034年までに15億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「予測期間 2025 – 2034 CAGR」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ガラス基板の市場規模は、2024年には72億米ドルと評価され、2034年までに約103億米ドルに達すると予想されており、2034年までの年平均成長率は3.7%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「2026年から2035年の予測期間における年平均成長率（CAGR）は44.8%と、目覚ましい成長が見込まれています」（https://japan.cnet.com/release/31194949/）
+  - 「同市場は2025年の2億900万米ドルから2035年には81億4,000万米ドルへと拡大すると予測されており、この技術は将来のチップ・アーキテクチャを支える上でますます重要な役割を果たすと期待されています」（https://japan.cnet.com/release/31194949/）
+  - 「分析として、市場規模・シェア・成長率、2032年までの予測、主要メーカー、CTEクラス・用途・地域別の需要を網羅します」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「CAGR 2026–2032」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「CAGR（2026–2032）」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「CAGRはレンジで示し、確定2032年ベースケースは独自情報です」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「RP-IASは、この市場のすべてのサブセグメントを、予測成長率、収益性の代理指標、競争強度を組み合わせて0〜100のスケールで評価し、市場のどこに収益機会があるかを示します」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「CMOSイメージセンサーは確立した用途、FOWLPは最も成長が速く（方向性として年率約+9%、ブレンド率を上回る）、MEMSは安定、そしてRFフロントエンド、パワーデバイス、シリコンフォトニクス、3Dロジック／メモリにまたがる多様化する「その他」区分があります」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「2032年までの方向性ハウスCAGR：北米（約5.80%）、欧州（約5.40%）、アジア太平洋（約5.90%）、日本（約4.00%）、韓国（約3.70%）、中国（約12.10%）、米国（約6.10%）」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+- 主要企業：
+  - 「世界のガラス基板業界内には激しい競争があり、いくつかの主要企業が大きな市場シェアを保持し、小規模企業はニッチセグメント内で競争しています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「さらに、主要企業は戦略的提携、合弁事業、合併・買収を通じたパートナーシップを追求し、市場シェアと技術力を拡大しています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ガラス基板市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「2024年5月、Samsung Electro-Mechanicsは半導体ガラス基板市場への参入を加速し、装置の調達と設置を9月に前倒しし、第4四半期にパイロットラインの稼働を開始しました」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「業界の主要企業には、Absolics、AGC、Applied Materials、Corning、Guardian Industries、HOYA Corporation、Kyodo International、日本電気硝子、NOVA Electronic Materials、Ohara、Saint-Gobainなどがある」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ガラスコア基板市場の主要企業」（https://japan.cnet.com/release/31194949/）
+  - 「● その他主要企業」（https://japan.cnet.com/release/31194949/）
+  - 「★ 参入レーダー」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「方向性としては、セカンドソース化が遅いため既存勢が価格決定力を保持しますが、パネルフォーマットの参入者と中国の国産化が、標準的なCTEクラスに対する早期の下押し圧力となっています」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「集中度は十分に高く、2032年までにシェアを塗り替え得る主因は、セカンドソース戦略とパネルフォーマットの参入者です」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「次にこの市場へ参入する可能性が最も高いのは誰か、そしてそれを知らせるシグナル」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「この市場に参入し得る能力を持つ隣接企業を、文書で確認できる隣接性（共通の投入物、共通の販売チャネル、転用可能な技術、重なる顧客層）と、特許ファミリー、生産能力の発表、採用動向、認証取得といった日付付きの公開シグナルによって選別します」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「ウォッチリストと、どのシグナルが最初に参入へ転じるかという当社の見立ては完全版レポートに収録しています」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+- 日本企業：
+  - 「Absolics、AGC、Applied Materials、Corning、Guardian Industries、HOYA Corporation、Kyodo International、Nippon Electric Glass、NOVA Electronic Materials、Ohara、Saint-Gobain、Samsung Display、SCHOTT、Shin-Etsu Chemical、TOPPAN」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「さらに、アジア太平洋地域は、中国、日本、韓国における主要なディスプレイおよび太陽光パネル製造企業の高い集中度により、ガラス基板市場で最大のシェアを占めています」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「Shin-Etsu Chemical」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「業界の主要企業には、Absolics、AGC、Applied Materials、Corning、Guardian Industries、HOYA Corporation、Kyodo International、日本電気硝子、NOVA Electronic Materials、Ohara、Saint-Gobainなどがある」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「先端半導体パッケージングの進展に伴い、ガラスコア基板市場は急成長を遂げ、2035年には81億4,000万米ドルに達する見通し - CNET Japan - CNET Japan」（https://japan.cnet.com/release/31194949/）
+  - 「Continue to CNET Japan」（https://japan.cnet.com/release/31194949/）
+  - 「ZDNET Japan」（https://japan.cnet.com/release/31194949/）
+  - 「CNET Japan」（https://japan.cnet.com/release/31194949/）
+  - 「● 京セラ株式会社」（https://japan.cnet.com/release/31194949/）
+  - 「● 日本電気硝子株式会社」（https://japan.cnet.com/release/31194949/）
+  - 「御社のプレスリリース・イベント情報を登録するには、ZDNET Japan企業情報センターサービスへのお申し込みをいただく必要がございます」（https://japan.cnet.com/release/31194949/）
+  - 「ZDNET Japan 注目ヘッドライン」（https://japan.cnet.com/release/31194949/）
+  - 「メルカリが「2四半期連続のMAU減少」を恐れない理由--日本事業責任者が語る【インタビュー】」（https://japan.cnet.com/release/31194949/）
+  - 「CNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています」（https://japan.cnet.com/release/31194949/）
+  - 「CNET Japan is operated by 4X Corp under license from Ziff Davis.」（https://japan.cnet.com/release/31194949/）
+- 上位シェア：
+  - 「ガラス基板市場規模、シェア&分析レポート、2025年~2034年」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ガラス基板市場 サイズとシェア 2025 – 2034」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「ガラス基板市場収益シェア、最終用途産業別(2024年)」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「2024年、エレクトロニクスセグメントは、民生用電子機器の需要増加と技術革新により、38.6%のシェアを占め、主要な市場シェアを保持しました」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「分析として、市場規模・シェア・成長率、2032年までの予測、主要メーカー、CTEクラス・用途・地域別の需要を網羅します」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「集中度は十分に高く、2032年までにシェアを塗り替え得る主因は、セカンドソース戦略とパネルフォーマットの参入者です」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「Concentration Trackerは、集中度の段階（分散・中程度・集中）に加え、より重要な変化の方向、つまり市場が統合に向かっているのか分散に向かっているのかを、プロファイル対象企業のCR3・CR5・CR10とHHIから算出して記録します」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「北米はCHIPS法出資の2.5D/3D能力で成長し、欧州は車載グレードの実績と環境適合組成でシェアを守り、日本と韓国はそれぞれ精密ガラスの伝統とメモリ／AIパッケージングに強みを持ちます」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年 | KD Market Insights Private Limited | 半導体/MEMS/ディスプレイのWEBEXHIBITION（WEB展示会）による製品・サービスのマッチングサービス SEMI-NET（セミネット）」（https://semi-net.com/product/677cd6b17a57e）
+  - 「半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年」（https://semi-net.com/product/677cd6b17a57e）
+  - 「半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年 へのお問い合わせ」（https://semi-net.com/product/677cd6b17a57e）
+  - 「2) メーカーシェア」（https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja）
+  - 「5. メーカーシェア」（https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja）
+- 投資：
+  - 「需要強度が最も高いのは、先端パッケージング能力が集積する地域です：台湾・韓国（ファウンドリ・メモリの先端パッケージング）、日本（精密ガラスとヘテロジニアス集積のパイロット）、米国（CHIPS法出資の2.5D/3Dキャンパス）、中国（国家支援の国産化）」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「北米はCHIPS法出資の2.5D/3D能力で成長し、欧州は車載グレードの実績と環境適合組成でシェアを守り、日本と韓国はそれぞれ精密ガラスの伝統とメモリ／AIパッケージングに強みを持ちます」（https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647）
+  - 「May 2024 - CHIPS Act preliminary terms for Absolics. The U.S. Department of Commerce announced preliminary terms for up to USD 75 million in direct funding to support Absolics' Covington, Georgia glass-substrate facility for advanced semiconductor packaging.」（https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market）
+  - 「The region is seeing increased investment in mid stream semiconductor assembly and testing. Current trends include the adoption of glass reinforced substrates in industrial automation and the expanding 5G infrastructure.」（https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/）
+  - 「Significant investment in smart city projects, 5G infrastructure, and data centers.」（https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report）
+  - 「UAE advanced-technology investment efforts continued in April 2025」（https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/）
+  - 「, Brazilian ministry September 2024 R$24.8 billion announced private semiconductor R&D and factory investment.」（https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/）
+  - 「, Saudi PIF 1 February 2024 Alat electronics and advanced industry investment plans.」（https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/）
+  - 「, UAE state news agency 12 April 2025 advanced-technology and semiconductor ecosystem investment programme.」（https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/）
+  - 「[Investment Map] 15 Companies in the Glass Substrate Cycle: From Material to Mass Production」（https://photoncap.net/p/investment-map-15-companies-in-the）
+  - 「. The GVM Score is a framework I built for my own investment decisions. Of the 15 companies analyzed, I held existing positions in 3 before writing, and initiated positions in 2 additional companies immediately after constructing the GVM table. Which companies those are is disclosed inside the article.」（https://photoncap.net/p/investment-map-15-companies-in-the）
+  - 「Startup Funding: Q2 2026」（https://semiengineering.com/glass-substrates-gain-momentum/）
+- 検索結果の抜粋：
+  - 「ガラス基板市場規模 ・シェア予測2031年 - Mordor Intelligence — ガラス基板市場規模 ・シェア予測2031年 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/glass-substrate-market）
+  - 「ガラス基板市場規模 、シェア&分析レポート、2025年~2034年 — ガラス基板市場規模 、シェア&分析レポート、2025年~2034年 Global Market Insights Inc. https://www.gminsights.com > glass-substrate-market」（https://www.gminsights.com/ja/industry-analysis/glass-substrate-market）
+  - 「半導体パッケージ 用 ガラス基板市場 の 成長 と2026年から2033 ... — 半導体パッケージ 用 ガラス基板市場 の 成長 と2026年から2033 ... LinkedIn https://jp.linkedin.com > pulse > 半導体パッケージ用ガラ...」（https://jp.linkedin.com/pulse/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E5%9F%BA%E6%9D%BF%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE69-cagr%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%B8%BB%E8%A6%81%E5%9B%A0-cast-catch-9ytle）
+  - 「半導体パッケージ基板 材料 市場 、2026年は2桁成長 — 半導体パッケージ基板 材料 市場 、2026年は2桁成長 EE Times Japan https://eetimes.itmedia.co.jp > articles > news054」（https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html）
+  - 「2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 — 2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 ヤノデータバンク https://www.ydb.jp > market_reports」（https://www.ydb.jp/market_reports/C66127100）
+  - 「2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 — 2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > 【産業カテゴリ別】」（https://pr.mono.ipros.com/yano/product/detail/2001524437/）
+  - 「半導体ガラス基板 の関連銘柄4社｜実用化段階・株価・量産 ... — 半導体ガラス基板 の関連銘柄4社｜実用化段階・株価・量産 ... 日本投資機構株式会社 https://jioinc.jp > 関連銘柄 > 半導体関連」（https://jioinc.jp/investleaders/glass_toush/）
+
+## 石英ガラス（quartz glass semiconductor）
+- 文脈：半導体
+- 市場規模：
+  - 「石英ガラス市場：市場規模・シェアと2034年までの予測」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「石英ガラス市場規模と予測（2021～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：製品別（天然石英、合成石英）、用途別（半導体、光ファイバー、照明、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「石英ガラス市場規模は、2025年の52億1000万米ドルから2034年には94億9000万米ドルに達すると予測されています」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「市場は2026年から2034年にかけて年平均成長率（CAGR）6.89%を記録すると推定されています」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「の市場規模 2025」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「US$ 5.21 Billion」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「市場規模別 2034」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「US$ 9.49 Billion」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「2032年の世界石英ガラス製品市場は約10990百万米ドルに達すると見込まれています」（https://japan.zdnet.com/release/31177768/）
+  - 「今後の成長軌道は年平均成長率（CAGR）6.0%で推移し、2026年には市場規模が7751百万米ドル、2025年時点では約7353百万米ドルと推計されています」（https://japan.zdnet.com/release/31177768/）
+  - 「抵抗溶接用電極の世界市場規模：2026年は499百万米ドルに達する見込み」（https://japan.zdnet.com/release/31177768/）
+  - 「自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大」（https://japan.zdnet.com/release/31177768/）
+  - 「溶融石英ガラス 市場規模、成長、予測 2032」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「世界の溶融石英ガラス市場規模は2025年に20億6,000万ドルで、このレポートは2026年から2032年までの市場の成長、傾向、機会、予測をカバーしています」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「2025 年までに、溶融石英ガラス市場は」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+- 成長率：
+  - 「市場は2026年から2034年にかけて年平均成長率（CAGR）6.89%を記録すると推定されています」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「世界的なCAGR (2026 - 2034)」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032 - ZDNET Japan」（https://japan.zdnet.com/release/31177768/）
+  - 「世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032」（https://japan.zdnet.com/release/31177768/）
+  - 「今後の成長軌道は年平均成長率（CAGR）6.0%で推移し、2026年には市場規模が7751百万米ドル、2025年時点では約7353百万米ドルと推計されています」（https://japan.zdnet.com/release/31177768/）
+  - 「回転ステアリングツール市場の最新予測：2026年に447百万米ドル規模、成長率4.9%の見通し」（https://japan.zdnet.com/release/31177768/）
+  - 「自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大」（https://japan.zdnet.com/release/31177768/）
+  - 「精密光学、半導体、宇宙技術ではより高純度の材料が求められるため、2031 年までの CAGR が予測されます」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「6.49% CAGR」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「CAGR、ヨーロッパは絶対的に約50％の利益を得る可能性がある」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「、中国は約30％拡大する可能性がある」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「高温炉における規模の優位性、半導体およびフォトニクス大手との長期供給契約、および独自の溶解化学により、全体の需要が2031年までに30億米ドルと予測されることに向けて6.49 %の健全なCAGRで拡大する中でも、リーダー企業はシェアを守ることができます」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「5G通信やxEVの普及によって放熱部材関連が拡大」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en）
+  - 「2020年の市場は、新型コロナウイルス感染症の感染拡大の影響を受け、上期に多くの産業分野で生産活動が低迷したことによりファインセラミックスの需要が減少した」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en）
+  - 「下期には各国の産業が回復に向かったものの、上期の落ち込みの影響が大きく、前年比2.5%減となった」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en）
+- 主要企業：
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「世界の石英ガラス製品市場における売上規模、販売量、平均価格、市場シェア、主要企業のランキングを中心に、市場全体の推移と現状を詳細な分析しています」（https://japan.zdnet.com/release/31177768/）
+  - 「同時に、競争環境の変化、主要企業の戦略動向、新規参入の状況、技術革新の影響など、業界関係者が注目すべきポイントを整理しています」（https://japan.zdnet.com/release/31177768/）
+  - 「主要プレイヤーの戦略を分類し、競争構造の変化を整理します」（https://japan.zdnet.com/release/31177768/）
+  - 「第2章：主要企業の競争力分析とランキング」（https://japan.zdnet.com/release/31177768/）
+  - 「製品別・用途別データを網羅し、国別の市場潜在力や参入戦略の提言を明らかにします」（https://japan.zdnet.com/release/31177768/）
+  - 「第7章：主要企業プロファイル」（https://japan.zdnet.com/release/31177768/）
+  - 「炉建設とエネルギー効率の高い溶解に対する高い資本集中により、新規参入者は制限されています」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「それにもかかわらず、アジアからの新規参入者が低コストの生産能力をオンラインにもたらしているため、競争の激しさは高まっていますが、リソグラフィーの買い手は、レーザーおよび航空宇宙アプリケーションでは、供給ショックを避けるためにデュアルソース化が進んでいます」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「半導体や航空宇宙産業の顧客との長い認定サイクルは、単一の欠陥が複数年の供給契約を危うくする可能性があるため、新規参入をさらに阻止します」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「エリア別の需要では、半導体製造装置部品や放熱基板は参入する日系メーカーが多いことから、日本の比率が高い」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en）
+  - 「第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する」（https://www.atpress.ne.jp/news/7948739）
+  - 「スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032」（https://www.atpress.ne.jp/news/7948739）
+  - 「技術的ボトルネック、コスト制限、高い参入障壁など、石英ガラス繊維が直面する主な課題を特定し分析しています」（https://www.dreamnews.jp/press/0000320555/）
+- 日本企業：
+  - 「Shin-Etsu Chemical Co., Ltd.」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「世界の石英ガラス製品市場動向、年平均成長率6.0%で拡大継続2026-2032 - ZDNET Japan」（https://japan.zdnet.com/release/31177768/）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31177768/）
+  - 「ZDNET Japan」（https://japan.zdnet.com/release/31177768/）
+  - 「日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://japan.zdnet.com/release/31177768/）
+  - 「TEL：050-5893-6232（日本）；0081-5058936232（グローバル）」（https://japan.zdnet.com/release/31177768/）
+  - 「マーケティング担当 japan@qyresearch.com」（https://japan.zdnet.com/release/31177768/）
+  - 「CNET Japan Top Story」（https://japan.zdnet.com/release/31177768/）
+  - 「日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始」（https://japan.zdnet.com/release/31177768/）
+  - 「「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題」（https://japan.zdnet.com/release/31177768/）
+  - 「日立、過去最高業績を更新--成長をリードする「Lumada」と「HMAX」」（https://japan.zdnet.com/release/31177768/）
+  - 「「Hitachi Digital」2030年度までに事業規模2倍へ--CEOアナンド・ビルジェ氏が語る新戦略」（https://japan.zdnet.com/release/31177768/）
+  - 「ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します」（https://japan.zdnet.com/release/31177768/）
+  - 「PDF Report at ZDNET Japan」（https://japan.zdnet.com/release/31177768/）
+  - 「CNET Japan」（https://japan.zdnet.com/release/31177768/）
+- 上位シェア：
+  - 「石英ガラス市場：市場規模・シェアと2034年までの予測」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「石英ガラス市場：規模・シェア・予測 2034」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「石英ガラス市場規模と予測（2021～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：製品別（天然石英、合成石英）、用途別（半導体、光ファイバー、照明、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「QY Research株式会社（東京都中央区）は、「石英ガラス製品―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の最新レポートを発表しました」（https://japan.zdnet.com/release/31177768/）
+  - 「2025年のシェア」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「2031年のシェア」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「2024 年までの上位 3 地域のシェア」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「2031年までに欧州は首位を維持する可能性があるが、中国の8.10％の急騰とインドネシアの新たな生産能力により、シェアが再編される可能性がある」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「溶融石英ガラス市場は依然として適度に集中しており、上位 10 社のサプライヤーが世界収益の推定 60% を占めています」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「高温炉における規模の優位性、半導体およびフォトニクス大手との長期供給契約、および独自の溶解化学により、全体の需要が2031年までに30億米ドルと予測されることに向けて6.49 %の健全なCAGRで拡大する中でも、リーダー企業はシェアを守ることができます」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「上位 5 社の生産者は現在、世界の溶融石英ガラス生産量の 3 分の 2 以上を占めており、現在の取引の波が起こる前の約半分から増加しています」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「2.3.1 タイプ別のグローバル溶融石英ガラス販売市場シェア (2017-2025)」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「2.3.2 タイプ別のグローバル溶融石英ガラス収益および市場シェア (2017-2025)」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「市場の6割以上を占める酸化チタンが自動車や建築物の一時的な需要減少により、単価が低下したことも影響した」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en）
+  - 「2023年9月4日に、YHResearchは「グローバル高級石英ガラスのトップ会社の市場シェアおよびランキング 2023」の調査資料を発表しました」（https://www.atpress.ne.jp/news/7948739）
+- 投資：
+  - 「In May 2025, QSIL SE announced a significant investment in energy-efficient melting technologies to upgrade its production facilities and reduce carbon emissions associated with its manufacturing processes.」（https://www.technavio.com/report/quartz-glass-market-industry-analysis）
+  - 「Fiber optics is anticipated to witness the fastest CAGR of 9.1% over the forecast period, owing to the rising deployment of high-speed communication networks and growing data transmission requirements globally. Increasing investments in」（https://www.grandviewresearch.com/industry-analysis/quartz-glass-market-report）
+  - 「4.3.2. Investment in Supply Chain Resilience」（https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html）
+  - 「4.11. Investment & M&A Landscape」（https://uk.finance.yahoo.com/news/global-high-purity-quartz-market-144800858.html）
+  - 「For example, in October 2024, Hurricane Helene caused severe flooding in Spruce Pine, North Carolina, disrupting operations at mines that supply 70–90% of the world’s ultra-pure quartz used in semiconductors. This raised alarms across the global chip industry, and chipmakers began reassessing sourcing strategies amid supply chain concerns.」（https://straitsresearch.com/report/quartz-glass-market）
+  - 「America’s Chip Resurgence: $828 Billion in Semiconductor Supply Chain Investments」（https://www.semiconductors.org/chip-supply-chain-investments/）
+  - 「The Advanced Manufacturing Investment Credit (Section 48D) and manufacturing grant incentives have sparked substantial investments in the U.S. In fact, companies in the semiconductor ecosystem have announced」（https://www.semiconductors.org/chip-supply-chain-investments/）
+  - 「in private investments—since 2020. These announced projects will」（https://www.semiconductors.org/chip-supply-chain-investments/）
+  - 「“The proposed CHIPS funding would support the expansion and modernization of MACOM’s existing facility which would increase the production of 100mm Gallium Nitride (GaN) and Gallium Arsenide (GaAs) semiconductor fabrication and introduce the production of 150mm GaN.”」（https://www.semiconductors.org/chip-supply-chain-investments/）
+  - 「“This facility packages semiconductor power modules for important defense applications including the F-35, as well as commercial and industrial applications. The proposed funding would be expected to nearly double capacity and modernize key equipment. The project is estimated to create over 55 manufacturing jobs and up to 20 construction jobs.”」（https://www.semiconductors.org/chip-supply-chain-investments/）
+- 検索結果の抜粋：
+  - 「石英ガラス 市場： 市場規模 ・シェアと2034年までの予測 — 石英ガラス 市場： 市場規模 ・シェアと2034年までの予測 The Insight Partners https://www.theinsightpartners.com > quartz-glass-market」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「世界の 石英ガラス 製品 市場 動向、 年平均成長率 6.0%で拡大 ... — 世界の 石英ガラス 製品 市場 動向、 年平均成長率 6.0%で拡大 ... ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31177768/）
+  - 「溶融 石英ガラス 市場規模 、 成長 、予測 2032 - Report Prime — 溶融 石英ガラス 市場規模 、 成長 、予測 2032 - Report Prime Report Prime https://www.reportprime.com > 溶融石英ガラス-r2140」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「石英ガラス市場 ： 市場 規模・シェアと2034年までの 予測 — 石英ガラス市場 ： 市場 規模・シェアと2034年までの 予測 The Insight Partners https://www.theinsightpartners.com > quartz-glass-market」（https://www.theinsightpartners.com/ja/reports/quartz-glass-market）
+  - 「溶融 石英ガラス 市場 規模、成長、 予測 2032 - Report Prime — 溶融 石英ガラス 市場 規模、成長、 予測 2032 - Report Prime Report Prime https://www.reportprime.com > 溶融石英ガラス-r2140」（https://www.reportprime.com/ja/%E6%BA%B6%E8%9E%8D%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9-r2140）
+  - 「石英ガラス 製品 - メーカー・ 企業 9社の業務用製品ランキング — 石英ガラス 製品 - メーカー・ 企業 9社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 石英ガラス製品」（https://mono.ipros.com/cg2/%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9%E8%A3%BD%E5%93%81/）
+  - 「石英ガラス 加工 会社122社 - Metoree — 石英ガラス 加工 会社122社 - Metoree Metoree https://metoree.com > 加工サービス」（https://metoree.com/categories/9029/）
+  - 「半導体用 石英ガラス の世界産業レポート2026：市場シェア — 半導体用 石英ガラス の世界産業レポート2026：市場シェア アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社」（https://www.atpress.ne.jp/news/3030144）
+
+## セラミックマトリックス複合材（CMC）（ceramic matrix composites）
+- 文脈：航空エンジン
+- 市場規模：
+  - 「セラミックマトリックス複合材料（CMC）市場規模・予測レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミックマトリックス複合材料（CMC）市場は、2025年に149.2億米ドルと評価され、2026年には165.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.1%で拡大して、2035年までに394.4億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミック基複合材料（CMC）市場規模：マトリックス種別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「中南米の市場規模は2025年に7億5,000万米ドルとなり、2035年には19.7億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「中東・アフリカの市場規模は2025年に8億9,000万米ドルとなり、2035年には23.7億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミック基複合材料（CMC）市場規模は、2025年に149.2億米ドルと推定され、2026年には165.6億米ドルに達すると見込まれている」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「市場は2035年までに394.4億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）10.1%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本セラミックマトリックス複合材料市場規模レポート 2034」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本のセラミックマトリックス複合材料市場規模は、2025年に」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「USD 532.9 百万」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「USD 1,121.0 百万」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「2025年の市場規模」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+- 成長率：
+  - 「セラミックマトリックス複合材料（CMC）市場は、2025年に149.2億米ドルと評価され、2026年には165.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.1%で拡大して、2035年までに394.4億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「単通路機の生産拡大が2030年まで続けば、エンジン機種ごとのCMC搭載量が需要予測に織り込まれる」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「GE Aerospaceは、2025年のLEAP納入数が過去最高となり、前年比28%増を記録した」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「認証の進展ペースが、2030年までの民間航空におけるエンジン用CMCの採用拡大を左右する」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「C/Cの2025年の売上高は50.7億米ドルで、2026〜2035年の年平均成長率（CAGR）は8.0%と予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「不連続繊維は2025年に25.5億米ドルの売上高を生み出し、2026〜2035年に年平均成長率（CAGR）10.0%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「溶融含浸および反応溶融含浸（MI/RMI）は2025年に34.3億米ドルの売上高を生み出し、2026〜2035年に年平均成長率（CAGR）10.6%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「に達し、2026～2034年の期間で年平均成長率」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「（CAGR）8.61％」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「市場成長率 2026-2034」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています」（https://newscast.jp/news/2571748）
+  - 「セラミックマトリックス複合材料市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/ceramic-matrix-composites-market）
+  - 「世界のセラミックマトリックス複合材料市場規模は、2025年には46億9,000万米ドルと評価され、2026年の52億5,000万米ドルから2034年には129億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです」（https://straitsresearch.com/jp/report/ceramic-matrix-composites-market）
+  - 「市場の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/ceramic-matrix-composites-market）
+- 主要企業：
+  - 「航空宇宙分野を起点に構築された供給能力基盤によって、CMC採用に伴うコストと実行上の負担が軽減されれば、隣接市場への参入も進むだろう」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「民間推進システム、軍用エンジン、極超音速システム、宇宙機器、高性能ブレーキが相まって、プレミアム価格を支え、サプライヤーにとって高い参入障壁を生み出している」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「また、SiC/SiC、C/C、C/SiC、酸化物セラミックス系を網羅するサプライヤー基盤を有し、高付加価値の航空分野と産業分野の両市場に参入できることも、同地域の強みである」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「その他の主要企業には、Rolls-Royce plc、Mitsubishi Chemical Group Corporation、CoorsTek Inc.、Saint-Gobain S.A.、Morgan Advanced Materials plc、GKN Aerospace、DACC Carbonが含まれる」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミックマトリックス複合材料（CMC）市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミック基複合材料（CMC）市場の主要企業には、GE Aerospace、Safran Ceramics、SGL Carbon、Kyocera Corporation、COI Ceramicsなどがある」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「市場構造、主要プレイヤーのポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「また、すべての主要企業の詳細なプロフィールが提供されています」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「ポーターのファイブフォース分析は、利害関係者が新規参入の影響、競合関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「また、本レポートでは、航空宇宙用セラミックマトリックス複合材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の航空宇宙用セラミックマトリックス複合材料市場における各企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/2571748）
+  - 「さらに、競争環境、CR3、CR5、CR10比率（2024-2026年）による市場集中度分析、新製品と潜在的な新規参入者、市場のM&A活動と戦略も詳細に分析されます」（https://newscast.jp/news/2571748）
+  - 「第13章には、GE Aviation、Safran、Rolls-Royce Group、CoorsTek、COI Ceramics、BJS Ceramics GmbH、Composites Horizons、Ultramet、WPX Faser Keramik、Applied Thin Films、Walter E. C. Pritzkow Spezialkeramikといった主要企業に関する個別の詳細な分析が提供されます」（https://newscast.jp/news/2571748）
+- 日本企業：
+  - 「GE Aerospace、Safran Ceramics、SGL Carbon、Kyocera Corporation、COI Ceramics」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本は2025年に7億6,000万米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）9.8%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本はCMCの需要拠点であると同時に、先端材料の供給にも貢献している」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「Kyocera Corporation」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「その他の主要企業には、Rolls-Royce plc、Mitsubishi Chemical Group Corporation、CoorsTek Inc.、Saint-Gobain S.A.、Morgan Advanced Materials plc、GKN Aerospace、DACC Carbonが含まれる」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミック基複合材料（CMC）市場の主要企業には、GE Aerospace、Safran Ceramics、SGL Carbon、Kyocera Corporation、COI Ceramicsなどがある」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本セラミックマトリックス複合材料市場規模レポート 2034」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本のセラミックマトリックス複合材料市場」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本セラミック基複合材料市場レポート複合材料タイプ（炭化ケイ素強化炭化ケイ素（SIC/SIC）、炭素強化炭素（C/C）、酸化物酸化物（Ox/Ox）、その他）、繊維タイプ（短繊維、連続繊維）、繊維材料（アルミナ繊維、耐火セラミック繊維（RCF）、SiC繊維、その他）、用途（航空宇宙・防衛、自動車、エネルギー・電力、電気・電子、その他）、地域別 2026-2034」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本のセラミックマトリックス複合材料市場規模は、2025年に」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本のセラミック基複合材料の市場動向：」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本のセラミック・マトリックス複合材料市場」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「同時に、CMCベースのソリューションの需要急増につながった様々な分野でのエネルギー効率と性能の改善への関心の高まりは、予測期間中、日本のCMC市場を牽引すると予想される」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本のセラミック基複合材料市場のセグメント化：」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本セラミック基複合材料市場レポートカバレッジ：」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+- 上位シェア：
+  - 「セラミック基複合材料（CMC）市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「GE Aerospaceは、2025年に13.5%を超える市場シェアを獲得し、首位に立った」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「SiC/SiCは2025年のセラミックマトリックス複合材料（CMC）市場売上高の27.0%を占め、2035年には36.5%に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「C/SiCは2025年の売上高の19.1%を占め、2035年には74.9億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「酸化物／酸化物系は2025年の売上高の13.0%を占め、2035年には51.7億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「連続繊維は2025年の売上高の46.0%を占め、2035年には182.3億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「織物繊維は2025年の売上高の36.9%を占め、2035年には145.4億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「化学気相浸透（CVI）は2025年の売上高の36.2%を占め、2035年には38.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「ポリマー含浸・熱分解（PIP）は2025年の売上高の14.0%を占め、2035年には57.2億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「積層造形は2026〜2035年に年平均成長率（CAGR）19.0%で成長し、2035年には売上高の8.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「エンジン部品は2025年の売上高の33.0%を占め、2035年には39.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「セラミックマトリックス複合材料（CMC）市場シェア：用途別、2025年」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「ベアリングおよびシールは2025年の売上高の7.0%を占め、2035年までに27.6億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本空気圧道具市場タイプ、用途、エンドユーザー、地域別の規模、シェア、動向および予測2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「日本の携帯用電動工具市場 製品別、用途別、地域別の市場規模、シェア、動向および予測 2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+- 投資：
+  - 「nearly $1 billion investment to expand U.S. manufacturing capacity」（https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market）
+  - 「fiber-reinforced ceramics in shrouds, combustor liners, and exhaust nozzles. These parts weigh roughly one-third as much as metal equivalents and tolerate temperatures around 150–200 °C higher, which cuts the cooling air bled from the compressor. Public funding reinforces the shift: Europe's Clean Aviation Joint Undertaking carries a budget of about €4.1 Billion for ultra-efficient propulsion」（https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045）
+  - 「GE Aerospace (March 2025): Announced nearly USD 1 Billion of U.S. manufacturing investment for 2025, including advanced material capacity that supports CMC output」（https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045）
+  - 「Clean Aviation Joint Undertaking (2024): Awarded additional research funding for ultra-efficient and hydrogen propulsion, extending European CMC development work」（https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045）
+  - 「Latin America generated USD 750 million in 2025 and is projected to reach USD 1.97 billion by 2035. Regional demand is concentrated in aviation maintenance, defense procurement, and aerospace manufacturing. The market is largely supplied through international CMC value chains, with domestic demand dependent on aircraft programs, fleet activity, and industrial investment.」（https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market）
+  - 「held approximately 13.5% of market revenue in 2025. Its competitive position is built on vertical integration across SiC fiber, tape, CMC fabrication, and engine-component production. The company's manufacturing investment is strategically important because it expands the supply base for qualified engine hardware rather than relying solely on third-party capacity」（https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market）
+  - 「GE Aerospace announced a nearly $1 billion U.S. manufacturing investment commitment in March 2025, including more than $100 million to scale advanced-materials activity spanning CMC and additive-manufacturing capacity in Huntsville, Alabama, and Asheville, North Carolina」（https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market）
+  - 「In July 2025, General Atomics Aeronautical Systems announced a strategic investment in Arceon, a Netherlands-based ceramic-composite specialist developing melt-infiltration-processed C/SiC components for aerospace and defense applications」（https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market）
+  - 「Completed the majority of its £55 million investment program focused on advanced semiconductor and high-temperature silicon carbide ceramics.」（https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/）
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/topics/ceramicmatrixcomposites）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/topics/ceramicmatrixcomposites）
+  - 「Following a £1.3 million funding raise in 2025, the U.K. company has opened two additional locations in England and is now expanding into the U.S. to commercialize its material tech.」（https://www.compositesworld.com/topics/ceramicmatrixcomposites）
+- 検索結果の抜粋：
+  - 「セラミック 基 複合材料 （ CMC ） 市場 サイズとシェア 2026-2035 — セラミック 基 複合材料 （ CMC ） 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > ceramic...」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本 セラミックマトリックス複合材料市場規模 レポート 2034 — 日本 セラミックマトリックス複合材料市場規模 レポート 2034 IMARC Group https://www.imarcgroup.com > report > japan-ceramic-ma...」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「セラミックマトリックス複合材市場 は、 年平均成長率 10.84 ... — セラミックマトリックス複合材市場 は、 年平均成長率 10.84 ... アットプレス https://www.atpress.ne.jp > ... > Report Ocean Co. Ltd.」（https://www.atpress.ne.jp/news/3876069）
+  - 「セラミックマトリックス複合材 の日本 市場 （2026年～2034年） — セラミックマトリックス複合材 の日本 市場 （2026年～2034年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/1963687）
+  - 「日本 セラミックマトリックス複合材料市場 規模レポート 2034 — 日本 セラミックマトリックス複合材料市場 規模レポート 2034 IMARC Group https://www.imarcgroup.com > report > japan-ceramic-ma...」（https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market）
+  - 「セラミック 基 複合材料 （ CMC ）市場 サイズとシェア 2026-2035 — セラミック 基 複合材料 （ CMC ）市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > ceramic...」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「Ceramic Matrix Composites Market Size & Share | 2034 — Ceramic Matrix Composites Market Size & Share | 2034 Stratview Research https://www.stratviewresearch.com > ...」（https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market.html）
+  - 「Ceramic Matrix Composites Market Size & Share Report 2035 — Ceramic Matrix Composites Market Size & Share Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045）
+  - 「Ceramic Matrix Composites Market Size , Share, Growth, 2034 — Ceramic Matrix Composites Market Size , Share, Growth, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879）
+  - 「Ceramic Matrix Composites Market Analysis Report 2034 — Ceramic Matrix Composites Market Analysis Report 2034 IMARC Group https://www.imarcgroup.com > ceram...」（https://www.imarcgroup.com/ceramic-matrix-composites-market）
+  - 「Ceramic Matrix Composites Market Size | CAGR of 10.7% — Ceramic Matrix Composites Market Size | CAGR of 10.7% Market.us https://market.us > report > ceramic-...」（https://market.us/report/ceramic-matrix-composites-market/）
+  - 「Firm raises £1.3mln to bring ceramic matrix composites ... - IOM3 — Firm raises £1.3mln to bring ceramic matrix composites ... - IOM3 IOM3 https://www.iom3.org > resource > fir...」（https://www.iom3.org/resource/firm-raises-1-3mln-to-bring-ceramic-matrix-composites-to-mass-market.html）
+  - 「Top 50 Companies in Ceramic Matrix Composites Market — Top 50 Companies in Ceramic Matrix Composites Market Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-50-companies-in-ceramic-matrix-composites-market-key-insights-and-innovations）
+  - 「Ceramic Matrix Composites Market Size, Share, Growth, 2034 — Ceramic Matrix Composites Market Size, Share, Growth, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879）
+
+## 炭素繊維（素材そのもの）（carbon fiber）
+- 文脈：複合材（樹脂と組む前の繊維）
+- 市場規模：
+  - 「世界の炭素繊維強化ポリマー市場規模は、2025年には155億4000万米ドルと評価され、2026年の162億9000万米ドルから2034年には237億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は4.8%となる見込みです」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「炭素繊維強化ポリマー市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.8%で成長すると予測されている」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「炭素繊維市場：市場規模・需要と2034年までの予測」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「炭素繊維市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：原材料別（ポリアクリロニトリル系およびピッチ系）、用途別（複合材料、マイクロ電極、その他）、最終用途産業別（自動車、航空宇宙・防衛、建築・建設、スポーツ用品、風力発電、繊維、海洋、その他）、および地域別」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「炭素繊維市場規模は、2025年の67億米ドルから2034年には164億1000万米ドルに達すると予測されている」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「同市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）10.47%を記録すると見込まれている」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「炭素繊維の世界市場規模は2025年には67億米ドルと評価された」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「年間市場規模は2034年までに164億1000万米ドルに達すると予測されている」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「2026年から2034年までの潜在市場規模（TAM）は、約1,025億2,000万米ドルに達すると予測されています」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「市場は予測期間中に年平均成長率（CAGR）10.47%を記録すると予想されている」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「2025年の市場規模」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「2034年までの市場規模」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+- 成長率：
+  - 「炭素繊維強化ポリマー市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「世界の炭素繊維強化ポリマー市場規模は、2025年には155億4000万米ドルと評価され、2026年の162億9000万米ドルから2034年には237億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は4.8%となる見込みです」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「北米：8.35%の年平均成長率を誇る主要地域」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「北米は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）8.35%で成長すると見込まれています」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「ヨーロッパ：年平均成長率9％で最も成長の速い地域」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「欧州は予測期間中に年平均成長率（CAGR）9%で成長すると予測されています」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「炭素繊維強化ポリマー市場の規模は、2026年には162億9000万米ドルと評価され、2034年までに237億米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.8%です」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「同市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）10.47%を記録すると見込まれている」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「市場は予測期間中に年平均成長率（CAGR）10.47%を記録すると予想されている」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「世界の年間平均成長率（2026年～2034年）」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「世界の軍事用炭素繊維材料市場規模は、2025年の22億6,100万米ドルから2032年には31億7,900万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.1%で成長すると見込まれています」（https://www.atpress.ne.jp/news/8910453）
+  - 「米国における軍用炭素繊維材料市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/8910453）
+  - 「中国における軍用炭素繊維材料市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/8910453）
+  - 「欧州における軍用炭素繊維材料市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/8910453）
+  - 「炭素繊維市場は、2035年ら179億米ドル CAGR約10.9%」（https://www.reportocean.co.jp/industry-reports/carbon-fiber-market）
+- 主要企業：
+  - 「炭素繊維強化ポリマー市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「主要な市場動向、主要企業、規制、および最近の市場動向を網羅した、グローバルおよび地域市場の分析」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「市場集中度、ヒートマップ分析、主要企業、最近の動向などを網羅した業界概況および競争分析」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「また、軍事用炭素繊維材料のポートフォリオと能力、市場参入戦略、市場における地位、地理的な展開に焦点を当て、世界の主要企業の戦略を分析し、加速する世界の軍事用炭素繊維材料市場におけるこれらの企業の独自の地位をより深く理解します」（https://www.atpress.ne.jp/news/8910453）
+  - 「第3章では、企業別の分析として、主要企業の年間売上、売上市場シェア、年間収益、収益市場シェア、販売価格、生産地域分布、提供製品、市場集中度分析、新規参入企業、市場のM&A活動および戦略に関する情報が含まれている」（https://www.atpress.ne.jp/news/8910453）
+  - 「第13章には、主要プレイヤー分析として、Toray、Mitsubishi Chemical、Teijin、Hexcel、Solvayなど16社の企業情報、製品ポートフォリオ、売上、収益、価格、粗利益（2021年から2026年）、主要事業概要、および最新動向が詳細に記載されている」（https://www.atpress.ne.jp/news/8910453）
+  - 「主要企業のリスト：」（https://www.reportocean.co.jp/industry-reports/carbon-fiber-market）
+  - 「この調査では、炭素繊維、中間基材、接着剤などのキーマテリアル/関連部品・装置の市場動向に加えて、用途別市場や主要企業の動向を調査・分析した」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21069&la=en）
+  - 「また、CFRP/CFRTP関連マテリアル、CFRP/CFRTP関連装置市場の主要参入企業を一覧表でまとめている」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21069&la=en）
+  - 「なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「炭素繊維複合材料（CFRP/CFRTP）関連技術・用途市場の展望 2025」をご購入の上、ご覧いただければ幸いです」（https://www.fkg-report.jp/market-trends/2025/2207.html）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、リサイクル炭素繊維世界市場を調査し、参入企業の動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3975?srsltid=AYCX9vJiJtN_wkGBya8iyCbVh7bVTTK6JbZvrCmeveKXISXc7hWzhg9e）
+  - 「さらに、東京都は、炭素繊維複合材料、とりわけ熱硬化性複合材料の製造を担う主要企業や研究機関の本拠地として位置づけられています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「における主要企業は以下の通りです」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+- 日本企業：
+  - 「中国、日本、インド、韓国は主要なプレーヤーです」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「DowAksa Advanced Composites Holdings B.V. (Turkey)」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「Toray Industries Inc.(Japan)」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「Teijin Limited. (Japan)」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「Mitsubishi Rayon Co.Ltd (Japan)」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「東レは、航空宇宙、自動車、産業用途向けの高機能CFRPソリューションの開発を推進することで、炭素繊維複合材料のポートフォリオを拡充した」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「三菱ケミカルグループは、熱硬化性および熱可塑性CFRPソリューションの継続的な開発を通じて、炭素繊維複合材料事業を拡大しました」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「Hexcel Corporation (the U.S.) · Formosa Plastics Corporation (the U.S.) · DowAksa Advanced Composites Holdings B.V. (Turkey) · Cytec Industries Inc. (the U.S.) · Zhongfu Shenying Carbon Fiber Co.Ltd. (China)」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「この市場をリードする企業は、Hexcel Corporation、Formosa Plastics Corporation、DowAksa Advanced Composites Holdings B.V.、Cytec Industries Inc.、Zhongfu Shenying Carbon Fiber Co.Ltd. です」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「本レポートでは、SGL Carbon SE、DowAksa Advanced Composite Material Industries Ltd Co、Formosa Plastics Corp、Hexcel Corp、Hyosung Advanced Materials Corp、Kureha Corp、Mitsubishi Chemical Corp、Solvay SA、Teijin Ltd、Toray Industries Inc、ZOLTEK Corporation、Syensqo、Nippon Graphite Fiber Co., Ltd.、Advanced Composites Inc、Mitsui & Co. Ltdなどの業界参加企業を紹介するとともに、競争戦略とイノベーションの動向を分析しています」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「DowAksa Advanced Composite Material Industries Ltd Co」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「三菱ケミカル株式会社」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「東レ株式会社」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「日本グラファイトファイバー株式会社」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「東レ株式会社は本日、世界最高強度となる1,160キロポンド/平方インチ（Ksi）の炭素繊維「TORAYCA T1200」を開発したと発表しました」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+- 上位シェア：
+  - 「炭素繊維強化ポリマー市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「炭素繊維強化ポリマー市場の規模、シェア、トレンド分析レポート：樹脂別（熱硬化性樹脂、熱可塑性樹脂）、エンドユーザー別（自動車、航空宇宙、スポーツ用品、建築・建設、風力発電産業、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「北米は、2025年に34.6%の市場シェアを占め、炭素繊維強化ポリマー市場を牽引しました」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「北米は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）8.35%で成長すると見込まれています」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「一方、欧州は防衛、航空宇宙、自動車などの分野における影響力の大きさから、CFRP市場で2番目に大きなシェアを占めています」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「2025年の炭素繊維強化ポリマー市場において、最大のシェアを占める地域はどこでしょうか？」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「北米は2025年時点で34.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「複合材電柱市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「炭素繊維市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：原材料別（ポリアクリロニトリル系およびピッチ系）、用途別（複合材料、マイクロ電極、その他）、最終用途産業別（自動車、航空宇宙・防衛、建築・建設、スポーツ用品、風力発電、繊維、海洋、その他）、および地域別」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「2023年には、ポリアクリロニトリル系セグメントがより大きな市場シェアを占めた」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+- 投資：
+  - 「例えば、アメリカン航空は英国の企業であるバーティカル・エアロスペースに2,500万米ドルを出資し、50機の航空機を発注しました」（https://www.reportocean.co.jp/industry-reports/carbon-fiber-market）
+  - 「In March 2025, UFP Industries announced a US$77 million investment in a new Deckorators manufacturing facility in Lackawanna, New York」（https://www.stratviewresearch.com/market-reports/carbon-fiber-market）
+  - 「The UAE held 28.6% of Middle East & Africa market revenue in 2025 and is projected to reach USD 6 million by 2035. Investment in aviation, advanced manufacturing, and composite fabrication supports incremental rCF adoption, particularly in interior and non-critical structural applications.」（https://www.gminsights.com/industry-analysis/recycled-carbon-fiber-market）
+  - 「Saudi Arabia also held 28.6% of Middle East & Africa market revenue in 2025 and is expected to grow at an 11.5% CAGR (2026–2035). Industrial diversification, aerospace and defense investment, and the future development of wind infrastructure provide a basis for demand, although supply-chain maturity will determine the pace of adoption.」（https://www.gminsights.com/industry-analysis/recycled-carbon-fiber-market）
+  - 「Europe region held a substantial share of the Carbon Fiber Market in 2020 owing to the presence of major automobile manufacturers, aerospace and defense companies, and increased investment in wind energy infrastructure development.」（https://www.zionmarketresearch.com/report/carbon-fiber-market）
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/topics/startups-and-investors）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/topics/startups-and-investors）
+  - 「[Funding alert] Carbon-fiber startup Fabheads raises Rs 8 Cr in pre-Series A round led by Inflection Point Ventures」（https://fabheads.com/media）
+  - 「Carbon Mobile has raised $2.0M across 1 funding round.」（https://startupintros.com/orgs/carbon-mobile）
+  - 「1 funding round」（https://startupintros.com/orgs/carbon-mobile）
+  - 「Carbon Mobile has raised $2.0M in total across 1 funding round.」（https://startupintros.com/orgs/carbon-mobile）
+  - 「Carbon Mobile has raised $2.0M across 1 funding round. Most recently, it raised $2.0M Seed in July 2020.」（https://startupintros.com/orgs/carbon-mobile）
+  - 「$2.0M raised」（https://startupintros.com/orgs/carbon-mobile）
+  - 「C2V Year 5 Cohort Member Sora Fuel raised $14.6M in a round co-led by Spero Ventures and Inspired Capital, with support from Engine Ventures and Wireframe Ventures, to scale sustainable aviation fuel (SAF) production from gallons to barrels per day」（https://www.c2vinitiative.com/news）
+  - 「C2V Year 4 Cohort Member RenewCO2 raised a $4M seed round to advance its technology that converts CO₂ into fuels and essential chemicals」（https://www.c2vinitiative.com/news）
+- 検索結果の抜粋：
+  - 「炭素繊維市場規模 ・産業分析レポート2032年 — 炭素繊維市場規模 ・産業分析レポート2032年 Mordor Intelligence https://www.mordorintelligence.com > carbon-fiber-market」（https://www.mordorintelligence.com/ja/industry-reports/carbon-fiber-market）
+  - 「炭素繊維 強化ポリマー 市場 の 規模 、シェア、 成長率 （2034年 ... — 炭素繊維 強化ポリマー 市場 の 規模 、シェア、 成長率 （2034年 ... Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market）
+  - 「炭素繊維市場 ： 規模 ・需要・予測 2034 - The Insight Partners — 炭素繊維市場 ： 規模 ・需要・予測 2034 - The Insight Partners The Insight Partners https://www.theinsightpartners.com > carbon-fiber-market」（https://www.theinsightpartners.com/ja/reports/carbon-fiber-market）
+  - 「軍用 炭素繊維 材料の世界 市場 （2026年～2032年） — 軍用 炭素繊維 材料の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8910453）
+  - 「炭素繊維市場 は、2035年ら179億米ドル CAGR約10.9% — 炭素繊維市場 は、2035年ら179億米ドル CAGR約10.9% Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > carbon-fiber-market」（https://www.reportocean.co.jp/industry-reports/carbon-fiber-market）
+  - 「炭素繊維 複合材料(CFRP/CFRTP)の 市場 を調査。2050年の ... — 炭素繊維 複合材料(CFRP/CFRTP)の 市場 を調査。2050年の ... fkg-report.jp https://www.fkg-report.jp > market-trends」（https://www.fkg-report.jp/market-trends/2025/2207.html）
+  - 「リサイクル 炭素繊維 世界 市場 に関する調査を実施（2025年） — リサイクル 炭素繊維 世界 市場 に関する調査を実施（2025年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3975?srsltid=AYCX9vJiJtN_wkGBya8iyCbVh7bVTTK6JbZvrCmeveKXISXc7hWzhg9e）
+  - 「炭素繊維市場 規模・産業分析レポート2032年 — 炭素繊維市場 規模・産業分析レポート2032年 Mordor Intelligence https://www.mordorintelligence.com > carbon-fiber-market」（https://www.mordorintelligence.com/ja/industry-reports/carbon-fiber-market）
+  - 「自動車でCFRTP普及、 炭素繊維 複合材 市場 は2050年に8.7兆円 ... — 自動車でCFRTP普及、 炭素繊維 複合材 市場 は2050年に8.7兆円 ... 日経クロステック https://xtech.nikkei.com > ニュース」（https://xtech.nikkei.com/atcl/nxt/news/24/02694/）
+  - 「最新鋭旅客機の50％は「 炭素繊維 」です！ - 産総研 — 最新鋭旅客機の50％は「 炭素繊維 」です！ - 産総研 AIST： 産業技術総合研究所 https://www.aist.go.jp > aist_j > magazine」（https://www.aist.go.jp/aist_j/magazine/s0002.html）
+  - 「戦後日本のイノベーション100選 安定成長期 炭素繊維 ・炭素 ... — 戦後日本のイノベーション100選 安定成長期 炭素繊維 ・炭素 ... 公益社団法人発明協会 https://koueki.jiii.or.jp > innovation100 > innovation_detail」（https://koueki.jiii.or.jp/innovation100/innovation_detail.php?eid=00053&age=stable-growth&page=keii）
+  - 「炭素繊維 - メーカー・ 企業 46社の業務用製品ランキング — 炭素繊維 - メーカー・ 企業 46社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 炭素繊維」（https://mono.ipros.com/cg2/%E7%82%AD%E7%B4%A0%E7%B9%8A%E7%B6%AD/）
+  - 「Carbon Fiber Market Size , Share & Trends, Forecast, 2034 — Carbon Fiber Market Size , Share & Trends, Forecast, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/carbon-fiber-market-101719）
+  - 「Carbon Fiber Market to 2035 - Lucintel — Carbon Fiber Market to 2035 - Lucintel Lucintel https://www.lucintel.com > carbon-fib...」（https://www.lucintel.com/carbon-fiber-market.aspx）
+  - 「Carbon Fiber Market Companies, Size & Trends 2026-2035 — Carbon Fiber Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/carbon-fiber-market）
+
+## 炭素/炭素複合材（C/C）（carbon carbon composite）
+- 文脈：ブレーキ・宇宙
+- 市場規模：
+  - 「2025年11月に米国国際貿易局（International Trade Administration）が発表した報告書によると、日本の防衛予算は2023年に6.8兆円に達し、2027年までにはその倍の規模に達すると予測されています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「総務省統計局が2022年に公表したデータによると、日本における2021年の研究開発投資額は19.74兆円でしたが、この額は2023年には22.05兆円、2024年には23兆円へと、さらなる増加が見込まれています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「例えば、東京に本社を置く東レ株式会社は、連結従業員数47,914名、売上高 2,5633億円を計上しており、その事業ポートフォリオにおいて炭素繊維複合材料を中核事業の一つとして据えています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「愛知県の公式産業統計によれば、同県は工場立地数（67カ所）および工場敷地面積（137.7ヘクタール）において国内第2位にランクインし、20.2兆円に上る輸出額を記録しています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「新エネルギー・産業技術総合開発機構（NEDO）によると、「グリーンイノベーション基金」の下で推進されている炭素リサイクルプロジェクト（予算規模1,790.1億円）は、199.4兆円もの経済波及効果を目標として掲げています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「NEDOによる日本の炭素リサイクル研究開発プログラムに関する報告書によれば、2025年度以降、総額138.4億円の予算が、大崎上島（広島県）の拠点におけるCO₂利用システムなど、産業規模での実証施設の構築に充てられることになっています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「世界の C/C コンポジット市場規模、シェア、動向、業界予測 2026 ～ 2034 年」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「市場規模 (2025)」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「USD 30.61 billion」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「USD 68.42 billion」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「今後5年間、C/Cコンポジット市場は技術の進歩と応用範囲の拡大によって持続的な成長を遂げると予想されます」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「North America 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「Europe 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「炭素複合材料市場は、2032年までにCAGR7.38％で403億米ドル規模に拡大すると予測されています」（https://newscast.jp/smart/news/3710720）
+  - 「炭素ー炭素複合材料市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】」（https://www.gii.co.jp/report/ires2083660-carbon-carbon-composites-market-by-type.html）
+- 成長率：
+  - 「2026―2035年の予測期間中は、年平均成長率（CAGR) 7.2%で拡大します」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「これは、航空宇宙産業における需要の拡大に加え、輸出市場が全体の79.8%を占めるに至ったことによるものです」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「また、輸送機械分野で40%のシェアを占めるなど、10の主要産業分野において国内トップの地位を確立しており、自動車および航空宇宙製造のエコシステムにおけるCFRP需要の力強い拡大を支えています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「日本炭素繊維協会のデータによると、国内の炭素繊維需要は、航空宇宙、自動車、および産業用複合材料分野での利用拡大を反映しており、2021年に15.9%、2022年に3.9%の伸びを示した後、2024年には2.7%の回復を見せました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「2024年12月に経済産業省が公表した報告書によると、日本はEV用バッテリーの生産能力を年間45GWh（電気自動車約750,000台分に相当）拡大しました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「CAGR (2026-2034)」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「今後5年間、C/Cコンポジット市場は技術の進歩と応用範囲の拡大によって持続的な成長を遂げると予想されます」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「炭素複合材料市場は、2032年までにCAGR7.38％で403億米ドル規模に拡大すると予測されています」（https://newscast.jp/smart/news/3710720）
+  - 「CAGR（%） 7.38%」（https://newscast.jp/smart/news/3710720）
+  - 「CAGRは7.38%です」（https://newscast.jp/smart/news/3710720）
+  - 「カーボン・カーボン複合材料市場は、2032年までにCAGR8.01％で149億5,000万米ドル規模に拡大すると予測されています」（https://www.gii.co.jp/report/ires2083660-carbon-carbon-composites-market-by-type.html）
+  - 「CAGRは8.01%です」（https://www.gii.co.jp/report/ires2083660-carbon-carbon-composites-market-by-type.html）
+  - 「2024年は、航空機用途の大幅な伸びや、中国を中心としたEVでの採用拡大、また風力発電ブレードの製造増加やスポーツ・レジャー用品向けの伸びなどによってCFRP市場が大幅に拡大した」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25067&la=ja）
+  - 「2024年は一部主要メーカーの生産調整があったものの、新型コロナの流行が落ち着き、人流が増加したことで航空機の需要が回復に向かったため、市場拡大が続いた」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25067&la=ja）
+  - 「2025年の市場も主要メーカーの増産に伴って拡大するとみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25067&la=ja）
+- 主要企業：
+  - 「さらに、東京都は、炭素繊維複合材料、とりわけ熱硬化性複合材料の製造を担う主要企業や研究機関の本拠地として位置づけられています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「における主要企業は以下の通りです」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「これらのハードルは、特に新規参入者や革新的なアプリケーションの市場浸透を遅らせ、プロジェクトのスケジュールとコストを膨張させ、それによって急速な市場の拡大を妨げる可能性があります」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「市場全体は、技術力、品質基準、サプライチェーンの回復力によって差別化が図られ、高い参入障壁と既存のプレーヤー間の激しい競争が混在していることを特徴としています」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「規模と技術の相乗効果を活用しようとする主要企業間の統合により、M&A活動が激化する可能性が高い」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「市場参入戦略」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「欧州でのrCF事業に参入で、グループ全体でのrCF製品の取り扱いと」（https://www.yano.co.jp/market_reports/C67116700?srsltid=AYCX9vJc-RtNSSVFRo2CYmVfINROC-w20KWb0gcstGhbK9y75uKFuzyg）
+  - 「CFRP・CF活用が進む欧州に本格参入」（https://www.yano.co.jp/market_reports/C67116700?srsltid=AYCX9vJc-RtNSSVFRo2CYmVfINROC-w20KWb0gcstGhbK9y75uKFuzyg）
+  - 「世界の炭素-炭素複合材料市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模、主要地域別市場規模、流通チャネル分析などの情報を収録しています」（https://mono.ipros.com/cg2/%E7%82%AD%E7%B4%A0%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99/）
+  - 「主要企業の炭素-炭素複合材料市場シェア、製品・事業概要、販売実績なども掲載しています」（https://mono.ipros.com/cg2/%E7%82%AD%E7%B4%A0%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99/）
+  - 「医療機器・ヘルスケア業界参入で「後戻り」を防ぐ事業化・規制対応戦略《無料セミナー》」（https://engineer-education.com/cc-composite_basic/）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/carbon-composites-market-12322）
+  - 「Major Players」（https://www.marketresearchfuture.com/reports/carbon-composites-market-12322）
+  - 「Key Players and Competitive Insights」（https://www.marketresearchfuture.com/reports/carbon-composites-market-12322）
+  - 「Key Companies in the Carbon Composites Market include」（https://www.marketresearchfuture.com/reports/carbon-composites-market-12322）
+- 日本企業：
+  - 「日本の炭素繊維複合材料市場調査レポート、規模とシェア、予測2035年」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「日本の炭素繊維複合材料市場」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「Japan Carbon Fiber Composite Materials Market (日本の炭素繊維複合材料市場)調査レポート：繊維タイプ別（PAN系、ピッチ系、レーヨン系）; 樹脂タイプ別 ; 製造プロセス別 ;アプリケーション別 — 日本の需要と供給の分析、成長予測、統計レポート 2026ー2035年」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「Japan Carbon Fiber Composite Materials Market (日本の炭素繊維複合材料市場)調査、規模、傾向のハイライト(予測2026ー2035年)」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「Japan Carbon Fiber Composite Materials Market (日本の炭素繊維複合材料市場)規模は、2025年には15億米ドルを超え、2035年末には25億米ドルに達すると推定されています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「2026年には Japan Carbon Fiber Composite Materials Market (日本の炭素繊維複合材料市場)業界規模は16億米ドルに達すると予測されています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「Japan Carbon Fiber Composite Materials Market (日本の炭素繊維複合材料市場)は、予測期間において大幅な成長が見込まれています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「2025年11月に米国国際貿易局（International Trade Administration）が発表した報告書によると、日本の防衛予算は2023年に6.8兆円に達し、2027年までにはその倍の規模に達すると予測されています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「2023年に日本自動車工業会（JAMA）が発表した報告書によれば、2022年における新規乗用車登録台数の約49%を次世代自動車が占めており、これが日本国内における軽量炭素繊維複合材料への需要創出につながりました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「同様に、2024年のJAMA報告書によると、2023年の日本国内における自動車生産台数は8.99百万台に達しました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「Japan Carbon Fiber Composite Materials Market (日本の炭素繊維複合材料市場)は、確立された効率的なサプライチェーンの下で機能しています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「日本石油化学工業協会が提供した報告書によると、2023年におけるエチレンの生産量は推定530万トン、設備稼働率は81%に達しました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「同様に、日本炭素繊維工業会が公表する統計によれば、2024年における日本国内の炭素繊維出荷量は18,742トンに達し、その用途は2.7%の伸びを示しました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「さらに、日本は研究開発（R&D）活動への注力を継続しています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「総務省統計局が2022年に公表したデータによると、日本における2021年の研究開発投資額は19.74兆円でしたが、この額は2023年には22.05兆円、2024年には23兆円へと、さらなる増加が見込まれています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+- 上位シェア：
+  - 「日本の炭素繊維複合材料市場調査レポート、規模とシェア、予測2035年」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「2023年に日本自動車工業会（JAMA）が発表した報告書によれば、2022年における新規乗用車登録台数の約49%を次世代自動車が占めており、これが日本国内における軽量炭素繊維複合材料への需要創出につながりました」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「これは、航空宇宙産業における需要の拡大に加え、輸出市場が全体の79.8%を占めるに至ったことによるものです」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「また、輸送機械分野で40%のシェアを占めるなど、10の主要産業分野において国内トップの地位を確立しており、自動車および航空宇宙製造のエコシステムにおけるCFRP需要の力強い拡大を支えています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「日本貿易振興機構（JETRO）のデータによると、日本の製造業は国内総生産（GDP）の20%を占めており、世界全体で220を超える産業セグメントにおいて、60%以上の市場シェアを確保しています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「PAN系炭素繊維セグメントは、引張強度、軽量性、および大規模な製造能力という理想的な特性の組み合わせにより、2026年から2035年の予測期間において、67.9%という最大の市場シェアを占めつつ成長すると予測されています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「本プロジェクトは、将来の航空機構造部材の需要の70%を占めると見込まれるCFRPを、主要な軽量構造材として位置づけています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「PAN系炭素繊維セグメントは、予測期間において67.9%という首位のシェアを占めると予想されています」（https://www.researchnester.jp/industry-reports/japan-carbon-fiber-composite-materials-market/1036）
+  - 「世界の C/C コンポジット市場規模、シェア、動向、業界予測 2026 ～ 2034 年」（https://www.verifiedmarketreports.com/ja/product/c-c-composite-market-size-and-forecast/）
+  - 「市場シェア分析、2025年」（https://www.gii.co.jp/report/ires2083660-carbon-carbon-composites-market-by-type.html）
+  - 「炭素繊維強化プラスチック（CFRP）：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）」（https://www.gii.co.jp/report/ires2083660-carbon-carbon-composites-market-by-type.html）
+  - 「2025年版 パチンコ関連メーカーの動向とマーケットシェア」（https://www.yano.co.jp/market_reports/C67116700?srsltid=AYCX9vJc-RtNSSVFRo2CYmVfINROC-w20KWb0gcstGhbK9y75uKFuzyg）
+  - 「C67113500 2025年版 パチンコ関連メーカーの動向とマーケットシェア」（https://www.yano.co.jp/market_reports/C67116700?srsltid=AYCX9vJc-RtNSSVFRo2CYmVfINROC-w20KWb0gcstGhbK9y75uKFuzyg）
+  - 「By raw material: PAN-based carbon fiber segment held the largest market share of 84.6% in 2025.」（https://www.grandviewresearch.com/industry-analysis/carbon-fiber-composites-market-report）
+  - 「By application: Aerospace & defense segment held the largest market share of 26.4% in 2025.」（https://www.grandviewresearch.com/industry-analysis/carbon-fiber-composites-market-report）
+- 投資：
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/news/ata-2025-global-carbon-fiber-composites-market-report-documents-record-demand）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/news/ata-2025-global-carbon-fiber-composites-market-report-documents-record-demand）
+  - 「The Middle East and Africa region is gradually emerging in the carbon-carbon composite market, holding about 5% of the global share. The growth is driven by increasing investments in aerospace and defense sectors, particularly in countries like the UAE and South Africa. Government initiatives aimed at diversifying economies are also contributing to the demand for advanced materials.」（https://www.marketresearchfuture.com/reports/carbon-carbon-composite-material-market-26054）
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/topics/startups-and-investors）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/topics/startups-and-investors）
+  - 「Carbon Mobile has raised $2.0M across 1 funding round.」（https://startupintros.com/orgs/carbon-mobile）
+  - 「1 funding round」（https://startupintros.com/orgs/carbon-mobile）
+  - 「Carbon Mobile has raised $2.0M in total across 1 funding round.」（https://startupintros.com/orgs/carbon-mobile）
+  - 「Carbon Mobile has raised $2.0M across 1 funding round. Most recently, it raised $2.0M Seed in July 2020.」（https://startupintros.com/orgs/carbon-mobile）
+  - 「$2.0M raised」（https://startupintros.com/orgs/carbon-mobile）
+  - 「Carbon has raised funding over 9 rounds, with the latest being a Venture - Series Unknown round involving 6 investors, including Sequoia Capital as a lead investor. The company is backed by a total of 30 investors, with Madrone Capital and Baillie Gifford being among the most recent.」（https://www.clay.com/dossier/carbon-funding）
+- 検索結果の抜粋：
+  - 「炭素複合材料市場規模 ・シェア展望（2031年まで） — 炭素複合材料市場規模 ・シェア展望（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/carbon-composites-market）
+  - 「C / C コンポジット 市場 の探求：2026年から2033年 ... - Pando — C / C コンポジット 市場 の探求：2026年から2033年 ... - Pando pando.life https://pando.life > 記事」（https://pando.life/article/4761693）
+  - 「炭素複合材料市場 ―2026年～2032年の世界 市場 予測 — 炭素複合材料市場 ―2026年～2032年の世界 市場 予測 Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/3710720）
+  - 「炭素 ー 炭素複合材料市場 | 市場 規模 分析 予測 2026-2032年 ... — 炭素 ー 炭素複合材料市場 | 市場 規模 分析 予測 2026-2032年 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > プラスチック」（https://www.gii.co.jp/report/ires2083660-carbon-carbon-composites-market-by-type.html）
+  - 「炭素複合材料市場 規模・シェア展望（2031年まで） — 炭素複合材料市場 規模・シェア展望（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/carbon-composites-market）
+  - 「2025年版 リサイクル 炭素 繊維 市場 の展望と戦略 — 2025年版 リサイクル 炭素 繊維 市場 の展望と戦略 yano.co.jp https://www.yano.co.jp > market_reports」（https://www.yano.co.jp/market_reports/C67116700?srsltid=AYCX9vJc-RtNSSVFRo2CYmVfINROC-w20KWb0gcstGhbK9y75uKFuzyg）
+  - 「炭素複合材料 - メーカー・ 企業 5社の業務用製品ランキング — 炭素複合材料 - メーカー・ 企業 5社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 炭素複合材料」（https://mono.ipros.com/cg2/%E7%82%AD%E7%B4%A0%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99/）
+  - 「9. C / C コンポジット( 炭素 繊維強化 炭素複合材料 )の特徴 | — 9. C / C コンポジット( 炭素 繊維強化 炭素複合材料 )の特徴 | 株式会社レイホー製作所 https://www.0ho.co.jp > material」（https://www.0ho.co.jp/material/p9/）
+  - 「3分でわかる C / C コンポジットの基礎知識(特徴・製造方法 ... — 3分でわかる C / C コンポジットの基礎知識(特徴・製造方法 ... アイアール技術者教育研究所 https://engineer-education.com > cc-composite_basic」（https://engineer-education.com/cc-composite_basic/）
+  - 「タイ会社紹介（107)： 炭素複合材料 （ C / C コンポジット）を ... — タイ会社紹介（107)： 炭素複合材料 （ C / C コンポジット）を ... RYOKO TRADING https://www.ryokotrading.co.th > ...」（https://www.ryokotrading.co.th/2025-06-23%2010:19:20-NTc5）
+
+## グラフェン（graphene）
+- 文脈：ナノ炭素
+- 市場規模：
+  - 「日本のグラフェン市場規模・シェア分析、成長およびメーカー動向 2035」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場調査レポート ― 最近の動向、成長機会、市場規模およびシェアの予測分析 ― 2025～2035年」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「調査レポートによると、日本のグラフェン市場は2025～2035年の期間中に年平均成長率（CAGR）38.6％で成長し、2035年末までに5億4,040万米ドルの市場規模に達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「2025年の市場規模は1,830万米ドルの収益と評価されました」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「2035年の日本のグラフェン市場規模はどのくらいになりますか？」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場は2035年末までに5億4,040万米ドルの収益に達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場は2025年に1,830万米ドルの収益を記録しました」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「グラフェン市場：市場規模・シェアと2034年までの予測」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場規模」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「グラフェン市場は2025年に23億5000万米ドルと評価され、2034年には163億1000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）は24.02%となる見込みです」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2034年までの市場規模」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「この地域市場は、2026年から2034年にかけて年平均成長率（CAGR）21～23%で拡大すると予測されています」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025 Market Size」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「USD 2.20 Billion」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「2035 Market Size」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+- 成長率：
+  - 「調査レポートによると、日本のグラフェン市場は2025～2035年の期間中に年平均成長率（CAGR）38.6％で成長し、2035年末までに5億4,040万米ドルの市場規模に達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「2026年～2034年の年平均成長率（CAGR）」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「グラフェン市場は2025年に23億5000万米ドルと評価され、2034年には163億1000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）は24.02%となる見込みです」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「地域的な拡大は、2026年から2034年にかけて年平均成長率（CAGR）21～23%で進むと予想されており、生産能力、研究活動、製品の商業化の大部分は米国が占める見込みです」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2026～2034年の年平均成長率：21～23%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2026～2034年の年平均成長率（CAGR）は22～24%です」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2026～2034年の年平均成長率：26～28%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2026～2034年の年平均成長率（CAGR）：23～25%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェアは18～21%、2026～2034年の年平均成長率（CAGR）は28～30%と予測されています」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「世界の年間平均成長率（2026年～2034年）」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「CAGR (2026-2035)」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「グラフェン産業は2025年に3.019億米ドルから2035年には30億米ドルに成長する見込みで、2025年から2035年の予測期間中に年平均成長率（CAGR）は25.81％となります」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「グラフェンベースの生物医学的応用の市場は、今後数年間で30％以上の年平均成長率を示すと予測されており、急成長が期待されています」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「2024年第3四半期：グラフェネアがグラフェン生産拡大のために1,500万ユーロのシリーズC資金調達を実施」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+- 主要企業：
+  - 「日本のグラフェン市場の主要企業」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「三菱ケミカル、東レ、住友化学などの主要企業は、ナノ材料のエネルギー貯蔵能力および効率を高めるために革新的技術の統合に多額の投資を行っています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場の主要企業はどこですか？」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場の主な企業には、OCSiAl、グラフェンプラットフォーム株式会社、大阪ガス、AirMembrane Corporation、Tracxn、NanoGraf Corporation、ADEKAなどが含まれます」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「詳細に分析された主要企業：XG Sciences, Inc.、The Sixth Element (Changzhou) Materials Technology Co., Ltd.、Global Graphene Group, Inc.、NanoXplore Inc.、Graphenea SA、Directa Plus SpA、Avanzare Innovación Tecnológica, SL、Thomas Swan & Co. Ltd.、Morsh Technology Co., Ltd.、Perpetuus Advanced Materials PLC、Haydale Graphene Industries plc」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「企業はこの業界に参入する前に、どのような要素を評価すべきでしょうか？」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「米国が市場をリードしており、XG SciencesやNanoXploreなどの主要企業がイノベーションと生産を推進しています」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「主要企業や研究機関の存在により、北米はグラフェン市場のリーダーとしての地位を確立しています」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「グラフェン市場市場の主要企業には以下が含まれます」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「主要企業のプロファイル」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「競争環境については、市場構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限などの包括的な分析が提供されており、主要な全企業の詳細なプロファイルも含まれています」（https://www.atpress.ne.jp/news/1977357）
+  - 「第9章には関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国といった各地域ごとの概要、過去および現在の市場トレンド、種類別、用途別、最終用途産業別の市場内訳、主要プレイヤー、市場予測を含む市場の地域別内訳が記載されている」（https://www.atpress.ne.jp/news/1977357）
+- 日本企業：
+  - 「日本のグラフェン市場規模・シェア分析、成長およびメーカー動向 2035」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場調査レポート ― 最近の動向、成長機会、市場規模およびシェアの予測分析 ― 2025～2035年」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「KDMIアナリストの成長分析によると、日本のグラフェン市場収益は2035年までに5億4,040万米ドルに達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「japan-graphene-market」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「東レ株式会社、三菱ケミカルグループ株式会社、昭和電工株式会社、帝人株式会社、Graphenea S.A.、Haydale Graphene Industries plc」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場規模レポート ― 概要」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「調査レポートによると、日本のグラフェン市場は2025～2035年の期間中に年平均成長率（CAGR）38.6％で成長し、2035年末までに5億4,040万米ドルの市場規模に達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場の成長は、電子産業におけるグラフェン利用の増加によって促進されています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「KDMIアナリストの成長分析によると、標準化と品質管理の欠如が日本のグラフェン市場の制約要因になると見込まれています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場分析」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「京都大学のレポートによると、日本政府は脱炭素社会の実現に強い意欲を持っており、その目標の一環として、市場における高度技術インフラを促進するために200億米ドル規模のグリーンイノベーション基金を設立しています」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「OCSiAl、大阪ガス、ADEKA、IBMラボなどが、日本のグラフェン市場における主要な参画企業として挙げられます」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場：レポート範囲」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場の主要動向／成長要因」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場のセグメンテーション」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+- 上位シェア：
+  - 「日本のグラフェン市場規模・シェア分析、成長およびメーカー動向 2035」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「日本のグラフェン市場調査レポート ― 最近の動向、成長機会、市場規模およびシェアの予測分析 ― 2025～2035年」（https://www.kdmarketinsights.jp/report-analysis/japan-graphene-market/746）
+  - 「グラフェン市場：市場規模・シェアと2034年までの予測」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「グラフェン市場：規模・シェア・予測 2034」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「グラフェン市場の規模と予測（2021-2031年）、世界および地域のシェア、トレンド、成長機会分析レポートの対象範囲：タイプ（単層および二重層、グラフェンナノプレートレット、酸化グラフェンなど）、用途（複合材料、機能性インク、塗料およびコーティング、エネルギー貯蔵、電子機器、ポリマー添加剤、RFIDなど）、および地理」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「地域的な拡大は、2026年から2034年にかけて年平均成長率（CAGR）21～23%で進むと予想されており、生産能力、研究活動、製品の商業化の大部分は米国が占める見込みです」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェア：33～36%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェア：北米の82～85%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェアは25～28%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェア：34～37%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェア：30～34%」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「2025年の市場シェアは18～21%、2026～2034年の年平均成長率（CAGR）は28～30%と予測されています」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「北米は2025年には推定33～36%のシェアを占め、先進材料を支える確立されたイノベーションエコシステムの恩恵を受け続けています」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「米国は2025年には北米市場の約82～85%を占め、2026～2034年には年平均成長率（CAGR）21～23%を記録すると予測されている」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「欧州は2025年には世界市場の約25～28%を占め、2034年まで年平均成長率（CAGR）22～24%で拡大すると予測されている」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+- 投資：
+  - 「2024年第3四半期：グラフェネアがグラフェン生産拡大のために1,500万ユーロのシリーズC資金調達を実施」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「スペインのグラフェン製造業者グラフェネアが、欧州の産業投資家によるリードで1,500万ユーロのシリーズC資金調達を完了し、生産施設の拡大と研究開発の加速を図ります」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「Materials Industry Sees $216 Billion in Strategic Investments as AI Infrastructure Drives Next-Generation Material Innovation」（https://www.bccresearch.com/pressroom/avm/graphene-market-to-grow-at-275-cagr?srsltid=AYCX9vLzTXSmyb6EsJ_o1dbDWhhxQeEvvUY6moYbxHX__cDyiLUpUoYg）
+  - 「, The Italian startup BeDimensional has secured USD 22.2 million from the European Investment Bank to expand its graphene production capabilities. The funding will aid in the establishment of a new facility in Genoa, with the goal of increasing annual output from over 3 tonnes to more than 30 tonnes by 2028, in line with the EU's plan to decrease dependence on critical material imports.」（https://www.precedenceresearch.com/graphene-market）
+  - 「As production technologies mature and commercial use cases expand, the global graphene market is expected to benefit from sustained investment across advanced electronics, energy storage, transportation, infrastructure and healthcare. Continued collaboration among material suppliers, manufacturers, research institutions and governments will remain critical to accelerating adoption through 2033.」（https://finance.yahoo.com/technology/articles/graphene-market-insights-competitive-landscape-084000501.html）
+  - 「The Graphene Investment Opportunity Report 2025」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「The Quantum Investment Report & Company Directory 2026: Global funding, government initiatives and the company landscape」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「the-graphene-investment-opportunity-report-2025」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「Unlimited access for your whole organization (IP Access). 8 issues of Graphene Magazine delivered by email and downloadable online. Access to exclusive content and ALL back issues plus a copy of the Graphene Investment Opportunity Report 2025 and copy of TechVision 70 (Published April 2026).」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「Full library access (IP access) 8 issues of Graphene Magazine delivered by email and downloadable online. Access to exclusive content and ALL back issues plus a copy of the Graphene Investment Opportunity Report 2025 and a copy of TechVision 70 (published April 2026).」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「2 GRAPHENE FUNDING AND INVESTMENT 45」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「2.1 Government Funding 45」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「2.2 VC and Company Investment 46」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「Table 6. Government graphene funding. 45」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+  - 「Table 7. Graphene VC and company funding and Investments 2020-2025. 46」（https://www.nanotechmag.com/the-graphene-investment-opportunity-report-2025/）
+- 検索結果の抜粋：
+  - 「グラフェン市場規模 、シェア、 成長 |分析レポート[2034] — グラフェン市場規模 、シェア、 成長 |分析レポート[2034] Fortune Business Insights https://www.fortunebusinessinsights.com > グラフェン市場...」（https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A7%E3%83%B3%E5%B8%82%E5%A0%B4-102930）
+  - 「グローバル グラフェン市場規模 ・産業レポート2031 — グローバル グラフェン市場規模 ・産業レポート2031 Mordor Intelligence https://www.mordorintelligence.com > graphene-market」（https://www.mordorintelligence.com/ja/industry-reports/graphene-market）
+  - 「グラフェン 市場： 市場規模 ・シェアと2034年までの予測 — グラフェン 市場： 市場規模 ・シェアと2034年までの予測 The Insight Partners https://www.theinsightpartners.com > graphene-market」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「グラフェン市場 (2026 - 2035) - Market Research Future — グラフェン市場 (2026 - 2035) - Market Research Future Market Research Future https://www.marketresearchfuture.com > ... > Materials」（https://www.marketresearchfuture.com/ja/reports/graphene-market-2987）
+  - 「グラフェン市場 規模、シェア、成長 |分析レポート[2034] — グラフェン市場 規模、シェア、成長 |分析レポート[2034] Fortune Business Insights https://www.fortunebusinessinsights.com > グラフェン市場...」（https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A7%E3%83%B3%E5%B8%82%E5%A0%B4-102930）
+  - 「グラフェン市場 ： 市場 規模・シェアと2034年までの 予測 — グラフェン市場 ： 市場 規模・シェアと2034年までの 予測 The Insight Partners https://www.theinsightpartners.com > graphene-market」（https://www.theinsightpartners.com/ja/reports/graphene-market）
+  - 「グラフェン の日本 市場 （2026年～2034年） - アットプレス — グラフェン の日本 市場 （2026年～2034年） - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/1977357）
+  - 「グローバル グラフェン市場 規模・産業レポート2031 — グローバル グラフェン市場 規模・産業レポート2031 Mordor Intelligence https://www.mordorintelligence.com > graphene-market」（https://www.mordorintelligence.com/ja/industry-reports/graphene-market）
+  - 「グラフェン ナノコンポジット 市場 ―2026年～2032年の世界 ... — グラフェン ナノコンポジット 市場 ―2026年～2032年の世界 ... Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/9547002）
+  - 「グラフェン ＆2D材料 2026-2036年：技術、 市場 、有力企業 — グラフェン ＆2D材料 2026-2036年：技術、 市場 、有力企業 IDTechEx https://www.idtechex.com > research-report」（https://www.idtechex.com/ja/research-report/graphene-and-2d-materials/1121）
+  - 「グローバル グラフェン 市場規模・産業レポート2031 — グローバル グラフェン 市場規模・産業レポート2031 Mordor Intelligence https://www.mordorintelligence.com > graphene-market」（https://www.mordorintelligence.com/ja/industry-reports/graphene-market）
+  - 「グラフェン 市場：今後10年の展望 | IDTechEx Research Article — グラフェン 市場：今後10年の展望 | IDTechEx Research Article IDTechEx https://www.idtechex.com > research-article > graphene-m...」（https://www.idtechex.com/ja/research-article/graphene-market-an-outlook-for-the-coming-decade/33763）
+  - 「米国の グラフェン 市場規模、シェア |傾向分析 [2030] — 米国の グラフェン 市場規模、シェア |傾向分析 [2030] Fortune Business Insights https://www.fortunebusinessinsights.com > 米国のグラフェ...」（https://www.fortunebusinessinsights.com/jp/%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A7%E3%83%B3%E5%B8%82%E5%A0%B4-108296）
+  - 「グラフェン - メーカー・ 企業 7社の業務用製品ランキング — グラフェン - メーカー・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > グラフェン」（https://mono.ipros.com/cg1/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A7%E3%83%B3/）
+  - 「Graphene Market Size , Share, Growth | Analysis Report [2034] — Graphene Market Size , Share, Growth | Analysis Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/graphene-market-102930）
+
+## カーボンナノチューブ（carbon nanotubes）
+- 文脈：ナノ炭素
+- 市場規模：
+  - 「カーボンナノチューブ市場規模・予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場は、2025年に28億6,000万米ドルと評価され、2026年には34億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）14%で拡大し、2035年には109億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「Cabot Corporation. "Cabot Corporation Selected for Award Negotiation for $50 Million from the U.S. Department of Energy to Support Domestic Battery Supply Chain." investor.cabot-corp.com」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「多層カーボンナノチューブの2025年の市場規模は24億5,000万米ドルで、2035年も市場収益の76.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「Carbon Nanotube Market Size, by Type, 2025 & 2035 (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「単層カーボンナノチューブの市場規模は、2026〜2035年に年平均成長率（CAGR）21.5%で拡大し、2035年には19億6,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「DWCNTや官能基化グレードを含むその他のCNTは、2025年に市場収益の4.5%を占め、2035年には6億5,400万米ドルの市場規模に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「エネルギー貯蔵分野の2025年の市場規模は11億4,000万米ドルで、2035年には市場収益の47.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「導電性ポリマー複合材料は、2025年に市場収益の20.0%を占め、2035年には17億4,000万米ドルの市場規模に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「電子機器・半導体用途の市場規模は2025年に2億8,600万米ドルとなり、2026〜2035年に年平均成長率（CAGR）16.5%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場規模、シェア、トレンド分析レポート：タイプ別（多層カーボンナノチューブ、単層カーボンナノチューブ）、方法別（化学気相成長法、触媒化学気相成長法、高圧一酸化炭素反応法、その他）、用途別（電子機器・半導体、先端材料、化学薬品・ポリマー、電池・コンデンサ、航空宇宙・防衛、エネルギー、医療、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+- 成長率：
+  - 「カーボンナノチューブ市場は、2025年に28億6,000万米ドルと評価され、2026年には34億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）14%で拡大し、2035年には109億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「予測では、電気自動車の普及拡大が続き、自動車用および系統用蓄電池用途のCNT需要が年率2桁で成長すると想定しています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「単層カーボンナノチューブの市場規模は、2026〜2035年に年平均成長率（CAGR）21.5%で拡大し、2035年には19億6,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「電子機器・半導体用途の市場規模は2025年に2億8,600万米ドルとなり、2026〜2035年に年平均成長率（CAGR）16.5%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「世界のカーボンナノチューブ市場規模は、2025年には59億6000万米ドルと評価され、2026年の71億8000万米ドルから2034年には320億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は20.55%となる見込みです」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「北米の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「単層カーボンナノチューブ（SWCNT）分野は、年平均成長率（CAGR）17.1%で最も速い成長を遂げると予測されている」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「触媒化学気相成長法（CVD）分野は、年平均成長率（CAGR）16.1%で最も速い成長を遂げると予測されている」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「2033年、2026年から13.4%の化合物年間成長率(CAGR)を展示」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+  - 「2024年から18%を超えるCAGRで成長するCNTベースの生物医学センサー」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+  - 「予測期間 2026〜2033 CAGR:」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+  - 「カーボンナノチューブ市場規模はUSD 4.7に達すると予測されます 2026年から2033年までの13.4%のCAGRで成長する2033年まで、 複数の業界における採用の増加」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+- 主要企業：
+  - 「商業的に採算の取れる国内CNT生産には多額の参入費用がかかるため、有力な新規参入生産者の数が限られ、供給が既存の世界的企業に集中している」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「その結果、規制対応力を備えた大規模サプライヤーが優位になり、新規参入が鈍化する可能性がある」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「製造プロセスのノウハウ、顧客認定、純度管理、分散技術、地域内の生産体制へのアクセスが、参入障壁となっています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「差別化されたSWCNT製品を強みとし、少量添加でも性能が商業上重要となる高付加価値の電池、複合材料、特殊用途市場に参入しています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「Zeon Corporationは、ZEONANO製品群を通じて高付加価値のSWCNT分野に参入しています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「確立された販売網との関係と特殊化学品分野での位置付けを生かし、欧州の航空宇宙市場および産業用複合材料市場に参入している」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場の主要企業には、LG Chem、OCSiAl、Jiangsu Cnano Technology、JEIO Co. Ltd.、Cabot Corporationが含まれます」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「主要企業には、OCSiAl、Canatu、Zeon Corporation、Arkema、LG Chem、Cabot Corporation、Resonac Holdings Corporation、Jiangsu Cnano Technology、Himadri Speciality Chemicalなどが挙げられる」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、カーボンナノチューブの世界市場を調査し、製品セグメント別の動向、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/4121?srsltid=AYCX9vLx46SKYk2FUVJLUGJW9Dqv-2OORR3e9g-DwL35gpaLBqcQRJwQ）
+  - 「中国ではスタートアップの新規参入もあり、日本の単層CNTメーカーも事業の軸足をLiB向けに移す傾向にある」（https://www.yano.co.jp/press-release/show/press_id/4121?srsltid=AYCX9vLx46SKYk2FUVJLUGJW9Dqv-2OORR3e9g-DwL35gpaLBqcQRJwQ）
+  - 「III.主要参入プレイヤーの動向編」（https://www.fuji-keizai.co.jp/report/detail.html?code=112604931&la=ja）
+  - 「III.主要参入プレイヤーの動向編 23」（https://www.fuji-keizai.co.jp/report/detail.html?code=112604931&la=ja）
+- 日本企業：
+  - 「日本は2025年にアジア太平洋地域の需要の15.0%を占め、2035年には市場規模が9億6,500万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「日本のサプライヤーは、プロセスの精度と顧客認定が重要な差別化要因となる高付加価値SWCNTや特殊グレードの開発において、とりわけ重要な役割を担っています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「中国、日本、その他のアジア諸国も、半導体、エネルギー貯蔵、自動車部品、産業用途向けの先端材料に多額の投資を行っています」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「日本のカーボンナノチューブ市場に関する洞察」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「日本の市場規模は2025年には4億7000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「日本の先進的なエレクトロニクス、自動車、電池、材料産業は、高性能カーボンナノチューブに対する安定した需要を生み出している」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「主要企業には、OCSiAl、Canatu、Zeon Corporation、Arkema、LG Chem、Cabot Corporation、Resonac Holdings Corporation、Jiangsu Cnano Technology、Himadri Speciality Chemicalなどが挙げられる」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「Resonac Holdings Corporation」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「Resonac Holdings Corporation · Hanwha Solutions Chemical Division Corporation · Arry International Group Limited · Carbon Solutions, Inc. · Jiangsu Cnano Technology Co., Ltd」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「この市場をリードする企業は、Resonac Holdings Corporation、Hanwha Solutions Chemical Division Corporation、Arry International Group Limited、Carbon Solutions, Inc.などである」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「これはオリジナルレポートの日本語翻訳ページです」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+  - 「日本、韓国 大規模な生産から得られる地域」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+  - 「: 中国、台湾、インド、日本、南」（https://www.coherentmarketinsights.com/ja/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4）
+  - 「中国ではスタートアップの新規参入もあり、日本の単層CNTメーカーも事業の軸足をLiB向けに移す傾向にある」（https://www.yano.co.jp/press-release/show/press_id/4121?srsltid=AYCX9vLx46SKYk2FUVJLUGJW9Dqv-2OORR3e9g-DwL35gpaLBqcQRJwQ）
+  - 「本調査では、単層CNTと多層CNTに加え、類似の構造体で直径100nm超となる株式会社レゾナックの「VGCF®」を含めた広義のCNTを対象として、メーカー出荷量ベースで市場規模を算出した」（https://www.yano.co.jp/press-release/show/press_id/4121?srsltid=AYCX9vLx46SKYk2FUVJLUGJW9Dqv-2OORR3e9g-DwL35gpaLBqcQRJwQ）
+- 上位シェア：
+  - 「カーボンナノチューブ市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「LG Chemは2025年に20%超の市場シェアを獲得し、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「多層カーボンナノチューブの2025年の市場規模は24億5,000万米ドルで、2035年も市場収益の76.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「DWCNTや官能基化グレードを含むその他のCNTは、2025年に市場収益の4.5%を占め、2035年には6億5,400万米ドルの市場規模に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「エネルギー貯蔵分野の2025年の市場規模は11億4,000万米ドルで、2035年には市場収益の47.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「導電性ポリマー複合材料は、2025年に市場収益の20.0%を占め、2035年には17億4,000万米ドルの市場規模に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「構造用ポリマー複合材料は、2025年に市場シェアの18.0%を占め、2035年には15億3,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「金属基複合材料は2025年に市場シェアの5.0%を占め、2035年には市場規模が5億4,500万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「医療・バイオ医療用途は2025年に市場シェアの3.0%を占め、2035年には市場規模が3億2,700万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「自動車・電気自動車は2025年に市場収益の42.0%を占め、2035年には市場規模が48億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「最終用途産業別カーボンナノチューブ市場シェア（2025年）」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「電子機器・半導体用途の市場規模は2025年に4億2,900万米ドルとなり、2035年には市場シェアの17.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「カーボンナノチューブ市場規模、シェア、トレンド分析レポート：タイプ別（多層カーボンナノチューブ、単層カーボンナノチューブ）、方法別（化学気相成長法、触媒化学気相成長法、高圧一酸化炭素反応法、その他）、用途別（電子機器・半導体、先端材料、化学薬品・ポリマー、電池・コンデンサ、航空宇宙・防衛、エネルギー、医療、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+  - 「アジア太平洋地域は、2025年に42.6%の市場シェアを占め、カーボンナノチューブ市場を牽引しました」（https://straitsresearch.com/jp/report/carbon-nanotubes-market）
+- 投資：
+  - 「累計で1,650万ドル（≒18億円）調達しており、直近の資金調達ラウンドは2020年11月のシリーズAラウンドです」（https://www.idaten.vc/post/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%A8%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97）
+  - 「A total projected investment of USD 181 million is required for Cabot Corporation's planned first U.S. battery-grade CNT and conductive additive manufacturing facility」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「Canada accounted for 12.1% of North American demand in 2025 and is projected to generate USD 274 million by 2035. EV-component manufacturing, industrial composites, and clean-energy investment support demand growth. Its market development is closely linked to the broader North American battery corridor and to access to qualified specialty-material supply.」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「France generated USD 60 million in 2025 and is projected to grow at a 13.5% CAGR (2026-2035). Aerospace composites, specialty chemicals, and battery-material localization support demand. Its position can strengthen as European battery and advanced-materials projects move from announced investment toward operational procurement.」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「India is projected to account for 9.0% of Asia Pacific demand in 2035 and grow at a 15.0% CAGR (2026-2035). EV two-wheeler and three-wheeler production, battery manufacturing programs, and infrastructure investment provide a broadening demand base. Domestic SWCNT development may create additional strategic relevance as the country seeks greater advanced-materials self-sufficiency.」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「Latin America generated USD 57 million in 2025 and is projected to grow at a 14.4% CAGR (2026-2035). The Carbon Nanotube Market is centered on industrial composites, specialty polymers, construction materials, and developing EV demand. Market expansion will depend on distributor coverage, access to qualified grades, and the pace of local automotive and infrastructure investment.」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「Middle East & Africa is projected to generate USD 545 million by 2035 and grow at a 16.4% CAGR (2026-2035). The Carbon Nanotube Market is supported by GCC industrial diversification programs, specialty chemicals, infrastructure investment, and selective EV and advanced-manufacturing activity. Growth is meaningful but remains concentrated in a limited set of national industrial programs.」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「The UAE held a 20.2% share of Middle East & Africa demand in 2025 and is projected to generate USD 109 million by 2035. Its role as a technology, distribution, and aerospace-services hub supports demand for specialty composites and conductive materials. Continued cleantech and advanced-manufacturing investment could deepen regional CNT adoption.」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「, and every new gigawatt-hour of cell capacity needs conductive additives in its cathodes and anodes. Public funding adds a second catalyst: the US CHIPS and Science Act committed USD 52.7 billion to domestic semiconductor manufacturing and research, which supports work on nanotube-based interconnects and transistors」（https://www.marketresearchfuture.com/reports/carbon-nanotube-market-4397）
+  - 「Public research budgets continue to back early-stage nanotube work. The US National Nanotechnology Initiative has received more than USD 40 billion in cumulative federal investment since 2001, with annual requests above USD 2 billion」（https://www.marketresearchfuture.com/reports/carbon-nanotube-market-4397）
+  - 「and is expected to maintain the fastest growth trajectory through 2033. Strong investments in battery manufacturing, electronics production, semiconductor fabrication, and government-supported nanotechnology programs in China, Japan, South Korea, and India are accelerating CNT adoption across multiple industries.」（https://www.datamintelligence.com/research-report/carbon-nanotubes-market）
+  - 「Himadri Speciality Chemicals announced an investment of approximately ₹240 crore to expand its advanced materials portfolio, including a planned 200-ton-per-year carbon nanotube manufacturing facility targeted for commissioning in Q4 FY27.」（https://www.datamintelligence.com/research-report/carbon-nanotubes-market）
+  - 「In Germany, the main suppliers of carbon nanotubes in large quantities are Bayer Material Science and Future Carbon GmbH. Only recently Bayer Material Science(BMS), one of the world's largest polymer companies, invested $25.03 million into the newly opened pilot facility for the manufacture of CNTs at Chempark Leverkusen.」（https://www.datamintelligence.com/research-report/carbon-nanotubes-market）
+  - 「Initiative (2023), including the promotion of carbon nanotube usage, the cumulative funding has reached more than USD42 billion by 2023 from the year of execution, 2000.」（https://www.marknteladvisors.com/research-library/global-carbon-nanotubes-market.html）
+  - 「The budget for 2025 contained plans for a high investment through the US government, which accounted for more than USD 2 billion. Such a high amount of governmental support has provided ample opportunities to enhance the research work in the field of nanoscience, including the expansion of carbon nanotube applications.」（https://www.marknteladvisors.com/research-library/global-carbon-nanotubes-market.html）
+- 検索結果の抜粋：
+  - 「カーボンナノチューブ市場規模 ・予測レポート、2026〜2035年 — カーボンナノチューブ市場規模 ・予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > carbon-nanotubes-market」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「カーボンナノチューブ ( CNT ) 市場 の 成長 予測：2026年から ... — カーボンナノチューブ ( CNT ) 市場 の 成長 予測：2026年から ... LinkedIn https://jp.linkedin.com > pulse > カーボンナノチューブ-cnt...」（https://jp.linkedin.com/pulse/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96-cnt-%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr118%E3%81%A8%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%88%86%E6%9E%90-ctmse）
+  - 「カーボンナノチューブ 世界 市場 に関する調査を実施（2026年） — カーボンナノチューブ 世界 市場 に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4121?srsltid=AYCX9vLx46SKYk2FUVJLUGJW9Dqv-2OORR3e9g-DwL35gpaLBqcQRJwQ）
+  - 「電池向け カーボンナノチューブ ( CNT )の 市場 を調査。2040年の ... — 電池向け カーボンナノチューブ ( CNT )の 市場 を調査。2040年の ... fkg-report.jp https://www.fkg-report.jp > market-trends」（https://www.fkg-report.jp/market-trends/2026/3382.html）
+  - 「カーボンナノチューブ - メーカー・ 企業 17社の業務用製品 ... — カーボンナノチューブ - メーカー・ 企業 17社の業務用製品 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > チューブ > ナノチューブ」（https://mono.ipros.com/cg3/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8A%E3%83%8E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96/）
+  - 「カーボンナノチューブ 市場規模・予測レポート、2026〜2035年 — カーボンナノチューブ 市場規模・予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > carbon-nanotubes-market」（https://www.gminsights.com/ja/industry-analysis/carbon-nanotubes-market）
+  - 「Carbon Nanotubes Market Size , Forecasts Report 2026-2035 — Carbon Nanotubes Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > carbon...」（https://www.gminsights.com/industry-analysis/carbon-nanotubes-market）
+  - 「Carbon Nanotubes Market Size , Share & Global Report [2034] — Carbon Nanotubes Market Size , Share & Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/carbon-nanotubes-cnt-market-102700）
+  - 「Carbon Nanotubes Market Size , Share | Industry Report 2030 — Carbon Nanotubes Market Size , Share | Industry Report 2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/carbon-nanotubes-cnt-market）
+  - 「Carbon Nanotubes Market Size , Share & Forecast | Report 2035 — Carbon Nanotubes Market Size , Share & Forecast | Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/carbon-nanotube-market-4397）
+  - 「Carbon Nanotubes Market Companies, Size & Trends 2025 ... — Carbon Nanotubes Market Companies, Size & Trends 2025 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/carbon-nanotubes-market）
+  - 「Carbon Nanotubes Market Size, Share & Global Report [2034] — Carbon Nanotubes Market Size, Share & Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/carbon-nanotubes-cnt-market-102700）
+  - 「Carbon Nanotubes Market Size, Share | CAGR of 15.2% — Carbon Nanotubes Market Size, Share | CAGR of 15.2% Market.us https://market.us > report > carbon-na...」（https://market.us/report/carbon-nanotubes-market/）
+  - 「Carbon Nanotubes Market Size, Share | Industry Report 2030 — Carbon Nanotubes Market Size, Share | Industry Report 2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/carbon-nanotubes-cnt-market）
+  - 「Top Companies in Carbon Nanotubes (Oct, 2026) - Tracxn — Top Companies in Carbon Nanotubes (Oct, 2026) - Tracxn Tracxn https://tracxn.com > companies」（https://tracxn.com/d/trending-business-models/startups-in-carbon-nanotubes/__YrN05anFl2-S2btfFXhPTrPmgvHdjUNuw_81FTCzWng/companies）
+
+## エアロゲル（aerogel）
+- 文脈：断熱
+- 市場規模：
+  - 「エアロゲル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲル市場規模、シェア、トレンド分析レポート：タイプ別（シリカ、カーボン、ポリマー、その他）、フォーム別（ブランケット、粒子、パネル、モノリス）、用途別（石油・ガス、建設、輸送、高性能コーティング、採光・低電圧ヒートシンク、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2025年～2033年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「世界のエアロゲル市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億8000万米ドルから2034年には83億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%となる見込みです」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.45%で成長すると予測されている」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲル市場は今後10年でどう進化するか | IDTechEx Research Article」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「エアロゲル市場は今後10年でどう進化する」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「エアロゲル市場は今後10年でどう進化するか」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「では、EV断熱層の採用が後押しとなり、エアロゲル市場は2025年には10億ドルを超える規模になると予測しています」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「エアロゲル断熱材市場規模・予測レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「エアロゲル断熱材市場は2025年に11.0億米ドルと評価され、2026年には11.5億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+- 成長率：
+  - 「エアロゲル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「世界のエアロゲル市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億8000万米ドルから2034年には83億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%となる見込みです」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲル市場の規模は、2026年には24億8000万米ドルと評価され、2034年までに83億9000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%です」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.45%で成長すると予測されている」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「複合材電柱市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲルは、電気自動車（EV）用途において前年比で大幅な成長を遂げており、市場シェアは2021年から2024年にかけて約20倍に拡大しています」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「例えば、エアロゲル市場の大手企業であるアスペン・エアロジェルズの最近の発表では、2024年度は前年比90%の増収を達成し、EV断熱層部門については2023年から2.8倍に成長しているとのことです」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「IDTechExは2015年以降、全世界・地域別のエアロゲル生産能力の拡大に注目してきました」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「IDTechExは、エアロゲル市場が2025年から2035年にかけて年平均成長率12.2%で3.2倍の規模に成長すると予測しています」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「2026〜2035年の年平均成長率（CAGR）は14.0%と見込まれ、2035年には40.7億米ドルに達する予測である」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+- 主要企業：
+  - 「開発の多くは初期段階にあり、この分野への参入企業のうち製造規模拡大に向けた取り組みを進めているのは、ブルーシフト、エアロゲル・テクノロジーズなど、ほんの一握りに過ぎません」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「認証制度の分断は、新規参入企業と国境を越えて事業を拡大する既存メーカーの双方にとって、別の障壁となる」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「Armacellは、産業プロセスや商業建築向けの特殊な断熱ソリューションを通じて市場に参入している」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「コスト最適化、持続可能な原料、特殊な繊維・建築用途に注力する新興サプライヤーの参入により、従来、高価格帯のエアロゲル製品が十分に供給されていなかったセグメントで競争が激化する可能性がある」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「エアロゲル断熱材市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「エアロゲル断熱材市場の主要企業には、Aspen Aerogels、Cabot Corporation、Saint-Gobain、Armacell、Alkegenなどが含まれる」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「エアロゲル市場の主要企業は次のとおりです」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「規制対象となる建設プロジェクトにおいて、技術性能と実際の施工要件を両立できるサプライヤーにとって、市場の参入機会は大きい」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+  - 「参入障壁が高い背景には、ゾルゲル化学、プロセス設備、OEMおよび産業分野での認定要件、商業規模で安定して製造する必要性がある」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+  - 「同社はArmaGel製品群を通じて、確立された断熱材の販売網と用途に関する知見が重要となる産業、HVAC、船舶、地域の建設分野に参入している」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+  - 「エアロゲル市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+  - 「エアロゲル市場の主要企業には、Aspen Aerogels、Guangdong Alison Hi-Tech、Armacell International S.A.、JIOS Aerogel、Nano Tech Co. Ltd.などがある」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+- 日本企業：
+  - 「・アイディーテックエックス株式会社 (IDTechEx日本法人) が販売しています」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「IDTechEx Japan」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「IDTechExの調査およびコンサルティングの詳細については、IDTechExの日本法人、アイディーテックエックス株式会社まで、お問い合わせください」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「2025年には、日本のエアロゲルの業界規模は116億米ドルに達すると見込まれます」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「日本のエアロゲル市場は、製造、医薬品、建設・建築、自動車などの分野でエアロゲルの採用が増えているため拡大しています」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「日本のエアロゲルは、軍用防護服、宇宙船、航空機断熱材によく使用されています」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「世界のエアロゲル市場：日本の展望」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「日本のエアロゲル市場は、航空宇宙、自動車、建設など、さまざまな業界で環境の持続可能性とエネルギー効率を重視しているため、2037年まで安定した成長を記録すると予想されています」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「により、エアロゲルは建物のエネルギー効率を改善し、二酸化炭素排出量を削減するのに最適であり、日本の厳格な省エネ法に準拠しています」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「これも日本の市場成長を促進すると予想されています」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「アジア太平洋地域は、中国、日本、インドでのインフラ開発の増加、二酸化炭素排出量を削減する最先端の材料の必要性、持続可能性への高い関心により、予測期間中に安定したCAGRを経験すると予想されています」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「日本のエアロゲル市場：成長要因と課題」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「Sumitomo Riki Co., Ltd.」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「日本のメチルシリケート市場」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+- 上位シェア：
+  - 「エアロゲル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲル市場規模、シェア、トレンド分析レポート：タイプ別（シリカ、カーボン、ポリマー、その他）、フォーム別（ブランケット、粒子、パネル、モノリス）、用途別（石油・ガス、建設、輸送、高性能コーティング、採光・低電圧ヒートシンク、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2025年～2033年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「北米は2025年に市場シェア39.5%を占め、エアロゲル市場を牽引しました」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「2025年のエアロゲル市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「北米は2025年に39.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「複合材電柱市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/aerogel-market）
+  - 「エアロゲルは、電気自動車（EV）用途において前年比で大幅な成長を遂げており、市場シェアは2021年から2024年にかけて約20倍に拡大しています」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「IDTechExの推定では、現在の世界の生産能力のうち約97%を中国が占めており、大規模な拡張計画も複数あります」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「エアロゲル断熱材市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「石油・ガスは売上高への絶対的な寄与を維持する一方、2035年までにシェアを譲る」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+- 投資：
+  - 「一方、許認可の遅れ、資金調達条件の変化、または商品価格の変動により、プロジェクトの発注時期が12〜24か月ずれる可能性がある」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「Keey Aerogelは2025年1月、建設廃棄物を原料とする欧州での生産開発を支援するため、シリーズAの資金調達ラウンドを発表した」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「Rest of Europe is projected to hold an 8.4% share in 2035 and grow at a 17.6% CAGR (2026–2035). Demand across this grouping is supported by industrial insulation, growing EV investment, and renovation programs. Market development will vary considerably by national construction practices, climate conditions, and the maturity of local advanced-materials distribution.」（https://www.gminsights.com/industry-analysis/aerogels-market）
+  - 「India is projected to generate USD 198 million in revenue in 2035 and grow at a 22.1% CAGR (2026–2035). Industrial expansion, vehicle-manufacturing investment, and construction activity underpin the opportunity. Local production capability and a growing need for efficient thermal-management solutions could make the market increasingly important to suppliers seeking regional scale.」（https://www.gminsights.com/industry-analysis/aerogels-market）
+  - 「Rest of Asia Pacific is projected to hold a 5.4% share in 2035 and grow at a 27.6% CAGR (2026–2035). Emerging EV assembly, LNG investment, and industrial-processing projects support a high-growth opportunity from a comparatively smaller starting base. Supplier success will depend on local technical support and the ability to adapt product formats to varied project and installation conditions.」（https://www.gminsights.com/industry-analysis/aerogels-market）
+  - 「Latin America is projected to hold a 4.5% share in 2035 and grow at a 16.7% CAGR (2026–2035). The Latin America aerogels market remains centered on oil and gas insulation, but automotive investment and construction demand are broadening its addressable base. Infrastructure cycles and local project financing will strongly influence the timing of demand.」（https://www.gminsights.com/industry-analysis/aerogels-market）
+  - 「South Africa is projected to hold a 0.5% share in 2035 and grow at an 18.7% CAGR (2026–2035). Mining, chemical processing, and emerging building-efficiency requirements support the opportunity. Market development will depend on project investment and broader adoption of energy-performance standards.」（https://www.gminsights.com/industry-analysis/aerogels-market）
+  - 「Rest of Middle East & Africa is projected to hold a 1.0% share in 2035 and grow at a 21.4% CAGR (2026–2035). Pipeline, processing, and LNG-related investments are creating opportunities across a varied collection of markets. Suppliers will need to manage long project cycles, procurement complexity, and differing technical standards across countries.」（https://www.gminsights.com/industry-analysis/aerogels-market）
+  - 「North America leads with a 44.2% revenue share in 2025, backed by its oil and gas sector, LNG terminal expansion, building retrofit programs, and federal energy efficiency investment incentives.」（https://www.imarcgroup.com/aerogel-market）
+  - 「Asia Pacific is the fastest-growing region at approximately 10.25% CAGR through 2030, driven by China's LNG investment, EV production expansion, and India's growing industrial insulation demand.」（https://www.imarcgroup.com/aerogel-market）
+  - 「Keey Aerogel has raised $19.0M across 1 funding round.」（https://startupintros.com/orgs/keey-aerogel）
+  - 「1 funding round」（https://startupintros.com/orgs/keey-aerogel）
+  - 「Keey Aerogel has raised $19.0M in total across 1 funding round.」（https://startupintros.com/orgs/keey-aerogel）
+  - 「Keey Aerogel has raised $19.0M across 1 funding round. Most recently, it raised $19.0M Series A in January 2025.」（https://startupintros.com/orgs/keey-aerogel）
+  - 「$19.0M raised」（https://startupintros.com/orgs/keey-aerogel）
+- 検索結果の抜粋：
+  - 「エアロゲル市場 は今後10年でどう進化するか - IDTechEx — エアロゲル市場 は今後10年でどう進化するか - IDTechEx IDTechEx https://www.idtechex.com > research-article > how-the-aer...」（https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792）
+  - 「エアロゲル 断熱材 市場規模 ・予測レポート 2026〜2035年 — エアロゲル 断熱材 市場規模 ・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > aerogel-insulation-market」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「エアロゲル市場規模 、シェア、業界 成長 レポート、2034 年 — エアロゲル市場規模 、シェア、業界 成長 レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4-113278）
+  - 「ポリマー エアロゲル市場 の未来：2026年から2033年までの ... — ポリマー エアロゲル市場 の未来：2026年から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > ポリマーエアロゲル市場...」（https://jp.linkedin.com/pulse/%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8cagr%E4%BA%88%E6%B8%AC-quantcore-intelligence-htawe）
+  - 「世界の エアロゲル市場 調査、 規模 、シェア、傾向、予測2037年 — 世界の エアロゲル市場 調査、 規模 、シェア、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界レポート」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「エアロゲル市場 規模・ 予測 レポート 2026～2035年 — エアロゲル市場 規模・ 予測 レポート 2026～2035年 Global Market Insights Inc. https://www.gminsights.com > aerogels-market」（https://www.gminsights.com/ja/industry-analysis/aerogels-market）
+  - 「エアロゲル市場 ―2026年～2032年の世界 市場予測 — エアロゲル市場 ―2026年～2032年の世界 市場予測 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/2162346）
+  - 「世界の エアロゲル市場 調査、規模、シェア、傾向、 予測 2037年 — 世界の エアロゲル市場 調査、規模、シェア、傾向、 予測 2037年 Research Nester Japan https://www.researchnester.jp > 業界レポート」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「2034年までの エアロゲル および超軽量断熱材 市場 の 予測 — 2034年までの エアロゲル および超軽量断熱材 市場 の 予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品」（https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html）
+  - 「エアロゲル 断熱スラリーの世界 市場 （2026年～2032年） — エアロゲル 断熱スラリーの世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/1974711）
+  - 「エアロゲル 断熱材市場規模・予測レポート 2026〜2035年 — エアロゲル 断熱材市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > aerogel-insulation-market」（https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market）
+  - 「エアロゲル メーカー上位 企業 2026 | 記事 - inkrichブログ — エアロゲル メーカー上位 企業 2026 | 記事 - inkrichブログ inkrich https://margarine95.inkrich.com > posts」（https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l）
+  - 「世界の エアロゲル 市場調査、規模、シェア、傾向、予測2037年 — 世界の エアロゲル 市場調査、規模、シェア、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界レポート」（https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22）
+  - 「Aerogel Market Report 2026-2031 [298 Pages & 140 Tables] — Aerogel Market Report 2026-2031 [298 Pages & 140 Tables] MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/aerogel-market-714.html）
+  - 「Aerogels Market Size , Forecasts Report 2026-2035 — Aerogels Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > aeroge...」（https://www.gminsights.com/industry-analysis/aerogels-market）
+
+## セルロースナノファイバー（cellulose nanofiber）
+- 文脈：天然素材
+- 市場規模：
+  - 「ナノファイバー市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「ナノファイバー市場規模、シェア、トレンド分析レポート：製品タイプ別（カーボンナノファイバー、セラミックナノファイバー、複合ナノファイバー、ポリマーナノファイバー、炭水化物ベースナノファイバー、金属および金属酸化物ナノファイバー）、用途別（水・空気ろ過、自動車・輸送、繊維、医療、電子機器、エネルギー貯蔵、その他）、カテゴリー別（カーボン、セラミック、複合、ガラス、ポリマー、その他）、技術別（マグネトスピニング、フォーススピニング、ロータリージェットスピニング、その他）、エンドユーザー別（機械、化学・環境、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026～2034年」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「世界のナノファイバー市場規模は、2025年には28億8000万米ドルと評価され、2026年の31億2000万米ドルから2034年には59億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.4%となる見込みです」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「カーボンナノファイバー分野は、世界のナノファイバー市場において28.6%のシェアを占め、市場規模は約8億2,000万米ドルに達し、圧倒的なシェアを誇っています」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「水・空気ろ過セグメントは、世界のナノファイバー市場を29.4%のシェアで支配し、その市場規模は約8億5000万米ドルに達した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「カーボンナノファイバーは、世界のナノファイバー市場において30.1%のシェアを占め、市場規模は約8億7000万米ドルに達し、圧倒的な存在感を示した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「その他の技術分野は、ナノファイバー市場において30.0%のシェアを占め、約8億6,000万米ドルの市場規模を誇りました」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「化学・環境分野は、世界のナノファイバー市場において27.9%のシェアを占め、約8億米ドルの市場規模を記録し、市場を牽引しました」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「北米のナノファイバー市場は世界市場の36.2%を占め、2025年には10億4,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は22.85%と見込まれています」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「米国市場は2025年には約8億8000万米ドル規模となり、北米最大の市場となる見込みです」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「カナダの市場規模は2025年には約1億6000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「セルロースナノ結晶・ナノファイバー市場規模とシェア、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+- 成長率：
+  - 「ナノファイバー市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「世界のナノファイバー市場規模は、2025年には28億8000万米ドルと評価され、2026年の31億2000万米ドルから2034年には59億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.4%となる見込みです」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「アジア太平洋地域の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「複合ナノファイバー分野は、年平均成長率（CAGR）25.41%で最も速い成長を遂げると予測されています」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「エネルギー貯蔵分野は、年平均成長率（CAGR）26.42%で最も速い成長を遂げると予測されている」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「市場シェア18.9%を占める医療分野は、年平均成長率（CAGR）25.73%で成長すると予測されている」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「2026〜2035年の年平均成長率（CAGR）18.1%で拡大し、2035年には9,150万米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「業界リーダーからの情報に基づくと、セルロースナノクリスタル・ナノファイバー市場の売上高は2022〜2025年に年平均成長率（CAGR）20.1%で拡大した」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「この基準年以前の期間における成長率は、研究開発から市場投入への移行が集中した時期に、第1世代の商業生産施設が急速に成熟したことを反映している」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「バクテリアナノセルロースは、年率約23%で成長し、2035年には1,300万米ドル、14.2%のシェアに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「コーティング・フィルムは2025年に310万米ドルを生み出し、年率約18%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「本調査会社は、2034年までに同市場が1億5,030万米ドルに達し、2026年から2034年にかけて16.85%の年平均成長率（CAGR）を示すと予測しています」（https://newscast.jp/news/7441725）
+  - 「ナノセルロースマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）15.2%の高成長 | LP Information Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000361789）
+- 主要企業：
+  - 「この業界の主要企業には、Applied Sciences Inc.、Argonide Corporation、中津パルプ・製紙株式会社、Donaldson Company Inc.、DuPont、Hollingsworth & Vose Company、IREMA-Filter GmbH、ジャパン・バイリーン株式会社、Merck KGaA、NanoLayr Limited、日本製紙株式会社、サッピ株式会社、帝人株式会社、東レ株式会社などが挙げられます」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「自動車サプライチェーンへの参入が実証されることで、需要は研究室規模の研究開発向け調達から年間数メートルトン規模へと移行し、CNCおよびCNFの対象複合材料市場が大幅に拡大する」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「これにより、燃料電池および電気化学デバイス用途への参入を後押しする」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「セルロースナノ結晶およびナノファイバー市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「セルロースナノクリスタルおよびナノファイバー市場の主要企業には、Borregaard ASA、CelluForce Inc.、Daio Paper Corporation、Nippon Paper Industries、Anomera Inc.が含まれる」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「本市場調査レポートは、競合環境の包括的な分析も提供しており、市場構造、主要企業のポジショニング、トップの勝利戦略、競合ダッシュボード、企業評価象限などが含まれています」（https://newscast.jp/news/7441725）
+  - 「第8章には地域別の日本ナノセルロース市場の内訳が記載されており、関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国の各地域について、概要、過去および現在の市場トレンド、製品タイプ別内訳、用途別内訳、主要プレイヤー、ならびに市場予測が含まれます」（https://newscast.jp/news/7441725）
+  - 「第10章には主要プレイヤーのプロフィールが記載されており、各企業についてビジネス概要、製品ポートフォリオ、ビジネス戦略、SWOT分析、および主要なニュースとイベントが含まれます」（https://newscast.jp/news/7441725）
+  - 「第3章では、ナノセルロースの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000361789）
+  - 「株式会社矢野経済研究所（代表取締役：水越孝）は2024年のセルロースナノファイバー（CNF）世界市場を調査し、市場動向、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3540?srsltid=AYCX9vJ7JhQCMoiaSLzQ5-5FzpJcqxR2rOuvbjjvFToC1lqfMUIMQvum）
+  - 「日本製紙や大王製紙など日系製紙メーカーが多く参入している」（https://www.fuji-keizai.co.jp/press/detail.html?cid=24021&la=ja）
+  - 「いずれにおいても、参入メーカーでは開発段階から実用化段階へとフェーズを移し、今後の用途開発・市場開発の動向が注目されます」（https://www.ydb.jp/market_reports/C65128200）
+  - 「E2E自動運転「業界地図」、AIモデルなど注目4分野を総覧 テスラ猛追へ参入増」（https://xtech.nikkei.com/atcl/nxt/news/18/10364/）
+- 日本企業：
+  - 「日本のナノファイバー市場に関する洞察」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「日本の市場規模は2025年に約1億5000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「この業界の主要企業には、Applied Sciences Inc.、Argonide Corporation、中津パルプ・製紙株式会社、Donaldson Company Inc.、DuPont、Hollingsworth & Vose Company、IREMA-Filter GmbH、ジャパン・バイリーン株式会社、Merck KGaA、NanoLayr Limited、日本製紙株式会社、サッピ株式会社、帝人株式会社、東レ株式会社などが挙げられます」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「日本製紙工業：市場における有力企業」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「日本製紙は、従来の紙製品にとどまらず、セルロースナノファイバー技術をはじめとする先進的なバイオベース素材へと事業を拡大している」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「日本製紙株式会社は、先進的なCNF材料の開発の一環として、2026年4月にカルボキシメチル化セルロースナノファイバー技術「cellenpia」を発表しました」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「Japan Vilene Company Ltd.」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「TORAY INDUSTRIES INC」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「東レは、ろ過、電子機器、医療用途向けの高度なポリマー加工技術への投資を通じて、ナノファイバーの研究開発および生産能力を拡大した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「日本の大手製紙メーカーでCNF複合樹脂の商業規模での生産が始まり、政府による技術開発への継続的な資金支援を受けている」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「同地域の勢いは、日本のアプリケーション開発、中国の複合材料製造の規模、そしてエレクトロニクス、車両部品、持続可能な包装材からの需要拡大が相まって生じている」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「サプライヤーとの連携が長期にわたる認定サイクルを通じて継続される日本のOEMおよび先端材料のエコシステムに近いことが、同社の地位を強化している」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「ナノセルロースの日本市場（2026年～2034年）、市場規模（ナノフィブリル化セルロース（NFC）、ナノ結晶セルロース（NCC）、バクテリアセルロース、マイクロフィブリル化セルロース（MFC））・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/7441725）
+  - 「ナノセルロースの日本市場（2026年～2034年）、市場規模（ナノフィブリル化セルロース（NFC）、ナノ結晶セルロース（NCC）、バクテリアセルロース、マイクロフィブリル化セルロース（MFC））・分析レポートを発表」（https://newscast.jp/news/7441725）
+  - 「株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「ナノセルロースの日本市場（2026年～2034年）、英文タイトル：Japan Nanocellulose Market 2026-2034」調査資料を発表しました」（https://newscast.jp/news/7441725）
+- 上位シェア：
+  - 「ナノファイバー市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「ナノファイバー市場規模、シェア、トレンド分析レポート：製品タイプ別（カーボンナノファイバー、セラミックナノファイバー、複合ナノファイバー、ポリマーナノファイバー、炭水化物ベースナノファイバー、金属および金属酸化物ナノファイバー）、用途別（水・空気ろ過、自動車・輸送、繊維、医療、電子機器、エネルギー貯蔵、その他）、カテゴリー別（カーボン、セラミック、複合、ガラス、ポリマー、その他）、技術別（マグネトスピニング、フォーススピニング、ロータリージェットスピニング、その他）、エンドユーザー別（機械、化学・環境、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026～2034年」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「北米は2025年に36.2%の市場シェアを占め、ナノファイバー市場を牽引しました」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「北米市場シェア（2025年）」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「カーボンナノファイバー分野が市場を席巻し、28.6%のシェアを占めた」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「カーボンナノファイバー分野は、世界のナノファイバー市場において28.6%のシェアを占め、市場規模は約8億2,000万米ドルに達し、圧倒的なシェアを誇っています」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「ポリマーナノファイバー分野は、市場シェアの25.7%という大きな割合を占めています」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「水・空気ろ過セグメントが市場を席巻し、29.4%のシェアを占めた」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「水・空気ろ過セグメントは、世界のナノファイバー市場を29.4%のシェアで支配し、その市場規模は約8億5000万米ドルに達した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「市場シェア18.9%を占める医療分野は、年平均成長率（CAGR）25.73%で成長すると予測されている」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「炭素セグメントが市場を席巻し、30.1%のシェアを獲得した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「カーボンナノファイバーは、世界のナノファイバー市場において30.1%のシェアを占め、市場規模は約8億7000万米ドルに達し、圧倒的な存在感を示した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「ポリマー分野は24.6%という大きなシェアを占めており、年平均成長率（CAGR）23.69%で拡大すると予測されている」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「その他のセグメントが市場シェア30.0%を占め、市場を席巻した」（https://straitsresearch.com/jp/report/nanofibers-market）
+  - 「セルロースナノ結晶・ナノファイバー市場規模とシェア、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+- 投資：
+  - 「Sparxellは2026年2月、セルロースナノクリスタルを基盤とする植物由来フォトニック顔料プラットフォームの規模拡大に向け、500万米ドルのプレシリーズA資金調達ラウンドを完了した」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「Packaging Scotland. "Sparxell in $5M Funding Boost to Scale Plant-Based Colour Technology." packagingscotland.com」（https://www.gminsights.com/ja/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「MFC-C revenue share is forecast to decline through 2035 as higher-value grades attract incremental investment and demand mix shifts structurally toward specialty and functionalized forms」（https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「Cellfion secured EUR 6.9 million in funding and established a nanocellulose-based membrane production facility in Norrköping, Sweden, in the second half of 2026, supporting its entry into fuel-cell and electrochemical-device applications. The development broadens the market's addressable application base beyond structural reinforcement and formulation additives toward energy-system components.」（https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「Sparxell completed a USD 5 million Pre-Series A funding round in February 2026 to scale its plant-based photonic pigment platform based on cellulose nanocrystals. The development highlights commercial interest in optical applications that can capture substantially higher value than conventional bulk-material uses.」（https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「Packaging Scotland. "Sparxell in $5M Funding Boost to Scale Plant-Based Colour Technology." packagingscotland.com」（https://www.gminsights.com/industry-analysis/cellulose-nanocrystals-and-nanofibers-market）
+  - 「7 Regional Initiatives And Government Funding」（https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html）
+  - 「5 Investment and Expansion Opportunities」（https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/）
+  - 「5.3 Investment Trends in the Cellulose Nanocrystals Market」（https://www.maximizemarketresearch.com/market-report/cellulose-nanocrystals-market/186957/）
+  - 「Copper Market Report 2026: 6.5% CAGR & Global Supply Investment Trends」（https://www.startus-insights.com/innovators-guide/cellulosic-materials/）
+  - 「The global copper market is entering a capital-intensive expansion cycle driven by electrification, grid demand, and resource security. With production surpassing 26.71 Mt refined output and multi-billion-dollar investments underway, 2026 marks a strategic inflection point for miners, investors, and technology innovators alike.」（https://www.startus-insights.com/innovators-guide/cellulosic-materials/）
+  - 「Startup Funding: Q2 2025」（https://semiengineering.com/startup-funding-q2-2025/）
+  - 「Investors were drawn to a wide range of innovative approaches in Q2 2025, backing startups developing superconducting logic, chips for an emerging number format, big data processors, and novel power semi architectures. At the same time, photonics continues to draw investment dollars due to its ability to move data faster and with less energy at both the chip-to-chip and data center levels.」（https://semiengineering.com/startup-funding-q2-2025/）
+  - 「Other highlights include physics-informed AI for chip design, secure silicon, and a massive round for neutral-atom quantum systems. Semiconductor Engineering tracked 75 startups in Q2 that collectively raised $1.9 billion.」（https://semiengineering.com/startup-funding-q2-2025/）
+  - 「$50.0M in Series B funding」（https://semiengineering.com/startup-funding-q2-2025/）
+- 検索結果の抜粋：
+  - 「世界の セルロースナノファイバー市場 の 成長 と2034年の展望 — 世界の セルロースナノファイバー市場 の 成長 と2034年の展望 Data Insights Reports https://www.datainsightsreports.com > Home > 先端材料」（https://www.datainsightsreports.com/ja/reports/noserursunanofaib-26022）
+  - 「セルロースナノファイバー 、2025年に75億円規模へ — セルロースナノファイバー 、2025年に75億円規模へ EE Times Japan https://eetimes.itmedia.co.jp > articles > news049」（https://eetimes.itmedia.co.jp/ee/articles/2304/07/news049.html）
+  - 「2024年版 セルロースナノファイバー市場 の展望と戦略 — 2024年版 セルロースナノファイバー市場 の展望と戦略 ヤノデータバンク https://www.ydb.jp > market_reports」（https://www.ydb.jp/market_reports/C65128200）
+  - 「セルロースナノファイバー 関連サンプル提供 企業 一覧 — セルロースナノファイバー 関連サンプル提供 企業 一覧 京都市産業技術研究所 PDF https://tc-kyoto.or.jp > app > uploads > 2023/09」（https://tc-kyoto.or.jp/app/uploads/2023/09/CNF_Sample_16th.pdf）
+  - 「Nanocellulose Market Size , Share | CAGR of 20.6% — Nanocellulose Market Size , Share | CAGR of 20.6% Market.us https://market.us > report > global-na...」（https://market.us/report/global-nanocellulose-market/）
+  - 「Cellulose Nanofibers Market Size to Reach US$ 5.44 Billion — Cellulose Nanofibers Market Size to Reach US$ 5.44 Billion openPR.com https://www.openpr.com > news > cel...」（https://www.openpr.com/news/4645536/cellulose-nanofibers-market-size-to-reach-us-5-44-billion）
+  - 「Cellulose Nanofibers Market Size, Share & Growth 2026-2033 — Cellulose Nanofibers Market Size, Share & Growth 2026-2033 DataM Intelligence https://www.datamintelligence.com > ...」（https://www.datamintelligence.com/research-report/cellulose-nanofibers-market）
+  - 「Global Cellulose Nanofibers Markets, 2019-2030 - PR Newswire — Global Cellulose Nanofibers Markets, 2019-2030 - PR Newswire PR Newswire https://www.prnewswire.com > global...」（https://www.prnewswire.com/news-releases/global-cellulose-nanofibers-markets-2019-2030-competitive-landscape-market-volumes-key-trends-and-growth-300817068.html）
+  - 「Nanocellulose Market Size, Share | CAGR of 20.6% — Nanocellulose Market Size, Share | CAGR of 20.6% Market.us https://market.us > report > global-na...」（https://market.us/report/global-nanocellulose-market/）
+
+## バサルト繊維（basalt fiber）
+- 文脈：繊維
+- 市場規模：
+  - 「世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み | Report Oceanのプレスリリース」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「2021年11月25日にREPORTOCEANが発行した新しいレポートによると、-バサルトファイバーの世界市場は、2021年から2027年の予測期間において、11.80%以上の健全な成長率が見込まれています」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルトファイバー市場は2027年までに5億5410万米ドルに達する見込みです」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルトファイバー市場は、2020年に約2億5379万米ドルと評価されており、2021年から2027年の予測期間に11.80%以上の健全な成長率が見込まれています」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「この調査の目的は、近年の異なるセグメント＆国の市場規模を定義し、今後8年間の値を予測することです」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「バサルトファイバーの市場規模2021年」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルト繊維の市場規模は、2023年の2億7,900万米ドルから、予測期間中は12.5%のCAGRで推移し、2028年には5億300万米ドルの規模に成長すると予測されています」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「世界のバサルト繊維市場は、2022年の106百万ドルから2031年には303.5百万ドルへと収益が増加する見込みです」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「バサルト繊維の市場規模、シェア、需要、産業予測 - 2032年」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「世界の玄武岩繊維市場規模は2023年に3億7,010万米ドルに達した」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「今後、IMARC Groupは、市場は2032年までに7億2950万米ドルに達し、2024年から2032年の間に7.6%の成長率（CAGR）を示すと予測している」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「2023年の市場規模」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「炭素繊維プリプレグの市場規模、シェア、動向、予測：製造プロセス、樹脂タイプ、樹脂、最終用途産業、地域別、2025-2033年」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「世界の玄武岩繊維市場規模は、2025年には3億5810万米ドルと評価され、2026年の3億9176万米ドルから2034年には8億382万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は9.4%となる見込みです」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+- 成長率：
+  - 「世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み | Report Oceanのプレスリリース」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルト繊維市場は2027年まで年平均成長率11.80%で成長する見込み」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「2021年11月25日にREPORTOCEANが発行した新しいレポートによると、-バサルトファイバーの世界市場は、2021年から2027年の予測期間において、11.80%以上の健全な成長率が見込まれています」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルトファイバー市場は、2020年に約2億5379万米ドルと評価されており、2021年から2027年の予測期間に11.80%以上の健全な成長率が見込まれています」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「一方、北米は、同地域における有利な貿易政策により、2021年から2027年の予測期間において最も高い成長率を示すと予想されています」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「世界のバサルト繊維の市場規模は、2023年の2億7,900万米ドルから、予測期間中は12.5%のCAGRで推移し、2028年には5億300万米ドルの規模に成長すると予測されています」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「バサルト繊維市場の成長、106百万米ドルから303.5百万米ドルへ12.4%のCAGRで（2022年-2031年）」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「この成長は、2023年から2031年の予測期間において年平均成長率（CAGR）12.4％を記録すると予測されています」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「今後、IMARC Groupは、市場は2032年までに7億2950万米ドルに達し、2024年から2032年の間に7.6%の成長率（CAGR）を示すと予測している」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「市場成長率 (2024-2032)」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「世界の玄武岩繊維市場規模は、2025年には3億5810万米ドルと評価され、2026年の3億9176万米ドルから2034年には8億382万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は9.4%となる見込みです」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「北米の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「玄武岩鉄筋セグメントは、高い強度対重量比、耐腐食性、耐久性、そして建設およびインフラ用途における従来の鉄筋の代替としての利用拡大により、2025年には28.7%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+- 主要企業：
+  - 「さらに、競合状況や主要企業の製品提供に関する詳細な分析とともに、利害関係者が投資するミクロ市場での利用可能な機会についても記載しています」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「バサルトファイバー市場の主要企業」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「当レポートでは、世界のバサルト繊維の市場を調査し、市場概要、市場影響因子および市場機会の分析、技術・特許動向、ケーススタディ、法規制環境、市場規模の推移・予測、各種区分・地域別の詳細分析、競合情勢、主要企業のプロファイルなどをまとめています」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「加えて、特に建設、自動車、航空宇宙などの産業における玄武岩繊維の需要増加を背景に、市場には多数の中小企業や新規参入企業が存在し、ダイナミックな市場競争をさらに助長している」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「主要企業の詳細なプロフィールも掲載している」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「市場の主要企業には以下のようなものがある：」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「ポーターのファイブ・フォース分析は、利害関係者が新規参入の影響、競争上のライバル関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「競争環境は、ステークホルダーが競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供する」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「Kamenny Vek、Zhejiang GBF Basalt Fiber Co.、Mafic SA、Technobasalt-Invest LLC、ISOMATEX SA Inc.などの主要企業は、世界の玄武岩繊維市場シェアの約24%を占めると推定されており、これは複数の地域および専門サプライヤーの存在を反映しています」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「玄武岩繊維市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/basalt-fiber-market）
+  - 「日本のバサルト繊維市場の主要企業は、建設用補強材、海洋インフラ、風力発電用複合材料に注力しており、これらの分野ではバサルトの耐食性により、ライフサイクル全体でのコスト削減効果が顕著に表れています」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「市場のその他の主要企業には、TESPE、ISOMATEX SA、Mafic USA、Galen Ltd.、Arrow Technical Textiles Pvt. Ltd.などが挙げられる」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「調達、パートナーシップ、市場参入計画を支援する、即座に意思決定に活用できる情報」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+- 日本企業：
+  - 「アジア太平洋地域（中国、インド、日本、韓国、オーストラリアおよびニュージーランド、ASEAN諸国、その他のアジア太平洋地域）」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「また、北米（米国、カナダ）、欧州（ドイツ、フランス、英国、イタリア、スペイン、ロシア、その他）、アジア太平洋（中国、日本、インド、韓国、オーストラリア、インドネシア、その他）、中南米（ブラジル、メキシコ、その他）、中東・アフリカといった主要地域市場についても包括的な分析を行っている」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「Japan Market Research」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「日本の玄武岩繊維市場は、インフラ投資の継続と老朽化した輸送インフラの近代化によって恩恵を受けると予想されている」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「日本のバサルト繊維市場規模、レポート、見通し 2035 | Expert Market Research」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「日本のバサルト繊維市場」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「日本のバサルト繊維市場の規模、シェアおよび予測動向 - 成長分析と見通しレポート（2026-2035）」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「日本のバサルト繊維市場：製品タイプ別：ロービング、チョップドストランド、ファブリック、メッシュ・グリッド；用途別：複合材料、非複合材料；最終用途別：建築・建設、自動車、航空宇宙・防衛、造船、風力発電、スポーツ用品およびその他；バリューチェーン分析；地域別分析；市場動向：SWOT分析、ポーターの5つの力分析、需要に関する主要指標；競合状況； 2026-2035」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「日本のバサルト繊維市場レポートの概要」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「日本のバサルト繊維市場規模は、」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「サプライヤーはバサルト繊維を鉄筋と炭素繊維の中間的な存在として位置づけており、プレミアム価格を伴わずに優れた耐久性を提供することで、日本のバサルト繊維市場全体の成長を後押ししています」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「これにより、バサルトはニッチな複合材料としてではなく、インフラ更新における実用的な選択肢として位置づけられ、日本のバサルト繊維市場価値全体を加速させています」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「日本バサルト繊維市場レポートの概要」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「ICOMATEXのエネルギー効率に優れた繊維機械は、バサルト繊維の織物およびメッシュの生産を柔軟に拡大可能にし、日本の加工業者が建設およびインフラ補強用途において、一貫性を向上させながら加工コストを削減できるよう支援します」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+- 上位シェア：
+  - 「バサルト繊維の市場規模、シェア、需要、産業予測 - 2032年」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「炭素繊維プリプレグの市場規模、シェア、動向、予測：製造プロセス、樹脂タイプ、樹脂、最終用途産業、地域別、2025-2033年」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「玄武岩繊維市場の規模、シェア、成長、分析、レポート、2034年」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「玄武岩繊維市場の規模、シェア、トレンド分析レポート：製品タイプ別（玄武岩鉄筋、玄武岩ロービング、玄武岩ファブリック、メッシュおよびグリッド、チョップドストランド、その他）、形態別（連続玄武岩繊維、離散玄武岩繊維）、最終用途産業別（建設およびインフラ、自動車および輸送、電気および電子機器、化学、風力エネルギー、海洋、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「アジア太平洋地域は、2025年に38.5%の市場シェアを占め、玄武岩繊維市場を牽引しました」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「アジア太平洋地域市場シェア（2025年）」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「2025年の市場シェア」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「玄武岩鉄筋セグメントは、高い強度対重量比、耐腐食性、耐久性、そして建設およびインフラ用途における従来の鉄筋の代替としての利用拡大により、2025年には28.7%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「連続玄武岩繊維セグメントは、高い引張強度、耐久性、耐腐食性、熱安定性、そして複合材料、補強材、構造用途における幅広い利用により、2025年には68.4%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「建設・インフラ分野は、2025年には42.6%のシェアを占めました」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「アジア太平洋地域の玄武岩繊維市場は、急速なインフラ開発、建設活動の拡大、軽量で耐腐食性に優れた高強度補強材への需要増加を背景に、2025年には地域別で最大の38.5%のシェアを占めると予測されている」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「欧州の玄武岩繊維市場は、インフラの近代化、老朽化し​​た橋梁や輸送ネットワークの改修、軽量で耐久性があり耐腐食性に優れた建築材料への需要の高まりを背景に、2025年には地域シェアの38.5%を占める見込みである」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「Kamenny Vek、Zhejiang GBF Basalt Fiber Co.、Mafic SA、Technobasalt-Invest LLC、ISOMATEX SA Inc.などの主要企業は、世界の玄武岩繊維市場シェアの約24%を占めると推定されており、これは複数の地域および専門サプライヤーの存在を反映しています」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「2025年の玄武岩繊維市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+  - 「アジア太平洋地域は2025年に38.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/basalt-fiber-market）
+- 投資：
+  - 「Additionally, SGL Carbon strengthened its commitment to high-strength composites in March 2023 by introducing the SIGRAFIL® C T50‑4.9/235 carbon fiber, expanding its material line. In order to address the increasing demand for sustainable building, Swiss company Arges secured USD 12 million in investment in September 2023 to expand its manufacture of basalt fiber composite rebars.」（https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907）
+  - 「The global basalt fiber market growth trajectory from 2020 through 2034, contrasting a consistent historical expansion base against a sustained forecast curve powered by rising infrastructure investment, automotive lightweighting mandates, wind energy deployments, and growing preference for sustainable composite reinforcement materials.」（https://www.imarcgroup.com/basalt-fiber-market）
+  - 「15% YoY import growth (2025), federal infrastructure investment, Florida DOT bridge validations, EV lightweighting demand, aerospace adoption」（https://www.imarcgroup.com/basalt-fiber-market）
+  - 「GCC infrastructure expansion, high-humidity corrosion-resistant applications, Saudi Vision 2030 smart mobility investments」（https://www.imarcgroup.com/basalt-fiber-market）
+  - 「Asia Pacific leads with a 47.0% share in 2025, driven by China's large-scale infrastructure investment, domestic fiber manufacturing base, rapid wind energy deployment, and India's growing construction sector demand.」（https://www.imarcgroup.com/basalt-fiber-market）
+  - 「Fiber Elements raises €2.6 million seed funding for 3D basalt fiber | CompositesWorld」（https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber）
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber）
+  - 「Fiber Elements raises €2.6 million seed funding for 3D basalt fiber」（https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber）
+  - 「(Leoben, Austria), a startup specializing in automated basalt fiber manufacturing for the construction industry, has raised €2.6 million in seed funding. The round was led by LEA Partners alongside the Amadeus APEX Technology Fund.」（https://www.compositesworld.com/news/fiber-elements-raises-26-million-seed-funding-for-3d-basalt-fiber）
+  - 「Fiber Elements Raises €2.6M Seed Funding — Fiber Elements」（https://fiber-elements.com/news）
+  - 「Fiber Elements Raises €2.6M Seed Funding」（https://fiber-elements.com/news）
+  - 「Fiber Elements, a startup specializing in automated basalt fiber manufacturing for the construction industry, today announced it has raised €2.6 million in seed funding. The round was led by LEA Partners alongside the Amadeus APEX Technology Fund.」（https://fiber-elements.com/news）
+  - 「Fiber Elements has raised $3.0M across 1 funding round.」（https://startupintros.com/orgs/fiber-elements）
+  - 「1 funding round」（https://startupintros.com/orgs/fiber-elements）
+- 検索結果の抜粋：
+  - 「世界の バサルト繊維市場 は2027年まで 年平均成長率 11.80%で ... — 世界の バサルト繊維市場 は2027年まで 年平均成長率 11.80%で ... PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000003914.000067400.html）
+  - 「バサルト繊維 - メーカー・企業4社の業務用製品ランキング — バサルト繊維 - メーカー・企業4社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > バサルト繊維」（https://mono.ipros.com/cg2/%E3%83%90%E3%82%B5%E3%83%AB%E3%83%88%E7%B9%8A%E7%B6%AD/）
+  - 「バサルト繊維 の 市場規模 、シェア、需要、産業予測 - 2032年 — バサルト繊維 の 市場規模 、シェア、需要、産業予測 - 2032年 IMARC Group https://www.imarcgroup.com > Chemical & Materials」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「日本の バサルト繊維市場 規模、レポート、見通し 2035 — 日本の バサルト繊維市場 規模、レポート、見通し 2035 Expert Market Research https://www.expertmarketresearch.com > reports > japan-...」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「建設用 バサルト繊維 の世界 市場 （2026年～2032年） — 建設用 バサルト繊維 の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/9467471?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true）
+  - 「バサルト繊維 の 市場 規模、シェア、需要、産業 予測 - 2032年 — バサルト繊維 の 市場 規模、シェア、需要、産業 予測 - 2032年 IMARC Group https://www.imarcgroup.com > Chemical & Materials」（https://www.imarcgroup.com/report/ja/basalt-fiber-market）
+  - 「バサルト繊維市場 | 市場 規模 成長性 産業動向 予測 2026-2034 ... — バサルト繊維市場 | 市場 規模 成長性 産業動向 予測 2026-2034 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 繊維」（https://www.gii.co.jp/report/imarc2056557-basalt-fiber-market-size-share-trends-forecast-by.html）
+  - 「日本の バサルト繊維 市場規模、レポート、見通し 2035 — 日本の バサルト繊維 市場規模、レポート、見通し 2035 Expert Market Research https://www.expertmarketresearch.com > reports > japan-...」（https://www.expertmarketresearch.com/ja/reports/japan-basalt-fiber-market）
+  - 「バサルト繊維 （玄武岩繊維）について — バサルト繊維 （玄武岩繊維）について あいち産業科学技術総合センター PDF https://www.aichi-inst.jp > up_docs > no.213_04.pdf」（https://www.aichi-inst.jp/other/up_docs/no.213_04.pdf）
+  - 「Basalt Fiber Market Size , Share & Forecast Report 2035 — Basalt Fiber Market Size , Share & Forecast Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907）
+  - 「Basalt Fiber Market Analysis, Size , and Forecast 2025 -2029 — Basalt Fiber Market Analysis, Size , and Forecast 2025 -2029 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/basalt-fiber-market-industry-analysis）
+  - 「Basalt Fiber Market Size , Share & Industry Forecast Report 2025 — Basalt Fiber Market Size , Share & Industry Forecast Report 2025 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/basalt-fiber-market）
+  - 「Basalt Fiber Market Size , Share, Growth Report, 2034 — Basalt Fiber Market Size , Share, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/basalt-fiber-market-102317）
+  - 「Basalt Fiber Market worth $0.70 billion by 2031 - PR Newswire — Basalt Fiber Market worth $0.70 billion by 2031 - PR Newswire PR Newswire https://www.prnewswire.com > basalt-...」（https://www.prnewswire.com/news-releases/basalt-fiber-market-worth-0-70-billion-by-2031---exclusive-report-by-marketsandmarkets-302765398.html）
+  - 「Basalt Fiber Market Size, Share & Forecast Report 2035 — Basalt Fiber Market Size, Share & Forecast Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/basalt-fiber-market-7907）
+
+## MXene（MXene）
+- 文脈：2次元材料
+- 市場規模：
+  - 「MXene（二次元炭化物・窒化物）市場規模・予測レポート（2026～2035年）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene（2次元炭化物・窒化物）市場規模」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene（2次元炭化物・窒化物）市場は、2025年に8,000万米ドルと評価され、2026年には1億1,200万米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXenes（2次元炭化物・窒化物）市場規模：組成別、2025年・2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「バナジウム系炭化物は、2035年に6,670万米ドルの市場規模に達し、年平均成長率（CAGR）約31.4%で拡大すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「Ti₃CNTₓ炭窒化物は2025年に560万米ドルの市場規模となり、2035年には8,900万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「北米のMXene（2D炭化物・窒化物）市場は、2025年に世界全体の収益の37.0%を占め、2035年には3億2,100万米ドルの収益を生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「中東・アフリカ地域の市場規模は、2035年に5,670万米ドルに達すると予測されており、2025年には世界売上高の5.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「サウジアラビアの市場規模は2025年に120万米ドルとなり、2035年には1,700万米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene 2D炭化物・窒化物市場規模は、2025年に8,000万米ドルと推定され、2026年には1億1,200万米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「市場は2026年から2035年にかけて年平均成長率（CAGR）29.1%で成長し、2035年までに11億1,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene材料市場規模：2033年までの市場動向と投資分析 | 記事 | ブログ」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+- 成長率：
+  - 「2026年から2035年にかけて年平均成長率（CAGR）29.1%で成長し、2035年には11.1億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「バナジウム系炭化物は、2035年に6,670万米ドルの市場規模に達し、年平均成長率（CAGR）約31.4%で拡大すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「LiF/HCl合成は2035年に市場の32.0%を占め、年平均成長率（CAGR）約32.3%で拡大すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「電子機器・通信（EMIシールド）は、2035年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）約29.8%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「バイオ医療・ヘルスケアは2025年に800万米ドルの収益を上げ、2026〜2035年に年平均成長率（CAGR）約29.1%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「エネルギー・電力分野は、2035年に市場の30.0%を占め、年平均成長率（CAGR）約30.3%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「ヘルスケア・製薬分野は、2035年に1億1,120万米ドルの収益を生み出し、年平均成長率（CAGR）約29.1%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene材料市場は、2026年から2033年にかけて年平均成長率（CAGR）29.5%で成長すると予測されています」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「1. 業界での導入拡大」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「4. 投資機会の拡大」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「CAGR (2026-2034)」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「予測モデルは、技術、規制、市場のダイナミクスの融合により、2026 年から 2033 年までの年間平均成長率 (CAGR) が約 25% になることを示しています」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「高機能材料市場は、2025年には1,386億5,000万米ドルに達し、2030年には1,871億3,000万米ドルに成長すると予測されており、予測期間中の年平均成長率（CAGR）は6.18%です」（https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/）
+  - 「一方、ナノ材料は2030年までに7.43%のCAGRで拡大すると予測されており、最も急速に成長するセグメントとなる見込みです」（https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/）
+- 主要企業：
+  - 「MXene二次元炭化物・窒化物市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene二次元炭化物・窒化物市場の主要企業には、American Elements、Sigma-Aldrich/Merck KGaA、XFNANO、Beike 2D Materials、ACS Material LLCなどがある」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「🚀 MXene材料市場の主要企業」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「MXene材料市場には、グローバル企業、地域企業、新興イノベーターが参入しており、以下の取り組みを通じて競争を展開しています：」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「✔ 市場参入戦略」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「現在、市場の支配権は独自の合成技術と広範な特許ポートフォリオを保有する少数の先駆的企業に集中しており、新規参入者にとっては高い参入障壁となっている」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「既存企業は戦略的提携や特許取得を通じて地位を強化している一方、AIや自動化を活用した新規参入企業は従来のリーダーシップモデルに挑戦しており、ダイナミックな競争環境を示しています」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「この矛盾はエンドユーザーと規制当局の信頼に影響を与え、多くのアプリケーションの市場参入を遅らせます」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「これらの標準は市場への参入を促進し、コンプライアンスのリスクを軽減し、消費者の信頼を促進します」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「特に生産の複雑さと原材料コストに関連した高い参入障壁を考慮すると、価格戦略は技術的な優位性の二の次であることがよくあります」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「市場参入戦略」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「4.5.3 新規参入の脅威」（https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/）
+  - 「MXene（2D炭化物窒化物）市場の主要企業は、産業需要の増加に対応するため、高スループット合成、スケーラビリティ、一貫した品質管理に注力しています」（https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html）
+- 日本企業：
+  - 「ドレクセル大学とMurata Manufacturingは、MAX相の調製とフッ化水素酸エッチングを経ずに、四塩化チタンとメタンを前駆体としてTi₂CCl₂ MXeneを合成する気相法を報告した」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「Japan Material Technologies Corporation、Alfa Chemistry、6Carbon Technology、MSE Supplies LLC、Foshan Xinxi Technology Co., Ltd.、2D Semiconductors Inc.、Nanoshel LLC、Nanografi Nano Technology、Jilin 11 Technology Co., Ltd.、MXeneNanoTech LLCも、地域供給、研究用グレードの流通、用途に特化した材料開発にまたがる細分化された競争環境を形成している」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「ドレクセル大学は、村田製作所などの共同研究者とともに、四塩化チタンとメタンを前駆体として用いたTi₂CCl₂ MXeneの気相合成を実証した」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「Murata Manufacturing Co., Ltd.」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「16-8, Higashi 1-chome, Shibuya-ku, Tokyo 150-0011, Japan」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「American Elements,Sigma-Aldrich (Merck),Japan Material Technologies Corporation (JMTC),Alfa Chemistry,Beike 2D Materials,ACS Material,Nanjing XFNANO Materials,Beijing Zhongkeleiming Technology,6Carbon Technology (ShenZhen),Nanoshel,Foshan Xinxi Technology」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「North America (U.S, Canada, Mexico), Europe (Germany, United Kingdom, France), Asia-Pacific (China, Japan, South Korea, India), Middle-East (Saudi Arabia, UAE, Kuwait, Qatar).」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「中国、日本、韓国、インドが主要な貢献国であり、その広範な製造拠点と技術革新能力を活用しています」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「日本のハイエンドエレクトロニクスと航空宇宙への注力と、韓国の家庭用電化製品分野でのリーダーシップが、地域の成長をさらに促進します」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「日本のMXene材料市場」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「日本のMXene市場は2024年に2億米ドルと評価され、2025年の2億米ドルから2033年までに6億米ドルに成長すると予測されており、2026年から203年のCAGRは約14.2%となる」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「日本の先端エレクトロニクス産業は、ナノマテリアルの研究開発への戦略的投資と相まって、この成長を支えている」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「日本企業は、イノベーションと高品質の製造を重視する日本の姿勢に合わせて、フレキシブルエレクトロニクス、センサー、エネルギー貯蔵装置用のMXeneベースのコンポーネントの開発に注力している」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「この見通しは、MXene の次世代家電、航空宇宙、医療アプリケーションへの統合が進むことを示唆しており、日本はハイエンド MXene ソリューションの主要プレーヤーとして位置付けられています」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「日本マテリアルテクノロジーズ株式会社（JMTC）」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+- 上位シェア：
+  - 「MXene系二次元炭化物・窒化物市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「チタン系炭化物は、2025年のMXene（2D炭化物・窒化物）市場売上高の62.0%を占め、2035年には6億1,160万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「チタン窒化物は2025年の市場収益の6.0%を占め、2035年には7.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「HFエッチングは2025年の市場収益の45.0%を占め、2035年には28.0%になると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene（2次元炭化物・窒化物）市場シェア：合成方法別、2025年」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「LiF/HCl合成は2035年に市場の32.0%を占め、年平均成長率（CAGR）約32.3%で拡大すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「電気化学エッチングは2025年の市場収益の15.0%を占め、2035年には22.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「エネルギー貯蔵・変換は2025年の市場収益の30.0%を占め、2035年には3億8,920万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「電子機器・通信（EMIシールド）は、2035年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）約29.8%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「環境・水処理は2025年の市場収益の15.0%を占め、2035年には1億4,460万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「自動車・輸送は2035年に8,900万米ドルの収益を上げると予測され、2025年には市場収益の8.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「航空宇宙・防衛は2025年の市場収益の7.0%を占め、2035年には5.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「電子機器・半導体は2025年の市場収益の28.0%を占め、2035年には3億2,250万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「ラテラルフローアッセイの販売市場規模・市場シェア・市場動向（2033年）」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「【調査レポート】 高機能性材料市場 規模・シェア分析 – 成長動向と予測 (2025年～2030年)」（https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/）
+- 投資：
+  - 「, Graphene NanoChem secured $50 million in Series B funding to expand its MXene R&D facilities and accelerate product commercialization. The infusion of capital highlights investor confidence in MXene’s potential for high-value applications such as supercapacitors and biomedical devices, and indicates a growing trend of venture capital interest in advanced 2D materials.」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「, a government-led initiative in South Korea announced a $200 million investment in MXene research, focusing on sustainable synthesis methods and environmental impact mitigation. This policy move emphasizes the strategic importance of MXenes in future green energy solutions and positions South Korea as a key player in the global MXene ecosystem, fostering innovation and supply chain resilience.」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「The Transmission and Distribution Market is projected to reach USD 583.77 Billion by 2034 at an 8.4% CAGR. The analysis covers grid capacity expansion investment, HVDC technology adoption, permitting constraints, superconducting cable development, regional dynamics, key players, and forecast outlook through 2034.」（https://trendxinsights.com/syndicated-market-research-reports/mxene-market/）
+  - 「share in 2026, supported by the region's large battery, electronics, and semiconductor manufacturing base, integrated supply chains, and public funding for advanced materials research.」（https://www.persistencemarketresearch.com/market-research/mxene-market.asp）
+  - 「Environmental Clean Technologies raised A$10.6 million to accelerate commercialization of its Flash Joule Heating technology and MXene manufacturing program. The company also secured access to MAX-phase feedstock and strengthened its development program with Metallium, supporting efforts toward larger-scale MXene production.」（https://www.persistencemarketresearch.com/market-research/mxene-market.asp）
+  - 「The combined total of follow-on funding raised by CRI innovators through December 2025 is $675 million. In addition, the program helped create 720 jobs to date.」（https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/）
+  - 「Drexel Materials start-ups account for two of three investments made in the second cohort of the Drexel Innovation Fund. 1DNano, a nanomaterial cleantech company; and MXene, Inc., a company focused on the commercialization of nanomaterials called MXenes; will each receive an investment of $150,000 from the fund.」（https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/）
+- 検索結果の抜粋：
+  - 「MXene 2D炭化物・窒化物 市場規模 ・予測レポート、2026 ... — MXene 2D炭化物・窒化物 市場規模 ・予測レポート、2026 ... Global Market Insights Inc. https://www.gminsights.com > ... > 先端材料 > 機能性材料」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene 材料 市場規模 ：2033年までの市場動向と投資分析 — MXene 材料 市場規模 ：2033年までの市場動向と投資分析 inkrich https://mrctechforum.inkrich.com > MXene材料市場」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「2035年までの Mxene 材料 市場 動向と 成長 分析 — 2035年までの Mxene 材料 市場 動向と 成長 分析 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/mxene-material-market-120087）
+  - 「世界の MXene 材料 市場規模 、 成長 分析および予測2026-2034年 — 世界の MXene 材料 市場規模 、 成長 分析および予測2026-2034年 Verified Market Reports https://www.verifiedmarketreports.com > product > mxen...」（https://www.verifiedmarketreports.com/ja/product/mxene-material-market/）
+  - 「MXene の 市場 | 市場 規模 市場 動向 予測 2025 - 2034年 — MXene の 市場 | 市場 規模 市場 動向 予測 2025 - 2034年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > ナノテク」（https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html）
+  - 「MXene 2D炭化物・窒化物市場規模・予測レポート、2026 ... — MXene 2D炭化物・窒化物市場規模・予測レポート、2026 ... Global Market Insights Inc. https://www.gminsights.com > ... > 先端材料 > 機能性材料」（https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene 材料市場規模：2033年までの市場動向と投資分析 — MXene 材料市場規模：2033年までの市場動向と投資分析 inkrich https://mrctechforum.inkrich.com > MXene材料市場」（https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「MXene ：大きな可能性を秘めた2D炭化物および窒化物の新材料 — MXene ：大きな可能性を秘めた2D炭化物および窒化物の新材料 Sigma-Aldrich https://www.sigmaaldrich.com > technical-article > mxenes」（https://www.sigmaaldrich.com/JP/ja/technical-documents/technical-article/materials-science-and-engineering/organic-electronics/mxenes?srsltid=AYCX9vLljJj585uaSM9Q8Iu741g45NXqatOu1WKnEFWIOYKHAzH7WFXG）
+  - 「MXene Market Companies, Size & Trends 2026-2035 — MXene Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/mxene-market）
+  - 「MXene Market worth $0.29 billion by 2032 - PR Newswire — MXene Market worth $0.29 billion by 2032 - PR Newswire PR Newswire https://www.prnewswire.com > mxen...」（https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html）
+  - 「MXene Market Size , Share & Growth Forecast 2026-2036 — MXene Market Size , Share & Growth Forecast 2026-2036 Meticulous Research https://www.meticulousresearch.com > ...」（https://www.meticulousresearch.com/product/mxene-market-6447）
+  - 「Mxene Material Market Growth, Trends | Size [2035] — Mxene Material Market Growth, Trends | Size [2035] Industry Research https://www.industryresearch.biz > m...」（https://www.industryresearch.biz/market-reports/mxene-material-market-107859）
+  - 「Mxenes 2D Carbides Nitrides Market Size & Share 2026-2035 — Mxenes 2D Carbides Nitrides Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > mxene...」（https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market）
+  - 「MXene Market Size, Share & Growth Forecast 2026-2036 — MXene Market Size, Share & Growth Forecast 2026-2036 Meticulous Research https://www.meticulousresearch.com > ...」（https://www.meticulousresearch.com/product/mxene-market-6447）
+  - 「US MXene Market (2026-2031) - MarketsandMarkets — US MXene Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/mxene-market/US）
+
+## ペロブスカイト（太陽電池材料）（perovskite solar cell materials）
+- 文脈：太陽電池
+- 市場規模：
+  - 「ペロブスカイト太陽電池市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場規模：用途別、2025年および2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「アジア太平洋地域のペロブスカイト太陽電池市場は、2025年に世界売上高の57.0%を占め、2035年までに15.7億米ドルを生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「オーストラリアの市場規模は2035年までに4,300万米ドルに達すると予測され、2025年にはアジア太平洋地域の売上高の2.1%を占めた」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「欧州の市場規模は2035年までに7億400万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は22.4%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ドイツの市場規模は2025年に2,050万米ドルとなり、2035年までに1億4,500万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「英国の市場規模は2035年までに1億850万米ドルに達すると予測され、2025年には欧州の売上高の17.1%を占めた」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「フランスの市場規模は2025年に1,350万米ドルとなり、2026〜2035年の年平均成長率（CAGR）は24.0%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「イタリアの市場規模は2035年までに9,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は25.0%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「次世代太陽電池の世界市場規模は、2025年には38億米ドルと評価され、2026年の45億6000万米ドルから2034年には194億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.9%となる見込みです」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「米国は次世代太陽電池市場を支配しており、その市場規模は2024年には13億4000万米ドル、2025年には16億4000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「2025年の市場規模：38億米ドル」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）22.7%で成長し、2035年には32億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト・シリコンタンデム構造で効率が継続的に年次向上することは、電力事業用および商業用の調達において単接合シリコンを置き換えるための主要な前提条件であり、この需要経路が2035年までの市場の絶対額ベースの拡大の大部分を牽引する」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ロール・ツー・ロール方式や蒸着プロセスを用いたペロブスカイト製造の拡大には、IEC 61215の認証試験に合格できる封止材とモジュール構造が必要である」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「発電分野の2025年の売上高は1億790万米ドルで、2026〜2035年の年平均成長率（CAGR）は30.5%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「次世代太陽電池市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「次世代太陽電池の世界市場規模は、2025年には38億米ドルと評価され、2026年の45億6000万米ドルから2034年には194億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.9%となる見込みです」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「アジア太平洋地域は、予測期間中に約20.0%という最も速い年平均成長率（CAGR）で成長すると予想されている」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「技術別に見ると、ペロブスカイト太陽電池分野は、予測期間中に28.6%という最も速い年平均成長率（CAGR）を記録すると推定されている」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「用途別に見ると、住宅セグメントは予測期間中に約21.4%の年平均成長率（CAGR）を記録すると推定される」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「年平均成長率（2026年～2034年）：19.9%」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+- 主要企業：
+  - 「タンデム構造は、出力密度が重視される最も高付加価値の用途への参入経路となる」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「規制の不確実性を受け、メーカーは代替配合の準備と適合性開示を求められ、開発コストが増加するとともに、EU市場参入に向けた製品承認期間が長期化する」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「エネルギー源の多様化、日射量の多さ、建材一体型太陽光発電（BIPV）の実証活動が、差別化された太陽光発電製品の実用的な参入機会を生み出す地域では、需要が選択的に顕在化すると見込まれる」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場の主要企業には、Microquanta Semiconductor、Saule Technologies、GCL Optoelectronic Materials、Utmolight、Oxford PVなどが含まれる」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「市場は、高度な製品ポートフォリオ、技術力、戦略的パートナーシップを有する少数の主要企業によって支配されている」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「この市場における主要企業は、First Solar, Inc.、Hanwha Q CELLS、Oxford Photovoltaics Ltd.、Trina Solarである」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「9.4.1 主要企業による製品／サービスの仕様と特徴」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「9.4.2 主要企業別製品/サービスヒートマップ」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「9.4.3 主要プレイヤー別アプリケーションヒートマップ」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「9.6 主要企業プロファイル」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「9.6.1.3 主要企業の財務情報」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「10.3 市場参入と成長戦略」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+- 日本企業：
+  - 「日本は2035年までに1億4,900万米ドルを生み出すと予測され、2026〜2035年の年平均成長率（CAGR）は24.5%と見込まれる」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「特に中国、インド、日本といった国々は、大規模な太陽光発電インフラプロジェクトに支えられた非常に野心的な再生可能エネルギー目標を掲げています」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「Mitsubishi Corporation」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「Mitsubishi Chemical Group」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「北米 (米国、カナダ)、欧州 (ドイツ、英国、フランス、イタリア、スペイン、ロシア、ポーランド、その他の欧州諸国)、アジア太平洋 (中国、インド、日本、韓国、オーストラリア、ASEAN 諸国、その他のアジア太平洋諸国)、中東およびアフリカ (UAE、サウジアラビア、カタール、南アフリカ、その他の中東およびアフリカ諸国)、ラテンアメリカ (ブラジル、アルゼンチン、メキシコ、コロンビア、その他のラテンアメリカ諸国)」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「8.4.5.3 日本」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「特に日本では建物壁面や軽量屋根への導入余地が大きく、国土制約を考えると「設置可能面積を増やす技術」として政策的な意味もあります」（https://gamma.app/docs/168475-h7ca82nnatifcdy）
+  - 「日本では軽量フィルム型が独自の市場を作る可能性」（https://gamma.app/docs/168475-h7ca82nnatifcdy）
+  - 「日本は平地が限られ、従来の太陽光発電所を新設できる場所が制約されています」（https://gamma.app/docs/168475-h7ca82nnatifcdy）
+  - 「政策支援と国内メーカーの技術が組み合わされれば、日本は世界市場とは異なる形でペロブスカイトの初期需要を作る可能性があります」（https://gamma.app/docs/168475-h7ca82nnatifcdy）
+  - 「Japanese」（https://www.fuji-keizai.co.jp/press/detail.html?cid=26007&la=ja）
+  - 「総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 代表取締役 菊地 弘幸 03-3241-3470）は、次世代太陽電池の本命として注目され、社会実装が近づいているペロブスカイト太陽電池の主要部材について調査した」（https://www.fuji-keizai.co.jp/press/detail.html?cid=26007&la=ja）
+  - 「フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想」（https://sgforum.impress.co.jp/article/5798）
+  - 「DC Power Vil.代表取締役社長 村 文夫氏に聞く! ：加速するAIと「低圧直流」の波 ―OCP・NVIDIAが描く2028年の未来像と日本企業の勝ち筋」（https://sgforum.impress.co.jp/article/5798）
+  - 「「エリクソン・フォーラム 2026」レポート：AI時代の通信革命と日本の役割 ―エリクソンの技術戦略と国内エコシステム構築」（https://sgforum.impress.co.jp/article/5798）
+- 上位シェア：
+  - 「ペロブスカイト太陽電池市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2025年、BIPVは市場売上高の36.0%を占め、2035年には9億1,200万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「民生用電子機器分野は、2025年に市場売上高の16.5%を占め、2035年には2億8,800万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「防衛・航空宇宙分野の2025年の売上高は5,600万米ドルで、2035年には市場売上高の7.5%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「輸送分野は2025年に売上高シェアの8.0%を占め、2035年には1億4,400万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「硬質モジュールは2025年に市場売上高の64.0%を占め、2035年には19億2,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型p-i-nの2025年の売上高は6,260万米ドルで、2035年には硬質セグメント売上高の10.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト・シリコンタンデムは2025年に7,440万米ドルを生み出し、2035年までに剛性セグメントの売上高の70.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「オールペロブスカイトタンデムは2025年にフレキシブルセグメントの売上高の31.0%を占め、2035年までに7億6,800万米ドルを生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「次世代太陽電池市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「次世代太陽電池市場の規模、シェア、トレンド分析レポート：材料タイプ別（テルル化カドミウム（CdTe）、セレン化銅インジウムガリウム（CIGS）、アモルファスシリコン（a-Si）、ヒ化ガリウム（GaAs）、その他）、技術別（ペロブスカイト太陽電池、有機太陽電池、色素増感太陽電池、その他）、設置タイプ別（系統連系型、系統分離型）、用途別（住宅用、商業用、産業用、公益事業、政府プロジェクト、その他）、地域別（北米、欧州、アジア太平洋地域、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+- 投資：
+  - 「The Netherlands is projected to reach USD 384 million by 2035, compared with USD 8 million in 2025. The country's energy-investment ecosystem and land-constrained geography support demand for efficiency-oriented solar technologies that can use established distributed-energy procurement channels.」（https://www.gminsights.com/industry-analysis/perovskite-market）
+  - 「Mexico generated USD 2 million in 2025 and is expected to grow at a 36.1% CAGR (2026–2035). Near-term demand is likely to remain selective because utility-scale procurement continues to prioritize the proven cost structure of conventional silicon modules, while policy uncertainty can constrain early investment in emerging solar technologies.」（https://www.gminsights.com/industry-analysis/perovskite-market）
+  - 「Latin America is projected to reach USD 854 million by 2035 and is expected to grow at a 52.6% CAGR (2026–2035). Strong solar resources and expanding clean-energy investment frameworks create a compelling long-term setting for technologies that can increase energy output while reducing land requirements for large-scale project development.」（https://www.gminsights.com/industry-analysis/perovskite-market）
+  - 「Government funding is supporting the transition from laboratory research to scalable manufacturing. In May 2024, the U.S. Department of」（https://market.us/press-release/perovskite-solar-cell-market/）
+  - 「for 2025. Such an advantage can be explained by the well-developed research and development infrastructure of the countries like the USA and Canada with the government financial support for innovations in the sector combined with the participation of universities and venture capitalists into the production process.」（https://market.us/report/perovskite-solar-cells-module-market/）
+  - 「, Swift Solar raised US$ 8 Mn in funding to accelerate the development and commercialization of its perovskite solar cell technology」（https://www.transparencymarketresearch.com/perovskite-materials-market.html）
+  - 「Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs」（https://www.energy.gov/cmei/systems/american-made-challenges-perovskite-startup-prize）
+  - 「list, the report's authors considered over 500 companies sourced from funding databases and nominations from experts across in academia, startups, corporations, and the investing community representing a diverse range of subsectors.」（https://www.tandempv.com/news/tandem-pv-named-to-50-by-2050）
+  - 「$50 million Series A funding round」（https://www.tandempv.com/news/tandem-pv-named-to-50-by-2050）
+  - 「Solaires announces $2 million funding milestone」（https://www.perovskite-info.com/solaires-enterprises）
+  - 「, a Canadian clean technology company pioneering perovskite-based photovoltaic solutions, has announced that it has received CAD$1,550,000 (around US$1,092,000) in non-dilutive funding from Sustainable Development Technology Canada (SDTC).」（https://www.perovskite-info.com/solaires-enterprises）
+- 検索結果の抜粋：
+  - 「ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 — ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovskite-solar-cells-market」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 — ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4-101556）
+  - 「ペロブスカイト太陽電池 の 市場規模 ・シェア・動向（2026年 ... — ペロブスカイト太陽電池 の 市場規模 ・シェア・動向（2026年 ... SNS Insider https://www.snsinsider.com > Report > エネルギー・電力」（https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762）
+  - 「ペロブスカイト太陽電池 Market Research Report: 2026年から ... — ペロブスカイト太陽電池 Market Research Report: 2026年から ... LinkedIn https://jp.linkedin.com > pulse > ペロブスカイト太陽電池-...」（https://jp.linkedin.com/pulse/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0-market-research-report-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87149%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E8%A6%8B%E8%BE%BC%E3%81%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88-ekose）
+  - 「ペロブスカイト太陽電池市場規模 ：1.68億米ドルから47.5% 成長 — ペロブスカイト太陽電池市場規模 ：1.68億米ドルから47.5% 成長 Gamma AI https://gamma.app > docs」（https://gamma.app/docs/168475-h7ca82nnatifcdy）
+  - 「ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... — ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... fkg-report.jp https://www.fkg-report.jp > market-trends」（https://www.fkg-report.jp/market-trends/2026/3393.html）
+  - 「ペロブスカイト 部材の世界 市場 は40年に1.4兆円超へ — ペロブスカイト 部材の世界 市場 は40年に1.4兆円超へ スマートグリッドフォーラム https://sgforum.impress.co.jp > article」（https://sgforum.impress.co.jp/article/5798）
+  - 「2026年版 タンデム型 ペロブスカイト太陽電池市場 の展望と戦略 — 2026年版 タンデム型 ペロブスカイト太陽電池市場 の展望と戦略 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > 【産業カテゴリ別】」（https://pr.mono.ipros.com/yano/product/detail/2001508690/）
+  - 「2026年版 タンデム型 ペロブスカイト太陽電池市場 の展望と戦略 — 2026年版 タンデム型 ペロブスカイト太陽電池市場 の展望と戦略 yano.co.jp https://www.yano.co.jp > market_reports」（https://www.yano.co.jp/market_reports/C67126600?srsltid=AYCX9vKa_mXDV7jgECDM2mcE6-w0UMEnmQlx50U7k99zpcM0v5kqEOvx）
+  - 「ペロブスカイト太陽電池 - メーカー・ 企業 4社の製品一覧と ... — ペロブスカイト太陽電池 - メーカー・ 企業 4社の製品一覧と ... 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 電池 > 太陽電池」（https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/）
+  - 「【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... — 【2025年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... 株式会社エネテク https://enetech.co.jp > guide > perovskite-solar-cells」（https://enetech.co.jp/guide/perovskite-solar-cells/）
+  - 「ペロブスカイト太陽電池 メーカー7社 - Metoree — ペロブスカイト太陽電池 メーカー7社 - Metoree Metoree https://metoree.com > 電源」（https://metoree.com/categories/9402/）
+  - 「Perovskite Solar Cell Market Size , Growth Report, 2026-2033 — Perovskite Solar Cell Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Perovskite Market Size , Forecasts Report 2026-2035 — Perovskite Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovs...」（https://www.gminsights.com/industry-analysis/perovskite-market）
+  - 「Perovskite Solar Cells Market Size , Share and Forecast 2034 — Perovskite Solar Cells Market Size , Share and Forecast 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556）
+
+## メタマテリアル（metamaterials）
+- 文脈：電波・光学
+- 市場規模：
+  - 「メタマテリアル市場は 2025 年に 14 億米ドルと評価され、2026 年から 2035 年にかけて年平均成長率（CAGR）22.2%で拡大し、2035 年には 111 億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「グラフ：メタマテリアル市場規模、材料タイプ別、2022〜2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「北米市場は2025年に 4億7,320万米ドルを生み出し、2035年まで年平均成長率（CAGR）21.6%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「Chart: U.S. Metamaterial Market Size, 2022-2035 (USD Million)」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「欧州市場はドイツ、英国、フランスを中心に、2035年まで年平均成長率（CAGR）22.3%で拡大する」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「ラテンアメリカは、2025年の市場規模が比較的小さいものの、同年から年平均成長率（CAGR）23.6%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「中東・アフリカ市場は、2035年まで年平均成長率（CAGR）16.5%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「2025年のメタマテリアル市場規模は14億米ドルと推定され、2026年には18億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「2035年のメタマテリアル市場はどのように予測されていますか？」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metamaterials-market）
+  - 「世界のメタマテリアル市場規模は、2025年には19億1698万米ドルと評価され、2026年の25億1699万米ドルから2034年には222億3310万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は31.3%となる見込みです」（https://straitsresearch.com/jp/report/metamaterials-market）
+  - 「米国の国防予算は、2020会計年度に7,215億ドルでピークに達した後、2021会計年度には7,162億ドルとなり、ドナルド・トランプ大統領の最初の任期の最後の2年間の支出水準としては過去最高を記録した」（https://straitsresearch.com/jp/report/metamaterials-market）
+- 成長率：
+  - 「メタマテリアル市場は 2025 年に 14 億米ドルと評価され、2026 年から 2035 年にかけて年平均成長率（CAGR）22.2%で拡大し、2035 年には 111 億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「世界の売上高は、2022 年の 5 億 5,220 万米ドルから、2023 年には 7 億 3,510 万米ドル、2024 年には 10 億 4,560 万米ドル、2025 年には 14 億 2,520 万米ドルへ増加し、2022〜2025 年の過去期間における年平均成長率は 37.2%となった」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「2035年までの年平均成長率（CAGR）は 21.5%と見込まれる」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「フォトニックメタマテリアルは 26.9%のシェアを占め、メタレンズやメタサーフェス光学が画像処理、LiDAR、コンパクトセンシングシステムにおける光学スタックの深さを縮小することから、CAGR 23.5%で拡大する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「画像処理および光学システムは 20.4%を占め、メタサーフェス光学がコンパクトな画像処理・LiDARアーキテクチャへのソリッドステート方式を提供することから、CAGR 24.7%で最も急速に成長する用途となっている」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「自動車分野は12.5%を占め、レーダー、LiDAR、ワイヤレス電力伝送、音響制御が車両プログラムに導入されるなか、2035年まで年平均成長率（CAGR）25.0%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「北米市場は2025年に 4億7,320万米ドルを生み出し、2035年まで年平均成長率（CAGR）21.6%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「欧州市場はドイツ、英国、フランスを中心に、2035年まで年平均成長率（CAGR）22.3%で拡大する」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「アジア太平洋地域は、2035年までの年平均成長率（CAGR）が 23.6% と、最も急速に成長する地域市場である」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metamaterials-market）
+  - 「世界のメタマテリアル市場規模は、2025年には19億1698万米ドルと評価され、2026年の25億1699万米ドルから2034年には222億3310万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は31.3%となる見込みです」（https://straitsresearch.com/jp/report/metamaterials-market）
+  - 「電磁気分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.9%で成長すると予測されています」（https://straitsresearch.com/jp/report/metamaterials-market）
+  - 「アンテナ・レーダー分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）31.8%で成長すると予測されています」（https://straitsresearch.com/jp/report/metamaterials-market）
+  - 「航空宇宙・防衛分野は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）34%で成長すると予測されています」（https://straitsresearch.com/jp/report/metamaterials-market）
+- 主要企業：
+  - 「市場参入の最も現実的な経路は、材料単体の販売ではなく、認定を受けたシステムインテグレーターを通じた展開である」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場で事業を展開する主要企業には、以下が含まれます」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場の主要企業には、Evolv Technologies、Echodyne Corporation、Pivotal Commware、Kymeta Corporation、Metalenz, Inc. などが含まれる」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「電磁メタマテリアル市場で主要企業が採用している戦略」（https://japan.zdnet.com/release/31133059/）
+  - 「主要企業は以下の戦略を積極的に展開しています：」（https://japan.zdnet.com/release/31133059/）
+  - 「世界の電磁メタマテリアル市場の主要企業」（https://japan.zdnet.com/release/31133059/）
+  - 「その他の主要企業は以下の通りです：」（https://japan.zdnet.com/release/31133059/）
+  - 「また、継続的かつカスタム型のリサーチサービスとして、市場参入調査パッケージ、競合追跡パッケージ、サプライヤー＆流通業者調査パッケージなど、多彩なサービスを提供しています」（https://japan.zdnet.com/release/31133059/）
+  - 「これらのブレークスルーは、中期的には主流のデバイスメーカーにとって参入障壁を下げ、量産を可能にしています」（https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/）
+  - 「航空宇宙、防衛、通信分野の主要企業の集中が初期段階の需要を保証し、地元サプライヤーが量産方法を洗練することを可能にしています」（https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/）
+  - 「また、市場集中度、主要企業の戦略的動向、市場シェア分析、および主要16社の企業プロファイル（グローバルおよび市場レベルの概要、コアセグメント、財務情報、戦略情報、市場ランク/シェア、製品とサービス、最近の動向を含む）を通じて、競争環境も深く掘り下げています」（https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/）
+  - 「4.5.3 新規参入の脅威」（https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/）
+- 日本企業：
+  - 「日本と韓国では、精密光学、半導体、民生用電子機器がフォトニックメタマテリアルの用途展開を後押ししている」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「電磁メタマテリアル市場：2034 年までの成長予測と市場動向 - ZDNET Japan」（https://japan.zdnet.com/release/31133059/）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31133059/）
+  - 「ZDNET Japan」（https://japan.zdnet.com/release/31133059/）
+  - 「CNET Japan Top Story」（https://japan.zdnet.com/release/31133059/）
+  - 「日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始」（https://japan.zdnet.com/release/31133059/）
+  - 「「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題」（https://japan.zdnet.com/release/31133059/）
+  - 「日立、過去最高業績を更新--成長をリードする「Lumada」と「HMAX」」（https://japan.zdnet.com/release/31133059/）
+  - 「「Hitachi Digital」2030年度までに事業規模2倍へ--CEOアナンド・ビルジェ氏が語る新戦略」（https://japan.zdnet.com/release/31133059/）
+  - 「ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します」（https://japan.zdnet.com/release/31133059/）
+  - 「PDF Report at ZDNET Japan」（https://japan.zdnet.com/release/31133059/）
+  - 「CNET Japan」（https://japan.zdnet.com/release/31133059/）
+  - 「ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています」（https://japan.zdnet.com/release/31133059/）
+  - 「ZDNET Japan is operated by 4X Corp under license from Ziff Davis.」（https://japan.zdnet.com/release/31133059/）
+  - 「※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです」（https://www.marketresearch.co.jp/insights/metamaterials-market-mordor/）
+- 上位シェア：
+  - 「メタマテリアル市場の規模とシェア、2026〜2035年予測レポート」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「Evolv Technologies が 2025 年に 10.2% を超える市場シェアを占め、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「が含まれ、これらの企業が占める市場シェアは 2025 年に合計で」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「電磁メタマテリアルは 2025年に 6億1,720万米ドルを計上し、収益の 43.3%を占めて首位となった」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「フォトニックメタマテリアルは 26.9%のシェアを占め、メタレンズやメタサーフェス光学が画像処理、LiDAR、コンパクトセンシングシステムにおける光学スタックの深さを縮小することから、CAGR 23.5%で拡大する見込みである」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「テラヘルツ材料は 13.8%を占め、サブミリメートル単位の特徴制御によって性能と生産難度の双方が高まるスクリーニングおよび検査用途に依然として集中している」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「チューナブルメタマテリアルは 11.0%を占め、その商業的価値は、再構成可能なインテリジェント・サーフェスや適応型開口向けのアクティブ制御にある」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「アンテナおよびレーダーシステムは 2025年に 4億5,830万米ドルを生み出し、市場収益の 32.2%を占めた」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「画像処理および光学システムは 20.4%を占め、メタサーフェス光学がコンパクトな画像処理・LiDARアーキテクチャへのソリッドステート方式を提供することから、CAGR 24.7%で最も急速に成長する用途となっている」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「センシングおよび検知は 16.8%を占め、セキュリティスクリーニングと産業検査が牽引している」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「一方、ワイヤレス電力伝送は 4.8%を占めた」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「グラフ：メタマテリアル市場収益シェア、用途別（2025年）」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「通信分野は、ネットワーク機器で小型アンテナ、フィルタリング、制御可能な信号伝搬が求められることを背景に、2025年に 3億8,920万米ドル、27.3%のシェアを占め、最終用途需要をリードした」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「航空宇宙・防衛分野は24.8%を占め、レーダー、電子戦、衛星通信に対する安定した需要基盤を維持した」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+- 投資：
+  - 「China metamaterials industry held a substantial share in the Asia Pacific market in 2025, driven by its significant investments in」（https://www.grandviewresearch.com/industry-analysis/metamaterials-market）
+  - 「In April 2024, BASF Venture Capital (BVC) made an investment in Phomera Metamaterials Inc., a developer of photonic crystal metamaterials. This investment was part of Phomera’s Series A financing round and is intended to facilitate the expansion of the company’s capacity, the exploration of new markets, and the enhancement of its product offerings.」（https://www.grandviewresearch.com/industry-analysis/metamaterials-market）
+  - 「Rapid adoption of 5G and next-generation wireless technologies, increasing defense and aerospace investments, growing demand for miniaturized high-performance electronic devices, and continuous advancements in photonic and electromagnetic material engineering are driving the metamaterials market.」（https://www.grandviewresearch.com/industry-analysis/metamaterials-market）
+  - 「Material Development, Aerospace and Communication Applications, Research Investment, Manufacturing Innovation and Industry Forecast (2026-2034)」（https://www.maximizemarketresearch.com/market-report/global-metamaterials-market/24404/）
+  - 「In August 2020, Keymeta Corporation announced the company's recapitalization, coupled with the successful funding raise of approximately $85 million, led by Bill Gates.」（https://www.marknteladvisors.com/research-library/global-metamaterial-market.html）
+  - 「In April 2024, BASF Venture Capital increased its investment in Phomera Metamaterials Inc. through a Series A financing round intended to support capacity expansion, downstream market development and product upgrades in photonic crystal metamaterials.」（https://finance.yahoo.com/technology/articles/metamaterials-market-reach-usd-4-181500209.html）
+  - 「the Engineering and Physical Sciences Research Council (EPSRC), as part of UK Research and Innovation's commitment in metamaterials research through a new, collaborative NetworkPlus, will provide an additional £2.5 million in funding to the UK science and tech research community.」（https://www.precedenceresearch.com/metamaterials-market）
+  - 「Kapta Space, a Seattle startup building lower-cost, steerable radar sensors for satellites, has raised $24 million in a Series A funding round to scale production and meet growing demand for defense intelligence contracts.」（https://www.metaventurepartners.com/news）
+  - 「Neurophos Secures $110 Million Series A」（https://www.metaventurepartners.com/news）
+  - 「Neurophos just rocketed out of stealth with an oversubscribed $110 million Series A to commercialize its breakthrough photonic AI chips that are up to 100× faster and more energy-efficient than today’s GPUs for datacenter AI workloads.」（https://www.metaventurepartners.com/news）
+  - 「Cephia Secures $4M Seed Funding」（https://www.metaventurepartners.com/news）
+  - 「Lumotive eyes new frontiers after $45M series B investment」（https://www.metaventurepartners.com/news）
+  - 「Total funding now tops $100M as a raft of new investors back the developer of light-controlling metasurfaces.」（https://www.metaventurepartners.com/news）
+  - 「Neurophos, a spinout from Duke University and Metacept, has raised a $7.2 million seed round to pursue metamaterials and optical AI inference chips.」（https://www.metaventurepartners.com/news）
+  - 「LEADOPTIK Raises $5 Million in Series Seed Funding to Advance Early Lung Cancer Detection with Cutting-Edge Imaging Technology」（https://www.metaventurepartners.com/news）
+- 検索結果の抜粋：
+  - 「メタマテリアル市場 サイズとシェア 2026-2035 — メタマテリアル市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > metamaterial-market」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル市場規模 ・シェア・業界レポート、2034年 — メタマテリアル市場規模 ・シェア・業界レポート、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > メタマテリアル...」（https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857）
+  - 「電磁 メタマテリアル市場 ：2034 年までの 成長 予測と 市場 動向 — 電磁 メタマテリアル市場 ：2034 年までの 成長 予測と 市場 動向 ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31133059/）
+  - 「メタマテリアル 吸収体材料 市場 の 規模 とシェア、2034年 — メタマテリアル 吸収体材料 市場 の 規模 とシェア、2034年 Global Market Insights Inc. https://www.gminsights.com > ... > 先端材料 > 機能性材料」（https://www.gminsights.com/ja/industry-analysis/metamaterial-absorbers-materials-market）
+  - 「メタマテリアル 市場規模・シェア・業界レポート、2034年 — メタマテリアル 市場規模・シェア・業界レポート、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > メタマテリアル...」（https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E5%B8%82%E5%A0%B4-113857）
+  - 「メタマテリアル 市場 サイズとシェア 2026-2035 — メタマテリアル 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > metamaterial-market」（https://www.gminsights.com/ja/industry-analysis/metamaterial-market）
+  - 「メタマテリアル - メーカー・ 企業 4社の業務用製品ランキング — メタマテリアル - メーカー・ 企業 4社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > メタマテリアル」（https://mono.ipros.com/cg2/%E3%83%A1%E3%82%BF%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB/）
+  - 「メタマテリアル 市場規模・産レポート 2031 - Mordor Intelligence — メタマテリアル 市場規模・産レポート 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/metamaterials-market）
+  - 「電磁 メタマテリアル 市場：2034 年までの成長予測と市場動向 — 電磁 メタマテリアル 市場：2034 年までの成長予測と市場動向 ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31133059/）
+  - 「Metamaterials Market Size , Share & Trends Report, 2033 — Metamaterials Market Size , Share & Trends Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/metamaterials-market）
+  - 「Metamaterial Market Size , Share & Industry Trends 2035 — Metamaterial Market Size , Share & Industry Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/metamaterial-market-11050）
+  - 「Metamaterials Market Size , Share & Industry Report, 2034 — Metamaterials Market Size , Share & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/metamaterials-market-113857）
+  - 「Metamaterial Market Size, Share & Industry Trends 2035 — Metamaterial Market Size, Share & Industry Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/metamaterial-market-11050）
+  - 「Metamaterials Market Size, Share & Trends Report, 2033 — Metamaterials Market Size, Share & Trends Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/metamaterials-market）
+  - 「Metamaterials Market Size, Share & Industry Report, 2034 — Metamaterials Market Size, Share & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/metamaterials-market-113857）
+
+## 熱電変換材料（thermoelectric materials）
+- 文脈：エネルギー
+- 市場規模：
+  - 「Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です.」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「この業績に寄与する低炭素エネルギーオプションの幅広い範囲は、2023年に、世界規模の投資は、新しい技術、再生可能エネルギー、および高度輸送によって支えられたUSD 1.77兆の高い記録に当たる」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「中国のUSD 676億投資でも、すべてのEU、米国、英国パッケージの合計は中国を超えています」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「熱電材料の市場規模は2024年のUSD 1.05億の価値があると推定されました」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「世界の熱電デバイス市場は、2022年の10.2億米ドルから2031年には21.2億米ドルへと拡大する見込みであり、予測期間（2023年～2031年）における年平均成長率（CAGR）は8.5％に達すると予測されています」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界の滅菌サービス市場は2031年に5,290.1百万米ドルへ拡大、CAGR5.1%で持続成長する医療インフラの中核分野」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のイムノアッセイ市場は2031年に548億5000万米ドルへ拡大、CAGR5.4％で持続成長を遂げる高度診断技術の中核分野」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のパッケージの電源供給とチップの電源供給市場は2031年に24.8億米ドルへ拡大、CAGR 5%で成長予測」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のモジュラー式建設市場は2031年に2,233億米ドルへ拡大、CAGR6.1%で成長予測」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界の化学センサー市場は2031年に457億米ドル規模へ、CAGR 8.52％で拡大する次世代センシング技術の成長展望」（https://www.atpress.ne.jp/news/3622076）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/3622076）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/3622076）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/3622076）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/3622076）
+- 成長率：
+  - 「Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です.」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「Spherical Insights & Consulting が発表した研究報告によると、グローバル熱電材料市場規模は、2024 年 USD 1.05 億米ドルから2035 年までに 9.5% のCAGR で成長する予定です」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「世界の熱電デバイス市場、2031年までに21.2億米ドル規模へ成長 ― 年平均成長率（CAGR）8.5％で持続的拡大を予測」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界の熱電デバイス市場は、2022年の10.2億米ドルから2031年には21.2億米ドルへと拡大する見込みであり、予測期間（2023年～2031年）における年平均成長率（CAGR）は8.5％に達すると予測されています」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界の滅菌サービス市場は2031年に5,290.1百万米ドルへ拡大、CAGR5.1%で持続成長する医療インフラの中核分野」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のイムノアッセイ市場は2031年に548億5000万米ドルへ拡大、CAGR5.4％で持続成長を遂げる高度診断技術の中核分野」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のパッケージの電源供給とチップの電源供給市場は2031年に24.8億米ドルへ拡大、CAGR 5%で成長予測」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のモジュラー式建設市場は2031年に2,233億米ドルへ拡大、CAGR6.1%で成長予測」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界のPCB設計ソフトウェア市場：2032年に113億米ドル規模へ、CAGR14.8％で加速する次世代エレクトロニクス設計革命」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界の化学センサー市場は2031年に457億米ドル規模へ、CAGR 8.52％で拡大する次世代センシング技術の成長展望」（https://www.atpress.ne.jp/news/3622076）
+  - 「世界の熱電デバイス市場、2031年までに21.2億米ドル規模へ成長 ― 年平均成長率（CAGR）8.5％で持続的拡大を予測 | Panorama Data Insights Ltd.」（https://www.atpress.ne.jp/news/3622076）
+  - 「7.5.2 動作温度領域の拡大」（https://www.cmcbooks.co.jp/products/detail.php?product_id=116128）
+  - 「熱電材料の市場規模は、2026年の11億米ドルからCAGR8.1％で成長し、2034年までに21億米ドルに達すると予測されています」（https://japan.zdnet.com/release/31207244/）
+  - 「8.89%のCAGR」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「予測CAGR (2026～2033): 8.89%」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+- 主要企業：
+  - 「Startups」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「主要企業の動向：技術革新と製品ポートフォリオの拡充」（https://www.atpress.ne.jp/news/3622076）
+  - 「主要企業としては、Ferrotec Holdings、II-VI Incorporated、Laird Thermal Systems、Yamaha Corporation、Kryotherm、TEGProなどが挙げられます」（https://www.atpress.ne.jp/news/3622076）
+  - 「本書が、熱電変換技術に関わる研究者・技術者の方々のお役にたち、またこの分野へ新規参入される研究者・技術者のきっかけとなり、さらには熱電発電技術を世に送り出す研究に少しでも多くの研究者・技術者が参加して頂く一助となれば幸いです」（https://www.cmcbooks.co.jp/products/detail.php?product_id=116128）
+  - 「世界の熱電材料市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「市場の主要企業には、」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「この調査結果は非常に有益で、新市場参入の判断に役立ちました」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「With a strong focus on analytical precision and strategic relevance, he has authored and contributed to customized reports, consulting deliverables, and competitive landscape assessments that serve leading semiconductors & ICT providers, automotive innovators, and logistics & transportation companies worldwide.」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「Key Players」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「Who are major players in thermoelectric materials market?」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「Companies such as Transphorm Inc. (U.S.), greenTEG AG (Switzerland), ThermoAura, Inc. (U.S.), and Alphabet Energy (U.S.) are major players in thermoelectric materials market.」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「led competitive landscape」（https://dataintelo.com/report/global-thermoelectric-material-market）
+  - 「Key Companies Analyzed」（https://dataintelo.com/report/global-thermoelectric-material-market）
+  - 「The threat of new entrants in the thermoelectric material market is low. This is due to the high capital investment required to enter the market as well as the need for specialized knowledge of thermoelectric materials. Additionally, the market is already well established and dominated by a few key players, making it difficult for new entrants to gain a foothold.」（https://dataintelo.com/report/global-thermoelectric-material-market）
+  - 「Map the competitive landscape and the strategies of leading players」（https://dataintelo.com/report/global-thermoelectric-material-market）
+- 日本企業：
+  - 「中国・日本・韓国・韓国の積極的な電子製造、政府主催の環境への取り組み、及び広範な産業化により、熱電材料の市場がアジア・パシフィックに浸透しています」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「2023年に中国で熱電材料の約34%が生産され、日本経済新聞社より30万米ドルの熱電研究開発プログラムが支援されました」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「京セラ株式会社」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「日本に本社を構えるフェロテックは、廃熱回収・発電に使用される熱電モジュールの製造を得意としています」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「京セラ株式会社 - 日本」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「京セラ株式会社は、熱電モジュールの開発に大きな投資をし、日本に本社を構える多様化する技術会社です」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「京セラの効率的な熱対電気変換技術は、省エネに貢献し、グローバルな持続可能性への取り組みを支援します」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「特に日本、中国、韓国は、材料開発と製造技術の両面で世界的な競争力を有しており、熱電発電モジュールや冷却システムの商用化が急速に進展しています」（https://www.atpress.ne.jp/news/3622076）
+  - 「日本企業は、精密製造や電子部品分野での応用を中心に、信頼性の高い高効率デバイスの開発を推進しています」（https://www.atpress.ne.jp/news/3622076）
+  - 「https://japaninsights.jp/」（https://www.atpress.ne.jp/news/3622076）
+  - 「(編纂):日本熱電学会」（https://www.cmcbooks.co.jp/products/detail.php?product_id=116128）
+  - 「岩崎悠真 日本電気㈱」（https://www.cmcbooks.co.jp/products/detail.php?product_id=116128）
+  - 「日本全国一律660円」（https://www.cmcbooks.co.jp/products/detail.php?product_id=116128）
+  - 「熱電材料の市場規模、2034年に21億米ドル到達予測 - ZDNET Japan」（https://japan.zdnet.com/release/31207244/）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31207244/）
+- 上位シェア：
+  - 「アジア・パシフィックは、2025年、消費者向け電子機器製造、自動車電気化、産業熱回収システム、中国、日本、韓国、インドにおける半導体・エネルギー貯蔵生産の急速な拡大により、熱電材料市場を占める」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「Bismuthのテルル化物の区分は2025年の44.7%のシェアと市場を、それの低いから中温度の適用のための最も広く利用された熱電材料、特に冷却モジュール、消費者電子工学、医療機器および自動車シートの冷却装置で支配しました」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「BismuthのTerurideの区分は2025年の44.7%のシェアと市場を、それの低いから中温度の適用のための最も広く利用された熱電材料、特に冷却モジュール、消費者電子工学、医療機器および自動車シートの冷却装置で支配しました」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「廃熱回収部門は、産業製造プラント、自動車排気システム、発電ユニット、重機事業の展開を増加させ、2025年に38.9%のシェアで市場を支配しました」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「ミディアム温度セグメントは、2025年に41.3%のシェアで市場を支配し、産業廃棄物の熱回収、自動車システム、商業熱管理用途の広範な使用に向けました」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「ミディアム・パワー・セグメントは、自動車電子機器、産業用センサー、冷却システム、コンシューマー・アプライアンス・アプライアンスを横断する強力な配備により、2025年に36.5%のシェアで市場を支配しました」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「Asia-Pacific dominated the thermoelectric materials market with a 41.8% revenue share in 2025, driven by strong growth in consumer electronics manufacturing, automotive electrification, industrial heat recovery systems, and rapid expansion of semiconductor and energy storage production across China, Japan, South Korea, and India」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「The Bismuth Telluride segment dominated the market with a 44.7% share in 2025, as it remains the most widely used thermoelectric material for low- to medium-temperature applications, particularly in cooling modules, consumer electronics, medical devices, and automotive seat cooling systems」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「On the basis of wattage, the market is segmented into Low Power, Medium Power, High Power, and Others. The Medium Power segment dominated the market with a 36.5% share in 2025, supported by strong deployment across automotive electronics, industrial sensors, cooling systems, and consumer appliances. These systems offer an ideal balance between energy efficiency and operational performance.」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「Market Share (2025)」（https://dataintelo.com/report/global-thermoelectric-material-market）
+  - 「Market dominated by 1 - 5 major players」（https://www.reanin.com/reports/thermoelectric-materials-market）
+  - 「Based on application, the waste heat recovery segment accounted for the largest share of 58.32% in 2023.」（https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report）
+  - 「Based on vertical, the industrial segment held the largest market share of 48.94% in 2023.」（https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report）
+  - 「Based on type, the single-stage type segment held the largest market share of 45.96% in 2023.」（https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report）
+  - 「Waste heat recovery emerged as the largest application segment, with a market share of 58.32% in 2023, and is expected to witness robust growth over the forecast period. This significant share underscores the increasing adoption of TEG technology for harnessing and converting waste heat into usable electricity across various industries.」（https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report）
+- 投資：
+  - 「North America is projected to register the fastest CAGR of 10.54% from 2026 to 2033, driven by rising adoption of industrial waste heat recovery systems, EV battery cooling solutions, aerospace thermal systems, and increasing investment in advanced energy technologies across the U.S. and Canada」（https://www.databridgemarketresearch.com/reports/global-thermoelectric-materials-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/global-thermoelectric-material-market）
+  - 「sustain demand for multi-stage detector cooling, while hyperscalers drive transceiver volumes. CHIPS Act funding of USD 52.7 billion」（https://www.marketresearchfuture.com/reports/thermoelectric-module-market-8503）
+  - 「In September 2026, Tark Thermal Solutions, formerly Laird Thermal Systems, announced a USD 5.50 million investment in Durham, North Carolina, that will more than double its U.S. production space for thermoelectric components, with completion expected in January 2027. The expansion reflects the regional push to build capacity near customers.」（https://www.snsinsider.com/reports/thermoelectric-materials-market-4738）
+  - 「2025, KELK, a member of the Komatsu group, was granted U.S. Patent 12,225,820 B2 for a thermoelectric generation device. The grant signals continued intellectual property investment in generator designs for converting heat into electricity.」（https://www.snsinsider.com/reports/thermoelectric-materials-market-4738）
+  - 「Mater-AI secures £1.5m pre-seed startup funding | Startupmag | Startupmag」（https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/）
+  - 「Mater-AI secures £1.5m pre-seed startup funding」（https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/）
+  - 「This article covers Mater-AI, a UK greentech startup, which has raised £1.5m in a」（https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/）
+  - 「, has raised £1.5m in a pre-seed round led by Twin Path Ventures to commercialise an AI-driven platform for discovering new thermoelectric materials. The technology targets recovery of waste heat across data centres, transport and industrial sites — a practical route to efficiency gains that could affect energy use and supply chains across the UK and Europe.」（https://www.startupmag.co.uk/funding/mater-ai-2025-pre-seed-funding/）
+  - 「UK based AI materials startup Mater-AI has raised £1.5M in a pre-seed round led by Twin Path Ventures with participation from Mishcon de Reya, One Planet Capital, XTX Ventures, the Conception X Angel Syndicate, Koro Capital and Tailored Solutions.」（https://mater-ai.com/news/mater-ai-raises-%C2%A31.5m-to-turn-waste-heat-into-electricity-with-ai-discovered-materials）
+- 検索結果の抜粋：
+  - 「熱電材料市場 の洞察レポート2035のトップ50企業 — 熱電材料市場 の洞察レポート2035のトップ50企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-50-comp...」（https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-thermoelectric-materials-market-statistics-report-till-2035）
+  - 「熱電材料市場規模 と 成長 レポート、2035 年 — 熱電材料市場規模 と 成長 レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/thermoelectric-material-market-127583）
+  - 「熱電材料 の 市場 規模、2034年に21億米ドル到達 予測 — 熱電材料 の 市場 規模、2034年に21億米ドル到達 予測 ZDNET Japan https://japan.zdnet.com > プレスリリース」（https://japan.zdnet.com/release/31207244/）
+  - 「熱電材料市場 の規模、シェア、2030年までの動向 — 熱電材料市場 の規模、シェア、2030年までの動向 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-thermoelectric-materials-market）
+  - 「未利用熱を有効活用する 熱電変換材料 の開発 — 未利用熱を有効活用する 熱電変換材料 の開発 函館工業高等専門学校 PDF https://www.hakodate-ct.ac.jp > 60_yanagiya」（https://www.hakodate-ct.ac.jp/wp-content/uploads/2026/09/60_yanagiya.pdf）
+  - 「Thermoelectric Generator Market Size Report, 2024-2030 — Thermoelectric Generator Market Size Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/thermoelectric-generator-market-report）
+  - 「Thermoelectric Materials Market Report (2026) — Thermoelectric Materials Market Report (2026) Strategic Market Research https://www.strategicmarketresearch.com > ...」（https://www.strategicmarketresearch.com/market-report/thermoelectric-materials-market）
+  - 「Thermoelectric Materials Market to Grow at 8.89% CAGR ... — Thermoelectric Materials Market to Grow at 8.89% CAGR ... openPR.com https://www.openpr.com > news > the...」（https://www.openpr.com/news/3939306/thermoelectric-materials-market-to-grow-at-8-89-cagr-through）
+
+## 磁性材料（ネオジム磁石・重希土フリー）（rare earth free magnet）
+- 文脈：モーター
+- 市場規模：
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://newscast.jp/smart/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会」（https://newscast.jp/smart/news/9399503）
+  - 「市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています」（https://newscast.jp/smart/news/9399503）
+  - 「2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ達するとの予測のもと、単なる素材供給市場から、電動化・省エネルギー化・産業自動化を支える戦略的な材料市場へと、その重要性をさらに高めていくと考えられる」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年まで緩やかな拡大が見込まれる一方、市場成長をそのまま企業収益の拡大と捉えることはできません」（https://newscast.jp/smart/news/9399503）
+  - 「そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://www.atpress.ne.jp/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会」（https://www.atpress.ne.jp/news/9399503）
+- 成長率：
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://newscast.jp/smart/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://newscast.jp/smart/news/9399503）
+  - 「これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています」（https://newscast.jp/smart/news/9399503）
+  - 「2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります」（https://newscast.jp/smart/news/9399503）
+  - 「そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります」（https://newscast.jp/smart/news/9399503）
+  - 「市場が2025年の26億米ドルから2035年に34億米ドルへ拡大する見通しのなか、企業にとって重要なのは市場全体の成長率だけではなく、どの磁石カテゴリー・用途・技術領域で平均を上回る成長機会が生まれるのかを特定し、研究開発投資、設備投資、製品ラインアップ、顧客開拓を連動させることです」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://www.atpress.ne.jp/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://www.atpress.ne.jp/news/9399503）
+  - 「これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています」（https://www.atpress.ne.jp/news/9399503）
+  - 「2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される」（https://www.atpress.ne.jp/news/9399503）
+  - 「日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります」（https://www.atpress.ne.jp/news/9399503）
+  - 「そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります」（https://www.atpress.ne.jp/news/9399503）
+- 主要企業：
+  - 「主要企業のリスト：」（https://newscast.jp/smart/news/9399503）
+  - 「主要企業のリスト：」（https://www.atpress.ne.jp/news/9399503）
+  - 「主要企業は、高性能磁石の開発、垂直統合された希土類サプライチェーン、精密な製造能力、および研究開発への継続的な投資を通じて競争しています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/magnetic-materials-market）
+  - 「The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました」（https://www.theinsightpartners.com/ja/reports/magnetic-materials-market）
+  - 「競争環境についても、市場構造、主要企業のポジショニング、トップの成功戦略、競争ダッシュボード、企業評価象限などを含む包括的な分析が提供されています」（https://www.atpress.ne.jp/news/3762300）
+  - 「さらに、全ての主要企業に関する詳細なプロファイルも掲載されています」（https://www.atpress.ne.jp/news/3762300）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「Major Players」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「Key Players and Competitive Insights」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「Key Companies in the Rare Earth Magnet Market include」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「Revenue Forecast, Competitive Landscape, Growth Factors, and Trends」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「Key Companies Profiled」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「Which companies are considered key players in the Rare Earth Magnet Market?」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+- 日本企業：
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場が、電動化と産業の高度化を背景に新たな成長段階を迎えようとしている」（https://newscast.jp/smart/news/9399503）
+  - 「市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである」（https://newscast.jp/smart/news/9399503）
+  - 「特に日本では、自動車産業の電動化、製造現場の省人化、エネルギー効率の改善が進むなか、磁石に求められる性能と調達条件が大きく変化している」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は、既存産業における安定した需要を基盤としながら、次世代モビリティや高度な産業機器向けの需要拡大によって成長すると見込まれる」（https://newscast.jp/smart/news/9399503）
+  - 「自動車産業は、日本磁石市場の中長期的な需要を左右する主要分野の一つである」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場において、ネオジム磁石などの希土類永久磁石は、高性能モーターや精密機器に不可欠な材料として重要性を増している」（https://newscast.jp/smart/news/9399503）
+  - 「日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています」（https://newscast.jp/smart/news/9399503）
+  - 「2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました」（https://newscast.jp/smart/news/9399503）
+  - 「日本の自動車産業における電動化の進展に加え、ロボット工学、工場自動化、精密機械、クリーンエネルギー技術への投資が、高性能永久磁石に対する持続的な需要を生み出しています」（https://newscast.jp/smart/news/9399503）
+  - 「• Shin-Etsu Chemical Co., Ltd.」（https://newscast.jp/smart/news/9399503）
+  - 「• TDK Corporation」（https://newscast.jp/smart/news/9399503）
+- 上位シェア：
+  - 「2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました」（https://newscast.jp/smart/news/9399503）
+  - 「2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました」（https://www.atpress.ne.jp/news/9399503）
+  - 「永久磁石市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場の規模、シェア、トレンド分析レポート：タイプ別（ネオジム鉄ホウ素（NdFeB）、サマリウムコバルト（SmCo）、フェライト、アルニコ）、材料別（希土類磁石、結合磁性材料、フェライト磁石、ネオジム（NdFeB）、サマリウムコバルト（SmCo）、フェライト（セラミック））、エンドユーザー別（自動車、再生可能エネルギー、産業、家電、航空宇宙・防衛、医療、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域は、2025年に74.68%の市場シェアを占め、永久磁石市場を牽引しました」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「ネオジム鉄ホウ素（NdFeB）セグメントは、その優れた磁気強度、高いエネルギー密度、および小型アプリケーションにおける優れた性能により、2025年には67.8%のシェアを占めました」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「希土類磁石分野は、その優れた磁力、コンパクトなサイズ、そして電気自動車、風力タービン、産業オートメーション、家電製品などにおける幅広い用途により、2025年には73.5%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「自動車分野は、永久磁石同期モーターを使用する電気自動車およびハイブリッド車の生産増加により、2025年には34.7%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「国際エネルギー機関（IEA）によると、中国は世界の希土類鉱業の約70％、希土類処理能力の約90％を占めており、永久磁石生産におけるリーダーシップを確固たるものにしている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「2025年の永久磁石市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域は2025年に74.68%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+- 投資：
+  - 「2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した」（https://newscast.jp/smart/news/9399503）
+  - 「2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した」（https://www.atpress.ne.jp/news/9399503）
+  - 「永久磁石市場における主要な投資および資金調達活動、2026年」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「The U.S. Department of Energy selected rare earth processing projects in Louisiana and Oklahoma for USD 134 million in funding. The projects focus on recovering rare earth elements from waste streams and strengthening the domestic supply chain for rare earth magnet manufacturing.」（https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256）
+  - 「The UAE represented 17.6% of Middle East & Africa demand in 2025 and is projected to grow at an approximately 22.7% CAGR (2026–2035). Clean-energy investment and advanced-manufacturing development support the country's above-average outlook. Its role as a regional technology and logistics hub may also strengthen demand for industrial automation and equipment components.」（https://www.gminsights.com/industry-analysis/permanent-magnet-market）
+  - 「The US Department of Defense announced strategic funding support to North America's largest rare earth producer, MP Materials, including capital investment exceeding $400 million and NdPr price floor commitments, to bolster domestic rare earth magnet supply.」（https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996）
+  - 「through 2034, underpinned by continued manufacturing scale-up, infrastructure investment, and the region's central role in global electronics supply chains.」（https://dataintelo.com/report/heavy-rare-earth-free-magnet-market）
+  - 「is a dominant global supplier of NdFeB magnet materials and in 2025 invested in expanded capacity for its proprietary grain-boundary diffusion technology, which reduces HREE content in NdFeB grades by up to 50% while maintaining equivalent coercivity, effectively bridging the market between conventional NdFeB and fully HREE-free alternatives.」（https://dataintelo.com/report/heavy-rare-earth-free-magnet-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/heavy-rare-earth-free-magnet-market）
+  - 「Japan (18.2%), Europe (14.6%), and the USA (12.2%) follow, driven by high-performance specialty magnet demand, EV drivetrain localization initiatives, and strategic supply chain diversification investments in response to China's April 2025 export controls on NdFeB and SmCo magnet materials.」（https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant）
+  - 「The US DoD's USD 400 million commitment to MP Materials in 2025, EU Critical Raw Materials Act provisions, and Japan's rare earth stockpiling programs are catalyzing new magnet manufacturing capacity outside China, creating greenfield investment opportunities.」（https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant）
+  - 「Growing end-of-life EV and wind turbine volumes are creating a scalable rare earth magnet recycling market. By 2040, an estimated 240,000 tonnes shortage in rare earth magnets is projected, driving commercial recycling urgency and investment.」（https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant）
+  - 「Growing environmental concerns and strategic supply security imperatives are converging to accelerate rare earth magnet recycling. The US Department of Energy has committed research funding to domestic recycling programs. As EV and wind turbine end-of-life volumes grow through the 2030s, recycled rare earth content will become a meaningful supply component.」（https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant）
+  - 「Defense and aerospace SmCo demand; EV transition; USD 400M DoD investment in domestic rare earth magnet supply chain resilience in 2025」（https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant）
+  - 「In June 2021, Ningbo Jintian Copper Group invested approximately 600 million yuan to develop a high-performance rare earth permanent magnet materials and devices project, aimed at expanding production capacity and meeting rising demand from high-end downstream industries.」（https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant）
+- 検索結果の抜粋：
+  - 「磁性材料市場 の 規模 、シェアおよび調査レポート 2025年 ... — 磁性材料市場 の 規模 、シェアおよび調査レポート 2025年 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market）
+  - 「磁性材料市場 の規模、シェアおよび調査レポート 2025年 ... — 磁性材料市場 の規模、シェアおよび調査レポート 2025年 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market）
+  - 「熱間加工 ネオジム磁石 - NeoMag — 熱間加工 ネオジム磁石 - NeoMag ネオマグ株式会社 https://www.neomag.jp > mag_navi > column > world034」（https://www.neomag.jp/mag_navi/column/world034.html）
+
+## 軟磁性材料（アモルファス・ナノ結晶）（nanocrystalline soft magnetic）
+- 文脈：モーター・電源
+- 市場規模：
+  - 「ナノ結晶軟磁性材料市場規模 |2034年までに」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「で増加する世界のナノクリスタル軟磁性材料市場規模は、2024年の」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「ナノ結晶軟磁性材料市場規模(2024年版)」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「米ドル 3.8 億ドル」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「世界のナノ結晶軟磁性材料市場は2024年に約 7.79 億米ドルと推定されています」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「韓国市場は2024年に米ドル 242.8 百万米ドルと評価されています」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「によると、2025年から2031年にかけての世界アモルファスおよびナノ結晶軟磁性材料市場は年平均成長率9.3%で拡大し、2031年には市場規模が15.29億米ドルに達すると予測されている」（https://www.dreamnews.jp/press/0000338132）
+  - 「第2章では、アモルファスおよびナノ結晶軟磁性材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://www.dreamnews.jp/press/0000338132）
+  - 「第4章では、アモルファスおよびナノ結晶軟磁性材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.dreamnews.jp/press/0000338132）
+  - 「第6章では、アジア太平洋地域におけるアモルファスおよびナノ結晶軟磁性材料市場規模と各種用途を、販売量と収益を中心に分析します」（https://www.dreamnews.jp/press/0000338132）
+  - 「第12章では、アモルファスおよびナノ結晶軟磁性材料の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します」（https://www.dreamnews.jp/press/0000338132）
+  - 「2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場」（https://www.dreamnews.jp/press/0000338132）
+  - 「YH Researchの最新レポート「グローバルアモルファスおよびナノ結晶軟磁性材料のトップ会社の市場シェアおよびランキング?2026」によると、2026年から2032年にかけての世界アモルファスおよびナノ結晶軟磁性材料市場は年平均成長率8.7%で拡大し、2032年には市場規模が1707百万米ドルに達すると予測されている」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「世界各地に拠点を持ち、160カ国以上の企業に対して、市場規模分析、競合評価、カスタムリサーチ、IPO支援、事業計画策定など、幅広いソリューションを提供しています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「【人口10万人あたりの公園・遊園地数、島根県が最多で大阪府の4.3倍】遊園地を含む区分の市場データを無料公開（事業所数・市場規模・広告費）」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+- 成長率：
+  - 「CAGR (2026 - 2036):」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「10.2%CAGR」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「世界市場成長率(2024年から2034年)」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「10.2% CAGR」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「10.8% CAGR」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「成長率(2024年から2034年)」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「11.1% CAGR」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「9.6% CAGR」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「9.3% CAGR」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「ナノ結晶軟磁性材料の需要は、2024年から2034年にかけてCAGR 10.2%で増加すると予測されています」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「半導体産業におけるナノ結晶軟磁性材料の需要は、2034年までに9.3%CAGRで増加すると予測されています」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「によると、2025年から2031年にかけての世界アモルファスおよびナノ結晶軟磁性材料市場は年平均成長率9.3%で拡大し、2031年には市場規模が15.29億米ドルに達すると予測されている」（https://www.dreamnews.jp/press/0000338132）
+  - 「2030年代に向け、EVインバータ・ロボティクス電源・分散型蓄電システムなど、新興分野での応用が拡大し、設計段階からアモルファス／ナノ結晶材料を前提とした機器開発が主流となる可能性が高い」（https://www.dreamnews.jp/press/0000338132）
+  - 「第3章では、アモルファスおよびナノ結晶軟磁性材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000338132）
+  - 「第4章では、アモルファスおよびナノ結晶軟磁性材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://www.dreamnews.jp/press/0000338132）
+- 主要企業：
+  - 「紹介する主要企業」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「内蔵機能、滑らかなモジュール構造、電子回路の新しい空間配置における 3Dフラックスパスは、ナノ結晶軟磁性材料市場の主要プレイヤーにとって大きな機会を秘めた重要な設計分野です」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「第3章では、アモルファスおよびナノ結晶軟磁性材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000338132）
+  - 「• 主要企業プロファイル」（https://www.atpress.ne.jp/news/4595124）
+  - 「第3章では、アモルファスおよびナノ結晶軟磁性材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/3924079）
+  - 「主要企業にはProterial、Qingdao Yunlu、Advanced Technology、VACUUMSCHMELZE、Zhejiang Zhaojing Electrical、China Amorphous Technology、Henan Zhongyue、Foshan Huaxin、Jiangsu Guoneng Alloy Technology、Bomatec、Vikarsh Nanoなどがある」（https://note.com/qy_research/n/n8279c34d1fde）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「Major Players」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「Key Players and Competitive Insights」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「The Soft Magnetic Material Market is currently characterized by a dynamic competitive landscape, driven by technological advancements and increasing demand across various sectors, including automotive, electronics, and renewable energy. Key players such as Hitachi Metals (Japan),」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「Key Companies in the Soft Magnetic Material Market include」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「Revenue Forecast, Competitive Landscape, Growth Factors, and Trends」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「Key Companies Profiled」（https://www.marketresearchfuture.com/reports/soft-magnetic-material-market-23656）
+  - 「Startups」（https://www.sphericalinsights.com/blogs/top-20-companies-in-global-nanocrystalline-soft-magnetic-materials-market-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「Global Nanocrystalline Soft Magnetic Materials Market Analysis by Key Players」（https://www.cognitivemarketresearch.com/nanocrystalline-soft-magnetic-materials-market-report）
+- 日本企業：
+  - 「日立金属;青島雲魯;中国非晶質技術;先端技術;佛山華新;OJSC MSTATOR;ロンダーフル・ニュー・マテリアル;オリエント・グループ;VACUUMSCHMELZE;河南中岳;ボマテック」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「今後数年間、日本は収益性の高い市場になるのでしょうか?」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「インフラ開発活動の絶え間ない活動と製造技術の進歩は、日本におけるナノ結晶軟磁性材料の需要を押し上げることが期待されています」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「代表的な企業には、日立金属、先端技術、VACUUMSCHMELZE、青島雲路などがあります」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「また欧州ではHitachi Metals（現Proterial）やVACなどの老舗メーカーが技術面で高い信頼を維持し、北米ではMetglasがトランス用途に特化した供給体制を整えている」（https://www.dreamnews.jp/press/0000338132）
+  - 「日本語公式サイト：」（https://www.dreamnews.jp/press/0000338132）
+  - 「日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...」（https://www.dreamnews.jp/press/0000338132）
+  - 「また欧州ではHitachi Metals（現Proterial）やVACなどの老舗メーカーが技術面で高い信頼を維持し、北米ではMetglasがトランス用途に特化した供給体制を整えている」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「TEL：050-5840-2692（日本）；0081-5058402692（グローバル）」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「日本活性炭市場：高度な水処理、産業用空気浄化、高性能カーボンソリューションにおけるビジネス機会」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「軟磁性材料の日本市場（～2031年）、市場規模（電磁鋼板（ケイ素鋼板）、軟質フェライト、アモルファスおよびナノ結晶合金）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/4595124）
+  - 「軟磁性材料の日本市場（～2031年）、市場規模（電磁鋼板（ケイ素鋼板）、軟質フェライト、アモルファスおよびナノ結晶合金）・分析レポートを発表」（https://www.atpress.ne.jp/news/4595124）
+  - 「株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「軟磁性材料の日本市場（～2031年）、英文タイトル：Japan Soft Magnetic Materials Market 2031」調査資料を発表しました」（https://www.atpress.ne.jp/news/4595124）
+  - 「資料には、軟磁性材料の日本市場規模、動向、セグメント別予測（電磁鋼板（ケイ素鋼板）、軟質フェライト、アモルファスおよびナノ結晶合金）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/4595124）
+  - 「日本の軟磁性材料市場は、世界全体を見渡しても、最も技術的に先進的で、世界的に影響力のある先端材料分野の一つとして位置づけられています」（https://www.atpress.ne.jp/news/4595124）
+- 上位シェア：
+  - 「シェアの23.1%」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「図. 世界のアモルファスおよびナノ結晶軟磁性材料市場におけるトップ6企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）」（https://www.dreamnews.jp/press/0000338132）
+  - 「これらトップ3企業は2024年時点で売上シェア約42%を占め、業界の集中度を示している」（https://www.dreamnews.jp/press/0000338132）
+  - 「第2章では、アモルファスおよびナノ結晶軟磁性材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://www.dreamnews.jp/press/0000338132）
+  - 「第3章では、アモルファスおよびナノ結晶軟磁性材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://www.dreamnews.jp/press/0000338132）
+  - 「2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場」（https://www.dreamnews.jp/press/0000338132）
+  - 「上記の図表／データは、YH Researchの最新レポート「グローバルアモルファスおよびナノ結晶軟磁性材料のトップ会社の市場シェアおよびランキング 2026」から引用されている」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「YH Researchの最新レポート「グローバルアモルファスおよびナノ結晶軟磁性材料のトップ会社の市場シェアおよびランキング?2026」によると、2026年から2032年にかけての世界アモルファスおよびナノ結晶軟磁性材料市場は年平均成長率8.7%で拡大し、2032年には市場規模が1707百万米ドルに達すると予測されている」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「図. 世界のアモルファスおよびナノ結晶軟磁性材料市場におけるトップ6企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「これらトップ3企業は2024年時点で売上シェア約42%を占め、業界の集中度を示している」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「本記事は、YH Researchが発行したレポート「グローバルアモルファスおよびナノ結晶軟磁性材料のトップ会社の市場シェアおよびランキング 2026」 を紹介しています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「四輪車および三輪車市場調査レポート - 世界市場規模、シェア、傾向の見通し、2027-2036年」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「2024年、世界のトップ3企業は売上の観点から約69.0%の市場シェアを持っていた」（https://newscast.jp/news/3924079）
+  - 「第2章では、アモルファスおよびナノ結晶軟磁性材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/news/3924079）
+  - 「第3章では、アモルファスおよびナノ結晶軟磁性材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/3924079）
+- 投資：
+  - 「Kite Magnetics lands $2m to scale Aeroperm, slashing EV motor waste up to 97% as it eyes a $22m Series A.」（https://www.startupdaily.net/topic/funding/ev-motor-magnetics-startup-kite-magnetics-accelerates-with-2m-grant/）
+  - 「Monash University spinout Kite Magnetics has scored a $2 million grant via the federal government’s Industry Growth Program as the electric motor materials gears up for a Series A.」（https://www.startupdaily.net/topic/funding/ev-motor-magnetics-startup-kite-magnetics-accelerates-with-2m-grant/）
+  - 「Parsons said the industry grant helps the company bridge a critical commercialisation gap as the startup plans a $22 million Series A raise.」（https://www.startupdaily.net/topic/funding/ev-motor-magnetics-startup-kite-magnetics-accelerates-with-2m-grant/）
+- 検索結果の抜粋：
+  - 「ナノ結晶軟磁性材料市場規模 |2034年までに - Fact.MR — ナノ結晶軟磁性材料市場規模 |2034年までに - Fact.MR Fact.MR https://www.factmr.com > 化学・素材」（https://www.factmr.com/ja/report/771/nano-crystalline-soft-magnetic-materials-market）
+  - 「ナノ結晶軟磁性材料市場規模 | 2035年 — ナノ結晶軟磁性材料市場規模 | 2035年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/nanocrystalline-soft-magnetic-material-market-105094）
+  - 「アモルファス軟磁性材料 の 市場規模 、シェア | 成長 [2027] — アモルファス軟磁性材料 の 市場規模 、シェア | 成長 [2027] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%E8%BB%9F%E7%A3%81%E6%80%A7%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-103526）
+  - 「世界 アモルファス および ナノ結晶軟磁性材料市場 レポート2026 — 世界 アモルファス および ナノ結晶軟磁性材料市場 レポート2026 宮崎日日新聞 https://www.the-miyanichi.co.jp > pressrelease > dreamnews」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1176827.html）
+  - 「軟磁性材料 の日本 市場 （～2031年）、 市場 規模（電磁鋼板 ... — 軟磁性材料 の日本 市場 （～2031年）、 市場 規模（電磁鋼板 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4595124）
+  - 「アモルファス軟磁性材料 の 市場 規模、シェア |成長 [2027] — アモルファス軟磁性材料 の 市場 規模、シェア |成長 [2027] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%E8%BB%9F%E7%A3%81%E6%80%A7%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-103526）
+  - 「ナノ結晶軟磁性材料 の 市場 規模と産業レポート、2033 年 — ナノ結晶軟磁性材料 の 市場 規模と産業レポート、2033 年 Market Reports World https://www.marketreportsworld.com > market-reports > n...」（https://www.marketreportsworld.com/jp/market-reports/nanocrystalline-soft-magnetic-materials-market-14718448）
+  - 「軟磁性材料 - メーカー・ 企業 9社の業務用製品ランキング — 軟磁性材料 - メーカー・ 企業 9社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 軟磁性材料」（https://mono.ipros.com/cg2/%E8%BB%9F%E7%A3%81%E6%80%A7%E6%9D%90%E6%96%99/）
+  - 「1. Fe基 ナノ結晶軟磁性材料 — 1. Fe基 ナノ結晶軟磁性材料 秋田県立大学 https://www.akita-pu.ac.jp > mise > bitoh > research」（https://www.akita-pu.ac.jp/system/mise/material_structure/bitoh/research.htm）
+  - 「アモルファス軟磁性材料 の市場規模、シェア |成長 [2027] — アモルファス軟磁性材料 の市場規模、シェア |成長 [2027] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%E8%BB%9F%E7%A3%81%E6%80%A7%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-103526）
+  - 「Nanocrystalline Soft Magnetic Material Market Size | 2035 — Nanocrystalline Soft Magnetic Material Market Size | 2035 Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/nanocrystalline-soft-magnetic-material-market-105094）
+  - 「Top 20 Companies in Global Nanocrystalline Soft Magnetic ... — Top 20 Companies in Global Nanocrystalline Soft Magnetic ... Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-20-companies-in-global-nanocrystalline-soft-magnetic-materials-market-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「Nanocrystalline Soft Magnetic Materials Market Analysis 2026 — Nanocrystalline Soft Magnetic Materials Market Analysis 2026 Cognitive Market Research and Consulting https://www.cognitivemarketresearch.com > ...」（https://www.cognitivemarketresearch.com/nanocrystalline-soft-magnetic-materials-market-report）
+  - 「Nanocrystalline Soft Magnetic Material Market Size | By 2034 — Nanocrystalline Soft Magnetic Material Market Size | By 2034 Fact.MR https://www.factmr.com > report > na...」（https://www.factmr.com/report/771/nano-crystalline-soft-magnetic-materials-market）
+
+## 超伝導線材（superconducting wire）
+- 文脈：核融合・送電
+- 市場規模：
+  - 「超伝導材料市場規模・予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「Superconducting Material Market Size, by Material Type, 2025 & 2035 (USD Million)」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「NbTiの2025年の市場規模は3億6,400万米ドルで、2026〜2035年の年平均成長率（CAGR）は1.9%と予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「Nb3Snの市場規模は、2026〜2035年に年平均成長率（CAGR）11.0%で拡大し、2035年までに3億1,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「LTS — その他の2025年の市場規模は1,300万米ドルで、2035年には市場の1.2%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「REBCO/YBCOは、2035年までに市場規模が7億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）16.3%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「BSCCOは2025年に2,100万米ドルの市場規模を記録し、2035年には1,800万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「研究段階・新興材料は、2025年に900万米ドルの市場規模を記録し、2026〜2035年に年平均成長率（CAGR）30.8%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「線材・テープは2025年に4億9,000万米ドルの市場規模を記録し、2035年には市場の47.8%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「医療画像診断（MRI/NMR）は2025年に2億7,800万米ドルの市場規模となり、2035年には市場の19.3%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「輸送分野は2025年に2,200万米ドルの市場規模となり、2026〜2035年に年平均成長率（CAGR）14.5%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「北米の超電導材料市場は2025年に1億8,000万米ドルの売上高を生み出し、2035年までに市場全体の19.6%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+- 成長率：
+  - 「また、2026年から2035年にかけて年平均成長率（CAGR）9.4%で拡大し、2035年には18億4,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「年平均成長率（CAGR、2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「民間の核融合事業者による Nb3Sn および REBCO の調達は段階的に拡大する」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「市場全体で 9.4% の CAGR を達成するには、REBCO および MgB₂ の生産量拡大が NbTi の成長減速を補う必要がある」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「NbTiの2025年の市場規模は3億6,400万米ドルで、2026〜2035年の年平均成長率（CAGR）は1.9%と予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「Nb3Snの市場規模は、2026〜2035年に年平均成長率（CAGR）11.0%で拡大し、2035年までに3億1,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「REBCO/YBCOは、2035年までに市場規模が7億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）16.3%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「世界のビスマス系超電導線市場規模は、2025年の3億8,700万米ドルから2032年には6億3,800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.6%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4338898）
+  - 「米国におけるビスマス系超電導線市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「中国のビスマス系超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「ビスマス系超電導線の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「超伝導材料市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/superconducting-materials-market）
+  - 「世界の超伝導材料市場規模は、2025年には101億5000万米ドルと評価され、2026年の112億8000万米ドルから2034年には262億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%となる見込みです」（https://straitsresearch.com/jp/report/superconducting-materials-market）
+  - 「SuperPower Inc.は、核融合エネルギー、電力網、研究用途における需要の高まりに対応するため、第2世代（2G）高温超伝導（HTS）ワイヤの生産を拡大した」（https://straitsresearch.com/jp/report/superconducting-materials-market）
+  - 「超伝導材料市場規模は、2026年には112億8000万米ドルと評価され、2034年までに262億8000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%です」（https://straitsresearch.com/jp/report/superconducting-materials-market）
+- 主要企業：
+  - 「これらの用途に参入するには、材料供給企業が純度、表面品質、成膜の均一性に関する厳しい仕様を満たす必要があります」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「超電導材料市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「超電導材料市場の主要企業には、住友電気工業、Western Superconducting Technologies（WST）、SuperPower Inc.（Fujikura）、LS Cable & System、Nexansなどが挙げられます」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「ビスマス系超電導線の世界的な主要企業には、AMSC、古河電気工業、ブルカー、フジクラ、住友電気工業などが含まれます」（https://www.atpress.ne.jp/news/4338898）
+  - 「また、本レポートでは、ビスマス系超電導線のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界のビスマス系超電導線市場における各企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/4338898）
+  - 「また、主要メーカーの生産地域分布、販売地域、提供する製品タイプに関する情報、市場集中度分析（競合状況分析、CR3、CR5、CR10の集中度とその期間）、新製品と潜在的な新規参入企業、および市場のM&A活動と戦略についても言及されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「第13章には、ビスマス系超電導線市場の主要企業に関する詳細な分析が個別に記載されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「さらに、アメリカン・スーパーコンダクター・コーポレーションやマサチューセッツ工科大学（MIT）といった主要企業や研究機関の存在は、超伝導材料の開発と商業化のための強固なエコシステムを育み、市場の成長をさらに促進している」（https://straitsresearch.com/jp/report/superconducting-materials-market）
+  - 「また、本レポートでは、NbTi超電導線ポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なNbTi超電導線市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています」（https://newscast.jp/smart/news/1296262）
+  - 「さらに、新製品や潜在的な新規参入者、市場のM&A活動と戦略についても言及されています」（https://newscast.jp/smart/news/1296262）
+  - 「第13章には、富士クラ、古河電気工業、ブルカー、ルヴァータ、サムドン、スーパーコン、スーパーパワー、キスワイヤーアドバンステクノロジーといった主要企業の詳細な分析が記載されています」（https://newscast.jp/smart/news/1296262）
+  - 「競合情勢：世界の主要企業が採用している戦略的動きを理解し、適切な戦略による市場浸透の可能性を理解することができます」（https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html）
+  - 「業界および市場考察、事業機会評価、製品需要予測、市場参入戦略、地理的拡大、設備投資の決定、規制の枠組みと影響、新製品開発、競合の影響」（https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html）
+- 日本企業：
+  - 「住友電気工業は、2025年に33.1%超の市場シェアを占め、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「住友電気工業、Western Superconducting Technologies（WST）、SuperPower Inc.（Fujikura）、LS Cable & System、Nexans」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「日本の市場規模は2025年に8,600万米ドルに達し、2035年には2億6,700万米ドルに拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「従来型と先進型の超伝導線材用途の両方に対応できる日本の能力は、需要が高温超伝導（HTS）材料へと移行するなかで、戦略的な柔軟性をもたらしています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「Sumitomo Electric Industriesは、2025年に市場売上高の33.1%を占めました」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「Hitachiは、エネルギー、医療、研究インフラに関連する超伝導材料の技術力とサプライチェーン上の関係を維持しています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「同社の現在の事業機会は、日本の機関市場および産業市場で特殊な磁石技術が引き続き必要とされていることに左右されます」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「Japan Superconductor Technologyは、特に医療・研究用磁石分野で確立された日本のNbTi供給関係を担っており、この分野では認定実績が商業上引き続き重要である」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「超電導材料市場の主要企業には、住友電気工業、Western Superconducting Technologies（WST）、SuperPower Inc.（Fujikura）、LS Cable & System、Nexansなどが挙げられます」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「ビスマス系超電導線の世界的な主要企業には、AMSC、古河電気工業、ブルカー、フジクラ、住友電気工業などが含まれます」（https://www.atpress.ne.jp/news/4338898）
+  - 「古河電気工業」（https://www.atpress.ne.jp/news/4338898）
+  - 「住友電気工業」（https://www.atpress.ne.jp/news/4338898）
+  - 「また、中国、日本、韓国、東南アジア、インド、オーストラリア、台湾といった各地域・国の市場状況についても個別に言及されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「AMSC、Furukawa、Bruker、Fujikura、Sumitomo Electric、SuNam、SHSC、Innost、THEVA、STI、Sam Dongといった各企業について、企業情報、ビスマス系超電導線の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の動向が詳細に分析されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「・日本語タイトル：ビスマス系超電導線の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4338898）
+- 上位シェア：
+  - 「超伝導材料市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「住友電気工業は、2025年に33.1%超の市場シェアを占め、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「これらの企業は合計で、2025年に52.9%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「NbTi は2025年に超電導材料の総売上の48.5%を占めた一方、最終市場である MRI の更新サイクルは成熟段階に入っている」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「LTS — その他の2025年の市場規模は1,300万米ドルで、2035年には市場の1.2%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「MgB₂は2025年に市場売上高の7.7%を占め、2035年には1億5,500万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「その他の高温超伝導体（HTS）は、2025年に市場売上高の1.7%を占め、2035年には2,200万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「線材・テープは2025年に4億9,000万米ドルの市場規模を記録し、2035年には市場の47.8%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「バルク材料は2025年に市場売上高の6.9%を占め、2035年には9.5%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「その他は2025年に市場売上高の5.6%を占め、2035年には4.1%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「医療画像診断（MRI/NMR）は2025年に2億7,800万米ドルの市場規模となり、2035年には市場の19.3%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market）
+  - 「売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました」（https://www.atpress.ne.jp/news/4338898）
+  - 「また、ビスマス系超電導線のタイプ別（BSCCO、ReBCO、その他）のセグメント分析が示されており、2021年から2026年までのタイプ別の世界販売市場シェア、収益と市場シェア、および販売価格が詳細に分析されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「さらに、アプリケーション別（電力設備、産業用モーター、医療、その他）のセグメント分析も含まれており、同じく2021年から2026年までのアプリケーション別の世界販売市場シェア、収益と市場シェア、および販売価格が要約されています」（https://www.atpress.ne.jp/news/4338898）
+  - 「具体的には、2021年から2026年までの企業別の年間販売量と販売市場シェア、年間収益と収益市場シェア、および販売価格が分析されています」（https://www.atpress.ne.jp/news/4338898）
+- 投資：
+  - 「ダボスで「Litestream Impact Investment Gathering During World Economic Forum 2025」に登壇します」（https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8）
+  - 「シリーズA エクステンションラウンドで約8.7億円の資金調達完了を発表しました」（https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8）
+  - 「成毛眞氏、藤野英人氏、Sony Innovation Fundなどから6,500万円の資金調達を実施しました」（https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8）
+  - 「seedラウンドにて約８億円の資金調達を実施いたしました」（https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8）
+  - 「世界初の商用利用可能な核融合炉実現を目指すHelical Fusion、2030年代に「実用発電」を達成する「Helix Program」および資金調達を発表」（https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8）
+  - 「Global quantum computing sector received USD 1.59 billion in investment in 2024」（https://www.gminsights.com/industry-analysis/superconducting-wire-market）
+  - 「The U.S. market was valued at USD 523 million in 2025 and is projected to reach USD 1.37 billion by 2035. The country combines clinical imaging demand with accelerator, national laboratory, and quantum-computing activity. Its breadth of end markets supports diversified demand, though larger research and fusion orders remain sensitive to public funding and project schedules.」（https://www.gminsights.com/industry-analysis/superconducting-wire-market）
+  - 「India is projected to expand at an approximately 18.5% CAGR (2026–2035) and reach USD 76 million by 2035. India's growth reflects expanding diagnostic capacity, research investment, and growing national interest in quantum technologies. The opportunity starts from a developing base, making practical procurement capacity and project execution more important than headline program announcements.」（https://www.gminsights.com/industry-analysis/superconducting-wire-market）
+  - 「Growth is driven by grid modernization, clean-energy integration, and higher investment in advanced conductors. IEA’s Electricity 2026 report noted that more than」（https://market.us/report/superconducting-wire-market/）
+  - 「, storage, and large-load projects were stalled in grid queues worldwide, while annual grid investment must rise by about 50% from today’s」（https://market.us/report/superconducting-wire-market/）
+  - 「CERN reported in February 2026 that High-Luminosity LHC work included niobium-tin superconducting magnets for advanced accelerator applications. Europe’s power-grid investment needs also supported future demand, as Reuters reported in September 2025 that the EU requires」（https://market.us/report/superconducting-wire-market/）
+  - 「North America (holding a dominant 35.3% share in 2025 supported by advanced healthcare infrastructure and defense funding)」（https://www.marketdataforecast.com/market-reports/superconducting-wire-market）
+  - 「North America is anticipated to witness a CAGR of 9.1% over the forecast period. It is expected to be driven by the energy transmission and nuclear energy funding projects that are in place within the U.S.」（https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report）
+  - 「This number includes all funds raised by the Company in this round on Netcapital. This is an offering of Common Stock, under registration exemption 4(a)(6), in Cutting Edge Superconductors, Inc. . This offering must reach its target of at least $10,000 by its offering deadline of January 29, 2027 at 11:59pm ET. If this offering does not reach its」（https://netcapital.com/companies/cuttingedgesuperconductorsinc）
+  - 「We are excited to announce that Cutting Edge Superconductors has now raised over $400,000.」（https://netcapital.com/companies/cuttingedgesuperconductorsinc）
+- 検索結果の抜粋：
+  - 「超電導線材 の 市場規模 ・シェア | 成長 レポート [2034] — 超電導線材 の 市場規模 ・シェア | 成長 レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 力」（https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4-111019）
+  - 「超電導線材 市場規模・予測レポート 2026〜2035年 — 超電導線材 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > superco...」（https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market）
+  - 「超電導線材 ｜All to brighten the world 古河電工 — 超電導線材 ｜All to brighten the world 古河電工 古河電気工業株式会社 https://www.furukawaelectric.com > interview03」（https://www.furukawaelectric.com/cm/interview03/）
+  - 「Superconducting Wire Market Report 2025 - MarketsandMarkets — Superconducting Wire Market Report 2025 - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/superconducting-wire-market-226116096.html）
+  - 「Superconducting Wire Market Size , Forecasts Report 2026-2035 — Superconducting Wire Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > superc...」（https://www.gminsights.com/industry-analysis/superconducting-wire-market）
+  - 「Superconducting Wire Market Size , Growth Analysis 2035 — Superconducting Wire Market Size , Growth Analysis 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307）
+  - 「Superconducting Wire Market Size , Share | CAGR of 9.6% — Superconducting Wire Market Size , Share | CAGR of 9.6% Market.us https://market.us > report > supercond...」（https://market.us/report/superconducting-wire-market/）
+  - 「Superconducting Wire Market to Reach USD 3.4 Billion by ... — Superconducting Wire Market to Reach USD 3.4 Billion by ... LinkedIn https://www.linkedin.com > pulse > s...」（https://www.linkedin.com/pulse/superconducting-wire-market-reach-usd-34-billion-2035-growing-hrekf）
+  - 「Superconducting Wire Market Size, Growth Analysis 2035 — Superconducting Wire Market Size, Growth Analysis 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307）
+  - 「India Superconducting Wire Market (2025-2030) — India Superconducting Wire Market (2025-2030) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/superconducting-wire-market/india）
+  - 「Superconducting Wire Market Size, Share | CAGR of 9.6% — Superconducting Wire Market Size, Share | CAGR of 9.6% Market.us https://market.us > report > supercond...」（https://market.us/report/superconducting-wire-market/）
+  - 「Top 50 Global Companies in Superconducting Wire Market ... — Top 50 Global Companies in Superconducting Wire Market ... Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-50-global-companies-in-superconducting-wire-market-2025-strategic-overview-and-future-trends-2024-2035）
+  - 「Superconducting Wire Market Size And Share Report, 2030 — Superconducting Wire Market Size And Share Report, 2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report）
+
+## 核融合炉材料（fusion reactor materials）
+- 文脈：核融合
+- 市場規模：記載なし（読んだ30頁・検索6回）
+- 成長率：記載なし（読んだ30頁・検索6回）
+- 主要企業：記載なし（読んだ30頁・検索6回）
+- 日本企業：記載なし（読んだ30頁・検索6回）
+- 上位シェア：記載なし（読んだ30頁・検索6回）
+- 投資：記載なし（読んだ30頁・検索6回）
+
+## 宇宙用耐熱材料（thermal protection system materials）
+- 文脈：宇宙
+- 市場規模：
+  - 「高度な宇宙用複合材料市場は、2035年にに5,741.23百万米ドル、CAGR約12.09%で成長中、」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「高度な宇宙用複合材料市場規模、シェア、競争環境、トレンド分析レポート、プラットフォーム別、コンポーネント別、材料別、製造プロセス別、サービス別： 2026年から2035年までの機会分析および業界予測」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「最近の市場分析によると、高度な宇宙用複合材料市場は2024年の13億980万米ドルから2033年までに55億1120万米ドルへ成長し、2025年から2033年にかけて年平均成長率（CAGR）11.94％で拡大すると予測されている」（https://newscast.jp/news/5913925）
+  - 「2033年までに55億1120万米ドルへの成長が見込まれるこの市場は、技術の最前線であるだけでなく、航空宇宙産業が長期的な持続可能性と効率性目標を達成するための重要な道筋でもある」（https://newscast.jp/news/5913925）
+  - 「航空宇宙用セラミックマトリックス複合材料の世界市場（2026年～2032年）、市場規模（酸化物、炭化ケイ素、炭素、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/2571748）
+  - 「航空宇宙用セラミックマトリックス複合材料の世界市場（2026年～2032年）、市場規模（酸化物、炭化ケイ素、炭素、その他）・分析レポートを発表」（https://newscast.jp/news/2571748）
+  - 「世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています」（https://newscast.jp/news/2571748）
+  - 「2021年から2026年までの地理的地域別および国/地域別の市場規模（年間販売量と年間収益）の歴史的データが提供されます」（https://newscast.jp/news/2571748）
+  - 「2027年から2032年までのグローバル市場規模の予測として、地域別の年間販売量と年間収益の予測が含まれます」（https://newscast.jp/news/2571748）
+  - 「LPI世界再使用型宇宙機熱防護材料レポートによると、2025年の世界再使用型宇宙機熱防護材料市場規模は235.60百万ドルであり、2026年には283.20百万ドル、2032年には812.36百万ドルに増加する見通しです」（https://newscast.jp/news/9425603）
+  - 「LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます」（https://newscast.jp/news/9425603）
+  - 「第2章では、再使用型宇宙機熱防護材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/news/9425603）
+  - 「第4章では、再使用型宇宙機熱防護材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/news/9425603）
+  - 「第6章では、アジア太平洋地域における再使用型宇宙機熱防護材料市場規模と各種用途を、販売量と収益を中心に分析します」（https://newscast.jp/news/9425603）
+  - 「第12章では、再使用型宇宙機熱防護材料の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します」（https://newscast.jp/news/9425603）
+- 成長率：
+  - 「高度な宇宙用複合材料市場は、2035年にに5,741.23百万米ドル、CAGR約12.09%で成長中、」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「長率（CAGR）が 12.09％で」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「最近の市場分析によると、高度な宇宙用複合材料市場は2024年の13億980万米ドルから2033年までに55億1120万米ドルへ成長し、2025年から2033年にかけて年平均成長率（CAGR）11.94％で拡大すると予測されている」（https://newscast.jp/news/5913925）
+  - 「• 炭素繊維強化ポリマー、熱可塑性複合材料、およびハイブリッド複合材料の技術進歩は、2025年から2033年までの予測期間中に予測される11.94％のCAGRを推進する上で、どのような役割を果たしますか?」（https://newscast.jp/news/5913925）
+  - 「世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています」（https://newscast.jp/news/2571748）
+  - 「1.2 機種別供給から高頻度再使用需要へ市場が拡大」（https://newscast.jp/news/9425603）
+  - 「LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます」（https://newscast.jp/news/9425603）
+  - 「需要面では、打上げ・帰還頻度の上昇、機体1基当たりの再使用回数増加、TPS部品の点検・交換需要、商業帰還カプセルや防衛・極超音速案件の拡大が成長を牽引します」（https://newscast.jp/news/9425603）
+  - 「1.3 競争軸は材料性能から認定・供給力へ拡大」（https://newscast.jp/news/9425603）
+  - 「第3章では、再使用型宇宙機熱防護材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/9425603）
+  - 「第4章では、再使用型宇宙機熱防護材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します」（https://newscast.jp/news/9425603）
+  - 「CAGR (2026 to 2036)」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「by 2026-end and grow at a」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「CAGR of 5.6%」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+- 主要企業：
+  - 「主要企業のリスト：」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「主要企業のリスト：」（https://newscast.jp/news/5913925）
+  - 「また、本レポートでは、航空宇宙用セラミックマトリックス複合材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の航空宇宙用セラミックマトリックス複合材料市場における各企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/2571748）
+  - 「さらに、競争環境、CR3、CR5、CR10比率（2024-2026年）による市場集中度分析、新製品と潜在的な新規参入者、市場のM&A活動と戦略も詳細に分析されます」（https://newscast.jp/news/2571748）
+  - 「第13章には、GE Aviation、Safran、Rolls-Royce Group、CoorsTek、COI Ceramics、BJS Ceramics GmbH、Composites Horizons、Ultramet、WPX Faser Keramik、Applied Thin Films、Walter E. C. Pritzkow Spezialkeramikといった主要企業に関する個別の詳細な分析が提供されます」（https://newscast.jp/news/2571748）
+  - 「供給面では、主要企業が低密度・高耐熱材料、C/C・CMCの緻密化、高放射率・耐酸化コーティング、複雑形状のニアネットシェイプ成形、迅速な点検・補修、案件レベルのロット一貫性に投資しています」（https://newscast.jp/news/9425603）
+  - 「韓国 炭素複合材と先進加工を基盤に地域サプライチェーンへ参入」（https://newscast.jp/news/9425603）
+  - 「1.7 高参入障壁の中、再使用・保守性・軽量化が主方向」（https://newscast.jp/news/9425603）
+  - 「一方、技術、認定、資本の参入障壁は高いままです」（https://newscast.jp/news/9425603）
+  - 「材料は高温、酸化、衝撃、振動、繰り返し熱サイクルで安定性能を維持する必要があり、研究室レベルの材料性能だけでは飛行案件への参入条件を満たしません」（https://newscast.jp/news/9425603）
+  - 「第3章では、再使用型宇宙機熱防護材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/9425603）
+  - 「東芝、工場廃熱発電で出力10%増 他社撤退の市場に参入」（https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/）
+  - 「The market for thermal insulation material continues to grow supported by structural demand drivers, regulatory frameworks and evolving end use requirements. Cost, scale and complexity of compliance are constraints that shape the competitive landscape, steering growth to established players with integrated capabilities.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Competitive Landscape and Strategic Positioning」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Key Companies in the Thermal Insulation Material Market」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+- 日本企業：
+  - 「この成長は、この地域内にロッキード・マーチン、ノースロップ・グラマン、東レ・アドバンスト・コンポジット、ヘクセル・コーポレーションといった主要な先端複合材料プロバイダーが存在すること、また政府や軍関係者による宇宙探査プログラムも市場機会を開拓していることに起因しています」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「Toray Advanced Composites」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「対象国・地域の追加（日本国内の地域別分析など）」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「レポート言語： 英語、日本語」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「JAPAN : 03-6899-2648」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「• Toray Advanced Composites」（https://newscast.jp/news/5913925）
+  - 「Japan Site URL:」（https://newscast.jp/news/5913925）
+  - 「https://japaninsights.jp/」（https://newscast.jp/news/5913925）
+  - 「https://www.linkedin.com/company/reportoceanjapan/」（https://newscast.jp/news/5913925）
+  - 「日本リサーチ」（https://newscast.jp/news/5913925）
+  - 「日本レポート市場」（https://newscast.jp/news/5913925）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の販売量と収益、タイプ別、用途別の販売量が示されます」（https://newscast.jp/news/2571748）
+  - 「・日本語タイトル：航空宇宙用セラミックマトリックス複合材料の世界市場2026年～2032年」（https://newscast.jp/news/2571748）
+  - 「なかでも、長い伝統を誇る日本の繊維技術から生まれた「ニチビアルフ」は、宇宙開発の未来を照らす先端技術です」（https://kosmos-jpn.com/page/heat-resistant-fiber）
+  - 「日本初！耐熱チタン合金で航空宇宙用材料規格｢AEROSPACE MATERIAL SPECIFICATION｣に登録 | プレスリリース | 企業情報 | 大同特殊鋼」（https://www.daido.co.jp/about/release/2018/0626_ams.html）
+- 上位シェア：
+  - 「高度な宇宙用複合材料市場規模、シェア、競争環境、トレンド分析レポート、プラットフォーム別、コンポーネント別、材料別、製造プロセス別、サービス別： 2026年から2035年までの機会分析および業界予測」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「2025年、北米は高度な宇宙用複合材料市場を独占し、予測期間中もその存在感を維持すると予想されています」（https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market）
+  - 「また、酸化物、炭化ケイ素、炭素、その他といったタイプ別のセグメント分析では、2021年から2026年までの販売市場シェア、収益と市場シェア、販売価格が示されます」（https://newscast.jp/news/2571748）
+  - 「さらに、商業と軍事といった用途別のセグメント分析でも、2021年から2026年までの販売市場シェア、収益と市場シェア、販売価格が詳細に分析されます」（https://newscast.jp/news/2571748）
+  - 「具体的には、2021年から2026年までの企業別の航空宇宙用セラミックマトリックス複合材料の年間販売量と販売市場シェア、年間収益と収益市場シェア、および販売価格が提供されます」（https://newscast.jp/news/2571748）
+  - 「第2章では、再使用型宇宙機熱防護材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています」（https://newscast.jp/news/9425603）
+  - 「第3章では、再使用型宇宙機熱防護材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します」（https://newscast.jp/news/9425603）
+  - 「by 2036. Plastic Foam Insulation will dominate with a 36.0% share, while Low Temperature Insulation will lead with a 46.0% share.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Low Temperature Insulation holds 46.0% of the temperature range segment, reflecting concentrated demand in established product configurations with proven end use performance.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Plastic foam insulation accounts for 36.0% of product demand in 2026. The concentration is a function of proven procurement trends and steady end-use demand in major application segments.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Low Temperature Insulation to account for 46.0% of temperature range demand in 2026. The concentration results from established procurement patterns and consistent end use requirements in the major application areas.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Thermal Insulation Material Market Europe Country Market Share Analysis, 2026 & 2036」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Market Share Analysis, 2025」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Global Workforce Management Software Market reports provide CAGR Value 2018-2025 and in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Trends and Forecast.」（https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026）
+  - 「Thermal Interface Material Market Share (%) By Application Type, 2026」（https://www.futuremarketinsights.com/reports/thermal-interface-materials-market）
+- 投資：
+  - 「China 7.6% shows robust structural demand underpinning increasing end use capacity, and regulatory investment and modernization of procurement.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「India at 7.0% reflects strong structural demand supported by expanding end use capacity, regulatory investment, and procurement modernization.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「South Korea at 5.2% reflects strong structural demand supported by expanding end use capacity, regulatory investment, and procurement modernization.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「China is projected to grow at 7.6% through 2036. Growth reflects large scale manufacturing capacity, rapid industrialization, and government investment in production modernization.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「3. World Bank. (2025). Global Infrastructure Investment Data. World Bank.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「China is projected to grow at 7.6% through 2036, reflecting expanding production capacity, increasing domestic consumption, and government led investment in quality infrastructure.」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「3.4 Growth Opportunities and Investment Hotspots」（https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/）
+  - 「16.4 Capacity Expansion and Investments」（https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/）
+  - 「The company raised £1.3 m in September 2025 in a round led by South West Investment Fund and Midlands Engine Investment Fund II, through fund managers Maven Capital Partners and Mercia Ventures, alongside SFC Capital, DeepTech Labs and the US venture fund Plug and Play.」（https://www.azom.com/news.aspx?newsID=65748）
+  - 「The company is due to start exporting to the Middle East and the US in the coming months and is preparing for a Series A funding round in the year ahead. Ultimately, it aims to build a UK supply chain for high-performance materials and expects to create more than 40 new jobs over the next three years.」（https://www.azom.com/news.aspx?newsID=65748）
+- 検索結果の抜粋：
+  - 「航空 宇宙材料市場規模 ・シェア 2026年〜2031年 — 航空 宇宙材料市場規模 ・シェア 2026年〜2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/aerospace-materials-market）
+  - 「航空 宇宙用 半製品ゴム 材料市場 の詳細分析 2026-2033 - LinkedIn — 航空 宇宙用 半製品ゴム 材料市場 の詳細分析 2026-2033 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 航空宇宙用半製品ゴム...」（https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E5%8D%8A%E8%A3%BD%E5%93%81%E3%82%B4%E3%83%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90-2026-2033%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%96%E7%95%8C%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7%E7%8E%874%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-4rhie）
+  - 「航空 宇宙用 複合 材料 の 市場規模 、シェア、 成長 2034 年 — 航空 宇宙用 複合 材料 の 市場規模 、シェア、 成長 2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102680）
+  - 「航空 宇宙用 複合 材料市場 規模 予測 レポート2035 — 航空 宇宙用 複合 材料市場 規模 予測 レポート2035 Research Nester https://www.researchnester.com > reports > aerospace-co...」（https://www.researchnester.com/ja/reports/aerospace-composites-market/3822）
+  - 「日本航空 宇宙 複合 材料市場 戦略的展望と成長2034 — 日本航空 宇宙 複合 材料市場 戦略的展望と成長2034 IMARC Group https://www.imarcgroup.com > Aerospace and Defense」（https://www.imarcgroup.com/report/ja/japan-aerospace-composites-market）
+  - 「航空 宇宙用 複合 材料市場 | 業界シェア 市場 規模 成長性 2026 — 航空 宇宙用 複合 材料市場 | 業界シェア 市場 規模 成長性 2026 グローバルインフォメーション https://www.gii.co.jp > ... > 航空宇宙 > 宇宙産業」（https://www.gii.co.jp/report/moi2121305-aerospace-composites-market-share-analysis.html?）
+  - 「セラミック基複合 材料 （ CMC ） 市場 サイズとシェア 2026-2035 — セラミック基複合 材料 （ CMC ） 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > ceramic...」（https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market）
+  - 「日本初！ 耐熱 チタン合金で航空 宇宙用材料 規格｢AEROSPACE ... — 日本初！ 耐熱 チタン合金で航空 宇宙用材料 規格｢AEROSPACE ... 大同特殊鋼 https://www.daido.co.jp > about > release > 0626_ams」（https://www.daido.co.jp/about/release/2018/0626_ams.html）
+  - 「汎用製品･ 材料 は 宇宙 環境にどこまで耐えられるのか？ — 汎用製品･ 材料 は 宇宙 環境にどこまで耐えられるのか？ 株式会社ケミトックス https://www.chemitox.co.jp > 2022_ctx_webinar_14」（https://www.chemitox.co.jp/2022_ctx_webinar_14）
+  - 「宇部興産、航空 宇宙用 の 耐熱材料 を量産 100億円投資 — 宇部興産、航空 宇宙用 の 耐熱材料 を量産 100億円投資 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/）
+  - 「ElevationSpaceと豊田自動織機、大気圏再突入システム 用耐熱 ... — ElevationSpaceと豊田自動織機、大気圏再突入システム 用耐熱 ... 株式会社 豊田自動織機 https://www.toyota-shokki.co.jp > news > 2025/04/16」（https://www.toyota-shokki.co.jp/news/2025/04/16/008791/index.html）
+  - 「Thermal Insulation Material Market Size , Share, Trends 2036 — Thermal Insulation Material Market Size , Share, Trends 2036 Future Market Insights https://www.futuremarketinsights.com > ...」（https://www.futuremarketinsights.com/reports/thermal-insulation-material-market）
+  - 「Thermal Interface Materials Market Size Report, 2026-2033 — Thermal Interface Materials Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market）
+  - 「Thermal Interface Materials Market Size to Worth USD 13.64 ... — Thermal Interface Materials Market Size to Worth USD 13.64 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/thermal-interface-materials-market）
+  - 「Reusable Spacecraft Thermal Protection Materials Market 2026 : — Reusable Spacecraft Thermal Protection Materials Market 2026 : openPR.com https://www.openpr.com > news > reu...」（https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026）
+
+## 放射線遮蔽材料（radiation shielding materials）
+- 文脈：宇宙・医療・原子力
+- 市場規模：
+  - 「世界の放射線遮蔽材市場規模は、2025年には17億1000万米ドルと評価され、2026年の18億2000万米ドルから2034年には30億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「放射線遮蔽材市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）6.6%で成長すると予測されている」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「X線遮蔽材の世界市場（2026年～2032年）、市場規模（従来型鉛シールド、鉛複合シールド、鉛フリーシールド）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/9165216）
+  - 「X線遮蔽材の世界市場（2026年～2032年）、市場規模（従来型鉛シールド、鉛複合シールド、鉛フリーシールド）・分析レポートを発表」（https://newscast.jp/smart/news/9165216）
+  - 「世界のX線遮蔽材市場規模は、2025年の2億1,700万米ドルから2032年には2億7,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています」（https://newscast.jp/smart/news/9165216）
+  - 「2027年から2032年までの地域別の世界市場規模予測（販売量と年間収益）、米州、アジア太平洋地域、欧州、中東およびアフリカの国/地域別予測、そしてタイプ別およびアプリケーション別のX線遮蔽材の世界予測が詳細に記載されています」（https://newscast.jp/smart/news/9165216）
+  - 「YH Researchによるとのグローバル柔軟な放射線遮蔽材の市場は2024年の72.6百万米ドルから2031年には90.4百万米ドルに成長し、2025年から2031年の間にCAGRは3.6%になると予測されている」（https://www.atpress.ne.jp/news/7128898）
+  - 「１.市場規模と予測データ：世界の柔軟な放射線遮蔽材市場に関する過去データ（2020～2025年）および将来予測データ（2026～2031年）を提供し、市場の成長と規模を明確に示します」（https://www.atpress.ne.jp/news/7128898）
+  - 「1.2 グローバル柔軟な放射線遮蔽材の市場規模と予測」（https://www.atpress.ne.jp/news/7128898）
+  - 「1.2.1 売上別のグローバル柔軟な放射線遮蔽材の市場規模（2020-2031）」（https://www.atpress.ne.jp/news/7128898）
+  - 「1.2.2 販売量別のグローバル柔軟な放射線遮蔽材の市場規模（2020-2031）」（https://www.atpress.ne.jp/news/7128898）
+  - 「1.3 中国柔軟な放射線遮蔽材の市場規模・予測」（https://www.atpress.ne.jp/news/7128898）
+- 成長率：
+  - 「放射線遮蔽材市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「世界の放射線遮蔽材市場規模は、2025年には17億1000万米ドルと評価され、2026年の18億2000万米ドルから2034年には30億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.6%となる見込みです」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「放射線遮蔽材市場の規模は、2026年には18億2000万米ドルと評価され、2034年までに30億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.6%です」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「放射線遮蔽材市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）6.6%で成長すると予測されている」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「世界のX線遮蔽材市場規模は、2025年の2億1,700万米ドルから2032年には2億7,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.7%で成長すると見込まれています」（https://newscast.jp/smart/news/9165216）
+  - 「柔軟な放射線遮蔽材市場、CAGR3.60%で成長し、2031年には90.4百万米ドル規模に」（https://www.atpress.ne.jp/news/7128898）
+  - 「YH Researchによるとのグローバル柔軟な放射線遮蔽材の市場は2024年の72.6百万米ドルから2031年には90.4百万米ドルに成長し、2025年から2031年の間にCAGRは3.6%になると予測されている」（https://www.atpress.ne.jp/news/7128898）
+  - 「５.主要生産地域のデータ：世界の柔軟な放射線遮蔽材市場における主要な生産地域、生産能力、生産量、前年比成長率に関する情報を提供します」（https://www.atpress.ne.jp/news/7128898）
+  - 「第4章：柔軟な放射線遮蔽材の世界の主要生産地域、パーセントとCAGR（2020～2031）」（https://www.atpress.ne.jp/news/7128898）
+  - 「第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）」（https://www.atpress.ne.jp/news/7128898）
+  - 「第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）」（https://www.atpress.ne.jp/news/7128898）
+  - 「第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2020～2031）」（https://www.atpress.ne.jp/news/7128898）
+- 主要企業：
+  - 「放射線遮蔽材市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「また、本レポートでは、X線遮蔽材のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なX線遮蔽材市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://newscast.jp/smart/news/9165216）
+  - 「さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、各プレーヤーが提供するX線遮蔽材製品、市場集中度分析（競争状況分析、CR3, CR5, CR10の集中度比率とその推移）、新製品と潜在的な新規参入者、および市場のM&A活動と戦略に関する情報が含まれています」（https://newscast.jp/smart/news/9165216）
+  - 「第13章には、主要企業分析として、MAVIG、Nelco Worldwide、Ets-Lindgrenなど、多数の企業の詳細な情報が掲載されています」（https://newscast.jp/smart/news/9165216）
+  - 「また、主要生産地域、消費地域、及び主要企業の生産・消費の観点から、市場動向を深く理解し、企業が新規市場の開拓や競争力強化に向けた戦略を立てるための有益な情報を提供します」（https://www.atpress.ne.jp/news/7128898）
+  - 「３.中国市場の会社別データ：中国の柔軟な放射線遮蔽材市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します」（https://www.atpress.ne.jp/news/7128898）
+  - 「第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する」（https://www.atpress.ne.jp/news/7128898）
+  - 「スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032」（https://www.atpress.ne.jp/news/7128898）
+  - 「レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析によるセグメント、ベンダー情勢が含まれています」（https://newscast.jp/smart/news/5727321）
+  - 「第三に、国内サプライヤーの参入を迅速化する認定プログラムを正式に策定し、現実的な運用上のストレス条件下で新素材を検証するための加速試験プロトコルを取り入れることです」（https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html）
+  - 「主要プレイヤーは、株式会社KGaA、北川インダストリーズ株式会社、レイドPlc、リーダーテック株式会社、PPGインダストリーズ株式会社、RTPカンパニー、Schaffner Holding AG、テックエッチング株式会社の3Mカンパニー、パクサーチョメリック株式会社、株式会社PPGインダストリーズ」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「また、本レポートでは、加速する世界の放射線遮蔽材市場における主要企業の独自の立場をより深く理解するため、放射線遮蔽材のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、グローバル主要企業の戦略を分析しています」（https://www.atpress.ne.jp/news/1949837）
+  - 「また、主要メーカーの核放射線遮蔽材の生産地域分布、販売地域、提供製品の種類、市場集中度分析（競争環境分析、CR3, CR5, CR10の集中度 (2024-2026年)）、新製品と潜在的参入企業、市場におけるM&A活動と戦略に関する情報も示されています」（https://www.atpress.ne.jp/news/1949837）
+  - 「第13章「主要企業分析」には、John Caunt Scientific ltd.、Liberty Polyglas、King Plastic Corporation、Röchling SE & Co. KG、MarShield、RAY-BAR ENGINEERING CORP、Holtec Internationalといった主要企業それぞれについて、企業情報、核放射線遮蔽材の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要な事業概要、最新の動向に関する詳細な分析が収録されています」（https://www.atpress.ne.jp/news/1949837）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461）
+- 日本企業：
+  - 「アジア太平洋地域：インド、中国、日本、韓国の急速な成長」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「インド、日本、韓国などの国々は、新たな病院や診断センターの建設に多額の投資を行っており、放射線遮蔽材の需要が増加しています」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「日本電気硝子」（https://newscast.jp/smart/news/9165216）
+  - 「また、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国/地域ごとの市場情報も詳細に説明されています」（https://newscast.jp/smart/news/9165216）
+  - 「・日本語タイトル：X線遮蔽材の世界市場2026年～2032年」（https://newscast.jp/smart/news/9165216）
+  - 「アジア太平洋地域：中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋地域」（https://www.atpress.ne.jp/news/7128898）
+  - 「TEL：050-5840-2692（日本）；0081-5058402692（グローバル）」（https://www.atpress.ne.jp/news/7128898）
+  - 「スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032」（https://www.atpress.ne.jp/news/7128898）
+  - 「グローバルインフォメーションはTechNavio（テクナビオ）の日本における正規代理店です」（https://newscast.jp/smart/news/5727321）
+  - 「これはオリジナルレポートの日本語翻訳ページです」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「アジアパシフィック市場は、エレクトロニクス製造の需要増加、中国、日本、インド、韓国などの国における自動車電子機器の5Gインフラ開発、および消費者の需要増加による最速成長市場であることを期待しています」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「例えば、2025年7月、コヨ産業株式会社では、日本初の非燃性電磁干渉(EMI)シールドフィルムを屋外テント用途や過酷な産業環境向けに導入しました」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「産業・防衛用途向けEMI遮蔽材料の日本運転革新とは?」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「日本は、特に産業、防衛、電気通信アプリケーション向けに、EMI遮蔽材料市場で重要な革新者として誕生しています」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+  - 「例えば、2025年7月、コヨ産業株式会社が日本で初めての非可燃性EMI遮蔽フィルムを発売しました」（https://www.coherentmarketinsights.com/ja/EMI%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4）
+- 上位シェア：
+  - 「放射線遮蔽材市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「放射線遮蔽材市場の規模、シェア、トレンド分析レポート：タイプ別（電磁放射線、粒子放射線）、材料別（鉛、タングステン、ビスマス、銅、スズ、ゴム、その他）、エンドユーザー別（医療、原子力発電、航空宇宙、産業用途、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「北米は、2025年に36.5%の市場シェアを占め、放射線遮蔽材市場を牽引しました」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「2025年の放射線遮蔽材市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「北米は2025年時点で36.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「複合材電柱市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「また、伝統的な鉛遮蔽材、鉛複合遮蔽材、非鉛遮蔽材といったタイプ別のX線遮蔽材セグメント、および発電、医療、その他のアプリケーション別のX線遮蔽材セグメントについて、それぞれの販売量、収益、市場シェア、販売価格が2021年から2026年の期間で詳細に分析されています」（https://newscast.jp/smart/news/9165216）
+  - 「具体的には、2021年から2026年までの企業別の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格が提供されています」（https://newscast.jp/smart/news/9165216）
+  - 「2025年6月6日に、YH Research株式会社（本社：東京都中央区）が発行した「グローバル柔軟な放射線遮蔽材のトップ会社の市場シェアおよびランキング 2025」によると、本調査レポートでは、柔軟な放射線遮蔽材市場の現状、定義、分類、用途、産業チェーン構造を総合的に分析し、開発方針、製造プロセス、コスト構造についても詳細に説明します」（https://www.atpress.ne.jp/news/7128898）
+  - 「２.会社別の売上と市場シェア：世界の柔軟な放射線遮蔽材会社別の売上、価格、市場シェア、業界ランキングを提供します」（https://www.atpress.ne.jp/news/7128898）
+- 投資：
+  - 「1口あたりの出資金は25万円となっています」（https://forbesjapan.com/articles/detail/60510）
+  - 「今出資すると4年後に約12倍になるという計算です」（https://forbesjapan.com/articles/detail/60510）
+  - 「. Each hot cell and cyclotron vault requires heavily shielded enclosures rated for high-energy gamma and neutron emissions. Similar investments are underway in the Netherlands (SHINE Medical Technologies), Australia (ANSTO), and South Korea (KAERI), collectively adding dozens of new shielded production suites to the global installed base by 2028 .」（https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461）
+  - 「India’s National Health Mission is aiming for 1.5 new district hospital oncology wings per state each year till 2030, and Saudi Arabia’s Vision 2030 healthcare pillar is funding 22 specialized medical cities」（https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461）
+  - 「The U.S. dominates the North American medical radiation shielding market, driven by over 4,000 operational radiation therapy centers and the world's densest network of PET-CT scanners. Federal investment through the DOE Isotope Program and NIH-funded proton research centers at institutions like the Mayo Clinic and MD Anderson sustain a steady pipeline of high-value shielding contracts」（https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461）
+  - 「4.9 Government and Private Sector Investment Trends」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「7.1.3 Infrastructure and Investment Drivers」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「10.5 New Capacity and Investment Hotspots」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「13.6 End-Use Industry Investment Priorities」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「14.10 Regional Investment, Policy and Supply Chain Differences」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「15.5 Innovation Pipeline and R&D Investment」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「16.4 Technology Investment and Product Differentiation」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「18.2.6 Financial Performance and Investment」（https://www.credenceresearch.com/report/radiation-shielding-materials-market）
+  - 「Sweden's Texray secured an investment of € 3.9 million to enhance radiation protection for medical practitioners with advanced textile solutions.」（https://www.precedenceresearch.com/radiation-protection-market）
+  - 「is the largest contributor to North America's radiation shielding material market, driven by its extensive healthcare infrastructure and significant investments in nuclear energy and defense sectors. The U.S. performs over 80 million CT scans annually, necessitating advanced shielding solutions to ensure patient and staff safety.」（https://www.skyquestt.com/report/radiation-shielding-material-market）
+- 検索結果の抜粋：
+  - 「放射線遮蔽材市場 の 規模 、シェア、 成長率 （2034年まで） — 放射線遮蔽材市場 の 規模 、シェア、 成長率 （2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「X線 遮蔽材 の世界 市場 （2026年～2032年） - Newscast.jp — X線 遮蔽材 の世界 市場 （2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/9165216）
+  - 「柔軟な 放射線遮蔽材市場 、CAGR3.60%で 成長 し - アットプレス — 柔軟な 放射線遮蔽材市場 、CAGR3.60%で 成長 し - アットプレス アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社」（https://www.atpress.ne.jp/news/7128898）
+  - 「放射線遮蔽材市場 の規模、シェア、成長率（2034年まで） — 放射線遮蔽材市場 の規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「柔軟な 放射線遮蔽材市場 、CAGR3.60%で成長し - アットプレス — 柔軟な 放射線遮蔽材市場 、CAGR3.60%で成長し - アットプレス アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社」（https://www.atpress.ne.jp/news/7128898）
+  - 「放射線遮蔽材料 の世界 市場 2025-2029 - Newscast.jp — 放射線遮蔽材料 の世界 市場 2025-2029 - Newscast.jp Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/5727321）
+  - 「放射線遮蔽材市場 規模、シェア、レポート、2035年 — 放射線遮蔽材市場 規模、シェア、レポート、2035年 Market Reports World https://www.marketreportsworld.com > Home > サービス」（https://www.marketreportsworld.com/jp/market-reports/radiation-shielding-materials-market-14730223）
+  - 「放射線遮蔽材市場 | 市場 規模 分析 予測 2026-2032年 【 市場 ... — 放射線遮蔽材市場 | 市場 規模 分析 予測 2026-2032年 【 市場 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > 市場調査レポート > 医療機器」（https://www.gii.co.jp/report/ires1983943-radiation-shielding-material-market-by-material.html）
+  - 「放射線遮蔽材料市場 規模とシェアレポート、2035年 — 放射線遮蔽材料市場 規模とシェアレポート、2035年 Business Research Insights https://www.businessresearchinsights.com > ... > 情報技術」（https://www.businessresearchinsights.com/jp/market-reports/radiation-shielding-materials-market-129827）
+  - 「遮蔽材料 - メーカー・ 企業 7社の業務用製品ランキング — 遮蔽材料 - メーカー・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 遮蔽材料」（https://mono.ipros.com/cg1/%E9%81%AE%E8%94%BD%E6%9D%90%E6%96%99/）
+  - 「放射線遮蔽材 市場の規模、シェア、成長率（2034年まで） — 放射線遮蔽材 市場の規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/radiation-shielding-material-market）
+  - 「核 放射線遮蔽材 の世界市場（2026年～2032年） - アットプレス — 核 放射線遮蔽材 の世界市場（2026年～2032年） - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/1949837）
+  - 「X線 遮蔽材 の世界市場（2026年～2032年） - Newscast.jp — X線 遮蔽材 の世界市場（2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/9165216）
+  - 「Medical Radiation Shielding Market Size , Trends 2026-2035 — Medical Radiation Shielding Market Size , Trends 2026-2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/medical-radiation-shielding-market-24461）
+  - 「Radiation Shielding Material Market Size 2025 -2029 — Radiation Shielding Material Market Size 2025 -2029 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/radiation-shielding-material-market-industry-analysis）
+
+## 装甲材料（セラミック装甲）（ceramic armor）
+- 文脈：防衛
+- 市場規模：
+  - 「世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.99%となる見込みです」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.99%となる見込みです」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「装甲材市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）6.99%で成長すると予測されている」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「専門家予測によると、セラミック装甲材市場は大幅な成長が見込まれており、2026年から2033年にかけて年平均成長率（CAGR）6.80%で、数十億ドル規模に達する見通しです」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「現在市場規模は拡大中で、2026年から2033年まで6.80% CAGRでの成長が予測されます」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「レポートの購入: (シングルユーザーライセンス: 3590 USD):」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「セラミック装甲市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「Ceramic Armor Market Size, Share & Trends Analysis Report By Material, By Application (Body, Aircraft, Defense Vehicle, Marine), By Platform (Defense, Homeland Security), By Region, And Segment Forecasts, 2026 - 2033」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「世界のセラミック装甲市場は、2025年に32億米ドルの規模となり、2026年の34億米ドルから2033年には60億米ドルへと成長し、2026年から2033年までの年間平均成長率（CAGR）は8.4％になると予測されています」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「USD 5,950 換算」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「USD 6,950 換算」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+- 成長率：
+  - 「世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.99%となる見込みです」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「世界の装甲材料市場規模は、2025年には140億2000万米ドルと評価され、2026年の150億米ドルから2034年には257億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.99%となる見込みです」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「複合材料セグメントは、年平均成長率（CAGR）6.91%で拡大し、最大のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「車両分野は最大の市場シェアを占めると予測されており、年平均成長率（CAGR）は4.8%です」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「北米は、年平均成長率（CAGR）5.17%で拡大し、地域市場を牽引する可能性が高い」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「専門家予測によると、セラミック装甲材市場は大幅な成長が見込まれており、2026年から2033年にかけて年平均成長率（CAGR）6.80%で、数十億ドル規模に達する見通しです」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「現在市場規模は拡大中で、2026年から2033年まで6.80% CAGRでの成長が予測されます」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「2026年からの年平均成長率5.80%での臨床治療用椅子市場の需要の分析と予測」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「世界のセラミック装甲市場は、2025年に32億米ドルの規模となり、2026年の34億米ドルから2033年には60億米ドルへと成長し、2026年から2033年までの年間平均成長率（CAGR）は8.4％になると予測されています」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「CAGRは8.4%です」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「7.5%のCAGR」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「予測CAGR (2026–2033):」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「たとえば、2024年、CoorsTekは、米国やNATOに並んだ力から、高度防衛調達契約をサポートするために、その装甲セラミックス生産能力の拡大を発表しました」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「シリコンカーバイドのセグメントは、2025年から2032年にかけての最速成長率を記録し、高性能なアーマーシステムに対する需要の増加と、その球面の効率性を高める製造技術の進歩によって推進されています」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+- 主要企業：
+  - 「デュポン、ハネウェル、3Mなどの主要メーカーが北米の装甲材料市場に参入している」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「装甲材市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「セラミック装甲市場における主要企業はどこですか？」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「主要市場参入企業による最近の動向と影響分析」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「世界のセラミックアーマー市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「市場の主要企業には、」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「この調査結果は非常に有益で、新市場参入の判断に役立ちました」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「主要企業、最新動向、競争インテリジェンス」（https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4）
+  - 「また、本レポートでは、軍用車両装甲ソリューションのポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、世界的な軍用車両装甲ソリューション市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの企業の戦略を分析しています」（https://newscast.jp/news/2249712）
+  - 「本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、軍用車両装甲ソリューション市場の包括的な概要、市場シェア、成長機会を提示しています」（https://newscast.jp/news/2249712）
+  - 「第3章「プレイヤー別軍用車両用装甲ソリューション市場規模」には、主要プレイヤーの分析が示されています」（https://newscast.jp/news/2249712）
+  - 「具体的には、2021年から2026年までの世界軍用車両用装甲ソリューションのプレイヤー別収益と市場シェア、主要プレイヤーの本社所在地と提供される製品、市場集中度分析（競争状況分析、CR3、CR5、CR10集中度、2024年から2026年）、新製品と潜在的参入者、合併・買収、拡張戦略などの詳細な分析が示されています」（https://newscast.jp/news/2249712）
+  - 「第11章「主要プレイヤー分析」には、Isoclima、Integris、Plasan、Mehler Protection、DuPont、AMEFO、Dyneema、VASG、Saint-Gobain、Dynamic Defense Solutions、RUAG、ASL、CITE Armored、AGP sGlass、Roketsan、Indian Armour、Thales、QinetiQ、SVI、Cemar International、JCBL Armouring Solutions、Carat Duchateletなど、各主要企業の詳細なプロファイルが提供されています」（https://newscast.jp/news/2249712）
+  - 「また、本レポートでは、地上車両装甲部品のポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の地上車両装甲部品市場における各企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/4225318）
+  - 「具体的には、主要企業の年間販売量と販売市場シェア（2021-2026年）、年間収益と収益市場シェア（2021-2026年）、販売価格が提供されています」（https://www.atpress.ne.jp/news/4225318）
+- 日本企業：
+  - 「さらに、中国、日本、韓国などの国々における軍事力近代化計画の進展に伴い、車両および航空宇宙用装甲材の需要が増加すると予想される」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「Kyocera Corporation」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「Kyoceraは産業用基盤の防衛転用でコスト競争力を持ち、3D積層技術で持続性を確保」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「アジア太平洋では中国が低コスト生産と技術向上で急成長し、日本と韓国は精密加工技術を強みに高付加価値市場で存在感を示しています」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「中国、インド、日本など主要国における地政的緊張の拡大、防衛予算の増加、国内生産への取り組み」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「アジア・パシフィック・セラミック・アーマー・マーケットは、中国、インド、日本など主要国において、地政的緊張の拡大、防衛予算の拡大、国内生産のイニシアチブが主導する2025年から2032年までの9.5%の最速のCAGRで成長する予定です」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「日本セラミックアーマーマーケットインサイト」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「日本セラミックの装甲市場は、自衛隊の先進的な保護システムへの先進的な防衛意識と投資により、牽引力を高めています」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「また、日本の強力な材料科学能力とイノベーションに重点を置いたのは、航空宇宙と海軍のアプリケーションにおけるセラミックス装甲の統合を奨励し、防衛と平和の両方の使命を担っています」（https://www.databridgemarketresearch.com/jp/reports/global-ceramic-armor-market）
+  - 「これはオリジナルレポートの日本語翻訳ページです」（https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4）
+  - 「中国、インド、日本、オーストラリア、韓国、アセアン、アジアパシフィックの残り」（https://www.coherentmarketinsights.com/ja/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%E5%B8%82%E5%A0%B4）
+  - 「第6章「APAC」には、2021年から2026年までのAPAC地域における国別（中国、日本、韓国、東南アジア、インド、オーストラリア）、装甲材料別、および用途別の軍用車両用装甲ソリューション市場規模が詳細に分析されています」（https://newscast.jp/news/2249712）
+  - 「・日本語タイトル：軍用車両用装甲ソリューションの世界市場2026年～2032年」（https://newscast.jp/news/2249712）
+  - 「日本市場規模（2021-2026年）」（https://www.atpress.ne.jp/news/4225318）
+  - 「これには、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別および用途別の販売量の詳細なデータが含まれています」（https://www.atpress.ne.jp/news/4225318）
+- 上位シェア：
+  - 「装甲材料市場の規模、シェア、成長、分析、レポート、2034年」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「装甲材市場の規模、シェア、トレンド分析レポート：材料タイプ別（金属・合金、セラミックス、複合材料、パラアラミド繊維、超高分子量ポリエチレン（UHMWPE）、グラスファイバー、その他）、用途別（車両、航空宇宙、車体、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「北米は、2025年に38.5%の市場シェアを占め、装甲材料市場を牽引しました」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「複合材料セグメントは、年平均成長率（CAGR）6.91%で拡大し、最大のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「金属・合金部門は2番目に大きな市場シェアを占める見込みです」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「車両分野は最大の市場シェアを占めると予測されており、年平均成長率（CAGR）は4.8%です」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「航空宇宙部門は2番目に大きなシェアを占めるだろう」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「米国セラミック協会の報告によると、米国政府および関連機関は、防弾チョッキ、ミサイルの先端部、軍用ヘリコプターなどを3M社から購入しており、これは同社の装甲材料市場の3分の1を占めている」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「さらに、中国は世界の防弾装備品市場の約70%を占めており、市場拡大をさらに加速させている」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「2025年の装甲材料市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「北米は2025年時点で38.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「本レポートは、商用航空機用カーボンブレーキ市場（年平均成長率（CAGR：0.06％にて）の詳細な調査を提供し、その市場規模、セグメンテーション、シェア、および2026年から2033年にかけての分析を包括的に網羅しています」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「セラミック装甲市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+- 投資：
+  - 「NATO members committed at the June 2025 summit to escalated multi-year defense investment encompassing soldier systems, armored vehicles, and rotary-wing platforms」（https://www.gminsights.com/industry-analysis/ceramic-armor-market）
+  - 「Poland generated USD 109 million in 2025 and is forecast to grow at a 10.36% CAGR (2026–2035). Poland is a high-growth European market because its force-modernization agenda requires simultaneous investment in personnel protection, armored platforms, and interoperable allied capabilities.」（https://www.gminsights.com/industry-analysis/ceramic-armor-market）
+  - 「The Homeland Security segment is anticipated to experience the fastest growth rate from 2025 to 2032, driven by growing concerns over terrorism, border security threats, and increasing investments in protective equipment for law enforcement agencies.」（https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market）
+  - 「The year 2026 is expected to mark a significant growth phase as governments and defense organizations accelerate investments in advanced protection technologies to improve soldier survivability, vehicle protection, and mission effectiveness.」（https://www.datamintelligence.com/research-report/ceramic-armor-market）
+- 検索結果の抜粋：
+  - 「装甲材料市場規模 、トレンドおよび 成長 分析レポート、2031年 — 装甲材料市場規模 、トレンドおよび 成長 分析レポート、2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market）
+  - 「装甲材料市場 の 規模 、シェア、 成長 、分析、レポート、2034年 — 装甲材料市場 の 規模 、シェア、 成長 、分析、レポート、2034年 Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「セラミック装甲 材 市場 は大幅な 成長 が見込まれており、2026 ... — セラミック装甲 材 市場 は大幅な 成長 が見込まれており、2026 ... inkrich https://pulmonary915.inkrich.com > posts」（https://pulmonary915.inkrich.com/posts/ceramic-armor-materials-655658-mvxrgf0u）
+  - 「セラミック装甲 市場 | 市場規模 シェア 動向分析 予測 2026 ... — セラミック装甲 市場 | 市場規模 シェア 動向分析 予測 2026 ... グローバルインフォメーション https://www.gii.co.jp > ... > 航空宇宙/防衛 > 防衛産業」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「装甲材料市場 規模、トレンドおよび成長分析レポート、2031年 — 装甲材料市場 規模、トレンドおよび成長分析レポート、2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/armor-materials-market）
+  - 「セラミック装甲市場 | 市場 規模 シェア 動向分析 予測 2026 ... — セラミック装甲市場 | 市場 規模 シェア 動向分析 予測 2026 ... グローバルインフォメーション https://www.gii.co.jp > ... > 航空宇宙/防衛 > 防衛産業」（https://www.gii.co.jp/report/grvi2152454-ceramic-armor-market-size-share-trends-analysis.html）
+  - 「装甲材料 市場の規模、シェア、成長、分析、レポート、2034年 — 装甲材料 市場の規模、シェア、成長、分析、レポート、2034年 Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/armor-materials-market）
+  - 「Ceramic Armor Market Size , Growth Report, 2026-2033 — Ceramic Armor Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market）
+  - 「Ceramic Armor Market Size & Share, Forecasts Report 2035 — Ceramic Armor Market Size & Share, Forecasts Report 2035 Global Market Insights Inc. https://www.gminsights.com > cerami...」（https://www.gminsights.com/industry-analysis/ceramic-armor-market）
+  - 「Ceramic Armor Market Size , Share & Trends | 2032 — Ceramic Armor Market Size , Share & Trends | 2032 Data Bridge Market Research https://www.databridgemarketresearch.com > ...」（https://www.databridgemarketresearch.com/reports/global-ceramic-armor-market）
+  - 「Ceramic Armor Market to reach $3.5 billion, Globally, by 2027 ... — Ceramic Armor Market to reach $3.5 billion, Globally, by 2027 ... PR Newswire https://www.prnewswire.com > ceram...」（https://www.prnewswire.com/news-releases/ceramic-armor-market-to-reach-3-5-billion-globally-by-2027-at-8-6-cagr-says-marketsandmarkets-301636548.html）
+  - 「Ceramic Armor Market Size, Growth Report, 2026-2033 — Ceramic Armor Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/ceramic-armor-market）
+  - 「Ceramic Armor Market Size, Trends & YoY Growth Rate, 2033 — Ceramic Armor Market Size, Trends & YoY Growth Rate, 2033 Coherent Market Insights https://www.coherentmarketinsights.com > industry-reports」（https://www.coherentmarketinsights.com/industry-reports/ceramic-armor-market）
+  - 「Ceramic Armor Market Growth Rate & Industry Share 2033 — Ceramic Armor Market Growth Rate & Industry Share 2033 DataM Intelligence https://www.datamintelligence.com > ...」（https://www.datamintelligence.com/research-report/ceramic-armor-market）

@@ -1,0 +1,1685 @@
+{
+ "name": "音楽",
+ "en": "recorded music",
+ "aliases": [
+  "音楽配信",
+  "音楽市場"
+ ],
+ "context": "17 コンテンツ ④音楽",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:10:02.977162+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の録音音楽市場は長らく縮小傾向にあり、図表では2014年に約130.0億米ドルまで落ち込みました",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "IFPI公表値による2025年の市場規模は317.0億米ドルに達し（注1）、その成長を牽引しているのがストリーミングです",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本レコード協会のデータによる日本の音楽市場（音楽ソフト生産金額と配信売上の合計）は、対象期間の2005～2025年では、2007年の4,666.0億円をピークに減少し、2020年には2,726.6億円まで落ち込みました",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "その後は2024年の減少を挟みながら回復し、2025年は3,496.8億円と2020年比28.2%増、前年比でも6.5%増となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に123.9億円だったストリーミングは、2025年に1,249.8億円と10.1倍に伸び、前年比10.4%増となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに音楽ソフトの内訳を見ると、CDの生産金額は2021年の1,232.6億円を底に2022年以降4年連続で増加し、2025年には1,444.9億円と2021年比17.2%伸びています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログレコードも2015年の11.8億円から2025年には84.4億円と7.2倍に拡大し、音楽ビデオも2025年は619.6億円と前年比10.3%増でした",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模、シェア、分析におけるAI 2035",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "球面的な洞察によると、音楽市場規模のグローバルジェネレーションAIは、2024年のUSD 558.4ミリオンからUSD 7410.4に成長することが期待されています 予測期間2025-2035の26.5%のCAGRで2035万人",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年 市場規模:米ドル 558.4 百万",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年 市場規模:USD 7410.4百万",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2024:",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の音楽レーベル・音楽出版業界の市場シェアを簡易に試算しますと、1位はユニバーサルミュージック、2位はソニーミュージック、3位はワーナーミュージックとなります",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2024年の音楽レーベル・音楽出版業界の市場規模を328億ドルとしております",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社IFPIによると、2023年の同業界の市場規模は286億ドルです",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年から2024年にかけて年平均4.8%で成長し、規模は296億ドルへと拡大しました",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "286億ドル",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "296億ドル",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版業界の世界市場規模の予想成長推移 ©2025 Deallab",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年 ベインキャピタル等のコンソーシアムがタイムワーナよりワーナーミュージックを買収企業価値は26億ドルでEBITDA倍率は5.4倍と計算されます",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年 投資ファンドのテラファーマがEMIを買収企業価値は54億ドル、EBITDA倍率は9.9倍と計算されます",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年 ワーナーミュージックをアクセス・インダストリーズ社が買収企業価値は30億ドルでEBITDA倍率は9.6倍と計算されます",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社を引き離すために、2019年以降3年間で約6000億円の設備投資を実施し、現状強みを発揮するスマホ更なる需要（複眼化）に対応しつつ、今後の主戦場になると考えられる車載や産業機器向けの分野を伸ばす予定です",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模、シェア、成長分析および予測 2026 ～ 2033 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の音楽市場規模、シェア、成長分析および予測 2026 ～ 2033 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2025)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 24.1 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 41.1 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模は 2025 年に 241 億米ドルと推定されており、この規模に達すると推定されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までに411億ドル、",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "今後 5 年間、音楽市場は技術革新、地域拡大、消費者の嗜好の進化によって継続的に変革を遂げる準備が整っています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "別格 ソニーグループ（ゲーム・音楽・映画）エンタメ3部門 約8兆円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "1位 バンダイナムコHD（ゲーム・IP・玩具）1兆2,415億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "2位 任天堂（ゲーム）1兆1,649億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "3位 オリエンタルランド（テーマパーク）6,793億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "4位 フジ・メディア・ホールディングス（テレビ・映画）5,507億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "5位 日本テレビHD（テレビ・メディア）4,619億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "6位 セガサミーHD（ゲーム・アミューズメント）4,289億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "7位 KONAMIグループ（ゲーム・スポーツ）4,216億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "8位 TBSホールディングス（テレビ・メディア）4,067億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "9位 スクウェア・エニックスHD（ゲーム）3,245億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "10位 テレビ朝日HD（テレビ・メディア）3,241億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "11位 東宝（映画・エンタメ）3,131億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "12位 KADOKAWA（出版・アニメ・IP）2,779億円",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "1位 Disney（約13.7兆円）─テーマパーク×映画×配信の複合帝国",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "2位 ソニーグループ（約8兆円）─日本1位が世界2位",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の音楽原盤市場: 4.8%増加し、296億ドル",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ストリーミング収益: 7.3%増加し、204億ドル",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "音楽ストリーミング全体からの収益も好調で、7.3%増の204億ドルに増加しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のストリーミング市場では、年間で初めて200億ドルを突破しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカル音楽収益は3.1%減の48億ドルでした",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "演奏権収益は4年連続の増加トレンドが続き、5.9%増加して29億ドル",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "国別の市場規模ランキング上位10カ国は、2023年と大きく変動はなく、1位のアメリカ、2位の日本、3位のイギリス、4位のドイツ、5位の中国、6位のフランス、7位の韓国、8位のカナダ、9位のブラジルの順に続きました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界音楽市場は6.4%成長し復調",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "最も注目されるデータは、世界の音楽市場成長率が6.4% (前年比)で、総売上高が初めて300億ドルを突破し317億ドル (約5兆310億円)に達したことだ",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の総売上高のうち、ストリーミングは220億ドルを占めた",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "一方、演奏権売上は0.3%増の29億ドル",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "大きな成長を達成したのは「フィジカル」(アナログ・レコード、CDなど)で、売上高は8%増加し53億ドルに達した",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "IFPIのCEO、ヴィクトリア・オークリー (Victoria Oakley)は、レポートの発表イベントで次のように語った「これで音楽市場は11年連続の成長を記録しました",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "その後は2024年の減少を挟みながら回復し、2025年は3,496.8億円と2020年比28.2%増、前年比でも6.5%増となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に123.9億円だったストリーミングは、2025年に1,249.8億円と10.1倍に伸び、前年比10.4%増となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログレコードも2015年の11.8億円から2025年には84.4億円と7.2倍に拡大し、音楽ビデオも2025年は619.6億円と前年比10.3%増でした",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界に目を向けても、フィジカルの増加とMIDiAが指摘する拡大権利の急伸（注3）は、レーベルがストリーミングを基盤に、スーパーファンの熱量を収益化する「ファンダム戦略」を強化していることを示唆しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "注3 MIDiAの「拡大権利」は、グッズ、ライブ、ブランド提携などからレーベルが得る収益を指し、フィジカルとは別区分です",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2025年にフィジカルと拡大権利が大きく伸び、ストリーミング時代に入って初めて、ストリーミング収入の成長率が市場全体を下回ったとしています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "球面的な洞察によると、音楽市場規模のグローバルジェネレーションAIは、2024年のUSD 558.4ミリオンからUSD 7410.4に成長することが期待されています 予測期間2025-2035の26.5%のCAGRで2035万人",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2035): 26.5 %",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2024-2035の :",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年から2024年にかけて年平均4.8%で成長し、規模は296億ドルへと拡大しました",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年から 2033 年までの CAGR は 6.7%",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月に受けたサイバー攻撃による業績への影響が約83億円のマイナスとして計上されており、サイバー攻撃がなければ実態の成長率はさらに高かったという見方もできます",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "直近年度の任天堂は売上高1兆1,649億円で前年比-11.1%と下落しました",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、Switch発売から9年が経過し、本体出荷台数が1,080万台と前年比31%減というライフサイクル末期の数字を見れば、この落ち込みは失速ではないと分かります",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "バンダイナムコHDは直近年度の売上高1兆2,415億円（前年比+18.2%）で、ゲーム事業だけの会社ではないです",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でIFPIは、2024年の世界の音楽原盤収益は、前年比4.8%増で296億米ドルに達したことを明らかにしました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "音楽サブスクリプションからの収益は引き続き、世界各国の音楽業界では最大の収益源となり、前年比9.5%増と好調を継続しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、音楽市場の成長率と同様、ストリーミング市場も2023年の11.5%増から7.3%、サブスクリプション市場も10.3%増から9.5%と、成長率は前年より減速しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "(カッコ内は2024年度の収益成長率)",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "アジアの音楽市場の成長率は前年比1.3%増と、2023年の15.4%増から収益成長が大幅に下がりました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "日本の成長率は0.2%減で、2023年の5.4%増から大きく減少したことが要因の一つでした",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "中国は前年比9.6%の成長を達成しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の市場成長率では、北米は2.1%、オーストラレーシアは6.4%、ヨーロッパは8.3%といずれも伸びを示しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "最も注目されるデータは、世界の音楽市場成長率が6.4% (前年比)で、総売上高が初めて300億ドルを突破し317億ドル (約5兆310億円)に達したことだ",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の成長率4.8%を上回り、市場が再び加速したことは、音楽業界にとって非常に心強い結果だ",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場において最も大きな収益源である有料サブスクリプションの売上高は前年比8.8%増",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "日本の成長率も、横ばいだった2024年を経て、2025年は全世界の成長率を上回る前年比8.9%増と成長軌道に戻った",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "トップ10市場と成長率",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "オークリーは中国の急成長を次のように語った「中国は、世界第4位の音楽市場であり、前年比21.1%増という驚異的な速度で成長しています",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "アジアの急激な成長率は、日本が再びプラス成長 (8.9%)に戻ったこと、中国の急成長 (20.1%)、フィジカル売上で世界最大の市場という確固たる地位を維持していること、2025年の世界のフィジカル総売上高の45.1%がアジアから生まれたという結果が、要因に挙げられた",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "/ IFPI）で、2025年の世界の音楽市場の売上は前年比6.4%増の317億ドルとなり、2024年の成長率（前年比4.7%増）を上回り11年連続のプラス成長と発表した（",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の有料サブスクリプション・ストリーミング売上は前年比8.8%増となり総額の半分以上にあたる52.4％（166億ドル）を占め、この有料型と広告型を含めた総ストリーミング売上は、総額の69.6％（220億ドル）を占めた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "フォーマット別にみると、2025年は引き続き音楽売上を牽引するストリーミングが成長の原動力となり、有料型と広告型を含めた総ストリーミング売上は、前年比7.7%増、16億ドル増加により、総額の69.6％（約220億ドル）を占め、初めて220億ドルを超えた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ストリーミングの内訳では、成長の主な原動力となっている有料サブスクリプションの売上が、前年比8.8%増で総額の半分以上にあたる52.4％（約166億ドル）を占め、2024年（※1. 51.2％）からシェアをごく僅かに拡大",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、2025年の世界の広告型ストリーミングは前年比4.3%増と、2024年の成長率（※1. 前年比1.2%増）をやや上回りながら緩やかな成長となり、シェアはほぼ横ばいの17.1％となった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "なおRIAA（アメリカレコード協会）は現地時間2026年3月16日、米国内の音楽市場の売上をまとめた年次報告書で米国内におけるサブスクリプションアカウントのユーザー数は1億650万人に達したと発表し、有料サブスクリプション・ストリーミングの売上は64億ドルで、米国の音楽売上の総額（前年比3.1%増の115億ドル）の55.3%を占めていると発表",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルの売上は再び成長に転じ、ファンによるフィジカルの音楽体験への根強い需要と、引き続きアナログレコードの好調な売れ行きに牽引され、2025年の世界のフィジカルの売上は前年比8.0%増、3億9,000万ドル増加による53億ドルとなり、他のどの主要フォーマットよりも大きな伸びとなった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "IFPIは「フィジカルメディアの売上成長率がデジタルメディアの売上成長率を上回ったのは記録上2度目である」と指摘している",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界のアナログレコードの売上は前年比13.7%増、19年連続の成長",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "CDの売上は前年比3.7%増、ミュージックビデオの売上は前年比10.8%増となり、いずれも成長を記録した",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "演奏権（パフォーミング・ライツ / performing rights）は前年比0.3％増加で29億ドル、シャアは音楽売上全体の9.3％、5年連続の成長となった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一方シンクロ権（シンクロナイゼーション・ライツ / synchronization rights）の売上は、4年連続の成長後、2025年に減少に転じ、前年比2.0%減の6億4100万ドルとなった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "13年連続で減少し続けるダウンロード&その他デジタル・フォーマットは、前年比5.0%減でシェアは2.5％にとどまっている",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカ（前年比17.1%増）が最も成長率が高く、 次いで中東・北アフリカ（前年比15.2%増）が2番目に成長率が高い地域となった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "続いてサブサハラアフリカ（前年比15.2%増）、アジア（前年比10.9%増）を加えた4つの地域で2桁成長を記録した",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場は6,410.7億円で19年以降最高 ストリーミング拡大で成長基調",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "音楽 売上6,410.7億円で19年以降最高※1 ストリーミング拡大で成長基調",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場 売上 6,410.7 億円で 19 年以降最高、ストリーミング拡大で成長基調",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "音楽ソフト※3とデジタル※4を合わせた2025年の音楽市場の推定総売上金額は6,410.7億円（前年比6.7％増）となり、",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル市場ではダウンロードの縮小が続く一方、ストリーミングは前年比約8％増と拡大し、デジタル総売上金額は3,903.0",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の映像ソフト※5市場の推定総売上金額は1,225.7億円（前年比10.8％減）、推定総売上枚数は1,406.3万",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の書籍市場の推定総売上金額 は6,830.2億円（前年比 2.1％減）、推定総売上部数 は5億7,827.9万部",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "みると、「地図・ガイド」「ビジネス書」「児童書」が前年比超えとなった一方、「文庫」は670.2億円（同2.7％減）、「コミック」",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Snow Manはデビュー以降、売上を着実に伸ばしており、2020年度の15.5億円から右肩上がりに拡大",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の音楽市場は前年比6.7％増の6410.7億円",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   },
+   {
+    "quote": "3月18日に国際レコード産業連盟（IFPI）が発表した「グローバル・ミュージック・レポート2026」によると、2025年の世界の音楽市場は前年比6.4%増の317億ドル（約5兆円）",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   },
+   {
+    "quote": "11年連続で市場が拡大し、初めて300億ドルの大台を突破した",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   },
+   {
+    "quote": "成長を牽引するのは全体の売上の約7割を占めるストリーミングの拡大だ",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ストリーミング収入は2025年に220.0億米ドルを超え、市場全体の69.6%を占める最大の収益源となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし構成比で見ると、ストリーミングは35.7%にとどまり、オーディオレコード44.0%と音楽ビデオ17.7%を合わせたフィジカルが61.7%を占めます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模、シェア、分析におけるAI 2035",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "ストリーミング収益は初めて200億米ドル（204億米ドル）を超え、録音音楽総収益の69.0%を占めました",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の音楽レーベル・音楽出版業界の市場シェアを簡易に試算しますと、1位はユニバーサルミュージック、2位はソニーミュージック、3位はワーナーミュージックとなります",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版業界の市場シェア(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版業界の世界市場シェアと業界ランキング（2024年）",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版の世界市場シェアと業界ランキング(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模、シェア、成長分析および予測 2026 ～ 2033 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の音楽市場規模、シェア、成長分析および予測 2026 ～ 2033 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "*このデータは上位3社の市場プレーヤーについて提供されます*",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】エンタメ業界の売上高ランキング！上位企業の事業構造まで解説 - チケミーキャリア",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】エンタメ業界の売上高ランキング！上位企業の事業構造まで解説",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期（一部2月期）の最新決算データをもとに13社の売上高を比較することで、なぜゲームが上位に集まるのか、テレビ局が苦戦する構造はどこにあるのかという問いに答えが出ます",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "この6業種で見ると、なぜゲーム企業が上位に集中するのかがわかります",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体の売上高12.9兆円のうち62%をエンタメが占めており、ソニーはエレクトロニクスメーカーというより、エンタメを主軸に据えた複合企業に変貌を遂げました",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "バンダイナムコHDの直近3月期売上高は1兆2,415億円（前期比+18.2%）で、数字の上では任天堂を上回り、エンタメ企業としては国内で最大規模の一角を占めます",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "事業構成はメディア・コンテンツが4,313億円と全体の93%を占め、テレビ局系グループの中でエンタメ純度が最も高い企業です",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "事業を2つに大きく分けると、エンタメコンテンツ（ゲーム・アミューズメント）が3,221億円で75%を占め、残る25%の約1,068億円が遊技機（パチスロ・パチンコ）事業です",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルエンタテインメント部門が3,052億円（72%）を占め、こちらも過去最高を記録しています",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ局系グループの中では安定した増収が続いており、メディア・コンテンツ事業が全体の約72%を占めています",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "映画部門のソニー・ピクチャーズも興行収入で毎年上位に入り、1つの事業が頭打ちになっても他で補える構造を持ちます",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア: ストリーミングは69%、サブスクリプションは51.2%を占める",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "市場収益別シェアでは、ストリーミングが市場全体の69%を占め、その中でサブスクリプションは51.2%と、初めて50%を超えました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "一方、広告付きストリーミングのシェアは18.7%から17.7%へ減少しました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "国別の市場規模ランキング上位10カ国は、2023年と大きく変動はなく、1位のアメリカ、2位の日本、3位のイギリス、4位のドイツ、5位の中国、6位のフランス、7位の韓国、8位のカナダ、9位のブラジルの順に続きました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "またフィジカル収益の依存が高いことも要因の一つで、2024年は収益全体の45.1%を占めました",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の総売上高のうち、ストリーミングは220億ドルを占めた",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "これでストリーミングは市場全体の売上の69.6%を占めるまで成長している",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の有料サブスクリプション・ストリーミング売上は前年比8.8%増となり総額の半分以上にあたる52.4％（166億ドル）を占め、この有料型と広告型を含めた総ストリーミング売上は、総額の69.6％（220億ドル）を占めた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "フォーマット別にみると、2025年は引き続き音楽売上を牽引するストリーミングが成長の原動力となり、有料型と広告型を含めた総ストリーミング売上は、前年比7.7%増、16億ドル増加により、総額の69.6％（約220億ドル）を占め、初めて220億ドルを超えた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ストリーミングの内訳では、成長の主な原動力となっている有料サブスクリプションの売上が、前年比8.8%増で総額の半分以上にあたる52.4％（約166億ドル）を占め、2024年（※1. 51.2％）からシェアをごく僅かに拡大",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、2025年の世界の広告型ストリーミングは前年比4.3%増と、2024年の成長率（※1. 前年比1.2%増）をやや上回りながら緩やかな成長となり、シェアはほぼ横ばいの17.1％となった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "なおRIAA（アメリカレコード協会）は現地時間2026年3月16日、米国内の音楽市場の売上をまとめた年次報告書で米国内におけるサブスクリプションアカウントのユーザー数は1億650万人に達したと発表し、有料サブスクリプション・ストリーミングの売上は64億ドルで、米国の音楽売上の総額（前年比3.1%増の115億ドル）の55.3%を占めていると発表",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この有料サブスクリプションの売上は引き続き米国市場が最大で、世界全体の3分の1を占めていると述べた（",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のフィジカルのシェアは、音楽売上全体の16.6％で前年とほぼ横ばい",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "シンクロ権の売上は、映画、テレビ、広告、ゲームにおける音楽使用に関連するもので、世界の音楽売上全体の2.0%を占めた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "13年連続で減少し続けるダウンロード&その他デジタル・フォーマットは、前年比5.0%減でシェアは2.5％にとどまっている",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大の音楽売上地域であるアメリカとカナダは2025年に前年比3.5%増で4億ドル以上の増収、世界全体の38.7%を占めた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大の音楽市場である米国は、前年比3.3%増の成長を記録し（※3）、世界ランキングで首位を維持",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界で2番目に大きな地域であるヨーロッパは、前年比5.6%の成長を遂げ、5億ドル以上の増収、世界全体の30.4%を占め、世界第2位を保持",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は引き続きフィジカルの売上で最大の地域市場の地位を維持し、2025年は世界全体のフィジカルの売上の45.1%を占めた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の市場である日本は2025年に成長に転じ（+8.9%）、急成長を続ける中国は前年比20.1%増と力強く成長しドイツを抜いて世界第4位となって最高位を更新、中国は上位20か国の中で最も成長率の高い市場となった",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ストリーミングが引き続き主要な推進力となり、同地域の音楽売上の88.1%を占めた",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "（5.7億円）がTOP3を独占",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『ONE PIECE』シリーズ売上の約75％をコミックが占めました",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長を牽引するのは全体の売上の約7割を占めるストリーミングの拡大だ",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   },
+   {
+    "quote": "それでも同白書によると、ダウンロードとストリーミングを合計したデジタルの売上は3903億円で全体に占める構成比は60.9%",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   },
+   {
+    "quote": "*This data will be provided for Top 3 market players*",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "North America is expected to be the fastest-growing region, capturing a market share of 35.4%. The United States dominates the global Recorded Music market with a 22.7% share, driven by R&D investment and strong industry infrastructure.",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Streaming Services segment dominates the Recorded Music market with a 68.2% share, attributed to its reliability, cost-effectiveness, and wide applicability. The market is segmented by Product Type, End-User, Application, Automation Level, and Temperature Range.",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.1. Stars (High Growth, High Market Share)",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.2. Cash Cows (Low Growth, High Market Share)",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.3. Question Mark (High Growth, Low Market Share)",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.4. Dogs (Low Growth, Low Market Share)",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.3. Company Market Share Analysis 2025",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.1. Top 5 Companies Market Share Analysis",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.2. Top 3 Companies Market Share Analysis",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2006, Russia entered the top ten for the first time, staying for three years, with the highest rank at number 9 in both 2007 and 2008.",
+    "url": "https://en.wikipedia.org/wiki/List_of_largest_recorded_music_markets",
+    "pass": 3
+   },
+   {
+    "quote": "Global record companies market share 2025 | Statista",
+    "url": "https://www.statista.com/statistics/422926/record-companies-market-share-worldwide-physical-digital-revenues/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape of the Music Recording market includes a mix of audio software developers, hardware manufacturers, and digital content technology companies. Apple, Avid, PreSonus, Yamaha, Roland, Steinberg, Ableton, Image-Line, Adobe, Cakewalk, and Magix compete through recording software, digital audio workstations, editing tools, and integrated music production systems.",
+    "url": "https://market.us/report/music-recording-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/music-recording-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, AI impact on Market trends, Share Insights, Company ranking, competitive landscape, Recent Developments, Market Dynamics and Emerging Trends",
+    "url": "https://market.us/report/music-recording-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/music-recording-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "firms are channeling capital into innovative startups, licensing deals, and platform acquisitions. This influx of investment accelerates technological innovation, expands content libraries, and consolidates market share. Mergers and acquisitions often aim to acquire exclusive rights, proprietary algorithms, or emerging platforms, creating competitive moats. The strategic focus on",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded Music Market Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "These players shape the competitive landscape through strategic content licensing, technological innovation, and regional expansion. The market’s future will likely see continued consolidation among giants and increased differentiation through technological and experiential innovations.",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key players in the Recorded Music Market?",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading Players in the market are Warner Music, Universal Music, Sony Music Entertainment, LangVan, Master Music, De Plein Vent Studio, China Record Company, Lifesong Records, King Record, Nippon Crown Co Ltd, Tokuma Japan Communications, HNH International, BBS Records Limited, MPO International",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded Music Market Competitive landscape",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players operating in the Recorded Music market?",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Recorded Music NZ, Warner Music Inc, Universal Music, Sony Music Entertainment, LangVan Inc, Master Music Limited, De Plein Vent Studio, China Record Company, Lifesong Records, King Record and others.",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "We begin by identifying the most relevant market participants from a universe of billions of companies. Through a systematic filtering process, we narrow this population to thousands of key players and finalize a focused list of the",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Builds market size from granular data—aggregating revenues of key companies, segment by segment.",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and Five Forces",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Universal Music Group led competitive landscape with",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape in Recorded Music 2025-2034",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players in Recorded Music 2025-2034",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "音楽市場 の 規模 、シェア、成長および業界予測2032年 — 音楽市場 の 規模 、シェア、成長および業界予測2032年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/music-market-landscape",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模 、シェア、分析におけるAI 2035 — 音楽市場規模 、シェア、分析におけるAI 2035 Spherical Insights https://www.sphericalinsights.com > reports > generative-a...",
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "音楽 ストリーミング 市場 の 規模 とシェア、2035年予測レポート — 音楽 ストリーミング 市場 の 規模 とシェア、2035年予測レポート Research Nester https://www.researchnester.com > music-streaming-market",
+    "url": "https://www.researchnester.com/ja/reports/music-streaming-market/4383",
+    "pass": 3
+   },
+   {
+    "quote": "音楽レーベル・音楽出版業界の世界市場シェアの分析 | deallab — Oct 9, 2025 · 音楽レーベル・音楽出版業界の2024年度の売上高⇒ 参照したデータの詳細情報 を分子に、また後述する業界の市場規模を分母にして、2024年の音楽レーベル・音楽出版業界の市場シェアを簡易に試算しますと、1位はユニバーサルミュージック、2位はソニー ...",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "音楽市場規模、シェア、成長分析および予測 2026 ～ 2033 年 — Jul 9, 2026 · 音楽市場の規模は 2025 年に 241 億ドルと評価され、2033 年までに 411 億ドルに達すると推定されており、2026 年から 2033 年までの CAGR は 6.7% です。",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】世界の音楽市場 2024年は4.8%増加、世界2位の日本は0.2%減少... — Mar 26, 2025 · 世界の音楽業界団体の国際レコード産業連盟 (IFPI)は、2024年における世界の音楽市場動向をまとめたレポート「グローバル・ミュージック・レポート2025」を発表しました。",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "音楽業界の現状・動向・将来性｜市場規模や主要企業、録音・ライブ・... — 6 days ago · 世界の中で日本は録音音楽市場で2位に位置し、海外への展開も広がっています。 本ページでは、日本の音楽業界を、録音とライブの市場規模、ストリーミング競争、レーベルと財務、著作権管理、ライブIPとファン経済の5軸で整理します。",
+    "url": "https://www.crex-data.com/industry/media-it/music",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界音楽市場は6.4%成長し復調。日本は8.9%成長でV字回復。音... — Mar 29, 2026 · 世界の音楽業界を代表する団体、国際レコード産業連盟 (IFPI)は、 2025年の世界各国の原盤音楽売上データを集計した年次レポート「Global Music Report 2026」を発表した。最も注目されるデータは、世界の音楽市場成長率が6.4% (前年比)で、総売上高が初めて300億ドルを突破し317億ドル (約5兆310億円)に ...",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "pass": 3
+   },
+   {
+    "quote": "2025年全世界の音楽市場、6.4%成長 11年連続プラス成長 - VOICE 洋楽 — Mar 20, 2026 · IFPI（国際レコード産業連盟）、2025年の世界の音楽市場の売上は前年比6.4%増の317億ドル、11年連続のプラス成長と発表。 2025年に世界で最もヒットした曲・アルバム トップ20他",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年国内レコード市場(音楽ソフト+音楽配信)は3,988億円と推計～会... — Mar 4, 2026 · 当協会は、国内レコード市場規模をより包括的に把握することを目的として、新たに「音楽ソフト・音楽配信売上推計」の公表を開始いたしました。 本日公表した2025年年間（1月～12月）を初回とし、以降は四半期ごとに公表してまいります。",
+    "url": "https://www.riaj.or.jp/news/press/94d112e4-697a-4990-9f80-a721d1f5a921/",
+    "pass": 3
+   },
+   {
+    "quote": "『ORICON エンタメ・マーケット白書 2025』発売 — 2025年のエンタメ市場は、音楽がデジタル・フィジカル共に前年を上回る成長を見せ、市場全体をけん引する一年となりました。 開始以来、最高の売上実績を記録しました。ストリーミングが日常的な音楽消費の基盤として定着し、ヒット楽曲の長期的な再生",
+    "url": "https://www.oricon.jp/files/2026/04/【プレスリリース】-『ORICON-エンタメ・マーケット白書-2025』発売＿260408.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の音楽市場は前年比6.7％増の6410.7億円。世界は過去最高... — 4月1日、ソニー・ミュージックエンタテインメントとユニバーサルミュージック合同会社は、アジア地域における音楽フェスティバルの企画 ...",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "pass": 3
+   },
+   {
+    "quote": "25年の音楽市場、6410億円で過去最高 ストリーミング拡大 — Apr 8, 2026 · オリコン子会社のオリコン・リサーチ（東京・港）は音楽や映像の市場動向をまとめた「ORICON エンタメ・マーケット白書」の2025年版を発売した ...",
+    "url": "https://www.nikkei.com/article/DGXZQOUC075Z30X00C26A4000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded Music Market Size, Share, Trends & Industry Forecast — Apr 22, 2026 · The Recorded Music Market encompasses the creation, distribution, and consumption of commercially released music recordings. This includes physical formats such as CDs and vinyl, digital downloads, and streaming services that deliver music to end-users.",
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded Music Market (2026 - 2033) — The Recorded Music market was valued at USD 19.50 billion in 2025 and is projected to reach USD 35.00 billion by 2033, growing at a CAGR of 7.59% during the forecast period (2026-2033).",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of largest recorded music markets - Wikipedia — The United States has remained the biggest market for recorded music in IFPI history, except in 2010 when Japan topped the list. Japan has always stayed within the top two, while the United Kingdom, France, Germany, and Canada have consistently appeared among the top ten music markets throughout IFPI history.",
+    "url": "https://en.wikipedia.org/wiki/List_of_largest_recorded_music_markets",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Biggest Music Markets In The World 2026: Shaping ... — Feb 7, 2026 · The United States remains the undisputed leader among the biggest music markets in the world, holding a commanding 38.7% share of global recorded music revenues in 2025, as reported by the IFPI Global Music Report 2026.",
+    "url": "https://nubiapage.com/top-10-biggest-music-markets-in-the-world/",
+    "pass": 3
+   },
+   {
+    "quote": "Music Market Shares | MIDiA Research — Mar 13, 2025 · Global recorded music revenue reached $39.5 billion in 2025. Overall market growth came in at 9.4% including expanded rights and 7.7% without. Last year, MIDiA forecasted global revenues to grow by 7.1% in 2025 (excluding expanded rights), making the actual 7.7% growth a notable beat on forecast.",
+    "url": "https://www.midiaresearch.com/music-market-shares",
+    "pass": 3
+   },
+   {
+    "quote": "GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW ... — Mar 18, 2026 · The world’s largest recorded music region increased revenues by 3.5% in 2025, held a 38.7% share of global revenues, and added more than US$400 million to global revenues.",
+    "url": "https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "Recorded Music Market Size, Share & Forecast Report 2023 to ...Global Digital Music Market Share, Companies & Trends Report ...Global Recorded Music Market Share, Size and Industry Growth ... — Universal Music Group leads the global recorded music market with 31.5% market share, followed by Sony Music Entertainment at 26.8% and Warner Music Group at 18.9%, collectively controlling over 77.2% of gl",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "の買収や出資も積極的に行っており、2016年にスウェーデンのSupercellを買収、またアクティビジョン・ブリザードやユービーアイソフト、フォートナイトで有名なEpic Games、音楽レーベル大手のユニバーサルミュージック等へも出資を行っています",
+    "url": "https://deallab.info/music-2/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタメに強いVC・CVC一覧！3タイプ別の投資実績を解説",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "pass": 3
+   },
+   {
+    "quote": "North America is expected to be the fastest-growing region, capturing a market share of 35.4%. The United States dominates the global Recorded Music market with a 22.7% share, driven by R&D investment and strong industry infrastructure.",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.7",
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "quote": "2026 年から 2033 年までの CAGR は 6.7%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "69.6",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "quote": "ストリーミング収入は2025年に220.0億米ドルを超え、市場全体の69.6%を占める最大の収益源となっています"
+   },
+   {
+    "value": "35.7",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "quote": "しかし構成比で見ると、ストリーミングは35.7%にとどまり、オーディオレコード44.0%と音楽ビデオ17.7%を合わせたフィジカルが61.7%を占めます"
+   },
+   {
+    "value": "44.0",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "quote": "しかし構成比で見ると、ストリーミングは35.7%にとどまり、オーディオレコード44.0%と音楽ビデオ17.7%を合わせたフィジカルが61.7%を占めます"
+   },
+   {
+    "value": "17.7",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "quote": "しかし構成比で見ると、ストリーミングは35.7%にとどまり、オーディオレコード44.0%と音楽ビデオ17.7%を合わせたフィジカルが61.7%を占めます"
+   },
+   {
+    "value": "61.7",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "quote": "しかし構成比で見ると、ストリーミングは35.7%にとどまり、オーディオレコード44.0%と音楽ビデオ17.7%を合わせたフィジカルが61.7%を占めます"
+   },
+   {
+    "value": "69.0",
+    "url": "https://deallab.info/music-2/",
+    "quote": "ストリーミング収益は初めて200億米ドル（204億米ドル）を超え、録音音楽総収益の69.0%を占めました"
+   },
+   {
+    "value": "62",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "quote": "グループ全体の売上高12.9兆円のうち62%をエンタメが占めており、ソニーはエレクトロニクスメーカーというより、エンタメを主軸に据えた複合企業に変貌を遂げました"
+   },
+   {
+    "value": "18.2",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "quote": "バンダイナムコHDの直近3月期売上高は1兆2,415億円（前期比+18.2%）で、数字の上では任天堂を上回り、エンタメ企業としては国内で最大規模の一角を占めます"
+   },
+   {
+    "value": "93",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "quote": "事業構成はメディア・コンテンツが4,313億円と全体の93%を占め、テレビ局系グループの中でエンタメ純度が最も高い企業です"
+   },
+   {
+    "value": "75",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "quote": "事業を2つに大きく分けると、エンタメコンテンツ（ゲーム・アミューズメント）が3,221億円で75%を占め、残る25%の約1,068億円が遊技機（パチスロ・パチンコ）事業です"
+   },
+   {
+    "value": "25",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "quote": "事業を2つに大きく分けると、エンタメコンテンツ（ゲーム・アミューズメント）が3,221億円で75%を占め、残る25%の約1,068億円が遊技機（パチスロ・パチンコ）事業です"
+   },
+   {
+    "value": "72",
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "quote": "デジタルエンタテインメント部門が3,052億円（72%）を占め、こちらも過去最高を記録しています"
+   },
+   {
+    "value": "69",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "quote": "市場シェア: ストリーミングは69%、サブスクリプションは51.2%を占める"
+   },
+   {
+    "value": "51.2",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "quote": "市場シェア: ストリーミングは69%、サブスクリプションは51.2%を占める"
+   },
+   {
+    "value": "50",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "quote": "市場収益別シェアでは、ストリーミングが市場全体の69%を占め、その中でサブスクリプションは51.2%と、初めて50%を超えました"
+   },
+   {
+    "value": "18.7",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "quote": "一方、広告付きストリーミングのシェアは18.7%から17.7%へ減少しました"
+   },
+   {
+    "value": "17.7",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "quote": "一方、広告付きストリーミングのシェアは18.7%から17.7%へ減少しました"
+   },
+   {
+    "value": "45.1",
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "quote": "またフィジカル収益の依存が高いことも要因の一つで、2024年は収益全体の45.1%を占めました"
+   },
+   {
+    "value": "69.6",
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "quote": "これでストリーミングは市場全体の売上の69.6%を占めるまで成長している"
+   },
+   {
+    "value": "8.8",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "2025年の有料サブスクリプション・ストリーミング売上は前年比8.8%増となり総額の半分以上にあたる52.4％（166億ドル）を占め、この有料型と広告型を含めた総ストリーミング売上は、総額の69.6％（220億ドル）を占めた"
+   },
+   {
+    "value": "52.4",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "2025年の有料サブスクリプション・ストリーミング売上は前年比8.8%増となり総額の半分以上にあたる52.4％（166億ドル）を占め、この有料型と広告型を含めた総ストリーミング売上は、総額の69.6％（220億ドル）を占めた"
+   },
+   {
+    "value": "69.6",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "2025年の有料サブスクリプション・ストリーミング売上は前年比8.8%増となり総額の半分以上にあたる52.4％（166億ドル）を占め、この有料型と広告型を含めた総ストリーミング売上は、総額の69.6％（220億ドル）を占めた"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "フォーマット別にみると、2025年は引き続き音楽売上を牽引するストリーミングが成長の原動力となり、有料型と広告型を含めた総ストリーミング売上は、前年比7.7%増、16億ドル増加により、総額の69.6％（約220億ドル）を占め、初めて220億ドルを超えた"
+   },
+   {
+    "value": "51.2",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "ストリーミングの内訳では、成長の主な原動力となっている有料サブスクリプションの売上が、前年比8.8%増で総額の半分以上にあたる52.4％（約166億ドル）を占め、2024年（※1. 51.2％）からシェアをごく僅かに拡大"
+   },
+   {
+    "value": "4.3",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "一方、2025年の世界の広告型ストリーミングは前年比4.3%増と、2024年の成長率（※1. 前年比1.2%増）をやや上回りながら緩やかな成長となり、シェアはほぼ横ばいの17.1％となった"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "一方、2025年の世界の広告型ストリーミングは前年比4.3%増と、2024年の成長率（※1. 前年比1.2%増）をやや上回りながら緩やかな成長となり、シェアはほぼ横ばいの17.1％となった"
+   },
+   {
+    "value": "17.1",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "一方、2025年の世界の広告型ストリーミングは前年比4.3%増と、2024年の成長率（※1. 前年比1.2%増）をやや上回りながら緩やかな成長となり、シェアはほぼ横ばいの17.1％となった"
+   },
+   {
+    "value": "3.1",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "なおRIAA（アメリカレコード協会）は現地時間2026年3月16日、米国内の音楽市場の売上をまとめた年次報告書で米国内におけるサブスクリプションアカウントのユーザー数は1億650万人に達したと発表し、有料サブスクリプション・ストリーミングの売上は64億ドルで、米国の音楽売上の総額（前年比3.1%増の115億ドル）の55.3%を占めていると発表"
+   },
+   {
+    "value": "55.3",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "なおRIAA（アメリカレコード協会）は現地時間2026年3月16日、米国内の音楽市場の売上をまとめた年次報告書で米国内におけるサブスクリプションアカウントのユーザー数は1億650万人に達したと発表し、有料サブスクリプション・ストリーミングの売上は64億ドルで、米国の音楽売上の総額（前年比3.1%増の115億ドル）の55.3%を占めていると発表"
+   },
+   {
+    "value": "16.6",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "2025年のフィジカルのシェアは、音楽売上全体の16.6％で前年とほぼ横ばい"
+   },
+   {
+    "value": "2.0",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "シンクロ権の売上は、映画、テレビ、広告、ゲームにおける音楽使用に関連するもので、世界の音楽売上全体の2.0%を占めた"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "13年連続で減少し続けるダウンロード&その他デジタル・フォーマットは、前年比5.0%減でシェアは2.5％にとどまっている"
+   },
+   {
+    "value": "2.5",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "13年連続で減少し続けるダウンロード&その他デジタル・フォーマットは、前年比5.0%減でシェアは2.5％にとどまっている"
+   },
+   {
+    "value": "3.5",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界最大の音楽売上地域であるアメリカとカナダは2025年に前年比3.5%増で4億ドル以上の増収、世界全体の38.7%を占めた"
+   },
+   {
+    "value": "38.7",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界最大の音楽売上地域であるアメリカとカナダは2025年に前年比3.5%増で4億ドル以上の増収、世界全体の38.7%を占めた"
+   },
+   {
+    "value": "3.3",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界最大の音楽市場である米国は、前年比3.3%増の成長を記録し（※3）、世界ランキングで首位を維持"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界で2番目に大きな地域であるヨーロッパは、前年比5.6%の成長を遂げ、5億ドル以上の増収、世界全体の30.4%を占め、世界第2位を保持"
+   },
+   {
+    "value": "30.4",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界で2番目に大きな地域であるヨーロッパは、前年比5.6%の成長を遂げ、5億ドル以上の増収、世界全体の30.4%を占め、世界第2位を保持"
+   },
+   {
+    "value": "45.1",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "同地域は引き続きフィジカルの売上で最大の地域市場の地位を維持し、2025年は世界全体のフィジカルの売上の45.1%を占めた"
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界第2位の市場である日本は2025年に成長に転じ（+8.9%）、急成長を続ける中国は前年比20.1%増と力強く成長しドイツを抜いて世界第4位となって最高位を更新、中国は上位20か国の中で最も成長率の高い市場となった"
+   },
+   {
+    "value": "20.1",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "世界第2位の市場である日本は2025年に成長に転じ（+8.9%）、急成長を続ける中国は前年比20.1%増と力強く成長しドイツを抜いて世界第4位となって最高位を更新、中国は上位20か国の中で最も成長率の高い市場となった"
+   },
+   {
+    "value": "88.1",
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "quote": "ストリーミングが引き続き主要な推進力となり、同地域の音楽売上の88.1%を占めた"
+   },
+   {
+    "value": "75",
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "quote": "『ONE PIECE』シリーズ売上の約75％をコミックが占めました"
+   },
+   {
+    "value": "60.9",
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "quote": "それでも同白書によると、ダウンロードとストリーミングを合計したデジタルの売上は3903億円で全体に占める構成比は60.9%"
+   },
+   {
+    "value": "35.4",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "quote": "North America is expected to be the fastest-growing region, capturing a market share of 35.4%. The United States dominates the global Recorded Music market with a 22.7% share, driven by R&D investment and strong industry infrastructure."
+   },
+   {
+    "value": "22.7",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "quote": "North America is expected to be the fastest-growing region, capturing a market share of 35.4%. The United States dominates the global Recorded Music market with a 22.7% share, driven by R&D investment and strong industry infrastructure."
+   },
+   {
+    "value": "68.2",
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "quote": "The Streaming Services segment dominates the Recorded Music market with a 68.2% share, attributed to its reliability, cost-effectiveness, and wide applicability. The market is segmented by Product Type, End-User, Application, Automation Level, and Temperature Range."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/music-market-landscape",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/media-it/music",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/contents/musicindustry_data_2407meti3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://deallab.info/music-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/music-market-landscape/companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riaj.or.jp/news/press/94d112e4-697a-4990-9f80-a721d1f5a921/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oricon.jp/files/2026/04/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91-%E3%80%8EORICON-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E7%99%BD%E6%9B%B8-2025%E3%80%8F%E7%99%BA%E5%A3%B2%EF%BC%BF260408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/music-recording-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/music-production-and-recording-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musicnews.com/news/2026-06-14-2025-music-industry-revenue-hits-31-7-billion-streaming-remains-dominant-while-vinyl-surges",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_largest_recorded_music_markets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/statistics/422926/record-companies-market-share-worldwide-physical-digital-revenues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.billboard.com/pro/record-label-market-share-q3-2026-umg-columbia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nubiapage.com/top-10-biggest-music-markets-in-the-world/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://musicandcopyright.wordpress.com/2026/04/27/annual-market-share-survey-reveals-the-recorded-music-and-music-publishing-winners-and-losers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.coop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidatedsupply.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.midiaresearch.com/music-market-shares",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omdia.tech.informa.com/om145216/annual-market-share-survey-reveals-the-recorded-music-and-music-publishing-winners-and-losers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-recorded-music-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-digital-music-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "音楽 市場規模 CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/music-market-landscape",
+    "https://www.ohmae.ac.jp/mbaswitch/music-market/",
+    "https://www.sphericalinsights.com/jp/reports/generative-ai-in-music-market",
+    "https://www.crex-data.com/industry/media-it/music",
+    "https://www.meti.go.jp/policy/mono_info_service/contents/musicindustry_data_2407meti3.pdf",
+    "https://www.researchnester.com/ja/reports/music-streaming-market/4383",
+    "https://newscast.jp/smart/news/3351752",
+    "https://jp.linkedin.com/pulse/%E9%9F%B3%E6%A5%BD%E3%83%90%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E8%AA%BF%E6%9F%BB2026%E5%B9%B42033%E5%B9%B4%E5%9C%B0%E5%9F%9F%E5%88%A5%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B7%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BA%88%E6%83%B3cagr-73-kinetic-kilowatt-xtfje",
+    "https://soundcharts.com/ja/blog/japan-music-market-overview",
+    "https://www.verifiedmarketreports.com/ja/product/music-market/"
+   ]
+  },
+  {
+   "query": "音楽 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/music-2/",
+    "https://www.verifiedmarketreports.com/ja/product/music-market/",
+    "https://www.mordorintelligence.com/ja/industry-reports/music-market-landscape/companies",
+    "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "https://www.musically.jp/ifpi-global-report-2024-revenue",
+    "https://www.crex-data.com/industry/media-it/music",
+    "https://www.reportprime.com/ja/ミュージックストリーミング-r19857/company"
+   ]
+  },
+  {
+   "query": "音楽 市場 前年比 2025",
+   "results": [
+    "https://www.musically.jp/ifpi-2026-global-music-report-growth-and-subscriber-milestone",
+    "https://www.voiceyougaku.com/ifpi-global-music-report-2026/",
+    "https://www.riaj.or.jp/news/press/94d112e4-697a-4990-9f80-a721d1f5a921/",
+    "https://www.oricon.jp/files/2026/04/【プレスリリース】-『ORICON-エンタメ・マーケット白書-2025』発売＿260408.pdf",
+    "https://news.yahoo.co.jp/expert/articles/90983051dff077aeda875c7097063609c821825b",
+    "https://www.nikkei.com/article/DGXZQOUC075Z30X00C26A4000000/",
+    "https://www.ohmae.ac.jp/mbaswitch/music-market/"
+   ]
+  },
+  {
+   "query": "recorded music market size CAGR 2025",
+   "results": [
+    "https://market.us/report/music-recording-market/",
+    "https://www.verifiedmarketreports.com/product/recorded-music-market-size-and-forecast/",
+    "https://www.mordorintelligence.com/industry-reports/music-production-and-recording-market",
+    "https://www.futuremarketreport.com/industry-report/recorded-music-market",
+    "https://www.musicnews.com/news/2026-06-14-2025-music-industry-revenue-hits-31-7-billion-streaming-remains-dominant-while-vinyl-surges",
+    "https://deepmarketinsights.com/report/music-market-research-report",
+    "https://www.linkedin.com/pulse/recorded-music-market-size-trends-applications-aub7f"
+   ]
+  },
+  {
+   "query": "recorded music market share top players percent",
+   "results": [
+    "https://en.wikipedia.org/wiki/List_of_largest_recorded_music_markets",
+    "https://www.statista.com/statistics/422926/record-companies-market-share-worldwide-physical-digital-revenues/",
+    "https://www.billboard.com/pro/record-label-market-share-q3-2026-umg-columbia/",
+    "https://nubiapage.com/top-10-biggest-music-markets-in-the-world/",
+    "https://musicandcopyright.wordpress.com/2026/04/27/annual-market-share-survey-reveals-the-recorded-music-and-music-publishing-winners-and-losers/",
+    "https://musicandcopyright.wordpress.com/2025/04/23/market-share-results-reveal-the-2024-recorded-music-and-music-publishing-winners-and-losers/",
+    "https://worldmetrics.org/current-music-industry-statistics/"
+   ]
+  },
+  {
+   "query": "recorded music market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://consolidatednd.com/",
+    "https://nebnet.net/",
+    "https://www.consolidated.coop/",
+    "https://www.consolidatedsupply.com/",
+    "https://consolidated.nyc/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill"
+   ]
+  },
+  {
+   "query": "recorded music market key companies share 2025",
+   "results": [
+    "https://www.midiaresearch.com/music-market-shares",
+    "https://www.statista.com/statistics/422926/record-companies-market-share-worldwide-physical-digital-revenues/",
+    "https://omdia.tech.informa.com/om145216/annual-market-share-survey-reveals-the-recorded-music-and-music-publishing-winners-and-losers",
+    "https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/",
+    "https://dataintelo.com/report/global-recorded-music-market",
+    "https://www.kenresearch.com/global-digital-music-market",
+    "https://www.marketintelreports.com/report/SER6916/global-recorded-music-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

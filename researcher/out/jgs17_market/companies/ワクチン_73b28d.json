@@ -1,0 +1,2013 @@
+{
+ "name": "ワクチン",
+ "en": "vaccines",
+ "aliases": [
+  "感染症対策",
+  "ワクチン製造"
+ ],
+ "context": "11 創薬 ②感染症対応製品",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:48:25.505854+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ワクチン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場規模、シェア、トレンド分析レポート：種類別（単価、多価）、投与経路別（経口、非経口、経鼻）、疾患適応症別（ウイルス性、細菌性）、年齢層別（小児、成人）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のワクチン市場規模は、2025年には900億米ドルと評価され、2026年の965億9000万米ドルから2034年には1699億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.32%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "多価ワクチンは市場を牽引するセグメントであり、市場全体の53.2%を占め、市場規模は478億8,000万ドル、年平均成長率（CAGR）は7.8%となっています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "鼻腔投与分野は、年平均成長率（CAGR）8.1%で最も急速な成長が見込まれ、市場全体の6.7%を占め、市場規模は60億3,000万ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルス性疾患ワクチン（COVID-19ワクチン）セグメントは、市場全体の13.7%を占め、市場規模は123億3,000万ドル、年平均成長率（CAGR）は5.9%と、最大の市場シェアを誇っています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "成人向けワクチン市場は、年平均成長率（CAGR）7.8%で最も速いペースで成長すると予測されており、市場シェアは38.3%、市場規模は344億7000万ドルに達すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本デングワクチン市場規模、需要、2033年までの予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本デングワクチン市場規模は2023年のUSD 29.6百万で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて11.36%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本デングワクチン市場規模は2033年までに86.8百万米ドルに達する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本デングワクチン市場規模は、2033年までに11.36%のCAGRで成長し、USD 86.8百万米ドルに達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "武田は、毎年100万回のデングワクチンを生産し、世界規模で最大2億ドルの売上を上げたいと考えています",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "牛・羊用ワクチンの世界市場（2026年～2032年）、市場規模（生ワクチン、不活化ワクチン、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "世界の牛・羊用ワクチン市場規模は、2025年の19億4,200万米ドルから2032年には30億4,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.7％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品市場は2022年に1兆4750億米ドル規模であり、今後6年間で年平均成長率（CAGR）5％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "生物学的製剤の市場規模は2022年に3810億米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、化学薬品市場は2018年の1,005億米ドルから2022年には1,094億米ドルに拡大すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までの地理的地域別および国/地域別の世界の年間売上および年間収益の市場規模データが含まれます",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2027年から2032年までのグローバル市場規模予測が地域別（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）および国別に含まれます",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "牛・羊用ワクチンの世界市場（2026年～2032年）、市場規模（生ワクチン、不活化ワクチン、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "混合ワクチン市場は2026年から2033年にかけて年平均成長率4.60%での成長が予測されています",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するワクチンメーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するワクチンメーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な成長 3,868億円（現在）→3,939億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチンメーカー AIによる市場規模予測 5年間で1.84%の成長",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチンメーカーの国内市場規模は、現在の3,868億円と推計",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "今後5年間で1.84% 成長し3,939億円に達すると予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "小幅な縮小 1.54兆円（現在）→1.49兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 3,214億円（現在）→3,645億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "概ね横ばい 2.87兆円（現在）→2.85兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 3.0兆円（現在）→2.5兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な縮小 1.8兆円（現在）→1.7兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルコンビネーションワクチン市場規模のトップ25企業",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "球面的洞察とコンサルティングによって公表された研究報告によると、グローバルコンビネーションワクチン市場規模は、予測期間2026〜2035年の間に10.4%のCAGRで2025ドルから38.19億米ドルに成長するために計画されている",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、グローバルコンビネーションワクチン市場の市場規模はUSD 14.20億で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、予測期間2026〜2035年の間に10.4%のCAGRで成長すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までのグローバルコンビネーションワクチン市場は、USD 38.19 Billion に達する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "中国カシューナッツカーネル市場規模、株式、トレンド、2035への予測",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "中国データセンター市場規模、株式、トレンド、2035への予測",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "中国食品サービス市場規模, 株式, トレンド, 2035 への予測",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "業員が1000人以下の企業であると同時に、事業収益としても100億円に",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のメーカーは少なく、年間のワクチン事業による売り上げは数百億円から約1",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～3干億円に及ぶ",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サノフイ・アベンティス 2，813億円（7．6％）",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2．781億円（6．4％）",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1，659億円（8．0％）",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1，213億円（5．0％）",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "640億円（45．1％）",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ワクチン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のワクチン市場規模は、2025年には900億米ドルと評価され、2026年の965億9000万米ドルから2034年には1699億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.32%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "多価ワクチンは市場を牽引するセグメントであり、市場全体の53.2%を占め、市場規模は478億8,000万ドル、年平均成長率（CAGR）は7.8%となっています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて11.36%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本デングワクチン市場規模は、2033年までに11.36%のCAGRで成長し、USD 86.8百万米ドルに達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の牛・羊用ワクチン市場規模は、2025年の19億4,200万米ドルから2032年には30億4,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.7％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医薬品市場は2022年に1兆4750億米ドル規模であり、今後6年間で年平均成長率（CAGR）5％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、化学薬品市場は2018年の1,005億米ドルから2022年には1,094億米ドルに拡大すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "組み合わせワクチン市場：2026年から2033年までのサイズ、シェア、4.60%の強力なCAGRに関する詳細レポート | 記事 | ブログ",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "組み合わせワクチン市場：2026年から2033年までのサイズ、シェア、4.60%の強力なCAGRに関する詳細レポート",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "混合ワクチン市場は2026年から2033年にかけて年平均成長率4.60%での成長が予測されています",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "成長率を内訳別に見ると、インフルエンザワクチンメーカー（+6.97%）と新型コロナウイルスワクチンメーカー（+10.87%）の成長が寄与し、全体として 1.84%の成長と予測する",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "球面的洞察とコンサルティングによって公表された研究報告によると、グローバルコンビネーションワクチン市場規模は、予測期間2026〜2035年の間に10.4%のCAGRで2025ドルから38.19億米ドルに成長するために計画されている",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、予測期間2026〜2035年の間に10.4%のCAGRで成長すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析アウトソーシング市場調査報告書：2026年から2033年までのCAGR 25.60%を予測したビジネスインサイト",
+    "url": "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "pass": 3
+   },
+   {
+    "quote": "コンシューマーディスクリート半導体市場のサイズ概要：2026年から2033年までの6.30%のCAGRが予測される包括的な業界説明",
+    "url": "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年に789億ドルから2034年に1458億ドルに成長すると予測されており、CAGRは7.1%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025年～2034年）：7.1%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "サブユニットワクチンセグメントは市場をリードし、2024年には376億ドルの規模に達し、2034年には69億ドルに達すると予測されており、CAGRは6.9%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19パンデミックはワクチン開発とグローバル予防接種イニシアチブを大幅に拡大させ、ウイルス性疾患の予防の重要性を強調しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、成人セグメントは市場の77.4%を占め、予測期間を通じて7%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "コロナウイルスワクチン市場規模と前年比成長率、2025～2032年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "年間平均成長率（CAGR）は 7.4%",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "政府は引き続き mRNA プラットフォームに投資し、特に第 2 層および第 3 層都市での医療アクセスを拡大しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コロナウイルスワクチン市場のCAGRは、2025年から2032年まで7.4%を予定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2033年にかけてCAGR5.78％で成長する見込みです",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月、世界保健機関は「世界予防接種週間」を制定し、予防接種の格差解消、予防接種提供システムの強化、生涯にわたるワクチン接種率の拡大に焦点を当てました",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月、ファイザーとビオンテックはmRNAベースのインフルエンザワクチンについて第III相臨床試験を開始し、mRNAプラットフォームがCOVID-19以外の応用分野へ拡大したことを示しました",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月、世界保健機関（WHO）は、mRNA技術移転プログラムが15の世界のパートナーに拡大し、ワクチン製造の分散化と地域生産能力の開発を支援していると報告しました",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは5.78%です",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026-2035",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Vaccines market size is expecting to climb around US$ 39.88 billion in 2026 and hitting US$ 58.26 billion by 2035, driven by a CAGR of 4.3% over the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.3% expected in between 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By vaccine type, the therapeutic vaccines segment held the market share of 9% in 2025, and is expected to grow at the fastest CAGR of 8.20 % during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the mRNA vaccines segment held the market share of 18% in 2025 and is expected to grow at the fastest CAGR of 9.80% during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By route of administration, the intranasal segment held the market share of 5% in 2025 and is expected to grow at the fastest CAGR of 7.10% during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By age group, the adult population segment held the largest U.S. vaccines market share of 56% in 2025 and is expected to grow at the fastest CAGR of 5.10% during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By disease indication, the other segment held the market share of 4% in 2025 and is expected to grow at the fastest CAGR of 7 % during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By end user, the pharmacies & retail clinics segment held the market share of 29% in 2025 and is expected to grow at the fastest CAGR of 6.50 % during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2035)",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The other segment held a significant share of 4% in the market and is expected to grow at the fastest CAGR of 7 % during the forecast period, as vaccines are the most efficient way to prevent major infectious diseases. Vaccination saved more lives and prevented more serious diseases. Vaccines protect against life-challenging diseases such as tetanus, measles, and polio.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The pharmacies & retail clinics segment held a significant share of 29% in the market and is expected to grow at the fastest CAGR of 6.50% during the forecast period, as it enhances public health access by offering unparalleled customer convenience, lowering the burden on primary care offices, and reducing overall societal healthcare expenses.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "size is forecast to grow USD 88.40 billion in 2026, and is projected to reach around USD 126.26 billion by 2035. The market is expanding at a CAGR of 4.04% between 2026 and 2035.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. vaccines market in 2026 is valued at USD 39.88 billion and is projected to climb to USD 58.26 billion by 2035, with a CAGR of 4.3% over the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 17.4 billion by 2035, growing at a CAGR of 7% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2024-2025(%)",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 23.1%",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 23.1%",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Subunit vaccines - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Subunit vaccines - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Live attenuated vaccines - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ワクチン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場規模、シェア、トレンド分析レポート：種類別（単価、多価）、投与経路別（経口、非経口、経鼻）、疾患適応症別（ウイルス性、細菌性）、年齢層別（小児、成人）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.5%の市場シェアを占め、ワクチン市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "多価ワクチンは市場を牽引するセグメントであり、市場全体の53.2%を占め、市場規模は478億8,000万ドル、年平均成長率（CAGR）は7.8%となっています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "鼻腔投与分野は、年平均成長率（CAGR）8.1%で最も急速な成長が見込まれ、市場全体の6.7%を占め、市場規模は60億3,000万ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルス性疾患ワクチン（COVID-19ワクチン）セグメントは、市場全体の13.7%を占め、市場規模は123億3,000万ドル、年平均成長率（CAGR）は5.9%と、最大の市場シェアを誇っています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "成人向けワクチン市場は、年平均成長率（CAGR）7.8%で最も速いペースで成長すると予測されており、市場シェアは38.3%、市場規模は344億7000万ドルに達すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米はワクチン市場において圧倒的な地位を占めており、市場全体の38.5%を占め、市場規模は346億5000万ドル、年平均成長率（CAGR）は7.1%に達しています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は市場全体の23.6%を占め、市場規模は212億4,000万ドルに達します",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州はワクチン市場において重要な位置を占めており、市場シェアは27.2%、市場規模は244億8000万ドル、年平均成長率（CAGR）は6.8%となっています",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカはワクチン市場の6.4%を占め、市場規模は57億6,000万ドル、年平均成長率（CAGR）は7.6%です",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、牛・羊用ワクチンはタイプ別に生ワクチン、不活化ワクチン、その他に分類され、各タイプごとの世界の売上市場シェア、収益市場シェア、販売価格のデータ（2021年～2026年）が詳細に示されます",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、牛用および羊用といったアプリケーション別の世界の売上市場シェア、収益市場シェア、販売価格のデータ（2021年～2026年）も分析されます",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "これには、各企業による牛・羊用ワクチンの年間売上、売上市場シェア、年間収益、収益市場シェア（いずれも2021年～2026年）、および販売価格が詳細に分析されます",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "組み合わせワクチン市場：2026年から2033年までのサイズ、シェア、4.60%の強力なCAGRに関する詳細レポート | 記事 | ブログ",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "組み合わせワクチン市場：2026年から2033年までのサイズ、シェア、4.60%の強力なCAGRに関する詳細レポート",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "本業界に関連する今後成長/衰退する製品・サービス（上位8個）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルス性疾患セグメントは2024年に66.2%の最大市場シェアを占め、分析期間中に大幅な成長が見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、成人セグメントは市場の77.4%を占め、予測期間を通じて7%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、病院セグメントは市場の50.1%を占め、2034年には738億ドルに達すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米のワクチン市場は323億ドルの収益を占め、2034年には66億ドルに達すると予想されており、分析期間中に6.6%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場の上位5～7社が、シェアの約70～75%を占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズ、Comirnaty COVID-19ワクチン、Abrysvo RSVワクチンを通じて大きなシェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルス性疾患のワクチンが世界市場の66.2%を占め、ヘパチス、HPV、インフルエンザ、COVID-19のワクチン需要が高いことが主な要因となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "成人層は市場シェアの77.4%を占め、予防ケアへの意識向上により今後も成長が見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "病院は市場シェアの50.1%を占め、2034年までに738億ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルに基づくと、政府チャネル部門は、集団予防接種プログラムと強力な官民パートナーシップにより、2025 年に最大のシェアを占めると予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルの面では、政府チャンネルのセグメントは2025年に最大のシェアで市場をリードすることが期待されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ヴァクサートの新しい経口COVID-19ワクチンへの独占的権利を確保し、タブレットベースのフォーマットで免疫化を革命化することを目指しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "メッセンジャーRNA(mRNA)プラットフォームは、実証済みの適応性と優れた有効性のために、大規模な人口研究によると、対症性疾患を削減し、最大94%まで、グローバルシェアの50%以上を占め、支配しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチンの市場規模、シェアと動向分析レポート：適応症別、タイプ別、投与経路別、年齢層別、流通チャネル別、地域別、セグメント予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "適応症別市場シェア（2025年および2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ別市場シェア（2025年および2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "投与経路別市場シェア（2025年および2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "年齢層別市場シェア（2025年および2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネル別市場シェア（2025年および2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場シェア分析（2025年および2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "By vaccine type, the preventive vaccines segment held the largest market share of 91% in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By vaccine type, the therapeutic vaccines segment held the market share of 9% in 2025, and is expected to grow at the fastest CAGR of 8.20 % during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the conjugate vaccines segment held the largest market share of 22% in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the mRNA vaccines segment held the market share of 18% in 2025 and is expected to grow at the fastest CAGR of 9.80% during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By route of administration, the intramuscular segment held the largest market share of 72% in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By route of administration, the intranasal segment held the market share of 5% in 2025 and is expected to grow at the fastest CAGR of 7.10% during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By age group, the adult population segment held the largest U.S. vaccines market share of 56% in 2025 and is expected to grow at the fastest CAGR of 5.10% during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By disease indication, the influenza segment held the largest market share of 24% in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By disease indication, the other segment held the market share of 4% in 2025 and is expected to grow at the fastest CAGR of 7 % during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By end user, the hospitals segment held the largest market share of 32% in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By end user, the pharmacies & retail clinics segment held the market share of 29% in 2025 and is expected to grow at the fastest CAGR of 6.50 % during the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The intramuscular segment held a significant share of 72% in the market. The intramuscular route delivers medications to the depth of precisely selected muscles. The huge muscles have significant vascularity, and so the injected drug rapidly reaches the systemic circulation and afterward in the particular area of action, avoiding the first-pass metabolism.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The subcutaneous segment held a significant 12% share of the market, as subcutaneous drug delivery provides a patient-approachable, less invasive process for medication administration, enhancing patient comfort. The subcutaneous route involves its simplicity and lack of need for vascular access, with its related risk of problems.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The oral segment held a significant share of 7% in the market, as",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The pediatric population segment held a significant share of 44% in the market, as vaccines are found to be the most affordable strategies for lowering childhood disease load, specifically compared with interventions like clean water and enhanced sanitation, which lower disease transmission. It supports to protect and child from major, serious, and significantly deadly diseases.",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quadrivalent vaccines accounted for approximately 65% of global adult dose consumption in 2022. Their historical value proposition was protection against two influenza A subtypes and two B lineages. That framework changed when the B/Yamagata lineage ceased circulating in humans, prompting the transition to trivalent composition for U.S. products beginning with the 2024–25 season.",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "この市場における主要企業は、ファイザー社、モデルナ社、メルク社である",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業リスト",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、牛・羊用ワクチン市場における主要企業に関する詳細な分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "混合ワクチン市場の主要企業",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入企業やバイオテクノロジー企業が独自技術で市場に挑む一方、既存の大手企業はワクチンの安定供給と長期にわたる安全性データで差別化を図っています",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するワクチンメーカー ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するワクチンメーカー ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "当ページでは、市場予測、主要企業ランキング、成長やリスクをもたらす外部要因の分析など、戦略立案に役立つ詳細なAI予測を無料でご確認いただけます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチンメーカー 主要企業シェアランキング MSD株式会社・グラクソ・スミスクライン株式会社・一般財団法人阪大微生物病研究会等",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、コンビネーションワクチン市場で稼働している主要企業の詳細な分析を提供します",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "保険におけるサイバーセキュリティ国内シェアと参入企業",
+    "url": "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "pass": 3
+   },
+   {
+    "quote": "表3 国内のワクチン関連メーカー（（社）細菌製剤協会加盟主要企業）の売上げ",
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Pfizer、Merck、Sanofi、GSK、Modernaなどの主要企業は、小児、成人、パンデミックを含むワクチンポートフォリオを幅広く保有し、大きな市場シェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン産業で活動する主要企業の一部は以下の通りです：",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Updates of Key Players in the U.S. Vaccines Market",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Influenza Vaccines Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in influenza vaccines market?",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in influenza vaccines market include Sanofi, AstraZeneca, GlaxoSmithKline, CSL Seqirus, Sinovac Biotech.",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Insights",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The market has witnessed significant developments in recent years, with key players focusing on product launches, technological collaborations, mergers and acquisitions, and geographic expansions to strengthen their market presence.",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2024, Pfizer Inc. And BioNTech SE announced the launch of their COVID-19 vaccine, Comirnaty, for children aged 5 to 11. This expansion marked a significant milestone in the global fight against the pandemic and further solidified Pfizer and BioNTech's position as leading players in the market (Technavio, 2024).",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Thorough analysis of the market's competitive landscape and detailed information about companies",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "17 Competitive Landscape",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "17.2 Competitive Landscape",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "18.1 Companies profiled",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in vaccine market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the vaccine market include Serum Institute of India Pvt. Ltd., Seqirus, Sanofi, Merck & Co., Inc., Pfizer Inc., Moderna Inc., Sinovac, BioNTech SE and AstraZeneca",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key players, such as GlaxoSmithKline, Pfizer, and AstraZeneca, are the major suppliers of vaccines in the world. Their headquarters are situated in the U.S. The U.S. conducts the highest number of clinical trials in the world. Out of 10,771 clinical trials on the clinicaltrials.gov website, 4,207 trials are registered in the U.S. related to vaccines as of August 2025.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key players: Moderna, BioNTech, Pfizer.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key players: Moderna, Sanofi, Pfizer.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "North America is leading the vaccines market due to the availability of a robust healthcare infrastructure, the presence of key players, and favorable government policies.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/vaccines-market-4914",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/market-insight/vaccines-market-4914",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the global vaccines market?",
+    "url": "https://www.coherentmarketinsights.com/market-insight/vaccines-market-4914",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Vaccine Research Market include",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Vaccine Research Market?",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Vaccine Research Market include Pfizer, Moderna, Johnson & Johnson, AstraZeneca, Sanofi, GSK, Novavax, Merck, and Bharat Biotech.",
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19 Competitive Landscape Report | COVID-19 Pipeline Analysis",
+    "url": "https://www.delveinsight.com/report-store/covid-19-competitive-landscape",
+    "pass": 3
+   },
+   {
+    "quote": "covid 19 competitive landscape",
+    "url": "https://www.delveinsight.com/report-store/covid-19-competitive-landscape",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19- Competitive Landscape, 2025",
+    "url": "https://www.delveinsight.com/report-store/covid-19-competitive-landscape",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "野村ホールディングス等から「累計18億円」の資金調達をしています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "Approximately 85% of infants, or 110 million children, completed the recommended three-dose DTP vaccination schedule in 2025. However, global coverage remained slightly below pre-pandemic levels, highlighting the need for stronger immunization programs and sustained public health investments.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "An estimated 13.5 million zero-dose children received no routine vaccines during their first year of life in 2025. Although this represented an improvement from the previous year, conflicts, funding shortages, and vaccine hesitancy continue to limit vaccination access in many countries worldwide.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Belgium was the largest exporter of human-use vaccines, accounting for $15.3 billion of exports. The top importers for Belgian vaccines were China and the U.S. (Source: OEC). The other top destinations include Germany, Japan, the UK, Brazil, and France. Additionally, Belgium attracted more than 2 billion euros of investments in vaccine production.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "MEA is expected to show lucrative growth in the vaccines market by 7% share during the forecast period, due to the growing incidence of infectious diseases, where the growing government vaccination programs are also increasing the use of various vaccines. Expanding healthcare infrastructure and investments are also driving the development of new vaccines, which are enhancing the market growth.",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "et al (2021). Immunization funding across 28 European countries, Expert Rev Vaccines; (5) Conolly et al (2020). Estimating the Fiscal Consequences of National",
+    "url": "https://www.iqvia.com/-/media/iqvia/pdfs/library/white-papers/race-for-immunity.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2025, MSD unveiled that it has opened a new USD 1 billion, 225,000-square-foot vaccine manufacturing facility at its site in Durham, North Carolina, U.S. The Investment in the new manufacturing plant strengthens Merck (MSD)'s vaccine production capacity in the U.S.",
+    "url": "https://www.precedenceresearch.com/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Operation Warp Speed (during COVID-19) demonstrated how government funding can",
+    "url": "https://www.biospace.com/press-releases/u-s-vaccine-market-size-to-surpass-usd-59-77-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19 pandemic showed how emergency funding enables rapid vaccine",
+    "url": "https://www.biospace.com/press-releases/u-s-vaccine-market-size-to-surpass-usd-59-77-billion-by-2034",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ワクチン市場規模 、シェア |世界成長レポート [2034] — ワクチン市場規模 、シェア |世界成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 医薬品",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場規模 、シェア、成長率、分析、レポート（2034 ... — ワクチン市場規模 、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > 健康管理 > バイオテクノロジー",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "成人 ワクチン市場 が離陸：成長要因と2033までの8.2%の ... — 成人 ワクチン市場 が離陸：成長要因と2033までの8.2%の ... LinkedIn https://jp.linkedin.com > pulse > 成人ワクチン市場が離陸...",
+    "url": "https://jp.linkedin.com/pulse/%E6%88%90%E4%BA%BA%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%8C%E9%9B%A2%E9%99%B8%E6%88%90%E9%95%B7%E8%A6%81%E5%9B%A0%E3%81%A82033%E3%81%BE%E3%81%A7%E3%81%AE82%E3%81%AEcagr%E4%BA%88%E6%B8%AC-gaugeguidex-qbwfe",
+    "pass": 3
+   },
+   {
+    "quote": "日本デング ワクチン市場規模 、需要、2033年までの予測 — 日本デング ワクチン市場規模 、需要、2033年までの予測 Spherical Insights https://www.sphericalinsights.com > Healthcare",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "牛・羊用 ワクチン の世界 市場 （2026年～2032年） — 牛・羊用 ワクチン の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "pass": 3
+   },
+   {
+    "quote": "組み合わせ ワクチン市場 ：2026年から2033年までのサイズ ... — 組み合わせ ワクチン市場 ：2026年から2033年までのサイズ ... inkrich https://happy511.inkrich.com > posts",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する ワクチン メーカー ｜2030年 市場 規模推移と主要 ... — AIが予測する ワクチン メーカー ｜2030年 市場 規模推移と主要 ... xenoBrain https://service.xenobrain.jp > forecastresults > market-size",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 規模、 シェア 、成長率、分析、レポート（2034 ... — ワクチン市場 規模、 シェア 、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > 健康管理 > バイオテクノロジー",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 規模、 シェア |世界成長レポート [2034] — ワクチン市場 規模、 シェア |世界成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 医薬品",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルコンビネーション ワクチン市場 規模の トップ 25 企業 — グローバルコンビネーション ワクチン市場 規模の トップ 25 企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-25-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "動物 ワクチン市場 をリードする10社 - LinkedIn — 動物 ワクチン市場 をリードする10社 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 動物ワクチン市場をリー...",
+    "url": "https://jp.linkedin.com/pulse/%E5%8B%95%E7%89%A9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B10%E7%A4%BE-triangulatetrackx-qalif",
+    "pass": 3
+   },
+   {
+    "quote": "混合 ワクチン の シェア上位企業 と 市場 構造 | 記事 - inkrichブログ — 混合 ワクチン の シェア上位企業 と 市場 構造 | 記事 - inkrichブログ inkrich https://exes506.inkrich.com > posts > combination-vaccin...",
+    "url": "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 の動向、分析、予測、 2025 ～2034年 — ワクチン市場 の動向、分析、予測、 2025 ～2034年 Global Market Insights Inc. https://www.gminsights.com > vaccines-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 ワクチン市場 を調査 ｜ プレスリリース - 富士経済 — 2026 ワクチン市場 を調査 ｜ プレスリリース - 富士経済 富士経済グループ https://www.fuji-keizai.co.jp > press > detail",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=26076&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 規模、シェア、成長率、分析、レポート（2034 ... — ワクチン市場 規模、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > 健康管理 > バイオテクノロジー",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "ワクチン市場 規模、シェア |世界成長レポート [2034] — ワクチン市場 規模、シェア |世界成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 医薬品",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Report 2026-2031, By Technology, Type ... — Vaccines Market Report 2026-2031, By Technology, Type ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/vaccine-technologies-market-1155.html",
+    "pass": 3
+   },
+   {
+    "quote": "US Vaccines Market to Promote USD 58.26 Bn by 2035 — US Vaccines Market to Promote USD 58.26 Bn by 2035 Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Influenza Vaccines Market Size , Forecasts Report 2026-2035 — Influenza Vaccines Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > influen...",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Analysis, Size , and Forecast 2025 -2029 — Vaccines Market Analysis, Size , and Forecast 2025 -2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Size , Share | Global Growth Report [2034] — Vaccines Market Size , Share | Global Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Demand, Size and Growth Rate Forecast 2035 — Vaccines Market Demand, Size and Growth Rate Forecast 2035 Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Size , Trends & YoY Growth Rate, 2026-2033 — Vaccines Market Size , Trends & YoY Growth Rate, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > market-insight",
+    "url": "https://www.coherentmarketinsights.com/market-insight/vaccines-market-4914",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Size, Share, Trends & Growth 2026-2033 — Vaccines Market Size, Share, Trends & Growth 2026-2033 DataM Intelligence https://www.datamintelligence.com > ...",
+    "url": "https://www.datamintelligence.com/research-report/vaccines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Size, Share | Global Growth Report [2034] — Vaccines Market Size, Share | Global Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines Market Size to Hit USD 170.60 Billion by 2035 — Vaccines Market Size to Hit USD 170.60 Billion by 2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/vaccines-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.32",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "世界のワクチン市場規模は、2025年には900億米ドルと評価され、2026年の965億9000万米ドルから2034年には1699億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.32%となる見込みです"
+   },
+   {
+    "value": "7.8",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "多価ワクチンは市場を牽引するセグメントであり、市場全体の53.2%を占め、市場規模は478億8,000万ドル、年平均成長率（CAGR）は7.8%となっています"
+   },
+   {
+    "value": "6.7",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "quote": "世界の牛・羊用ワクチン市場規模は、2025年の19億4,200万米ドルから2032年には30億4,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.7％で成長すると見込まれています"
+   },
+   {
+    "value": "5",
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "quote": "世界の医薬品市場は2022年に1兆4750億米ドル規模であり、今後6年間で年平均成長率（CAGR）5％で成長すると見込まれています"
+   },
+   {
+    "value": "4.60",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "quote": "混合ワクチン市場は2026年から2033年にかけて年平均成長率4.60%での成長が予測されています"
+   },
+   {
+    "value": "25.60",
+    "url": "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "quote": "データ分析アウトソーシング市場調査報告書：2026年から2033年までのCAGR 25.60%を予測したビジネスインサイト"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "市場は2025年に789億ドルから2034年に1458億ドルに成長すると予測されており、CAGRは7.1%です"
+   },
+   {
+    "value": "6.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "サブユニットワクチンセグメントは市場をリードし、2024年には376億ドルの規模に達し、2034年には69億ドルに達すると予測されており、CAGRは6.9%です"
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "年間平均成長率（CAGR）は 7.4%"
+   },
+   {
+    "value": "5.78",
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "quote": "2026年から2033年にかけてCAGR5.78％で成長する見込みです"
+   },
+   {
+    "value": "4.3",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "The U.S. Vaccines market size is expecting to climb around US$ 39.88 billion in 2026 and hitting US$ 58.26 billion by 2035, driven by a CAGR of 4.3% over the forecast period."
+   },
+   {
+    "value": "8.20",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By vaccine type, the therapeutic vaccines segment held the market share of 9% in 2025, and is expected to grow at the fastest CAGR of 8.20 % during the forecast period."
+   },
+   {
+    "value": "9.80",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By technology, the mRNA vaccines segment held the market share of 18% in 2025 and is expected to grow at the fastest CAGR of 9.80% during the forecast period."
+   },
+   {
+    "value": "7.10",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By route of administration, the intranasal segment held the market share of 5% in 2025 and is expected to grow at the fastest CAGR of 7.10% during the forecast period."
+   },
+   {
+    "value": "5.10",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By age group, the adult population segment held the largest U.S. vaccines market share of 56% in 2025 and is expected to grow at the fastest CAGR of 5.10% during the forecast period."
+   },
+   {
+    "value": "7",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By disease indication, the other segment held the market share of 4% in 2025 and is expected to grow at the fastest CAGR of 7 % during the forecast period."
+   },
+   {
+    "value": "6.50",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By end user, the pharmacies & retail clinics segment held the market share of 29% in 2025 and is expected to grow at the fastest CAGR of 6.50 % during the forecast period."
+   },
+   {
+    "value": "4.04",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "size is forecast to grow USD 88.40 billion in 2026, and is projected to reach around USD 126.26 billion by 2035. The market is expanding at a CAGR of 4.04% between 2026 and 2035."
+   },
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "quote": "The market is projected to reach USD 17.4 billion by 2035, growing at a CAGR of 7% from 2026 to 2035."
+   },
+   {
+    "value": "23.1",
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "quote": "CAGR of 23.1%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "38.5",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "北米は2025年に38.5%の市場シェアを占め、ワクチン市場を牽引しました"
+   },
+   {
+    "value": "53.2",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "多価ワクチンは市場を牽引するセグメントであり、市場全体の53.2%を占め、市場規模は478億8,000万ドル、年平均成長率（CAGR）は7.8%となっています"
+   },
+   {
+    "value": "7.8",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "多価ワクチンは市場を牽引するセグメントであり、市場全体の53.2%を占め、市場規模は478億8,000万ドル、年平均成長率（CAGR）は7.8%となっています"
+   },
+   {
+    "value": "8.1",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "鼻腔投与分野は、年平均成長率（CAGR）8.1%で最も急速な成長が見込まれ、市場全体の6.7%を占め、市場規模は60億3,000万ドルに達すると予測されています"
+   },
+   {
+    "value": "6.7",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "鼻腔投与分野は、年平均成長率（CAGR）8.1%で最も急速な成長が見込まれ、市場全体の6.7%を占め、市場規模は60億3,000万ドルに達すると予測されています"
+   },
+   {
+    "value": "13.7",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "ウイルス性疾患ワクチン（COVID-19ワクチン）セグメントは、市場全体の13.7%を占め、市場規模は123億3,000万ドル、年平均成長率（CAGR）は5.9%と、最大の市場シェアを誇っています"
+   },
+   {
+    "value": "5.9",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "ウイルス性疾患ワクチン（COVID-19ワクチン）セグメントは、市場全体の13.7%を占め、市場規模は123億3,000万ドル、年平均成長率（CAGR）は5.9%と、最大の市場シェアを誇っています"
+   },
+   {
+    "value": "38.3",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "成人向けワクチン市場は、年平均成長率（CAGR）7.8%で最も速いペースで成長すると予測されており、市場シェアは38.3%、市場規模は344億7000万ドルに達すると見込まれています"
+   },
+   {
+    "value": "7.1",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "北米はワクチン市場において圧倒的な地位を占めており、市場全体の38.5%を占め、市場規模は346億5000万ドル、年平均成長率（CAGR）は7.1%に達しています"
+   },
+   {
+    "value": "23.6",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "同地域は市場全体の23.6%を占め、市場規模は212億4,000万ドルに達します"
+   },
+   {
+    "value": "27.2",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "欧州はワクチン市場において重要な位置を占めており、市場シェアは27.2%、市場規模は244億8000万ドル、年平均成長率（CAGR）は6.8%となっています"
+   },
+   {
+    "value": "6.8",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "欧州はワクチン市場において重要な位置を占めており、市場シェアは27.2%、市場規模は244億8000万ドル、年平均成長率（CAGR）は6.8%となっています"
+   },
+   {
+    "value": "6.4",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "ラテンアメリカはワクチン市場の6.4%を占め、市場規模は57億6,000万ドル、年平均成長率（CAGR）は7.6%です"
+   },
+   {
+    "value": "7.6",
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "quote": "ラテンアメリカはワクチン市場の6.4%を占め、市場規模は57億6,000万ドル、年平均成長率（CAGR）は7.6%です"
+   },
+   {
+    "value": "4.60",
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "quote": "組み合わせワクチン市場：2026年から2033年までのサイズ、シェア、4.60%の強力なCAGRに関する詳細レポート | 記事 | ブログ"
+   },
+   {
+    "value": "66.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "ウイルス性疾患セグメントは2024年に66.2%の最大市場シェアを占め、分析期間中に大幅な成長が見込まれています"
+   },
+   {
+    "value": "77.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "2024年、成人セグメントは市場の77.4%を占め、予測期間を通じて7%のCAGRで成長すると予想されています"
+   },
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "2024年、成人セグメントは市場の77.4%を占め、予測期間を通じて7%のCAGRで成長すると予想されています"
+   },
+   {
+    "value": "50.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "2024年、病院セグメントは市場の50.1%を占め、2034年には738億ドルに達すると予想されています"
+   },
+   {
+    "value": "6.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "2024年、北米のワクチン市場は323億ドルの収益を占め、2034年には66億ドルに達すると予想されており、分析期間中に6.6%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "75",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "quote": "世界市場の上位5～7社が、シェアの約70～75%を占めています"
+   },
+   {
+    "value": "94",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "メッセンジャーRNA(mRNA)プラットフォームは、実証済みの適応性と優れた有効性のために、大規模な人口研究によると、対症性疾患を削減し、最大94%まで、グローバルシェアの50%以上を占め、支配しています"
+   },
+   {
+    "value": "50",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "メッセンジャーRNA(mRNA)プラットフォームは、実証済みの適応性と優れた有効性のために、大規模な人口研究によると、対症性疾患を削減し、最大94%まで、グローバルシェアの50%以上を占め、支配しています"
+   },
+   {
+    "value": "91",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By vaccine type, the preventive vaccines segment held the largest market share of 91% in 2025."
+   },
+   {
+    "value": "9",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By vaccine type, the therapeutic vaccines segment held the market share of 9% in 2025, and is expected to grow at the fastest CAGR of 8.20 % during the forecast period."
+   },
+   {
+    "value": "8.20",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By vaccine type, the therapeutic vaccines segment held the market share of 9% in 2025, and is expected to grow at the fastest CAGR of 8.20 % during the forecast period."
+   },
+   {
+    "value": "22",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By technology, the conjugate vaccines segment held the largest market share of 22% in 2025."
+   },
+   {
+    "value": "18",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By technology, the mRNA vaccines segment held the market share of 18% in 2025 and is expected to grow at the fastest CAGR of 9.80% during the forecast period."
+   },
+   {
+    "value": "9.80",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By technology, the mRNA vaccines segment held the market share of 18% in 2025 and is expected to grow at the fastest CAGR of 9.80% during the forecast period."
+   },
+   {
+    "value": "72",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By route of administration, the intramuscular segment held the largest market share of 72% in 2025."
+   },
+   {
+    "value": "5",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By route of administration, the intranasal segment held the market share of 5% in 2025 and is expected to grow at the fastest CAGR of 7.10% during the forecast period."
+   },
+   {
+    "value": "7.10",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By route of administration, the intranasal segment held the market share of 5% in 2025 and is expected to grow at the fastest CAGR of 7.10% during the forecast period."
+   },
+   {
+    "value": "56",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By age group, the adult population segment held the largest U.S. vaccines market share of 56% in 2025 and is expected to grow at the fastest CAGR of 5.10% during the forecast period."
+   },
+   {
+    "value": "5.10",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By age group, the adult population segment held the largest U.S. vaccines market share of 56% in 2025 and is expected to grow at the fastest CAGR of 5.10% during the forecast period."
+   },
+   {
+    "value": "24",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By disease indication, the influenza segment held the largest market share of 24% in 2025."
+   },
+   {
+    "value": "4",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By disease indication, the other segment held the market share of 4% in 2025 and is expected to grow at the fastest CAGR of 7 % during the forecast period."
+   },
+   {
+    "value": "7",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By disease indication, the other segment held the market share of 4% in 2025 and is expected to grow at the fastest CAGR of 7 % during the forecast period."
+   },
+   {
+    "value": "32",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By end user, the hospitals segment held the largest market share of 32% in 2025."
+   },
+   {
+    "value": "29",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By end user, the pharmacies & retail clinics segment held the market share of 29% in 2025 and is expected to grow at the fastest CAGR of 6.50 % during the forecast period."
+   },
+   {
+    "value": "6.50",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "By end user, the pharmacies & retail clinics segment held the market share of 29% in 2025 and is expected to grow at the fastest CAGR of 6.50 % during the forecast period."
+   },
+   {
+    "value": "12",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "The subcutaneous segment held a significant 12% share of the market, as subcutaneous drug delivery provides a patient-approachable, less invasive process for medication administration, enhancing patient comfort. The subcutaneous route involves its simplicity and lack of need for vascular access, wit"
+   },
+   {
+    "value": "44",
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "quote": "The pediatric population segment held a significant share of 44% in the market, as vaccines are found to be the most affordable strategies for lowering childhood disease load, specifically compared with interventions like clean water and enhanced sanitation, which lower disease transmission. It supp"
+   },
+   {
+    "value": "65",
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "quote": "Quadrivalent vaccines accounted for approximately 65% of global adult dose consumption in 2022. Their historical value proposition was protection against two influenza A subtypes and two B lineages. That framework changed when the B/Yamagata lineage ceased circulating in humans, prompting the transi"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/vaccines-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4448622",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/covid-19-vaccine-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=26076&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP710209_S6A720C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/vaccine-technologies-market-1155.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/vaccines-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.who.int/media/docs/default-source/immunization/mi4a/who_gat_008_global_vaccine_market_report_march_12.pdf?sfvrsn=a61f4733_1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/vaccines-market-4914",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/covid-19-competitive-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.who.int/media/docs/default-source/immunization/mi4a/global-market-landscape-of-vaccine-manifacturing-and-procurement.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iqvia.com/-/media/iqvia/pdfs/library/white-papers/race-for-immunity.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/vaccines-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.who.int/media/docs/default-source/immunization/mi4a/2025-who-global-vaccine-market-report.pdf?sfvrsn=ae038b7a_3&download=true",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/vaccines-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/report-store?industry=healthcare-market&subcategories=general-healthcare-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/u-s-vaccine-market-size-to-surpass-usd-59-77-billion-by-2034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7151793/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ワクチン 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "https://straitsresearch.com/jp/report/vaccines-market",
+    "https://jp.linkedin.com/pulse/%E6%88%90%E4%BA%BA%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%8C%E9%9B%A2%E9%99%B8%E6%88%90%E9%95%B7%E8%A6%81%E5%9B%A0%E3%81%A82033%E3%81%BE%E3%81%A7%E3%81%AE82%E3%81%AEcagr%E4%BA%88%E6%B8%AC-gaugeguidex-qbwfe",
+    "https://www.sphericalinsights.com/jp/reports/japan-dengue-vaccines-market",
+    "https://www.atpress.ne.jp/news/4448622",
+    "https://happy511.inkrich.com/posts/combination-vaccines-654807-mvi6bh7n",
+    "https://japan.zdnet.com/release/31219233/",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1193855.html",
+    "https://www.databridgemarketresearch.com/jp/reports/global-vaccine-market",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/ワクチン市場-101769"
+   ]
+  },
+  {
+   "query": "ワクチン 市場 シェア 上位 企業",
+   "results": [
+    "https://service.xenobrain.jp/forecastresults/market-size/2ENTnd9L",
+    "https://straitsresearch.com/jp/report/vaccines-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-combination-vaccine-market-2026-2035-expert-view-by-spherical-insights",
+    "https://jp.linkedin.com/pulse/%E5%8B%95%E7%89%A9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B10%E7%A4%BE-triangulatetrackx-qalif",
+    "https://exes506.inkrich.com/posts/combination-vaccines-654807-mvdqutxe",
+    "https://www.mordorintelligence.com/ja/industry-reports/covid-19-vaccine-market",
+    "https://www.wam.go.jp/wamappl/bb11gs20.nsf/0/c0be1c7851ff0b33492576e90016ed01/$FILE/20100317_1sankou3_2.pdf",
+    "https://note.com/qy_research/n/n21c8eae55036",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/ワクチン市場-101769"
+   ]
+  },
+  {
+   "query": "ワクチン 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/vaccines-market",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=26076&la=ja",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "https://www.nikkei.com/article/DGXZRSP710209_S6A720C2000000/",
+    "https://straitsresearch.com/jp/report/vaccines-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%B8%82%E5%A0%B4-101769",
+    "https://www.gii.co.jp/report/grvi1941816-vaccine-market-size-share-trends-analysis-report.html",
+    "https://vaccine-japan.com/",
+    "https://www.mhlw.go.jp/content/10900000/001590510.pdf",
+    "https://www.coherentmarketinsights.com/ja/ワクチン市場"
+   ]
+  },
+  {
+   "query": "vaccines market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/vaccine-technologies-market-1155.html",
+    "https://www.towardshealthcare.com/insights/us-vaccines-market-sizing",
+    "https://www.gminsights.com/industry-analysis/influenza-vaccines-market",
+    "https://www.mordorintelligence.com/industry-reports/vaccines-market",
+    "https://www.technavio.com/report/vaccines-market-industry-size-analysis",
+    "https://www.biospace.com/press-releases/u-s-vaccine-market-size-to-surpass-usd-59-77-billion-by-2034",
+    "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "https://www.who.int/teams/immunization-vaccines-and-biologicals/vaccine-access/mi4a/global-vaccine-market-report",
+    "https://www.researchgate.net/publication/393959247_Vaccines_Market_Size_Share_and_Growth_Outlook_2033",
+    "https://www.futuremarketinsights.com/reports/vaccines-market"
+   ]
+  },
+  {
+   "query": "vaccines market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "https://cdn.who.int/media/docs/default-source/immunization/mi4a/who_gat_008_global_vaccine_market_report_march_12.pdf?sfvrsn=a61f4733_1",
+    "https://www.coherentmarketinsights.com/market-insight/vaccines-market-4914",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7151793/",
+    "https://www.mordorintelligence.com/industry-reports/preventive-vaccines-market",
+    "https://www.linkedin.com/pulse/top-10-vaccine-market-share-company-emerald-drovex-omn2f",
+    "https://www.marketsandmarkets.com/ResearchInsight/vaccine-technologies-market.asp",
+    "https://sterlingcharts.com/sectors/vaccines"
+   ]
+  },
+  {
+   "query": "vaccines market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/vaccine-research-market-27935",
+    "https://www.delveinsight.com/report-store/covid-19-competitive-landscape",
+    "https://cdn.who.int/media/docs/default-source/immunization/mi4a/global-market-landscape-of-vaccine-manifacturing-and-procurement.pdf",
+    "https://www.iqvia.com/-/media/iqvia/pdfs/library/white-papers/race-for-immunity.pdf",
+    "https://www.datamintelligence.com/research-report/vaccines-market",
+    "https://www.mordorintelligence.com/industry-reports/vaccines-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585501/",
+    "https://www.linkedin.com/pulse/navigating-competitive-landscape-vaccine-market-curios-intel-2zkae",
+    "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "vaccines market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/vaccines-market-101769",
+    "https://www.towardshealthcare.com/insights/vaccines-market-sizing",
+    "https://www.grandviewresearch.com/industry-analysis/vaccine-market",
+    "https://cdn.who.int/media/docs/default-source/immunization/mi4a/2025-who-global-vaccine-market-report.pdf?sfvrsn=ae038b7a_3&download=true",
+    "https://www.precedenceresearch.com/vaccines-market",
+    "https://www.kenresearch.com/us-vaccine-market",
+    "https://www.biospace.com/press-releases/u-s-vaccine-market-size-to-surpass-usd-59-77-billion-by-2034",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7151793/",
+    "https://www.linkedin.com/pulse/top-10-companies-vaccines-industry-safeguarding-global-health-jrdaf",
+    "https://sterlingcharts.com/sectors/vaccines"
+   ]
+  }
+ ],
+ "missing": {}
+}

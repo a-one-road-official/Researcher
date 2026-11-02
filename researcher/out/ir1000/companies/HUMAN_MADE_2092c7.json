@@ -1,0 +1,2133 @@
+{
+ "name": "ＨＵＭＡＮ　ＭＡＤＥ",
+ "aliases": [],
+ "context": "証券コード456A／小売業／グロース（内国株式）／2026.01期 売上高14,273百万円 営業利益率31.7%",
+ "researched_at": "2026-11-02T16:48:22.934772+00:00",
+ "official_url": "https://www.humanmade.jp/",
+ "identified_by": "search:yahoo_jp:HUMAN MADE",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の対応に関する基本方針",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、当社の広告及びマーケティング活動の目的から、お客様が閲覧するウェブサイトのドメインとは異なるドメインが発行するCookieであるサードパーティCookieも使用します",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はこれらのCookieについてブロック又は警告するようお使いのブラウザを設定できますが、ただしそれによりウェブサイトの一部が機能しなくなる可能性があります",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloudflare が顧客の Web サイトを訪れている悪意をもつ訪問者を検出し、正規のユーザーのブロックを最小限に抑える助けをします",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のエンドユーザーのデバイスで使用して、共有 IP アドレスの背後の個々のクライアントを識別し、クライアントごとにセキュリティ設定を適用できます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "登録済みの顧客を識別します",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アナリティクスのために次のデータを保管します: セッション ID、レポートスイート名、買い物客の顧客 ID、ソースコードグループ ID (エンコード済み)、通貨のニーモニック、およびタイムゾーン",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ランダムに生成されたユーザー ID を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、これらの企業が、お客様の関心の分析結果を作成し、他のサイト上でお客様に関連する広告を表示するために使用されることがあります",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、個人情報を直接保存するものではなく、お客様のブラウザとインターネットデバイスの識別に基づくものです",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、あらゆる適用法令及び将来それらに取って代わるあらゆる法令に準拠してお客様の個人データを処理します（これら法令には、一般データ保護規則（EU規則2016/679）、並びに2018年欧州連合（離脱）法セクション3によりイングランド、ウェールズ、スコットランド及び北アイルランドの法令の一部となった英国一般データ保護規則が含まれます（以下「",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本通知では、 GDPR に基づき、お客様の個人データの処理に関する情報を提供します",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本通知は、お客様が当社に提供する個人データ又は当社が他の情報源からお客様に関して取得した個人データを、当社が処理する際の基準を定めるものです",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」といいます）は、お客様の個人データに関するデータ管理者でありますとともに、お客様のプライバシーを尊重することを約束します",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」とは、お客様に関するお客様の特定が可能なあらゆるデータをいいます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これにはお客様の詳しい連絡先、その他の個人情報及び写真が含まれます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」とは、個人データの収集、保存、使用、転送又は削除といったお客様の個人データに関して行われるあらゆる作業や操作をいいます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人データを収集する方法及び収集する個人データの内容",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社ウェブサイトにアクセスすると、当社はお客様の機器に関する技術情報、並びにCookie及び閲覧履歴を含むお客様と当社ウェブサイトとのやり取りに関する技術情報を、自動的に収集、保存、使用する場合があります",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、お客様に関する以下の個人データについても収集し処理することがあります（お客様が当社ウェブサイトにおいてフォームへの記入を完了すること等を通じて収集されます）",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "かかる個人データ情報として、当社がお客様と契約を締結し、お客様と連絡を取るために収集を必要とする場合がある、氏名、Eメールアドレス、郵便物宛先、電話番号、IPアドレス、Cookie、性別、生年月日、会社名及びその他の個人データ等が通常含まれます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様に関して保有する個人データを以下の目的で使用します",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人データの処理に関する法的根拠は以下のとおりです",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR第6条（1）(a)に準拠したお客様からの同意の提供",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の対応に関する基本方針",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、当社の広告及びマーケティング活動の目的から、お客様が閲覧するウェブサイトのドメインとは異なるドメインが発行するCookieであるサードパーティCookieも使用します",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はこれらのCookieについてブロック又は警告するようお使いのブラウザを設定できますが、ただしそれによりウェブサイトの一部が機能しなくなる可能性があります",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "Cloudflare が顧客の Web サイトを訪れている悪意をもつ訪問者を検出し、正規のユーザーのブロックを最小限に抑える助けをします",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のエンドユーザーのデバイスで使用して、共有 IP アドレスの背後の個々のクライアントを識別し、クライアントごとにセキュリティ設定を適用できます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "登録済みの顧客を識別します",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリティクスのために次のデータを保管します: セッション ID、レポートスイート名、買い物客の顧客 ID、ソースコードグループ ID (エンコード済み)、通貨のニーモニック、およびタイムゾーン",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ランダムに生成されたユーザー ID を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、これらの企業が、お客様の関心の分析結果を作成し、他のサイト上でお客様に関連する広告を表示するために使用されることがあります",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、個人情報を直接保存するものではなく、お客様のブラウザとインターネットデバイスの識別に基づくものです",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、あらゆる適用法令及び将来それらに取って代わるあらゆる法令に準拠してお客様の個人データを処理します（これら法令には、一般データ保護規則（EU規則2016/679）、並びに2018年欧州連合（離脱）法セクション3によりイングランド、ウェールズ、スコットランド及び北アイルランドの法令の一部となった英国一般データ保護規則が含まれます（以下「",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本通知では、 GDPR に基づき、お客様の個人データの処理に関する情報を提供します",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本通知は、お客様が当社に提供する個人データ又は当社が他の情報源からお客様に関して取得した個人データを、当社が処理する際の基準を定めるものです",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "」といいます）は、お客様の個人データに関するデータ管理者でありますとともに、お客様のプライバシーを尊重することを約束します",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "」とは、お客様に関するお客様の特定が可能なあらゆるデータをいいます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにはお客様の詳しい連絡先、その他の個人情報及び写真が含まれます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "」とは、個人データの収集、保存、使用、転送又は削除といったお客様の個人データに関して行われるあらゆる作業や操作をいいます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人データを収集する方法及び収集する個人データの内容",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社ウェブサイトにアクセスすると、当社はお客様の機器に関する技術情報、並びにCookie及び閲覧履歴を含むお客様と当社ウェブサイトとのやり取りに関する技術情報を、自動的に収集、保存、使用する場合があります",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、お客様に関する以下の個人データについても収集し処理することがあります（お客様が当社ウェブサイトにおいてフォームへの記入を完了すること等を通じて収集されます）",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "かかる個人データ情報として、当社がお客様と契約を締結し、お客様と連絡を取るために収集を必要とする場合がある、氏名、Eメールアドレス、郵便物宛先、電話番号、IPアドレス、Cookie、性別、生年月日、会社名及びその他の個人データ等が通常含まれます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様に関して保有する個人データを以下の目的で使用します",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人データの処理に関する法的根拠は以下のとおりです",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR第6条（1）(a)に準拠したお客様からの同意の提供",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の対応に関する基本方針",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、当社の広告及びマーケティング活動の目的から、お客様が閲覧するウェブサイトのドメインとは異なるドメインが発行するCookieであるサードパーティCookieも使用します",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はこれらのCookieについてブロック又は警告するようお使いのブラウザを設定できますが、ただしそれによりウェブサイトの一部が機能しなくなる可能性があります",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloudflare が顧客の Web サイトを訪れている悪意をもつ訪問者を検出し、正規のユーザーのブロックを最小限に抑える助けをします",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のエンドユーザーのデバイスで使用して、共有 IP アドレスの背後の個々のクライアントを識別し、クライアントごとにセキュリティ設定を適用できます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "登録済みの顧客を識別します",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "アナリティクスのために次のデータを保管します: セッション ID、レポートスイート名、買い物客の顧客 ID、ソースコードグループ ID (エンコード済み)、通貨のニーモニック、およびタイムゾーン",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "ランダムに生成されたユーザー ID を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、これらの企業が、お客様の関心の分析結果を作成し、他のサイト上でお客様に関連する広告を表示するために使用されることがあります",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品を削除しますか?",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "次の商品を買い物カゴから削除しますか?",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたおすすめ商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近の検索結果の商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたカテゴリページの商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、ページのおすすめ商品のアンカー商品が含まれます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieは、当社又は当社が当社ページに付け加えたサービスのプロバイダである第三者により設定される場合があります",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieが許可されない場合、それにより本サービスの一部又は全体が正しく機能しない可能性があります",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「現時点以降の購入」機能は商品一覧ページではサポートされていません",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が最近表示した 10 個の商品など、アクティビティの履歴を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) アンカー商品 ID を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近に表示されたおすすめ商品を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近の検索結果からの商品を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近に表示されたカテゴリページからの商品を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の出荷及び決済",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(b) サービスプロバイダー：当社は、マーケティングサービスの提供など、特定のサービスを実施する第三者のサービスプロバイダーと、お客様の個人データを共有することがあります",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品を削除しますか?",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "次の商品を買い物カゴから削除しますか?",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたおすすめ商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近の検索結果の商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたカテゴリページの商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、ページのおすすめ商品のアンカー商品が含まれます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieは、当社又は当社が当社ページに付け加えたサービスのプロバイダである第三者により設定される場合があります",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieが許可されない場合、それにより本サービスの一部又は全体が正しく機能しない可能性があります",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "「現時点以降の購入」機能は商品一覧ページではサポートされていません",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が最近表示した 10 個の商品など、アクティビティの履歴を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) アンカー商品 ID を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近に表示されたおすすめ商品を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近の検索結果からの商品を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近に表示されたカテゴリページからの商品を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の出荷及び決済",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "(b) サービスプロバイダー：当社は、マーケティングサービスの提供など、特定のサービスを実施する第三者のサービスプロバイダーと、お客様の個人データを共有することがあります",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品を削除しますか?",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "次の商品を買い物カゴから削除しますか?",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたおすすめ商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近の検索結果の商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたカテゴリページの商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、ページのおすすめ商品のアンカー商品が含まれます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieは、当社又は当社が当社ページに付け加えたサービスのプロバイダである第三者により設定される場合があります",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieが許可されない場合、それにより本サービスの一部又は全体が正しく機能しない可能性があります",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "「現時点以降の購入」機能は商品一覧ページではサポートされていません",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が最近表示した 10 個の商品など、アクティビティの履歴を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) アンカー商品 ID を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近に表示されたおすすめ商品を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近の検索結果からの商品を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "(セッションストレージオブジェクト) 最も最近に表示されたカテゴリページからの商品を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の出荷及び決済",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "(b) サービスプロバイダー：当社は、マーケティングサービスの提供など、特定のサービスを実施する第三者のサービスプロバイダーと、お客様の個人データを共有することがあります",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "商品を削除しますか?",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "次の商品を買い物カゴから削除しますか?",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "通常このCookieは、お客様のプライバシー設定やログイン、書式への入力などといったサービス要求としてお客様が行う操作への対応としてしか設定されません",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたおすすめ商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近の検索結果の商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、最も最近に表示されたカテゴリページの商品が、送信されるまで含まれます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "sessionStorage を使用できない場合は、ページのおすすめ商品のアンカー商品が含まれます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieは、当社又は当社が当社ページに付け加えたサービスのプロバイダである第三者により設定される場合があります",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのCookieが許可されない場合、それにより本サービスの一部又は全体が正しく機能しない可能性があります",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN MADE取扱店舗",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "セッションの店舗 ID",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、「店舗固有の価格設定とプロモーション」の機能で使用されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が郵便番号を入力すると、その郵便番号を使用して最寄りの店舗が検索され、この Cookie に保存されて、価格設定とプロモーションの体験が提供されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "買い物客が有効日 (たとえば、将来の注文の店舗受け取りなど) を入力すると、この日付を使用して正確な価格設定とプロモーションが検索され、買い物客に表示されます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "このCookieは、当社の広告パートナーにより当社サイトを通じて設定される場合があるものです",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS003.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/shirts/HM32SH010.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS112.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS115.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE009.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE010.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE013.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE015.html",
+    "pass": 1
+   },
+   {
+    "quote": "推定された買い物の傾向の属性と、予想型並べ替えで使用されるその他のセグメント属性を含みます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE006.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後は海外現地への出店・現地ECを展開し海外売上比率を上昇させ、グローバル化を加速する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上に占める直接チャネル売上（DTC比率*）の推移 海外売上比率（インバウンド込み）***の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト－DTC比率・海外向け売上比率の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長を続ける他の国内企業と比較しても高い海外向け売上比率を実現し、かつその比率は上昇傾向にある",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外向け売上比率は25/1期で64%に達し、高い水準にある",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外（外国人）向け売上比率*の各社比較**",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト－海外向け売上比率の比較",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル別売上比率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プレミアム／ストリートセグメントに位置",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【当社が属するセグメント】",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（Upper Middle ＝ジーンズで3万円程度のセグメントに該当するものと想定）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該セグメントは世界のミレニアル世代、Z世代の購買力の増大を受けて今後も拡大",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はブランド事業の単一セグメントです",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．当社は、ブランド事業の単一セグメントであるため、セグメント別の記載を省略しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の構成割合、管理職の構成比 率、障害者の雇用率等の目標 は定めていません が、定期的な従業員サーベイ 等を通し",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はブランド事業の単一セグメントであるため、セグメント別の記載を省略しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社は、ブランド事業の単一セグメントであるため、セグメント情報の記載を省略しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．当社は、ブランド事業の単一セグメントのため、セグメント別の記載は省略しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(所在地) セグメントの名称 設備の内容",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．当社は、ブランド事業の単一セグメントのため、セグメント別の記載は省略しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ュベーション・セグメント管掌",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS003.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/shirts/HM32SH010.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS112.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS115.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE009.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE010.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE013.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE015.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、国や地域により関税や通関手数料などの追加費用が別途発生する場合がございます",
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE006.html",
+    "pass": 1
+   },
+   {
+    "quote": "単価の維持・",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "購入客数×客単価ともに成長施策を継続",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 品質向上に見合う単価向上",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 左記に加え、単価の異なる新たなカテゴ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 具体的には下記条件のもと、「客数」×「単価」で算出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客単価の割合について10段階のラダーを組み、客数をラダーの顧客単価に",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に店舗への来店客数の大幅な増加が続き、客単価も継続的に上昇",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "客単価（円）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注文数 注文当たり単価（円）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単価の上昇により客単価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.販売政策-客数・客単価推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "たロゴやマークを活用したブランド認知の向上やライセンス展開も企図",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ライセンス契約によるブランド拡張：雑貨やアクセサリー周りでもライセン",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とで、グローバルな模倣品対策やライセンス交渉を有利に取り進め",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他として、飲食店舗の運営と保有するIPのライセンスアウトを行っています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社は自社IPのライセンスアウトを行って います",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．Tシャツやインナーなどベーシックかつ低単価なアイテム",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年額400,000千円（決議時点での取締役の員数は６名）、監査役報酬につきましては、2024年４月26日開催の定",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時株主総会において、年額60,000千円（決議時点での監査役の員数は２名）とする旨決議しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "適切なブランド構築と効率的なビジネスモデルにより、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資機会の模索 • 自社のビジネスモデルに親和性の高いブランドの買収機会の探索",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• DTC中心のビジネスモデルに切り替え",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルのイメージ図は、以下となります",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資が不要な現在のビジネスモデルの維持を目指します",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資機会の模索については、自社のビジネスモデルに親",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、ユニクロさんと今の僕たちはビジネスモデルがまったく違って、ユニクロさんは電気やガス、水道のような生活になくてはならないインフラに近い存在となって、多くの方に必要とされる衣類を提供されていますよね",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "お互いがクリエイティブの重要性とビジネスの仕組みの両方を深く理解し合えているからこそ、日々の協働がスムーズにいって成果につながっていくのだろうと実感しています",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫回転月数",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在庫残高*÷（売上原価/12ヶ月）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上 営業利益 営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "長期間に渡り成長と高収益を持続",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内外でトップクラスの売上成長率と海外のプレミアムブランドに匹敵する高収益性を両立",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高３年CAGR×３年平均営業利益率*によるマッピング",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*財務数値について、営業利益率・売上高CAGR共に、直近期より3期間分の実績を参照",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "***SPEEDA業界分類（小分類）で、「アパレル専門店業界」「カジュアル衣料専門店業界」「スポーツ用品業界」に属する国内上場企業 28社中、売上CAGRおよび平均営業利益率が正かつ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高収益と高成長を両立し、グローバルでの成長ポテンシャルを有する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 在庫があれば顧客は欲しい商品を手軽",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "環境変化を活かせる事業構造を構築し、強みを活かして高成長を実現",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高収益事業モデルを確立",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在庫回転率等で管理",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "値引きや在庫評価損によるコストを極小化、低下したコストの分を商品原価に投入し商品価値を高める",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高いほど在庫が残っていないことを意味する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロパー消化率100%と在庫の高回転を両立",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 一般的に、売上総利益率の高さと在庫の回転率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ラグジュアリーブランドは長期間在庫を保有し",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高い売上総利益率を保っている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 当社では在庫を少量・短期間しか保有しないに",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "****矢野経済研究所「環境省 令和4年度循環型ファッションの推進方策に関する調査業務-マテリアルフロー-」及び大塚商会のERPナビ「在庫消化率とは？",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル経営改善へ向けた在庫管理の考え方」を参考に推計",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率の高さと",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "在庫の高回転を両立",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社ECはお客様から見た場合は在庫があれば気軽に購入できる利便性があること 、当社から見た場合は後述す",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "常に需要全体に対して 少な目に供給を行うこと で、商品価値・価格の維持、適正な在庫量、保管コストの削減に",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "つながり、財務面でも在庫回転率や売上総利益率が高い要因の一つとなっています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率の低下を一定におさえつつ、健全な速度での売上・利益の成長を目指しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上記を実現するために、当社は、売上高成長率、営業利益率、ROE、株主資本比率を重要な経営指標と捉えていま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率について は、ブランド力やビジネスモ デルの状態が反映されやすい指標 であり、本指標の維持 ・向上",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "先行投資による営業利益率の低下を一定におさえつつ、健全な速度での売上・利益の成長を目指していきます",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "量を増やし、在庫切れを起こさない安定供給を目指します",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、当社の強みである「シーズン」物を、マー",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、あらゆる調達リスクを考 慮し、調達先の複数化 ・分散化や適正在庫の強化 等により、調達の安定化に努",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ばれる比較的お求めやす い価格帯の商品群の在庫 拡充に努めまし た",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品と呼ばれる比較的お求めやすい価格帯の商品群の在庫拡充に努めました",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "載のとおり、主な経営指標として売上高成長率、営業利益率、ROE、株主資本比率を重視しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 26.9 28.2 104.8",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上でいうと2025年1月期で112億、営業利益31億、営業利益率が28%",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "──HUMAN MADEブランドの強みと、目指す姿は",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "強みはやはり、ブランドコンセプト「The Future Is In The Past（未来は過去にある）」に基づいたものづくりですね",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "それが競争優位性につながると思っているので",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "ファッションやものづくりにおいても、僕たちが前面に出るのではなく、あくまでプロダクトの魅力やクオリティそのもので勝負したいし、それができるのが強みになるはずです",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2023年には『LOUIS VUITTON』メンズクリエイティブ・ディレクター就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に当社に資本参画したのち、2023年に当社アドバイザーに就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に当社アドバイザーに就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に当社クリエイティブ・パートナーに就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月期に発売した商品のうち、発売後12ヶ月を経過した商品を対象として計算した実績が99%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年、当社取締役COOに就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には代表取締役CEO兼COOに就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、NIGOの共同創業者としてオツモ株式会社（現HUMAN MADE株式会社）を設立",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年、当社取締役CSOに就任",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 【沿革】……………………………………………………………………………………………………………… 3",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年２月 「HUMAN MADE」ブランドの紳士 服、婦人服、子供服等各種衣料繊維製 品及び装飾雑貨の製 造、販売",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年４月 Pharrell Williams氏(以下、「Pharrell氏」という",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年12月 HUMAN MADE OFFLINE STORE店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年２月 HUMAN MADE ISETAN店オープン(2021年５月31日閉店)",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年４月 米国発のファッションブランド「CACTUS PLANT FLEA MARKET」とCreator Projectをスタート",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年５月 HUMAN MADE 1928店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年11月 HUMAN MADE SHIBUYA PARCO店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年７月 HUMAN MADE HARAJUKU店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年５月 HUMAN MADE 1928 CAFE by BLUE BOTTLE COFFEE オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月 HUMAN MADE GENERIC STORE店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年７月 HUMAN MADE OFFLINE STOREが中目黒から秀和外苑レジデンスへ移転",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月 本店を東京都渋谷区代々木四丁目27番25号に移転",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月 HUMAN MADE SHINSAIBASHI PARCO店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年１月 グラフィック・デザイナーVERDY氏のプロジェクト「Wasted Youth」とCreator Projectをスタート",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年３月 KAWS氏が当社アドバイザーに就任",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年４月 米国発の音楽レーベル「Victor Victor Worldwide」とCreator Projectをスタート",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年８月 Pharrell氏が当社アドバイザーに就任",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年９月 中国・上海にHUMAN MADE HUAIHAI店（現地パートナーによる運営）オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月 OTSUMO PLAZA店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年１月 長尾智明(以下、「NIGO氏」という",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年４月 HUMAN MADE FUKUOKA店オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年５月 「オツモ株式会社」を「HUMAN MADE株式会社」に商号変更",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月 韓国・ソウルにHUMAN MADE OFFLINE STORE SEOUL店（現地パートナーによる運営）オープン",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月12日のアドバイザー就任発表から4日後、パリで開催されたルイ・ヴィトンのショーにて",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月にパリで発表されたルイ・ヴィトンのメンズコレクションではファレルがNIGOを迎えて共同でクリエイション",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月開催",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年のニューヨーク旗艦店オープン時のTシャツプロジェクトが成功して、その後UTが立ち上がった",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にNIGOさんをUTのクリエイティブ・ディレクターに迎え、そこで初めて一緒に仕事をさせてもらったことが、今につながっています",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年のインタビュー",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年、オツモ取締役COOに就任",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、オツモ代表取締役社長COOに就任",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、HUMAN MADE Inc.代表取締役CEO兼COOに就任",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年08月13日",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月9日 15:00",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月に上場を果たした同社で経営の舵を取るのが、松沼礼CEOだ",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "1978年パリ生まれ",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "2001年に卒業後、2004年株式会社ユニクロにグラフィックデザイナーとして入社",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月オツモ株式会社の取締役COO、2022年9月代表取締役社長COOに就任",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、HUMAN MADE Inc.代表取締役CEO兼COOに就任、現在は、代表取締役CEO",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "COMPANY PROFILE - HUMAN MADE Inc. — COMPANY PROFILE - HUMAN MADE Inc. HUMAN MADE株式会社 PDF https://humanmade.co.jp > assets > pdf > HUMAN_...",
+    "url": "https://humanmade.co.jp/assets/pdf/HUMAN_MADE_Inc_Company_Profile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "HUMAN MADE が上場承認！NIGOが率いるストリート ... - note — HUMAN MADE が上場承認！NIGOが率いるストリート ... - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/yuichiromori/n/nc8e134544da6",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT – HUMAN MADE Inc. — ABOUT – HUMAN MADE Inc. HUMAN MADE ONLINE STORE https://www.humanmade.jp > about",
+    "url": "https://www.humanmade.jp/about.html?srsltid=AYCX9vK5KhEJLTsQJ_cutL1Tb3y56nCuYPw0_9Rvrm9rOlrwp5dg_Nev",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 PRESENTATION MATERIALS — 決算説明資料 PRESENTATION MATERIALS HUMAN MADE株式会社 https://ir.humanmade.co.jp > presentations",
+    "url": "https://ir.humanmade.co.jp/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "HUMAN MADE Inc. IRサイト — HUMAN MADE Inc. IRサイト HUMAN MADE株式会社 https://ir.humanmade.co.jp",
+    "url": "https://ir.humanmade.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "HUMAN MADE [456A]：2026年1月期通期 決算説明資料 ... — HUMAN MADE [456A]：2026年1月期通期 決算説明資料 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260316582552/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ IR LIBRARY - HUMAN MADE IRサイト — IRライブラリ IR LIBRARY - HUMAN MADE IRサイト HUMAN MADE株式会社 https://ir.humanmade.co.jp > library",
+    "url": "https://ir.humanmade.co.jp/library/",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場申請のための有価証券報告書 - JPX — 新規上場申請のための有価証券報告書 - JPX 日本取引所グループ PDF https://www.jpx.co.jp > new > 11HUMANMADE-1s",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【最新号】特集 HUMAN MADE 天才NIGO®に依存しない ... — 【最新号】特集 HUMAN MADE 天才NIGO®に依存しない ... Instagram https://www.instagram.com > reel > Dc-ffcBIfZ-",
+    "url": "https://www.instagram.com/reel/Dc-ffcBIfZ-/",
+    "pass": 3
+   },
+   {
+    "quote": "HUMAN MADE が100億円ブランドに成長 \"NIGOの存在を超え ... — HUMAN MADE が100億円ブランドに成長 \"NIGOの存在を超え ... fashionsnap.com https://www.fashionsnap.com > ... > インタビュー・対談",
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "pass": 3
+   },
+   {
+    "quote": "HUMAN MADE 流「情報を語りすぎない」ブランド作り - note — HUMAN MADE 流「情報を語りすぎない」ブランド作り - note note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY | HUMAN MADE Inc. — COMPANY | HUMAN MADE Inc. HUMAN MADE株式会社 https://humanmade.co.jp > company",
+    "url": "https://humanmade.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.humanmade.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/about.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/shirts/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/inquiries.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/all/HM32CS1103.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/all/HM32TE1103.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS025.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS038.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/sweatshirts-hoodies/HM32CS003.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/sweater-cutsew/HM32CS044.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanmade.jp/shirts/HM32SH010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS112.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS114.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM31CS115.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE009.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE016.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE019.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE013.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE015.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM32TE006.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.humanmade.jp/t-shirts/HM00CS004.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://humanmade.co.jp/assets/pdf/HUMAN_MADE_Inc_Company_Profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ir.humanmade.co.jp/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.humanmade.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humanmade.co.jp/assets/pdf/HUMAN_MADE_Inc_Company_Profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HUMAN MADE",
+   "results": [
+    "https://www.humanmade.jp/home/?cid=homepage&srsltid=AYCX9vLERiasU3q8p5PSrWmkrL-O2MgUBIGbH-D7BAHJJ6Zk5o_nbvOn",
+    "https://www.bbcicecream.com/collections/human-made?srsltid=AYCX9vIaYQ_-4YMY4A2O5m1b3Wdts64OPw5PqBhMHaAJSfsnZd_6kFNS",
+    "https://www.endclothing.com/en-us/collections/human-made?srsltid=AYCX9vK8gE2fqEZ92Brr2Vb9jiBmf1IKA6dMjAq-3cb16JWg15m4i5q1",
+    "https://www.instagram.com/humanmade/?hl=ja",
+    "https://humanmade.co.jp/en/",
+    "https://hbx.com/men/brands/human-made?srsltid=AYCX9vKgvrWnZERiLeFyVjK1I-SJLldCg9K_sG9I2MiYcNDfexA3RIhG",
+    "https://ja.wikipedia.org/wiki/HUMAN_MADE",
+    "https://grokipedia.com/page/Lampshades_made_from_human_skin",
+    "https://www.humanmade.jp/en/",
+    "https://www.humanmade.org/"
+   ]
+  },
+  {
+   "query": "HUMAN MADE ビジネスモデル",
+   "results": [
+    "https://humanmade.co.jp/assets/pdf/HUMAN_MADE_Inc_Company_Profile.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "https://www.wwdjapan.com/articles/2356118",
+    "https://note.com/yuichiromori/n/nc8e134544da6",
+    "https://www.humanmade.jp/about.html?srsltid=AYCX9vK5KhEJLTsQJ_cutL1Tb3y56nCuYPw0_9Rvrm9rOlrwp5dg_Nev",
+    "https://business.nikkei.com/atcl/NBD/19/00117/00396/",
+    "https://toyokeizai.net/articles/-/924071?display=b",
+    "https://ja.wikipedia.org/wiki/HUMAN_MADE",
+    "https://www.businessinsider.jp/article/2601-humanmade-vs-yutori/",
+    "https://www.humanmade.jp/"
+   ]
+  },
+  {
+   "query": "HUMAN MADE 決算説明資料",
+   "results": [
+    "https://ir.humanmade.co.jp/presentations/",
+    "https://ir.humanmade.co.jp/",
+    "https://ufocatch.com/Dir.aspx?refno=TD2026091100259&mode=TD",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260316582552/",
+    "https://ir.humanmade.co.jp/library/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260911/20260911535085.pdf",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260911535085",
+    "https://www.buffett-code.com/company/456A/library",
+    "https://contents.xj-storage.jp/xcontents/AS04974/1d3d5136/2446/4c36/92e4/2e1367e6761b/140120260316582552.pdf",
+    "https://tdnet-pdf.kabutan.jp/20260316/140120260316582552.pdf"
+   ]
+  },
+  {
+   "query": "HUMAN MADE 事業系統図",
+   "results": [
+    "https://humanmade.co.jp/assets/pdf/HUMAN_MADE_Inc_Company_Profile.pdf",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc00000285s4-att/11HUMANMADE-1s.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251127/20251126509397.pdf",
+    "https://note.com/yuichiromori/n/nc8e134544da6",
+    "https://www.instagram.com/reel/Dc-ffcBIfZ-/",
+    "https://www.buffett-code.com/company/456A/",
+    "https://humanmade.co.jp/company/",
+    "https://holistic-r.org/adm/wp-content/uploads/2025/11/456A251128.pdf",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/260621456AuSjKTaCU.pdf"
+   ]
+  },
+  {
+   "query": "HUMAN MADE 社長 インタビュー",
+   "results": [
+    "https://www.fashionsnap.com/article/human-made-rei-matsunuma/",
+    "https://note.com/froggy_smbcnikko/n/n77d9917f4f6b",
+    "https://www.wwdjapan.com/articles/2487943",
+    "https://x.com/fashionsnap/status/1926777991809335742",
+    "https://humanmade.co.jp/company/",
+    "https://www.hosei.ac.jp/info/article-20221125140538?auth=9abbb458a78210eb174f4bdd385bcf54",
+    "https://iandco.substack.com/p/38b",
+    "https://www.instagram.com/rei_matsunuma/?hl=ja",
+    "https://podcasts.apple.com/ru/podcast/016-%E7%89%B9%E5%88%A5%E7%B7%A8-human-made%E3%81%AE-%E5%A4%9A%E3%81%8F%E3%82%92%E8%AA%9E%E3%82%89%E3%81%AA%E3%81%84-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%A5%E3%81%8F%E3%82%8A-%E3%82%B2%E3%82%B9%E3%83%88-human-made-ceo%E6%9D%BE%E6%B2%BC%E7%A4%BC%E3%81%95%E3%82%93/id1648834007?i=1000773786085&l=uk",
+    "https://froggy.smbcnikko.co.jp/74306/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

@@ -1,0 +1,1347 @@
+{
+ "name": "ＩＰＳ",
+ "aliases": [],
+ "context": "証券コード4390／情報・通信業／プライム（内国株式）／2026.03期 売上高16,999百万円 営業利益率31.6%",
+ "researched_at": "2026-11-02T16:49:13.609562+00:00",
+ "official_url": "https://www.ipsdb.com/",
+ "identified_by": "search:yahoo_jp:IPS",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1997年6月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "事業内容(グループ全体) SAP事業　SAPの導入・運用支援サービス事業、新規事業開発とIT活用・効果醸成コンサルティング、 DXサービス（工場やオフィスのスマート化支援）、グループ会社の経営管理",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結164名（2025年7月1日現在）",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "11,219 2,489 1,555 15,264 － 15,264",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の 内部売上高又は振替高",
+    "value": "34 2 2 39 △39 －",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "12,943 2,405 1,650 16,999 － 16,999",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の 内部売上高又は振替高",
+    "value": "3 3 5 12 △12 －",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "私共は創業以来四半世紀 SAP ERPシステムの導入・保守サービスを専業として、これまで180社を超えるお客様にSAP ERPを導入して参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お陰様で多くのお客様、そしてSAP社様から代表的なSAPパートナーとしてご評価頂いております",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の経営インフラである基幹業務システムの構築を担うことは重責です",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "そのことを重く受け止め、一意にSAP導入技術を磨き、製品やサービスの開発と向上に努め、お客様を取り巻く環境変化に迅速に対応し、且つ、お客様にご安心頂ける安定した経営を心掛けて参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル化した経済活動と厳しい競争、加速する新しいテクノロジーの台頭によって、お客様と私共は今もう既に、今までにないスピードで次々と大きな変化に直面しています",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私共は、そのような環境で果敢に前進するお客様を深くリスペクトすると共に、 お客様の企業活動をITの面から支えて参りたいと考えております",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は1997年の創業以来SAP導入ビジネスに専心し、これまで180社以上のお客様にサービスを提供して参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなアライアンスのもと、今後ともお客様に最上のサービスを提供して参ります",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のSAP社の中堅企業向け有力パートナーの中から、グローバルに広がる顧客向けの保守、技術支援を目的に各地区からパートナーを厳選し、世界規模でパートナー連合を組織しています",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "「自らの細胞から生まれたコスメに対し、利用者は我が子のように愛着を抱く",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "コーセー、顧客の声を経営資産へと転換～お客様相談室起点で改革を加速",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "花王、AIを中核に全社のDXを加速～需給計画から顧客体験まで高度化",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "コーセー、顧客の声を経営資産へと転換～お客様相談室起点...",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "花王、AIを中核に全社のDXを加速～需給計画から顧客体...",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "ポーラ、リアル教育強化で顧客構造が良化～2026年度も...",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、通信トラフィックの需要があるコールセンター事業者向けを中心に、ソフトウェア、通信回線及びコンサルテーションを顧客ごとに最適化したソリューションサービスの提供を継続してまいります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniVAN, Inc.による法人向けインターネット接続サービスは、2025年12月末の課金顧客数が2024年12月末より510件増加して2,103件となり、事業全体では増収増益となりました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが日本国内の販売代理権を持つコールセンターシステム「AmeyoJ」と、大手電気通信事業者から仕入れた電話回線をコールセンター事業者向けに秒単位の課金体系で販売する秒課金を組み合わせたソリューションサービスにおいて、顧客ニーズに応じたライセンス販売等を継続しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "SHSCは健診センター・人間ドックSDPCCにおいては、日本基準の高品質な定期健診サービスを法人・個人向けに継続的に提供した結果、利用者の来院数が安定的に増加し、2025年下期に目標の単月黒字化を達成しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．主な相手先別の販売実績及び総販売実績に対する割合については、各販売先への当該割合が100分の10未満",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "海外送金サービスなどの顧客開拓・利用促進事業",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "３.主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまでいろいろなお客様に好評いただいています",
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "pass": 3
+   },
+   {
+    "quote": "今行っている再生医療ビジネスのお客様も、広く一般の方というよりは、難病に苦しむ方、再生医療でしか治せない特殊な病気の方など、限定された方々です",
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイパースケール事業者、ＣＡＴＶ事業者、地方の通信事業者など、幅広い顧客層に対するサービス展開が全国規模で自社のネットワークを使い提供が可能になります",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "最初、我々はフィリピンのローカル企業と提携してビジネスがやれないかと模索していたのですが、フィリピンの通信事業者は排他的な傾向があって自分たちはがっちり顧客を押さえ、その一方で公共性の高いサービスであるにもかかわらず極端に高い価格で売る、そんなビジネス慣習がありました",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "６０％の民族資本は我々のお客様である様々なCATV事業者のオーナーに入ってもらい、フィリピンでの通信事業の土壌ができました",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "我々は首都圏では法人のお客様向けにできるだけ安価に回線を提供し、地域では、地域に根差したCATV事業者と組み、国際回線につながる安定したインフラを整備していきたいと考えています",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様も通信会社も自分のところで運営が可能になり、競争が発生してサービスが向上し、料金がどんどん下がっていくはずです",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス/事業内容",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPソリューションの導入支援サービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPソリューションの活用・運用支援サービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "IPSのコンサルティングサービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援サービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私共は創業以来四半世紀 SAP ERPシステムの導入・保守サービスを専業として、これまで180社を超えるお客様にSAP ERPを導入して参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "そのことを重く受け止め、一意にSAP導入技術を磨き、製品やサービスの開発と向上に努め、お客様を取り巻く環境変化に迅速に対応し、且つ、お客様にご安心頂ける安定した経営を心掛けて参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私共の製品やサービスもそのような杖になるべく研鑽して参ります",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP事業 SAPの導入・運用支援サービス事業、新規事業開発とIT活用・効果醸成コンサルティング、",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "DXサービス（工場やオフィスのスマート化支援）、グループ会社の経営管理",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "プラチナパートナーとして、最上のサービス提供を",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は1997年の創業以来SAP導入ビジネスに専心し、これまで180社以上のお客様にサービスを提供して参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP製品の販売及び導入を行うチャネルパートナーであり、SAP最上位ランクであるプラチナパートナー（国内10社程度）に認定されております",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなアライアンスのもと、今後ともお客様に最上のサービスを提供して参ります",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPソリューションを",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPコンサルティングサービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "IPSホールディングスが考えるDX支援サービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "スマート工場支援サービス",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "抽出されたiPS由来原料は、自らのプライベートブランドとしての製品化など柔軟なOEM展開が可能だ",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "■特集/アジアンコスメ～市場成熟でブランドの選別が加速◎The Founders JAPAN～「Anua」のリテール戦略を加速、セラムなど主力品の安定供給も確保◎ミシャジャパン～看板商品の育成・強化で再成長へ、Mライン中心にベースメイクを拡充◎VT COSMETICS～韓国の人気商品を日本限定仕様に、日韓の市場特性を見極め商品展開◎BENOW（ビナウ）～2ブランド軸に日本市場を開拓、直営店の...",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "肌悩みから商品を選ぶ時代へ～AI肌解析ツールが変える化粧品売場",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "ICE、iPS由来エクソソーム製品を新提案",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "ICE、「iPS細胞由来エクソソーム」製品の取り扱いを2026年11月からスタート",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー製品一覧などの",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "肌悩みから商品を選ぶ時代へ～AI肌解析ツールが変える化...",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品、日用品（トイレタリー製品・石鹸洗剤・歯磨き等）、医薬品、美容業、装粧品、エステティック等を中心とした",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス/事業内容",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPソリューションの導入支援サービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPソリューションの活用・運用支援サービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "IPSのコンサルティングサービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援サービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "SAPコンサルティングサービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "IPSホールディングスが考えるDX支援サービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "スマート工場支援サービス",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "子会社であるInfiniVAN, Inc.がフィリピン国内で法人向けインターネット接続サービスを行っております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "・音声通信（電話サービス）の提供",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の固定／携帯電話事業者と相互接続協定を締結し、自社ネットワークを通じた音声通信サービスを提供しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "他の通信事業者向けの格安な通話サービスの提供や、クレジットカード会社向けの自動督促用音声装置と組み合わせた音声通話サービス等、大手通信事業者が提供しないサービスを提供しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "大手通信事業者の着信者払い通話サービスを大口で仕入れて小口で再販し、１秒単位で課金する秒課金サービスを提供しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "・データセンターサービス",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "東京都内にデータセンターを保有し、他の事業者のサーバーを預かるコロケーションサービス（注１）等を提供しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注１） コロケーションサービス",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、フィリピンとシンガポール・香港を結ぶ海底ケーブル（City-to-City Cable System、以下「C2C回線」）の使用権の一部及び各国の陸上回線から成る国際通信ネットワークを取得して、キャリアズキャリア（通信事業者のための卸売業者）としてのポジションを確立し、拡大する通信需要に応えるとともに、2023年12月に完成したフィリピン国内海底ケーブルネットワーク（Philippine Domestic Submarine Cable Network、以下「PDSCN」）を中心とする国内基幹網の拡充を通じ、フィリピン全土に通信回線やサービスを展開することにより、さらなる事業の拡大を図りました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、通信トラフィックの需要があるコールセンター事業者向けを中心に、ソフトウェア、通信回線及びコンサルテーションを顧客ごとに最適化したソリューションサービスの提供を継続してまいります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが使用権を保有するC2C回線において大口契約を獲得したほか、PDSCNを中心とするフィリピン国内基幹網とC2C回線を組み合わせたネットワークを活用し、マニラ首都圏から地方へ向けた回線・サービス提供を引き続き拡大しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、地方通信事業者向けの通信機器販売を含むネットワーク構築サービスや、小口容量の提供",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "InfiniVAN, Inc.による法人向けインターネット接続サービスは、2025年12月末の課金顧客数が2024年12月末より510件増加して2,103件となり、事業全体では増収増益となりました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが日本国内の販売代理権を持つコールセンターシステム「AmeyoJ」と、大手電気通信事業者から仕入れた電話回線をコールセンター事業者向けに秒単位の課金体系で販売する秒課金を組み合わせたソリューションサービスにおいて、顧客ニーズに応じたライセンス販売等を継続しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "着信側が課金される「0120」等を自社提供する新サービスの開始に向けた対応を進めました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "SLACCがマニラ首都圏で展開するレーシックは、マーケティング手法の見直しや柔軟な価格・サービス体系の提供により、競争環境の激化等の影響を受ける中でも引き続き手術件数の安定化を図りました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "SHSCは健診センター・人間ドックSDPCCにおいては、日本基準の高品質な定期健診サービスを法人・個人向けに継続的に提供した結果、利用者の来院数が安定的に増加し、2025年下期に目標の単月黒字化を達成しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、商品・サービス別に事業部を置き、各事業部は取り扱う商品・サービスについて国内及び海外の包括的な戦略を立案し、事業活動を展開しています",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2）各報告セグメントに属する商品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの種類",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "海外送金サービスなどの顧客開拓・利用促進事業",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "電話サービス及びコールセンター向けソフトウエアの販売",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "１.製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "SAPのご紹介",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "UNITED VARSのご紹介",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、グローバル 約70カ国のSAPパートナーと協力して日本でもTOPクラスのグローバル 支援体制を構築しております",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お陰様で多くのお客様、そしてSAP社様から代表的なSAPパートナーとしてご評価頂いております",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "プラチナパートナーとして、最上のサービス提供を",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP製品の販売及び導入を行うチャネルパートナーであり、SAP最上位ランクであるプラチナパートナー（国内10社程度）に認定されております",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を代表するSAPパートナーとして",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のSAP社の中堅企業向け有力パートナーの中から、グローバルに広がる顧客向けの保守、技術支援を目的に各地区からパートナーを厳選し、世界規模でパートナー連合を組織しています",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国の代表70社以上のパートナーが参画し、約100カ国をカバーしています",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "”毛穴ケア”の次なる狙い目は？ 最新のアイテム傾向と、美容液からクレンジングまでODM３品をご紹介",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "制度品・海外品・一般品・通販・訪販の各企業の最新動向を万遍なく紹介しております",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "SAPのご紹介",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "UNITED VARSのご紹介",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 トップ",
+    "url": "https://www.nippan-ips.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "」において掲載されております、当社社長の横山のインタビュー記事をご紹介します",
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "pass": 3
+   },
+   {
+    "quote": "フィリピンの通信事業者の権利（フランチャイズ）は議員立法になっており、下院、上院の審議を経て、大統領が許可し発布されるという流れになっています",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "サークル紹介",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "フィリピンの人材紹介、人材派遣",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "私共は創業以来四半世紀 SAP ERPシステムの導入・保守サービスを専業として、これまで180社を超えるお客様にSAP ERPを導入して参りました",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のSAP社の中堅企業向け有力パートナーの中から、グローバルに広がる顧客向けの保守、技術支援を目的に各地区からパートナーを厳選し、世界規模でパートナー連合を組織しています",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "インドのDrishti社が開発したコールセンターシステム「AmeyoJ」のライセンスを仕入れ、日本国内のコールセンター事業者へ販売",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが日本国内の販売代理権を持つコールセンターシステム「AmeyoJ」と、大手電気通信事業者から仕入れた電話回線をコールセンター事業者向けに秒単位の課金体系で販売する秒課金を組み合わせたソリューションサービスにおいて、顧客ニーズに応じたライセンス販売等を継続しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "電気通信事業者間の音声通信回線の相互接続については、電話網のIP化等を踏まえ接続料（アクセスチャージ）を保守的に見直した水準で推移しましたが、事業全体では減収となり利益は黒字化しました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "フィリピンにおいて通信事業を行うためにはライセンスの取得が必要でした",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、厳しい経営環境に置かれていた現地の通信事業者に働きかけ、国内回線のライセンス供与を受けることで事業を始めることができました",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス供与を受けた現地通信事業者は、もともとマニラ首都圏だけを事業の対象にしていましたので地方のCATV事業者にサービスを拡大するには自分たちで通信業務の免許を取らなくてはいけません",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "IPSグループの強み",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "資生堂ジャパン、AIアンバサダー軸に全社変革を加速～「ココロが動くAIX」で競争優位創出へ",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "IPSグループの強み",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "特に我々は精度の高さが強みで、陽性の場合、インド株（デルタ株）やイギリス株といった変異株まで特定できます",
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代からフィリピンに進出し、設計から施工、試運転まで一貫して手がける「EPCC」を強みに、10年前の現地法人設立後も電力インフラから水処理まで、時代とともに変化するニーズに応え続けてきた東芝プラントシステムとTPSCPHILIPPINES",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1997年6月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "1999年1月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2001年12月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年10月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年5月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年7月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年5月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月21日 12:30",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2010年1月から最新号まで",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "昭和33年に創刊された、わが国初の訪問販売化粧品業界の専門情報紙",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 化粧品消費者調査データ",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月11日",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "2026年６月期 決算短信〔日本基準〕（連結）",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年６月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年６月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月に支店長に就任された石川氏にお話を伺った",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、日本とフィリピンは国交正常化70周年を迎えた",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代からフィリピンに進出し、設計から施工、試運転まで一貫して手がける「EPCC」を強みに、10年前の現地法人設立後も電力インフラから水処理まで、時代とともに変化するニーズに応え続けてきた東芝プラントシステムとTPSCPHILIPPINES",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代の機器輸出に始まり、発電、そして電力小売へと事業を広げてきた丸紅",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年の小売自由化以前から民間への電力供給を手がける小売の「パイオニア」だ",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、フィリピン電力市場は新たな局面を迎える",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ICEは、2026年7月から「細胞及び上清液を管理するビジネスモデル」の一環として、iPS細胞を活用したオーダーメイドコスメの提案を本格化させた",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業系統図は、以下のとおりであります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IPS ホールディングス株式会社 企業情報 — IPS ホールディングス株式会社 企業情報 IPSホールディングス株式会社 https://ips.ne.jp > about",
+    "url": "https://ips.ne.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "iPS 細胞で自分そのものを原料に美容とメディカルヘルスケア ... — iPS 細胞で自分そのものを原料に美容とメディカルヘルスケア ... 週刊粧業オンライン https://www.syogyo.jp > news > 2026/10 > post_044989",
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "pass": 3
+   },
+   {
+    "quote": "｢ IPS （個別就労支援 モデル ）」とは？最も効果が出る就労支援 ... — ｢ IPS （個別就労支援 モデル ）」とは？最も効果が出る就労支援 ... パパゲーノAI福祉研究所 https://ai-fukushi.net > what_is_ips",
+    "url": "https://ai-fukushi.net/what_is_ips/",
+    "pass": 3
+   },
+   {
+    "quote": "Individual Placement and Support（ IPS ） - 日本精神神経学会 — Individual Placement and Support（ IPS ） - 日本精神神経学会 精神神経学雑誌オンラインジャーナル PDF https://journal.jspn.or.jp > jspn > openpdf",
+    "url": "https://journal.jspn.or.jp/jspn/openpdf/1250080670.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IPS について - JIPSA — IPS について - JIPSA jipsa.jp https://jipsa.jp > ips > ips",
+    "url": "https://jipsa.jp/ips/ips",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社アイ・ピー・エス — 決算説明資料 | 株式会社アイ・ピー・エス 株式会社アイ・ピー・エス https://ipsism.co.jp > IR情報",
+    "url": "https://ipsism.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 開示情報｜ IPS ホールディングス株式会社 — 決算 開示情報｜ IPS ホールディングス株式会社 IPSホールディングス株式会社 https://ips.ne.jp > ... > 決算開示情報一覧",
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 株式会社アイ・ピー・エス — IRカレンダー | 株式会社アイ・ピー・エス 株式会社アイ・ピー・エス https://ipsism.co.jp > IR情報",
+    "url": "https://ipsism.co.jp/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - 日販アイ・ピー・エス株式会社 — 組織図 - 日販アイ・ピー・エス株式会社 日販アイ・ピー・エス株式会社 https://www.nippan-ips.co.jp > company > organization",
+    "url": "https://www.nippan-ips.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "IPS 【4390】の 事業 内容 - キタイシホン — IPS 【4390】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - アイピーエス株式会社 — 会社概要 - アイピーエス株式会社 アイピーエス株式会社 https://www.ips-tech.co.jp > company",
+    "url": "https://www.ips-tech.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "後編】もう「未来の医療」ではない。 iPS 細胞と再生医療が ... — 後編】もう「未来の医療」ではない。 iPS 細胞と再生医療が ... 株式会社リプロセル https://reprocell.co.jp > featurearticles-02",
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス烈伝 IPS , Inc. 代表取締役 社長 InfiniVAN Inc. 代表 ... — ビジネス烈伝 IPS , Inc. 代表取締役 社長 InfiniVAN Inc. 代表 ... primer.ph https://primer.ph > business > business-interview-vol193",
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "pass": 3
+   },
+   {
+    "quote": "JTEC 畠 社長 インタビュー 聞き手：私どもは、 iPS 細胞 ... — JTEC 畠 社長 インタビュー 聞き手：私どもは、 iPS 細胞 ... 佐藤勝昭のホームページ PDF https://home.sato-gallery.com > JTEC_iPS Trend",
+    "url": "https://home.sato-gallery.com/JST/interview/JTEC_iPS%20Trend.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "後編】もう「未来の医療」ではない。 iPS 細胞と再生医療が ... — 後編】もう「未来の医療」ではない。 iPS 細胞と再生医療が ... Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_5095487/post_articles/456029",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ（当社及び当社の関係会社）は、当社（株式会社アイ・ピー・エス）と連結子会社８社（KEYSQUARE, INC., Shinagawa Lasik & Aesthetics Center Corporation, InfiniVAN, Inc. , CorporateONE, Inc., ISMO Pte. Ltd., Carrier Domain, Inc., Shinagawa Healthcare Solutions Corporationおよび株式会社アイ・ピー・エス・プロ）により構成されており、「国際通信事業」、「国内通信事業」、「メディカル＆ヘルスケア事業」の３つのセグメントに分類されます",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの事業内容および関係会社の位置付けは以下のとおりです",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の業績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、売上高は12,943百万円（前期比15.4％増）、セグメント利益は4,901百万円（同8.9％増）となりました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、売上高は2,405百万円（前期比3.4％減）、セグメント利益は397百万円（前期は11百万円のセグメント損失）となりました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、売上高は1,650百万円（前期比6.1％増）、セグメント利益は80百万円（前期は84百万円のセグメント損失）となりました",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における仕入実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間取引は相殺消去しております",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "［セグメント情報]",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1）報告セグメントの決定方法",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2）各報告セグメントに属する商品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と同一です",
+    "url": "https://kitaishihon.com/company/4390/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ipsdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/mission-vision-values",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/awards-recognition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/ips-path",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/landing/environmental-social-governance-report-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/locations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/locations/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/our-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/privacy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/terms-of-use",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/united-kingdom-tax-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/uk-modern-slavery-act-2015",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/ips-path",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/projects/wuxi-biologics-first-overseas-facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/projects/fill-finish-facility-for-live-viral-vaccines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/locations/united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/locations/brazil",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/about-ips/locations/canada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/our-team/robert-roy-pe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/projects/new-advanced-aseptic-processing-facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/projects/new-aseptic-fill-finish-facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/our-team/jason-s-collins-aia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/our-team/sam-halaby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsdb.com/our-team/christopher-r-hall-aia",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ipsdb.com/images/stories/flexicontent/item_858_field_99/l_ips-projects-bn-fill-finish-facility-for-live-viral-vaccines-facility-rendering-new-structure-on-the-left.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ips.ne.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syogyo.jp/news/2026/10/post_044989",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipsism.co.jp/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ips.ne.jp/for-shareholders/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippan-ips.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4390/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reprocell.co.jp/featurearticles-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "IPS",
+   "results": [
+    "https://www.ipsdb.com/",
+    "https://www.ibm.com/think/topics/intrusion-prevention-system",
+    "https://www.ips.co/",
+    "https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips",
+    "https://www.databank.com/faq/what-is-an-intrusion-prevention-system-ips-and-how-does-it-work/",
+    "https://www.fortinet.com/resources/cyberglossary/what-is-an-ips",
+    "https://www.viewsonic.com/library/photography/what-is-an-ips-monitor-panel/",
+    "https://ipscorp.com/",
+    "https://www.mimecast.com/content/what-is-ips/",
+    "https://ja.wikipedia.org/wiki/IPS"
+   ]
+  },
+  {
+   "query": "IPS ビジネスモデル",
+   "results": [
+    "https://ips.ne.jp/about/",
+    "https://www.syogyo.jp/news/2026/10/post_044989",
+    "https://ai-fukushi.net/what_is_ips/",
+    "https://journal.jspn.or.jp/jspn/openpdf/1250080670.pdf",
+    "https://jipsa.jp/ips/ips",
+    "https://ipsism.co.jp/",
+    "https://ryujin-welfare.org/column/ipsmodel/",
+    "https://resta8.net/support/about-ips/",
+    "https://www.nitto.com/jp/ja/about_us/concepts/businessmodel/",
+    "https://note.com/bapebape/n/n733a9cbbf78a"
+   ]
+  },
+  {
+   "query": "IPS 決算説明資料",
+   "results": [
+    "https://ipsism.co.jp/ir/presentations/",
+    "https://ips.ne.jp/for-shareholders/earnings/",
+    "https://ipsism.co.jp/ir/calendar/",
+    "https://www.youtube.com/watch?v=kZz60rN8tjA",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261002545592/",
+    "https://www.aipf.co.jp/ir/presentations.html",
+    "https://kabutan.jp/stock/finance?code=4390",
+    "https://www.cuorips.co.jp/irrelation",
+    "https://strainer.jp/companies/JP-4390/filings",
+    "https://ips.ne.jp/for-shareholders/ir-news/"
+   ]
+  },
+  {
+   "query": "IPS 事業系統図",
+   "results": [
+    "https://www.nippan-ips.co.jp/company/organization/",
+    "https://kitaishihon.com/company/4390/business",
+    "https://ips.ne.jp/about/",
+    "https://www.cira.kyoto-u.ac.jp/j/about/organization_chart.html",
+    "https://www.ips-tech.co.jp/company/",
+    "https://www.cira-foundation.or.jp/j/about/organization/",
+    "https://www.proofpoint.com/jp/threat-reference/intrusion-prevention-system-ips",
+    "https://www.scsk.jp/sp/itpnavi/glossary/alphabet/alphabet_i/ips.html",
+    "https://ipsism.co.jp/ips-movies/",
+    "https://mit-hd.co.jp/ir-information/keito/"
+   ]
+  },
+  {
+   "query": "IPS 社長 インタビュー",
+   "results": [
+    "https://reprocell.co.jp/featurearticles-02/",
+    "https://primer.ph/column/genre/business/business-interview-vol193/",
+    "https://home.sato-gallery.com/JST/interview/JTEC_iPS%20Trend.pdf",
+    "https://www.wantedly.com/companies/company_5095487/post_articles/456029",
+    "https://www.youtube.com/watch?v=OQSmqcPPFws",
+    "https://ipsism.co.jp/presidentmessage/",
+    "http://e-sq.jp/interview/aipi-esu.htm",
+    "https://www.ips-j.co.jp/recruit/message/",
+    "https://www.cira.kyoto-u.ac.jp/j/pressrelease/newsletter/261014-000001.html",
+    "https://ips.ne.jp/newsletter/202505_interview/"
+   ]
+  }
+ ],
+ "missing": {}
+}

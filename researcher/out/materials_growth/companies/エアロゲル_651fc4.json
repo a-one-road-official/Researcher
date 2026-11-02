@@ -1,0 +1,2038 @@
+{
+ "name": "エアロゲル",
+ "en": "aerogel",
+ "aliases": [
+  "silica aerogel",
+  "エアロゲル"
+ ],
+ "context": "断熱",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:57:06.624826+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "エアロゲル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場規模、シェア、トレンド分析レポート：タイプ別（シリカ、カーボン、ポリマー、その他）、フォーム別（ブランケット、粒子、パネル、モノリス）、用途別（石油・ガス、建設、輸送、高性能コーティング、採光・低電圧ヒートシンク、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2025年～2033年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアロゲル市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億8000万米ドルから2034年には83億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.45%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は今後10年でどう進化するか | IDTechEx Research Article",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は今後10年でどう進化する",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は今後10年でどう進化するか",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "では、EV断熱層の採用が後押しとなり、エアロゲル市場は2025年には10億ドルを超える規模になると予測しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱材市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱材市場は2025年に11.0億米ドルと評価され、2026年には11.5億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱材市場規模：最終用途別、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガス分野の市場規模は2025年に3億3,000万米ドルとなり、2035年までに9億3,700万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・EV分野の市場規模は2025年に1億9,800万米ドルとなり、2035年までに8億1,500万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業プロセス用途の市場規模は2035年までに4億4,800万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は15.1%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野の市場規模は2025年に7,700万米ドルとなり、2035年までに2億8,500万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器分野は2025年に市場収益の4.0%を占め、2035年までに市場規模が1億6,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "高機能アパレル分野の市場規模は2025年に2,200万米ドルとなり、2035年には市場収益の1.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場は、航空宇宙、自動車、建設など、さまざまな業界で環境の持続可能性とエネルギー効率を重視しているため、2037年まで安定した成長を記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場規模は2024年に99億米ドルがありました",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場規模・予測レポート 2026～2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は2025年に8億7,500万米ドルと評価され、2026年には10億2,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別エアロゲル市場規模、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "粒子・顆粒製品は、2035年に市場規模が10億2,000万米ドルに達すると予測され、2025年のシェアは25.0%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は、2032年までにCAGR14.18％で46億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "断熱材、遮熱材、蓄熱・吸着材市場は25年度に9,949億円(18年度比:16.0%増)に成長",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の断熱材、遮熱材、蓄熱・吸着材市場は8,557億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "蓄熱・吸着材は蓄熱式暖房機や蓄熱式床暖房の需要が縮小しているものの、2019年に発表された医薬品の適正流通ガイドライン(GDPガイドライン)により、医療分野における定温輸送資材で潜熱蓄熱材の採用が増加しており市場は拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "5,720億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "6,565億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1,088億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1,049億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1,919億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2,095億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "8,971億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "9,949億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "住宅分野は2020年の改正省エネ基準/建築物省エネ法の適合義務化が見送られたものの、依然として省エネニーズは高く断熱材、遮熱材、蓄熱・吸着材の高性能化が進み市場は拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "断熱材は新築住宅着工数の減少が予想されているなかで、ZEHやHEAT20のG1・G2相当の住宅の普及に伴い需要が増加しており、住宅1戸あたりの使用量も増え、市場は拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲルおよび超軽量断熱材市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界のエアロゲルおよび超軽量断熱材市場は、2026年に14億米ドル規模となり、予測期間中にCAGR 13.3％で成長し、2034年までに39億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,150 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,350 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,500 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場規模、シェア、成長分析：タイプ別、形態別、製造プロセス別、用途別、最終用途別、地域別- 業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱スラリーの世界市場（2026年～2032年）、市場規模（ナノシリカエアロゲル、アクリルエアロゲル、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "エアロゲル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアロゲル市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億8000万米ドルから2034年には83億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場の規模は、2026年には24億8000万米ドルと評価され、2034年までに83億9000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%です",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.45%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲルは、電気自動車（EV）用途において前年比で大幅な成長を遂げており、市場シェアは2021年から2024年にかけて約20倍に拡大しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、エアロゲル市場の大手企業であるアスペン・エアロジェルズの最近の発表では、2024年度は前年比90%の増収を達成し、EV断熱層部門については2023年から2.8倍に成長しているとのことです",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExは2015年以降、全世界・地域別のエアロゲル生産能力の拡大に注目してきました",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExは、エアロゲル市場が2025年から2035年にかけて年平均成長率12.2%で3.2倍の規模に成長すると予測しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は14.0%と見込まれ、2035年には40.7億米ドルに達する予測である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界の電気自動車販売台数は1,700万台を超え、前年比で25%超増加した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・EV最終用途は、2035年まで2桁の年平均成長率（CAGR）を維持",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "回復は、規制の安定化と2026〜2028年にかけたOEMのEV生産拡大に左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は2025年に市場の28.0%を占め、2026〜2035年の年平均成長率（CAGR）は15.9%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.3%のCAGR",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は15.2%で、2035年には36億5,000万米ドルに拡大する見通しだ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "EV生産の急拡大に伴い、セル間の熱暴走を防ぐエアロゲルブランケットの車両1台当たりの需要が増加し、プログラムの生産台数拡大とともに売上高が積み上がる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "EU各国の改修計画の進展に伴い、建築・建設セグメントの年平均成長率（CAGR）が加速 post-2027",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンエアロゲルの2025年の売上高シェアは6.1%で、2026〜2035年の年平均成長率（CAGR）は23.9%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマーエアロゲルの2035年の売上高シェアは9.0%となり、2026〜2035年の年平均成長率（CAGR）は25.0%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブランケットの2025年の売上高は4億8,100万米ドルであり、2026〜2035年の年平均成長率（CAGR）は16.0%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "パネル・ボードは、2035年に14.0%のシェアを占め、年平均成長率（CAGR）19.2%で成長すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場は、2032年までにCAGR14.18％で46億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 14.18%",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは14.18%です",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "蓄熱・吸着材は蓄熱式暖房機や蓄熱式床暖房の需要が縮小しているものの、2019年に発表された医薬品の適正流通ガイドライン(GDPガイドライン)により、医療分野における定温輸送資材で潜熱蓄熱材の採用が増加しており市場は拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "住宅分野は2020年の改正省エネ基準/建築物省エネ法の適合義務化が見送られたものの、依然として省エネニーズは高く断熱材、遮熱材、蓄熱・吸着材の高性能化が進み市場は拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "断熱材は新築住宅着工数の減少が予想されているなかで、ZEHやHEAT20のG1・G2相当の住宅の普及に伴い需要が増加しており、住宅1戸あたりの使用量も増え、市場は拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度は東京五輪により非住宅需要が、また、省エネ意識の高まりにより住宅需要が増加し、市場は拡大した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度は引き続き省エネ意識の高まりによる住宅需要が堅調なことや東京五輪特需がピークを迎えることから市場は拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の新築住宅着工戸数はほぼ横ばいであったものの、参入企業が省エネ化を推進するトップランナー制度への対応に向けて複合サッシや樹脂サッシのラインアップを拡充し、比較的低い価格設定の高機能サッシ製品を発売するなどエンドユーザーへの訴求が進み、採用率が上昇し市場は拡大した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界のエアロゲルおよび超軽量断熱材市場は、2026年に14億米ドル規模となり、予測期間中にCAGR 13.3％で成長し、2034年までに39億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアロゲル断熱スラリー市場規模は、2025年の4億7,900万米ドルから2032年には6億3,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.3%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "米国のエアロゲル断熱スラリー市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "中国のエアロゲル断熱スラリー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のエアロゲル断熱スラリー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "半導体およびディスプレイ機器市場におけるケーブルの成長軌道は前向きであり、2026年から2033年までの予測 CAGRは5.00%です",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "アポロ11号に関するドラマや関連本のリリース、ロケットや人工衛星など宇宙インフラ市場の拡大など、さまざまな企業の宇宙関連ビジネスへの参入が発表され、アメリカでは宇宙ビジネスがこれまでにない盛り上がりを見せている",
+    "url": "https://emira-t.jp/topics/11438/",
+    "pass": 3
+   },
+   {
+    "quote": "「中国化学工業新材料産業発展報告」のデータによると、2021年の世界のエアロゲル市場規模は約8億7000万ドルで、2030年には37億4300万ドルに達する見込みで、今後10年間の複合年間成長率は約17.",
+    "url": "https://www.tchaintech.com/JP/NDETAIL/Aerogel:-Analysis-of-the-quot-Heat-Insulationquot--Industry-Chain",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Building & Construction segment CAGR accelerating post-2027 as EU national renovation plans advance",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canada is projected to reach USD 123 million in revenue in 2035 and grow at a 13.4% CAGR (2026–2035). Oil sands, cold-climate pipeline requirements, and energy-performance standards support demand for thin, high-performance insulation. The market's industrial orientation creates an opportunity for products that reduce heat loss without imposing substantial weight or space penalties.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe held an 18.1% revenue share in 2025 and is forecast to grow at a 15.8% CAGR (2026–2035). Europe's aerogels market combines a policy-led building-renovation opportunity with automotive, industrial, and advanced-manufacturing demand. The pace at which national renovation programs become funded projects will be a major determinant of regional material consumption.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany generated USD 44 million in revenue in 2025 and is expected to grow at a 15.9% CAGR (2026–2035). Its large industrial base, automotive manufacturing footprint, and legislated retrofit environment provide several demand channels. Suppliers must navigate long qualification cycles and highly exacting construction and industrial specifications.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "France accounted for a 3.0% share in 2025 and is forecast to grow at a 15.7% CAGR (2026–2035). Industrial process insulation and energy-renovation demand create a diversified application base. The market is well positioned for suppliers that can align technical performance with practical installation requirements in regulated construction projects.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of Europe is projected to hold an 8.4% share in 2035 and grow at a 17.6% CAGR (2026–2035). Demand across this grouping is supported by industrial insulation, growing EV investment, and renovation programs. Market development will vary considerably by national construction practices, climate conditions, and the maturity of local advanced-materials distribution.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Korea held a 4.0% share in 2025 and is forecast to grow at a 15.8% CAGR (2026–2035). Automotive production, electronics manufacturing, and LNG and petrochemical infrastructure create multiple demand channels. Its role in advanced battery supply chains makes qualification for safety-critical thermal applications especially relevant.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to generate USD 198 million in revenue in 2035 and grow at a 22.1% CAGR (2026–2035). Industrial expansion, vehicle-manufacturing investment, and construction activity underpin the opportunity. Local production capability and a growing need for efficient thermal-management solutions could make the market increasingly important to suppliers seeking regional scale.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of Asia Pacific is projected to hold a 5.4% share in 2035 and grow at a 27.6% CAGR (2026–2035). Emerging EV assembly, LNG investment, and industrial-processing projects support a high-growth opportunity from a comparatively smaller starting base. Supplier success will depend on local technical support and the ability to adapt product formats to varied project and installation conditions.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America is projected to hold a 4.5% share in 2035 and grow at a 16.7% CAGR (2026–2035). The Latin America aerogels market remains centered on oil and gas insulation, but automotive investment and construction demand are broadening its addressable base. Infrastructure cycles and local project financing will strongly influence the timing of demand.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil held a 2.1% share in 2025 and is forecast to grow at a 16.9% CAGR (2026–2035). Deepwater operations and associated flow-assurance requirements support aerogel use in high-value insulation applications. The market is primarily driven by operational performance needs rather than general-purpose building-material demand.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of Latin America is projected to hold a 0.9% share in 2035 and grow at a 23.7% CAGR (2026–2035). LNG, petrochemical, and industrial-development projects are expected to underpin demand across this diverse grouping. Adoption is likely to remain project-led, requiring suppliers to pair technical performance with localized commercial support.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE generated USD 13 million in revenue in 2025 and is forecast to grow at a 12.6% CAGR (2026–2035). Demand spans industrial facilities and premium construction projects, where thermal performance and space efficiency are valued. Growth is comparatively measured because the market already has an established industrial insulation base.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Africa is projected to hold a 0.5% share in 2035 and grow at an 18.7% CAGR (2026–2035). Mining, chemical processing, and emerging building-efficiency requirements support the opportunity. Market development will depend on project investment and broader adoption of energy-performance standards.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "エアロゲル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場規模、シェア、トレンド分析レポート：タイプ別（シリカ、カーボン、ポリマー、その他）、フォーム別（ブランケット、粒子、パネル、モノリス）、用途別（石油・ガス、建設、輸送、高性能コーティング、採光・低電圧ヒートシンク、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2025年～2033年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に市場シェア39.5%を占め、エアロゲル市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のエアロゲル市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に39.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲルは、電気自動車（EV）用途において前年比で大幅な成長を遂げており、市場シェアは2021年から2024年にかけて約20倍に拡大しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExの推定では、現在の世界の生産能力のうち約97%を中国が占めており、大規模な拡張計画も複数あります",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱材市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガスは売上高への絶対的な寄与を維持する一方、2035年までにシェアを譲る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は2025年に市場の28.0%を占め、2026〜2035年の年平均成長率（CAGR）は15.9%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器分野は2025年に市場収益の4.0%を占め、2035年までに市場規模が1億6,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "高機能アパレル分野の市場規模は2025年に2,200万米ドルとなり、2035年には市場収益の1.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品形態別エアロゲル断熱材市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "断熱ブランケットおよびフレキシブルロールの市場規模は2025年に4億9,500万米ドルとなり、2035年には市場収益の38.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "パネルおよびボードは2025年に市場収益の25.0%を占め、2026〜2035年に年平均成長率（CAGR）14.5%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "コーティング材・ペーストは2025年に1億1,000万米ドルの売上を生み、2035年には市場収益の13.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマーエアロゲルは2025年に市場収益の18.0%を占め、2026〜2035年に年平均成長率（CAGR）16.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアロゲル市場調査、規模、シェア、傾向、予測2037年",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、産業発展の高まりと、電子機器、エネルギー、建設、自動車などの最終用途部門からのエアロゲルの需要の高さにより、予測期間を通じて最大の収益シェアである31.5%を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "シリカセグメントは、多くの技術的用途で必要とされるその効果的な化学的性質により、2025―2037年の間に約34.5%の収益シェアを占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "北米のエアロゲル産業は2037年まで支配的な市場シェアを維持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aspen Aerogelsは、2025年に31%超の市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "取り扱いの複雑さにより、モノリスと硬質パネルのシェアは2028年まで上限を抑えられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンエアロゲルの2025年の売上高シェアは6.1%で、2026〜2035年の年平均成長率（CAGR）は23.9%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマーエアロゲルの2035年の売上高シェアは9.0%となり、2026〜2035年の年平均成長率（CAGR）は25.0%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "粒子・顆粒製品は、2035年に市場規模が10億2,000万米ドルに達すると予測され、2025年のシェアは25.0%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "パネル・ボードは、2035年に14.0%のシェアを占め、年平均成長率（CAGR）19.2%で成長すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "モノリス製品は、2035年に売上高が2億9,200万米ドルに達すると予測され、2025年のシェアは8.0%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "超臨界乾燥は2025年に65.0%のシェアを占め、2035年には52.0%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術別エアロゲル市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "凍結乾燥は、2035年に4.0%のシェアを占め、年平均成長率（CAGR）19.2%で成長すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガス分野は2025年に20.0%のシェアを占め、2035年には14.0%のシェアを占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "住宅分野、非住宅分野といった建築用途が市場の70%強を占めておりけん引している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "パイロゲル断熱材市場の規模、シェア、および成長分析：製品タイプ別、用途別、断熱機能別、最終用途産業別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場規模、シェア、成長分析：タイプ別、形態別、製造プロセス別、用途別、最終用途別、地域別- 業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（ナノシリカエアロゲル、アクリルエアロゲル、その他）のエアロゲル断熱スラリー市場のセグメント分析として、タイプ別のグローバル販売量市場シェア（2021年から2026年）、収益と市場シェア（2021年から2026年）、販売価格（2021年から2026年）が詳述されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アプリケーション別（エレクトロニクス、航空宇宙、エネルギー、建築、その他）のエアロゲル断熱スラリー市場のセグメント分析として、アプリケーション別のグローバル販売量市場シェア（2021年から2026年）、収益と市場シェア（2021年から2026年）、販売価格（2021年から2026年）が示されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「企業別グローバル分析」には、企業別のグローバルなエアロゲル断熱スラリーデータとして、年間販売量（2021年から2026年）と販売量市場シェア（2021年から2026年）、年間収益（2021年から2026年）と収益市場シェア（2021年から2026年）、販売価格の詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "アスペンエアロゲル社によると、材料コストは総コストの約48%、製造コストは約44%を占めている",
+    "url": "https://www.tchaintech.com/JP/NDETAIL/Aerogel:-Analysis-of-the-quot-Heat-Insulationquot--Industry-Chain",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち、設備の減価償却費とエネルギー消費コストは産業チェーンの総コストの約60%を占めている",
+    "url": "https://www.tchaintech.com/JP/NDETAIL/Aerogel:-Analysis-of-the-quot-Heat-Insulationquot--Industry-Chain",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogels Market Share, by Technology, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogels Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "France accounted for a 3.0% share in 2025 and is forecast to grow at a 15.7% CAGR (2026–2035). Industrial process insulation and energy-renovation demand create a diversified application base. The market is well positioned for suppliers that can align technical performance with practical installation requirements in regulated construction projects.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the Aerogels Market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology: The supercritical drying segment led the market with the largest revenue share of 70.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By product: The silica segment accounted for the largest market revenue share of 64.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By form: The blanket segment accounted for the largest market revenue share of 64.9% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: The oil & gas segment accounted for the largest market revenue share of 60.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on technology, the supercritical drying segment led the market with the largest revenue share of 70.6% in 2025 and is expected to grow at the CAGR of 16.8% over the forecast period. This leads to unique properties such as high porosity, low density, and large surface area of aerogels. Supercritical drying, defined as the extraction of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silica dominated aerogel market with a share of 64.1% in 2025, owing to its use in thermal insulation systems in aerospace, transparent window systems, environment clean-up & protection systems applications",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "開発の多くは初期段階にあり、この分野への参入企業のうち製造規模拡大に向けた取り組みを進めているのは、ブルーシフト、エアロゲル・テクノロジーズなど、ほんの一握りに過ぎません",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "認証制度の分断は、新規参入企業と国境を越えて事業を拡大する既存メーカーの双方にとって、別の障壁となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Armacellは、産業プロセスや商業建築向けの特殊な断熱ソリューションを通じて市場に参入している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "コスト最適化、持続可能な原料、特殊な繊維・建築用途に注力する新興サプライヤーの参入により、従来、高価格帯のエアロゲル製品が十分に供給されていなかったセグメントで競争が激化する可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱材市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル断熱材市場の主要企業には、Aspen Aerogels、Cabot Corporation、Saint-Gobain、Armacell、Alkegenなどが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場の主要企業は次のとおりです",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "規制対象となる建設プロジェクトにおいて、技術性能と実際の施工要件を両立できるサプライヤーにとって、市場の参入機会は大きい",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁が高い背景には、ゾルゲル化学、プロセス設備、OEMおよび産業分野での認定要件、商業規模で安定して製造する必要性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社はArmaGel製品群を通じて、確立された断熱材の販売網と用途に関する知見が重要となる産業、HVAC、船舶、地域の建設分野に参入している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場の主要企業には、Aspen Aerogels、Guangdong Alison Hi-Tech、Armacell International S.A.、JIOS Aerogel、Nano Tech Co. Ltd.などがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "参入企業の中ではリフォーム向けの製品を投入する動きがみられ、現状、耐震リフォーム・水廻りリフォームと断熱リフォームとのセット提案や壁を剥がす必要のないリフォーム向け製品も登場しており、需要喚起に向けた積極的な動きがみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の新築住宅着工戸数はほぼ横ばいであったものの、参入企業が省エネ化を推進するトップランナー制度への対応に向けて複合サッシや樹脂サッシのラインアップを拡充し、比較的低い価格設定の高機能サッシ製品を発売するなどエンドユーザーへの訴求が進み、採用率が上昇し市場は拡大した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のSWOT分析（最大3社）",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的展開、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル、流通業者、および市場参入戦略の評価",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、エアロゲル断熱スラリーのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なエアロゲル断熱スラリー市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、新製品や潜在的な新規参入企業、市場のM&A活動と戦略についても触れられています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要企業分析」には、IBIH、Active Aerogels、ZHONGKE RUNZI、Ener Sens、NANO TECH、Aspen Aerogels Inc.、Cabot Corporation、BASF SE、AEROGEL TECHNOLOGY、ALISON AEROGEL、TENANOM、Hungpai New Materials、Alfa Chemistry、roVa Corporationといった主要なメーカーについて、個別に詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、エアロゲル市場に参入している主要企業を一覧で整理し、各社の事業領域と強みをまとめます",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場の競合状況は、先進的な断熱材や特殊素材の需要増加に伴い、グローバルに展開する主要企業を中心に急速に拡大しています",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "アポロ11号に関するドラマや関連本のリリース、ロケットや人工衛星など宇宙インフラ市場の拡大など、さまざまな企業の宇宙関連ビジネスへの参入が発表され、アメリカでは宇宙ビジネスがこれまでにない盛り上がりを見せている",
+    "url": "https://emira-t.jp/topics/11438/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogels Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in Aerogels Market?",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in Aerogels Market include Aspen Aerogels, Guangdong Alison Hi-Tech, Armacell International S.A., JIOS Aerogel, Nano Tech Co. Ltd..",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Aspen Aerogels, Inc., Cabot Corporation, Aerogel Technologies, LLC, and others:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the aerogel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the aerogel market include Aspen Aerogels, Inc., Cabot Corporation, Aerogel Technologies, LLC, Active Aerogels, LDA, and BASF SE.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players:",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size and growth, CAGR analysis, drivers and restraints, regional and country outlooks, competitive landscape, and emerging opportunities",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players profiled",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competition Outlook, including Market Structure Analysis, Company Share Analysis by Key Players, and Competition Dashboard",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The following are some of the major players in the industry",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Aerogel Market:",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "Free customization report with the procurement of the report, Modifications to the regional and segment scope. Particular Geographic competitive landscape.",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Aerogel Market?",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "See the data, methodology, and competitive landscape preview & delivered to your inbox shortly.",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size, Key Companies, Company Production Capacity, Manufacturing Efficiency, Capacity Utilization, Raw Material Consumption, Cost Structure, Export Trends, Company Expansion Strategies, and Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players: Manufacturing aerogel for end-users",
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2024, SA-Dynamics, a German start-up company, launched bio-based aerogel insulation with the use of 100% bio-based aerogel fibers. The company aims to transform the construction by completely replacing fossil-based aerogel with bio-based aerogel.",
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "・アイディーテックエックス株式会社 (IDTechEx日本法人) が販売しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx Japan",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExの調査およびコンサルティングの詳細については、IDTechExの日本法人、アイディーテックエックス株式会社まで、お問い合わせください",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、日本のエアロゲルの業界規模は116億米ドルに達すると見込まれます",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場は、製造、医薬品、建設・建築、自動車などの分野でエアロゲルの採用が増えているため拡大しています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲルは、軍用防護服、宇宙船、航空機断熱材によく使用されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアロゲル市場：日本の展望",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場は、航空宇宙、自動車、建設など、さまざまな業界で環境の持続可能性とエネルギー効率を重視しているため、2037年まで安定した成長を記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "により、エアロゲルは建物のエネルギー効率を改善し、二酸化炭素排出量を削減するのに最適であり、日本の厳格な省エネ法に準拠しています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "これも日本の市場成長を促進すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、中国、日本、インドでのインフラ開発の増加、二酸化炭素排出量を削減する最先端の材料の必要性、持続可能性への高い関心により、予測期間中に安定したCAGRを経験すると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場：成長要因と課題",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Riki Co., Ltd.",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のメチルシリケート市場",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本の生コンクリート市場",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場の世界的な見通しは何ですか?",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場規模は2024年に99億米ドルがありました",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の売上高は2,600万米ドルで、2035年のシェアは3.2%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "米国、カナダ、メキシコ、ブラジル、英国、ドイツ、フランス、中国、インド、日本、韓国、オーストラリアがそれぞれの分野でエアロゲルの需要を牽引しています",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済(東京都中央区日本橋小伝馬町 社長 清口 正夫 03-3664-5811)は、熱のコントールを背景に高性能化が進んでいる断熱材、遮熱材、蓄熱・吸着材の国内市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "今後は日本潜熱蓄熱建材協会が潜熱蓄熱建材の効果測定可能な計算プログラムの実装や2021年3月までに潜熱蓄熱建材の評価方法のJIS化を目指しており、新築住宅を含めた普及活動が実施されるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "建設、輸送、製造、エネルギー分野において需要が拡大している一方、中国、インド、日本、韓国などの国々は、インフラ投資やバッテリー生産を通じて、この地域の成長の勢いを後押ししています",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の市場状況が個別に分析されています",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：エアロゲル断熱スラリーの世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場での注目点",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアロゲル市場では、主にエネルギー・環境関連企業や自動車メーカー、建築資材メーカー、そして半導体製造装置メーカーが主要な買い手として存在する",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "日本の買い手はサプライヤー評価にあたり、製品の長期的な信頼性や安定供給能力、過去の実績や品質管理体制を重視する傾向が強く、納入実績や第三者機関による認証、環境規制への適合性が重視される",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "国内企業としては、日本を拠点とするAgel-TechやNanuoは、それぞれ独自の生産技術と高い品質管理で知られ、また日本市場に製品を提供するAerogel Technologiesもその先進的な開発力で注目されている",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAIオーケストレーション市場の成長要因",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用のナノタングステンカーバイドパウダーの日本企業と海外メーカー",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本でもJAXA（宇宙航空研究開発機構）の開発した探査機「はやぶさ2」が小惑星「Ryugu（リュウグウ）」に2度目のタッチダウン成功を成し遂げたのは記憶に新しいところだ",
+    "url": "https://emira-t.jp/topics/11438/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、もっと身近な場所で使うための研究・開発が日本で進んでいることをご存じだろうか？",
+    "url": "https://emira-t.jp/topics/11438/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を資源大国に導く？ 海底に眠るコバルトリッチクラストが秘める大きな可能性",
+    "url": "https://emira-t.jp/topics/11438/",
+    "pass": 3
+   },
+   {
+    "quote": "東京外環全通を目指して！日本最大規模の道路トンネル工事が着工中",
+    "url": "https://emira-t.jp/topics/11438/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan generated USD 26 million in revenue in 2025 and is projected to hold a 3.2% share in 2035. Aerospace, electronics, and premium construction applications remain the principal demand anchors. The market favors materials that can demonstrate high reliability and consistent performance within rigorous engineering and building standards.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Germany; UK; China; Japan; Brazil",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is the projected growth rate for Japan’s aerogel market?",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s aerogel demand",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "JAXA’s upcoming launch systems and lunar landers are projected to require ultra-light cryogenic insulation, sustaining a specialised aerospace stream. Electronics manufacturers are poised to test polymer-aerogel substrates in high-speed 6G base-station modules, signaling how thermal-management advances could ripple through Japan’s telecom supply chain.",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, China, Germany, India, Japan, plus the wider markets of North America, Latin America, Western & Eastern Europe, South Asia, East Asia, and the Middle East & Africa",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Aerogel Market",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "– China, Japan, South Korea, India, ASEAN & Rest of APAC;",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; U.K.; Germany; China; India; Japan; Brazil; Mexico ;The UK; France; Italy; Spain; China; Japan; India; South Korea; South East Asia; South Korea; South East Asia",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.",
+    "url": "https://www.imarcgroup.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Research",
+    "url": "https://www.imarcgroup.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": ". South Korea's battery cell makers supply global automakers and are integrating aerogel barriers into export packs, while Japan contributes specialty panels and electronics demand.",
+    "url": "https://www.marketresearchfuture.com/reports/aerogel-market-5152",
+    "pass": 3
+   },
+   {
+    "quote": "ASIA (Japan and Korea):",
+    "url": "https://www.idtechex.com/en/research-report/aerogels-2025-2035-technology-market-forecasts/1076",
+    "pass": 3
+   },
+   {
+    "quote": "Notable Entrants to the EV Market - Alkegen, Toray, and others",
+    "url": "https://www.idtechex.com/en/research-report/aerogels-2025-2035-technology-market-forecasts/1076",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.",
+    "url": "https://www.idtechex.com/en/research-report/aerogels-2025-2035-technology-market-forecasts/1076",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "一方、許認可の遅れ、資金調達条件の変化、または商品価格の変動により、プロジェクトの発注時期が12〜24か月ずれる可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Keey Aerogelは2025年1月、建設廃棄物を原料とする欧州での生産開発を支援するため、シリーズAの資金調達ラウンドを発表した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of Europe is projected to hold an 8.4% share in 2035 and grow at a 17.6% CAGR (2026–2035). Demand across this grouping is supported by industrial insulation, growing EV investment, and renovation programs. Market development will vary considerably by national construction practices, climate conditions, and the maturity of local advanced-materials distribution.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to generate USD 198 million in revenue in 2035 and grow at a 22.1% CAGR (2026–2035). Industrial expansion, vehicle-manufacturing investment, and construction activity underpin the opportunity. Local production capability and a growing need for efficient thermal-management solutions could make the market increasingly important to suppliers seeking regional scale.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of Asia Pacific is projected to hold a 5.4% share in 2035 and grow at a 27.6% CAGR (2026–2035). Emerging EV assembly, LNG investment, and industrial-processing projects support a high-growth opportunity from a comparatively smaller starting base. Supplier success will depend on local technical support and the ability to adapt product formats to varied project and installation conditions.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America is projected to hold a 4.5% share in 2035 and grow at a 16.7% CAGR (2026–2035). The Latin America aerogels market remains centered on oil and gas insulation, but automotive investment and construction demand are broadening its addressable base. Infrastructure cycles and local project financing will strongly influence the timing of demand.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Africa is projected to hold a 0.5% share in 2035 and grow at an 18.7% CAGR (2026–2035). Mining, chemical processing, and emerging building-efficiency requirements support the opportunity. Market development will depend on project investment and broader adoption of energy-performance standards.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rest of Middle East & Africa is projected to hold a 1.0% share in 2035 and grow at a 21.4% CAGR (2026–2035). Pipeline, processing, and LNG-related investments are creating opportunities across a varied collection of markets. Suppliers will need to manage long project cycles, procurement complexity, and differing technical standards across countries.",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America leads with a 44.2% revenue share in 2025, backed by its oil and gas sector, LNG terminal expansion, building retrofit programs, and federal energy efficiency investment incentives.",
+    "url": "https://www.imarcgroup.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing region at approximately 10.25% CAGR through 2030, driven by China's LNG investment, EV production expansion, and India's growing industrial insulation demand.",
+    "url": "https://www.imarcgroup.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Keey Aerogel has raised $19.0M across 1 funding round.",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "1 funding round",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "Keey Aerogel has raised $19.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "Keey Aerogel has raised $19.0M across 1 funding round. Most recently, it raised $19.0M Series A in January 2025.",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "$19.0M raised",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "$19M Series A",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "Quick take: Keey Aerogel blends patented process innovation with circular feedstock sourcing to address both environmental and cost barriers of aerogel production; the company’s validated pilot and recent Series A position it to be a notable European entrant in advanced insulation materials as markets demand lower‑carbon, high‑performance solutions[2][1].",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "trysignalbase.com/news/funding/keey-aerogel-secures-18-million-in-funding-for-groundbreaking-technology-development",
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2025, Keey Aerogel closed an €18 million Series A funding round, led by Bpifrance’s SPI 2 Fund (part of the France 2030 program), alongside Wind, Capital Grand Est, and NCITY. This investment will allow the startup to scale production and begin the next phase of industrialization.",
+    "url": "https://wind.capital/keey-aerogel-raises-e18m-for-europes-sustainable-aerogel/",
+    "pass": 3
+   },
+   {
+    "quote": "But Keey Aerogel is poised to change that. Earlier this year, the French company secured €18 million in Series A funding to accelerate its mission to become Europe’s leading aerogel producer, delivering a cost-effective, low-carbon alternative to imported aerogel.",
+    "url": "https://eitrawmaterials.eu/newsroom/success-stories/keey-aerogel",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エアロゲル市場 は今後10年でどう進化するか - IDTechEx — エアロゲル市場 は今後10年でどう進化するか - IDTechEx IDTechEx https://www.idtechex.com > research-article > how-the-aer...",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル 断熱材 市場規模 ・予測レポート 2026〜2035年 — エアロゲル 断熱材 市場規模 ・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > aerogel-insulation-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場規模 、シェア、業界 成長 レポート、2034 年 — エアロゲル市場規模 、シェア、業界 成長 レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4-113278",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマー エアロゲル市場 の未来：2026年から2033年までの ... — ポリマー エアロゲル市場 の未来：2026年から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > ポリマーエアロゲル市場...",
+    "url": "https://jp.linkedin.com/pulse/%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8cagr%E4%BA%88%E6%B8%AC-quantcore-intelligence-htawe",
+    "pass": 3
+   },
+   {
+    "quote": "世界の エアロゲル市場 調査、 規模 、シェア、傾向、予測2037年 — 世界の エアロゲル市場 調査、 規模 、シェア、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界レポート",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場 規模・ 予測 レポート 2026～2035年 — エアロゲル市場 規模・ 予測 レポート 2026～2035年 Global Market Insights Inc. https://www.gminsights.com > aerogels-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル市場 ―2026年～2032年の世界 市場予測 — エアロゲル市場 ―2026年～2032年の世界 市場予測 アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "pass": 3
+   },
+   {
+    "quote": "世界の エアロゲル市場 調査、規模、シェア、傾向、 予測 2037年 — 世界の エアロゲル市場 調査、規模、シェア、傾向、 予測 2037年 Research Nester Japan https://www.researchnester.jp > 業界レポート",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの エアロゲル および超軽量断熱材 市場 の 予測 — 2034年までの エアロゲル および超軽量断熱材 市場 の 予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル 断熱スラリーの世界 市場 （2026年～2032年） — エアロゲル 断熱スラリーの世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル 断熱材市場規模・予測レポート 2026〜2035年 — エアロゲル 断熱材市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > aerogel-insulation-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "pass": 3
+   },
+   {
+    "quote": "エアロゲル メーカー上位 企業 2026 | 記事 - inkrichブログ — エアロゲル メーカー上位 企業 2026 | 記事 - inkrichブログ inkrich https://margarine95.inkrich.com > posts",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "pass": 3
+   },
+   {
+    "quote": "世界の エアロゲル 市場調査、規模、シェア、傾向、予測2037年 — 世界の エアロゲル 市場調査、規模、シェア、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界レポート",
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Report 2026-2031 [298 Pages & 140 Tables] — Aerogel Market Report 2026-2031 [298 Pages & 140 Tables] MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/aerogel-market-714.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogels Market Size , Forecasts Report 2026-2035 — Aerogels Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > aeroge...",
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size , Share And Trends Report, 2026-2033 — Aerogel Market Size , Share And Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Growth & Forecast 2025 to 2035 — Aerogel Market Growth & Forecast 2025 to 2035 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Aerogel Market Size , Share | CAGR of 17.8% — Carbon Aerogel Market Size , Share | CAGR of 17.8% Market.us https://market.us > report > global-car...",
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size , Share & Industry Analysis 2031 — Aerogel Market Size , Share & Industry Analysis 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size, Share, Scope Report 2026 to 2035 — Aerogel Market Size, Share, Scope Report 2026 to 2035 Insightace Analytic https://www.insightaceanalytic.com > ...",
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Companies, Size & Trends 2026-2035 — Aerogel Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size, Share & Industry Growth Report, 2034 — Aerogel Market Size, Share & Industry Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/aerogel-market-113278",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size & Industry Analysis Report 2034 — Aerogel Market Size & Industry Analysis Report 2034 IMARC Group https://www.imarcgroup.com > aerog...",
+    "url": "https://www.imarcgroup.com/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogel Market Size, Share And Trends Report, 2026-2033 — Aerogel Market Size, Share And Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "pass": 3
+   },
+   {
+    "quote": "keey aerogel raises €18m for europe's sustainable aerogel — keey aerogel raises €18m for europe's sustainable aerogel Wind Capital https://wind.capital > keey-aerogel-rai...",
+    "url": "https://wind.capital/keey-aerogel-raises-e18m-for-europes-sustainable-aerogel/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogels 2025 -2035: Technology, Market, Forecasts - IDTechEx — Aerogels 2025 -2035: Technology, Market, Forecasts - IDTechEx IDTechEx https://www.idtechex.com > aerogels-...",
+    "url": "https://www.idtechex.com/en/research-report/aerogels-2025-2035-technology-market-forecasts/1076",
+    "pass": 3
+   },
+   {
+    "quote": "Aerogels seek next breakthrough business - C&EN — Aerogels seek next breakthrough business - C&EN Chemical & Engineering News https://cen.acs.org > web > 2025/09",
+    "url": "https://cen.acs.org/materials/Eye-Patents-Aerogels-seek-next/103/web/2025/09",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.45",
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "quote": "世界のエアロゲル市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億8000万米ドルから2034年には83億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.45%となる見込みです"
+   },
+   {
+    "value": "12.2",
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "quote": "IDTechExは、エアロゲル市場が2025年から2035年にかけて年平均成長率12.2%で3.2倍の規模に成長すると予測しています"
+   },
+   {
+    "value": "14.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は14.0%と見込まれ、2035年には40.7億米ドルに達する予測である"
+   },
+   {
+    "value": "15.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "quote": "建築・建設分野は2025年に市場の28.0%を占め、2026〜2035年の年平均成長率（CAGR）は15.9%になると予測される"
+   },
+   {
+    "value": "15.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は15.2%で、2035年には36億5,000万米ドルに拡大する見通しだ"
+   },
+   {
+    "value": "23.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "quote": "カーボンエアロゲルの2025年の売上高シェアは6.1%で、2026〜2035年の年平均成長率（CAGR）は23.9%と予測される"
+   },
+   {
+    "value": "25.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "quote": "ポリマーエアロゲルの2035年の売上高シェアは9.0%となり、2026〜2035年の年平均成長率（CAGR）は25.0%に達すると予測される"
+   },
+   {
+    "value": "16.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "quote": "ブランケットの2025年の売上高は4億8,100万米ドルであり、2026〜2035年の年平均成長率（CAGR）は16.0%と予測される"
+   },
+   {
+    "value": "19.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "quote": "パネル・ボードは、2035年に14.0%のシェアを占め、年平均成長率（CAGR）19.2%で成長すると予測される（2026〜2035年）"
+   },
+   {
+    "value": "14.18",
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "quote": "エアロゲル市場は、2032年までにCAGR14.18％で46億3,000万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "13.3",
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "quote": "Stratistics MRCによると、世界のエアロゲルおよび超軽量断熱材市場は、2026年に14億米ドル規模となり、予測期間中にCAGR 13.3％で成長し、2034年までに39億米ドルに達すると見込まれています"
+   },
+   {
+    "value": "4.3",
+    "url": "https://newscast.jp/smart/news/1974711",
+    "quote": "世界のエアロゲル断熱スラリー市場規模は、2025年の4億7,900万米ドルから2032年には6億3,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.3%で成長すると見込まれています"
+   },
+   {
+    "value": "5.00",
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "quote": "半導体およびディスプレイ機器市場におけるケーブルの成長軌道は前向きであり、2026年から2033年までの予測 CAGRは5.00%です"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/aerogel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4-113278",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2162346",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1974711",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aerogel-market/companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://emira-t.jp/topics/11438/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tchaintech.com/JP/NDETAIL/Aerogel:-Analysis-of-the-quot-Heat-Insulationquot--Industry-Chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gunze.co.jp/engineering/insulations/aerogel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/aerogel-market-714.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-carbon-aerogel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/aerogel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/aerogel-market-113278",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/aerogel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/aerogel-market-5152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/keey-aerogel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wind.capital/keey-aerogel-raises-e18m-for-europes-sustainable-aerogel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eitrawmaterials.eu/newsroom/success-stories/keey-aerogel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/aerogels-2025-2035-technology-market-forecasts/1076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cen.acs.org/materials/Eye-Patents-Aerogels-seek-next/103/web/2025/09",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エアロゲル 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/aerogel-market",
+    "https://www.idtechex.com/ja/research-article/how-the-aerogels-market-will-evolve-over-the-next-decade/32792",
+    "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4-113278",
+    "https://jp.linkedin.com/pulse/%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A8cagr%E4%BA%88%E6%B8%AC-quantcore-intelligence-htawe",
+    "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "https://www.mordorintelligence.com/ja/industry-reports/aerogel-market",
+    "https://newscast.jp/news/8827210",
+    "https://jp.linkedin.com/pulse/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB-industry-forecast-%E5%B0%86%E6%9D%A5%E3%81%AE%E6%88%90%E9%95%B7%E8%A9%95%E4%BE%A1%E3%81%8A%E3%82%88%E3%81%B3cagr-762026-2033%E5%B9%B4%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E4%B8%BB%E8%A6%81%E6%8C%87%E6%A8%99%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-76ede",
+    "https://www.gminsights.com/ja/industry-analysis/aerogels-market"
+   ]
+  },
+  {
+   "query": "エアロゲル 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/aerogels-market",
+    "https://www.atpress.ne.jp/news/2162346",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=19093&view_type=2&la=ja",
+    "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "https://www.gii.co.jp/report/smrc2144467-aerogels-ultra-lightweight-insulating-materials.html",
+    "https://newscast.jp/smart/news/1974711",
+    "https://straitsresearch.com/jp/report/aerogel-market",
+    "https://lucindastratton.inkrich.com/posts/aerogel-399561-mvxgy7zx",
+    "https://jp.linkedin.com/pulse/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%8F%8E%E7%9B%8A%E3%81%A8%E9%9C%80%E8%A6%81%E3%81%AE%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE58%E3%81%AEcagr%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-batch-bases-pfcne",
+    "https://www.fortunebusinessinsights.com/jp/エアロゲル市場-113278"
+   ]
+  },
+  {
+   "query": "エアロゲル 参入 企業 国内",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/aerogel-insulation-market",
+    "https://margarine95.inkrich.com/posts/aerogel-399561-mv7u0v5l",
+    "https://www.mordorintelligence.com/ja/industry-reports/aerogel-market/companies",
+    "https://emira-t.jp/topics/11438/",
+    "https://www.researchnester.jp/industry-reports/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%B2%E3%83%AB%E5%B8%82%E5%A0%B4/22",
+    "https://www.tchaintech.com/JP/NDETAIL/Aerogel:-Analysis-of-the-quot-Heat-Insulationquot--Industry-Chain",
+    "https://www.gunze.co.jp/engineering/insulations/aerogel/",
+    "https://www.atpress.ne.jp/news/6448990",
+    "https://www.aist.go.jp/aist_j/magazine/20250219.html",
+    "https://pando.life/article/4689140"
+   ]
+  },
+  {
+   "query": "aerogel market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/aerogel-market-714.html",
+    "https://www.gminsights.com/industry-analysis/aerogels-market",
+    "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "https://www.futuremarketinsights.com/reports/aerogel-market",
+    "https://market.us/report/global-carbon-aerogel-market/",
+    "https://www.mordorintelligence.com/industry-reports/aerogel-market",
+    "https://www.marketresearchfuture.com/reports/aerogel-market-5152",
+    "https://www.fortunebusinessinsights.com/silica-aerogel-market-114000",
+    "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "https://www.fortunebusinessinsights.com/aerogel-market-113278"
+   ]
+  },
+  {
+   "query": "aerogel market key players competitive landscape",
+   "results": [
+    "https://www.insightaceanalytic.com/report/aerogel-market/1513",
+    "https://www.precedenceresearch.com/aerogel-market",
+    "https://www.fortunebusinessinsights.com/aerogel-market-113278",
+    "https://www.imarcgroup.com/aerogel-market",
+    "https://www.linkedin.com/pulse/comprehensive-flexible-aerogel-insulation-market-report-segmentation-l4hve",
+    "https://www.grandviewresearch.com/industry-analysis/aerogel-market",
+    "https://www.marketresearchfuture.com/reports/aerogel-market-5152",
+    "https://www.maximizemarketresearch.com/market-report/global-aerogel-market/2350/",
+    "https://www.businesswire.com/news/home/20230824210752/en/Global-Aerogel-Market-Predicts-Rapid-Growth-with-Unique-Attributes-Driving-Demand---ResearchAndMarkets.com",
+    "https://www.mordorintelligence.com/industry-reports/aerogel-market"
+   ]
+  },
+  {
+   "query": "aerogel startup funding 2025",
+   "results": [
+    "https://startupintros.com/orgs/keey-aerogel",
+    "https://wind.capital/keey-aerogel-raises-e18m-for-europes-sustainable-aerogel/",
+    "https://eitrawmaterials.eu/newsroom/success-stories/keey-aerogel",
+    "https://www.idtechex.com/en/research-report/aerogels-2025-2035-technology-market-forecasts/1076",
+    "https://www.facebook.com/theceo.in/posts/dashamlabs-a-deep-tech-materials-science-company-has-raised-12-crore-in-a-seed-f/1257901343032087/",
+    "https://cen.acs.org/materials/Eye-Patents-Aerogels-seek-next/103/web/2025/09",
+    "https://www.dlr.de/en/fm/research-and-transfer/projects-and-missions/aerogel-launch-factory",
+    "https://ecosystem.andorra-startup.com/companies/aspen_aerogels",
+    "https://www.instagram.com/p/DP6DfytAW5d/",
+    "https://startupintros.com/news/2025-01-01-keey-aerogel-series-a"
+   ]
+  }
+ ],
+ "missing": {}
+}

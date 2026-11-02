@@ -1,0 +1,1306 @@
+{
+ "name": "映画",
+ "en": "film and TV production",
+ "aliases": [
+  "実写",
+  "映像制作",
+  "興行収入"
+ ],
+ "context": "17 コンテンツ ⑤実写",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:08:53.956008+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の映画館市場は、2025年に511億米ドルと評価され、2026年には532億米ドルに達すると見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "Movie Theater Market Size, by Revenue Stream, 2025 & 2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "単館・独立系映画館の市場規模は、2025年の105億米ドルから、2035年には103億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMAXの市場規模は、2025年の71億米ドルから、2035年には132億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の市場規模は2025年に160億米ドルに達し、2026〜2035年に年平均成長率（CAGR）2.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の市場規模は2025年に149億米ドルに達し、2035年には北米の収益の88.4%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年の11億米ドルから、2035年には25億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界の実写映画・映像市場規模は、2010年の約40兆9,000億円から2021年時点で約51兆2,900億円(約1.25倍)に拡大",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アニメを除く世界の映画・映像市場規模（2010・2021）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界の映画市場は、2019年から2028年まで、新型コロナウィルスの影響を受けつつも、年平均1.6%で成長し、2028",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の映画市場規模規模の推移（2019-2028）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典先：一般社団法人日本映像ソフト協会「映像ソフト市場規模及びユーザー動向調査」および一般社団法人 日本映画製作者連盟公表資料を基に作成（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 2022年の国内映画興行収入2,131億円のうち、邦画実写は681億円",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 邦画実写は2010年代に800億円前後で推移していたが、2018年以降はそれ以前の水準より少ない傾向にある",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "直接制作費が約3～4億円、",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約3億円といわれる",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 大作になると100億円以",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界の過去の市場規模の推移をはじめ、映画館収入と入場者数の推移や2021年の映画興行ランキングなどを研究しています",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "上位3作品が100億円を突破",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年から2023年の映画業界大手3社の決算を見ますと、売上高では東宝が前年比7.0％増の2,442億円、東映が同48.3％増の1,743億円、松竹8.9％増の782億円でした",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "興行収入は歴代最速の10日間で、100億円を突破しました",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "その後も記録を更新し続けた結果、『千と千尋の神隠し（13’）』の316億円を抜き、",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "、シリーズの最終作ということもあり、100億円を超える大ヒット作品となりました",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "ヒットの目安となる興行収入10億円以上の作品の中には、アニメ作品が多くランクインしており、人気の高さがうかがえます",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "、うち3位までが100億円を突破しています",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "アニメの市場規模においては、すでに2020年に海外市場が国内市場を上回っています",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】世界歴代映画興行収入ランキングTOP30！「3000億円」を稼ぐメガヒットの法則とグローバル・シネアド戦略",
+    "url": "https://freetherock.com/2026/01/26/cinemachain/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年映画興行収入ランキング】公開映画1,305本（115本増）、10億円以上は38本",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "10億円を突破した作品",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上の38本の合計は1672億円（前年比622億円増）となり、邦画全体の",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "邦画が50億円以上が7本であるのに対して、洋画はわずかに2本",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "「国宝」が200億円突破が確実",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」「８番出口」などが50億円以上",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」が391.4億円で首位を獲得したほか、2位の「",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」195.5億円、3位の「",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」147.4億円と、いずれも",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "100億円超えの作品を含む多くのヒット作を送り出しており、以降も「",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」の46.1億円、「",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」の36.2億円などが続くなど、まさに配給業務で市場を席巻した形となっている",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上の作品＞",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」無限城編 第一章 猗窩座再来（391.4億円★）",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "2：国宝（195.5億円★）",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "日本映画では370館以上で公開された作品は、400を越える映画館で公開され、実写映画歴代最高記録を更新し続けている『国宝』(６月)を筆頭に、興行収入391.4億円をあげた『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』(7月)、100億円を越えた『名探偵コナン隻眼の残像(フラッシュバック)』(4月)や『劇場版「チェンソーマンレゼ篇」(９月)、また、『映画ドラえもん のび太の絵世界物語』(3月)『映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ』(8月)といった定番作品などがあり、2025年もアニメーション映画は絶好調であった",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "300館以上で公開された作品は29本で昨年を上回っているが、興収を見ると、最もヒットした『ミッション：インポッシブル/ファイナル・レコニング』も52.8億円にとどまり、10億円以上の興収を上げた作品は12本となっている(日本映画は38本)",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍前の2019年には133億円の興収を得た『アナと雪の女王2』を筆頭に、25本の作品が10億円以上の興収を上げていたことを考えると、現状はかなり厳しいものがある",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメーションは相変わらず好調で、「鬼滅の刃」の新作『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』(7月)は、400億円には至らなかったものの、歴代2位の391.4億円の大ヒットとなった",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "この2作品にけん引されるように、日本映画では10億円を越える作品が38作品に上った",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "前述のように、2025年、外国映画で最もヒットしたのは『ミッション：インポッシブル ファイナル・レコニング』(52.8億円)で、8月に公開された『ジュラシック・ワールド 復活の大地』が49.0億円となっている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ほかには特に目立ったヒット作品はなく、興収10億円以上の作品は12作品に留まっている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ミニシアターを中心に公開されるヨーロッパ映画やアジア映画が集客に腐心する中、香港で歴代第一位を記録した『トワイライト・ウォリアーズ 決戦！九龍城砦』は、公開後、徐々に熱烈なファンを獲得、5億円を越える大ヒットとなった",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "また、長らく「幻の映画」とされてきた『落下の王国』(2006)のデジタルリマスター版が11月に公開され、“目も眩むほどに美しい圧巻の〈映像詩〉的アート体験”が話題となり、公開24日間で2億円を超える興行収入を記録する異例のヒットとなった",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "興行収入10億円を越える映画/10億円以下の映画",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、興行収入10億円を越えた映画は日本映画38本、外国映画12本の50本(2024年41本、2019年65本)であった",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "邦画10億円以上作品 興収計 1,672.2 億",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「もののけ姫」累計興収 214.6億円",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年(令和7年) 興行収入10億円以上番組",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は3.7%と予測され、2035年には736億米ドルに達する見通しです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "PLF施設セグメントのCAGRは2026〜2035年に8.2%と予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "CJ 4DPLEXの4DXおよびScreenX形式は、2025年に合計4億9,700万米ドルの世界興行収入を上げ、前年比32%増となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "4DX／Motion／ImmersiveセグメントのCAGRは2026〜2035年に13.2%と予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "中規模作品の公開期間がさらに30日未満に短縮されれば、市場の年平均成長率（CAGR）はGMI予測の下限に近づく",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "単館系および独立系映画館の売上高は、COVID-19後の恒久的な閉館の進行を反映し、2026〜2035年に年平均成長率（CAGR）約-0.2%で縮小すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "GMIの3.7%の年平均成長率（CAGR）（2026〜2035年）は、フランチャイズ作品が継続的に供給されることを前提としている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "スクリーン広告・メディアは2025年に市場収益の5.5%を占め、2026〜2035年に4.5%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』p.14を基に作成",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界の実写映画・映像市場規模は、2010年の約40兆9,000億円から2021年時点で約51兆2,900億円(約1.25倍)に拡大",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界の映画市場は、2019年から2028年まで、新型コロナウィルスの影響を受けつつも、年平均1.6%で成長し、2028",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "48,414興行収入 広告 CAGR 1.6%",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典先：一般社団法人日本映像ソフト協会「映像ソフト市場規模及びユーザー動向調査」および一般社団法人 日本映画製作者連盟公表資料を基に作成（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：SPEEDA「映画製作・配給業界」「地上波放送業界」「CATV・衛星放送業界」「動画配信サービス業界」レポートをもとに作成（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』より）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：みずほ総研『コンテンツ産業の展望2022』、 独学で映像クリエイターになるために.「映像業界の仕組み 相関図」など（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』より）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：みずほ総研『コンテンツ産業の展望2022』、SPEEDA業界レポート、Stephenfollows.comの業界者アンケート調査より作成（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：ヒューマンメディア「日本と世界のメディア×コンテンツ市場データベース2023」（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』より）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：ヒューマンメディア「日本と世界のメディア×コンテンツ市場データベース2023」 （経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』より）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：総務省『放送コンテンツの海外展開に関する現状分析』（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』より）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：文化庁「コンテンツビジネスの国際展開に向けた著作権契約の在り方に関する調査研究報告書（令和4年3月）、JETRO「米国コンテンツ市場調査 2016年度版」（2017年3月）を参考に作成（経済産業省『令和4年度補正海外需要拡大事業",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典：経済産業省 映画制作の未来のための検討会 報告書 別添資料３「映画制作現場実態調査結果」（経済産業省『令和4年度補正海外需要拡大事業 国際競争力強化に向けた文化創造産業戦略に関する調査研究事業 調査報告書』より）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年から2023年の映画業界大手3社の決算を見ますと、売上高では東宝が前年比7.0％増の2,442億円、東映が同48.3％増の1,743億円、松竹8.9％増の782億円でした",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "（前年比9本増）、",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "前年比132.6％",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は邦画が38本（前年比7本増）、洋画が12本（同2本増）だった",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上の38本の合計は1672億円（前年比622億円増）となり、邦画全体の",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の興行収入は、日本映画が2075億6900万円(前年比133.2％)、外国映画が668億8300万円(前年比130.7％)、合計2744億5200万円で前年比132.6％と大幅な伸びを示しており、2000年代以降最高だったコロナ禍直前の2019年をも上回り、歴代最高を記録した",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2025年は外国映画の興行収入も前年比130.7%と日本映画と同レベルの増加となり回復の兆しがみえる",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "シネコンとミニシアターの両方で公開される作品は、2019年は日本映画で104本(18％)、外国映画では125本(24％)であったが、2025年は日本映画で201本(30％)、外国映画では352本(48％)と倍増している",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "その内訳は劇映画369本(25増)、アニメーション80本(17増)、ドキュメンタリー99本(10増)、公演やライブ等のODSが30本(23減)、特集上映(旧作のデジタルリマスター版含む)が95本と前年(55本)の倍増に近い数となっている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に大きな注目を集めたドキュメンタリー映画『どうすればよかったか？』は、2025年も上映が続き、シネコンにまで拡大、公開館は130館を越えている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー売上 316 億円 （前年比 68.4％）",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "内訳：セル 270 億円 （前年比 67.8%）",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "：レンタル 45 億円 （前年比 72.1%）",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本映画製作者連盟（映連）は1月28日、2025年の映画興行収入が前年比132.6％の2744億円と歴代最高を記録したと発表した",
+    "url": "https://www.advertimes.com/20260128/article532737/",
+    "pass": 3
+   },
+   {
+    "quote": "入場人員も前年比130.7%の1億8875万人となり、2019年に次ぐ歴代2位の動員数を達成した",
+    "url": "https://www.advertimes.com/20260128/article532737/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの記録はコロナ禍前の2019年の2611億円でしたが、それを超えて飛躍的に業績を拡大させた大豊作の1年となりました」と映連の島谷能成会長は述べた",
+    "url": "https://www.advertimes.com/20260128/article532737/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の洋画興収は668.8億円（前年比130％）と前年から大きく伸ばした",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "pass": 3
+   },
+   {
+    "quote": "豊作だった邦画は2075.6億円（同133％）となり、前年比では同水準の健闘ぶりだ",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "pass": 3
+   },
+   {
+    "quote": "公開本数では、邦画694本（前年比9本増）に対して洋画611本（同106本増）",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の同社の国内興収は242.6億円（前年比143％）と前年（168.7億円）から破格の伸び率となり、本年の洋画全体の興収の49％ほどを占めた",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "映画館市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "AMC Entertainment Holdings Incは、2025年に10%を超える市場シェアを獲得し、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、2025年に合計30%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に広域公開された85作品では、独占劇場公開期間の平均が32日となり、2023年の37日から13%短縮した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "スクリーン広告・メディアは2025年に市場収益の5.5%を占め、2026〜2035年に4.5%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の劇場タイプ別映画館市場シェア",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "標準2Dの2025年の収益は266億米ドルで、2035年には世界の映画館事業者の収益の44.7%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D形式は2025年に市場収益の20.9%を占め、2035年には17.0%になると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "独立系・ブティック映画館は2025年に市場収益の30.5%を占め、2035年には216億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別映画館市場シェア、2025年・2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の市場規模は2025年に149億米ドルに達し、2035年には北米の収益の88.4%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の市場規模は2035年に25.5億米ドルに達すると予測され、2025年には欧州の売上高の16.9%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスは2025年に欧州の売上高の16.7%を占め、市場規模は2035年に28億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "（右）IMDbより、直近（2025年1月17-19日）における米国興収ランキングの上位作品の情報を記載",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼映画制作現場の7割を占めるフリーラ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•近年の邦画興行収入ランキングではアニメ映画がトップ３を占めており、国内外で邦画アニメ",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界 ランキング&シェア（2022-2023年）",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "上位3作品が100億円を突破",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "その他「名探偵コナン ハロウィンの花嫁」、「キングダム2 遥かなる大地へ」なども上位にランクインしており、アニメに関する作品が上位5位入りを果たしています",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の映画業界売上高ランキングを見ますと、首位に東宝、2位が東映、3位に東映アニメーション、松竹、東北新社と続き、",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "19年は数々のヒット作が公開されるなか、首位を獲得したのが「君の名は",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "上位3位をアニメ作品が占めました",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "上位4位にアニメがランクイン",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の公開作品では、東宝のアニメ作品が上位2から4位を独占しています",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界 売上高&シェアランキング（2022年-2023年）",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4. 業界地図とシェア分析",
+    "url": "https://freetherock.com/2026/01/26/cinemachain/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、日本の映画市場の大部分を占める、全国展開の大規模チェーン（ナショナルチェーン）5社について詳しく見ていきましょう",
+    "url": "https://freetherock.com/2026/01/26/cinemachain/",
+    "pass": 3
+   },
+   {
+    "quote": "2744億5200万円の約6割が上位作品によって支えられている",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "洋画も、12本の合計は350億4000万円で、洋画全体の興収668億8300万円の5割強を占めている",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "10本中9本を占める",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "」が391.4億円で首位を獲得したほか、2位の「",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "興行収入における日本映画のシェアは75.6％、外国映画は24.4%となっている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本映画が7割以上を占めており、コロナ禍以降の外国映画のシェアの低迷が続いている(2017-2019年は外国映画が45%以上であった)",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティシネマセンターでは、デジタルリマスター版を中心に上映(配給)権を取得して巡回(複数の映画館へ配給)されているものは原則として「公開作品」としてカウントしており、2025年の外国映画の公開本数736本のうち、旧作のデジタルリマスター版のリバイバル上映と特集上映は249本、約34％を占めるに至っている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャンル別では、劇映画の新作が324本(9減)、アニメーション30本(2減)、ドキュメンタリー 62本(9増)、ODS71本(28増)、特集上映(旧作のデジタルリマスター版含む)が249本(1減)で、公開作品全体の34％を占めている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "年間映画興行収入（2744.5億円）は歴代最高を記録した一方、邦画と洋画のシェアは75.6対24.4と、洋画比率が3割を切って深刻な“洋画離れ”が叫ばれた前年（洋画24.7%）とほぼ変わらない数字になった",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の同社の国内興収は242.6億円（前年比143％）と前年（168.7億円）から破格の伸び率となり、本年の洋画全体の興収の49％ほどを占めた",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "pass": 3
+   },
+   {
+    "quote": "Independent films accounted for 32% of North American box office revenue in 2023",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "As streaming dominates audience behavior, viewers are watching more each day, with average daily viewing of 147 minutes on Netflix and U.S. households streaming about 5 hours per day while 70% of U.S. viewers rely on streaming platforms.",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "global films accounted for 20% of 2023 box office revenue",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "映画館市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "映画館市場の主要企業には、AMC Entertainment Holdings Inc、Cineplex、Cinemark Holdings、Wanda Film Holdings、IMAX などがあり、これらの企業は 2025 年に合計で 10% の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 海外では、製作から配給までは主要企業グループによって垂直統合されているケースが多く、その取得分は興行収入の",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "映画 館 市場 の 規模 ・予測レポート、2026〜2035年 — 映画 館 市場 の 規模 ・予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > movie-theater-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "pass": 3
+   },
+   {
+    "quote": "映画 グッズ 市場規模 、シェア、分析 2035 | CAGR 2.3% — 映画 グッズ 市場規模 、シェア、分析 2035 | CAGR 2.3% Business Research Insights https://www.businessresearchinsights.com > Home > 消費財",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/movie-merchandise-market-102349",
+    "pass": 3
+   },
+   {
+    "quote": "Market Dynamics of ドラマ 映画 」は、2026年から2033年まで ... — Market Dynamics of ドラマ 映画 」は、2026年から2033年まで ... LinkedIn https://jp.linkedin.com > pulse > market-dynamics-ドラマ...",
+    "url": "https://jp.linkedin.com/pulse/market-dynamics-%E3%83%89%E3%83%A9%E3%83%9E%E6%98%A0%E7%94%BB%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr92%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E4%B8%BB%E8%A6%81%E3%81%AA%E5%B8%82%E5%A0%B4%E6%8E%A8%E9%80%B2%E8%A6%81%E5%9B%A0%E3%81%8C%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%BE%E3%81%99-newoe",
+    "pass": 3
+   },
+   {
+    "quote": "映画 館 市場規模 、シェア、動向 |成長レポート、2034 年 — 映画 館 市場規模 、シェア、動向 |成長レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 小売業",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%98%A0%E7%94%BB%E9%A4%A8%E5%B8%82%E5%A0%B4-113097",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界の動向や現状、ランキング等を研究-業界動向サーチ映画制作業界の世界市場シェアの分析 | deallab【2026年版】エンタメ業界の売上高ランキング！上位企業の事業構造ま...映画とエンターテインメント調査レポート：市場規模推移、シェア、促...映画業界の動向と展望｜株式会社 帝国データバンク[TDB] — 映画業界の推移と基本情報 映画業界の過去の業界規模の推移を見ますと、2011年から2019年にかけては増加傾向、2020年は一転して大幅減少となり、2021年は再び増加に転じています。 See full list on gyokai-search.com 2021年の映画大手3社は増加へ 回復傾向もコロナ前には及ばず 近年の映画業界の動向を見ますと、2019年は人気作品が相次いで公開するなど、ヒット作に恵まれた年でした。ところが、2020年に入り状況は一変します。新型コロナウィ",
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "pass": 3
+   },
+   {
+    "quote": "映画制作業界の世界市場シェアの分析 | deallab — Nov 6, 2025 · 市場シェア 映画制作業界の世界市場シェアの分析 2025/11/06 AT&T ウォルトディズニー コムキャスト ソニー パラマウント フォックスコーポレーション 世界シェア上位の日本企業 市場規模",
+    "url": "https://deallab.info/film-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "映画とエンターテインメント調査レポート：市場規模推移、シェア、促... — Feb 22, 2024 · 本レポートでは、映画とエンターテインメント市場の製品定義、分類、用途、企業、産業チェーン構造に関する情報を提供します。 また、映画とエンターテインメント市場の開発方針と計画、製造プロセスとコスト構造についても考察します。",
+    "url": "https://note.com/yhresearch3/n/n0bc66944f7c2",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年保存版】日本の映画館興行チェーン全一覧と業界地図 シネアド... — Jan 26, 2026 · 日本の映画興行チェーン全一覧と業界シェアを徹底比較！ シネアド（映画館広告）は「どこに出すか」で決まります。 イオンシネマなど主要各社の特徴と客層を分析し、ターゲットに合わせた最適な広告戦略を解説。 企業の宣伝担当者必見の業界地図です。",
+    "url": "https://freetherock.com/2026/01/26/cinemachain/",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界の現状・動向・将来性｜市場規模や主要企業、興行収入・邦画... — Jun 1, 2026 · 映画 業界の市場規模・主要企業・動向 日本の映画業界は、コロナ禍で半減した興行収入が邦画とアニメ映画の牽引で2025年に2,744億円とピークを超えて回復した産業です 映画業界とは、映画の製作・配給・劇場興行を中心に、近年は動画配信 (OTT) や海外展開も含めて広がる映像 ...",
+    "url": "https://www.crex-data.com/industry/media-it/film",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年映画興行収入ランキング】公開映画1,305本（115本増）、10億... — Jan 29, 2026 · 日本映画製作者連盟（映連）が28日、2025年の映画産業概況（2024年12月～25年11月）を発表した。 年間の公開本数は、邦画694本（前年比9本増）、洋画611本（同106本増）で、合計1305本（同115本増）となった。",
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 映画館での上映― (2)公開本数･公開作品 — May 25, 2026 · 日本映画が7割以上を占めており、コロナ禍以降の外国映画のシェアの低迷が続いている (2017-2019年は外国映画が45%以上であった)。 一方で、2025年は外国映画の興行収入も前年比130.7%と日本映画と同レベルの増加となり回復の兆しがみえる。",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年(令和7年) 全国映画概況 - eiren.org — 実績は映連加盟社とそのグループ会社(松竹、東宝、東映、東映アニメーション、KADOKAWA)が、日本映画関連の権利(映画・テレビ映画の海外配給権、海外上映権、リメイク権、海外放送権、海外二次利用権、映画・テレビキャラクター商品化権)を利用して得た ...",
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界の市場規模｜興行収入の推移とコロナ後の回復【2026年版】 | ... — 6 days ago · 日本の映画興行収入は2025年に2,744億円となり、コロナ前ピークの2019年2,611億円を上回りました。 2020年のコロナ禍で1,433億円まで半減した底からは約1.9倍の回復で、前年2024年の2,070億円からも大きく伸びました。",
+    "url": "https://www.crex-data.com/industry/media-it/film/market-size",
+    "pass": 3
+   },
+   {
+    "quote": "映画業界の現状・動向・将来性｜市場規模や主要企業、興行収入・邦画... — Jun 1, 2026 · 市場動向 日本の映画興行収入は2020年の1,433億円を底に回復し、2025年には2,744億円とコロナ前ピーク (2019年2,611億円)を上回りました。 入場人員は1.89億人、平均観覧料金は1,454円です。 動画配信や海外展開も成長軸となっています。",
+    "url": "https://www.crex-data.com/industry/media-it/film",
+    "pass": 3
+   },
+   {
+    "quote": "日本映画興行が歴代最高の2744億円に到達─鬼滅の刃・国宝が市場牽引 — Jan 28, 2026 · URLをコピーしました！ 日本映画製作者連盟（映連）は1月28日、2025年の映画興行収入が前年比132.6％の2744億円と歴代最高を記録したと発表した ...",
+    "url": "https://www.advertimes.com/20260128/article532737/",
+    "pass": 3
+   },
+   {
+    "quote": "Film and Television Production Services Market Report: Size ...Film and Video Market Size, Share & Forecast Report 2025 to ...Film And Video Production Market Size, Future Growth and ...Film And Video Market Size, Growth, Share, & Forecast Report ...Film and Video Production Market Size, Share & Growth ...Film and TV Production Market Size, Share & 2032 Growth ...Film And Video Market Share | Indu",
+    "url": "https://www.verifiedmarketresearch.com/product/film-and-television-production-services-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Film and Video Market Size, Share & Forecast Report 2025 to ...Film And Video Production Market Size, Future Growth and ...Film And Video Market Size, Growth, Share, & Forecast Report ...Film and Video Production Market Size, Share & Growth ...Film and TV Production Market Size, Share & 2032 Growth ...Film And Video Market Share | Industry Report 2035 — Oct 16, 2019 · The film and video market was",
+    "url": "https://dataintelo.com/report/film-and-video-market",
+    "pass": 3
+   },
+   {
+    "quote": "Film And Video Production Market Size, Future Growth and ...Film And Video Market Size, Growth, Share, & Forecast Report ...Film and Video Production Market Size, Share & Growth ...Film and TV Production Market Size, Share & 2032 Growth ...Film And Video Market Share | Industry Report 2035 — The global film and video production market is projected to reach a valuation of approximately $320 billion",
+    "url": "https://www.strategicrevenueinsights.com/industry/film-and-video-production-market",
+    "pass": 3
+   },
+   {
+    "quote": "Film and TV Production Market Size, Share & 2032 Growth ... — Oct 22, 2026 · Across production stages, production held a 52.36% share of the film and TV production market size in 2026, and post-production is forecast to be the fastest-growing segment with a CAGR of 8.55% over 2027-2032.",
+    "url": "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "pass": 3
+   },
+   {
+    "quote": "Film and TV Production Market Size, Share & 2032 Growth ... — Oct 22, 2026 · Production represented a 52.36% film and TV production market share in 2026, making it the largest segment. The British Film Institute (BFI) recorded 82 high-end television production starts in the UK in the first half of 2026.",
+    "url": "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "pass": 3
+   },
+   {
+    "quote": "Film and TV Production Research Reports and Market Analysis — 3 comprehensive market analysis studies and research reports on the Film and TV Production sector, offering an overview with historical data since 2019 and forecasts up to 2030.",
+    "url": "https://www.mordorintelligence.com/market-analysis/film-and-tv-production",
+    "pass": 3
+   },
+   {
+    "quote": "Film And Television Industry Statistics | 2026 Edition — Feb 12, 2026 · From a production standpoint, the industry scaled up rapidly with global film and TV production volume rising 18% from 2021 to 2023 while scripted TV output reached 8,245 new series in 2023.",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Film and TV Production Market Size, Share & 2032 Growth ... — Oct 22, 2026 · Film and TV production market covers project-based pre-production, production and post-production work that creates films, television and other audiovisual content for professional media, entertainment and advertising clients worldwide.",
+    "url": "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Technology and innovation are accelerating in film and TV, with VFX spending hitting $57.6 billion in 2022 and increasing VFX shot counts to 2,500 per blockbuster in 2023 alongside growing AI investment at $2.1 billion in 2023.",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は3.7%と予測され、2035年には736億米ドルに達する見通しです"
+   },
+   {
+    "value": "0.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "単館系および独立系映画館の売上高は、COVID-19後の恒久的な閉館の進行を反映し、2026〜2035年に年平均成長率（CAGR）約-0.2%で縮小すると予測される"
+   },
+   {
+    "value": "1.6",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "quote": "48,414興行収入 広告 CAGR 1.6%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "AMC Entertainment Holdings Incは、2025年に10%を超える市場シェアを獲得し、市場をリードしました"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "これらの企業は、2025年に合計30%の市場シェアを占めました"
+   },
+   {
+    "value": "13",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "2024年に広域公開された85作品では、独占劇場公開期間の平均が32日となり、2023年の37日から13%短縮した"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "スクリーン広告・メディアは2025年に市場収益の5.5%を占め、2026〜2035年に4.5%の年平均成長率（CAGR）で拡大すると予測される"
+   },
+   {
+    "value": "4.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "スクリーン広告・メディアは2025年に市場収益の5.5%を占め、2026〜2035年に4.5%の年平均成長率（CAGR）で拡大すると予測される"
+   },
+   {
+    "value": "44.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "標準2Dの2025年の収益は266億米ドルで、2035年には世界の映画館事業者の収益の44.7%を占めると予測されています"
+   },
+   {
+    "value": "20.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "3D形式は2025年に市場収益の20.9%を占め、2035年には17.0%になると予測されています"
+   },
+   {
+    "value": "17.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "3D形式は2025年に市場収益の20.9%を占め、2035年には17.0%になると予測されています"
+   },
+   {
+    "value": "30.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "独立系・ブティック映画館は2025年に市場収益の30.5%を占め、2035年には216億米ドルに達すると予測されています"
+   },
+   {
+    "value": "88.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "米国の市場規模は2025年に149億米ドルに達し、2035年には北米の収益の88.4%を占めると予測されています"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "英国の市場規模は2035年に25.5億米ドルに達すると予測され、2025年には欧州の売上高の16.9%を占めました"
+   },
+   {
+    "value": "16.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "quote": "フランスは2025年に欧州の売上高の16.7%を占め、市場規模は2035年に28億米ドルに達すると予測されています"
+   },
+   {
+    "value": "75.6",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "興行収入における日本映画のシェアは75.6％、外国映画は24.4%となっている"
+   },
+   {
+    "value": "24.4",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "興行収入における日本映画のシェアは75.6％、外国映画は24.4%となっている"
+   },
+   {
+    "value": "45",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "日本映画が7割以上を占めており、コロナ禍以降の外国映画のシェアの低迷が続いている(2017-2019年は外国映画が45%以上であった)"
+   },
+   {
+    "value": "34",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "コミュニティシネマセンターでは、デジタルリマスター版を中心に上映(配給)権を取得して巡回(複数の映画館へ配給)されているものは原則として「公開作品」としてカウントしており、2025年の外国映画の公開本数736本のうち、旧作のデジタルリマスター版のリバイバル上映と特集上映は249本、約34％を占めるに至っている"
+   },
+   {
+    "value": "3.8",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている"
+   },
+   {
+    "value": "73.7",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている"
+   },
+   {
+    "value": "62.9",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている"
+   },
+   {
+    "value": "76.9",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている"
+   },
+   {
+    "value": "10",
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "quote": "本数では全公開本数1305本の3.8%、興行収入では、日本映画約1672.2億円、外国映画350.5億円で合計2022.7億円となり、全興行収入の73.7％(2024年62.9％、2019年76.9%)を占め、前年を10％以上、上回っている"
+   },
+   {
+    "value": "24.7",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "quote": "年間映画興行収入（2744.5億円）は歴代最高を記録した一方、邦画と洋画のシェアは75.6対24.4と、洋画比率が3割を切って深刻な“洋画離れ”が叫ばれた前年（洋画24.7%）とほぼ変わらない数字になった"
+   },
+   {
+    "value": "143",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "quote": "2025年の同社の国内興収は242.6億円（前年比143％）と前年（168.7億円）から破格の伸び率となり、本年の洋画全体の興収の49％ほどを占めた"
+   },
+   {
+    "value": "49",
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "quote": "2025年の同社の国内興収は242.6億円（前年比143％）と前年（168.7億円）から破格の伸び率となり、本年の洋画全体の興収の49％ほどを占めた"
+   },
+   {
+    "value": "32",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "quote": "Independent films accounted for 32% of North American box office revenue in 2023"
+   },
+   {
+    "value": "70",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "quote": "As streaming dominates audience behavior, viewers are watching more each day, with average daily viewing of 147 minutes on Netflix and U.S. households streaming about 5 hours per day while 70% of U.S. viewers rely on streaming platforms."
+   },
+   {
+    "value": "20",
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "quote": "global films accounted for 20% of 2023 box office revenue"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/movie-merchandise-market-102349",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%98%A0%E7%94%BB%E9%A4%A8%E5%B8%82%E5%A0%B4-113097",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/media-it/film/market-size",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gyokai-search.com/3-eiga.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/film-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yhresearch3/n/n0bc66944f7c2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://freetherock.com/2026/01/26/cinemachain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/industry/media-it/film",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arthousepress.jp/articles/film_market_2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.advertimes.com/20260128/article532737/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketresearch.com/product/film-and-television-production-services-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/film-and-video-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicrevenueinsights.com/industry/film-and-video-production-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datahorizzonresearch.com/film-and-video-market-49218",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/film-and-video-production-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/market-analysis/film-and-tv-production",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/film-tv-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/film-and-video-market-124377",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated_Theatres_(Hawaii)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english/consolidated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/consolidated",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vocabulary.com/dictionary/consolidated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Major_film_studios",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Film_industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/global-video-production-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/film-production-service-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "映画 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/movie-theater-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/movie-merchandise-market-102349",
+    "https://jp.linkedin.com/pulse/market-dynamics-%E3%83%89%E3%83%A9%E3%83%9E%E6%98%A0%E7%94%BB%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr92%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E4%B8%BB%E8%A6%81%E3%81%AA%E5%B8%82%E5%A0%B4%E6%8E%A8%E9%80%B2%E8%A6%81%E5%9B%A0%E3%81%8C%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%BE%E3%81%99-newoe",
+    "https://www.fortunebusinessinsights.com/jp/%E6%98%A0%E7%94%BB%E9%A4%A8%E5%B8%82%E5%A0%B4-113097",
+    "https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/004_04_02.pdf",
+    "https://www.crex-data.com/industry/media-it/film/market-size",
+    "https://www.gii.co.jp/report/sky1907551-movies-entertainment-market-size-share-growth.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/filmmaking",
+    "https://jp.linkedin.com/pulse/%E7%AB%8B%E4%BD%93%E6%98%A0%E7%94%BB%E5%B8%82%E5%A0%B4%E3%81%8C%E9%9B%A2%E9%99%B8%E6%88%90%E9%95%B7%E8%A6%81%E5%9B%A0%E3%81%A82033%E3%81%BE%E3%81%A7%E3%81%AE135%E3%81%AEcagr%E4%BA%88%E6%B8%AC-tannin-trackse-fl8ae",
+    "https://www.gii.co.jp/report/tbrc1968920-motion-picture-industry-global-market-report.html"
+   ]
+  },
+  {
+   "query": "映画 市場 シェア 上位 企業",
+   "results": [
+    "https://gyokai-search.com/3-eiga.htm",
+    "https://deallab.info/film-maker/",
+    "https://note.com/yhresearch3/n/n0bc66944f7c2",
+    "https://freetherock.com/2026/01/26/cinemachain/",
+    "https://www.crex-data.com/industry/media-it/film",
+    "https://career.ticketme.co.jp/industry/entertainment-sales-ranking/",
+    "https://www.tdb.co.jp/report/industry/u06-movie/"
+   ]
+  },
+  {
+   "query": "映画 市場 前年比 2025",
+   "results": [
+    "https://fpd.hatenablog.com/entry/2026/01/29/091909",
+    "https://arthousepress.jp/articles/film_market_2025/",
+    "https://www.eiren.org/toukei/img/eiren_kosyu/data_current_2025.pdf",
+    "https://www.crex-data.com/industry/media-it/film/market-size",
+    "https://www.crex-data.com/industry/media-it/film",
+    "https://www.advertimes.com/20260128/article532737/",
+    "https://news.yahoo.co.jp/expert/articles/986fd1d831135c350e06f6a702ec39d4f405ca54"
+   ]
+  },
+  {
+   "query": "film and TV production market size CAGR 2025",
+   "results": [
+    "https://www.verifiedmarketresearch.com/product/film-and-television-production-services-market/",
+    "https://dataintelo.com/report/film-and-video-market",
+    "https://www.strategicrevenueinsights.com/industry/film-and-video-production-market",
+    "https://datahorizzonresearch.com/film-and-video-market-49218",
+    "https://growthmarketreports.com/report/film-and-video-production-market",
+    "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "https://www.marketresearchintellect.com/product/film-and-video-market/"
+   ]
+  },
+  {
+   "query": "film and TV production market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "https://www.mordorintelligence.com/market-analysis/film-and-tv-production",
+    "https://worldmetrics.org/film-tv-industry-statistics/",
+    "https://worldmetrics.org/film-and-television-industry-statistics/",
+    "https://www.businessresearchinsights.com/market-reports/film-and-video-market-124377",
+    "https://gitnux.org/film-and-tv-industry-statistics/",
+    "https://www.verifiedmarketreports.com/product/film-and-television-production-services-market/"
+   ]
+  },
+  {
+   "query": "film and TV production market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://en.wikipedia.org/wiki/Consolidated",
+    "https://en.wikipedia.org/wiki/Consolidated_Theatres_(Hawaii)",
+    "https://dictionary.cambridge.org/dictionary/english/consolidated",
+    "https://www.youtube.com/watch?v=WZ9LQANaHB8",
+    "https://www.facebook.com/consolidatedCCI/",
+    "https://www.merriam-webster.com/dictionary/consolidated",
+    "https://www.vocabulary.com/dictionary/consolidated"
+   ]
+  },
+  {
+   "query": "film and TV production market key companies share 2025",
+   "results": [
+    "https://en.wikipedia.org/wiki/Major_film_studios",
+    "https://en.wikipedia.org/wiki/Film_industry",
+    "https://www.mordorintelligence.com/industry-reports/film-and-tv-production-market",
+    "https://www.verifiedmarketresearch.com/product/film-and-television-production-services-market/",
+    "https://www.kenresearch.com/industry-reports/global-video-production-market",
+    "https://dataintelo.com/report/film-production-service-market",
+    "https://datahorizzonresearch.com/film-and-video-market-49218"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1907 @@
+{
+ "name": "ロケット打上げ",
+ "en": "space launch services",
+ "aliases": [
+  "ロケット",
+  "射場",
+  "打ち上げサービス"
+ ],
+ "context": "6 航空・宇宙 ④ロケット・射場",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:05:10.516503+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の衛星打上げロケット（SLV）市場は、2025年に194億米ドルの規模に達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "最新の Global Market Insights Inc. のレポートによると、市場は2026年の218億米ドルから2035年には661億米ドルへ拡大し、予測期間中の年平均成長率（CAGR）は13.1%になると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル衛星打上げロケット（SLV）市場規模、機体構成別、2022〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の市場規模は 2025年に 70億4,530万米ドルに達し、2035年までに 244億4,250万米ドルに達すると予測され、年平均成長率（CAGR）は 13.3% となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "チャート：米国の衛星打上げロケット（SLV）市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は 2025年に 34億7,260万米ドルに達し、2035年までに 105億6,970万米ドルに達すると予測され、年平均成長率（CAGR）は 11.9% となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋の市場規模は 2025 年に 55億9,970万米ドルに達し、2035年までに 224億6,070万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの市場は ISRO とその商業関連組織である NSIL および Antrix に支えられており、PSLV、LVM3、SSLV が異なるペイロードクラスに対応している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカの市場規模は 2025 年に 16億1,770万米ドルに達し、2035年までに 39億6,370万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカの市場規模は 2025 年に 16億8,240万米ドルに達し、2035年までに 46億2,430万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 現在の世界の宇宙産業の規模は約54兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ モルガン・スタンレーによると、世界の宇宙産業の市場規模は、2040年までに140兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 市場規模は約４兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代早期の倍増（約8兆円）を目指している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代までは10,000USD/キロ水準だったが、SpaceXのFalcon9が2,900USD/キロを実現",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 1機あたり数トン・数百億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 大型衛星は1機あたり数トン・数百億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 小型衛星は1機あたり～500㎏・数十億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型ロケット市場規模は、2025年には17億1000万米ドルと評価され、2026年の19億4000万米ドルから2034年には53億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の小型ロケット市場は、2025年時点で地域別シェア39.4%と最大規模を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の小型ロケット市場は、政府が2030年までに衛星通信利用者を1000万人以上に増やすという目標を掲げていることや、低軌道衛星インターネット開発を支援する政策によって、将来的に衛星打ち上げサービスの需要が生まれることから恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の小型ロケット市場は、韓国航空宇宙局（KASA）が2030年に国内の商業打ち上げ会社から中小型打ち上げサービスを調達する計画によって、初期の打ち上げ需要が生まれ、民間ロケット事業者が支援されることから恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの小型ロケット市場は、2032年までに次世代衛星打ち上げロケットの開発を目指すインドの宇宙ビジョン2047から恩恵を受ける可能性があり、また、政府が計画している第3の打ち上げ台は、打ち上げ頻度を高め、国の打ち上げ能力を拡大することを目的としている",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の小型ロケット市場は、予測期間中に年平均成長率（CAGR）15.26%で成長すると予想されており、地域市場の中で最も急速に成長する市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの小型ロケット市場は、政府が3年間で1億8260万ドルを投じて、2028～2029年までに小型ペイロード向けの迅速な軽打ち上げシステムを含む、独自の打ち上げ能力を確立する計画から恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の小型ロケット市場は、2025年には地域シェアの18.6%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の小型ロケット市場は、2030年までの英国宇宙戦略による78億ポンドの投資の恩恵を受ける可能性があり、宇宙へのアクセスは国家打ち上げ能力強化のための優先サブセクターとして位置づけられています",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの小型ロケット市場は、2030年までに1万基以上の小型衛星が打ち上げられるという予測から恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスの小型ロケット市場は、マイクロロケットや新興宇宙技術を支援するフランスの2030年計画における15億ユーロの宇宙投資プログラムから恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域の小型ロケット市場は、予測期間中に年平均成長率（CAGR）10.93%で成長すると予想されており、地域市場の中で最も急速に成長している市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "アラブ首長国連邦（UAE）の小型ロケット市場は、同国が2028年に計画している惑星間探査ミッションの恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙打ち上げサービス市場は、今後10年間で大きな成長局面を迎えると予測されています",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の164億米ドルから2035年には606億米ドルへ拡大し、2026年から2035年にかけて年平均成長率（CAGR）13.9%で成長する見込みです",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "• 宇宙打ち上げサービス市場は、2025年の164億米ドルから大幅に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が606億米ドルへ成長する中、顧客は安全性やペイロード精度を損なうことなく、高頻度ミッションに対応できる事業者を優先するでしょう",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "ロケット市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の136億9,000万米ドルから、2026年には150億6,000万米ドルへと、CAGR 10.0％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8章 市場における世界の総潜在市場規模（TAM）",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する宇宙開発業界 ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する宇宙開発業界 ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 5,137億円（現在）→9,082億円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発業界 2030年市場規模 +76.81%で9,082億円と予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発業界 スタートアップ資金調達状況 2020年以降の累計1,114億円 直近はやや減速も2025年復調見込み",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発業界 資金調達金額ランキング トップはアストロスケールの445億円が突出",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "図：宇宙開発業界における2030年までの市場規模推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発市場は現在5,136.6億円の規模を有し、年平均成長率約12.1%と堅調な成長を続け、2030年には9,082.2億円に達すると予測されます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "政府は10年間で総額1兆円規模の「宇宙戦略基金」を創設し、2023年度補正予算で3,000億円を措置、JAXAを通じて民間企業や大学の技術開発を積極的に支援しています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "注目されるのは、ロケット開発（成長率55%、市場規模2,082億円→3,221億円）とロケットエンジンメーカー（成長率49%、市場規模907億円→1,347億円）で、いずれもA+評価の高成長領域です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "※2024年6月に宇宙ビジネスの市場規模に関する記述や関連記事を更新",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "(1)宇宙ビジネスの市場規模は約100兆円に!? 宇宙産業がもたらす他産業への波及効果とスタートアップ支援の拡充",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "最新の Global Market Insights Inc. のレポートによると、市場は2026年の218億米ドルから2035年には661億米ドルへ拡大し、予測期間中の年平均成長率（CAGR）は13.1%になると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の予測CAGRである13.1%は、打上げ需要の経済的基盤が変化していることを反映していると当社は推定する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のNational Security Space Launchプログラムは、2024会計年度の歳出として約21億米ドルを受け、フェーズ3の枠組みでは、レーン1の契約を通じてBlue Origin、SpaceX、ULA、Rocket Lab、Stoke Spaceに発注することで、事業者層を拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "FAAの認可を受けた商業宇宙運用は、2015年度の14件から2024年度には148件へ増加しており、打上げ活動の拡大に伴って規制監督も拡大する必要があることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "完全再使用型機は、13.7%で最も速いプラットフォーム成長率を記録しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "3段式システムは、追加的な性能を必要とするミッション区分に引き続き利用されていますが、年平均成長率（CAGR）は 9.7% と、他の機体構成カテゴリーを下回っています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代早期の倍増（約8兆円）を目指している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円)(CAGR7%/年)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR7%/年で成長するとした場合、$27.74billion(約3.6兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➡衛星以外も含むRemote sensing service市場成長率として約15%の推定値あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➡観測以外も含む衛星データ利用市場成長率として約20%の推定値あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 年間平均成長率約８％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米ドルへと、予測期間中に11.5%のCAGRで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小型ロケット市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型ロケット市場規模は、2025年には17億1000万米ドルと評価され、2026年の19億4000万米ドルから2034年には53億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "100kg～500kgセグメントは、2025年には41.5%のシェアを占め、中規模の資材搬送・処理用途に適していることから、2026年から2034年の予測期間中に年平均成長率（CAGR）14.18%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "海上セグメントは、柔軟な発射場所の提供と射場安全上の制約の軽減により、年平均成長率（CAGR）14.37%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "液体燃料セグメントは2025年に57.7%のシェアを占め、その高い性能、制御性、および先進的な小型ロケット推進システムへの適合性により、2026年から2034年の予測期間中に年平均成長率（CAGR）13.91%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府・軍事分野は、防衛任務、安全な衛星配備、宇宙監視における小型ロケットの利用拡大により、2025年には市場シェアの54.8%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業分野は、専用衛星打ち上げ、地球観測サービス、および商業用宇宙アプリケーションに対する需要の増加に牽引され、年平均成長率（CAGR）14.63%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの小型ロケット市場は、2032年までに次世代衛星打ち上げロケットの開発を目指すインドの宇宙ビジョン2047から恩恵を受ける可能性があり、また、政府が計画している第3の打ち上げ台は、打ち上げ頻度を高め、国の打ち上げ能力を拡大することを目的としている",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の小型ロケット市場は、予測期間中に年平均成長率（CAGR）15.26%で成長すると予想されており、地域市場の中で最も急速に成長する市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙打ち上げサービス市場 2035年に606億米ドル規模へ CAGR13.9％で加速する民間宇宙開発と衛星打ち上げ需要拡大 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙打ち上げサービス市場 2035年に606億米ドル規模へ CAGR13.9％で加速する民間宇宙開発と衛星打ち上げ需要拡大",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の164億米ドルから2035年には606億米ドルへ拡大し、2026年から2035年にかけて年平均成長率（CAGR）13.9%で成長する見込みです",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "• 宇宙打ち上げサービス市場は、2025年の164億米ドルから大幅に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、13.9%という高いCAGRは、商業的な成長可能性の高さを示しています",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけて164億米ドルから606億米ドルへ拡大し、CAGR13.9％で推移する背景には、宇宙ビジネスの商業化加速があります",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の136億9,000万米ドルから、2026年には150億6,000万米ドルへと、CAGR 10.0％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には219億9,000万米ドルに達し、CAGRは9.9％となる見込みです",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは前年比23％の増加であり、打ち上げ活動の著しい成長を示しています",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発市場は現在5,136.6億円の規模を有し、年平均成長率約12.1%と堅調な成長を続け、2030年には9,082.2億円に達すると予測されます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "注目されるのは、ロケット開発（成長率55%、市場規模2,082億円→3,221億円）とロケットエンジンメーカー（成長率49%、市場規模907億円→1,347億円）で、いずれもA+評価の高成長領域です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "また、量子衛星通信（成長率46%、市場規模23億円→34億円）も規模は小さいもののA+評価を獲得し、次世代通信技術として大きな期待が寄せられています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星分野では、小型人工衛星開発（成長率31%）と太陽電池パドルメーカー（成長率38%）がA評価を獲得",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "月面探査（成長率31%、市場規模140億円→184億円）もA評価を示し、アルテミス計画の本格化が成長を後押ししています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、従来型の宇宙観測分野は成熟期に入りつつあり、気象観測（成長率11%、市場規模418億円→463億円）など、市場規模は大きいものの、成長率は10%前後にとどまり、他の高成長分野と比べると伸びは緩やかです",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "新たな成長分野として、スペースデブリ除去衛星開発が101億円（1社）と急拡大しています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "波及効果を含む宇宙産業がもたらす市場成長率は年間9%で、今後10年のGDP成長率の約2倍であり、半導体産業と類似する成長率であるそう",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府は、このような状況を鑑み「宇宙産業ビジョン2030」の中で、2030 年代早期の市場規模の倍増を目指していくと述べています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年頃から急伸する宇宙旅行・有人P2Pサービスが市場の拡大をけん引 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年頃から急伸する宇宙旅行・有人P2Pサービスが市場の拡大をけん引",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府の宇宙基本計画は、宇宙機器と宇宙ソリューションを合わせた国内の宇宙産業の市場規模を、2020年の約4兆円から、2030年代の早い時期に約8兆円へ倍増させる目標を掲げています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3
+   },
+   {
+    "quote": "The global space launch services market size is predicted to increase from USD 24.03 billion in 2026 to approximately USD 70.56 billion by 2035, representing a CAGR of 11.56% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific market is expected to expand at the fastest CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Payload, the satellite segment has captured more than 46% of revenue share in 2026 and is expected to expand at the fastest CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Orbit, the low-earth orbit segment is expected to expand at the fastest CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. space launch services market size is estimated at USD 6.70 billion in 2026 and is predicted to be worth around USD 20.56 billion by 2035, at a CAGR of 12.05% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global space launch services market?",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global space launch services market is projected to grow at a CAGR of 12.70% from 2026 to 2035",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. is expected to register the highest CAGR from 2024 to 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 15.6%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "衛星打上げロケット（SLV）市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceXは2025年に18.3%を超える市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、2,790機の小型衛星が打ち上げられた宇宙機の97%、総打ち上げ質量の81%を占め、小型衛星の活動は過去10年間でおよそ15倍に増加した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に記録された米国の小型ロケット打上げ15件のうち、Electronが14件を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル衛星打上げロケット（SLV）市場シェア、打上げタイプ別、2025年（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "ライドシェアは 14.3%、完全再使用型プラットフォームは 13.7% の成長率が予測されており、いずれの動向も、反復的な LEO ミッションへのアクセスコスト低減の重要性を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は地域市場の約 57億4,200万米ドルを占め、成熟した商用打上げエコシステム、防衛調達、再使用型打上げ能力の集中から恩恵を受けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、米国の事業者は FAA 認可打上げの約 83% を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 商業衛星の打上市場におけるシェアはこの10年間で大きく変化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ スターリンクとワンウェブの打上数が2020年から激増し、昨年は全体の7割以上を占めた",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消費者向けソリューション、カーナビ等の自動車・道路分野が全体の９割以上を占めて",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンが65%を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 自動車・道路関係が26％を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小型ロケット市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ロケット市場の規模、シェア、トレンド分析レポート：ペイロード容量別（500kg以下、501～2,000kg、2,001～5,000kg、5,000kg超）、軌道別（低地球軌道（LEO）、太陽同期軌道（SSO）、中地球軌道（MEO）、静止トランスファ軌道（GTO））、エンドユーザー別（商業、政府・防衛、研究・学術機関、宇宙機関）、打ち上げプラットフォーム別（地上打ち上げ、空中打ち上げ、海上打ち上げ、移動式打ち上げプラットフォーム）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に39.4%の市場シェアを占め、小型ロケット市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "100kg～500kgセグメントは、2025年には41.5%のシェアを占め、中規模の資材搬送・処理用途に適していることから、2026年から2034年の予測期間中に年平均成長率（CAGR）14.18%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "陸上発射場は、確立されたインフラ、運用上の柔軟性、および陸上発射場特有の物流上の複雑さの低さといった利点から、2025年には76.8%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "液体燃料セグメントは2025年に57.7%のシェアを占め、その高い性能、制御性、および先進的な小型ロケット推進システムへの適合性により、2026年から2034年の予測期間中に年平均成長率（CAGR）13.91%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府・軍事分野は、防衛任務、安全な衛星配備、宇宙監視における小型ロケットの利用拡大により、2025年には市場シェアの54.8%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の小型ロケット市場は、2025年時点で地域別シェア39.4%と最大規模を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の小型ロケット市場は、2025年には地域シェアの18.6%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ロケット市場の主要企業には、Rocket Lab USA、Firefly Aerospace、Arianespace SA、Northrop Grumman Corporation、および三菱重工業株式会社が含まれ、これら4社で市場全体の約45～50%を占めている",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に39.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント衛星市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体ロケットモーター市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "光衛星通信市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までには、信頼性、価格競争力、柔軟性、高頻度打ち上げ能力を兼ね備えた企業が、特に商業ミッションおよび小型衛星分野で大きな市場シェアを獲得すると予測されています",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "ロケット市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロケット市場：競合情勢と市場シェア、2024年",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "首位の株式会社アストロスケールホールディングスは累計445億円を調達し、2023年10月に111億円を獲得しました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、『2025年版 宇宙ビジネス市場の将来展望』をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データサービスは国家の安全保障用途として安定的な需要があり、現状は官需要が8割以上を占めていますが、今後は民間需要の増加も期待されます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状、ロケット/スペースプレーンが約6割、人工衛星が3割以上を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データサービスが宇宙利用サービスの約6割を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、現状では人工衛星や探査機、ISS(国際宇宙ステーション)などへの物資運搬といったモノの打上げが大半を占めていますが、2035年頃には有人スペースプレーンのフライトが本格化し、有人P2Pサービスが旅客機利用の一部置き換えとして普及が進むとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "米中2国で、世界の打ち上げの9割近くを占めているという集計もあります",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3
+   },
+   {
+    "quote": "世界の打ち上げは2024年に253回（主要国）、2025年には300回を大きく超え、米中が9割近くを占めています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, in terms of revenue, the government segment dominated the global market in 2026.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North American market accounted for a market revenue share of 50.6% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By service type, pre-launch services accounted for largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By payload, satellite payload accounted for largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial segment accounted for largest market revenue share in 2023. Communication is one of the most prominent commercial end-users in the market; satellites launched into orbit facilitate global telecommunications, broadband internet access, and television broadcasting. The demand for reliable and high-speed connectivity has fueled the deployment of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 50.6% revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share by Country 2025",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which segment holds the largest market share?",
+    "url": "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "By service type, launch services are estimated to dominate with approximately 70% market share in 2026.",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "By orbit type, low earth orbit (LEO) is estimated to account for approximately 58% share in 2026.",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "By geography, North America is expected to lead with approximately 46% market share in 2026.",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The industry is moderately fragmented with a share of 22% in 2026.",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Services, Accounting for Approximately 70% Market Share",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Low Earth Orbit (LEO) Leading with Approximately 58% Market Share",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The space launch services market is moderately fragmented, with the top five companies, SpaceX, ULA, Arianespace, Blue Origin, and Rocket Lab, estimated to account for approximately 22% of total market revenue. Competition is shaped by launch cadence, reliability, payload capacity, pricing, reusable-vehicle technology, and access to government contracts.",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Until 2013, the market for communications satellite launches was dominated by Arianespace, which flew the",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "A consolidated Arianspace reported 15 total launches for the Ariane, Soyuz, and Vega rockets in 2021.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Before 2014, Arianespace had dominated the commercial launch market for many years. \"In 2004, for example, they held over 50% of the world market.\"",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Overall in 2014 Arianespace took 60% of commercial launch market share.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "小規模な新規参入企業が計画した打上げ頻度を達成できない場合、実績のある事業者は延期されたミッションを獲得できるが、打上げ頻度の上昇に伴い、規制遵守、打上げ場へのアクセス、インテグレーション能力も維持しなければならない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星打上げロケット（slv）市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星打ち上げロケット（slv）市場の主要企業には、SpaceX、United Launch Alliance、Arianespace、Blue Origin、Rocket Labが挙げられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ロケット市場の主要企業には、Rocket Lab USA、Firefly Aerospace、Arianespace SA、Northrop Grumman Corporation、および三菱重工業株式会社が含まれ、これら4社で市場全体の約45～50%を占めている",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "特に小型衛星市場の急拡大により、低コストかつ高頻度な打ち上げ需要が増加しており、新規参入企業や航空宇宙関連メーカーにとって大きなビジネス機会となっています",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "打ち上げロケット市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する宇宙開発業界 ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する宇宙開発業界 ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "以下、宇宙ビジネス業界マップと合わせてそれぞれの分野の概要と参入企業、関連記事を紹介します",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "通信衛星コンステレーションビジネスとは~参入企業、市場規模、課題と展望~",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "また、各政府・参入企業の動向や宇宙関連のビジネスロードマップに関して整理しました",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、『2025年版 宇宙ビジネス市場の将来展望』をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market Trends, Leading Companies, Company Revenue / Sales Performance, Subscriber Growth, Pricing Strategies, Cloud Adoption, Infrastructure Expansion, Competitive Landscape, and Industry Outlook",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "A growing number of joint ventures by major players to increase business and geographic reach",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the space launch services market?",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the space launch services market are Airbus S.A.S, Antrix Corporation Ltd., China Aerospace Science, and Technology Corporation, Lockheed Martin Corporation, Mitsubishi Heavy Industries, Northrop Grumman Corporation, Rocket Lab U.S.A., Safran S.A., Space Exploration Technologies Corp, and Others.",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include ISRO, NASA, SpaceX, Boeing, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the space launch services market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other prominent players in the market include The Boeing Company, among others.",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape profiling firms pioneering reusable heavy-lift programs and modular small-launch platforms.",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the global space launch services market?",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market include Airbus SE, Antrix Corporation Limited, Space Exploration Technologies Corp. (SpaceX), Lockheed Martin Corporation, and The Boeing Company, among others.",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players in the market",
+    "url": "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Space Launch Services Market",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players include SpaceX, United Launch Alliance, Arianespace, Blue Origin, Rocket Lab, Northrop Grumman, MHI, NSIL, Firefly Aerospace, and Relativity Space.",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "even with SpaceX launching a record 61 launches in 2022 and over 50 launches in the first eight months of 2023. Furthermore, despite many startups developing",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "\"VCs Invested More in Space Startups Last Year Than in the Previous 15 Years Combined\"",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "\"In a first, Bengaluru startups on Airbus radar for mentoring business ideas under BizLabs\"",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides a comprehensive analysis of the competitive landscape in the space launch services market with detailed profiles of all major companies, including:",
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape allows stakeholders to understand their competitive environment and provides an insight into the current positions of key players in the market.",
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the space launch services market include Antrix Corporation Limited, Arianespace SA, Astra, China Great Wall Industry Corporation, Glavkosmos, ILS International Launch Services, Mitsubishi Heavy Industries Ltd., Orbital Express Launch Limited, SpaceX, United Launch Alliance, LLC., etc.‎",
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "*Major Players sorted in no particular order",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "High capex and launch failure risk weighs on the forecast at an estimated -3.0% CAGR impact across Global through 2024–2030. The full report assesses mitigation strategies observed among leading players and the segments most insulated from this pressure.",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the space launch services market include SpaceX, ULA, Arianespace, Rocket Lab, and Blue Origin. Chapter 7 provides market share analysis, positioning maps, and strategic development tracking across the competitive set, with full profiles covering financials, core segments, and recent strategic moves.",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "Listed in no particular order; the full report profiles 100+ companies profiled globally.",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "How is the competitive landscape structured?",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Space Launch Services Market include",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Space Launch Services Market?",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Space Launch Services Market include SpaceX, Arianespace, United Launch Alliance, Northrop Grumman, Rocket Lab, Blue Origin, ISRO, China Great Wall Industry Corporation, and Relativity Space.",
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "pass": 3
+   },
+   {
+    "quote": "36. Space Launch Services Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vKJ7-ZVjbUz_0rIWvq194X4psrO0maeYUVjwfAg-pM7lq5vDJ4r",
+    "pass": 3
+   },
+   {
+    "quote": "36.1. Space Launch Services Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vKJ7-ZVjbUz_0rIWvq194X4psrO0maeYUVjwfAg-pM7lq5vDJ4r",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vKJ7-ZVjbUz_0rIWvq194X4psrO0maeYUVjwfAg-pM7lq5vDJ4r",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "衛星 打上げロケット市場 の 規模 ・成長レポート、2026〜2035年 — 衛星 打上げロケット市場 の 規模 ・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > satellite...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型 ロケット市場 の 規模 、シェア、成長率（2034年） — 小型 ロケット市場 の 規模 、シェア、成長率（2034年） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 宇宙技術",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙 打ち上げ サービス 市場 2035年に606億米ドル 規模 へ ... — 宇宙 打ち上げ サービス 市場 2035年に606億米ドル 規模 へ ... Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "pass": 3
+   },
+   {
+    "quote": "衛星 打上げロケット市場 の規模・成長レポート、2026〜2035年 — 衛星 打上げロケット市場 の規模・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > satellite...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロケット市場 | 市場 規模 業界 シェア 市場 分析 成長性 2026年 — ロケット市場 | 市場 規模 業界 シェア 市場 分析 成長性 2026年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 航空宇宙/防衛 > 航空宇宙",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の ロケット打ち上げ 推移（1957〜 2025 ） — 世界の ロケット打ち上げ 推移（1957〜 2025 ） sorae 宇宙へのポータルサイト https://sorae.info > rocket-launch > history",
+    "url": "https://sorae.info/rocket-launch/history",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market Size Report, 2024-2030 — Space Launch Services Market Size Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market | CAGR of 10.6% by 2032 — Space Launch Services Market | CAGR of 10.6% by 2032 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/press-release/space-launch-services-market-9493",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market Size , Growth, Forecasts To 2033 — Space Launch Services Market Size , Growth, Forecasts To 2033 Spherical Insights https://www.sphericalinsights.com > s...",
+    "url": "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market Size & Trends | Report, 2034 — Space Launch Services Market Size & Trends | Report, 2034 IMARC Group https://www.imarcgroup.com > space-...",
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Space Launch Services Market to Reach USD 44.9 Billion by ... — Space Launch Services Market to Reach USD 44.9 Billion by ... Vocal https://vocal.media > journal > space-l...",
+    "url": "https://vocal.media/journal/space-launch-services-market-to-reach-usd-44-9-billion-by-2033-growing-at-a-cagr-of-11-28",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "宇宙開発業界 スタートアップ資金調達状況 2020年以降の累計1,114億円 直近はやや減速も2025年復調見込み",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発業界 資金調達金額ランキング トップはアストロスケールの445億円が突出",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発業界 スタートアップ資金調達状況 2020年以降の累計1,114億円 直近はやや減速",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以降の累計調達額は1,114億円に達し、業界全体として着実な成長を遂げています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "野村ホールディングス等から「累計18億円」の資金調達をしています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "pass": 3
+   },
+   {
+    "quote": "日本の月面探査ベンチャーispaceが101.5億円の資金調達に成功",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットと射場の関連では、H3の製造と打ち上げを担う三菱重工業、固体ロケットを手がけるIHIエアロスペース（IHIの子会社）、スペースワンに出資するキヤノン電子や清水建設、衛星を製造する三菱電機、HTV-Xに関わる川崎重工業など、多くの上場企業が関わっています",
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "pass": 3
+   },
+   {
+    "quote": "Lockheed Martin Corporation, founded in 1995 and headquartered in Bethesda, Maryland, contributes through advanced upper-stage engines, precision guidance systems, and integration support for government and defense missions. The firm is heavily invested in hypersonic-ready launch architectures, smart avionics health monitoring, and classified mission payload protection.",
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "for the flight, the training, and the funding are all provided by private entities outside of the traditional NASA process that had held the US monopoly since the early 1960s.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "invested in the space launch industry prior to 2015 was modest. From 2000 through the end of 2015, a total of",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "of which $1.8 billion was invested in 2015 alone.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "of funding for Vulcan development. ULA has not \"put a firm price tag on [the total cost of Vulcan development but ULA CEO Tory Bruno has] said new rockets typically cost $2 billion, including $1 billion for the main engine\".",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "Since Vulcan development began in October 2014, the privately generated funding for Vulcan development has been approved only on a short term basis.",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently dominates the space launch services market, accounting for a share of 30%. The region benefits from the world's most advanced spaceport infrastructure, substantial government investment in defense and civil space programs, leading commercial launch providers, and a mature regulatory environment that supports rapid licensing.",
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive analysis in the full report covers concentration structure, the strategies leaders deploy to defend share, capacity investment, portfolio reshaping, partnerships, and M&A, and the positioning of challengers targeting the fastest-growing segments identified in Chapter 5.",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "The space launch services market is projected to expand from $20B in 2025 to $45B by 2030 at a 15.0% CAGR. Longer-horizon opportunity concentrates around reusable launch vehicles, falling launch costs and rideshare, human spaceflight and exploration. Chapter 8 maps investment hotspots, models upside and downside scenarios against the base forecast, and sets out the analyst outlook to 2030.",
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "pass": 3
+   },
+   {
+    "quote": "Venture capital and private equity investments in space companies exceeded $15 billion in 2023, funding next-generation launch technologies and expanding manufacturing capabilities. This capital influx accelerates innovation and market competition.",
+    "url": "https://vocal.media/journal/space-launch-services-market-to-reach-usd-44-9-billion-by-2033-growing-at-a-cagr-of-11-28",
+    "pass": 3
+   },
+   {
+    "quote": "35. Space Launch Services Market Regulatory and Investment Landscape",
+    "url": "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vKJ7-ZVjbUz_0rIWvq194X4psrO0maeYUVjwfAg-pM7lq5vDJ4r",
+    "pass": 3
+   },
+   {
+    "quote": "a year. Defense demand is anchored by the NSSL Phase 3 programme and Space Development Agency tranches, while civil agencies such as NASA, ESA, JAXA and ISRO buy science, crew, cargo and navigation launches. Defense planners are also funding tactically",
+    "url": "https://dataintelo.com/report/global-space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-space-launch-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. Expansion of public-private partnerships and government investments",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-space-launch-services-market-spherical-insights-analysis",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "13.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "最新の Global Market Insights Inc. のレポートによると、市場は2026年の218億米ドルから2035年には661億米ドルへ拡大し、予測期間中の年平均成長率（CAGR）は13.1%になると予測されている"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "3段式システムは、追加的な性能を必要とするミッション区分に引き続き利用されていますが、年平均成長率（CAGR）は 9.7% と、他の機体構成カテゴリーを下回っています"
+   },
+   {
+    "value": "7",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "円)(CAGR7%/年)"
+   },
+   {
+    "value": "15",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)"
+   },
+   {
+    "value": "20",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)"
+   },
+   {
+    "value": "8",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には"
+   },
+   {
+    "value": "13.5",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "世界の小型ロケット市場規模は、2025年には17億1000万米ドルと評価され、2026年の19億4000万米ドルから2034年には53億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.5%となる見込みです"
+   },
+   {
+    "value": "14.18",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "100kg～500kgセグメントは、2025年には41.5%のシェアを占め、中規模の資材搬送・処理用途に適していることから、2026年から2034年の予測期間中に年平均成長率（CAGR）14.18%で成長すると予想されています"
+   },
+   {
+    "value": "14.37",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "海上セグメントは、柔軟な発射場所の提供と射場安全上の制約の軽減により、年平均成長率（CAGR）14.37%で成長すると予測されています"
+   },
+   {
+    "value": "13.91",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "液体燃料セグメントは2025年に57.7%のシェアを占め、その高い性能、制御性、および先進的な小型ロケット推進システムへの適合性により、2026年から2034年の予測期間中に年平均成長率（CAGR）13.91%で成長すると予想されています"
+   },
+   {
+    "value": "14.63",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "商業分野は、専用衛星打ち上げ、地球観測サービス、および商業用宇宙アプリケーションに対する需要の増加に牽引され、年平均成長率（CAGR）14.63%で成長すると予想されている"
+   },
+   {
+    "value": "15.26",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "北米の小型ロケット市場は、予測期間中に年平均成長率（CAGR）15.26%で成長すると予想されており、地域市場の中で最も急速に成長する市場となる見込みです"
+   },
+   {
+    "value": "13.9",
+    "url": "https://newscast.jp/smart/news/4120119",
+    "quote": "宇宙打ち上げサービス市場 2035年に606億米ドル規模へ CAGR13.9％で加速する民間宇宙開発と衛星打ち上げ需要拡大 | NEWSCAST"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "quote": "市場規模は2025年の136億9,000万米ドルから、2026年には150億6,000万米ドルへと、CAGR 10.0％で成長すると見込まれています"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "quote": "2030年には219億9,000万米ドルに達し、CAGRは9.9％となる見込みです"
+   },
+   {
+    "value": "12.1",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "quote": "宇宙開発市場は現在5,136.6億円の規模を有し、年平均成長率約12.1%と堅調な成長を続け、2030年には9,082.2億円に達すると予測されます"
+   },
+   {
+    "value": "11.56",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "quote": "The global space launch services market size is predicted to increase from USD 24.03 billion in 2026 to approximately USD 70.56 billion by 2035, representing a CAGR of 11.56% from 2026 to 2035."
+   },
+   {
+    "value": "12.05",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "quote": "The U.S. space launch services market size is estimated at USD 6.70 billion in 2026 and is predicted to be worth around USD 20.56 billion by 2035, at a CAGR of 12.05% from 2026 to 2035."
+   },
+   {
+    "value": "12.70",
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "quote": "The global space launch services market is projected to grow at a CAGR of 12.70% from 2026 to 2035"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "18.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "SpaceXは2025年に18.3%を超える市場シェアを占め、市場をリードした"
+   },
+   {
+    "value": "97",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "2024年には、2,790機の小型衛星が打ち上げられた宇宙機の97%、総打ち上げ質量の81%を占め、小型衛星の活動は過去10年間でおよそ15倍に増加した"
+   },
+   {
+    "value": "81",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "2024年には、2,790機の小型衛星が打ち上げられた宇宙機の97%、総打ち上げ質量の81%を占め、小型衛星の活動は過去10年間でおよそ15倍に増加した"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "ライドシェアは 14.3%、完全再使用型プラットフォームは 13.7% の成長率が予測されており、いずれの動向も、反復的な LEO ミッションへのアクセスコスト低減の重要性を示している"
+   },
+   {
+    "value": "13.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "ライドシェアは 14.3%、完全再使用型プラットフォームは 13.7% の成長率が予測されており、いずれの動向も、反復的な LEO ミッションへのアクセスコスト低減の重要性を示している"
+   },
+   {
+    "value": "83",
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "quote": "また、米国の事業者は FAA 認可打上げの約 83% を占めた"
+   },
+   {
+    "value": "65",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "ンが65%を占める"
+   },
+   {
+    "value": "26",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "➢ 自動車・道路関係が26％を占める"
+   },
+   {
+    "value": "39.4",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "アジア太平洋地域は、2025年に39.4%の市場シェアを占め、小型ロケット市場を牽引しました"
+   },
+   {
+    "value": "41.5",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "100kg～500kgセグメントは、2025年には41.5%のシェアを占め、中規模の資材搬送・処理用途に適していることから、2026年から2034年の予測期間中に年平均成長率（CAGR）14.18%で成長すると予想されています"
+   },
+   {
+    "value": "14.18",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "100kg～500kgセグメントは、2025年には41.5%のシェアを占め、中規模の資材搬送・処理用途に適していることから、2026年から2034年の予測期間中に年平均成長率（CAGR）14.18%で成長すると予想されています"
+   },
+   {
+    "value": "76.8",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "陸上発射場は、確立されたインフラ、運用上の柔軟性、および陸上発射場特有の物流上の複雑さの低さといった利点から、2025年には76.8%のシェアを占める見込みである"
+   },
+   {
+    "value": "57.7",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "液体燃料セグメントは2025年に57.7%のシェアを占め、その高い性能、制御性、および先進的な小型ロケット推進システムへの適合性により、2026年から2034年の予測期間中に年平均成長率（CAGR）13.91%で成長すると予想されています"
+   },
+   {
+    "value": "13.91",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "液体燃料セグメントは2025年に57.7%のシェアを占め、その高い性能、制御性、および先進的な小型ロケット推進システムへの適合性により、2026年から2034年の予測期間中に年平均成長率（CAGR）13.91%で成長すると予想されています"
+   },
+   {
+    "value": "54.8",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "政府・軍事分野は、防衛任務、安全な衛星配備、宇宙監視における小型ロケットの利用拡大により、2025年には市場シェアの54.8%を占める見込みです"
+   },
+   {
+    "value": "18.6",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "欧州の小型ロケット市場は、2025年には地域シェアの18.6%を占める見込みです"
+   },
+   {
+    "value": "50",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "小型ロケット市場の主要企業には、Rocket Lab USA、Firefly Aerospace、Arianespace SA、Northrop Grumman Corporation、および三菱重工業株式会社が含まれ、これら4社で市場全体の約45～50%を占めている"
+   },
+   {
+    "value": "39.5",
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "quote": "アジア太平洋地域は2025年に39.5%のシェアを占め、市場を席巻した"
+   },
+   {
+    "value": "35",
+    "url": "https://sorabatake.jp/216/",
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています"
+   },
+   {
+    "value": "70",
+    "url": "https://sorabatake.jp/216/",
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています"
+   },
+   {
+    "value": "50.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "quote": "The North American market accounted for a market revenue share of 50.6% in 2023."
+   },
+   {
+    "value": "70",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "quote": "By service type, launch services are estimated to dominate with approximately 70% market share in 2026."
+   },
+   {
+    "value": "58",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "quote": "By orbit type, low earth orbit (LEO) is estimated to account for approximately 58% share in 2026."
+   },
+   {
+    "value": "46",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "quote": "By geography, North America is expected to lead with approximately 46% market share in 2026."
+   },
+   {
+    "value": "22",
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "quote": "The industry is moderately fragmented with a share of 22% in 2026."
+   },
+   {
+    "value": "50",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "quote": "Before 2014, Arianespace had dominated the commercial launch market for many years. \"In 2004, for example, they held over 50% of the world market.\""
+   },
+   {
+    "value": "60",
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "quote": "Overall in 2014 Arianespace took 60% of commercial launch market share."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%AE%87%E5%AE%99%E6%89%93%E4%B8%8A%E3%81%92%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-101931",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4120119",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/satellite-manufacturing-and-launch-systems-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sorabatake.jp/216/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/space/seminar/dai1/cao-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorae.info/rocket-launch/history",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-launch-vehicle-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/space-launch-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/press-release/space-launch-services-market-9493",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/space-launch-services-market-101931",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SpaceXLounge/comments/1kbf1co/whats_the_current_scoreboard_ranking_chart_for/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cset.georgetown.edu/publication/shaping-the-u-s-space-launch-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/space-launch-services-market-132122845.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/space-launch-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/space-market-125341",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vocal.media/journal/space-launch-services-market-to-reach-usd-44-9-billion-by-2033-growing-at-a-cagr-of-11-28",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vKJ7-ZVjbUz_0rIWvq194X4psrO0maeYUVjwfAg-pM7lq5vDJ4r",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-space-launch-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-space-launch-services-market-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロケット打上げ 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%AE%87%E5%AE%99%E6%89%93%E4%B8%8A%E3%81%92%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-101931",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "https://newscast.jp/smart/news/4120119",
+    "https://www.mordorintelligence.com/ja/industry-reports/satellite-manufacturing-and-launch-systems-market",
+    "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "https://jp.linkedin.com/pulse/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E6%8E%A8%E9%80%B2%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE53-cagr%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E3%81%A8%E6%A5%AD%E7%95%8C%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88-carat-catches-r3k6e",
+    "https://www.mext.go.jp/kaigisiryo/content/20210118-mxt_uchukai01-000012441_5.pdf",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-launch-vehicle-market"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%AE%87%E5%AE%99%E6%89%93%E4%B8%8A%E3%81%92%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-101931",
+    "https://www.mordorintelligence.com/ja/industry-reports/satellite-manufacturing-and-launch-systems-market",
+    "https://www.gii.co.jp/report/tbrc1991164-carrier-rocket-global-market-report.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "https://sorabatake.jp/216/",
+    "https://www8.cao.go.jp/space/seminar/dai1/cao-7.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E8%BB%8A%E4%B8%A1%E5%B8%82%E5%A0%B4-111955",
+    "https://note.com/tenchijincompass/n/n14ca0560e5e6",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/宇宙打上げサービス市場-101931"
+   ]
+  },
+  {
+   "query": "ロケット打上げ 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%AE%87%E5%AE%99%E6%89%93%E4%B8%8A%E3%81%92%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-101931",
+    "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://sorae.info/rocket-launch/history",
+    "https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf",
+    "https://straitsresearch.com/jp/report/small-launch-vehicle-market",
+    "https://note.com/hirokimiyano/n/n8bf7a71d6af9",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-launch-vehicle-market"
+   ]
+  },
+  {
+   "query": "space launch services market size CAGR 2025",
+   "results": [
+    "https://www.precedenceresearch.com/space-launch-services-market",
+    "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "https://www.fortunebusinessinsights.com/press-release/space-launch-services-market-9493",
+    "https://www.sphericalinsights.com/reports/space-launch-services-market",
+    "https://orbitalradar.com/space-economy",
+    "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vLl58zvg_QVhszIEabTwCmjYuAe5wD8UQE8nRiEXToh9cJdc2cp",
+    "https://www.researchgate.net/publication/363892887_Space_Launch_Services_Market_Size_Share_and_Growth_Analysis_Report_2022-2028",
+    "https://www.marknteladvisors.com/press-release/space-launch-services-market-size"
+   ]
+  },
+  {
+   "query": "space launch services market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/space-launch-services-market-101931",
+    "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "https://www.reddit.com/r/SpaceXLounge/comments/1kbf1co/whats_the_current_scoreboard_ranking_chart_for/",
+    "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "https://cset.georgetown.edu/publication/shaping-the-u-s-space-launch-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/space-launch-services-market-132122845.html",
+    "https://www.usitc.gov/publications/332/executive_briefings/ebot_us_private_space_launch_industry_is_out_of_this_world.pdf",
+    "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "https://newmarketpitch.com/blogs/news/space-launch-services-market-share"
+   ]
+  },
+  {
+   "query": "space launch services market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/space-launch-services-market-101931",
+    "https://www.grandviewresearch.com/industry-analysis/space-launch-services-market-report",
+    "https://cset.georgetown.edu/publication/shaping-the-u-s-space-launch-market/",
+    "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "https://www.imarcgroup.com/space-launch-services-market",
+    "https://www.businessresearchinsights.com/market-reports/space-market-125341",
+    "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "https://www.zapulse.com/reports/aerospace-defense/global-space-launch-services",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "space launch services market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/space-launch-services-market-101931",
+    "https://www.expertmarketresearch.com/reports/space-launch-services-market",
+    "https://www.marketresearchfuture.com/reports/space-launch-services-market-8604",
+    "https://vocal.media/journal/space-launch-services-market-to-reach-usd-44-9-billion-by-2033-growing-at-a-cagr-of-11-28",
+    "https://cset.georgetown.edu/publication/shaping-the-u-s-space-launch-market/",
+    "https://www.precedenceresearch.com/space-launch-services-market",
+    "https://www.researchandmarkets.com/reports/5782706/space-launch-services-market-report?srsltid=AYCX9vKJ7-ZVjbUz_0rIWvq194X4psrO0maeYUVjwfAg-pM7lq5vDJ4r",
+    "https://www.marknteladvisors.com/research-library/space-launch-services-market.html",
+    "https://en.wikipedia.org/wiki/Space_launch_market_competition",
+    "https://dataintelo.com/report/global-space-launch-services-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

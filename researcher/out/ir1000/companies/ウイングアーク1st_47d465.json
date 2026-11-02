@@ -1,0 +1,1795 @@
+{
+ "name": "ウイングアーク１ｓｔ",
+ "aliases": [],
+ "context": "証券コード4432／情報・通信業／プライム（内国株式）／2026.02期 売上高30,946百万円 営業利益率29.0%",
+ "researched_at": "2026-11-02T16:58:26.645290+00:00",
+ "official_url": "https://www.wingarc.com/",
+ "identified_by": "search:yahoo_jp:ウイングアーク1st",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "2004年3月",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "2004年3月",
+    "url": "https://corp.wingarc.com/company/data.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "30,945百万円（国際会計基準、2026年2月期）",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "label": "（参考）売上収益",
+    "value": "28,708 30,945 2,237 7.8%",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結1,126名／単体836名（2026年2月末現在）",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結1,126人／単体836人（2026年2月末現在）",
+    "url": "https://corp.wingarc.com/company/data.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "国産ITベンダーだからこそできる、顧客密着型の開発とサポート体制でお客様の課題解決に向けて伴走します",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "帳票とデータ活用のプロフェッショナルが、お客様とミッションを共有しながらビジネス成果に繋げるための現場密着型サービスを提供します",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー同士だけでなく、ユーザーと当社開発部門がつながるコミュニティを運営しており、5,000人以上が参加",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入のみで終わるでのはなく、ユーザー組織の中でいかに定着させ、アップデートを続けるための情報交換が活発に行われています",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現場のユーザーには生成AIの複雑さを意識させない、ノンストレスな業務適用を実現します",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "6種類のユーザー権限／生成AIの種類ごとの利用制限",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以上のお客様に長年にわたり帳票基盤ソリューションSVFをご利用いただいています",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業で作成・送受信する文書はまだまだ多くの紙が存在しており、自社だけでなく取引先との関係があるためそう簡単にはデジタル化が難しい状況です",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の帳票に関するお悩みに対し、幅広くサポートしています",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の端末にdejiren AIチャットのアプリケーションをインストールして利用する場合の使用許諾です",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様におかれましてはご確認のうえサポートをご利用いただきますようお願いいたします",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "dejiren AIサポートは無償トライアルを含めdejiren AIをご契約のお客様にご提供いたします",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "障害対応に伴い、お客様が実施されるシステム検証等の費用については、お客様にて負担いただくものとします",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からのお問い合わせは、サービス内「お問い合わせ」メニューよりお問い合わせください",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、実際の設定変更等の作業は、お客様でのご対応をお願いしております",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様よりご提供いただくデータにつきましては、お客様の責任においてご送付いただきますようお願いいたします",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "、およびお客様とのご契約に基づき、適切に管理いたします",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーコミュニティ「nest」",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "2週間以上前に、ご利用顧客（管理者）にメールまたはお知らせページ",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーデータについては30世代（1ヶ月分）のバックアップを実施",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "スをご利用いただいた時 点で、お客様は 規 約 等の内 容についても同意 したものとみなします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①「お客様」とは、本約款に同意のうえ、ウイングアーク所定の手続に従い本サービスの利用を申込み、ウイングアークによって本サービスの利用を許諾された法人も",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②「利用ユーザー」とは、お客様の管理のもと、本サービスの利用者としてお客様が設定した個人をいいます",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③「ユーザアカウント」とは、本サービスを利用するための権利であって、利用ユーザーごとに設定されるＩＤおよびパスワードをいいます",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④「本申込み」とは、本約款に同意のうえ、ウイングアーク所定の方法で本サービスの利用申込みを行うことで、お客様とウイングアーク(およびお客様とウイングアーク",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤「有料サービス」とは、本申込みに基づきお客様に対して提供される有償の本サービスで、無料トライアル（第 5 条に記載）に従って無償で提供される本サービスと",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑨「クライアントプログラム」とは、ウイングアークから本サービスを通 じて提供されるものであって、お客様が管理する端末もしくはサーバおよびクラウド上の仮想端末も",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.お客様が、ウイングアーク所定の方法で本サービスに申込み(販売代理店を経由して申込む場合を含む)、ウイングアークが当該申込みを承諾のうえお客様に対し",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ングアークまたは販売代理店からお客様に対して通知がない場合には当該申込みは拒絶されたものとみなされます",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.お客様は、本申込みについて、現在の正確かつ完全な情報を記入するものとし、虚偽の記載を行 わないものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、お客様は、前項に基づくウイングアーク",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6 条で定める契約期間中、お客様はウイングアークの責めに帰すべき事由による解除を除き本契約を解約できず、また、本サービスの数量を削減できないものとしま",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.ウイングアークは、本契約、本約款、本申込みおよび別途ウイングアークが通知する本サービス内容に従い、お客様に対して、日本国内において、非独占的、譲渡",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&サポート",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "総合ソリューション",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "総合帳票基盤ソリューション SPAIS",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別ソリューション",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ウイングアーク１ｓｔの各製品は、AIが出力する結果に確かな裏付けを与える「データインフラ」として、",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "帳票とデータ活用を核としたコアプロダクトに、AIテクノロジーと充実したサービス体制を組み合わせ、導入から定着まで一貫して支援します",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "データ活用ソリューションを提供しております",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各プロダクトをはじめ様々なサービスと連携し、生成AIを業務の裏側で使いこなすためのテクノロジーです",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "※世界最大のサポートサービス業界のメンバーシップ団体HDIの日本拠点",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FDE型※のサービス提供​",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "帳票とデータ活用のプロフェッショナルが、お客様とミッションを共有しながらビジネス成果に繋げるための現場密着型サービスを提供します",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "業種特化ソリューション",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品導入のみで終わるでのはなく、ユーザー組織の中でいかに定着させ、アップデートを続けるための情報交換が活発に行われています",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ウイングアーク製品で業務を改善した事例",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ウイングアークの製品導入・コンサルティング支援によりデータドリブン企業文化の醸成とデータ民主化を実現",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BIコンサルティングサービス",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "統合帳票基盤ソリューション「SPAIS」",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "業種向けソリューション",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のご要望",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品使用許諾",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "帳票・文書管理ソリューション",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&サポート",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合ソリューション",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合帳票基盤ソリューション SPAIS",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業種別ソリューション",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "統合帳票基盤ソリューション「SPAIS」",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業種向けソリューション",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品のご要望",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品使用許諾",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "帳票・文書管理ソリューション",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "データエンパワーメントソリューション",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス&サポート",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合ソリューション",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合帳票基盤ソリューション SPAIS",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業種別ソリューション",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス＆サポート",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以上のお客様に長年にわたり帳票基盤ソリューションSVFをご利用いただいています",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "最適なサービス・サポートを",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「帳票 DX」と製品群",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "他社サービスやメールなどで受け取った文書を",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな業務システムや外部のクラウドサービスとつながる拡張性と、既存システム活用の促進により、文書にまつわる運用効率を改善することができます",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アライアンスパートナーの製品・サービスと相互の強みを掛け合わせることで、企業の「帳票DX」促進を支援いたします",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各製品・サービスのリリースノート、",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスの活用支援",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "統合帳票基盤ソリューション「SPAIS」",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業種向けソリューション",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品のご要望",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品使用許諾",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "帳票・文書管理ソリューション",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "データエンパワーメントソリューション",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "＼dejiren AIを2分で紹介！／",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "幅広いパートナー",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アライアンスパートナーの製品・サービスと相互の強みを掛け合わせることで、企業の「帳票DX」促進を支援いたします",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店一覧",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー TOP",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー ログイン",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "WARP パートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー・連携ベンダー",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "WARPパートナー制度",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "の販売代理店の場合を含みます)との間で、随時契約として締結されるものを意味します",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑧「販売代理店」とは、ウイングアークが提供する本サービスを販売する契約をウイングアークと締結した法人またはそれに準ずる団体をいいます",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.お客様が、ウイングアーク所定の方法で本サービスに申込み(販売代理店を経由して申込む場合を含む)、ウイングアークが当該申込みを承諾のうえお客様に対し",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ングアークまたは販売代理店からお客様に対して通知がない場合には当該申込みは拒絶されたものとみなされます",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.お客様は、本契約に基づ き、本申込みに定めるすべての本サービスの利用料金（以下「利用料金」といいます） 、追加購入分を直接または販売代理店を経由して",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6.本条第 2 項にかかわらず、お客様が販売代理店を経由し利用料金を支払う場合、利用料金および支払条件はお客様と販売代理店、販売代理店とウイングアーク",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3.第 1 項に基づきウイングアークが本契約を解除した場合、ウイングアークは、お客様から受領した本サービスの利用料金（販売代理店を経由した場合は販売代理",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5.本約款または本サービスの利用を理由に、お客様とウイングアーク間のジョイント・ベンチャー、パートナーシップ、雇用および代理店関係があるものではありません",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "24時間365日（計画停止／定期保守を除く）",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "保守について",
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "pass": 1
+   },
+   {
+    "quote": "3.利用数量による従量制のプランを契約のお客様は、本申込みによって購入した本サービスの利用数量を超えて利用する場合、本サービスの利用数量を追加で購",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "入（以下追加購入した利用数量を「追加購入分」といいます）または、契約期間満了後に別途ウイングアークが定める単価に超過利用数量を乗じた額で精算する",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4.前項にかかわらず、本契約の契約期間中に本サービスのユーザー数量を増加する場合、本サービスの利用料金（第 7 条で定義します",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①お客様による本サービスの利用料金の支払方法が、ウイングアークから発行された請求書に基づく支払い（以下「請求書払い」といいます）のとき;",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②お客様による本サービスの利用料金の支払方法が、お客様のクレジットカードの決済による支払い（以下「クレジットカード払い」といいます）のとき;",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の利用料金で次回の契約期間を更新することを条件とします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本サービスを利用する場合には、トライアル無料枠の超過分に応じた利用料金が発生するものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当該発生した利用料金の 詳細及び支払条件については、ウイングアークが別途定め",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るものとし、お客様は、ウイングアークが別途定める所定の期日までに当該超過分に係る利用料金を支払うものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 7 条 （有料サービスの利用料金）",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.お客様は、本契約に基づ き、本申込みに定めるすべての本サービスの利用料金（以下「利用料金」といいます） 、追加購入分を直接または販売代理店を経由して",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用料金および追加購入分は本サービスの申込みに基づき発生するものであり、実際の利用に基づくものでは ありません",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用料金、追加購入分の支払義務は取消不能であり、支払済の料金は 、お客様がウイングアークの責めに帰すべき事由によ って本契約の解除をした場合を除き、",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.お客様は、本申込みの別段の定めがある場合を除き、利用料金を本サービス利用開始(更新)日翌月末までに支払うものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3.ウイングアークが利用料金、追加購入分を支払期限までに受領しなかった場合、 ウイングアークは、ウイングアークの判断で、次の何れか、または双方の措置をお",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5.前項にかかわらず、クレジットカード払いの場合、何らかの理由でクレジットカードが決済不能となり、ウイングアークが支払期限までに利用料金を受領できなかった",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6.本条第 2 項にかかわらず、お客様が販売代理店を経由し利用料金を支払う場合、利用料金および支払条件はお客様と販売代理店、販売代理店とウイングアーク",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "但し、ウイングアークに対して利用料金が支払われた時点で、お客様による利用料金の支払義務が履行されたものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①サービスシステムの保守・工事等の計画停止、障害が発生した場合またはその他やむを得ない事由がある場合",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ものかを問わず、本契約に基づきウイングアークが受領した利用料金の直近 6 カ月分（初年度費用その他料金を含まない）を超えないものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3.第 1 項に基づきウイングアークが本契約を解除した場合、ウイングアークは、お客様から受領した本サービスの利用料金（販売代理店を経由した場合は販売代理",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "込むことができる、無償、全世界的、譲渡可能、サブライセンス可、取消不能の永続的ライセンスを有するものとします",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 5 条（無料トライアル）第 3 項、第 7 条（有料サービスの利用料金）、第 9 条（財産権）、第 10 条（テンプレートプログラム等）、第 11 条（制限事項）、第 12 条（ア",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、本契 約 において「お客 様 」とは、本アプリおよびそのライセンスを取 得 し、使 用する、1 つの法 人(またはそれに準 ず",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/d4064c7f66d03e71e4551cfdc2bc107b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損害 の原因 となった本アプリに関連してウイングアークがお客 様から受領 した利用料金（本アプリの前 提となるクラウド",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/d4064c7f66d03e71e4551cfdc2bc107b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) ウイングアークのシステムの保守・工事等の計画停止、障害が発生した場合またはその他やむを得ない事由が",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/d4064c7f66d03e71e4551cfdc2bc107b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第3 条（利用料金）",
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(7) 本AI サービス又は出 力 結 果 等 を譲渡、販売（ 再 販 、再 ライセンス）及 び第 三 者 に提 供す る行 為",
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "#リカーリング",
+    "url": "https://www.youtube.com/shorts/JXyVHDqAyw4",
+    "pass": 3
+   },
+   {
+    "quote": "データエンパワーメントソリューションでは、エンドユーザーに対して、ソフトウェアの販売、クラウドサービス、保守サポートの提供を主に行っております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス/サービスは、前年の大型案件の反動で前期比9.4％減と前年を下回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、保守については着実な契約獲得と契約更新活動により、前期比4.4％増と堅調に推移しました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションも大企業を中心に柔軟な契約形態を求める企業が増加しており、前期比44.4％増と前年を大きく上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス/サービスはサブスクリプションを中心に販売していることから、前期比20.4％減と前年を大きく下回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "保守については、契約を順調に積み上げたことから、前期比3.5％増と前年を大きく上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションは、大企業を中心に柔軟な契約形態を求める企業が増加しており、前期比17.3％増と前年を大きく上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス/サービスは、前年の大型案件の反動で前期比19.0％減と前年を大きく下回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "保守については、前期比3.2％増と堅調に推移しました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションは、大企業を中心に柔軟な契約形態を求める企業が増加しており、前期比53.0％増と前年を大きく上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス/サービスは、データ活用に関する底堅い需要から前期比9.0％増と前年を大きく上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "保守については、契約を順調に積み上げたことから、前期比5.6％増と前年を上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションは、大企業を中心に柔軟な契約形態を求める企業が増加しており、前期比21.9％増と前年を大きく上回りました",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社グループが提供するソフトウェア及びサービスについては、ソフトウェアライセンスや導入時のサービス提供等継続的な契約を前提としない取引と、ソフトウェアの保守サポート契約、サブスクリプション契約やクラウドサービスの利用契約のような継続的な契約を前提とした取引により構成されています",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な契約を前提とした取引は、導入企業が増加するにつれて年々売上収益が積みあがるリカーリングビジネスと呼ばれる収益モデルであり、これらのビジネスから得られる収益（リカーリングレベニュー）は、当社グループの収益の安定化と継続的な拡大に大きく貢献しております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス/サービス",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "アライアンスパートナーの製品・サービスと相互の強みを掛け合わせることで、企業の「帳票DX」促進を支援いたします",
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「SVF Cloud」は、従来の「SVF」の強みに加え、柔軟性とリアルタイム性を兼ね備えた帳票クラウドサービスです",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年5月26日",
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "2020 年 4 月 15 日 制定",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022 年 3 月 18 日 改定",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 6 月１日 改定",
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9 月25日 制 定",
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2 月28日 改 定",
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年5 月 １ 日 改 定",
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8 月6 日改定",
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年2月期より、アニュアルレポートに変わり統合報告を公開しております",
+    "url": "https://ir.wingarc.com/financialdata/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月14日 IR Day（決算説明会及び事業戦略説明会）",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月14日 2027年2月期 第2四半期決算発表（12：00予定）",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年3月",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年3月",
+    "url": "https://corp.wingarc.com/company/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のクラウド市場は、前期比20.4％増と引き続き非常に高い水準で推移する見込みです",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年８月",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年４月から「invoiceAgent」を帳票のライフサイクルを担うデジタル帳票基盤「SVF」ブランドへ統合し、「invoiceAgent」は、帳票の保管を行う「SVF Archiver」及び帳票の流通を行う「SVF Transact」の2つのSVFのサブブランドとなります",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年７月",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年２月期",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年２月期",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "1981年東京生まれ",
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年にウイングアーク（現ウイングアーク１ｓｔ）に入社後は製品開発をメインに手掛け、2016年にウイングアーク１ｓｔ執行役員CTOに就任",
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年より現職",
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には自社主催のビジネスイベントにて、製品デモとして自らが開発した「勉強中にあくびをした息子の動きを自動追尾して口にミントタブレットを放り込む装置（中段右写真）」を発表",
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に始まった新型コロナウイルスの流行に伴い、企業のコンピューティング環境は劇的な変化を遂げつつあります",
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "【配当性向UP】大企業のDXを支えるウイングアーク1stの強固なビジネスモデル｜ズバリ質問！あの企業の〇〇 - YouTube",
+    "url": "https://www.youtube.com/shorts/JXyVHDqAyw4",
+    "pass": 3
+   },
+   {
+    "quote": "【配当性向UP】大企業のDXを支えるウイングアーク1stの強固なビジネスモデル｜ズバリ質問！あの企業の〇〇",
+    "url": "https://www.youtube.com/shorts/JXyVHDqAyw4",
+    "pass": 3
+   },
+   {
+    "quote": "企業がビジネス環境の激しい変化に対応し、データとデジタル技術を活用して、顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するとともに、業務そのものや、組織、プロセス、企業文化・風土を変革し、競争上の優位性を確立すること",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業系統図は次のとおりであります",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な契約を前提とした取引は、導入企業が増加するにつれて年々売上収益が積みあがるリカーリングビジネスと呼ばれる収益モデルであり、これらのビジネスから得られる収益（リカーリングレベニュー）は、当社グループの収益の安定化と継続的な拡大に大きく貢献しております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ウイングアーク1st — ウイングアーク1st ウイングアーク１ｓｔ https://www.wingarc.com",
+    "url": "https://www.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【配当性向UP】大企業のDXを支える ウイングアーク1st の強固 ... — 【配当性向UP】大企業のDXを支える ウイングアーク1st の強固 ... YouTube https://www.youtube.com > shorts > JXyVHDqAyw4",
+    "url": "https://www.youtube.com/shorts/JXyVHDqAyw4",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st 【4432】の事業内容 - キタイシホン — ウイングアーク1st 【4432】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st のご紹介 — ウイングアーク1st のご紹介 daiwair.webcdn.stream.ne.jp PDF https://daiwair.webcdn.stream.ne.jp > qlviewer > pdf",
+    "url": "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2605234432jW7JnL1j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "財務情報｜IR - ウイングアーク1st — 財務情報｜IR - ウイングアーク1st ウイングアーク１ｓｔ https://ir.wingarc.com > financialdata",
+    "url": "https://ir.wingarc.com/financialdata/",
+    "pass": 3
+   },
+   {
+    "quote": "IR｜ ウイングアーク1st — IR｜ ウイングアーク1st ウイングアーク１ｓｔ https://ir.wingarc.com",
+    "url": "https://ir.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st 、四半期として過去最高の売上高で増収 ... — ウイングアーク1st 、四半期として過去最高の売上高で増収 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383597",
+    "pass": 3
+   },
+   {
+    "quote": "【 ウイングアーク1st 】[4432]有価証券報告書 | 日経電子版 — 【 ウイングアーク1st 】[4432]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=4432",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st 株式会社 IR DAY（2027年2月期第2 ... — ウイングアーク1st 株式会社 IR DAY（2027年2月期第2 ... BigGo ファイナンス https://finance.biggo.jp > quote > JP_4432.T_2026-10-14",
+    "url": "https://finance.biggo.jp/quote/4432.T/earnings-call/JP_4432.T_2026-10-14",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ウイングアーク1st コーポレートサイト — 会社概要 | ウイングアーク1st コーポレートサイト ウイングアーク１ｓｔ https://corp.wingarc.com > company > data",
+    "url": "https://corp.wingarc.com/company/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st 【4432】の 事業 内容 - キタイシホン — ウイングアーク1st 【4432】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st 様 のERPパッケージ・システム導入事例 — ウイングアーク1st 様 のERPパッケージ・システム導入事例 grandit.jp https://www.grandit.jp > 導入事例",
+    "url": "https://www.grandit.jp/showcase/wingarc1st/",
+    "pass": 3
+   },
+   {
+    "quote": "総合TOP | ウイングアーク1st コーポレートサイト — 総合TOP | ウイングアーク1st コーポレートサイト ウイングアーク１ｓｔ https://corp.wingarc.com",
+    "url": "https://corp.wingarc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CTO インタビュー | ウイングアーク1st コーポレートサイト — CTO インタビュー | ウイングアーク1st コーポレートサイト ウイングアーク１ｓｔ https://corp.wingarc.com > recruit > engineer > cto",
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウイングアーク1st のサステナビリティ - YouTube — ウイングアーク1st のサステナビリティ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=dtbx3HTW8KQ",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報一覧 | ウイングアーク1st コーポレートサイト — 会社情報一覧 | ウイングアーク1st コーポレートサイト ウイングアーク１ｓｔ https://corp.wingarc.com > recruit > about",
+    "url": "https://corp.wingarc.com/recruit/about/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、当社、連結子会社８社および持分法適用会社１社で構成されており、「データエンパワーメント事業」を単一の報告セグメントとしておりますが、提供しているソフトウェア及びサービスの性質により、企業の基幹業務を支える「帳票・文書管理ソリューション」と、様々なデータを活用し、今までにない新たな価値を生み出す「データエンパワーメントソリューション」の２つに売上収益を区分しております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「データエンパワーメント事業」を単一の報告セグメントとしておりますが、提供しているソフトウェア及びサービスの性質により、企業の基幹業務を支える「帳票・文書管理ソリューション」と、様々なデータを活用し、今までにない新たな価値を生み出す「データエンパワーメントソリューション」の２つに売上収益を区分しております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "２ IDC Japan, 2026年３月「国内パブリッククラウドサービス市場予測、2026年～2030年」（JPJ53498826）国内パブリッククラウドサービス市場サービスセグメント（大分類）別売上額予測、2025年～2030年",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．当社グループの事業セグメントは、「データエンパワーメント事業」を単一の報告セグメントとしているため、ソリューション別の販売実績を記載しております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "６．セグメント情報",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1）報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2）セグメント収益及び業績",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4432/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wingarc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/product/dejiren/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/product/dejiren/requirement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/product/dejiren/agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/product/dejiren/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wingarc.com/product/dejiren/slo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.wingarc.com/product/dejiren/pdf/f02082d687c60714a8df84fc96ea5324.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wingarc.com/product/dejiren/pdf/d4064c7f66d03e71e4551cfdc2bc107b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wingarc.com/license/pdf/AI_service.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/prpblem_figure.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/service_graph01.png?260401",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/service_figure01_01_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/service_figure01_02_pc.png?260401",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/service_figure02.png?260401",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/service_figure03.png?260401",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wingarc.com/division/business_document/img/aliance_map_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/shorts/JXyVHDqAyw4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ir.wingarc.com/financialdata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.wingarc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.wingarc.com/company/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4432/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dtbx3HTW8KQ",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ウイングアーク1st",
+   "results": [
+    "https://www.wingarc.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%BC%E3%82%AF1st",
+    "https://x.com/WingArc",
+    "https://www.youtube.com/@WingArcTechnologies",
+    "https://prtimes.jp/main/html/searchrlp/company_id/53341",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000f27Jm",
+    "https://ja.wikipedia.org/wiki/ウイングアーク1st",
+    "https://corp.wingarc.com/company/data.html",
+    "https://corp.wingarc.com/",
+    "https://ir.wingarc.com/"
+   ]
+  },
+  {
+   "query": "ウイングアーク1st ビジネスモデル",
+   "results": [
+    "https://www.wingarc.com/",
+    "https://www.youtube.com/shorts/JXyVHDqAyw4",
+    "https://www.gainsight.co.jp/casestudy/WingArc1st",
+    "https://kitaishihon.com/company/4432/business",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2605234432jW7JnL1j.pdf",
+    "https://sairu.co.jp/guide/partner-business/case/wingarc1st01/",
+    "https://www.edb.gov.sg/ja/industries-case-studies/case-studies-library/2020oct-jp-article-01.html",
+    "https://www.grandit.jp/showcase/wingarc1st/",
+    "https://www.weeklybcn.com/journal/issue/detail/20250612_210263.html",
+    "https://ja.wikipedia.org/wiki/ウイングアーク1st"
+   ]
+  },
+  {
+   "query": "ウイングアーク1st 決算説明資料",
+   "results": [
+    "https://ir.wingarc.com/financialdata/",
+    "https://ir.wingarc.com/",
+    "https://finance.logmi.jp/articles/383597",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=4432",
+    "https://finance.biggo.jp/quote/4432.T/earnings-call/JP_4432.T_2026-10-14",
+    "https://www.buffett-code.com/company/4432/library",
+    "https://finance.logmi.jp/companies/1123",
+    "https://ir.wingarc.com/faq/",
+    "https://irbank.net/4432/ir",
+    "https://edinetdb.jp/company/E33957/presentations/"
+   ]
+  },
+  {
+   "query": "ウイングアーク1st 事業系統図",
+   "results": [
+    "https://corp.wingarc.com/company/data.html",
+    "https://kitaishihon.com/company/4432/business",
+    "https://www.grandit.jp/showcase/wingarc1st/",
+    "https://corp.wingarc.com/",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2605234432jW7JnL1j.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%BC%E3%82%AF1st",
+    "https://metoree.com/companies/16979/",
+    "https://www.jsug.org/supporters/wingarc1st",
+    "https://it.impress.co.jp/articles/-/22166",
+    "https://ja.wikipedia.org/wiki/ウイングアーク1st"
+   ]
+  },
+  {
+   "query": "ウイングアーク1st 社長 インタビュー",
+   "results": [
+    "https://corp.wingarc.com/recruit/engineer/cto.html",
+    "https://www.youtube.com/watch?v=dtbx3HTW8KQ",
+    "https://japan.zdnet.com/article/35242367/",
+    "https://product.hiway.app/blog/WA1st_interview/",
+    "https://corp.wingarc.com/recruit/about/",
+    "https://www.talent-book.jp/wingarc/company-info",
+    "https://wingarcbase.com/article/article-2185/",
+    "https://kitaishihon.com/company/4432/board-of-director",
+    "https://www.youtube.com/watch?v=KbUAb7Ew-Tw",
+    "https://ja.wikipedia.org/wiki/内野弘幸"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像10件／外部7頁・検索5回）"
+ }
+}

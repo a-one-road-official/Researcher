@@ -1,0 +1,956 @@
+{
+ "name": "カナミックネットワーク",
+ "aliases": [],
+ "context": "証券コード3939／情報・通信業／プライム（内国株式）／2025.09期 売上高5,501百万円 営業利益率29.2%",
+ "researched_at": "2026-11-02T17:02:20.846926+00:00",
+ "official_url": "https://www.kanamic.net/",
+ "identified_by": "search:yahoo_jp:カナミックネットワーク",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "平成12年(2000年)10月20日",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "平成12年(2000年)10月20日",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（百万円）",
+    "value": "1,504 1,685 1,881 2,080",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "介護・医療分野におけるASPサービス提供業務 介護・医療分野における情報提供サービス業務 システムインテグレーション業務 システムソリューション業務 ホームページ制作・運営業務 Webコンテンツ、ビデオ、各種販売促進ツールの企画・制作・販売 経営コンサルティング業務 システムコンサルティング業務 講演会・セミナー・学会等の企画・開催、教育研修業務 有料職業紹介業 その他前各号に関連する一切の業務",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユーザーは自分のデバイスにソフトをインストールする必要がなく、Webブラウザを使ってアクセスし、機能を利用します",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "同じ法人や事業所内での連携はもちろん、他法人との情報共有が可能で、カナミックユーザーの連携先は無料で利用できます",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "その後専門スタッフがお客様を訪問してヒアリングを行い、最適な介護ソフトをご提案致します",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "また、クラウドサービス利用者様のご利用端末とクラウドサービス間は暗号化された通信ですので、安全にご利用いただけます",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "介護医療ソフトと介護業務に精通した専門スタッフが、お客様の問題解決までサポート",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "事前に発行したご利用者様用のQRコードをサービス利用契約時などにご利用者様の近くに設置",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者様の専用QRコードを読み取ると現場の位置情報と時間が送信されるため、電話連絡不要でサービスを開始することができます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様ごとの介護計画、手順書、サービス提供責任者様からの指示が画面表示されるためケアの内容を確認しながら安心してサービスが進められます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "4）介護保険・利用者請求",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "経営者、事務所スタッフ、ヘルパー、利用者皆様の希望を叶えるカナミックの介護ソフト(システム)",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様にとってはスタッフのサービス向上、スタッフ様にとっては報告やサービスのミスが減少し安心感が増します",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用者によりよいケアを提供するために、この機会に現在の業務を見直してみませんか？",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サービス利用者】",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本日来所される利用者様は一覧で確認可能",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "介護業界に特化し、多数のソリューション実績を持っている専門の営業マンが、お客様の事業所にお伺いして介護システム及び介護ソフトに関するヒアリング及びご説明をさせて頂きます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入に向けてお客様とご相談",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カナミックネットワークでは月に１度ご希望のユーザー様に向けて社内でシステム研修会を開催しております",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "資料を見ながら操作方法などの説明を行い、その場でお客様のご質問にお答えいたします",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "LIFEは、利用者の基本情報やケア内容、健康状態のデータを収集して蓄積していくことにより、科学的な根拠に基づく質の高い介護を行うことが目的ですが、データの管理や提出などが介護業務の負担になっているという問題点があります",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ExcelやWord、PDFなどの文書はもちろん、写真や動画のデータも共有できて、分かりやすく利用者の状態を伝えることが可能です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業であるヘルスケアサービスを成長させて、世界中の人々が利用できるようにして、全利用者に付加価値を提供することを目標としているようです",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークでは、既存事業であるヘルスケアサービスをプラットフォーム化し、ユーザーの拡大を目指しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "基本となるシステムにAIなどの最新技術を活用して、利用者を拡大",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ケアプランの作成にAI技術を活用して人にかかる負担を減らしたり、システムを多言語化してより多くのユーザーを取り込んだりする戦略です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、カナミックネットワークは医療介護分野で培ったノウハウを活用して、より多くのユーザーが利用できるよう、サービスの幅を拡大しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "1段階目は企業・自治体を対象とするユーザーの獲得です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "安定した顧客層を獲得するため、医療・介護・子育てのクラウドサービスを展開しました",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、売上を確保していくためには新規顧客の獲得だけでなく既存顧客を長期的に維持することも重要です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "その代わり、導入地域を増やすほどユーザーが増えるというスキームになっているため、導入地域数を重視して公表しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS企業において、チャーンレート（解約率、顧客離脱率）は重要な指標です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニットエコノミクスとは、顧客や製品などのユニット単位で事業の経済性を測定するためのもので、SaaSビジネスで特に活用されることが多い指標です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニットエコノミクスはLTV（顧客生涯価値）とCAC（顧客獲得単価）の比率であり、顧客獲得のためにかけるコストの有益性を図る指標となります",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークではユニットエコノミクスの数値は公開されていませんが、プラットフォームサービスのさまざまな広告で収益が上がる仕組みになっているため、ユーザーを無料ユーザーと有料ユーザーに分け、それぞれのID数の推移を公開しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー数が堅調に伸びており安定した収益が期待される",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "その代わりに、独自の事業形態に合わせて導入地域数や無料ユーザー・有料ユーザー数の推移をKPIとして設定し公開しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "カナミックネットワーク サービスサイト",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "通所系サービス",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "訪問系サービス",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "施設系サービス",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "デイサービス",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "カナミックネットワーク「Buddycom」・「LINE WORKSラジャー」とのAI音声記録連携サービス提供開始",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "24時間365日働く“AIロボ社員”「カナミックかんたんAIロボシリーズ」＋「FDEサービス」を発表",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型ソフト（システム）は、インターネット経由で利用できるソフトウェアやサービスのことです",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "カナミックのソフトはどのようなサービスに対応していますか？",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "はい、カナミックネットワークの介護ソフトは、訪問介護サービスだけでなく各種介護サービスにフルラインアップ対応しております",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "自費サービス管理",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス付高齢者向け住宅",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "はい、カナミックの介護ソフトは多職種連携に強いクラウドサービスです",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "また、クラウドサービス利用者様のご利用端末とクラウドサービス間は暗号化された通信ですので、安全にご利用いただけます",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、データセンターは国内に複数設置されており、強固なセキュリティを備えた設備でカナミッククラウドサービスをご提供しております",
+    "url": "https://www.kanamic.net/",
+    "pass": 1
+   },
+   {
+    "quote": "\\ QRコードを読み取って、即サービス開始可能!! /",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※アプリのサービスのご利用にあたっては、別途カナミッククラウドサービスの契約が必要です",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "かんたん介護記録アプリの対象サービス",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在宅介護サービス事業者様",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "施設介護サービス事業者様",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス付高齢者向け住宅",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事前に発行したご利用者様用のQRコードをサービス利用契約時などにご利用者様の近くに設置",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "QRコードを読み取って、即サービス開始可能",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "利用者様の専用QRコードを読み取ると現場の位置情報と時間が送信されるため、電話連絡不要でサービスを開始することができます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "その日の介護計画、手順書、指示に沿ってサービス提供",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様ごとの介護計画、手順書、サービス提供責任者様からの指示が画面表示されるためケアの内容を確認しながら安心してサービスが進められます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス提供責任者様からの指示に対する報告も同一画面上で行えるので特定事業所加算２の要件に、無理なく対応できます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1）サービス計画入力",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事務所で入力したサービスの予定がスタッフの端末に自動同期され連絡時のミスが減らせます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様にとってはスタッフのサービス向上、スタッフ様にとっては報告やサービスのミスが減少し安心感が増します",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用者によりよいケアを提供するために、この機会に現在の業務を見直してみませんか？",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サービス利用者】",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに！カナミックの業務ソフトは各種介護サービスに対応！",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "は、訪問介護サービスだけでなく各種介護サービスにフルラインアップ対応しております",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスのメリットを活かした機能",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループホーム、小規模多機能型居宅介護、夜間対応型訪問介護、定期巡回・随時対応型訪問介護看護管理などあらゆるサービスに対応",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "介護業界に特化し、多数のソリューション実績を持っている専門の営業マンが、お客様の事業所にお伺いして介護システム及び介護ソフトに関するヒアリング及びご説明をさせて頂きます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現状の問題点や解決したいポイントを明確にし、介護ソフトによるソリューションをご提案させて頂きます",
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークは「『人生を抱きしめるクラウド』で、人と社会に貢献する」を成長戦略の基本方針として介護分野を中心に人々の生活に根ざしたクラウドサービスを提供する会社です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックでは、住民にとっても自治体にとってもメリットのある、地域ぐるみの子育てをサポートする子育て支援のクラウドサービスを提供しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "行政や企業からの子育てに関する情報配信や、子育てに関する相談、また電子母子手帳や子どもの成長記録などの機能があり、長期に渡る子育てを地域の皆で見守ることができるサービスです",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックの子育て支援クラウドサービスでは、子育て家庭が行政からの情報を一元的に取得しながら、気軽に行政や医療関係者などへの相談が可能となるため、スマートで快適な地域ぐるみの子育てをサポートできます",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークの代表的なサービスであるカナミックは、現在",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "介護ソフト業界で上位シェアを誇っており、特にサービスの使いやすさやデザインに定評",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業であるヘルスケアサービスを成長させて、世界中の人々が利用できるようにして、全利用者に付加価値を提供することを目標としているようです",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、医療分野の情報化の取り組みが重要視されており、住み慣れた地域で質の高い医療サービスを受けながら安心して生活していくために、ICTを活用した情報連携が積極的に進められています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックが提供するサービスは、個人の健康管理だけでなく、医療従事者や介護従事者のビジネスパーソンや、自治体にとっても価値のあるサービスであり、このサービスを通じて人と社会に貢献することがカナミックの目指す目標です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークでは、既存事業であるヘルスケアサービスをプラットフォーム化し、ユーザーの拡大を目指しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ヘルスケアシステムに限らず、シェアリングエコノミーやフィンテック、インターネット広告などの事業も展開することにより、カナミッククラウドサービスを人々の生活に根ざしたサービスにし、包括的に人々の生活を支えていくことを目標としています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "新サービスリリース",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークは、これまでサービスを展開してきた医療介護分野でのノウハウを生かして、新たなサービスの提供を開始しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "「カナミックかんたんWeb明細」は、従来の請求業務で行っていたアナログな作業負担を大幅に軽減させるサービスです",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、カナミックネットワークは医療介護分野で培ったノウハウを活用して、より多くのユーザーが利用できるよう、サービスの幅を拡大しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "安定した顧客層を獲得するため、医療・介護・子育てのクラウドサービスを展開しました",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "2段階目はプラットフォームサービス拡大です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークのビジネスモデルは製品を販売して完了ではなく、契約期間中に利用料が発生するサブスクリプション型です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなクラウドサービスビジネスの収益を左右する重要なKPIについて、見ていきましょう",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス型のビジネスでは、毎月定期的に発生する収益を表すMRR(Monthly Recurring Revenue)をモニターすることが重要です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "医療向けシステム紹介",
+    "url": "http://www.kanamic.net/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "介護ソフト紹介",
+    "url": "http://www.kanamic.net/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "アーバンフィット社は大阪を中心に24時間営業のフィットネスジムの運営およびフランチャイズ展開を行っている企業です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介しています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "方法や目安を紹介」の",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "『飲食店経営成功バイブル １店舗から多店舗展開 ２３の失敗事例から学ぶ「お金」の壁の乗り越え方』（合同フォレスト）",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介業",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "弁護士・パートナー 升永 英俊",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クレア・ライフ・パートナーズ 工藤 将太郎 氏",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本不動産パートナーズ 青木 晋市 氏",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルサーガパートナーズ株式会社 小俣 泰明 氏",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "カナミックネットワークのビジネスモデルは製品を販売して完了ではなく、契約期間中に利用料が発生するサブスクリプション型です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "カナミックネットワークのビジネスモデルは製品を販売して完了ではなく、契約期間中に利用料が発生するサブスクリプション型です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSの主要KPI【チャーンレート】とは？",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "チャーンレート",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS企業において、チャーンレート（解約率、顧客離脱率）は重要な指標です",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークではチャーンレートの数値を公表していませんが、2021年9月期第3四半期決算説明会で「今年度の比較的早い段階から解約率が安定しだした」という内容のお話をされていました",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの対策次第では、解約率の減少も期待できるでしょう",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "チャーンレートについては、「",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSの主要KPI【チャーンレート】とは？種",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニットエコノミクスはLTV（顧客生涯価値）とCAC（顧客獲得単価）の比率であり、顧客獲得のためにかけるコストの有益性を図る指標となります",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワークはクラウドサービス型のビジネスを展開していますが、商品販売ではない事業において特に重要なKPIとしてはMRR、チャーンレート、ユニットエコノミクスなどが挙げられます",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "平成12年(2000年)10月20日",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年第二四半期の業績は予想を上回っており、コロナ禍でも安定した売上を保っていることから、今後の売上も期待できるでしょう",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月には、",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までの成長ビジョンとして4つの段階を設定",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までのビジョンでは海外展開も目標としており、新規サービスを次々とリリースするなど着実にステップを進めています",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "平成12年(2000年)10月20日",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "1978年京都市生まれ",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年に富士通システムソリューションズ（現富士通）に入社したのち、05年に株式会社カナミックネットワークへ",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年に設立された企業",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "カナミックネットワーク の事業内容や今後の成長戦略は？ — カナミックネットワーク の事業内容や今後の成長戦略は？ Scale Cloud https://scalecloud.jp > blog > kanamic_network_kpi",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワーク サービスサイト — カナミックネットワーク サービスサイト カナミックネットワーク https://www.kanamic.net",
+    "url": "https://www.kanamic.net/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) カナミックネットワーク 【3939】 - 未来金融研究部 — (株) カナミックネットワーク 【3939】 - 未来金融研究部 未来金融研究部 https://mirakin.jp > ... > 東証プライム > 東京都",
+    "url": "https://mirakin.jp/unyuzyouhou/jouhoutsuushin/kanamic-net/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワーク /子育て支援と高齢者支援の両輪 — カナミックネットワーク /子育て支援と高齢者支援の両輪 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/377948",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カナミックネットワーク の事業とカルチャー - Wantedly — 株式会社 カナミックネットワーク の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > company_8455044 > about",
+    "url": "https://www.wantedly.com/companies/company_8455044/about",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | カナミックネットワーク コーポレートサイト — 決算説明資料 | カナミックネットワーク コーポレートサイト カナミックネットワーク コーポレートサイト https://www.kanamicnetwork.co.jp > library > presen",
+    "url": "https://www.kanamicnetwork.co.jp/ir/library/presen/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワーク [3939]：2026年9月期1Q_ 決算説明 ... — カナミックネットワーク [3939]：2026年9月期1Q_ 決算説明 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260205547870/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | カナミックネットワーク コーポレートサイト — IRライブラリ | カナミックネットワーク コーポレートサイト カナミックネットワーク コーポレートサイト https://www.kanamicnetwork.co.jp > library",
+    "url": "https://www.kanamicnetwork.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カナミックネットワーク - ログミーファイナンス — 株式会社 カナミックネットワーク - ログミーファイナンス ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/465",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワーク 、2025年9月期は最高売上高55.00億 ... — カナミックネットワーク 、2025年9月期は最高売上高55.00億 ... インベストーク https://investalk.jp > kanamic-network-2025-09-earnings",
+    "url": "https://investalk.jp/3939/kanamic-network-2025-09-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | カナミックネットワーク コーポレートサイト — 会社概要 | カナミックネットワーク コーポレートサイト カナミックネットワーク コーポレートサイト https://www.kanamicnetwork.co.jp > company > outline",
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワーク の 事業 内容や今後の成長戦略は？ — カナミックネットワーク の 事業 内容や今後の成長戦略は？ Scale Cloud https://scalecloud.jp > blog > kanamic_network_kpi",
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "pass": 3
+   },
+   {
+    "quote": "Kanamic Network 3939 - カナミックネットワーク — Kanamic Network 3939 - カナミックネットワーク Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/3939",
+    "pass": 3
+   },
+   {
+    "quote": "カナミックネットワーク ／山本 拓真 社長 「きみは“就社”しよう ... — カナミックネットワーク ／山本 拓真 社長 「きみは“就社”しよう ... ceo-voice.com https://www.ceo-voice.com > 記事一覧",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 カナミックネットワーク 代表取締役 社長 山本 拓真 — 株式会社 カナミックネットワーク 代表取締役 社長 山本 拓真 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5520",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | カナミックネットワーク コーポレートサイト — トップメッセージ | カナミックネットワーク コーポレートサイト カナミックネットワーク コーポレートサイト https://www.kanamicnetwork.co.jp > company > message",
+    "url": "https://www.kanamicnetwork.co.jp/company/message/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "クラウドサービスは全国の介護事業所で広く導入されており、自治体や医療機関との情報連携も強みとしている",
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kanamic.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/popup/gyomflow.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.kanamic.net/company/outline.html",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/gyomflow.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow01.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow02.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow03.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow04.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow05.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow06.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kanamic.net/lp/kantan-kaigo-kiroku/img/img_flow07.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanamicnetwork.co.jp/ir/library/presen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260205547870/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanamicnetwork.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DFuaA0JkuR_s&q=EgSH6MkgGN6Eo9cGIjCAMR5qZ2Ms2Y9aQStDCYosYFDs_bHur9qgiBGCzIclNq3v_sXznxDjtIR3m-5Xs34yAnJSWgFDYKzgk9X3ra6vNw",
+    "status": "http_429",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "カナミックネットワーク",
+   "results": [
+    "https://www.kanamic.net/",
+    "https://www.kanamicnetwork.co.jp/",
+    "https://www.kanamicnetwork.co.jp/company/outline/",
+    "https://www.kanamicnetwork.co.jp/en/",
+    "https://sharedresearch.jp/ja/companies/3939",
+    "https://portal.kanamic.net/tritrus/",
+    "http://218.219.72.201/company/outline.html",
+    "https://www3.kanamic.net/login.html",
+    "https://www.kanamic.net/care/"
+   ]
+  },
+  {
+   "query": "カナミックネットワーク ビジネスモデル",
+   "results": [
+    "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "https://www.kanamic.net/",
+    "https://mirakin.jp/unyuzyouhou/jouhoutsuushin/kanamic-net/",
+    "https://finance.logmi.jp/articles/377948",
+    "https://www.wantedly.com/companies/company_8455044/about",
+    "https://www.youtube.com/watch?v=jqKz8d-0sGA",
+    "https://www.kanamicnetwork.co.jp/topics/",
+    "https://webcast.net-ir.ne.jp/39392605/index.html",
+    "https://shachomeikan.jp/industry_article/5520",
+    "https://consovation.com/持続的な成長戦略を描くカナミックネットワーク/"
+   ]
+  },
+  {
+   "query": "カナミックネットワーク 決算説明資料",
+   "results": [
+    "https://www.kanamicnetwork.co.jp/ir/library/presen/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260205547870/",
+    "https://www.kanamicnetwork.co.jp/ir/library/",
+    "https://finance.logmi.jp/companies/465",
+    "https://investalk.jp/3939/kanamic-network-2025-09-earnings/",
+    "https://www.buffett-code.com/company/3939/library",
+    "https://irbank.net/3939/ir",
+    "https://www.kanamicnetwork.co.jp/ir/",
+    "https://edinetdb.jp/company/E32603/presentations/",
+    "http://218.219.72.201/ir/library.html"
+   ]
+  },
+  {
+   "query": "カナミックネットワーク 事業系統図",
+   "results": [
+    "https://www.kanamic.net/",
+    "https://www.kanamicnetwork.co.jp/company/outline/",
+    "https://scalecloud.jp/blog/kanamic_network_kpi/",
+    "https://www.caresoft-find.com/list/kanamic.html",
+    "https://sharedresearch.jp/ja/companies/3939",
+    "https://www.medical-jpn.jp/osaka/ja-jp/search/2026/product/product-details.exh-72ef6d7e-7298-457c-9b18-cd31529b5f8c.%E6%83%85%E5%A0%B1%E5%85%B1%E6%9C%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0.pro-f10e4b57-4bcd-4b3f-98ff-18b0c52c5d4a.html",
+    "https://www.heiwatechno.com/system_linkage/kanamic_network.html",
+    "https://www.youtube.com/watch?v=jqKz8d-0sGA",
+    "https://www.wantedly.com/companies/company_8455044/about",
+    "https://www.kanamicnetwork.co.jp/"
+   ]
+  },
+  {
+   "query": "カナミックネットワーク 社長 インタビュー",
+   "results": [
+    "https://www.ceo-voice.com/interview/kanamic-net.html",
+    "https://www.youtube.com/watch?v=FuaA0JkuR_s",
+    "https://shachomeikan.jp/industry_article/5520",
+    "https://x.com/SuperAgeSociety",
+    "https://www.kanamicnetwork.co.jp/company/message/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260318584195/",
+    "https://www.youtube.com/channel/UC2Rody68V2pj_kaho1nyMuQ",
+    "https://macloud.jp/interviews/94",
+    "https://www.yumeplanning.jp/mentor/%E9%A1%A7%E5%95%8F%E4%B8%80%E8%A6%A7-%E6%9D%B1%E8%A8%BC%E4%B8%80%E9%83%A8%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD/%E5%B1%B1%E6%9C%AC%E6%8B%93%E7%9C%9F%E9%A1%A7%E5%95%8F/",
+    "https://www.kanamicnetwork.co.jp/topics/2026/press-release0318/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部6頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部6頁・検索5回）"
+ }
+}

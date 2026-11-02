@@ -1,0 +1,1868 @@
+{
+ "name": "ガラス基板（半導体パッケージ）",
+ "en": "glass substrate semiconductor packaging",
+ "aliases": [
+  "glass core substrate",
+  "TGV",
+  "ガラスコア基板"
+ ],
+ "context": "半導体後工程",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:07:27.778954+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ガラス基板市場規模、シェア&分析レポート、2025年~2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のガラス基板市場は、2024年に72億米ドルと推定され、2025年から2034年にかけて年平均成長率3.7%で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板市場規模、タイプ別、2021年~2034年(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国ガラス基板市場規模、2021年~2034年(百万米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のガラス基板市場は、2024年に9億9230万米ドルの収益を創出しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は年平均成長率3.9%で成長し、2034年までに15億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のガラス基板市場は、国内の消費増加により、2025年から2034年にかけて有望な成長を経験すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端半導体パッケージングの進展に伴い、ガラスコア基板市場は急成長を遂げ、2035年には81億4,000万米ドルに達する見通し - CNET Japan - CNET Japan",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "先端半導体パッケージングの進展に伴い、ガラスコア基板市場は急成長を遂げ、2035年には81億4,000万米ドルに達する見通し",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "市場分析によると、市場規模は2025年に2億90万米ドルと推定され、2035年には81億4,080万米ドルに達すると予測されています",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年の2億900万米ドルから2035年には81億4,000万米ドルへと拡大すると予測されており、この技術は将来のチップ・アーキテクチャを支える上でますます重要な役割を果たすと期待されています",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "分析として、市場規模・シェア・成長率、2032年までの予測、主要メーカー、CTEクラス・用途・地域別の需要を網羅します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "2025年市場規模",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "推計 ・ レンジ 3.4–4.2億ドル ・ 検証済データ",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "5.5–6.2億ドルのレンジ",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（2025年）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "（キャリア消耗品ベース、レンジ 3.40–4.15億ドル）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "約5.5–6.2億ドル",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "は、しばしば混同される数十億ドル規模のガラス基板／インターポーザ市場ではなく、狭いスペシャルティ市場（ハウス値で約4億87万ドル）です",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "「ガラスキャリア」を30〜33億ドル、さらには280億ドルとする第三者の数字が見つかります",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ当社のハウス基準は30億ドルではなく約4億87万ドルに置かれます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "（レンジ 3.40–4.15億ドル）と見積もります",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模の推移、2022〜2032年",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年 | KD Market Insights Private Limited | 半導体/MEMS/ディスプレイのWEBEXHIBITION（WEB展示会）による製品・サービスのマッチングサービス SEMI-NET（セミネット）",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板市場規模は、2033年までに26億ドルに達し、年平均成長率4.4％で成長すると予測されている",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年 へのお問い合わせ",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の半導体パッケージ基板材料世界市場規模（メーカー出荷金額ベース）は前年比108.7%の3,982億2,900万円であった",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "​半導体パッケージ基板材料市場はこのような半導体市場の動きに概ね連動しており、2023年の半導体パッケージ基板材料世界市場規模は前年比95.6%の3,665億1,800万円と前年を下回る結果となった",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2024年はメモリ向けや車載向け半導体など一部で回復が遅れているものの、パッケージ基板の大型化に伴う反り抑制を目的としたFC-BGA（Flip Chip-Ball Grid Array）基板のコア厚膜化によるCCLの販売単価上昇や、GPUやASICなどのAIアクセラレータ需要の増加に伴うFC-BGA基板向け材料の拡大、多層形成等を必要とする最先端パッケージにおける再配線材料の採用拡大などで2024年の市場はプラスに転じた",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降も半導体パッケージ基板材料世界市場は年率108～110%程度の成長が見込まれる",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "1) 市場規模推移",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の半導体市場は非常に好調である",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) 市場規模推移",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ基板材料市場、2026年は2桁成長：2024年市場はプラス成長に転じる - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年市場はプラス成長に転じる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ基板材料の世界市場は、2024年に3982億2900万円となった",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品セグメント別では、CCL市場が2224億2300万円、ビルドアップフィルム市場が542億5000万円、液状ソルダーレジスト市場は36億500万円、ソルダーレジストフィルム市場は216億5000万円、バッファコート材料市場は288億5100万円、再配線材料市場は674億5000万円であった",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "車載用リチウムイオン電池（LiB）の世界市場規模（容量ベース）は、2024年見込みの941GWhに対し、2025年は1064GWhの規模となる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は半導体需要におおむね連動しており、2025年以降は多くの品目において3〜8％程度のプラス成長と予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "スピントロニクスデバイス市場、2045年に10兆円台へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "スピントロニクスデバイスの世界市場は、2025年予測の5990億円に対し、2045年は10兆6540億円規模に達する見通しである",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "ADAS／自動運転用センサー、30年に約3.7兆円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "ADAS（先進運転支援システム）／自動運転用センサーの世界市場は、2030年に約3兆7000億円規模に達する見通しだ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーダーやカメラを中心に、今後も車載用センサーの需要は拡大し、2023年見込みに比べ約2.4倍の市場規模となる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "2031年の市場規模は、ミニLEDディスプレイが5796万4000台、マイクロLEDディスプレイは2138万台となり、全体で約7934万台に達すると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代電池市場、2035年は7兆2763億円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所は、主要9種類の次世代電池世界市場（メーカー出荷額ベース）を調査し、2035年までの市場規模予測を発表した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の半導体パッケージ基板材料の世界市場規模（金額ベース）は4,774億84百万円と予測",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "【表】半導体パッケージ基板材料 世界市場規模推移（2022～2024年、2025年見込み、2026年予測）",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・2024年の半導体パッケージ基板材料市場規模を398,229百万円と推計 AIアクセラレータ需要や最先端パッケージ材料の拡大などを背景に2025年以降もプラス成長",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "Sigmaintellの予測によれば、世界の半導体先端パッケージング市場は2026年に587億ドル（約9.4兆円）に達し、前年比97%増となる見通しで、供給不足は2027年まで続くという",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "インテルは33億ドル（約5,300億円）を投じて半導体ガラス基板工場を建設する",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "TGVプロセス工程では、沃格光電（603773.SS）の半導体関連製品技術は依然として研究開発検証またはサンプル評価段階にあり、規模化した量産には至っておらず、昨年および今年第1四半期にそれぞれ1.58億人民元（約35億円）、5,110万人民元（約10億円）の純損失を計上した",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "調査機関Yoleのデータによると、2024年の先端ICキャリア基板市場規模は約142億ドル（約2.3兆円）で、AI/HPC、ハイエンドICキャリア基板、ガラスコア基板などの需要に牽引され、先端ICキャリア基板関連技術の市場規模は2030年に約310億ドル（約5兆円）に達する見通しだ",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "一方、シリコンインターポーザーの市場規模は、2024年の約20億ドル（約3,200億円）から2030年には約16億ドル（約2,600億円）に縮小すると予測されている",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "「先端半導体パッケージング用ガラス基板パッケージング装置の世界市場」調査資料（国内市場規模も記載）を発行、年平均31.1%で成長する見込み - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "「先端半導体パッケージング用ガラス基板パッケージング装置の世界市場」調査資料（国内市場規模も記載）を発行、年平均31.1%で成長する見込み",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のガラス基板市場は、2024年に72億米ドルと推定され、2025年から2034年にかけて年平均成長率3.7%で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025年~2034年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ホウケイ酸セグメントは、化学的安定性、高い耐熱性、高い耐久性といった優れた特性により、2021年に20億米ドル、2024年に22億米ドルの収益を4%のCAGRで創出しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は年平均成長率3.9%で成長し、2034年までに15億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025 – 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板の市場規模は、2024年には72億米ドルと評価され、2034年までに約103億米ドルに達すると予想されており、2034年までの年平均成長率は3.7%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は44.8%と、目覚ましい成長が見込まれています",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年の2億900万米ドルから2035年には81億4,000万米ドルへと拡大すると予測されており、この技術は将来のチップ・アーキテクチャを支える上でますます重要な役割を果たすと期待されています",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "分析として、市場規模・シェア・成長率、2032年までの予測、主要メーカー、CTEクラス・用途・地域別の需要を網羅します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026–2032",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2026–2032）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRはレンジで示し、確定2032年ベースケースは独自情報です",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "RP-IASは、この市場のすべてのサブセグメントを、予測成長率、収益性の代理指標、競争強度を組み合わせて0〜100のスケールで評価し、市場のどこに収益機会があるかを示します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "CMOSイメージセンサーは確立した用途、FOWLPは最も成長が速く（方向性として年率約+9%、ブレンド率を上回る）、MEMSは安定、そしてRFフロントエンド、パワーデバイス、シリコンフォトニクス、3Dロジック／メモリにまたがる多様化する「その他」区分があります",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までの方向性ハウスCAGR：北米（約5.80%）、欧州（約5.40%）、アジア太平洋（約5.90%）、日本（約4.00%）、韓国（約3.70%）、中国（約12.10%）、米国（約6.10%）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "注：中国の突出した12.10%のハウスCAGRは、低いベースと国産化の推進を反映します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板市場規模は、2033年までに26億ドルに達し、年平均成長率4.4％で成長すると予測されている",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の半導体パッケージ基板材料の世界出荷金額は前年比108.7%の4,327億5,000万円と見込む",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の半導体パッケージ基板材料世界市場規模（メーカー出荷金額ベース）は前年比108.7%の3,982億2,900万円であった",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の新型コロナウイルス感染拡大以降、在宅勤務（テレワーク）やオンライン授業によるスマートフォン、PCなどのIT関連機器の需要増加に加え、テレワークの推進等によるデータ通信量の飛躍的な増大を背景にデータセンターなどへの大型投資が相次いだことで半導体需要は急速に拡大した",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "​半導体パッケージ基板材料市場はこのような半導体市場の動きに概ね連動しており、2023年の半導体パッケージ基板材料世界市場規模は前年比95.6%の3,665億1,800万円と前年を下回る結果となった",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2024年はメモリ向けや車載向け半導体など一部で回復が遅れているものの、パッケージ基板の大型化に伴う反り抑制を目的としたFC-BGA（Flip Chip-Ball Grid Array）基板のコア厚膜化によるCCLの販売単価上昇や、GPUやASICなどのAIアクセラレータ需要の増加に伴うFC-BGA基板向け材料の拡大、多層形成等を必要とする最先端パッケージにおける再配線材料の採用拡大などで2024年の市場はプラスに転じた",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降も半導体パッケージ基板材料世界市場は年率108～110%程度の成長が見込まれる",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "2.5Dパッケージは、インターポーザーサイズ拡大に伴いSiブリッジタイプの採用が増加している",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "今後もチップレット搭載数増加に伴うインターポーザーサイズ拡大が進む見込みであり、取れ枚数を増やすため、300mmウェハから、よりワークサイズの大きい□300mm〜□600mmのパネルサイズでの生産に向けた開発が進められている",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降は、さらなる市場拡大が期待される",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のメーカー出荷金額は、前年比108.7％の4327億5000万円を見込む",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "前年比108.7％である",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、市場全体は2023年のマイナス成長（前年比95.6％）からプラスに転じた",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーダーやカメラを中心に、今後も車載用センサーの需要は拡大し、2023年見込みに比べ約2.4倍の市場規模となる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2024年の半導体パッケージ基板材料市場規模を398,229百万円と推計 AIアクセラレータ需要や最先端パッケージ材料の拡大などを背景に2025年以降もプラス成長",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・三菱ガス化学、レゾナックのトップ2社がCCLの生産能力を倍増 パナソニックインダストリーでは中国拠点の活用により、中国自国化路線に対しシェアを維持",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・2024年4月、太陽インキは嵐山事業所内に技術開発センター「InnoValley」を開設 レゾナックでは2024年6月に山崎事業所を増強し、SR-Fシリーズの生産能力を拡大",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・旭化成は2024年にパイメル™の生産能力を倍増し、先端半導体プロセス向けの生産体制を拡充 大手OSAT向けのFO-WLP/PLPに強みを有するFFEMもベルギー拠点の増強を実施",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "Sigmaintellの予測によれば、世界の半導体先端パッケージング市場は2026年に587億ドル（約9.4兆円）に達し、前年比97%増となる見通しで、供給不足は2027年まで続くという",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "消耗材分野では、天承科技（688603.SS）が5月、TGV電気めっき添加剤の量産出荷を開始し徐々に拡大していると発表し、現在顧客の量産計画に合わせて産業化プロセスを推進中である",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "これまで半導体の処理能力向上と消費電力低減は「半導体集積回路におけるトランジスタの集積密度は2年ごとに2倍になる」というムーアの法則にしたがった半導体前工程における微細化技術によって達成されてきた",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "「先端半導体パッケージング用ガラス基板パッケージング装置の世界市場」調査資料（国内市場規模も記載）を発行、年平均31.1%で成長する見込み - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "「先端半導体パッケージング用ガラス基板パッケージング装置の世界市場」調査資料（国内市場規模も記載）を発行、年平均31.1%で成長する見込み",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "*****「先端半導体パッケージング用ガラス基板パッケージング装置の世界市場」調査資料（国内市場規模も記載）を発行、年平均31.1%で成長する見込み *****",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の先端半導体パッケージング用ガラス基板パッケージング装置市場は、AIアクセラレータ、高性能コンピューティング（HPC）、チップレット、2.5D／3D実装、コパッケージドオプティクス（CPO）などの需要拡大を背景に、急速な成長が見込まれています",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界市場規模は2億6,800万米ドルで、2032年には32億3,200万米ドルへ拡大すると予測されており、予測期間中の年平均成長率（CAGR）は31.1％です",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、サーバーやデータセンター向けのFC-BGA（フリップチップボールグリッドアレイ）*³ のICサブストレートサイズは、2022年の56mm×100mmから、2026年には120mm×120mmへと拡大し、将来的にはさらなる大型化が予想されます",
+    "url": "https://www.inrevium.com/pickup/glass-core-substrate/",
+    "pass": 3
+   },
+   {
+    "quote": "Reutersの2026年8月13日付報道によると、Applied Materialsは同年のパッケージ関連売上高が前年比70%超伸びる見通しを示しました",
+    "url": "https://jioinc.jp/investleaders/glass_toush/",
+    "pass": 3
+   },
+   {
+    "quote": "The global glass substrate advanced packaging market was valued at USD 2 billion in 2025. The market is expected to grow from USD 2.2 billion in 2026 to USD 3.2 billion in 2031 & USD 4.7 billion in 2035, at a CAGR of 8.9% during the forecast period according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fused silica/quartz is the fastest-growing material category, rising at approximately 10.28% CAGR from USD 340.53 million in 2025 to USD 898.30 million in 2035. SCHOTT's low-loss glass, specified with a dielectric constant of 4.0 and loss tangent of 0.0021 at 10 GHz, addresses high-speed digital and 5G/6G-related requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Specialty engineered glasses represent the smallest material segment, growing from USD 198.36 million in 2025 to USD 416.06 million in 2035 at approximately 7.79% CAGR. Their role is tied to narrow functional requirements, including low-alkali behavior, optical properties, or tailored bonding compatibility, rather than broad-volume substitution.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fan-out wafer-level packages grow at approximately 7.98% CAGR, from USD 398.59 million in 2025 to USD 851.02 million in 2035. Here, glass can be adopted first as a carrier that improves process stability, providing a lower-risk entry point than a full glass-core conversion.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Co-packaged optics/photonics packages are the fastest-growing architecture, at approximately 15.14% CAGR, increasing from USD 160.07 million in 2025 to USD 661.91 million in 2035. The segment's growth reflects the convergence of optical-waveguide performance and high-bandwidth electrical routing in a single substrate platform.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "TGV is the largest interconnect category, valued at USD 1.04 billion in 2025 and projected to reach USD 2.26 billion in 2035 at approximately 8.20% CAGR. It provides the vertical routing function that differentiates glass-core designs. The remaining commercial challenge is scalable, void-controlled copper fill at small diameters and high aspect ratios.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "RDL is the slowest-growing interconnect category, rising at approximately 6.58% CAGR from USD 579.06 million in 2025 to USD 1.08 billion in 2035. It serves designs that require stable lateral routing but do not need full vertical penetration through the glass core.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Telecommunications grows at approximately 8.07% CAGR, from USD 439.40 million in 2025 to USD 945.58 million in 2035. Low-loss glass is relevant to high-frequency networking and radio-frequency applications, where signal attenuation can narrow the design margin.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer electronics is the third-largest segment, rising from USD 574.35 million in 2025 to USD 1.04 billion in 2035 at approximately 6.19% CAGR. Cost-sensitive device categories are more likely to adopt glass first in carrier applications than in full glass-core packages until panel-scale yields and costs are better established.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is valued at USD 170.13 million in 2025 and USD 346.08 million in 2035; South Korea rises from USD 151.99 million to USD 392.23 million, and China from USD 339.89 million to USD 842.14 million. India is the fastest-growing country market, increasing from USD 129.30 million in 2025 to USD 392.23 million in 2035 at approximately 11.80% CAGR, as packaging capacity develops from a smaller base.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 4.7 billion by 2035, growing at a CAGR of 8.9% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.23%",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Glass Substrate For Semiconductor Packaging Market was valued at USD 1,126.22 Million in 2024 and is projected to reach USD 2,252.09 Million by 2032, growing at a CAGR of 9.23% during the forecasted period 2026 to 2032.",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 17.2% · 2023 → 2027",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Glass Substrate for Semiconductor Packaging Market Analysis 2026: Revenue, Volume, Market Size, Share, CAGR, Growth Trends, Competitor Analysis, Historic Data, and Forecast to 2034",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "世界のガラス基板業界内には激しい競争があり、いくつかの主要企業が大きな市場シェアを保持し、小規模企業はニッチセグメント内で競争しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業は戦略的提携、合弁事業、合併・買収を通じたパートナーシップを追求し、市場シェアと技術力を拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月、Samsung Electro-Mechanicsは半導体ガラス基板市場への参入を加速し、装置の調達と設置を9月に前倒しし、第4四半期にパイロットラインの稼働を開始しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、Absolics、AGC、Applied Materials、Corning、Guardian Industries、HOYA Corporation、Kyodo International、日本電気硝子、NOVA Electronic Materials、Ohara、Saint-Gobainなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラスコア基板市場の主要企業",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "● その他主要企業",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "★ 参入レーダー",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "方向性としては、セカンドソース化が遅いため既存勢が価格決定力を保持しますが、パネルフォーマットの参入者と中国の国産化が、標準的なCTEクラスに対する早期の下押し圧力となっています",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "集中度は十分に高く、2032年までにシェアを塗り替え得る主因は、セカンドソース戦略とパネルフォーマットの参入者です",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "次にこの市場へ参入する可能性が最も高いのは誰か、そしてそれを知らせるシグナル",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "この市場に参入し得る能力を持つ隣接企業を、文書で確認できる隣接性（共通の投入物、共通の販売チャネル、転用可能な技術、重なる顧客層）と、特許ファミリー、生産能力の発表、採用動向、認証取得といった日付付きの公開シグナルによって選別します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "ウォッチリストと、どのシグナルが最初に参入へ転じるかという当社の見立ては完全版レポートに収録しています",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージング向けガラスキャリア市場の主要企業はどこか",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越孝）は、半導体パッケージ基板材料世界市場の動向を調査し、製品セグメント別の動向、参入企業動向、将来展望を明らかにした",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージ基板材料に対しても有機コア基板とは異なるニーズや要求スペックが生じることで、材料メーカーとしては新たな材料開発と市場参入のチャンスとなる",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "1) 参入メーカーおよび採用動向",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "7. 参入メーカー一覧",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1) 主要参入メーカー生産拠点一覧",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "これらアドバンスドパッケージのタイプ別や用途別の市場動向、各種工程における材料／装置とプロセス改善点、技術動向、参入メーカー各社の動向などをまとめた",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) 参入メーカーおよび採用動向",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "7. 参入メーカー一覧",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) 主要参入メーカー生産拠点一覧",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ基板材料メーカーの新の開発動向、市場規模予測や参入各社の動向を網羅した調査資料",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向（2022年～2026年）、技術動向、参入各社の開発動向などマーケティングに必要な情報を掲載",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・半導体材料における既存サプライチェーンへの参入障壁は非常に高いがパッケージデザインの一新など、従来の延長線上にないニーズの変化が参入のチャンス",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・ガラスコア基板の本格化を新規参入のチャンスと捉え、同用途向けの材料開発が活発化 AFT、積水化学のほか、住友ベークライト、三菱ガス化学なども参入を目指す",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "この発言は、中国メーカーがガラス基板パッケージングへの参入切符を争う際に直面する共通の課題、すなわち歩留まり向上、装置・材料の国産化、そして海外大手との競争と協調の関係を浮き彫りにしている",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカーにとって、参入切符の獲得は第一歩に過ぎず、歩留まりのブレークスルーとコスト管理こそが、AI先端パッケージングの盛宴で分け前にあずかれるかどうかを決する真の試練である",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "FOPLPの製造事業者としては既に生産を行っているサムスン電子の他、TSMC、Rapidus等のファウンドリが参入を表明している",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、これまで半導体に関わってこなかったジャパンディスプレイ（JDI）、イノラックス等の液晶ディスプレーパネルメーカーも大型パネル製造技術を生かして参入を表明している",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業にはApplied Materials、Canon、KLA、Lam Research、TRUMPF、SCREEN Holdings、Nikon、MKS、Ushio、EBARA、Onto Innovation、ACM Research、LPKF Laser & Electronicsなどが含まれます",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "技術的ボトルネック、コスト制限、高い参入障壁など、先端半導体パッケージング用ガラス基板パッケージング装置が直面する主な課題を特定し分析しています",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "・主要企業のプロフィールを含め、企業の販売量、売上、価格、粗利益率、製品紹介、最近の開発など、市場における主要企業の基本的な状況を詳しく紹介",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Glass Substrate Advanced Packaging Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in glass substrate advanced packaging market?",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in glass substrate advanced packaging market include AGC Inc., Corning, SCHOTT, HOYA Corporation, Plan Optik.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market dynamics here are driven by federal initiatives like the CHIPS Act, which has accelerated the development of domestic advanced packaging facilities. Key players such as Intel are leading the charge with path finding lines in Arizona, positioning the U.S. as a leader in \"first to market\" high performance AI accelerators.",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the Glass Substrate For Semiconductor Packaging Market are:",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape which incorporates the market ranking of the major players, along with new service/product launches, partnerships, business expansions, and acquisitions in the past five years of companies profiled",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The major players are market are Corning, Agc Inc., Plan Optik Ag, Tecnisco Ltd, Ohara Corporation, Intel Corporation, Skc Ltd.",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape & market mapping",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", shaped by how quickly leading players can translate material innovation into scalable manufacturing.",
+    "url": "https://iebrain.com/the-rise-of-glass-core-substrates-market-trends-adoption-and-value-chain-dynamics/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Their Recent Activities Driving the Industry",
+    "url": "https://iebrain.com/the-rise-of-glass-core-substrates-market-trends-adoption-and-value-chain-dynamics/",
+    "pass": 3
+   },
+   {
+    "quote": "The last 12–18 months mark a clear shift from exploration to execution, with leading players moving beyond evaluation into",
+    "url": "https://iebrain.com/the-rise-of-glass-core-substrates-market-trends-adoption-and-value-chain-dynamics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid adoption of panel-level packaging (PLP) by major players to drive down costs.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Master the competitive dynamics of the Electronics and Electrical Market market with our in-depth intelligence report. We provide a 360-degree view of the competitive landscape, empowering you to identify threats, capitalize on competitor weaknesses, and refine your market positioning strategy on both a global and regional scale.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Global Glass Substrate for Semiconductor Packaging Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Segment Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America Glass Substrate for Semiconductor Packaging Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe Glass Substrate for Semiconductor Packaging Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Glass Substrate for Semiconductor Packaging Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "South America Glass Substrate for Semiconductor Packaging Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East Glass Substrate for Semiconductor Packaging Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Absolics、AGC、Applied Materials、Corning、Guardian Industries、HOYA Corporation、Kyodo International、Nippon Electric Glass、NOVA Electronic Materials、Ohara、Saint-Gobain、Samsung Display、SCHOTT、Shin-Etsu Chemical、TOPPAN",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アジア太平洋地域は、中国、日本、韓国における主要なディスプレイおよび太陽光パネル製造企業の高い集中度により、ガラス基板市場で最大のシェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、Absolics、AGC、Applied Materials、Corning、Guardian Industries、HOYA Corporation、Kyodo International、日本電気硝子、NOVA Electronic Materials、Ohara、Saint-Gobainなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "先端半導体パッケージングの進展に伴い、ガラスコア基板市場は急成長を遂げ、2035年には81億4,000万米ドルに達する見通し - CNET Japan - CNET Japan",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to CNET Japan",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "● 京セラ株式会社",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "● 日本電気硝子株式会社",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "御社のプレスリリース・イベント情報を登録するには、ZDNET Japan企業情報センターサービスへのお申し込みをいただく必要がございます",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan 注目ヘッドライン",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリが「2四半期連続のMAU減少」を恐れない理由--日本事業責任者が語る【インタビュー】",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan is operated by 4X Corp under license from Ziff Davis.",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて HOYA、PlanOptik、LG Innotek、Tecnisco、信越化学、Lintec",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（OSAT・ファウンドリの先端パッケージング：台湾、韓国、日本、中国）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "が、米国・EU・日本・韓国で先端パッケージング能力に資金を供給します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "少数の特殊ガラス大手、Corning、AGC、SCHOTT、NEGが認定数量の大半を握り、HOYA、PlanOptik、LG Innotek、Tecnisco、信越化学、Lintecがスペシャリスト・地域ニッチを埋めます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "残りの企業群、Tecnisco ・ 信越化学 ・ Lintec ・ その他",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子（NEG）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "プラズマデボンドやレーザーリフトで日本の装置メーカーとコンソーシアムを形成",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "需要強度が最も高いのは、先端パッケージング能力が集積する地域です：台湾・韓国（ファウンドリ・メモリの先端パッケージング）、日本（精密ガラスとヘテロジニアス集積のパイロット）、米国（CHIPS法出資の2.5D/3Dキャンパス）、中国（国家支援の国産化）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は、そのOSAT・ファウンドリの先端パッケージング基盤（台湾、韓国、日本、中国）を通じて需要を支えます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "北米はCHIPS法出資の2.5D/3D能力で成長し、欧州は車載グレードの実績と環境適合組成でシェアを守り、日本と韓国はそれぞれ精密ガラスの伝統とメモリ／AIパッケージングに強みを持ちます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までの方向性ハウスCAGR：北米（約5.80%）、欧州（約5.40%）、アジア太平洋（約5.90%）、日本（約4.00%）、韓国（約3.70%）、中国（約12.10%）、米国（約6.10%）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "Corning（米国）、AGC（日本）、SCHOTT（ドイツ）、NEG（日本）が先行し、HOYA、PlanOptik、LG Innotek、Tecnisco、信越化学、Lintecが続きます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "OSAT・ファウンドリの先端パッケージング集積（台湾、韓国、日本、中国）によります",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板市場の主要地域は北米、欧州、アジア太平洋地域であり、アジア太平洋地域は中国、日本、韓国などの主要半導体メーカーの存在によりリードしている",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の主要プレーヤーには、コーニング社、ショットAG、NEG（日本電気硝子株式会社）などがある",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "私たちKD Market Insightsは、日本発のマーケットリサーチとコンサルティングのリーディングカンパニーとして、世界中の日本企業に実用的なマーケットインテリジェンスをお届けしています",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケア・医薬品から消費財・小売、IT・通信から食品・飲料、化学・先端素材から電力・エネルギーに至るまで、KDマーケットインサイツの長年の調査ノウハウは、日本企業の皆様に実用的なマーケット・インテリジェンスをお届けします",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "【こちらは終了いたしました】SEMI-NET 半導体業界シンポジウム〜トップスピーカーがデバイス・装置・材料の観点から日本の半導体産業の現状と将来を考える〜のご案内",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "将来起こりうる変化を見据えた技術開発の継続こそが、今の日本メーカーの競争力の源泉となっている",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "現状、半導体パッケージ基板材料は日本メーカーが市場の大部分を抑えている",
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ基板材料市場、2026年は2桁成長：2024年市場はプラス成長に転じる - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "電源設計（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは日本を救うのか",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japanについて",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "・三菱ガス化学、レゾナックのトップ2社がCCLの生産能力を倍増 パナソニックインダストリーでは中国拠点の活用により、中国自国化路線に対しシェアを維持",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・FC-BGA向けCCL市場ではレゾナックが先行し、三菱ガス化学・パナソニックが追随 ガラスコア基板・光電融合などの次世代パッケージ向け材料のほか、対抗材料の開発も加速",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・ガラスコア基板の本格化を新規参入のチャンスと捉え、同用途向けの材料開発が活発化 AFT、積水化学のほか、住友ベークライト、三菱ガス化学なども参入を目指す",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・2024年4月、太陽インキは嵐山事業所内に技術開発センター「InnoValley」を開設 レゾナックでは2024年6月に山崎事業所を増強し、SR-Fシリーズの生産能力を拡大",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・欧米を中心とした環境ニーズの高まりを背景に、材料のNMP・PFASフリー化が進む 東レは機能性PI設計技術を駆使し、NMP以外の溶媒でPIを合成する技術を確立",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・株式会社レゾナック",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・三菱ガス化学株式会社",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・住友ベークライト株式会社",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・東レ株式会社",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "サムスンは住友化学と連携して中核材料を布陣し、2027年以降に量産を開始する",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "半導体後工程における基板材料の進化｜日本総研",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "日本総研ニュースレター",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済展望",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "日本総研グループ",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、精密加工や機能性材料における条件だしや調整のノウハウを有し、すり合わせを得意としている日本の半導体関連の装置・材料メーカーにとってビジネスチャンスとなる可能性が高い",
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ガラス基板市場規模、シェア&分析レポート、2025年~2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板市場収益シェア、最終用途産業別(2024年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、エレクトロニクスセグメントは、民生用電子機器の需要増加と技術革新により、38.6%のシェアを占め、主要な市場シェアを保持しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "分析として、市場規模・シェア・成長率、2032年までの予測、主要メーカー、CTEクラス・用途・地域別の需要を網羅します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "集中度は十分に高く、2032年までにシェアを塗り替え得る主因は、セカンドソース戦略とパネルフォーマットの参入者です",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "Concentration Trackerは、集中度の段階（分散・中程度・集中）に加え、より重要な変化の方向、つまり市場が統合に向かっているのか分散に向かっているのかを、プロファイル対象企業のCR3・CR5・CR10とHHIから算出して記録します",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "北米はCHIPS法出資の2.5D/3D能力で成長し、欧州は車載グレードの実績と環境適合組成でシェアを守り、日本と韓国はそれぞれ精密ガラスの伝統とメモリ／AIパッケージングに強みを持ちます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年 | KD Market Insights Private Limited | 半導体/MEMS/ディスプレイのWEBEXHIBITION（WEB展示会）による製品・サービスのマッチングサービス SEMI-NET（セミネット）",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ用ガラス基板の市場規模、シェア、成長、メーカー 2033年 へのお問い合わせ",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "pass": 3
+   },
+   {
+    "quote": "2) メーカーシェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "5. メーカーシェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "6. メーカーシェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1) 出荷数量/金額シェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2) 用途別出荷金額シェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2) メーカーシェア",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "5. メーカーシェア",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "6. メーカーシェア",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) 出荷数量／金額シェア",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2) 用途別出荷金額シェア",
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "pass": 3
+   },
+   {
+    "quote": "・三菱ガス化学、レゾナックのトップ2社がCCLの生産能力を倍増 パナソニックインダストリーでは中国拠点の活用により、中国自国化路線に対しシェアを維持",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "・ABFは1999年の採用以降、技術力、サポート力、供給安定性を強みに高シェアを維持 積水化学は低誘電特性や大型パッケージへの信頼性に優れ、ハイエンドFC-BGA基板での実績",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "徳龍激光（688170.SS）は基板マイクロビア加工などのレーザーソリューションを提供できるが、関連事業の全体収入に占める割合は小さい",
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Glass Substrate Advanced Packaging Market Share, By End-User Industry, 2025 (%)",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "The supply base is moderately concentrated. AGC holds an estimated 21.5% of the market in 2025, followed by Corning at 18.7%, SCHOTT at 15.4%, HOYA Corporation at 10.7%, and Plan Optik at 6.5%. Competitive advantage combines glass chemistry, panel quality, TGV capability, process-integration partnerships, and access to customer qualification programs.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the glass substrate advanced packaging market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United States serves as the primary innovation engine for the glass substrate market, holding a substantial market share of approximately 30 35% of global R&D expenditure.",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The United States, holding approximately 15.17% of the global market share in 2025, is the dominant force in North America, driven by its leadership in fabless semiconductor design, R&D, and advanced packaging innovation. Canada accounts for about 2.40% of the global market, while Mexico holds a 1.48% share, largely supporting the integrated North American electronics supply chain.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Country-Specific Insight: The Middle East is an aspiring technology hub. In 2025, Saudi Arabia and the UAE are the leading markets, holding approximately 0.99% and 0.64% of the global market share, respectively. These nations are investing heavily in diversifying their economies away from oil, with a focus on technology, smart cities, and advanced communications infrastructure.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Middle East is an aspiring technology hub. In 2025, Saudi Arabia and the UAE are the leading markets, holding approximately 0.99% and 0.64% of the global market share, respectively. These nations are investing heavily in diversifying their economies away from oil, with a focus on technology, smart cities, and advanced communications infrastructure.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Country-Specific Insight: The African market is nascent. South Africa is the largest regional player, holding about 1.52% of the global market share in 2025, driven by its relatively developed industrial and communications infrastructure. Nigeria follows with a much smaller global share of approximately 0.56%, linked to its growing telecommunications and consumer markets.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The African market is nascent. South Africa is the largest regional player, holding about 1.52% of the global market share in 2025, driven by its relatively developed industrial and communications infrastructure. Nigeria follows with a much smaller global share of approximately 0.56%, linked to its growing telecommunications and consumer markets.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is the undisputed leader, representing the largest market share and the highest growth rate (9.731% CAGR), fueled by its unparalleled manufacturing ecosystem.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "over 2027–2036. Asia-Pacific is the largest market, with an estimated ~78% of 2026 revenue, as glass-making expertise and semiconductor back-end manufacturing remain concentrated across Japan, South Korea, Taiwan and China.",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated 2026 market shares are presented for five non-overlapping geographic regions; region refers to substrate material revenue allocation rather than finished device demand.",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4 Top 3 and Top 5 Glass Substrate for Semiconductor Packaging Companies in Global Market, by Revenue in 2024",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.3 Segmentation by Type – Global Glass Substrate for Semiconductor Packaging Revenue Market Share, 2026-2034",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.3 Segmentation by Application – Global Glass Substrate for Semiconductor Packaging Revenue Market Share, 2026-2034",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "6.2.3 By Region – Global Glass Substrate for Semiconductor Packaging Revenue Market Share, 2026-2034",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Table 9. List of Global Tier 1 Glass Substrate for Semiconductor Packaging Companies, Revenue (US$, Mn) in 2024 and Market Share",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Table 10. List of Global Tier 2 and Tier 3 Glass Substrate for Semiconductor Packaging Companies, Revenue (US$, Mn) in 2024 and Market Share",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 8. The Top 3 and 5 Players Market Share by Glass Substrate for Semiconductor Packaging Revenue in 2024",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 10. Segmentation by Type – Global Glass Substrate for Semiconductor Packaging Revenue Market Share, 2026-2034",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 12. Segmentation by Application – Global Glass Substrate for Semiconductor Packaging Revenue Market Share, 2026-2034",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 13. By Region – Global Glass Substrate for Semiconductor Packaging Revenue Market Share, 2026-2034",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The YES team determined that the etch rate and TGV profile are functions of the HF bath chemistry, acid concentration, and etching temperature, which can be tuned to achieve a highly selective etch (etch rate modified region/etch rate unprocessed glass) of 5:1.",
+    "url": "https://semiengineering.com/glass-substrates-gain-momentum/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "需要強度が最も高いのは、先端パッケージング能力が集積する地域です：台湾・韓国（ファウンドリ・メモリの先端パッケージング）、日本（精密ガラスとヘテロジニアス集積のパイロット）、米国（CHIPS法出資の2.5D/3Dキャンパス）、中国（国家支援の国産化）",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "北米はCHIPS法出資の2.5D/3D能力で成長し、欧州は車載グレードの実績と環境適合組成でシェアを守り、日本と韓国はそれぞれ精密ガラスの伝統とメモリ／AIパッケージングに強みを持ちます",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "pass": 3
+   },
+   {
+    "quote": "May 2024 - CHIPS Act preliminary terms for Absolics. The U.S. Department of Commerce announced preliminary terms for up to USD 75 million in direct funding to support Absolics' Covington, Georgia glass-substrate facility for advanced semiconductor packaging.",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "pass": 3
+   },
+   {
+    "quote": "The region is seeing increased investment in mid stream semiconductor assembly and testing. Current trends include the adoption of glass reinforced substrates in industrial automation and the expanding 5G infrastructure.",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Significant investment in smart city projects, 5G infrastructure, and data centers.",
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "UAE advanced-technology investment efforts continued in April 2025",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", Brazilian ministry September 2024 R$24.8 billion announced private semiconductor R&D and factory investment.",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", Saudi PIF 1 February 2024 Alat electronics and advanced industry investment plans.",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", UAE state news agency 12 April 2025 advanced-technology and semiconductor ecosystem investment programme.",
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "pass": 3
+   },
+   {
+    "quote": "[Investment Map] 15 Companies in the Glass Substrate Cycle: From Material to Mass Production",
+    "url": "https://photoncap.net/p/investment-map-15-companies-in-the",
+    "pass": 3
+   },
+   {
+    "quote": ". The GVM Score is a framework I built for my own investment decisions. Of the 15 companies analyzed, I held existing positions in 3 before writing, and initiated positions in 2 additional companies immediately after constructing the GVM table. Which companies those are is disclosed inside the article.",
+    "url": "https://photoncap.net/p/investment-map-15-companies-in-the",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Funding: Q2 2026",
+    "url": "https://semiengineering.com/glass-substrates-gain-momentum/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ガラス基板市場規模 ・シェア予測2031年 - Mordor Intelligence — ガラス基板市場規模 ・シェア予測2031年 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板市場規模 、シェア&分析レポート、2025年~2034年 — ガラス基板市場規模 、シェア&分析レポート、2025年~2034年 Global Market Insights Inc. https://www.gminsights.com > glass-substrate-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ 用 ガラス基板市場 の 成長 と2026年から2033 ... — 半導体パッケージ 用 ガラス基板市場 の 成長 と2026年から2033 ... LinkedIn https://jp.linkedin.com > pulse > 半導体パッケージ用ガラ...",
+    "url": "https://jp.linkedin.com/pulse/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E5%9F%BA%E6%9D%BF%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE69-cagr%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%B8%BB%E8%A6%81%E5%9B%A0-cast-catch-9ytle",
+    "pass": 3
+   },
+   {
+    "quote": "半導体パッケージ基板 材料 市場 、2026年は2桁成長 — 半導体パッケージ基板 材料 市場 、2026年は2桁成長 EE Times Japan https://eetimes.itmedia.co.jp > articles > news054",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 — 2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 ヤノデータバンク https://www.ydb.jp > market_reports",
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 — 2025年版 半導体パッケージ基板 材料 市場 の展望と戦略 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > 【産業カテゴリ別】",
+    "url": "https://pr.mono.ipros.com/yano/product/detail/2001524437/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体ガラス基板 の関連銘柄4社｜実用化段階・株価・量産 ... — 半導体ガラス基板 の関連銘柄4社｜実用化段階・株価・量産 ... 日本投資機構株式会社 https://jioinc.jp > 関連銘柄 > 半導体関連",
+    "url": "https://jioinc.jp/investleaders/glass_toush/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "quote": "世界のガラス基板市場は、2024年に72億米ドルと推定され、2025年から2034年にかけて年平均成長率3.7%で成長すると予想されています"
+   },
+   {
+    "value": "3.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "quote": "中国市場は年平均成長率3.9%で成長し、2034年までに15億米ドルに達すると予測されています"
+   },
+   {
+    "value": "44.8",
+    "url": "https://japan.cnet.com/release/31194949/",
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は44.8%と、目覚ましい成長が見込まれています"
+   },
+   {
+    "value": "5.80",
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "quote": "2032年までの方向性ハウスCAGR：北米（約5.80%）、欧州（約5.40%）、アジア太平洋（約5.90%）、日本（約4.00%）、韓国（約3.70%）、中国（約12.10%）、米国（約6.10%）"
+   },
+   {
+    "value": "4.4",
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "quote": "半導体パッケージ用ガラス基板市場規模は、2033年までに26億ドルに達し、年平均成長率4.4％で成長すると予測されている"
+   },
+   {
+    "value": "31.1",
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "quote": "2025年の世界市場規模は2億6,800万米ドルで、2032年には32億3,200万米ドルへ拡大すると予測されており、予測期間中の年平均成長率（CAGR）は31.1％です"
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "quote": "The global glass substrate advanced packaging market was valued at USD 2 billion in 2025. The market is expected to grow from USD 2.2 billion in 2026 to USD 3.2 billion in 2031 & USD 4.7 billion in 2035, at a CAGR of 8.9% during the forecast period according to the latest report published by Global "
+   },
+   {
+    "value": "9.23",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "quote": "CAGR of 9.23%"
+   },
+   {
+    "value": "17.2",
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "quote": "CAGR 17.2% · 2023 → 2027"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/glass-substrate-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31194949/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semi-net.com/product/677cd6b17a57e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/253q03.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ydb.jp/market_reports/C66127100",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31215851/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inrevium.com/pickup/glass-core-substrate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jioinc.jp/investleaders/glass_toush/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/glass-substrate-market-21345916.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/glass-substrate-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/semiconductor-packaging-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-glass-substrate-semiconductor-packaging-market-strategic-research-report?srsltid=AYCX9vKHp_iJ99eC8WKihKFg5c2PlF-u4JpoliGhqxXIx84ox85R4rAD",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/4353885/glass-core-substrates-for-semiconductor-packaging",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iebrain.com/the-rise-of-glass-core-substrates-market-trends-adoption-and-value-chain-dynamics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.commerce.gov/news/press-releases/2025/01/us-department-commerce-announces-14-billion-final-awards-support-next",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://photoncap.net/p/investment-map-15-companies-in-the",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/146319-absolics-raises-400b-krw-to-commercialise-glass-substrates/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/glass-substrates-gain-momentum/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ガラス基板（半導体パッケージ） 市場規模 年平均成長率",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/glass-substrate-market",
+    "https://www.gminsights.com/ja/industry-analysis/glass-substrate-market",
+    "https://jp.linkedin.com/pulse/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E5%9F%BA%E6%9D%BF%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE69-cagr%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%B8%BB%E8%A6%81%E5%9B%A0-cast-catch-9ytle",
+    "https://japan.cnet.com/release/31194949/",
+    "https://www.reportprime.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%94%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-r4647",
+    "https://semi-net.com/product/677cd6b17a57e",
+    "https://straitsresearch.com/jp/report/semiconductor-substrate-market",
+    "https://www.sphericalinsights.com/jp/reports/glass-substrate-market",
+    "https://www.sdki.jp/reports/glass-substrate-market/109052",
+    "https://www.verifiedmarketreports.com/ja/product/glass-substrate-for-semiconductor-package-market/"
+   ]
+  },
+  {
+   "query": "ガラス基板（半導体パッケージ） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "http://www.yano.co.jp/press-release/show/press_id/3790?srsltid=AYCX9vLbs31hIwltVJvWZmTI7P70gQMIrU-rR4Ugth7-SricBrP_gURd",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=832506744&la=ja",
+    "https://www.fcr.co.jp/report/253q03.htm",
+    "https://eetimes.itmedia.co.jp/ee/articles/2505/12/news054.html",
+    "https://www.ydb.jp/market_reports/C66127100",
+    "https://pr.mono.ipros.com/yano/product/detail/2001524437/",
+    "https://japan.zdnet.com/release/31215851/",
+    "https://www.jms21.co.jp/pages/344/",
+    "https://note.com/semicontimes/n/ndbe9d73442c3"
+   ]
+  },
+  {
+   "query": "ガラス基板（半導体パッケージ） 参入 企業 国内",
+   "results": [
+    "https://finance.biggo.jp/news/gA5Dv54BJ9W2lKGkjG4q",
+    "https://www.jri.co.jp/column/opinion/detail/15822/",
+    "https://japan.zdnet.com/release/31215851/",
+    "https://www.inrevium.com/pickup/glass-core-substrate/",
+    "https://www.youtube.com/watch?v=s8FmZfxNY2g",
+    "https://jioinc.jp/investleaders/glass_toush/",
+    "https://semi-engineers.com/materials-glass/",
+    "https://aiinfra-lab.com/semiconductor-hbm/923/",
+    "https://note.com/toushi_gyousei/n/nea5795ad8049",
+    "https://note.com/semicontimes/n/n1bcb93ee930f"
+   ]
+  },
+  {
+   "query": "glass substrate semiconductor packaging market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "https://www.marketsandmarkets.com/Market-Reports/glass-substrate-market-21345916.html",
+    "https://www.mordorintelligence.com/industry-reports/glass-substrate-market",
+    "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "https://www.linkedin.com/pulse/glass-substrate-semiconductor-packaging-market-size-yl8vc",
+    "https://www.grandviewresearch.com/industry-analysis/semiconductor-packaging-market-report",
+    "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "https://www.qyresearch.com/reports/4353885/glass-core-substrates-for-semiconductor-packaging",
+    "https://www.precedenceresearch.com/semiconductor-packaging-market",
+    "https://dataintelo.com/report/global-glass-substrate-for-semiconductor-packaging-market"
+   ]
+  },
+  {
+   "query": "glass substrate semiconductor packaging market key players competitive landscape",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/glass-substrate-advanced-packaging-market",
+    "https://www.marketsandmarkets.com/Market-Reports/glass-substrate-market-21345916.html",
+    "https://www.marketresearchreports.com/reports/global-glass-substrate-semiconductor-packaging-market-strategic-research-report?srsltid=AYCX9vKHp_iJ99eC8WKihKFg5c2PlF-u4JpoliGhqxXIx84ox85R4rAD",
+    "https://www.qyresearch.com/reports/4353885/glass-core-substrates-for-semiconductor-packaging",
+    "https://www.linkedin.com/pulse/glass-substrate-semiconductor-packaging-market-size-yl8vc",
+    "https://www.verifiedmarketresearch.com/product/glass-substrate-for-semiconductor-packaging-market/",
+    "https://iebrain.com/the-rise-of-glass-core-substrates-market-trends-adoption-and-value-chain-dynamics/",
+    "https://www.cognitivemarketresearch.com/glass-substrate-for-semiconductor-packaging-market-report",
+    "https://www.mordorintelligence.com/industry-reports/glass-substrate-market",
+    "https://semiconductorinsight.com/report/glass-substrate-for-semiconductor-packaging-market/"
+   ]
+  },
+  {
+   "query": "glass substrate semiconductor packaging startup funding 2025",
+   "results": [
+    "https://www.commerce.gov/news/press-releases/2025/01/us-department-commerce-announces-14-billion-final-awards-support-next",
+    "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "https://photoncap.net/p/investment-map-15-companies-in-the",
+    "https://dealroom.co/news/146319-absolics-raises-400b-krw-to-commercialise-glass-substrates/",
+    "https://semiengineering.com/glass-substrates-gain-momentum/",
+    "https://www.reddit.com/r/AMD_Stock/comments/1e15gpa/amds_glass_substrate_chips_reportedly_launch/",
+    "https://www.idtechex.com/en/research-report/glass-in-semiconductors/1117",
+    "https://fuzehub.com/manufacturing-blog/glass-substrates-a-disruptive-economic-force/",
+    "https://attend.ieee.org/buss/program-2025/",
+    "https://www.qyresearch.com/reports/5510690/glass-substrate-for-semiconductor-packaging"
+   ]
+  }
+ ],
+ "missing": {}
+}

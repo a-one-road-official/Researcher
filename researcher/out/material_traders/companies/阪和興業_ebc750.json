@@ -1,0 +1,1317 @@
+{
+ "name": "阪和興業",
+ "aliases": [
+  "Hanwa"
+ ],
+ "context": "鉄鋼・非鉄・素材の独立系商社（上場）",
+ "researched_at": "2026-11-02T17:07:41.634736+00:00",
+ "official_url": "https://www.hanwa.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　立",
+    "value": "昭和22年（1947年）4月1日",
+    "url": "https://www.hanwa.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,820名　（連結：6,079名） ※2026年3月31日時点",
+    "url": "https://www.hanwa.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（百万円）",
+    "value": "2,164,049 2,668,228 2,431,980 2,554,514 2,662,669",
+    "url": "https://www.hanwa.co.jp/ir/finance/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "輸入鋼材 岸壁在庫推移表（PDF：",
+    "url": "https://www.hanwa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "鋼板、条鋼、形鋼、鋼管、建材など多種多様な製品群を有し、あらゆる業界のお客様のあらゆるニーズにお応えしています",
+    "url": "https://www.hanwa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種金属製品に加えて、アルミニウム、銅、ステンレス原料などのリサイクル事業にいち早く参入し、資源の有効活用に貢献しています",
+    "url": "https://www.hanwa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "石油製品、石化製品、紙料を取り扱い、的確な情報と迅速な対応でお客様とのリレーションシップの強化に努めています",
+    "url": "https://www.hanwa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界有数の林産業から優良な製材品を輸入している木材部門、多様な遊戯機械や産業機械を取扱っている機械部門などがあります",
+    "url": "https://www.hanwa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "条鋼、建材、鋼板、鋼管、線材特殊鋼など多種多様な製品群を有し、あらゆる業界のお客様のニーズにお応えしています",
+    "url": "https://www.hanwa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各種金属製品に加えて、アルミニウム、銅、ステンレス原料などのリサイクル事業にいち早く参入し、資源の有効活用に貢献しています",
+    "url": "https://www.hanwa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エビ、カニをはじめ豊富な商材を取扱い、多数のトップシェア品目を有し、日本の食卓に豊かさを提供しています",
+    "url": "https://www.hanwa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー、化学品、生活資材・合成樹脂などを取扱い、的確な情報と迅速な対応でお客様とのリレーションシップの強化に努めています",
+    "url": "https://www.hanwa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の木材製品・建材商品などを取扱い、住宅メーカーまでのサプライチェーンを構築しています",
+    "url": "https://www.hanwa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪薄板・アルミステンレス・スチールサービス事業推進担当",
+    "url": "https://www.hanwa.co.jp/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋼材倶楽部へ加入",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東宮御所の造営用鋼材を納入",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "深圳深日鋼材有限公司への資本参加",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "シシャモの取扱量が急増、北欧産の漁獲が制限されたため、カナダ産に人気が移行していった",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "山東鋼材株式会社（現・ダイコー小和野株式会社）の経営権を取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "すばる鋼材株式会社（現・すばるスチール株式会社）の株式を取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "PT.HANWA ROYAL METALSを設立",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社松岡鋼材の株式を取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日吉鋼材販売株式会社を設立",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスパイプ工業株式会社へ再生支援",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "山陽鋼材株式会社の株式を取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社松山資材と日吉鋼材販売株式会社がMS日吉鋼材株式会社に経営統合",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "山東鋼材株式会社が株式会社小和野商店の事業譲受け",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HANWA METALS(THAILAND)CO.,LTD.",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "鈴木住電鋼線製品（広州）有限公司へ出資参画",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "江陰市暁達金属製品製造股份有限公司へ出資",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "定款／株式取扱規則",
+    "url": "https://www.hanwa.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "株式取扱規則",
+    "url": "https://www.hanwa.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、国内の金融商品取引に関連する法令、及び当社の株式が上場されている国内の証券取引所の定める適時開示規則に沿って、情報開示を行っております",
+    "url": "https://www.hanwa.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、金融商品取引法に基づく有価証券報告書等の開示については、金融庁の提供する電子開示システム(EDINET)にて開示しており、有価証券報告書及び四半期報告書については、本サイトにも掲載することとしております",
+    "url": "https://www.hanwa.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法上のインサイダー取引規制では、重要事実については、TDnetへ登録し、TDnet上で公衆縦覧に供された時点で、公表措置が完了いたします",
+    "url": "https://www.hanwa.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "Food Products Division",
+    "url": "https://www.hanwa.co.jp/en/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "Food Products Division",
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "Products & Special Steel Division of all offices and East",
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "In charge of Wire Products & Special",
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "Food Products Division",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Capital participation to Dongguan Tetsuwa Metals Co., Ltd.",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Established Hanwa Metals Co., Ltd.",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Established Pt. Hanwa Royal Metals",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Hanwa Metals (Thailand) Co., Ltd. acquired",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Wire Products Guangzhou Co.,Ltd.",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Xiao Da Metal Products Manufacturing Co.,Ltd",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Food Products Division",
+    "url": "https://www.hanwa.co.jp/en/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "Food Products Division",
+    "url": "https://www.hanwa.co.jp/en/ir/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "このような環境において、当第１四半期連結累計期間では、非鉄金属や原油などの商品価格が高水準に推移したこ",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄鋼事業においては、鋼材取引が拡大したことや、新規連結子会社の業績が寄与したことなどが収益を押し上げま",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プライマリーメタル事業においては、ニッケルや銅価格が高値で推移したことなどが収益を押し上げました",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リサイクルメタル事業においては、アルミや銅などの主要取扱商材の相場が高水準で推移したことや、これら商材",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化成品の取扱数量を維持・拡大したことなどが収益・利益を押し上げました",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外販売子会社においては、東南アジアで鋼材や非鉄金属原料の販売数量が増加したことや、新規連結子会社の業",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品保証引当金 40 50",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ASGの連結子会社化によって米州におけるPEMB領域の事業基盤を獲得し、当社の強みである建設向け鋼材",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本年度第１四半期決算は、非鉄金属や原油などの商品価格が高水準に推移したことにより、売上高は前年同期比12％増の7,185億円とな",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非鉄金属や原油などの商品価格が高水準に推移したことにより、売上高は",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄 鋼 2,700 2,724 1% 97 84 △14% (鉄鋼)鋼材取引が拡大したことや、新規連結子会社の業績が寄与したことなど",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニッケルや銅価格が高値で推移したことなどが収益を押し上げました",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アルミや銅などの主要取扱商材の相場が高水準で推移したことや、これ",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部化成品の取扱数量を維持・拡大したことなどが収益・利益を押し上げ",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東南アジアで鋼材や非鉄金属原料の販売数量が増加したことや、新規連",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "レジャー施設分野ではテーマパークなどに遊戯機械や造形演出を提案、産業機械分野では各種鉄鋼加工機械、搬送機械などを販売しています",
+    "url": "https://www.hanwa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "H形鋼切断設備の導入",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東莞事務所（現・阪和鋼板加工 (東莞) 有限公司）を開設",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "PCM PROCESSING （THAILAND） LTD.の設立に資本参加",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "阪和鋼板加工（東莞）有限公司を設立",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "正起金属加工株式会社の株式を取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "正起金属加工株式会社の株式を追加取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "offices, Steel Processing Project Promote Dept.,Tokyo HQ",
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "Processing Project Promotion Dept.",
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "Capital participation to PCM Processing (Thailand)",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "で設計・加工された鉄骨部品を現場で組み立てるPEMB建築システム（Pre-Engineered Metal Building）を",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の流通、高付加価値な加工、及び設計・施工分野におけるソリューション提供のノウハウを活かして、ASG",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工場で設計・加工された鉄骨部品を現場で組み立てるPEMB建築システム (Pre-",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非鉄二・三次加工",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "併せて新たなサプライチェーンを創出する狙いで、『環境配慮型資源ビジネス』『二次電池関連ビジネス』『高付加価値加工品ビジネス』『地産地消ビジネス』を重点領域に設定し、既存ビジネスとのシナジーも織り込みながら投資を本格化している",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "阪和興業は、鉄鋼流通加工ビジネスを経営の一丁目一番地として継続・拡大しており、兼松トレーディングの事業価値を最大化できるベストオーナーであると判断",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社の新・基幹システム稼働に続いて、グループ全体で在庫・加工・物流に関する情報・データの共有・効率化を進めていく」",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "「鋼板など資材・加工品の安定供給に加えて、トレーラーハウスの販売面でも協業していく",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "「精米加工・販売会社を現地の食品流通大手と設立した",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地に進出する日系スーパーやレストランのジャポニカ米需要に応えるもので、水産加工品とのシナジーも引き出しながら、食品事業における地産地消ビジネスを拡充していく」",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "上海の現地法人を拠点に、蘇州、東莞、広州などで鋼材加工ビジネスを継続している",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大の市場で、大明国際など現地の大手加工・流通との協業をベースとした地産地消ビジネスを拡大していく",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "――「高付加価値加工品ビジネス」への投資について",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "「産業機械強化のために、静岡県内に本社工場を持ち、鋼材や木材の加工機械を製造・販売するシンクスの株式100％を取得した",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "コラムやH型鋼、厚板の開先加工機、木材のランニングソーの分野で高いシェアを握り、国内13カ所にサービス拠点を展開している",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足による加工機械の自動化、省力化ニーズが高まる中、阪和興業グループのネットワークを通じて国内外にサプライチェーンを広げるとともに、メンテナンス関連ビジネスへの本格参入も図る",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホタテなど北海道の海産物を冷凍加工販売している",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "輸入品のトレード主体のビジネスから脱却すべく加工機能の強化、国産加工品の輸出など高付加価値化を図りながら新たなサプライチェーンを創出していく」",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.hanwa.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.hanwa.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "部門別売上高構成比",
+    "url": "https://www.hanwa.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "地域別売上高構成比",
+    "url": "https://www.hanwa.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント別の状況】",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年同期比0.9％増の2,724億16百万円、セグメント利益は前年同期比13.6％減の84億29百万円となりました",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、当事業の売上高は前年同期比13.5％増の625億19百万円、セグメント損失は２億57百万円（前年同期",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業の売上高は前年同期比36.4％増の874億31百万円、セグメント利益は26億18百万円（前年同期は、85百万円の損",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "10.4％増の393億98百万円、セグメント利益は前年同期比3.4％減の９億51百万円となりました",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同期比32.2％増の1,237億88百万円、セグメント利益は前年同期比126.7％増の56億３百万円となりました",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、売上高は前年同期比19.4％増の1,414億円、セグメント利益は前年同期比9.7％減",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果、売上高は前年同期比6.3％増の332億66百万円、セグメント利益は",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１. 報告セグメントごとの売上高及び利益の金額に関する情報",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ 「その他」の区分は報告セグメントに含まれない事業セグメントであり、住宅資材事業及び機械事業等",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失の調整額△1,003百万円は、主に事業セグメントに帰属しない収益及び費用であ",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ セグメント利益又は損失は、四半期連結損益及び包括利益計算書の経常利益と調整を行っております",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失の調整額△596百万円は、主に事業セグメントに帰属しない収益及び費用であり",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２. 報告セグメントの変更等に関する事項",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（報告セグメントの区分方法の変更）",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、このセグメント変更に伴い、前第１四半期連結累計期間のセグメント情報については、変更後の区分方法",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの状況",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売 上 高 セグメント損益(経常損益)",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 6,369 7,269 14% 143 190 32%",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別経常利益 (年度累計)",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別経常利益 (進捗率)",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント 進捗率 達成状況",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別経常利益 (四半期推移)",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※鉄鋼事業セグメントに属する当社単体事業、国内鉄鋼関連子会社、海外コイルセンター子会社等の鉄鋼取扱量の単純合算",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全ての事業セグメントでのグローバル鉄鋼取扱重量はP.3を参照",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別実力利益",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社では、持続的な成長の実現や企業価値のさらなる向上を図るために、事業セグメントご",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントごとの戦略",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本中期経営計画を含む今後において、事業セグメントごとの成長性および資本収益性を軸と",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社が培ってきた強みであるサプライチェーン創造力を起点に、ユーザー価値向上と社会課題への対応に資する領域を重要テーマとした事業を強化してまいります",
+    "url": "https://www.hanwa.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本レポートでは、当社の事業内容とその強み・課題の分析、事業計画、業績動向などが紹介されています",
+    "url": "https://www.hanwa.co.jp/news/ir/202610135471/",
+    "pass": 1
+   },
+   {
+    "quote": "を強みとしており、長年にわたり地域顧客との信頼関係を構築しております",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ASGの連結子会社化によって米州におけるPEMB領域の事業基盤を獲得し、当社の強みである建設向け鋼材",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的な成長を確保する上での強みとなり得る、との認識に立ち、社内における女性の活躍促進を含む多様性の確",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "創業以来、「流通のプロ」たることを基本理念に、高度な専門性と国内外の豊富なネットワークを活かし、鉄鋼を中心とした幅広い分野で多様なニーズに応え続けています",
+    "url": "https://www.hanwa.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2027年度に創業80周年を迎えます",
+    "url": "https://www.hanwa.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 阪和興業株式会社",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.hanwa.co.jp/en/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "pass": 1
+   },
+   {
+    "quote": "History - Hanwa Co., Ltd.",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Started trading with People's Republic of China",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Started direct trading with",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Started operation Hanwa Steel",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Started operation of Pt. QMB New Energy",
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.hanwa.co.jp/en/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.hanwa.co.jp/en/ir/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "History",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "金属リサイクル事業ライセンス取得",
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自己資本利益率（％）",
+    "url": "https://www.hanwa.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "銭報酬は2025年６月開催の定時株主総会で決定された年間総額８億６千万円以内（うち社外取締役は年額１億円以内）とし、また、譲渡制限付株",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "された年間総額８億６千万円以内（うち社外取締役は年額１億円以内）とし、また、譲渡制限付株",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ ROE（株主資本利益率）=親会社株主に帰属する当期純利益÷期首・期末平均株主資本",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "――「第10次中計」では、ROE（株主資本利益率）12％以上、ネットDER1倍以下などの財務目標を掲げている",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "阪和興業取引先持株会",
+    "url": "https://www.hanwa.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "外部顧客への売上高 262,968 49,820 62,755 35,352 92,373 106,152 609,423",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 30,442 639,865 － 639,865",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 257,734 57,188 87,084 38,886 121,697 123,744 686,336",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 32,237 718,573 － 718,573",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に、顧客の求める納期に柔軟に対応できる体制や構造設計分野における技術力・品質",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を強みとしており、長年にわたり地域顧客との信頼関係を構築しております",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、業務提携、事業機会の創出、取引関係の維持・強化等の観点から、中長期的に企業価値の向上に資すると判断した場合に、取引先等",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の経営理念は、「私たちは、時代と市場の変化に迅速に対応し、『流通のプロ』として顧客の多様なニーズに応え、広く社会に貢献します",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この理念の下、付加価値を高めた商品流通や顧客ニーズに即応した提案型サービスを提供するユーザー系商社として、存在感のある商社",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．当社の主要な取引先（直近の事業年度において、取引金額が当社の年間連結売上高の２％を超える取引先）またはその業務執行者",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "阪和興業取引先持株会 2,429,800 6.25",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社みずほ銀行は当社の主要な取引先",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社三井住友銀行は、当社の主要な取引先であ",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資すると判断した場合に、取引先等の株式を保有しております",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場会社は、会社の持続的な成長と中長期的な企業価値の創出は、従業員、顧客、取引先、債権者、地域",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社の商品やサービスを購入してくださる顧客であり、それらを供給してくださるサプライヤー、運転",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の経営理念は、 「私たちは、時代と市場の変化に迅速に対応し、 『流通のプロ』として顧客の多",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の配慮や公正・適切な処遇、取引先との公正・適正な取引、自然災害等への危機管理など、サス",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の経営理念は、 「私たちは、時代と市場の変化に迅速に対応し、 『流通のプロ』として顧客",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通や顧客ニーズに即応した提案型サービスを提供するユーザー系商社として、存在感のある商社",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．当社の主要な取引先（直近の事業年度において、取引金額が当社の年間連結売上高の２％を超",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "える取引先）またはその業務執行者",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "IR活動は投資家が当社の事業実態や収益構造についての理解を深めて、成長性、将来期待度などの判断への材料提供の場と捉えており、",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社の事業実態や収益構造についての理解を深めて、成長性、将来期待度などの判断への材料提供の場と捉え",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より、当社国内外の事務所訪問の仲介なども行っております",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「例えばASEANでは『東南アジアに第二の阪和を』をテーマに国内同様のビジネスモデルで事業を拡充してきている",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略―需給・収益構造対策―／阪和興業 中川洋一社長／物流協業で輸送最適化／資本効率追求し利益成長図る",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画 2025 - 阪和興業 — 中期経営計画 2025 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20230525-1_4321.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画2028 - 阪和興業 — 中期経営計画2028 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf > company",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/company/20260512_medium-term-management-plan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2025 - 阪和興業 — 統合報告書 2025 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > pdf > 統合報告書2025",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 構造 変化を見据えて／ 阪和興業 中川洋一社長 ... — 商社の経営戦略 構造 変化を見据えて／ 阪和興業 中川洋一社長 ... japanmetal.com https://www.japanmetal.com > news-to20260630149627",
+    "url": "https://www.japanmetal.com/news-to20260630149627.html",
+    "pass": 3
+   },
+   {
+    "quote": "【伸びがエグい】人気商社・ 阪和興業 の企業研究・強み・弱み ... — 【伸びがエグい】人気商社・ 阪和興業 の企業研究・強み・弱み ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ifNz5w6eFO4",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 阪和興業 株式会社 — 決算説明資料 - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > 投資家情報 > IRライブラリー",
+    "url": "https://www.hanwa.co.jp/ir/library/explain.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明資料 - 阪和興業 株式会社 — 2026年3月期 決算説明資料 - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > ... > IR関連ニュース > 2026",
+    "url": "https://www.hanwa.co.jp/news/ir/202605125257/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 阪和興業 株式会社 — 決算 短信 - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > 投資家情報 > IRライブラリー",
+    "url": "https://www.hanwa.co.jp/ir/library/summary.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度(2026年3月期) 決算説明資料 - 阪和興業 — 2025年度(2026年3月期) 決算説明資料 - 阪和興業 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260512_5257.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 阪和興業 株式会社 — IRライブラリー - 阪和興業 株式会社 阪和興業株式会社 https://www.hanwa.co.jp > 投資家情報",
+    "url": "https://www.hanwa.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 10年先を見据えて／ 阪和興業 中川洋一 社長 ... — 商社の経営戦略 10年先を見据えて／ 阪和興業 中川洋一 社長 ... japanmetal.com https://www.japanmetal.com > news-to20250625144313",
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "pass": 3
+   },
+   {
+    "quote": "阪和興業社長 ・中川洋一氏 欧米でM&A、大胆投資 — 阪和興業社長 ・中川洋一氏 欧米でM&A、大胆投資 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/787267",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 構造変化を見据えて／ 阪和興業 中川洋一 社長 ... — 商社の経営戦略 構造変化を見据えて／ 阪和興業 中川洋一 社長 ... japanmetal.com https://www.japanmetal.com > news-to20260630149627",
+    "url": "https://www.japanmetal.com/news-to20260630149627.html",
+    "pass": 3
+   },
+   {
+    "quote": "失敗は、諦めに勝る。 - 阪和興業 新卒採用 — 失敗は、諦めに勝る。 - 阪和興業 新卒採用 阪和興業株式会社 https://recruit.hanwa.co.jp > professional > special",
+    "url": "https://recruit.hanwa.co.jp/professional/special/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年・ 阪和興業 - 古川弘成 社長 のM&A+A - The社史 — 2011年・ 阪和興業 - 古川弘成 社長 のM&A+A - The社史 The社史 https://the-shashi.com > 阪和興業の歴史 > 決断社史",
+    "url": "https://the-shashi.com/tse/8078/decisions/soko-ka-strategy-2011/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Highlights - Hanwa Co., Ltd. — Financial Highlights - Hanwa Co., Ltd. 阪和興業株式会社 https://www.hanwa.co.jp > finance",
+    "url": "https://www.hanwa.co.jp/en/ir/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "Outline of Financial Results — Outline of Financial Results 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_3q_presentation_4821.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Outline of Financial Results — Outline of Financial Results 阪和興業株式会社 PDF https://www.hanwa.co.jp > data > pdf",
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5426.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hanwa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/company/middle.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/company/director.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/news/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/news/ir/202610135471/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/news/ir/202609305460/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/en/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/en/company/director.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/en/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/en/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/en/ir/greeting/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260914_5451.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260902_5444.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260901_5441.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260807_5415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5420.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260803_5408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5400.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hanwa.co.jp/ms/data/pdf/ir/20260729_5398.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.japanmetal.com/news-to20250625144313.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/787267",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "阪和興業 ビジネスモデル 収益構造",
+   "results": [
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20230525-1_4321.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/company/20260512_medium-term-management-plan.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "https://www.japanmetal.com/news-to20260630149627.html",
+    "https://www.youtube.com/watch?v=ifNz5w6eFO4",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrjH&q_no=9",
+    "https://www.hanwa.co.jp/business/",
+    "https://shousha.net/hanwa/",
+    "https://careerforum.net/ja/event/bos/companylist_67/836/company_detail/",
+    "https://ja.wikipedia.org/wiki/阪和興業"
+   ]
+  },
+  {
+   "query": "阪和興業 決算説明資料 セグメント",
+   "results": [
+    "https://www.hanwa.co.jp/ir/library/explain.html",
+    "https://www.hanwa.co.jp/news/ir/202605125257/",
+    "https://www.hanwa.co.jp/ir/library/summary.html",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20260512_5257.pdf",
+    "https://www.hanwa.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8078",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/20260512_5251.pdf",
+    "https://kitaishihon.com/company/8078/top",
+    "https://www.hanwa.co.jp/news/ir/202608075420/",
+    "https://www.japanir.jp/wp-content/uploads/2026/05/8078-20260512-05.pdf"
+   ]
+  },
+  {
+   "query": "阪和興業 社長 インタビュー",
+   "results": [
+    "https://www.japanmetal.com/news-to20250625144313.html",
+    "https://www.nikkan.co.jp/articles/view/787267",
+    "https://www.japanmetal.com/news-to20260630149627.html",
+    "https://recruit.hanwa.co.jp/professional/special/01.html",
+    "https://the-shashi.com/tse/8078/decisions/soko-ka-strategy-2011/",
+    "https://www.zaikai.jp/articles/detail/4137",
+    "https://www.youtube.com/watch?v=ifNz5w6eFO4",
+    "https://careerforum.net/en/event/bos/companylist_33/836/company_detail/",
+    "https://www.hanwa.co.jp/company/about.html",
+    "https://www.nikkan.co.jp/articles/view/00787267"
+   ]
+  },
+  {
+   "query": "阪和興業 business model revenue gross margin",
+   "results": [
+    "https://www.hanwa.co.jp/en/ir/finance/",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_3q_presentation_4821.pdf",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_1q_presentation_20260807_5426.pdf",
+    "https://www.crestmontcapital.com/blog/profit-margin-benchmarks-by-industry",
+    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html",
+    "https://www.hanwa.co.jp/ms/data/pdf/ir/rp_presentation_en_20230523_4330.pdf",
+    "https://ng.investing.com/pro/DB:HW4/explorer/gp_margin",
+    "https://www.thefinanceweekly.com/post/average-profit-margin-by-industry",
+    "https://www.hanwa.co.jp/ir/finance/segment.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

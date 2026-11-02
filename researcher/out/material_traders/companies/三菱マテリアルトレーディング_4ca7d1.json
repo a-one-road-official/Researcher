@@ -1,0 +1,662 @@
+{
+ "name": "三菱マテリアルトレーディング",
+ "aliases": [
+  "MMTC"
+ ],
+ "context": "非鉄・素材の商社（三菱マテリアル系）",
+ "researched_at": "2026-11-02T17:06:26.398607+00:00",
+ "official_url": "https://www.mmtc.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1947年5月9日",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,184億円（2026年3月期）",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスをご覧ください",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創意工夫のワンストップ・ソリューションでお客様の期待以上の商品を提案する",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境・リサイクル | 製品・サービス | 三菱マテリアルトレーディング株式会社",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "非鉄金属リサイクル",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱綜合材料管理（上海）有限公司 グループ製品トレーディング部",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "素材・製品・サービスの力で、社会とお客様の価値をつなぎます",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱マテリアルトレーディングは、多様な素材・製品・ソリューションを国内外から調達・提案し、お客様の課題解決とビジネスの発展に貢献します",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス トップ",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・製錬技術製品・副資材",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の注力製品",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスの提供を通じて環境負荷を低減させていくためには、物品の購入段階での適切な対応が必要であります",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に、近年、国内外の法規制による製品への含有化学物質管理が求められています",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "このガイドラインは、環境負荷物質（Substances of Concern：以下「SOC」という）の適正管理、資源の減量化・再生化、商品の長寿命化等、環境負荷に配慮した商品の購買と販売に関わる手順を定め、グリーン調達体制を確立することにより、環境負荷の低減と顧客満足の向上を図ることを目的としております",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、積極的に環境保全活動に取り組んでいるビジネスパートナーから、化学物質使用の適正化、省エネルギー性、長寿命化、資源の減量化・再生化・分解性・処理容易性などを考慮した、環境負荷の少ない製品・サービスなどを調達することを「グリーン調達」と定義しております",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "非含有証明書の対象となる購入品に関して、使用材料、製法、製造場所、主要な生産設備、製造上の責任者等について変更を行う際には、品質管理上重要事項とみなしていますので、変更事前に変更内容と影響範囲について「製品変更／製造工程変更申請書」にてその都度ご連絡ください",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月に新設された金属リサイクル部営業グループに配属され、主に非鉄金属スクラップの集荷営業を担当しています",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "中間処理業者やスクラップ業者を訪問し、基板や銅屑、銅線などのリサイクル原料を、製錬所へ納入してもらうための提案や条件交渉を行っています",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "製錬所で受け入れた原料は分析工程を経て、金・銀・銅・白金・パラジウムなどの金属含有量が測定されます",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属の価格は、ロンドンやニューヨークなどの取引所の相場に連動して日々変化します",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "超硬製品事業部門",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "提案から加工まで",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅材料・銅加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料・金属加工品",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "沿革 | 会社情報 | 三菱マテリアルトレーディング株式会社",
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "私たちは三菱マテリアルグループの一員として、グループ行動規範である人権尊重・安全優先・法令遵守・共存共栄・環境保全を信条に、社会に愛され、顧客に信頼され、社員の幸せを追求する会社を目指します",
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "pass": 1
+   },
+   {
+    "quote": "このガイドラインは、環境負荷物質（Substances of Concern：以下「SOC」という）の適正管理、資源の減量化・再生化、商品の長寿命化等、環境負荷に配慮した商品の購買と販売に関わる手順を定め、グリーン調達体制を確立することにより、環境負荷の低減と顧客満足の向上を図ることを目的としております",
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "pass": 1
+   },
+   {
+    "quote": "原料の種類や形状、顧客の所在地によって、どの製錬所が最適かを判断し、取引開始に向けて打ち合わせを重ねることが営業の役割です",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にはこうした仕組みを丁寧に説明し、納得いただいた上で取引を進めています",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "まだ立ち上がったばかりの部署ということもあり、体制づくりの最中ではありますが、一つひとつの案件を積み重ねることによって新たな顧客先を獲得していく過程に、強いやりがいと成長を感じています",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、相場の動きを正確に把握し、顧客と製錬所の双方にとって最適な提案を行わなければなりません",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "業務を進めていくうえで、製錬所が求める受入条件や納期と、顧客が出したい荷物の数量や形状、出荷日といった取引条件が完全に一致することは多くありません",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした日々の積み重ねによって信頼が深まり、既存のお客様から新たな取引先をご紹介いただけたときには、努力が形になったと実感がありました",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "私たちの強み | 会社情報 | 三菱マテリアルトレーディング 株式 ... — 私たちの強み | 会社情報 | 三菱マテリアルトレーディング 株式 ... 三菱マテリアルトレーディング株式会社 https://www.mmtc.co.jp > 会社情報",
+    "url": "https://www.mmtc.co.jp/company/advantage/",
+    "pass": 3
+   },
+   {
+    "quote": "電子公告 - 三菱マテリアルトレーディング株式会社 — 電子公告 - 三菱マテリアルトレーディング株式会社 三菱マテリアルトレーディング株式会社 https://www.mmtc.co.jp > public-notice",
+    "url": "https://www.mmtc.co.jp/public-notice.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 07 | 三菱マテリアルトレーディング 株式会社 ... — 社員 インタビュー 07 | 三菱マテリアルトレーディング 株式会社 ... 三菱マテリアルトレーディング株式会社 https://recruit.mmtc.co.jp > interview",
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 - 三菱マテリアルトレーディング株式会社 — 会社概要 | 会社情報 - 三菱マテリアルトレーディング株式会社 三菱マテリアルトレーディング株式会社 https://www.mmtc.co.jp > 会社情報",
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄業界で働く／ 三菱マテリアルトレーディング ／女性総合職 ... — 非鉄業界で働く／ 三菱マテリアルトレーディング ／女性総合職 ... japanmetal.com https://www.japanmetal.com > news-to20250605143104",
+    "url": "https://www.japanmetal.com/news-to20250605143104.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mmtc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmtc.co.jp/products/category/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmtc.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmtc.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmtc.co.jp/company/environment/resolution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmtc.co.jp/company/environment/quality-assurance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmtc.co.jp/company/environment/green.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mmc.co.jp/corporate/ja/company/strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.mmc.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.mmc.co.jp/ja/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.mmtc.co.jp/interview/d-07/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PL_pq9CE1uIanS2c9eynf45k7m5uob52c6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.mmc.co.jp/en/ir/highlight/review.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三菱マテリアルトレーディング ビジネスモデル 収益構造",
+   "results": [
+    "https://www.mmc.co.jp/corporate/ja/company/strategy.html",
+    "https://www.mmtc.co.jp/company/advantage/",
+    "https://ir.mmc.co.jp/ja/ir/library/investors_guide/main/03/teaserItems3/0/linkList/00/link/J_IInvestors%20%20Guide%202026_Feb_.pdf",
+    "https://www.career-mc.com/career/aboutus/businessmodel.html",
+    "https://www.mitsubishicorp.com/jp/ja/ir/library/ar/online2023/core-business/",
+    "https://ir.mmc.co.jp/ja/ir/main/0/teaserItems1/0/linkList/03/link/00Integrated2026.pdf",
+    "https://finance.logmi.jp/articles/375400",
+    "https://ir.mmc.co.jp/ja/ir/library/other/main/0/teaserItems3/0/linkList/01/link/J_20260519.pdf",
+    "https://ifrc.or.jp/trading-company-model/",
+    "https://vizora.meequs.com/ja/company/mitsubishi-materials"
+   ]
+  },
+  {
+   "query": "三菱マテリアルトレーディング 決算説明資料 セグメント",
+   "results": [
+    "https://ir.mmc.co.jp/ja/ir.html",
+    "https://ir.mmc.co.jp/ja/ir/library/presentation.html",
+    "https://ir.mmc.co.jp/ja/ir/library.html",
+    "https://www.mmtc.co.jp/public-notice.html",
+    "https://ir.mmc.co.jp/ja/ir/library/other.html",
+    "https://ir.mmc.co.jp/ja/ir/news.html",
+    "https://www.mitsubishicorp.com/jp/ja/ir/library/meetings/pdf/260803/20260803j.pdf",
+    "https://www.mec.co.jp/ir/library/",
+    "https://www.youtube.com/watch?v=NDoJk1z4pfE",
+    "https://www.edinetdb.jp/company/E00021/presentations/"
+   ]
+  },
+  {
+   "query": "三菱マテリアルトレーディング 社長 インタビュー",
+   "results": [
+    "https://recruit.mmtc.co.jp/interview/d-07/",
+    "https://www.youtube.com/playlist?list=PL_pq9CE1uIanS2c9eynf45k7m5uob52c6",
+    "https://withmaterials.mmc.co.jp/263",
+    "https://www.mmtc.co.jp/company/about/",
+    "https://www.japanmetal.com/news-to20250605143104.html",
+    "https://www.youtube.com/watch?v=n0zBaeTOhJc",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000tg8Py",
+    "https://hamacho.jp/people/p=2725.html",
+    "https://www.mmtc.co.jp/company/message/",
+    "https://www.asahi.com/articles/DA3S16553373.html"
+   ]
+  },
+  {
+   "query": "三菱マテリアルトレーディング business model revenue gross margin",
+   "results": [
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://ir.mmc.co.jp/en/ir/highlight/review.html",
+    "https://www.investopedia.com/terms/g/grossmargin.asp",
+    "https://www.moomoo.com/us/learn/how-to-interpret-profit-margin",
+    "https://ir.mmc.co.jp/en/ir/news/auto_20250513548193.html",
+    "https://fullratio.com/profit-margin-by-industry",
+    "https://finance.yahoo.com/news/mitsubishi-tse-8058-net-profit-141756106.html",
+    "https://www.brentwood-growth.com/blog/trades-businesses/are-you-hitting-your-target-margins-a-deep-dive-into-profitability-benchmarks-for-trades-businesses/",
+    "https://www.macrotrends.net/stocks/charts/MSBHF/mitsubishi/profit-margins",
+    "https://catr.jp/companies/c1712/17757/settlements/c032f/365721"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部7頁・検索4回）"
+ }
+}

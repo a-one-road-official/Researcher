@@ -1,0 +1,1796 @@
+{
+ "name": "バイオ医薬品",
+ "en": "biopharmaceuticals",
+ "aliases": [
+  "抗体医薬",
+  "バイオシミラー"
+ ],
+ "context": "10 バイオ ②バイオ医薬品・再生医療",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:48:23.239336+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "バイアラジクス市場：市場規模・シェアと2031年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品の市場規模は、2023年の4,692億米ドルから2031年には1兆7,939億米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2023年から2031年にかけて18.2%のCAGRで成長すると見込まれています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 469.2 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模別 2031",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 1,793.9 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "「バイオ医薬品市場規模と予測（2021～2031年）」レポートは、以下の分野を網羅した詳細な市場分析を提供します",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオ医薬品市場調査レポート（2026-2034年）：2025年の市場規模は246億米ドル、CAGR 4.51%で2034年までに365億米ドルに達する見込み | IMARC Group | NEWSCAST",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオ医薬品市場調査レポート（2026-2034年）：2025年の市場規模は246億米ドル、CAGR 4.51%で2034年までに365億米ドルに達する見込み | IMARC Group",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "によると、日本のバイオ医薬品市場規模は2025年に246億米ドルに達しました",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2034年までに365億米ドルに達すると予測されており、2026年から2034年の年間で年平均成長率(CAGR)は4.51%となります",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオ医薬品市場は2025年に246億米ドルに達しました",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年から2034年の間に年平均成長率4.51%で成長し、2034年までに365億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "世界の癌バイオ医薬品市場規模は、2025年には1,307億米ドルと評価され、2026年の1,394億6,000万米ドルから2034年には2,342億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の癌バイオ医薬品市場は世界市場の41.6%を占め、2025年には543億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.42%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年には約478億5000万米ドル規模に達し、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年には約65億2000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のがんバイオ医薬品市場は、世界市場の27.3%を占め、2025年には356億8,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.18%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国市場は2025年には約89億2000万米ドルの規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの市場規模は2025年には約107億米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の癌バイオ医薬品市場は、世界市場の22.4%を占め、2025年には292億8,000万米ドルに達すると予測されており、予測期間中に年平均成長率（CAGR）9.36%という最も速い成長率を記録すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年には約58億6000万米ドルと予測されている",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーの定義は、Evaluate Pharmaの“Biotechnology（バイオテック）”のうち、上位品基本特許優先日の年度売上高が5億ドル未満かつ企業設立日から特許優先日までの期間が20年未満の企業とし、実際の「創薬の場」を反映している出願人創出機関で集計した",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "による2023年医薬品市場は1兆5,996億ドルで、前年",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位100品目の売上高合計は6,198億ドルであり、全体に占める割合は約39%であった",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界売上第100位品の売上高は21.1億ドルで前年比5.9%増であった",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目の有効成分の技術分類（化学合成医薬品とバイオ医薬品）別売上高は、バイオ医薬品は3,544億ドルで上位品の57%を占め（図11）、前年より2ポイント上昇した",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目の薬効分類別の売上高において、抗悪性腫瘍薬・免疫調節剤（L）が2,336億ドルと最も多く、前年よりも約266億ドル増加し、次が消化管と代謝作用（A）で1,621億ドルであった（図13）",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "消化管と代謝作用（A）および抗悪性腫瘍薬と免疫調節薬（L）の売上は、2015年はそれぞれ500億ドルおよび895億ドルだったのが、2023年はそれぞれ1,621億ドルおよび2,336億ドルとなり、売上高において高い成長を示した",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "3-2-1.でも記載したように、2023年の医薬品市場は1兆5,996億ドル前年から8.1%増と、医薬品市場は2023年度も堅調な伸びを示した",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目の全体に占める割合も継続的に増え続け2023年度は全体の4割弱に達し、それに伴い第100位の売上も上昇し、22億ドル以上の売上がないと上位100品目に名を連ねることはできなくなり、ランクインのハードルがますます上がった",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の医薬品製造受託業界の市場シェアを簡易に試算しますと、1位はサーモ・フィッシャー・サイエンティフィック、2位はロンザ、3位はラボコープとなります",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2024年の医薬品製造受託業界の市場規模を2,705億ドルとしております",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社グランドビューリサーチによると、2024年の同業界の市場規模は2,705億ドルです",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて年平均9.68%で成長し、規模は4,710億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2,705億ドル",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "4,710億ドル",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の市場規模の予想成長推移 ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオテクノロジー市場は、2025年に1兆3463億米ドルと推定され、2032年には2兆3347億米ドルに達すると予測され、2025年から2032年までの年平均成長率（CAGR）は12.3%である",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月12日、米国を拠点とする病院ネットワークであるマウントサイナイ・ヘルスシステム（Mount Sinai Health System）と、米国を拠点とする研究ベースの医学部であるアイカーン医科大学マウントサイナイ校（Icahn School of Medicine at Mount Sinai）は、米国を拠点とするバイオテクノロジー企業リジェネロン（Regeneron）の一部であるリジェネロン・ジェネティクス・センター（Regeneron Genetics Center：RGC）と共同で、マウントサイナイ100万人健康発見プログラム（Mount Sinai Million Health Discoveries Program）と呼ばれる新しいヒトゲノム配列研究プロジェクトを開始した",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なバイオテクノロジー市場規模は2023年に820.4億米ドルで評価され、2030年に1,850.1億米ドルに達する見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間(2023-2030)の世界的なバイオテクノロジー市場の現在の市場規模と化合物の年間成長率(CAGR)は何ですか?",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルバイオテクノロジー市場は、2023年に820.4億米ドルで評価され、2023年から2030年までの12.3%のCAGRを展示する見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品株式市場は、2024年11月、12月の下落から回復し、世界の株式市場を上回る上昇となりました",
+    "url": "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "pass": 3
+   },
+   {
+    "quote": "上旬に開催された大規模なヘルスケア・カンファレンスで、大手医薬品企業ジョンソン・エンド・ジョンソン（米国）によるバイオ医薬品企業イントラセルラー・セラピーズ（米国）の146億ドル規模の買収が発表され、今後のバイオ医薬品企業をターゲットとしたM&A（合併・買収）の回復期待が高まりました",
+    "url": "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のバイオ医薬品株式市場は、米国金利の変動や米国の大統領選挙とその後の閣僚人事などの影響を受けて、変動が大きくなりました",
+    "url": "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場規模、シェア、トレンド分析レポート：製品タイプ別（モノクローナル抗体、ワクチン、組換えタンパク質、遺伝子治療、細胞治療、その他）、治療領域別（腫瘍学、感染症、心血管疾患、自己免疫疾患、その他）、製造タイプ別（自社製造、委託製造）、技術別（DNA組換え技術、モノクローナル抗体技術、細胞培養技術、その他）、流通チャネル別（病院薬局、小売薬局、オンライン薬局、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバイオ医薬品市場規模は、2025年には4,880億米ドルと評価され、2026年の5,281億6,000万米ドルから2034年には9,943億7,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.23%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、Alphabet傘下のIsomorphic Labsは、AIを活用した創薬を推進するため6億ドルを調達し、2025年末までに臨床試験開始を目指しています",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "この契約には、12億5000万ドルの前払い金、最大48億ドルのマイルストーン払い、および3SBioへの1億ドルの株式投資が含まれる",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本のバイオ市場を独自調査、抗体医薬やADCの寄与で市場規模は6兆7025億円に：日経バイオテクONLINE",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本のバイオ市場を独自調査、抗体医薬やADCの寄与で市場規模は6兆7025億円に",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "pass": 3
+   },
+   {
+    "quote": "日経バイオテクは1986年から毎年、日本国内のバイオ関連の市場規模を独自に調査・集計してきた",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "pass": 3
+   },
+   {
+    "quote": "日経バイオテクの独自調査の結果、2025年の国内のバイオ関連の市場規模は、2024年と比べて2.2％増加し、6兆7025億円になったと推定される",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場は2023年から2031年にかけて18.2%のCAGRで成長すると見込まれています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "モノクローナル抗体セグメントは2023年に市場で最大のシェアを占め、予測期間中に最高のCAGRを記録するとさらに予想されます",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2023～2031年には最高のCAGRを記録すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシングセグメントは2023年に市場でより大きなシェアを占め、2023～2031年には高いCAGRを記録すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2023年から2031年にかけて最も高いCAGRを記録すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なCAGR (2023 - 2031)",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオ医薬品市場調査レポート（2026-2034年）：2025年の市場規模は246億米ドル、CAGR 4.51%で2034年までに365億米ドルに達する見込み | IMARC Group | NEWSCAST",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオ医薬品市場調査レポート（2026-2034年）：2025年の市場規模は246億米ドル、CAGR 4.51%で2034年までに365億米ドルに達する見込み | IMARC Group",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2034年までに365億米ドルに達すると予測されており、2026年から2034年の年間で年平均成長率(CAGR)は4.51%となります",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "富士フイルムは2025年4月に30億米ドル規模のバイオ医薬品製造契約を獲得し、生物製剤の国内生産拡大を図っています",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年から2034年の間に年平均成長率4.51%で成長し、2034年までに365億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "がんバイオ医薬品市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の癌バイオ医薬品市場規模は、2025年には1,307億米ドルと評価され、2026年の1,394億6,000万米ドルから2034年には2,342億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の癌バイオ医薬品市場は世界市場の41.6%を占め、2025年には543億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.42%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2015-2023年の新規ランクイン数は年平均で10.6品目であったことから2023年の新規ランクイン数は平年並みであったといえる",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界売上第100位品の売上高は21.1億ドルで前年比5.9%増であった",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目の売上高においてアメリカが50.3%を占め前年比約2ポイント減であった",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年の売上は、2015年から2023年の8年間における各領域の年平均成長率（CAGR）では高い順にD分類（皮膚科用薬、25.9%）、A分類（15.9%）、B分類（血液と造血器官、14.4%）、L分類（12.7%）となっており、これらの分類で全成長率（9.5%）を上回っていた",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "、大きなアンメット・ニーズを有効に満たす高い革新性のある新薬創製、特許保護等を活用した先行優位性の発揮、上市市場の拡大の累積的な効果、適用疾患の拡大、供給における規模の経済、新薬の改良努力などが相乗的に機能して、少数の大ヒット薬に使用が集中することにより新薬市場の大きな部分（上位20品目で100品目の売上の約5割）を供給する形になっていた",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "【医家向け目薬1位】米メルクの欧州販路使い世界シェア拡大",
+    "url": "https://www.nikkei.com/nkd/industry/stocklist/?n_m_code=071",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて年平均9.68%で成長し、規模は4,710億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 AlmacがYour Researchを買収し、参加者、医療機関、スポンサー向けのeClinicalソリューションを拡大",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオテクノロジー市場の動向と前年比成長率、2025-2032年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "バイオテクノロジー市場は、2025年に1兆3463億米ドルと推定され、2032年には2兆3347億米ドルに達すると予測され、2025年から2032年までの年平均成長率（CAGR）は12.3%である",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間：2025年～2032年 CAGR：",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間(2023-2030)の世界的なバイオテクノロジー市場の現在の市場規模と化合物の年間成長率(CAGR)は何ですか?",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルバイオテクノロジー市場は、2023年に820.4億米ドルで評価され、2023年から2030年までの12.3%のCAGRを展示する見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "（図表6参照）バイオ医薬品関連企業については、引き続き多くの有望な治療薬候補を有しており、新薬承認後の業績寄与が期待されていることから、今後3年間で年率+5.2%の相対的に高い売上高の伸びが予想されています",
+    "url": "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバイオ医薬品市場規模は、2025年には4,880億米ドルと評価され、2026年の5,281億6,000万米ドルから2034年には9,943億7,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.23%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market to Grow at 12.5% CAGR till 2035",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025-2035",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "The global biopharmaceuticals market size was calculated at USD 474.28 billion in 2025, to reach USD 533.57 billion in 2026 is expected to be worth USD 1540.14 billion by 2035, expanding at a CAGR of 12.5% from 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "Growth is expected at a steady CAGR of 12.5% in between 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "Clinical Research Organizations (CROs) are expected to experience the fastest growth in the biopharmaceuticals market with a CAGR of 9.1% from 2022 to 2027.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "size is calculated at US$ 1.55 billion in 2024, grew to US$ 2.05 billion in 2025, and is projected to reach around US$ 24.49 billion by 2034. The market is expanding at a CAGR of 32.27% between 2025 and 2034.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2035)",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "The biopharmaceuticals market was valued at USD 474.28 billion in 2025, reached USD 533.57 billion in 2026, and is projected to grow to USD 1540.14 billion by 2035 at a CAGR of 12.5%.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": ", Metabolic Disorders, Cardiovascular Diseases, and Others), and Geography (North America, Europe, Asia-Pacific, and Rest of the World) is expected to grow at a steady CAGR till 2030 owing to the increasing prevalence of various chronic disease and the increasing awareness for biopharmaceuticals and personalized medicines.",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.98%",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The biopharmaceuticals market is estimated to grow at a CAGR of 7.98% during the forecast period from 2024 to 2030 to reach USD 713.61 billion by 2030.",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Latin America (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 6.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.5% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global biopharmaceutical market is expected to grow at a CAGR of 6.5% from 2026 to 2033, reaching USD 816.3 billion.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global oncology biopharmaceuticals market size was valued at USD 130.6 billion in 2024. The market is expected to grow from USD 139.4 billion in 2025 to USD 268.3 billion in 2034, at a CAGR of 7.5% during the forecast period according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific oncology biopharmaceuticals market is anticipated to grow at the highest CAGR of 7.9% during the analysis timeframe.",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 - 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size was valued at USD 130.6 billion in 2024, with a CAGR of 7.5% expected through 2034. The market is driven by the rising global cancer burden and the demand for personalized therapies.",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "are advancing at a 7.9% CAGR on GLP-1 and insulin analogue demand.",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "Metabolic disorders post the fastest application growth at 9.4% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific expands at 8.9% CAGR, the fastest regional pace",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "8.9% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "7.6% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "バイアラジクス市場：市場規模・シェアと2031年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイアラジクス市場：規模・シェア・予測 2031",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "生物製剤市場の規模と予測（2021年 - 2031年）、世界および地域別のシェア、トレンド、成長機会分析レポートの対象範囲：製品別（モノクローナル抗体、ワクチン、組み換えホルモン/タンパク質、細胞および遺伝子治療など）、用途別（がん、感染症、自己免疫疾患など）、供給元別（哺乳類および微生物）、製造元別（アウトソーシングおよび社内）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ellerston Capital Limited誌に掲載された「慢性疾患：生物学的アプローチ」と題された研究によると、世界中で毎年4,100万人が慢性疾患で亡くなっており、これは全世界の死亡者の74%を占めています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "モノクローナル抗体セグメントは2023年に市場で最大のシェアを占め、予測期間中に最高のCAGRを記録するとさらに予想されます",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "がんセグメントは2023年に市場で最大のシェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "微生物セグメントは2023年に市場でより大きなシェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アウトソーシングセグメントは2023年に市場でより大きなシェアを占め、2023～2031年には高いCAGRを記録すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "JAMA Networkに掲載された記事によると、米国における医薬品研究開発費全体の37%をバイオ医薬品の研究開発費が占めています",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "がんバイオ医薬品市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "がんバイオ医薬品市場の規模、シェア、トレンド分析レポート：種類別（モノクローナル抗体、成長因子、血液および血液製剤、ワクチンおよびトキソイド）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に41.6%の市場シェアを占め、癌バイオ医薬品市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "モノクローナル抗体セグメントは、2025年に58.7%のシェアで市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "モノクローナル抗体セグメントは、2025年には世界の癌バイオ医薬品市場において58.7%のシェアを占め、767億2,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の癌バイオ医薬品市場は世界市場の41.6%を占め、2025年には543億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.42%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のがんバイオ医薬品市場は、世界市場の27.3%を占め、2025年には356億8,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.18%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の癌バイオ医薬品市場は、世界市場の22.4%を占め、2025年には292億8,000万米ドルに達すると予測されており、予測期間中に年平均成長率（CAGR）9.36%という最も速い成長率を記録すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域の癌バイオ医薬品市場は、世界市場の3.6%を占め、2025年には総額47億1,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.94%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で41.6%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "結核検査市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CRISPR-Cas9遺伝子編集技術市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞療法原料市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界売上高上位医薬品の創出企業の国籍 -2023年の動向- | 医薬産業政策研究所",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の医薬品世界売上高上位100品目（上位品目）の企業国籍や日本由来品目の動向をアップデートすることに加えて、2023年上位品目の売上の特徴について解析した",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "創出企業国籍別順位上位6か国で9割超を占め、上からアメリカ（48）、スイス（10）、イギリス、ドイツ、デンマーク（各9）、日本（8）の順であった（括弧内は品目数）",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目の売上に占める国籍別割合で、日本は4.8%と、品目数の占める割合8%（=8品目）を下回っていた",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方上位品目に占める割合は、ドイツは16.4%、デンマークは11.8%で、品目数に占める割合より高かった",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬産業政策研究所では、医薬品世界売上高上位100品目（以下、上位品目）について、各品目の基本特許",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回、2023年の上位品目の企業国籍や日本由来品目の動向をアップデートすることに加えて、2023年品目売上の特徴について解析した",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目については、IQVIA World Review Analyst 2023に掲載されたリストから、従来同様後発品・バイオシミラー・診断薬・政府一括購入など一般に流通していないワクチン・治療薬を除いた上位100品目を選抜し、今回の調査対象とした",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "3-1.上位品目数動向",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位品目について、各医薬品における基本特許を調査し、出願時の企業国籍を医薬品創出企業の国籍と定義し、国籍別の医薬品数を円グラフで示した（図1）",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "【医家向け目薬1位】米メルクの欧州販路使い世界シェア拡大",
+    "url": "https://www.nikkei.com/nkd/industry/stocklist/?n_m_code=071",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の医薬品製造受託業界の市場シェアを簡易に試算しますと、1位はサーモ・フィッシャー・サイエンティフィック、2位はロンザ、3位はラボコープとなります",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託業界の市場シェア(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品製造受託の世界市場シェアと業界ランキング(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/cdmo/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、世界保健機関（WHO）が2022年2月3日に発表したデータによると、がんは世界の主要な死因であり、2020年の死亡者数は約1,000万人、死亡者数の約6人に1人を占めている",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "図1. バイオテクノロジーの世界市場シェア（％）、用途別、2025年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "図2. バイオテクノロジーの世界市場シェア（％）、地域別、2025年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場規模、シェア、トレンド分析レポート：製品タイプ別（モノクローナル抗体、ワクチン、組換えタンパク質、遺伝子治療、細胞治療、その他）、治療領域別（腫瘍学、感染症、心血管疾患、自己免疫疾患、その他）、製造タイプ別（自社製造、委託製造）、技術別（DNA組換え技術、モノクローナル抗体技術、細胞培養技術、その他）、流通チャネル別（病院薬局、小売薬局、オンライン薬局、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に市場シェア42.3%を占め、バイオ医薬品市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で42.3%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "結核検査市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "CRISPR-Cas9遺伝子編集技術市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞療法原料市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "デング熱ワクチン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "トランスダクション技術市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "アステラス、オーストラリアAudax社とIL-12融合蛋白質DAX-044の独占的ライセンスおよびオプション契約を締結",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: Which regions dominate and lead growth in the biopharmaceuticals market?",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "is expected to amass a significant biopharmaceutical market share in the year 2024. This can be ascribed to the advantages and applications associated with the segment.",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The International Trade Administration (ITA), in 2019, stated that the US is the largest market for biopharmaceuticals manufacturers, accounting for one-third of the global market, and is the world leader in biopharmaceutical R&D. In 2019, more than",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "By molecule type: Monoclonal antibody segment held the largest market share of 63.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "By disease: Oncology segment held the largest market share of 31.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "By drug type: Proprietary (branded) biopharmaceuticals segment held the largest market share of 77.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "By drug development type: Outsourced drug development segment held the largest market share of 56.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "By formulation: Injectable formulations (IV, IM, SC) segment held the largest market share of 92.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオ医薬品分野で活動している主要企業には、武田製薬株式会社、中外製薬株式会社(ロシュグループのメンバー)、アステラスファーマ株式会社、第一産協株式会社、英斎株式会社、大塚製薬株式会社、小野製薬株式会社、京和キリン株式会社などがあります",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業には、武田製薬株式会社、中外製薬株式会社、アステラス製薬株式会社、第一産協株式会社、栄材株式会社、大塚製薬株式会社、小野製薬株式会社、京和キリン株式会社などがあります",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、ホフマン・ラ・ロシュ社、ノバルティス社、イーライリリー社、サノフィ社、セルジーン社である",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオテクノロジーの世界市場-主要企業",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバイオテクノロジー市場に参入している主要企業には、アボット・ラボラトリーズ、アムジェン、グラクソ・スミスクライン、ジョンソン・エンド・ジョンソン、メルク、ノバルティス、ノボ・ノルディスク、ファイザー、ロシュ、サノフィ・アベンティスなどがある",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、ファイザー、ロシュ・ホールディング、ジョンソン・エンド・ジョンソン、アムジェン、ノバルティスである",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業への取材や各種統計資料などをベースに、専門家の意見も踏まえて市場規模を推定している",
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "The primary drivers of the biopharmaceuticals market in North America are the rising burden of chronic diseases and rising investments in research and development activities in the United States. The world’s center of life sciences innovation has long been acknowledged to be in the United States. It participates in international capital investments in biopharmaceutical startups.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Competitive Landscape",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals - Market Insights, Competitive Landscape, and Market Forecast - 2030",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "people worked in the biopharmaceutical industry in the United States across a broad range of occupations, including scientific research, technical support, and manufacturing. The US attracts the majority of global venture capital investments in biopharmaceutical enterprise startups.",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players operating in the biopharmaceuticals market?",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Contract Manufacturing - Market Insights, Competitive Landscape, and Market Forecast - 2030",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Contract Manufacturing Market Research Report provides comprehensive insights into the Biopharmaceuticals Contract Manufacturing Market Size, Share, Key Companies..",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the biopharmaceutical market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Abbvie, AstraZeneca, Bristol Myers Squibb, GSK, Johnson & Johnson, Merck & Co., Novartis, Pfizer, Inc.; Roche Holding, and Sanofi.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "To maintain leadership, these firms are pursuing multi-pronged strategies including acquisitions of biotech startups, expansion into radioligand and cell therapies, and partnerships with AI-driven drug discovery platforms. Their focus remains on expanding indications, accelerating clinical trials, and integrating real-world evidence to support regulatory approvals and market access.",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players operating in the oncology biopharmaceuticals industry are as mentioned below:",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the oncology biopharmaceuticals industry?",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include AbbVie, Amgen, AstraZeneca, Bayer, Biogen, Bristol-Myers Squibb, Eli Lilly, F. Hoffmann-La Roche, GlaxoSmithKline, Johnson & Johnson, Merck, and Novartis.",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country Level Analysis, Segment-Level Analysis; DROC, PESTLE Analysis, Porter's Five Forces Analysis, Competitive Landscape, Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/biopharmaceuticals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The geopolitical factors are promoting local manufacturing capacity, clinical trial centers, and biotech infrastructure in North America, Europe, and Asia Pacific, while at the same time changing the competitive landscape of the industry.",
+    "url": "https://market.us/report/biopharmaceuticals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/biopharmaceuticals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/biopharmaceuticals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2024 - 2030)",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is the biopharmaceutical industry competitive landscape?",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "However, the competitive landscape is bifurcated by type of resin. Target-specific resins are the highest-value portion of the market, driven by their use in the lucrative biopharmaceutical sector.",
+    "url": "https://carnegieendowment.org/research/2026/07/a-competitive-analysis-of-the-biomanufacturing-strategic-landscape-and-technology-stack",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Strategic Analysis",
+    "url": "https://www.statifacts.com/outlook/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "NextGen: Top Startups to Watch",
+    "url": "https://www.biospace.com/press-releases/biopharmaceuticals-market-to-hit-us-654-76-billion-by-2030-coherent-market-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape,",
+    "url": "https://www.biospace.com/press-releases/biopharmaceuticals-market-to-hit-us-654-76-billion-by-2030-coherent-market-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the biopharmaceutical industry are:",
+    "url": "https://www.gminsights.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are some of the prominent players in the biopharmaceutical market?",
+    "url": "https://www.gminsights.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the biopharmaceutical industry include AbbVie, Amgen, AstraZeneca, Bayer, Biogen, Bristol-Myers Squibb, and Eli Lilly.",
+    "url": "https://www.gminsights.com/industry-analysis/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size, Key Companies, Company Product Portfolio, Patient Volume, Treatment Adoption Rates, Pricing Analysis, Regulatory Landscape, Clinical Trial Trends, Market Share, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape: Diversified Global Biologics Leaders Compete Alongside Specialized Cell and Gene Therapy Innovators",
+    "url": "https://www.precedenceresearch.com/biopharmaceutical-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "バイオ医薬品市場規模 、シェア、予測、[2034] — バイオ医薬品市場規模 、シェア、予測、[2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 医薬品",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4-106928",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場規模 ・シェア概要 2031 - Mordor Intelligence — バイオ医薬品市場規模 ・シェア概要 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "pass": 3
+   },
+   {
+    "quote": "日本の バイオ医薬品市場 調査レポート（2026-2034年 ... — 日本の バイオ医薬品市場 調査レポート（2026-2034年 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/5518490",
+    "pass": 3
+   },
+   {
+    "quote": "がん バイオ医薬品市場 の 規模 、シェア、成長率、予測（2034 ... — がん バイオ医薬品市場 の 規模 、シェア、成長率、予測（2034 ... Straits Research https://straitsresearch.com > 健康管理 > バイオテクノロジー",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場 規模・ シェア 概要 2031 - Mordor Intelligence — バイオ医薬品市場 規模・ シェア 概要 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年1月の バイオ医薬品市場 - ピクテ・ジャパン — 2025 年1月の バイオ医薬品市場 - ピクテ・ジャパン ピクテ・ジャパン https://www.pictet.co.jp > market > bio-market > 20250217",
+    "url": "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場 規模・シェア概要 2031 - Mordor Intelligence — バイオ医薬品市場 規模・シェア概要 2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場 規模、シェア、予測、[2034] — バイオ医薬品市場 規模、シェア、予測、[2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 医薬品",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4-106928",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医薬品市場 の規模、シェア、成長率、予測（2034年） — バイオ医薬品市場 の規模、シェア、成長率、予測（2034年） Straits Research https://straitsresearch.com > 健康管理 > バイオテクノロジー",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market to Grow at 12.5% CAGR till 2035 — Biopharmaceuticals Market to Grow at 12.5% CAGR till 2035 Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size , Share, Forecast, [2034] — Biopharmaceuticals Market Size , Share, Forecast, [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "pass": 3
+   },
+   {
+    "quote": "Oncology Biopharmaceuticals Market Size & Share 2025 - 2034 — Oncology Biopharmaceuticals Market Size & Share 2025 - 2034 Global Market Insights Inc. https://www.gminsights.com > oncolo...",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "US Biopharmaceuticals Market Data - Demands in USA 2035 — US Biopharmaceuticals Market Data - Demands in USA 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/us-biopharmaceuticals-market-51388",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size, Share , Forecast, [2034] — Biopharmaceuticals Market Size, Share , Forecast, [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size & Share Overview 2031 — Biopharmaceuticals Market Size & Share Overview 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/global-biopharmaceuticals-market-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size, Share , Global Trends 2035 — Biopharmaceuticals Market Size, Share , Global Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size, Share & Growth, 2034 — Biopharmaceuticals Market Size, Share & Growth, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size & Growth Report, 2024-2030 — Biopharmaceuticals Market Size & Growth Report, 2024-2030 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharmaceuticals Market Size, Share, Forecast, [2034] — Biopharmaceuticals Market Size, Share, Forecast, [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "R. L. Ohniwa et al. The effectiveness of Japanese public funding to generate emerging topics in life science and medicine, PLos One, Aug 17, 2023",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月23日、米国を拠点とするRNA医薬品の製造会社ReNAgade Therapeutics社は、米国を拠点とするバイオテクノロジー投資会社MPM BioImpact社とイスラエルを拠点とするヘルスケア投資プラットフォームF2 Ventures社が主導する3億米ドルのシリーズA資金調達ラウンドを発表した",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Government funding includes an estimated $18 billion for Operation Warp Speed and $48 billion annually from the National Institutes of Health. Additionally, the private sector has contributed significantly, with an estimated $146 billion in life sciences venture capital funding over the past three years.",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "pass": 3
+   },
+   {
+    "quote": "Also, in May 2022, Eli Lilly and Company announced an investment of over USD 2 billion to expand its manufacturing footprint in Indiana, United States.",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "With the growing incidence of cancer, increasing investments in healthcare, and demand for precision medicine, Brazil’s oncology biopharmaceutical market continues its steady expansion. The country registers close to 483,000 new cancer cases per year. Urbanization, aging demographics, and lifestyle changes are contributing to this surge.",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign capital is the differentiator. Saudi Arabia's Vision 2030 health cluster targets 35% local pharmaceutical production, and the Public Investment Fund's Lifera venture has signed technology-transfer agreements covering insulin and plasma-derived products",
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "pass": 3
+   },
+   {
+    "quote": ", Eli Lilly made another USD 4.5 billion investment into its Lebanon, Indiana manufacturing facilities, including a new dedicated genetic medicines manufacturing facility",
+    "url": "https://market.us/report/biopharmaceuticals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, North America was dominant, with a global revenue share of around 45%, owing to the high R&D investments, growing adoption of technologically advanced solutions, presence of global players, and their efforts to come up with newer patents. The U.S. holds the major share in this region, which is followed by Europe and Asia-Pacific.",
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "In North America, the biopharmaceuticals market comprises approximately 40% of the global share, driven by sophisticated healthcare infrastructure and continuous investment in biopharma R&D, underscoring industry maturity and expansion trajectories.",
+    "url": "https://www.statifacts.com/outlook/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific presents the fastest-growing region at 20%, characterized by manufacturing advantages, investment incentives, and governmental support in framing conducive regulatory frameworks encouraging innovation.",
+    "url": "https://www.statifacts.com/outlook/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "While the Middle East & Africa holds 5% of the global share, market development hinges on strategic investments gearing towards disease-specific biopharmaceutical solutions.",
+    "url": "https://www.statifacts.com/outlook/biopharmaceuticals-market",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2023, Pfizer invested USD 25 million in Caribou Biosciences.",
+    "url": "https://www.biospace.com/press-releases/biopharmaceuticals-market-to-hit-us-654-76-billion-by-2030-coherent-market-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma VC Funding in Q2 Reaches Highest Quarterly Level Since 2022",
+    "url": "https://www.biospace.com/press-releases/biopharmaceuticals-market-to-hit-us-654-76-billion-by-2030-coherent-market-insights",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.51",
+    "url": "https://newscast.jp/news/5518490",
+    "quote": "日本のバイオ医薬品市場調査レポート（2026-2034年）：2025年の市場規模は246億米ドル、CAGR 4.51%で2034年までに365億米ドルに達する見込み | IMARC Group | NEWSCAST"
+   },
+   {
+    "value": "6.7",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "世界の癌バイオ医薬品市場規模は、2025年には1,307億米ドルと評価され、2026年の1,394億6,000万米ドルから2034年には2,342億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は6.7%となる見込みです"
+   },
+   {
+    "value": "7.42",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "北米の癌バイオ医薬品市場は世界市場の41.6%を占め、2025年には543億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.42%と見込まれています"
+   },
+   {
+    "value": "25.9",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "quote": "2015年の売上は、2015年から2023年の8年間における各領域の年平均成長率（CAGR）では高い順にD分類（皮膚科用薬、25.9%）、A分類（15.9%）、B分類（血液と造血器官、14.4%）、L分類（12.7%）となっており、これらの分類で全成長率（9.5%）を上回っていた"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "バイオテクノロジー市場は、2025年に1兆3463億米ドルと推定され、2032年には2兆3347億米ドルに達すると予測され、2025年から2032年までの年平均成長率（CAGR）は12.3%である"
+   },
+   {
+    "value": "8.23",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "quote": "世界のバイオ医薬品市場規模は、2025年には4,880億米ドルと評価され、2026年の5,281億6,000万米ドルから2034年には9,943億7,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.23%となる見込みです"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "quote": "The global biopharmaceuticals market size was calculated at USD 474.28 billion in 2025, to reach USD 533.57 billion in 2026 is expected to be worth USD 1540.14 billion by 2035, expanding at a CAGR of 12.5% from 2026 to 2035."
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "quote": "Clinical Research Organizations (CROs) are expected to experience the fastest growth in the biopharmaceuticals market with a CAGR of 9.1% from 2022 to 2027."
+   },
+   {
+    "value": "32.27",
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "quote": "size is calculated at US$ 1.55 billion in 2024, grew to US$ 2.05 billion in 2025, and is projected to reach around US$ 24.49 billion by 2034. The market is expanding at a CAGR of 32.27% between 2025 and 2034."
+   },
+   {
+    "value": "7.98",
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "quote": "CAGR of 7.98%"
+   },
+   {
+    "value": "6.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "quote": "CAGR of 6.5% from 2026 to 2033"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "quote": "The global oncology biopharmaceuticals market size was valued at USD 130.6 billion in 2024. The market is expected to grow from USD 139.4 billion in 2025 to USD 268.3 billion in 2034, at a CAGR of 7.5% during the forecast period according to the latest report published by Global Market Insights Inc."
+   },
+   {
+    "value": "7.9",
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "quote": "The Asia Pacific oncology biopharmaceuticals market is anticipated to grow at the highest CAGR of 7.9% during the analysis timeframe."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "74",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "quote": "Ellerston Capital Limited誌に掲載された「慢性疾患：生物学的アプローチ」と題された研究によると、世界中で毎年4,100万人が慢性疾患で亡くなっており、これは全世界の死亡者の74%を占めています"
+   },
+   {
+    "value": "37",
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "quote": "JAMA Networkに掲載された記事によると、米国における医薬品研究開発費全体の37%をバイオ医薬品の研究開発費が占めています"
+   },
+   {
+    "value": "41.6",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "北米は、2025年に41.6%の市場シェアを占め、癌バイオ医薬品市場を牽引しました"
+   },
+   {
+    "value": "58.7",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "モノクローナル抗体セグメントは、2025年に58.7%のシェアで市場を席巻するだろう"
+   },
+   {
+    "value": "7.42",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "北米の癌バイオ医薬品市場は世界市場の41.6%を占め、2025年には543億7000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.42%と見込まれています"
+   },
+   {
+    "value": "27.3",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "欧州のがんバイオ医薬品市場は、世界市場の27.3%を占め、2025年には356億8,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.18%と見込まれています"
+   },
+   {
+    "value": "7.18",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "欧州のがんバイオ医薬品市場は、世界市場の27.3%を占め、2025年には356億8,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.18%と見込まれています"
+   },
+   {
+    "value": "22.4",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "アジア太平洋地域の癌バイオ医薬品市場は、世界市場の22.4%を占め、2025年には292億8,000万米ドルに達すると予測されており、予測期間中に年平均成長率（CAGR）9.36%という最も速い成長率を記録すると見込まれています"
+   },
+   {
+    "value": "9.36",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "アジア太平洋地域の癌バイオ医薬品市場は、世界市場の22.4%を占め、2025年には292億8,000万米ドルに達すると予測されており、予測期間中に年平均成長率（CAGR）9.36%という最も速い成長率を記録すると見込まれています"
+   },
+   {
+    "value": "3.6",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "中東・アフリカ地域の癌バイオ医薬品市場は、世界市場の3.6%を占め、2025年には総額47億1,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.94%と見込まれています"
+   },
+   {
+    "value": "6.94",
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "quote": "中東・アフリカ地域の癌バイオ医薬品市場は、世界市場の3.6%を占め、2025年には総額47億1,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は6.94%と見込まれています"
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "quote": "上位品目の売上に占める国籍別割合で、日本は4.8%と、品目数の占める割合8%（=8品目）を下回っていた"
+   },
+   {
+    "value": "8",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "quote": "上位品目の売上に占める国籍別割合で、日本は4.8%と、品目数の占める割合8%（=8品目）を下回っていた"
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "quote": "一方上位品目に占める割合は、ドイツは16.4%、デンマークは11.8%で、品目数に占める割合より高かった"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "quote": "一方上位品目に占める割合は、ドイツは16.4%、デンマークは11.8%で、品目数に占める割合より高かった"
+   },
+   {
+    "value": "42.3",
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "quote": "北米は2025年に市場シェア42.3%を占め、バイオ医薬品市場を牽引しました"
+   },
+   {
+    "value": "63.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "quote": "By molecule type: Monoclonal antibody segment held the largest market share of 63.0% in 2025."
+   },
+   {
+    "value": "31.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "quote": "By disease: Oncology segment held the largest market share of 31.1% in 2025."
+   },
+   {
+    "value": "77.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "quote": "By drug type: Proprietary (branded) biopharmaceuticals segment held the largest market share of 77.4% in 2025."
+   },
+   {
+    "value": "56.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "quote": "By drug development type: Outsourced drug development segment held the largest market share of 56.6% in 2025."
+   },
+   {
+    "value": "92.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "quote": "By formulation: Injectable formulations (IV, IM, SC) segment held the largest market share of 92.6% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4-106928",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/5518490",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://answers.and-pro.jp/pharmanews/30129/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpma.or.jp/opir/news/074/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/industry/stocklist/?n_m_code=071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/cdmo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/118",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/iryou/ss_wg/agenda0226/siryo-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/global-biopharmaceuticals-market-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/biopharmaceuticals-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/healthcare-articles/top-biopharmaceuticals-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carnegieendowment.org/research/2026/07/a-competitive-analysis-of-the-biomanufacturing-strategic-landscape-and-technology-stack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S135964461630407X",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statifacts.com/outlook/biopharmaceuticals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/biopharmaceuticals-market-to-hit-us-654-76-billion-by-2030-coherent-market-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/biopharmaceutical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drugdiscoverytrends.com/pharma-50-the-50-largest-pharmaceutical-companies-in-the-world-for-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/biopharmaceutical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/10.1089/gen.45.01.11",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pharmaceutical-technology.com/analyst-comment/top-20-biopharma-market-cap-up-q3-2025/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バイオ医薬品 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4-106928",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "https://www.theinsightpartners.com/ja/reports/biologics-market",
+    "https://newscast.jp/news/5518490",
+    "https://straitsresearch.com/jp/report/cancer-biologics-market",
+    "https://www.coherentmarketinsights.com/ja/%E5%8C%BB%E8%96%AC%E5%93%81%E5%88%86%E6%9E%90%E8%A9%A6%E9%A8%93%E5%B8%82%E5%A0%B4",
+    "https://www.jetro.go.jp/invest/attractive_sectors/life_science/attractive_markets.html",
+    "https://www.atpress.ne.jp/news/8860142",
+    "https://www.sphericalinsights.com/jp/reports/united-states-biopharmaceuticals-market",
+    "https://straitsresearch.com/jp/report/biologics-market"
+   ]
+  },
+  {
+   "query": "バイオ医薬品 市場 シェア 上位 企業",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "https://answers.and-pro.jp/pharmanews/30129/",
+    "https://www.jpma.or.jp/opir/news/074/01.html",
+    "https://www.nikkei.com/nkd/industry/stocklist/?n_m_code=071",
+    "https://jp.linkedin.com/pulse/%E3%83%90%E3%82%A4%E3%82%AA%E3%82%B7%E3%83%9F%E3%83%A9%E3%83%BC%E3%81%A8%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E4%B8%8A%E4%BD%8D%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-sonatasyncx-5yowf",
+    "https://deallab.info/cdmo/",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4-106928",
+    "https://www.buffett-code.com/industries/118",
+    "https://catenion.com/ja/longitudinal-global-biopharma-rd-productivity-and-growth-ranking/"
+   ]
+  },
+  {
+   "query": "バイオ医薬品 市場 前年比 2025",
+   "results": [
+    "https://www.coherentmarketinsights.com/ja/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "https://www.pictet.co.jp/investment-information/market/market-monthly/bio-market/20250217.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-biopharmaceuticals-market-industry",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E5%B8%82%E5%A0%B4-106928",
+    "https://www8.cao.go.jp/iryou/ss_wg/agenda0226/siryo-1.pdf",
+    "https://straitsresearch.com/jp/report/biopharmaceutical-market",
+    "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/111900426/",
+    "https://www.iqvia.com/-/media/iqvia/pdfs/japan/topline-market-data/2025/toplinedata_fy_2024.pdf",
+    "https://newscast.jp/smart/news/8860142"
+   ]
+  },
+  {
+   "query": "biopharmaceuticals market size CAGR 2025",
+   "results": [
+    "https://www.towardshealthcare.com/insights/biopharmaceuticals-market-is-rising-rapidly",
+    "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "https://www.gminsights.com/industry-analysis/oncology-biopharmaceuticals-market",
+    "https://www.marketresearchfuture.com/reports/us-biopharmaceuticals-market-51388",
+    "https://www.precedenceresearch.com/biopharmaceutical-market",
+    "https://www.biospace.com/press-releases/biopharmaceuticals-market-size-expected-to-reach-usd-1-796-21-bn-by-2034",
+    "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "https://dataintelo.com/report/biopharmaceuticals-market"
+   ]
+  },
+  {
+   "query": "biopharmaceuticals market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "https://www.mordorintelligence.com/industry-reports/global-biopharmaceuticals-market-industry",
+    "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "https://www.marketresearchfuture.com/reports/biopharmaceuticals-market-8439",
+    "https://www.marketdataforecast.com/market-reports/bio-pharmaceuticals-market",
+    "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "https://market.us/report/biopharmaceuticals-market/",
+    "https://www.expertmarketresearch.com/healthcare-articles/top-biopharmaceuticals-companies",
+    "https://www.skyquestt.com/report/biopharmaceuticals-market",
+    "https://www.sci-tech-today.com/stats/biopharmaceuticals-statistics-updated/"
+   ]
+  },
+  {
+   "query": "biopharmaceuticals market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.psmarketresearch.com/market-analysis/biopharmaceuticals-market",
+    "https://www.delveinsight.com/report-store/biopharmaceuticals-market",
+    "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "https://carnegieendowment.org/research/2026/07/a-competitive-analysis-of-the-biomanufacturing-strategic-landscape-and-technology-stack",
+    "https://www.sciencedirect.com/science/article/abs/pii/S135964461630407X",
+    "https://www.mordorintelligence.com/industry-reports/global-biopharmaceuticals-market-industry",
+    "https://www.statifacts.com/outlook/biopharmaceuticals-market",
+    "https://www.biospace.com/press-releases/biopharmaceuticals-market-to-hit-us-654-76-billion-by-2030-coherent-market-insights",
+    "https://www.efpia.eu/media/sr3fpeqh/a-comparative-analysis-of-biopharmaceutical-strategies-in-10-countries.pdf",
+    "https://en.wikipedia.org/wiki/Consolidated_(band)"
+   ]
+  },
+  {
+   "query": "biopharmaceuticals market key companies share 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/biopharmaceutical-market",
+    "https://www.grandviewresearch.com/industry-analysis/biopharmaceutical-market",
+    "https://market.us/report/biopharmaceuticals-market/",
+    "https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928",
+    "https://www.drugdiscoverytrends.com/pharma-50-the-50-largest-pharmaceutical-companies-in-the-world-for-2025/",
+    "https://www.linkedin.com/pulse/top-20-biopharma-companies-2025-the-pharmashots-ccsve",
+    "https://www.precedenceresearch.com/biopharmaceutical-market",
+    "https://journals.sagepub.com/doi/10.1089/gen.45.01.11",
+    "https://www.pharmaceutical-technology.com/analyst-comment/top-20-biopharma-market-cap-up-q3-2025/",
+    "https://pharmashots.com/21845/top-20-biopharma-companies-of-2025"
+   ]
+  }
+ ],
+ "missing": {}
+}

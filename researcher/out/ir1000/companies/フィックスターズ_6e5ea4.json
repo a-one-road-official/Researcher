@@ -1,0 +1,1827 @@
+{
+ "name": "フィックスターズ",
+ "aliases": [],
+ "context": "証券コード3687／情報・通信業／プライム（内国株式）／2025.09期 売上高9,618百万円 営業利益率26.8%",
+ "researched_at": "2026-11-02T16:53:51.263528+00:00",
+ "official_url": "https://www.fixstars.com/",
+ "identified_by": "search:yahoo_jp:フィックスターズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2002年8月8日",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数（連結）",
+    "value": "334名（2025年9月末現在）",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "マルチコアプロセッサ関連事業",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（千円）",
+    "value": "7,038,276 7,995,406 9,617,686",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "7,680,311 315,095 7,995,406 － 7,995,406 － 7,995,406",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高 又は振替高",
+    "value": "20,340 172,424 192,764 － 192,764 △192,764 －",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "9,171,343 446,343 9,617,686 － 9,617,686 － 9,617,686",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高 又は振替高",
+    "value": "21,369 286,918 308,288 － 308,288 △308,288 －",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "100社を超えるお客様と、20年以上の高速化の実績",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "高い品質・性能要求を持つお客様に選ばれています",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "お客様事例を見る",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/noticeq",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/noticeq",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来培った高度な技術力を武器に、半導体・産業機器・自動車・金融など幅広い分野の顧客向けにサービスを提供しており、社員の9割以上を占めるエンジニア集団による深いハード・アルゴリズム知見が強みである",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "例えば産業機器や半導体装置のファームウェア高速化、自動運転向けのリアルタイム画像認識アルゴリズム開発、金融機関のリスク計算エンジンの高速化など、顧客のニーズに応じた高性能コンピューティングソリューションを提供している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "大手取引先としてキオクシア、日立製作所、キヤノンなどが名を連ね、最先端分野の開発パートナーとして信頼を獲得している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "これにより顧客は最新ハードの性能を引き出すソフトウェアを得られ、同社自身も常に他社に先駆けた技術スタックを保持する好循環がある",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業にとっては、自社製品・システムの性能向上やコスト削減（既存ハードで処理速度向上し追加投資抑制等）につながるため、フィックスターズのサービスに対して十分な対価を支払うインセンティブがある",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "実際、WHILL社（自動運転パーソナルモビリティ開発企業）の事例では、フィックスターズのエンジニアが社内開発メンバーと一体となって提案・実装し、高い品質でプロジェクトを予定通り完遂することで顧客から信頼を得ている",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "このように顧客と“同じ目線”で課題解決に取り組むパートナー型ビジネスを展開している点が特徴である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "これは主要顧客向け案件が順調に推移していることに加え、同社の高収益体質（固定費率が低く、増収がそのまま利益増につながりやすい構造）が寄与している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "もっとも同社は受託ビジネスゆえに下期の売上偏重（顧客予算消化が集中する傾向）もあり、第2四半期以降の進捗は見守る必要もある",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、生成AI・量子コンピューティング関連サービスの市場拡大を見据え、SaaS製品の導入企業数を増やし、ストック型収益の比率を高める",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "100社以上のお客様を支援しリピート率99％以上の評価",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "様々な分野のお客様のパフォーマンス向上に貢献",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスでは、いずれの場合もコンサルティングから開発運用までをワンストップで提供し、研究段階のPoCから事業化を目指す現場まで、お客様の課題に取り組み、プロジェクトを成功に導きます",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な開発が必要なAI活用のプロジェクトにおいて、この体制はお客様から高い評価をいただき、信頼できるパートナーとして選定されています",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "市場黎明期よりAIソフトウェアや必要となる大量のデータの高速処理に取り組んできた知見を活かし、お客様の研究開発や事業化の現場に寄り添い、企業のデジタル変革を支援します",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "今後もフィックスターズは、お客様の事業環境にAI技術を適用する取組みの難易度を下げ、ビジネスを加速する課題解決のパートナーとして、新事業創出や事業開発活動に貢献してまいります",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "マルチコアプロセッサを効率的に利用するためのソフトウェアの並列化および最適化と、省電力かつ高速なIOを実現するメモリ技術やAIを活用したソフトウェアの高速化を通じて、医療、製造、金融、モビリティなど、様々な分野のお客様のビジネスを加速し、グリーンITを実現しています",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "当社はCookieを使用して、お客様が当社のWebサイトでより良い体験を得られるようにしています",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「Speed up your AI」をスローガンに掲げ、これまで培ってきた高度なソフトウェア開発技術のAI領域への活用を進め、AI技術が急速に進展する現代においてお客様のAI開発及びAI活用を強力に支援すべく、各事業を展開しております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客製品の開発フェーズに合わせて、コンサルティングから最終製品への組込み支援まで、一貫したトータルソリューションサービスを提供しております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発フェーズにおいては、顧客課題に最適な技術仕様の策定支援や、最新論文や技術動向に即した解決手法の提案を行っております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発フェーズから製品開発フェーズへの橋渡しとして、顧客の考案したアルゴリズムの実装、要求性能を加味したアルゴリズムの改善等を提供しております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、各フェーズにおいて計算資源として使用するGPUやFPGAボード等のハードウェアについて、当社グループのソフトウェア開発に関する知見を活かして、お客様の要件に応じて最適なハードウェアの選定・提供を行っており、ソフトウェアとハードウェアの両面からお客様のビジネスを支援しております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティングクラウド「Fixstars Amplify」においては、高い専門性が要求される量子コンピュータ向けプログラムを、より容易に取り扱うことが可能なサービスを提供し、組合せ最適化問題を中心としたお客様の課題解決に取り組んでおります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット等を通じて遠隔からソフトウェアを利用者に提供する方式",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズとマクニカ、Tenstorrent製品の実機評価からAIモデルの最適化、導入・運用までを一貫支援",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズ、組込み向けAIモデルの移植・高速化を従来比１／３の開発期間で実現する受託サービス開始",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンスエンジニアリングのための製品とサービス",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "サービス領域",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "マルチコア技術開発部を設立し、Cellソフトウェア開発サービス開始",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "Power Architecture製品に関する開発コミュニティ、「OpenPOWER Foundation」に参加",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "量子コンピューティングクラウド「Fixstars Amplify」のサービス提供 及びコンサルティングを行う、株式会社Fixstars Amplifyを設立",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "高速ソフトウェア開発サービスについてさらに知る",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "組込みデバイス向けAIモデル移植・高速化サービス",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "FPGA・量子・フラッシュメモリなど専門領域に特化したサービス",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップです",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/noticeq",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "大手取引先としてキオクシア、日立製作所、キヤノンなどが名を連ね、最先端分野の開発パートナーとして信頼を獲得している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": ": 社内開発だけでなく、外部パートナーとの連携による技術・事業展開も積極的である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "このように顧客と“同じ目線”で課題解決に取り組むパートナー型ビジネスを展開している点が特徴である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "気になる企業、取材して面白かった企業の紹介",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な開発が必要なAI活用のプロジェクトにおいて、この体制はお客様から高い評価をいただき、信頼できるパートナーとして選定されています",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "今後もフィックスターズは、お客様の事業環境にAI技術を適用する取組みの難易度を下げ、ビジネスを加速する課題解決のパートナーとして、新事業創出や事業開発活動に貢献してまいります",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み | 株式会社フィックスターズ",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/noticeq",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/noticeq",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "4. 特徴・強み",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来培った高度な技術力を武器に、半導体・産業機器・自動車・金融など幅広い分野の顧客向けにサービスを提供しており、社員の9割以上を占めるエンジニア集団による深いハード・アルゴリズム知見が強みである",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "で話題になることが多いが、同社にとって量子コンピュータは複雑なプロセッサの一つであるという位置づけであり、様々なコンピュータの高速化に強みを持つと理解するのが正しいと考える",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "売上営業利益率も前年同期28.3%から31.8%へ上昇しており、高い収益性を維持している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "であり、同社の強みである（ハードに近い）低レイヤ寄りのソフトウェア技術とアルゴリズム最適化力が活かされている",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "特にハードウェアアーキテクチャとアルゴリズム双方に精通した人材が多く、最適なハードウェア選定からそれに合わせたアルゴリズム実装まで一貫して行える点が強みである",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "実際、同社ソリューション事業の営業利益率は約30%超と業界でも突出している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "、医療ではスタートアップとの合弁、AIでは他社スタートアップへの出資など、自社の強みと相手のリソースを組み合わせる戦略を取っている",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": ": 汎用的な受託開発ではなく、ニッチでも難易度の高い高速化・最適化案件に絞ることで高単価を実現している点も強みである",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、売上規模こそ数十億円規模ながら営業利益率30%前後、自己資本比率80%超という安定した財務体質を維持している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "これは主要顧客向け案件が順調に推移していることに加え、同社の高収益体質（固定費率が低く、増収がそのまま利益増につながりやすい構造）が寄与している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率はこのQ1単独で31.8%に達しており、前年同四半期から3.5ポイント向上した",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "医療は規制産業ゆえ参入障壁が高い半面、軌道に乗れば安定した収益が期待できるため、同社にとって中長期の成長ドライバーとなり得る",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": ": 自動車の自動運転・高度運転支援(ADAS)は、同社が強みを発揮している分野である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズの​強み",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズの強み",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における営業利益は、2,578,202千円（前連結会計年度比11.9％増）となり、営業利益率は26.8％と、前連結会計年度に比べて2.0ポイント減少致しました",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長でCEO（最高経営責任者）の三木聡氏は「BtoB（対法人取引）向けのSaaSで、海外進出した例は少なく、勝った例もない」と前置きし、「参入障壁の高い技術」なら可能性があると考えて、受託開発で培ったノウハウを生かして開発したクラウドサービスに活路を見出す",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2002年8月8日",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 創業からの歩み | 株式会社フィックスターズ",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 創業からの",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年8月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年10月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2003年7月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2004年7月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2006年9月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2006年12月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2008年5月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2008年10月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2009年12月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2010年11月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2010年12月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2013年6月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2013年7月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2013年10月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2016年11月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2018年2月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://www.fixstars.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2002年の",
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算 補足説明資料",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 半期報告書",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2002年（平成14年）8月8日です",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2014年（平成26年）4月23日です",
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算 補足説明資料",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 半期報告書",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月15日 18:02",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期第1四半期（2024年10-12月）",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2002年8月に創業",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2008年10月には米Terra Soft Solutions社からLinuxディストリビューション「Yellow Dog Linux」事業を譲受し、自社のHPC（高性能計算）基盤技術を強化した",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2010年にはNEDOの「低消費電力メニーコア用アーキテクチャとコンパイラ技術」開発事業にも採択され、国の先端プロジェクトに参画することで技術力を研鑽した",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2014年4月に東証マザーズ上場、2016年11月に市場一部（現プライム）へ市場変更",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2013年に東芝から出資を受けたことを皮切りに、大手メーカーとの協業プロジェクトを多数実施している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2019年9月期までは自動運転アルゴリズム開発や半導体向け案件の増加で成長し、2020-2021年はコロナ感染症の影響により減収減益となったものの、2022年9月期以降は再び増収増益に転じた",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月期は売上高7,995（前期比+13.6%）、営業利益2,304（+10.4%）と過去最高を更新し、3期連続の増収増益で着地している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月期に上場10周年の記念配当5円を含む年間19円を実施しつつも、内部留保を着実に積み上げている状況である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代まで半導体業界及びコンピュータ業界においては、「デナード則※」や「ムーアの法則※」に従い、半導体微細化技術の進歩とともにクロック周波数向上等による高性能化を享受してきました",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "用語解説においては、「２ 沿革」及び「３ 事業の内容」の文章中において※で示した用語の本書内での意味を説明しており、一般的な内容を含むものとは限りません",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年９月期",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月期",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月期",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "2002年8月に創業した同社は、NTTドコモのiモード向けアプリの開発などからスタートする",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年に東証マザーズ、2016年に東証一部への上場を果たす",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年度から2009年度まで専修大学兼任講師（情報産業）",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年「SCS評価制度」運用開始！ 取引から排除されないためのサプライチェーン対策",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "5. ビジネスモデル",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズのビジネスモデルは、高度専門サービスによる収益基盤とプロダクト開発による将来収益の創出を両立する形である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "足元の安定収益源（職人仕事）と、将来の可能性（自社製品）の二本柱モデルである点が、同社のビジネスモデルの肝と言える",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "将来的にはソフトウェアのライセンス提供などビジネスモデルの多角化も視野に、業界の進展と歩調を合わせて事業拡大が続くであろう",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": ": 汎用的な受託開発ではなく、ニッチでも難易度の高い高速化・最適化案件に絞ることで高単価を実現している点も強みである",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "契約形態は人月ベースの受託開発が中心だが、他社には真似のできない高付加価値な技術力提供により、高い単価とリピート受注を獲得している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "これらはクラウドサービスの利用料やソフトウェアライセンス販売によるストック型収益を将来的にもたらす可能性がある",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "また自社開発ツール（コード補完AIなど）のSaaS提供により、ストック収入の拡大も期待できる",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "現在の成長は、エンジニアの人数増加 × 単価の上昇によるものである",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発ビジネスではエンジニアの増加が売上拡大につながると同時に、高度な技術力が単価向上に貢献している",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、生成AI・量子コンピューティング関連サービスの市場拡大を見据え、SaaS製品の導入企業数を増やし、ストック型収益の比率を高める",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "将来的にはソフトウェアのライセンス提供などビジネスモデルの多角化も視野に、業界の進展と歩調を合わせて事業拡大が続くであろう",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "運用段階の料金は、GPU上のアニーリングマシンなら月額10万円（共有サーバー、1システム）と、「リーズナブルな料金にした」（三木社長）",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "一方、SaaS事業は売上構成比こそ約5～6%程度（2022-2024年）と小さいものの、ソリューション事業で培った技術を生かした自社プロダクトの提供により将来的なスケーラビリティを狙う戦略的事業である",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "もっとも現時点では開発投資段階であり、このセグメントは赤字計上が続いている",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2)当社グループの事業セグメントについて",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、以下の数値はセグメント間の取引消去後となっております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、売上高は9,171,343千円（前連結会計年度比19.4％増）、セグメント利益（営業利益）は3,236,011千円（前連結会計年度比31.7％増）となりました",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、売上高は446,343千円（前連結会計年度比41.7％増）、セグメント損失（営業損失）は424,065千円（前連結会計年度はセグメント損失（営業損失）151,101千円）となりました",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、その他の事業セグメントにおけるセグメント損失（営業損失）は233,743千円（前連結会計年度はセグメント損失（営業損失）2,502千円）となりました",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち、分離された財務諸表が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象としているものであります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業活動の特徴を考慮した経営管理上の区分により、「Solution事業」と「SaaS事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報及び収益の分解情報",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3687 フィックスターズ レポート｜小野和彦 - note — 3687 フィックスターズ レポート｜小野和彦 - note note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズ 、 ビジネス 変革に向けたAI活用をワンス ... — フィックスターズ 、 ビジネス 変革に向けたAI活用をワンス ... Fixstars Corporation https://news.fixstars.com > ...",
+    "url": "https://news.fixstars.com/4716/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フィックスターズ の企業情報・エンジニア採用情報 — 株式会社 フィックスターズ の企業情報・エンジニア採用情報 paiza https://paiza.jp > 企業検索",
+    "url": "https://paiza.jp/recruiters/2129",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フィックスターズ | Innovation LABパートナー紹介 — 株式会社 フィックスターズ | Innovation LABパートナー紹介 NTTPCコミュニケーションズ https://www.nttpc.co.jp > innovationlab > partners > fixstars",
+    "url": "https://www.nttpc.co.jp/innovationlab/partners/fixstars.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フィックスターズ (@Fixstars_JP) / X — 株式会社 フィックスターズ (@Fixstars_JP) / X X https://x.com > Fixstars_JP",
+    "url": "https://x.com/Fixstars_JP",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 株式会社 フィックスターズ — IRライブラリー | 株式会社 フィックスターズ Fixstars Corporation https://www.fixstars.com > ホーム > IR",
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 (IR) | 株式会社 フィックスターズ — 投資家情報 (IR) | 株式会社 フィックスターズ Fixstars Corporation https://www.fixstars.com > ...",
+    "url": "https://www.fixstars.com/ja/ir",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズ （3687）のIR情報・ 決算資料 - IRBANK — フィックスターズ （3687）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > フィックスターズ",
+    "url": "https://irbank.net/3687/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 フィックスターズ 】[3687]IR情報 中期経営計画や 決算 短信 — 【 フィックスターズ 】[3687]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3687",
+    "pass": 3
+   },
+   {
+    "quote": "[ フィックスターズ 3687.T] 2026年9月期 第3四半期 決算 補足 ... — [ フィックスターズ 3687.T] 2026年9月期 第3四半期 決算 補足 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260807515263",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260807515263",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズ — フィックスターズ Fixstars Corporation https://www.fixstars.com > ...",
+    "url": "https://www.fixstars.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズ 【3687】の 事業 内容 - キタイシホン — フィックスターズ 【3687】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3687/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 フィックスターズ - Fixstars Corporation — 会社概要 | 株式会社 フィックスターズ - Fixstars Corporation Fixstars Corporation https://www.fixstars.com > ホーム > 企業情報",
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズ - Wikipedia — フィックスターズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > フィックスターズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣 - 役員紹介 | 株式会社 フィックスターズ — 経営陣 - 役員紹介 | 株式会社 フィックスターズ Fixstars Corporation https://www.fixstars.com > ホーム > 企業情報",
+    "url": "https://www.fixstars.com/ja/company/management",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスで世界に挑む フィックスターズ の次の一手 — クラウドサービスで世界に挑む フィックスターズ の次の一手 ZDNET Japan https://japan.zdnet.com > CIO／経営 > デジタル岡目八目",
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フィックスターズ 代表取締役 社長 CEO 三木聡さんを ... — 株式会社 フィックスターズ 代表取締役 社長 CEO 三木聡さんを ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/C8LYBYdP8mb/",
+    "pass": 3
+   },
+   {
+    "quote": "フィックスターズ 【3687】の 社長 ・役員 - キタイシホン — フィックスターズ 【3687】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3687/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fixstars.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/company/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/products-services/advantages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/management-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/contact?type=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/noticeq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixstars.com/ja/ir",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/oh_no/n/naf0e6760b399",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.fixstars.com/4716/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3687/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35169198/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フィックスターズ",
+   "results": [
+    "https://www.fixstars.com/ja",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+    "https://www.youtube.com/channel/UCT7IXKQ-HL7HHKMlrhQgz_g",
+    "https://www.nikkei.com/nkd/company/?scode=3687",
+    "https://x.com/Fixstars_JP",
+    "https://ja.wikipedia.org/wiki/フィックスターズ",
+    "https://finance.yahoo.co.jp/quote/3687.T",
+    "https://kabu.bridge-salon.jp/fixstars-stock/",
+    "https://kabutan.jp/stock/?code=3687",
+    "https://www.fixstars.com/en"
+   ]
+  },
+  {
+   "query": "フィックスターズ ビジネスモデル",
+   "results": [
+    "https://note.com/oh_no/n/naf0e6760b399",
+    "https://news.fixstars.com/4716/",
+    "https://paiza.jp/recruiters/2129",
+    "https://www.nttpc.co.jp/innovationlab/partners/fixstars.html",
+    "https://x.com/Fixstars_JP",
+    "https://www.fixstars.com/ja/recruit/business/overview",
+    "https://kitaishihon.com/company/3687/business",
+    "https://prtimes.jp/main/html/rd/p/000000082.000027784.html",
+    "https://media.heygood.jp/companies/fixstars",
+    "https://www.youtube.com/watch?v=JW3XXiYxYWc"
+   ]
+  },
+  {
+   "query": "フィックスターズ 決算説明資料",
+   "results": [
+    "https://www.fixstars.com/ja/ir/library",
+    "https://www.fixstars.com/ja/ir",
+    "https://irbank.net/3687/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3687",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260807515263",
+    "https://kitaishihon.com/company/3687/ir-library",
+    "https://www.buffett-code.com/company/3687/library",
+    "https://news.fixstars.com/category/ir/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260514533311",
+    "https://www.fixstars.com/ja/ir/library/library"
+   ]
+  },
+  {
+   "query": "フィックスターズ 事業系統図",
+   "results": [
+    "https://www.fixstars.com/ja",
+    "https://kitaishihon.com/company/3687/business",
+    "https://www.fixstars.com/ja/company/overview",
+    "https://note.com/oh_no/n/naf0e6760b399",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+    "https://edinetdb.jp/company/E30537/midterm-plans/",
+    "https://www.nttpc.co.jp/innovationlab/partners/fixstars.html",
+    "https://www.slideshare.net/slideshow/ss-238422325/238422325",
+    "https://tomokutchi.hatenablog.com/entry/fixstars",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=3687"
+   ]
+  },
+  {
+   "query": "フィックスターズ 社長 インタビュー",
+   "results": [
+    "https://www.fixstars.com/ja/company/management",
+    "https://japan.zdnet.com/article/35169198/",
+    "https://www.instagram.com/p/C8LYBYdP8mb/",
+    "https://www.youtube.com/watch?v=jYkHyyweNe8",
+    "https://kitaishihon.com/company/3687/board-of-director",
+    "https://the-shashi.com/tse/3687/executives/",
+    "https://www.fixstars.com/ja/company/message",
+    "https://www.youtube.com/channel/UCT7IXKQ-HL7HHKMlrhQgz_g",
+    "https://listen-web.com/story/satoshi-miki",
+    "https://the-shashi.com/tse/3687/executives/ceo/miki-satoshi/"
+   ]
+  }
+ ],
+ "missing": {}
+}

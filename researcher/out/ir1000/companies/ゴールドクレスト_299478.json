@@ -1,0 +1,1353 @@
+{
+ "name": "ゴールドクレスト",
+ "aliases": [],
+ "context": "証券コード8871／不動産業／スタンダード（内国株式）／2026.03期 売上高30,445百万円 営業利益率29.3%",
+ "researched_at": "2026-11-02T16:49:51.135323+00:00",
+ "official_url": "https://www.goldcrest.co.jp/",
+ "identified_by": "search:yahoo_jp:ゴールドクレスト",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1992年1月22日",
+    "url": "https://www.goldcrest.co.jp/corp/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "新築マンションの企画・開発・分譲事業",
+    "url": "https://www.goldcrest.co.jp/corp/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "19,039 2,628 4,043 3,059 28,770 523 29,294",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― 371 59 ― 431 383 814",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "20,576 2,692 3,643 3,253 30,164 281 30,445",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― 373 28 ― 402 498 901",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "前連結会計年度 当連結会計年度",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "「その他」の区分の売上高",
+    "value": "907 779",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "label": "連結財務諸表の売上高",
+    "value": "29,294 30,445",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/schedule.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/koukoku.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/ir/english.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "pass": 1
+   },
+   {
+    "quote": "※製品によって形状などが異なりますので、詳細は水栓の取扱説明書をご覧ください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般的には、粒子の粗いクレンザーで擦ったり、熱いフライパン等を直接置いたり、堅いものを落としたり、錆びた鉄製品等を置いたりすると、光沢不良、変形、変色、破損、色素付着等の原因になりますので、ご注意ください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_bathroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_bathroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_bathroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "浴槽の排水と洗い場の排水が合流している商品もあり、その場合は両方の排水口を清掃する必要がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_bathroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_bathroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "最近のトイレは節水型で、以前の製品のものより流す際の水量が少なくなっています",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品によっては、便座裏の突起が1箇所低いことで着座を感知するものもございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "トイレの照明スイッチにはホタルスイッチと呼ばれる商品が採用されていることがございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホタルスイッチは、夜など廊下が暗いときに照明スイッチの場所を見つけやすくするための商品です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_powderroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_powderroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_powderroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "を吹き飛ばしてしまう商品がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_powderroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_powderroom.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、クッション性のあるフローリングを使用しているマンションの場合は、場所によって浮き沈みを感じる可能性もございますが、これは製品の本来の性質となります",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "実施した場合、アフターサービスが適用されなくなりますので、ご注意ください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品にもよりますが、設置をご希望の際はリフォーム会社へご相談いただくことをおすすめしております",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご質問内容によっては、アフターサービス対象の場合がございます",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_balcony.html",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス規準書をご確認の上、以下の問い合わせフォームよりお問い合わせください",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_balcony.html",
+    "pass": 1
+   },
+   {
+    "quote": "※傷・汚れ・カビ・その他消耗品についてはアフターサービス対象外です",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_balcony.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_balcony.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約者様向けサービス",
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_word.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証ウェブサイト（東証上場会社情報サービス）",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高めるとともに、仕入れ競争力、商品開発力、営業力を向上させることが重要で",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社住販サービス代表取締役社長",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社住販サービス監査役",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）1. 当社と会計監査人との間の監査契約において会社法に基づく監査と金融商品取引法に基",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "づく監査の監査報酬の額を区分しておりませんので、①の金額には金融商品取引法に基",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ZEH普及に向けた取組についてご紹介します",
+    "url": "https://www.goldcrest.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴールドクレストのCMを紹介します",
+    "url": "https://www.goldcrest.co.jp/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算説明会資料",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月29日",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月18日",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月26日",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算説明会資料",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月29日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月18日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月26日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月14日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月27日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月19日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月5日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月30日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月31日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月27日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月25日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月28日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月23日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月30日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月20日",
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年(令和9年)3月期",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算説明会資料",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年(令和8年)3月期",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年(令和7年)3月期",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年(令和6年)3月期",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年(令和5年)3月期",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期 決算短信",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年(令和4年)3月期",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度",
+    "url": "https://www.goldcrest.co.jp/ir/schedule.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ゴールドクレストは創業以来、「ハイグレードマンション」へのこだわりを持ち、お客様の住環境をより豊かにする良質なマンションづくりを追求し、価値ある住まいを次々と世の中に送り出しています",
+    "url": "https://www.goldcrest.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "引条件が他の顧客との同種取引と比較し 、同水準で妥当と言えるかを確認す",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 主 要取引先等特定関係事業者との関係",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 当社は 、 「お客様、株主様から高く評価され、広く社会から信頼される企業を",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が他の顧客との同種取引と比較し 、同水準で妥当と言えるかを確認することで",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一般消費者へ販売する事業であり、顧客との不動産売買契約書に基づき当該物件の引渡しを行",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社顧客の住宅ローンに関して抵当権設定登記完了までの間、",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一般顧客 2,576百万円",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売掛金に係る取引先の信用リスクにつきましては、管理部が取引先の状況を定期的にモニタ",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リングするとともに、取引先ごとに期日及び残高を管理することで、リスクの低減を図っており",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を理解するための基礎となる情報は 、 「3. 会計方針に関する事項",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "般消費者へ販売する事業であり、顧客との不動産売買契約書に基づき当該物件の引渡しを行う義",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社顧客の住宅ローンに関して抵当権設定登記完了までの間、金融機関に対して連帯債務保証を",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を理解するための基礎となる情報は 、 「連結注記表（収益認識に関する",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場合に、",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に 、重要",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への売上高がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10%以上を占める相手先がないため、記載はありません",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "GCが開発したマンション（“GC物件”）と佐藤秀が開発したマンション（“佐藤秀物件”）は、同じ場所にモデルルームが設置されているうえ、立地や価格、間取りがほぼ同じ競合物件であるため、GC物件から佐藤秀物件に顧客が流れてしまう懸念があります",
+    "url": "https://stracap.jp/8871-GOLDCREST/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "た算出基準に基づき、役位及び最終報酬月額並びに在任期間 、功労等を勘案",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総額金400百万円(うち社外取締役の報酬については年額5 0百万円以内とし 、",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「佐藤秀がマンション開発を“肩代わり”してくれたおかげで、ゴールドクレストは開発リスクゼロで販売手数料を得られた",
+    "url": "https://stracap.jp/8871-GOLDCREST/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント別売上高",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 金 額 増減（△）率",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 「その他」の区分は報告セグメントに含まれない事業セグメントであり 、その他付帯事業を含",
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業に係る位置付け及びセグメントとの関連は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "構成比(％)",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績につきましては、不動産分譲事業における売上高は",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、サービス別のセグメントから構成されており、「不動産分譲事業」、「不動産賃貸事業」、「不動産管理事業」及び「ホテル事業」の４つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "２ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額に関する情報",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益又は",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 「その他」の区分は報告セグメントに含まれない事業セグメントであり、その他付帯事業を含んでおります",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "08年にリーマンショック、11年に東日本大震災があり、その後の不動産市況がどうなるのか、さらに底を抜けるのではないか、との懸念もあり、新たな着工をしないで、優良在庫（完成済みマンション）の供給に事業を絞っていました",
+    "url": "https://diamond.jp/articles/-/124935",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ゴールドクレスト 社長が語る、消費不振時代のマンション ... — ゴールドクレスト 社長が語る、消費不振時代のマンション ... ダイヤモンド・オンライン https://diamond.jp > articles",
+    "url": "https://diamond.jp/articles/-/124935",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 ハイグレードマンションの ゴールドクレスト — 沿革 ハイグレードマンションの ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > corp > history",
+    "url": "https://www.goldcrest.co.jp/corp/history/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト 【8871】の事業内容 - キタイシホン — ゴールドクレスト 【8871】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ゴールドクレスト 【東証スタンダード上場】の会社概要 — (株) ゴールドクレスト 【東証スタンダード上場】の会社概要 マイナビ https://job.mynavi.jp > search > corp65691 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp65691/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト への 志望動機・志望理由一覧（全41件） — ゴールドクレスト への 志望動機・志望理由一覧（全41件） 就活会議 https://syukatsu-kaigi.jp > ... > ES・体験記一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/122363/experiences/reasons_for_applying",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜ハイグレードマンションの ゴールドクレスト — IRライブラリー｜ハイグレードマンションの ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > library",
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務データ｜IR情報 - ゴールドクレスト — 財務データ｜IR情報 - ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > account",
+    "url": "https://www.goldcrest.co.jp/ir/account.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト （8871）の 決算 発表 資料 一覧 - IRBANK — ゴールドクレスト （8871）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 不動産業 > ゴールドクレスト",
+    "url": "https://irbank.net/E03971/reports",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト [8871]：2026年3月期 決算 短信〔日本基準 ... — ゴールドクレスト [8871]：2026年3月期 決算 短信〔日本基準 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260424509405/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ハイグレードマンションの ゴールドクレスト — IR情報｜ハイグレードマンションの ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > ...",
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報保護方針について - ゴールドクレスト — 個人情報保護方針について - ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > corp > organization",
+    "url": "https://www.goldcrest.co.jp/corp/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト 【8871】の 事業 内容 - キタイシホン — ゴールドクレスト 【8871】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 ゴールドクレスト 】[8871]企業概要 社員数や役員報酬・資本金 — 【 ゴールドクレスト 】[8871]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8871",
+    "pass": 3
+   },
+   {
+    "quote": "マンション管理の ゴールドクレスト コミュニティ — マンション管理の ゴールドクレスト コミュニティ ゴールドクレストコミュニティ https://goldcrest-community.co.jp",
+    "url": "https://goldcrest-community.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜新卒採用サイト｜株式会社 ゴールドクレスト — トップメッセージ｜新卒採用サイト｜株式会社 ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > fresh > about > message",
+    "url": "https://www.goldcrest.co.jp/recruit/fresh/about/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト の少数株主を守るために — ゴールドクレスト の少数株主を守るために ストラテジックキャピタル https://stracap.jp > 8871-GOLDCREST",
+    "url": "https://stracap.jp/8871-GOLDCREST/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト社長 が語る、消費不振時代のマンション ... — ゴールドクレスト社長 が語る、消費不振時代のマンション ... ダイヤモンド・オンライン https://diamond.jp > articles",
+    "url": "https://diamond.jp/articles/-/124935",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト にプライム市場への移行促す－米アクティビ ... — ゴールドクレスト にプライム市場への移行促す－米アクティビ ... Bloomberg.com https://www.bloomberg.com > news > articles",
+    "url": "https://www.bloomberg.com/jp/news/articles/2026-07-01/THF4DCKJH6V400",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドクレスト に司法手続き - 日本経済新聞 — ゴールドクレスト に司法手続き - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO86340600X20C25A1TB2000/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "(2) 事業系統図",
+    "url": "https://kitaishihon.com/company/8871/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.goldcrest.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/schedule.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/koukoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/english.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/corp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/corp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_kitchen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_bathroom.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_toile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_powderroom.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_entrance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_room.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_balcony.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/inquiry/faq_word.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goldcrest.svy.ooo/ng/answers/inquiry_customer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/261028_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/261028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260731_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260731.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260629.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260629_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260618.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goldcrest.co.jp/ir/pdf/260526.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://diamond.jp/articles/-/124935",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/8871/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stracap.jp/8871-GOLDCREST/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ゴールドクレスト",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88_(%E6%A4%8D%E7%89%A9)",
+    "https://www.hyponex.co.jp/plantia/21155/",
+    "https://www.nozawaen.co.jp/plants/ka-gyo/gold-crest/",
+    "https://hitohana.tokyo/note/3889?srsltid=AYCX9vKe6ePUit4SsD3fTJ2LCu8_dsO2T4y0FC_Auf5qmlSUccn3SCTd",
+    "https://www.goldcrest.co.jp/",
+    "https://magazine.cainz.com/article/16809",
+    "https://www.uekipedia.jp/%E5%B8%B8%E7%B7%91%E9%87%9D%E8%91%89%E6%A8%B9/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88/",
+    "https://greensnap.jp/article/9233",
+    "https://ja.wikipedia.org/wiki/ゴールドクレスト"
+   ]
+  },
+  {
+   "query": "ゴールドクレスト ビジネスモデル",
+   "results": [
+    "https://diamond.jp/articles/-/124935",
+    "https://www.goldcrest.co.jp/corp/history/",
+    "https://kitaishihon.com/company/8871/business",
+    "https://job.mynavi.jp/28/pc/search/corp65691/outline.html",
+    "https://syukatsu-kaigi.jp/companies/122363/experiences/reasons_for_applying",
+    "https://prtimes.jp/main/html/rd/p/000000008.000165519.html",
+    "https://www.onecareer.jp/companies/59922",
+    "https://the-shashi.com/tse/8871/",
+    "https://ja.wikipedia.org/wiki/ゴールドクレスト_(不動産業)",
+    "https://consovation.com/株式会社ゴールドクレストの魅力とビジネスモデ/"
+   ]
+  },
+  {
+   "query": "ゴールドクレスト 決算説明資料",
+   "results": [
+    "https://www.goldcrest.co.jp/ir/library.html",
+    "https://www.goldcrest.co.jp/ir/account.html",
+    "https://irbank.net/E03971/reports",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260424509405/",
+    "https://www.goldcrest.co.jp/ir/",
+    "https://x.com/kessan_db/status/2115726226530943461",
+    "https://strainer.jp/companies/JP-8871/filings?page=13",
+    "https://ir-report.hatenablog.com/entry/2019/07/27/143152",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8871",
+    "https://edinetdb.jp/company/E03971/ir-docs/"
+   ]
+  },
+  {
+   "query": "ゴールドクレスト 事業系統図",
+   "results": [
+    "https://www.goldcrest.co.jp/corp/organization.html",
+    "https://kitaishihon.com/company/8871/business",
+    "https://job.mynavi.jp/28/pc/search/corp65691/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8871",
+    "https://goldcrest-community.co.jp/",
+    "https://www.openwork.jp/a0910000000FrrW/compa/a0910000006Tpb9/",
+    "https://the-shashi.com/tse/8871/",
+    "https://www.goldcrest.co.jp/recruit/fresh/work/flow.html",
+    "https://edinetdb.jp/company/E03971/text",
+    "https://ja.wikipedia.org/wiki/ゴールドクレスト_(不動産業)"
+   ]
+  },
+  {
+   "query": "ゴールドクレスト 社長 インタビュー",
+   "results": [
+    "https://www.goldcrest.co.jp/recruit/fresh/about/message.html",
+    "https://stracap.jp/8871-GOLDCREST/",
+    "https://diamond.jp/articles/-/124935",
+    "https://www.bloomberg.com/jp/news/articles/2026-07-01/THF4DCKJH6V400",
+    "https://www.nikkei.com/article/DGKKZO86340600X20C25A1TB2000/",
+    "https://www.goldcrest.co.jp/recruit/fresh/people/member-01.html",
+    "https://the-shashi.com/tse/8871/chapter-1/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrrW&q_no=1",
+    "https://syukatsu-kaigi.jp/companies/122363/post_items/6/word_mouths",
+    "https://ja.wikipedia.org/wiki/ゴールドクレスト_(不動産業)"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}

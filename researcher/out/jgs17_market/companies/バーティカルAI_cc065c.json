@@ -1,0 +1,1748 @@
+{
+ "name": "バーティカルAI",
+ "en": "vertical AI",
+ "aliases": [
+  "業界特化AI",
+  "特化型AI"
+ ],
+ "context": "1 AI・半導体 ③バーティカルAI",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:48:21.629880+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の垂直型AI市場は2024年に102億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）21.6%で推移すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界特化型AI市場規模、導入モデル別、2022〜2034年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の業界特化型AI市場規模、2022〜2034年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2024",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "垂直型AIの市場規模は2024年に102億米ドルに達し、業界固有のAIソリューションに対する需要の高まりを背景に、2025年から2034年にかけて年平均成長率（CAGR）21.6%で成長すると見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米市場は、強固なテクノロジーインフラとAIイノベーションにおける大きな投資機会を背景に、売上高シェアの40%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAIとは｜領域特化型AIで2030年に内外5兆円の市場獲得とAXを目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円を獲得し、産業や行政の現場でAIを軸とした経営改革（AX）を進めるとしました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に内外で少なくとも5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに23.1兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに222.0兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、2030年に世界のバーティカルAI市場33兆円のうち、内外で少なくとも5兆円を獲得することです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標 ― バーティカルAIで2030年に内外で少なくとも5兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額23.1兆円・経済波及効果222.0兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に世界のバーティカルAI市場33兆円のうち内外で少なくとも5兆円の市場を獲得し、エコシステム全体でAI主権を戦略的に確保することを目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "注：2024年の国内バーティカルAI市場は約1兆円、2030年には約3兆円と見通し",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2030年に世界のバーティカル市場は33兆円、内外で少なくとも5兆円の市場を獲得",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に世界市場33兆円のうち、内外で",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "1億円を目指す「マネ活!」実践講座",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "｢オーディオブック｣関連銘柄を紹介！ オーディブルやaudiobook.jpなど“ながら聴き”需要を取り込んだオーディオブック市場は、AIの活用により成長が加速！（2026.10.22）",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "三和ＨＤ---上限100億円・371万株の自己株式取得を決議",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "株で1億円を作るワザ",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "[株で１億円を作るワザ]",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "30代で達成も！最高10億円！",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "●17億円トレーダー・ジュンのFX成り上がり戦略Vol.22",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "領域特化の「バーティカルAI」、官民で2040年度までに23兆円投資へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "庁舎工事トラブル巡る世田谷区と大成建設の攻防、交渉18回で違約金16億円に合意",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "そして日本には、バーティカルAIを展開し、ARR100億円を公表した企業が2社あります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に約1兆円",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には約3兆円超になる見通し",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は2030年に33兆円と見積もり、そのうち",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "内外で少なくとも5兆円の獲得を目指す",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "370億ドル",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の115億ドルから、3.2倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "190億ドル",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、その190億ドルは、3つに割れます",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "ホリゾンタルAI（全機能横断）が84億ドルで、前年比5.3倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "その86%にあたる72億ドルは、ChatGPT EnterpriseやClaude for Work、Microsoft Copilotといった伴走型が占めます",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "部門特化型AI（職種別）が73億ドルで、前年比4.1倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size & Share, Growth Forecasts 2025-2034",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size & Share 2025 – 2034",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 10.2 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 69.6 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size, By Deployment Model, 2022 – 2034, (USD Billion)",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on deployment model, the vertical AI market is divided into on-premises, cloud and hybrid. In 2024, the cloud segment held a market share of over 60% and is expected to cross USD 40 billion by 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Vertical AI Market Size, 2022 -2034, (USD Billion)",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 10.2 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の垂直型AI市場は2024年に102億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）21.6%で推移すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025 – 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "垂直型AIの市場規模は2024年に102億米ドルに達し、業界固有のAIソリューションに対する需要の高まりを背景に、2025年から2034年にかけて年平均成長率（CAGR）21.6%で成長すると見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "●ザイクラブ拡大版！1カ月で1番上がる株を当てろ！",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "ホリゾンタルAI（全機能横断）が84億ドルで、前年比5.3倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "部門特化型AI（職種別）が73億ドルで、前年比4.1倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAI（業界別）は35億ドル、前年比およそ2.9倍",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "しかも成長率は5.3倍で、バーティカルAI（約2.9倍）を大きく上回っています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、1年分の成長率から長期の傾向を断定することはできません",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 – 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size of vertical AI reached USD 10.2 billion in 2024 and is set to grow at a 21.6% CAGR from 2025 to 2034, driven by the increasing demand for industry-specific AI solutions.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size, Share, Trends | CAGR of 24.5%",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 24.5%",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 24.3%",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2024 to 2029 : 24.3%",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 24.3%",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2024-2025(%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "USD 126.65 billion, at a CAGR of 24.3%",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Global Market: Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Software - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Software - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Services - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Services - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Hardware - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Hardware - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Cloud-based - Year-over-year growth 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 28.3%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 28.3% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Million/Billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global vertical AI market is expected to grow at a CAGR of 28.3% from 2026 to 2033, reaching USD 74.5 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2033):",
+    "url": "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "On average, these Shooting Stars reach the ~$3M ARR range within their first year of revenue while quadrupling in YoY growth with ~60% gross margins, and ~$164K ARR / FTE in their first years.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "業界特化型AI市場の規模とシェア、成長予測（2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界特化型AI市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、クラウドセグメントが 60% 超の市場シェアを占め、2034年までに 400億米ドルを超えると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界特化型AI市場シェア、技術別、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、機械学習セグメントが 36% の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2024年に約40%という大きなシェアを占め、世界の垂直型AI市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recursion PharmaceuticalsとPath AIは、垂直型AI業界で5%を超える市場シェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習セグメントは、過去データの分析による企業の将来動向の予測を可能にし、小売、金融、保険などの分野にメリットをもたらしたことで、2024年には市場シェアの36%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米市場は、強固なテクノロジーインフラとAIイノベーションにおける大きな投資機会を背景に、売上高シェアの40%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内店頭CFDについては、2025年度まで12年連続で取引高シェア1位を継続",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "Bessemerの概算では、ビジネス・専門サービス業は米国GDPの13%を占め、これはソフトウェア市場の、およそ10倍にあたります",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "その86%にあたる72億ドルは、ChatGPT EnterpriseやClaude for Work、Microsoft Copilotといった伴走型が占めます",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "で全体の43%を占め、前年の4.5億ドルから3.3倍に伸びています",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on deployment model, the vertical AI market is divided into on-premises, cloud and hybrid. In 2024, the cloud segment held a market share of over 60% and is expected to cross USD 40 billion by 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Share, By Technology, 2024",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on technology, the vertical AI market is categorized into machine learning, deep learning, natural language processing, computer vision, robotics and others. The machine learning segment held a market share of 36% in 2024.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recursion Pharmaceuticals and Path AI hold a market share of over 5% in the vertical AI industry. Strength-wise, Recursion Pharmaceuticals has leveraged Exscientia and merged with them to boost their capabilities. The sophisticated chemistry tools of Exscientia combined into an AI-powered platform allow Recursion to advance into new avenues like large-scale biological research.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The machine learning segment captured 36% of the market share in 2024, benefiting sectors like retail, finance, and insurance by enabling businesses to predict future trends through historical data analysis.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America market accounted for 40% of the revenue share in 2024, led by strong tech infrastructure and significant investment opportunities in AI innovation.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "segment accounted for the largest market revenue share in 2023",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "North America’s market leadership, contributing 38.2% to incremental growth, underscores the strong demand.",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Component - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Component - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Deployment - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Deployment - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on End-user - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on End-user - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by geography 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by geography 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "By offering: Software segment held the largest market share of 47.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By technology: Machine learning (ML) segment held the largest market share of 36.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By deployment mode: Cloud deployment segment held the largest market share of 64.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By organization size: Large enterprise segment held the largest market share of 54.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: IT & telecommunications segment held the largest market share of 25.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 36.8% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Join 2,500+ leaders from Apple, Google, Stripe, and OpenAI who are interested in startups: investing in them, learning about them, and supporting founders.",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Startups dominate AI applications, earning nearly $2 for every $1 incumbents earn, while enterprise infrastructure spend continues to favor incumbents.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-native startups are rapidly emerging across every job function, capturing a meaningful share of the $7.3B spent on departmental AI in 2025.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "to the AI imperative including many in our portfolio, such as Intercom who have already launched a $100M+ AI product. We suspect these leaders will offer increased competitive pressure (as well as M&A temptation!) in the coming years.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike image generation, where open models have outperformed, video has had fewer open source leaders. Video models are compute and data intensive, costly to train and complex to evaluate. That said, we predict strong open video models will emerge in 2026—Qwen’s open video model is an early winner, and momentum is building.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Insights from 226 healthcare executives on why AI’s returns arrived faster and higher than expected, why they’re concentrated in the back office, and what it will take to unlock clinical AI.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "by volume and 36% by dollars. 42% of vertical deals were >$10M, and 10% were >$50M. Per usual, Healthcare and Financial Services represented by far the largest share of both deal value (58%) and volume (52%).",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   },
+   {
+    "quote": "We calculate table values as follows: (for each vertical, # deals in given deal size range / total # of deals in that vertical) - average % share of # deals in that deal size range across all vertical financings. So a +20-30% in $1-5M would indicate relatively more deals in that bucket for said vertical, vs. all peers across verticals (and would should up on the heatmap chart as dark blue).",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業界特化型AI業界で事業を展開する主要企業は以下のとおりである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "垂直型AI市場における主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、Atomwise、BenevolentAI、Blue River Technology、Databricks、Farmers Edge、Harvey AI、Insilico Medicine、Nauto、Path AI、Recursion Pharmaceuticalsなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the vertical AI industry include:",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the vertical AI market?",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the industry include Atomwise, BenevolentAI, Blue River Technology, Databricks, Farmers Edge, Harvey AI, Insilico Medicine, Nauto, Path AI, and Recursion Pharmaceuticals.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "IBM Corporation, Alphabet Inc., Microsoft Corporation, Amazon Web Services Inc., NVIDIA Corporation, Oracle Corporation, C3.ai Inc., Salesforce Inc., H2O.ai, Siemens Healthineers AG, Accenture, Matellio Inc., Other Key Players",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Vertical AI Market?",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "13. Competitive Landscape",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14.1 Companies profiled",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the vertical AI market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include C3.ai; Palantir Technologies; Tempus AI; Siemens Healthineers AG; Procore Technologies; nCino; H2O.ai; Insitro; PathAI; IBM Corporation; Microsoft Corporation; Matellio Inc.; Salesforce, Inc.; Accenture",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "AI startups can use the same model and still sell radically different products. A clinical documentation platform, legal research system, and construction takeoff tool face different buyers, data, integrations, and failure costs.",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Early-stage investments are speculative, illiquid, and long term. Many startups fail, and you can lose the full investment. Thoughtful investors can inspect the same company and reach different conclusions.",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Two ways to get closer to startups",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Join 2,500+ leaders from Apple, Google, Stripe, and OpenAI who are interested in startups: investing in them, learning about them, and supporting founders.",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Global Vertical AI Market: Competitive Landscape",
+    "url": "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups vs. Incumbents: New Entrants Gain Ground in AI Apps",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "At the AI application layer, startups have pulled decisively ahead. This year, according to our data, they captured nearly $2 in revenue for every $1 earned by incumbents—",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "On paper, this shouldn’t be happening. Incumbents have entrenched distribution, data moats, deep enterprise relationships, scaled sales teams, and massive balance sheets. Yet, in practice, AI-native startups are out-executing much larger competitors across some of the fastest-growing app categories.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "startup share): Code generation is the canonical example for why startups win.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "startup share): AI-native startups like",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "face high demands for accuracy that slow their ability to ship AI-native workflows. Although the total dollars here are still small, this paralysis creates a vacuum for startups like",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "AI startups thrive in agile departments like market research, sales, marketing, and product. Incumbents hold their ground in IT and data science, where reliability and deep integrations outweigh speed.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups dominate AI applications, earning nearly $2 for every $1 incumbents earn, while enterprise infrastructure spend continues to favor incumbents.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-native startups are rapidly emerging across every job function, capturing a meaningful share of the $7.3B spent on departmental AI in 2025.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises remain particularly cautious toward Chinese open-source models, despite their impressive progress this year and growing popularity among startups. Collectively, they account for just",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": ", are building the runtime observability layer for AI, wedging in via developmental workflows including evals, tracing, and continuous learning. The market map below shows the key players building the foundational layers that power generative AI applications.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI spending includes foundation models, model training infrastructure, AI infrastructure, and AI applications from both startups and incumbents. It excludes chips (e.g., Nvidia), inference and model serving (e.g., AWS, GCP, Azure, Fireworks), and AI features built into existing software solutions (e.g., Intuit Assist).",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "AI benchmarks: What “great” startups look like in 2025",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "A tale of two AI startups and the new “T2D3”",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "and focused on 20 astonishing AI startups to help define what a great AI startup looks like. While these benchmarks will undoubtedly evolve in the coming years, it’s clear that what constituted a great startup in the SaaS era doesn’t quite cut it anymore.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, the AI era isn’t delivering uniformly good news for startups and investors.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "At Bessemer, we’ve already deployed over $1 billion in capital to AI-native startups since our initial commitment in 2023.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "for what great AI startups look like",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarks have always been an imperfect way to judge startups—but in the AI era, they’re even less reliable. In particular, some AI startups have achieved growth rates the world has truly never seen, driving every AI founder to wonder what good even looks like anymore. We’ve thus updated our benchmarks acknowledging that some AI startups are playing a different game.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "To formulate our new set of benchmarks we studied 20 high-growth, durable AI startups across our portfolio and beyond, including breakouts",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "On average, ten AI Supernova startups we surveyed reached ~$40M ARR in their first year of commercialization and ~$125M ARR in the second year of revenue generation.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Explosively scaling AI startups with unprecedented growth and adoption.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "If T2D3 (triple, triple, double, double, double) defined the SaaS era, then Q2T3* (quadruple, quadruple, triple, triple, triple) better reflects the five-year trajectory we’re seeing from today’s AI Shooting Stars. These startups grow meaningfully faster than traditional SaaS, but still operate closer to SaaS benchmarks than the explosive AI Supernovas.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Fast-growing, capital-efficient AI startups with strong PMF, solid margins, and loyal customers—scaling like stellar SaaS.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "new benchmarks to showcase the reality of standout AI startups of the moment. That said, building an iconic AI company doesn’t require quadrupling overnight. Many of the strongest companies will still take a more deliberate path, shaped by product complexity and competitive dynamics.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "However, speed matters more than ever. AI has unlocked faster product development, GTM, and distribution—making “Q2T3” (quadruple, quadruple, triple, triple, triple) an ambitious but increasingly achievable benchmark. Dozens of startups have already proven it’s possible—and we believe you can too!",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Many unknowns remain, but winning startups will likely need to master both the infrastructure and the interface going forward:",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": ">=$1M rounds raised (closed or announced-closed) by software & tech-enabled healthcare startups in the US and Canada in Q2. We generally exclude multi-B generalist AI deals to avoid skewing takeaways. That was only one this quarter: ScaleAI ($1.4B).",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "バーティカルAIとは｜官民投資ロードマップの目標5兆円・投資額23.1兆円・領域特化型AIの政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までに23.1兆円、経済波及効果は222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額23.1兆円・経済波及効果222.0兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで23.1兆円、投資による経済波及効果は2040年度までで222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAIの官民投資額は2040年度までで23.1兆円、経済波及効果は2040年度までで222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで23.1兆円、経済波及効果は2040年度までで222.0兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "【株主優待】必要投資額30万円台の“実力派”優待株の2銘柄！ 人気のお菓子などがもらえる｢明治HD｣と普段の食卓で使いやすい食品優待の｢理研ビタミン｣に注目",
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "pass": 3
+   },
+   {
+    "quote": "同月21日に政府の日本成長戦略本部が決定した官民投資ロードマップでは、2040年度までのバーティカルAIへの官民投資額を23.1兆円と想定し、経済波及効果は同年度までで222兆円を見込む",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "累計調達額は約286億円",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "累計エクイティ調達額は257.3億円",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "キャディ、総額40億円のエクイティ資金調達と、51億円の長期デットファイナンスを実施",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "Atomicoをリード投資家とするシリーズCエクステンションにより、累計エクイティ調達額が257.3億円に到達したことを公表",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "pass": 3
+   },
+   {
+    "quote": "The North America market accounted for 40% of the revenue share in 2024, led by strong tech infrastructure and significant investment opportunities in AI innovation.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024. This robust valuation is supported by a combination of technological advancements, sector-specific demands, and substantial investment in AI capabilities, particularly in cloud-based technologies.",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America is projected to contribute 38.2% of the market's incremental growth, leading global adoption of industry-specific AI solutions. This dominance is fueled by substantial investments in AI applications in healthcare and AI in financial services.",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Our vertical AI market map groups representative private companies by end market and first workflow wedge as of October 1, 2026. It also gives investors a way to inspect buyer economics, defensibility, and risk without mistaking a category placement for investment quality.",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "A 2026 Thomson Reuters survey found organizational generative AI use among its professional-services respondents at 40%, while only 18% said their organizations tracked return on investment. That",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of illiquid investments: 8 ways cash gets stuck",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Investment perspectives, market analysis, and growth playbooks from 30 years of backing Founders.",
+    "url": "https://www.scalevp.com/blog/the-future-of-ai-is-vertical",
+    "pass": 3
+   },
+   {
+    "quote": "Global Vertical AI Market: Enterprise AI Adoption, Domain-Specific Intelligence & Autonomous Agent Investment Outlook to 2033",
+    "url": "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "invested in 2024. When segmented by industry, healthcare alone captures nearly half of all vertical AI spend—approximately",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "$3.5B was invested across vertical sectors this year, nearly 3x last year’s spend. Healthcare represents $1.5B of that total, capturing 43% of the market and outspending the next four verticals combined.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI has become a $3.5B category in 2025, triple the dollars invested last year. These companies illustrate how AI-native software is emerging to serve every sector of the economy.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprises invested $18B in AI infrastructure across foundation models, training systems, and the data and orchestration layers. This market map shows the companies serving each part of that stack.",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Maha is a Vice President in Bessemer Venture Partners’ New York office, where she focuses on early-stage investments across the application-layer. She partners with founders building across B2B, consumer, and prosumer platforms, with a particular interest in how workflows are being reshaped in the LLM era across verticals.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Lance Co Ting Keh founded OpenPay, an AI subscription company acquired by Airwallex in 2025, and today is the co-founder, CEO of t0.ai and a GM at Airwallex. He is a builder at heart: he co-founded Vega Health, a Duke spinout in health AI, and earlier bootstrapped SharedRoof Investments, a real estate company that valued homes off predicted prices, and co-founded a sports analytics shop.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to venture capital, she focused on building marketing teams for startups, ghostwriting, and running integrated brand campaigns for large B2B technology companies.",
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Funding in Q2 2025: $17.4B, Top Rounds and Exits",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   },
+   {
+    "quote": ") With ~$100M raised to date since its 2021 founding, the company will use the capital to deepen AI capabilities, expand internationally and scale its infrastructure and go-to-market. (",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   },
+   {
+    "quote": "In May, Elevate K-12 secured $25M in growth financing from Trinity Capital. Elevate provides live, synchronous instruction from certified teachers to district classrooms, addressing teacher shortages across core subjects. With ~$65M raised to date since its 2015 founding, the company will use the capital to expand footprint and enhance delivery quality.",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   },
+   {
+    "quote": "In May, Acumatica agreed to be acquired by Vista Equity Partners for a reported ~$2B. Acumatica offers cloud ERP for SMBs across financials, distribution, manufacturing and service. With ~$65M raised to date since its 2008 founding, the exit is simultaneously a relatively capital-efficient story and a window into the challenges of speed-to-market in manufacturing software.",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   },
+   {
+    "quote": ">=$1M rounds raised (closed or announced-closed) by software & tech-enabled healthcare startups in the US and Canada in Q2. We generally exclude multi-B generalist AI deals to avoid skewing takeaways. That was only one this quarter: ScaleAI ($1.4B).",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "業界特化型 AI市場 の 規模 とシェア、成長予測（2025〜2034年） — 業界特化型 AI市場 の 規模 とシェア、成長予測（2025〜2034年） Global Market Insights Inc. https://www.gminsights.com > vertical-ai-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... — バーティカルAI とは｜領域特化型AIで2030年に内外5兆円の ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (1) AI・半導体",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界特化型 AI市場 の規模と シェア 、成長予測（2025〜2034年） — 業界特化型 AI市場 の規模と シェア 、成長予測（2025〜2034年） Global Market Insights Inc. https://www.gminsights.com > vertical-ai-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAI 領域別戦略 中間とりまとめ — バーティカルAI 領域別戦略 中間とりまとめ 内閣府ホームページ PDF https://www8.cao.go.jp > ai > ai_hq > shiryo2_2",
+    "url": "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... — 領域特化の「 バーティカルAI 」、官民で2040年度までに23兆 ... 日経クロステック https://xtech.nikkei.com > 3分でわかる必修ワード IT",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "pass": 3
+   },
+   {
+    "quote": "バーティカルAI とは？ホリゾンタルAIとの違いと政府19領域 — バーティカルAI とは？ホリゾンタルAIとの違いと政府19領域 株式会社一創 https://www.issoh.co.jp > コラム > AI",
+    "url": "https://www.issoh.co.jp/column/details/13980/",
+    "pass": 3
+   },
+   {
+    "quote": "業界特化型 AI市場 の規模とシェア、成長予測（ 2025 〜2034年） — 業界特化型 AI市場 の規模とシェア、成長予測（ 2025 〜2034年） Global Market Insights Inc. https://www.gminsights.com > vertical-ai-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size & Share, Growth Forecasts 2025 -2034 — Vertical AI Market Size & Share, Growth Forecasts 2025 -2034 Global Market Insights Inc. https://www.gminsights.com > vertica...",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size , Share, Trends | CAGR of 24.5% — Vertical AI Market Size , Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Analysis, Size , and Forecast 2025 -2029 — Vertical AI Market Analysis, Size , and Forecast 2025 -2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size , Growth Report, 2026-2033 — Vertical AI Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size, Share , Trends | CAGR of 24.5% — Vertical AI Market Size, Share , Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size, Growth Report, 2026-2033 — Vertical AI Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI market map: 8 industries for investors | Hustle Fund — Vertical AI market map: 8 industries for investors | Hustle Fund Hustle Fund https://www.hustlefund.vc > post > ve...",
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size, Share, Trends | CAGR of 24.5% — Vertical AI Market Size, Share, Trends | CAGR of 24.5% Market.us https://market.us > vertical-ai-market",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Vertical AI Market Size & Share | Report 2033 — Global Vertical AI Market Size & Share | Report 2033 Mark & Spark Solutions https://marksparksolutions.com > glo...",
+    "url": "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Analysis, Size, and Forecast 2025-2029 — Vertical AI Market Analysis, Size, and Forecast 2025-2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Analysis, Size, and Forecast 2025 -2029 — Vertical AI Market Analysis, Size, and Forecast 2025 -2029 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical AI Market Size & Share , Growth Forecasts 2025 -2034 — Vertical AI Market Size & Share , Growth Forecasts 2025 -2034 Global Market Insights Inc. https://www.gminsights.com > vertica...",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "21.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "世界の垂直型AI市場は2024年に102億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）21.6%で推移すると推定される"
+   },
+   {
+    "value": "24.5",
+    "url": "https://market.us/report/vertical-ai-market/",
+    "quote": "Vertical AI Market Size, Share, Trends | CAGR of 24.5%"
+   },
+   {
+    "value": "24.3",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "quote": "CAGR of 24.3%"
+   },
+   {
+    "value": "28.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "CAGR of 28.3% from 2026 to 2033"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "60",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "2024年には、クラウドセグメントが 60% 超の市場シェアを占め、2034年までに 400億米ドルを超えると予測されています"
+   },
+   {
+    "value": "36",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "2024年には、機械学習セグメントが 36% の市場シェアを占めました"
+   },
+   {
+    "value": "40",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "北米は、2024年に約40%という大きなシェアを占め、世界の垂直型AI市場をリードした"
+   },
+   {
+    "value": "5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "Recursion PharmaceuticalsとPath AIは、垂直型AI業界で5%を超える市場シェアを占めている"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "13",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "quote": "Bessemerの概算では、ビジネス・専門サービス業は米国GDPの13%を占め、これはソフトウェア市場の、およそ10倍にあたります"
+   },
+   {
+    "value": "86",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "quote": "その86%にあたる72億ドルは、ChatGPT EnterpriseやClaude for Work、Microsoft Copilotといった伴走型が占めます"
+   },
+   {
+    "value": "43",
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "quote": "で全体の43%を占め、前年の4.5億ドルから3.3倍に伸びています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "quote": "Based on deployment model, the vertical AI market is divided into on-premises, cloud and hybrid. In 2024, the cloud segment held a market share of over 60% and is expected to cross USD 40 billion by 2034."
+   },
+   {
+    "value": "36",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "quote": "Based on technology, the vertical AI market is categorized into machine learning, deep learning, natural language processing, computer vision, robotics and others. The machine learning segment held a market share of 36% in 2024."
+   },
+   {
+    "value": "5",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "quote": "Recursion Pharmaceuticals and Path AI hold a market share of over 5% in the vertical AI industry. Strength-wise, Recursion Pharmaceuticals has leveraged Exscientia and merged with them to boost their capabilities. The sophisticated chemistry tools of Exscientia combined into an AI-powered platform a"
+   },
+   {
+    "value": "40",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "quote": "The North America market accounted for 40% of the revenue share in 2024, led by strong tech infrastructure and significant investment opportunities in AI innovation."
+   },
+   {
+    "value": "38.2",
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "quote": "North America’s market leadership, contributing 38.2% to incremental growth, underscores the strong demand."
+   },
+   {
+    "value": "47.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "By offering: Software segment held the largest market share of 47.1% in 2025."
+   },
+   {
+    "value": "36.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "By technology: Machine learning (ML) segment held the largest market share of 36.4% in 2025."
+   },
+   {
+    "value": "64.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "By deployment mode: Cloud deployment segment held the largest market share of 64.6% in 2025."
+   },
+   {
+    "value": "54.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "By organization size: Large enterprise segment held the largest market share of 54.6% in 2025."
+   },
+   {
+    "value": "25.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "By end use: IT & telecommunications segment held the largest market share of 25.3% in 2025."
+   },
+   {
+    "value": "36.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "quote": "North America dominated with a 36.8% revenue share in 2025."
+   },
+   {
+    "value": "36",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "quote": "by volume and 36% by dollars. 42% of vertical deals were >$10M, and 10% were >$50M. Per usual, Healthcare and Financial Services represented by far the largest share of both deal value (58%) and volume (52%)."
+   },
+   {
+    "value": "42",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "quote": "by volume and 36% by dollars. 42% of vertical deals were >$10M, and 10% were >$50M. Per usual, Healthcare and Financial Services represented by far the largest share of both deal value (58%) and volume (52%)."
+   },
+   {
+    "value": "10",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "quote": "by volume and 36% by dollars. 42% of vertical deals were >$10M, and 10% were >$50M. Per usual, Healthcare and Financial Services represented by far the largest share of both deal value (58%) and volume (52%)."
+   },
+   {
+    "value": "58",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "quote": "by volume and 36% by dollars. 42% of vertical deals were >$10M, and 10% were >$50M. Per usual, Healthcare and Financial Services represented by far the largest share of both deal value (58%) and volume (52%)."
+   },
+   {
+    "value": "52",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "quote": "by volume and 36% by dollars. 42% of vertical deals were >$10M, and 10% were >$50M. Per usual, Healthcare and Financial Services represented by far the largest share of both deal value (58%) and volume (52%)."
+   },
+   {
+    "value": "30",
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "quote": "We calculate table values as follows: (for each vertical, # deals in given deal size range / total # of deals in that vertical) - average % share of # deals in that deal size range across all vertical financings. So a +20-30% in $1-5M would indicate relatively more deals in that bucket for said vert"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/physical-ai-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%B8%82%E5%A0%B4-100114",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.goodfind.jp/2028/articles/1532",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/zai/articles/-/1070254",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalxetfs.co.jp/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd219100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/13980/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2026/0721_shiryo03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://innovatopia.jp/ai/ai-news/113176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/vertical-ai-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/ai-agents-market-15761548.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/vertical-ai-market-125813995.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sapphireventures.com/blog/the-biggest-vertical-ai-markets-are-hiding-in-plain-sight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scalevp.com/blog/the-future-of-ai-is-vertical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-market-74851580.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://abundance.institute/our-work/vibrant-ai-competitive-landscape/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1ijzt89/everyone_is_talking_about_vertical_saas_in_ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@elvia_perez/why-were-bullish-on-vertical-ai-in-2025-and-how-these-companies-create-long-term-value-c38fbe8055a6",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バーティカルAI 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/physical-ai-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%B8%82%E5%A0%B4-100114",
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://www.gii.co.jp/compare/physical-ai/",
+    "https://semabiz.co.jp/mnmse10396/",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0015/handeji15-4.pdf",
+    "https://coplus-one.jp/vertical-ai/",
+    "https://www.gii.co.jp/report/grvi2017718-vertical-ai-market-size-share-trends-analysis.html"
+   ]
+  },
+  {
+   "query": "バーティカルAI 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf",
+    "https://www.goodfind.jp/2028/articles/1532",
+    "https://diamond.jp/zai/articles/-/1070254",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/",
+    "https://globalxetfs.co.jp/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "https://x.com/KagawaTomo/article/2066290198632415518",
+    "https://www.youtube.com/watch?v=MmRCj7crcZo",
+    "https://jp.linkedin.com/pulse/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%81%AE%E3%82%B7%E3%82%A7%E3%82%A2%E4%B8%8A%E4%BD%8D%E4%BC%81%E6%A5%AD%E3%81%A8%E5%B8%82%E5%A0%B4%E6%A7%8B%E9%80%A0-zyxandril-scan-mvgse",
+    "https://ai-search.techsuite.co.jp/14733/"
+   ]
+  },
+  {
+   "query": "バーティカルAI 市場 前年比 2025",
+   "results": [
+    "https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd219100.html",
+    "https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html",
+    "https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub2.html",
+    "https://www.issoh.co.jp/column/details/13980/",
+    "https://www.gminsights.com/ja/industry-analysis/vertical-ai-market",
+    "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2026/0721_shiryo03.pdf",
+    "https://innovatopia.jp/ai/ai-news/113176/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%B8%82%E5%A0%B4-100114",
+    "https://www.ai-souken.com/article/what-is-vertical-ai"
+   ]
+  },
+  {
+   "query": "vertical AI market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "https://market.us/report/vertical-ai-market/",
+    "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/ai-agents-market-15761548.html",
+    "https://www.precedenceresearch.com/artificial-intelligence-market",
+    "https://www.theinsightpartners.com/reports/artificial-intelligence-market",
+    "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "https://www.fortunebusinessinsights.com/generative-ai-market-107837",
+    "https://www.marketresearch.com/One-Off-Global-Market-Insights-v4130/Vertical-AI-Opportunity-Growth-Drivers-44948277/"
+   ]
+  },
+  {
+   "query": "vertical AI market share top players percent",
+   "results": [
+    "https://market.us/report/vertical-ai-market/",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "https://www.marketsandmarkets.com/Market-Reports/vertical-ai-market-125813995.html",
+    "https://www.linkedin.com/pulse/surge-vertical-ai-companies-trends-top-from-around-world-engman-xj3wf",
+    "https://sapphireventures.com/blog/the-biggest-vertical-ai-markets-are-hiding-in-plain-sight/",
+    "https://www.scalevp.com/blog/the-future-of-ai-is-vertical",
+    "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "https://www.reddit.com/r/ycombinator/comments/1gxejzi/vertical_ai_agents_could_be_10x_bigger_than_saas/",
+    "https://www.statista.com/topics/13788/artificial-intelligence-ai-market-leaders/"
+   ]
+  },
+  {
+   "query": "vertical AI market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://market.us/report/vertical-ai-market/",
+    "https://marksparksolutions.com/reports/global-vertical-ai-market",
+    "https://www.hustlefund.vc/post/vertical-ai-market-map",
+    "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-market-74851580.html",
+    "https://abundance.institute/our-work/vibrant-ai-competitive-landscape/",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "https://www.linkedin.com/posts/cathylgao_frontier-models-will-create-enormous-value-activity-7487953948532801536-emtD",
+    "https://www.reddit.com/r/ycombinator/comments/1ijzt89/everyone_is_talking_about_vertical_saas_in_ai/",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "vertical AI market key companies share 2025",
+   "results": [
+    "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-ai-market-report",
+    "https://market.us/report/vertical-ai-market/",
+    "https://www.technavio.com/report/vertical-ai-market-industry-analysis",
+    "https://www.gminsights.com/industry-analysis/vertical-ai-market",
+    "https://www.precedenceresearch.com/artificial-intelligence-market",
+    "https://www.bvp.com/atlas/the-state-of-ai-2025",
+    "https://insights.euclid.vc/p/the-state-of-vertical-ai-q2",
+    "https://medium.com/@elvia_perez/why-were-bullish-on-vertical-ai-in-2025-and-how-these-companies-create-long-term-value-c38fbe8055a6",
+    "https://www.kingsresearch.com/report/global-vertical-ai-market-3174"
+   ]
+  }
+ ],
+ "missing": {}
+}

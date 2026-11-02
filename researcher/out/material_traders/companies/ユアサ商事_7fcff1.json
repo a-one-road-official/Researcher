@@ -1,0 +1,2402 @@
+{
+ "name": "ユアサ商事",
+ "aliases": [
+  "Yuasa Trading"
+ ],
+ "context": "機械・工具の商社（上場）",
+ "researched_at": "2026-11-02T16:53:33.205108+00:00",
+ "official_url": "https://www.yuasa.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1666年(寛文6年）3月",
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1919年(大正8年）6月25日",
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1919年6月25日",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,156名（連結） 1,331名（単体） （2026年 4月末時点）",
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5,048 5,265 5,283 5,450 5,460",
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "432,185 462,725 504,806 526,569 528,387",
+    "url": "https://www.yuasa.co.jp/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "label": "連結売上高",
+    "value": "5,100 億円※・経常利益：145 億円",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "label": "連結売上高",
+    "value": "6,000 億円※・経常利益：200 億円",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "加工・付加価値": [
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/solutions/kizukimirai/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/solutions/kizukimirai/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長 | 「つなぐ」ソリューションズ | 株式会社YUASA",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化設備やセンシングでの情報収集などは、加工機内がクリーンな状態でなければ、安定化しません",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "加工環境ソリューションは、スラッジ対策（精密濾過）から始まり、加工環境を整えることで、製造現場が抱える様々な問題を解決し、スマートファクトリー化を目指す製造業の皆様を応援します",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "そのスラッジに最も困っているのが、脆性材（セラミックス、石英ガラス等）を加工をされているお客様です",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "加工環境ソリューションは、マイクロファインバブル発生機「バブパワー2」による洗浄技術を核に、高精密ろ過装置、センシング技術を組み合わせ、加工効率の向上と設備や工具の長寿命化を実現するソリューション",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "加工液に含まれる",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "① 脆性材加工に必須な",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工に欠かせない「精密ろ過」+「マイクロファインバブル」+「加工機」+「対象物質別AEセンサー」をパッケージにすることで、",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工に驚きの効果を生み出します",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "工具や砥石、加工箇所や機内に付着したゴミ（スラッジ）を効率よく徹底捕集",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "加工テストでは、セラミックスで",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "加工後の電着砥石面（顕微鏡写真）",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "部品の加工や洗浄の際、隙間に泡が入ることで接触面の抵抗が減るため、工具の長寿命化や切削速度の向上といった効果も期待できる",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "実機見学や加工テストも",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/library/corporate-report/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/library/corporate-report/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir/library/yuasa-report/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir/library/yuasa-report/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/corporate/management/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/corporate/management/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/工具寿命延長",
+    "url": "https://www.yuasa.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "脆性材加工の課題解決/",
+    "url": "https://www.yuasa.co.jp/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "このような状況の中、国内の注力分野である精密板金市場・脆性材加工市場に対して、顧客の生産現場における課",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "予約権者は、地位を喪失した日の翌日（以下「権利開始日」という",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会決議または代表取締役社長の決定がなされた場合）、承認の翌日から10日間が経過する日まで権利行",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "使されなかった新株予約権は、10日間を経過した日の翌日に当社が無償にて取得する",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "過去の歴史から培ってきた強みを活かし、人 ・モノ・資金・情報・データ・技術など、あらゆるものを「つなぐ」ことで付加価値を創出し、社会課題を解決する「つなぐ」イノベーションモデルを推進しています",
+    "url": "https://www.yuasa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＹＵＡＳＡの強みは何ですか",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "このような業界最大級の「ネットワーク」と独自の「機能」を通じ、モノづくり、すまいづくり、まちづくり、くらしづくりの社会課題解決に向けた商品・サービスを提案できることが当社の強みといえます",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、当社の強みの強化、また当社に不足しているピースの獲得につながるかを軸に、M&Aを推進してまいります",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みとオリジナリティ",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が有する主要仕入先様6,000社、主要販売先様20,000社のネットワークは、競争優位をもたらすビジネス領域の広さのみならず、その幅広いネットワークから集められる最新の市場動向やユーザーの声を反映し、製品・市場戦略に展開できる強みそのものとなっています",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "多数の省エネ製品を取り扱うだけではなく、独自のノウハウを活かしニーズに沿った製品・サービスの提供、そしてグループ全体の総合力を強みとし、事業を通じてサプライチェーン全体の環境負荷低減に取り組んでいます",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "強みである「人財」を中心に据え、今まで以上に社員が活躍できる風土改革を実現",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みである「人財」を中心に据え、今まで以上に社員が活躍できる風土改革を実現し、サステナビリティ経",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "変化を市場機会や競争優位性に転換する「攻め」と、潜在的損失を防ぐ「守り」のリ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様な個の強みを組織力に昇華させる連携の仕組み不足",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本統合報告書は、 ユアサ商事グ ルー プ独自の強みを活かし つつ、 将来に向か っ てどのよ うに企",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長戦略は 「既存コア事業の強化」 と 「新市場への強みの",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もに、 当社グループがコア事業で培っ てきた強みを活かすこと",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その強みを活かさない手はあり ま",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グ ルー プの強みである",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで培ったノウハウや強みを活かし、",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グ ルー プの強みを展開",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長戦略は、 当社グ ルー プが既存事業で培 っ た強みを活かし 、 全社売上の更なる伸長を図る",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戦略で 、 「コア事業売上の更なる拡大」 を目指す6つの事業と 、 「強みを新たな市場へ展開」 する",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みを活かし",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存コア事業で培った強みを成長市場に展開し、 将来に向けた新たな収益の柱と する こ と を目指し ます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、 既存コア事業で これまで培 っ て き た強みを新たな市場に展",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も当社グ ルー プの強みを活かした付加価値の創造を",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの 「 強み」 や 「 基盤 」 を強化し、 ビジネス変革を目指し ます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DX を通じた 「基盤強化」 「強みの伸長」 によ り",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指すビジネススタイルといった強みを、 いかに海外に展開でき",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした強みが詰まっているの",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ギーは、 ユアサの最大の強みであると感じます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユアサの強みは販売だけでな く 、",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を含め、 ユアサの強みを活かしながら、 良いソ リ ューシ ョ ンを",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ルを自らつ く っ ていける環境というのは強みですよね",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益／営業利益率 事業環境分析",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率 （％）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な事業売上高 営業利益／営業利益率 事業環境分析",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省エネの提案や高効率商品の販売力に加え、 補助金を活用したソ リ ューシ ョ ン提案力は当部門の強みです",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "としてのつながりという強みを活かして、 事業を通じた企業価",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益／営業利益率",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率 （％）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が強みとする屋外市場においてもアウトドアリビングに注目が",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "備品をレンタルする事業の強みを活かし、 イベント主催者",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの機能を当社の強みに変えていくことが狙いです",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別売上高構成",
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスフィールドと事業セグメント",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の状況は以下のとおりです",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部門」としていた報告セグメント名称を「工場設備部門」に、「建設機械部門」としていた報告セ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 345 597 1,702 296 249 18 3,211 76 3,287 △1,130 2,156",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のセグメント情報については、当該見直し反映後のものを記載しております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 「その他」の区分は、報告セグメントに含まれない事業セグメントであり、生活関連商品及び木材製品を販",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益の調整額△1,130百万円は、主に報告セグメントに帰属していない当社の管理部門に係る費",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失（△）の調整額△1,269百万円は、主に報告セグメントに帰属していない当社の管",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ セグメント利益又は損失（△）は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントの変更等に関する事項",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結会計期間より、報告セグメントの名称変更を行っております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たセグメント名称を「工場設備」に、従来「建設機械」としていたセグメント名称を「都市基盤」に変更いた",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当該変更は報告セグメントの名称変更のみであり 、セグメント情報に与える影響はありません",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、前第１四半期連結累計期間のセグメント情報についても、変更後の名称にて記載しております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 主な事業内容 当社及び主要な関係会社",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の売上高の詳細については、(2）経営者の視点による経営成績等の状況に関する分析・検討内容に",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 金額（百万円） 前年同期比（％） 構成比率（％） 金額（百万円） 前年同期比（％） 構成比率（％）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 所在地 セグメントの名称 設備の内容",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ セグメン ト別売上構成比",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【 事 業 セグメント 】",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▎ 長期ビジ ョ ン 「ユアサビジ ョ ン360 」 を通じた事業ポー ト フ ォ リオの強化 ビジネス フ ィ ール ド ごと の構成比推移 （2017 年～ 2024 年）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別売上比率 三位一体のビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コア事業 （７つのセグメント）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の主要事業で、 7つのセグメントで構成されています",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスフィールド別売上構成比",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "第2四半期の実績をセグメント別にご説明します",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "表の一番上の「モノづくり」は、工業系のお客さまに対し、さまざまな設備や消耗品を販売するセグメントです",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "現状、最も厳しい結果となっているセグメントは「工業機械」です",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "今年に入り、トランプ関税という新たな難題が発生し、このセグメントは現在、苦境に立たされています",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「すまいづくり・環境づくり」セグメントは、「住設・管材・空調」の分野で構成されています",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、同セグメントは前年同期比6.2パーセントの増収、28.2パーセントの増益を達成しました",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "次に「まちづくり」セグメントについてです",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「建設機械」セグメントは増収増益となりました",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "新流通ビジネス部では、ECビジネスを展開するお客様向けに当社の豊富な商品やサービスを提供しています",
+    "url": "https://www.yuasa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "第64回十大新製品賞",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "このような業界最大級の「ネットワーク」と独自の「機能」を通じ、モノづくり、すまいづくり、まちづくり、くらしづくりの社会課題解決に向けた商品・サービスを提案できることが当社の強みといえます",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "どんな取扱商品がありますか",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくり、すまいづくり、まちづくり、くらしづくりに不可欠な生産財を中心に約500万アイテム以上の商品取扱がございます",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "主な取扱商品は、産業機器、工業機械、住設・管材・空調、建築・エクステリア、建設機械、エネルギー、消費財・木材製品などです",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が持つ歴史や経験を可能な限りデジタル化しつつ、現在の取引先様からの情報と市場データを集約しAIの活用により分析することで、「コト売り」への変革に向け新たなサービスや商品開発につなげてまいります",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けについては、グループ会社ユアサプライムス㈱において、家電商品（扇風機、コタツ、ストーブ、調理家電他）をＥＣサイト、全国の家電量販店、ホームセンター、総合スーパーを通じて販売しております",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "切削工具に用いられるタングステンなどのレアメタルは、世界的に品薄・価格高騰が発生しています",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が有する主要仕入先様6,000社、主要販売先様20,000社のネットワークは、競争優位をもたらすビジネス領域の広さのみならず、その幅広いネットワークから集められる最新の市場動向やユーザーの声を反映し、製品・市場戦略に展開できる強みそのものとなっています",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "単独企業や単独商品で解決できない課題",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社オリジナルの新たな商品やサービス",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "本方針に基づき、国際規格であるISO14001マルチサイト認証を活用した環境マネジメントを推進し、組織活動、製品及びサービスにおける環境負荷の低減を目指しＰＤＣＡサイクル（計画、実施・運用、点検、見直し）を通じて環境パフォーマンスの継続的な改善に努めています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「モノづくり」「すまいづくり」「環境づくり」「まちづくり」の分野で複合専門商社として多様な商品・サービスを取り扱っており、気候変動に関する影響や事業環境の変化によるリスクや機会があります",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品に対する環境規制強化",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品に対する環境規制強化によるコスト増",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "・エネルギー効率の高い製品の需要拡大",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "・資源循環に関する製品の需要拡大",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "・低炭素技術による既存商品の需要減",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "・レジリエンス商品の需要拡大",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "多数の省エネ製品を取り扱うだけではなく、独自のノウハウを活かしニーズに沿った製品・サービスの提供、そしてグループ全体の総合力を強みとし、事業を通じてサプライチェーン全体の環境負荷低減に取り組んでいます",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "社会全体での環境負荷低減に貢献していくため、取り扱い製品・サービスの製造や使用時のCO2排出量の削減を進めることが重要であると考えています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "事業においても、グリーン事業を全社推進事業と位置づけ、販売先やそのお客さまによる製品使用時のCO2排出量の削減を進めるため、省エネ製品や脱炭素関連製品の提案・販売を推進しています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動への対応につながる主な対象製品・サービス",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "防災・減災・BCP（事業継続計画）をキーワードに、社会インフラの強靭化（レジリエンス）につながる商品・サービスの普及に取り組むとともに、深刻化する自然災害や感染症といった社会課題に対応すべく、新たなソリューション開発を推進しています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、製品の購入や使用に関する排出量が多いため、当社グループの成長戦略の一つであるグリーン事業の推進を軸に、製造工程における脱炭素の支援や省エネ製品などの拡販を進めていき、サプライチェーン全体での排出量削減に貢献していきます",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリー１ 購入した製品・サービス",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "分野に関する製品販売やサービス提供",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て住宅を中心に新設住宅着工戸数は引き続き低位で推移した一方、省エネ性能・機能性の高い商品",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品が底堅い動きとなりました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況の中、現場の省人化・工期短縮ニーズに応える施工省力化製品の提案や、空調改",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ションや安全対策、CO₂見える化商品・熱中症対策商品の拡販、行政機関への防災・BCP関連商材の",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中、熱中症対策商品の開発に注力し、消費者ニーズを捉えたラインナップの拡充に努めました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "体制の強化や非住宅向け大断面木材等付加価値の高いオリジナル製品の販売拡大に注力しました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 「その他」の区分は、報告セグメントに含まれない事業セグメントであり、生活関連商品及び木材製品を販",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1919年６月 各種金属製品の販売を目的に株式会社湯淺七左衛門商店を設立し、本店を京都、支店を東京・大阪に置",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エネルギー部門 石油製品の販売 － ユアサ燃料㈱ ※",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他 生活関連商品・木材製品の販売、システム開発・保守・運用管理 当社",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の仕入・販売",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の販売、工事の発注",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "協栄ジェネックス㈱ 東京都目黒区 百万円90 エクステリア商品・住宅関連商品の販売 100.0",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フジクレスト㈱ 東京都大田区 百万円88 エクステリア商品・住宅関連商品の販売 60.0",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の仕入・販売、イベント業務の",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユアサ燃料㈱ 名古屋市名東区 百万円80 石油製品の販売 100.0",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユアサプライムス㈱ 東京都中央区 百万円450 生活関連商品の製造・販売 100.0",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユアサ木材㈱ 東京都千代田区 百万円270 原木・木材製品・合板の販売 100.0",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、優れた技術・製品の導入及びシステム、サービスの開発を行い、専門分野に精通した部門あるいはグループ企",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・カーボンニュートラルについて事業活動を通じた本業による環境貢献型製品・サービスの取り扱い強化を推進",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、社会の強靭化に資する製品・ソリューションを提供し、レジリエントな社会の",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また取引先各社の商品・技術・機能・サービス等を「つなぐ」ことで、単独企業や商",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用し、環境パフォーマンスの改善に向けた組織活動、製品及びサービスにおける環境負荷の低減を行っていま",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "として多様な商品・サービスを取り扱っており、気候変動に伴い様々なリスクや機会があります",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品に対する環境規制強化によるコスト増",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術 ・低炭素技術による既存商品の需要減",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス ・エネルギー効率の高い製品の需要拡大",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・レジリエンス商品の需要拡大",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・資源循環に関する製品の需要拡大",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会全体での環境負荷低減に貢献していくため、取扱い製品・サービスの製造や使用時のCO2排出量の削減",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "やそのお客さまによる製品使用時のCO2排出量の削減を進めるため、省エネ製品や脱炭素関連製品の提案・販",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "ＹＵＡＳＡは、創業400年を見据え「つなぐ力で社会の基盤を支え、豊かな、変化に強い未来」を実現します",
+    "url": "https://www.yuasa.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "加工環境ソリューションは、スラッジ対策（精密濾過）から始まり、加工環境を整えることで、製造現場が抱える様々な問題を解決し、スマートファクトリー化を目指す製造業の皆様を応援します",
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、創業370周年を迎える2036年3月期までを対象とする10年間の長期ビジョン「YUASA vision 370」の達成に向け、2031年3月期までの5か年を対象とする中期経営計画「Reborn 2031」を推進しています",
+    "url": "https://www.yuasa.co.jp/ir/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革について",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1666年（寛文6年）創業以来350年以上の歴史を持つ「『つなぐ』複合型専門商社グループ」です",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "会社創業・設立の経緯について教えてください",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1666年（寛文6年）京都で初代湯浅庄九郎が木炭商として創業後、8年後の1674年に江戸本石町（現在の日本橋本石町）に打刃物商を開きました",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "360年分の感謝を胸に、創業400年へ「生まれ変わる」覚悟と決意",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "創業360年という大きな節目、またこの4月より「株式会社ＹＵＡＳＡ」として新たなスタートを迎えた年にバトンを受け取ることとなり、身が引き締まる思いでございます",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこの4月に、創業370年を迎える2036年3月期を最終年度とする新たな長期ビジョン「YUASA vision 370」と、2031年3月期までの5か年を計画期間とする中期経営計画「Reborn 2031」を発表いたしました",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の創業は1666（寛文6）年、時は徳川4代将軍・家綱の時代にまで遡ります",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "炭の卸に始まり打刃物問屋への転業を経、金物卸として日本の産業とくらしを支えてまいりました",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者・湯淺庄九郎は、鋏やバリカン、番などといった生活に根付いた打刃物の将来性を見越し、創業わずか5年目にして転業を決意",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "2036年の創業370周年に向けた長期ビジョンを達成するため、2031年までの5年間を「Reborn2031」と定め「攻めるための基盤」を再構築します",
+    "url": "https://www.yuasa.co.jp/corporate/management/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ＹＵＡＳＡ（東京都千代田区、代表取締役社長：田村 博之）は、2036年の創業370周年を見据えた",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業370周年を迎える2036年に向け、新たに実現したい社会を「つなぐ力で社会",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況の中、2036年の創業370周年を見据えた長期ビジョン「YUASA vision 370」を策定",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて、取得原価の当初配分額に重要な見直しが反映されております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1666年 初代湯淺庄九郎が京都で創業（寛文６年）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような変化の激しい時代において、当社は変化を恐れず自らを進化させるべく、2036年の創業370周年を見据",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業370周年を迎える2036年に向け、長期ビジョン「YUASA vision 370」を策定するとともに、創業400年を見据え",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業以来の「良品奉仕」の精神を軸に、変化の激しい環境をチャンスと捉え、人・モ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業以来構築してきました「主要仕入先6,000社・主要販売先20,000社の取引ネット",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、創業から続く「良品奉仕」の精神に基づき、公正かつ堅実・誠実な商取引を行ってきました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、2026年４月に2036年の創業370周年を見据えた長期ビジョン「YUASA vision 370」と、2026年４",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況の中、創業360年を迎える2026年３月期は「ユアサビジョン360」並びに中期経営計画「Growing",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、2036年の創業370周年を見据えた長期ビジョン「YUASA vision 370」と、2026年４月から2031年",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）当社グループは、2036年の創業370周年を見据えた長期ビジョン「YUASA vision 370」と、2026年４月か",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業理念と沿革",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業の精神に立脚した企業理念と時代の流れを捉えたイ ノ ベーシ ョ ンの歴史",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "初代 湯淺庄九郎が京都で木炭商を創業",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鍛冶に転業するのをみて、 創業5年目に木炭商を",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "廃業し、 第二の創業と し て打ち刃物問屋に転業",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "時代の先を見据えた創業者の決断は当社最初の",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業の精神に立脚した企業理念を重んじ、",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業期～現在の 350 年以上にわたる礎を築く 近代化に合わせた事業の多角化を推進",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YUASA INTEGRATED REPORT 2024 沿革と目指す姿 価値創造の起点 価値創造を最大化する戦略 価値創造の基盤 セグ メ ン ト別戦略対話のためのデータ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業 360 年を迎え る2026 年の当社グ ルー",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業350周年",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た当初は 「せ っか く の好立地なのに 、 足下の実績につながる",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 創業 400 周年に向けた健康経営＆働きやすさの推進",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業 400 年に向けた",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業 360 周年を迎え る2026 年を最終年と する、 2017 年からの9カ年にわたる長期ビジ ョ ン 「ユアサビジ ョ ン360 」 における大",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユアサビジ ョ ン360 （ユアサ商事グループ創業 360 周年に向けた長期ビジ ョ ン）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "見かけてお話しさせていただいたのが始まりです",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1666 年の創業から358 年の商いで築いたお取引先様との",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グ ルー プでは、 創業から続 く 「良品奉仕」 の精神に基づ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年の創業 360 周年、 さ らに これから400 年、 500 年と続",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業 360 周年、 その先に向けて",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YUASA INTEGRATED REPORT 2024 沿革と目指す姿 価値創造の起点 価値創造を最大化する戦略 価値創造の基盤 セグ メ ン ト別戦略 対話のためのデータ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業理念と沿革",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業名 創業 設立",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "初代湯淺庄九郎が京都にて⽊炭商を創業1666年",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちは、 1666年の創業以来、 「誠実と信用」 「進取と創造」 「人間尊重」 の企業理念のもと、 モノやコ トをつなぎ、 お取引先様とともにソリ ューシ ョ ンを追求してまいりました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業から続く 「良品奉仕」 の精神に基づき、 公正かつ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業理念と沿革 01",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの創業は1666年、 今年で356年という",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "木炭商として創業",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、 創業360周年を迎える2026年のビ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そこで検討を重ねた結果、 創業360周年に当たる",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また、「収益性」の向上に向けては、当社独自の「つなぐ」機能と、YUASAグループ各社および取引先ネットワーク等からなる「総合力」の発揮を通じた社会課題の解決に取り組むことで、当社グループ独自の付加価値を創造し収益性を高めてまいります",
+    "url": "https://www.yuasa.co.jp/ir/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "「ネットワーク」については、当社は主要販売先約20,000社、主要仕入先6,000社と取引があり、販売先様の会である「やまずみ会」（約3,000社）、仕入先様の会である「炭(たん)協会」（約500社）が組織されております",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の販売先様の会で1969年（昭和44年）に発足し、会員社数は全国に約3,000社ございます",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の販売先の会である「やまずみ会」が主催、仕入先様の会である「炭(たん)協会」が協賛し、ＹＵＡＳＡが後援する展示会です",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が持つ歴史や経験を可能な限りデジタル化しつつ、現在の取引先様からの情報と市場データを集約しAIの活用により分析することで、「コト売り」への変革に向け新たなサービスや商品開発につなげてまいります",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、価格の高騰や品薄など、当社販売先様に対する影響は今後少なからず表面化することが想定されますが、当社ネットワークを活用した在庫の融通などを通じ、当社そしてお取引先様ともにこの影響を最小限に留め、またビジネスチャンスを拡げていけるよう取り組んでまいります",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "今日までの当社をつないでくださいましたお取引先様、株主の皆様、役職員をはじめすべてのステークホルダーにこの場をお借りして改めて感謝を申し上げるとともに、より一層の企業価値向上に向け、その先頭に立って邁進していく所存です",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が有する主要仕入先様6,000社、主要販売先様20,000社のネットワークは、競争優位をもたらすビジネス領域の広さのみならず、その幅広いネットワークから集められる最新の市場動向やユーザーの声を反映し、製品・市場戦略に展開できる強みそのものとなっています",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "事業においても、グリーン事業を全社推進事業と位置づけ、販売先やそのお客さまによる製品使用時のCO2排出量の削減を進めるため、省エネ製品や脱炭素関連製品の提案・販売を推進しています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、省エネコンサルティングの専門部隊であるYES（YUASA ENVIRONMENT SOLUTION） 部を中心に、お取引先様のカーボンニュートラルに向けた取り組みをワンストップでご支援しています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー管理士や1 級電気工事士などの専門資格所有者などにより、工場やビル全体の設備更新から、小規模な設備改修・運用改善まで、お取引先様のニーズに応じた最適なソリューションを提供し、持続可能な社会の実現に貢献しています",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの事業は、主に国内の多様な産業分野にわたる大企業、中小・中堅企業との取引から成り立っており、気候変動に関するリスクは、法規制や政策の変化、顧客需要の変化、経済社会情勢の変化など多岐にわたります",
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "pass": 1
+   },
+   {
+    "quote": "装などのエンジニアリング機能の強化に努め、多様化する顧客ニーズに対応したシステム提案を推",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 16,395 22,391 47,240 12,265 8,283 4,424 111,001 5,595 116,596 － 116,596",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 19,240 21,960 55,177 16,806 8,358 4,562 126,105 5,454 131,560 － 131,560",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業を通じて、無駄のない合理的な方法によって、顧客の皆さまに満足を提供します",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "き課題解決のループを大きく早くまわすことでお取引先さまとともに長期的な成長を実現する",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニーズを捉え取引先と伴走することで、新しい価値を創出してまいりました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業以来構築してきました「主要仕入先6,000社・主要販売先20,000社の取引ネット",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "していくことで、取引先とともに中長期的な成長を実現していきます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また取引先各社の商品・技術・機能・サービス等を「つなぐ」ことで、単独企業や商",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省エネコンサルティングの専門部隊による、サプライチェーンの脱炭素支援を強化するとともに、販売先さま",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おり、気候変動や水資源を含めた自然資本に関するリスクは、法規制や政策の変化、顧客需要の変化、経済社会",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社内のBCP（事業継続計画）との整合性を踏まえ、不測の事態においても取引先との事業継続の確実性を",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先さまとともに本取引方針に取り組むた",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、主要取引先に対するアンケートを毎年実施し、定期的に状況確認をするとともに、取引先を通じたバリュー",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ⅳ） 取引先アンケートによるバリューチェーン全体での取り組み推進",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ク管理を進めるため、お取引先さまに対して、サステナビリティ及び人権リスク等への対応状況の確認に向",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは取引先を中心とした市場性のある株式を保有しており、株価変動のリスクを負っております",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、多様な営業活動を通じて国内外の取引先に対して信用供与を行っており、信用リスクを負ってお",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは社内管理規程等に基づく与信管理を行い、リスクの軽減に努めておりますが、取引先の予",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先さまのカーボンニュートラルを支援するグリーン事業を全社で推進しました",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況の中、国内の注力分野である精密板金市場・脆性材加工市場に対して、顧客の生産現場における課",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "員・仕入先・販売先・金融機関等さまざまなステークホルダーとの間で、多面的・友好的な関係を維持・発展させ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が企業活動を遂行する上でさまざまな形で関係をとり結ぶ株主・従業員・仕入先・販売先・金融機関等のス",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "来設計が可能な報酬を保障すること、あるいは仕入先・販売先・金融機関等の取引先との間では共存共栄が可能な",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先」に該当するものではなく、その取引条件も当社と関係を有しない他の事業者と同様のものであります",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売先ネ ッ ト ワーク 「ユアサやまずみ会」 、 仕入先",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "門部隊 （現在のYES 部） を設置し、 当社の取引先工場や事務",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様約900社に出席いただき 、 記念式典を開",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先ネ ッ ト ワークの発展",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "例えば、 取引先の工場に行 っ たと きに機械の話だけでな",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「グ ラ ン ド フ ェ ア」 は、 当社販売先様の会である 「ユアサやま",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以後、 40 年超にわたり 仕入先様と販売先",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "せるため、 お取引先様のカーボンニ ュー ト ラ ルを支援するグ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用によ り 、 遠方のお取引先様や拠点と のコミ ュニケーシ ョ ンも",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要仕入先 ビジネスフィールド 主要販売先 ユーザー",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "○ お取引先様との関係強化",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客満足度の獲得",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● お取引先様と の強固な関係構築によ るビジネス機会の創出と収益基",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 取引先ネ ッ ト ワークの発展",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様と の関係強化",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客や市場に向き合う こと で新しい価値を生み出し、 それを最大化する戦略が必要です",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「モノ づ く り」 「すまいづ く り」 「 環境づ く り」 「まちづ く り」 の分野におい て、 お取引先様と ともに 「つな ぐ」 イ ノ ベーシ ョ ンによ り 社会課題を解決し、",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「つな ぐ」 イ ノ ベーシ ョ ンで、 お取引先様と ともに社会課題解決に挑み、 収益性の高い事業を形成します",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「つな ぐ」 イ ノ ベーシ ョ ンで創造した新市場 ・ 成長市場を、 お取引先様ネ ッ ト ワークをさ らに発展させる こと で",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様と ともに挑む",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先ネッ トワーク発展",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルを変革し既存取引先ネッ トワークを発展させる こ と によ り 、 既存事業 ・ 成長戦略を国内外で拡大し ます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引先様のカーボンニ ュー ト ラ ル推進に向け、",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "さらに、「効率性」の向上を図る指標として、資本効率の向上と規律ある成長投資を推進する観点から新たにROIC（投下資本利益率）を重要KPIに位置づけました",
+    "url": "https://www.yuasa.co.jp/ir/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の販売先様の会で1969年（昭和44年）に発足し、会員社数は全国に約3,000社ございます",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の仕入先様の会で1977年（昭和52年）に発足し、会員社数は全国に約500社ございます",
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、投下資本全体の効率性を希求する観点から、収益性指標としてROEに代えて新たにROIC（投下資本利益率）を導入いたしました",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "（経常利益率）",
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "ROE（自己資本当期純利益率）",
+    "url": "https://www.yuasa.co.jp/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "自己資本利益率 (％) 8.9 10.8 12.0 9.7 10.5",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自己資本利益率 (％) 8.8 12.3 9.6 9.4 10.1",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益率 3.2％ 3.2％",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が年額1.5百万円以内であり、同社にとって当社への経済的依存度が生じるほどに多額ではなく、「主要な取引",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、コンサルティング契約を締結しておりますが、その契約額は年額10百万円以内であり、同社にとって当社への",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益率 2.99% 3.4%",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主資本利益率 （ ROE ） 12.0% 11.8%",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● サブスクリプション、 シェアリングなどへ のチャレンジ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①取締役 年額 380 百万円以内（ う ち、社外取締役 50 百万円以内）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②監査役 年額 80 百万円以内",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益／営業利益率 事業環境分析",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率 （％）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 価格競争によ る利益率の低下",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な事業売上高 営業利益／営業利益率 事業環境分析",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率 （％） ● 建設機械 ・ 資材の販売及び リ ー ス ・ レ ンタ ル、 コンテナハウ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益／営業利益率",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROA （総資産経常利益率） ％ 4.9 5.0 5.4 5.6 5.4 5.6 5.3 4.2 4.7 5.8 5.6",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROE （自己資本純利益率） ％ 13.4 15.6 13.2 12.9 12.2 12.2 11.4 8.1 8.9 10.8 12.0",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 経常利益率 2.5％",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結経常利益率 3.3％",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結経常利益率 2.8％",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結売上高6,000億円、 経常利益200億円、 経常利益率",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益率：2.8%",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益率：3.3%",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益率 2.8% 2.5%",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ ユアサやまずみ会会員企業数",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会会員企業数",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ユアサ炭協会会員企業数 約500社",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益／営業利益率",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率 （％）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本膜構造協会一種正会員の今泉テントが提案する確認申請対応、ジオデシック構造が特徴の国産初のドームテント",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様々な研修プログラムや異業種の会員の皆さまとの情報交流などを通じて、次世代経営者の育",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1969年に 「ユアサやまずみ会」 会員に対する情報発信",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連携会員 （現任）",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①取締役 年額",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経常利益 と 経常利益率",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROA （総資産経常利益率） ％ 3.4 4.0 4.9 5.0 5.4 5.6 5.4 5.6 5.3 4.2 4.7",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROE （自己資本純利益率） ％ 20.3 20.8 13.4 15.6 13.2 12.9 12.2 12.2 11.4 8.1 8.9",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会員登録(無料)",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "会員登録がお済みの方は",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "時代の先を見据えたビジネスモデル転換は、当社にとって最初のイノベーションでありました",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "目指すべきビジネスモデル",
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケッ トアウ ト型のビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に左右されに く いビジネスモデルへの変革を進めていきます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益性の高いビジネスモデルへ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル変革収益性 成長性",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルを変革し既存取引先ネッ トワークを発展させる こ と によ り 、 既存事業 ・ 成長戦略を国内外で拡大し ます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "付加価値の高いビジネスモデルを創出していきます",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このマーケッ トアウ ト型のビジネスモデルを",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▎ 収益性の高いビジネスモデルへ ▎ 「コア事業の拡大 」 と 「 新たな市場展開 」 で成長を加速",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● マーケッ トアウ ト型のビジネスモデルを確立",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「商社」 と い う ビジネスモデルは日本特有のもので 、 物品",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別売上比率 三位一体のビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造の起点 つなぐビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つなぐビジネスモデル P.16",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「業界トップレベルの収益構造を持つ 『つなぐ』 複合専",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来型のビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業界 ト ップレベルの収益構造を持つ 『つなぐ』 複合専門商社グループへの挑戦",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のあるべき姿 「業界トップレベルの収益構造を持つ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業界トップレベルの収益構造を持つ",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "転換と業界トップレベルの収益構造を持つ 『つなぐ』 複合専門商社グループへの成長を目指します",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つなぐビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【主な商流】",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造の起点 戦略 つなぐビジネスモデル 未来へつなぐ 価値創出の基盤 21",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造の起点 戦略 つなぐビジネスモデル 未来へつなぐ 価値創出の基盤 22",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造の起点 戦略 つなぐビジネスモデル 未来へつなぐ 価値創出の基盤 23",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "善及び新しいビジネスモデルの構築を",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「モノ売り」 から 「コト売り」 への変革に向け、 あらゆる顧客接点でデータを収集し、 蓄積されたデータから顧客の感情や行動を分析し顧客視点の新しいビジネスモデルを",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "❷ ユアサ商事グループ独自のソリューション提案 （＝コト売り） を行うビジネスモデルへと変革します",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▶︎三位一体のビジネスモデル",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社のビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルです",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "No.1、セキュリティ需要と子会社の堅調な業績で売上高・売上総利益が過去最高 ストック伸長で収益構造安定化へ",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ユアサ商事 グループの価値創造 モデル — ユアサ商事 グループの価値創造 モデル 株式会社ＹＵＡＳＡ PDF https://www.yuasa.co.jp > pdf > yuasa_report02",
+    "url": "https://www.yuasa.co.jp/assets/annual_report/pdf/yuasa_report02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 ユアサ商事 、 収益 性の向上が進み増収増益 売上総 ... — 【QAあり】 ユアサ商事 、 収益 性の向上が進み増収増益 売上総 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382926",
+    "pass": 3
+   },
+   {
+    "quote": "ユアサ商事 株式会社 - 2025年3月期 決算説明会 — ユアサ商事 株式会社 - 2025年3月期 決算説明会 株式会社ＹＵＡＳＡ PDF https://www.yuasa.co.jp > cms > uploads > 2025/06",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2025/06/%E3%80%90%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%80%91%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2025%E5%B9%B43%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ユアサ商事 株式会社 - 2025年3月期 決算説明 会 — ユアサ商事 株式会社 - 2025年3月期 決算説明 会 株式会社ＹＵＡＳＡ PDF https://www.yuasa.co.jp > cms > uploads > 2025/06",
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2025/06/%E3%80%90%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%80%91%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2025%E5%B9%B43%E6%9C%88%E6%9C%9F.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ユアサ商事社長 ・田村博之氏 来月「YUASA」に社名変更 — ユアサ商事社長 ・田村博之氏 来月「YUASA」に社名変更 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/775723",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞電子版 on X: \" インタビュー ／ ユアサ商事社長 ... — 日刊工業新聞電子版 on X: \" インタビュー ／ ユアサ商事社長 ... X https://x.com > @Nikkan_BizLine",
+    "url": "https://x.com/Nikkan_BizLine/status/2030805721370038566",
+    "pass": 3
+   },
+   {
+    "quote": "ユアサ商事 濱安 守常務取締役「材・工の同時供給で総合力 ... — ユアサ商事 濱安 守常務取締役「材・工の同時供給で総合力 ... 日本産機新聞 https://nihonsanki-shimbun.com > yuasasyouji-topinterview",
+    "url": "https://nihonsanki-shimbun.com/yuasasyouji-topinterview/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yuasa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/corporate/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/solutions/kizukimirai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/solutions/processing-environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/topmessage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/individual-investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/finance/performance-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/finance/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/library/corporate-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir/library/yuasa-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/sustainability/environment/climate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/corporate/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/ir_news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/10/yuasa_IR2026_full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/04/20260401%E3%80%8ANews-Release%E3%80%8BYUASA-vision-370Reborn-2031.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/08/2027%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F-%E7%AC%AC%EF%BC%91%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2026/06/8074_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B820260623-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2025/10/yuasa_IR2025_full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2024/09/yuasa_IR2024_full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/10/yuasa_IR2023_full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yuasa.co.jp/cms/wp-content/uploads/2023/07/growing_report2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/382926",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/775723",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mercury.com/blog/gross-margin-versus-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユアサ商事 ビジネスモデル 収益構造",
+   "results": [
+    "https://www.yuasa.co.jp/assets/annual_report/pdf/yuasa_report02.pdf",
+    "https://finance.logmi.jp/articles/382926",
+    "https://www.yuasa.co.jp/cms/wp-content/uploads/2025/06/%E3%80%90%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%80%91%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2025%E5%B9%B43%E6%9C%88%E6%9C%9F.pdf",
+    "https://www.yuasa.co.jp/ir/individual-investor/",
+    "https://www.yuasa.co.jp/assets/annual_report_2024/pdf/yuasa_report06.pdf",
+    "https://www.yuasa.co.jp/corporate/management/",
+    "https://www.yuasa.co.jp/ir_news/article_7158/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrjD&q_no=9",
+    "https://the-shashi.com/tse/8074/segment/",
+    "https://shousha.net/yuasa/"
+   ]
+  },
+  {
+   "query": "ユアサ商事 決算説明資料 セグメント",
+   "results": [
+    "https://www.yuasa.co.jp/ir/library/financial-report/",
+    "https://www.yuasa.co.jp/ir/library/",
+    "https://www.yuasa.co.jp/ir/calendar/",
+    "https://www.yuasa.co.jp/ir/library/financial-results/",
+    "https://www.yuasa.co.jp/cms/wp-content/uploads/2025/06/%E3%80%90%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%80%91%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99_2025%E5%B9%B43%E6%9C%88%E6%9C%9F.pdf",
+    "https://finance.logmi.jp/articles/382926",
+    "https://www.yuasa.co.jp/ir/",
+    "https://ir.gs-yuasa.com/jp/ir/library/presentation.html",
+    "https://www.yuasa.co.jp/ir/library/yuasa-report/",
+    "https://edinetdb.jp/company/E02525/presentations/"
+   ]
+  },
+  {
+   "query": "ユアサ商事 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/775723",
+    "https://www.yuasa.co.jp/corporate/message/",
+    "https://x.com/Nikkan_BizLine/status/2030805721370038566",
+    "https://nihonsanki-shimbun.com/yuasasyouji-topinterview/",
+    "https://www.youtube.com/watch?v=WdlxRYQ8mF0",
+    "http://www.yuasa.co.jp/ir/annual-report/2023/",
+    "https://jobtalk.jp/companies/3063/answers/1314674",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrjD&q_no=10",
+    "https://minshou.net/?p=5296",
+    "https://www.nikkan.co.jp/articles/view/00775723"
+   ]
+  },
+  {
+   "query": "ユアサ商事 business model revenue gross margin",
+   "results": [
+    "https://mercury.com/blog/gross-margin-versus-revenue",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.vikingmergers.com/blog/gross-margin-vs-net-margin-understanding-business-profitability/",
+    "https://www.crestmontcapital.com/blog/profit-margin-benchmarks-by-industry",
+    "https://www.hibob.com/financial-metrics/gross-margin/",
+    "https://simplydepo.com/industry/profit-margin-formula/",
+    "https://payproglobal.com/answers/what-is-saas-profit-margin/",
+    "https://cfoproanalytics.com/cfo-wiki/saas/gross-margin-targets-for-saas-companies/",
+    "https://www.finrofca.com/startup-qa/a-typical-gross-profit-margin-for-a-saas-business",
+    "https://www.yuasa.co.jp/ir/annual-report/2023/"
+   ]
+  }
+ ],
+ "missing": {}
+}

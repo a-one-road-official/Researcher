@@ -1,0 +1,1769 @@
+{
+ "name": "耐熱合金",
+ "en": "superalloy",
+ "aliases": [
+  "ニッケル基超合金",
+  "スパッタリングターゲット"
+ ],
+ "context": "9 マテリアル ③革新的金属部素材",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:14:59.380586+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の耐熱合金市場規模、シェア、成長傾向および予測 2026-2034",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場規模：種類別（ニッケル基合金、コバルト基合金）、用途別（航空宇宙、自動車）、形状別（板、棒）、エンドユーザー産業別（航空宇宙＆防衛、エネルギー＆電力）、温度耐性レベル別（最高1000℃、1000℃～1200℃）、地理的範囲別および予測",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2024)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.12 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 9.87 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、技術革新、応用領域の拡大、規制サポートによって指数関数的に成長する態勢が整っており、予測 CAGR は 7% を超え、高性能材料エコシステムの基礎へと変貌します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "予測モデルによると、市場は 2026 年から 2033 年にかけて 7% を超える年間複合成長率 (CAGR) で成長し、この期間の終わりまでに推定評価額は 150 億米ドルを超えると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場規模、成長分析および予測 2026-2034",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場規模：種類別（ニッケル基合金、コバルト基合金）、用途別（航空宇宙、自動車）、形状別（棒・棒、シート・板）、最終用途産業別（航空宇宙産業、エネルギー分野）、温度範囲別（最高1000℃、1000℃～1200℃）、地理的範囲別、予報",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2025)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.2 billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8.1 billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "グルタミン酸市場規模、シェアおよび予測（2025-2035年）",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "ノンウOVン雑草防除布市場規模と2035年までの予測",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "メタルパッケージ食品缶市場は2034年までに7.3%のCAGRで成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム箔複合フィルム市場は2033年まで年率4.6%成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "フェイシャルポンプ市場は2034年までに116億ドルに達すると予測",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "トレーラ式ディスクハロー市場規模は235億ドル、4.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場規模、シェア、2035年予測",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.42 Billion",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.7 Billion",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.6 Billion",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場は2025年に約34億2000万米ドルと評価され、2035年までに66億米ドルに達すると予測されており、2026年から2035年の予測期間中に6.8%のCAGRで成長します",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "32 億ドル",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "51 億ドル",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場規模：産業調査、トップメーカー、ランキング、機会分析2026 - qyresearch-news",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場規模：産業調査、トップメーカー、ランキング、機会分析2026",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "● 世界の耐熱合金市場規模推計（2025–2032）",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "2025年市場規模：13150百万米ドル",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "2026年市場規模：13850百万米ドル",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "2032年市場規模（予測）：19530百万米ドル",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場は、2025年の13150百万米ドルから2026年には13850百万米ドルへ拡大し、2026〜2032年の年平均成長率（CAGR） 5.9%で推移することで、2032年には19530百万米ドル規模に達すると予測されています",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場は、製品、用途、地域、企業の4つの軸から構成されます",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "北米・ヨーロッパ・アジア太平洋・ラテンアメリカ・中東アフリカの5地域について、耐熱合金市場規模、成長率、販売数量、価格動向を比較します",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金材質市場規模は2026年396390百万米ドル、成長率6.3%で拡大予測",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "5052アルミニウム合金の最新調査：2026 - 2032年市場規模、動向、主要企業動向と成長予測",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "世界の外壁用断熱材市場規模レポート2026-…",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界市場規模は2024年に12480百万米ドルと推定され、2025年には13150百万米ドルに達すると予測されています",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "には市場規模が18540百万米ドルに達すると見込まれています",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "鉛合金調査レポート：市場規模、産業分析、最新動向、予測2025-2031",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "単結晶超合金調査レポート：市場規模、産業分析、最新動向、予測2025-2031",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "4.1 地域別市場規模",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3 国別市場規模",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3.3 アメリカ市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3.4 カナダ市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3.5 メキシコ市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "8.3 国別市場規模",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "8.3.3 ドイツ市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "8.3.4 フランス市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "8.3.5 イギリス市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "8.3.6 ロシア市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "8.3.7 イタリア市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "9.3 地域別市場規模",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "9.3.3 中国市場規模と予測",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、技術革新、応用領域の拡大、規制サポートによって指数関数的に成長する態勢が整っており、予測 CAGR は 7% を超え、高性能材料エコシステムの基礎へと変貌します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "予測モデルによると、市場は 2026 年から 2033 年にかけて 7% を超える年間複合成長率 (CAGR) で成長し、この期間の終わりまでに推定評価額は 150 億米ドルを超えると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "今後 10 年間の予測では、新興市場や高成長分野での耐熱合金の採用拡大により、年平均成長率 (CAGR) が約 6.2% になることが示されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙生産は 2030 年までに約 4.5% の CAGR で成長すると予測されており、技術革新と安全性と効率性に対する規制上の義務により、先進的な耐熱合金の需要もこれに追随すると予想されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "光学PETフィルム市場：2026-2034年のCAGR動向",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "ポリエステルイミドエナメル市場：2034年まで6.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "メタルパッケージ食品缶市場は2034年までに7.3%のCAGRで成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "サトウキビ製容器 2029 市場：2033年まで3.74%のCAGR成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム箔複合フィルム市場は2033年まで年率4.6%成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアルロン酸原料市場：2034年までに13%のCAGRを達成？",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロアルミナ粉末市場 2024-2034: 7億4,262万ドル、4.3% の CAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "トレーラ式ディスクハロー市場規模は235億ドル、4.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場は大幅に拡大すると予測されており、2026年から2034年の予測期間中に年平均成長率4.5%で、2025年の推定218億4,000万ドルから2034年には324億5,000万ドルに達します",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場は2025年に約34億2000万米ドルと評価され、2035年までに66億米ドルに達すると予測されており、2026年から2035年の予測期間中に6.8%のCAGRで成長します",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに 66 億米ドルに達すると予測されており、予測期間中に 6.8% の CAGR で成長します",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "VDM Metals の高性能合金部門への 6,700 万ユーロの投資: 2024 年 1 月、VDM Metals は高性能合金部門を拡大するために 6,700 万ユーロの投資を発表しました",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率CAGR（2026–2032）：5.9%",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場は、2025年の13150百万米ドルから2026年には13850百万米ドルへ拡大し、2026〜2032年の年平均成長率（CAGR） 5.9%で推移することで、2032年には19530百万米ドル規模に達すると予測されています",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "北米・ヨーロッパ・アジア太平洋・ラテンアメリカ・中東アフリカの5地域について、耐熱合金市場規模、成長率、販売数量、価格動向を比較します",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金材質市場規模は2026年396390百万米ドル、成長率6.3%で拡大予測",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "世界の特殊合金市場動向、年平均成長率5.3%で拡大継続",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "充電式（リチウムイオン）芝刈り機市場調査：規模推移、成長率4.1%、最新業界動向2026-2032",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用リチウムイオン電池の世界産業レポート2026：市場シェア、競争状況、成長率6.6%分析",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "トンネル削岩機の世界市場規模：年平均成長率3.4%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "水中船体清掃ロボット市場調査：規模推移、成長率9.4%、最新業界動向2026-2032",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "まで年平均成長率（CAGR）5.9%で成長すると予測されています",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "フルーツワインプレスの業界分析レポート：企業ランキング、価格動向、成長率2026",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、2023年から2030年の間の年平均成長率（CAGR）は5.6％と予測されています",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2030年にかけての市場成長率、需要予測、新たな応用分野の拡大に関する詳細なシナリオを提示しています",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場は2024年にxxxxx米ドルと算出され、2025年から2031年の予測期間中にxxxxx％のCAGR（年平均成長率）を記録し、2031年にはxxxxx米ドルに達すると予測されています",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "北米の耐熱合金市場は2025年から2031年の予測期間中にxxxxx％のCAGRで2024年のxxxxx米ドルから2031年にはxxxxx米ドルに達すると推定されます",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金のアジア太平洋市場は2025年から2031年の予測期間中にxxxxx％のCAGRで2024年のxxxxx米ドルから2031年までにxxxxx米ドルに達すると推定されます",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "キセノンの世界市場規模は2031年までにCAGR 7.0%で拡大する見通し",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中の年平均成長率（CAGR）は5.6％と堅調な伸びが予測されています",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中の年平均成長率（CAGR）は5.6％と堅調な伸びが予測されています",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy Market Size: $7.8B (2025) | 8.3% CAGR Growth | DMA Intelligence",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "The Superalloy Market size was valued at USD 7.80 in 2025, and the market is projected to grow from USD 8.45 in 2026 to USD 14.76 by 2033, growing at a CAGR of 8.3%% during the forecast period 2026–2033.",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Projected to grow at a 8.3% CAGR, reaching a valuation of USD 14.71 Billion by 2033.",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.3% from 2025 to 2033",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Billion and CAGR from 2025 to 2033",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "The global superalloys market size was valued at USD 7.86 billion in 2025 and is projected to grow from USD 8.50 billion in 2026 to USD 15.98 billion by 2034, registering a CAGR of 8.2% during the forecast period from 2026 to 2034. North America dominated the superalloys market with a market share of 36.4% in 2025.",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cast (Stick Cast) is Projected to Register the Fastest Growth at a CAGR of 7.86%",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The superalloys market size is valued at USD 8.50 Billion in 2026 and is projected to reach USD 15.98 Billion by 2034, at a CAGR of 8.2% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The superalloys market is projected to grow at a CAGR of 8.2% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, expanding at a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 6.5% | USD Billion",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and is forecast to grow at a CAGR of",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2034.",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025, driven by global power generation investment and the rapid expansion of CCGT capacity. This sub-segment is forecast to grow at approximately",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "世界の耐熱合金市場規模、シェア、成長傾向および予測 2026-2034",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "有力企業は、広範な研究開発能力、製造インフラ、長期的な顧客関係を活用して、多くの場合 20 ～ 25% を超える大きな市場シェアを確保しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "*このデータは上位3社の市場プレーヤーについて提供されます*",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "*このデータは上位3社の市場プレーヤーについて提供されます*",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "グルタミン酸市場規模、シェアおよび予測（2025-2035年）",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の分析の基盤を形成し、全研究努力の約75%を占めます",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "二次調査は、全体の研究の約25%を占め、市場規模、業界ランドスケープ、競争分析のための基礎データを提供します",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場規模、シェア、2035年予測",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "上位 3 ～ 5 人のプレーヤーは SWOT 分析も受けて、機会、脅威、脆弱性、強みを特定します",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "トップ5社およびトップ10社の耐熱合金市場順位、売上ランキング、シェアを基に、競争環境の実態を分析します",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウムベリリウム合金業界調査：トップ５企業の販売動向、シェア、需要予測",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルPMMA/ASA合金市場における主要企業の競争戦略分析：2026年実績と2032年シェア予…",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用リチウムイオン電池の世界産業レポート2026：市場シェア、競争状況、成長率6.6%分析",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "）は、「耐熱合金―グローバル市場シェアとランキング、全体の売上と需要予測、2025～2031」の最新調査レポートを発表しました",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "屋外用LEDマトリックスディスプレイ業界分析レポート：主要メーカーの競争状況と市場シェア2026-2032",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "2章：主要メーカーのプロフィール、価格、売上、世界市場シェア（2019〜2024年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3章：主要企業間の競争状況、販売数量、シェアの比較",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "7〜11章：国別の販売量・消費額・シェア（2017〜2023年）、および予測（2025〜2030年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "• 販売数量、平均価格、収益、粗利益、市場シェア（2019〜2024年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4 市場シェア分析（2023年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.1 メーカー別出荷額および市場シェア（2023年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.2 上位3社の市場シェア（2023年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.3 上位6社の市場シェア（2023年）",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には世界のトップ3メーカーが売上の約xxxxx％を占めています",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：耐熱合金メーカーの競争環境、価格、売上、市場シェアなどの詳細分析",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場：販売量のメーカー別市場シェア（2020-2025）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場：売上のメーカー別市場シェア（2020-2025）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金上位3社と5社の売上シェア",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場：企業タイプ別シェア（ティア1、ティア2、ティア3）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金販売量のタイプ別市場シェア（2020-2031）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金売上のタイプ別市場シェア（2020-2031）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金販売量の用途別市場シェア（2020-2031）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金売上の用途別市場シェア（2020-2031）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "・グローバル主要メーカー別耐熱合金の売上シェア（2020年-2025年）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "・世界のメーカー別耐熱合金売上シェア（2020年-2025年）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "・グローバル主要メーカーの市場集中率（CR5とHHI）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "・地域別耐熱合金の販売量シェア（2020年-2025年）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "・地域別耐熱合金の販売量シェア（2026年-2031年）",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は科学技術革新とブランド構築に重点を置いており、年間の研究開発投資は主要収入の5％以上を占め、完全な企業技術センターとエンジニアリング技術研究センターを設立しています",
+    "url": "https://www.eraumalloy.com/ja/blog/future-trends-high-temperature-alloys-comparison-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "（以下、すべての企業について共通構成：企業情報、主力事業、耐熱合金製品とサービス、販売数量・平均価格・収益・粗利率・市場シェア（2019～2024）、最新動向）",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4市場シェア分析（2023年）",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.1メーカー別出荷額と市場シェア",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.2上位3社の市場シェア",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.3上位6社の市場シェア",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "（以下、すべての企業について共通構成：企業情報、主力事業、耐熱合金製品とサービス、販売数量・平均価格・収益・粗利率・市場シェア（2019～2024）、最新動向）",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4市場シェア分析（2023年）",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.1メーカー別出荷額と市場シェア",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.2上位3社の市場シェア",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.3上位6社の市場シェア",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "The Nickel-based category accounted for the highest market share of 49.0% within the Type segment.",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy: Market Share by Application, 2025",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "The global superalloys market size was valued at USD 7.86 billion in 2025 and is projected to grow from USD 8.50 billion in 2026 to USD 15.98 billion by 2034, registering a CAGR of 8.2% during the forecast period from 2026 to 2034. North America dominated the superalloys market with a market share of 36.4% in 2025.",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America Market Share (2025)",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share in 2025",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nickel-Based Dominated the Market with 62.8% Share in 2025",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Dominated the Market with 48.9% Share in 2025",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region accounted for the largest share of the the superalloys market in 2025?",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the market with a share of 36.4% in 2025.",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the global superalloys market in 2025, accounting for",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "多国籍企業や特殊なニッチメーカーなどの主要企業が知的財産と生産能力を管理し、競争環境を形成しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "調達傾向は、主要企業が地域の製造施設に投資しており、サプライチェーンの混乱を軽減するために現地調達に焦点を当てていることを示しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Special Metals CorporationやHaynes International Inc.などの耐熱合金市場の主要プレイヤーは、商用航空サプライチェーンに深く統合されており、特殊な形態とコンポーネントを提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーは、重要な最終用途産業の進化する需要を満たすために、研究開発に戦略的に焦点を当てています",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には以下が含まれます",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "• これには、主要企業の市場シェア、新しいサービス/製品の発売、コラボレーション、企業拡大、買収が含まれます",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の競争環境は、業界の主要企業の詳細な評価を提供します",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の主要企業は次のとおりです",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは主要企業のプロフィールを作成し、その戦略、製品提供、最近の展開を分析し、利害関係者に競争環境と市場での位置付けに関する包括的な視点を提供します",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "で活動する主要企業",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場の世界売上、市場シェア、主要企業の競争力を要点的に整理しています",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "③ 主要企業の分析",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：主要企業プロファイルと事業運営の詳細評価",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルPMMA/ASA合金市場における主要企業の競争戦略分析：2026年実績と2032年シェア予…",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "5052アルミニウム合金の最新調査：2026 - 2032年市場規模、動向、主要企業動向と成長予測",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、耐熱合金市場の動向を深く掘り下げ、売上、販売量、価格推移、市場シェア、主要企業のランキングなどを包括的に分析しています",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "市場の分類と主要企業",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場の主要企業には、以下の企業が含まれます：Proterial、",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：主要企業の競争分析",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場における主要企業の競争状況を分析し、トップ5社・トップ10社の売上ランキングを掲載します",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：主要企業の詳細分析",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場における主要企業の情報を詳述し、各企業の事業概要、販売量、売上高、価格、粗利益率、製品戦略、最近の開発状況などを整理します",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "⑧主要プレイヤーの戦略分析：耐熱合金市場で活躍する企業の戦略を総合的に分析し、それぞれの市場進出方法や成長方針を明らかにします",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル高透明度サファイアガラス市場情報レポート：主要企業、シェア、業界トレンドを掲載",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "3章：主要企業間の競争状況、販売数量、シェアの比較",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 主要企業のプロフィール",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3.6 新規参入企業および参入障壁",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動ドアオープナー市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：プッシュバージョン、プッシュアンドプルバージョン、用途別：商業、病院、建設、その他）、主要地域別市場規模、流通チャネル分析などの情報 …",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の変流器市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：乾式変流器、流し込み式変流器、油入変流器、ガス絶縁変流器、用途別：発電所、工場、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のホットディップガルバニールシート市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：純亜鉛、亜鉛合金、用途別：建設、家電、自動車、一般産業）、主要地域別市場規模、流通チャネル分析な …",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の繊維フローリング市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：合成繊維、動物性繊維、植物性繊維、用途別：住宅、商業）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "当資料に含まれる主要企業は …",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体気化器市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：大気圧、加圧、減圧、用途別：マット、クリーム＆オイル、コイル、XXXs、スプレー/エアゾール）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の高純度カドミウム金属市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：2N、 3N、その他、用途別：NiCdバッテリー、科学研究、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載 …",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートは、本市場における耐熱合金メーカー、新規参入企業、産業チェーン関連企業に対し、市場全体および企業別、タイプ別、用途別、地域別のサブセグメントにおける売上、販売量、平均価格に関する情報を提供します",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：主要企業のプロフィールを提供し、製品の販売量、売上高、価格、粗利益率、製品紹介など、市場の主要企業の基本的な状況を詳しく紹介",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界主要プレイヤー、業界ランキング、2023 VS 2024 VS 2025",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "６．主要企業のプロファイル",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、耐熱合金の産業チェーンの発展、市場の現状、主要企業の動向、最新技術、特許、応用分野、そして市場トレンドに関する分析を含んでいます",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "3.6新規参入企業と参入障壁",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、耐熱合金の産業チェーンの発展、市場の現状、主要企業の動向、最新技術、特許、応用分野、そして市場トレンドに関する分析を含んでいます",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "3.6新規参入企業と参入障壁",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company share, competitive landscape, growth factors, and trends",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy Key Companies",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Benchmarking Of Key Players",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape section profiles leading companies in the Superalloy market, evaluating their product portfolios, strategic initiatives, market presence, and technological advancements. This benchmarking offers a clear understanding of competitive dynamics and helps identify potential partners or acquisition targets.",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloys Market Competitive Landscape",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy Market CAGR, size, share, trends, growth, value, key players analysis | Stratistics MRC report",
+    "url": "https://www.strategymrc.com/report/superalloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market",
+    "url": "https://www.strategymrc.com/report/superalloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "o SWOT Analysis of key players (up to 3)",
+    "url": "https://www.strategymrc.com/report/superalloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "o Benchmarking of key players based on product portfolio, geographical presence, and strategic alliances",
+    "url": "https://www.strategymrc.com/report/superalloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "General Electric Company led the competitive landscape through material innovation and vertical integration",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Superalloys Market",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034, supported by re-shoring initiatives and domestic supply chain investments following supply disruptions in prior years. The Inflation Reduction Act and CHIPS Act provisions are also indirectly stimulating advanced manufacturing investments that support superalloy processing and finishing operations across the Midwest and Southeast United States.",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025, driven by global power generation investment and the rapid expansion of CCGT capacity. This sub-segment is forecast to grow at approximately",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025, encompasses precision resistor alloys, magnetic materials, and high-temperature sensor components used in semiconductor manufacturing equipment and power electronics. This sub-segment benefits from the secular growth of semiconductor capital expenditure, with global fab investment exceeding $180 billion in 2025 alone, and is forecast to grow at approximately",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the market in 2025. The global push to expand gas-fired generation capacity as a transition fuel, combined with substantial investments in LNG infrastructure and offshore gas processing platforms, positions the energy sector for robust CAGR of approximately",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034, making it the fastest-growing end-user category. Investments in next-generation nuclear power, including",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "programs, with government investment exceeding INR 1,500 crore committed to capacity expansion. The entry of emerging market producers with improving quality systems and expanding certification portfolios is expected to intensify price competition in standard grades while driving Western producers to differentiate increasingly in high-performance, premium-grade product categories through 2034.",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR. Based on Future Market Insights analysis, the market is set to add an incremental opportunity worth USD 12.86 billion over the forecast period. As per FMI, the procurement landscape for superalloys is being reshaped by evolving specification requirements, regional capacity investments, and shifting end-use demand patterns across established and emerging buyer segments.",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Castparts has long been a cornerstone of the aerospace supply chain, delivering high‑integrity cast components that endure extreme thermal cycles. The company’s investment in additive manufacturing and digital twin technologies has reduced lead times and enabled design optimizations that lower component weight by up to 10% without compromising structural integrity.",
+    "url": "https://chemicalresearchinsight.com/2026/10/01/top-10-companies-in-the-nickel-based-superalloy-material-market-2026-market-leaders-driving-advanced-engineering/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界の耐熱合金市場規模、シェア、成長傾向および予測 2026-2034 — May 22, 2026 · 耐熱合金の市場規模は2024年に51億2000万ドルと評価され、2034年までに98億7000万ドルに達すると推定されており、2026年から2034年にかけて6.9%のCAGRを示します。",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "洞察力に富む『耐熱合金』市場レポート：2026年から2033年にかけての... — Oct 6, 2026 · 耐熱合金 市場概要 はじめに 耐熱合金市場のバリューチェーンには、主に原材料供給、製造、加工、流通、最終消費が含まれます。現在の市場規模は急成長しており、2026年から2033年にかけて12.3%のCAGRが予想されています。これは、航空宇宙、自動車、エネルギー産業などの需要増加が主な要因 ...",
+    "url": "https://jp.linkedin.com/pulse/洞察力に富む耐熱合金市場レポート2026年から2033年にかけての産業成長収益および123の動向を分析-protocol-pulses-ccwme",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場規模、研究、シェア、予測 — 耐火抵抗合金市場規模は2022年に42億ドルと評価され、2030年までに5.9億ドルに達すると予測されており、2024年から2030年まで4.4％のCAGRで成長しています。",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金導体 市場分析：過去データと将来展望、2026年から2033年まで... — Oct 25, 2026 · 耐熱合金導体 市場分析 はじめに 耐熱合金導体市場は、高温・腐食環境下で高い導電性と耐久性を求められる産業向け素材市場です。主に航空宇宙、自動車、電力・エネルギー分野で、極限条件下での信頼性を確保する需要を満たします。市場規模は2033年までに約XX億米ドルに達し、2026年から ...",
+    "url": "https://jp.linkedin.com/pulse/耐熱合金導体-市場分析過去データと将来展望2026年から2033年までのcagr-115のベンチマーク成長を含む-pnere",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金市場：218億4000万ドルの成長ドライバーと展望 — Jul 25, 2026 · 耐熱合金市場は、2034年までに4.5%のCAGRで218億4000万ドルに達すると予測されています。航空宇宙、自動車、発電分野における需要を牽引する主要因を発見してください。市場データにアクセスしてください。",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱性合金市場規模、シェアおよび業界の動向分析2033 — 耐熱合金市場規模は2024年に12億米ドルと評価され、2032年までに23億米ドルに達すると予想され、2025年から2032年までCAGRが7.5％で成長しています。",
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐熱合金市場規模：産業調査、トップメーカー、ランキング、機... — Jun 1, 2026 · 2026年最新版レポート発表：耐熱合金市場の現状と将来展望 ― 消費動向と企業動向の徹底分析QY Research株式会社（東京都中央区）は、最新調査レポート「耐熱合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」を発表しました。耐熱合金市場の世界売上、市場シェア ...",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界調査レポート：2031年には18540百万米ドルに達する見込... — Sep 15, 2025 · 2025年9月15日に、QYResearch株式会社（所在地：東京都中央区）は、「耐熱合金―グローバル市場シェアとランキング、全体の売上と需要予測、2025～2031」の最新調査レポートを発表しました。本レポートでは、耐熱合金市場の動向を深く掘り下げ、売上、販売量、価格推移、市場シェア、主要企業 ...",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "pass": 3
+   },
+   {
+    "quote": "高性能合金市場 - 規模と収益シェア — 高性能合金市場規模・シェア分析 - 成長トレンドと予測（2025年～2030年） 高性能合金市場レポートは、業界を基本金属タイプ（アルミニウム、ニッケル、鋼鉄、マグネシウム、チタン、その他）、製品タイプ（耐熱合金、耐食合金、耐摩耗合金、その他）、エンドユーザー産業（航空宇宙、電力 ...",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/high-performance-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界市場 2026年 ： Heat Resisting Alloys 産業分析 — 耐熱合金市場の調査概要 本調査によると、世界の耐熱合金市場の規模は2023年時点で約110億米ドルと評価されており、2030年には161億6000万米ドルへと成長すると見込まれています。これにより、2023年から2030年の間の年平均成長率（CAGR）は5.6％と予測されています。 耐熱合金は高温環境下でも ...",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界市場2024年（鉄基超合金、ニッケル基超合金、コバルト... — May 15, 2025 · 世界の耐熱合金市場は2024年にxxxxx米ドルと算出され、2025年から2031年の予測期間中にxxxxx％のCAGR（年平均成長率）を記録し、2031年にはxxxxx米ドルに達すると予測されています。 北米の耐熱合金市場は2025年から2031年の予測期間中にxxxxx％のCAGRで2024年のxxxxx米ドルから2031年にはxxxxx米ドルに達する ...",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に向けた高温合金の将来動向：詳細な比較分析 — Jun 23, 2025 · ご存知のとおり、産業が変化し成長し続けるにつれて、需要が急増しています。 高温合金 あらゆる優れた技術の進歩とそれに伴う厳しい要件によって、市場は大きく押し上げられています。最近の市場分析では、耐熱合金の世界市場は約 65億ドル 2025年までに約 6.2% 2020年から。このブームは ...",
+    "url": "https://www.eraumalloy.com/ja/blog/future-trends-high-temperature-alloys-comparison-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界市場2025：種類別（鉄基超合金、ニッケル基超合金、コ... — May 15, 2025 · 世界の耐熱合金市場は2024年にxxxxx米ドルと算出され、2025年から2031年の予測期間中にxxxxx％のCAGR（年平均成長率）を記録し、2031年にはxxxxx米ドルに達すると予測されています。 北米の耐熱合金市場は2025年から2031年の予測期間中にxxxxx％のCAGRで2024年のxxxxx米ドルから2031年にはxxxxx米ドルに達する ...",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界市場2025年、グローバル市場規模（鉄系超合金、ニッケ... — Jul 28, 2025 · 株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「耐熱合金の世界市場2025年」調査資料を発表しまし ...",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱合金の世界市場2025年、グローバル市場規模（鉄系超合金、ニッケ... — 株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「耐熱合金の世界市場2025年」調査資料を発表しました。 資料には、耐熱合金のグローバル市場規模、動向、予測、関連企業の情報などが盛り込まれています。",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy Market Size: $7.8B (2025) | 8.3% CAGR Growth | DMA ... — The Superalloy market size was $7.8 billion in 2025. Our forecast indicates 8.3% CAGR growth, providing insights into key trends, share, and future outlook.",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloys Market Size, Share, Growth, Analysis, Report, 2034Superalloy Market CAGR, size, share, trends, growth, value ...Superalloys Market Share, Size & Growth Outlook to 2030Superalloys Market Size, Share & Forecast Report 2025 to 2034 ...Superalloys Market Size, Share, Trends | Growth Report [2034]Superalloys Market Size, Share, Industry Analysis 2035 — The nickel-based section is projected ",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy Market CAGR, size, share, trends, growth, value ... — Global Superalloy Market is accounted for $9.7 billion in 2025 and is expected to reach $16.4 billion by 2032, growing at a CAGR of 7.8% during the forecast period 2025-2032",
+    "url": "https://www.strategymrc.com/report/superalloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloys Market Share, Size & Growth Outlook to 2030 — May 30, 2025 · The Superalloys Market size is expected to reach USD 29.23 billion in 2025 and grow at a CAGR of 6.25% to reach USD 39.58 billion by 2030.",
+    "url": "https://www.mordorintelligence.com/industry-reports/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloys Market Size, Share & Forecast Report 2025 to 2034 ...Superalloys Market Size, Share, Trends | Growth Report [2034]Superalloys Market Size, Share, Industry Analysis 2035 — The superalloys market was valued at $12.8 billion in 2025 and is projected to reach $22.6 billion by 2034, growing at a CAGR of 6.5%. Oct 12, 2026 · The global superalloys market size was valued at USD 7.82 billion i",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloys Market Size, Share, Trends | Growth Report [2034] — Oct 12, 2026 · The global superalloys market size was valued at USD 7.82 billion in 2025 and is projected to grow from USD 8.78 billion in 2026 to USD 22.44 billion by 2034 at a CAGR of 12.40% during the forecast period. North America dominated the superalloys market with a market share of 35% in 2025.",
+    "url": "https://www.fortunebusinessinsights.com/superalloys-market-112585",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the Global Superalloys Market — analysis of key ... — Mar 23, 2026 · The Superalloys Market worth USD 10.20 billion in 2026 is growing at a CAGR of 8.5% to reach USD 23.06 billion by 2036. Arconic, ATI, Forged Solutions Group, Chromalloy Gas Turbine LLC, HAYNES INTERNATIONAL, Beijing International Aeronautical Materials Corporation, and Carpenter Technology Corporation are the major compan",
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy - Global Market Share and Ranking, Overall Sales ... — Global Superalloy key players include Precision Castparts Corporation, ATI, Carpenter, etc. Global top three manufacturers hold a share about 40%. Europe is the largest market, with a share about 40%, followed by North America and Asia-Pacific, both have a share over 55 percent.",
+    "url": "https://www.qyresearch.com/reports/2158925/superalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Leading Players Shaping the Superalloys Market, 2030 — Mar 5, 2024 · The global super alloys market is projected to grow at a CAGR of 8.3%, reaching a value of US$10 Bn by 2030 from US$5.",
+    "url": "https://www.linkedin.com/pulse/top-10-leading-players-shaping-superalloys-zi51e",
+    "pass": 3
+   },
+   {
+    "quote": "Superalloy - Global Market Share and Ranking, Overall Sales ... — Oct 15, 2025 · This report aims to provide a comprehensive presentation of the global market for Superalloy, focusing on the total sales volume, sales revenue, price, key companies market share and ranking, together with an analysis of Superalloy by region & country, by Type, and by Application.",
+    "url": "https://www.qyresearch.com/reports/5046139/superalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Companies in the Nickel‑Based Superalloy Material ... — Oct 1, 2026 · The global key manufacturers of Nickel‑Based Superalloy Material include Precision Castparts Corporation, ATI, Haynes, Carpenter, Aperam, Eramet Group, AMG, Hitachi Metals and CMK Group, etc. in 2023, the global top five players have a share approximately 35% in terms of revenue.",
+    "url": "https://chemicalresearchinsight.com/2026/10/01/top-10-companies-in-the-nickel-based-superalloy-material-market-2026-market-leaders-driving-advanced-engineering/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "quote": "この市場は、技術革新、応用領域の拡大、規制サポートによって指数関数的に成長する態勢が整っており、予測 CAGR は 7% を超え、高性能材料エコシステムの基礎へと変貌します"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "quote": "今後 10 年間の予測では、新興市場や高成長分野での耐熱合金の採用拡大により、年平均成長率 (CAGR) が約 6.2% になることが示されています"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%"
+   },
+   {
+    "value": "4.5",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "quote": "世界の耐熱合金市場は大幅に拡大すると予測されており、2026年から2034年の予測期間中に年平均成長率4.5%で、2025年の推定218億4,000万ドルから2034年には324億5,000万ドルに達します"
+   },
+   {
+    "value": "5.9",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "quote": "世界の耐熱合金市場は、2025年の13150百万米ドルから2026年には13850百万米ドルへ拡大し、2026〜2032年の年平均成長率（CAGR） 5.9%で推移することで、2032年には19530百万米ドル規模に達すると予測されています"
+   },
+   {
+    "value": "5.3",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "quote": "世界の特殊合金市場動向、年平均成長率5.3%で拡大継続"
+   },
+   {
+    "value": "3.4",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "quote": "トンネル削岩機の世界市場規模：年平均成長率3.4%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "5.9",
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "quote": "まで年平均成長率（CAGR）5.9%で成長すると予測されています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "quote": "これにより、2023年から2030年の間の年平均成長率（CAGR）は5.6％と予測されています"
+   },
+   {
+    "value": "7.0",
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "quote": "キセノンの世界市場規模は2031年までにCAGR 7.0%で拡大する見通し"
+   },
+   {
+    "value": "5.6",
+    "url": "https://japan.cnet.com/release/31104509/",
+    "quote": "予測期間中の年平均成長率（CAGR）は5.6％と堅調な伸びが予測されています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "quote": "予測期間中の年平均成長率（CAGR）は5.6％と堅調な伸びが予測されています"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "quote": "The Superalloy Market size was valued at USD 7.80 in 2025, and the market is projected to grow from USD 8.45 in 2026 to USD 14.76 by 2033, growing at a CAGR of 8.3%% during the forecast period 2026–2033."
+   },
+   {
+    "value": "8.2",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "quote": "The global superalloys market size was valued at USD 7.86 billion in 2025 and is projected to grow from USD 8.50 billion in 2026 to USD 15.98 billion by 2034, registering a CAGR of 8.2% during the forecast period from 2026 to 2034. North America dominated the superalloys market with a market share o"
+   },
+   {
+    "value": "7.86",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "quote": "Cast (Stick Cast) is Projected to Register the Fastest Growth at a CAGR of 7.86%"
+   },
+   {
+    "value": "6.5",
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "quote": "CAGR: 6.5% | USD Billion"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "25",
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "quote": "有力企業は、広範な研究開発能力、製造インフラ、長期的な顧客関係を活用して、多くの場合 20 ～ 25% を超える大きな市場シェアを確保しています"
+   },
+   {
+    "value": "75",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "quote": "一次調査は当社の分析の基盤を形成し、全研究努力の約75%を占めます"
+   },
+   {
+    "value": "25",
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "quote": "二次調査は、全体の研究の約25%を占め、市場規模、業界ランドスケープ、競争分析のための基礎データを提供します"
+   },
+   {
+    "value": "6.6",
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "quote": "船舶用リチウムイオン電池の世界産業レポート2026：市場シェア、競争状況、成長率6.6%分析"
+   },
+   {
+    "value": "5",
+    "url": "https://www.eraumalloy.com/ja/blog/future-trends-high-temperature-alloys-comparison-analysis/",
+    "quote": "当社は科学技術革新とブランド構築に重点を置いており、年間の研究開発投資は主要収入の5％以上を占め、完全な企業技術センターとエンジニアリング技術研究センターを設立しています"
+   },
+   {
+    "value": "49.0",
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "quote": "The Nickel-based category accounted for the highest market share of 49.0% within the Type segment."
+   },
+   {
+    "value": "8.2",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "quote": "The global superalloys market size was valued at USD 7.86 billion in 2025 and is projected to grow from USD 8.50 billion in 2026 to USD 15.98 billion by 2034, registering a CAGR of 8.2% during the forecast period from 2026 to 2034. North America dominated the superalloys market with a market share o"
+   },
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "quote": "The global superalloys market size was valued at USD 7.86 billion in 2025 and is projected to grow from USD 8.50 billion in 2026 to USD 15.98 billion by 2034, registering a CAGR of 8.2% during the forecast period from 2026 to 2034. North America dominated the superalloys market with a market share o"
+   },
+   {
+    "value": "62.8",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "quote": "Nickel-Based Dominated the Market with 62.8% Share in 2025"
+   },
+   {
+    "value": "48.9",
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "quote": "Aerospace Dominated the Market with 48.9% Share in 2025"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/high-performance-alloys-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/reports/1040033/high-resistance-alloy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eraumalloy.com/ja/blog/future-trends-high-temperature-alloys-comparison-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31104509/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/superalloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategymrc.com/report/superalloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/superalloys-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/superalloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/superalloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/2158925/superalloy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/5046139/superalloy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/10/01/top-10-companies-in-the-nickel-based-superalloy-material-market-2026-market-leaders-driving-advanced-engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/02/25/top-10-companies-in-the-superalloy-and-high-performance-alloy-industry-2026-market-leaders-powering-advanced-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consolidatedtheatres.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.consolidated.com/support/view-or-pay-my-bill",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "耐熱合金 市場規模 CAGR",
+   "results": [
+    "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "https://jp.linkedin.com/pulse/洞察力に富む耐熱合金市場レポート2026年から2033年にかけての産業成長収益および123の動向を分析-protocol-pulses-ccwme",
+    "https://www.verifiedmarketreports.com/ja/product/heat-resisting-alloys-market/",
+    "https://jp.linkedin.com/pulse/耐熱合金導体-市場分析過去データと将来展望2026年から2033年までのcagr-115のベンチマーク成長を含む-pnere",
+    "https://www.datainsightsreports.com/ja/reports/nai-re-he-jin-shi-chang-41451",
+    "https://www.marketresearchintellect.com/ja/product/heat-resistant-alloy-market/",
+    "https://www.mordorintelligence.com/ja/industry-reports/high-performance-alloys-market"
+   ]
+  },
+  {
+   "query": "耐熱合金 市場 シェア 上位 企業",
+   "results": [
+    "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "https://qyresearch-news.hatenadiary.jp/entry/2026/06/01/145524",
+    "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819",
+    "https://www.mordorintelligence.com/ja/industry-reports/high-performance-alloys-market",
+    "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "https://www.yhresearch.co.jp/reports/1040033/high-resistance-alloy"
+   ]
+  },
+  {
+   "query": "耐熱合金 市場 前年比 2025",
+   "results": [
+    "https://www.eraumalloy.com/ja/blog/future-trends-high-temperature-alloys-comparison-analysis/",
+    "https://www.global-data.jp/global-heat-resisting-alloys-market-qyr24mkt135765/",
+    "https://japan.cnet.com/release/31104509/",
+    "https://www.marketresearch.co.jp/mrc/global-heat-resisting-alloys-market-2025/",
+    "https://www.verifiedmarketreports.com/ja/product/heat-resistant-alloy-market/",
+    "https://www.mapion.co.jp/news/release/dn0000326042-all/",
+    "https://qyresearch1.hatenablog.com/entry/2025/09/15/105819"
+   ]
+  },
+  {
+   "query": "superalloy market size CAGR 2025",
+   "results": [
+    "https://www.datamarketanalysis.com/reports/superalloy-market-size-forecast",
+    "https://straitsresearch.com/report/superalloys-market",
+    "https://www.strategymrc.com/report/superalloy-market",
+    "https://www.mordorintelligence.com/industry-reports/superalloys-market",
+    "https://dataintelo.com/report/superalloys-market",
+    "https://www.fortunebusinessinsights.com/superalloys-market-112585",
+    "https://www.rootsanalysis.com/superalloys-market"
+   ]
+  },
+  {
+   "query": "superalloy market share top players percent",
+   "results": [
+    "https://www.futuremarketinsights.com/reports/superalloys-market",
+    "https://www.qyresearch.com/reports/2158925/superalloy",
+    "https://www.linkedin.com/pulse/top-10-leading-players-shaping-superalloys-zi51e",
+    "https://www.strategymrc.com/report/superalloy-market",
+    "https://www.qyresearch.com/reports/5046139/superalloy",
+    "https://chemicalresearchinsight.com/2026/10/01/top-10-companies-in-the-nickel-based-superalloy-material-market-2026-market-leaders-driving-advanced-engineering/",
+    "https://chemicalresearchinsight.com/2026/02/25/top-10-companies-in-the-superalloy-and-high-performance-alloy-industry-2026-market-leaders-powering-advanced-manufacturing/"
+   ]
+  },
+  {
+   "query": "superalloy market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://consolidatednd.com/",
+    "https://nebnet.net/",
+    "https://consolidatedtheatres.com/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill",
+    "https://consolidated.nyc/",
+    "https://www.cppcorp.com/"
+   ]
+  },
+  {
+   "query": "superalloy market key companies share 2025",
+   "results": []
+  }
+ ],
+ "missing": {}
+}

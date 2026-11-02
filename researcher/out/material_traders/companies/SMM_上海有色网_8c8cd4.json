@@ -1,0 +1,542 @@
+{
+ "name": "SMM（上海有色网）",
+ "aliases": [
+  "Shanghai Metals Market",
+  "SMM"
+ ],
+ "context": "金属価格情報・会員（中）",
+ "researched_at": "2026-11-02T17:14:49.495107+00:00",
+ "official_url": "https://www.metal.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "Databases. We actively widen our data sets and insights to 400,000+ enterprise-level customers.",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "Steel, Aluminum, Nickel, Rare Earth, New Energy, Copper Prices Charts & News-Shanghai Metals Market (SMM)",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metals Information Provider",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Takeaways from 2026 SMM Australia Metals & Investment Seminar: Outlook for Ferrous, Nonferrous and Battery Metals",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hosted by Shanghai Metals Market (SMM), the 2026 SMM Australia Metals & Investment Seminar concluded successfully in Sydney on October 26. The event brought ...",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This world-class lead and zinc industry gathering has been upgraded to be an even bigger event! Shanghai Metals Market (SMM) is delighted to announce that ou...",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027 SMM (5th) Indonesia Critical Minerals Conference & Expo June 16–18, 2027 | Jakarta, Indonesia Shanghai Metals Market (SMM) is pleased to announce the fi...",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metals Industry",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging industry-leading analytical frameworks since 1999, SMM Research Series deliver more than precise price and supply chain insights—covering integrated analysis and forecast to help you seize opportunities in the global metals market.",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shanghai Metals Market",
+    "url": "https://www.metal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About Us | Global Metals Pricing, Market Data & Intelligence - Shanghai Metals Market (SMM)",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Shanghai Metals Market (SMM) is an Integrated Internet Platform Provider of Nonferrous and Ferrous Metals.",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At SMM, we envision a world in which the resources that build economies — metals, energy and compute — are priced transparently, so that capital and materials can move to where they are needed most.",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our coverage runs from base metals, ferrous metals, precious and minor metals and rare earths, to battery materials, solar and recycled materials, carbon allowances, and the emerging markets for compute capacity and AI tokens. Our pricing methodologies are aligned with the IOSCO Principles and standards.",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "From 1999, growing with the manufacturers, building integrated metals information ecosystem",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "20+ years of metals expertise with a global research network",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Full value-chain coverage from base metals to new energy manufacturing",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted bridge linking global metals, new energy and AI community",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "China's largest metals spot platform - RMB 17 trillion cumulative value",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Base Metals",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Shanghai Metals Market",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "SMM Metals Holiday Pricing & Market Schedule – Plan Your Trades - Shanghai Metals Market (SMM)",
+    "url": "https://www.metal.com/holiday-pricing-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Shanghai Metals Market",
+    "url": "https://www.metal.com/holiday-pricing-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "中国商品销售及待售面积",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "香港作为联通内地与全球市场的核心枢纽，为大宗商品领域各类市场主体搭建了重要的国际化交流对接平台，本次论坛汇聚行业智慧、碰撞前沿思想，有望为产业发展拓宽思路、创造更多务实合作机会",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "公司深耕大宗商品赛道，持续以研究前瞻研判市场走势、以期货工具筑牢风险屏障、以资本服务赋能产业升级，并将充分借力集团全牌照资源优势与香港国际金融中心平台区位价值，持续做强跨境综合金融服务能力，为金属产业链企业量身定制境内外一体化风险管理与资产配置解决方案，精准助力企业对冲价格波动风险，在复杂市场环境中稳健经营、高质量前行",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "中信建投国际行政总裁徐涛在致辞中表示，香港作为全球金属定价交易体系中的重要枢纽，在伦敦金属交易所交割资源集聚、人民币计价商品国际化进程中扮演着关键角色",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "未来，中信建投国际将持续发挥跨境业务桥梁纽带作用，深化与中信建投期货协同联动，为境内外客户提供高效、专业的大宗商品综合金融服务，助力中国金融市场实现更高水平对外开放",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "他围绕全球金属市场后市展望、地缘政治对大宗商品走势的深层影响、伦敦金属交易所与上海期货交易所两地市场流动性格局演变等行业热点议题，分享了专业研究成果与前沿市场研判",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "本次论坛汇聚了来自有色网伦敦分部、托克、UBS、法国巴黎银行、Mercuria、IFCHORGALBRAITHS等国际机构专家，围绕基本金属与新能源材料市场展望、贵金属战略重估、欧盟碳关税（CBAM）贸易路线重塑、关键矿产政策变动等核心议题，展开全方位、深层次的专业研讨，不仅为全球大宗商品市场参与者搭建了高效便捷的跨境交流桥梁，更搭建了务实多元的合作对接平台，助力各方凝聚共识、共享机遇、共促发展",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "未来，中信建投期货与中信建投国际将持续依托香港国际金融中心的独特区位与资源优势，深化与上海有色网等行业权威平台的战略合作，不断完善“境内+境外”一体化大宗商品综合服务体系，精准赋能实体企业把握市场机遇、对冲经营风险，为推动中国大宗商品市场国际化进程、提升行业全球竞争力贡献专业力量",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "大连商品交易所",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "郑州商品交易所",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "Founded",
+    "url": "https://www.metal.com/about-us",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "有色数据_有色行业数据_ 上海有色网 — 有色数据_有色行业数据_ 上海有色网 上海有色金属网 https://data-pro.smm.cn",
+    "url": "https://data-pro.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "SMM Metal Price Index & Methodology — SMM Metal Price Index & Methodology Shanghai Metals Market https://www.metal.com > methodology",
+    "url": "https://www.metal.com/methodology",
+    "pass": 3
+   },
+   {
+    "quote": "smm （ 上海有色网 发布的有色金属现货基准价格指数体系） — smm （ 上海有色网 发布的有色金属现货基准价格指数体系） 百度百科 https://baike.baidu.com > item > smm",
+    "url": "https://baike.baidu.com/item/smm/2494427",
+    "pass": 3
+   },
+   {
+    "quote": "上海有色网 _原上海有色金属网_有色金属价格行情门户 — 上海有色网 _原上海有色金属网_有色金属价格行情门户 上海有色金属网 https://www.smm.cn",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铜- 上海有色网 行业数据接口 — 铜- 上海有色网 行业数据接口 上海有色金属网 https://data.smm.cn",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "上海有色网 -国内期货市场-和讯行情中心 — 上海有色网 -国内期货市场-和讯行情中心 和讯网 https://quote.hexun.com > futures > shjs",
+    "url": "https://quote.hexun.com/futures/shjs.html",
+    "pass": 3
+   },
+   {
+    "quote": "【央广网】2026SMM香港金属论坛圆满落幕中信建投携手 上海 ... — 【央广网】2026SMM香港金属论坛圆满落幕中信建投携手 上海 ... 中信建投期货 https://www.cfc108.com > zxjtqh > ar...",
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "中国最大の非鉄金属業界向けポータルサイト SMM とMIRUが ... — 中国最大の非鉄金属業界向けポータルサイト SMM とMIRUが ... Iru-miru.com https://www.iru-miru.com > article",
+    "url": "https://www.iru-miru.com/article/46482",
+    "pass": 3
+   },
+   {
+    "quote": "上海有色网 -有色资讯-精选要闻 — 上海有色网 -有色资讯-精选要闻 上海有色金属网 https://news.smm.cn",
+    "url": "https://news.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "SMM “负责任金属价格体系”在联合国峰会发布致力于推动绿色 ... — SMM “负责任金属价格体系”在联合国峰会发布致力于推动绿色 ... 凤凰网 https://i.ifeng.com > 公益 > 新闻益事",
+    "url": "https://i.ifeng.com/c/8jmGVhsaZd9",
+    "pass": 3
+   },
+   {
+    "quote": "SMM reselling as a semi-passive income stream - Reddit — SMM reselling as a semi-passive income stream - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/passive_income/comments/1qircpw/smm_reselling_as_a_semipassive_income_stream_my/",
+    "pass": 3
+   },
+   {
+    "quote": "Social Media Marketing ( SMM ): What It Is, How It Works, Pros ... — Social Media Marketing ( SMM ): What It Is, How It Works, Pros ... Investopedia https://www.investopedia.com > terms",
+    "url": "https://www.investopedia.com/terms/s/social-media-marketing-smm.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Shennan Circuits: Business Demand Continues to Improve ... — Shennan Circuits: Business Demand Continues to Improve ... Shanghai Metals Market https://news.metal.com > newscontent",
+    "url": "https://news.metal.com/newscontent/104186620-shennan-circuits-business-demand-continues-to-improve-with-full-product-orders",
+    "pass": 3
+   },
+   {
+    "quote": "SMM Admin System — SMM Admin System smmadmin.cn https://www.smmadmin.cn",
+    "url": "https://www.smmadmin.cn/",
+    "pass": 3
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "进口粗铜加工费CIF",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "国内粗铜加工费",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "SMM鹰潭8mm铜杆加工费(月度)",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "中国铜市场调研数据库包含了铜冶炼、铜杆线、铜管、铜板带箔、电线电缆五大国内从铜生产、铜加工到铜终端消费的主要铜实体企业",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "长期以来在市场上占有率较高，具有广泛市场认可度的铜杆加工企业多数被列为长期跟踪样本，月度更新的铜杆生产及订单情况较为客观的反应了铜消费的情况",
+    "url": "https://data.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "华南铜杆加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铜精矿采购指导加工费（季度）",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "国产粗铜加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "CIF进口粗铜加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "SMM鹰潭8mm铜杆加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "华东铜杆加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "华北铜杆加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "漆包线加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铜加工材价格",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铜板带加工费报价",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "锂电铜箔加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "HTE铜箔加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "低碳铝棒加工费价格",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "锂电池铝箔加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铸轧卷加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "周度加工费分地区",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铅加工费评述",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "铅蓄电池及加工产品",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "Zamak锌合金加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "锡精矿加工费",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 SMM 铅锌年会圆满落幕！供需格局、加工费博弈及未来价格走向一文尽览",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "11月2日南昌市场铝棒加工费上调",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "11月2日，南昌市场铝棒Φ90报24100元/吨，加工费580元/吨（较前一交易日涨180元）；Φ120报24020元/吨，加工费500元/吨（涨180元）；Φ178报24020元/吨，加工费500元/吨（涨180元）",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "11月2日无锡市场铝棒加工费上调",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   },
+   {
+    "quote": "11月2日，无锡市场铝棒Φ90报23950元/吨，加工费430元/吨（较前一交易日涨50元）；Φ120报23820元/吨，加工费300元/吨（涨50元）；Φ178报23800元/吨，加工费280元/吨（涨50元）",
+    "url": "https://www.smm.cn/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.com/holiday-pricing-schedule",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://data-pro.smm.cn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.smm.cn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/item/smm/2494427",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.smm.cn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/passive_income/comments/1qircpw/smm_reselling_as_a_semipassive_income_stream_my/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.investopedia.com/terms/s/social-media-marketing-smm.asp",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SMM(上海有色网) ビジネスモデル 収益構造",
+   "results": [
+    "https://data-pro.smm.cn/",
+    "https://www.metal.com/methodology",
+    "https://baike.baidu.com/item/smm/2494427",
+    "https://www.smm.cn/",
+    "https://portal-oss.zhiye.com/111540/resource/dc5af2ff-c10e-41e6-af07-9ffd38720b52.html",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260612062753253854960&postId=1725162777",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/industries/other-industrial-products/industries-other-industrial-products-material-2020-04-01-01",
+    "https://futures.hexun.com/upload/zhongxinqitong20080405.pdf",
+    "https://www.stcn.com/article/detail/971140.html",
+    "https://www.smm.cn/about"
+   ]
+  },
+  {
+   "query": "SMM(上海有色网) 決算説明資料 セグメント",
+   "results": [
+    "https://data.smm.cn/",
+    "https://baike.baidu.com/item/smm/2494427",
+    "https://quote.hexun.com/futures/shjs.html",
+    "https://data-pro.smm.cn/",
+    "http://static.sse.com.cn/stock/information/c/202203/a74f83875ece4884bd8e72d430b21047.pdf",
+    "https://ssl4.eir-parts.net/doc/6920/ir_material_for_fiscal_ym/216259/00.pdf",
+    "https://emweb.securities.eastmoney.com/pc_hsf10/pages/index.html?type=web&code=sh601825",
+    "https://www.release.tdnet.info/inbs/140120261030561660.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS04489/2e030bf5/de19/4d59/9929/443dffc7e16c/S100SP21.pdf",
+    "https://www.smm.cn/"
+   ]
+  },
+  {
+   "query": "SMM(上海有色网) 社長 インタビュー",
+   "results": [
+    "https://www.smm.cn/",
+    "https://www.cfc108.com/zxjtqh/2026-05/26/article_2026052613564223941.shtml",
+    "https://www.iru-miru.com/article/46482",
+    "https://news.smm.cn/",
+    "https://i.ifeng.com/c/8jmGVhsaZd9",
+    "https://baike.baidu.com/ja/item/SMM2026%E9%9B%BB%E6%B1%A0%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%A4%A7%E4%BC%9A/6543791",
+    "https://www.reuters.com/jp/markets/commodities/6M2W5Q6L5JPX5BBGZDWJ27S5QI-2024-11-29/",
+    "https://news.qq.com/rain/a/20230917A07TX500",
+    "https://about.smm.cn/",
+    "https://www.cnmn.com.cn/ShowNews1.aspx?id=474873"
+   ]
+  },
+  {
+   "query": "SMM(上海有色网) business model revenue gross margin",
+   "results": [
+    "https://www.reddit.com/r/passive_income/comments/1qircpw/smm_reselling_as_a_semipassive_income_stream_my/",
+    "https://www.investopedia.com/terms/s/social-media-marketing-smm.asp",
+    "https://news.metal.com/newscontent/104186620-shennan-circuits-business-demand-continues-to-improve-with-full-product-orders",
+    "https://www.smmadmin.cn/",
+    "https://finance.biggo.com/news/1415c0ec-0349-4061-89d5-11e8976d4efa",
+    "https://www.getharvest.com/calculators/how-to-calculate-profit-margin-in-china",
+    "https://baike.baidu.com/en/item/SMM%20Silicon%20Division/5221181",
+    "https://wpic.co/blog/why-margins-break-down-china/",
+    "https://www.ajbmr.com/articlepdf/ajbmrv01n0305.pdf",
+    "https://www.qcc.com/firm/befe960df93e0c28bbad95222fc79212.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）",
+  "利益の源泉": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索4回）"
+ }
+}

@@ -1,0 +1,1688 @@
+{
+ "name": "港湾クレーン",
+ "en": "ship to shore crane",
+ "aliases": [
+  "STSクレーン",
+  "港湾荷役機械"
+ ],
+ "context": "15 港湾ロジ ①港湾荷役機械",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:04:04.281456+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "日本のクレーン市場規模、2034年に3,000万米ドルを突破へ | 年平均成長率（CAGR）4.50%で拡大 | NEWSCAST",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本のクレーン市場規模、2034年に3,000万米ドルを突破へ | 年平均成長率（CAGR）4.50%で拡大",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本のクレーン市場は、2025年に1,990万米ドルの規模に達しました",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本クレーン市場規模と成長率に関するレポート（2026年～2034年）",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：1,990万米ドル",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本のクレーン市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本のクレーン市場規模は",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本のクレーン市場は、国土交通省の継続的な公共事業支出、日本のカーボンニュートラルへの取り組みに対応した電動および水素クレーンパワートレインの商業化の進展、高度なクレーンテレマティクスの導入を促進するi-Construction BIM/CIM義務化、および洋上風力タービン設置プログラムの拡大による特殊な船舶用クレーンシステムの需要創出に支えられ、2025年から2033年にかけて年平均成長率4.60%で成長し、2033年には47億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "ポートクレーン市場規模、シェアおよび予測、2026～2033年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Coherent Market Insights の推定では、世界の港湾クレーン市場は 2026 年に",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ZPMC:単位ごとのUSD 12-18,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Liebherr:単位ごとのUSD 7-12,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Konecranes:単位ごとのUSD 7-11,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Konecranes:単位ごとのUSD 1.8-2.8,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Liebherr:単位ごとのUSD 2.5-3.8,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "カルマー:単位ごとのUSD 2.3-3.4,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ZPMC:単位ごとのUSD 1.2-2.0,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Liebherr:単位ごとのUSD 2.2-3.8,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "カルマー:単位ごとのUSD 3.8-5.8,000,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "オペレーション・インサイト(Revenue、USD Bn、2021 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ 洞察(Revenue、USD Bn、2021 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "また、移動式港湾クレーンの市場規模を、2020年から2031年までの市場パターンに基づき、将来の市場動向を予測しています",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における移動式港湾クレーンの世界市場規模は、1123百万米ドルと予測され、2025年から2031年の予測期間において、年間平均成長率（CAGR）5.6％で成長し、2031年までに1640百万米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：移動式港湾クレーンの製品概要、世界の市場規模予測、売上、販売量、価格について紹介する",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "電気港湾クレーンの世界市場（2026年～2032年）、市場規模（ディーゼル・バッテリーハイブリッド、パワーフィード・バッテリーハイブリッド）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "電気港湾クレーンの世界市場（2026年～2032年）、市場規模（ディーゼル・バッテリーハイブリッド、パワーフィード・バッテリーハイブリッド）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電動港湾クレーン市場規模は、2025年の2億1,700万米ドルから2032年には8億600万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）21.0%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "第12章は、世界の将来予測レビューであり、地域別、国別、製品タイプ別、および用途別の市場規模予測（2027-2032年）が提供されています",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "移動式港湾クレーン市場規模は2026年1240百万米ドル、成長率5.6%で拡大予測 | QY Research株式会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "移動式港湾クレーン市場規模は2026年1240百万米ドル、成長率5.6%で拡大予測",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「移動式港湾クレーン―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、移動式港湾クレーンの世界市場は、2025年に1180百万米ドルと推定され、2026年には1240百万米ドルに達すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "抵抗溶接用電極の世界市場規模：2026年は499百万米ドルに達する見込み",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】半導体プラスチックトレイ市場規模、2026年に502百万米ドルへ｜年平均成長率5.7%で推移予測",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "また、移動式港湾クレーンの市場規模を、2020年から2031年までの市場パターンに基づき、将来の市場動向を予測しています",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における移動式港湾クレーンの世界市場規模は、1123百万米ドルと予測され、2025年から2031年の予測期間において、年間平均成長率（CAGR）5.6％で成長し、2031年までに1640百万米ドルに達すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：移動式港湾クレーンの製品概要、世界の市場規模予測、売上、販売量、価格について紹介する",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "港湾設備市場は、2019年から2030年を調査期間とし、2025年には205.5億米ドル、2030年には268.2億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.47%です",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 運用モード別: 従来型（手動/半自動）が2024年に91.45%の市場規模を占めていますが、完全自動モデルは予測期間中に16.55%のCAGRで急成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "港湾設備市場は、2025年には205.5億米ドルの価値があり、2030年までに268.2億米ドルに達すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（金額（USD）および数量（単位））",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "電気港湾クレーンの世界市場（2026年～2032年）、市場規模（ディーゼル・バッテリーハイブリッド、パワーフィード・バッテリーハイブリッド）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "電気港湾クレーンの世界市場（2026年～2032年）、市場規模（ディーゼル・バッテリーハイブリッド、パワーフィード・バッテリーハイブリッド）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "日本のクレーン市場規模、2034年に3,000万米ドルを突破へ | 年平均成長率（CAGR）4.50%で拡大 | NEWSCAST",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本のクレーン市場規模、2034年に3,000万米ドルを突破へ | 年平均成長率（CAGR）4.50%で拡大",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "今後の見通しとして、IMARC Groupは、同市場が2034年までに3,000万米ドルに達し、2026年から2034年の期間において年平均成長率（CAGR）4.50%で推移すると予測しています",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本クレーン市場規模と成長率に関するレポート（2026年～2034年）",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率（2026年～2034年）：4.50%",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までに、CAGRは",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. 日本のクレーン市場の予測成長率はどのくらいですか？",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "日本のクレーン市場は、国土交通省の継続的な公共事業支出、日本のカーボンニュートラルへの取り組みに対応した電動および水素クレーンパワートレインの商業化の進展、高度なクレーンテレマティクスの導入を促進するi-Construction BIM/CIM義務化、および洋上風力タービン設置プログラムの拡大による特殊な船舶用クレーンシステムの需要創出に支えられ、2025年から2033年にかけて年平均成長率4.60%で成長し、2033年には47億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の成長は、国土交通省の公共事業支出の増加により、耐震改修、道路、海岸保全、都市再開発プログラム全体で建設用クレーンの調達が維持されること、脱炭素化ロードマップに取り組む日本の港湾事業者全体で水素燃料クレーンと電動クレーン技術の導入が加速すること、i-Construction BIM/CIM統合要件により高度なクレーンテレマティクス調達が促進されること、洋上風力タービン設置プログラムの拡大により船舶用クレーン船の需要が高まること、そしてタダノ、コベルコ、マエダが自動化、荷重検知、遠隔操作支援機能を強化した次世代クレーンプラットフォームを導入する製品を発表することによって推進される",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "に拡大すると予想されており、2026 年から 2026 年までの間に",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2026〜2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のUSD 1.85 Bnで市場規模を拡大し、2033年までにUSD 2.70 Bnに達すると予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における移動式港湾クレーンの世界市場規模は、1123百万米ドルと予測され、2025年から2031年の予測期間において、年間平均成長率（CAGR）5.6％で成長し、2031年までに1640百万米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電動港湾クレーン市場規模は、2025年の2億1,700万米ドルから2032年には8億600万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）21.0%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "移動式港湾クレーン市場規模は2026年1240百万米ドル、成長率5.6%で拡大予測 | QY Research株式会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "移動式港湾クレーン市場規模は2026年1240百万米ドル、成長率5.6%で拡大予測",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）5.6%で推移し、2032年には1723百万米ドルに拡大すると見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "回転ステアリングツール市場の最新予測：2026年に447百万米ドル規模、成長率4.9%の見通し",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタンパク質および抗体精製用磁気ビーズ市場動向、年平均成長率6.7%で拡大継続2026-2032",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】半導体プラスチックトレイ市場規模、2026年に502百万米ドルへ｜年平均成長率5.7%で推移予測",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における移動式港湾クレーンの世界市場規模は、1123百万米ドルと予測され、2025年から2031年の予測期間において、年間平均成長率（CAGR）5.6％で成長し、2031年までに1640百万米ドルに達すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "港湾設備市場は、2019年から2030年を調査期間とし、2025年には205.5億米ドル、2030年には268.2億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.47%です",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、中国の自動化された港湾では、2024年に160.4億トンの貨物と3億個のコンテナを処理し、前年比3.4%の増加を記録しました",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 設備タイプ別: クレーンが2024年に港湾設備市場シェアの56.33%を占め、予測期間中（2025-2030年）に7.11%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 用途別: コンテナハンドリングが2024年に54.71%のシェアで市場を牽引しており、倉庫およびヤードロジスティクスは予測期間中に8.25%のCAGRで成長すると予想されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 燃料タイプ別: ディーゼルユニットが2024年に69.82%の市場シェアを占めていますが、電動およびハイブリッドモデルは予測期間中に9.13%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 運用モード別: 従来型（手動/半自動）が2024年に91.45%の市場規模を占めていますが、完全自動モデルは予測期間中に16.55%のCAGRで急成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋地域が2024年に港湾設備市場シェアの46.25%を占め、予測期間中に6.33%のCAGRを記録すると予想されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "特にクレーンは、2024年の世界収益の56.33%を占め、2030年まで年平均成長率（CAGR）7.11%で成長すると予測されており、最も大きな収益シェアを保持しています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "電動およびハイブリッドモデルは、2025年から2030年の間に年平均成長率9.13%を記録すると予想されており、最も急速に拡大している燃料セグメントです",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、中国の52の自動化ターミナル、継続的なインフラ投資、および6.33%のCAGR見通しにより、最大の地域市場となっています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電動港湾クレーン市場規模は、2025年の2億1,700万米ドルから2032年には8億600万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）21.0%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "世界の船舶陸揚げコンテナクレーン市場規模は、2025年に29億5000万米ドルと評価され、2026年の31億1000万米ドルから2034年には47億6000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は5.47%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジャワハルラール・ネルー港湾局（JNPA）によると、2026年6月のコンテナ取扱量は723,479 TEU（20フィート換算単位）に達し、前年比17.51%増加しました",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "注目度の高いSTSクレーン分野は、超大型コンテナ船を取り扱う深水港での導入拡大に伴い、予測期間中に年平均成長率（CAGR）5.72%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "低背型STSクレーンのセグメントは、空港や都市部付近の高さ制限のある港湾に適していることから、予測期間中に年平均成長率（CAGR）約4.91%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "40～65トン級クレーンは、地域港湾の近代化とコンテナ取扱能力の拡大を背景に、予測期間中に年平均成長率（CAGR）5.64%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "完全自動化されたSTSクレーン分野は、スマートポート技術と遠隔クレーン操作の普及拡大を背景に、予測期間中に年平均成長率（CAGR）6.47%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "積み替えターミナル部門は、貨物輸送活動の増加と戦略的な深水港湾ハブの開発に支えられ、予測期間中に年平均成長率（CAGR）6.08%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカの船舶陸揚げコンテナクレーン市場は、予測期間中に年平均成長率（CAGR）6.38%で成長すると予想されており、地域市場の中で最も急速に成長している市場となっています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2034",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "For the North American region, the priorities include the adoption of electric drives, efficiency on berths, and crane modernization. The growth rate of the Ship-to-Shore Cranes Market in North America will be within the range of 3.0 to 3.4% CAGR in 2026-2034.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "held a 22–24% Ship-to-Shore Cranes Market share in 2025 and is projected to grow at a 3.0–3.4% CAGR between 2026–2034, supported by terminal upgrades, electrification, and resilient container gateways.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for 78–82% of North America in 2025 and is expected to grow at a 3.1–3.5% CAGR through 2034.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "represented a 20–22% share in 2025 and is forecast to record a 2.7–3.1% CAGR, led by Germany, the UK, France, Spain, and Italy.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "held a 42–45% share in 2025 and is projected to advance at a 3.9–4.4% CAGR, led by China, Japan, South Korea, India, and Australia.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electric power supply captured a 58–62% market share in 2025, with a 3.7–4.1% CAGR during 2026–2034.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Above 60 Meters outreach held a 24–28% market share in 2025 and is expected to grow at a 4.2–4.7% CAGR.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global CAGR (2026 - 2034)",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe has a market share of 20-22% and an expected CAGR of 2.7-3.1%. Germany takes the lead regionally due to logistics centers in the North Sea and the Baltic, which need efficient, automated, and eco-friendly machinery. UK ports are upgrading their facilities in a selective manner in order to retain high quality service in deep sea and feeder routes.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, APAC constituted 42–45% market share and is anticipated to expand with a CAGR of 3.9–4.4%. China holds the top position because of large container volumes, manufacturing capabilities for equipment and automation of terminals. Japan and South Korea focus on reliability, whereas India and Australia offer selective capacities.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East and Africa is projected to grow at a 3.6–4.1% CAGR, supported by port expansion in Saudi Arabia, the UAE, South Africa, and Rest of MEA corridors. Saudi Arabia is the leading country as logistics diversification and industrial port development remain strategic policy priorities.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "is expected to grow at a 3.4–3.9% CAGR during 2026–2034 as vessel beam, berth configuration, and terminal productivity determine crane selection. The Ship-to-Shore Cranes Market scope within outreach is shifting toward taller, longer-reach units while smaller cranes remain relevant for feeder terminals, regional ports, and retrofit projects with physical constraints.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "is projected to expand at a 3.5–4.0% CAGR during 2026–2034 as terminals shift from diesel reliance toward grid-connected and hybrid architectures. Electric cranes dominate new procurement because they reduce on-site emissions, improve energy recovery, and align with port decarbonization plans, while hybrid systems address sites with grid limitations.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "IMARCグループの最新レポート「日本のクレーン市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本のクレーン市場規模は",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "ポートクレーン市場規模、シェアおよび予測、2026～2033年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ポート クレーンズ マーケット 規模とシェアの分析 - 成長傾向と予測 (2026 - 2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "手動セグメントは、2026 年に港湾クレーン市場シェアの",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Ship to Shore (STS) クレーン部門は、2026 年に市場シェアの",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "港湾セグメントは、2026 年に世界の港湾クレーン市場シェアの",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域が 2026 年に港湾クレーン市場を独占し、",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場シェアの42.0%を占めるマニュアルセグメント",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のグローバルポートクレーン市場シェアの25.0%を保持するために、STSのクレーンセグメントに船を建設",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のポートクレーン市場シェアの44.0%を捕獲する海港の区分は期待されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2026年に35%のシェアで市場をリードする予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域は、2026年に26%のシェアを獲得した市場で最も速い成長を期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月10日に、QYResearch株式会社は「移動式港湾クレーン―グローバル市場シェアとランキング、全体の売上と需要予測、2025～2031」の調査レポートを発表しました",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "世界の移動式港湾クレーンの主要メーカーは、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUで、上位5社が世界シェアの約54％を占めています",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別では、ディーゼルエンジンが約68％のシェアで最大のセグメントです",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "また、用途別では、コンテナ港が61％のシェアで最大の下流セグメントです",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：移動式港湾クレーンメーカーの競合分析、トップ5社とトップ10社の売上ランキング、移動式港湾クレーンの製造拠点と本社所在地、製品、価格、販売量および売上の市場シェア、最新の開発計画、合併および買収情報など、詳細な分析を提供する",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：製品別の分析を提供し、世界の移動式港湾クレーンの売上、売上市場シェア、販売量、販売量市場シェア、価格を含む",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：用途別の分析を提供し、世界の移動式港湾クレーンの売上、売上市場シェア、販売量、販売量市場シェア、価格を含む",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、企業別の売上データ（販売量、収益、価格、市場シェア）、主要メーカーの製造・販売地域、製品タイプ、市場集中度分析、新規参入企業、M&A活動と戦略など、競合環境に関する詳細な分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「移動式港湾クレーン―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、移動式港湾クレーンの世界市場は、2025年に1180百万米ドルと推定され、2026年には1240百万米ドルに達すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、アジア太平洋地域が約36%のシェアを占めて最大市場となっており、欧州が29%、北米が24%で続いている",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別ではディーゼルエンジン搭載型が約68%を占め、現時点で最大のセグメントとなっている",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "用途別ではコンテナ港が最大で、約61%のシェアを占めている",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場では、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUなどが主要企業として挙げられ、上位5社で約54%の市場シェアを占める",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「移動式港湾クレーン―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月10日に、QYResearch株式会社は「移動式港湾クレーン―グローバル市場シェアとランキング、全体の売上と需要予測、2025～2031」の調査レポートを発表しました",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "世界の移動式港湾クレーンの主要メーカーは、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUで、上位5社が世界シェアの約54％を占めています",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別では、ディーゼルエンジンが約68％のシェアで最大のセグメントです",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "また、用途別では、コンテナ港が61％のシェアで最大の下流セグメントです",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：移動式港湾クレーンメーカーの競合分析、トップ5社とトップ10社の売上ランキング、移動式港湾クレーンの製造拠点と本社所在地、製品、価格、販売量および売上の市場シェア、最新の開発計画、合併および買収情報など、詳細な分析を提供する",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：製品別の分析を提供し、世界の移動式港湾クレーンの売上、売上市場シェア、販売量、販売量市場シェア、価格を含む",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：用途別の分析を提供し、世界の移動式港湾クレーンの売上、売上市場シェア、販売量、販売量市場シェア、価格を含む",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 港湾設備市場 規模・シェア分析、成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "港湾設備市場 規模・シェア分析、成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 設備タイプ別: クレーンが2024年に港湾設備市場シェアの56.33%を占め、予測期間中（2025-2030年）に7.11%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 用途別: コンテナハンドリングが2024年に54.71%のシェアで市場を牽引しており、倉庫およびヤードロジスティクスは予測期間中に8.25%のCAGRで成長すると予想されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 燃料タイプ別: ディーゼルユニットが2024年に69.82%の市場シェアを占めていますが、電動およびハイブリッドモデルは予測期間中に9.13%のCAGRを記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 運用モード別: 従来型（手動/半自動）が2024年に91.45%の市場規模を占めていますが、完全自動モデルは予測期間中に16.55%のCAGRで急成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋地域が2024年に港湾設備市場シェアの46.25%を占め、予測期間中に6.33%のCAGRを記録すると予想されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "特にクレーンは、2024年の世界収益の56.33%を占め、2030年まで年平均成長率（CAGR）7.11%で成長すると予測されており、最も大きな収益シェアを保持しています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 市場シェア分析",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル (グローバルレベルの概要、市場レベルの概要、主要セグメント、入手可能な財務情報、戦略情報、主要企業の市場順位/シェア、製品とサービス、SWOT分析、および最近の動向を含む)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ターミナル・トラクター市場：規模・シェア分析、成長トレンド・予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車スマート照明市場 規模・シェア分析 – 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "強化プラスチック市場の規模、シェアおよびトレンド分析レポート：繊維タイプ別（ガラス繊維強化プラスチック（GFRP）、カーボンファイバー強化プラスチック（CFRP）、アラミド繊維強化プラスチック（AFRP）、天然繊維強化プラスチック（NFRP））、製造プロセス別（射出成形、圧縮成形、プルトルージョン、フィラメント巻き、樹脂転送成形（RTM））、最終用途産業別（輸送、建設、電気・電子、風力エネルギー、その他）および地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "播種用キャノーラ種子市場 規模・シェア分析 – 成長動向と予測 (2025年 – 2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、企業別の売上データ（販売量、収益、価格、市場シェア）、主要メーカーの製造・販売地域、製品タイプ、市場集中度分析、新規参入企業、M&A活動と戦略など、競合環境に関する詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "船舶間コンテナクレーン（STS）市場の規模とシェア（2034年）",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶陸揚げ（STS）コンテナクレーン市場の規模、シェア、トレンド分析レポート：クレーンタイプ別（高プロファイルSTSクレーン、低プロファイルSTSクレーン）、吊り上げ能力別（40トン以下、40～65トン、65トン超）、自動化レベル別（手動STSクレーン、半自動STSクレーン、全自動STSクレーン）、用途別（商業コンテナ港、積み替えターミナル、内陸コンテナデポ（ICD））、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に48.63%の市場シェアを占め、船舶陸揚げコンテナクレーン市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "65トン以上のセグメントは、超大型コンテナ船の取り扱い、ツインリフト作業、およびより重いコンテナ積載量に対する需要の増加により、2025年には市場シェアの58.84%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "半自動STSクレーン分野は、既存のコンテナターミナルで運用効率化と適度な設備投資を求める動きが広がるにつれ、2025年には市場シェアの61.52%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ取扱量の増加とターミナル容量増強への継続的な投資により、商業コンテナ港湾部門は2025年に市場シェアの67.43%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の岸壁コンテナクレーン市場は、2025年には地域別シェア48.63%を占め、最大のシェアを獲得しました",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に48.63%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "空気清浄システム市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "脳虚血市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "この市場調査レポートは、市場構造、主要企業のポジショニング、成功戦略、競合ダッシュボード、企業評価象限など、競争環境に関する詳細な分析を提供します",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業すべての詳細なプロファイルも含まれています",
+    "url": "https://newscast.jp/news/6135934",
+    "pass": 3
+   },
+   {
+    "quote": "本報告書は、移動式港湾クレーンの世界市場に関する売上、販売量、価格、市場シェア、主要企業のランキングなどを網羅し、地域別、国別、製品タイプ別、用途別に詳細に分析しています",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "移動式港湾クレーンの世界の主要企業：Konecranes、Liebherr、Sany、Sennebogen、Sumitomo Heavy Industries、ITALGRU、XCMG、ZPMC、RHM、ZHENDONG PORT MACHINERY MFG",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：移動式港湾クレーン市場における主要企業情報を提供し、会社概要と事業概要を詳細に紹介する",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーの戦略分析：移動式港湾クレーン市場の主要プレイヤーを戦略的にプロファイリングし、その成長戦略や市場進出方法を総合的に分析します",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、企業別の売上データ（販売量、収益、価格、市場シェア）、主要メーカーの製造・販売地域、製品タイプ、市場集中度分析、新規参入企業、M&A活動と戦略など、競合環境に関する詳細な分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、Konecranes, Liebherr, Sanyなどの主要企業各社について、企業情報、製品ポートフォリオと仕様、過去の売上・収益・価格・粗利益（2021-2026年）、主要事業概要、最新の動向など、詳細な企業分析が掲載されています",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場では、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUなどが主要企業として挙げられ、上位5社で約54%の市場シェアを占める",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "pass": 3
+   },
+   {
+    "quote": "本報告書は、移動式港湾クレーンの世界市場に関する売上、販売量、価格、市場シェア、主要企業のランキングなどを網羅し、地域別、国別、製品タイプ別、用途別に詳細に分析しています",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "移動式港湾クレーンの世界の主要企業：Konecranes、Liebherr、Sany、Sennebogen、Sumitomo Heavy Industries、ITALGRU、XCMG、ZPMC、RHM、ZHENDONG PORT MACHINERY MFG",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：移動式港湾クレーン市場における主要企業情報を提供し、会社概要と事業概要を詳細に紹介する",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーの戦略分析：移動式港湾クレーン市場の主要プレイヤーを戦略的にプロファイリングし、その成長戦略や市場進出方法を総合的に分析します",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "レポートでは、市場集中度、戦略的動向、市場シェア分析、および主要企業のプロファイル（Kalmar、Konecranes Oyj、Liebherr Group、ZPMC、Sany Heavy Industry Co., Ltd.、Hyster-Yale Group、Cavotec、Paceco Corp.、Terex Corporation、Manitowoc、Taylor Machine Works、Toyota Material Handling、TTS Group、Famur Famak、OUCO Industry、Anupam Industries、Mi-Jack Productsなど）が詳細に分析されています",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル (グローバルレベルの概要、市場レベルの概要、主要セグメント、入手可能な財務情報、戦略情報、主要企業の市場順位/シェア、製品とサービス、SWOT分析、および最近の動向を含む)",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、企業別の売上データ（販売量、収益、価格、市場シェア）、主要メーカーの製造・販売地域、製品タイプ、市場集中度分析、新規参入企業、M&A活動と戦略など、競合環境に関する詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、Konecranes, Liebherr, Sanyなどの主要企業各社について、企業情報、製品ポートフォリオと仕様、過去の売上・収益・価格・粗利益（2021-2026年）、主要事業概要、最新の動向など、詳細な企業分析が掲載されています",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、吊り上げ能力、自動化、エネルギー効率、クレーンの信頼性における技術革新を通じて競争し、港湾当局やターミナル運営会社との長期的なパートナーシップを強化しています",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies analyzed in detail",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Current applications include increased outreach for larger container vessels, regenerative power sources, and remote monitoring. Two key players that are named as providers of equipment include Konecranes Plc and Liebherr-International AG, although there are still other Asian firms that can provide equipment in bulk quantities.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Company Benchmarking",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "pass": 3
+   },
+   {
+    "quote": "Market Concentration and Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the ship-to-shore cranes market?",
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "STSコンテナクレーン市場における主要投資および資金調達分析（2025年～2026年）",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": "March 2023: The first batch of two Ship to Shore cranes and 3 Rail Mounted Gantry Cranes set sail from China. Destined for APM Terminals Mumbai (Gateway Terminals India) they form part of a US$115 million investment to meet customer needs for larger vessel capability and increase container handling capacity at the terminal by 10% to 2.18 million TEUs.",
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "pass": 3
+   },
+   {
+    "quote": ">60 meters contribute the highest share of the market owing to its infrastructure investment in deep-water ports",
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2025, the Port Elizabeth Container Terminal invested ZAR240 million ($12.7 million) to acquire a new ship-to-shore crane and strengthen its operations. This upgrade aims to enhance the terminal’s ability to handle larger vessels and improve container management for the automotive and agricultural sectors.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "移動式 港湾クレーン の世界 市場 調査レポート2025 - Newscast.jp — 移動式 港湾クレーン の世界 市場 調査レポート2025 - Newscast.jp Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/4484822",
+    "pass": 3
+   },
+   {
+    "quote": "移動式 港湾クレーン の世界 市場 調査レポート 2025 - アットプレス — 移動式 港湾クレーン の世界 市場 調査レポート 2025 - アットプレス アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.50",
+    "url": "https://newscast.jp/news/6135934",
+    "quote": "日本のクレーン市場規模、2034年に3,000万米ドルを突破へ | 年平均成長率（CAGR）4.50%で拡大 | NEWSCAST"
+   },
+   {
+    "value": "4.60",
+    "url": "https://newscast.jp/news/6135934",
+    "quote": "日本のクレーン市場は、国土交通省の継続的な公共事業支出、日本のカーボンニュートラルへの取り組みに対応した電動および水素クレーンパワートレインの商業化の進展、高度なクレーンテレマティクスの導入を促進するi-Construction BIM/CIM義務化、および洋上風力タービン設置プログラムの拡大による特殊な船舶用クレーンシステムの需要創出に支えられ、2025年から2033年にかけて年平均成長率4.60%で成長し、2033年には47億米ドルに達すると予測されています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "2024年における移動式港湾クレーンの世界市場規模は、1123百万米ドルと予測され、2025年から2031年の予測期間において、年間平均成長率（CAGR）5.6％で成長し、2031年までに1640百万米ドルに達すると予測されている"
+   },
+   {
+    "value": "21.0",
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "quote": "世界の電動港湾クレーン市場規模は、2025年の2億1,700万米ドルから2032年には8億600万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）21.0%で成長すると見込まれています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）5.6%で推移し、2032年には1723百万米ドルに拡大すると見込まれています"
+   },
+   {
+    "value": "12.8",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大"
+   },
+   {
+    "value": "6.7",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "世界のタンパク質および抗体精製用磁気ビーズ市場動向、年平均成長率6.7%で拡大継続2026-2032"
+   },
+   {
+    "value": "5.7",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "【最新予測】半導体プラスチックトレイ市場規模、2026年に502百万米ドルへ｜年平均成長率5.7%で推移予測"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "2024年における移動式港湾クレーンの世界市場規模は、1123百万米ドルと予測され、2025年から2031年の予測期間において、年間平均成長率（CAGR）5.6％で成長し、2031年までに1640百万米ドルに達すると予測されている"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測"
+   },
+   {
+    "value": "5.47",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "港湾設備市場は、2019年から2030年を調査期間とし、2025年には205.5億米ドル、2030年には268.2億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は5.47%です"
+   },
+   {
+    "value": "7.11",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "特にクレーンは、2024年の世界収益の56.33%を占め、2030年まで年平均成長率（CAGR）7.11%で成長すると予測されており、最も大きな収益シェアを保持しています"
+   },
+   {
+    "value": "9.13",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "電動およびハイブリッドモデルは、2025年から2030年の間に年平均成長率9.13%を記録すると予想されており、最も急速に拡大している燃料セグメントです"
+   },
+   {
+    "value": "21.0",
+    "url": "https://newscast.jp/smart/news/8784023",
+    "quote": "世界の電動港湾クレーン市場規模は、2025年の2億1,700万米ドルから2032年には8億600万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）21.0%で成長すると見込まれています"
+   },
+   {
+    "value": "5.47",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "世界の船舶陸揚げコンテナクレーン市場規模は、2025年に29億5000万米ドルと評価され、2026年の31億1000万米ドルから2034年には47億6000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は5.47%となる見込みです"
+   },
+   {
+    "value": "5.72",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "注目度の高いSTSクレーン分野は、超大型コンテナ船を取り扱う深水港での導入拡大に伴い、予測期間中に年平均成長率（CAGR）5.72%で成長すると予想されています"
+   },
+   {
+    "value": "4.91",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "低背型STSクレーンのセグメントは、空港や都市部付近の高さ制限のある港湾に適していることから、予測期間中に年平均成長率（CAGR）約4.91%で成長すると予想されています"
+   },
+   {
+    "value": "5.64",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "40～65トン級クレーンは、地域港湾の近代化とコンテナ取扱能力の拡大を背景に、予測期間中に年平均成長率（CAGR）5.64%で成長すると見込まれています"
+   },
+   {
+    "value": "6.47",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "完全自動化されたSTSクレーン分野は、スマートポート技術と遠隔クレーン操作の普及拡大を背景に、予測期間中に年平均成長率（CAGR）6.47%で成長すると予想されています"
+   },
+   {
+    "value": "6.08",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "積み替えターミナル部門は、貨物輸送活動の増加と戦略的な深水港湾ハブの開発に支えられ、予測期間中に年平均成長率（CAGR）6.08%で成長すると予想されています"
+   },
+   {
+    "value": "6.38",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "中東・アフリカの船舶陸揚げコンテナクレーン市場は、予測期間中に年平均成長率（CAGR）6.38%で成長すると予想されており、地域市場の中で最も急速に成長している市場となっています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "42.0",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "quote": "2026年の市場シェアの42.0%を占めるマニュアルセグメント"
+   },
+   {
+    "value": "25.0",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "quote": "2026年のグローバルポートクレーン市場シェアの25.0%を保持するために、STSのクレーンセグメントに船を建設"
+   },
+   {
+    "value": "44.0",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "quote": "2026年のポートクレーン市場シェアの44.0%を捕獲する海港の区分は期待されます"
+   },
+   {
+    "value": "35",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "quote": "アジア太平洋地域は、2026年に35%のシェアで市場をリードする予定です"
+   },
+   {
+    "value": "26",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "quote": "北米地域は、2026年に26%のシェアを獲得した市場で最も速い成長を期待しています"
+   },
+   {
+    "value": "54",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "世界の移動式港湾クレーンの主要メーカーは、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUで、上位5社が世界シェアの約54％を占めています"
+   },
+   {
+    "value": "36",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています"
+   },
+   {
+    "value": "29",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています"
+   },
+   {
+    "value": "24",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています"
+   },
+   {
+    "value": "68",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "製品タイプ別では、ディーゼルエンジンが約68％のシェアで最大のセグメントです"
+   },
+   {
+    "value": "61",
+    "url": "https://newscast.jp/news/4484822",
+    "quote": "また、用途別では、コンテナ港が61％のシェアで最大の下流セグメントです"
+   },
+   {
+    "value": "36",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "地域別では、アジア太平洋地域が約36%のシェアを占めて最大市場となっており、欧州が29%、北米が24%で続いている"
+   },
+   {
+    "value": "29",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "地域別では、アジア太平洋地域が約36%のシェアを占めて最大市場となっており、欧州が29%、北米が24%で続いている"
+   },
+   {
+    "value": "24",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "地域別では、アジア太平洋地域が約36%のシェアを占めて最大市場となっており、欧州が29%、北米が24%で続いている"
+   },
+   {
+    "value": "68",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "製品タイプ別ではディーゼルエンジン搭載型が約68%を占め、現時点で最大のセグメントとなっている"
+   },
+   {
+    "value": "61",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "用途別ではコンテナ港が最大で、約61%のシェアを占めている"
+   },
+   {
+    "value": "54",
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "quote": "世界市場では、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUなどが主要企業として挙げられ、上位5社で約54%の市場シェアを占める"
+   },
+   {
+    "value": "54",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "世界の移動式港湾クレーンの主要メーカーは、Konecranes、Liebherr、Sany、Sennebogen、住友重機械工業、ITALGRUで、上位5社が世界シェアの約54％を占めています"
+   },
+   {
+    "value": "36",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています"
+   },
+   {
+    "value": "29",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています"
+   },
+   {
+    "value": "24",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "アジア太平洋地域が約36％のシェアで最大の市場であり、続いてヨーロッパと北米がそれぞれ29％と24％のシェアを占めています"
+   },
+   {
+    "value": "68",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "製品タイプ別では、ディーゼルエンジンが約68％のシェアで最大のセグメントです"
+   },
+   {
+    "value": "61",
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "quote": "また、用途別では、コンテナ港が61％のシェアで最大の下流セグメントです"
+   },
+   {
+    "value": "56.33",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 設備タイプ別: クレーンが2024年に港湾設備市場シェアの56.33%を占め、予測期間中（2025-2030年）に7.11%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "7.11",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 設備タイプ別: クレーンが2024年に港湾設備市場シェアの56.33%を占め、予測期間中（2025-2030年）に7.11%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "54.71",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 用途別: コンテナハンドリングが2024年に54.71%のシェアで市場を牽引しており、倉庫およびヤードロジスティクスは予測期間中に8.25%のCAGRで成長すると予想されています"
+   },
+   {
+    "value": "8.25",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 用途別: コンテナハンドリングが2024年に54.71%のシェアで市場を牽引しており、倉庫およびヤードロジスティクスは予測期間中に8.25%のCAGRで成長すると予想されています"
+   },
+   {
+    "value": "69.82",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 燃料タイプ別: ディーゼルユニットが2024年に69.82%の市場シェアを占めていますが、電動およびハイブリッドモデルは予測期間中に9.13%のCAGRを記録すると予測されています"
+   },
+   {
+    "value": "9.13",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 燃料タイプ別: ディーゼルユニットが2024年に69.82%の市場シェアを占めていますが、電動およびハイブリッドモデルは予測期間中に9.13%のCAGRを記録すると予測されています"
+   },
+   {
+    "value": "91.45",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 運用モード別: 従来型（手動/半自動）が2024年に91.45%の市場規模を占めていますが、完全自動モデルは予測期間中に16.55%のCAGRで急成長すると予測されています"
+   },
+   {
+    "value": "16.55",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 運用モード別: 従来型（手動/半自動）が2024年に91.45%の市場規模を占めていますが、完全自動モデルは予測期間中に16.55%のCAGRで急成長すると予測されています"
+   },
+   {
+    "value": "46.25",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 地域別: アジア太平洋地域が2024年に港湾設備市場シェアの46.25%を占め、予測期間中に6.33%のCAGRを記録すると予想されています"
+   },
+   {
+    "value": "6.33",
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "quote": "* 地域別: アジア太平洋地域が2024年に港湾設備市場シェアの46.25%を占め、予測期間中に6.33%のCAGRを記録すると予想されています"
+   },
+   {
+    "value": "48.63",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "アジア太平洋地域は、2025年に48.63%の市場シェアを占め、船舶陸揚げコンテナクレーン市場を牽引しました"
+   },
+   {
+    "value": "58.84",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "65トン以上のセグメントは、超大型コンテナ船の取り扱い、ツインリフト作業、およびより重いコンテナ積載量に対する需要の増加により、2025年には市場シェアの58.84%を占める見込みです"
+   },
+   {
+    "value": "61.52",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "半自動STSクレーン分野は、既存のコンテナターミナルで運用効率化と適度な設備投資を求める動きが広がるにつれ、2025年には市場シェアの61.52%を占める見込みです"
+   },
+   {
+    "value": "67.43",
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "quote": "コンテナ取扱量の増加とターミナル容量増強への継続的な投資により、商業コンテナ港湾部門は2025年に市場シェアの67.43%を占める見込みです"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/gantry-crane-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/ship-to-shore%EF%BC%88sts%EF%BC%89%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102880",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6135934",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/port-container-cranes-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/global-gantry-crane-market/111709",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202304201220",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newscast.jp/news/4484822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8784023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000358865",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4484822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000337619",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/8784023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/ship-to-shore-cranes-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/ship-to-shore-cranes-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/ship-to-shore-container-crane-market-23318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/ship-to-shore-sts-container-cranes-market-102880",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/port-cranes-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/ship-to-shore-container-cranes-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognitivemarketresearch.com/port-crane-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/port-cranes-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slideshare.net/slideshow/ship-to-shore-cranes-market-analysis-highlighting-automated-ship-to-shore-cranes-growth/287509438",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/us-crane-market-20496",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/marine-cranes-market-107003",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/support/manage-my-email",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stellarmr.com/report/Ship-to-Shore-Container-Crane-Market/1196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/ship-to-shore-sts-container-cranes-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/ship-to-shore-sts-cranes-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ship-to-shore-sts-container-cranes-r7627/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metastatinsight.com/blogdetails/top-25-ship-to-shore-sts-container-cranes-companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "港湾クレーン 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/gantry-crane-market",
+    "https://www.fortunebusinessinsights.com/jp/ship-to-shore%EF%BC%88sts%EF%BC%89%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102880",
+    "https://newscast.jp/news/6135934",
+    "https://jp.linkedin.com/pulse/trustworthy-market-insights-%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E8%88%B9%E3%81%8B%E3%82%89%E6%B2%BF%E5%B2%B8%E3%81%AE%E3%82%AC%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E6%95%B0%E9%87%8F%E3%81%8A%E3%82%88%E3%81%B3%E6%88%90%E9%95%B7%E7%B5%8C%E8%B7%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-qnfde",
+    "https://www.wiseguyreports.com/ja/reports/port-container-cranes-market",
+    "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "https://www.atpress.ne.jp/news/8784023",
+    "https://www.marketresearchfuture.com/ja/reports/crane-market-2934",
+    "https://www.dreamnews.jp/press/0000358865",
+    "https://www.globalresearch.co.jp/reports/port-cranes-market-pred/"
+   ]
+  },
+  {
+   "query": "港湾クレーン 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/gantry-crane-market",
+    "https://www.sdki.jp/reports/global-gantry-crane-market/111709",
+    "https://kabutan.jp/news/marketnews/?b=n202304201220",
+    "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "https://newscast.jp/news/4484822",
+    "https://www.wiseguyreports.com/ja/reports/port-container-cranes-market",
+    "https://www.atpress.ne.jp/news/8784023",
+    "https://www.dreamnews.jp/press/0000358865",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-107003",
+    "https://www.globalresearch.co.jp/reports/port-cranes-market-pred/"
+   ]
+  },
+  {
+   "query": "港湾クレーン 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/ship-to-shore%EF%BC%88sts%EF%BC%89%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102880",
+    "https://www.atpress.ne.jp/news/4484822",
+    "https://www.wiseguyreports.com/ja/reports/port-container-cranes-market",
+    "https://www.gminsights.com/ja/industry-analysis/gantry-crane-market",
+    "https://www.dreamnews.jp/press/0000337619",
+    "https://www.marketresearch.co.jp/insights/port-equipment-market-mordor/",
+    "https://newscast.jp/smart/news/8784023",
+    "https://www.coherentmarketinsights.com/ja/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+    "https://straitsresearch.com/jp/report/ship-to-shore-container-cranes-market",
+    "https://www.globalresearch.co.jp/reports/port-cranes-market-pred/"
+   ]
+  },
+  {
+   "query": "ship to shore crane market size CAGR 2025",
+   "results": [
+    "https://www.imarcgroup.com/ship-to-shore-cranes-market",
+    "https://www.grandviewresearch.com/industry-analysis/ship-to-shore-cranes-market",
+    "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "https://www.marketresearchfuture.com/reports/ship-to-shore-container-crane-market-23318",
+    "https://www.fortunebusinessinsights.com/ship-to-shore-sts-container-cranes-market-102880",
+    "https://www.precedenceresearch.com/port-cranes-market",
+    "https://finance.yahoo.com/news/ship-shore-sts-cranes-market-123000790.html",
+    "https://www.linkedin.com/pulse/ship-to-shore-sts-cranes-market-growth-outlook-132cagr-challenges-zjjoc",
+    "https://www.cognitivemarketresearch.com/port-crane-market-report",
+    "https://www.marketlensiq.com/reports/ship-to-shore-cranes-market-7458"
+   ]
+  },
+  {
+   "query": "ship to shore crane market share top players percent",
+   "results": [
+    "https://www.imarcgroup.com/ship-to-shore-cranes-market",
+    "https://www.fortunebusinessinsights.com/ship-to-shore-sts-container-cranes-market-102880",
+    "https://www.grandviewresearch.com/industry-analysis/ship-to-shore-cranes-market",
+    "https://www.precedenceresearch.com/port-cranes-market",
+    "https://straitsresearch.com/report/ship-to-shore-container-cranes-market",
+    "https://www.cognitivemarketresearch.com/port-crane-market-report",
+    "https://www.linkedin.com/pulse/container-ship-to-shore-gantry-crane-market-forecasted-from-mxbaf",
+    "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "https://market.us/report/port-cranes-market/",
+    "https://www.thebusinessresearchcompany.com/report/ship-to-shore-cranes-global-market-report"
+   ]
+  },
+  {
+   "query": "ship to shore crane market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.imarcgroup.com/ship-to-shore-cranes-market",
+    "https://straitsresearch.com/report/ship-to-shore-container-cranes-market",
+    "https://www.coherentmarketinsights.com/market-insight/ship-to-shore-cranes-market-4369",
+    "https://market.us/report/port-cranes-market/",
+    "https://www.grandviewresearch.com/industry-analysis/ship-to-shore-cranes-market",
+    "https://www.slideshare.net/slideshow/ship-to-shore-cranes-market-analysis-highlighting-automated-ship-to-shore-cranes-growth/287509438",
+    "https://www.linkedin.com/pulse/top-7-ship-to-shore-cranes-market-share-company-smart-ai-tech-hubb-a04zf",
+    "https://www.marketresearchfuture.com/reports/us-crane-market-20496",
+    "https://www.fortunebusinessinsights.com/marine-cranes-market-107003",
+    "https://nebnet.net/"
+   ]
+  },
+  {
+   "query": "ship to shore crane market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/ship-to-shore-cranes-market",
+    "https://www.theinsightpartners.com/reports/ship-to-shore-cranes-market",
+    "https://www.marketresearchfuture.com/reports/ship-to-shore-container-crane-market-23318",
+    "https://www.fortunebusinessinsights.com/ship-to-shore-sts-container-cranes-market-102880",
+    "https://www.imarcgroup.com/ship-to-shore-cranes-market",
+    "https://www.stellarmr.com/report/Ship-to-Shore-Container-Crane-Market/1196",
+    "https://www.linkedin.com/pulse/top-10-ship-to-shore-cranes-market-share-company-d6uff",
+    "https://www.precedenceresearch.com/port-cranes-market",
+    "https://www.persistencemarketresearch.com/market-research/ship-to-shore-sts-container-cranes-market.asp",
+    "https://www.verifiedmarketreports.com/product/ship-to-shore-sts-cranes-market/"
+   ]
+  }
+ ],
+ "missing": {}
+}

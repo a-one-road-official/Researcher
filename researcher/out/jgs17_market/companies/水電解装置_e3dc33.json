@@ -1,0 +1,1863 @@
+{
+ "name": "水電解装置",
+ "en": "water electrolyzer",
+ "aliases": [
+  "水素製造装置",
+  "電解槽",
+  "グリーン水素"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:52:21.059025+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の水電解市場規模は、2025年には71億6,000万米ドルと評価され、2026年の77億1,000万米ドルから2034年には139億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7.73%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "水電解市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）7.73%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "空気清浄システム市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "脳虚血市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルブポジショナー市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷却塔市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー洗浄市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のPEM水電解装置市場規模は2024年に336億米ドルで、2037年末には6,629億米ドルに達すると予測されており、2025―2037年の予測期間中に25.8%のCAGRで拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "北米のPEM水電解装置市場は、2037年までに世界全体の売上高シェアの30.9%を占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のPEM水電解装置市場は、2025―2037年の間に最も高いCAGRで成長すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "PEM水電解装置市場は2025年に422億米ドルと評価され、2037年までに6,629億米ドルに達すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "LP Information調査チームの最新レポートである「世界電解槽市場の成長予測2025～2031」によると、2025年から2031年の予測期間中のCAGRが40.3%で、2031年までにグローバル電解槽市場規模は202.4億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、電解槽の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、電解槽の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域における電解槽市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、電解槽の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.の最近の調査によると、PEM電解槽市場は 2024年に14億米ドルと評価されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は 2025年の43億米ドルから 2034年には456億米ドルに拡大し、年平均成長率（CAGR）は30.1%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM電解槽市場は 2021年に2億1,850万米ドルと評価され、2024年の年平均成長率（CAGR）は85.1%でした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM Electrolyzer Market Size, By Capacity, 2022-2034 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "容量別に見ると、市場は 500 kW 以下、500 kW 超〜2 MW、2 MW 超〜5 MW、5 MW 超のシステムに区分されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "5 MW 超のセグメントの市場規模は、2024年に 6億1,030万米ドルに達しており、製油、化学品、合成燃料製造におけるユーティリティ規模の用途で、大規模な水素製造を目的に巨大な産業複合施設やエネルギーパークへの導入が進んでいることから、注目を集めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のPEM電解槽市場規模、2022〜2034年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のPEM電解槽市場規模は、2022年の 2,240万米ドルから2023年には 5,930万米ドルに増加し、2024年には 2億6,060万米ドルを超えた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の PEM 電解槽市場は、水素関連の取り組みに対する積極的な投資と強力な政策支援を背景に、2034年までに 175億米ドルを超える見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の PEM 電解槽市場は、2034年まで年平均成長率（CAGR） 44%超で成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "クリーン水素を製造する水電解装置市場は、中国勢も含めると100社以上がしのぎを削るレッドオーシャンだが、中核部材は少数メーカーの寡占状態にある",
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/",
+    "pass": 3
+   },
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ：2025年の実績、2026～2030年、2035年の市場規模（面積ベース、あるいは重量ベース）予測を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "水電解市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "水の電解市場は、2025年に72億6,000万米ドルと評価され、2026年には77億9,000万米ドルに成長し、CAGR 7.65％で推移し、2032年までに121億7,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "PEM水電解装置調査レポート：市場規模、産業分析、最新動向、予測2026-2032 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "PEM水電解装置調査レポート：市場規模、産業分析、最新動向、予測2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "2025年におけるPEM水電解装置の世界市場規模は512百万ドルと予測されており、2032年には6619百万ドルへ拡大する見通しである",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "PEM水電解装置市場規模（百万米ドル）2025-2032年",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "AEM水電解装置（水素製造用）の世界市場（2026年～2032年）、市場規模（0kW-100kW、100kW-1MW、1MW以上）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "AEM水電解装置（水素製造用）の世界市場（2026年～2032年）、市場規模（0kW-100kW、100kW-1MW、1MW以上）・分析レポートを発表",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、AEM水電解装置（水素製造用）の世界市場規模、市場動向、セグメント別予測（0kW-100kW、100kW-1MW、1MW以上）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素製造用AEM水電解装置市場規模は、2025年の9,800万米ドルから2032年には63億4,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）72.4％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジル市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "水電解市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水電解市場規模は、2025年には71億6,000万米ドルと評価され、2026年の77億1,000万米ドルから2034年には139億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7.73%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は予測期間中に年平均成長率（CAGR）8.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "水電解市場の規模は、2026年には77億1000万米ドルと評価され、2034年までに139億9000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.73%です",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "水電解市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）7.73%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "空気清浄システム市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "脳虚血市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルブポジショナー市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷却塔市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー洗浄市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のPEM水電解装置市場規模は2024年に336億米ドルで、2037年末には6,629億米ドルに達すると予測されており、2025―2037年の予測期間中に25.8%のCAGRで拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "電解装置の製造能力も2022年以降倍増し、2023年には25GWに達しました",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のPEM水電解装置市場は、2025―2037年の間に最も高いCAGRで成長すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "IEAの分析によると、世界の電解装置製造能力は2023年までに年間25GWを超え、2022年のほぼ倍増となります",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "PEM水電解装置の需要は、継続的な技術進歩を背景に、2025―2037年に健全なCAGRで増加すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "水素経済の主役：電解槽市場が40.3%CAGRで急拡大、再生可能エネルギーとグリーン水素需要が後押し | NEWSCAST",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "水素経済の主役：電解槽市場が40.3%CAGRで急拡大、再生可能エネルギーとグリーン水素需要が後押し",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "LP Information調査チームの最新レポートである「世界電解槽市場の成長予測2025～2031」によると、2025年から2031年の予測期間中のCAGRが40.3%で、2031年までにグローバル電解槽市場規模は202.4億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "最新のLP Information「世界電解槽市場の成長予測2025～2031」によると、電解槽市場の規模は引き続き拡大傾向にあり、グリーン水素の製造能力強化が各地域で進められている",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、電解槽の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、電解槽の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は 2025年の43億米ドルから 2034年には456億米ドルに拡大し、年平均成長率（CAGR）は30.1%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM電解槽市場は 2021年に2億1,850万米ドルと評価され、2024年の年平均成長率（CAGR）は85.1%でした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、再生可能エネルギーの導入拡大に伴う電力の余剰問題を解決するため、P2G（Power-to-Gas）用途での水素需要が顕在化している",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "HHOG®の需要は順調に拡大、国内外の納入実績は270基を超える",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "C68105500 2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "水の電解市場は、2025年に72億6,000万米ドルと評価され、2026年には77億9,000万米ドルに成長し、CAGR 7.65％で推移し、2032年までに121億7,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは7.65%です",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年におけるPEM水電解装置の世界市場規模は512百万ドルと予測されており、2032年には6619百万ドルへ拡大する見通しである",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年にかけての年間平均成長率（CAGR）は44.8％に達し、脱炭素社会実現に向けた重要インフラ市場として高い成長性が期待されている",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "ITM Powerは欧州大型案件で存在感を高めており、中国ではShandong Saksay Hydrogen Energyおよび718th Research Institute of CSICがコスト競争力を背景にシェア拡大を進めている",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素製造用AEM水電解装置市場規模は、2025年の9,800万米ドルから2032年には63億4,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）72.4％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "もっとも、水素産業全体は成長基調で、2025年のプラチナ需要は1%未満だが、2030年までには4%に拡大するだろう",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "図3：プロジェクト総数は前年比プラス9%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "図4：IEAデータベースによると電解能力は前年比プラス8%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "WPICの建設確率係数*を考慮すると前年比プラス6%",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "iDeCo改正まであと1カ月ちょっと…「拠出上限拡大」と「加入可能年齢引き上げ」で私のiDeCoはどう変わる？【専門家がiDeCo改正のポイントを整理】",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 7.43 Billion in 2025 and the total Water Electrolysis revenue is expected to grow at a CAGR of 6.1% from 2026 to 2034, reaching USD 12.66 Billion by 2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2034 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "The Water Electrolysis Market size was valued at USD 7.43 Billion in 2025 and the total Water Electrolysis revenue is expected to grow at a CAGR of 6.1% from 2026 to 2034, reaching USD 12.66 Billion by 2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "The global electrolyzer market size was valued at USD 577.27 million in 2025 and is projected to grow from USD 712.35 million in 2026 to USD 3830.15 million by 2034, registering a CAGR of 23.4% during the forecast period (2026–2034). Asia Pacific dominated the electrolyzer market with a share of 34.7% in 2025.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The solid oxide electrolyzer segment is projected to register the fastest CAGR of 30.4% during the forecast period, driven by high electrical efficiency, utilization of industrial waste heat, and expanding applications in high-temperature hydrogen production.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Above 2 MW electrolyzers are anticipated to achieve the highest CAGR of 29.1% during the forecast period, propelled by investments in large-scale green hydrogen facilities, industrial",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The transportation segment is expected to expand at the fastest CAGR of 29.8% during the forecast period, fueled by demand for low-carbon hydrogen in fuel cell vehicles, hydrogen refueling infrastructure, and heavy-duty transportation applications.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe electrolyzer market is expected to grow at a CAGR of 28.9% during the forecast period, showcasing the fastest-growing regional market.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America electrolyzer market is expected to grow at a CAGR of 25.1% during the forecast period.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The electrolyzer market size is valued at USD 712.35 Million in 2026 and is projected to reach USD 3830.15 Million by 2034, at a CAGR of 23.4% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The electrolyzer market is projected to grow at a CAGR of 23.4% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Water Electrolysis Machine Market Size, Share | CAGR of 7.20%",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2023, growing at a",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.20%",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "水電解市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "水電解市場の規模、シェア、トレンド分析レポート：電解槽タイプ別（アルカリ電解槽、プロトン交換膜（PEM）電解槽、固体酸化物電解セル（SOEC）、陰イオン交換膜（AEM）電解槽）、エンドユーザー用途別（アンモニア製造、メタノール製造、精製産業、電力・エネルギー貯蔵、輸送／モビリティ産業、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に36.4%の市場シェアを占め、水電解市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ヨーロッパが市場シェア36.4%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "空気清浄システム市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "脳虚血市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルブポジショナー市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷却塔市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー洗浄市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "電動プーリー市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM水電解装置市場調査、規模、シェア、傾向、予測2037年",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "北米のPEM水電解装置市場は、2037年までに世界全体の売上高シェアの30.9%を占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "IEAの報告書によると、中国は設置済みの電解装置の容量を牽引しており、世界シェアの60.0%を占めています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "中国は製造能力シェアの約60%を占め、この分野をリードしています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "1―10MWセグメントは、2037年までに世界のPEM水電解装置市場シェアの45.1%を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "高分子電解質膜（PEM）技術セグメントは、予測期間を通じて世界市場シェアの62.5%を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2037年まで30.9%の市場シェアを占めると見込まれています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界の電解槽市場におけるトップ21企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界のトップ10企業は売上の観点から約76.0%の市場シェアを持っていた",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、電解槽の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、電解槽の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "PEM電解槽市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ohmium International は、2024年に20%超の市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別 PEM 電解槽市場シェア、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送セグメントは、2024年に 47% のシェアを占めて市場をリードしており、2025年から2034年にかけて年平均成長率（CAGR）24%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米は世界市場の 30.9% のシェアを占め、地域市場における優位性をさらに強固なものとした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア20%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の合計市場シェアは63%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における輸送用途セグメントの市場シェアはどの程度でしたか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送分野は、燃料電池電気自動車の導入拡大と水素充填インフラの急速な整備を背景に、2024年に47%のシェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は最大の市場シェアを占めており、堅調な投資、REPowerEUを含む強力な政策支援、EUの水素戦略に支えられ、2034年までに175億米ドルを超える見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界にパソコンメーカーは多数あれど、肝心のマイクロプロセッサーは2社程度の寡占状態だ",
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーン水素を製造する水電解装置市場は、中国勢も含めると100社以上がしのぎを削るレッドオーシャンだが、中核部材は少数メーカーの寡占状態にある",
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/",
+    "pass": 3
+   },
+   {
+    "quote": "また、エリア別と用途別では2025年実績、および2030年予測のシェア（容量ベース）を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "（図）水電解装置累積導入容量のエリア別シェア（左：2025年／右：2030年予測）",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "（図）水電解装置累積導入容量の用途別シェア（左：2025年／右：2030年予測）",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析, 2025",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "水の電気分解：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "塩酸電解：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITM Powerは欧州大型案件で存在感を高めており、中国ではShandong Saksay Hydrogen Energyおよび718th Research Institute of CSICがコスト競争力を背景にシェア拡大を進めている",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「PEM水電解装置―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、上位3社のメーカーが市場の70％以上を占めた",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "また、AEM水電解装置（水素製造用）をタイプ別（0kW-100kW、100kW-1MW、1MW超）、製造量別（1Nm³/h未満、1-100Nm³/h、100-500Nm³/h、500Nm³/h超）、水素圧力別（2Mpa未満、2-3.5Mpa、3.5Mpa超）、および用途別（水素ステーション、冶金・鉄鋼業、パワートゥガス、その他）に細分化し、それぞれの販売台数、収益、市場シェア、販売価格の2021年から2026年までの詳細な分析が示されています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別のAEM水電解装置（水素製造用）の世界年間販売台数と市場シェア、世界年間収益と収益市場シェア、企業別の販売価格が示されています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "図6：2030年にかけてのアルカリ型電解装置のシェアは4%増、PEM型電解装置のシェアは縮小",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "図7：水電解によるプラチナ需要のほとんどは欧州とその他の地域のプロジェクトにより、累積的プラチナ需要の約81%を占める",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "図8：2030年までの「定置型燃料電池とその他の水素」のプラチナ需要は9.7トンとなり、水素関連のプラチナ需要の約70%を占める",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "pass": 3
+   },
+   {
+    "quote": "Size and Potential by Region, Pricing, Competitive Landscape and Market Share of Key Players 2026 to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital spending on low-emissions hydrogen projects reached nearly USD 7 billion in 2025, almost double the 2024 level. Electrolysis-based projects attracted the larger share of this investment, reflecting increasing financial activity around electrolyzer deployment.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.1. Market Leaders",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "3.7. Key Opinion Leader Analysis For Water Electrolysis Industry",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "The global electrolyzer market size was valued at USD 577.27 million in 2025 and is projected to grow from USD 712.35 million in 2026 to USD 3830.15 million by 2034, registering a CAGR of 23.4% during the forecast period (2026–2034). Asia Pacific dominated the electrolyzer market with a share of 34.7% in 2025.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Market Share (2025)",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share in 2025",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Alkaline electrolyzers accounted for the largest market share of 58.4%, supported by their established commercial applications, relatively low capital costs, and widespread adoption in industrial hydrogen production.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 500 kW to 2 MW category held the leading market share of 38.7%, owing to its suitability for medium-scale hydrogen production, industrial pilot projects, and decentralized hydrogen supply applications.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industry feedstock emerged as the dominant application, capturing a market share of 31.4%, attributed to established hydrogen consumption in ammonia production, petroleum refining, and chemical manufacturing, alongside efforts to replace fossil fuel-derived hydrogen.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific electrolyzer market accounted for the largest regional share of 34.7% in 2025.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業は、新製品の発売、技術革新、合併・買収、戦略的提携・協業、グローバル展開など、有機的および無機的なマーケティング戦略を駆使し、高い利益の獲得と市場へのリーチの最大化を目指しています",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は地域ごとに最適化した製品仕様を展開すると同時に、現地生産やサービス拠点の拡充によって市場浸透を図っている",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、電解槽の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "電解槽の効率向上を目指す研究開発の拡大と、主要企業による製造規模の拡大が、市場の強い成長 momentumを支えています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業による先進的な製品を用いた水素製造に向けた研究開発活動の拡大と、水素エネルギーの設計・開発プログラムに対する政府支出の増加が、予測期間を通じた製品の普及に影響を及ぼす見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM電解槽市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM電解槽業界で事業を展開する主要企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Plug Power は、従来のバッテリーの性能を上回る電気自動車の性能向上を実現する水素燃料電池システムに注力し、米国の水素分野で主要企業としての地位を維持しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Plug Powerは、モビリティおよび産業用途向けのターンキー型PEM電解槽ソリューションを提供する主要企業であり、コンテナ型システムを展開するとともに、大規模な水素燃料補給ネットワークを運営し、ゼロエミッション輸送インフラを支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM電解槽市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Ohmium International、Siemens Energy、Air Liquide、Plug Power、Nel ASA、Cummins、Air Products & Chemicals、Bosch、Elogen、Erre Due、Giner、GreenH、H2B2、Hygear、Hystar、ITM Power、Larsen & Toubro Limited、Mcphy Energy、Next Hydrogen、Ostermeier H2ydrogen Solutions が含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "➢ アノード材料の主要プレイヤー、参入する企業とは？ Ir使用量低減に向けた戦略を紹介",
+    "url": "https://mono.ipros.com/cg1/%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "：本調査レポートでは、水電解技術・部材の開発トレンドや普及に向けた課題、参入企業の事業戦略を分析するとともに、2035 年までの世界市場規模を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "pass": 3
+   },
+   {
+    "quote": "一方、技術に重点を置く新規参入企業は、スタックの性能向上や材料科学の進歩に注力し、ライセンシングの機会を創出したり、既存のシステムインテグレーターと提携したりしています",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、提供製品の種類、市場集中率分析（競合環境分析、CR3、CR5、CR10の集中度）、新製品および潜在的な新規参入企業、市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の詳細な分析が示されています",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   },
+   {
+    "quote": "Size and Potential by Region, Pricing, Competitive Landscape and Market Share of Key Players 2026 to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Water Electrolysis Market Size by Technology Type and End User – Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Landscape & Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Water Electrolysis Market Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Water Electrolysis Market, Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Water Electrolysis Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltblown Fabrics Market by Product, Grade, Material Type, Application, End-Use Industry, and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global electrolyzer market is moderately fragmented, with a mix of established industrial equipment manufacturers, hydrogen technology companies, and emerging technology startups. Key players such as Nel ASA, Siemens Energy AG, Plug Power Inc., Cummins Inc., and ITM Power plc are estimated to account over 15–20% of electrolyzer market share.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, the global Water Electrolysis Machine Market witnessed a dynamic landscape, with several key players vying for prominence in this burgeoning sector. Among these, Air Products and Chemical, Inc. emerged as a formidable force, leveraging its extensive experience and robust technological capabilities to carve a significant niche within the market.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Air Products and Chemical, Inc., Asahi Kasei Corporation, AREVA H2Gen, C&E Environmental Technology Co., Ltd., Eneco Holdings, Inc., Enagic International, Inc., ErreDue Spa, Hydrogenics Corporation, Hitachi Zosen Corporation, Siemens Energy, ITM Power plc, Other Key Players",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the water electrolysis market?",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in this market include Siemens Energy AG, Nel ASA, ITM Power plc, Plug Power Inc., and thyssenkrupp nucera AG & Co. KGaA.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "This updated edition includes deeper analysis of hydrogen regulations and their implications across key markets, including the United States (IRA and OBBBA), Europe (RED III), and China (15th Five-Year Plan). Additional coverage is also provided for the Chinese electrolyzer market, exploring competitive dynamics, project deployment trends, and key players in the electrolyzer supply chain.",
+    "url": "https://www.idtechex.com/en/research-report/green-hydrogen-production-and-electrolyzer-market/1164",
+    "pass": 3
+   },
+   {
+    "quote": "Leading modern PFSA membranes: Key players & properties",
+    "url": "https://www.idtechex.com/en/research-report/green-hydrogen-production-and-electrolyzer-market/1164",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.researchnester.com/reports/pem-water-electrolyzer-market/7442",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players include:",
+    "url": "https://www.researchnester.com/reports/pem-water-electrolyzer-market/7442",
+    "pass": 3
+   },
+   {
+    "quote": "Get a glimpse of competitive landscape analysis",
+    "url": "https://www.researchnester.com/reports/pem-water-electrolyzer-market/7442",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Plug Power Inc., Nel ASA, H-Tech Systems, ITM Power Plc, Air Liquide, and Elogen.",
+    "url": "https://www.researchnester.com/reports/pem-water-electrolyzer-market/7442",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, share and growth analysis by product and end-use, across all major regions and key countries, with forecasts for 2025–2034. The competitive landscape profiles 14+ companies, including Nel ASA, ThyssenKrupp AG and Asahi Kasei Corporation.",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Estimation and Forecast, Company Profile, Competitive Landscape, Growth Factors and Recent Trends",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": ": Europe holds a significant market share. The market's geographical growth is driven by the growing initiatives towards net-zero carbon emission and the presence of major players in the area. Furthermore, the growing automotive industry is expected to drives the industry expansion.",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operate in the market adopted several strategies including product launch, innovation, merger & acquisition, investment and others. Some of the notable developments are:",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "is highly competitive, with a large number of service providers globally. Some of the key players in the market include:",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the market?",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The major players are Nel ASA, ThyssenKrupp AG, Asahi Kasei Corporation, Cummins Inc., Plug Power Inc., ITM Power PLC, Toshiba Energy Systems & Solutions Corporation, Teledyne Energy Systems Inc. Ltd., Hitachi Zosen Corporation, Siemens Energy AG, GreenH Electrolysis, 3M, Next Hydrogen, Industrie De Nora S.p.A. and HORIBA Group.",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Water Electrolysis Market- Competitive Landscape",
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nel Hydrogen and Siemens AG led competitive landscape",
+    "url": "https://dataintelo.com/report/global-water-electrolyzer-sales-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/global-water-electrolyzer-sales-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-water-electrolyzer-sales-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-water-electrolyzer-sales-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PEM 水電解装置市場 調査、 規模 、シェア、傾向、予測2037年 — PEM 水電解装置市場 調査、 規模 、シェア、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までに65.00%の CAGR が見込まれる 水電解 槽 市場 の ... — 2033年までに65.00%の CAGR が見込まれる 水電解 槽 市場 の ... davidjohn5836754.gorillawiki.jp https://davidjohn5836754.gorillawiki.jp > ... > 速報",
+    "url": "https://davidjohn5836754.gorillawiki.jp/entry/06ef21612013a31c342285b3b4cfcc90",
+    "pass": 3
+   },
+   {
+    "quote": "水素経済の主役： 電解 槽 市場 が40.3% CAGR で急拡大 — 水素経済の主役： 電解 槽 市場 が40.3% CAGR で急拡大 Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/2171110",
+    "pass": 3
+   },
+   {
+    "quote": "電解 槽 市場 規模、 シェア および動向レポート、2034 年 — 電解 槽 市場 規模、 シェア および動向レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 電解槽市場-1...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919",
+    "pass": 3
+   },
+   {
+    "quote": "水電解装置 メーカー9社 注目ランキング【2026年】| Metoree — 水電解装置 メーカー9社 注目ランキング【2026年】| Metoree Metoree https://metoree.com > 発振器・発生器",
+    "url": "https://metoree.com/categories/9195/",
+    "pass": 3
+   },
+   {
+    "quote": "PEM 電解 槽 市場 の規模と成長見通し、2025〜2034年 — PEM 電解 槽 市場 の規模と成長見通し、2025〜2034年 Global Market Insights Inc. https://www.gminsights.com > pem-electrolyzer-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "PEM 電解 槽 市場 の規模と成長見通し、 2025 〜2034年 — PEM 電解 槽 市場 の規模と成長見通し、 2025 〜2034年 Global Market Insights Inc. https://www.gminsights.com > pem-electrolyzer-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "AEM 水電解装置 （水素製造用）の世界 市場 （2026年～2032年） — AEM 水電解装置 （水素製造用）の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/1702840",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "pass": 3
+   },
+   {
+    "quote": "Capital spending on low-emissions hydrogen projects reached nearly USD 7 billion in 2025, almost double the 2024 level. Electrolysis-based projects attracted the larger share of this investment, reflecting increasing financial activity around electrolyzer deployment.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "More than 100 GW of announced electrolysis capacity could potentially miss the 2030 operating target if investment decisions are not secured before the end of 2027. This highlights the size of the future project pipeline while also showing the importance of financing and project execution.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "ITM Power received formal approval for a £46.5 million UK government grant, alongside a £40 million investment from Great British Energy, supporting its next-generation Chronos electrolyzer manufacturing capability in Sheffield.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "thyssenkrupp nucera received a contract to conduct a 260 MW FEED study for a green hydrogen project in India. The study focuses on integrating alkaline water electrolysis into the project's infrastructure, with a potential final investment decision targeted for FY 2026/27.",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "pass": 3
+   },
+   {
+    "quote": "Above 2 MW electrolyzers are anticipated to achieve the highest CAGR of 29.1% during the forecast period, propelled by investments in large-scale green hydrogen facilities, industrial",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "India's National Green Hydrogen Mission aims to attract more than INR 8 lakh crore in investments by 2030. This initiative is expected to create opportunities for electrolyzer manufacturers, technology suppliers, and hydrogen infrastructure developers across India.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UK's Department for Energy Security and Net Zero aims to allocate up to 6 GW of hydrogen production capacity to electrolytic and alternative technologies by 2030. This target is expected to support investment in electrolyzer manufacturing and deployment across the UK.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Resources Canada modelling indicates that hydrogen could account for up to 18% of industrial energy consumption by 2050 under certain scenarios. This outlook could encourage investment in electrolyzers serving steel, chemicals, and other energy-intensive industries across Canada.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hysata launched its AI-optimized electrolyzer manufacturing platform, HysataFab, in Australia, with an initial production capacity of 50 MW annually. The company also secured AUD 49 million in government funding to expand its manufacturing capabilities and improve production efficiency.",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, the global water electrolysis machine market experienced significant growth opportunities driven by increased investments in hydrogen refueling infrastructure and expanding adoption in industrial processes.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, syndicated research reports indicating promising ROI prospects can attract investors, alleviating concerns about profitability and incentivizing capital infusion. For instance, according to recent industry surveys, 70% of investors are more likely to fund ventures with demonstrable growth potential, emphasizing the pivotal role of market analysis in securing investment.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, the global water electrolysis machine market witnessed a surge in growth opportunities, primarily fueled by rising investments in hydrogen refueling infrastructure. Governments and private enterprises alike channeled substantial resources into developing robust hydrogen ecosystems, driving demand for electrolysis machines.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Agfa collaborates with VITO to enhance alkaline water electrolyzers with novel separator membranes. Secures 11 million Euro EU funding for an industrial-scale ZIRFON membrane production plant, advancing green hydrogen production.",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Water Electrolysis Market, 2025–2026",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2026, Newtrace raised USD 6.3 million in Pre-Series A funding to scale pilot manufacturing, strengthen its electrode and electrolyzer technology, validate products with customers, and expand engineering and manufacturing capabilities.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, HYDGEN raised USD 5 million in equity and debt to scale its AEM electrolyzer technology, establish a semi-automated production line, increase single-stack capacity to 250 kW, and expand into Japan, Europe, and the Middle East.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America water electrolysis market is expected to grow at a CAGR of 8.4% during the forecast period, showcasing the fastest regional growth. The IEA identifies North America as one of the major regions for low-emissions hydrogen development, while investment in electrolysis is increasing as projects progress toward construction and operation.",
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-water-electrolyzer-sales-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.73",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "quote": "世界の水電解市場規模は、2025年には71億6,000万米ドルと評価され、2026年の77億1,000万米ドルから2034年には139億9,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7.73%となる見込みです"
+   },
+   {
+    "value": "8.2",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "quote": "北米は予測期間中に年平均成長率（CAGR）8.2%で成長すると予測されています"
+   },
+   {
+    "value": "40.3",
+    "url": "https://newscast.jp/news/2171110",
+    "quote": "LP Information調査チームの最新レポートである「世界電解槽市場の成長予測2025～2031」によると、2025年から2031年の予測期間中のCAGRが40.3%で、2031年までにグローバル電解槽市場規模は202.4億米ドルに達すると予測されている"
+   },
+   {
+    "value": "30.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "市場規模は 2025年の43億米ドルから 2034年には456億米ドルに拡大し、年平均成長率（CAGR）は30.1%に達すると予測されています"
+   },
+   {
+    "value": "85.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "PEM電解槽市場は 2021年に2億1,850万米ドルと評価され、2024年の年平均成長率（CAGR）は85.1%でした"
+   },
+   {
+    "value": "7.65",
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "quote": "水の電解市場は、2025年に72億6,000万米ドルと評価され、2026年には77億9,000万米ドルに成長し、CAGR 7.65％で推移し、2032年までに121億7,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "44.8",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "quote": "2026年から2032年にかけての年間平均成長率（CAGR）は44.8％に達し、脱炭素社会実現に向けた重要インフラ市場として高い成長性が期待されている"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測"
+   },
+   {
+    "value": "72.4",
+    "url": "https://newscast.jp/news/1702840",
+    "quote": "世界の水素製造用AEM水電解装置市場規模は、2025年の9,800万米ドルから2032年には63億4,600万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）72.4％で成長すると見込まれています"
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "quote": "size was valued at USD 7.43 Billion in 2025 and the total Water Electrolysis revenue is expected to grow at a CAGR of 6.1% from 2026 to 2034, reaching USD 12.66 Billion by 2034."
+   },
+   {
+    "value": "23.4",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "The global electrolyzer market size was valued at USD 577.27 million in 2025 and is projected to grow from USD 712.35 million in 2026 to USD 3830.15 million by 2034, registering a CAGR of 23.4% during the forecast period (2026–2034). Asia Pacific dominated the electrolyzer market with a share of 34."
+   },
+   {
+    "value": "30.4",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "The solid oxide electrolyzer segment is projected to register the fastest CAGR of 30.4% during the forecast period, driven by high electrical efficiency, utilization of industrial waste heat, and expanding applications in high-temperature hydrogen production."
+   },
+   {
+    "value": "29.1",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "Above 2 MW electrolyzers are anticipated to achieve the highest CAGR of 29.1% during the forecast period, propelled by investments in large-scale green hydrogen facilities, industrial"
+   },
+   {
+    "value": "29.8",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "The transportation segment is expected to expand at the fastest CAGR of 29.8% during the forecast period, fueled by demand for low-carbon hydrogen in fuel cell vehicles, hydrogen refueling infrastructure, and heavy-duty transportation applications."
+   },
+   {
+    "value": "28.9",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "Europe electrolyzer market is expected to grow at a CAGR of 28.9% during the forecast period, showcasing the fastest-growing regional market."
+   },
+   {
+    "value": "25.1",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "North America electrolyzer market is expected to grow at a CAGR of 25.1% during the forecast period."
+   },
+   {
+    "value": "7.20",
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "quote": "Water Electrolysis Machine Market Size, Share | CAGR of 7.20%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "quote": "欧州は2025年に36.4%の市場シェアを占め、水電解市場を牽引しました"
+   },
+   {
+    "value": "30.9",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "quote": "北米のPEM水電解装置市場は、2037年までに世界全体の売上高シェアの30.9%を占めると予測されています"
+   },
+   {
+    "value": "60.0",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "quote": "IEAの報告書によると、中国は設置済みの電解装置の容量を牽引しており、世界シェアの60.0%を占めています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "quote": "中国は製造能力シェアの約60%を占め、この分野をリードしています"
+   },
+   {
+    "value": "45.1",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "quote": "1―10MWセグメントは、2037年までに世界のPEM水電解装置市場シェアの45.1%を占めると予想されています"
+   },
+   {
+    "value": "62.5",
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "quote": "高分子電解質膜（PEM）技術セグメントは、予測期間を通じて世界市場シェアの62.5%を占めると予想されています"
+   },
+   {
+    "value": "76.0",
+    "url": "https://newscast.jp/news/2171110",
+    "quote": "2024年、世界のトップ10企業は売上の観点から約76.0%の市場シェアを持っていた"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "Ohmium International は、2024年に20%超の市場シェアを占め、市場をリードした"
+   },
+   {
+    "value": "47",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "輸送セグメントは、2024年に 47% のシェアを占めて市場をリードしており、2025年から2034年にかけて年平均成長率（CAGR）24%で成長すると予測される"
+   },
+   {
+    "value": "24",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "輸送セグメントは、2024年に 47% のシェアを占めて市場をリードしており、2025年から2034年にかけて年平均成長率（CAGR）24%で成長すると予測される"
+   },
+   {
+    "value": "30.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "2024年、北米は世界市場の 30.9% のシェアを占め、地域市場における優位性をさらに強固なものとした"
+   },
+   {
+    "value": "63",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "2024年の合計市場シェアは63%"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "70",
+    "url": "https://newscast.jp/news/1702840",
+    "quote": "2025年には、上位3社のメーカーが市場の70％以上を占めた"
+   },
+   {
+    "value": "4",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "quote": "図6：2030年にかけてのアルカリ型電解装置のシェアは4%増、PEM型電解装置のシェアは縮小"
+   },
+   {
+    "value": "81",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "quote": "図7：水電解によるプラチナ需要のほとんどは欧州とその他の地域のプロジェクトにより、累積的プラチナ需要の約81%を占める"
+   },
+   {
+    "value": "70",
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "quote": "図8：2030年までの「定置型燃料電池とその他の水素」のプラチナ需要は9.7トンとなり、水素関連のプラチナ需要の約70%を占める"
+   },
+   {
+    "value": "23.4",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "The global electrolyzer market size was valued at USD 577.27 million in 2025 and is projected to grow from USD 712.35 million in 2026 to USD 3830.15 million by 2034, registering a CAGR of 23.4% during the forecast period (2026–2034). Asia Pacific dominated the electrolyzer market with a share of 34."
+   },
+   {
+    "value": "34.7",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "The global electrolyzer market size was valued at USD 577.27 million in 2025 and is projected to grow from USD 712.35 million in 2026 to USD 3830.15 million by 2034, registering a CAGR of 23.4% during the forecast period (2026–2034). Asia Pacific dominated the electrolyzer market with a share of 34."
+   },
+   {
+    "value": "58.4",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "Alkaline electrolyzers accounted for the largest market share of 58.4%, supported by their established commercial applications, relatively low capital costs, and widespread adoption in industrial hydrogen production."
+   },
+   {
+    "value": "38.7",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "The 500 kW to 2 MW category held the leading market share of 38.7%, owing to its suitability for medium-scale hydrogen production, industrial pilot projects, and decentralized hydrogen supply applications."
+   },
+   {
+    "value": "31.4",
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "quote": "Industry feedstock emerged as the dominant application, capturing a market share of 31.4%, attributed to established hydrogen consumption in ammonia production, petroleum refining, and chemical manufacturing, alongside efforts to replace fossil fuel-derived hydrogen."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://davidjohn5836754.gorillawiki.jp/entry/06ef21612013a31c342285b3b4cfcc90",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2171110",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9195/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7567486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/1702840",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.rakuten-sec.net/articles/-/51220",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/pem-electrolyzer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/electrolyzer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/electrolyzers-market-23889518.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/electrolyzer-market-103919",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/electrolyzer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/electrolyzers-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alliedmarketresearch.com/electrolyzer-market-A10609",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/water-electrolysis-machine-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/water-electrolysis-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/water-electrolyzer-stack-materials-and-components-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/pem-electrolyzer-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/green-hydrogen-production-and-electrolyzer-market/1164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/market-reports/alkaline-water-electrolysis-market-112931",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/energy-system/low-emission-fuels/hydrogen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/pem-water-electrolyzer-market/7442",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.custommarketinsights.com/report/water-electrolysis-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-water-electrolyzer-sales-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "水電解装置 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB-%E6%B0%B4%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE-market%E3%81%AE%E5%B0%86%E6%9D%A5%E5%8B%95%E5%90%91%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E5%88%86%E6%9E%90%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B7%E3%81%8A%E3%82%88%E3%81%B32033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC119-cagr-rngte",
+    "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "https://davidjohn5836754.gorillawiki.jp/entry/06ef21612013a31c342285b3b4cfcc90",
+    "https://newscast.jp/news/2171110",
+    "https://www.reportocean.co.jp/industry-reports/green-hydrogen-electrolyzer-market",
+    "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "https://note.com/qy_research/n/n8c5c67273525",
+    "https://www.fortunebusinessinsights.com/jp/水電解市場-116786"
+   ]
+  },
+  {
+   "query": "水電解装置 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E8%A7%A3%E6%A7%BD%E5%B8%82%E5%A0%B4-103919",
+    "https://metoree.com/categories/9195/",
+    "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "https://mono.ipros.com/cg1/%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE/",
+    "https://project.nikkeibp.co.jp/energy/atcl/19/feature/00007/00114/",
+    "https://deallab.info/hydrogen/",
+    "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "https://www.businessresearchinsights.com/jp/market-reports/pem-water-electrolyzers-market-107328"
+   ]
+  },
+  {
+   "query": "水電解装置 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/market_reports/C68103400?srsltid=AYCX9vLirRE4I-op-0mot9qyz7lNvu5CLIsP06wJcO7Uc6F0ESUKla-1",
+    "https://www.gminsights.com/ja/industry-analysis/pem-electrolyzer-market",
+    "https://www.gii.co.jp/report/ires1984228-water-electrolysis-market-by-components-technology.html",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E9%9B%BB%E8%A7%A3%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-103508",
+    "https://www.atpress.ne.jp/news/600521",
+    "https://newscast.jp/news/1702840",
+    "https://www.researchnester.jp/industry-analysis/pem-water-electrolyzer-market/6461",
+    "https://straitsresearch.com/jp/report/water-electrolysis-market",
+    "https://media.rakuten-sec.net/articles/-/51220",
+    "https://japan.cnet.com/release/31070610/"
+   ]
+  },
+  {
+   "query": "water electrolyzer market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/pem-electrolyzer-market",
+    "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "https://www.precedenceresearch.com/electrolyzer-market",
+    "https://www.marketsandmarkets.com/Market-Reports/electrolyzers-market-23889518.html",
+    "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "https://www.fortunebusinessinsights.com/electrolyzer-market-103919",
+    "https://www.enterprisenews.com/press-release/story/66091/aem-water-electrolyzer-market-set-to-surge-to-us-3-93-billion-by-2031-registering-a-remarkable-84-28-cagr-2025-2031/",
+    "https://www.marketgrowthreports.com/market-reports/alkaline-water-electrolysis-market-112931",
+    "https://www.linkedin.com/pulse/united-kingdom-industrial-water-electrolyzer-market-cbxec",
+    "https://www.verifiedmarketreports.com/product/water-electrolyzer-market/"
+   ]
+  },
+  {
+   "query": "water electrolyzer market share top players percent",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "https://www.fortunebusinessinsights.com/electrolyzer-market-103919",
+    "https://straitsresearch.com/report/electrolyzer-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/electrolyzers-market.asp",
+    "https://www.alliedmarketresearch.com/electrolyzer-market-A10609",
+    "https://market.us/report/water-electrolysis-machine-market/",
+    "https://www.transpireinsight.com/blogdetails/global-top-25-electrolyzers-companies",
+    "https://www.linkedin.com/pulse/electrolyzer-water-electrolysis-market-share-region-supplier-pikue",
+    "https://www.mordorintelligence.com/industry-reports/water-electrolysis-market",
+    "https://www.marketresearchfuture.com/reports/electrolyzers-market-12343"
+   ]
+  },
+  {
+   "query": "water electrolyzer market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://straitsresearch.com/report/water-electrolysis-market",
+    "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "https://www.fortunebusinessinsights.com/electrolyzer-market-103919",
+    "https://www.mordorintelligence.com/industry-reports/water-electrolyzer-stack-materials-and-components-market",
+    "https://www.linkedin.com/pulse/united-kingdom-industrial-water-electrolyzer-market-cbxec",
+    "https://market.us/report/water-electrolysis-machine-market/",
+    "https://www.marknteladvisors.com/research-library/pem-electrolyzer-market.html",
+    "https://www.idtechex.com/en/research-report/green-hydrogen-production-and-electrolyzer-market/1164",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "water electrolyzer market key companies share 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/water-electrolysis-market-4133",
+    "https://www.marketgrowthreports.com/market-reports/alkaline-water-electrolysis-market-112931",
+    "https://www.gminsights.com/industry-analysis/pem-electrolyzer-market",
+    "https://www.precedenceresearch.com/electrolyzer-market",
+    "https://www.maximizemarketresearch.com/market-report/water-electrolysis-market/221915/",
+    "https://www.marketsandmarkets.com/Market-Reports/electrolyzers-market-23889518.html",
+    "https://www.iea.org/energy-system/low-emission-fuels/hydrogen",
+    "https://www.linkedin.com/pulse/united-kingdom-industrial-water-electrolyzer-market-cbxec",
+    "https://www.researchnester.com/reports/pem-water-electrolyzer-market/7442",
+    "https://www.custommarketinsights.com/report/water-electrolysis-market/"
+   ]
+  }
+ ],
+ "missing": {}
+}

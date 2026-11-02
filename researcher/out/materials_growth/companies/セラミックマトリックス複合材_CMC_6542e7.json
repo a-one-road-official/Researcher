@@ -1,0 +1,2009 @@
+{
+ "name": "セラミックマトリックス複合材（CMC）",
+ "en": "ceramic matrix composites",
+ "aliases": [
+  "CMC",
+  "SiC/SiC composite",
+  "セラミックス複合材"
+ ],
+ "context": "航空エンジン",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:54:11.631675+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "セラミックマトリックス複合材料（CMC）市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料（CMC）市場は、2025年に149.2億米ドルと評価され、2026年には165.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.1%で拡大して、2035年までに394.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基複合材料（CMC）市場規模：マトリックス種別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "中南米の市場規模は2025年に7億5,000万米ドルとなり、2035年には19.7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカの市場規模は2025年に8億9,000万米ドルとなり、2035年には23.7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基複合材料（CMC）市場規模は、2025年に149.2億米ドルと推定され、2026年には165.6億米ドルに達すると見込まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2035年までに394.4億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）10.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミックマトリックス複合材料市場規模レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 532.9 百万",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,121.0 百万",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の携帯用電動工具市場 製品別、用途別、地域別の市場規模、シェア、動向および予測 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用セラミックマトリックス複合材料の世界市場（2026年～2032年）、市場規模（酸化物、炭化ケイ素、炭素、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用セラミックマトリックス複合材料の世界市場（2026年～2032年）、市場規模（酸化物、炭化ケイ素、炭素、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地理的地域別および国/地域別の市場規模（年間販売量と年間収益）の歴史的データが提供されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までのグローバル市場規模の予測として、地域別の年間販売量と年間収益の予測が含まれます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミックマトリックス複合材料市場規模は、2025年には46億9,000万米ドルと評価され、2026年の52億5,000万米ドルから2034年には129億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のセラミックマトリックス複合材料市場は、軽量かつ耐熱性のある材料に対する航空宇宙分野の強い需要に支えられ、2025年には地域別で最大の38.5%のシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のセラミックマトリックス複合材料市場は、航空宇宙活動の拡大から恩恵を受けると予想されており、FAAは米国のタービンエンジン搭載航空機の機数が2024年から2046年の間に21,345機増加し、57,676機に達すると予測している一方、タービンエンジン搭載航空機の飛行時間は2046年まで毎年2.6%増加すると予測されており、CMCなどの軽量で耐熱性のある材料の需要を支えている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのセラミックマトリックス複合材料市場は、航空宇宙機の近代化から恩恵を受けると予想されており、カナダの防衛産業戦略では今後10年以内に航空宇宙機の稼働率を85%にすることを目標としており、政府は88機のF-35戦闘機を取得しており、最初の機体は2028年にカナダに到着予定で、2032年から2034年には完全な運用能力を獲得することを目指しており、高度な航空宇宙材料の需要を支えている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のセラミックマトリックス複合材料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）12.1%で成長すると予想されており、航空宇宙活動の拡大に支えられ、最も急速に成長する地域市場となっています",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料市場は、航空宇宙産業の近代化の恩恵を受けると予想されており、日本、英国、イタリアは2035年までに最初のグローバル戦闘航空計画（GCAP）航空機の納入を目指しており、先進的な航空機やエンジンシステムに使用される軽量で耐熱性に優れた材料に対する長期的な需要を支えています",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のセラミックマトリックス複合材料市場は、航空宇宙産業の継続的な拡大の恩恵を受けると予想されており、中国の第15次民間航空発展五カ年計画（2026～2030年）は航空輸送ネットワークのさらなる拡大と近代化を目指しており、中国は2025年末時点で既に4,574機の民間航空機を保有しており、将来的に高度な軽量で耐熱性に優れた材料に対する需要を支えています",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のセラミックマトリックス複合材料市場は、2025年には市場シェアの27.4%を占めると予測されており、欧州の確立された航空宇宙・防衛産業に支えられている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国のセラミックマトリックス複合材料市場は、航空宇宙技術への投資から恩恵を受けると予想されており、英国航空宇宙技術研究所（ATI）は、2035年までに航空宇宙分野の市場規模を180億ドルに倍増させることを目標としている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "[調査レポート] セラミックマトリックス複合材市場は2018年に8,560.0百万米ドルに達し、2019年～2027年の予測期間中に9.1%のCAGRで成長し、2027年には18,485.0百万米ドルに達すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパのセラミックマトリックス複合材市場は、2028年に73億米ドル以上の収益に達すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のセラミックマトリックス複合材市場は、10％を超える大幅なCAGRで成長すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2018",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 8.56 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模別 2027",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 18.49 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "経済活動の再開と産業活動の再開に伴い、市場は徐々に回復すると予想されますが、COVID-19パンデミックは短期的にはCMC市場の成長軌道を確かに阻害しました",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材の日本市場（2026年～2034年）、市場規模（炭化ケイ素強化炭化ケイ素（SIC/SIC）、炭素強化炭素（C/C）、酸化物-酸化物（Ox/Ox））・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料（CMCs）市場規模は2025年に5億3,290万米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材の日本市場（2026年～2034年）、市場規模（炭化ケイ素強化炭化ケイ素（SIC/SIC）、炭素強化炭素（C/C）、酸化物-酸化物（Ox/Ox））・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size & Share | 2034",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size, Share, Trend, Forecast, Competitive Landscape & Growth Opportunities: 2026-2034",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic matrix composites (CMCs) market was valued at USD 3.0 billion in 2025.",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "market size in 2024 was USD 2.9 billion",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": ". In 2025, the market experienced a YoY growth of 1.6% to reach a value of USD 3.0 billion.",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "market is expected to reach USD 3.2 billion in 2026",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "market size will reach USD 4.4 billion in 2034,",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Ceramic matrix composites (CMCs) market was valued at USD 3.0 billion in 2025. The market size in 2024 was USD 2.9 billion. In 2025, the market experienced a YoY growth of 1.6% to reach a value of USD 3.0 billion. The market is expected to reach USD 3.2 billion in 2026, witnessing an annual...",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "annual demand for ceramic matrix composites (CMCs) was USD 3.0 billion in 2025",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "セラミックマトリックス複合材料（CMC）市場は、2025年に149.2億米ドルと評価され、2026年には165.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.1%で拡大して、2035年までに394.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "単通路機の生産拡大が2030年まで続けば、エンジン機種ごとのCMC搭載量が需要予測に織り込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospaceは、2025年のLEAP納入数が過去最高となり、前年比28%増を記録した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "認証の進展ペースが、2030年までの民間航空におけるエンジン用CMCの採用拡大を左右する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "C/Cの2025年の売上高は50.7億米ドルで、2026〜2035年の年平均成長率（CAGR）は8.0%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "不連続繊維は2025年に25.5億米ドルの売上高を生み出し、2026〜2035年に年平均成長率（CAGR）10.0%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "溶融含浸および反応溶融含浸（MI/RMI）は2025年に34.3億米ドルの売上高を生み出し、2026〜2035年に年平均成長率（CAGR）10.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、2026～2034年の期間で年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）8.61％",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 2026-2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のセラミックマトリックス複合材料市場規模は、2025年には46億9,000万米ドルと評価され、2026年の52億5,000万米ドルから2034年には129億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "[調査レポート] セラミックマトリックス複合材市場は2018年に8,560.0百万米ドルに達し、2019年～2027年の予測期間中に9.1%のCAGRで成長し、2027年には18,485.0百万米ドルに達すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のセラミックマトリックス複合材市場は、10％を超える大幅なCAGRで成長すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なCAGR (2018 - 2027)",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、市場が2034年までに11億2,100万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）8.61%で成長すると予測しています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": ". In 2025, the market experienced a YoY growth of 1.6% to reach a value of USD 3.0 billion.",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "witnessing a market growth (CAGR) of 4.1% during the forecast period of 2026-2034.",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Ceramic matrix composites (CMCs) market was valued at USD 3.0 billion in 2025. The market size in 2024 was USD 2.9 billion. In 2025, the market experienced a YoY growth of 1.6% to reach a value of USD 3.0 billion. The market is expected to reach USD 3.2 billion in 2026, witnessing an annual...",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "During the forecast period (2026-2034), the ceramic matrix composites (CMCs) market is expected to grow at a",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.1%",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "YoY Growth in 2025: 1.6%",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "YoY Growth in 2026: 6.7%",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2034: 4.1%",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "The ceramic matrix composites market is estimated to grow at a CAGR of 4.1% by 2034, driven by increasing adoption in aerospace engines, high-performance braking systems, and energy applications.",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "The Ceramic Matrix Composites Market was valued at USD 6.40 Billion in 2025 and is forecast to reach USD 6.97 Billion in 2026, climbing to USD 14.29 Billion by 2035 at a CAGR of 8.30% over 2026–2035. Two catalysts anchor this trajectory. CFM International delivered 1,407 LEAP engines in 2024, each fitted with CMC high-pressure turbine shrouds .",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Oxide/Oxide is the fastest-expanding product class at a 9.9% CAGR over 2026–2035, pulled by exhaust and heat-exchanger applications",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Defense posts the quickest growth at a 9.4% CAGR as hypersonic programs move toward production",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific expands at a 9.6% CAGR, the fastest of any region",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "9.6% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "11.2% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "8.8% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "7.6% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "8.1% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "6.9% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "6.5% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "9.9% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "The ceramic matrix composites (CMC) market was valued at USD 14.92 billion in 2025, is projected to reach USD 16.56 billion in 2026, and is expected to expand at a 10.1% CAGR (2026–2035), reaching USD 39.44 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospace recorded record LEAP deliveries up 28% year-over-year in 2025",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "France accounted for 15.4% of European revenue in 2025 and is forecast to grow at a 9.8% CAGR (2026–2035). France is an important CMC demand and production center because of its participation in commercial-engine supply chains and defense propulsion programs. Its position is strengthened by integration with European aerospace manufacturing and collaborative engine-development activity.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to grow at a 14.4% CAGR (2026–2035) and account for 8.5% of Asia Pacific revenue in 2035. India's opportunity is tied to expanding civil aviation, defense-engine development, and efforts to strengthen indigenous advanced-material capability. The country's growth rate reflects a comparatively early-stage market base and a widening set of aerospace and strategic applications.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan generated USD 760 million in 2025 and is expected to grow at a 9.8% CAGR (2026–2035). Japan plays a dual role as a CMC demand center and an advanced-materials supply contributor. Its commercial position is supported by fiber production, aerospace participation, and the ability of domestic manufacturers to serve both local and export-oriented programs.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 39.44 billion by 2035, growing at a CAGR of 10.1% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.14%",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market size was valued at USD 13.97 Billion in 2024 and is poised to grow from USD 15.46 Billion in 2025 to USD 34.88 Billion by 2033, growing at a CAGR of 10.7% during the forecast period (2026–2033).",
+    "url": "https://www.skyquestt.com/report/ceramic-matrix-composites-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size | CAGR of 10.7%",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, growing at a",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.7%",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.7%.",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2033)",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 13.74 Billion in 2025 and the total Ceramic Matrix Composites revenue is expected to grow at a CAGR of 11.5% from 2026 to 2034, reaching nearly USD 36.61 Billion.",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2034 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "The Global market is growing at a CAGR of 11.5% during forecasting period 2026-2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "航空宇宙分野を起点に構築された供給能力基盤によって、CMC採用に伴うコストと実行上の負担が軽減されれば、隣接市場への参入も進むだろう",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "民間推進システム、軍用エンジン、極超音速システム、宇宙機器、高性能ブレーキが相まって、プレミアム価格を支え、サプライヤーにとって高い参入障壁を生み出している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、SiC/SiC、C/C、C/SiC、酸化物セラミックス系を網羅するサプライヤー基盤を有し、高付加価値の航空分野と産業分野の両市場に参入できることも、同地域の強みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の主要企業には、Rolls-Royce plc、Mitsubishi Chemical Group Corporation、CoorsTek Inc.、Saint-Gobain S.A.、Morgan Advanced Materials plc、GKN Aerospace、DACC Carbonが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料（CMC）市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基複合材料（CMC）市場の主要企業には、GE Aerospace、Safran Ceramics、SGL Carbon、Kyocera Corporation、COI Ceramicsなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要プレイヤーのポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターのファイブフォース分析は、利害関係者が新規参入の影響、競合関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、航空宇宙用セラミックマトリックス複合材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の航空宇宙用セラミックマトリックス複合材料市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、競争環境、CR3、CR5、CR10比率（2024-2026年）による市場集中度分析、新製品と潜在的な新規参入者、市場のM&A活動と戦略も詳細に分析されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、GE Aviation、Safran、Rolls-Royce Group、CoorsTek、COI Ceramics、BJS Ceramics GmbH、Composites Horizons、Ultramet、WPX Faser Keramik、Applied Thin Films、Walter E. C. Pritzkow Spezialkeramikといった主要企業に関する個別の詳細な分析が提供されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場は、航空宇宙・防衛分野の大手メーカー、先端材料企業、特殊セラミックメーカー、そして航空宇宙、防衛、自動車、エネルギー、産業用途向けの技術に特化した小規模メーカーなど、多様な企業が参入しており、適度に細分化されている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場の主要企業には、GE Aviation、Safran、Rolls-Royce Group、CoorsTek、3M Companyなどがあり、上位4社だけで世界市場の約52%を占めている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "競合状況と主要企業",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック マトリックス複合材市場で事業を展開している主要企業としては、COI Ceramics, Inc.、General Electric Company、Lancer Systems、SGL Carbon、Rolls-Royce Plc、CoorsTek, Inc.、Applied Thin Films Inc.、Ultramet、CFCCARBON CO, LTD、Matech などが挙げられます",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要企業すべての詳細なプロファイルも提供されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第10章には日本セラミックマトリックス複合材市場の地域別の内訳として、関東、関西/近畿、中部/中部の各地域に加え、九州・沖縄、東北、中国、北海道、四国の各地域ごとに、概要、歴史的・現在の市場トレンド（2020-2025）、複合材タイプ別、繊維タイプ別、繊維材料別、用途別の市場内訳、主要プレイヤー、および市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第12章には主要企業のプロフィールとして、A社からE社までの各企業について、事業概要、製品ポートフォリオ、事業戦略、SWOT分析、および主要ニュースとイベントが記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size, Share, Trend, Forecast, Competitive Landscape & Growth Opportunities: 2026-2034",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size, Share, Trend, Forecast, Competitive Landscape",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Most of the major players compete in some of the factors, including price, service offerings, and regional presence, etc. The following are the key players in the ceramic matrix composites (CMCs) market (Based on Dominance) -",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Service portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites (CMC) Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in ceramic matrix composites (CMC) market?",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in ceramic matrix composites (CMC) market include GE Aerospace, Safran Ceramics, SGL Carbon, Kyocera Corporation, COI Ceramics.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides a comprehensive analysis of the competitive landscape in the ceramic matrix composites market with detailed profiles of all major companies, including:",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape allows stakeholders to understand their competitive environment and provides an insight into the current positions of key players in the market.",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the ceramic matrix composites market include 3M Company, Applied Thin Films Inc., Axiom Materials Inc., CeramTec GmbH, COI Ceramics Inc., CoorsTek Inc., Lancer Systems LP, SGL Carbon SE, Specialty Materials Inc. (Global Materials LLC), Starfire Systems Inc., and Ultramet, among others.",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/ceramic-matrix-composites-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The report also helps in understanding Global Ceramic Matrix Composites Market dynamics, structure by analyzing the market segments and project the Global market size. Clear representation of competitive analysis of key players by Type, price, financial position, Product portfolio, growth strategies, and regional presence in the Global market make the report investor’s guide.",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "competitive landscape of the key players",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in Global Ceramic Matrix Composites market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "The important key players in the Global market are – General Electric Company, Rolls-Royce Plc., SGL Group, COI Ceramics, United Technologies, CeramTec, Lancer Systems, CoorsTek, Applied Thin Films, Ultramet, 3M Company., CeramTec International., GE Aviation, Lancer Systems, UBE Industries, Ltd., Nanocomposite Inc., and Advanced Fiberglass Technologies",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Ceramic Matrix Composites Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Epoxy Resin Market Size Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Landscape & Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": ", a program designed to provide financial and strategic support to promising startups. Working closely with Fourier under the Spark Fund, Echo St. Germain, a Northeastern graduate and R&D engineer, has been instrumental in propelling the technology forward, resulting in significant development milestones.",
+    "url": "https://cri.northeastern.edu/fouriers-breakthrough-thermal-management-technology-thermoformable-ceramic-matrix-composites/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "GE Aerospace、Safran Ceramics、SGL Carbon、Kyocera Corporation、COI Ceramics",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2025年に7億6,000万米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）9.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本はCMCの需要拠点であると同時に、先端材料の供給にも貢献している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の主要企業には、Rolls-Royce plc、Mitsubishi Chemical Group Corporation、CoorsTek Inc.、Saint-Gobain S.A.、Morgan Advanced Materials plc、GKN Aerospace、DACC Carbonが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基複合材料（CMC）市場の主要企業には、GE Aerospace、Safran Ceramics、SGL Carbon、Kyocera Corporation、COI Ceramicsなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミックマトリックス複合材料市場規模レポート 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック基複合材料市場レポート複合材料タイプ（炭化ケイ素強化炭化ケイ素（SIC/SIC）、炭素強化炭素（C/C）、酸化物酸化物（Ox/Ox）、その他）、繊維タイプ（短繊維、連続繊維）、繊維材料（アルミナ繊維、耐火セラミック繊維（RCF）、SiC繊維、その他）、用途（航空宇宙・防衛、自動車、エネルギー・電力、電気・電子、その他）、地域別 2026-2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料の市場動向：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック・マトリックス複合材料市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、CMCベースのソリューションの需要急増につながった様々な分野でのエネルギー効率と性能の改善への関心の高まりは、予測期間中、日本のCMC市場を牽引すると予想される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料市場のセグメント化：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック基複合材料市場レポートカバレッジ：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料市場はこれまでどのように推移し、今後どのように推移していくのか?",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19が日本のセラミック基複合材料市場に与えた影響は？",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料市場の複合材料タイプ別の内訳は？",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料市場の繊維タイプ別の内訳は？",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料市場の繊維材料別の内訳は？",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミック基複合材料市場の用途別内訳は？",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の販売量と収益、タイプ別、用途別の販売量が示されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：航空宇宙用セラミックマトリックス複合材料の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料市場は、航空宇宙産業の近代化の恩恵を受けると予想されており、日本、英国、イタリアは2035年までに最初のグローバル戦闘航空計画（GCAP）航空機の納入を目指しており、先進的な航空機やエンジンシステムに使用される軽量で耐熱性に優れた材料に対する長期的な需要を支えています",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "3M Company · General Electric Company · Kyocera Corporation · COI Ceramics, Inc. · Coorstek, Inc.",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場をリードする企業は、3M社、ゼネラル・エレクトリック社、京セラ株式会社、COIセラミックス社などである",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材の日本市場（2026年～2034年）、市場規模（炭化ケイ素強化炭化ケイ素（SIC/SIC）、炭素強化炭素（C/C）、酸化物-酸化物（Ox/Ox））・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「セラミックマトリックス複合材の日本市場（2026年～2034年）、英文タイトル：Japan Ceramic Matrix Composites Market 2026-2034」調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、セラミックマトリックス複合材の日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "日本のセラミックマトリックス複合材料（CMCs）市場規模は2025年に5億3,290万米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "近年、日本のCMCs市場は、いくつかの主要な要因により目覚ましい成長を遂げています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、様々な分野でエネルギー効率と性能向上への注目が高まっていることも、CMCベースのソリューションに対する需要の急増につながっており、予測期間中、日本のCMCs市場を牽引すると期待されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、日本のセラミックマトリックス複合材料市場がこれまでどのように推移し、今後どのように推移するか、COVID-19が市場に与えた影響、複合材タイプ、繊維タイプ、繊維材料、用途に基づく市場の内訳、市場のバリューチェーンにおける様々な段階、日本のセラミックマトリックス複合材料の主要な推進要因と課題、市場の構造と主要プレーヤー、日本のセラミックマトリックス複合材料市場における競争の程度といった主要な質問に答えています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には日本セラミックマトリックス複合材市場の導入として、概要、市場ダイナミクス、業界トレンド、および競合インテリジェンスが記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第5章には日本セラミックマトリックス複合材市場の概況として、歴史的・現在の市場トレンド（2020-2025）と市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第6章には日本セラミックマトリックス複合材市場の複合材タイプ別の内訳として、シリコンカーバイド強化シリコンカーバイド(SIC/SIC)、炭素強化炭素(C/C)、酸化物-酸化物(Ox/Ox)、その他に分類され、それぞれの概要、歴史的・現在の市場トレンド（2020-2025）、および市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第7章には日本セラミックマトリックス複合材市場の繊維タイプ別の内訳として、短繊維と連続繊維に分類され、それぞれの概要、歴史的・現在の市場トレンド（2020-2025）、および市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には日本セラミックマトリックス複合材市場の繊維材料別の内訳として、アルミナ繊維、耐火セラミック繊維(RCF)、SiC繊維、その他に分類され、それぞれの概要、歴史的・現在の市場トレンド（2020-2025）、および市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第9章には日本セラミックマトリックス複合材市場の用途別の内訳として、航空宇宙・防衛、自動車、エネルギー・電力、電気・電子、その他に分類され、それぞれの概要、歴史的・現在の市場トレンド（2020-2025）、および市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第10章には日本セラミックマトリックス複合材市場の地域別の内訳として、関東、関西/近畿、中部/中部の各地域に加え、九州・沖縄、東北、中国、北海道、四国の各地域ごとに、概要、歴史的・現在の市場トレンド（2020-2025）、複合材タイプ別、繊維タイプ別、繊維材料別、用途別の市場内訳、主要プレイヤー、および市場予測（2026-2034）が記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には日本セラミックマトリックス複合材市場の競争環境として、概要、市場構造、市場プレイヤーのポジショニング、主要な勝利戦略、競争ダッシュボード、および企業評価クアドラントが記載されています",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "SRI Japan",
+    "url": "https://www.sri.com/ja/press/story/%E6%9C%80%E3%82%82%E9%81%8E%E9%85%B7%E3%81%AA%E6%9D%A1%E4%BB%B6%E3%81%AB%E9%81%A9%E5%90%88%E3%81%99%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E6%88%90%E5%8A%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "日本支社ニュースレター",
+    "url": "https://www.sri.com/ja/press/story/%E6%9C%80%E3%82%82%E9%81%8E%E9%85%B7%E3%81%AA%E6%9D%A1%E4%BB%B6%E3%81%AB%E9%81%A9%E5%90%88%E3%81%99%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E6%88%90%E5%8A%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "SRI Japan／日本支社から毎月ニュースレターを配信しています",
+    "url": "https://www.sri.com/ja/press/story/%E6%9C%80%E3%82%82%E9%81%8E%E9%85%B7%E3%81%AA%E6%9D%A1%E4%BB%B6%E3%81%AB%E9%81%A9%E5%90%88%E3%81%99%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E6%88%90%E5%8A%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "ジェットエンジンの開発は欧米が主導権を握っていますが、セラミック繊維は日本発の材料です",
+    "url": "https://nimsnow.nims.go.jp/research/2023no5_r03/",
+    "pass": 3
+   },
+   {
+    "quote": "材料の置き換えは、日本のこれまでのポジションを変えるチャンスと捉え、研究開発に邁進しています」（垣澤）",
+    "url": "https://nimsnow.nims.go.jp/research/2023no5_r03/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.aero.jaxa.jp/research/basic/structure-composite/cmc/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2013 Japan Aerospace Exploration Agency",
+    "url": "https://www.aero.jaxa.jp/research/basic/structure-composite/cmc/",
+    "pass": 3
+   },
+   {
+    "quote": "とが普通であるが，日本では CMC と記述されるので，以後",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Materia Japan",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン株と宇部興産株が繊維を製造することができる",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が，日本カーボンの繊維は米国 GE 社とフランスのサフラン",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ている SiC 繊維の製造技術は日本にあるが，その利用技術",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が規制されているとともに，国外で製造された CMC の日本",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "村隆之，松本峰明，垣澤英樹，長谷川良雄，粂田和弘日本",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「CMC が拓く日本の航空機産業未来」(2018)．",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "China, Japan, and India",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "(The USA, Canada, Mexico, Germany, France, Italy, The UK, China, Japan, India, Brazil, Saudi Arabia, Rest of Europe, Rest of APAC, and Rest of the World)",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Country Analysis: Japan, China, India, and Rest of Asia-Pacific)",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "セラミック基複合材料（CMC）市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospaceは、2025年に13.5%を超える市場シェアを獲得し、首位に立った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "SiC/SiCは2025年のセラミックマトリックス複合材料（CMC）市場売上高の27.0%を占め、2035年には36.5%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "C/SiCは2025年の売上高の19.1%を占め、2035年には74.9億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "酸化物／酸化物系は2025年の売上高の13.0%を占め、2035年には51.7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "連続繊維は2025年の売上高の46.0%を占め、2035年には182.3億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "織物繊維は2025年の売上高の36.9%を占め、2035年には145.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "化学気相浸透（CVI）は2025年の売上高の36.2%を占め、2035年には38.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマー含浸・熱分解（PIP）は2025年の売上高の14.0%を占め、2035年には57.2億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形は2026〜2035年に年平均成長率（CAGR）19.0%で成長し、2035年には売上高の8.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンジン部品は2025年の売上高の33.0%を占め、2035年には39.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料（CMC）市場シェア：用途別、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベアリングおよびシールは2025年の売上高の7.0%を占め、2035年までに27.6億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本空気圧道具市場タイプ、用途、エンドユーザー、地域別の規模、シェア、動向および予測2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の携帯用電動工具市場 製品別、用途別、地域別の市場規模、シェア、動向および予測 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の油圧・空気圧およびアクチュエータ市場サイズ、シェア、動向、およびタイプ、機能、コンポーネント、エンドユース産業、地域別の予測、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本パイプおよび継手市場サイズ、シェア、動向、およびタイプ、技術、用途、バーティカル、地域別の予測、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、酸化物、炭化ケイ素、炭素、その他といったタイプ別のセグメント分析では、2021年から2026年までの販売市場シェア、収益と市場シェア、販売価格が示されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、商業と軍事といった用途別のセグメント分析でも、2021年から2026年までの販売市場シェア、収益と市場シェア、販売価格が詳細に分析されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の航空宇宙用セラミックマトリックス複合材料の年間販売量と販売市場シェア、年間収益と収益市場シェア、および販売価格が提供されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場の規模、シェア、トレンド分析レポート：製品別（酸化物、炭化ケイ素、炭素、その他）、用途別（航空宇宙、防衛、エネルギー＆電力、電気＆電子機器、その他）、繊維タイプ別（連続繊維、織物、その他（フェルト／マット、チョップド繊維、綾織り、組紐、ロープ＆ベルト））、繊維材料別（アルミナ繊維、非晶質セラミック繊維（RCF）、炭化ケイ素繊維（SIC））、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に38.5%の市場シェアを占め、セラミックマトリックス複合材料市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭化ケイ素セグメントは、高温耐性、低密度、優れた機械的性能といった特長により、2025年には42.8%のシェアを占め、航空宇宙や産業分野における高度な用途に適している",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野は、高温エンジン部品、熱保護システム、その他の軽量航空宇宙構造物におけるセラミックマトリックス複合材料の使用により、2025年には41.3%のシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "連続繊維セグメントは、2025年には48.7%のシェアを占め、これは大型複合構造全体にわたる補強と機械的性能の向上に貢献する能力によるものです",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭化ケイ素繊維セグメントは、高温強度、耐酸化性、および要求の厳しいセラミックマトリックス用途との適合性により、2025年には42.4%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のセラミックマトリックス複合材料市場は、軽量かつ耐熱性のある材料に対する航空宇宙分野の強い需要に支えられ、2025年には地域別で最大の38.5%のシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のセラミックマトリックス複合材料市場は、2025年には市場シェアの27.4%を占めると予測されており、欧州の確立された航空宇宙・防衛産業に支えられている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場の主要企業には、GE Aviation、Safran、Rolls-Royce Group、CoorsTek、3M Companyなどがあり、上位4社だけで世界市場の約52%を占めている",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のセラミックマトリックス複合材料市場において、最大のシェアを占める地域はどこでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材料市場の動向、規模、シェア 2027",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品ベースでは、酸化物/酸化物セグメントが2022年のセラミックマトリックス複合材市場において大きなシェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Countries’ Market Share in 2025",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Company’s Market Share in 2025",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "over 80% of CMC applications in aerospace are concentrated in braking systems,",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace accounted for 41.5% of 2025 revenue in the Ceramic Matrix Composites Market, reflecting thousands of engines already in service with CMC parts",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive generated USD 0.45 Billion in 2025, concentrated in performance brake discs",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "44.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "10.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "86.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "31.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "9.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "62.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "38.0% share of region (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 65-70% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites (CMC) Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bearings and seals accounted for 7.0% of revenue in 2025 and are expected to reach USD 2.76 billion by 2035. CMC bearings and seals are valued for dimensional stability across thermal cycling and aggressive service environments. Their adoption is concentrated where maintaining clearance, limiting wear, or avoiding frequent replacement has a direct impact on asset uptime and system reliability.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites (CMC) Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "France accounted for 15.4% of European revenue in 2025 and is forecast to grow at a 9.8% CAGR (2026–2035). France is an important CMC demand and production center because of its participation in commercial-engine supply chains and defense propulsion programs. Its position is strengthened by integration with European aerospace manufacturing and collaborative engine-development activity.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America generated USD 750 million in 2025 and is projected to reach USD 1.97 billion by 2035. Regional demand is concentrated in aviation maintenance, defense procurement, and aerospace manufacturing. The market is largely supplied through international CMC value chains, with domestic demand dependent on aircraft programs, fleet activity, and industrial investment.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the ceramic matrix composites (CMC) market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently dominates the market, holding a significant market share of around 42.8% in 2025.",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "currently dominates the ceramic matrix composites market with a market share of around 42.8%",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the total market share, with the adoption in high-stress environments like aerospace and power generation. Additionally, advancements in additive manufacturing (3D printing) are revolutionizing the production of CMC components, enabling cost-efficient and precise fabrication.",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "セラミック 基 複合材料 （ CMC ） 市場 サイズとシェア 2026-2035 — セラミック 基 複合材料 （ CMC ） 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > ceramic...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本 セラミックマトリックス複合材料市場規模 レポート 2034 — 日本 セラミックマトリックス複合材料市場規模 レポート 2034 IMARC Group https://www.imarcgroup.com > report > japan-ceramic-ma...",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材市場 は、 年平均成長率 10.84 ... — セラミックマトリックス複合材市場 は、 年平均成長率 10.84 ... アットプレス https://www.atpress.ne.jp > ... > Report Ocean Co. Ltd.",
+    "url": "https://www.atpress.ne.jp/news/3876069",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックマトリックス複合材 の日本 市場 （2026年～2034年） — セラミックマトリックス複合材 の日本 市場 （2026年～2034年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "pass": 3
+   },
+   {
+    "quote": "日本 セラミックマトリックス複合材料市場 規模レポート 2034 — 日本 セラミックマトリックス複合材料市場 規模レポート 2034 IMARC Group https://www.imarcgroup.com > report > japan-ceramic-ma...",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック 基 複合材料 （ CMC ）市場 サイズとシェア 2026-2035 — セラミック 基 複合材料 （ CMC ）市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > ceramic...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size & Share | 2034 — Ceramic Matrix Composites Market Size & Share | 2034 Stratview Research https://www.stratviewresearch.com > ...",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size & Share Report 2035 — Ceramic Matrix Composites Market Size & Share Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size , Share, Growth, 2034 — Ceramic Matrix Composites Market Size , Share, Growth, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Analysis Report 2034 — Ceramic Matrix Composites Market Analysis Report 2034 IMARC Group https://www.imarcgroup.com > ceram...",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size | CAGR of 10.7% — Ceramic Matrix Composites Market Size | CAGR of 10.7% Market.us https://market.us > report > ceramic-...",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Firm raises £1.3mln to bring ceramic matrix composites ... - IOM3 — Firm raises £1.3mln to bring ceramic matrix composites ... - IOM3 IOM3 https://www.iom3.org > resource > fir...",
+    "url": "https://www.iom3.org/resource/firm-raises-1-3mln-to-bring-ceramic-matrix-composites-to-mass-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Companies in Ceramic Matrix Composites Market — Top 50 Companies in Ceramic Matrix Composites Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-ceramic-matrix-composites-market-key-insights-and-innovations",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramic Matrix Composites Market Size, Share, Growth, 2034 — Ceramic Matrix Composites Market Size, Share, Growth, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "nearly $1 billion investment to expand U.S. manufacturing capacity",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "fiber-reinforced ceramics in shrouds, combustor liners, and exhaust nozzles. These parts weigh roughly one-third as much as metal equivalents and tolerate temperatures around 150–200 °C higher, which cuts the cooling air bled from the compressor. Public funding reinforces the shift: Europe's Clean Aviation Joint Undertaking carries a budget of about €4.1 Billion for ultra-efficient propulsion",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospace (March 2025): Announced nearly USD 1 Billion of U.S. manufacturing investment for 2025, including advanced material capacity that supports CMC output",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Clean Aviation Joint Undertaking (2024): Awarded additional research funding for ultra-efficient and hydrogen propulsion, extending European CMC development work",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America generated USD 750 million in 2025 and is projected to reach USD 1.97 billion by 2035. Regional demand is concentrated in aviation maintenance, defense procurement, and aerospace manufacturing. The market is largely supplied through international CMC value chains, with domestic demand dependent on aircraft programs, fleet activity, and industrial investment.",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "held approximately 13.5% of market revenue in 2025. Its competitive position is built on vertical integration across SiC fiber, tape, CMC fabrication, and engine-component production. The company's manufacturing investment is strategically important because it expands the supply base for qualified engine hardware rather than relying solely on third-party capacity",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospace announced a nearly $1 billion U.S. manufacturing investment commitment in March 2025, including more than $100 million to scale advanced-materials activity spanning CMC and additive-manufacturing capacity in Huntsville, Alabama, and Asheville, North Carolina",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2025, General Atomics Aeronautical Systems announced a strategic investment in Arceon, a Netherlands-based ceramic-composite specialist developing melt-infiltration-processed C/SiC components for aerospace and defense applications",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Completed the majority of its £55 million investment program focused on advanced semiconductor and high-temperature silicon carbide ceramics.",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "pass": 3
+   },
+   {
+    "quote": "NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University",
+    "url": "https://www.compositesworld.com/topics/ceramicmatrixcomposites",
+    "pass": 3
+   },
+   {
+    "quote": "Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.",
+    "url": "https://www.compositesworld.com/topics/ceramicmatrixcomposites",
+    "pass": 3
+   },
+   {
+    "quote": "Following a £1.3 million funding raise in 2025, the U.K. company has opened two additional locations in England and is now expanding into the U.S. to commercialize its material tech.",
+    "url": "https://www.compositesworld.com/topics/ceramicmatrixcomposites",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "quote": "セラミックマトリックス複合材料（CMC）市場は、2025年に149.2億米ドルと評価され、2026年には165.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.1%で拡大して、2035年までに394.4億米ドルに達すると予測される"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "quote": "C/Cの2025年の売上高は50.7億米ドルで、2026〜2035年の年平均成長率（CAGR）は8.0%と予測される"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "quote": "不連続繊維は2025年に25.5億米ドルの売上高を生み出し、2026〜2035年に年平均成長率（CAGR）10.0%で成長すると予測される"
+   },
+   {
+    "value": "10.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "quote": "溶融含浸および反応溶融含浸（MI/RMI）は2025年に34.3億米ドルの売上高を生み出し、2026〜2035年に年平均成長率（CAGR）10.6%で成長すると予測される"
+   },
+   {
+    "value": "8.61",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "quote": "（CAGR）8.61％"
+   },
+   {
+    "value": "12.5",
+    "url": "https://newscast.jp/news/2571748",
+    "quote": "世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています"
+   },
+   {
+    "value": "11.9",
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "quote": "世界のセラミックマトリックス複合材料市場規模は、2025年には46億9,000万米ドルと評価され、2026年の52億5,000万米ドルから2034年には129億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです"
+   },
+   {
+    "value": "8.61",
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "quote": "本調査会社は、市場が2034年までに11億2,100万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）8.61%で成長すると予測しています"
+   },
+   {
+    "value": "4.1",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "quote": "witnessing a market growth (CAGR) of 4.1% during the forecast period of 2026-2034."
+   },
+   {
+    "value": "8.30",
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "quote": "The Ceramic Matrix Composites Market was valued at USD 6.40 Billion in 2025 and is forecast to reach USD 6.97 Billion in 2026, climbing to USD 14.29 Billion by 2035 at a CAGR of 8.30% over 2026–2035. Two catalysts anchor this trajectory. CFM International delivered 1,407 LEAP engines in 2024, each f"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "quote": "The market is projected to reach USD 39.44 billion by 2035, growing at a CAGR of 10.1% from 2026 to 2035."
+   },
+   {
+    "value": "8.14",
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "quote": "CAGR of 8.14%"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.skyquestt.com/report/ceramic-matrix-composites-market/companies",
+    "quote": "Ceramic Matrix Composites Market size was valued at USD 13.97 Billion in 2024 and is poised to grow from USD 15.46 Billion in 2025 to USD 34.88 Billion by 2033, growing at a CAGR of 10.7% during the forecast period (2026–2033)."
+   },
+   {
+    "value": "10.7",
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "quote": "Ceramic Matrix Composites Market Size | CAGR of 10.7%"
+   },
+   {
+    "value": "11.5",
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "quote": "size was valued at USD 13.74 Billion in 2025 and the total Ceramic Matrix Composites revenue is expected to grow at a CAGR of 11.5% from 2026 to 2034, reaching nearly USD 36.61 Billion."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "8.56",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "quote": "US$ 8.56 Billion"
+   },
+   {
+    "value": "18.49",
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "quote": "US$ 18.49 Billion"
+   },
+   {
+    "value": "3.0",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "quote": "Ceramic matrix composites (CMCs) market was valued at USD 3.0 billion in 2025."
+   },
+   {
+    "value": "2.9",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "quote": "market size in 2024 was USD 2.9 billion"
+   },
+   {
+    "value": "3.2",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "quote": "market is expected to reach USD 3.2 billion in 2026"
+   },
+   {
+    "value": "4.4",
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "quote": "market size will reach USD 4.4 billion in 2034,"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104879",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2571748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1963687",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nims.go.jp/rcsm/about/groups/ceramic-matrix-composites-group/themes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmcc.ne.jp/cmc.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sri.com/ja/press/story/%E6%9C%80%E3%82%82%E9%81%8E%E9%85%B7%E3%81%AA%E6%9D%A1%E4%BB%B6%E3%81%AB%E9%81%A9%E5%90%88%E3%81%99%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E6%88%90%E5%8A%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nimsnow.nims.go.jp/research/2023no5_r03/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/engineering/comments/7dlyhu/ceramic_matrix_composites_aircraft_engine/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aero.jaxa.jp/research/basic/structure-composite/cmc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/ceramic-matrix-composites-market-60146548.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/ceramic-matrix-composites-cmcs-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/ceramic-matrix-composites-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/ceramic-matrix-composites-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iom3.org/resource/firm-raises-1-3mln-to-bring-ceramic-matrix-composites-to-mass-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cri.northeastern.edu/fouriers-breakthrough-thermal-management-technology-thermoformable-ceramic-matrix-composites/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-ceramic-matrix-composites-market-key-insights-and-innovations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.compositesworld.com/topics/ceramicmatrixcomposites",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceramics.org/wp-content/CGM/2023/pdf/CGM-September2023.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セラミックマトリックス複合材（CMC） 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104879",
+    "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "https://newscast.jp/news/2571748",
+    "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "https://www.atpress.ne.jp/news/3876069",
+    "https://jp.linkedin.com/pulse/%E4%BA%88%E6%B8%AC%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99-market-growth-2033%E5%B9%B4%E3%81%8B%E3%82%892026%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr139%E3%81%AE%E4%BA%88%E6%B8%AC%E5%8F%8E%E7%9B%8A%E3%81%A8%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E5%90%91%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6-ohxle",
+    "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/ceramic-matrix-composites-cmcs-market",
+    "https://www.fortunebusinessinsights.com/jp/セラミックマトリックス複合材料市場-104879"
+   ]
+  },
+  {
+   "query": "セラミックマトリックス複合材（CMC） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "https://www.theinsightpartners.com/ja/reports/ceramic-matrix-composites-cmc-market",
+    "https://www.atpress.ne.jp/news/1963687",
+    "https://www.imarcgroup.com/report/ja/japan-ceramic-matrix-composites-market",
+    "https://newscast.jp/news/2571748",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104879",
+    "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "https://www.nims.go.jp/rcsm/about/groups/ceramic-matrix-composites-group/themes.html",
+    "https://cmcc.ne.jp/cmc.html"
+   ]
+  },
+  {
+   "query": "セラミックマトリックス複合材（CMC） 参入 企業 国内",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104879",
+    "https://www.sri.com/ja/press/story/%E6%9C%80%E3%82%82%E9%81%8E%E9%85%B7%E3%81%AA%E6%9D%A1%E4%BB%B6%E3%81%AB%E9%81%A9%E5%90%88%E3%81%99%E3%82%8B%E6%9D%90%E6%96%99%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E6%88%90%E5%8A%9F/",
+    "https://nimsnow.nims.go.jp/research/2023no5_r03/",
+    "https://www.reddit.com/r/engineering/comments/7dlyhu/ceramic_matrix_composites_aircraft_engine/?tl=ja",
+    "https://www.aero.jaxa.jp/research/basic/structure-composite/cmc/",
+    "https://www.jim.or.jp/journal/m/pdf3/58/07/376.pdf",
+    "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "https://www.jst.go.jp/sip/k03/sm4i/project/project-c.html"
+   ]
+  },
+  {
+   "query": "ceramic matrix composites market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/ceramic-matrix-composites-market-60146548.html",
+    "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market.html",
+    "https://www.marketresearchfuture.com/reports/ceramic-matrix-composites-market-6045",
+    "https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879",
+    "https://www.gminsights.com/industry-analysis/ceramic-matrix-composites-market",
+    "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "https://market.us/report/ceramic-matrix-composites-market/",
+    "https://www.futuremarketinsights.com/reports/ceramic-matrix-composites-market",
+    "https://www.grandviewresearch.com/industry-analysis/global-ceramic-matrix-composites-market",
+    "https://straitsresearch.com/report/ceramic-matrix-composites-market"
+   ]
+  },
+  {
+   "query": "ceramic matrix composites market key players competitive landscape",
+   "results": [
+    "https://www.imarcgroup.com/ceramic-matrix-composites-market",
+    "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market.html",
+    "https://www.marketsandmarkets.com/Market-Reports/ceramic-matrix-composites-market-60146548.html",
+    "https://www.mordorintelligence.com/industry-reports/ceramic-matrix-composites-cmcs-market",
+    "https://www.skyquestt.com/report/ceramic-matrix-composites-market/companies",
+    "https://market.us/report/ceramic-matrix-composites-market/",
+    "https://www.maximizemarketresearch.com/market-report/ceramic-matrix-composites-market/13044/",
+    "https://www.linkedin.com/pulse/top-7-ceramic-matrix-composites-market-share-company-hexanovas-iu5jf/",
+    "https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879",
+    "https://www.expertmarketresearch.com/reports/ceramic-matrix-composites-market-report"
+   ]
+  },
+  {
+   "query": "ceramic matrix composites startup funding 2025",
+   "results": [
+    "https://www.iom3.org/resource/firm-raises-1-3mln-to-bring-ceramic-matrix-composites-to-mass-market.html",
+    "https://cri.northeastern.edu/fouriers-breakthrough-thermal-management-technology-thermoformable-ceramic-matrix-composites/",
+    "https://www.sphericalinsights.com/blogs/top-50-companies-in-ceramic-matrix-composites-market-key-insights-and-innovations",
+    "https://www.stratviewresearch.com/market-reports/ceramic-matrix-composites-market.html",
+    "https://www.compositesworld.com/topics/ceramicmatrixcomposites",
+    "https://www.fortunebusinessinsights.com/ceramic-matrix-composites-market-104879",
+    "https://www.mordorintelligence.com/industry-reports/ceramic-matrix-composites-cmcs-market",
+    "https://ceramics.org/wp-content/CGM/2023/pdf/CGM-September2023.pdf",
+    "https://www.grandviewresearch.com/industry-analysis/global-ceramic-matrix-composites-market",
+    "https://www.ventureradar.com/funding/ceramic+composites"
+   ]
+  }
+ ],
+ "missing": {}
+}

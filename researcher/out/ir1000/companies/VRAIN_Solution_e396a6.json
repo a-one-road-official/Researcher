@@ -1,0 +1,1089 @@
+{
+ "name": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+ "aliases": [],
+ "context": "証券コード135A／情報・通信業／グロース（内国株式）／2026.02期 売上高3,278百万円 営業利益率27.9%",
+ "researched_at": "2026-11-02T16:56:55.583230+00:00",
+ "official_url": "https://vrain.co.jp/",
+ "identified_by": "search:yahoo_jp:VRAIN Solution",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2020 年 3 月 16 日",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "2020年3月16日",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2020年3月",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "製造業向け AI ソリューションの提供",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "製造業向けAIソリューションの提供",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "製造業向けAIサービスの提供",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "138名（2026年2月末日現在）",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "製造業のお客様のあらゆる課題を解決するお手伝いさせていただきます",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "VRAIN Solutionはお客様から頂く製造現場における課題を汎用的に解決できる製品をAIプロダクトとして開発・リリースしています",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様自身でDX内製化を進めていくためのパッケージをコンサルティングサービスとして展開しています",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様におけるDX内製化を目的として人材育成から開発実装支援まで幅広いサービスを展開しています",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ここに謹んでご報告申し上げますとともに、これまで当社を支えていただいたお取引先の皆様、株主の皆様をはじめとするステークホルダーの皆様のご支援の賜物と心より感謝申し上げます",
+    "url": "https://vrain.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「モノづくりのあり方を変え、世界を変えていく」をミッションに掲げ、株主、取引先、従業員等のステークホルダーの信頼に応えるため、社会的貢献やビジネスインパクトを創出するサービスを提供することによる持続的な企業価値向上と透明性の高い健全な経営を実現することを経営の最重要課題と位置づけており、コーポレート・ガバナンスの充実に向けた取組みを推進してまいります",
+    "url": "https://vrain.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、優れたビジネスが持つべき「顧客の真の痛みを理解する」という資質を感じさせるからです",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": ": これは、顧客である製造業の工場に深く入り込み、課題の発見から解決策の立案、導入支援までを伴走型で行うサービスです",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "これは、単なるコンサルティングではなく、顧客との間に強固な信頼関係を築いている証拠です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "まずコンサルティングで顧客の懐に入り、現場の課題を徹底的に洗い出し、信頼を得る",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスは、営業担当者が単なるセールスマンではなく、顧客の現場で課題を解決するコンサルタントとして機能する、極めて強力な営業モデルで知られています",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "顧客はAIが欲しいのではなく、「15人いた検査員をゼロにしたい」といった具体的な経営課題の解決策を求めているのです 15",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア、ソフトウェア、そして導入ノウハウまでを一貫して提供できる同社の「フルスタック」なアプローチは、顧客の予算をより多く獲得し、競合他社よりも深く顧客の業務に根を張る上で、大きな優位性となるでしょう",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングやシステム導入を通じて顧客の工場に入り込むことで、同社は他社がアクセスできない、極めて質の高い現場のデータを収集することができます",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、次の顧客にはさらに精度の高い提案が可能となり、受注の確率が上がる",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "そして、新たな顧客からまた新しいデータを得る…",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "この「より多くの顧客を獲得するほど、より賢くなり、さらに多くの顧客を獲得しやすくなる」というサイクルは、時間が経つにつれて競合他社との差を指数関数的に広げていく、強力な複利効果を持っています",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "顧客集中リスク",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": ": 成長初期の企業として、特定の数社の大口顧客に売上を依存している可能性があります",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "主要顧客の喪失は業績に大きな影響を与えます",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "現場理解が顧客の本質的な課題解決を導き、やりがいにもつながる",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "AIベンチャーの中にはお客様が撮影した画像データを用いるだけのところもありますが、我々は現場の製造ラインを理解した上で、そもそもどうすればより良いデータが取れるのか、どういう仕様にすれば最適な方法になるのかといった上流工程から関わり、実装まで一気通貫で提供できます",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "依頼に対応するだけでなく、お客様と一緒になって良いものを作り上げていくという姿勢は、チームメンバー全員が持っている価値観だと思います",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業のお客様からも需要が高く、最新のアルゴリズムを用いたサービスをスピーディーに提供しています",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "ただしAIコンサルティングの職種で重要なのは、いかにお客様の課題に対して提案の引き出しを増やしていくかということです",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では年功序列ではなく、いかにお客様に価値提供できているかを重視しています",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "平田の場合も、学生時代にAI関連の研究をし、前職で製造業を経験した強みを持っていましたし、それだけでなく入社後の顧客対応や付加価値提供における努力が評価されました",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "依頼された仕事をこなすだけでなく、主体的に案件を進め、お客様の課題に合った提案をできることが大切です",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年2月期は、継続顧客、販売単価が増加、先行投資をこなして、過去最高の売上高、営業利益を達成",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   },
+   {
+    "quote": "・現在の導入実績は、導入期～2ライン展開の顧客が多く、今後複数プロダクト・複数工場への拡大期が到来することが期待され、また製造業11万社に対して同社の取引社数シェアは約0.2%と今後の取引拡大余地は大きい",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】ハノイ放送（Hanoi TV）にて当社のAI画像検査ソリューションが紹介されました",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その内容は人材育成から開発実装支援まで幅広いサービスを展開しています",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス開始時よりご好評いただき、リピート率は90%以上を維持しています",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "VRAIN Solution(ヴレインソリューション)という社名は、",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "提供・データ分析・AIアプリケーション販売・システム開発などあらゆるサービスでご支援いたします",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "生産性向上をご支援するサービスを提供しています",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "AI・デジタル技術を活用した生産工程の自動化や効率化を実現する様々なソリューションを提供しています",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要 | 株式会社 VRAIN Solution",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "VRAIN Solutionはお客様から頂く製造現場における課題を汎用的に解決できる製品をAIプロダクトとして開発・リリースしています",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様自身でDX内製化を進めていくためのパッケージをコンサルティングサービスとして展開しています",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様におけるDX内製化を目的として人材育成から開発実装支援まで幅広いサービスを展開しています",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向け AI ソリューションの提供",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「モノづくりのあり方を変え、世界を変えていく」ことをミッションに掲げ、製造業向けに、ＡＩ技術を活用した生産工程の自動化に向けたソリューションを提供しております",
+    "url": "https://vrain.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けAIソリューションの提供",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「モノづくりのあり方を変え、世界を変えていく」をミッションに掲げ、株主、取引先、従業員等のステークホルダーの信頼に応えるため、社会的貢献やビジネスインパクトを創出するサービスを提供することによる持続的な企業価値向上と透明性の高い健全な経営を実現することを経営の最重要課題と位置づけており、コーポレート・ガバナンスの充実に向けた取組みを推進してまいります",
+    "url": "https://vrain.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/en/ir_en/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://vrain.co.jp/ir/quote/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://vrain.co.jp/ir/quote/",
+    "pass": 1
+   },
+   {
+    "quote": "今回、私たちが分析のレンズを向けるのは、まさにその潮流のど真ん中にいる企業、株式会社ＶＲＡＩＮ Ｓｏｌｕｔｉｏｎ（ブイレイン・ソリューション）です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "ＶＲＡＩＮ Ｓｏｌｕｔｉｏｎの事業は、「製造業ＤＸ事業」という単一のセグメントで報告されていますが、その中身は相互に補完しあう2つのサービスで構成されています 1",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": ": これは、顧客である製造業の工場に深く入り込み、課題の発見から解決策の立案、導入支援までを伴走型で行うサービスです",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "特筆すべきは、このサービスのリピート率が90%以上と極めて高い点です 4",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": ": こちらが同社の主力製品であり、自社開発した「Phoenix」シリーズを中心とするAIアプリケーションの販売です 3",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "工場の生産ラインにおける外観検査（製品の傷や汚れのチェック）や、異音・振動検査などを自動化するソリューションです",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "この2つのサービスの組み合わせが、この会社のビジネスモデルの巧みな点です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングで「課題解決」を行い、AIシステムという「高付加価値製品」を販売する",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "と、前述した**「コンサルティング＋AIシステム」という統合型ソリューション**にあると考えられます 1",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "この実践的な専門知識こそが、机上の空論ではない、現場で本当に役立つソリューションを生み出す土台となっています",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "AI外観検査サービスの比較10選",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、株式会社VRAIN Solution（ヴレインソリューション）にインタビューしました",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社VRAIN Solutionは、製造業に特化したDXソリューションを提供する企業です",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "当社ではAI×製造業という組み合わせで、AIを活用した製造現場のDX化のソリューションを提供しています",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアが製造現場の生のデータに触れることで、より最適なソリューション提供につながる",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "開発したソリューションが活用されている現場を実際に目にすることもありますか？",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にスーパーマーケットで、VRAIN SolutionのAI技術を活かして生産された商品を見かけることもよくあります",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "【メディア掲載】ハノイ放送（Hanoi TV）にて当社のAI画像検査ソリューションが紹介されました",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "外観検査をはじめとしたAIによる自動検査の特徴やメリットをご紹介いたします",
+    "url": "https://vrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の伝統的な製造業界において、このような人物からの紹介は、新規の若い企業が大手企業の重い扉を開けるための「金の鍵」となり得ます",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、転職を検討されている方に向けて、同社で働く魅力をご紹介します",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "関連企業の紹介を追加しました",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "御社ならではという特徴やエピソードについてご紹介いただけますか？",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "採用面接の攻略法〜自己紹介〜",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "○本動画の視聴、本動画で紹介する個別の銘柄の売買等の取引にあたっては、以上の点に十分にご注意ください",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   },
+   {
+    "quote": "【エミン・ユルマズ氏直伝】四季報はココを見ろ！四季報最新号からエミン氏注目の3銘柄を紹介/四季報を使った優良株の選び方/エミン流投資手法を解説",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "伊原 保守（トヨタ自動車 取締役副社長 / アイシン精機 取締役社長 歴任）",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1件あたりの平均販売単価が1,600万円から1,900万円と高額であることも、その提供価値の高さを物語っています 15",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "より保守的な投資家向けの価格",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "平均販売単価に低下の兆候（価格競争のサイン）が見られないか",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年2月期は、継続顧客、販売単価が増加、先行投資をこなして、過去最高の売上高、営業利益を達成",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   },
+   {
+    "quote": "※リスク、手数料等の重要事項は下記をご覧下さい",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2020 年 3 月 16 日",
+    "url": "https://vrain.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月22日",
+    "url": "https://vrain.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月16日",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月22日 08:06",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2020年設立の若い企業であるため長期的なデータはありませんが、足元の数字は目を見張るものがあります",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月期にはAIシステムの売上構成比は76%に達し 15、直近の四半期では実に93%を占めるに至っています 22",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の創業からわずか4年でこれだけの高収益企業を育て上げ、上場に導いた実績が、その能力を何よりも雄弁に物語っています",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2024年２月期 通期決算説明資料, 10月 21, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月22日上場予定 ＶＲＡＩＮ Ｓｏｌｕｔｉｏｎ（135A）の分析 - 戸上税理士・公認会計士事務所, 10月 21, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月20日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月に入社、2022年5月に現職に就任",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月22日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月13日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月13日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月25日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月29日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月01日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年08月08日",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月14日開催 2025年２月期 通期決算説明会",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルと収益源",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "この2つのサービスの組み合わせが、この会社のビジネスモデルの巧みな点です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "その理由は、同社のビジネスモデルが生み出す「データによる好循環（フィードバックループ）」にあります",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "どれだけ素晴らしいビジネスモデルを持っていても、財務が脆弱であれば、嵐が来た時に船は沈んでしまいます",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "長期投資において、ビジネスモデルと同じくらい、あるいはそれ以上に重要なのが、その事業を動かす経営陣の質です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、同社の優れたビジネスモデルと卓越した収益性を既に高く評価しており、その期待が株価に織り込まれているのです",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ＶＲＡＩＮ Ｓｏｌｕｔｉｏｎの事業は、「製造業ＤＸ事業」という単一のセグメントで報告されていますが、その中身は相互に補完しあう2つのサービスで構成されています 1",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "マージン推移とセグメント収益性",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "この利益率向上の最大の要因は、売上構成比の変化です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月期にはAIシステムの売上構成比は76%に達し 15、直近の四半期では実に93%を占めるに至っています 22",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちが理解できるビジネスか（サークル・オブ・コンピテンス）、長期的な競争優位性（経済的な堀）はあるか、財務は健全か、経営者は信頼できるか",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド/コスト/スイッチングコスト/無形資産/参入障壁",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "そして、その具体的な課題に対する最適な解決策として、自社の高収益なAIシステムを提案するのです 1",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "同社は価格ではなく、提供価値で勝負しており、その証拠に売上総利益率は80%を超える高い水準を維持しています 15",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "これこそが、持続可能な競争優位性の本質です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率は常に80%を超え、ソフトウェアビジネスの旨味を存分に享受しています 15",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は2024年2月期に36.0%に達し、同社が中長期目標として掲げる30〜40%のレンジに既に入っています 7",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "これは、前述した「コンサルティングで信頼を得て、高収益なシステムを売る」という戦略が完璧に機能している証左です",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の創業からわずか4年でこれだけの高収益企業を育て上げ、上場に導いた実績が、その能力を何よりも雄弁に物語っています",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "高い営業利益率が維持できているか",
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "pass": 3
+   },
+   {
+    "quote": "平田の場合も、学生時代にAI関連の研究をし、前職で製造業を経験した強みを持っていましたし、それだけでなく入社後の顧客対応や付加価値提供における努力が評価されました",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR+50％の継続で2028年2月期で売上高65～80億円、営業利益率30～40%という中計を前提にすれば、PERは12～20倍と割高感がなく、利益成長に応じた株価上昇が期待できる",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   },
+   {
+    "quote": "【エンタメの覇者は誰だ？】市場規模20兆円を目指す日本の基幹産業／ソニー・任天堂・バンナム・東宝の死角／世界で勝ち続ける構造的強み／商社と金融が参戦／IPビジネスの限界【INDUSTRY MAP】",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 VRAIN Solution | 製造業に特化したAI技術でDXを実現 — 株式会社 VRAIN Solution | 製造業に特化したAI技術でDXを実現 株式会社 VRAIN Solution https://vrain.co.jp",
+    "url": "https://vrain.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "VRAIN solution とは | 株式会社 VRAIN Solution — VRAIN solution とは | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > about-us",
+    "url": "https://vrain.co.jp/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】新卒_ ビジネス 職 | 株式会社 VRAIN Solution - HRMOS — 【27卒】新卒_ ビジネス 職 | 株式会社 VRAIN Solution - HRMOS HRMOS https://hrmos.co > pages > vrainsolution > jobs",
+    "url": "https://hrmos.co/pages/vrainsolution/jobs/0000097",
+    "pass": 3
+   },
+   {
+    "quote": "【8分で解説】 VRAIN Solution の事業内容と強み - YouTube — 【8分で解説】 VRAIN Solution の事業内容と強み - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=x-nF2Cy27Nk",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社 VRAIN Solution — 決算説明資料 - 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報",
+    "url": "https://vrain.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 VRAIN Solution — IR情報 | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > ...",
+    "url": "https://vrain.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 株式会社 VRAIN Solution — IRカレンダー | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報",
+    "url": "https://vrain.co.jp/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 株式会社 VRAIN Solution — IRライブラリ | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報",
+    "url": "https://vrain.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ | 株式会社 VRAIN Solution — FAQ | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報",
+    "url": "https://vrain.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 VRAIN Solution — 会社概要 | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報",
+    "url": "https://vrain.co.jp/ir/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス | 株式会社 VRAIN Solution — コーポレート・ガバナンス | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報",
+    "url": "https://vrain.co.jp/ir/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 VRAIN Solution の「三現主義」で培う独自の ... — 株式会社 VRAIN Solution の「三現主義」で培う独自の ... MoreJob株式会社 https://morejob.co.jp > ミライのお仕事 by MoreJob",
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "pass": 3
+   },
+   {
+    "quote": "[ VRAIN Solution ] Achieves record-high sales and ... - YouTube — [ VRAIN Solution ] Achieves record-high sales and ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 VRAIN Solution の社員 インタビュー | IT/Web業界の ... — 株式会社 VRAIN Solution の社員 インタビュー | IT/Web業界の ... 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/8646/interview",
+    "pass": 3
+   },
+   {
+    "quote": "【 VRAIN Solution 】AI外観検査×DX支援で現場改善 ソフト ... — 【 VRAIN Solution 】AI外観検査×DX支援で現場改善 ソフト ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=imo9mdlf418",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://vrain.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/en/about-us_en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/en/service_en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/en/ir_en/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vrain.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morejob.co.jp/mirai/vrain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "VRAIN Solution",
+   "results": [
+    "https://vrain.co.jp/en/",
+    "https://finance.yahoo.com/quote/135A.T/",
+    "https://www.wsj.com/market-data/quotes/JP/XTKS/135A",
+    "https://www.preqin.com/data/profile/asset/vrain-solution--inc-/769168",
+    "https://www.facebook.com/vrainsolutionofficial/",
+    "https://www.openwork.jp/a0C2x000008wYRp/pr/",
+    "https://vrain.co.jp/",
+    "https://finance.yahoo.com/quote/135A.T/?fr=sycsrp_catchall",
+    "https://stockanalysis.com/quote/tyo/135A/",
+    "https://finance.yahoo.co.jp/quote/135A.T/profile"
+   ]
+  },
+  {
+   "query": "VRAIN Solution ビジネスモデル",
+   "results": [
+    "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "https://vrain.co.jp/",
+    "https://vrain.co.jp/about-us/",
+    "https://hrmos.co/pages/vrainsolution/jobs/0000097",
+    "https://www.youtube.com/watch?v=x-nF2Cy27Nk",
+    "https://www.crex-data.com/company/135A",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/vrain20250502.pdf",
+    "https://a40.hatenablog.jp/entry/2025/05/11/223159",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260529/20260512524967.pdf",
+    "https://consovation.com/製造業dxの最前線-vrain-solutionのビジネスモデルキャンバス/"
+   ]
+  },
+  {
+   "query": "VRAIN Solution 決算説明資料",
+   "results": [
+    "https://vrain.co.jp/ir/presentations/",
+    "https://vrain.co.jp/ir/",
+    "https://vrain.co.jp/ir/calendar/",
+    "https://vrain.co.jp/ir/library/",
+    "https://vrain.co.jp/ir/faq/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260630584506/",
+    "https://vrain.co.jp/ir/finance/",
+    "https://vrain.co.jp/ir/notice/",
+    "https://edinetdb.jp/company/E39382/ir-docs/"
+   ]
+  },
+  {
+   "query": "VRAIN Solution 事業系統図",
+   "results": [
+    "https://vrain.co.jp/",
+    "https://vrain.co.jp/ir/overview/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260529/20260512524967.pdf",
+    "https://vrain.co.jp/ir/governance/",
+    "https://note.com/open_azalea2045/n/n2cd40351bcd7",
+    "https://www.youtube.com/watch?v=RLvcdt4sxtk",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/vrain20250502.pdf",
+    "https://www.crex-data.com/company/135A",
+    "https://www.openwork.jp/a0C2x000008wYRp/pr/",
+    "https://vrain.co.jp/事業概要_図/"
+   ]
+  },
+  {
+   "query": "VRAIN Solution 社長 インタビュー",
+   "results": [
+    "https://morejob.co.jp/mirai/vrain/",
+    "https://www.youtube.com/watch?v=k6gJHimWDJs",
+    "https://vrain.co.jp/ir/overview/",
+    "https://www.green-japan.com/company/8646/interview",
+    "https://www.youtube.com/watch?v=imo9mdlf418",
+    "https://kitaishihon.com/company/135A/board-of-director",
+    "https://www.youtube.com/@vrainsolution6349",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/vrain20250502.pdf",
+    "https://holistic-r.org/report/135a/",
+    "https://ryousai-kenbo.com/money/ceo/vrain-solution/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部3頁・検索5回）"
+ }
+}

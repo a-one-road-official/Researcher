@@ -1,0 +1,2012 @@
+{
+ "name": "アニメ",
+ "en": "anime",
+ "aliases": [
+  "アニメ産業"
+ ],
+ "context": "17 コンテンツ ②アニメ",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:08:02.242245+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "アニメ市場規模・予測レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアニメ市場規模は 2025 年に 280 億米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際的なストリーミングプラットフォームがアニメ作品の配信ライブラリを拡充し続け、商品エコシステムが確立されたフランチャイズ IP の商業的な展開範囲を広げるなか、市場規模は 2035 年までに 695 億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年、海外アニメ売上高は日本国内市場を 3 回目に上回り、業界全体の売上高 3 兆 8,400 億円（約 251 億米ドル）の 56% を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "政策面では、経済産業省（METI）が、ローカライゼーション、海賊版対策の強化、国際共同制作の枠組みへの協調投資を通じて、アニメの海外市場を 2033 年までに約 6 兆円（約 370 億米ドル）へ拡大するという国家目標を掲げ、業界の戦略的重要性を明確にしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の内閣府は、動画コンテンツに対する海賊版被害について、アニメが外国語需要の大きな割合を占める同分野の被害額を、2022年時点で年間 9,065億円〜1兆4,297億円と推計している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービス形態別アニメ市場規模、2022〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "商品化は世界のアニメ市場における最大の収益セグメントであり、2025年の市場規模は 127億米ドル（シェア 45.4%）に達している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット配信は、2025年の市場規模が 54億米ドル（シェア 19.3%）に達する、サービス形態別で2番目に大きなセグメントである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアクションフィギュア市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本動画協会（AJA）は、日本の国内市場規模を 2024年に 1兆6,705億円（約 109億米ドル）とし、制作側の売上高は前年比 9.1%増の 4,662億円（30.6億米ドル）に達して過去最高を記録したとしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場は、2025年に321億1,000万米ドルと評価され、2026～2036年の年平均成長率（CAGR）10.1%で拡大し、2036年には925億3,000万米ドルに達すると予測されています - 宮崎日日新聞DIGITAL",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場は、2025年に321億1,0･･･",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場は、2025年に321億1,000万米ドルと評価され、2026～2036年の年平均成長率（CAGR）10.1%で拡大し、2036年には925億3,000万米ドルに達すると予測されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は2025年に21億4,000万米ドルと評価され、国内の共同制作とデジタル配信に支えられています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "【人口10万人あたりの公園・遊園地数、島根県が最多で大阪府の4.3倍】遊園地を含む区分の市場データを無料公開（事業所数・市場規模・広告費）",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "四輪車および三輪車市場調査レポート - 世界市場規模、シェア、傾向の見通し、2027-2036年",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "[最新リリース]アニメ市場規模、シェア、成長、需要レポート 2025-2035年",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "1) アニメ市場規模",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場に関する当社の調査レポートによると、市場は2025ー2035年の予測期間中に年間複利成長率（CAGR）6.1%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には、市場規模は805億米ドルに達すると見込まれています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は428億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "4) 日本のアニメ市場規模:",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "成長著しい日本のアニメ市場は、年間複利成長率（CAGR）5.7%と予測されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム別のアニメ市場はストリーミングサービスが主流で、2035年には38%の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアニメ市場のシェアと分析によると、予測期間を通じて同地域市場は世界のアニメ市場で38.7%の圧倒的なシェアを獲得し、主導的な地位を確保すると予想されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアニメ市場規模は、2035年には805億米ドルに達すると予測されており、予測期間中は年間複利成長率（CAGR）6.1%で成長します",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "同調査によると、アニメ市場規模は2024年に約428億米ドルに到達",
+    "url": "https://www.advertimes.com/20251028/article519892/",
+    "pass": 3
+   },
+   {
+    "quote": "日本アニメ市場規模・シェア・成長2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場規模、シェア、動向および予測収益源別・地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場規模、シェア、動向および予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場規模は2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測市場規模（2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場は、デジタルコンテンツの消費拡大、世界的なファンコミュニティの成長、および世界中でアニメ専門のストリーミングプラットフォームが急速に拡大していることを背景に、2020年の15億1000万米ドルから2025年には21億5000万米ドルへと拡大しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC Groupによると、2025年の日本のAI市場規模は79億米ドルと評価された",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場は、2025年の21億5,000万米ドルから、2034年までに7.28％の年平均成長率（CAGR）で4.12億米ドルに拡大し、予測期間中に年間約1.97億米ドルの市場価値の増加が見込まれており、これは10年以内に現在の市場規模がほぼ倍増することに相当する",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までに、日本のアニメ市場はよりバランスの取れた収益構造を特徴とするようになると予想される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ制作市場 初の4千億円突破も ピークアウトの可能性",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（1～12月期決算）におけるアニメ制作業界の市場規模（事業者売上高ベース）は、前年（3698億7400万円）を9.9％上回る4065億8600万円となった",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "前年の伸び率（4.9％）を上回り、市場規模は初めて4千億円を超え、過去最高を更新した",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "制作市場は初の4千億円突破、旺盛なアニメ需要背景",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年市場は5年ぶり減少へ、ピークアウトの兆し",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、現状の業績ペースで推移した場合、2026年のアニメ制作市場は2021年以来5年ぶりに前年を下回る可能性がある",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "専門スタジオ（下請）：平均収入高、2年連続で4億円台",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "同業態としては、アニメバブル崩壊前後の2007年（4億2200万円）以来、17年ぶりに4億円台に回復した前年に続き2年連続で４億円台を維持した",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のアニメ制作市場規模は初となる4000億円を突破し、過去最高を更新した",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、海外市場は、2021年度において1兆3134億円(前年比6.0%増)となっています",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "21年のアニメ産業、市場規模は13％増の2兆7422億円と過去最高 10年で倍増 配信・商品化・海外がいずれも拡大 日本動画協会調査",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "国内と海外を合わせると、市場規模としては2兆7422億円",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "一方、世界全体のアニメ市場規模は、3兆7,587億円（286億ドル）というレポートもあります",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share & Trends Analysis Report By Type (T.V., Movie, Video, Internet Distribution, Merchandising, Music), By Region (North America, Europe), And Segment Forecasts, 2023 - 2030",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場は、世界市場全体の4％ではなかったのですか？",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場が3兆7,587億円であれば、シェアの4％は1,503億円しかありません",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「日本のアニメは世界の60％のシェアである」という説をとると、こちらは2兆2,552億円になります",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "（3兆7,587億円の6掛け）",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場は、予測期間である2025―2037年に大きなシェアを占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035 年の予測期間における年平均成長率（CAGR）は 9.3% となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "現在の市場拡大の軌道を定める構造的要因は 2 つある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "政策面では、経済産業省（METI）が、ローカライゼーション、海賊版対策の強化、国際共同制作の枠組みへの協調投資を通じて、アニメの海外市場を 2033 年までに約 6 兆円（約 370 億米ドル）へ拡大するという国家目標を掲げ、業界の戦略的重要性を明確にしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場は、2025年に321億1,000万米ドルと評価され、2026～2036年の年平均成長率（CAGR）10.1%で拡大し、2036年には925億3,000万米ドルに達すると予測されています - 宮崎日日新聞DIGITAL",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場は、2025年に321億1,000万米ドルと評価され、2026～2036年の年平均成長率（CAGR）10.1%で拡大し、2036年には925億3,000万米ドルに達すると予測されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコの2026～2035年のCAGRは9.2%で、スペイン語吹き替え作品の拡充が視聴機会の拡大に寄与しています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は最も成長が速い地域であり、2026～2035年のCAGRは12.6%です",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "インドの2026～2035年のCAGRは14.2%で、若年視聴者層とモバイル端末での動画配信利用に関連しています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、インターネット配信は最も成長が速い分野であり、動画配信への投資と世界規模の同時配信を背景に、2026～2035年のCAGRは13.1%とされています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "SF・ファンタジーの2026～2035年のCAGRは12.9%で、独創的な着想が従来のアニメ視聴者層を超えて人々を引き付けています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、13～17歳の青少年は最も成長が速い層とされ、ソーシャルメディアを通じた作品との出会いに支えられ、2026～2035年のCAGRは12.5%です",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場に関する当社の調査レポートによると、市場は2025ー2035年の予測期間中に年間複利成長率（CAGR）6.1%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2035",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "成長著しい日本のアニメ市場は、年間複利成長率（CAGR）5.7%と予測されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "そして、同調査の予測期間中には約6.1%のCAGR（年平均成長率）で成長、2035年までに約805億米ドルに達すると予測された",
+    "url": "https://www.advertimes.com/20251028/article519892/",
+    "pass": 3
+   },
+   {
+    "quote": "に達すると予測されており、2026年から2034年にかけて年平均",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場は、デジタルコンテンツの消費拡大、世界的なファンコミュニティの成長、および世界中でアニメ専門のストリーミングプラットフォームが急速に拡大していることを背景に、2020年の15億1000万米ドルから2025年には21億5000万米ドルへと拡大しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には30億5,000万米ドルに達し、2034年までに41億2,000万米ドルに達するという予測は、インターネット配信の普及加速、商品エコシステムの拡大、およびアニメIPの継続的な国際化によって裏付けられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益源および地域別サブセグメントごとのCAGR推移を見ると、世界的なOTTプラットフォームの普及、プレミアムなファンエンゲージメントの高まり、および国際的なストリーミング使用料の増加に牽引され、インターネット配信、ライブエンターテインメント、音楽の各セグメントは、市場全体のCAGR（年平均成長率）7.28％を上回るペースで拡大しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "業績動向では、「増収」が前年比2.9pt増の５３．８％、「減収」は同4.1pt減の17.3％となり、減収割合は3年ぶりに２割を下回った",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "他方、利益を減らした「減益」は前年比5.1pt減の21.9％、「赤字」は同5.7pt減の28.1％となり、赤字と減益を合わせた「業績悪化」の割合は50.0％を占めた",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半のアニメ制作業界は、制作本数の増加による売上規模拡大のフェーズから、収益性を重視した経営やデジタルを活用した制作効率化が進むとみられる",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、海外市場は、2021年度において1兆3134億円(前年比6.0%増)となっています",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "21年のアニメ産業、市場規模は13％増の2兆7422億円と過去最高 10年で倍増 配信・商品化・海外がいずれも拡大 日本動画協会調査",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "12％のCAGR",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "北米のアニメ市場は着実に成長しており、2022年には総収益が94億米ドルに達し、2017―2022年の年平均成長率（CAGR）は5.6％を記録しています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場規模は、2025―2037年の予測期間中に10％のCAGRで拡大し、2037年末までに973億米ドルを超えると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアニメ市場規模は、2025年には424億6000万米ドルと評価され、2026年の465億4000万米ドルから2034年には969億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は9.61%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は世界のアニメ市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）4.8%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Crunchyrollは、グローバルキャンペーン「Ani-May 2025」を開始し、ユニクロ、ホットトピック、バーンズ＆ノーブル、ベストバイ、プラネットハリウッド、ファンコ、HMV、FNACなどの大手小売店との提携を拡大しました",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Crunchyrollは、Anime Expo 2025において、複数の新規アニメライセンス、世界初公開作品、業界との提携を発表し、コンテンツ展開を拡大した",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソニーは、Crunchyrollの有料会員数が2100万人を突破したことを発表し、アニメ制作、グローバル配信、ファンエンゲージメントにおける戦略的提携を拡大した",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場規模は2026年には465億4000万米ドルと評価され、2034年までに969億7000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は9.61%である",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "・市場規模4兆4,491億円、前年比115.8％と引き続きの好景気",
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "pass": 3
+   },
+   {
+    "quote": "・市場規模5,055億円、前年比108.4％と順調に増加を続けている",
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のアニメ産業市場は4兆4,491億円（前年比115.8%）となり、市場規模・増加率が共に過去最高値を更新した",
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "pass": 3
+   },
+   {
+    "quote": "産業市場の拡大は、アニメ産業市場が国内市場1兆9,065億円（前年比114.1%）、海外市場が2兆5,426億円（前年比117.2％）となり、構成は国内42.9%、海外57.1%（2024年 値：国内43.5%、海外56.5%）",
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ業界市場は=5,055億円（前年比108.4%）となり、こちらも市場最高値の更新となった",
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人「日本動画協会」は３０日、２０２５年のアニメ産業市場規模が前年比１５・８％増の４兆４４９１億円（速報値）となり、初めて４兆円を超え、市場規模、増加率ともに過去最高を記録したと発表した",
+    "url": "https://www.yomiuri.co.jp/economy/20261030-GYT1T00170/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場をみると、2023年における動画配信サービス（VOD）など「アニメ配信市場」が前年比51.4％増の2501億円を記録し、単年市場として初めて2000億円を突破し過去最高となった",
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "pass": 3
+   },
+   {
+    "quote": "また、キャラクターなどアニメ商品化市場も前年比4.7％増の7008億円と、過去最高を更新した",
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "pass": 3
+   },
+   {
+    "quote": "業績動向では、「増収」が前年比1.6pt減の45.1％、「減収」は同8.7pt減の26.5％となった",
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "pass": 3
+   },
+   {
+    "quote": "他方、利益を減らした「減益」は前年比5.2pt増の25.5％、「赤字」は同9.5pt増の34.5％となり、赤字と減益を合わせた「業績悪化」の割合は60.0％を占め、2021年以来、3年ぶりに6割台を記録した",
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2025年7月調査時点のアニメ制作業における従業員総数は1万3492人（前年比+1214人・+9.9％）",
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPIC1 アニメ産業市場が前年比115％増、その理由は？ | 日経エンタテインメント！ | 日経クロストレンド",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPIC1 アニメ産業市場が前年比115％増、その理由は？",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月発表の一般社団法人日本動画協会「アニメ産業レポート2025」によると、アニメ産業市場は前年比114.8％増の3兆8407億円に",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "「アニメ産業レポート2025」掲載の配信事業者の総売り上げに対する日本のアニメの貢献額は、24年は前年比24.3％増の約9726億円、日本を除く海外分のみでも、約8908億円に上る（Parrot Analytics算出）",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "フジテレビ～キー局のアニメ事業拡大、2つの鍵とは",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "ピングー、売上高が1年で倍増 誕生から46年のIP「大復活」のなぜ",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "サッポロ黒ラベル、広告投資は前年比2倍 喫食訴求の新CM投下で縦横戦略",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "イオンのネットスーパー拡大策はAIエージェント 120万会員の活性化狙う",
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "pass": 3
+   },
+   {
+    "quote": "国内も1兆9,065億円と前年比14.1%増",
+    "url": "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体の前年比は、国内・海外の合計から計算すると約115.8%（約16%増）です",
+    "url": "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場は2025年に前年比117.2%",
+    "url": "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "pass": 3
+   },
+   {
+    "quote": "国内も前年比114.1%と大きく伸びました",
+    "url": "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "pass": 3
+   },
+   {
+    "quote": "狭義のアニメ業界市場は5,055億円（前年比108.4%）で、こちらも過去最高でした",
+    "url": "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "アニメ市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aniplex Inc.は、2025年に 2.9%を超える市場シェアを占め、首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年、海外アニメ売上高は日本国内市場を 3 回目に上回り、業界全体の売上高 3 兆 8,400 億円（約 251 億米ドル）の 56% を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省（METI）のデータによると、ストリーミングは日本のアニメ海外輸出収入の約50%を占めており、アニメ作品は世界200以上の市場に配信されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の内閣府は、動画コンテンツに対する海賊版被害について、アニメが外国語需要の大きな割合を占める同分野の被害額を、2022年時点で年間 9,065億円〜1兆4,297億円と推計している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省（METI）のデータによると、ストリーミングプラットフォームは現在、日本のアニメ海外輸出収益の約 50% を占めており、200 を超える世界各国の市場で消費者にコンテンツを届けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ関連商品セグメントは 2025 年に 127 億米ドルと評価され、市場全体の収益の 45.4% を占め、予測期間中の年平均成長率（CAGR）は 8.6% と見込まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "商品化は世界のアニメ市場における最大の収益セグメントであり、2025年の市場規模は 127億米ドル（シェア 45.4%）に達している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット配信は、2025年の市場規模が 54億米ドル（シェア 19.3%）に達する、サービス形態別で2番目に大きなセグメントである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省（METI）のデータによると、ストリーミングは日本の海外向けアニメ輸出収益の約 50%を占めており、コンテンツは世界 200以上の市場で配信されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "SF・ファンタジー・異世界ジャンルは、2025年に65億米ドル（シェア23.2%）を生み出し、CAGR 10%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "小売および単回購入は、2025年に130億米ドル（シェア46.4%）となる最大の支払いモデルカテゴリーであり、2035年までのCAGRは7.7%と予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "B2Bライセンスは、2025年に 62億米ドル（シェア 22.1%、年平均成長率（CAGR）8.8%）を生み出した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "提供資料の評価では、上位5社が合計で推定28～35%の収益シェアを占めています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国は地域収益の74.5%を占めており、視聴者基盤とプラットフォームの事業展開が反映されています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料では、別の世界市場総額と併せて北米の地域シェアを32.2%と報告していますが、この比率と冒頭の市場推計との整合性は確認されていません",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は地域収益の38.6%を占め、資料では700社を超えるアニメ制作会社が活動する、主要な制作・知的財産の拠点とされています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "種類別では、商品化事業が2025年に33.0%で最大の収益シェアを占めています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "対象視聴者層別では、18～29歳の若年成人が2025年に35.2%で最大のシェアを占め、デジタル視聴習慣と、関連商品、イベント、関連ゲームへの支出を併せ持っています",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "四輪車および三輪車市場調査レポート - 世界市場規模、シェア、傾向の見通し、2027-2036年",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "[最新リリース]アニメ市場規模、シェア、成長、需要レポート 2025-2035年",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― タイプ別、プラットフォーム別、ジャンル別、人口統計別、及び地域別―世界市場の見通しと予測 2025－2035年",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャンダイジングはアニメ市場の中で最も収益性の高いサブセクターとなっており、2035年までに市場シェアの35%を占めると予想されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム別のアニメ市場はストリーミングサービスが主流で、2035年には38%の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "日本アニメ市場規模・シェア・成長2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場規模、シェア、動向および予測収益源別・地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場規模、シェア、動向および予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益源別では、マーチャンダイジングが30.4％で首位を占め、地域別では関東地方が36.7％のシェアを占めている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、玩具、アパレル、コレクターズアイテム、ブランド商品にまたがる長寿フランチャイズIPに支えられ、マーチャンダイジングが収益源の30.4％を占め、最大の割合となる見込みです",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方は、首都圏に主要なアニメーションスタジオやデジタルインフラが集中していることを背景に、地域別シェアの36.7％を占めています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "商品販売 - シェア30.4%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット流通 - シェア24.7%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方 - シェア36.7%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "関西・近畿地方 - シェア18.6%（2025年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "30.4％を占めるマーチャンダイジングの優位性は",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット配信は24.7％を占め",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方は36.7％を占め",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、世界中のライセンス消費財市場において、確立されたアニメIPの商業的深みが原動力となり、マーチャンダイジングが市場の30.4%を占める見込みです",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "損益面では、「増益」となった企業が45.7％を占め、4年連続で4割以上の制作会社が増益となった",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "他方、利益を減らした「減益」は前年比5.1pt減の21.9％、「赤字」は同5.7pt減の28.1％となり、赤字と減益を合わせた「業績悪化」の割合は50.0％を占めた",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "業績動向では、「増収」は32.3％、「減収」は22.2％となり、「前年並み」（45.5％）が４割以上を占め最も多かった",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "損益面では「増益」が42.9％を占め、過去10年間では2018年（46.3％）に次ぐ高さとなった前年（44.4％）から低下した",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "「赤字」は41.3％を占め、前年（37.0％）から上昇した",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ制作会社のうち、2022年以降（過去5年以内）に取引状況などの調査データがある189社を分析した結果、外注や制作請負、作品提供などで海外企業との取引が判明した企業の割合は41.8％を占めた（2026年7月時点）",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "海外企業の取引先（本社所在地別）では、最も多いのが「米国」で21.2％を占めた",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ制作企業全体の具体的な取引先・内容のうち、「個人（フリー）アニメーター」などへの外注が判明した企業の割合は70.4％を占めた",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場における日本のアニメシェアは4％？ 定義のチェックは必要｜高達俊之（コウダテ）",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場における日本のアニメシェアは4％？ 定義のチェックは必要",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ産業の市場シェアに関しては、ローランド・ベルガーが2015年にはじき出した数字があり、4％程度となっていた",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のアニメは世界の60％のシェアである」という説に対して、Wikipediaから市場を推計したところ、4％程度という数字になった",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場が3兆7,587億円であれば、シェアの4％は1,503億円しかありません",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「日本のアニメは世界の60％のシェアである」という説をとると、こちらは2兆2,552億円になります",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアニメ市場調査、規模、シェア、トレンド、2037年までの予測 - レポートの洞察と将来予測",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ市場は、予測期間である2025―2037年に大きなシェアを占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には世界市場シェアの40％以上を占める日本は、今後数年間そのリードを維持する可能性が高いです",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のアニメ市場は、他のすべての地域の市場の中でも、2037年末までに約 43.2% のシェアを占め、最大の市場になると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "日本はアジア太平洋地域のアニメ市場をリードしており、2020 年には世界のアニメシェアの 40% 以上を占めています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャンダイジングは、2037年に約33％という最大の市場シェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "アクション・アドベンチャーセグメントは、2037年に約39％という最大の市場シェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "アニメ市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ業界で事業を展開する主要企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場の主要企業は、強力な知的財産ポートフォリオ、高品質なコンテンツ制作力、ストリーミング、テレビ、ゲーム、マーチャンダイジングの各プラットフォームにまたがる多様な流通戦略を通じて、競争力を維持している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場の主要企業には、Aniplex Inc.、Toei Animation、Bandai Namco Filmworks、Kadokawa Corp、Toho（TOHO animation）などが含まれ、これらの企業は2025年に合計で9.3%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Netflix、The Walt Disney Company、 Warner Bros. Discovery、Paramount Global、YouTubeなどは、世界のアニメ市場で活動している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、日本のアニメ市場において、Toei Animation Co., Ltd.、 Bandai Namco Filmworks Inc.、TMS Entertainment Co., Ltd.、Nippon Television Network Corporation、KADOKAWA Corporationなどが主要企業です",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー／事例",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業としては、Toei Company, Ltd., Bandai Namco Holdings Inc., Sony Music Entertainment (Japan) Inc., Nippon Television Holdings Inc., IG Port, など",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のプロフィール",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業としては、Toei Company, Ltd., Bandai Namco Holdings Inc., Sony Music Entertainment (Japan) Inc., Nippon Television Holdings Inc., IG Port, など",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "そこで参照元をよくよくチェックしてみると、ディズニーやピクサーなどの超メジャーには触れられてなく、アニメの主要企業として、ぴえろやIG、東映アニメーションなどが紹介されていました",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market Crunchyroll (Sony Pictures Entertainment), Bioworld Merchandising, Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape benchmarking across licensed merch players",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the anime market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Key Companies, Company Product Portfolio, Digital Transformation, Technology Investment, Adoption Rates, Customer Acquisition, Company Market Share, and Market Outlook",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Competitive Landscape: Leading Companies and Strategies",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Share Insights",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nikkei announced the creation of the Nikkei Japan Entertainment Content Stock Index, designed to track the stock prices of 20 Tokyo Stock Exchange-listed companies in entertainment sectors like games and anime, including major players like Sony, Nintendo, and Bandai Namco, surpassing key automakers. (Source:",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 4: Who are the major players in the anime market?",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the anime market are Kyoto Animation Co. Ltd, P.A.Works, Inc., Production I.G., Toei Animation Co. Ltd., ManglobeInc., Pierrot Co. Ltd, Madhouse Inc., Bones Inc., Studio Ghibli, Inc., Sunrise, Inc.",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country Level Analysis, Segment-Level Analysis, DROC, PESTLE Analysis, Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview on Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.",
+    "url": "https://straitsresearch.com/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/anime-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the top players operating in the Anime Market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/anime-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "What Strategic Moves Are Defining Competitive Landscape?",
+    "url": "https://www.futuremarketinsights.com/reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in Anime Market",
+    "url": "https://www.futuremarketinsights.com/reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players include Toei Animation, Bandai Namco, and Sony Group (Aniplex), defined by their massive IP libraries and global distribution networks.",
+    "url": "https://www.futuremarketinsights.com/reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The anime market features a dynamic array of key players, each contributing uniquely to the industry’s vibrant landscape. Among these,",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the anime industry?",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2026 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Competitive Landscape",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players in the Anime Market:",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "pass": 3
+   },
+   {
+    "quote": "10 major players including Toei Animation, Aniplex, Bandai Namco, Crunchyroll, Kadokawa, Netflix, Shueisha, Kodansha, MAPPA, Wit Studio",
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Anime market?",
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Anime market include Kadokawa Corporation, Studio Ghibli, The Walt Disney Company, and AMC Networks Inc. (HIDIVE).",
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/global-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "CHAPTER 9 - Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/global-anime-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2025年下半期に北米、欧州、日本のTier-1スタジオおよび配給会社に所属するコンテンツライセンス担当役員42人と意見交換を行った結果、68%が、新規オリジナル作品におけるSVODプラットフォームとの共同制作・共同資金調達契約を、望ましい取引形態として挙げた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan anime dominated the market with a share of over 43% in 2025, owing to the increasing investment in high-quality animation production, intellectual property development, and global content export strategies within the country.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Kasagi Labo announced an investment of $10 million for anime production. The sci-fi adventure series “Special Kid Factory” will be the first major project under this investment.",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "tools to transition from paper to paperless workflows. Data published by Celsys (Clip Studio Paint) suggests that digital tools are now standard in over 70% of professional studios, driving investment in specialized software suites. This concentration of demand necessitates robust",
+    "url": "https://www.futuremarketinsights.com/reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2024, Sony Group Corporation invested approximately USD 320 million (around JPY 50 billion) in Kadokawa Corporation, increasing its stake to around 10% and becoming the largest shareholder, as part of a strategic capital and business alliance to expand collaboration in content creation and global IP development.",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia's Vision 2030 entertainment-sector investments have created a receptive environment for anime events and licensed merchandise retail. Anime-themed attractions within Riyadh Season drew over 2 million visitors in the 2024 edition, signaling strong consumer appetite. Arabic dubbing remains the critical enabler for broader Anime Market penetration across the MENA corridor",
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "pass": 3
+   },
+   {
+    "quote": "Crunchyroll (January 2026): Invested USD 50 million to increase its worldwide reach and revealed simultaneous releases in 15 new languages.",
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "pass": 3
+   },
+   {
+    "quote": "more than 1.5 billion interested viewers (2030 opportunity, excluding selected territories). The scale supports region-specific pricing, language investment and lower-cost fan acquisition for platforms with deep libraries. Crunchyroll's assessment identifies substantial whitespace in emerging markets.",
+    "url": "https://www.kenresearch.com/industry-reports/global-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sony's Solo Leveling program included subtitles in 16 languages and dubbing in 10 languages, demonstrating the investment required to execute simultaneous global releases while preserving local relevance.",
+    "url": "https://www.kenresearch.com/industry-reports/usa-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Crunchyroll was founded in 1994 and is based in the United States. It maintains one of the largest streaming networks focused on anime films. The organization integrates its streaming services, film production and distribution, publishing services, video game content, merchandising, and fan events, while focusing on massive investments in multilingual dubbing and simultaneous release of content.",
+    "url": "https://www.expertmarketresearch.com/reports/anime-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アニメ市場規模 ・予測レポート、2026〜2035年 — アニメ市場規模 ・予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > anime-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場規模 、シェア、予測分析（2026年～2031年） — アニメ市場規模 、シェア、予測分析（2026年～2031年） Mordor Intelligence https://www.mordorintelligence.com > anime-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場 は、2025年に321億1000万米ドルと評価され — アニメ市場 は、2025年に321億1000万米ドルと評価され 宮崎日日新聞 https://www.the-miyanichi.co.jp > pressrelease > dreamnews",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場 、2035年には約805億米ドルに 収益化の鍵は ... — アニメ市場 、2035年には約805億米ドルに 収益化の鍵は ... AdverTimes.（アドタイ） by 宣伝会議 https://www.advertimes.com > 新着記事 > マーケティング",
+    "url": "https://www.advertimes.com/20251028/article519892/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 アニメ市場規模 、成長、需要2033 - Spherical Insights — 日本 アニメ市場規模 、成長、需要2033 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > japan-anime-market",
+    "url": "https://www.sphericalinsights.com/jp/reports/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本 アニメ市場 規模・ シェア ・成長2034 - IMARC Group — 日本 アニメ市場 規模・ シェア ・成長2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Technology & Media",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "「 アニメ 制作 市場 」動向調査2026 - 帝国データバンク — 「 アニメ 制作 市場 」動向調査2026 - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "pass": 3
+   },
+   {
+    "quote": "世界 市場 における日本の アニメシェア は4％？ 定義のチェック ... — 世界 市場 における日本の アニメシェア は4％？ 定義のチェック ... note https://note.com > エンタメ > アニメ",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "pass": 3
+   },
+   {
+    "quote": "世界の アニメ市場 調査、規模、 シェア 、トレンド、2037年 ... — 世界の アニメ市場 調査、規模、 シェア 、トレンド、2037年 ... Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場 規模、 シェア 、成長率、機会、分析（2034年まで） — アニメ市場 規模、 シェア 、成長率、機会、分析（2034年まで） Straits Research https://straitsresearch.com > report > anime-market",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場 規模、 シェア 、予測分析（2026年～2031年） — アニメ市場 規模、 シェア 、予測分析（2026年～2031年） Mordor Intelligence https://www.mordorintelligence.com > anime-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の アニメ 産業 市場 規模 4兆円を超える 2025 年速報値 ... — 日本の アニメ 産業 市場 規模 4兆円を超える 2025 年速報値 ... 日本橋経済新聞 https://nihombashi.keizai.biz > release",
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年「日本 アニメ 産業 市場 規模」が史上最高値を更新 ... — 2025 年「日本 アニメ 産業 市場 規模」が史上最高値を更新 ... Facebook https://www.facebook.com > gempartners > posts > 2025...",
+    "url": "https://www.facebook.com/gempartners/posts/2025%E5%B9%B4%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1%E7%94%A3%E6%A5%AD%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%80%A4%E3%82%92%E6%9B%B4%E6%96%B0%E5%89%8D%E5%B9%B4%E6%AF%94117%E3%81%A7%E5%9B%BD%E5%86%85%E5%A4%96%E5%B8%82%E5%A0%B4%E3%81%A8%E3%82%82%E3%81%AB%E5%A2%97%E5%8A%A010%E6%9C%8826%E6%97%A5%E3%81%8B%E3%82%89%E9%96%8B%E5%82%AC%E3%81%AE%E7%AC%AC39%E5%9B%9E%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD%E3%81%AE%E4%BD%B5%E8%A8%AD%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88tiffcom%E4%BC%9A/1727235176075605/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の アニメ 産業 市場 規模、初めて4兆円超える… 2025 年 ... — 日本の アニメ 産業 市場 規模、初めて4兆円超える… 2025 年 ... 読売新聞 https://www.yomiuri.co.jp > economy",
+    "url": "https://www.yomiuri.co.jp/economy/20261030-GYT1T00170/",
+    "pass": 3
+   },
+   {
+    "quote": "「 アニメ 制作 市場 」動向調査 2025 - 帝国データバンク — 「 アニメ 制作 市場 」動向調査 2025 - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート",
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ 制作 市場 、 2025 年に過去最高4066億円更新も2026 ... - X — アニメ 制作 市場 、 2025 年に過去最高4066億円更新も2026 ... - X X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2089915396073955367",
+    "pass": 3
+   },
+   {
+    "quote": "アニメ市場 規模、シェア、成長率、機会、分析（2034年まで） — アニメ市場 規模、シェア、成長率、機会、分析（2034年まで） Straits Research https://straitsresearch.com > report > anime-market",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size , Share & Growth | Industry Report, 2033 — Anime Market Size , Share & Growth | Industry Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Companies, Size & Trends 2026-2035 — Anime Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size , Share, Trends, Analysis & Growth, 2034 — Anime Market Size , Share, Trends, Analysis & Growth, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Anime Market Hits Record $25 Billion, Driven ... - Reddit — Japan's Anime Market Hits Record $25 Billion, Driven ... - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/anime/comments/1ojwpnt/japans_anime_market_hits_record_25_billion_driven/",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size to Reach USD 77.2 Billion by 2033, at 9.2 ... — Anime Market Size to Reach USD 77.2 Billion by 2033, at 9.2 ... PR Newswire https://www.prnewswire.com > anime...",
+    "url": "https://www.prnewswire.com/news-releases/anime-market-size-to-reach-usd-77-2-billion-by-2033--at-9-2-cagr-driven-by-streaming-exclusive-content-investment-advanced-animation-technologies-and-global-licensing-expansion-302804733.html",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share & Forecast Analysis (2027-2032) — Anime Market Size, Share & Forecast Analysis (2027-2032) Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share Analysis | Industry Report, 2033 — Anime Market Size, Share Analysis | Industry Report, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/anime-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share & Growth | Industry Report, 2033 — Anime Market Size, Share & Growth | Industry Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share , Trends, Growth | CAGR of 9.5% — Anime Market Size, Share , Trends, Growth | CAGR of 9.5% Market.us https://market.us > anime-market",
+    "url": "https://market.us/report/anime-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share & Trends Analysis, 2032 — Anime Market Size, Share & Trends Analysis, 2032 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share , Trends | Industry Report - 2035 — Anime Market Size, Share , Trends | Industry Report - 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Companies , Size & Trends 2026-2035 — Anime Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Market Size, Share , Trends, Analysis & Growth, 2034 — Anime Market Size, Share , Trends, Analysis & Growth, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "9.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "2026〜2035 年の予測期間における年平均成長率（CAGR）は 9.3% となる見込みである"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "アニメ市場は、2025年に321億1,000万米ドルと評価され、2026～2036年の年平均成長率（CAGR）10.1%で拡大し、2036年には925億3,000万米ドルに達すると予測されています - 宮崎日日新聞DIGITAL"
+   },
+   {
+    "value": "9.2",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "メキシコの2026～2035年のCAGRは9.2%で、スペイン語吹き替え作品の拡充が視聴機会の拡大に寄与しています"
+   },
+   {
+    "value": "12.6",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "アジア太平洋は最も成長が速い地域であり、2026～2035年のCAGRは12.6%です"
+   },
+   {
+    "value": "14.2",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "インドの2026～2035年のCAGRは14.2%で、若年視聴者層とモバイル端末での動画配信利用に関連しています"
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "一方、インターネット配信は最も成長が速い分野であり、動画配信への投資と世界規模の同時配信を背景に、2026～2035年のCAGRは13.1%とされています"
+   },
+   {
+    "value": "12.9",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "SF・ファンタジーの2026～2035年のCAGRは12.9%で、独創的な着想が従来のアニメ視聴者層を超えて人々を引き付けています"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "一方、13～17歳の青少年は最も成長が速い層とされ、ソーシャルメディアを通じた作品との出会いに支えられ、2026～2035年のCAGRは12.5%です"
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "quote": "アニメ市場に関する当社の調査レポートによると、市場は2025ー2035年の予測期間中に年間複利成長率（CAGR）6.1%で成長すると予想されています"
+   },
+   {
+    "value": "5.7",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "quote": "成長著しい日本のアニメ市場は、年間複利成長率（CAGR）5.7%と予測されています"
+   },
+   {
+    "value": "7.28",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "quote": "収益源および地域別サブセグメントごとのCAGR推移を見ると、世界的なOTTプラットフォームの普及、プレミアムなファンエンゲージメントの高まり、および国際的なストリーミング使用料の増加に牽引され、インターネット配信、ライブエンターテインメント、音楽の各セグメントは、市場全体のCAGR（年平均成長率）7.28％を上回るペースで拡大しています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "quote": "北米のアニメ市場は着実に成長しており、2022年には総収益が94億米ドルに達し、2017―2022年の年平均成長率（CAGR）は5.6％を記録しています"
+   },
+   {
+    "value": "9.61",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "quote": "世界のアニメ市場規模は、2025年には424億6000万米ドルと評価され、2026年の465億4000万米ドルから2034年には969億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は9.61%となる見込みです"
+   },
+   {
+    "value": "4.8",
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "quote": "日本は世界のアニメ市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）4.8%で成長すると予想されています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "2.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "Aniplex Inc.は、2025年に 2.9%を超える市場シェアを占め、首位となった"
+   },
+   {
+    "value": "56",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "2024 年、海外アニメ売上高は日本国内市場を 3 回目に上回り、業界全体の売上高 3 兆 8,400 億円（約 251 億米ドル）の 56% を占めた"
+   },
+   {
+    "value": "50",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "経済産業省（METI）のデータによると、ストリーミングは日本のアニメ海外輸出収入の約50%を占めており、アニメ作品は世界200以上の市場に配信されている"
+   },
+   {
+    "value": "45.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "アニメ関連商品セグメントは 2025 年に 127 億米ドルと評価され、市場全体の収益の 45.4% を占め、予測期間中の年平均成長率（CAGR）は 8.6% と見込まれている"
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "アニメ関連商品セグメントは 2025 年に 127 億米ドルと評価され、市場全体の収益の 45.4% を占め、予測期間中の年平均成長率（CAGR）は 8.6% と見込まれている"
+   },
+   {
+    "value": "19.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "インターネット配信は、2025年の市場規模が 54億米ドル（シェア 19.3%）に達する、サービス形態別で2番目に大きなセグメントである"
+   },
+   {
+    "value": "23.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "SF・ファンタジー・異世界ジャンルは、2025年に65億米ドル（シェア23.2%）を生み出し、CAGR 10%で成長すると予測されている"
+   },
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "SF・ファンタジー・異世界ジャンルは、2025年に65億米ドル（シェア23.2%）を生み出し、CAGR 10%で成長すると予測されている"
+   },
+   {
+    "value": "46.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "小売および単回購入は、2025年に130億米ドル（シェア46.4%）となる最大の支払いモデルカテゴリーであり、2035年までのCAGRは7.7%と予測されている"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "小売および単回購入は、2025年に130億米ドル（シェア46.4%）となる最大の支払いモデルカテゴリーであり、2035年までのCAGRは7.7%と予測されている"
+   },
+   {
+    "value": "22.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "B2Bライセンスは、2025年に 62億米ドル（シェア 22.1%、年平均成長率（CAGR）8.8%）を生み出した"
+   },
+   {
+    "value": "8.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "quote": "B2Bライセンスは、2025年に 62億米ドル（シェア 22.1%、年平均成長率（CAGR）8.8%）を生み出した"
+   },
+   {
+    "value": "35",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "提供資料の評価では、上位5社が合計で推定28～35%の収益シェアを占めています"
+   },
+   {
+    "value": "74.5",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "米国は地域収益の74.5%を占めており、視聴者基盤とプラットフォームの事業展開が反映されています"
+   },
+   {
+    "value": "32.2",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "資料では、別の世界市場総額と併せて北米の地域シェアを32.2%と報告していますが、この比率と冒頭の市場推計との整合性は確認されていません"
+   },
+   {
+    "value": "38.6",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "日本は地域収益の38.6%を占め、資料では700社を超えるアニメ制作会社が活動する、主要な制作・知的財産の拠点とされています"
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "種類別では、商品化事業が2025年に33.0%で最大の収益シェアを占めています"
+   },
+   {
+    "value": "35.2",
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "quote": "対象視聴者層別では、18～29歳の若年成人が2025年に35.2%で最大のシェアを占め、デジタル視聴習慣と、関連商品、イベント、関連ゲームへの支出を併せ持っています"
+   },
+   {
+    "value": "35",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "quote": "マーチャンダイジングはアニメ市場の中で最も収益性の高いサブセクターとなっており、2035年までに市場シェアの35%を占めると予想されています"
+   },
+   {
+    "value": "38",
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "quote": "プラットフォーム別のアニメ市場はストリーミングサービスが主流で、2035年には38%の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "30.4",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "quote": "収益源別では、マーチャンダイジングが30.4％で首位を占め、地域別では関東地方が36.7％のシェアを占めている"
+   },
+   {
+    "value": "36.7",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "quote": "収益源別では、マーチャンダイジングが30.4％で首位を占め、地域別では関東地方が36.7％のシェアを占めている"
+   },
+   {
+    "value": "24.7",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "quote": "インターネット流通 - シェア24.7%（2025年）"
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "quote": "関西・近畿地方 - シェア18.6%（2025年）"
+   },
+   {
+    "value": "45.7",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "損益面では、「増益」となった企業が45.7％を占め、4年連続で4割以上の制作会社が増益となった"
+   },
+   {
+    "value": "21.9",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "他方、利益を減らした「減益」は前年比5.1pt減の21.9％、「赤字」は同5.7pt減の28.1％となり、赤字と減益を合わせた「業績悪化」の割合は50.0％を占めた"
+   },
+   {
+    "value": "28.1",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "他方、利益を減らした「減益」は前年比5.1pt減の21.9％、「赤字」は同5.7pt減の28.1％となり、赤字と減益を合わせた「業績悪化」の割合は50.0％を占めた"
+   },
+   {
+    "value": "50.0",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "他方、利益を減らした「減益」は前年比5.1pt減の21.9％、「赤字」は同5.7pt減の28.1％となり、赤字と減益を合わせた「業績悪化」の割合は50.0％を占めた"
+   },
+   {
+    "value": "32.3",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "業績動向では、「増収」は32.3％、「減収」は22.2％となり、「前年並み」（45.5％）が４割以上を占め最も多かった"
+   },
+   {
+    "value": "22.2",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "業績動向では、「増収」は32.3％、「減収」は22.2％となり、「前年並み」（45.5％）が４割以上を占め最も多かった"
+   },
+   {
+    "value": "45.5",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "業績動向では、「増収」は32.3％、「減収」は22.2％となり、「前年並み」（45.5％）が４割以上を占め最も多かった"
+   },
+   {
+    "value": "42.9",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "損益面では「増益」が42.9％を占め、過去10年間では2018年（46.3％）に次ぐ高さとなった前年（44.4％）から低下した"
+   },
+   {
+    "value": "46.3",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "損益面では「増益」が42.9％を占め、過去10年間では2018年（46.3％）に次ぐ高さとなった前年（44.4％）から低下した"
+   },
+   {
+    "value": "44.4",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "損益面では「増益」が42.9％を占め、過去10年間では2018年（46.3％）に次ぐ高さとなった前年（44.4％）から低下した"
+   },
+   {
+    "value": "41.3",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "「赤字」は41.3％を占め、前年（37.0％）から上昇した"
+   },
+   {
+    "value": "37.0",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "「赤字」は41.3％を占め、前年（37.0％）から上昇した"
+   },
+   {
+    "value": "41.8",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "アニメ制作会社のうち、2022年以降（過去5年以内）に取引状況などの調査データがある189社を分析した結果、外注や制作請負、作品提供などで海外企業との取引が判明した企業の割合は41.8％を占めた（2026年7月時点）"
+   },
+   {
+    "value": "21.2",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "海外企業の取引先（本社所在地別）では、最も多いのが「米国」で21.2％を占めた"
+   },
+   {
+    "value": "70.4",
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "quote": "アニメ制作企業全体の具体的な取引先・内容のうち、「個人（フリー）アニメーター」などへの外注が判明した企業の割合は70.4％を占めた"
+   },
+   {
+    "value": "4",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "quote": "世界市場における日本のアニメシェアは4％？ 定義のチェックは必要｜高達俊之（コウダテ）"
+   },
+   {
+    "value": "60",
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "quote": "「日本のアニメは世界の60％のシェアである」という説に対して、Wikipediaから市場を推計したところ、4％程度という数字になった"
+   },
+   {
+    "value": "40",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "quote": "2024年には世界市場シェアの40％以上を占める日本は、今後数年間そのリードを維持する可能性が高いです"
+   },
+   {
+    "value": "43.2",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "quote": "アジア太平洋地域のアニメ市場は、他のすべての地域の市場の中でも、2037年末までに約 43.2% のシェアを占め、最大の市場になると予想されています"
+   },
+   {
+    "value": "33",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "quote": "マーチャンダイジングは、2037年に約33％という最大の市場シェアを獲得すると予測されています"
+   },
+   {
+    "value": "39",
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "quote": "アクション・アドベンチャーセグメントは、2037年に約39％という最大の市場シェアを獲得すると予測されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/anime-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/anime-market/590641302",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advertimes.com/20251028/article519892/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/codate/n/n5cedb1f91879",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihombashi.keizai.biz/release/675600/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/economy/20261030-GYT1T00170/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/anime/comments/1ojwpnt/japans_anime_market_hits_record_25_billion_driven/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/anime-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/anime-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/anime/comments/1hyosau/anime_industry_report_shows_overseas_anime_market/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/anime-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/KotakuInAction/comments/1hyxk0t/anime_industry_report_shows_overseas_anime_market/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hollywoodreporter.com/business/business-news/japan-anime-industry-revenue-28-billion-in-2025-1236743413/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/global-anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/usa-anime-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/anime-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アニメ 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/anime-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/anime-market",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1211009.html",
+    "https://www.sdki.jp/reports/anime-market/590641302",
+    "https://www.advertimes.com/20251028/article519892/",
+    "https://www.sphericalinsights.com/jp/reports/japan-anime-market",
+    "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "https://www.gii.co.jp/report/grvi2040735-anime-market-size-share-trends-analysis-report-by.html",
+    "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "https://straitsresearch.com/jp/report/anime-market"
+   ]
+  },
+  {
+   "query": "アニメ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-anime-market",
+    "https://www.tdb.co.jp/report/industry/20260819-animation25y/",
+    "https://note.com/codate/n/n5cedb1f91879",
+    "https://www.researchnester.jp/industry-analysis/anime-market/10",
+    "https://straitsresearch.com/jp/report/anime-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/anime-market",
+    "https://www.crex-data.com/industry/media-it/anime",
+    "https://www.buffett-code.com/industries/93",
+    "https://kashikapedia.com/anime-data/",
+    "https://note.com/sudotadashi/n/n17d989a0cd40"
+   ]
+  },
+  {
+   "query": "アニメ 市場 前年比 2025",
+   "results": [
+    "https://nihombashi.keizai.biz/release/675600/",
+    "https://www.facebook.com/gempartners/posts/2025%E5%B9%B4%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1%E7%94%A3%E6%A5%AD%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%80%A4%E3%82%92%E6%9B%B4%E6%96%B0%E5%89%8D%E5%B9%B4%E6%AF%94117%E3%81%A7%E5%9B%BD%E5%86%85%E5%A4%96%E5%B8%82%E5%A0%B4%E3%81%A8%E3%82%82%E3%81%AB%E5%A2%97%E5%8A%A010%E6%9C%8826%E6%97%A5%E3%81%8B%E3%82%89%E9%96%8B%E5%82%AC%E3%81%AE%E7%AC%AC39%E5%9B%9E%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD%E3%81%AE%E4%BD%B5%E8%A8%AD%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88tiffcom%E4%BC%9A/1727235176075605/",
+    "https://www.yomiuri.co.jp/economy/20261030-GYT1T00170/",
+    "https://www.tdb.co.jp/report/industry/20250813-anime24y/",
+    "https://x.com/i/trending/2089915396073955367",
+    "https://straitsresearch.com/jp/report/anime-market",
+    "https://xtrend.nikkei.com/atcl/contents/18/01320/00004/",
+    "https://go-hoikushi.com/anime-market-2025-4-trillion-yen/",
+    "https://x.com/i/trending/2116099145014399114",
+    "https://www.gem-standard.com/columns/1967"
+   ]
+  },
+  {
+   "query": "anime market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "https://www.precedenceresearch.com/anime-market",
+    "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "https://straitsresearch.com/report/anime-market",
+    "https://www.reddit.com/r/anime/comments/1ojwpnt/japans_anime_market_hits_record_25_billion_driven/",
+    "https://www.prnewswire.com/news-releases/anime-market-size-to-reach-usd-77-2-billion-by-2033--at-9-2-cagr-driven-by-streaming-exclusive-content-investment-advanced-animation-technologies-and-global-licensing-expansion-302804733.html",
+    "https://www.mordorintelligence.com/industry-reports/anime-market",
+    "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "https://www.facebook.com/dailytimesofbangladesh/posts/japans-anime-industry-reached-a-record-market-value-of-445-trillion-in-2025-mark/122224760444782001/",
+    "https://finance.yahoo.com/media-advertising/articles/anime-market-size-reach-usd-181500362.html?fr=sycsrp_catchall"
+   ]
+  },
+  {
+   "query": "anime market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/anime-market",
+    "https://www.persistencemarketresearch.com/market-research/anime-market.asp",
+    "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "https://www.reddit.com/r/anime/comments/1hyosau/anime_industry_report_shows_overseas_anime_market/",
+    "https://www.futuremarketinsights.com/reports/anime-market",
+    "https://market.us/report/anime-market/",
+    "https://www.skyquestt.com/report/anime-market",
+    "https://straitsresearch.com/report/anime-market",
+    "https://www.precedenceresearch.com/anime-market",
+    "https://www.gminsights.com/industry-analysis/anime-market"
+   ]
+  },
+  {
+   "query": "anime market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.psmarketresearch.com/market-analysis/anime-market-report",
+    "https://www.persistencemarketresearch.com/market-research/anime-market.asp",
+    "https://www.precedenceresearch.com/anime-market",
+    "https://straitsresearch.com/report/anime-market",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-anime-cartoon-character-ujgae",
+    "https://www.mordorintelligence.com/industry-reports/anime-market",
+    "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "https://www.reddit.com/r/KotakuInAction/comments/1hyxk0t/anime_industry_report_shows_overseas_anime_market/",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "anime market key companies share 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/anime-market-11981",
+    "https://www.mordorintelligence.com/industry-reports/anime-market",
+    "https://www.precedenceresearch.com/anime-market",
+    "https://www.grandviewresearch.com/industry-analysis/anime-market",
+    "https://www.reddit.com/r/anime/comments/1ojwpnt/japans_anime_market_hits_record_25_billion_driven/",
+    "https://www.marketdataforecast.com/market-reports/anime-market-report",
+    "https://www.facebook.com/dailytimesofbangladesh/posts/japans-anime-industry-reached-a-record-market-value-of-445-trillion-in-2025-mark/122224760444782001/",
+    "https://straitsresearch.com/report/anime-market",
+    "https://www.hollywoodreporter.com/business/business-news/japan-anime-industry-revenue-28-billion-in-2025-1236743413/",
+    "https://www.emergenresearch.com/industry-report/anime-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

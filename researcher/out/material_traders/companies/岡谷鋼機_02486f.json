@@ -1,0 +1,1385 @@
+{
+ "name": "岡谷鋼機",
+ "aliases": [
+  "Okaya"
+ ],
+ "context": "鉄鋼・非鉄・機械の商社（上場）",
+ "researched_at": "2026-11-02T17:02:26.527389+00:00",
+ "official_url": "https://www.okaya.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "1兆円以上",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：1兆1,557億円　単体：5,916億円 (2026年2月期)",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "960,809 962,016 1,111,934 1,121,764 1,155,774",
+    "url": "https://www.okaya.co.jp/ir/financial/pl/index.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1669年(寛文9年) (金山祭(通称ふいご祭)が行われる11月8日を当社創立記念日としています。)",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1937年(昭和12年)",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：6,536名　単体：773名 (2026年2月末)",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "金属取扱業を規制する条例",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高い技術力を有するグループ会社と連携し最先端商品を提供",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "：環境貢献製品、エンジニアリングプラスチックス",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境製品の取扱拡大・カーボンニュートラルの取組",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、特殊鋼、非鉄金属、電機・電子部品、化成品、機械・工具、配管住設機器、建設関連、食品などの国内販売・輸出入(三国間取引含む)",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属取扱業を規制する条例（金属くず条例）に基づく表示",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境保全に効果的な商品・技術・サービス・情報の提供および生産活動を積極的に推進する",
+    "url": "https://www.okaya.co.jp/csr/environment/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、次世代自動車および再生可能エネルギーの導入を拡大するとともに、環境配慮型商品、電動車や再生可能エネルギー向け設備・部品・素材等の取扱いを拡大してまいります",
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "浄化槽法、建設工事に係る資材の再資源化等に関する法律、自動車NOx・PM法(自動車から排出される窒素酸化物および粒子状物質の特定地域における総量の削減等に関する特別措置法)、フロン回収・破壊法(特定製品に係るフロン類の回収および破壊の実施の確保等に関する法律)、土壌汚染対策法、石綿障害予防規則、下水道法、ビル用水法",
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（エレクトロニクス、非鉄金属）",
+    "url": "https://www.okaya.co.jp/storage/reports/8euUNiuKxMqq5aeM9g4BoY7bKMFrpv0EtsPZsA8s.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非鉄金属は自動車関連及び環境配慮型材料が増加",
+    "url": "https://www.okaya.co.jp/storage/reports/8euUNiuKxMqq5aeM9g4BoY7bKMFrpv0EtsPZsA8s.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中 部 合 成 樹 脂 工 業 ㈱ 100 100.00 プ ラスチック製品製造業",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域密着型の基幹倉庫として、商品の充",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非鉄金属部門は、材料価格の上昇に加え、自動車関連及び環境配慮型材料",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業集団は商社である当社を中心として、鉄鋼、情報・電機、産業資材、生活産業の多様な商品",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当企業集団の事業のセグメント別の取扱商品又はサービスの内容は、次のとおりであります",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業のセグメント別 取扱商品又はサービスの内容",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "鉄 鋼 鉄屑、棒鋼、鋼矢板、Ｈ型鋼、鋼板、鋼管、機械構造用炭素鋼 、合金鋼、軸受鋼、工具鋼、ステンレス鋼 他",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情 報 ・ 電 機 銅・アルミ、レアアース、電子部材、汎用電機品、映像機器、半導体・周辺電子部品、ソフトウェア開発・販売 他",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）1. 当社と会計監査人との間の監査契約において 、会社法に基づく監査と、金融商品取引法に基づく監査の監査報",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の監査（会社法又は金融商品取引法",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、金融商品取引法に基づく財務報告に係る内部統制について",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する体制、報告をしたことを理由として不利な取扱いを受けないことを確保するための体制",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社および子会社は、これらの報告を行った者が不利益な取扱いを受けないよう確保す",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品又は製品の販売は、顧客に商品又は製品を引き渡した時点で収益を認識しております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売は、出荷時から当該商品又は製品の支配が顧客に移転される時までの期間が通常の期間であ",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会計基準第20-３項ただし書きに定める経過的な取扱い及び「 税効果会計に係る会計基準の適用指",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第65-２項(2)ただし書きに定める経過的な取扱いに従っております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結計算書類における取扱いの見直しに関連する改正については 、令和４年改正適用指針を当連結",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（金融商品に関する注記）",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1． 金融商品の状況に関する事項",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2． 金融商品の時価等に関する事項",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該金融商品の連結貸借対照表計上額は以下のとおりであります",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3． 金融商品の時価のレベルごとの内訳等に関する事項",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品の時価を、時価の算定に係るインプットの観察可能性及び重要性に応じて、以下の３つの",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）時価で連結貸借対照表に計上している金融商品",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）時価で連結貸借対照表に計上している金融商品以外の金融商品",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の販売は、顧客に商品を引き渡した時点で収益を認識しております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "近年では、2023年に光洋マテリカ株式会社を子会社化するなど、M&Aも積極的に活用し、非鉄金属や半導体関連分野を強化しています",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "鉄屑、棒鋼、H形鋼、鋼板といった一般的な鉄鋼製品から、特殊鋼、ステンレス鋼まで幅広く取り扱います",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "銅、アルミ、レアアースといった非鉄金属から、電子部品、半導体、映像機器まで、ハイテク産業に不可欠な商材を供給しています",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": ": 特定のメーカー系列に属さない独立系商社であるため、国内外から最適な商品を調達し、顧客に提供できる自由度があります",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": ": 鉄鋼や非鉄金属といったコモディティ商品を多く扱うため、その価格変動リスクは避けられません",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "これは、非鉄金属部門における材料価格の上昇や、メカトロ部門での自動車・航空機関連の回復、さらには円安効果などが利益を押し上げていると推測されます",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "ものつくりの分野において、高い専門性を有すると同時に、鉄鋼、特殊鋼、非鉄金属、化成品、機械・工具、電機・電子部品、配管住設機器、建設関連、食品など、ものつくりを広く複合的に扱う独創的な商社として存在感を高めています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大手鉄鋼メーカーの一次指定商社として、鉄鋼製品・原料を国内外に販売するだけでなく、国内外に数多くの加工拠点を有し、ものつくり、土木・建築分野などにおいてグローバルな展開でさまざまなニーズに応えています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "機械構造用鋼、ステンレス鋼、磨棒鋼、軸受鋼、高合金鋼など、日本の産業に不可欠な高品質・高付加価値な特殊鋼を幅広く扱っています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属本部",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属本部では銅・亜鉛・アルミ・ニッケル等、鉄以外のさまざまな金属を扱っています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国から調達するだけでなく、高品質の日本製材料や製品を国内外へ供給する事により、世界各国におけるものつくりに貢献しています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス本部では社会インフラ、自動車、産業機器、OA、家電等の分野で使用される半導体、電機・電子部品、表示機器、システム製品などのハードウェアからソフトウェア開発を含めた総合的なビジネスをグローバルに展開しています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用樹脂から高機能樹脂(エンジニアリングプラスチック)に至るさまざまな樹脂原料や製品、成形品を取り扱っています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・航空機分野においては、生産設備、工具・周辺機器、検査測定機、搭載品、ソフトシステムまで幅広い商品群の実績を持ち、ロボットを中心とした自動化・省人化設備の提案まで、国内外のネットワークを活かした展開をしています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界を取り巻く環境変化に対し、自動化・省人化関連の提案やハイブリッド・電動車関連の製品など新技術、新分野の取り扱いにも注力しています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "LIVING RELATED PRODUCTS",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "味や質など、お客様からの厳しい注文を現地工場と協力して解決し、キメ細かく対応することで、付加価値の高い商品を供給しています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "戸建て・マンション・工場等に必要なあらゆる配管資材、設備機器、省エネ環境商品等を扱っています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "多様化するユーザーニーズに対応するため、環境に配慮した商品も豊富に取り揃えています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "主要事業はものづくりに欠かせない鉄鋼製品や原料、高品質な特殊鋼を扱う「鉄鋼」、非鉄金属や半導体などのエレクトロニクス商材などを扱う「情報・電機」、工作機械などのメカトロ製品と化成品の樹脂材料を中心に扱う「産業資材」、住宅関連から食品まで生活に密着した商材を扱う「生活産業」の4つのセグメントに分かれています",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、オイルやガス向けの鉄鋼製品の販売から事業をスタートしたヒューストンでは、樹脂材料の取り扱いも開始しました",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "鉄鋼、特殊鋼の加工、販売をグローバルに展開",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "：海外の加工・物流機能強化",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "属メッキ加工業",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東 海 プ レ ス 工 業 ㈱ 210 100.00 金 属プレス加工・金型製造業",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KOYO Marketing and Processing Asia Co., Ltd.、光洋加工流通(香港)有限公司ほか６社",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KOYO Marketing and Processing Asia Co., Ltd.、光洋加工流通(香港)有限公司ほか６社の非連",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商材を販売するだけにとどまらず、物流や加工、システム構築を含むビジネススキームを戦略的な視点にたって構築",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大手鉄鋼メーカーの一次指定商社として、鉄鋼製品・原料を国内外に販売するだけでなく、国内外に数多くの加工拠点を有し、ものつくり、土木・建築分野などにおいてグローバルな展開でさまざまなニーズに応えています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "海外現地法人や製造・加工会社と連携し、きめ細やかなサービスを提案できる体制を構築しています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス加工や金属加工、自動車・バイク部品製造、樹脂着色などを行う製造加工拠点を設けるなどして、世界市場における競争力強化に取り組んできました",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント事業戦略(重要取組テーマ)",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/system/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/system/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/system/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/system/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/ir_news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/ir_news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/ir_news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/ir/ir_news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/bs/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/bs/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/bs/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活産業セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/bs/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/pl/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報・電機セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/pl/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業資材セグメント",
+    "url": "https://www.okaya.co.jp/ir/financial/pl/index.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "デジタル技術を活用したビジネスモデル(DX)によって商社機能を柔軟に進化させ、顧客に新たな価値を提供します",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル技術を活用した新たなビジネスモデル(DX)の構築",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要とビジネスモデル: 伝統と革新を両輪とする複合型専門商社",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "4つのセグメントが織りなす収益構造",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度を最終年度とする中期経営計画「GIC 2025」では、連結売上高1兆円以上、純利益200億円以上という高い目標を掲げ、グローバル展開の深化（Global）、デジタル技術を活用したビジネスモデルの革新（Innovation）、そして社員一人ひとりの主体的な挑戦（Challenge）を推進しています",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みと競争優位の源泉は、その歴史と独自のビジネスモデルの中に深く根差しています",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "さらに専門性を高め、新たなビジネスモデルを構築し、機能ある商社としてその役割を果たしていきます",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル(DX)によって",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "デジタル技術を活用したビジネスモデル(DX)によって商社機能を柔軟に進化させ、顧客に新たな価値を提供します",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品又は製品の販売は、顧客に商品又は製品を引き渡した時点で収益を認識しております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売は、出荷時から当該商品又は製品の支配が顧客に移転される時までの期間が通常の期間であ",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "められた貿易条件に基づきリスク負担が顧客に移転した時点で収益を認識しております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客への財又はサービスの提供における当社及び連結子会社の役割が代理人に該当する取",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引については、顧客から受け取る額から仕入先に支払う額を控除した純額で収益を認識しており",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、一般債権については貸倒実績率により、貸倒懸念債権については、取引先の財政状態に加",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "将来、取引先の財務状況等が悪化し支払能力",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形及び売掛金、電子記録債権に係る顧客の信用リスクは、信用管理規程に沿ってリスク低減",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、投資有価証券は主として重要な取引先等の株式であり、上場株式につい",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "為替予約の時価は、取引先金融機関から提示された価格等に基づき算定しており、レベル２の時",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1． 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2． 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3． 顧客との契約に基づく履行義務の充足と当該契約から生じるキャッシュ・フローとの関係並びに当",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結会計年度末において存在する顧客との契約から翌連結会計年度以降に認識すると見込まれる収",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権（期首残高）",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権（期末残高）",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、顧客からの前受金に関連するものであり、流動負債の「その他」に含めて表示して",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、顧客との契約から生じる対価の中に、取引価格に含まれていない重要な金額はありません",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該履",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品の販売は、顧客に商品を引き渡した時点で収益を認識しております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ら当該商品の支配が顧客に移転される時までの期間が通常の期間である場合には、出荷時に収益",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リスク負担が顧客に移転した時点で収益を認識しております",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客は建設、土木、自動車、産業機械など多岐にわたります",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "強固な顧客基盤と信用力",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": ": 350年以上の歴史で築き上げた顧客との信頼関係は、最大の無形資産です",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": ": 特定のメーカー系列に属さない独立系商社であるため、国内外から最適な商品を調達し、顧客に提供できる自由度があります",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "特定業界・顧客への依存",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "現地・現物・現人を徹底し、顧客に寄り添いながら、より柔軟にものつくりを支え続ける岡谷鋼機",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客対応本部として自動車生産に関わる商材を主に取り扱っています",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に新たな価値を提供します",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "岡谷鋼機グループは、創業以来「地域社会との共生」を重要な経営課題と位置づけ、事業活動を推進してまいりました",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 岡谷鋼機株式会社",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "初代岡谷總助宗治が、名古屋の鉄砲町(現：本社所在地)にて金物商「笹屋」を創業",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業350周年",
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社及び連結子会社の残存履行義務に配分した取引価格については、当初に予想される契約期間",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業から350年超、時代の変化と共に歩んだ沿革",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "岡谷鋼機の歴史は、江戸時代の寛文9年（1669年）に、初代岡谷總助宗治が名古屋で金物商「笹屋」を創業したことに始まります",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "HISTORY",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "創業初期は、鉄鋼事業を主軸としていましたが、時代のニーズに応える形で事業を多角化",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "1669年に名古屋で金物商として創業した、鉄鋼を主に扱う産業材商社の",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカでの沿革や事業内容を教えてください",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は、米国から鉄のスクラップを日本へ輸出するための連絡業務が事務所の主な役割でした",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   },
+   {
+    "quote": "この姿勢は、金物商だった創業当時も「棚の最前列には常に新しいものを並べる」ということを徹底していたほど、ずっと変わっていません",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "取 締 役 第87期定時株主総会（令和 ５ 年 ５ 月25日） 年額600百万円以内（うち社外取締役は年額10百万円以内） 17名（うち社外取締役１名）",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監 査 役 第71期定時株主総会（平成19年 ５ 月2 4日） 年額80百万円以内 ３名",
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROE (自己資本利益率)",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "🆓メンバーシップは月額2,980円で有料記事が全て読み放題",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "月額2,980円でご利用いただけます",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "強みと弱みの考察",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みと競争優位の源泉は、その歴史と独自のビジネスモデルの中に深く根差しています",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "これは「グローバル最適調達パートナー」という企業理念を体現する上で大きな強みとなります",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "長年の歴史で培った信用力と独立系ならではの柔軟性が強みである一方、特定業界への依存や市況変動リスクといった課題も抱えています",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境と競合ポジショニング: 変革期のグローバル市場で輝く独立系の強み",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "また、独立系商社であることから、特定の企業に縛られることなく、世界中の商材から最適なものを自由に提案できるのも強みのひとつです",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PBR0.5倍割れの「眠れる獅子」 岡谷鋼機 ：資本効率改善で ... — PBR0.5倍割れの「眠れる獅子」 岡谷鋼機 ：資本効率改善で ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "pass": 3
+   },
+   {
+    "quote": "OKAYA & CO.,LTD. - 岡谷鋼機株式会社 — OKAYA & CO.,LTD. - 岡谷鋼機株式会社 岡谷鋼機株式会社 https://www.recruit.okaya.co.jp > graduate > about",
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 | 岡谷鋼機 株式会社 — 中期経営計画 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > company > plan",
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "岡谷鋼機 の27年2月期、純利益5％増に上方修正 自動車向け堅調 — 岡谷鋼機 の27年2月期、純利益5％増に上方修正 自動車向け堅調 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOFD302C90Q6A930C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "岡谷鋼機 の「企業分析［強み・弱み・展望］」 OpenWork — 岡谷鋼機 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > 岡谷鋼機",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrXp&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "令和9年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 — 令和9年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 岡谷鋼機株式会社 https://www.okaya.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.okaya.co.jp/ir/library/financial_statements/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 岡谷鋼機 株式会社 — IR情報 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > ...",
+    "url": "https://www.okaya.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年2月期の報告書・中間報告書 | 岡谷鋼機 株式会社 — 令和6年2月期の報告書・中間報告書 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > ... > 報告書・中間報告書",
+    "url": "https://www.okaya.co.jp/ir/library/report/r6/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和4年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 — 令和4年2月期の決算短信・ 決算説明資料 - 岡谷鋼機 岡谷鋼機株式会社 https://www.okaya.co.jp > ... > 決算短信・決算説明資料",
+    "url": "https://www.okaya.co.jp/ir/library/financial_statements/r4/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "岡谷鋼機 [7485]：令和8年2月期 決算説明資料 2026年3月31日 ... — 岡谷鋼機 [7485]：令和8年2月期 決算説明資料 2026年3月31日 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260330592207/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 挨拶 | 岡谷鋼機 株式会社 — 社長 挨拶 | 岡谷鋼機 株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > company > president",
+    "url": "https://www.okaya.co.jp/company/president/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【アメリカで活躍する日本企業 インタビュー 】米国 岡谷鋼機 ... — 【アメリカで活躍する日本企業 インタビュー 】米国 岡谷鋼機 ... ニューヨーク便利帳 https://ny-benricho.com > interview > interview-okaya",
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "pass": 3
+   },
+   {
+    "quote": "ココが聞きたい 岡谷鋼機社長 岡谷健広（おかや・たけひろ ... — ココが聞きたい 岡谷鋼機社長 岡谷健広（おかや・たけひろ ... chukei-news.co.jp https://www.chukei-news.co.jp > news > 2025/09/02",
+    "url": "https://www.chukei-news.co.jp/news/2025/09/02/OK0002509020101_03/",
+    "pass": 3
+   },
+   {
+    "quote": "地域発展へ 海外事業を充実 岡谷鋼機 岡谷健広 社長インタビュー — 地域発展へ 海外事業を充実 岡谷鋼機 岡谷健広 社長インタビュー 中日BIZナビ https://biz.chunichi.co.jp > news > article",
+    "url": "https://biz.chunichi.co.jp/news/article/10/15435/272/",
+    "pass": 3
+   },
+   {
+    "quote": "岡谷鋼機社長 ・岡谷健広氏 鉄鋼など4分野バランス — 岡谷鋼機社長 ・岡谷健広氏 鉄鋼など4分野バランス 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/723482",
+    "pass": 3
+   },
+   {
+    "quote": "Financial highlights | OKAYA & CO., LTD. — Financial highlights | OKAYA & CO., LTD. 岡谷鋼機株式会社 https://www.okaya.co.jp > ...",
+    "url": "https://www.okaya.co.jp/en/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "FY2022 — FY2022 岡谷鋼機株式会社 PDF https://www.okaya.co.jp > documents",
+    "url": "https://www.okaya.co.jp/ch/ir/documents/FY2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[Okaya & Co., Ltd. 7485.T] Financial Results Briefing Materials ... — [Okaya & Co., Ltd. 7485.T] Financial Results Briefing Materials ... finance.biggo.com https://finance.biggo.com > news > jp...",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260330592207",
+    "pass": 3
+   },
+   {
+    "quote": "重点财务数据| 冈谷钢机株式会社 — 重点财务数据| 冈谷钢机株式会社 岡谷鋼機株式会社 https://www.okaya.co.jp > ...",
+    "url": "https://www.okaya.co.jp/ch/ir/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.okaya.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/company/plan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/company/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/company/history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/csr/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/csr/environment/policy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/csr/environment/system/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/csr/environment/activity/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/ir_news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/calendar/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/financial/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/financial/highlights/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/financial/bs/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/financial/pl/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/library/financial_statements/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/library/vsecurity/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/library/report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/library/factbook/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/dividend_info/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/dividend_info/complimentary/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/dividend_info/procedure/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/public_notice/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.okaya.co.jp/company/profile/documents/corporate_summary.pdf?v202604",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.okaya.co.jp/csr/environment/activity/documents/rokugo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.okaya.co.jp/storage/reports/8euUNiuKxMqq5aeM9g4BoY7bKMFrpv0EtsPZsA8s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.okaya.co.jp/ir/dividend_info/info/documents/shoshu_90_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/hr793/n/nc2d7f59d6d52",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recruit.okaya.co.jp/graduate/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ny-benricho.com/business/interview/interview-okaya/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "岡谷鋼機 ビジネスモデル 収益構造",
+   "results": [
+    "https://note.com/hr793/n/nc2d7f59d6d52",
+    "https://www.recruit.okaya.co.jp/graduate/about/",
+    "https://www.okaya.co.jp/company/plan/index.html",
+    "https://www.nikkei.com/article/DGXZQOFD302C90Q6A930C2000000/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrXp&q_no=9",
+    "https://www.okaya.co.jp/ir/financial/highlights/index.html",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2307087485xdk1z.pdf",
+    "https://www.youtube.com/watch?v=fQQZwcGQnkE",
+    "https://j-lic.com/companies/7485/segments",
+    "https://vizora.meequs.com/ja/company/okaya-and"
+   ]
+  },
+  {
+   "query": "岡谷鋼機 決算説明資料 セグメント",
+   "results": [
+    "https://www.okaya.co.jp/ir/library/financial_statements/index.html",
+    "https://www.okaya.co.jp/ir/index.html",
+    "https://www.okaya.co.jp/ir/library/report/r6/index.html",
+    "https://www.okaya.co.jp/ir/library/financial_statements/r4/index.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260330592207/",
+    "https://www.okaya.co.jp/ir/library/index.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260925540583",
+    "https://www.okaya.co.jp/ir/library/financial_statements/r3/index.html",
+    "https://www.okaya.co.jp/",
+    "https://irbank.net/7485/ir"
+   ]
+  },
+  {
+   "query": "岡谷鋼機 社長 インタビュー",
+   "results": [
+    "https://www.okaya.co.jp/company/president/index.html",
+    "https://ny-benricho.com/business/interview/interview-okaya/",
+    "https://www.chukei-news.co.jp/news/2025/09/02/OK0002509020101_03/",
+    "https://biz.chunichi.co.jp/news/article/10/15435/272/",
+    "https://www.nikkan.co.jp/articles/view/723482",
+    "https://www.willseed.co.jp/case/case29.html",
+    "https://www.youtube.com/watch?v=fQQZwcGQnkE",
+    "https://ja.wikipedia.org/wiki/%E5%B2%A1%E8%B0%B7%E5%81%A5%E5%BA%83",
+    "https://kitaishihon.com/company/7485/board-of-director",
+    "https://ja.wikipedia.org/wiki/岡谷健広"
+   ]
+  },
+  {
+   "query": "岡谷鋼機 business model revenue gross margin",
+   "results": [
+    "https://www.okaya.co.jp/en/ir/index.html",
+    "https://www.okaya.co.jp/ch/ir/documents/FY2022.pdf",
+    "https://finance.biggo.com/news/jpx_tdnet_140120260330592207",
+    "https://www.okaya.co.jp/ch/ir/index.html",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://note.com/tender_acacia185/n/n01ae1aea008b?hl=en",
+    "https://www.crestmontcapital.com/blog/profit-margin-benchmarks-by-industry",
+    "https://www.henokiens.com/userfiles/file/Case_study_Okaya.pdf",
+    "https://www.brentwood-growth.com/blog/trades-businesses/are-you-hitting-your-target-margins-a-deep-dive-into-profitability-benchmarks-for-trades-businesses/",
+    "https://www.okaya.co.jp/ir/financial/pl/index.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

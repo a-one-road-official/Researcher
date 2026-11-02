@@ -1,0 +1,2009 @@
+{
+ "name": "無線アクセスネットワーク",
+ "en": "radio access network",
+ "aliases": [
+  "RAN",
+  "5G基地局",
+  "Open RAN"
+ ],
+ "context": "3 情報通信 ③次世代ワイヤレス",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:57:01.363461+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "無線アクセスネットワーク（RAN）市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク（RAN）市場規模、シェア、トレンド分析レポート：通信インフラ別（スモールセル、マクロセル、RAN機器、分散アンテナシステム（DAS））、技術別（2G、3G、4G/LTE、5G）、用途別（住宅用、企業用）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワーク市場規模は、2025年には154億米ドルと評価され、2026年の170億4000万米ドルから2034年には382億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.64%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワーク（RAN）市場は、通信インフラ、技術、およびアプリケーションの3つに分類されます",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術に基づいて、世界の無線アクセスネットワーク（RAN）市場は、2G、3G、4G/LTE、および5Gに二分される",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の無線アクセスネットワーク（RAN）市場は、主に5G技術の急速な普及と展開によって牽引されています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "急速な技術進歩と5Gインフラの広範な展開により、無線アクセスネットワーク（RAN）市場は大幅な成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のRAN市場はアジア太平洋地域において圧倒的な存在感を誇り、5G展開において世界をリードしています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワークの市場規模は、2026年には170億4000万米ドルと評価され、2034年までに382億6000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は10.64%です",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）10.64%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年まで11.3％のCAGRで目覚ましい成長が見込まれています | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年まで11.3％のCAGRで目覚ましい成長�が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワークの市場規模は2018年に177億ドルと評価され、2026年までに447億ドルに達すると予測されており、2019年から2026年にかけて11.3％のCAGRで成長します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワークの市場規模2020",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年まで11.3％のCAGRで目覚ましい成長が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のトランシーバー市場は、2025年に46億米ドルと評価され、2026年の50億米ドルから2035年までに114億米ドルへ拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は約9.5%となる見通しです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "114億ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "JVCKENWOODは、安全・セキュリティ事業における主要な利益成長要因として通信システムを挙げ、2025年度からの 3年間で通信システム売上高 300億円を目標としている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "携帯型デバイスは引き続き最大のデバイスカテゴリーであり、市場規模は2022年の18億1,738万米ドルから2025年には22億7,629万米ドルに拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "デバイスの種類別世界のトランシーバー市場規模、2022〜2035年（10億米ドル単位）のグラフ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウェアラブルデバイスの市場規模は、2022年の12億3,567万米ドルから2025年には16億6,079万米ドルに拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "車載型システムの市場規模は、2022年の5億6,003万米ドルから2025年には6億8,808万米ドルに拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "アナログ技術の市場規模は、2022年の20億8,836万米ドルから2025年には23億9,370万米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術の市場規模は、2022年の15億2,472万米ドルから2025年には22億3,146万米ドルに拡大し、2035年までに77億9,574万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は 2025 年に 16億5,652万米ドルの規模に達し、2035 年には 38億9,787万米ドルに達すると予測され、年平均成長率（CAGR）は約 9.01%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年の市場規模は 17億9,351万米ドルと予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス ネットワーク市場規模、シェア、2032 年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 40.20 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 94.68 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 61.69 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス ネットワーク市場は、2022 年から 2029 年の予測期間に市場の成長が見込まれています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "接続技術に基づいて、無線アクセス ネットワーク市場は 2G、3G、4G/LTE、5G に分類されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の企業向けルーター業界の市場シェアを簡易に試算しますと、1位はファーウェイ、2位はシスコ、3位はHPエンタープライズとなります",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年の企業向けルーター業界の市場規模を1,666億ドルとしております",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社フォーチュンビジネスインサイツによると、2025年の同業界の市場規模は1,666億ドルです",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均4.8%で成長し、規模は2,540億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "1,666億ドル",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "2,540億ドル",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けルーター業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けルーター業界の市場規模の予想成長推移 ©2026 Deallab",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場規模、シェア、トレンドレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球規模の無線アクセスネットワーク市場は、2024年のUSD 14.2億で評価され、2025年から2034年の間に5.2%のCAGRを登録すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模：142億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の市場規模予測：231億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Radio Access Network Market Size, By Technology, 2022 – 2034, (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術に基づいて、市場は2G RAN、3G RAN、4G LTE RANおよび5G RANに分けられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月、米国Cellularは、そのスペクトルライセンスの一部をUSD 1.02億にAT&Tに販売することを合意し、電気通信事業者のライセンススペクトラムの高値と戦略的重要性を強調しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "テレコム企業におけるセルサイトのライセンスのピーク値と意義は、米国のセルラーの10月2024の取引により、USD 1.02百万のAT&Tに対するスペクトラムライセンスの一部を販売しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "周波数帯域に基づいて、無線アクセスネットワーク市場は低帯域(Below 1 GHz)、ミッドバンド(1-6 GHz)、ハイバンド(mmWave、24 GHz以上)に分けられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けネットワーク機器の市場規模、シェア、動向、メーカー 2035年",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界の企業ネットワーク機器市場規模は753億米ドル",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの市場規模",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 市場規模と予測",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "9.1.1.1. 市場規模と予測",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "無線アクセスネットワーク（RAN）市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワーク市場規模は、2025年には154億米ドルと評価され、2026年の170億4000万米ドルから2034年には382億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.64%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワークの市場規模は、2026年には170億4000万米ドルと評価され、2034年までに382億6000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は10.64%です",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）10.64%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用航空機アビオニクス市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "空中射撃管制レーダー市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "戦術データリンク市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "C4ISR市場規模、シェア、成長率、機会、2034年",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年まで11.3％のCAGRで目覚ましい成長が見込まれています | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年まで11.3％のCAGRで目覚ましい成長�が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワークの市場規模は2018年に177億ドルと評価され、2026年までに447億ドルに達すると予測されており、2019年から2026年にかけて11.3％のCAGRで成長します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場は、2026年まで11.3％のCAGRで目覚ましい成長が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のトランシーバー市場は、2025年に46億米ドルと評価され、2026年の50億米ドルから2035年までに114億米ドルへ拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は約9.5%となる見通しです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、世界の売上高は2025年から2035年の間に2倍を超えて増加すると見込まれますが、予測される拡大は一律のハードウェア更新サイクルではありません",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル技術は約13.33%の成長率が予測される一方、アナログ機器は約4.13%にとどまる見通しであり、購買基準が相互運用性、セキュリティ、ライフサイクルサポートへ移行していることを示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harrisの2024年度の通信システム売上高は 54億5,900万米ドルとなり、前年同期比で 8%増加した一方、調整後セグメント営業利益率は 24.7%に達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "携帯型機器の需要要因は、2031年までの予測年平均成長率（CAGR）に約 +1.5%寄与する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン売上高は、2025年の 15億460万米ドルから2035年には 51億6,297万米ドルに増加し、年平均成長率（CAGR）は約13.13%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "オフライン売上高は、2025年の 31億2,056万米ドルから2035年には 62億3,431万米ドルに増加すると予測される一方、年平均成長率（CAGR）は約7.22%と、より緩やかな伸びにとどまる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "この抑制要因により、2032年までの予測CAGRは約-1.2%押し下げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "この抑制要因は、2035年までのCAGRに推定-0.8%の影響を及ぼす",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Bridge Market Research は、無線アクセス ネットワーク市場が 2029 年までに 6,170 万米ドルに達し、2022 年から 2029 年の予測期間に 11.3% の CAGR を示すと分析しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワーク市場市場は、2026年から2033年の予測期間に年平均成長率11.3%で成長すると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内のAI投資やインテリジェントコンピューティング需要の急増を背景に、「政府・企業向け事業」が前年比で約2倍という爆発的な成長を遂げました",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均4.8%で成長し、規模は2,540億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けルーター業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "地球規模の無線アクセスネットワーク市場は、2024年のUSD 14.2億で評価され、2025年から2034年の間に5.2%のCAGRを登録すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025年～2034年）：5.2%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "5Gネットワークの普及拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中に最大7%のCAGRで成長する高帯域セグメントを計画しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、先進投資の支援を受け、中国は5G技術の投資と採用に先立たない国となるインフラを拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025 – 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "5Gネットワークの採用拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "エリックソンは2025年2月、新製品ラインナップの拡大、新エネルギー効率の高いラジオ、アンテナ、およびランコネクトソリューションの導入を発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワークの市場規模は、2024 年に 1 億米ドルで評価され、2034 年までに 23.1 億米ドルに達する見込みで、2034 年までに 5.2% CAGR で成長しました.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけて年平均成長率8.6%で拡大し、2035年末には1,827億米ドルに達する見込みです",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年までの市場成長率",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率8.6%で拡大し、2035年末には1,827億米ドルに達する見込みです",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用通信市場は2025年に217億米ドルと評価され、2026年の228億米ドルから2035年には382億米ドルに拡大し、年平均成長率（CAGR）5.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、無線ノードも年率8%で拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、2025年の市場規模は217.5億米ドルで、2035年には381.7億米ドルに拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "HMS Networksは、今後5年間に設置済みの産業用ネットワークノードが年平均約7.7%増加すると予測しており、エンドポイントの増加がハードウェアとソフトウェアの持続的な需要基盤であり続けることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドでは導入台数が前年比7%増の9,100台となり、そのうち自動車産業が45%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアは最大の提供形態カテゴリーであり、2025年の売上高は119.6億米ドル、2035年には年平均成長率（CAGR）5.88%で209.2億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアは、2025年の59億米ドルから2035年には111.9億米ドルへ拡大すると予測され、CAGRは6.73%と、提供形態別カテゴリーの中で最も高い",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービスは39億米ドルから60.6億米ドルへ、CAGR 4.63%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "仮想化無線アクセスネットワーク市場は、2025年に217億米ドルと推定され、2036年までに1,457億米ドルに達すると予測されており、予測期間（2026年～2036年）において年平均成長率（CAGR）18.9％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルデータ通信量の増加、第5世代移動通信システムの普及、コネクテッドデバイスの利用拡大に伴い、通信事業者はネットワークインフラの高度化を進めています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "高速インターネットへの需要拡大、第5世代移動通信システムの展開、デジタルインフラへの積極的な投資、および主要企業の存在が市場成長を支えています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界市場の約25％を占めるとともに、最も高い成長率を示しています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルデータ通信量の増加、第5世代移動通信システムの普及、デジタルインフラ整備を推進する政府施策、通信分野への投資拡大が市場成長を支えています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス技術別では、「第5世代移動通信システム」が世界的な導入拡大と高速通信需要を背景に最大の市場シェアを占めています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "一方、「第6世代移動通信システム」は、次世代通信技術に関する研究開発の進展により最も高い成長率を示しています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 26.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe open RAN market is expected to register a notable CAGR from 2026 to 2033. In Europe, the Open RAN market is experiencing rapid expansion fueled by the continent's push towards the adoption of 5G and the desire for more flexible network architectures. Governments across Europe are investing in improving their networking infrastructure.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 26.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "無線アクセスネットワーク（RAN）市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク（RAN）市場規模、シェア、トレンド分析レポート：通信インフラ別（スモールセル、マクロセル、RAN機器、分散アンテナシステム（DAS））、技術別（2G、3G、4G/LTE、5G）、用途別（住宅用、企業用）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に35.2%の市場シェアを占め、無線アクセスネットワーク市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "4G/LTEセグメントは、市場シェアが最も高いと推定されています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "GSMAによると、米国では2025年までに5G接続数が2億8000万件に達し、これは国内の全モバイル接続数の約64%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月末までに、中国は115万基を超える5G基地局を設置し、世界全体の70%以上を占めました",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で35.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用航空機アビオニクス市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "空中射撃管制レーダー市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "戦術データリンク市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "トランシーバー市場の規模・シェアレポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "トランシーバー市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフ：世界のトランシーバー市場シェア、技術別、2025年（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "オランダおよびその他の欧州市場は、約 1億2,441万米ドルを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "Motorola Solutionsは2025年に世界市場の売上高の約17.6%を占め、金額では約8億1,403万米ドルに相当した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hytera Communicationsは約12.1%、金額では約5億5,964万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "L3Harris Technologiesは約7.2%、金額では約3億3,301万米ドルを占め、Icom Inc.は約5.1%、金額では約2億3,588万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "上位4社を合わせると42.0%、金額では約19億4,257万米ドルとなり、その他のサプライヤーは58.0%、金額では約26億8,260万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には携帯型セグメントが市場をリードし、49.2%のシェア（約22億6,000万米ドル）を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "オフラインセグメントは、2025年に67.5%の市場シェアを占めた（約31億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス ネットワーク市場規模、シェア、2032 年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の企業向けルーター業界の市場シェアを簡易に試算しますと、1位はファーウェイ、2位はシスコ、3位はHPエンタープライズとなります",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けルーター業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けルーターの世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/router/",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場規模、シェア、トレンドレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "統計によると、2023年、北米での5G接続のシェアは53%で、2030年までに90%前後になると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "4G LTE RAN セグメントでは、54% を超える市場シェアを保有し、2034 年までに 11.8 億米ドルを越えることが期待されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Radio Access Network Market Share, By End User, 2024",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気通信事業者のセグメントでは、2024年に10億米ドルを超える市場会計を占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "従来のRANセグメントは、2024年に43%の市場シェアを保持しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカは、約24%と米国のシェアを持つ世界的な無線アクセスネットワーク市場を占め、2024年に2億米ドル2,92億米ドルの売上高を生成する地域に市場をリードしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアが約47%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米の放射線アクセスネットワーク市場シェアはいくらですか?",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米市場は24%のシェアを占めています.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けネットワーク機器の市場規模、シェア、動向、メーカー 2035年",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "10.1. 市場シェア分析",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "pass": 3
+   },
+   {
+    "quote": "産業用通信市場：市場規模、シェア、動向（2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用通信市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年はCisco Systems, Inc.が市場シェア14.5%超で首位に立った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "であり、2025年には合計で市場シェアの",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "新たに設置された産業ネットワークノードの79%を産業用イーサネットが占め、フィールドバスは14%、無線プロトコルは7%だった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規ノードにおけるイーサネットのシェアが79%に達していることから、新設設備の仕様はネットワーク化されたアーキテクチャを中心にほぼ定まったといえる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国では2024年に産業用ロボットが29万5,000台導入され、世界の導入台数の54%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドでは導入台数が前年比7%増の9,100台となり、そのうち自動車産業が45%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "イーサネットが圧倒的なシェアを占める一方、新たに設置された産業用ネットワークノードの14%は、依然としてフィールドバスが占めていた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規イーサネットノードの設置では、PROFINET、EtherNet/IP、EtherCATがそれぞれ30%、25%、20%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の産業用通信市場シェア（用途別）、2025年（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、世界の仮想化無線アクセスネットワーク市場の約40％を占める最大市場です",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界市場の約25％を占めるとともに、最も高い成長率を示しています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス技術別では、「第5世代移動通信システム」が世界的な導入拡大と高速通信需要を背景に最大の市場シェアを占めています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "By component: Hardware segment held the largest market share of 46.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By unit: Distributed unit segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By deployment: Hybrid cloud segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By network: 5g segment segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By frequency: Sub-6 GHz segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場で活動している主要企業には、Huawei Technologies、Samsung Electronics Co.、Ltd.、Cisco Systems、Inc.、Ericsson、Nokia Corporation、ZTE Corporation、Fujitsu、Qualcomm Incorporated、Intel Corporation、およびNECCorporationが含まれます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の詳細はレポートでご確認いただけます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス ネットワーク市場レポートに関与している主要企業には、SAMSUNG、ソニー株式会社、Huawei Technologies Co., Ltd.、Telefonaktiebolaget LM Ericsson、Nokia、ZTE Corporation、NEC Technologies India Private Limited、Qualcomm Technologies, Inc. およびその関連会社、Intel Corporation、FUJITSU、Juniper Networks, Inc.、Hewlett Packard Enterprise Development LP、Corning Incorporated、Verizon、Airspan Networks、Qorvo Inc.、LG Electronics、HUBER+SUHNER などがあります",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無線アクセスネットワーク市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "レポートには、世界の無線アクセスネットワーク市場の主要企業に関する詳細な分析が含まれています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラジオアクセスネットワーク業界における主要プレイヤーは誰ですか?",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は主要企業層で中程度に集中している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用通信市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用通信市場の主要企業には、Cisco Systems, Inc.、Siemens AG、Rockwell Automation, Inc.、Schneider Electric SE、ABB Ltd.などが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "高速インターネットへの需要拡大、第5世代移動通信システムの展開、デジタルインフラへの積極的な投資、および主要企業の存在が市場成長を支えています",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Assessment",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the open RAN market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the open RAN market include Mavenir, NEC Corporation, Fujitsu Limited, Nokia Corporation, Samsung Electronics Co., Ltd., Radisys Corporation (Reliance Industries), Parallel Wireless, ZTE Corporation, AT&T Inc., and Casa Systems, Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Radio Access Network Market, Key Players are:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Radio Access Network Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Positive Material Identification Market by Offering, Technique, Form Factor, Industry, Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2029",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung Electronics Co., Ltd., Nokia Corporation, Telefonaktiebolaget LM Ericsson, NEC Corporation, Mavenir, Intel Corporation, Cisco Systems, Inc., Qualcomm Technologies, Inc., Parallel Wireless, Other Key Players",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies operating in the 5G radio access network (RAN) include Telefonaktiebolaget LM Ericsson, Qualcomm Technologies, Inc., and Verizon, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company market share, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the 5G radio access network market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the 5G RAN market include Telefonaktiebolaget LM Ericsson, Qualcomm Technologies, Inc., Nokia, Intel Corporation, Samsung, Verizon, Cisco Systems, Inc., Huawei Technologies Co., Ltd., VMware, Inc., and Rakuten Symphony Singapore Pte. Ltd, among others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud/Centralized Radio Access Network (C-RAN) Market Size & Share Analysis - Emerging Trends, Growth Opportunities, Competitive Landscape, and Forecasts (2025 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/c-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/c-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/c-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the 5G Radio Access Network Market include",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the 5G Radio Access Network Market?",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the 5G Radio Access Network Market include Ericsson, Nokia, Huawei, Samsung, ZTE, Cisco, Qualcomm, Intel, and NEC.",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Ericsson, Huawei Technologies, and Nokia Corporation led the competitive landscape",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Cloud Radio Access Network Market include",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Recent developments in the Global Cloud Radio Access Network Market show a dynamic landscape with significant activity among major players. T-Mobile has been expanding its",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "JVCKENWOODは、安全・セキュリティ事業における主要な利益成長要因として通信システムを挙げ、2025年度からの 3年間で通信システム売上高 300億円を目標としている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "JVCKENWOODの3バンド対応P25携帯無線機VP8000は、公共安全分野における携帯性と標準規格に準拠した機能が重視されていることを示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月、DISH Wirelessは、米国商務省のUSD 50,000,000の資金調達助成金を授与され、Open RAN Systemsの展開と統合(ORCID)のオープンランセンターを設立しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "$100 million funding round",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "pass": 3
+   },
+   {
+    "quote": "The demand for C-RAN solutions is particularly strong in regions where mobile operators are aggressively expanding their 5G networks. North America and Asia-Pacific are expected to dominate the market due to the high investments in telecom infrastructure by companies such as Verizon, AT&T, China Mobile, and others.",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, driven by continued investments in 4G network upgrades as carriers prepare for 5G integration.",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "consumption and improve return on investment, both of which can be achieved through centralized processing and virtualized solutions. As a result, the Solution segment is poised for continued dominance, particularly in regions transitioning to next-generation 5G networks.",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the key reasons for the leading position of 4G in the C-RAN market is its widespread infrastructure already in place. Telecom operators have made significant investments in 4G networks, and the integration of C-RAN technology helps maximize the performance of these existing assets.",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In many cases, network operators must balance their C-RAN investments with the existing requirements of 4G networks and the development of 5G infrastructure, allocating funds a complex challenge.",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, China’s “Made in China 2025” initiative and India’s ambitious Digital India program are encouraging investments in telecom infrastructure, further driving the demand for C-RAN solutions. As a result, Asia-Pacific is expected to continue dominating the market in the coming years, accounting for a substantial share of the global revenue.",
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the global market with the largest revenue share of 41.9% in 2025. The growth is attributed to the presence of several manufacturers, such as Huawei Technologies Co., Ltd. and Samsung, coupled with a multitude of investments expected to build automated factories in the region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "is the most significant global radio access network (RAN) market shareholder and is expected to expand substantially during the forecast period. North America is a leading region in the global RAN market, driven by the early and rapid adoption of 5G technology. The region's robust demand for advanced mobile services, coupled with substantial investments in",
+    "url": "https://straitsresearch.com/report/radio-access-network-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "Align infrastructure investments with future AI-RAN and 6G requirements",
+    "url": "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "pass": 3
+   },
+   {
+    "quote": "China’s Investments in 5G Power Ahead in 5G … Paving the Way for 5G-Advanced-Based Services",
+    "url": "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile Network Investment, Including 5G Rollouts, May Be Postponed in the European Market Due to the Ongoing Energy Crisis",
+    "url": "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "pass": 3
+   },
+   {
+    "quote": "5G Networks Can Reduce Carbon Emissions Significantly with Sufficient Investments in Renewable Energy",
+    "url": "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "pass": 3
+   },
+   {
+    "quote": "5G Investment Accelerates but Telcos Cannot Ignore Their Antenna Upgrades",
+    "url": "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "pass": 3
+   },
+   {
+    "quote": "China dominates the Asia-Pacific market as its early and extensive 5G investments have created the world's largest 5G network, with major operators China Mobile, China Unicom, and China Telecom deploying C-RAN architecture at unprecedented scale to manage network complexity and reduce operational costs.",
+    "url": "https://www.psmarketresearch.com/market-analysis/c-ran-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America remains the largest market for 5G Radio Access Networks, reflecting robust infrastructure investments.",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Intensifying competition among telecom providers drives innovation and investment in 5G Radio Access Network infrastructure and services.",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "business models, is driving a second wave of RAN investment as operators transition from Non-Standalone (NSA) to SA core configurations. In 2025 alone, global telecom operators collectively spent an estimated",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "on network capital expenditure, with RAN infrastructure accounting for roughly 38% of total spending. This investment cycle is expected to remain elevated through 2030 as operators complete initial 5G buildouts and subsequently invest in network densification with small cells and distributed antenna systems (DAS) to address capacity bottlenecks in high-traffic urban and indoor environments.",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": ", a figure expected to exceed 22 million by 2030, underscoring the scale of RAN infrastructure investment required to realize the full potential of 5G technology and applications.",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Industries including manufacturing, logistics, healthcare, and energy utilities are leading deployment activity, collectively accounting for over 70% of private 5G RAN investments globally in 2025.",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising investment in 5G infrastructure",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "5G technology is often labelled as the dominant force within the Cloud Radio Access Network Market, primarily due to its unprecedented speed and low latency, enabling a wealth of applications from IoT to enhanced mobile broadband. Its deployment is supported by advancements in infrastructure and increased investments from telecom operators. On the other hand,",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is witnessing rapid growth in the Cloud RAN market, holding approximately 25% of the global share. The region's expansion is driven by increasing mobile data traffic, urbanization, and government initiatives to enhance digital infrastructure. Countries like China and India are leading the market, with significant investments in",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. has invested the highest in RAN 5G infrastructure with major telecom companies such as Verizon, AT&T, and T-Mobile spending over 5 billion dollars towards expanding 5G capabilities. The U.S. also leads the world in the deployment of Stand Alone 5G and Fixed Wireless Access networks.",
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2024, DISH Wireless was awarded a USD 50 million funding grant from the US Secertary of Commerce to set up the Open RAN Center for Deployment and Integration (ORCID) which now specializes in the deployment of Open RAN Systems.",
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "The radio access network market remains moderately consolidated, with Huawei, Ericsson, Nokia, ZTE, and Fujitsu collectively accounting for around 47% of the global market share in 2024. These companies continue to strengthen their positions through investments in 5G infrastructure, Open RAN technologies, AI-driven network automation, and next-generation wireless innovation.",
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominates the radio access network market, accounting for around 24% of the global market share, supported by significant investments in 5G infrastructure and strong telecom operator presence.",
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to be the fastest-growing region during the forecast period, driven by rapid 5G deployment, government support, expanding private 5G networks, and increasing digital infrastructure investments.",
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2026, telecom infrastructure providers in Latin America announced strategic investments in virtualized RAN and Open RAN technologies, strengthening network scalability and improving coverage in emerging digital markets across the region.",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-c-ran-centralized-radio-access-network-market-strategic-overview-and-future-trends-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Open RAN technology is taking off in the 5G RAN market by providing interoperability among network elements built by different vendors. Open RAN helps the telecom industry decrease cost, increase flexibility, and be independent of specific vendor solutions. The increasing investments in open architectures will drive the development of the next generation 5G infrastructure.",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-25-companies-in-5g-radio-access-network-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "無線アクセスネットワーク市場 は、2026年まで11.3％の ... — 無線アクセスネットワーク市場 は、2026年まで11.3％の ... PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセス ネットワーク市場 規模、 シェア 、2032 年までの ... — 無線アクセス ネットワーク市場 規模、 シェア 、2032 年までの ... Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "無線アクセスネットワーク市場 サイズと シェア 2025 – 2034 — 無線アクセスネットワーク市場 サイズと シェア 2025 – 2034 Global Market Insights Inc. https://www.gminsights.com > radio-access-network-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "pass": 3
+   },
+   {
+    "quote": "仮想化 無線アクセスネットワーク市場 は、 2025 年に217億 ... — 仮想化 無線アクセスネットワーク市場 は、 2025 年に217億 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "pass": 3
+   },
+   {
+    "quote": "By 2035, Radio Access Network Market Size , Share, Trends ... — By 2035, Radio Access Network Market Size , Share, Trends ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/radio-access-network-market-259656260.html",
+    "pass": 3
+   },
+   {
+    "quote": "Open RAN Market Size , Share & Trends Report, 2026-2033 — Open RAN Market Size , Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Radio Access Network Market Report 2026 — Radio Access Network Market Report 2026 Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/reports/5970942/radio-access-network-market-report?srsltid=AYCX9vI0RtKQqUsyDgV4v2vteMzf0c7ZCMb2WQTcTfFlistYHYmon0Op",
+    "pass": 3
+   },
+   {
+    "quote": "5G Radio Access Network Market Size, Share & Trends, 2034 — 5G Radio Access Network Market Size, Share & Trends, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/5g-radio-access-network-market-117764",
+    "pass": 3
+   },
+   {
+    "quote": "5G Radio Access Network Market Size Report, 2026-2033 — 5G Radio Access Network Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Open RAN Market Report 2024 - 2025, By Offering, Geo, Tech — Open RAN Market Report 2024 - 2025, By Offering, Geo, Tech MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/open-ran-market-153445936.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud 5G Radio Access Network Market Share by Region and ... — Cloud 5G Radio Access Network Market Share by Region and ... LinkedIn https://www.linkedin.com > pulse > cl...",
+    "url": "https://www.linkedin.com/pulse/cloud-5g-radio-access-network-market-share-region-supplier-9s0xe",
+    "pass": 3
+   },
+   {
+    "quote": "5G Radio Access Network Market Size, Share | Analysis 2035 — 5G Radio Access Network Market Size, Share | Analysis 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "pass": 3
+   },
+   {
+    "quote": "Analyzing the Competitive Landscape of the 5G RAN Market — Analyzing the Competitive Landscape of the 5G RAN Market LinkedIn https://www.linkedin.com > pulse > a...",
+    "url": "https://www.linkedin.com/pulse/analyzing-competitive-landscape-5g-ran-market-plural-bloom-hmihe",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Radio Access Network Market 2025 — Cloud Radio Access Network Market 2025 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "pass": 3
+   },
+   {
+    "quote": "Open RAN Market Report 2024 - 2025 , By Offering, Geo, Tech — Open RAN Market Report 2024 - 2025 , By Offering, Geo, Tech MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/open-ran-market-153445936.html",
+    "pass": 3
+   },
+   {
+    "quote": "Radio Access Network Market Size & Forecast Report 2034 — Radio Access Network Market Size & Forecast Report 2034 Global Market Insights Inc. https://www.gminsights.com > radio-a...",
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.64",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "quote": "世界の無線アクセスネットワーク市場規模は、2025年には154億米ドルと評価され、2026年の170億4000万米ドルから2034年には382億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.64%となる見込みです"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "世界のトランシーバー市場は、2025年に46億米ドルと評価され、2026年の50億米ドルから2035年までに114億米ドルへ拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は約9.5%となる見通しです"
+   },
+   {
+    "value": "1.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "携帯型機器の需要要因は、2031年までの予測年平均成長率（CAGR）に約 +1.5%寄与する"
+   },
+   {
+    "value": "13.13",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "オンライン売上高は、2025年の 15億460万米ドルから2035年には 51億6,297万米ドルに増加し、年平均成長率（CAGR）は約13.13%になると予測される"
+   },
+   {
+    "value": "7.22",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "オフライン売上高は、2025年の 31億2,056万米ドルから2035年には 62億3,431万米ドルに増加すると予測される一方、年平均成長率（CAGR）は約7.22%と、より緩やかな伸びにとどまる見込みである"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "この抑制要因により、2032年までの予測CAGRは約-1.2%押し下げられる"
+   },
+   {
+    "value": "0.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "この抑制要因は、2035年までのCAGRに推定-0.8%の影響を及ぼす"
+   },
+   {
+    "value": "11.3",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "quote": "世界の無線アクセスネットワーク市場市場は、2026年から2033年の予測期間に年平均成長率11.3%で成長すると予測されています"
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "quote": "2025年から2035年にかけて年平均成長率8.6%で拡大し、2035年末には1,827億米ドルに達する見込みです"
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "世界の産業用通信市場は2025年に217億米ドルと評価され、2026年の228億米ドルから2035年には382億米ドルに拡大し、年平均成長率（CAGR）5.9%で成長すると予測される"
+   },
+   {
+    "value": "5.88",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "ハードウェアは最大の提供形態カテゴリーであり、2025年の売上高は119.6億米ドル、2035年には年平均成長率（CAGR）5.88%で209.2億米ドルに達すると予測される"
+   },
+   {
+    "value": "6.73",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "ソフトウェアは、2025年の59億米ドルから2035年には111.9億米ドルへ拡大すると予測され、CAGRは6.73%と、提供形態別カテゴリーの中で最も高い"
+   },
+   {
+    "value": "4.63",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "サービスは39億米ドルから60.6億米ドルへ、CAGR 4.63%で成長すると予測される"
+   },
+   {
+    "value": "18.9",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "quote": "仮想化無線アクセスネットワーク市場は、2025年に217億米ドルと推定され、2036年までに1,457億米ドルに達すると予測されており、予測期間（2026年～2036年）において年平均成長率（CAGR）18.9％で成長すると見込まれています"
+   },
+   {
+    "value": "26.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "quote": "CAGR of 26.8% from 2026 to 2033"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "35.2",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "quote": "北米は、2025年に35.2%の市場シェアを占め、無線アクセスネットワーク市場を牽引しました"
+   },
+   {
+    "value": "64",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "quote": "GSMAによると、米国では2025年までに5G接続数が2億8000万件に達し、これは国内の全モバイル接続数の約64%を占めると予測されています"
+   },
+   {
+    "value": "70",
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "quote": "2022年2月末までに、中国は115万基を超える5G基地局を設置し、世界全体の70%以上を占めました"
+   },
+   {
+    "value": "17.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "Motorola Solutionsは2025年に世界市場の売上高の約17.6%を占め、金額では約8億1,403万米ドルに相当した"
+   },
+   {
+    "value": "12.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "Hytera Communicationsは約12.1%、金額では約5億5,964万米ドルを占めた"
+   },
+   {
+    "value": "7.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "L3Harris Technologiesは約7.2%、金額では約3億3,301万米ドルを占め、Icom Inc.は約5.1%、金額では約2億3,588万米ドルを占めた"
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "L3Harris Technologiesは約7.2%、金額では約3億3,301万米ドルを占め、Icom Inc.は約5.1%、金額では約2億3,588万米ドルを占めた"
+   },
+   {
+    "value": "42.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "上位4社を合わせると42.0%、金額では約19億4,257万米ドルとなり、その他のサプライヤーは58.0%、金額では約26億8,260万米ドルを占めた"
+   },
+   {
+    "value": "58.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "上位4社を合わせると42.0%、金額では約19億4,257万米ドルとなり、その他のサプライヤーは58.0%、金額では約26億8,260万米ドルを占めた"
+   },
+   {
+    "value": "49.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "2025年には携帯型セグメントが市場をリードし、49.2%のシェア（約22億6,000万米ドル）を占めた"
+   },
+   {
+    "value": "67.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "quote": "オフラインセグメントは、2025年に67.5%の市場シェアを占めた（約31億米ドル）"
+   },
+   {
+    "value": "53",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "統計によると、2023年、北米での5G接続のシェアは53%で、2030年までに90%前後になると予想される"
+   },
+   {
+    "value": "90",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "統計によると、2023年、北米での5G接続のシェアは53%で、2030年までに90%前後になると予想される"
+   },
+   {
+    "value": "54",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "4G LTE RAN セグメントでは、54% を超える市場シェアを保有し、2034 年までに 11.8 億米ドルを越えることが期待されています"
+   },
+   {
+    "value": "43",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "従来のRANセグメントは、2024年に43%の市場シェアを保持しました"
+   },
+   {
+    "value": "24",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "北アメリカは、約24%と米国のシェアを持つ世界的な無線アクセスネットワーク市場を占め、2024年に2億米ドル2,92億米ドルの売上高を生成する地域に市場をリードしています"
+   },
+   {
+    "value": "47",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "市場シェアが約47%を占める"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "14.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "2025年はCisco Systems, Inc.が市場シェア14.5%超で首位に立った"
+   },
+   {
+    "value": "79",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "新たに設置された産業ネットワークノードの79%を産業用イーサネットが占め、フィールドバスは14%、無線プロトコルは7%だった"
+   },
+   {
+    "value": "14",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "新たに設置された産業ネットワークノードの79%を産業用イーサネットが占め、フィールドバスは14%、無線プロトコルは7%だった"
+   },
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "新たに設置された産業ネットワークノードの79%を産業用イーサネットが占め、フィールドバスは14%、無線プロトコルは7%だった"
+   },
+   {
+    "value": "54",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "中国では2024年に産業用ロボットが29万5,000台導入され、世界の導入台数の54%を占めた"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "インドでは導入台数が前年比7%増の9,100台となり、そのうち自動車産業が45%を占めた"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "新規イーサネットノードの設置では、PROFINET、EtherNet/IP、EtherCATがそれぞれ30%、25%、20%を占めた"
+   },
+   {
+    "value": "25",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "新規イーサネットノードの設置では、PROFINET、EtherNet/IP、EtherCATがそれぞれ30%、25%、20%を占めた"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "quote": "新規イーサネットノードの設置では、PROFINET、EtherNet/IP、EtherCATがそれぞれ30%、25%、20%を占めた"
+   },
+   {
+    "value": "40",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "quote": "北米は、世界の仮想化無線アクセスネットワーク市場の約40％を占める最大市場です"
+   },
+   {
+    "value": "25",
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "quote": "アジア太平洋地域は、世界市場の約25％を占めるとともに、最も高い成長率を示しています"
+   },
+   {
+    "value": "46.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "quote": "By component: Hardware segment held the largest market share of 46.2% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B8%82%E5%A0%B4-102741",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd242100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/router/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000846977.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2328890",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ciaj.or.jp/pressrelease2025/11873.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%B8%82%E5%A0%B4-112073",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/radio-access-network-market-259656260.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/cloud-radio-access-network-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/5g-radio-access-network-market-117764",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/radio-access-network-ran-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/open-ran-market-153445936.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/c-ran-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/radio-access-network-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-c-ran-centralized-radio-access-network-market-strategic-overview-and-future-trends-2026-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/open-ran-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-25-companies-in-5g-radio-access-network-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "無線アクセスネットワーク 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "https://jp.linkedin.com/pulse/%E6%AD%A3%E7%A2%BA%E3%81%AA%E6%83%85%E5%A0%B1-%E7%84%A1%E7%B7%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-%E5%B8%82%E5%A0%B4-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E6%88%90%E9%95%B7%E3%83%91%E3%82%B9%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr%E3%81%AF97-mcyzf",
+    "https://www.fortunebusinessinsights.com/jp/%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B8%82%E5%A0%B4-102741",
+    "https://prtimes.jp/main/html/rd/p/000000484.000067400.html",
+    "https://www.gminsights.com/ja/industry-analysis/walkie-talkie-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd242100.html",
+    "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "https://unscented805.inkrich.com/posts/open-radio-access-network-600911-muv27k01",
+    "https://www.atpress.ne.jp/news/3839759",
+    "https://www.fundamentalbusinessinsights.com/ja/industry-report/radio-access-network-market-22486"
+   ]
+  },
+  {
+   "query": "無線アクセスネットワーク 市場 シェア 上位 企業",
+   "results": [
+    "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "https://jp.linkedin.com/pulse/%E6%AD%A3%E7%A2%BA%E3%81%AA%E6%83%85%E5%A0%B1-%E7%84%A1%E7%B7%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-%E5%B8%82%E5%A0%B4-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0%E6%88%90%E9%95%B7%E3%83%91%E3%82%B9%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr%E3%81%AF97-mcyzf",
+    "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "https://www.fortunebusinessinsights.com/jp/%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B8%82%E5%A0%B4-102741",
+    "https://deallab.info/router/",
+    "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market",
+    "https://www.soumu.go.jp/main_content/000846977.pdf",
+    "https://www.surveyreports.jp/industry-analysis/enterprise-network-equipment-market/1038055",
+    "https://businessnetwork.jp/ranking/",
+    "https://yhrnews.hatenablog.jp/entry/2026/03/24/142442"
+   ]
+  },
+  {
+   "query": "無線アクセスネットワーク 市場 前年比 2025",
+   "results": [
+    "https://straitsresearch.com/jp/report/radio-access-network-ran-market",
+    "https://www.gminsights.com/ja/industry-analysis/industrial-communication-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "https://www.atpress.ne.jp/news/2328890",
+    "https://www.ciaj.or.jp/pressrelease2025/11873.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%B8%82%E5%A0%B4-112073",
+    "https://www.researchnester.jp/industry-analysis/open-radio-access-network-market/236",
+    "https://www.databridgemarketresearch.com/jp/reports/global-radio-access-network-market",
+    "https://blogs.itmedia.co.jp/business20/2025/12/2025ai.html",
+    "https://www.gminsights.com/ja/industry-analysis/radio-access-network-market"
+   ]
+  },
+  {
+   "query": "radio access network market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/radio-access-network-market-259656260.html",
+    "https://www.mordorintelligence.com/industry-reports/cloud-radio-access-network-market",
+    "https://www.grandviewresearch.com/industry-analysis/open-ran-market-report",
+    "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "https://www.researchandmarkets.com/reports/5970942/radio-access-network-market-report?srsltid=AYCX9vI0RtKQqUsyDgV4v2vteMzf0c7ZCMb2WQTcTfFlistYHYmon0Op",
+    "https://www.linkedin.com/pulse/forecasting-future-5g-radio-access-network-ran-market-size-w8bse",
+    "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "https://natlawreview.com/press-releases/fifth-generation-5g-radio-access-network-ran-market-reach-5368-billion-0",
+    "https://dataintelo.com/report/radio-access-network-market"
+   ]
+  },
+  {
+   "query": "radio access network market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/5g-radio-access-network-market-117764",
+    "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "https://straitsresearch.com/report/radio-access-network-ran-market",
+    "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/open-ran-market-153445936.html",
+    "https://www.linkedin.com/pulse/cloud-5g-radio-access-network-market-share-region-supplier-9s0xe",
+    "https://www.abiresearch.com/market-research/service/5g-6g-open-ran",
+    "https://www.precedenceresearch.com/open-ran-market",
+    "https://greyb.com/blog/5g-companies/",
+    "https://www.thebusinessresearchcompany.com/report/radio-access-network-global-market-report"
+   ]
+  },
+  {
+   "query": "radio access network market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "https://www.psmarketresearch.com/market-analysis/c-ran-market",
+    "https://www.marketresearchfuture.com/reports/5g-radio-access-network-market-11557",
+    "https://www.mordorintelligence.com/industry-reports/cloud-radio-access-network-market",
+    "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-5g-ran-market-plural-bloom-hmihe",
+    "https://dataintelo.com/report/radio-access-network-market",
+    "https://market.us/report/cloud-radio-access-network-c-ran-market/",
+    "https://www.fortunebusinessinsights.com/5g-radio-access-network-market-117764",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "radio access network market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/5g-radio-access-network-market-report",
+    "https://www.marketresearchfuture.com/reports/cloud-radio-access-network-market-2318",
+    "https://www.marketsandmarkets.com/Market-Reports/open-ran-market-153445936.html",
+    "https://www.mordorintelligence.com/industry-reports/cloud-radio-access-network-market",
+    "https://www.maximizemarketresearch.com/market-report/global-radio-access-network-market/7274/",
+    "https://www.gminsights.com/industry-analysis/radio-access-network-market",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-c-ran-centralized-radio-access-network-market-strategic-overview-and-future-trends-2026-2035",
+    "https://dataintelo.com/report/radio-access-network-market",
+    "https://www.precedenceresearch.com/open-ran-market",
+    "https://www.sphericalinsights.com/blogs/world-s-top-25-companies-in-5g-radio-access-network-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035"
+   ]
+  }
+ ],
+ "missing": {}
+}

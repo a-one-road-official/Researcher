@@ -1,0 +1,1898 @@
+{
+ "name": "植物工場",
+ "en": "vertical farming",
+ "aliases": [
+  "垂直農法",
+  "人工光型植物工場"
+ ],
+ "context": "16 フードテック ①植物工場",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:03:57.574780+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "植物工場の市場は、2032年までにCAGR 11.99％で33億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の世界市場：市場規模の分析 (施設の種類別、栽培システム別、地域別) と将来予測 (2025～2035年)",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の植物工場市場に関する洞察によると、市場は予測期間中に約 8% の CAGR で成長し、2037 年までに約 390 億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、都市農業市場は2021－2028年の予測期間中に5.20%のCAGRで市場成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、アジア太平洋地域の精密農業市場は、2021－2027年の予測期間中に7.9％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、日本の園芸市場は2024－2028年に3.5％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、ヨーロッパの精密農業市場は13.7％の成長率で成長し、2026年までに43.8億米ドルに達すると推定されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場 市場規模 2024-2030年予測｜世界27億ドル・国内240億円への成長分析",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の詳細な市場分析によると、グローバル市場規模は",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "15.6億ドル",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "27.1億ドル",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場に目を向けると、矢野経済研究所の調査による完全人工光型植物工場におけるレタス類の運営市場規模は、2023年度で",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目すべきは2028年度の予測で、国内市場は",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "240億円規模",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "より広範囲な管理環境農業を含む別の調査では、2024年の市場規模を1,823億1,000万米ドル、2030年には3,158億2,000万米ドルに達するという予測もあり、植物工場を含むコントロールド・エンバイロメント・アグリカルチャー（CEA）市場全体の巨大な成長ポテンシャルを示しています",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場規模は2032年までに2,422億ドルに達する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2021:",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場は、屋内農場、温室、その他の 3 種類の施設に分かれています",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場市場に関する調査レポートによると、市場は2025年から2035年にかけて年平均成長率（CAGR）8.5％で成長し、2035年末までに19億9,000万米ドルに達すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模は12億5,000万米ドルでした",
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のザビジネスリサーチカンパニーによると、2021年の植物工場の市場規模は1041億ドルです",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に向けて7.74％で成長し、同年には1121億ドルへと拡大することが見込まれます",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のジオンマーケットリサーチによると、2020年の垂直型植物工場の市場規模は43億ドルです",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年に向けて年平均7.7％の成長を見込み、2028年には規模が79億ドルへと拡大することを見込みます",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のヴェリファイドマーケットリサーチによると、2019年の垂直型植物工場の市場規模は23.4億ドルです",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年にむけて年平均19.6％の成長を見込み、2027年には規模が98.5億ドルへと拡大することが見込まれます",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場規模は、2024年に164百万米ドルに達すると予測されており、2037年末までに458.7百万米ドルを生み出すと予想されており、2025―2037年の予測期間中に8.29％のCAGRで拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "日本を除くアジア太平洋地域の植物工場市場は、この地域の人口増加と飢餓問題に対応するために高品質の食品と大量の農産物に対する需要が高まっているため、2037年末までに162.3百万米ドルという最高の市場収益を生み出すと予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "北米の植物工場市場は、健康志向の人々の間で新鮮で地元産の食品に対する需要が高まり、消費者にこれらのサービスを提供する植物工場の数が増加しているため、2037年末までに75.6百万米ドルの市場収益を維持すると見込まれています",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "米国の植物工場市場は、農業技術の急速な進歩と投資、および変化する気候パターンに対する懸念の高まりにより、2025―2037年の間に大幅な収益CAGRを記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場規模は2024年に1億6,400万米ドルに達すると予測されており、2037年末までに458.7百万米ドルを生み出すと予想されており、2025―2037年の予測期間中に8.29%のCAGRで拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場とは｜官民投資ロードマップの目標シェア3割・投資額4.6兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに4.6兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までに36.8兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場システム（生産物込）の世界市場は、1.5兆円（2025年）から55兆円（2040年）へ拡大すると予測されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで4.6兆円、経済波及効果は36.8兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 植物工場の投資額4.6兆円・経済波及効果36.8兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "※ 植物工場システム（生産物込）の世界市場規模(予測)：1.5兆円(2025年)、4.9兆円(2030年)、55兆円(2040年)",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "Precedence Researchの「Vertical Farming Market Size, Share, and Trends 2026 to 2035」をもとに計算",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.5兆円（2025年）→ 4.9兆円（2030年）→",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "55兆円（2040年）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場の予測（植物工場システム・生産物込）は2040年に55兆円とされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済波及効果が36.8兆円と大きいのも、この市場の大きさが背景にあると考えられます",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで4.6兆円、投資による経済波及効果は2040年度までで36.8兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで4.6兆円と想定",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで36.8兆円と想定",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模はレタス類に加え、ベビーリーフ・ハーブ類、イチゴ、機能性野菜、薬用植物等の有望品目を含む運営市場や、植物工場の建設工事市場を掲載し、2030年度までの予測を示しています",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(1)市場規模の定義と予測期間の考え方",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(2)完全人工光型植物工場の運営市場規模推移（レタス類＋有望品目、金額ベース）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(3)植物工場レタス類の市場規模推移・運営事業者（金額ベース）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(4)植物工場レタス類の市場規模推移・運営事業者（重量ベース）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(5)新規市場・有望品目の市場規模推移",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場のマーケット情報で重要な市場規模、企業シェア・予測等を調べる方法としては、①インターネット上のオープン情報から調べる、②統計情報から調べる、③専門業界情報から調べる、④市場調査会社に新規調査を依頼する、の4つの方法があります",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "同協会が2025年3月に発表した「大規模施設園芸・植物工場 実態調査・事例調査」の報告書は農林水産省のHP上で公開されており、市場規模推移などの各種市場データや関連事業者の運営実態に係るアンケート結果、優良運営事例など、市場情報が豊富に掲載されています",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は、植物工場の増設や新規参入が限定的であったことに加え、自然災害や火災事故等により植物工場の稼働停止が散見されたことから前年に続き供給量が減少しましたが、販売事業者による価格改定などが進み単価が上昇したことで市場は拡大しました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年と2023年市場は、イニシャルをはじめあらゆるコストの高騰、特に、ランニングコストの三分の一を占めるといわれる電気料金が上昇したことで、新規参入を検討していた企業が計画を見直すなど、大型の新規案件も数えるほどとなりプラント型が大きく縮小しましたが、2024年は、大型案件の受注もありわずかながら拡大となりました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、年間を通じて安定的な生産が可能な植物工場に対する期待は確実に高まっており、2026年以降市場は拡大に転じると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場は、大規模案件がやや落ち着いたため前年比縮小となりましたが、公的機関での研究向けや商業化を目指した実証向けの中小規模案件が増加しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "植物工場の市場は、2032年までにCAGR 11.99％で33億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは11.99%です",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の植物工場市場に関する洞察によると、市場は予測期間中に約 8% の CAGR で成長し、2037 年までに約 390 億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、食品業界は年間6.74％のCAGR（2024－2028年）で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、都市農業市場は2021－2028年の予測期間中に5.20%のCAGRで市場成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、エネルギー効率の高い管理システムは、2024－2028年に13.2％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、アジア太平洋地域の精密農業市場は、2021－2027年の予測期間中に7.9％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、日本の園芸市場は2024－2028年に3.5％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、ヨーロッパの精密農業市場は13.7％の成長率で成長し、2026年までに43.8億米ドルに達すると推定されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "という高い成長率を維持しながら、2030年には",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "まで拡大し、現在の約1.15倍の成長を実現する見込みです",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、2022 年の 1,219 億米ドルから 2032 年には 2,422 億米ドルに拡大し、予測期間中の年平均成長率 (CAGR) は 7.1% になると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2022-2032 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場市場に関する調査レポートによると、市場は2025年から2035年にかけて年平均成長率（CAGR）8.5％で成長し、2035年末までに19億9,000万米ドルに達すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に向けて7.74％で成長し、同年には1121億ドルへと拡大することが見込まれます",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年に向けて年平均7.7％の成長を見込み、2028年には規模が79億ドルへと拡大することを見込みます",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年にむけて年平均19.6％の成長を見込み、2027年には規模が98.5億ドルへと拡大することが見込まれます",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "温室、市場価値（百万米ドル）、および CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "屋内農場、市場価値（百万米ドル）、CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "その他、市場価値（百万米ドル）、CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "日光、市場価値（百万米ドル）、および CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "完全人工照明市場価値（百万米ドル）、および CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "北米、市場価値（百万米ドル）、CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ、市場価値（百万米ドル）、CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "日本を除くアジア太平洋地域、市場価値（百万米ドル）、CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "日本、市場価値（百万米ドル）、CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカ、市場価値（百万米ドル）、および CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "中東およびアフリカ、市場価値（百万米ドル）、および CAGR、2024ー2037年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "米国、市場価値（百万米ドル）、および CAGR、2024ー2037 年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ、市場価値（百万米ドル）、および CAGR、2024ー2037 年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "英国、市場価値（百万米ドル）、および CAGR、2024ー2037 年予測",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場システム（生産物込）の世界市場は、1.5兆円（2025年）から55兆円（2040年）へ拡大すると予測されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて市場ニーズに応じた商業栽培品目を拡充し、海外市場展開を拡大したうえで、日本品質の農産物と植物工場プラント・運営ノウハウを組み合わせた植物工場システムをパッケージ展開し、2040年にかけて国内外市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "・2030年にかけて、市場ニーズに応じた商業栽培品目を拡充するとともに、海外市場展開を拡大",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて市場ニーズに応じた商業栽培品目を拡充し、海外市場展開を拡大します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて市場ニーズに応じた商業栽培品目を拡充して海外市場展開を拡大し、植物工場システムをパッケージ展開して、2040年にかけて国内外市場（農産物＋植物工場システムによる市場）のシェア3割を目指す目標です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "政府は10日開いた日本成長戦略会議で、戦略17分野の「主要な製品・技術等」について61製品・技術を選定し、うち27製品・技術の市場シェア拡大に優先して取り組むこととした",
+    "url": "https://news.nissyoku.co.jp/flash/1269043",
+    "pass": 3
+   },
+   {
+    "quote": "季節や天候に左右されない安定生産、単位面積あたりの高い生産性を武器に異業種からの参入が相次ぎ、農林水産省の調べでは人工光型施設数は2012年3月時点の106施設から2024年2月時点で195施設へと、約1.8倍に拡大した",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "・規模拡大の意向、自由意見、操業停止・撤退等の一覧と48件のアンケート個別調査票から、集計結果と個別回答の両面で課題を確認する",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(12)市場拡大に向けた課題と求められる支援策",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "8.今後の経営（生産）規模拡大の意向",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は、植物工場の増設や新規参入が限定的であったことに加え、自然災害や火災事故等により植物工場の稼働停止が散見されたことから前年に続き供給量が減少しましたが、販売事業者による価格改定などが進み単価が上昇したことで市場は拡大しました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "人工光型植物工場の引き合いが回復に向っており、2026年以降は植物工場の新設・増設が進むことから、2030年に向けて供給量・市場とも拡大すると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年と2023年市場は、イニシャルをはじめあらゆるコストの高騰、特に、ランニングコストの三分の一を占めるといわれる電気料金が上昇したことで、新規参入を検討していた企業が計画を見直すなど、大型の新規案件も数えるほどとなりプラント型が大きく縮小しましたが、2024年は、大型案件の受注もありわずかながら拡大となりました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、年間を通じて安定的な生産が可能な植物工場に対する期待は確実に高まっており、2026年以降市場は拡大に転じると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場は、大規模案件がやや落ち着いたため前年比縮小となりましたが、公的機関での研究向けや商業化を目指した実証向けの中小規模案件が増加しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降は、大手企業の投資・実証が継続していること、中小規模案件が引き続き旺盛であること、システムを構成する設備機器の価格が上昇していることから、2030年頃まで拡大が続くとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の市場、2025年には6.4倍 1,500億円規模に拡大か | 環境ビジネスオンライン",
+    "url": "https://www.kankyo-business.jp/news/007017.php",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の市場、2025年には6.4倍 1,500億円規模に拡大か",
+    "url": "https://www.kankyo-business.jp/news/007017.php",
+    "pass": 3
+   },
+   {
+    "quote": "The vertical farming market was valued at USD 7.4 billion in 2025 and is projected to rise from USD 9 billion in 2026 to USD 30.5 billion by 2035, expanding at a 14.5% CAGR.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydroponics held a 46.6% market share in 2025 and is projected to grow at a 13.7% CAGR through 2035. USDA data identify hydroponics as the most common controlled-environment growing method in the United States, providing a relevant operational proxy for its market leadership",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "are forecast to grow more quickly, at 15.2% and 15.3% CAGRs, respectively. Their faster forecast growth reflects room for adoption, but it also raises the importance of system reliability, operator capability, and maintenance economics.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware accounted for approximately 61% of the market, but software is expected to outpace it with a 17.5% CAGR through 2035. Hardware comprises lighting systems, hydroponic components, climate control systems, sensors and monitoring equipment, and",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to expand from $3.195 billion in 2026 to $11.895 billion in 2035, representing a 15.8% CAGR. China held a 33.4% share of the regional market in 2025. China's 2024–2028",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 30.5 billion by 2035, growing at a CAGR of 14.5% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Building-based vertical farms generated USD 4.6 billion in 2025 and are anticipated to grow at a CAGR of 14.9% through 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "The vegetables segment held 68% of the total market share in 2025. It is projected to grow at a CAGR of 14.3% through 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at USD 8.70 Billion in 2025 and is projected to reach USD 65.80 Billion by 2035, growing at a CAGR of 22.42% during the",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 22.42% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "市場シェア分析（2025年）",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場市場- 世界の産業規模、シェア、動向、機会、予測、施設タイプ別、光源別、栽培システム別、タイプ別、地域別、競争市場別、2020-2030年",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場、規模、シェア、傾向、メーカーレポートの洞察と将来の予測2037 年の調査",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "屋内植物はこのセグメントを支配しており、市場シェアの約60％を占めています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光セグメントは、2037年までにかなりの市場シェアを占めると予測されています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "水耕栽培市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―タイプ別、作物タイプ別、作物面積別、および地域別―世界予測2025―2037 年",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ除草剤市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―発生源のタイプ別、処方別、適用方法別、対象となる雑草のタイプ別、最終用途産業別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場の規模、シェア、COVID-19の影響分析、施設タイプ別(屋内農場、温室、その他)、栽培システム別(土壌ベース、非土壌ベース、ハイブリッド)、作物タイプ別(野菜、果物、花と観賞用、その他)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、分析と予測2022年～2032年",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模、シェア、COVID-19の",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "作物別では、葉物野菜が最大のセグメントであり、生産全体の約44～62％を占めています",
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "pass": 3
+   },
+   {
+    "quote": "各社の累計調達額を分子に、上述した業界全体の資金調達額を分母にして、資金調達額シェアを計算し、ランキング化すると、1位はプレンティ、2位はバウリー、3位はインファームとなります",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の累計資金調達額のシェア（2022年12月時点） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター開発会社のカオスマップと資金調達額ベースの市場シェアを分析しています",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の植物工場市場調査、規模、シェアと予測、2037年",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月、Hydrofarm Holdings Group, Inc.はThe Agricultural Gas Companyと独占販売契約を締結しました",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "2037 年までに植物工場の大きな市場シェアを獲得するのはどのセグメントですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "屋内農場セグメントは、2025 ―2037 年の間に 264.9百 万ドルのシェアを獲得すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場とは｜官民投資ロードマップの目標シェア3割・投資額4.6兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場とは｜日本品質の農産物と植物工場システムで2040年に国内外シェア3割へ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、日本品質の農産物と植物工場プラント・運営ノウハウを組み合わせた「植物工場システム」をパッケージで国内外に展開し、2040年にかけて国内外市場のシェア3割を目指すとしました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年に国内外シェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本品質の農産物と植物工場システムをパッケージ展開し、2040年にかけて国内外市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標 ― 植物工場で2040年に国内外市場シェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "農産物とシステムで収益化し、2040年にかけて国内外市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて国内外市場のシェア３割を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて国内外市場のシェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて、農産物＋植物工場システムによる国内外市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて市場ニーズに応じた商業栽培品目を拡充し、海外市場展開を拡大したうえで、日本品質の農産物と植物工場プラント・運営ノウハウを組み合わせた植物工場システムをパッケージ展開し、2040年にかけて国内外市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本品質の農産物及び植物工場プラントと運営ノウハウを併せた植物工場システムをパッケージ展開し、2040年にかけて国内外市場のシェア３割を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内外市場のシェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本品質の農産物と植物工場プラント・運営ノウハウを組み合わせた植物工場システムをパッケージ展開し、2040年にかけて国内外市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "【速報】政府、植物工場と陸上養殖に力 世界市場シェア3割目標に - 日本食糧新聞・電子版",
+    "url": "https://news.nissyoku.co.jp/flash/1269043",
+    "pass": 3
+   },
+   {
+    "quote": "【速報】政府、植物工場と陸上養殖に力 世界市場シェア3割目標に",
+    "url": "https://news.nissyoku.co.jp/flash/1269043",
+    "pass": 3
+   },
+   {
+    "quote": "政府は10日開いた日本成長戦略会議で、戦略17分野の「主要な製品・技術等」について61製品・技術を選定し、うち27製品・技術の市場シェア拡大に優先して取り組むこととした",
+    "url": "https://news.nissyoku.co.jp/flash/1269043",
+    "pass": 3
+   },
+   {
+    "quote": "(7)完全人工光型植物工場レタス類の需要シェア（2025年度）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "～レタス類が約9割を占め、イチゴ、ハーブ、花き類等も～",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場のマーケット情報で重要な市場規模、企業シェア・予測等を調べる方法としては、①インターネット上のオープン情報から調べる、②統計情報から調べる、③専門業界情報から調べる、④市場調査会社に新規調査を依頼する、の4つの方法があります",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「アグリ＆水産養殖ビジネスの現状と将来展望 2025」をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年と2023年市場は、イニシャルをはじめあらゆるコストの高騰、特に、ランニングコストの三分の一を占めるといわれる電気料金が上昇したことで、新規参入を検討していた企業が計画を見直すなど、大型の新規案件も数えるほどとなりプラント型が大きく縮小しましたが、2024年は、大型案件の受注もありわずかながら拡大となりました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydroponics held a 46.6% market share in 2025 and is projected to grow at a 13.7% CAGR through 2035. USDA data identify hydroponics as the most common controlled-environment growing method in the United States, providing a relevant operational proxy for its market leadership",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware accounted for approximately 61% of the market, but software is expected to outpace it with a 17.5% CAGR through 2035. Hardware comprises lighting systems, hydroponic components, climate control systems, sensors and monitoring equipment, and",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to expand from $3.195 billion in 2026 to $11.895 billion in 2035, representing a 15.8% CAGR. China held a 33.4% share of the regional market in 2025. China's 2024–2028",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": ". The two companies represented a combined 3.63% pro forma share of the 2024 market according to the approved market estimates.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the vertical farming market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in vertical farming market include Signify, Fluence, Priva, Ridder Group, Munters, which collectively held 2% market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "The vegetables segment held 68% of the total market share in 2025. It is projected to grow at a CAGR of 14.3% through 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware dominated with a 45% market share in 2025. The capital intensity of building a vertical farm sits primarily in its physical systems:",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "AeroFarms is a U.S. vertical farming leader specializing in aeroponic indoor cultivation of microgreens, commanding over 70% of the U.S. retail microgreens market and pioneering sustainable, climate‑agnostic food production using 90% less water and no pesticides. It aims to expand globally while advancing high‑efficiency vertical agriculture technologies",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the Vertical Farming Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: Europe dominated the Vertical Farming Market in 2025.",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "North America led the global market with the highest market share of 40.31% in 2025.",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "By category, the CAPEX + OPEX segment has captured the largest revenue share of 71.87% in 2025.",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "By structure, the Building-based segment has captured a revenue share of around 58.49% in 2025.",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "By crop category, the Leafy Greens segment holds the largest revenue share of 63.32% in 2025.",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "of operating cost. The market is highly fragmented, with the top 10 participants holding an estimated",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": ", and AI-driven crop recipes have lifted yields by 10-20% in commercial deployments. Patent activity is concentrated in lighting spectra, nutrient delivery, and automation, while breeding of indoor-optimized cultivars is moving from pilot to scale.",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component: Hardware segment held the largest market share of 60.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "By growing mechanism: Hydroponics segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の植物工場市場における主要企業の詳細な競合分析、企業プロファイル、最近の傾向、主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業分析",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "この地域の主要企業は、機械学習、LED栽培光、動的リソース割り当て、AI、エッジコンピューティングなど、植物の成長と生産性を最適化するためのさまざまな技術進歩を実装することにより、継続的なイノベーションに注力し、市場での地位を強化しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の事業概要",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場市場には、市場での存在感を高め、製品基盤を強化するためにさまざまな先進技術の採用に注力している複数の主要企業があります",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業は変化する市場環境を理解するために、研究開発に多額の投資を行っています",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "・主要企業の参入経緯、栽培概要、施設概要から、自社に適した運営モデルを比較する",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "・主要企業の商品政策、開発の方向性、販売動向から、自社の製品・サービスの位置付けを検討する",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "■ 第5章 有力参入企業の個別動向（25社）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "・運営事業者8社、プラントメーカー・関連企業17社の個別動向から、主要企業の特徴や取組の違いを把握する",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(11)植物工場の今後の方向性 ～現状の課題と主要参入企業における対応策～",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "1.主要企業の参入経緯",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(2)主要企業の栽培概要",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(1)主要参入企業の栽培施設概要",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "(1)主要企業の流通・販売体制",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "①主要企業の販売動向一覧（2026年）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "1.参入企業の動向",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "④参入企業事例",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "②主要参入企業の自動化・省人化・省力化に対する取り組みや見解",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "第５章 有力参入企業の個別動向（25社）",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "次に、植物工場の市場動向や主要プレイヤー情報、今後の市場予測情報を、自分で収集する場合にどんな方法があるのか？について解説します",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場施設数の推移、参入企業の運営実態に関するアンケート、優良運営事例など市場情報が豊富に掲載されています",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "TPCマーケティングリサーチ株式会社は「スマート農業」をキーワードとした調査レポートを発刊し、植物工場の市場規模推移・予測、主要企業動向に加え、特許公開状況、産官学連携プロジェクト動向など、幅広く業界動向をまとめています",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業動向では、三菱ケミカル、エスペックミック、スプレッドといった企業毎に展開商品の状況や今後の事業の方向性について個票形式で整理されています",
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「アグリ＆水産養殖ビジネスの現状と将来展望 2025」をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光利用型は民間参入企業の大規模工場の建設、また、併用型は太陽光利用型工場への人工光導入による補光の普及に伴い、市場は大きく拡大すると予測している",
+    "url": "https://www.kankyo-business.jp/news/007017.php",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in vertical farming market?",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in vertical farming market include Signify, Fluence, Priva, Ridder Group, Munters, which collectively held 2% market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape for Vertical Farming Market:",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size, Key Companies, Company Market Share, Crop Production Volume, Yield Analysis, Export & Import Trends, Pricing Metrics, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape - Technology Suppliers, Premium-Crop Specialists, and Gulf and Asian Operators Gain While Leafy-Greens Pure Plays Restructure",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Signify Holding and EVERLIGHT ELECTRONICS CO., LTD.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company share, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the vertical farming market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include AGEYE Technologies, American Hydroponics, Argus Control Systems Limited, CubicFarm Systems Corp., EVERLIGHT ELECTRONICS CO., LTD., FOSHAN REINFA AGTECH CO.,LTD., Freight Farms, Inc., iFarm, Intelligent Growth Solutions Limited, LOGIQS B.V., OnePointOne, Vertical Farm Systems",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in The Industry",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Highly competitive and innovative APAC indoor farming landscape featuring global agritech giants, pioneering regional automation startups, and government-backed initiatives collaborating on smart farming platforms, localized crop designs, and high-density urban infrastructure.",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional and Country Level Analysis; Segment-Level Analysis; DROC; PESTLE Analysis; Porter’s Five Forces Analysis; Competitive Landscape, Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Illumitex Inc. (U.S.), Aerofarms (U.S.), Koninklijke Philips N.V. (The Netherlands), and Sky Greens (Singapore) are some of the major players in the APAC vertical farming market.",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "These are some of the major players in the APAC vertical farming market.",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Asia Pacific vertical farming market are leveraging strategic partnerships with local governments and research institutions to accelerate technology adoption and gain regulatory support. These collaborations help companies align their innovations with national food security goals while securing funding and policy backing.",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Main drivers include food security concerns, government support for smart agriculture, increasing investment in agri-tech startups, and demand for fresh, pesticide-free produce.",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "During these blocks, the market is likely to expand across regions with increasing urban population density and limited arable land, particularly in North America, Europe, and the Asia-Pacific. Additionally, strategic partnerships, mergers, and collaborations among key players are expected to enhance market penetration and innovation in vertical farming solutions.",
+    "url": "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Vertical Farming Market: Signify, AMS OSRAM AG, Artechno, C-LED srl, Ecopia, General Electronics, LED iBond, MechaTronix, Nuvege, Organizzazione Orlandelli, Panasonic, Parus, Philips, Tungsram, UNI-TROLL",
+    "url": "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "The vertical farming market in India is projected to grow at a CAGR of 14.3% from 2025 to 2035, supported by growing urban populations, limited arable land, and increasing preference for pesticide-free, organic vegetables. Startups and commercial farms are deploying vertical greenhouse solutions and hydroponics to meet demands from retail chains, restaurants, and institutional buyers.",
+    "url": "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "The vertical farming market in the USA is projected to grow at a CAGR of 9.7% from 2025 to 2035, driven by technological innovation, urbanization, and high consumer demand for fresh, local produce. Commercial farms and agri-tech startups are integrating AI-based monitoring, automated seeding, nutrient delivery systems, and climate control to maximize efficiency and yield.",
+    "url": "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "植物工場 市場規模 徹底分析 2024-2030年予測 — 植物工場 市場規模 徹底分析 2024-2030年予測 plant-factory.businesshub.trueone.co.jp https://plant-factory.businesshub.trueone.co.jp > page-1-...",
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 植物工場市場 調査、規模、 シェア と予測、2037年 — 世界の 植物工場市場 調査、規模、 シェア と予測、2037年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場 とは｜官民投資ロードマップの目標 シェア 3割・投資 ... — 植物工場 とは｜官民投資ロードマップの目標 シェア 3割・投資 ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (16) フードテック",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場 - SVPジャパン — 植物工場 - SVPジャパン 株式会社SVPジャパン PDF https://www.svpjapan.com > report_20250327_01",
+    "url": "https://www.svpjapan.com/insight/download/report_20250327_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版 植物工場 の 市場 実態と将来展望 - 矢野経済研究所 — 2026年版 植物工場 の 市場 実態と将来展望 - 矢野経済研究所 yano.co.jp https://www.yano.co.jp > market_reports",
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 植物工場市場 調査、規模、シェアと予測、2037年 — 世界の 植物工場市場 調査、規模、シェアと予測、2037年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size , Share & Forecast, 2026-2035 — Vertical Farming Market Size , Share & Forecast, 2026-2035 Global Market Insights Inc. https://www.gminsights.com > vertica...",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size , Share & Trends Report, 2035 — Vertical Farming Market Size , Share & Trends Report, 2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Companies, Size & Trends 2026-2035 — Vertical Farming Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size And Share Report, 2026-2033 — Vertical Farming Market Size And Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size , Share & 2031 Growth Outlook — Vertical Farming Market Size , Share & 2031 Growth Outlook Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming : Global Markets to 2026 - BCC Research — Vertical Farming : Global Markets to 2026 - BCC Research BCC Research https://www.bccresearch.com > vertic...",
+    "url": "https://www.bccresearch.com/market-research/instrumentation-and-sensors/vertical-farming-market.html?srsltid=AYCX9vKcJ8ZMOS0oewsipdUtrAG6wg-FypyLvcM3iZh4wz2EOQ1j-Nrj",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size , Share & Growth Report, 2034 — Vertical Farming Market Size , Share & Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/vertical-farming-market-101958",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size , Share | CAGR of 8.3% — Vertical Farming Market Size , Share | CAGR of 8.3% Market.us https://market.us > report > vertical-fa...",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific Vertical Farming Market Share & Growth, 2034 — Asia-Pacific Vertical Farming Market Share & Growth, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size, Share & Forecast, 2026-2035 — Vertical Farming Market Size, Share & Forecast, 2026-2035 Global Market Insights Inc. https://www.gminsights.com > vertica...",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size, Share & Trends Report, 2035 — Vertical Farming Market Size, Share & Trends Report, 2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size, Share & 2031 Growth Outlook — Vertical Farming Market Size, Share & 2031 Growth Outlook Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size, Share | CAGR of 8.3% — Vertical Farming Market Size, Share | CAGR of 8.3% Market.us https://market.us > report > vertical-fa...",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America Vertical Farming Market (2024-2029) — North America Vertical Farming Market (2024-2029) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/vertical-farming-market/north-america",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Companies , Size & Trends 2026-2035 — Vertical Farming Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market Size, Share & Growth Report, 2034 — Vertical Farming Market Size, Share & Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/vertical-farming-market-101958",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Farming Market | Global Market Analysis Report - 2035 — Vertical Farming Market | Global Market Analysis Report - 2035 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "マップ上の会社の累計調達額は、本ページの更新時点で約3644百万ドルとなっております",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "各社の累計調達額を分子に、上述した業界全体の資金調達額を分母にして、資金調達額シェアを計算し、ランキング化すると、1位はプレンティ、2位はバウリー、3位はインファームとなります",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の累計資金調達額のシェア（2022年12月時点） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/plant-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場とは｜官民投資ロードマップの目標シェア3割・投資額4.6兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで4.6兆円、経済波及効果は36.8兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 植物工場の投資額4.6兆円・経済波及効果36.8兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで4.6兆円、投資による経済波及効果は2040年度までで36.8兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の官民投資額は2040年度までで4.6兆円、経済波及効果は2040年度までで36.8兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "植物工場の官民投資額は2040年度までで4.6兆円、投資による経済波及効果は2040年度までで36.8兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Vertical Farming Market was valued at USD 3.14 Billion in 2025, driven by rising urban agriculture adoption, technology investment, and consumer demand for local, sustainably produced food.",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "pass": 3
+   },
+   {
+    "quote": "Between 2023 and 2025, several once-prominent operators, including Kalera, Infarm, and Bowery, failed or exited, and Plenty restructured and refocused on strawberries. Meanwhile, large-scale Gulf facilities, hybrid greenhouse-vertical models, and energy partnerships have advanced. Oishii raised USD 134 million in 2022 to scale indoor berries.",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "to sector CAGR by 2035, especially across Japan, the Gulf, North America, and Europe, where import substitution, freshness premiums, and pesticide-light production support higher capital investment.",
+    "url": "https://market.us/report/vertical-farming-market/",
+    "pass": 3
+   },
+   {
+    "quote": "farming. AeroFarms required six rounds of funding equaling $95.8 million to",
+    "url": "https://cmr.berkeley.edu/2018/01/vertical-farming/",
+    "pass": 3
+   },
+   {
+    "quote": "What is in dispute is whether they survive 2026. In late 2025, AeroFarms disclosed a funding shortfall serious enough that they filed WARN notices, the legal requirement to notify employees of potential closure. Emergency support from an existing investor bought them time, but as of early 2026 the situation remains unresolved. A buyer or new financing is needed. Neither is guaranteed.",
+    "url": "https://verticalfarming.blog/top-10-vertical-farming-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The vertical farming industry’s obituary was written prematurely. What died between 2022 and 2025 was a particular version of the industry: VC-funded, expansion-first, margin-later, premised on the idea that being big would eventually solve the problem of being expensive.",
+    "url": "https://verticalfarming.blog/top-10-vertical-farming-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Canada is adding capacity while US operators exit. GoodLeaf Farms raised CAD 52 million in November 2025 to double capacity at its Alberta and Quebec farms in 2026, and Growcer reports more than 85 of its container farms in use.",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "January 2025: USDA opens fiscal 2025 Urban Agriculture and Innovative Production grants. USD 2.5 million is available on top of USD 53.7 million invested since 2020, USDA.",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Local Bounti, listed on the NYSE, reported 2025 sales of USD 48.4 million and a net loss of USD 94.4 million, a result that shows what scaling still costs. Oishii has raised USD 370 million in total, and its Tortuga AgTech purchase ties it to the",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "Raised CAD 52 million in November 2025",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "May 2026: Oishii closes first USD 150 million of Series C. The round, led by SPARX, takes total funding to USD 370 million, Oishii.",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "November 2025: GoodLeaf Farms raises CAD 52 million. The funding will double capacity at its Alberta and Quebec farms in 2026, GoodLeaf Farms.",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "May 2025: Plenty emerges from Chapter 11 focused on strawberries. Exit funding came from One Madison and SoftBank Vision Fund 2, Plenty.",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "pass": 3
+   },
+   {
+    "quote": "By 2023, the market reached USD 629.6 Million, reflecting ongoing investments and advancements in the sector.",
+    "url": "https://metastatinsight.com/blogdetails/top-40-vertical-farming-companies",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "11.99",
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "quote": "植物工場の市場は、2032年までにCAGR 11.99％で33億3,000万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "quote": "規模は、2022 年の 1,219 億米ドルから 2032 年には 2,422 億米ドルに拡大し、予測期間中の年平均成長率 (CAGR) は 7.1% になると予想されています"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "quote": "植物工場市場に関する調査レポートによると、市場は2025年から2035年にかけて年平均成長率（CAGR）8.5％で成長し、2035年末までに19億9,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "33.4",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Asia Pacific is expected to expand from $3.195 billion in 2026 to $11.895 billion in 2035, representing a 15.8% CAGR. China held a 33.4% share of the regional market in 2025. China's 2024–2028"
+   },
+   {
+    "value": "14.5",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "The market is projected to reach USD 30.5 billion by 2035, growing at a CAGR of 14.5% from 2026 to 2035."
+   },
+   {
+    "value": "14.9",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Building-based vertical farms generated USD 4.6 billion in 2025 and are anticipated to grow at a CAGR of 14.9% through 2035."
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "The vegetables segment held 68% of the total market share in 2025. It is projected to grow at a CAGR of 14.3% through 2035."
+   },
+   {
+    "value": "22.42",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "quote": "was valued at USD 8.70 Billion in 2025 and is projected to reach USD 65.80 Billion by 2035, growing at a CAGR of 22.42% during the"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "60",
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "quote": "屋内植物はこのセグメントを支配しており、市場シェアの約60％を占めています"
+   },
+   {
+    "value": "62",
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "quote": "作物別では、葉物野菜が最大のセグメントであり、生産全体の約44～62％を占めています"
+   },
+   {
+    "value": "46.6",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Hydroponics held a 46.6% market share in 2025 and is projected to grow at a 13.7% CAGR through 2035. USDA data identify hydroponics as the most common controlled-environment growing method in the United States, providing a relevant operational proxy for its market leadership"
+   },
+   {
+    "value": "13.7",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Hydroponics held a 46.6% market share in 2025 and is projected to grow at a 13.7% CAGR through 2035. USDA data identify hydroponics as the most common controlled-environment growing method in the United States, providing a relevant operational proxy for its market leadership"
+   },
+   {
+    "value": "61",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Hardware accounted for approximately 61% of the market, but software is expected to outpace it with a 17.5% CAGR through 2035. Hardware comprises lighting systems, hydroponic components, climate control systems, sensors and monitoring equipment, and"
+   },
+   {
+    "value": "17.5",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Hardware accounted for approximately 61% of the market, but software is expected to outpace it with a 17.5% CAGR through 2035. Hardware comprises lighting systems, hydroponic components, climate control systems, sensors and monitoring equipment, and"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Asia Pacific is expected to expand from $3.195 billion in 2026 to $11.895 billion in 2035, representing a 15.8% CAGR. China held a 33.4% share of the regional market in 2025. China's 2024–2028"
+   },
+   {
+    "value": "33.4",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Asia Pacific is expected to expand from $3.195 billion in 2026 to $11.895 billion in 2035, representing a 15.8% CAGR. China held a 33.4% share of the regional market in 2025. China's 2024–2028"
+   },
+   {
+    "value": "3.63",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": ". The two companies represented a combined 3.63% pro forma share of the 2024 market according to the approved market estimates."
+   },
+   {
+    "value": "2",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "Some of the major players in vertical farming market include Signify, Fluence, Priva, Ridder Group, Munters, which collectively held 2% market share in 2025."
+   },
+   {
+    "value": "68",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "The vegetables segment held 68% of the total market share in 2025. It is projected to grow at a CAGR of 14.3% through 2035."
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "quote": "The vegetables segment held 68% of the total market share in 2025. It is projected to grow at a CAGR of 14.3% through 2035."
+   },
+   {
+    "value": "45",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "quote": "Hardware dominated with a 45% market share in 2025. The capital intensity of building a vertical farm sits primarily in its physical systems:"
+   },
+   {
+    "value": "70",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "quote": "AeroFarms is a U.S. vertical farming leader specializing in aeroponic indoor cultivation of microgreens, commanding over 70% of the U.S. retail microgreens market and pioneering sustainable, climate‑agnostic food production using 90% less water and no pesticides. It aims to expand globally while adv"
+   },
+   {
+    "value": "90",
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "quote": "AeroFarms is a U.S. vertical farming leader specializing in aeroponic indoor cultivation of microgreens, commanding over 70% of the U.S. retail microgreens market and pioneering sustainable, climate‑agnostic food production using 90% less water and no pesticides. It aims to expand globally while adv"
+   },
+   {
+    "value": "40.31",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "quote": "North America led the global market with the highest market share of 40.31% in 2025."
+   },
+   {
+    "value": "71.87",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "quote": "By category, the CAPEX + OPEX segment has captured the largest revenue share of 71.87% in 2025."
+   },
+   {
+    "value": "58.49",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "quote": "By structure, the Building-based segment has captured a revenue share of around 58.49% in 2025."
+   },
+   {
+    "value": "63.32",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "quote": "By crop category, the Leafy Greens segment holds the largest revenue share of 63.32% in 2025."
+   },
+   {
+    "value": "20",
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "quote": ", and AI-driven crop recipes have lifted yields by 10-20% in commercial deployments. Patent activity is concentrated in lighting spectra, nutrient delivery, and automation, while breeding of indoor-optimized cultivars is moving from pilot to scale."
+   },
+   {
+    "value": "60.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "quote": "By component: Hardware segment held the largest market share of 60.6% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000359334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/plant-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.svpjapan.com/insight/download/report_20250327_01.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.nissyoku.co.jp/flash/1269043",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdb-biz.jmar.co.jp/column/85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kankyo-business.jp/news/007017.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/plant-factory_2.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/vertical-farming-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/vertical-farming-market-101958",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/vertical-farming-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/vertical-farming-market-share.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/vertical-farming-market/north-america",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/vertical-farming-market-report-2024-152800237.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cmr.berkeley.edu/2018/01/vertical-farming/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/verticalfarming/comments/1tybhbc/i_tracked_every_publicly_traded_vertical_farming/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://verticalfarming.blog/top-10-vertical-farming-companies-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-30-companies-in-vertical-farming-market-2025-strategic-overview-and-future-trends-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-vertical-farming-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metastatinsight.com/blogdetails/top-40-vertical-farming-companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "植物工場 市場規模 CAGR",
+   "results": [
+    "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "https://www.sphericalinsights.com/jp/reports/plant-factory-market",
+    "https://www.dreamnews.jp/press/0000359334",
+    "https://mdb-biz.jmar.co.jp/column/85",
+    "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "https://japan.cnet.com/release/31198221/",
+    "https://www.globalgrowthinsights.com/jp/market-reports/plant-factory-market-105538"
+   ]
+  },
+  {
+   "query": "植物工場 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/plant-factory/",
+    "https://www.sdki.jp/reports/plant-factory-market/115233",
+    "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "https://digital-supporter.net/mirai-ai/17invest/shokubutsu-koujou.html",
+    "https://www.svpjapan.com/insight/download/report_20250327_01.pdf",
+    "https://www.dreamnews.jp/press/0000359334",
+    "https://news.nissyoku.co.jp/flash/1269043",
+    "https://www.yano.co.jp/press-release/show/press_id/3572?srsltid=AYCX9vKu55-HdzvyCRf5sstVWnk0S8KsZV0-GymIzOVDPGjSBvDo9Nr9",
+    "https://smartagri.jp/plant-factory-directory/",
+    "https://www.kdmarketinsights.jp/report-analysis/plant-factory-market/183"
+   ]
+  },
+  {
+   "query": "植物工場 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/market_reports/C68105600?srsltid=AYCX9vKT_LNaT6aB2Z6W5s71C74vXR3PMtDyxXxgWLiEcAmsdkYnaxkC",
+    "https://www.researchnester.jp/industry-analysis/plant-factory-market/3334",
+    "https://mdb-biz.jmar.co.jp/column/85",
+    "https://www.dreamnews.jp/press/0000359334",
+    "https://www.gii.co.jp/report/ires2094786-plant-factory-market-global-forecast.html",
+    "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "https://www.kankyo-business.jp/news/007017.php",
+    "https://plant-factory.businesshub.trueone.co.jp/page-1-market-size.html",
+    "https://www.mri.co.jp/knowledge/column/plant-factory_2.html",
+    "https://www.yano.co.jp/market_reports/C68105600"
+   ]
+  },
+  {
+   "query": "vertical farming market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "https://www.precedenceresearch.com/vertical-farming-market",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "https://www.mordorintelligence.com/industry-reports/vertical-farming-market",
+    "https://www.bccresearch.com/market-research/instrumentation-and-sensors/vertical-farming-market.html?srsltid=AYCX9vKcJ8ZMOS0oewsipdUtrAG6wg-FypyLvcM3iZh4wz2EOQ1j-Nrj",
+    "https://www.acumenresearchandconsulting.com/press-releases/vertical-farming-market",
+    "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "https://market.us/report/vertical-farming-market/",
+    "https://www.fortunebusinessinsights.com/industry-reports/vertical-farming-market-101958"
+   ]
+  },
+  {
+   "query": "vertical farming market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/vertical-farming-market-101958",
+    "https://www.precedenceresearch.com/vertical-farming-market",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "https://market.us/report/vertical-farming-market/",
+    "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/vertical-farming-market-share.asp",
+    "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "https://www.mordorintelligence.com/industry-reports/united-states-vertical-farming-market",
+    "https://www.sphericalinsights.com/reports/vertical-farming-market",
+    "https://www.6wresearch.com/market-takeaways-view/global-vertical-farming-market/companies"
+   ]
+  },
+  {
+   "query": "vertical farming market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/vertical-farming-market",
+    "https://www.snsinsider.com/reports/vertical-farming-market-2897",
+    "https://www.mordorintelligence.com/industry-reports/vertical-farming-market",
+    "https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market",
+    "https://market.us/report/vertical-farming-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/vertical-farming-market/north-america",
+    "https://uk.finance.yahoo.com/news/vertical-farming-market-report-2024-152800237.html",
+    "https://cmr.berkeley.edu/2018/01/vertical-farming/",
+    "https://www.psmarketresearch.com/market-analysis/vertical-farming-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "vertical farming market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/vertical-farming-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/vertical-farming-market-101958",
+    "https://www.grandviewresearch.com/industry-analysis/vertical-farming-market",
+    "https://www.futuremarketinsights.com/reports/vertical-farming-market",
+    "https://www.mordorintelligence.com/industry-reports/vertical-farming-market",
+    "https://market.us/report/vertical-farming-market/",
+    "https://www.reddit.com/r/verticalfarming/comments/1tybhbc/i_tracked_every_publicly_traded_vertical_farming/",
+    "https://verticalfarming.blog/top-10-vertical-farming-companies-2026/",
+    "https://www.sphericalinsights.com/blogs/top-30-companies-in-vertical-farming-market-2025-strategic-overview-and-future-trends-2024-2035",
+    "https://dataintelo.com/report/global-vertical-farming-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

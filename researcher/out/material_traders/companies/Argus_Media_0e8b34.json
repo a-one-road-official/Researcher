@@ -1,0 +1,837 @@
+{
+ "name": "Argus Media",
+ "aliases": [
+  "Argus"
+ ],
+ "context": "素材の価格情報（データ課金）（英）",
+ "researched_at": "2026-11-02T17:05:45.120852+00:00",
+ "official_url": "https://www.argusmedia.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "何を": [
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products overview",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metals",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metals overview",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Minor metals",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Base metals",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Price benchmarks and forward looking analysis for global refined oil products, including; road fuels, jet fuel, marine fuels, base oils and more.",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We published over 1,300 proprietary metals prices for regional markets across the world, along with in-depth news and analysis.",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our products & platforms give you access across marketplaces",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Register below and we will customise a solution that meets your exact needs. When you speak to one of our experts, you may be qualified to sample our industry-leading products on a no-cost basis.",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products overview",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Metals",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Metals overview",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Minor metals",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Base metals",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Products",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Register below and we will customise a solution that meets your exact needs. When you speak to one of our experts, you may be qualified to sample our industry-leading products on a no-cost basis.",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products overview",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Metals",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Metals overview",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Minor metals",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Base metals",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Products",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products overview",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Metals",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Metals overview",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Minor metals",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Base metals",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Products",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Register below and we will customise a solution that meets your exact needs. When you speak to one of our experts, you may be qualified to sample our industry-leading products on a no-cost basis.",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products overview",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Metals overview",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Minor metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Base metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "strategic storage, larger stockpiles of products and more refining capacity that",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products overview",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Metals overview",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Minor metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Base metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Key products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Related products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Register below and we will customise a solution that meets your exact needs. When you speak to one of our experts, you may be qualified to sample our industry-leading products on a no-cost basis.",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Argus Metals",
+    "url": "https://www.argusmedia.com/en/news-and-insights/market-insight-papers/spotlight-renewable-diesel",
+    "pass": 1
+   },
+   {
+    "quote": "Oil products",
+    "url": "https://www.argusmedia.com/en/news-and-insights/market-insight-papers/spotlight-renewable-diesel",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "US plants run hard, margins triple",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Record Gasoline Margins Pressure Europe's Aromatics Chain",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customer success specialists are on hand to help you get the most out of your Argus subscription.",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our global team of customer success specialists are here to ensure you extract the maximum value from your Argus subscription",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "If your subscription includes access to one of the Argus platforms, you can download copies of the reports you subscribe to by clicking on the Publications tab at the top of the page. From there, you can select the report you want to download and click the PDF button to download the most recent report.",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "southern Pelotas basin and the equatorial margin. Lula has been a strong",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "Record Gasoline Margins Pressure Europe's Aromatics Chain",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Key pricing benchmarks and margin drivers across North America",
+    "url": "https://www.argusmedia.com/en/news-and-insights/market-insight-papers/spotlight-renewable-diesel",
+    "pass": 1
+   },
+   {
+    "quote": "Access your Argus subscription via Argus Mobile.",
+    "url": "https://www.argusmedia.com/en/solutions/how-we-deliver/client-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Our global team of customer success specialists are here to ensure you extract the maximum value from your Argus subscription",
+    "url": "https://www.argusmedia.com/zh/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "If your subscription includes access to one of the Argus platforms, you can download copies of the reports you subscribe to by clicking on the Publications tab at the top of the page. From there, you can select the report you want to download and click the PDF button to download the most recent report.",
+    "url": "https://www.argusmedia.com/zh/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "Our global team of customer success specialists are here to ensure you extract the maximum value from your Argus subscription",
+    "url": "https://www.argusmedia.com/de/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "If your subscription includes access to one of the Argus platforms, you can download copies of the reports you subscribe to by clicking on the Publications tab at the top of the page. From there, you can select the report you want to download and click the PDF button to download the most recent report.",
+    "url": "https://www.argusmedia.com/de/about-argus/training-and-support",
+    "pass": 1
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "The unique market insights we deliver are founded on a deep understanding of market mechanisms. Our methodologies for price discovery are transparent and firmly based on rigorous processes and specifications developed in consultation with market participants.",
+    "url": "https://www.argusmedia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1970, Argus remains a privately held UK-registered company owned by employee shareholders and global growth equity firm General Atlantic.",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "3.9mn b/d in September, up from 3.53mn b/d in February, before the war started,",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "exported more electricity last year than any country in history. Cutting",
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "pass": 1
+   },
+   {
+    "quote": "10-year forecast and five-year history covering supply and demand fundamentals across 80+ countries and all major methanol derivatives. A 10-year methanol price forecast covering all major market hubs is also included.",
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1970, Argus remains a privately held UK-registered company owned by employee shareholders and global growth equity firm General Atlantic.",
+    "url": "https://www.argusmedia.com/ja/about-argus",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "Our international leadership team is made up of dedicated, focused and experienced executives, who are passionate about commodity markets. In line with our company values, they shape our strategy and lead our people to deliver value for our customers.",
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work for mutual good with our customers and with all our colleagues.",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.",
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We proactively help hundreds of customers each week across every part of the energy and commodities supply chain. From onboarding and set-up to platform training and in-depth demonstrations, our customer success team constantly unlocks additional value for our clients.",
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "These are used to track the effectiveness of our marketing emails and to learn more about how customers use our website and what content they are interested in",
+    "url": "https://www.argusmedia.com/en/privacy-policy/content-platforms-cookies-drm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Our international leadership team is made up of dedicated, focused and experienced executives, who are passionate about commodity markets. In line with our company values, they shape our strategy and lead our people to deliver value for our customers.",
+    "url": "https://www.argusmedia.com/ja/about-argus",
+    "pass": 1
+   },
+   {
+    "quote": "Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.",
+    "url": "https://www.argusmedia.com/de/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work for mutual good with our customers and with all our colleagues.",
+    "url": "https://www.argusmedia.com/de/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.",
+    "url": "https://www.argusmedia.com/de/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.",
+    "url": "https://www.argusmedia.com/ja/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work for mutual good with our customers and with all our colleagues.",
+    "url": "https://www.argusmedia.com/ja/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.",
+    "url": "https://www.argusmedia.com/ja/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.",
+    "url": "https://www.argusmedia.com/pt/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work for mutual good with our customers and with all our colleagues.",
+    "url": "https://www.argusmedia.com/pt/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.",
+    "url": "https://www.argusmedia.com/pt/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Tell the Argus story, win new customers, and build relationships that last — driving growth and shaping the future of our business.",
+    "url": "https://www.argusmedia.com/es/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work for mutual good with our customers and with all our colleagues.",
+    "url": "https://www.argusmedia.com/es/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with our customers to solve energy and commodity market challenges, bringing transparency to a world in transition.",
+    "url": "https://www.argusmedia.com/es/about-argus/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We proactively help hundreds of customers each week across every part of the energy and commodities supply chain. From onboarding and set-up to platform training and in-depth demonstrations, our customer success team constantly unlocks additional value for our clients.",
+    "url": "https://www.argusmedia.com/zh/about-argus/training-and-support",
+    "pass": 1
+   },
+   {
+    "quote": "We proactively help hundreds of customers each week across every part of the energy and commodities supply chain. From onboarding and set-up to platform training and in-depth demonstrations, our customer success team constantly unlocks additional value for our clients.",
+    "url": "https://www.argusmedia.com/de/about-argus/training-and-support",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Solutions for Market Research and Forecasting - Argus Media — AI Solutions for Market Research and Forecasting - Argus Media Argus Media https://www.argusmedia.com > solutions > ai-solutions",
+    "url": "https://www.argusmedia.com/ja/solutions/how-we-deliver/ai-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Argus Media : 商品価格、予測、ニュース＆市場分析 | アルガス ... — Argus Media : 商品価格、予測、ニュース＆市場分析 | アルガス ... Argus Media https://www.argusmedia.com > ...",
+    "url": "https://www.argusmedia.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "CEO, Board of Directors & Leadership | Argus Media — CEO, Board of Directors & Leadership | Argus Media Argus Media https://www.argusmedia.com > about-argus > our-people",
+    "url": "https://www.argusmedia.com/ja/about-argus/our-people",
+    "pass": 3
+   },
+   {
+    "quote": "Argus Media - The Org — Argus Media - The Org The Org https://theorg.com > argus-media-group",
+    "url": "https://theorg.com/org/argus-media-group",
+    "pass": 3
+   },
+   {
+    "quote": "Argus Media : 求人 - LinkedIn — Argus Media : 求人 - LinkedIn LinkedIn https://jp.linkedin.com > company > argus-media > jobs",
+    "url": "https://jp.linkedin.com/company/argus-media/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet Topco ( Argus Media ) 'B+' Ratings Affirmed; Outlook Stable — Fleet Topco ( Argus Media ) 'B+' Ratings Affirmed; Outlook Stable S&P Global https://www.spglobal.com > sourceId",
+    "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101612469",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Services | Argus Media — Financial Services | Argus Media Argus Media https://www.argusmedia.com > financ...",
+    "url": "https://www.argusmedia.com/en/industries/financial-services-commodity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hg mulls sale of minority stake in Argus Media at 3bn-plus EV — Hg mulls sale of minority stake in Argus Media at 3bn-plus EV ION Analytics Community https://community.ionanalytics.com > ...",
+    "url": "https://community.ionanalytics.com/hg-mulls-minority-stake-sale-argus-media-3bn-plus-ev",
+    "pass": 3
+   },
+   {
+    "quote": "Argus Media - Overview, News & Similar companies - ZoomInfo — Argus Media - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > argus-m...",
+    "url": "https://www.zoominfo.com/c/argus-media-ltd/6999263",
+    "pass": 3
+   },
+   {
+    "quote": "Argus Media - LinkedIn — Argus Media - LinkedIn LinkedIn https://uk.linkedin.com > argus-media",
+    "url": "https://uk.linkedin.com/company/argus-media",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.argusmedia.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/about-argus/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/about-argus/training-and-support",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2898876-oil-services-firms-see-momentum-building-into-2027",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/methanol-market-us-iran-outlook",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/news-and-insights/market-insight-papers/spotlight-renewable-diesel",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/solutions/how-we-deliver/client-portal",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/privacy-policy/content-platforms-cookies-drm-tools",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/zh/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/de/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/ja/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/pt/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/ru/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/es/about-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/about-argus/life-at-argus",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/zh/about-argus/careers",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.argusmedia.com/de/about-argus/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/ja/about-argus/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/pt/about-argus/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/ru/about-argus/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/es/about-argus/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/en/about-argus/careers/open-positions",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/zh/about-argus/training-and-support",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.argusmedia.com/de/about-argus/training-and-support",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/methodology/data-and-documentation/argus-direct-for-spreadsheets-user-guide.pdf?rev=3f7676d940df4753aaad37f14bef6b17&hash=0305BF4C1DC50E0BE3AD479FF08E455D",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/methodology/data-and-documentation/argus-direct-for-spreadsheets-installation-guide.pdf?rev=b3259e2e306f42f694b3089433f3a373&hash=46CBD4F512DEDA9D5014A17E569C1B39",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/methodology/data-and-documentation/argus-direct-for-spreadsheets-faqs.pdf?rev=e40308f6c01a4eb098bcdccecee7bfc7&hash=1F182040A552F25F6AE9B84ADB58EDD3",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/platforms/argus-direct/argus-direct-user-guide-(1).pdf?rev=a988d1156db54f09ac14031122b47171",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/methodology/data-and-documentation/argus-direct-for-spreadsheets-user-guide.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/methodology/data-and-documentation/argus-direct-for-spreadsheets-installation-guide.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/methodology/data-and-documentation/argus-direct-for-spreadsheets-faqs.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.argusmedia.com/-/media/project/argusmedia/mainsite/english/documents-and-files/platforms/argus-direct/ask-argus-user-guide.pdf?rev=d8a6386494ec45ee8154f2ce0b44d8e6",
+    "status": "http_202",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://corp.itmedia.co.jp/recruit/company/2025/08/20/businessmodel2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medius.co.jp/ir/library/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theorg.com/org/argus-media-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101612469",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Argus Media ビジネスモデル 収益構造",
+   "results": [
+    "https://www.argusmedia.com/ja/solutions/how-we-deliver/ai-solutions",
+    "https://corp.itmedia.co.jp/recruit/company/2025/08/20/businessmodel2025/",
+    "https://www.youtube.com/watch?v=N9PLAne1W7o",
+    "https://www.wantedly.com/companies/itmedia/post_articles/519998",
+    "https://stripe.com/jp/resources/more/media-business-models",
+    "https://www.glocom.ac.jp/wp-content/uploads/2020/09/20200901shiryo.pdf",
+    "https://www.u-hyogo.ac.jp/mba/pdf/SBR/4-3/119.pdf",
+    "https://ximera.com/category/media-business/",
+    "https://growth-marketing.jp/knowledge/hot-information-overseas49/",
+    "https://www.argusmedia.com/ja/about-argus/our-people"
+   ]
+  },
+  {
+   "query": "Argus Media 決算説明資料 セグメント",
+   "results": [
+    "https://www.medius.co.jp/ir/library/presentations/",
+    "https://www.argusmedia.com/ja",
+    "https://www.arclands.co.jp/ja/ir/library/result.html",
+    "https://www.tm-nets.com/ir/library/presentation/",
+    "https://jp.medialinks.com/investor-relations/",
+    "https://ir-compass.com/docs/financial-results/",
+    "https://ir.ulvac.co.jp/ja/ir/library/result.html",
+    "https://www.are-holdings.com/ir/library/account/",
+    "https://www.artiencegroup.com/ja/corporate/ir/archives/financial-statement/",
+    "https://www2.jpx.co.jp/disc/47840/140120240507582932.pdf"
+   ]
+  },
+  {
+   "query": "Argus Media 社長 インタビュー",
+   "results": [
+    "https://www.argusmedia.com/ja/about-argus/our-people",
+    "https://theorg.com/org/argus-media-group",
+    "https://www.argusmedia.com/ja",
+    "https://jp.linkedin.com/company/argus-media/jobs",
+    "https://compalyze.co.jp/company/5010001220500",
+    "https://www.daijob.com/jobs/company/4790",
+    "https://www.theofficialboard.jp/%E7%B5%84%E7%B9%94%E5%9B%B3/argus-media",
+    "https://www.fukunaga-print.co.jp/shikoutsushin/media/2022/20220110/",
+    "https://news.juntsu.co.jp/tag/%E3%82%A2%E3%83%BC%E3%82%AC%E3%82%B9%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2/",
+    "https://en.wikipedia.org/wiki/Argus_Media"
+   ]
+  },
+  {
+   "query": "Argus Media business model revenue gross margin",
+   "results": [
+    "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101612469",
+    "https://www.argusmedia.com/en/industries/financial-services-commodity-market",
+    "https://community.ionanalytics.com/hg-mulls-minority-stake-sale-argus-media-3bn-plus-ev",
+    "https://www.zoominfo.com/c/argus-media-ltd/6999263",
+    "https://uk.linkedin.com/company/argus-media",
+    "https://app.snowflake.com/marketplace/listing/GZSVZUXRSS/argus-media-argus-media-oil-products",
+    "https://growjo.com/company/Argus_Media",
+    "https://en.wikipedia.org/wiki/Argus_Media",
+    "https://www.glassdoor.ca/Overview/Working-at-Argus-Media-EI_IE153509.11,22.htm",
+    "https://incfact.com/company/argusmedia-houston-tx/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）",
+  "加工・付加価値": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）",
+  "利益の源泉": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索4回）"
+ }
+}

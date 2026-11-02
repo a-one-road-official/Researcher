@@ -1,0 +1,1922 @@
+{
+ "name": "洋上風力",
+ "en": "offshore wind",
+ "aliases": [
+  "浮体式洋上風力"
+ ],
+ "context": "12 GX ⑤洋上風力",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:57:47.287370+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "洋上風力発電市場規模：世界市場レポート 2026～2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.の最新調査によると、洋上風力エネルギー市場規模は2025年に769億米ドルと評価されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年の1,090億米ドルから2035年には3,075億米ドルに成長し、年平均成長率（CAGR）は12.2%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 76.9 Billion",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 109 Billion",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 307.5 Billion",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Energy Market Size, By Component, 2023 – 2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "水深別に見ると、洋上風力エネルギー市場は>0 ≤ 30 m、>30 ≤ 50 m、> 50 mに区分されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart: U.S. Offshore Wind Energy Market Size, 2023-2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力発電市場は、政府、電力会社、開発事業者、エネルギー投資家が化石燃料ベースの電力システムから大規模再生可能エネルギー発電への移行を加速させる中で、高成長の10年に突入しています",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "最新の市場見通しによると、洋上風力発電市場は2025年78.4ギガワットから2035年2035年には452.5ギガワットへ成長し、**2026年から2035年までの年間平均成長率（CAGR）は19.16%**と予測されています",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "• 洋上風力発電市場は、2025年に78.4ギガワットと評価されました",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "フラーレン市場は2035年に9億7,035万米ドル規模へ、CAGR 6.02％を記録｜抗酸化成分・次世代スキンケア・電子材料への応用が市場成長を後押し",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "ビューファインダー市場は2035年に29億米ドルへ拡大、CAGR 5.5％で進むカメラ光学技術の進化と高精度撮影需要",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "0.127 USD/kWhであり、2010年に比べ",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0.05 USD/kWh～0.09 USD/kWhのレン",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ジとなり、2050年までには0.03 USD/kWh～",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0.07 USD/kWhのレンジになる",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "USD/kWh～0.17 USD/kWhであるため、",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オフショア風力市場規模, 株式 & 見通しへ 2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 48.50 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 142.29 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 83.07 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国のヴィンヤード・ウィンド1やエンパイア・ウィンドなどの大規模オフショア・プロジェクトには数十億ドルの投資が必要であり、小規模なエネルギー開発業者やインフラ資金が限られている地域にとっては障壁となる可能性がある",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力市場は、水深に基づいて、0m超≤30m、30m超≤50m、50m超の3つに分類されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の風力発電市場規模は、2025年には1,111億3,000万米ドルと評価され、2026年の1,196億2,000万米ドルから2034年には2,155億7,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.64%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）7.64%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "電解槽市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電ポンプ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の洋上風力運営会社業界の市場シェアを簡易に試算しますと、1位はオーステッド、2位はバッテンフォール、3位はRWEとなります",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2024年の洋上風力運営会社業界の市場規模を83GWとしております",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社サウルエナジーによると、2024年の同業界の市場規模は83GWです",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力運営会社業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力運営会社業界の市場規模の予想成長推移 ©2025 Deallab",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 ノースランド・パワー、540MWの運用用風力発電と太陽光発電のポートフォリオの取得と同時の9億ドルの株式融資を通じてスペインの再生可能エネルギー市場への参入を発表",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中国本土以外の風力発電設備・新設市場は、2023年比で10％減少した",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "特に米国市場は4年連続で減少し、2024年は5.4GWと過去10年間で最低を記録した",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "なお、洋上風力の中国市場は、世界全体（11.7GW）の過半となる6.1GWを占めるが、まだ支配的なメーカーは現れていないという",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の国内市場、2040年度に982億円",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "またイギリス政府は7000基以上の洋上風力発電の設置計画を発表、事業規模は約13兆円",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年 イギリスに洋上風力発電設備の工場を530億円で新設",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合後の売上は93億ユーロ（約1兆300億円）",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年インドで風力発電プロジェクト 1000億円で受注（2013年完成予定）",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年に約370億円を投じ、上海に風力タービン製造工場を建設",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2012年 富士重工業の風力発電事業を10億円で買収する",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度の国内風力発電市場規模は約1兆2,800億円に達すると予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "～着床式洋上風力発電の大幅な拡大と浮体式洋上風力発電の運転開始、陸上風力発電の増加によって市場規模は2025年度見通しの4倍以上に拡大予測～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、2040年度までの洋上風力発電（着床式、浮体式）と陸上風力発電を合算した風力発電市場規模予測について、公表する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の国内風力発電市場規模は2,935億円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたことから、2040年度の風力発電市場規模は1兆2,848億円（2025年度比約438％）に達すると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "日本洋上風力発電市場規模・シェア・成長2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の洋上風力発電の市場規模、シェア、動向、予測 インスタレーション、水深別、容量別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場は2026年の1,090億米ドルから2035年には3,075億米ドルに成長し、年平均成長率（CAGR）は12.2%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2026～2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年12月、住友商事は英国のファイブ・エスチュアリーズ洋上風力プロジェクトについて政府承認を取得したと発表し、欧州における再生可能エネルギー事業ポートフォリオを拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のセグメントは、2025年に 38.2%超の市場シェア を占め、2035年まで年平均成長率（CAGR）11.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力発電市場2035年には452.5ギガワット｜CAGR 19.16%で拡大する次世代クリーンエネルギー投資動向 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力発電市場2035年には452.5ギガワット｜CAGR 19.16%で拡大する次世代クリーンエネルギー投資動向",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "最新の市場見通しによると、洋上風力発電市場は2025年78.4ギガワットから2035年2035年には452.5ギガワットへ成長し、**2026年から2035年までの年間平均成長率（CAGR）は19.16%**と予測されています",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "• 基準年: 設置容量78.4ギガワットを基盤として、長期的拡大の土台を形成",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向け、洋上風力発電は、容量増加、技術改善、政策支援、クリーン電力需要の拡大に支えられ、世界の再生可能エネルギー転換の中心的柱となると期待されています",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "日本5G産業用IoT市場、2035年に301億2000万米ドルへ拡大｜CAGR 5.5％、スマート工場・産業オートメーション・リアルタイム通信の高度化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "EU加盟国の洋上風力導入拡大に関する政策目標を表3に示す",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この見通しは、2019年～2050年にかけての年平均",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年のCAGRが38.5%であったことを踏まえると、こ",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年までの間、毎年平均3.5GW程度の導入を、「持続可能な開発シ",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナリオ」では毎年平均5ＧＷ以上の導入を予測している（2030年",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ナリオ」では毎年平均6GW超、「持続可能な開発シナリオ」では毎年",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14.40%のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、2050年までに気候中立を達成し、2030年までに洋上風力を少なくとも111GWに拡大するというEUの野心的な目標に支えられ、設置容量と技術革新の両面で市場をリードしています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気インフラセグメントは、沖合変電所、ケーブル、グリッド統合システムへの投資の増加により、2025年から2032年にかけて17.6%という最高のCAGRで成長すると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "50mを超えるセグメントは、深海での浮体式風力発電プラットフォームの導入増加により、2025～2032年の間に19.2%という最速のCAGRで拡大すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "浮体構造セグメントは、浮体基礎の進歩と海岸線が深い国の有利な政策により、2025年から2032年にかけて20.4%のCAGRで成長すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "深海セグメントは、浮体式風力発電の革新とより深みのある場所の探査に支えられ、2032年までに18.7%のCAGRで最速の成長を遂げると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "実証セグメントは、特にパイロット導入を実施している新興の洋上風力市場で、2025年から2032年にかけて11.8%のCAGRで成長すると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までに30GW、2045年までに70GWを達成するという野心的な目標を掲げ、ドイツは北海およびバルト海地域で洋上風力発電所の建設を拡大しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は浮体式洋上風力発電の設置面積を拡大しており、規模の経済、国有企業の関与、統合された港湾インフラを活用し、2030年までに総容量60GWを超えることを目指しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月、英国のクラウン・エステート（王室財産）は、浮体式風力発電開発を含む洋上風力発電の拡大を支援するため、港湾インフラの改修に4億ポンドを投資すると発表しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の風力発電市場規模は、2025年には1,111億3,000万米ドルと評価され、2026年の1,196億2,000万米ドルから2034年には2,155億7,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.64%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドは再生可能エネルギーロードマップに基づき、2030年までに風力発電容量を140GWに拡大することを目標としている",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場の規模は、2026年には1,196億2,000万米ドルと評価され、2034年までに2,155億7,000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.64%である",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）7.64%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力運営会社業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2004年から6年連続で前年比2倍の成長を遂げ、2010年にはアメリカを抜いて累積導入量で世界一となる",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は、再生エネルギー拡大の柱に位置づけ2030年までに原発10基分に当たる出力1千万kW（10GW）の洋上風力発電の導入目標を掲げている",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "1991年に0.5MW程度だった風車の規模は大きく拡大した",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 日本における洋上風力拡大加速に向けた提言（2022年6月）",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～着床式洋上風力発電の大幅な拡大と浮体式洋上風力発電の運転開始、陸上風力発電の増加によって市場規模は2025年度見通しの4倍以上に拡大予測～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電の導入容量は2028年度頃までは主に陸上風力の増加によって拡大する見通しである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "pass": 3
+   },
+   {
+    "quote": "浮体式洋上風力発電については、技術開発等を通じて国内サプライチェーンの強化等を図りつつ、排他的経済水域を含めた導入拡大を進め、2050年には、系統や調整力のコストを含めて経済的に自立した電源となることを目指すとしています",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の洋上風力は、この10年余りで着実に拡大しました",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国では2024年に新たに4GWの洋上風力発電が設置され、2024年末までの累積導入量が41.8GWに達するなど、近年の世界市場拡大の最大の牽引役です",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "5．日本の洋上風力導入拡大に向けた課題",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の洋上風力の導入拡大に向けた課題は、大きく３点に整理できます",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力の導入拡大には、事業者が投資判断できる制度設計が不可欠であり、第７次エネ基でも導入加速に向けた環境整備が示されています",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARC Groupは、2026年から2034年の期間において年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）17.98%で",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 2026-2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "実証試験は2031年3月まで実施され、日本の浮体式風力発電能力を効率的に拡大することを目指す",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本がかかげる「2050年カーボンニュートラル」実現には、CO2を排出しない再生可能エネルギー（再エネ）の導入拡大が必要です",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/yojohuryokuhatuden2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "CO2を排出しない再エネの導入拡大はその取り組みのひとつです",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/yojohuryokuhatuden2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府が掲げる「2050年カーボンニュートラル」の実現には、二酸化炭素（CO2）を排出しない再生可能エネルギー（再エネ）の導入拡大が不可欠だ",
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2025年時点の世界の洋上風力発電の累積導入設備容量は2020年の36.1GW（ギガワット）から92.5GWへと約2.6倍拡大した",
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州では、デンマークやオランダを中心に1990年代から実証と商用化を進め、続いて英国やノルウェーも市場を拡大してきた歴史がある",
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本における洋上風力市場の拡大を前提として、同社は2029年度までに国内にナセル（発電機などの主要機器を収める部分）最終組み立て拠点を、2039年度までにナセル完全生産拠点を設立するためのロードマップを策定している",
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "pass": 3
+   },
+   {
+    "quote": "According to a recent study by Global Market Insights Inc., the offshore wind energy market size was valued at USD 76.9 billion in 2025. The market is anticipated to grow from USD 109 billion in 2026 to USD 307.5 billion in 2035, at a CAGR of 12.2%.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on component, the offshore wind energy market is segmented into turbine, support structure, electrical infrastructure and Others. The others segment accounted for over 38.2% market share in 2025 and is expected to grow at a CAGR of 11.7% through 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on depth, the offshore wind energy market is segmented into >0 ≤ 30 m, >30 ≤ 50 m, and > 50 m. The >0 ≤ 30 m accounts for the major share with 51.7% in 2025 and is expected to grow at a CAGR of 10.5% up to 2035, owing to the technical maturity and cost-effectiveness of fixed-bottom foundation technologies in shallow waters.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. offshore wind energy market was valued at USD 3.1 billion in 2025 and is projected to grow at a CAGR of 8.5% for the forecast period of 2026-2035.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The offshore wind energy market in Asia Pacific, China is expected to grow at a CAGR of 13% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "洋上風力エネルギー市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Gamesa Renewable Energyは、2025年に15%以上の市場シェアを獲得し、首位となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のセグメントは、2025年に 38.2%超の市場シェア を占め、2035年まで年平均成長率（CAGR）11.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気インフラは、技術の進歩、プロジェクト規模の拡大、効率的で信頼性の高いエネルギー伝送への需要を背景に、2025年に市場シェアの17.6%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": ">0 ≤ 30 mの区分は、2025年に51.7%と最大のシェアを占めており、浅海域における着床式基礎技術の技術的成熟度と費用対効果の高さを背景に、2035年まで年平均成長率（CAGR）10.5%で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、技術の進歩、環境問題への関心の高まり、支援的な政策により市場環境が強化され、2025年には4%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中国のメーカーである明陽（MingYang）や金風科技（Goldwind）は、定格出力16MWを超える世界最大級の洋上風力タービンを開発しており、国際市場でのシェアを拡大するとともに、洋上風力発電の導入を先導しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力エネルギー業界で事業を展開する上位5社は、シーメンス・ガメサ・リニューアブル・エナジー、ヴェスタス・ウィンド・システムズ、GEリニューアブル・エナジー、明陽スマートエナジー、ゴールドウインドです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア15%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の合計市場シェアは55%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "シェアを見ると欧州が全体の約70%を占めてい",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入量（左図）については、6.1GWのうち中国が50%を占め、続いてオランダが25%、ベルギーが12%であった",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（右図）を見ると、英国が29%を占め、次いで中国が28%、ドイツが22%となっている",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ニューヨーク 気候リーダーシップ・コミュニティー保護法 (Climate Leadership and Protection Act) 2035年までに 9 GW 2019",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "17%を洋上風力が占めることとなる",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の洋上風力発電市場の規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、成熟したインフラ、有利な規制枠組み、そして英国、ドイツ、オランダ、デンマークにおける洋上風力発電所への多額の投資に牽引され、2024年には洋上風力市場において最大の収益シェア38.5%を獲得し、市場を席巻しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業部門は、国家クリーンエネルギー目標に関連した大規模プロジェクトに牽引され、2024年には洋上風力発電市場を91.3%のシェアで支配した",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "タービン部門は、タービン容量とブレード設計の継続的な進歩に牽引され、2024年には52.4%という最大の市場シェアを獲得しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの水深は、費用対効果の高い固定底式タービンの設置に適しているため、0m超≤30mセグメントが2024年には44.1%のシェアで市場をリードする見込みです",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定式セグメントは、技術の成熟と整備されたインフラの恩恵を受け、2024年には70.6%と最大のシェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "浅水域セグメントは、建設条件とアクセスのしやすさから、2024年には46.8%の市場シェアを獲得し、市場をリードしました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業用セグメントは、国家クリーンエネルギー目標に関連した大規模プロジェクトの牽引により、2024年には91.3%と最大のシェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、欧州が世界の洋上風力市場の収益の38.5%を占め、市場を支配し、世界のクリーンエネルギー移行におけるリーダーシップを固めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の世界の洋上風力市場は、大規模プロジェクトの展開、強力な政策支援、洋上風力インフラへの一貫した投資を背景に、2024年には52%の収益シェアを獲得し、欧州の洋上風力市場をリードする見通しです",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の世界の洋上風力発電市場は、2023年に世界最大の洋上風力発電容量の増加を記録し、2024年時点で39.1GW以上の接続容量を有し、世界の洋上風力発電設備の約50%を占めています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力発電市場の規模、シェア、トレンド分析レポート：場所別（洋上、陸上）、用途別（公益事業、非公益事業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、風力発電市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の風力発電市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "分散型太陽光発電市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽電池封止材市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "有機ランキンサイクル市場の規模、シェア、成長、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "電解槽市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電ポンプ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の洋上風力運営会社業界の市場シェアを簡易に試算しますと、1位はオーステッド、2位はバッテンフォール、3位はRWEとなります",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力運営会社業界の市場シェア(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力運営会社業界の世界市場シェアと業界ランキング（2023年）",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力運営会社の世界市場シェアと業界ランキング(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/offshore-wind/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の風力市場、2024年は121GW、中国メーカー上位独占 - ニュース - メガソーラービジネス plus : 日経BP",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "世界の風力市場、2024年は121GW、中国メーカー上位独占",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の風力初d年季メーカー上位10社",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "同社の調査レポート「2024 Global Wind Turbine Market Shares（2024年・世界風力タービン市場シェア）」によると、世界の風車メーカー上位10社のうち6社を中国メーカーが占めた",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "上位4社を中国メーカーが独占し、欧米メーカーが上位3位から転落したのは、BNEFが2013年にランキングを発表して以降初めてという",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "シェア1位は、昨年から引き続きゴールドウィンド（金風科技）で、2024年の新設分は19.3GW、2位のEnvision（遠景能源）は14.5GW、3位のWindey（遠達）は12.5GW、4位のMingyang（明陽智慧能源集団）は12.2GWだった",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカーは世界市場の70％を占める中国国内の市場に大きく依存し、欧米メーカーはより多様な地域に顧客を持つ",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "なお、洋上風力の中国市場は、世界全体（11.7GW）の過半となる6.1GWを占めるが、まだ支配的なメーカーは現れていないという",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の風車メーカの世界シェア（GWEC発表） – JWPA一般社団法人 日本風力発電協会",
+    "url": "https://jwpa.jp/information/7548/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の風車メーカの世界シェア（GWEC発表）",
+    "url": "https://jwpa.jp/information/7548/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の世界の風車メーカの世界シェア順位です",
+    "url": "https://jwpa.jp/information/7548/",
+    "pass": 3
+   },
+   {
+    "quote": "上位15社中の10社・56.4%以上が中国メーカです",
+    "url": "https://jwpa.jp/information/7548/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には風力発電の新規導入量で世界の65％を中国が占める",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年時点では世界の風力発電メーカーのシェア別でも：べスタス、GE、ガメサ、エネルコンの欧米メーカーが4社で上位シェア60％を占めていた",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "が、海外メーカーから技術供与を受けた中国メーカーが製造シェアを伸ばし、2024年では世界順位 TOP10に6社が入るほど急成長した",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年時点の洋上風力発電のシェアは欧州が高く、累積の国別シェア順はイギリス、ドイツ、中国、デンマーク、ベルギー、オランダ",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "単年度の新規導入量シェア ランキング（2024年度分）",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界第1位の風力発電メーカー（単年度の新規導入量シェア）",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業はまた、エネルギー需要が増加している新興市場へのアクセスや、顧客層の拡大に向けた国際プロジェクトへの参画を目的として、事業拡大および市場浸透戦略を推進しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力エネルギー業界で事業を展開する主な企業は次のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力発電市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業としては、シーメンス・ガメサ・リニューアブル・エナジー、ヴェスタス・ウィンド・システムズ、GEリニューアブル・エナジー、明陽スマートエネルギー、ゴールドウインド、オーステッドA/S、エクイノールASA、RWEリニューアブルズ、中国龍源電力、エネセレ、古河電気工業、グローバル・エナジー、IMPSA、LSケーブル＆システム、ネクサンス、ノルデックス、プリズミアン・グループ、住友電気工業、サウスワイヤ・カンパニー、スズロン・エナジー、WEGなどが挙げられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "世界の洋上風力発電市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、GE Wind、Vestas、Siemens Wind Power、Suzlon Group、Goldwindである",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要プレイヤーのポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The top five players operating in the offshore wind energy industry are Siemens Gamesa Renewable Energy, Vestas Wind Systems, GE Renewable Energy, MingYang Smart Energy, Goldwind. Market participants are consistently investing in research and development to create advanced reactor technologies, strengthen safety measures, and boost operational performance.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Eminent players operating in the offshore wind energy industry are:",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the offshore wind energy market?",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Siemens Gamesa Renewable Energy, Vestas Wind Systems, GE Renewable Energy, MingYang Smart Energy, Goldwind, Ørsted A/S, Equinor ASA, RWE Renewables, China Longyuan Power, Enessere, Furukawa Electric, Global Energy, IMPSA, LS Cable & System, Nexans, Nordex, Prysmian Group, Sumitomo Electric, Southwire Company, Suzlon Energy, and WEG.",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wind Energy Market Size, Key Companies, Company Market Share, Power Generation Capacity, Energy Consumption, Pricing Trends, Investment Analysis, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players",
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 4: Who are the major players operating in the wind energy market?",
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the prominent players in the global wind energy market include Vestas, Dongfang Electric Corporation, ENERCON GmbH, Goldwind, Nordex SE, Sinovel, GE Renewable, Suzlon Group, Ming Yang Smart Energy Group Co., Siemens Gamesa Renewable Energy S.A..",
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Offshore Wind Market include",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Offshore Wind Market?",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Offshore Wind Market include Orsted, Siemens Gamesa, GE Renewable Energy, Vestas, and MHI Vestas.",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players Outlook",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Offshore Wind Market",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "is highly fragmented with the presence of lots of competitive players around the world. Some of the leading players are Siemens Gamesa, MHI Vestas Offshore Wind, Senvion, Adwen Offshore, ABB, GE Renewable Energy, Ming Yang Smart Energy, Nordex Group, Goldwind, Envision Energy, Suzlon Group, and Hitachi.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "pass": 3
+   },
+   {
+    "quote": "Global Offshore Wind Market: Key Players",
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the global offshore wind market are MHI Vestas, Siemens AG, General Electric, ABB, Ltd., EEW Group, Nexans, and A2SEA A/S.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the market include MHI Vestas, Siemens AG, General Electric, ABB, Ltd., EEW Group, Nexans, and A2SEA A/S.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Apart from the European market the leading players",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Key Players",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the major players operating in the offshore wind energy market?",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, share and growth analysis by component and location, across all major regions and key countries, with forecasts for 2023–2032. The competitive landscape profiles 9+ companies.",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Estimation and Forecast, Company Profile, Competitive Landscape, Growth Factors and Recent Trends",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape –",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Offshore Wind Energy Market is highly competitive, with a large number of manufacturers and retailers operating globally. Some of the key players in the market include:",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Offshore Wind market?",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market are Siemens Gamesa Renewable Energy S.A., Vestas Wind Systems A/S, Iberdrola S.A., Ørsted A/S, Equinor ASA, EDP Renováveis S.A., Northland Power Inc., MingYang Smart Energy Group Co. Ltd., GE Renewable Energy, Others.",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Offshore Wind Market Energy Market- Competitive Landscape",
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-offshore-wind-turbine-market-worldwide-2025-market-research-report-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/offshore-wind-turbine-market-report",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "投資税額控除（ITC） (Investment Tax Credit) 30%＊＊ 2002",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(March 2026): Vestas announced plans for a new nacelle and hub factory in Scotland with capital investment exceeding €250 million, specifically designed to manufacture V236-15.0 MW components for growing offshore wind demand in the UK and Europe.",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "(May 2026): RWE and Masdar received planning approval for the two 1.5 GW Dogger Bank South offshore wind projects in the UK, allowing the combined 3 GW development to progress toward final investment decisions and construction.",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "(August 2026): Iberdrola confirmed that its Massachusetts offshore wind farm had entered operation following an investment of approximately €4 billion, marking a major commissioning milestone within the company’s U.S. offshore wind portfolio.",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "“The strong growth in wind turbine installations in 2025, combined with encouraging sales numbers reported so far in 2026, shows the global wind industry is responding to meet heightened demand. To really accelerate, we need governments to move fast in removing barriers to deployment and investment, cutting red tape and bureaucracy and fast-tracking permitting and grid development.”",
+    "url": "https://www.gwec.net/news/gwec-records-sharp-rise-in-wind-turbine-installations-as-five-oems-exceed-100-gw",
+    "pass": 3
+   },
+   {
+    "quote": "by 2040, and 356–366 GW by 2050, which will drive a significant pipeline of tenders, ports investment and electrical transmission upgrades.",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2030 has been promulgated to accelerate project approvals and port and supply investments. These targets are being supported by state and national permitting, port upgrades, and industrial policies.",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Country-level evaluation by Future Market Insights indicates that Japan represents the fastest-growing market at a 22.4% CAGR from 2026 to 2036, while Denmark records an 18.9% CAGR over the same period. Across all eight evaluated coastal economies, expansion is driven by sovereign auction awards, offshore HVDC grid hubs, and port marshaling investments.",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Record 8.4 GW Allocation Round 7 CfD awards and Great British Energy floating wind co-investment",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key takeaway: In the United Kingdom, sovereign CfD auctions and Great British Energy floating wind co-investment are estimated to drive a 20.8% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "offshore wind market will generate 83000 jobs by 2032 and the investments in the market will give returns of $5.5 to 14.5 billion per year by 2025 and up to $ 25.4 billion until 2032 in terms of the economic output. US have vast stretch for energy generation. Their coastal area has the capacity to provide upto 2000GW for usage. This will draw major investments in USA com",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "ies have announced a good amount of port related investment which happens to be $307 million and $650 million in the infrastructure used for transmission. US signed a contract to develop new crew transfer vehicles which will w built by Blount Boats.",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The company has started preparing for the next stage in the expansion of its offshore portfolio. As part of the EnBW 2030 strategy, it increases investment in the short and medium term along with the entire value chain in the growing and transitioning energy system.",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "community bonus to qualify for 40% investment tax credit (ITC). LCOE is levelized cost of electricity.",
+    "url": "https://cleanpower.org/wp-content/uploads/2024/05/OSW_Financial_240223.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "efficient way of reaching climate targets in 2040 while driving economic activity, lasting investments, and",
+    "url": "https://cdn.orsted.com/-/media/www/docs/corp/be/offshore-wind-at-a-crossroads.pdf?rev=ea162ac5657f4bd0bc3a0f1dd80bee42&hash=41F7E5F2BFA8F0E6D35C81C9501D9F91",
+    "pass": 3
+   },
+   {
+    "quote": "There is a growing trend toward developing large-scale offshore wind farms with capacities exceeding 1 GW. These mega projects benefit from economies of scale, attract significant investments, and contribute substantially to national energy grids, supporting countries in achieving renewable energy and carbon neutrality targets.",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-offshore-wind-turbine-market-worldwide-2025-market-research-report-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Developing massive, multi-gigawatt offshore wind hubs requires enormous capital investment. Partnerships, such as the $15 billion RWE and KKR joint venture, are essential to de-risk these projects by combining the operational expertise of energy developers with the vast financial resources of private equity firms and institutional investors.",
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-top-10-companies-in-europe-in-2025/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "洋上風力 発電 市場規模 ：世界市場レポート 2026～2035年 — 洋上風力 発電 市場規模 ：世界市場レポート 2026～2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > offshor...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電 市場 2035年には452.5ギガワット - アットプレス — 洋上風力 発電 市場 2035年には452.5ギガワット - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電に関する世界の動向 - 自然エネルギー財団 — 洋上風力 発電に関する世界の動向 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > 202106_...",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 エネルギーインフラ Market Analysis Report 2026-2033 — 洋上風力 エネルギーインフラ Market Analysis Report 2026-2033 LinkedIn https://jp.linkedin.com > pulse > 洋上風力エネルギーイン...",
+    "url": "https://jp.linkedin.com/pulse/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9-market-analysis-report-2026-2033%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E6%88%90%E9%95%B7%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E4%BA%88%E6%B8%ACcagr%E3%81%AF108%E3%81%A8%E4%BA%88%E6%B8%AC-znmne",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電 市場 規模：世界 市場 レポート 2026～2035年 — 洋上風力 発電 市場 規模：世界 市場 レポート 2026～2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > offshor...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電の 動向2025 - 自然エネルギー財団 — 洋上風力 発電の 動向2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第13回 解説記事：テーマ「国内外の 洋上風力 の動向」 — 第13回 解説記事：テーマ「国内外の 洋上風力 の動向」 一般財団法人新エネルギー財団 https://www.nef.or.jp > keyword",
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "pass": 3
+   },
+   {
+    "quote": "洋上風力 発電の 動向 2025 - 自然エネルギー財団 — 洋上風力 発電の 動向 2025 - 自然エネルギー財団 自然エネルギー財団 PDF https://www.renewable-ei.org > activities > REI_OW...",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本 洋上風力 発電 市場 規模・シェア・成長2034 - IMARC Group — 日本 洋上風力 発電 市場 規模・シェア・成長2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Energy & Mining",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年、日本の 洋上風力 発電～今どうなってる？これから ... — 2025 年、日本の 洋上風力 発電～今どうなってる？これから ... 資源エネルギー庁 https://www.enecho.meti.go.jp > yojohuryokuhatuden2025",
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/yojohuryokuhatuden2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Energy Market Size , Global Report 2026-2035 — Offshore Wind Energy Market Size , Global Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > offsho...",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Trends, Growth & Outlook Report 2035 — Offshore Wind Market Trends, Growth & Outlook Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "pass": 3
+   },
+   {
+    "quote": "Global Offshore Wind Report 2025 - Tethys — Global Offshore Wind Report 2025 - Tethys Pacific Northwest National Laboratory | PNNL (.gov) PDF https://tethys.pnnl.gov > files > Williams-et-al-2025",
+    "url": "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Report [2026-2035] by Component & Geo — Offshore Wind Market Report [2026-2035] by Component & Geo MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/offshore-wind-market-253452593.html",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Power Market Size , Share | CAGR of 11.8% — Offshore Wind Power Market Size , Share | CAGR of 11.8% Market.us https://market.us > report > global-off...",
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Size , Share, Trends 2036 — Offshore Wind Market Size , Share, Trends 2036 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Size, Share and Analysis, 2026-2033 — Offshore Wind Market Size, Share and Analysis, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > Energy",
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Energy Market Companies, Size & Trends 2026 ... — Offshore Wind Energy Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Offshore Wind Market is Resilient, Despite Financial ... — The U.S. Offshore Wind Market is Resilient, Despite Financial ... The American Clean Power Association (ACP) PDF https://cleanpower.org > OSW_Financial_240223",
+    "url": "https://cleanpower.org/wp-content/uploads/2024/05/OSW_Financial_240223.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Energy Market | Industry Trend & Forecast 2024 — Offshore Wind Energy Market | Industry Trend & Forecast 2024 LinkedIn https://www.linkedin.com > pulse > o...",
+    "url": "https://www.linkedin.com/pulse/offshore-wind-energy-market-component-water-depth-installation-p-1hsoc",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Companies in Global Offshore Wind Turbine Market Size — Top 25 Companies in Global Offshore Wind Turbine Market Size Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-offshore-wind-turbine-market-worldwide-2025-market-research-report-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Market Size, Share , Trends 2036 — Offshore Wind Market Size, Share , Trends 2036 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "pass": 3
+   },
+   {
+    "quote": "Offshore Wind Turbine Market Size Report, 2026-2033 — Offshore Wind Turbine Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/offshore-wind-turbine-market-report",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "市場は2026年の1,090億米ドルから2035年には3,075億米ドルに成長し、年平均成長率（CAGR）は12.2%に達すると予測されています"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "その他のセグメントは、2025年に 38.2%超の市場シェア を占め、2035年まで年平均成長率（CAGR）11.7%で成長すると予測されています"
+   },
+   {
+    "value": "19.16",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "quote": "洋上風力発電市場2035年には452.5ギガワット｜CAGR 19.16%で拡大する次世代クリーンエネルギー投資動向 | 株式会社レポートオーシャン"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "quote": "日本5G産業用IoT市場、2035年に301億2000万米ドルへ拡大｜CAGR 5.5％、スマート工場・産業オートメーション・リアルタイム通信の高度化が市場成長を促進"
+   },
+   {
+    "value": "38.5",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "2018年のCAGRが38.5%であったことを踏まえると、こ"
+   },
+   {
+    "value": "7.64",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "quote": "世界の風力発電市場規模は、2025年には1,111億3,000万米ドルと評価され、2026年の1,196億2,000万米ドルから2034年には2,155億7,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.64%となる見込みです"
+   },
+   {
+    "value": "17.98",
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "quote": "（CAGR）17.98%で"
+   },
+   {
+    "value": "12.2",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "quote": "According to a recent study by Global Market Insights Inc., the offshore wind energy market size was valued at USD 76.9 billion in 2025. The market is anticipated to grow from USD 109 billion in 2026 to USD 307.5 billion in 2035, at a CAGR of 12.2%."
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "quote": "Based on component, the offshore wind energy market is segmented into turbine, support structure, electrical infrastructure and Others. The others segment accounted for over 38.2% market share in 2025 and is expected to grow at a CAGR of 11.7% through 2035."
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "quote": "Based on depth, the offshore wind energy market is segmented into >0 ≤ 30 m, >30 ≤ 50 m, and > 50 m. The >0 ≤ 30 m accounts for the major share with 51.7% in 2025 and is expected to grow at a CAGR of 10.5% up to 2035, owing to the technical maturity and cost-effectiveness of fixed-bottom foundation "
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "quote": "The U.S. offshore wind energy market was valued at USD 3.1 billion in 2025 and is projected to grow at a CAGR of 8.5% for the forecast period of 2026-2035."
+   },
+   {
+    "value": "13",
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "quote": "The offshore wind energy market in Asia Pacific, China is expected to grow at a CAGR of 13% from 2026 to 2035."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "15",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "Siemens Gamesa Renewable Energyは、2025年に15%以上の市場シェアを獲得し、首位となりました"
+   },
+   {
+    "value": "38.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "その他のセグメントは、2025年に 38.2%超の市場シェア を占め、2035年まで年平均成長率（CAGR）11.7%で成長すると予測されています"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "その他のセグメントは、2025年に 38.2%超の市場シェア を占め、2035年まで年平均成長率（CAGR）11.7%で成長すると予測されています"
+   },
+   {
+    "value": "17.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "電気インフラは、技術の進歩、プロジェクト規模の拡大、効率的で信頼性の高いエネルギー伝送への需要を背景に、2025年に市場シェアの17.6%を占めました"
+   },
+   {
+    "value": "51.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": ">0 ≤ 30 mの区分は、2025年に51.7%と最大のシェアを占めており、浅海域における着床式基礎技術の技術的成熟度と費用対効果の高さを背景に、2035年まで年平均成長率（CAGR）10.5%で成長すると予想されています"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": ">0 ≤ 30 mの区分は、2025年に51.7%と最大のシェアを占めており、浅海域における着床式基礎技術の技術的成熟度と費用対効果の高さを背景に、2035年まで年平均成長率（CAGR）10.5%で成長すると予想されています"
+   },
+   {
+    "value": "4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "北米は、技術の進歩、環境問題への関心の高まり、支援的な政策により市場環境が強化され、2025年には4%の市場シェアを占めました"
+   },
+   {
+    "value": "55",
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "quote": "2025年の合計市場シェアは55%"
+   },
+   {
+    "value": "70",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "シェアを見ると欧州が全体の約70%を占めてい"
+   },
+   {
+    "value": "50",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "導入量（左図）については、6.1GWのうち中国が50%を占め、続いてオランダが25%、ベルギーが12%であった"
+   },
+   {
+    "value": "25",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "導入量（左図）については、6.1GWのうち中国が50%を占め、続いてオランダが25%、ベルギーが12%であった"
+   },
+   {
+    "value": "12",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "導入量（左図）については、6.1GWのうち中国が50%を占め、続いてオランダが25%、ベルギーが12%であった"
+   },
+   {
+    "value": "29",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "（右図）を見ると、英国が29%を占め、次いで中国が28%、ドイツが22%となっている"
+   },
+   {
+    "value": "28",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "（右図）を見ると、英国が29%を占め、次いで中国が28%、ドイツが22%となっている"
+   },
+   {
+    "value": "22",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "（右図）を見ると、英国が29%を占め、次いで中国が28%、ドイツが22%となっている"
+   },
+   {
+    "value": "17",
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "quote": "17%を洋上風力が占めることとなる"
+   },
+   {
+    "value": "38.5",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "欧州は、成熟したインフラ、有利な規制枠組み、そして英国、ドイツ、オランダ、デンマークにおける洋上風力発電所への多額の投資に牽引され、2024年には洋上風力市場において最大の収益シェア38.5%を獲得し、市場を席巻しました"
+   },
+   {
+    "value": "91.3",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "商業部門は、国家クリーンエネルギー目標に関連した大規模プロジェクトに牽引され、2024年には洋上風力発電市場を91.3%のシェアで支配した"
+   },
+   {
+    "value": "52.4",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "タービン部門は、タービン容量とブレード設計の継続的な進歩に牽引され、2024年には52.4%という最大の市場シェアを獲得しました"
+   },
+   {
+    "value": "44.1",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "これらの水深は、費用対効果の高い固定底式タービンの設置に適しているため、0m超≤30mセグメントが2024年には44.1%のシェアで市場をリードする見込みです"
+   },
+   {
+    "value": "70.6",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "固定式セグメントは、技術の成熟と整備されたインフラの恩恵を受け、2024年には70.6%と最大のシェアを占めました"
+   },
+   {
+    "value": "46.8",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "浅水域セグメントは、建設条件とアクセスのしやすさから、2024年には46.8%の市場シェアを獲得し、市場をリードしました"
+   },
+   {
+    "value": "52",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "英国の世界の洋上風力市場は、大規模プロジェクトの展開、強力な政策支援、洋上風力インフラへの一貫した投資を背景に、2024年には52%の収益シェアを獲得し、欧州の洋上風力市場をリードする見通しです"
+   },
+   {
+    "value": "50",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "quote": "中国の世界の洋上風力発電市場は、2023年に世界最大の洋上風力発電容量の増加を記録し、2024年時点で39.1GW以上の接続容量を有し、世界の洋上風力発電設備の約50%を占めています"
+   },
+   {
+    "value": "42.5",
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、風力発電市場を牽引しました"
+   },
+   {
+    "value": "70",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "quote": "中国メーカーは世界市場の70％を占める中国国内の市場に大きく依存し、欧米メーカーはより多様な地域に顧客を持つ"
+   },
+   {
+    "value": "56.4",
+    "url": "https://jwpa.jp/information/7548/",
+    "quote": "上位15社中の10社・56.4%以上が中国メーカです"
+   },
+   {
+    "value": "65",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "quote": "2023年には風力発電の新規導入量で世界の65％を中国が占める"
+   },
+   {
+    "value": "60",
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "quote": "2008年時点では世界の風力発電メーカーのシェア別でも：べスタス、GE、ガメサ、エネルコンの欧米メーカーが4社で上位シェア60％を占めていた"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8683106",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/wind-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/offshore-wind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jwpa.jp/information/7548/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plarad-rent.net/wind-power/list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nef.or.jp/keyword/20260430.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/yojohuryokuhatuden2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/wind-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/offshore-wind-market-253452593.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gwec.net/news/gwec-records-sharp-rise-in-wind-turbine-installations-as-five-oems-exceed-100-gw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-offshore-wind-power-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrr.dawnbreaker.com/portals/energy/energy-sources/wind/industry-leaders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/cmei/systems/offshore-wind-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cleanpower.org/wp-content/uploads/2024/05/OSW_Financial_240223.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.orsted.com/-/media/www/docs/corp/be/offshore-wind-at-a-crossroads.pdf?rev=ea162ac5657f4bd0bc3a0f1dd80bee42&hash=41F7E5F2BFA8F0E6D35C81C9501D9F91",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-offshore-wind-turbine-market-worldwide-2025-market-research-report-2026-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/offshore-wind-turbine-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enkiai.com/offshore-wind/offshore-wind-top-10-companies-in-europe-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/renewables-2025/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://wfo-global.org/wp-content/uploads/2026/03/WFO_Global-Offshore-Wind-Report-2025_final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "洋上風力 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "https://www.atpress.ne.jp/news/8683106",
+    "https://www.renewable-ei.org/pdfdownload/activities/202106_OffshorewindInfo.pdf",
+    "https://jp.linkedin.com/pulse/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9-market-analysis-report-2026-2033%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E6%88%90%E9%95%B7%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E4%BA%88%E6%B8%ACcagr%E3%81%AF108%E3%81%A8%E4%BA%88%E6%B8%AC-znmne",
+    "https://www.databridgemarketresearch.com/jp/reports/global-offshore-wind-market",
+    "https://straitsresearch.com/jp/report/wind-power-market",
+    "https://cagr15cagr2.docs.apiary.io/",
+    "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "https://project.nikkeibp.co.jp/bpi/report/compendium/owp/?n_cid=bpi_sied_rpt",
+    "https://www.mordorintelligence.com/ja/industry-reports/offshore-wind-energy-market"
+   ]
+  },
+  {
+   "query": "洋上風力 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/offshore-wind/",
+    "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04881/?ST=msb",
+    "https://jwpa.jp/information/7548/",
+    "https://www.plarad-rent.net/wind-power/list.html",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "https://sgforum.impress.co.jp/article/4813?page=3",
+    "https://deallab.info/wind-farm/",
+    "https://www.sphericalinsights.jp/blogs/top-25-companies-in-offshore-wind-energy-market-market-research-report-2024-2035"
+   ]
+  },
+  {
+   "query": "洋上風力 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3924?srsltid=AYCX9vKAHbaaE4YKL8O3Z0vLXatxp3W96tUN6-rRmeUEWMfmG4Ib4uQI",
+    "https://www.nef.or.jp/keyword/20260430.html",
+    "https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market",
+    "https://www.renewable-ei.org/pdfdownload/activities/REI_OW2025_infopack.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-offshore-wind-power-market",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/yojohuryokuhatuden2025.html",
+    "https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html",
+    "https://note.com/reny12779/n/ne6f1e635658b",
+    "https://infrabiz.co.jp/706/",
+    "https://www.globalresearch.co.jp/offshore-wind-market/"
+   ]
+  },
+  {
+   "query": "offshore wind market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/offshore-wind-energy-market",
+    "https://www.precedenceresearch.com/wind-energy-market",
+    "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/offshore-wind-market-253452593.html",
+    "https://market.us/report/wind-turbine-market/",
+    "https://www.grandviewresearch.com/industry-analysis/offshore-wind-market-report",
+    "https://wfo-global.org/wp-content/uploads/2026/03/WFO_Global-Offshore-Wind-Report-2025_final.pdf",
+    "https://www.energy.gov/cmei/systems/offshore-wind-market-report",
+    "https://dataintelo.com/report/offshore-wind-market-report"
+   ]
+  },
+  {
+   "query": "offshore wind market share top players percent",
+   "results": [
+    "https://www.gwec.net/news/gwec-records-sharp-rise-in-wind-turbine-installations-as-five-oems-exceed-100-gw",
+    "https://market.us/report/global-offshore-wind-power-market/",
+    "https://mrr.dawnbreaker.com/portals/energy/energy-sources/wind/industry-leaders/",
+    "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "https://www.energy.gov/cmei/systems/offshore-wind-market-report",
+    "https://straitsresearch.com/report/offshore-wind-turbine-market",
+    "https://www.utmconsultants.com/7-nations-that-are-leading-the-offshore-wind-race/",
+    "https://www.scribd.com/document/845085485/Top-WTG-Companies",
+    "https://www.researchgate.net/figure/Offshore-wind-turbine-market-share-by-manufacturer-in-Europe_fig2_333420268",
+    "https://wfo-global.org/wp-content/uploads/2026/03/WFO_Global-Offshore-Wind-Report-2025_final.pdf"
+   ]
+  },
+  {
+   "query": "offshore wind market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "https://www.coherentmarketinsights.com/market-insight/offshore-wind-market-978",
+    "https://www.precedenceresearch.com/offshore-wind-energy-market",
+    "https://www.energy.gov/cmei/systems/offshore-wind-market-report",
+    "https://cleanpower.org/wp-content/uploads/2024/05/OSW_Financial_240223.pdf",
+    "https://www.linkedin.com/pulse/offshore-wind-energy-market-component-water-depth-installation-p-1hsoc",
+    "https://www.custommarketinsights.com/report/offshore-wind-market/",
+    "https://cdn.orsted.com/-/media/www/docs/corp/be/offshore-wind-at-a-crossroads.pdf?rev=ea162ac5657f4bd0bc3a0f1dd80bee42&hash=41F7E5F2BFA8F0E6D35C81C9501D9F91",
+    "https://venterra-group.com/wp-content/uploads/2025/02/01.5-Venterra-Offshore-Wind-Day-Feb-27-2025.pdf",
+    "https://en.wikipedia.org/wiki/Consolidated_financial_statement"
+   ]
+  },
+  {
+   "query": "offshore wind market key companies share 2025",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-offshore-wind-turbine-market-worldwide-2025-market-research-report-2026-2035",
+    "https://www.futuremarketinsights.com/reports/offshore-wind-market",
+    "https://www.marketresearchfuture.com/reports/offshore-wind-market-3284",
+    "https://www.energy.gov/cmei/systems/offshore-wind-market-report",
+    "https://www.grandviewresearch.com/industry-analysis/offshore-wind-turbine-market-report",
+    "https://www.precedenceresearch.com/wind-energy-market",
+    "https://enkiai.com/offshore-wind/offshore-wind-top-10-companies-in-europe-in-2025/",
+    "https://tethys.pnnl.gov/sites/default/files/publications/Williams-et-al-2025.pdf",
+    "https://www.iea.org/reports/renewables-2025/executive-summary",
+    "https://wfo-global.org/wp-content/uploads/2026/03/WFO_Global-Offshore-Wind-Report-2025_final.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

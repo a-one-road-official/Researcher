@@ -1,0 +1,1430 @@
+{
+ "name": "ｅＢＡＳＥ",
+ "aliases": [],
+ "context": "証券コード3835／情報・通信業／プライム（内国株式）／2026.03期 売上高5,260百万円 営業利益率27.2%",
+ "researched_at": "2026-11-02T16:58:05.204698+00:00",
+ "official_url": "https://www.ebasefm.com/",
+ "identified_by": "search:yahoo_jp:eBASE",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5,000,000 5,259,563 259,563",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,861,683 2,608,214 5,469,897 ― 5,469,897",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― 17,989 17,989 △17,989 ―",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,591,313 2,668,250 5,259,563 ― 5,259,563",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― 10,857 10,857 △10,857 ―",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル ワンソースマルチユースとは",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル 業界別商品情報データプールサービス「商材ebisu」(メーカーから情報収集）",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルBtoBtoC消費者利便性向上/CXアプリ",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、ビジネスモデルとしては、創業から現在に至るまで３種類のビジネスモデルのフェーズ（0th eBASE、1st eBASE、2nd eBASE）により展開をしています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "これら「0th～2nd eBASE」の各ビジネスモデルは、相互に有機的に連携することにより、互いを補完・増強するのみならず、各種新サービスや新事業モデルへの展開をも可能としています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上を事業系統図によって示すと次のとおりです",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "まず「eBASE事業」における「0th～2nd eBASE」の各ビジネスモデルを「①プロダクツ／マネタイズ」、「②コアコンピタンス」、「③ビジネスモデル」、「④推進戦略」の４つの視点で表す三角錐図「トライアングルピラミッド(以下、Ｔ-Pyramid)」を用いて説明した上で、各モデルにおける主要製品・サービスを説明します",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとしては、“企業別”に商品情報管理や活用の“コストダウン（効率化）”を実現する“ワンソース／マルチユース”をテーマとしています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「0th/1st/2nd eBASE」業界別/業界横断型商品情報交換ビジネスモデル",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとしては“業界別(食品、日用品、家電、住宅、文具、工具等)”に商品情報管理・活用のための“商品情報交換標準化”を推進することで、業界単位での商品情報流通の全体最適化を実現しながら商品情報のデジタルコンテンツプロバイダーとしての商品データプール「商材ebisu(業界ebisu)」、及び“業界横断型の商品データプール「商材ebisu(マスタデータebisu)」を業界・業態を越えて幅広いサプライチェーンに提供しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとしては消費者に有用な商品情報を提供することでCX向上を図り、結果として小売やメーカーの売上増加につながる販促支援ツールを提供する“BtoBtoCX”をテーマとしています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「0th～2nd eBASE」の各ビジネスモデルは小売業界やメーカー業界ごとに“トータルソリューション”として幅広いプロダクツ(製品・サービス)によってカバーされています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE事業は、創業から現在に至るまで３種類のビジネスモデルのフェーズ（0th eBASE、1st eBASE、2nd eBASE）により展開をしてまいりました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "これら「0th～2nd eBASE」の各ビジネスモデルは双方向に有機的に関与することにより、お互いを補完・増強するだけではなく、様々な新サービスや新事業モデルへの展開を可能としています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、eBASE事業の売上高は、製品の成熟化と営業体制の最適化により、収益構造改善の基盤は整いつつあるものの、日雑業界における未経験業界向けの大型「MDM eBASE」カスタマイズ開発案件の負荷増大の影響で深耕営業が減少し、eBASE事業全体に遅延が発生した結果、利益率の高いパッケージソフトの売上が減少したことで、2,591,313千円（前年同期比270,370千円減）、経常利益は1,062,534千円（前年同期比343,388千円減）となりました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE-PLUS事業では、顧客との単価交渉の継続的な実施に加え、季節性が少なく四半期単位での契約ベースのストック型のビジネスモデルであることから、計画通りの推移となりました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "大きな時代変移をいち早く予見し、お互いのコアコンピタンスの融合により、次なるビジネスモデル、",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合商品データベースは、さきほども言いましたがeBASEは箱ですので、その箱が便利で機能的な箱なのか、ちょっと使いづらい、機能の落ちる箱なのかだけであって、このビジネスモデル自体はIT企業であれば誰でもできると思います",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "今は、第一の創業期のビジネスモデル、箱売りのための販促としてしか考えていません",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "なのでこの商品情報データプール「食材えびす」は第一のビジネスモデルから言うと販促ツールなんです",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "給食で調布市で女の子が死んじゃったりとか、大変な事故も起こってきて、その食の安全管理のためには、仕入れ先からの原材料情報を正しく収集しないかぎり、正しい情報は消費者に伝えられないというのが、ちょうど我々がこのビジネスモデルを作った時の追い風として一気に普及させていただくことができました",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとしては、この商品データブールがデファクトになったとしても、儲かりません",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "eBASEユーザー数の非開示について",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "BASEユーザー数",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーユーザー数",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー様へのお知らせ",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー登録",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客企業からの受託開発、受託オペレーション、受託サーバー保守等の",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "多様な顧客企業からの受託開発、受託オペレーション、受託サーバー保守等を通じ、IT開発アウトソーシングビジネスを展開しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客企業の販促を支援する消費者向けスマホアプリ（「e食住シリーズ」や「e住なび」等）との",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "製品企画開発支援システム「PDM eBASE」は、製品の企画開発に携わる企画・設計、開発、法務関連、品質管理等、様々な部門の課題解決、業務支援を目的とした各種オプション群で構成され、顧客要望により、必要な機能を選択、利用することが可能になります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "新製品、リニューアル等の企画開発工程を支援する各種「eBASEオプション群」で構成されており、顧客ニーズに適した必要機能を選択的に組合せて利用できます",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「統合商品情報データベース(eBASE)」こそが、デジタル革命に立ち向かい、顧客企業のDXを実現する基盤(ベース)になると考えています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、顧客企業の事業である「商品販売」をデジタル革命して行くならば、「商品情報のデジタル化は不可欠」だからです",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提唱する「DX by DB(eBASE)」は、「Digitalization/デジタル改善」だけに留まらず、「顧客利便性(CX)向上」、及び「デジタルとアナログの融合(OMO)」を実現する「デジタルを最大限に利活用した改革(DX)」を実現させることで、採用企業の売上アップ、コストダウン、そして、未来創造を支援することが可能です",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「商材ebisu（食材ebisu）」データの活用事例として、食品小売ではアレルギー、栄養成分等の品質情報や料理レシピを消費者向けライフスタイルアプリ「e食住シリーズ(e食住なび、e食住ちらし、e食住カタログ、e食住ビジュアルレシート等)」で消費者へ情報開示し、その消費者ユーザーを小売のECサイトや店舗へ誘導するBtoBtoCモデルを通じてCX＆DXを推進しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "その様な環境において、スマホユーザーが増える中、紙チラシからデジタルチラシへの移行が小売企業のマーケティング部門の課題になっています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客課題の優先順位に沿って選択的に段階的に機能導入(アップセル/クロスセル)も可能としています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "そして、「商材ebisu」の商品情報コンテンツを利活用して「ユーザー(消費者)が求める商品情報をいつでもどこでもニーズに合わせて閲覧できるように」というコンセプトをOMO環境で実現することを目指して、あらゆる商品カテゴリを統合した消費者向けライフスタイルアプリ「e食住シリーズ(e食住なび/カタログ/ちらし/ビジュアルレシート、e住なび等)」の開発・提供を通じて、小売やメーカーのDX（Digital Transformation）によるCX（Customer Experience）向上を実現する新たなビジネス展開を推進しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE-PLUS事業は、顧客企業ニーズに応えたシステム構築・開発・サポート等のIT開発アウトソーシングビジネスを推進しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上面では、既存顧客案件として、大手コンビニエンスストアから「商材ebisu」と連動するNB（National Brand）及びPB双方の仕入先向け「MDM eBASE」、及び「FOODS/GOODS eBASE」も含めた基幹系システムにトータルで連携する商品マスタ情報登録システム構築の大型案件及び検証環境構築と追加開発案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客案件としては、関東地域の私鉄系スーパーマーケット複数社による共同出資食品卸から、自社PB品の仕様書管理システムとして「FOODS eBASE」案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "受注面では、既存顧客案件として、大手コンビニエンスストアから、ファストフード厨房向けレシピ管理システム「FOODS eBASE」の改修・構築と、「MDM eBASE」からの基幹連携システム構築による運用に向けた移行・教育フェーズを受注しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界向けビジネスの売上高は、日雑業界における未経験業界向けの大型「MDM eBASE」カスタマイズ開発案件の負荷増大が担当営業、及びSEにとどまらず、フォローする他の営業・SEにも波及し、eBASE事業全体として既存顧客への深耕営業が減少したことが食品業界にも影響を与えた結果、「FOODS eBASE」の深耕営業による売上が減少したことにより、前年同期比で微減となりました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上面では、既存顧客案件として、カタログギフト事業者の株式会社ハーモニックのカタログ制作支援システム「eB-DBPカタログ」と「MDM eBASE」を活用した統合商品DB構築の継続案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー顧客系では、オフィス家具メーカーの販売店向けWeb見積システムのアップセル改修案件を売上計上し、スポーツ用品メーカーからは統合商品DB構築大型案件を、大手総合筆記具メーカーからは商品DB型Webカタログ構築のアップセル大型案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "更に、大手ドラッグストアからは「MDM eBASE」を活用した顧客の業務要件に最適化したシステム構築、及びPB仕様書管理「GOODS/FOODS eBASE」等の追加・改修案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客案件としては、東海・北陸・近畿で展開するドラッグストアから「商材ebisu」と連携する「MDM eBASE」の大型案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "受注面では、既存顧客案件として、大手ホームセンターから導入済の「MDM eBASE」の保守、及び改修開発案件を継続受注しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上面では、既存顧客案件として、大手空調設備メーカーの技術情報検索サイト（統合製品情報DB＋Webカタログサイト）の改修、及び新規の住宅設備Webカタログサイト構築の大型案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客案件としては、準大手ゼネコンから「HOUSING eBASE」を用いた分譲マンションの専有部分の製品仕様管理のPoC（Proof of Concept：概念実証）のためのシステム構築を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客の回転すしチェーン店を中心とする外食産業から「e食住なび for DX」を利用して、来店客が店内に掲示された二次元コードをスキャンすることでメニューに関するアレルギー情報を含む品質情報を多言語で確認できるサービスを受注し構築を開始しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "eBASEユーザー数の非開示について",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "BASEユーザー数",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーユーザー数",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー様へのお知らせ",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー登録",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "eBASEユーザー数の非開示について",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "BASEユーザー数",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーユーザー数",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー様へのお知らせ",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー登録",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "eBASEユーザー数の非開示について",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "BASEユーザー数",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーユーザー数",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー様へのお知らせ",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー登録",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "このデータベース、ビッグデータがあることによってそれぞれの顧客のプロファイリング、推論ができるわけです",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "投資に関するすべての決定は、利用者ご自身の判断でなさるようにお願いいたします",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "0th 企業別統合商品情報管理ソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1st 業界別商品情報管理ソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2nd 消費者向けスマホアプリソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業別統合商品情報管理ソリューション（BtoB戦略）",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界別商品情報交換標準化推進/BtoB戦略",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル 業界別商品情報データプールサービス「商材ebisu」(メーカーから情報収集）",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業別統合商品DB",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界別商品情報DB",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発・競合分析・",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合商品DB「",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "データ販売サービス",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報交換の標準化",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションeBASE",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他ソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "FOODS eBASE Cloud サービス",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他、記載されている会社名、製品名は一般に各社の登録商標または商標です",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・「ミドルウェアeBASE」を利用したソリューション企画・開発・販売・保守事業",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・企業別、商品情報管理ソリューション(0th eBASE)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・業界別/業界横断型、商品情報管理ソリューション(1st eBASE)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・業界別/業界横断型、商品情報データプールサービス(1st/2nd eBASE)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・業界別/業界横断型、商品詳細情報データと購買POSデータのコンテンツ販売 (1st eBASE)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・上記の商品データプールの商品情報を利用した消費者向けスマホアプリサービス(2nd eBASE)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・「ミドルウェアeBASE」基盤上の独自データを活用した各種AIソリューション(0th/1st/2nd eBASE)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "」を使った各種クラウドサービス",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "CMS開発プラットフォームのパッケージソフトウェア「ミドルウェアeBASE」をベースに開発事業を行うeBASE株式会社と、その「ミドルウェアeBASE」を基盤に使った各種クラウドサービス(SaaS: Software as a Service)の運用事業を行うeBASE-NeXT株式会社によって構成されています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・「0th eBASE(BtoBモデル:企業別統合商品DB)」は、",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "創業期からの“ワンソースマルチユース”を実現するCMS開発プラットフォーム「ミドルウェアeBASE」を基盤とするパッケージソフトウェア「eBASE」を用いて、様々な業界や業態向けに企業別の統合商品データベースシステムを提供しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、これらの統合商品データベースシステムと連動する従来の販促メディア(紙カタログ、紙チラシ、Webカタログ等）の企画制作プロセスを最適化(コストダウン)すると同時に、ワンストップで次世代のOMO(Online Merges with Offline)展開を加速する企画制作支援システム「DBP eBASE(eB-DBPカタログ/ちらし/Web)」としてデータベースパブリッシングシステム(DBP:DataBASE Publishing)を開発提供し、統合商品データベースシステムと連動した商品DB型のWebサイト等の個別システムインテグレーションを開発展開しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・「1st eBASE(BtoBモデル:業界別/業界横断型統合商品DB)」は、",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「0th eBASE」を通じて開発構築された商品情報交換プラットフォームとしての「eBASE」の普及促進を目指し、食品業界、日雑業界（その他各業界）、住宅業界の３つの各セグメントに対して、個別の業界・業態向けニーズに適合した「FOODS/GOODS eBASE」等の商品詳細情報管理システムの開発を推進しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、商品情報のデジタルコンテンツプロバイダーとしての商品データプール「商材ebisu／マスタデータebisu」のデファクトスタンダード化を同時に推進し、小売向けに「商材ebisu(業界ebisu+マスタデータebisu)」と連動した統合的な商品マスタ管理システム「MDM (Master Data Management) eBASE」の開発・提供や、小売PB（Private Brand）部門やメーカー向けの製品企画・開発管理システム「PDM (Product Data Management) eBASE」の開発・提供を行っています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "まず「0th eBASE」により構築された統合商品データベースと連動する「DBP eBASE」、更に「1st eBASE」を通じて構築された「商材ebisu」をコアコンピタンスとして、従来のアナログ販促メディア（紙カタログ、紙チラシ等）の企画制作におけるコストダウンを実現するとともに、ワンストップで小売向け次世代OMO環境の構築を可能とします",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "これら「0th～2nd eBASE」の各ビジネスモデルは、相互に有機的に連携することにより、互いを補完・増強するのみならず、各種新サービスや新事業モデルへの展開をも可能としています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "システムソリューション分野においては、ソフトウェア開発及びインフラ構築の提供を行い、また、サポートサービス分野においては、ITシステムの統合運用管理とヘルプデスクサービスの提供を実施しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "□「eBASE事業」の製品・サービス概要は、",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "CMS開発プラットフォーム「ミドルウェアeBASE」をパッケージソフトウェアやクラウドサービス（SaaS）として開発販売することを主な事業としています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "まず「eBASE事業」における「0th～2nd eBASE」の各ビジネスモデルを「①プロダクツ／マネタイズ」、「②コアコンピタンス」、「③ビジネスモデル」、「④推進戦略」の４つの視点で表す三角錐図「トライアングルピラミッド(以下、Ｔ-Pyramid)」を用いて説明した上で、各モデルにおける主要製品・サービスを説明します",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的な開発効率の向上を実現するCMS開発プラットフォーム「ミドルウェアeBASE」をコアコンピタンスとして、“企業別”に「統合商品データベース（eBASEserver）」や販促メディアの企画制作支援システム「DBP eBASE（eB-DBPカタログ／ちらし／Web）」をプロダクツ／マネタイズとして開発提供するモデルです",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとしては、“企業別”に商品情報管理や活用の“コストダウン（効率化）”を実現する“ワンソース／マルチユース”をテーマとしています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "そして、推進戦略としては、企業内のデジタル革命（DX）推進ニーズや導入事例による業界内の評判（口コミ）などを活用し、あらゆる業界・業態のマーケティング部門や販促部門に対して、従来の販促メディア（例：1cm以上の厚みのある紙カタログ）からデジタルメディアへの同時並行の移行ソリューションを販促展開する戦略です",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「0th eBASE」の具体的なプロダクツである統合商品データベース「eBASEserver」が実現する主な商品情報ソリューションは以下になります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションeBASE",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他ソリューション",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "FOODS eBASE Cloud サービス",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他、記載されている会社名、製品名は一般に各社の登録商標または商標です",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【11月5日(木)より放映開始】電子チラシサービス「e食住ちらし」TVCM放映のお知らせ",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションeBASE",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他ソリューション",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "FOODS eBASE Cloud サービス",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他、記載されている会社名、製品名は一般に各社の登録商標または商標です",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社取締役執行役員大阪ソリューションB.U.管掌（現任）",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社執行役員東京ソリューションB.U.管掌",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「商材ebisu（食材ebisu）」データの活用事例として、食品小売ではアレルギー、栄養成分等の品質情報や料理レシピを消費者向けライフスタイルアプリ「e食住シリーズ(e食住なび、e食住ちらし、e食住カタログ、e食住ビジュアルレシート等)」で消費者へ情報開示し、その消費者ユーザーを小売のECサイトや店舗へ誘導するBtoBtoCモデルを通じてCX＆DXを推進しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「e食住ちらし」閲覧者は、「e食住ちらし」にお気に入り店舗を登録することで、いつでも、最新チラシがプッシュ型で配信され閲覧することができるようになります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー顧客系では、オフィス家具メーカーの販売店向けWeb見積システムのアップセル改修案件を売上計上し、スポーツ用品メーカーからは統合商品DB構築大型案件を、大手総合筆記具メーカーからは商品DB型Webカタログ構築のアップセル大型案件を売上計上しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "大手総合小売の北海道地区の子会社において先方ECサイトと連携する「e食住カタログ for EC」の本番運用が開始し、一部の店舗で「e食カタログ（電子棚札連携）」についてPoCを継続しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "また別の食品小売でも「e食住カタログ for 店舗」のPoCを継続しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客の大手家電量販店のインバウンド向け成田空港の新設店舗にて「e食住カタログ」多言語版アプリ訴求用カードの店頭設置と共に本番運用を開始し、また売れ筋商品表示用二次元コード付きPOP(Point of Purchase)の店頭設置が採用決定、及び同社の本部から対象全店舗への展開が内定しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客の大手ホームセンターから受注していた「e食住なび for DX」により、多言語版で国内外の店舗スタッフの商品知識習得や接客に活用するサービスが、先行して海外店舗での運用を開始しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "①販売代理店ごとにパラメトリックに変化するOMOカタログシステムの特許（特許第7764080号）",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、eBASE事業の売上高は、製品の成熟化と営業体制の最適化により、収益構造改善の基盤は整いつつあるものの、日雑業界における未経験業界向けの大型「MDM eBASE」カスタマイズ開発案件の負荷増大の影響で深耕営業が減少し、eBASE事業全体に遅延が発生した結果、利益率の高いパッケージソフトの売上が減少したことで、2,591,313千円（前年同期比270,370千円減）、経常利益は1,062,534千円（前年同期比343,388千円減）となりました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 - 企業情報 - eBASE株式会社",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、今まではカタログチラシはAさんという人がやってA、ウェブカタログはBさんがやって、プライスカードやポップは各店舗でDさんがやっててポスレジはまた別の人がいてと5人とかがかりで分担してミスしながら打ち込んでいたのが、1回の入力でよくなるというわけです",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "子供たちの年齢層などを想定することによって、どういう子どもたちがいてるのでこういうものが売れるだろう、世の中ではこっちが売れてるけどもうちのスーパーこの店舗ではこれを中心を売っていくというようなことが実は商品情報のビッグデータ、それから小売りがも持っているポス情報、それにエンジンであるAIをかけることによって、マーチャンダイジング、何を買おうか、何を仕入れようかということがスーパーさんにわかるわけです",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "・「ミドルウェアeBASE」を利用したソリューション企画・開発・販売・保守事業",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客企業からの受託開発、受託オペレーション、受託サーバー保守等の",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "多様な顧客企業からの受託開発、受託オペレーション、受託サーバー保守等を通じ、IT開発アウトソーシングビジネスを展開しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "重要な事業施策としては、人材の確保・育成・教育に寄与する自社開発(eBASE基盤)のオンライン教育システム「eB-learning」(Javaプログラミング/ITインフラ教育等)の継続的な開発強化と展開を行うことで、中途採用、新入社員教育、及び既存社員の教育に注力し、スキルアップによりハイスキルな高単価案件の獲得を推進しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "従来の、企業毎の基幹系システム開発に加え、ビッグデータ、人工知能(生成AI等)、コグニティブコンピューティング、IoT（Internet of Things）、FinTech、自動運転等、新たなITソリューション市場が、次々と創造され、IT活用の需要が高まっている中、それを支えるIT人材が必要不可となるため、自社開発(eBASE基盤)のオンライン教育システム「eB-learning」（Javaプログラミング/ITインフラ教育/IT運用サポート等）の継続的な開発強化と展開を行うことで、中途採用、新入社員教育、及び既存社員の教育に注力し、スキルアップによりハイスキルな高単価案件へのシフトを推進しています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "受注面では、既存顧客案件として、大手ホームセンターから導入済の「MDM eBASE」の保守、及び改修開発案件を継続受注しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "更に、継続して自社開発(eBASE基盤)のオンライン教育システム「eB-Learning」（Javaプログラミング/ITインフラ教育等）の強化を行い、採用、新入社員教育及び既存社員の教育に注力し、スキルアップによりハイスキルな高単価案件へのシフトを図りました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "また物価高・人件費高騰のトレンドに合わせて顧客との単価交渉を継続実施しました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業は、コンテンツマネージメントソフト「ミドルウェアeBASE」の企画・開発事業、「ミドルウェアeBASE」を利用したソリューション企画・開発・販売・保守事業（商品情報管理パッケージソリューション、コンテンツマネージメントパッケージソリューション、商品情報データプールサービス等）、Webソリューションビジネス、「eBASE」を使った各種クラウドサービス(SaaS)の運用事業及びIT開発アウトソーシングビジネス（顧客企業からの受託開発、受託オペレーション、受託サーバー保守等）であり、生産をしていないため、生産実績及び受注状況について記載しておりません",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE-PLUS事業では、顧客との単価交渉の継続的な実施に加え、季節性が少なく四半期単位での契約ベースのストック型のビジネスモデルであることから、計画通りの推移となりました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、会社別に国内及び海外の包括的な戦略を立案し、事業活動を展開しており、主としてコンテンツマネジメントシステム「eBASE」をパッケージソフトウエアとして開発販売する事業及びシステム開発、Webソリューションビジネス、「eBASE」を使ったクラウドビジネスの開発販売する事業、データプールサービスの運用事業及びIT開発アウトソーシングビジネス（テクニカルサポート、センターマシン運用管理、受託オペレーション、受託サーバー保守、コンサルティング、システム・インテグレーション・サービス、システム・マネジメントサービス）を行っております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「eBASE-PLUS事業」は、IT開発アウトソーシングビジネス（テクニカルサポート、センターマシン運用管理、受託オペレーション、受託サーバー保守、コンサルティング、システム・インテグレーション・サービス、システム・マネジメントサービス）を行っております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス＆サポート",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "ところが昔から印刷物っていうのは、一回一回手作りで作っていて、そこから画像データだけは流用できるようにデータベース化が進んだりしていましたが、商品スペックは単価が変わったり少しずつ色の種類が増えたりと改変される関係で、また整理する仕組みもなかったというところで、一回一回手でパンチングをして構成をしてということをやってたわけです",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "今現在は月額課金ビジネスも徐々に増えていますが、創業当初、今もですけども一般的にオンプレミス型といわれているシステム売りから創業しました",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "利用料ということで、毎年継続してお金をいただくストックビジネスではありましたけども、それも箱売りのお金でした",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "ところが今になると、商品情報データプールの利用料、コンテンツ、商品情報自体も売ります",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "これが大手食品スーパーさんでも、月額5万円、超低価格だと思います",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "なのでたかだかスーパーさんが月額5万円、年間60万円、10社利用しても600万と全く儲からないビジネスにしてます",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "が今後出てくる可能性は十分にありますので、圧倒的な差別化をするためにも、競合サービスが出る前に70万、80万品番までいってしまえば、かつ利用料が5万円でこんなコストのかかるビジネスあるはやらないと思います",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "しかもSaaSでも月額10万円とかしてるんですけども、それでも高いですので、月額1万、2万円というのを今リリースしたところです",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、会社単位を重視し、業態の類似性や営業形態の共通性等を総合的に考慮した結果、事業セグメントとしては、パッケージソフトビジネスの「eBASE事業」（eBASE株式会社・eBASE-NeXT株式会社）と、IT開発アウトソーシングビジネスの「eBASE-PLUS事業」（eBASE-PLUS株式会社）の2事業を報告セグメントとしています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「0th eBASE」を通じて開発構築された商品情報交換プラットフォームとしての「eBASE」の普及促進を目指し、食品業界、日雑業界（その他各業界）、住宅業界の３つの各セグメントに対して、個別の業界・業態向けニーズに適合した「FOODS/GOODS eBASE」等の商品詳細情報管理システムの開発を推進しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "「1st eBASE(BtoBモデル:業界別統合商品DB)」は、「0th eBASE」を通じて商品情報交換プラットフォームとしての「eBASE」の普及促進を目指して食品業界、日雑業界（他業界）、住宅業界の各業界セグメントに対して、個別の業界や業態向けのニーズにマッチした「FOODS/GOODS eBASE」等の商品詳細情報管理システムの開発推進を行っています",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの業績は次のとおりです",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、売上高については、セグメント間取引消去前の金額によっております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、両事業の売上高は、セグメント間取引消去前の金額によっております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメント別の分析は、「第２ 事業の状況 ４ 経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析 (1)経営成績等の状況の概要 ①財政状態及び経営成績の状況 ・経営成績」に記載しております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 報告セグメントの決定方法",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "従って、当社グループは会社単位を重視し、業態の類似性、営業形態の共通性等を総合的に考慮し、「eBASE事業」及び「eBASE-PLUS事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 各報告セグメントに属する製品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期の達成状況は、売上高5,259,563千円（計画比259,563千円増）、経常利益1,467,906千円（計画比117,906千円増）となり、修正後計画に対して売上高、利益ともに上回りました",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年４月１日",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月31日",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月１日",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月31日",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期(中間期)決算と事業報告",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月08日",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算・中期経営計画説明会開催のご案内",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1957年3月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1980年3月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1980年4月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1985年4月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年10月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2010年11月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年4月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年6月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1967年6月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年3月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年4月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2003年11月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2004年6月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年4月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2005年6月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2005年9月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年9月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年10月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年6月",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 01月 09日",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "2006年にヘラクレスに上場、2010年にはジャスダック、2017年に年には東証2部、そして同年東証一部に上場いたしました",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "eBASE 事業概要 - IR情報 - eBASE 株式会社 — eBASE 事業概要 - IR情報 - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > investor > investor13",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE 【3835】の事業内容 - キタイシホン — eBASE 【3835】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "【3835】 eBASE 恐るべき成長戦略（2）~ ビジネスモデル の ... — 【3835】 eBASE 恐るべき成長戦略（2）~ ビジネスモデル の ... ろくすけの長期投資の旅 https://6suke.com > 企業研究",
+    "url": "https://6suke.com/ebase02-2/",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE 社長＆CFOに聞く、商品情報管理ソフト「独占的事業 ... — eBASE 社長＆CFOに聞く、商品情報管理ソフト「独占的事業 ... ダイヤモンド・オンライン https://diamond.jp > マネー・投資 > 最強のテンバガー",
+    "url": "https://diamond.jp/articles/-/263196",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション - eBASE 株式会社 — ソリューション - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > solutions",
+    "url": "https://www.ebase.co.jp/solutions/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - IRリリース - IR情報 - eBASE 株式会社 — 決算説明 会 資料 - IRリリース - IR情報 - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > investor > investor01 > closing",
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - eBASE 株式会社 — IR情報 - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > investor",
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE 株式会社 - Facebook — eBASE 株式会社 - Facebook Facebook https://www.facebook.com > eBASE.Co.Ltd > posts > irの...",
+    "url": "https://www.facebook.com/eBASE.Co.Ltd/posts/ir%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%9C%AC%E6%97%A5%E4%BB%A5%E4%B8%8B4%E4%BB%B6%E3%82%92%E9%96%8B%E7%A4%BA%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F2027%E5%B9%B43%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E4%B8%AD%E9%96%93%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E9%80%A3%E7%B5%90%E4%B8%AD%E9%96%93%E6%9C%9F%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3%E3%81%A8%E5%AE%9F%E7%B8%BE%E5%80%A4%E3%81%A8%E3%81%AE%E5%B7%AE%E7%95%B0%E5%8F%8A%E3%81%B3%E9%80%9A%E6%9C%9F%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3%E3%81%AE%E4%BF%AE%E6%AD%A3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5/1648294023660057/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - IR情報 - eBASE 株式会社 — IRライブラリ - IR情報 - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > investor > library",
+    "url": "https://www.ebase.co.jp/investor/library.html?cat=presentations",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE事業 概要 - IR情報 - eBASE 株式会社 — eBASE事業 概要 - IR情報 - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > investor > investor13",
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE 【3835】の 事業 内容 - キタイシホン — eBASE 【3835】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3835/business",
+    "pass": 3
+   },
+   {
+    "quote": "FOODS eBASE とは — FOODS eBASE とは ebase-jp.com https://www2.ebase-jp.com > fep > DispFepInfo > type=fe...",
+    "url": "https://www2.ebase-jp.com/fep/DispFepInfo.do?type=fep_whats_foods_ebase",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報統合管理システム「 eBASE 」｜株式会社テスク — 商品情報統合管理システム「 eBASE 」｜株式会社テスク テスク https://www.kktisc.co.jp > product > other-solution > ebase",
+    "url": "https://www.kktisc.co.jp/product/other-solution/ebase/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界向け統合商品データベース FOODSeBASEのご提案 — 食品業界向け統合商品データベース FOODSeBASEのご提案 消費者庁 PDF https://www.caa.go.jp > meeting_materials > assets",
+    "url": "https://www.caa.go.jp/policies/policy/food_labeling/meeting_materials/assets/food_labeling_cms201_250205_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 - 企業情報 - eBASE 株式会社 — 役員紹介 - 企業情報 - eBASE 株式会社 eBASE株式会社 https://www.ebase.co.jp > company > company06",
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報を管理する eBASE （3835）の常包 社長 に ... — 商品情報を管理する eBASE （3835）の常包 社長 に ... e-actionlearning.jp https://e-actionlearning.jp > interview",
+    "url": "https://e-actionlearning.jp/interview/10",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE 【3835】の 社長 ・役員 - キタイシホン — eBASE 【3835】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3835/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE社長 ＆CFOに聞く、商品情報管理ソフト「独占的事業 ... — eBASE社長 ＆CFOに聞く、商品情報管理ソフト「独占的事業 ... ダイヤモンド・オンライン https://diamond.jp > マネー・投資 > 最強のテンバガー",
+    "url": "https://diamond.jp/articles/-/263196",
+    "pass": 3
+   },
+   {
+    "quote": "eBASE 、 社長 に岩田貴夫氏 | 日刊工業新聞 電子版 — eBASE 、 社長 に岩田貴夫氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/553778",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ebasefm.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebasefm.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebasefm.com/implementation-made-easy-with-ebase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebasefm.com/5-ways-ebase-is-helping-facilities-management-teams-in-the-fight-against-covid-19/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ebasefm.com/wp-content/uploads/2023/05/our-team-hero-image.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3835/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebase.co.jp/investor/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebase.co.jp/investor/investor13/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3835/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebase.co.jp/company/company06/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-actionlearning.jp/interview/10",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "eBASE",
+   "results": [
+    "https://www.ebasefm.com/",
+    "https://workingeastbay.org/",
+    "https://ebasesystem.org/login/EbaseLogin.aspx",
+    "https://ebasesolutions.com/our-services/",
+    "https://www.softwareadvice.com/cafm/ebase-profile/",
+    "https://ca.linkedin.com/company/ebase-solutions",
+    "https://www.ibm.com/partnerplus/directory/company/9315",
+    "https://help.elecdes.com/ebase/overview",
+    "http://staging.community-wealth.org/content/east-bay-alliance-sustainable-economy-ebase",
+    "https://ja.wikipedia.org/wiki/EBASEBALLパワフルプロ野球2020"
+   ]
+  },
+  {
+   "query": "eBASE ビジネスモデル",
+   "results": [
+    "https://www.ebase.co.jp/investor/investor13/index.html",
+    "https://kitaishihon.com/company/3835/business",
+    "https://6suke.com/ebase02-2/",
+    "https://diamond.jp/articles/-/263196",
+    "https://www.ebase.co.jp/solutions/index.html",
+    "https://www.ebase-plus.co.jp/company/company1.html",
+    "https://zuuonline.com/archives/232883",
+    "https://www2.ebase-jp.com/fep/DispFepInfo.do?type=fep_whats_foods_ebase",
+    "https://www.vieureka.com/partner-program/partner/partner-598/",
+    "https://www.ebase.co.jp/pdf/ebase_business_summary.pdf"
+   ]
+  },
+  {
+   "query": "eBASE 決算説明資料",
+   "results": [
+    "https://www.ebase.co.jp/investor/investor01/closing.html",
+    "https://www.ebase.co.jp/investor/index.html",
+    "https://www.facebook.com/eBASE.Co.Ltd/posts/ir%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%9C%AC%E6%97%A5%E4%BB%A5%E4%B8%8B4%E4%BB%B6%E3%82%92%E9%96%8B%E7%A4%BA%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F2027%E5%B9%B43%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E4%B8%AD%E9%96%93%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E9%80%A3%E7%B5%90%E4%B8%AD%E9%96%93%E6%9C%9F%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3%E3%81%A8%E5%AE%9F%E7%B8%BE%E5%80%A4%E3%81%A8%E3%81%AE%E5%B7%AE%E7%95%B0%E5%8F%8A%E3%81%B3%E9%80%9A%E6%9C%9F%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3%E3%81%AE%E4%BF%AE%E6%AD%A3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5/1648294023660057/",
+    "https://www.ebase.co.jp/investor/library.html?cat=presentations",
+    "https://prtimes.jp/main/html/rd/p/000000021.000114281.html",
+    "https://x.com/ebase_official/status/2116065554565869919",
+    "https://www.buffett-code.com/company/3835/library",
+    "https://www.ebase-plus.co.jp/company/company5.html",
+    "https://exawizards.com/ir/library/result/"
+   ]
+  },
+  {
+   "query": "eBASE 事業系統図",
+   "results": [
+    "https://www.ebase.co.jp/investor/investor13/index.html",
+    "https://kitaishihon.com/company/3835/business",
+    "https://www2.ebase-jp.com/fep/DispFepInfo.do?type=fep_whats_foods_ebase",
+    "https://www.kktisc.co.jp/product/other-solution/ebase/",
+    "https://www.caa.go.jp/policies/policy/food_labeling/meeting_materials/assets/food_labeling_cms201_250205_03.pdf",
+    "https://www.ebase.co.jp/company/company02/index.html",
+    "https://e-actionlearning.jp/visit/3835/2018/03",
+    "https://www2.ebase-jp.com/fep/DispFepInfo.do?type=fep_foods_ebase_map",
+    "https://www2.ebase-jp.com/eb_faq/DispDetail_YouTube.do?chapter=1&itemID=t000100008964&product=eB-foods%E5%8E%9F%E6%9D%90%E6%96%99%E3%83%AA%E3%82%B9%E3%83%88%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E7%B7%A8&volumeName=00271"
+   ]
+  },
+  {
+   "query": "eBASE 社長 インタビュー",
+   "results": [
+    "https://www.ebase.co.jp/company/company06/index.html",
+    "https://e-actionlearning.jp/interview/10",
+    "https://kitaishihon.com/company/3835/board-of-director",
+    "https://diamond.jp/articles/-/263196",
+    "https://www.nikkan.co.jp/articles/view/553778",
+    "https://www.ebase-plus.co.jp/company/company1.html",
+    "https://e-actionlearning.com/2018/04/3177/",
+    "https://zuuonline.com/archives/232883",
+    "https://www.youtube.com/watch?v=aidqfghSydU",
+    "https://www.ebase.co.jp/company/index.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部8頁・検索5回）"
+ }
+}

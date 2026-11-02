@@ -1,0 +1,2083 @@
+{
+ "name": "核融合",
+ "en": "fusion energy",
+ "aliases": [
+  "フュージョン",
+  "核融合発電"
+ ],
+ "context": "13 フュージョン ①フュージョン",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:58:31.868366+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "核融合エネルギー市場は2035年507億米ドルへ、CAGR 19.38％で拡大｜商用核融合炉・クリーンエネルギー投資が成長を加速 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は2035年507億米ドルへ、CAGR 19.38％で拡大｜商用核融合炉・クリーンエネルギー投資が成長を加速",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は、2025年の86億米ドルから2035年には507億米ドルへ拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）19.38％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "• 核融合エネルギー市場は、2025年に86億米ドルと評価され、2035年までに507億米ドルに達すると予測されており、2026年から2035年までの予測期間において19.38％という堅調な年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "• 【基準年・2025年】市場規模86億米ドルを起点として、核融合エネルギーは研究開発だけでなく、将来的な産業化を想定した投資判断が重要になる段階へ入っています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の86億米ドルから2035年には507億米ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成長率（CAGR）19.38％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けて核融合エネルギー市場は、研究開発段階から商業化準備段階へ移行する重要な期間を迎えると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模が86億米ドルから507億米ドルへ拡大する中で、企業にとって重要なのは単なる技術開発ではなく、商用展開を見据えたエコシステム構築です",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "フラーレン市場は2035年に9億7,035万米ドル規模へ、CAGR 6.02％を記録｜抗酸化成分・次世代スキンケア・電子材料への応用が市場成長を後押し",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合技術市場規模2033年向け先端材料",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合技術市場規模のグローバル先進材料は、2023年に4億米ドルで評価されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年まで7.20%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合技術市場規模の世界的な先端材料は、2033年までにUSD 0.922百万に達すると期待されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合技術市場規模のグローバル先進材料は、USD 0.922を抜くと予想される 2023年から2033年にかけて7.20%のCAGRで成長する2033年まで",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場は2024年に3,316億米ドル規模で、2037年末には6,338億米ドルに達すると予測されており、2025―2037年の予測期間中は年平均成長率（CAGR）5.1%で拡大する見込みです",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場規模は、2037年末までに6,338億米ドルを超え、予測期間中に年平均成長率（CAGR）5.1%で拡大すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの核融合市場は、2037年までに35.9%という最大のシェアを占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場規模、シェア、競争環境およびトレンド分析レポート、燃料種別、技術別、用途別、システムタイプ別、投資タイプ別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は、2025年に86億米ドルと評価され、2035年までに507億米ドルに達すると予測されており、2026年から2035年までの予測期間において19.38％という堅調な年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "当初60億ユーロと見積もられていたITERの予想費用は、180億～220億ユーロにまで膨れ上がり、一部の推計では450億～650億ドルにも達するとされています",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合産業協会（Fusion Industry Association）の報告によると、2024年の核融合産業への総投資額は71億ドル以上に達し、前年から9億ドル以上の新規資金が注入されました",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの核融合エネルギー市場の予測市場規模はどのくらいですか？",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は、2025年に86億米ドルと評価され、2026年から2035年までの予測期間中に年平均成長率（CAGR）19.38％で成長し、2035年には507億米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発行するリサーチレポートによると、世界核融合市場規模は、2025 年 USD 358.31 億米ドルから 2035 年までに 6.35% の CAGR で、2026～2035 年までに成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表したリサーチレポートによると、世界規模の核融合市場規模は、2025 年 USD 358.31 億米ドルから2035 年までのUSD 6.35%のCAGRで、2026～2035 年までに成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル核融合市場規模, シェア, テクノロジーによって (慣性コンフィネメント, 磁気コンフィネメント), 燃料によって (Deuterium/tritium, Deuterium, Helium-3, and Proton Boron), そして、地域別 (北米、欧州、アジア太平洋、ラテンアメリカ、中東、アフリカ), 分析と予測 2026 – 2035.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "核融合の市場規模は、2025年のUSD 358.31億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の35%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な核融合市場規模は、USD 663.30 Billionby 2035に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "物流支援車両市場規模, 株式, 成長, 予測へ 2033",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル獣医イメージング市場規模、2033年予測",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "急速な技術進歩を背景に、日本の核融合市場は2035年までに251億米ドル規模へと急拡大する見通し | NEWSCAST",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "急速な技術進歩を背景に、日本の核融合市場は2035年までに251億米ドル規模へと急拡大する見通し",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核融合市場は変革的な成長局面に入っており、2025年の20億米ドルから2035年には251億米ドルへと急拡大すると予測されています",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに251億米ドル規模に達すると予測される市場規模は、核融合が持つ変革の可能性を浮き彫りにしています",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場規模、シェア｜成長予測[2035年]",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術別（磁気閉じ込め（トカマク／ステラレータ）、慣性閉じ込め、磁化ターゲット、磁場反転／Zピンチ）、燃料別（重水素-三重水素、陽子-ホウ素、重水素-ヘリウム3）、提供製品別（原子炉開発、イネーブリングコンポーネント（高温超伝導磁石、レーザー）、燃料サイクルおよびサービス）、用途別（電力網ベースロード電源、データセンター電源、産業用熱／水素、防衛／研究）、エンドユーザー別（電力会社、データセンター／大手テクノロジー企業、政府機関および研究所）、地域別―市場規模、業界動向、機会分析および2026年～2035年の予測",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場は2025年には20億米ドルと推定され、2035年までに251億米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）28.9%で成長すると見込まれている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "Helionは2026年6月に4億6500万ドルを調達し、企業価値は155億ドルに達した",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核融合市場は大幅な成長が見込まれており、2025年の3,692億2,000万米ドルから、2031年までに5,175億5,000万米ドルへと拡大し、CAGRは5.79％になると予測されています",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模：2025年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模：2031年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,500 換算",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,500 換算",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,000 換算",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "核融合の世界市場：技術、燃料、製品・サービス、用途、エンドユーザー、地域別 - 市場規模、業界力学、機会分析および予測（2026年～2035年）",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "核融合発電の世界市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年夏から2025年夏にかけて、世界の核融合企業への投資額は26.4億ドル、累計97.7億ドルに達し、研究段階から実証炉・商用炉の開発へ軸足が移りつつあることが、各種調査と報道で示されています",
+    "url": "https://pps-net.org/column/153205",
+    "pass": 3
+   },
+   {
+    "quote": "GDP 598.95 兆円(2026Q2)",
+    "url": "https://pps-net.org/column/153205",
+    "pass": 3
+   },
+   {
+    "quote": "03. 市場規模推移予測（出力／金額｜2025年｜2030年｜2035年｜2040年｜2045年｜2050年）​",
+    "url": "https://axetimes.com/report/research-about-fusionenergy-technology-and-market-global-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "04. 投資コスト推移予測（CAPEX｜USD/kW）（2025年｜2030年｜2035年｜2040年｜2045年｜2050年）​",
+    "url": "https://axetimes.com/report/research-about-fusionenergy-technology-and-market-global-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月、国有企業と研究機関が約16億ドルを出資して「China Fusion Energy」社を設立",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "さらに上海未来産業基金から14億ドルの投資を受けるなど、国家資本を背景にしたサプライチェーンの垂直統合が進んでいる",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、核融合産業への累積民間投資額は100億ドルを突破",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "最近の資金調達ラウンドで4億2500万ドルを追加し、累計調達額は10億ドルを超えた 1",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "政府総合経済対策（21.3兆円）におけるエネルギー・脱炭素・蓄電池産業の事業機会と構造的リスク分析レポート",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場規模とYY成長率、2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ITERプロジェクトは、政府の支援レベルに影響する2億2億ドルを超えるコスト",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "核融合エネルギー市場は2035年507億米ドルへ、CAGR 19.38％で拡大｜商用核融合炉・クリーンエネルギー投資が成長を加速 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は2035年507億米ドルへ、CAGR 19.38％で拡大｜商用核融合炉・クリーンエネルギー投資が成長を加速",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は、2025年の86億米ドルから2035年には507億米ドルへ拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）19.38％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "• 核融合エネルギー市場は、2025年に86億米ドルと評価され、2035年までに507億米ドルに達すると予測されており、2026年から2035年までの予測期間において19.38％という堅調な年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR19.38％の裏側にあるリスク――高成長市場ほど「技術・資本・供給網」の選別眼が問われる",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "507億米ドルという2035年の市場機会を捉えるには、成長率以上に「どこで利益を確保するか」というポートフォリオ設計が重要です",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場が2025年の86億米ドルから2035年に507億米ドルへ拡大するという見通しは、経営者に一つの重要な問いを提示しています",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR19.38％という成長予測を事業成果へ変えるには、市場全体を追うだけでは不十分です",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場、2035年に507億米ドル規模へ拡大 ― 次世代エネルギー戦略を左右する技術投資と産業競争の新局面",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界的なエネルギー転換を背景に拡大する核融合エネルギー市場の現在地と2035年までの成長ポテンシャル",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年まで7.20%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合技術市場規模のグローバル先進材料は、USD 0.922を抜くと予想される 2023年から2033年にかけて7.20%のCAGRで成長する2033年まで",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場は2024年に3,316億米ドル規模で、2037年末には6,338億米ドルに達すると予測されており、2025―2037年の予測期間中は年平均成長率（CAGR）5.1%で拡大する見込みです",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "特に農村部において、世界人口の11%以上を占める10億人未満に電力供給を受けられない人々の数を最小限に抑えるため、電力アクセスの拡大において大きな進歩が遂げられています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "第4世代技術を核融合炉に統合することで、その実現可能性と魅力が向上し、研究開発への投資の増加と市場拡大の促進につながります",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場規模は、2037年末までに6,338億米ドルを超え、予測期間中に年平均成長率（CAGR）5.1%で拡大すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "世界的に、2037年までに核融合ビジネスの機会が拡大する地域は？",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場 2035年には507億米ドルへ拡大、CAGR約19.38%で成長",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "すると予測されており、2026年から2035年の予測期間にかけて年平均",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "成長率（CAGR）19.38％",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は、2025年に86億米ドルと評価され、2035年までに507億米ドルに達すると予測されており、2026年から2035年までの予測期間において19.38％という堅調な年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この資本の流入は、研究開発活動を後押ししただけでなく、1,000件を超える新規雇用の創出にもつながっており、同セクターの経済的影響力の拡大を示しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、米国エネルギー省（DOE）はレーザー核融合プログラムを拡大し、ICFの目標を長期的なエネルギー革新戦略に組み込んでした",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、英国政府は、East X Venturesが運用する、核融合スタートアップ企業の事業拡大を支援するために1億～1億5,000万ポンドを目標とする民間核融合ファンド「Starmaker One」の立ち上げに向け、2,000万ポンドを拠出することを決定しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場は、2025年に86億米ドルと評価され、2026年から2035年までの予測期間中に年平均成長率（CAGR）19.38％で成長し、2035年には507億米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発行するリサーチレポートによると、世界核融合市場規模は、2025 年 USD 358.31 億米ドルから 2035 年までに 6.35% の CAGR で、2026～2035 年までに成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表したリサーチレポートによると、世界規模の核融合市場規模は、2025 年 USD 358.31 億米ドルから2035 年までのUSD 6.35%のCAGRで、2026～2035 年までに成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の35%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "急速な技術進歩を背景に、日本の核融合市場は2035年までに251億米ドル規模へと急拡大する見通し | NEWSCAST",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "急速な技術進歩を背景に、日本の核融合市場は2035年までに251億米ドル規模へと急拡大する見通し",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核融合市場は変革的な成長局面に入っており、2025年の20億米ドルから2035年には251億米ドルへと急拡大すると予測されています",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "これは、2026年から2035年の予測期間において年平均成長率（CAGR）28.9%という驚異的な伸びを示すものであり、核融合エネルギーへの世界的な投資拡大や技術的ブレイクスルーを反映しています",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場は2025年には20億米ドルと推定され、2035年までに251億米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）28.9%で成長すると見込まれている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合産業は2025年7月までの12ヶ月間で26億4000万ドルを調達し、前年比178%増となった",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業の資金調達総額は同時点で97億6600万ドルに達しており、この分野がいかに急速に拡大しているかを示している",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核融合市場は大幅な成長が見込まれており、2025年の3,692億2,000万米ドルから、2031年までに5,175億5,000万米ドルへと拡大し、CAGRは5.79％になると予測されています",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR：2026年～2031年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは5.79%です",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間核融合企業の支出は前年比73%増の4億3400万ドル",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーの81%が「長期的な需要の不確実性」を事業拡大の障壁",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場規模とYY成長率、2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2032年、化合物の年間成長率を展示",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "6.44%のCAGR)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "The global fusion energy market size is predicted to increase from USD 396.84 billion in 2026 to approximately USD 611.81 billion by 2034, expanding at a CAGR of 5.56% from 2026 to 2034. The market growth is attributed to rising technological advancements, strategic public-private investments, and increasing global momentum toward clean, secure, and scalable energy alternatives.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 5.56% from 2026 to 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to grow at the fastest CAGR from 2026 to 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the inertial confinement fusion segment is projected to grow at the fastest CAGR between 2026 and 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the space propulsion segment is expanding at a significant CAGR between 2026 and 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By system type, commercial reactors segment is expected to grow at a notable CAGR from 2026 to 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. fusion energy market size was exhibited at USD 100.00 billion in 2026 and is projected to be worth around USD 157.43 billion by 2034, growing at a CAGR of 5.78% from 2026 to 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The fusion energy market is expected to grow at a compound annual growth rate (CAGR) of around 5.56% from 2026 to 2034.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share | CAGR of 6.2%",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.2%",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.2%.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market to Grow from USD 3.15 Billion in 2025 to USD 21.6 Billion by 2035, at 21.2% CAGR – Report by SNS Insider",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Fusion Energy Market to Reach USD 6.15 Billion by 2035 as North America Leads with 41.6% Share and Asia Pacific Records the Fastest Growth at 25.6% CAGR",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "A.L.M.T. Corp., BETEK GmbH & Co. KG, Buffalo Tungsten Inc., H.C. Starck Tungsten GmbH, Materion Corporation, GUANGDONG XIANGLU TUNGSTEN CO LTD, ATI Inc., CMOC, Chongyi ZhangYuan Tungsten Co. Ltd., NGK Metals, Ulba Metallurgical Plant, and other key companies.",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業リスト",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、小型核融合炉と強化磁場閉じ込め技術における革新的なアプローチを活用し、核融合発電の実現可能性と拡張性を維持しています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場の主要企業",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "• その他主要企業",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "市場を形成する主要プレイヤー",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、専門的なインフラや材料の高コストが産業の進展を遅らせ、収益化前の段階でも事業を継続できる市場参入企業を限定しています",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の核融合市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "地理的には、北米は、大幅な政府の資金調達、トップレベルの研究機関、および繁栄するスタートアップエコシステムによって支持され、Commonwealth Fusion SystemsやTAE Technologiesなどの主要プレイヤーがエネルギー省の恩恵を受けています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "The UK government committed £20 million to launch Starmaker One, a private fusion fund targeting £100–150 million to help fusion startups scale, managed by East X Ventures.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the major players in the global fusion energy market?",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Major key players include",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Fusion Energy Market include",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Fusion Energy Market?",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include General Fusion, Helion Energy, and the ITER Organization, among others.",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the Global Fusion Energy Market are Commonwealth Fusion Systems (USA), TAE Technologies (USA), Helion Energy (USA), Tokamak Energy (UK) and others.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Global Fusion Energy Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "3.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "11. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Shunt Reactor Market by Product Type, Form Factor, Voltage Application, End-Use Industry, and Region - Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The recent breakthroughs in high-temperature superconducting magnets have increased the viability of MCF, with the FIA listing 25 startups in the space (Chandler 2024). Commonwealth Fusion Systems (CFS), an MIT spinoff that has received nearly $3 billion in funding, aims to deliver power to the grid in the early 2030s (CFS 2025).",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "This short confinement time creates new issues. To produce net electricity, an ICF power plant would need to ignite pellets many times per second, which is a dizzying engineering challenge (Anderson 2024). Despite these hurdles, the FIA lists 11 startups, including Pacific Fusion and Focused Energy, that are pursuing inertial approaches.",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "From fusion companies themselves, overly optimistic corporate press releases risk misleading stakeholders. In the race to secure venture funding and government grants, fusion startups may make aspirational claims about their progress and timelines for deployment (Gupta et al. 2024).",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "These claims may excite in the short term. However, when startups miss their targets, they erode trust in all fusion institutions and reinforce the old “decades away” critique (Mumgaard 2024). Fusion companies and investors must take responsibility for maintaining trust in the science or risk losing long-term support.",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "36. Fusion Energy Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "36.1. Fusion Energy Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "36. Fusion Energy Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "36.1. Fusion Energy Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "Anticipated dates for the first power producing commercial plant for major fusion startups. Data compiled by, and image source: IDTechEx.",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis of the key players in fusion, including their achievements to date and future goals",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis of the key players and value chain for fusion materials and components",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Timeline of major players in commercial fusion: Tokamaks and stellarators",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Timeline of major players in commercial fusion: Field-reversed configurations, inertial, magneto-inertial and z-pinch reactors",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "When do fusion startups expect their first power plant to be deployed?",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "FUSION APPROACHES AND KEY PLAYERS",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Magnetic Confinement Fusion: Technologies, Key Players",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Inertial Confinement Fusion: Technologies, Key Players",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   },
+   {
+    "quote": "Magneto-Inertial Confinement and Z-Pinch Fusion: Technologies, Key Players",
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月、ドイツ連邦教育研究省(BMBF)は、核融合研究のための新たな資金調達イニシアチブを確立し、2040年までに初の融合発電所を建設しました",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合産業協会（Fusion Industry Association）の報告によると、2024年の核融合産業への総投資額は71億ドル以上に達し、前年から9億ドル以上の新規資金が注入されました",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、欧州で最も急成長している核融合エネルギー企業として知られるプロキシマ・フュージョン（Proxima Fusion）は、1億3,000万ユーロ（1億5,000万ドル）のシリーズA資金調達ラウンドを成功裏に完了したと発表しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象企業の資金調達総額は同時点で97億6600万ドルに達しており、この分野がいかに急速に拡大しているかを示している",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年までに、世界の核融合分野への累積投資額は71億米ドルを超えました",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年夏から2025年夏にかけて、世界の核融合企業への投資額は26.4億ドル、累計97.7億ドルに達し、研究段階から実証炉・商用炉の開発へ軸足が移りつつあることが、各種調査と報道で示されています",
+    "url": "https://pps-net.org/column/153205",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月、国有企業と研究機関が約16億ドルを出資して「China Fusion Energy」社を設立",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、核融合産業への累積民間投資額は100億ドルを突破",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "最近の資金調達ラウンドで4億2500万ドルを追加し、累計調達額は10億ドルを超えた 1",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、Inertial Fusion Energy(IFE) Targetry HUBは、ドイツのフュージョン2040の資金調達プログラムの一環として、2024年12月に正式に開始され、合計ボリュームが1億ユーロを超えた",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、ドイツスタートアップのProxima Fusionは、主要な資金調達ラウンドで130万ユーロを確保し、商用の融合発電所を推進しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in fusion private sector initiatives reaches 13 billion EUR – Fusion for Energy",
+    "url": "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "累積的な投資額の推移は上のグラフのとおりで、2020年代に入り急増し、その勢いは続いている",
+    "url": "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "（CFS）が7億9,700万ユーロのシリーズB2を調達し、2021年以来最大の資金調達額増加を記録",
+    "url": "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "Commonwealth Fusion Systemsとは？核融合資金調達額No. 1企業",
+    "url": "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "（先進ヘリカル型核融合炉）の1億3,000万ユーロのシリーズAとその後の1,500万ユーロの追加調達が牽引（Proxima Fusionは欧州で最も資金調達額の多い核融合スタートアップ企業の一つとなった）",
+    "url": "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "The global fusion energy market size is predicted to increase from USD 396.84 billion in 2026 to approximately USD 611.81 billion by 2034, expanding at a CAGR of 5.56% from 2026 to 2034. The market growth is attributed to rising technological advancements, strategic public-private investments, and increasing global momentum toward clean, secure, and scalable energy alternatives.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By investment type, the public sector investments segment accounted for highest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why Did Public Sector Investments Take the Lead in the Fusion Energy Market in 2026?",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "to support nuclear fusion energy, aiming to construct a leading fusion power project by 2040. Similarly, the European Union’s Net Zero Industrial Act has designated fusion as a strategic technology, unlocking additional funding opportunities and reinforcing its role in Europe’s clean energy strategy.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Avalanche achieved a significant milestone by reaching 200 kilovolts in its second prototype reactor, marking the highest known operating voltage for any fusion device at the time. The company has secured over $40 million in funding from investors including Founders Fund and Toyota Ventures, and is preparing to raise an additional $100 million to advance its technology.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Avalanche Energy, is preparing to raise up to $100 million in a Series B funding round to further advance its technology and expand its operations.",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "held the highest share of 41.6% in the Fusion Energy Market in 2025 due to extensive funding by the private sector in reactors, strong national lab funding, and the presence of many fusion developer firms. In 2025, the value of the U.S. Fusion Energy Market stood at around USD 1.16 Billion and is expected to reach USD 6.15 Billion by 2035, recording a CAGR of around 18.8% between 2026 and 2035.",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Q2 2025: Every fusion startup that has raised over $100M",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Helion raised $425 million in January 2025, coinciding with the activation of its Polaris prototype reactor. The company, backed by investors including Sam Altman and BlackRock, aims to produce electricity from fusion by 2028.",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Pacific Fusion raised a $900 million Series A round to develop its inertial confinement fusion technology, which uses coordinated electromagnetic pulses instead of lasers to achieve fusion.",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "TAE Technologies announced in early June 2025 that it raised over $150 million in its latest funding round, with participation from major investors including Google, Chevron, and NEA.",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "The Fusion Energy Market is projected to grow at a 19.38% CAGR from 2025 to 2035, driven by technological advancements, increasing investments, and global energy demands.",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size by Fuel Type, Technology, System Type, Investment Type, Application and Region - Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Mapping & Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Investment Surpasses US$10 Billion",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Global private fusion funding exceeds $10 billion from corporations, energy users, and sovereign funds, boosting innovation and commercialization.",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4. Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.2. Private Sector Investments",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.3. Public Sector Investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. North America Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.2. Private Sector Investments",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.3. Public Sector Investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4. Europe Fusion Energy Market Size and Forecast, by Investment Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "The recent breakthroughs in high-temperature superconducting magnets have increased the viability of MCF, with the FIA listing 25 startups in the space (Chandler 2024). Commonwealth Fusion Systems (CFS), an MIT spinoff that has received nearly $3 billion in funding, aims to deliver power to the grid in the early 2030s (CFS 2025).",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "Neutrons from fusion reactions can activate reactor components, which must be responsibly stored after decommissioning (Gonzalez de Vicente et al. 2022). Nevertheless, the Fusion Energy Act recognizes that fusion can produce nuclear energy without long-lived nuclear waste or the threat of meltdown, reducing regulatory uncertainty and paving the way for future investment.",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "From fusion companies themselves, overly optimistic corporate press releases risk misleading stakeholders. In the race to secure venture funding and government grants, fusion startups may make aspirational claims about their progress and timelines for deployment (Gupta et al. 2024).",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "Universities and other public institutions require increased funding to advance foundational fusion research while educating and training a new workforce. Funds for these purposes are already available via the CHIPS and Science Act, which authorizes support for non-semiconductor technologies including advanced energy technologies (White House 2022).",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, $10 billion is authorized for “regional innovation and technology hubs”—exactly what is needed for fusion—and much of this funding is still available. Congress can support the first key fusion challenge by appropriating available CHIPS and Science funds, ensuring that the U.S. remains a leader in the race to bring fusion energy to the grid.",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "As the clean energy transition matures, it’s important to direct government funding toward fusion, which isn’t yet commercially viable but has the potential to transform global energy markets. Solar and wind power have become cost competitive as they’ve matured, so public funds would be better spent on socially beneficial research that can’t yet support itself (United Nations 2024).",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "U.K. Atomic Energy Authority. 2025. “Major Funding Milestone for World-First Prototype Fusion Plant.”",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.3 Investment in Compact and Modular Fusion Reactors",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "9.3. Global Fusion Energy Market, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "11.2. Asia-Pacific Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "12.2. China Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "13.1. India Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "14.2. Japan Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "15.1. Australia Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "16.1. Indonesia Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "17.2. South Korea Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "18.2. Taiwan Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "19.2. South East Asia Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "20.2. Western Europe Fusion Energy Market, Segmentation by Type, Segmentation by System Type, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.3 Investment in Compact and Modular Fusion Reactors",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "9.3. Global Fusion Energy Market, Segmentation by Investment Type, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "核融合市場調査、規模、シェア 、傾向、予測2037年",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは、予測期間中に35.9%のシェアを占め、市場を席巻すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "特に農村部において、世界人口の11%以上を占める10億人未満に電力供給を受けられない人々の数を最小限に抑えるため、電力アクセスの拡大において大きな進歩が遂げられています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "慣性閉じ込め方式は、予測期間中に72.1%という最大の市場シェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "一方、磁気閉じ込め方式は、予測期間中に市場シェアの27.1%を占めます",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "天然水素の約0.0312%を占める重水素は、海水から効率的に抽出できるため、ほぼ無尽蔵の資源です",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの核融合市場は、2037年までに35.9%という最大のシェアを占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "核融合エネルギー市場規模、シェア、競争環境およびトレンド分析レポート、燃料種別、技術別、用途別、システムタイプ別、投資タイプ別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、磁気閉じ込め核融合（MCF）セグメントは収益面における核融合エネルギー市場を独占しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際原子力機関（IAEA）は2024年、世界における新たな実験用核融合インフラ開発の40％以上をアジアが占めていると推定しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に核融合エネルギー市場を独占していた技術セグメントはどれですか？",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル核融合市場規模, シェア, テクノロジーによって (慣性コンフィネメント, 磁気コンフィネメント), 燃料によって (Deuterium/tritium, Deuterium, Helium-3, and Proton Boron), そして、地域別 (北米、欧州、アジア太平洋、ラテンアメリカ、中東、アフリカ), 分析と予測 2026 – 2035.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場規模、シェア｜成長予測[2035年]",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "磁気閉じ込め型（トカマク／ステラレーター）が2025年の市場シェアで最大を占めた",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には系統ベースロード電源が市場最大のシェアを占めた",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には政府機関と研究機関が最大のシェアを占める見込みです",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "競合分析：核融合市場を支配する上位5社",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2026年時点で世界の核融合市場において圧倒的なシェアを占めています",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 核融合市場- 世界の産業規模、シェア、動向、機会、予測：技術、燃料、地域別＆競合、2021年～2031年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場- 世界の産業規模、シェア、動向、機会、予測：技術、燃料、地域別＆競合、2021年～2031年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場の規模、シェア、および成長分析：技術タイプ別、構成要素別、燃料タイプ別、用途別、エンドユーザー別、開発段階別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "核融合発電の世界市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "表1：MITモデルによる核融合コストシナリオと世界発電シェアの予測",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "2075年の世界発電シェア",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "2100年の世界発電シェア",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "$8,000/kW）であっても、2100年には世界の電力の約4分の1を供給する可能性があり、これは現在の原子力発電のシェアを大きく上回る",
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "高エネルギーレーザーおよびターゲット圧縮システムへのグローバル投資の増加によって運転される2025の%のシェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米国とカナダの融合研究および先進的な原子炉開発における重要な公共および民間投資による2025年シェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "技術の面で、慣性混入セグメントは、高エネルギーレーザーおよびターゲット圧縮システムにおけるグローバル投資を増加させることで、2025年に26.9%のシェアを命じる予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年シェア 米国エネルギー省(DOE)は、サンディエゴのDIII-Dナショナルフュージョン施設を通じて、融合研究の推進に尽力しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the fusion energy market with the largest share of 36% in 2026.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the magnetic confinement fusion segment held a major market share in 2026.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the power generation segment contributed the biggest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By investment type, the public sector investments segment accounted for highest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By system type, pilot plants segment generated the major market share in 2026.",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why Did the Magnetic Confinement Fusion Segment Dominate the Fusion Energy Market in 2026?",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why Did the Pilot Plants Segment Dominate the Fusion Energy Market in 2026?",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Deuterium-Tritium fuel dominates with 63.5% share in 2024 due to its high energy yield and research maturity",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "held the highest share of 41.6% in the Fusion Energy Market in 2025 due to extensive funding by the private sector in reactors, strong national lab funding, and the presence of many fusion developer firms. In 2025, the value of the U.S. Fusion Energy Market stood at around USD 1.16 Billion and is expected to reach USD 6.15 Billion by 2035, recording a CAGR of around 18.8% between 2026 and 2035.",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Magnetic Confinement had the highest market share of 61% in 2025 due to its established technological record and proven ability to generate and control plasma at high temperatures using tokamak and stellarator reactors. Inertial Confinement is the technology growing at the fastest rate since fusion through laser-driven processes is being researched following net energy gain demonstration.",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Magnet & Coil Systems led the market with a market share of 34%, owing to the importance of superconducting magnets at high temperatures in the reactor design of tokamak and stellarator types. The category of Diagnostics & Control Systems is projected to grow at the fastest pace due to predictive plasma control using artificial intelligence.",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Deuterium-Tritium held the largest market share, comprising 68% of the total in 2025, owing to its low ignition temperature and high-energy yield, which are superior to those from other fuel cycles. The segment showing the highest growth is Deuterium-Helium-3 due to the aneutronic nature of this fuel cycle.",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Government & Research Institutions captured 49% market share in 2025, as this category has been involved in fusion technology from a very long time through national laboratories and multilateral efforts by governments and their research projects. The Utilities are the fastest growing category among end users as the power companies and the technological companies enter into early agreements.",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Which fuel type is projected to dominate the Fusion Energy Market by 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "The Deuterium-Tritium fuel type is anticipated to dominate, reaching 25.0 USD Billion by 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "2] Which region is expected to dominate the Global Fusion Energy Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, $10 billion is authorized for “regional innovation and technology hubs”—exactly what is needed for fusion—and much of this funding is still available. Congress can support the first key fusion challenge by appropriating available CHIPS and Science funds, ensuring that the U.S. remains a leader in the race to bring fusion energy to the grid.",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "Federation of American Scientists. 2024. “Promoting Fusion Energy Leadership with U.S. Tritium Production Capacity.”",
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4. Top Three Trends Shaping the Market",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "36.1. Fusion Energy Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "pass": 3
+   },
+   {
+    "quote": "1.4. Top Three Trends Shaping the Market",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "36.1. Fusion Energy Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2025, North America accounted for 38.2% of the global market share (",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "By 2027, the inertial confinement segment is predicted to dominate over 72.1% nuclear fusion market share (",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2025, in terms of technology, magnetic confinement contributes to 62.4% share of the market (",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2025, in terms of fuel, deuterium/tritium contributes to 41.7% share of the market (",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "核融合 エネルギー 市場 は2035年507億米ドルへ、 CAGR 19.38 ... — 核融合 エネルギー 市場 は2035年507億米ドルへ、 CAGR 19.38 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合 技術 市場規模 2033年向け先端材料 - Spherical Insights — 核融合 技術 市場規模 2033年向け先端材料 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > reports > advanced-m...",
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場 調査、 規模 、シェア 、傾向、予測2037年 — 核融合市場 調査、 規模 、シェア 、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "フュージョンエネルギー分野の現状について - 内閣府 — フュージョンエネルギー分野の現状について - 内閣府 内閣府ホームページ PDF https://www8.cao.go.jp > fusion_wg > siryou2-1",
+    "url": "https://www8.cao.go.jp/cstp/fusion/fusion_wg/1kai/siryou2-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "核融合 エネルギー 市場 2035年には507億米ドルへ拡大 — 核融合 エネルギー 市場 2035年には507億米ドルへ拡大 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > fusion-energy-market",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル 核融合市場 における トップ 20 企業 - Spherical Insights — グローバル 核融合市場 における トップ 20 企業 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > blogs > top-20-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "核融合 エネルギー 市場 規模、 シェア 、動向 |成長 [2034] — 核融合 エネルギー 市場 規模、 シェア 、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 核融合エネル...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A0%B8%E8%9E%8D%E5%90%88%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-114401",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 核融合市場 は2035年までに251億米ドル規模へと急拡大 ... — 日本の 核融合市場 は2035年までに251億米ドル規模へと急拡大 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/3905071",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場 調査、規模、 シェア 、傾向、予測2037年 — 核融合市場 調査、規模、 シェア 、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場 規模、 シェア ｜成長予測[2035年] - Astute Analytica — 核融合市場 規模、 シェア ｜成長予測[2035年] - Astute Analytica Astute Analytica https://www.astuteanalytica.com > nuclear-fusion-market",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合 エネルギー 市場 は2035年507億米ドルへ、CAGR 19.38 ... — 核融合 エネルギー 市場 は2035年507億米ドルへ、CAGR 19.38 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "pass": 3
+   },
+   {
+    "quote": "核融合市場 調査、規模、シェア 、傾向、予測2037年 — 核融合市場 調査、規模、シェア 、傾向、予測2037年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Companies, Size & Trends 2026-2034 — Fusion Energy Market Companies, Size & Trends 2026-2034 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size , Share | CAGR of 6.2% — Fusion Energy Market Size , Share | CAGR of 6.2% Market.us https://market.us > report > global-fus...",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size , Share | Industry Trend - 2040 — Fusion Energy Market Size , Share | Industry Trend - 2040 Allied Market Research https://www.alliedmarketresearch.com > ...",
+    "url": "https://www.alliedmarketresearch.com/fusion-energy-market-A31820",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market to Grow from USD 3.15 Billion in 2025 ... — Fusion Energy Market to Grow from USD 3.15 Billion in 2025 ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size , Share, and Forecast (2026–2032) — Fusion Energy Market Size , Share, and Forecast (2026–2032) maximize market research https://www.maximizemarketresearch.com > ...",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size , Growth, Trends, Report 2035 — Fusion Energy Market Size , Growth, Trends, Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size , Share & Trends | Growth [2034] — Fusion Energy Market Size , Share & Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/fusion-energy-market-114401",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Expected to Reach $840.3 Billion by 2040 — Fusion Energy Market Expected to Reach $840.3 Billion by 2040 Allied Market Research https://www.alliedmarketresearch.com > ...",
+    "url": "https://www.alliedmarketresearch.com/press-release/fusion-energy-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share | CAGR of 6.2% — Fusion Energy Market Size, Share | CAGR of 6.2% Market.us https://market.us > report > global-fus...",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Growth, Trends, Report 2035 — Fusion Energy Market Size, Growth, Trends, Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share, and Forecast (2026–2032) — Fusion Energy Market Size, Share, and Forecast (2026–2032) maximize market research https://www.maximizemarketresearch.com > ...",
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Size, Share & Trends | Growth [2034] — Fusion Energy Market Size, Share & Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/fusion-energy-market-114401",
+    "pass": 3
+   },
+   {
+    "quote": "Global Fusion Energy Trends — Global Fusion Energy Trends Fusion for Energy PDF https://fusionforenergy.europa.eu > 2026/07 > F4E_...",
+    "url": "https://fusionforenergy.europa.eu/wp-content/uploads/2026/07/F4E_Observatory-Global_Fusion_Energy_Trends_1st_Edition-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Companies , Size & Trends 2026-2034 — Fusion Energy Market Companies , Size & Trends 2026-2034 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy in 2025 : Six Global Trends to Watch — Fusion Energy in 2025 : Six Global Trends to Watch International Atomic Energy Agency http://www.iaea.org > news > fusion-e...",
+    "url": "http://www.iaea.org/newscenter/news/fusion-energy-in-2025-six-global-trends-to-watch",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Energy Market Report 2026 - Research and Markets — Fusion Energy Market Report 2026 - Research and Markets Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "19.38",
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "quote": "核融合エネルギー市場は2035年507億米ドルへ、CAGR 19.38％で拡大｜商用核融合炉・クリーンエネルギー投資が成長を加速 | 株式会社レポートオーシャン"
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "quote": "核融合市場は2024年に3,316億米ドル規模で、2037年末には6,338億米ドルに達すると予測されており、2025―2037年の予測期間中は年平均成長率（CAGR）5.1%で拡大する見込みです"
+   },
+   {
+    "value": "19.38",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "quote": "核融合エネルギー市場 2035年には507億米ドルへ拡大、CAGR約19.38%で成長"
+   },
+   {
+    "value": "28.9",
+    "url": "https://newscast.jp/news/3905071",
+    "quote": "これは、2026年から2035年の予測期間において年平均成長率（CAGR）28.9%という驚異的な伸びを示すものであり、核融合エネルギーへの世界的な投資拡大や技術的ブレイクスルーを反映しています"
+   },
+   {
+    "value": "28.9",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "quote": "核融合市場は2025年には20億米ドルと推定され、2035年までに251億米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）28.9%で成長すると見込まれている"
+   },
+   {
+    "value": "5.79",
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "quote": "世界の核融合市場は大幅な成長が見込まれており、2025年の3,692億2,000万米ドルから、2031年までに5,175億5,000万米ドルへと拡大し、CAGRは5.79％になると予測されています"
+   },
+   {
+    "value": "5.56",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "quote": "The global fusion energy market size is predicted to increase from USD 396.84 billion in 2026 to approximately USD 611.81 billion by 2034, expanding at a CAGR of 5.56% from 2026 to 2034. The market growth is attributed to rising technological advancements, strategic public-private investments, and i"
+   },
+   {
+    "value": "5.78",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "quote": "The U.S. fusion energy market size was exhibited at USD 100.00 billion in 2026 and is projected to be worth around USD 157.43 billion by 2034, growing at a CAGR of 5.78% from 2026 to 2034."
+   },
+   {
+    "value": "6.2",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "Fusion Energy Market Size, Share | CAGR of 6.2%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "35.9",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "quote": "ヨーロッパは、予測期間中に35.9%のシェアを占め、市場を席巻すると予想されています"
+   },
+   {
+    "value": "11",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "quote": "特に農村部において、世界人口の11%以上を占める10億人未満に電力供給を受けられない人々の数を最小限に抑えるため、電力アクセスの拡大において大きな進歩が遂げられています"
+   },
+   {
+    "value": "72.1",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "quote": "慣性閉じ込め方式は、予測期間中に72.1%という最大の市場シェアを獲得すると予測されています"
+   },
+   {
+    "value": "27.1",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "quote": "一方、磁気閉じ込め方式は、予測期間中に市場シェアの27.1%を占めます"
+   },
+   {
+    "value": "312",
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "quote": "天然水素の約0.0312%を占める重水素は、海水から効率的に抽出できるため、ほぼ無尽蔵の資源です"
+   },
+   {
+    "value": "40",
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "quote": "国際原子力機関（IAEA）は2024年、世界における新たな実験用核融合インフラ開発の40％以上をアジアが占めていると推定しました"
+   },
+   {
+    "value": "26.9",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "quote": "技術の面で、慣性混入セグメントは、高エネルギーレーザーおよびターゲット圧縮システムにおけるグローバル投資を増加させることで、2025年に26.9%のシェアを命じる予定です"
+   },
+   {
+    "value": "36",
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "quote": "North America dominated the fusion energy market with the largest share of 36% in 2026."
+   },
+   {
+    "value": "63.5",
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "quote": "Deuterium-Tritium fuel dominates with 63.5% share in 2024 due to its high energy yield and research maturity"
+   },
+   {
+    "value": "41.6",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "quote": "held the highest share of 41.6% in the Fusion Energy Market in 2025 due to extensive funding by the private sector in reactors, strong national lab funding, and the presence of many fusion developer firms. In 2025, the value of the U.S. Fusion Energy Market stood at around USD 1.16 Billion and is ex"
+   },
+   {
+    "value": "18.8",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "quote": "held the highest share of 41.6% in the Fusion Energy Market in 2025 due to extensive funding by the private sector in reactors, strong national lab funding, and the presence of many fusion developer firms. In 2025, the value of the U.S. Fusion Energy Market stood at around USD 1.16 Billion and is ex"
+   },
+   {
+    "value": "61",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "quote": "Magnetic Confinement had the highest market share of 61% in 2025 due to its established technological record and proven ability to generate and control plasma at high temperatures using tokamak and stellarator reactors. Inertial Confinement is the technology growing at the fastest rate since fusion "
+   },
+   {
+    "value": "34",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "quote": "Magnet & Coil Systems led the market with a market share of 34%, owing to the importance of superconducting magnets at high temperatures in the reactor design of tokamak and stellarator types. The category of Diagnostics & Control Systems is projected to grow at the fastest pace due to predictive pl"
+   },
+   {
+    "value": "68",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "quote": "Deuterium-Tritium held the largest market share, comprising 68% of the total in 2025, owing to its low ignition temperature and high-energy yield, which are superior to those from other fuel cycles. The segment showing the highest growth is Deuterium-Helium-3 due to the aneutronic nature of this fue"
+   },
+   {
+    "value": "49",
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "quote": "The Government & Research Institutions captured 49% market share in 2025, as this category has been involved in fusion technology from a very long time through national laboratories and multilateral efforts by governments and their research projects. The Utilities are the fastest growing category am"
+   },
+   {
+    "value": "38.2",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "quote": "As of 2025, North America accounted for 38.2% of the global market share ("
+   },
+   {
+    "value": "72.1",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "quote": "By 2027, the inertial confinement segment is predicted to dominate over 72.1% nuclear fusion market share ("
+   },
+   {
+    "value": "62.4",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "quote": "As of 2025, in terms of technology, magnetic confinement contributes to 62.4% share of the market ("
+   },
+   {
+    "value": "41.7",
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "quote": "As of 2025, in terms of fuel, deuterium/tritium contributes to 41.7% share of the market ("
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/8633668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/fusion/fusion_wg/1kai/siryou2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A0%B8%E8%9E%8D%E5%90%88%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-114401",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3905071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pps-net.org/column/153205",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axetimes.com/report/research-about-fusionenergy-technology-and-market-global-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/fusion-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-fusion-energy-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/nuclear-fusion-market-97331362.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alliedmarketresearch.com/fusion-energy-market-A31820",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/fusion-energy-market-114401",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/nuclear-fusion-companies.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alliedmarketresearch.com/press-release/fusion-energy-market.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fusionforenergy.europa.eu/wp-content/uploads/2026/07/F4E_Observatory-Global_Fusion_Energy_Trends_1st_Edition-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.catf.us/fusion-energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consolidatedenergyco.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.iaea.org/newscenter/news/fusion-energy-in-2025-six-global-trends-to-watch",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fusionforenergy.europa.eu/wp-content/uploads/2025/11/F4E_Observatory_2025_digital.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "核融合 市場規模 CAGR",
+   "results": [
+    "https://www.atpress.ne.jp/news/8633668",
+    "https://www.sphericalinsights.com/jp/reports/advanced-materials-for-nuclear-fusion-technology-market",
+    "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "https://www8.cao.go.jp/cstp/fusion/fusion_wg/1kai/siryou2-1.pdf",
+    "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "https://www.dri.co.jp/auto/search_hot.php?seq=12",
+    "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "https://newscast.jp/news/3905071",
+    "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "https://www.marketresearchfuture.com/ja/reports/fusion-energy-market-31755"
+   ]
+  },
+  {
+   "query": "核融合 市場 シェア 上位 企業",
+   "results": [
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-nuclear-fusion-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A0%B8%E8%9E%8D%E5%90%88%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-114401",
+    "https://newscast.jp/news/3905071",
+    "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "https://www.astuteanalytica.com/ja/industry-report/nuclear-fusion-market",
+    "https://www.atpress.ne.jp/news/8633668",
+    "https://www.gii.co.jp/report/tsci2048168-nuclear-fusion-market-global-industry-size-share.html",
+    "https://note.com/kagawatomo/n/n864a184f1986",
+    "https://kabu.com/kabuyomu/money/898.html",
+    "https://www.marketresearchfuture.com/ja/reports/fusion-energy-market-31755"
+   ]
+  },
+  {
+   "query": "核融合 市場 前年比 2025",
+   "results": [
+    "https://newscast.jp/news/3905071",
+    "https://www.researchnester.jp/industry-analysis/nuclear-fusion-market/6397",
+    "https://pps-net.org/column/153205",
+    "https://www.atpress.ne.jp/news/8633668",
+    "https://axetimes.com/report/research-about-fusionenergy-technology-and-market-global-2025/",
+    "https://www.reportocean.co.jp/industry-reports/fusion-energy-market",
+    "https://www.enegaeru.com/iaeaworldfusionoutlook2025latesttrendsanalysisoffusionenergy",
+    "https://www.coherentmarketinsights.com/ja/%E6%A0%B8%E8%9E%8D%E5%90%88%E5%B8%82%E5%A0%B4",
+    "https://jpscience.info/2025-dec-global-fusion-investment/",
+    "https://www.coherentmarketinsights.com/ja/核融合市場"
+   ]
+  },
+  {
+   "query": "fusion energy market size CAGR 2025",
+   "results": [
+    "https://www.precedenceresearch.com/fusion-energy-market",
+    "https://market.us/report/global-fusion-energy-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/nuclear-fusion-market-97331362.html",
+    "https://www.alliedmarketresearch.com/fusion-energy-market-A31820",
+    "https://finance.yahoo.com/energy/articles/fusion-energy-market-grow-usd-223000743.html",
+    "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vJwJtIBTDvgvLjyEyYNdNK1jTT7F8maNM3FPaqyqRP4R9UrvZF4",
+    "https://dataintelo.com/report/fusion-energy-market"
+   ]
+  },
+  {
+   "query": "fusion energy market share top players percent",
+   "results": [
+    "https://market.us/report/global-fusion-energy-market/",
+    "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "https://www.fortunebusinessinsights.com/fusion-energy-market-114401",
+    "https://www.precedenceresearch.com/fusion-energy-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/nuclear-fusion-companies.asp",
+    "https://www.alliedmarketresearch.com/press-release/fusion-energy-market.html",
+    "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "https://fusionforenergy.europa.eu/wp-content/uploads/2026/07/F4E_Observatory-Global_Fusion_Energy_Trends_1st_Edition-1.pdf",
+    "https://www.alliedmarketresearch.com/fusion-energy-market-A31820"
+   ]
+  },
+  {
+   "query": "fusion energy market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://market.us/report/global-fusion-energy-market/",
+    "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "https://www.fortunebusinessinsights.com/fusion-energy-market-114401",
+    "https://fusionforenergy.europa.eu/wp-content/uploads/2026/07/F4E_Observatory-Global_Fusion_Energy_Trends_1st_Edition-1.pdf",
+    "https://kleinmanenergy.upenn.edu/research/publications/bringing-fusion-energy-to-the-grid-challenges-and-pathways/",
+    "https://www.catf.us/fusion-energy/",
+    "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIUarSg2mPHXKXxjobVKxyABhUDBek7qHJHSFBI97yIEGXtwv9b",
+    "https://www.linkedin.com/pulse/fusion-energy-market-powering-future-clean-markets-us-md1vf",
+    "https://consolidatedenergyco.com/"
+   ]
+  },
+  {
+   "query": "fusion energy market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/fusion-energy-market",
+    "https://market.us/report/global-fusion-energy-market/",
+    "http://www.iaea.org/newscenter/news/fusion-energy-in-2025-six-global-trends-to-watch",
+    "https://www.marketresearchfuture.com/reports/fusion-energy-market-31755",
+    "https://www.researchandmarkets.com/reports/6089929/fusion-energy-market-report?srsltid=AYCX9vIv-hI_i7wXqzQTt1-0t8-37VsfRPasMId91C9gYS94gQrMvCel",
+    "https://www.adopter.net/knowledge-hub/25-statistics-on-nuclear-fusion-you-need-to-know-in-2026",
+    "https://www.idtechex.com/tw/research-report/fusion-energy-market-2025-2045-technologies-players-timelines/1094",
+    "https://fusionforenergy.europa.eu/wp-content/uploads/2025/11/F4E_Observatory_2025_digital.pdf",
+    "https://www.maximizemarketresearch.com/market-report/fusion-energy-market/183962/",
+    "https://dataintelo.com/report/fusion-energy-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

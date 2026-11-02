@@ -1,0 +1,1615 @@
+{
+ "name": "東祥",
+ "aliases": [],
+ "context": "証券コード8920／サービス業／スタンダード（内国株式）／2026.03期 売上高27,596百万円 営業利益率27.1%",
+ "researched_at": "2026-11-02T16:55:05.601044+00:00",
+ "official_url": "https://www.to-sho.net/",
+ "identified_by": "search:yahoo_jp:東祥",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "27,595 100.0 77.5 35,619 100.0",
+    "url": "https://www.to-sho.net/ir/financialreport/fr_summary.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "27,319 22,506 30,927 35,619 27,595",
+    "url": "https://www.to-sho.net/ir/financialreport/fr_highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "12,566,742 10,651,628 12,401,056 35,619,427 － 35,619,427",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ 27,417 26,212 53,629 △53,629 －",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "12,562,593 12,274,128 2,758,819 27,595,541 － 27,595,541",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ 19,775 31,632 51,408 △51,408 －",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（人）",
+    "value": "478 413 377 402 376",
+    "url": "https://www.to-sho.net/ir/financialreport/fr_highlight.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "いずれの事業においても「満足できる施設」「満足できるサービス」を提供し、施設サービス業として高収益を維持してまいりました",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、5大無料サービスをはじめとし、大浴場の充実、液晶テレビ、快眠できる部屋など付加価値の高い運営に努めております",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ABホテルの5大無料サービス",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "２．施設サービス業",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ジャスダック所属業種分類「不動産業」から「サービス業」へ業種変更",
+    "url": "https://www.to-sho.net/gaiyou/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "・ 経営の根幹は、 顧客のニーズに合致したサービスを低コストで提供するという仕組みを",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．沿革 施設サービス業へと発展",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "健康生活創造型の施設サービス企業、業界トップの圧倒的収益力を誇る",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トップのコナミスポーツ（コナミの主力はゲーム） 、ティップネス（サントリー系） 、オー",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップのコナミ（コード9766）は主力がゲームであり、コナミスポーツが属する健康サービス",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、少子高齢化社会にあった健康づくりを支援する施設サービス業としてのビジネスモデ",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブとビジネスホテル（ＡＢホテル、99 年開始）は施設サービス業（第 3 の",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・サービスが行き届いており、自",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なく、顧客へのサービス提供者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員2000 人で売上高経常利益率30％強を確保できる新商品 （新スポーツク",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社はスポーツクラブを施設サービス業と捉えており、アプローチが 他の大手スポーツ",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、当社の場合は、サービスの質は落とさず",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "向上、ホテルは23.8%（同16.8%）と大幅向上したが、主力のスポーツクラブは出店に伴う",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総合2000 モデルを主力として本格出店する",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、高齢者向け施設サービス",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の離職率は年間15％程度で、通常のサービス業（同",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "専務は次期のトップマネジメントを担うべく主力のスポーツクラブ事業を担当して",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『ビジネスホテルより快適に、シティホテルよりリーズナブルに』をキーワードに忙しいビジネスシーンや、アクティブな観光を快適にサポートするくつろぎ空間を提供し、お客様のニーズに着実にお応えする細やかなサービスを行っております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル事業においては、ビジネスや観光、インバウンド需要等のお客様のニーズにお応えできるサービスの提供に努め、リピーター確保の運営を実施しました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、女性をターゲットとした新たなマシンを導入し、新サービスを順次展開しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の不動産事業では、所有する主力の賃貸マンション「Ａ・Ｃｉｔｙ」で、入居者のニーズに合わせた設備の充実やプランの設定など、満室経営に向けた施策を実施しました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸マンション「Ａ・Ｃｉｔｙ」を主力とする不動産事業におきましては、附帯サービスの提供等新規サービスの企画開発を行い、賃貸マンションの満室経営を目標とした施策を実施してまいります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後も様々な切り口でサービスを開始予定です",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日経の記事利用サービスについて",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日経優秀製品・サービス賞2025",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日立・プリファードネットワークスなどに 日経優秀製品賞が決定",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版が提供するニュースレターサービス「NIKKEI Briefing」などのご登録はこちら",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日経IDなどその他のサービスに自動で登録されることはありません",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "印刷サービス",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「ホリデイスポーツクラブ」を全国で95店舗（2026年3月31日現在）展開しております",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ABホテル」ブランドで全国に38店舗（2026年3月31日現在）展開しております",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "朝食無料（一部の店舗を除く）",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "夕食無料（一部の店舗を除く）",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ゴルフ練習場は、愛知県安城市内で2店舗を運営",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツクラブの多店舗展開開始",
+    "url": "https://www.to-sho.net/gaiyou/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "この一覧は、これまでに当社業績等の分析・論評を行っている主な証券会社・調査機関に所属するアナリストについて、株主および投資家の皆様へご紹介することを目的に掲載しております",
+    "url": "https://www.to-sho.net/ir/irdata/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗名 ホリデイ セントラル ルネサンス メガロス カーブス",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "店舗数 42 155 104 24 864",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シと紹介が中心で、獲得費用",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）2011年3月期のスポーツクラブの売上は86億円、営業利益19億円、営業利益率20.4％、店舗42店",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、 店舗オペレーションも効率化できる",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ノンプール2000の1店舗当たりの指標",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "もう１つ、他の多店舗展開のビジネスと異なる点は、既存店の投資採算が上がっていく",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、新店舗を 8 店ずつ出していっても、全体の",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブの店舗数",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期末店舗数 37 42 50 58 66 74",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ターができるようにするし、店舗のマネジメントにも精通するように育てる方針である",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当事業は、「ホリデイスポーツクラブ」という名称で、全国で95店舗（2026年３月31日現在）を運営しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "また地域の特性、会員のニーズに合わせ23時までの営業（一部店舗を除く）、リラクゼーション施設の充実、グループ会員制の導入を図り、差別化により地域一番店を目指し、会員確保に努めております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業は、「ＡＢホテル」の名称で愛知県を中心に38店舗（2026年３月31日現在）を運営しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、「ホリデイゴルフガーデン」という名称で、愛知県安城市内において２店舗（2026年３月31日現在）のゴルフ練習場を運営しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブ事業においては、会員定着のための接客力向上やスタジオプログラムの充実、広告宣伝の強化、並びにトレーニング機器入れ替えやジムエリアのリニューアル等を実施し、既存店舗の収益力回復のための取り組みを行いました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、４店舗を閉店し、経営資源の選択と集中を進めました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブ事業における当連結会計年度末の店舗数は、95店舗となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、2025年11月までに一部の店舗で月会費の見直しを行い、2023年の価格改定の際に旧価格のまま据え置いておりました既存会員の会費を現行価格に統一しました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "子会社であるＡＢホテル株式会社が運営する「ＡＢホテル」では、インバウンド需要を取り込むため海外系ＯＴＡ（ＯｎｌｉｎｅＴｒａｖｅｌＡｇｅｎｃｙ）への露出を強化し、一部店舗でのウェルカムドリンクの無料提供などを行い、顧客満足度の向上と宿泊稼働率の適正化に努めました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、人件費や資源価格の高騰に対応するため、自社清掃店舗を拡大するなどコストの削減を実施するとともに、レベニューマネジメントを行い、コスト増加分を反映した販売価格の設定と、収益最大化を両立する施策を展開いたしました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、稼働率の適正化を並行して進めたことにより、前々期までに開業した既存34店舗の当連結会計年度の平均宿泊稼働率は84.7％（前年同期比3.0ポイント減）となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月には、「ＡＢホテル越前武生」、2026年２月には、「ＡＢホテル犬山」を出店し、新規開業店舗を含め運営店舗は38店舗となり、客室数は4,938室となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブ事業におきましては、全国37都道府県95店舗体制となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル事業におきましては、愛知県15店舗、愛知県外23店舗の体制となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益、営業利益が増加し、減損損失や店舗閉鎖損失引当金繰入額が減少したことから、税金等調整前当期純利益は7,538百万円となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "「スポーツクラブ事業」は、「ホリデイスポーツクラブ」という名称で当連結会計年度末現在全国に95店舗を展開しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ホテル事業」は、「ＡＢホテル」の名称で当連結会計年度末現在愛知県を中心に38店舗展開しており、「不動産事業」は、「ホリデイゴルフガーデン」という名称で愛知県安城市で２店舗のゴルフ練習場、「Ａ・Ｃｉｔｙ」等の名称で主に愛知県内で51棟の賃貸マンション及び「ＴＯＳＨＯ ＢＬＤＧ」等の名称で３棟のテナントビルを所有、運営しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "「スポーツクラブ事業」セグメントにおいて、一部店舗に収益性の低下が見られるため固定資産の減損損失として1,595,759千円計上しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ホテル事業」セグメントにおいて、店舗の出店を中止したため固定資産の減損損失として59,771千円計上しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "いずれの事業においても「満足できる施設」「満足できるサービス」を提供し、施設サービス業として高収益を維持してまいりました",
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "４．経常利益30%の高収益企業になる",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "会員数 2000 名で高収益が見込めるスポーツクラブに加え、プールがなくて",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "も同じ高収益が達成できる新しいビジネスモデルを今回開発した",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地方中心であるが、 現在の高収益モデルを首都圏にも展開する方向にある",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．強み 競合しない独自のビジネスモデルを確立",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率（％） 18.5 3.7 2.8 2.3 12.5",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）当社はスポーツクラブ事業（ホリデイ：売上構成比79.4％、営業利益率20.4％）、ホテル事業（ＡＢホテル：同8.0％、",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・会員2000人でも高収益を",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15 年前、10 年前の店で粗利1 億円",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）2011年3月期のスポーツクラブの売上は86億円、営業利益19億円、営業利益率20.4％、店舗42店",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ラブは成立しにくいと考えられていたが、人口10 万人でも成り立つ高収益ビジネスモデル",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社のスポーツクラブは地方中心であるが、現在の高収益モデルを首都 圏にも展開する",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ール無しで 1500 人の会員を集めれば、30%の売上高営業利益率が確保できるというもので",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は落とさずに25%程度を確保できるという読みである",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "部門別の売上高営業利益率をみると、賃貸マンションは44.8%（前年同期42.9%）とやや",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注）同率は、売上高営業利益率",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上回っており、1Q の粗利ベース（初年度の発生する固定資産取得税を除いて）で黒字を確",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、粗利で赤字の店は1 店もない",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高収益といってもニッチであり、さほどの成長性は見込めないのではないかと見られてい",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "２．お客様に「喜ばれ儲かる会社」である",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "４．お客様の喜びは信用になる",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "３．エンドユーザーがお客様です",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "６．少数精鋭主義で社員、お客様を幸せにする",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の健康づくりを応援する社員自身が元気で明るく最高のパフォーマンスを発揮し、",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社からお客様に回答いたしましたメールは、お客様個人に宛てたものです",
+    "url": "https://www.to-sho.net/cgi-bin/mail/form.cgi?form_id=ir",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.to-sho.net/ir/escape.html",
+    "pass": 1
+   },
+   {
+    "quote": "会員数 2000 名で高収益が見込めるスポーツクラブに加え、プールがなくて",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 経営の根幹は、 顧客のニーズに合致したサービスを低コストで提供するという仕組みを",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズに合致したものでありながら、 儲かる仕組みも確立した",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "き易さ、プールやスタジオの効果的な配置など、ユーザー目線でコストパフォーマンスを",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "競争よりも顧客を重視",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルを作り、当社が目指すそれに合致する顧客がいるかどうか、スポーツクラブでいえば、1",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なく、顧客へのサービス提供者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ホリデイスポーツクラブは1 店あたり投資額3.5 億円、会員数2500 人で売上高経常利益",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブの会員数が2500 人",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員数 (人） 2500 2000 2000 1500",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "損益分岐点会員数 (人） 1450 1300 1300 1000",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "最大収容会員数 （人） 3500 3000 3000 2500",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しかも、ロードサイドといっても利用者の生活地",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズは、とにかく近いスポーツクラブに行きたい",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2500 名の会員が集められる都会の生活圏で、プールの顧客が20％ならば、プールなしで",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "るので、プールがなくても、ジム、スタジオ、お風呂が充実していれば、十分な顧客満足",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 月末の会員数は 11.66 万人である",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プールの利用者はこれまでの経",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "温浴（お風呂）があれば、顧客は十分満足するからである",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在の各店の会員数は、2500 名を",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は近いところにスポーツクラブがあれば行",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "『ビジネスホテルより快適に、シティホテルよりリーズナブルに』をキーワードに忙しいビジネスシーンや、アクティブな観光を快適にサポートするくつろぎ空間を提供し、お客様のニーズに着実にお応えする細やかなサービスを行っております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、経営環境の変化を考慮し、各事業領域で、マーケットの状況、顧客行動、競合動向等の分析と洞察に基づき、組織能力と経営資源を最大限活用し、業績の回復と企業価値向上を最優先課題ととらえ事業活動を行いました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル事業においては、ビジネスや観光、インバウンド需要等のお客様のニーズにお応えできるサービスの提供に努め、リピーター確保の運営を実施しました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "子会社であるＡＢホテル株式会社が運営する「ＡＢホテル」では、インバウンド需要を取り込むため海外系ＯＴＡ（ＯｎｌｉｎｅＴｒａｖｅｌＡｇｅｎｃｙ）への露出を強化し、一部店舗でのウェルカムドリンクの無料提供などを行い、顧客満足度の向上と宿泊稼働率の適正化に努めました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みの結果、主要顧客であるビジネス客の底堅い需要に加え、関西圏を中心としたインバウンド需要の増加により、客室単価は上昇しました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、顧客等の支払不能時に発生する損失の見積額について、貸倒引当金を計上しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期の業績予想につきましては、スポーツクラブ事業における2026年３月末の会員数及び直近の入退会の状況、ホテル事業における直近の宿泊稼働率及び客室単価、不動産事業における賃貸マンションの入居率を参考数値とし、業績予想を算出した結果、売上高27,370百万円（前年同期比0.8％減）、営業利益7,660百万円（同2.5％増）、経常利益7,630百万円（同2.1％増）、親会社株主に帰属する当期純利益3,230百万円（同9.0％減）と予想いたしました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブ事業におきましては、既存店の収益力回復に経営資源を集中し、お客様の安全・安心、満足度の向上に取組んでまいります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えているため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客目線で「なければ作る」 スポーツクラブの東祥 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客目線で「なければ作る」 スポーツクラブの東祥",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2021年4月1日",
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 東祥│会社情報│沿革",
+    "url": "https://www.to-sho.net/gaiyou/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の沿革をご覧いただけます",
+    "url": "https://www.to-sho.net/gaiyou/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 連結（2025年4月1日～2026年3月31日）",
+    "url": "https://www.to-sho.net/ir/financialreport/fr_summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.to-sho.net/ir/financialreport/fr_summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.to-sho.net/ir/financialreport/fr_summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月30日現在",
+    "url": "https://www.to-sho.net/ir/irdata/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月末現在の株主名簿に記載された株主様へ送付した株主優待券をもちまして廃止いたしました",
+    "url": "https://www.to-sho.net/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在の弊社株式に関する基本情報を掲載しております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年5月20日付をもって、株式1株につき1.1株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年11月18日付をもって、株式1株につき1.2株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年4月１日付をもって、株式1株につき1.2株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年10月１日付をもって、株式1株につき1.1株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成19年4月１日付をもって、株式1株につき1.1株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成19年10月１日付をもって、株式1株につき1.1株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年10月１日付をもって、株式1株につき2.0株の株式分割を行っております",
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年3月に、土木建設業を目的として東和建設（株）を設立",
+    "url": "https://www.to-sho.net/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年2月にジャスダック証券取引所に上場（2013年6月に上場廃止）、2013年3月に東京証券取引所市場第二部、同年5月に名古屋証券取引所市場第二部に上場し、2014年3月19日に東証、名証一部指定となりました",
+    "url": "https://www.to-sho.net/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011 年11 月16 日 ジャスダック",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．沿革 施設サービス業へと発展",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012 年 3 月期の業績はピーク利益の更新を目指してお",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月期末目標：74店",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期末目標：100店",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月期の全社目標は、売上高175億円、経常利益44億円、経常利益率25.0％",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010 年 3 月期から2015 年 3 月期までの 5 カ年で、 “健康ダイエット”をテーマに国民の",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015 年 3 月期に、売上高175 億円、経常利益44 億円、売上高経常利益率25％、ROE20％",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012 年度以降毎年8 店出店していく",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012 年 3 月期の 2Q 累計（9 月中間）は、売上高 2892 百万円（前年同期比＋10.2%）、 経",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012 年 3 月期の通期見直しは変えていない",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2015 年まではスポーツクラブに集中し、これらの分野への投資は優先しないとして",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011 年9 月末の社員数は4 月1 日",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月に豊田店（愛知県豊田市）、2025年６月に西一之江店（東京都江戸川区）、2025年９月に福井店（福井県福井市）、2025年10月に座間林間店（神奈川県座間市）が閉店し、経営資源の選択と集中が進みました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月には、「ＡＢホテル越前武生」、2026年２月には、「ＡＢホテル犬山」を出店し、新規開業店舗を含め運営店舗は38店舗となり、客室数は4,938室となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月31日現在、長期借入金の残高は14,844百万円であります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期の業績予想につきましては、スポーツクラブ事業における2026年３月末の会員数及び直近の入退会の状況、ホテル事業における直近の宿泊稼働率及び客室単価、不動産事業における賃貸マンションの入居率を参考数値とし、業績予想を算出した結果、売上高27,370百万円（前年同期比0.8％減）、営業利益7,660百万円（同2.5％増）、経常利益7,630百万円（同2.1％増）、親会社株主に帰属する当期純利益3,230百万円（同9.0％減）と予想いたしました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月11日 11:00",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "エットをテーマに、これまでの目標を一段と精緻なビジネスモデルと重要経営指標(KPI)",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "も同じ高収益が達成できる新しいビジネスモデルを今回開発した",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のスポーツクラブが課題を抱える中で、独自のビジネスモデルを確立し、2011 年 3 月期",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地方中心であるが、 現在の高収益モデルを首都圏にも展開する方向にある",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．強み 競合しない独自のビジネスモデルを確立",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、ビジネスモデルはかなり異なる",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そこからがユニークで、同業のスポーツクラブとは全く違った発想でビジネスモデルを",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "都心の立地はビジネスモデル上難しかったが、 関東周辺には十分出店できる",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員 2000 名の新ビジネスモデル",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は現在二つのビジネスモデルを基本としている",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ホリデイスポーツクラブのビジネスモデル",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "真似のできないスポーツクラブの施設運営のしくみ（ビジネスモデル）を独自に開発し、",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ラブは成立しにくいと考えられていたが、人口10 万人でも成り立つ高収益ビジネスモデル",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業他社が真似のできないビジネスモデルなので、当社の優位性は極めて高いといえよう",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社のスポーツクラブは地方中心であるが、現在の高収益モデルを首都 圏にも展開する",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "女性専用フィットネスのカーブスが近年かなり伸びているが、ビジネスモデルが違うの",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "将来に向け、当社のビジネスモデルがアジアでも 通用し、差別化できるように磨いてい",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に、当社のビジネスモデルがジャパンテイストを持って適合できるかどうかがポイントと",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その意味で、当社のビジネスモデルは健在であると評価",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを強化",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "面で、ユニークなビジネスモデルに仕上げた",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "独自のビジネスモデルなので、同業他社の施設や人をそのまま継承してもうまく行く可",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "をベースに高い利益を上げるビジネスモデルを考慮すると、 当社の企業としての評価は 「良",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は独自のビジネスモデルを確立し、それをベースに年率 20％の経常利益成長を目指",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "会員の月平均単価 （円/人） 7000 7000 6000 6000",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員の月額使用料も従来の平均7000 円から6000",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員単価（円/人） 6000 6000 7000",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会員の月額使用料も7000 円から",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総合2000 の中心である月額会費 7000 円（ノンプ",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みの結果、主要顧客であるビジネス客の底堅い需要に加え、関西圏を中心としたインバウンド需要の増加により、客室単価は上昇しました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業費用の主なものは、人件費及び販売手数料であります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期の業績予想につきましては、スポーツクラブ事業における2026年３月末の会員数及び直近の入退会の状況、ホテル事業における直近の宿泊稼働率及び客室単価、不動産事業における賃貸マンションの入居率を参考数値とし、業績予想を算出した結果、売上高27,370百万円（前年同期比0.8％減）、営業利益7,660百万円（同2.5％増）、経常利益7,630百万円（同2.1％増）、親会社株主に帰属する当期純利益3,230百万円（同9.0％減）と予想いたしました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（注）当社はスポーツクラブ事業（ホリデイ：売上構成比79.4％、営業利益率20.4％）、ホテル事業（ＡＢホテル：同8.0％、",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別借入金",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、セグメント別の概要は次のとおりであります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は19,160百万円となり、前連結会計年度末に比べ1,045百万円の減少となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は29,329百万円となり、前連結会計年度末に比べ2,760百万円の増加となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント資産は9,760百万円となり、前連結会計年度末に比べ168百万円の減少となりました",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における仕入実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "ｅ．セグメントごとの財政状態及び経営成績の状況に関する認識及び分析・検討内容",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの財政状態及び経営成績の状況に関する認識及び分析・検討内容は、「（１）経営成績等の状況の概要 ①財政状態及び経営成績の概要」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「スポーツクラブ」、「ホテル」及び「不動産」の事業からなり、各々独立して事業を展開していることから、「スポーツクラブ事業」、「ホテル事業」及び「不動産事業」の３つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理は、連結財務諸表を作成するために採用した会計処理の原則及び手続と同一であります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "8920 東 祥 - IRSTREET — 8920 東 祥 - IRSTREET IRSTREET PDF https://ircms.irstreet.com > contents > data_file",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東 祥 (8920) の企業概要・業績・財務・IR資料 — 東 祥 (8920) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/8920",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 決算報告 - 株式会社 東祥 — 2022年3月期 決算報告 - 株式会社 東祥 株式会社 東祥 PDF https://www.to-sho.net > news > file",
+    "url": "https://www.to-sho.net/news/file/20220517132656_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東祥 【8920】の事業内容 - キタイシホン — 東祥 【8920】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 東祥 ／スポーツクラブ事業】既存店の会員定着に注力 — 【 東祥 ／スポーツクラブ事業】既存店の会員定着に注力 Fitness Business https://business.fitnessclub.jp > ニュース > 国内トレンド",
+    "url": "https://business.fitnessclub.jp/articles/-/2371",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - 株主・投資家情報 - 株式会社 東祥 — IR 資料 - 株主・投資家情報 - 株式会社 東祥 株式会社 東祥 https://www.to-sho.net > irdata",
+    "url": "https://www.to-sho.net/ir/irdata/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - 株式会社 東祥 — IRニュース - 株式会社 東祥 株式会社 東祥 https://www.to-sho.net > ...",
+    "url": "https://www.to-sho.net/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 東祥 】[8920]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 東祥 】[8920]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=8920",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東 祥 IR 資料 - EDINET DB — 株式会社 東 祥 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社　東　祥",
+    "url": "https://edinetdb.jp/company/E04018/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "東祥 (8920) 東証スタンダード 決算 | マーケット情報 - 株式市況 — 東祥 (8920) 東証スタンダード 決算 | マーケット情報 - 株式市況 松井証券 https://finance.matsui.co.jp > ... > 東祥(8920)",
+    "url": "https://finance.matsui.co.jp/stock/8920/settlement/index",
+    "pass": 3
+   },
+   {
+    "quote": "東祥 【8920】の 事業 内容 - キタイシホン — 東祥 【8920】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8920/business",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ - 株式会社 東祥 — トップメッセージ - 株式会社 東祥 株式会社 東祥 https://www.to-sho.net > gaiyou > message",
+    "url": "https://www.to-sho.net/gaiyou/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 東祥 （ホリデイスポーツクラブ）【東証スタンダード上場】 — (株) 東祥 （ホリデイスポーツクラブ）【東証スタンダード上場】 マイナビ https://job.mynavi.jp > search > corp67369 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp67369/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社 東祥 — 会社情報 - 株式会社 東祥 株式会社 東祥 https://www.to-sho.net > gaiyou",
+    "url": "https://www.to-sho.net/gaiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客目線で「なければ作る」 スポーツクラブの 東祥 — 顧客目線で「なければ作る」 スポーツクラブの 東祥 日本経済新聞 https://www.nikkei.com > ビジネス > ヘルスケア",
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "pass": 3
+   },
+   {
+    "quote": "東祥 ［8920］東証1部 NS - YouTube — 東祥 ［8920］東証1部 NS - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=uKfwU58q9l0",
+    "pass": 3
+   },
+   {
+    "quote": "朝日新聞デジタル： 東祥 沓名俊裕 社長 - 愛知 - 地域 — 朝日新聞デジタル： 東祥 沓名俊裕 社長 - 愛知 - 地域 朝日新聞 http://www.asahi.com > aichi > MTW20160411241380003",
+    "url": "http://www.asahi.com/area/aichi/articles/MTW20160411241380003.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 東祥 （ホリデイスポーツクラブ）【東証スタンダード上場 ... — (株) 東祥 （ホリデイスポーツクラブ）【東証スタンダード上場 ... マイナビ https://job.mynavi.jp > corp67369 > obog22023892 > obog",
+    "url": "https://job.mynavi.jp/27/pc/search/corp67369/obog22023892/obog.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.to-sho.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/cgi-bin/mail/form.cgi?form_id=inq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/gaiyou/enkaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/financialreport/fr_summary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/financialreport/fr_highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/irnews.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/irevent/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/irdata/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/benefit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/stockinfo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/publication.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/cgi-bin/mail/form.cgi?form_id=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/escape.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/cgi-bin/mail/form.cgi?form_id=inq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/buisiness/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/gaiyou/businesspolicy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/gaiyou/enkaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/financialreport/fr_summary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/financialreport/fr_highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.to-sho.net/ir/irnews.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.crex-data.com/company/8920",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/8920/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東祥",
+   "results": [
+    "https://www.to-sho.net/",
+    "https://www.nikkei.com/nkd/company/?scode=8920",
+    "https://www.kabuyutai.com/kobetu/to-sho.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%A5%A5",
+    "https://kabutan.jp/stock/?code=8920",
+    "https://ja.wikipedia.org/wiki/東祥",
+    "https://grokipedia.com/page/Yoshitaka_Azuma",
+    "https://www.to-sho.net/gaiyou/",
+    "https://finance.yahoo.co.jp/quote/8920.T",
+    "https://job.mynavi.jp/27/pc/search/corp67369/outline.html"
+   ]
+  },
+  {
+   "query": "東祥 ビジネスモデル",
+   "results": [
+    "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "https://www.crex-data.com/company/8920",
+    "https://www.to-sho.net/news/file/20220517132656_1.pdf",
+    "https://kitaishihon.com/company/8920/business",
+    "https://business.fitnessclub.jp/articles/-/2371",
+    "https://note.com/tatsuya_sabato/n/n449652ead771",
+    "https://www.belletk.com/tousyou201507.pdf",
+    "https://finance.logmi.jp/articles/208602",
+    "https://shikiho.toyokeizai.net/stocks/8920/corporate",
+    "https://consovation.com/株式会社東祥のビジネスモデルを探る魅力と成長/"
+   ]
+  },
+  {
+   "query": "東祥 決算説明資料",
+   "results": [
+    "https://www.to-sho.net/ir/irdata/index.html",
+    "https://www.to-sho.net/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8920",
+    "https://edinetdb.jp/company/E04018/ir-docs/",
+    "https://finance.matsui.co.jp/stock/8920/settlement/index",
+    "https://www.to-sho.net/ir/irevent/results.html",
+    "https://www.irstreet.com/new/jp/brand/index.php?&contents=brand_whatsnew&brand=175",
+    "https://irbank.net/E04018/reports",
+    "https://www.to-sho.net/ir/irdata/backnumber.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260512526938/"
+   ]
+  },
+  {
+   "query": "東祥 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/8920/business",
+    "https://www.to-sho.net/gaiyou/message.html",
+    "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp67369/outline.html",
+    "https://www.crex-data.com/company/8920",
+    "https://shikiho.toyokeizai.net/stocks/8920/corporate",
+    "https://www.to-sho.net/buisiness/",
+    "https://www.belletk.com/tousyou201507.pdf",
+    "https://www.to-sho.net/",
+    "https://edinetdb.jp/company/E04018/text"
+   ]
+  },
+  {
+   "query": "東祥 社長 インタビュー",
+   "results": [
+    "https://www.to-sho.net/gaiyou/",
+    "https://www.nikkei.com/article/DGXMZO36311090Q8A011C1940M00/",
+    "https://www.youtube.com/watch?v=uKfwU58q9l0",
+    "http://www.asahi.com/area/aichi/articles/MTW20160411241380003.html",
+    "https://job.mynavi.jp/27/pc/search/corp67369/obog22023892/obog.html",
+    "https://ircms.irstreet.com/contents/data_file.php?template=84&brand=175&data=120171&filename=pdf_file.pdf",
+    "https://line-works.com/cases/to-sho/",
+    "https://en-hyouban.com/company/10008088747/23/",
+    "https://audiobook.jp/product/85803",
+    "https://news.dellows.jp/511191/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

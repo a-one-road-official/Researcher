@@ -1,0 +1,1976 @@
+{
+ "name": "MXene",
+ "en": "MXene",
+ "aliases": [
+  "MXenes",
+  "Ti3C2",
+  "マキシン"
+ ],
+ "context": "2次元材料",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:58:34.550221+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "MXene（二次元炭化物・窒化物）市場規模・予測レポート（2026～2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2次元炭化物・窒化物）市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2次元炭化物・窒化物）市場は、2025年に8,000万米ドルと評価され、2026年には1億1,200万米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXenes（2次元炭化物・窒化物）市場規模：組成別、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "バナジウム系炭化物は、2035年に6,670万米ドルの市場規模に達し、年平均成長率（CAGR）約31.4%で拡大すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ti₃CNTₓ炭窒化物は2025年に560万米ドルの市場規模となり、2035年には8,900万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のMXene（2D炭化物・窒化物）市場は、2025年に世界全体の収益の37.0%を占め、2035年には3億2,100万米ドルの収益を生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域の市場規模は、2035年に5,670万米ドルに達すると予測されており、2025年には世界売上高の5.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアの市場規模は2025年に120万米ドルとなり、2035年には1,700万米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene 2D炭化物・窒化物市場規模は、2025年に8,000万米ドルと推定され、2026年には1億1,200万米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年から2035年にかけて年平均成長率（CAGR）29.1%で成長し、2035年までに11億1,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene材料市場規模：2033年までの市場動向と投資分析 | 記事 | ブログ",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "MXene材料市場規模：2033年までの市場動向と投資分析",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "MXene材料市場は、2026年から2033年にかけて年平均成長率（CAGR）29.5%で成長すると予測されています",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年には8,500万米ドルと推定され、予測期間終了の2033年には5億2,000万米ドルに達すると予測されています",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ラテラルフローアッセイの販売市場規模・市場シェア・市場動向（2033年）",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界のMXene材料市場規模、成長分析および予測2026-2034年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2025)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 200 million",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.5 billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "MXene 材料市場は、遷移金属の炭化物、窒化物、炭窒化物の独自の組成によって特徴づけられる、先進的な二次元 (2D) ナノ材料の中で急速に進化しているセグメントを表しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能材料市場は、2025年には1,386億5,000万米ドルに達し、2030年には1,871億3,000万米ドルに成長すると予測されており、予測期間中の年平均成長率（CAGR）は6.18%です",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別: 2024年には電気・電子セグメントが高機能材料市場規模の38.87%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 市場規模と成長予測: 先進機能材料市場は、2025年に1,386.5億米ドルと評価され、2030年までに1,871.3億米ドルに達すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（価値）のセグメンテーション",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（金額）",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ドレナージボトル市場規模・シェア分析 – 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "MXeneの市場 | 市場規模 市場動向 予測 2025 - 2034年",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2D炭化物窒化物）の世界市場は、2024年に6,700万米ドルと評価され、CAGR35.6%で成長し、2034年までには19億4,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のMXene（2D炭化物窒化物）市場は、2024年に1,220万米ドルを占め、CAGR35.9%という驚異的な伸びにより、2034年には3億6,010万米ドルにまで上昇すると予測されています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2D炭化物窒化物）の世界市場の市場規模はどのように予測されていますか？",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,850 換算",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,050 換算",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,350 換算",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "■資本金 ：1億円 ※資本準備金を含む",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "What is MXene Market Sizein 2026?",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 46.32 Bn",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 395.28 Bn",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global MXene market size was calculated at USD 36.50 billion in 2025 and is predicted to increase from USD 46.32 billion in 2026 to approximately USD 395.28 billion by 2035, expanding at a CAGR of 26.90% from 2026 to 2035. The market is driven by rising demand for advanced 2D nanomaterials in energy storage and the demand for nextâ€‘generation electronics.",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 36.50 Billion",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 46.32 Billion",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2035",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 395.28 Billion",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "The MXene market size is expected to increase from USD 46.32 billion in 2026 to USD 395.28 billion by 2035.",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,400",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,800",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,200",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene Market worth $0.29 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "is projected to grow from USD 0.05 billion in 2026 and to reach USD 0.29 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 35.6% during the forecast period.",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size:",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.05 billion",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "2032 Projected Market Size:",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.29 billion",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）29.1%で成長し、2035年には11.1億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "バナジウム系炭化物は、2035年に6,670万米ドルの市場規模に達し、年平均成長率（CAGR）約31.4%で拡大すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "LiF/HCl合成は2035年に市場の32.0%を占め、年平均成長率（CAGR）約32.3%で拡大すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器・通信（EMIシールド）は、2035年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）約29.8%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ医療・ヘルスケアは2025年に800万米ドルの収益を上げ、2026〜2035年に年平均成長率（CAGR）約29.1%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー・電力分野は、2035年に市場の30.0%を占め、年平均成長率（CAGR）約30.3%（2026〜2035年）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケア・製薬分野は、2035年に1億1,120万米ドルの収益を生み出し、年平均成長率（CAGR）約29.1%（2026〜2035年）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene材料市場は、2026年から2033年にかけて年平均成長率（CAGR）29.5%で成長すると予測されています",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "1. 業界での導入拡大",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "4. 投資機会の拡大",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "予測モデルは、技術、規制、市場のダイナミクスの融合により、2026 年から 2033 年までの年間平均成長率 (CAGR) が約 25% になることを示しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能材料市場は、2025年には1,386億5,000万米ドルに達し、2030年には1,871億3,000万米ドルに成長すると予測されており、予測期間中の年平均成長率（CAGR）は6.18%です",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ナノ材料は2030年までに7.43%のCAGRで拡大すると予測されており、最も急速に成長するセグメントとなる見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー・電力セグメントは、2025年から2030年の間に7.05%と最も高いCAGRを示すと予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は2030年までに7.19%のCAGRで成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 家電製品の小型化需要の高まり（CAGRへの影響：+1.8%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 自動車および航空宇宙分野における軽量化の進展（CAGRへの影響：+1.5%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "オークリッジ国立研究所のナノファイバー注入プロセスは、炭素繊維の引張強度を50%向上させ、靭性を2倍にすることで、部品が衝突荷重や落雷に耐えられるようにします",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 再生可能エネルギー貯蔵および変換ソリューションの成長（CAGRへの影響：+1.2%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "テキサス大学ダラス校で発見された空間電荷層は、全固体電池におけるリチウムイオンのフラックスを2倍に加速させ、ドローンや大型トラックのメーカーにとって価値のある飛躍となります",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの進歩は、2025年から2030年の間に高機能材料市場内のエネルギー・電力セグメントで7.05%のCAGRを支えています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4. ヘルスケアおよび生体医療用途の拡大（CAGRへの影響：+0.9%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. グリーン公共調達義務化（CAGRへの影響：+0.7%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 高い生産コストと原材料の希少性（CAGRへの影響：-1.4%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 複雑で進化する規制遵守（CAGRへの影響：-0.8%）:",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2D炭化物窒化物）の世界市場は、2024年に6,700万米ドルと評価され、CAGR35.6%で成長し、2034年までには19億4,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "シングルエレメントMサイトMXeneセグメントは、2024年に3,470万米ドルを生み出し、2034年にはCAGR35.4%で成長して9億8,990万米ドルに達すると予想されています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のMXene（2D炭化物窒化物）市場は、2024年に1,220万米ドルを占め、CAGR35.9%という驚異的な伸びにより、2034年には3億6,010万米ドルにまで上昇すると予測されています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは35.6%です",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは35.9%です",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "M₃X₂(n=2)は、M₂X(n=1)やM₄X₃(n=3)と比較して安定性が高く合成が容易であることから文献の主流となっており、過去3年間で最も高い成長率を示しました",
+    "url": "https://www.cas.org/ja/resources/cas-insights/mxenes",
+    "pass": 3
+   },
+   {
+    "quote": "炭化物および窒化物は、過去3年間で高い成長率を示しています（図7参照）",
+    "url": "https://www.cas.org/ja/resources/cas-insights/mxenes",
+    "pass": 3
+   },
+   {
+    "quote": "据恒州诚思调研统计，2024年全球MXene材料市场规模约2.7亿元，预计未来将持续保持平稳增长的态势，到2031年市场规模将接近11.7亿元，未来六年CAGR为23.5%",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "The global MXene market size was calculated at USD 36.50 billion in 2025 and is predicted to increase from USD 46.32 billion in 2026 to approximately USD 395.28 billion by 2035, expanding at a CAGR of 26.90% from 2026 to 2035. The market is driven by rising demand for advanced 2D nanomaterials in energy storage and the demand for nextâ€‘generation electronics.",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 26.90%",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "The MXene market is expected to grow at a compound annual growth rate (CAGR) of around 26.90% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "is projected to grow from USD 0.05 billion in 2026 and to reach USD 0.29 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 35.6% during the forecast period.",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2032):",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "By end user, the energy storage segment is expected to register the fastest CAGR of 40.6% during the forecast year.",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "By region, Asia Pacific is expected to grow at a CAGR of 37.1% during the forecast period.",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "in 2026, growing at a",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 26.7%",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "26.7% CAGR",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "at 26.7% CAGR",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "at a CAGR of 26.7% from 2026 to 2036.",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "~10.6× expansion 2026–2036 at 26.7% CAGR",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sustained Energy Storage & Conversion segment growth underpins GMI's base-case CAGR through the forecast period as OEM design-in programs for MXene electrode formulations advance from 2026",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power is projected to account for 30.0% of the market in 2035 and expand at a ~30.3% CAGR (2026-2035). Demand accumulates across stationary storage, electric-vehicle power systems, and industrial power-management applications. The sector can become a major commercial outlet when MXene electrode performance is translated into manufacturable, durable systems with clear lifecycle value.",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 1.11 billion by 2035, growing at a CAGR of 29.1% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026–34",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "19.80% CAGR:",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2034)",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The 2D Materials Market is projected to grow from USD 2.4197 Bn in 2025 to USD 17.1396 Bn by 2034, registering a CAGR of 24.30% during the 2026–2034 forecast period. The report covers market trends, growth drivers, challenges, segment analysis, competitive landscape, and leading vendors.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Transmission and Distribution Market is projected to reach USD 583.77 Billion by 2034 at an 8.4% CAGR. The analysis covers grid capacity expansion investment, HVDC technology adoption, permitting constraints, superconducting cable development, regional dynamics, key players, and forecast outlook through 2034.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Antimicrobial Resistance Market is projected to reach USD 11.79 Billion by 2034 at a 10.50% CAGR. The analysis covers rapid diagnostics, novel antibiotics, stewardship software, phage therapy, and AMR surveillance. Regional dynamics through 2034 are included.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Advanced Materials Market is projected to reach USD 191.31 Billion by 2034 at a 9.8% CAGR. The analysis covers energy transition demand, structural composite lightweighting, 2D materials, biomimetic design, regional dynamics, key players, and forecast outlook through 2034.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The MXene Market was valued at USD 1.02 Bn in 2025 and is projected to reach USD 5.19 Bn by 2034, growing at a CAGR of 19.80% over the 2026–2034 forecast period.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "MXene二次元炭化物・窒化物市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene二次元炭化物・窒化物市場の主要企業には、American Elements、Sigma-Aldrich/Merck KGaA、XFNANO、Beike 2D Materials、ACS Material LLCなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "🚀 MXene材料市場の主要企業",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "MXene材料市場には、グローバル企業、地域企業、新興イノベーターが参入しており、以下の取り組みを通じて競争を展開しています：",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "✔ 市場参入戦略",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "現在、市場の支配権は独自の合成技術と広範な特許ポートフォリオを保有する少数の先駆的企業に集中しており、新規参入者にとっては高い参入障壁となっている",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "既存企業は戦略的提携や特許取得を通じて地位を強化している一方、AIや自動化を活用した新規参入企業は従来のリーダーシップモデルに挑戦しており、ダイナミックな競争環境を示しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この矛盾はエンドユーザーと規制当局の信頼に影響を与え、多くのアプリケーションの市場参入を遅らせます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの標準は市場への参入を促進し、コンプライアンスのリスクを軽減し、消費者の信頼を促進します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "特に生産の複雑さと原材料コストに関連した高い参入障壁を考慮すると、価格戦略は技術的な優位性の二の次であることがよくあります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入戦略",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4.5.3 新規参入の脅威",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2D炭化物窒化物）市場の主要企業は、産業需要の増加に対応するため、高スループット合成、スケーラビリティ、一貫した品質管理に注力しています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "MXene市場で事業を展開している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "本事業は、都内中小企業等が「イノベーションマップ」に基づき、自社のコア技術を基盤として、社外の知見やノウハウを活用して事業化を目指す技術・製品開発を支援することにより、成長産業分野への参入を促進し、東京の産業の活性化を図ることを目的としています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Operating in the MXene Market",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the Major Players in the Global MXene Market?",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players in the global",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled (",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the global MXene market?",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXenes (2D Carbides & Nitrides) Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in mxenes 2d carbides nitrides market?",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in mxenes 2d carbides nitrides market include American Elements, Sigma-Aldrich/Merck KGaA, XFNANO, Beike 2D Materials, ACS Material LLC.",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "industry trends, competitive landscape, regional outlook, and future growth opportunities. The study",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The 2D Materials Market is projected to grow from USD 2.4197 Bn in 2025 to USD 17.1396 Bn by 2034, registering a CAGR of 24.30% during the 2026–2034 forecast period. The report covers market trends, growth drivers, challenges, segment analysis, competitive landscape, and leading vendors.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Transmission and Distribution Market is projected to reach USD 583.77 Billion by 2034 at an 8.4% CAGR. The analysis covers grid capacity expansion investment, HVDC technology adoption, permitting constraints, superconducting cable development, regional dynamics, key players, and forecast outlook through 2034.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Advanced Materials Market is projected to reach USD 191.31 Billion by 2034 at a 9.8% CAGR. The analysis covers energy transition demand, structural composite lightweighting, 2D materials, biomimetic design, regional dynamics, key players, and forecast outlook through 2034.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape, including key market participants, company size,",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape, market share & company revenue mapping",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players profiled in this report include Beijing Beike New Material Technology (China), Merck (Germany), Alfa Chemistry (US), American Elements (US), XFNANO (China), Japan Material Technologies Corporation (Japan), ACS Material, LLC (US), 2D Semiconductors (US), Otto Chemie Pvt. Ltd. (US), SixCarbon Technology (China).",
+    "url": "https://uk.finance.yahoo.com/news/mxene-industry-research-report-2026-095300246.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the MXene market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Carbon-Ukraine, Sixonia Tech, Merck KGaA, American Elements, ACS Material, Nanografi, Beike 2D Materials, and Nanochemazone.",
+    "url": "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Startup founders and the CRI team work together to ensure America’s security and prosperity by addressing energy and environmental challenges through transformative science and technology. CRI support allows science startups to bring their deep tech to market more quickly.",
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups’ Fundraising",
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "pass": 3
+   },
+   {
+    "quote": "Five New Startups Join Argonne's Entrepreneurship Program",
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "pass": 3
+   },
+   {
+    "quote": "Eleven individuals advanced to the Finals pitch competition to join Chain Reaction Innovations’ Cohort 2026. A broad range of energy innovations are represented in this year’s applicants, including battery technologies, industrial processes, performance materials and biotechnology. The 11 startups will pitch their technology during the virtual…",
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "pass": 3
+   },
+   {
+    "quote": "About CRI Startup founders and the CRI team work together to ensure America’s security and prosperity by addressing energy and environmental challenges through transformative science and technology. CRI support allows science startups to bring their deep tech to market more quickly. The combined total of…",
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "pass": 3
+   },
+   {
+    "quote": "Drexel Materials Start-Ups Receive Innovation Fund Investments | Drexel Engineering",
+    "url": "https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "Drexel Materials Start-Ups Receive Innovation Fund Investments",
+    "url": "https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "Drexel Materials start-ups account for two of three investments made in the second cohort of the Drexel Innovation Fund. 1DNano, a nanomaterial cleantech company; and MXene, Inc., a company focused on the commercialization of nanomaterials called MXenes; will each receive an investment of $150,000 from the fund.",
+    "url": "https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "ドレクセル大学とMurata Manufacturingは、MAX相の調製とフッ化水素酸エッチングを経ずに、四塩化チタンとメタンを前駆体としてTi₂CCl₂ MXeneを合成する気相法を報告した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Material Technologies Corporation、Alfa Chemistry、6Carbon Technology、MSE Supplies LLC、Foshan Xinxi Technology Co., Ltd.、2D Semiconductors Inc.、Nanoshel LLC、Nanografi Nano Technology、Jilin 11 Technology Co., Ltd.、MXeneNanoTech LLCも、地域供給、研究用グレードの流通、用途に特化した材料開発にまたがる細分化された競争環境を形成している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドレクセル大学は、村田製作所などの共同研究者とともに、四塩化チタンとメタンを前駆体として用いたTi₂CCl₂ MXeneの気相合成を実証した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing Co., Ltd.",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "16-8, Higashi 1-chome, Shibuya-ku, Tokyo 150-0011, Japan",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "American Elements,Sigma-Aldrich (Merck),Japan Material Technologies Corporation (JMTC),Alfa Chemistry,Beike 2D Materials,ACS Material,Nanjing XFNANO Materials,Beijing Zhongkeleiming Technology,6Carbon Technology (ShenZhen),Nanoshel,Foshan Xinxi Technology",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America (U.S, Canada, Mexico), Europe (Germany, United Kingdom, France), Asia-Pacific (China, Japan, South Korea, India), Middle-East (Saudi Arabia, UAE, Kuwait, Qatar).",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドが主要な貢献国であり、その広範な製造拠点と技術革新能力を活用しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のハイエンドエレクトロニクスと航空宇宙への注力と、韓国の家庭用電化製品分野でのリーダーシップが、地域の成長をさらに促進します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のMXene材料市場",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のMXene市場は2024年に2億米ドルと評価され、2025年の2億米ドルから2033年までに6億米ドルに成長すると予測されており、2026年から203年のCAGRは約14.2%となる",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の先端エレクトロニクス産業は、ナノマテリアルの研究開発への戦略的投資と相まって、この成長を支えている",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、イノベーションと高品質の製造を重視する日本の姿勢に合わせて、フレキシブルエレクトロニクス、センサー、エネルギー貯蔵装置用のMXeneベースのコンポーネントの開発に注力している",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この見通しは、MXene の次世代家電、航空宇宙、医療アプリケーションへの統合が進むことを示唆しており、日本はハイエンド MXene ソリューションの主要プレーヤーとして位置付けられています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本マテリアルテクノロジーズ株式会社（JMTC）",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Material Technologies Corporation (JMTC)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要なプレーヤーは、アメリカの要素、シグマアルドリッチ（メルク）、日本材料技術コーポレーション（JMTC）、アルファ化学、ベイケ2D材料、ACS材料、南京ZhongkeLeimingテクノロジー、6カーボン技術（シェンゼン）、ナノシェル、Foshan Xinxiテクノロジー",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "現代自動車グループと東レは、電気SUVのバッテリーパックから40kgを削減する炭素繊維強化ポリマーハウジングを共同開発し、実走行距離500kmの目標達成に貢献しています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、先端材料の研究開発と製造において重要な役割を果たしており、特に特殊ポリマー、セラミックス、複合材料の分野で貢献しています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋（中国、インド、日本、韓国など）、北米（米国、カナダ、メキシコ）、ヨーロッパ（ドイツ、英国、フランス、イタリアなど）、南米（ブラジル、アルゼンチンなど）、中東・アフリカ（サウジアラビア、南アフリカなど）",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "3M、Arkema、BASF、京セラ、住友化学、東レなど、主要な18社の企業プロファイルが含まれており、各社の概要、主要セグメント、財務情報、戦略、製品・サービス、最近の動向などが詳述されています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.1.3 日本",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.11 Kyocera Corporation",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.14 Resonac Holdings Corporation",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.16 Sumitomo Chemical Co., Ltd.",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.17 Mitsubishi Chemical Group Corporation",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.18 TORAY INDUSTRIES, INC.",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "機能性飲料の日本市場動向（～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Material Technologies Corporation（JMTC）",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing Co., Ltd.",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "MXeneの技術開発でTOKYO戦略的イノベーション促進事業に採択 | 日本材料技研株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研株式会社（本社：東京都中央区、代表取締役社長 浦田 興優、以下「当社」）は、このたび、東京都中小企業振興公社による助成事業「令和4年度TOKYO戦略的イノベーション促進事業」（以下「本事業」）に採択されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "【日本材料技研株式会社 概要】",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "■会社名 ：日本材料技研株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋本町2-3-4",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ti₃C₂Tₓ MXene：次世代導電材料の応用と製品紹介｜日本材料技研株式会社",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研株式会社では、主にTi",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研では、東京都立大学や東北工業大学との共同研究による、水系プロセスおよび有機系プロセスで正極や負極を塗工した電池の作製などに取り組んでいます",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研では、東北大学における研究による、Ti",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研では、東京大学との共同研究により、Ti",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研株式会社では、多層Ti",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研株式会社では、剥離Ti",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本材料技研株式会社は、Ti",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "MXenesのような新規材料の社会実装に向けては、様々な企業や大学の皆様とのオープンイノベーションが必要不可欠と、日本材料技研では考えています",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の研究者",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でMXenesの応用に取り組んでいる研究者と事例をご紹",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の研究に日本材料技研株式会社のTi",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "• Kento Yoshigoe, Junei Kobayashi, Takashi Nakajima, Kazuyasu Tokiwa and Nobuaki Miyakawa, Possible filamentary superconductivity in solution-processed Ti3C2Tx thin films, Japanese Journal of Applied Physics, Volume 65, Number 9, 090904 (2026).",
+    "url": "https://mxene.jmtc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.cas.org/ja/resources/cas-insights/mxenes",
+    "pass": 3
+   },
+   {
+    "quote": "美国元素、 Sigma-Aldrich（Merck）、 日本材料技研、 Alfa Chemistry、 北京北科纳米、 ACS Material、 江苏先丰纳米材料、 中科雷鸣（北京）、 深圳六碳科技、 Nanoshel、 佛山新烯科技)",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "9.7 日本",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "9.7.1 日本MXene材料市场规模（按销量），2020-2031",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "9.7.2 日本市场不同产品类型 MXene材料份额（按销量），2024 VS 2031",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "9.7.3 日本市场不同应用MXene材料份额（按销量），2024 VS 2031",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "10.3 日本材料技研",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "10.3.1 日本材料技研基本信息、MXene材料生产基地、销售区域、竞争对手及市场地位",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "10.3.2 日本材料技研 MXene材料产品型号、规格、参数及市场应用",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   },
+   {
+    "quote": "10.3.3 日本材料技研 MXene材料销量、收入、价格及毛利率（2020-2025）",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "MXene系二次元炭化物・窒化物市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン系炭化物は、2025年のMXene（2D炭化物・窒化物）市場売上高の62.0%を占め、2035年には6億1,160万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン窒化物は2025年の市場収益の6.0%を占め、2035年には7.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "HFエッチングは2025年の市場収益の45.0%を占め、2035年には28.0%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene（2次元炭化物・窒化物）市場シェア：合成方法別、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "LiF/HCl合成は2035年に市場の32.0%を占め、年平均成長率（CAGR）約32.3%で拡大すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気化学エッチングは2025年の市場収益の15.0%を占め、2035年には22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー貯蔵・変換は2025年の市場収益の30.0%を占め、2035年には3億8,920万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器・通信（EMIシールド）は、2035年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）約29.8%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "環境・水処理は2025年の市場収益の15.0%を占め、2035年には1億4,460万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・輸送は2035年に8,900万米ドルの収益を上げると予測され、2025年には市場収益の8.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛は2025年の市場収益の7.0%を占め、2035年には5.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器・半導体は2025年の市場収益の28.0%を占め、2035年には3億2,250万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテラルフローアッセイの販売市場規模・市場シェア・市場動向（2033年）",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 高機能性材料市場 規模・シェア分析 – 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能性材料市場 規模・シェア分析 – 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 材料タイプ別: 2024年にはセラミックスが市場収益の32.19%を占め、高機能材料市場を牽引しました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別: 2024年には電気・電子セグメントが高機能材料市場規模の38.87%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: 2024年にはアジア太平洋地域が高機能材料市場シェアの48.19%を占め、市場を支配しました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスは、航空宇宙エンジンライニング、5Gフィルター、埋め込み型生体セラミックスを背景に、2024年の高機能材料市場収益の32.19%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子分野は、半導体パッケージング、積層セラミックコンデンサ、放熱板を基盤として、2024年の売上高の38.87%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "東アジアは、2024年の高機能材料市場で最大のシェアを占め、売上高の42.15%を占めました",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別需要: アジア太平洋地域が2024年の収益の48.19%を占め、2030年までのCAGR（年平均成長率）は7.19%と最も速い成長を示しています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* エンドユーザー産業別シェア: 電気・電子用途が売上高の38.87%を占め、半導体やスマートデバイスがその主要な牽引役となっています",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 市場シェア(%)／ランキング分析",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバル概要、市場概要、主要セグメント、財務、戦略情報、市場ランク/シェア、製品とサービス、最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、エネルギー貯蔵・変換分野が39.8%の大きなシェアを占めました",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のMXene（2D炭化物窒化物）市場は、2024年に1,220万米ドルを占め、CAGR35.9%という驚異的な伸びにより、2034年には3億6,010万米ドルにまで上昇すると予測されています",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン強化ポリマー複合材料：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン強化プラスチック市場の規模、シェア、および動向分析レポート：ポリマー別、最終用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、学術論文および特許の出版数は過去10年間（2015年～2026年）で大幅に増加しており、特許が全出版物の22%を占めていることがわかりました（図1参照）",
+    "url": "https://www.cas.org/ja/resources/cas-insights/mxenes",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use, the electronics segment dominated the market in 2025.",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "The HF chemical etching production method dominated the global MXene market in 2025.",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "The B2B economy is witnessing the emergence of $25 trillion in new revenue streams that are replacing existing ones within this decade. We work with clients on growth programs, helping them monetize this $25 trillion opportunity through our service lines – TAM Expansion, Go-to-Market (GTM) Strategy to Execution, Market Share Gain, Account Enablement, and Thought Leadership Marketing.",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific dominates the global MXene market with the largest market share in 2026,",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Carbide) segment holds the largest market share in 2026, particularly in supporting high-capacity energy storage projects, rapid EMI shielding requirements, and superior conductivity in electronic networks.",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the energy storage segment holds the largest market share in 2026,",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use, the electronics segment holds the largest share of the overall market in 2026.",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "The energy storage segment holds the largest share of the overall market in 2026.",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "The electronics segment commands the largest share of the global MXene market in 2026.",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific holds the largest share of the global MXene market in 2026.",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXenes (2D Carbides & Nitrides) Market Share, by Synthesis Method, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXenes (2D Carbides & Nitrides) Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXenes (2D Carbides & Nitrides) Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "The MXenes (2D Carbides & Nitrides) Market share structure is moderately concentrated at an early stage of commercialization, with the top five suppliers collectively accounting for ~50% in 2025. Competitive advantage rests on specification consistency, composition breadth, production-route know-how, and access to channels that can support customer qualification.",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominates the mxenes 2d carbides nitrides market?",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the mxenes 2d carbides nitrides market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounted for the largest share of the MXene Market in 2025, estimated at an estimated 29.0% of the global market.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "15-company market share analysis",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 market share by company",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "China is expected to hold the largest share of the Asia Pacific MXene market in 2025 due to its strong nanomaterials manufacturing base. The country has an advanced research ecosystem supporting material innovation. A high concentration of academic institutions is active in MXene synthesis. Industrial players are also engaged in application development.",
+    "url": "https://uk.finance.yahoo.com/news/mxene-industry-research-report-2026-095300246.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": ", Graphene NanoChem secured $50 million in Series B funding to expand its MXene R&D facilities and accelerate product commercialization. The infusion of capital highlights investor confidence in MXene’s potential for high-value applications such as supercapacitors and biomedical devices, and indicates a growing trend of venture capital interest in advanced 2D materials.",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", a government-led initiative in South Korea announced a $200 million investment in MXene research, focusing on sustainable synthesis methods and environmental impact mitigation. This policy move emphasizes the strategic importance of MXenes in future green energy solutions and positions South Korea as a key player in the global MXene ecosystem, fostering innovation and supply chain resilience.",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Transmission and Distribution Market is projected to reach USD 583.77 Billion by 2034 at an 8.4% CAGR. The analysis covers grid capacity expansion investment, HVDC technology adoption, permitting constraints, superconducting cable development, regional dynamics, key players, and forecast outlook through 2034.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "share in 2026, supported by the region's large battery, electronics, and semiconductor manufacturing base, integrated supply chains, and public funding for advanced materials research.",
+    "url": "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Environmental Clean Technologies raised A$10.6 million to accelerate commercialization of its Flash Joule Heating technology and MXene manufacturing program. The company also secured access to MAX-phase feedstock and strengthened its development program with Metallium, supporting efforts toward larger-scale MXene production.",
+    "url": "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The combined total of follow-on funding raised by CRI innovators through December 2025 is $675 million. In addition, the program helped create 720 jobs to date.",
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "pass": 3
+   },
+   {
+    "quote": "Drexel Materials start-ups account for two of three investments made in the second cohort of the Drexel Innovation Fund. 1DNano, a nanomaterial cleantech company; and MXene, Inc., a company focused on the commercialization of nanomaterials called MXenes; will each receive an investment of $150,000 from the fund.",
+    "url": "https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MXene 2D炭化物・窒化物 市場規模 ・予測レポート、2026 ... — MXene 2D炭化物・窒化物 市場規模 ・予測レポート、2026 ... Global Market Insights Inc. https://www.gminsights.com > ... > 先端材料 > 機能性材料",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene 材料 市場規模 ：2033年までの市場動向と投資分析 — MXene 材料 市場規模 ：2033年までの市場動向と投資分析 inkrich https://mrctechforum.inkrich.com > MXene材料市場",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの Mxene 材料 市場 動向と 成長 分析 — 2035年までの Mxene 材料 市場 動向と 成長 分析 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/mxene-material-market-120087",
+    "pass": 3
+   },
+   {
+    "quote": "世界の MXene 材料 市場規模 、 成長 分析および予測2026-2034年 — 世界の MXene 材料 市場規模 、 成長 分析および予測2026-2034年 Verified Market Reports https://www.verifiedmarketreports.com > product > mxen...",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "MXene の 市場 | 市場 規模 市場 動向 予測 2025 - 2034年 — MXene の 市場 | 市場 規模 市場 動向 予測 2025 - 2034年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > ナノテク",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "pass": 3
+   },
+   {
+    "quote": "MXene 2D炭化物・窒化物市場規模・予測レポート、2026 ... — MXene 2D炭化物・窒化物市場規模・予測レポート、2026 ... Global Market Insights Inc. https://www.gminsights.com > ... > 先端材料 > 機能性材料",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene 材料市場規模：2033年までの市場動向と投資分析 — MXene 材料市場規模：2033年までの市場動向と投資分析 inkrich https://mrctechforum.inkrich.com > MXene材料市場",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "MXene ：大きな可能性を秘めた2D炭化物および窒化物の新材料 — MXene ：大きな可能性を秘めた2D炭化物および窒化物の新材料 Sigma-Aldrich https://www.sigmaaldrich.com > technical-article > mxenes",
+    "url": "https://www.sigmaaldrich.com/JP/ja/technical-documents/technical-article/materials-science-and-engineering/organic-electronics/mxenes?srsltid=AYCX9vLljJj585uaSM9Q8Iu741g45NXqatOu1WKnEFWIOYKHAzH7WFXG",
+    "pass": 3
+   },
+   {
+    "quote": "MXene Market Companies, Size & Trends 2026-2035 — MXene Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene Market worth $0.29 billion by 2032 - PR Newswire — MXene Market worth $0.29 billion by 2032 - PR Newswire PR Newswire https://www.prnewswire.com > mxen...",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "pass": 3
+   },
+   {
+    "quote": "MXene Market Size , Share & Growth Forecast 2026-2036 — MXene Market Size , Share & Growth Forecast 2026-2036 Meticulous Research https://www.meticulousresearch.com > ...",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "Mxene Material Market Growth, Trends | Size [2035] — Mxene Material Market Growth, Trends | Size [2035] Industry Research https://www.industryresearch.biz > m...",
+    "url": "https://www.industryresearch.biz/market-reports/mxene-material-market-107859",
+    "pass": 3
+   },
+   {
+    "quote": "Mxenes 2D Carbides Nitrides Market Size & Share 2026-2035 — Mxenes 2D Carbides Nitrides Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > mxene...",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "pass": 3
+   },
+   {
+    "quote": "MXene Market Size, Share & Growth Forecast 2026-2036 — MXene Market Size, Share & Growth Forecast 2026-2036 Meticulous Research https://www.meticulousresearch.com > ...",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "pass": 3
+   },
+   {
+    "quote": "US MXene Market (2026-2031) - MarketsandMarkets — US MXene Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/mxene-market/US",
+    "pass": 3
+   },
+   {
+    "quote": "MXene Market Analysis, Size, Share & Growth Forecast 2026 ... — MXene Market Analysis, Size, Share & Growth Forecast 2026 ... TrendX Insights https://trendxinsights.com > mxene-m...",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Mxene Material Market Size, Growth, Forecast By 2035 — Mxene Material Market Size, Growth, Forecast By 2035 Market Reports World https://www.marketreportsworld.com > ...",
+    "url": "https://www.marketreportsworld.com/market-reports/mxene-material-market-14714533",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "29.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）29.1%で成長し、2035年には11.1億米ドルに達する見込みである"
+   },
+   {
+    "value": "31.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "quote": "バナジウム系炭化物は、2035年に6,670万米ドルの市場規模に達し、年平均成長率（CAGR）約31.4%で拡大すると予測される（2026〜2035年）"
+   },
+   {
+    "value": "32.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "quote": "LiF/HCl合成は2035年に市場の32.0%を占め、年平均成長率（CAGR）約32.3%で拡大すると予測される（2026〜2035年）"
+   },
+   {
+    "value": "29.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "quote": "電子機器・通信（EMIシールド）は、2035年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）約29.8%で拡大すると予測される"
+   },
+   {
+    "value": "30.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "quote": "エネルギー・電力分野は、2035年に市場の30.0%を占め、年平均成長率（CAGR）約30.3%（2026〜2035年）で拡大すると予測される"
+   },
+   {
+    "value": "29.5",
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "quote": "MXene材料市場は、2026年から2033年にかけて年平均成長率（CAGR）29.5%で成長すると予測されています"
+   },
+   {
+    "value": "25",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "quote": "予測モデルは、技術、規制、市場のダイナミクスの融合により、2026 年から 2033 年までの年間平均成長率 (CAGR) が約 25% になることを示しています"
+   },
+   {
+    "value": "6.18",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "高機能材料市場は、2025年には1,386億5,000万米ドルに達し、2030年には1,871億3,000万米ドルに成長すると予測されており、予測期間中の年平均成長率（CAGR）は6.18%です"
+   },
+   {
+    "value": "1.8",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "1. 家電製品の小型化需要の高まり（CAGRへの影響：+1.8%）:"
+   },
+   {
+    "value": "1.5",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "2. 自動車および航空宇宙分野における軽量化の進展（CAGRへの影響：+1.5%）:"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "3. 再生可能エネルギー貯蔵および変換ソリューションの成長（CAGRへの影響：+1.2%）:"
+   },
+   {
+    "value": "0.9",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "4. ヘルスケアおよび生体医療用途の拡大（CAGRへの影響：+0.9%）:"
+   },
+   {
+    "value": "0.7",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "5. グリーン公共調達義務化（CAGRへの影響：+0.7%）:"
+   },
+   {
+    "value": "1.4",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "1. 高い生産コストと原材料の希少性（CAGRへの影響：-1.4%）:"
+   },
+   {
+    "value": "0.8",
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "quote": "2. 複雑で進化する規制遵守（CAGRへの影響：-0.8%）:"
+   },
+   {
+    "value": "35.6",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "quote": "MXene（2D炭化物窒化物）の世界市場は、2024年に6,700万米ドルと評価され、CAGR35.6%で成長し、2034年までには19億4,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "35.4",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "quote": "シングルエレメントMサイトMXeneセグメントは、2024年に3,470万米ドルを生み出し、2034年にはCAGR35.4%で成長して9億8,990万米ドルに達すると予想されています"
+   },
+   {
+    "value": "35.9",
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "quote": "中国のMXene（2D炭化物窒化物）市場は、2024年に1,220万米ドルを占め、CAGR35.9%という驚異的な伸びにより、2034年には3億6,010万米ドルにまで上昇すると予測されています"
+   },
+   {
+    "value": "23.5",
+    "url": "https://m.gelonghui.com/p/3175073",
+    "quote": "据恒州诚思调研统计，2024年全球MXene材料市场规模约2.7亿元，预计未来将持续保持平稳增长的态势，到2031年市场规模将接近11.7亿元，未来六年CAGR为23.5%"
+   },
+   {
+    "value": "26.90",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "quote": "The global MXene market size was calculated at USD 36.50 billion in 2025 and is predicted to increase from USD 46.32 billion in 2026 to approximately USD 395.28 billion by 2035, expanding at a CAGR of 26.90% from 2026 to 2035. The market is driven by rising demand for advanced 2D nanomaterials in en"
+   },
+   {
+    "value": "35.6",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "quote": "is projected to grow from USD 0.05 billion in 2026 and to reach USD 0.29 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 35.6% during the forecast period."
+   },
+   {
+    "value": "40.6",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "quote": "By end user, the energy storage segment is expected to register the fastest CAGR of 40.6% during the forecast year."
+   },
+   {
+    "value": "37.1",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "quote": "By region, Asia Pacific is expected to grow at a CAGR of 37.1% during the forecast period."
+   },
+   {
+    "value": "26.7",
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "quote": "CAGR of 26.7%"
+   },
+   {
+    "value": "29.1",
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "quote": "The market is projected to reach USD 1.11 billion by 2035, growing at a CAGR of 29.1% from 2026 to 2035."
+   },
+   {
+    "value": "24.30",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "quote": "The 2D Materials Market is projected to grow from USD 2.4197 Bn in 2025 to USD 17.1396 Bn by 2034, registering a CAGR of 24.30% during the 2026–2034 forecast period. The report covers market trends, growth drivers, challenges, segment analysis, competitive landscape, and leading vendors."
+   },
+   {
+    "value": "19.80",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "quote": "The MXene Market was valued at USD 1.02 Bn in 2025 and is projected to reach USD 5.19 Bn by 2034, growing at a CAGR of 19.80% over the 2026–2034 forecast period."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "200",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "quote": "USD 200 million"
+   },
+   {
+    "value": "1.5",
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "quote": "USD 1.5 billion"
+   },
+   {
+    "value": "46.32",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "quote": "USD 46.32 Bn"
+   },
+   {
+    "value": "395.28",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "quote": "USD 395.28 Bn"
+   },
+   {
+    "value": "36.50",
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "quote": "The global MXene market size was calculated at USD 36.50 billion in 2025 and is predicted to increase from USD 46.32 billion in 2026 to approximately USD 395.28 billion by 2035, expanding at a CAGR of 26.90% from 2026 to 2035. The market is driven by rising demand for advanced 2D nanomaterials in en"
+   },
+   {
+    "value": "0.29",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "quote": "MXene Market worth $0.29 billion by 2032 - Exclusive Report by MarketsandMarkets™"
+   },
+   {
+    "value": "0.05",
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "quote": "is projected to grow from USD 0.05 billion in 2026 and to reach USD 0.29 billion by 2032, at a Compound Annual Growth Rate (CAGR) of 35.6% during the forecast period."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/mxene-material-market-120087",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/?srsltid=AYCX9vLYnUnGtK7fX_OTnsJysepsrc1iXkwtK0DHNAQa6g0VOv3ZxdCp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/?la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mxene.jmtc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaaldrich.com/JP/ja/technical-documents/technical-article/materials-science-and-engineering/organic-electronics/mxenes?srsltid=AYCX9vLljJj585uaSM9Q8Iu741g45NXqatOu1WKnEFWIOYKHAzH7WFXG",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.org/ja/resources/cas-insights/mxenes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m.gelonghui.com/p/3175073",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/mxene-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryresearch.biz/market-reports/mxene-material-market-107859",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/mxene-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-mxene-and-mbene-market-strategic-research-report?srsltid=AYCX9vLeQXTJDNJKKmBEV9930T4vmw64CnA7G1DHe4fIfVZzxsnxNXBd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/mxene-industry-research-report-2026-095300246.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/market-reports/mxene-material-market-14714533",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pubs.rsc.org/nr/article/17/11/6204/860419/Engineering-the-next-generation-of-MXenes",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MXene 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "https://www.businessresearchinsights.com/jp/market-reports/mxene-material-market-120087",
+    "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "https://www.marketresearch.co.jp/insights/advanced-functional-materials-market-mordor/",
+    "https://straitsresearch.com/jp/report/composites-market",
+    "https://www.gii.co.jp/report/smrc2144396-mxenes-novel-2d-transition-metal-carbides-market.html",
+    "https://www.atpress.ne.jp/news/5363290",
+    "https://jp.linkedin.com/pulse/%E3%83%A1%E3%82%AD%E3%83%8E%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%8B%95%E5%90%912026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8743%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-barometerbasex-aqo1e",
+    "https://www.marketsandmarkets.com/Market-Reports/mxene-market-62074342.html"
+   ]
+  },
+  {
+   "query": "MXene 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.yano.co.jp/?srsltid=AYCX9vLYnUnGtK7fX_OTnsJysepsrc1iXkwtK0DHNAQa6g0VOv3ZxdCp",
+    "https://www.fkg-report.jp/",
+    "https://www.fuji-keizai.co.jp/?la=ja",
+    "https://www.fcr.co.jp/",
+    "https://www.gii.co.jp/report/gmi1858812-mxenes-2d-carbides-nitrides-market-opportunity.html",
+    "https://telecom.nikkei.co.jp/blog/3870/?from=login_title",
+    "https://japan.zdnet.com/article/35035561/",
+    "https://www.yanoict.com/summary/show/id/778",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25083&view_type=2&la=ja",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "MXene 参入 企業 国内",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "https://mrctechforum.inkrich.com/posts/MXene%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "https://prtimes.jp/main/html/rd/p/000000013.000052040.html",
+    "https://www.linkedin.com/pulse/mxene-%E3%81%A8-mbene%E3%82%92%E8%A3%BD%E9%80%A0%E3%81%99%E3%82%8B%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-hexoraxc-mcete",
+    "https://mxene.jmtc.co.jp/",
+    "https://www.sigmaaldrich.com/JP/ja/technical-documents/technical-article/materials-science-and-engineering/organic-electronics/mxenes?srsltid=AYCX9vLljJj585uaSM9Q8Iu741g45NXqatOu1WKnEFWIOYKHAzH7WFXG",
+    "https://www.verifiedmarketreports.com/ja/product/mxene-material-market/",
+    "https://www.businessresearchinsights.com/jp/market-reports/mxene-material-market-120087",
+    "https://www.cas.org/ja/resources/cas-insights/mxenes",
+    "https://www.linkedin.com/pulse/mxene-と-mbeneを製造する主要企業-hexoraxc-mcete"
+   ]
+  },
+  {
+   "query": "MXene market size CAGR 2025",
+   "results": [
+    "https://www.precedenceresearch.com/mxene-market",
+    "https://www.prnewswire.com/news-releases/mxene-market-worth-0-29-billion-by-2032---exclusive-report-by-marketsandmarkets-302673679.html",
+    "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "https://www.industryresearch.biz/market-reports/mxene-material-market-107859",
+    "https://www.gminsights.com/industry-analysis/mxenes-2d-carbides-nitrides-market",
+    "https://www.marketsandmarkets.com/blog/SE/mxene-market-size-share-trends-growth-opportunities",
+    "https://www.linkedin.com/pulse/mxene-market-forecast2025-2031-ajay-sharma-huuuc",
+    "https://www.psmarketresearch.com/market-analysis/mxene-market-report",
+    "https://uk.finance.yahoo.com/news/mxene-industry-research-report-2026-095300246.html",
+    "https://www.strategymrc.com/report/mxene-market"
+   ]
+  },
+  {
+   "query": "MXene market key players competitive landscape",
+   "results": [
+    "https://www.meticulousresearch.com/product/mxene-market-6447",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/mxene-market/US",
+    "https://trendxinsights.com/syndicated-market-research-reports/mxene-market/",
+    "https://www.linkedin.com/pulse/global-mxene-material-market-investment-growth-u9dwf/",
+    "https://www.precedenceresearch.com/mxene-market",
+    "https://www.marketresearchreports.com/reports/global-mxene-and-mbene-market-strategic-research-report?srsltid=AYCX9vLeQXTJDNJKKmBEV9930T4vmw64CnA7G1DHe4fIfVZzxsnxNXBd",
+    "https://uk.finance.yahoo.com/news/mxene-industry-research-report-2026-095300246.html",
+    "https://www.persistencemarketresearch.com/market-research/mxene-market.asp",
+    "https://www.sciencedirect.com/science/article/pii/S2772427125002633",
+    "https://www.verifiedmarketreports.com/product/mxene-material-market/"
+   ]
+  },
+  {
+   "query": "MXene startup funding 2025",
+   "results": [
+    "https://chainreaction.anl.gov/2025/12/12/2025-startup-milestones/",
+    "https://drexel.edu/engineering/news-events/news/archive/2024/July/materials-startups-innovation-fund/",
+    "https://www.precedenceresearch.com/mxene-market",
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://www.marketreportsworld.com/market-reports/mxene-material-market-14714533",
+    "https://pubs.rsc.org/nr/article/17/11/6204/860419/Engineering-the-next-generation-of-MXenes",
+    "https://www.nature.com/articles/s43246-025-01007-7",
+    "https://ui.adsabs.harvard.edu/abs/2025JNR....27..260K/abstract",
+    "https://phys.org/news/2025-12-reinvents-mxene-synthesis-fraction.html",
+    "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1953 @@
+{
+ "name": "艦艇",
+ "en": "naval vessels",
+ "aliases": [
+  "軍艦",
+  "護衛艦",
+  "造艦"
+ ],
+ "context": "5 防衛 ②艦艇",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:01:23.077115+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "艦艇の市場規模は2030年に2556億米ドルに達し、年平均成長率（CAGR）16.8％で成長すると予測 | NEWSCAST",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇の市場規模は2030年に2556億米ドルに達し、年平均成長率（CAGR）16.8％で成長すると予測",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の世界の艦艇の市場規模は744億米ドルでした",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "世界の艦艇市場規模は、2022年から2030年までの予測期間において、複合年間成長率（CAGR）16.8％で成長し、2030年には2556億米ドルに達すると予測されます",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場規模、シェア、トレンド分析レポート：種類別（商船、海軍／防衛艦、旅客船、オフショア／特殊用途船、ヨットおよびレクリエーション船）、工程別（設計、生産計画、切断および加工、組立および進水、艤装）、用途別（商業用途、軍事用途）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の造船市場規模は、2025年には1,610億5,000万米ドルと評価され、2026年の1,657億7,000万米ドルから2034年には2,088億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.93%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場規模は2026年に1,657億7,000万米ドルと評価され、2034年までに2,088億5,000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.93%である",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）2.93%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフト市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の造船業界の市場シェアを簡易に試算しますと、1位は中国船舶集団（CSSC）、2位はジェネラル・ダイナミクス、3位は韓国造船海洋となります",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年の造船業界の市場規模を1665億ドルとしております",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社アイマークグループとリサーチ・アンド・マーケットによると、2025年の同業界の市場規模は1665億ドルです",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均2.87%で成長し、規模は2164億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "1655億ドル",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "2164億ドル",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業界の市場規模の予想成長推移 ©2026 Deallab",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇および水上戦闘艦艇の市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍艦艇および水上戦闘艦艇市場規模は、2025年には1,181億7,000万米ドルと評価され、2026年の1,330億6,000万米ドルから2034年には3,438億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は12.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の海軍艦艇および水上戦闘艦艇市場は、2025年時点で地域別シェア36.4%と最大規模を占めました",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の海軍艦艇および水上戦闘艦艇市場は、2025年には1,406億米ドル規模に達すると予測されており、これは米国の大規模な海軍近代化戦略と先進水上戦闘艦艇への継続的な投資によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ海軍の艦艇および水上戦闘艦の市場規模は、進行中のカナダ水上戦闘艦（CSC）プログラムに支えられ、185億2000万米ドルと評価された",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の海軍艦艇および水上戦闘艦艇市場は、予測期間中に年平均成長率（CAGR）6.3%で成長すると予想されており、地域市場の中で最も急速に成長している市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の海軍艦艇および水上戦闘艦艇市場は、2025年には842億米ドル規模に達し、大規模な艦隊近代化と国内造船計画を通じて拡大を続けている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド海軍の艦艇および水上戦闘艦艇市場規模は、2025年には184億米ドルと評価されており、これは政府が「アトマニルバル・バーラト（自立したインド）」構想の下で国内防衛産業の製造を重視していることに支えられている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の海軍艦艇・水上戦闘艦市場は、先進駆逐艦、イージスシステム搭載ミサイル防衛艦、次世代多目的水上戦闘艦への継続的な投資に牽引され、2025年には168億米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇および水上戦闘艦艇の市場規模は、2026年には5,421億米ドルと評価され、2034年までに8,383億米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.6%である",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇および水上戦闘艦艇市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）5.6%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "官民合わせて1兆円規模の投資をし、約900万総トンである年間建造量を、2035年に1800万総トンに引き上げる目標を掲げています",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指します",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "倒産寸前から、年商9億円へ 小笠原製粉を救った「脱力系ラーメン」",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "○平成28年の日本の舶用工業生産額は9,757億円（前年比4.5%",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は約4割の3,870億円（前年比9.7%増）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国：約3.1兆円（平成27年）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "韓国：約1.0兆円（平成27年）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欧州：約7.2兆円（平成18～22年の平均）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上額：１２．１兆円",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額：３．９兆円",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2016年の日本の舶用工業生産額は9,757億円（前年比4.5%減）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は約4割の3,870億円（前年比9.8%増）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "カンボジア 関税消費税総局への中古税関監視船2隻の供与 2018年度 ○ 約5億円",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ケニア 海上警察への監視船等の供与 2017年度 ○ 約3億円",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場規模、2026〜2035年：世界市場動向レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍艦艇市場は、2025年に1,158億米ドルと評価され、2026年の1,219億米ドルから2035年までに2,248億米ドルへ拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は7%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の艦艇市場規模、艦艇タイプ別、2022〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は最大の地域市場であり、市場規模は 2025年の 500.9億米ドルから 2035年には 981.6億米ドルへ拡大し、年平均成長率（CAGR）は 7.13%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国海軍艦艇市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は、2025年の 243.4億米ドルから 2035年には 446.4億米ドルへ拡大し、CAGRは 6.42%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は最も成長の速い地域であり、市場規模は 2025年の 318.8億米ドルから 2035年には 660.4億米ドルへ拡大し、CAGRは 7.73%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Reuters, Japan Clinches Landmark $6.5 Billion Warship Deal with Australia to Counter China, August 2025, reuters.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカの市場規模は、2025年の 33.6億米ドルから 2035年には 54.8億米ドルへ拡大し、CAGRは 5.16%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ市場は、2025年の61億米ドルから2035年には104億4,000万米ドルへ拡大し、年平均成長率（CAGR）は5.68%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場の市場規模は、2025年に1,158億米ドルと推定され、2026年には1,219億米ドルに達すると見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2035年までに2,248億米ドルに達すると予測され、2026年から2035年にかけて年平均成長率（CAGR）7%で成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場は、2025年723億米ドルから2035年には1,044億米ドルへ拡大し、CAGR約3.8%で成長",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場規模、シェア、競争環境およびトレンド分析レポート、艦艇種別、システム別、ソリューション別、用途別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "艦艇の市場規模は2030年に2556億米ドルに達し、年平均成長率（CAGR）16.8％で成長すると予測 | NEWSCAST",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇の市場規模は2030年に2556億米ドルに達し、年平均成長率（CAGR）16.8％で成長すると予測",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "世界の艦艇市場規模は、2022年から2030年までの予測期間において、複合年間成長率（CAGR）16.8％で成長し、2030年には2556億米ドルに達すると予測されます",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の造船市場規模は、2025年には1,610億5,000万米ドルと評価され、2026年の1,657億7,000万米ドルから2034年には2,088億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.93%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気推進システムやハイブリッド推進システムは、硫黄酸化物（SOx）、窒素酸化物（NOx）、二酸化炭素（CO2）などの汚染物質の排出量を大幅に削減し、大気汚染の軽減と環境負荷の低減に貢献するため、これらのシステムの利用拡大を促しています",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域：年平均成長率4.93%で圧倒的な成長を遂げる地域",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の造船市場シェアは、予測期間中に年平均成長率（CAGR）4.93%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ：年平均成長率4.80%の成長地域",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は予測期間中に年平均成長率（CAGR）4.80%で成長し、34億1000万米ドルを生み出すと予想されています",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場規模は2026年に1,657億7,000万米ドルと評価され、2034年までに2,088億5,000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.93%である",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）2.93%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラストマイル配送市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフト市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "2位のジェネラル・ダイナミクス、3位のハンティントン・インガルス、7位のBAEシステムズと軍艦を主力とする欧米企業が上位に入っており、防衛費拡大を背景に存在感を高めています",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均2.87%で成長し、規模は2164億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍艦艇および水上戦闘艦艇市場規模は、2025年には1,181億7,000万米ドルと評価され、2026年の1,330億6,000万米ドルから2034年には3,438億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は12.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "フリゲート艦セグメントは、費用対効果が高く多目的に運用可能な水上戦闘艦への需要の高まりを背景に、予測期間中に年平均成長率（CAGR）6.4%を記録すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "極超音速ミサイル、長距離精密兵器、そして進化する航空脅威の配備を背景に、防空・ミサイル防衛戦闘兵器分野は予測期間中に年平均成長率（CAGR）6.7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "沿岸警備隊部門は、海上国境警備、漁業保護、密輸対策、災害対応、排他的経済水域（EEZ）監視への投資拡大を背景に、予測期間中に年平均成長率（CAGR）5.9%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドおよび統合型電気推進システム分野は、燃費向上、音響特性の低減、艦載発電能力の強化、次世代指向性エネルギー兵器への対応といった需要の高まりを背景に、予測期間中に年平均成長率（CAGR）7.1%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたなか、政府は造船業再生ロードマップをつくり、「2035年までに、国内建造能力を現在の約900万総トンから1800万総トンへ倍増させる」ことを目標に掲げました",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2035年に向けた「造船業再生ロードマップ」を策定し、建造量の倍増（現在の900万GTから1,800万GT目標",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に1,800万GT（倍増）",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "○平成28年の日本の舶用工業生産額は9,757億円（前年比4.5%",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は約4割の3,870億円（前年比9.7%増）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○平成28年末の舶用工業事業所数は1,022事業所（前年比1.0%",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減）であり、従業員数は約48,000人（前年比0.7%増）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海上荷動き量は、リーマンショック（2008年秋）の翌年に、前年比で減少したものの、基本的には世界",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2016年の日本の舶用工業生産額は9,757億円（前年比4.5%減）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は約4割の3,870億円（前年比9.8%増）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○ 2016年末の舶用工業事業所数は1,131事業所（前年比1.0%増）であり、従業員数は約49,000人（前年比1.2%増）",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "若返る人材 （2005年平均43歳→2015年37歳）を効率的に育成",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍艦艇市場は、2025年に1,158億米ドルと評価され、2026年の1,219億米ドルから2035年までに2,248億米ドルへ拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は7%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の1,219.2億米ドルから2035年の2,247.6億米ドルへの市場拡大は、需要の確実性と産業基盤の希少性の相互作用によって決まると推定されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の戦略防衛見直しでは、最大12隻のSSN-AUKUS潜水艦を建造し、18か月に1隻の建造を目指して生産能力を拡大する方針が示された",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアは、年平均成長率（CAGR）6.44%で成長するものの、他の艦艇タイプの成長率がより高いため、2035年には約43.50%まで低下すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "潜水艦は2025年の市場収益の約32.62%を占め、2035年には約33.00%に達すると予測され、年平均成長率（CAGR）7.16%で拡大すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、艦艇タイプ別で最も高い8.02%のCAGRを記録します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "水上戦闘艦は、統合戦闘システムと残存性要件に多額の費用を要するため、引き続き最大の収益規模を維持していますが、そのCAGR 6.44%は、哨戒・支援艦艇の8.02%を下回っています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は最大の地域市場であり、市場規模は 2025年の 500.9億米ドルから 2035年には 981.6億米ドルへ拡大し、年平均成長率（CAGR）は 7.13%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は、2025年の 243.4億米ドルから 2035年には 446.4億米ドルへ拡大し、CAGRは 6.42%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は最も成長の速い地域であり、市場規模は 2025年の 318.8億米ドルから 2035年には 660.4億米ドルへ拡大し、CAGRは 7.73%となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場は、2025年723億米ドルから2035年には1,044億米ドルへ拡大し、CAGR約3.8%で成長",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成長率",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）3.8％で成長",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年までの予測期間中は、年平均成長率（CAGR）3.8％で拡大すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場の規模は、2025年に723億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）3.8％で拡大し、2035年には1,044億米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍艦艇市場は、2025年から2030年にかけて242億3,200万米ドルの成長が見込まれており、予測期間中のCAGRは6.3％と予測されています",
+    "url": "https://newscast.jp/news/6756490",
+    "pass": 3
+   },
+   {
+    "quote": "前年比2026年 5.9％",
+    "url": "https://newscast.jp/news/6756490",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 6.3%",
+    "url": "https://newscast.jp/news/6756490",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年に18億5,000万米ドル、2035年には28億5,000万米ドルに達すると予測され、2026～2035年の年平均成長率（CAGR）は4.40％である",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛予算は、2022年の5.1兆円から2024年には7.7兆円へ増加しており、この予算拡大が艦艇建造、推進システム、ミサイル防衛、電子戦、センサー、戦闘システムの需要を直接的に押し上げている",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の駆逐艦市場は、2025年の18億5,000万米ドルから2035年の28億5,000万米ドルへと緩やかに拡大するが、その実態は単なる艦艇数の増加ではなく、1隻あたりの能力・技術価値が大きく高まる市場である",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇数が大幅に増えなくても、1隻ごとのセンサー、戦闘システム、ミサイル、ソフトウェア、推進、保守・アップグレード費用が増えれば、市場規模は拡大する",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "この点が、CAGR4.40％という比較的安定した成長率の背景にある",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "政府予算の拡大と長期調達計画が市場を安定的に支える一方、高コスト、輸出規制、複雑な技術統合が参入障壁となるため、国内造船大手とグローバル防衛企業との長期的な協業が、2035年までの日本駆逐艦市場の構造を大きく左右すると考えられる",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "造船市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "造船市場規模、シェア、トレンド分析レポート：種類別（商船、海軍／防衛艦、旅客船、オフショア／特殊用途船、ヨットおよびレクリエーション船）、工程別（設計、生産計画、切断および加工、組立および進水、艤装）、用途別（商業用途、軍事用途）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に市場シェア52.4%を占め、造船市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の造船市場シェアは、予測期間中に年平均成長率（CAGR）4.93%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中国工業情報化部（MIIT）によると、中国は納入注文と受注残高の面で世界市場においてそれぞれ43.1%、48.8%、44.7%という大きなシェアを占めている",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の造船市場において、最大のシェアを占めた地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に52.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラストマイル配送市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフト市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナデポサービス市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルク液体物流市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドックおよびヤード管理システム市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフトレンタル市場の規模、シェア、成長、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "pass": 3
+   },
+   {
+    "quote": "かつて日本は、高い建造技術と生産能力を背景に世界最大の造船国として市場をリードし、1970年代から1980年代にかけて世界トップクラスのシェアを維持していました",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の造船業界の市場シェアを簡易に試算しますと、1位は中国船舶集団（CSSC）、2位はジェネラル・ダイナミクス、3位は韓国造船海洋となります",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "造船業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "造船企業の世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "2位のジェネラル・ダイナミクス、3位のハンティントン・インガルス、7位のBAEシステムズと軍艦を主力とする欧米企業が上位に入っており、防衛費拡大を背景に存在感を高めています",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇および水上戦闘艦艇の市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇および水上戦闘艦艇市場の規模、シェア、トレンド分析レポート：艦種別（駆逐艦、フリゲート艦、コルベット艦、揚陸艦、航空母艦、哨戒艦、その他）、能力別（多目的戦闘艦、防空ミサイル戦闘艦、対潜戦闘艦、揚陸戦闘プラットフォーム、その他）、推進方式別（従来型推進、原子力推進、ハイブリッドおよび統合電気推進）、エンドユーザー別（海軍、沿岸警備隊、海上保安機関）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に36.4%の市場シェアを占め、海軍艦艇および水上戦闘艦艇市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "艦種別に見ると、駆逐艦は2025年時点で全体の31.8%を占める見込みであり、これは駆逐艦の広範な配備によるものです",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "能力別に見ると、多目的戦闘艦艇セグメントは2025年時点で42.6%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー別に見ると、2025年には海軍部門が全体の84.9%を占めた",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "推進方式別に見ると、2025年には従来型推進方式が全体の78.4%を占めた",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の海軍艦艇および水上戦闘艦艇市場は、2025年時点で地域別シェア36.4%と最大規模を占めました",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・保守サービス市場規模、市場シェア（2034年）",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "海難救助サービス市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "海港サービス市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の海軍艦艇および水上戦闘艦艇市場規模、2034年までの市場シェア",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "によると、かつて首位を走っていた日本は2024年時点で、世界3位のポジション（中国：約71%、韓国約14%、日本約8%）と、シェアは縮小しています",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "とくに中国はここ2年でシェアを44%から71%へと大幅に伸ばしており、世界の船舶供給をコントロールしかねない規模になっています",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "国内の主要プレイヤーに目を向けると、日本の造船業界は、上位5社で国内建造量の約8割を占める構造になっています",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船： 328万総トン（国内シェア36％）",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "日本の船主の１年間の造船需要1200万トンを下回り、2022年以降、日本船主による中国造船所への発注が大きく増加し、全体の3～4割程度（2010年代後半は約1～2割）を占める状態になっています",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "今治造船は日本最大の造船グループで、瀬戸内海クラスターの中核として国内建造量の約3割を占めます",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "の台頭により、2024年の世界受注シェアは",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "が71%を占めています",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "の商船建造は、今治造船とJMUの2社で国内市場の過半を占めています",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "が2024年に受注シェア71%を占め",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "世界受注シェア8%に低下",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "我が国の貿易の９９.６％を海上輸送が占め、国内貨物輸送の約４割（産業基礎物資の約８割）を海上輸送に依存",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よって、日本の受注量・シェアは急速に増加し、2015年は、韓国を抜き世界２位に浮上",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のシェアは１９％となっている",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "韓国シェア 45%",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国シェア 26%",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本シェア 19%",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年３月末時点での外国人就労者数（造船特定活動）は2,873人であり、職種は溶接が約90％を占めている",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出身国は中国、フィリピン、ベトナムで90％以上を占めている",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のシェア",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国造船業が、今後とも我が国の輸出拡大・地方創生に貢献していくため、2025年の世界の新造船建造シェア30％獲得を目",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "General Dynamics Corporation は、2025年に 8.2%を超える市場シェアを占め、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは2025年に合計 22.7%に達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空母艦、駆逐艦、フリゲート、コルベットを含む水上戦闘艦は、2025年の市場収益の約46.8%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアは、年平均成長率（CAGR）6.44%で成長するものの、他の艦艇タイプの成長率がより高いため、2035年には約43.50%まで低下すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "潜水艦は2025年の市場収益の約32.62%を占め、2035年には約33.00%に達すると予測され、年平均成長率（CAGR）7.16%で拡大すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "艦艇 の 市場規模 は2030年に2556億米ドルに達し - Newscast.jp — 艦艇 の 市場規模 は2030年に2556億米ドルに達し - Newscast.jp Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/2608518",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇 および水上戦闘機の 市場 シェア [2034 年] — 海軍 艦艇 および水上戦闘機の 市場 シェア [2034 年] Fortune Business Insights https://www.fortunebusinessinsights.com > 海軍艦艇およ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇 および水上戦闘機の 市場シェア [2034 年] — 海軍 艦艇 および水上戦闘機の 市場シェア [2034 年] Fortune Business Insights https://www.fortunebusinessinsights.com > 海軍艦艇およ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇 および水上戦闘 艦艇 の 市場 規模、 シェア 、2034年 — 海軍 艦艇 および水上戦闘 艦艇 の 市場 規模、 シェア 、2034年 Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "商船・ 艦艇 ・瀬戸内海クラスター — 世界3位の造船国の全体像 — 商船・ 艦艇 ・瀬戸内海クラスター — 世界3位の造船国の全体像 geopinning.space https://geopinning.space > 世界の産業地帯",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "海軍 艦艇市場 規模、2026〜2035年 - Global Market Insights — 海軍 艦艇市場 規模、2026〜2035年 - Global Market Insights Global Market Insights Inc. https://www.gminsights.com > naval-vessels-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海軍 艦艇市場 2026-2030年 - Newscast.jp — 世界の海軍 艦艇市場 2026-2030年 - Newscast.jp Newscast.jp https://newscast.jp > ... > 世界の海軍艦艇市場2026-2030年",
+    "url": "https://newscast.jp/news/6756490",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Size 2026-2035, Global Trends Report — Naval Vessels Market Size 2026-2035, Global Trends Report Global Market Insights Inc. https://www.gminsights.com > naval-...",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Size , Share & YoY Growth Rate, 2035 — Naval Vessels Market Size , Share & YoY Growth Rate, 2035 Expert Market Research https://www.expertmarketresearch.com > ...",
+    "url": "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels and Surface Combatants Market Share [2034] — Naval Vessels and Surface Combatants Market Share [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Analysis, Size , and Forecast 2026-2030 — Naval Vessels Market Analysis, Size , and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Size, Share , Trends & Growth, 2034 — Naval Vessels Market Size, Share , Trends & Growth, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Warship and Naval Vessels Market Size, Share & Forecast 2034 — Warship and Naval Vessels Market Size, Share & Forecast 2034 IMARC Group https://www.imarcgroup.com > warsh...",
+    "url": "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Analysis, Size, and Forecast 2026-2030 — Naval Vessels Market Analysis, Size, and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のランキングから、世界の造船業界が防衛向け造船と商船向け造船の二極化を強めていることが読み取れます",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型水上戦闘艦とモジュール式軍艦設計は、市場参入企業に成長機会を提供する",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、長期の海軍調達契約、国内造船プログラム、技術革新、および防衛機関との戦略的パートナーシップを通じて競争している",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内の主要プレイヤーに目を向けると、日本の造船業界は、上位5社で国内建造量の約8割を占める構造になっています",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "艦艇市場の主要企業には、Huntington Ingalls Industries、General Dynamics Corporation、Hyundai Heavy Industries、BAE Systems、Lockheed Martin Corporationなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析を伴うセグメント、ベンダー情勢が含まれています",
+    "url": "https://newscast.jp/news/6756490",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境では、Mitsubishi Heavy Industries、Kawasaki Heavy Industries、Japan Marine United、Lockheed Martin、General Dynamics、BAE Systems、Rolls-Royce、Thales Group、Northrop Grumman、Navantia、Fincantieriなどが主要企業として挙げられている",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "12.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、高度な造船能力、船舶設計の革新性、生産規模、エンジニアリングの専門知識、そして商業海運会社、オフショアエネルギー企業、防衛機関との長期契約を通じて競争している",
+    "url": "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in naval vessels market?",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in naval vessels market include Huntington Ingalls Industries, General Dynamics Corporation, Hyundai Heavy Industries, BAE Systems, Lockheed Martin Corporation.",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels Market: By Vessel Type: Destroyers, Frigates, Submarines, Corvettes, Aircraft Carriers, Others; Regional Analysis; Market Dynamics: SWOT Analysis, Porter’s Five Forces Analysis, Key Indicators for Demand, Key Indicators for Price; Value Chain Analysis; Competitive Landscape; 2026-2035",
+    "url": "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report gives a detailed analysis of the following key players in the global naval vessels market, covering their competitive landscape, capacity, and latest developments like mergers, acquisitions, and investments, expansions of capacity, and plant turnarounds:",
+    "url": "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the industry are BAE Systems Plc, General Dynamics Corporation, ThyssenKrupp AG, Abu Dhabi Ship Building Co., and Hyundai Heavy Industries Co. Ltd., among others.",
+    "url": "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company market share, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in marine vessel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the marine vessel market include HD Hyundai Heavy Industries Co., Ltd.; Hanwha Ocean co., Ltd.; Samsung Heavy Industries Co., Ltd; FINCANTIERI S.p.A.; MITSUBISHI HEAVY INDUSTRIES, LTD.; Oshima Shipbuilding co., Ltd.; General Dynamics NASSCO; Rolls-Royce plc; Kongsberg Maritime; Damen Shipyards Group.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country Level Analysis, Segment-Level Analysis, DROC, PESTLE Analysis, Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview on Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides a comprehensive analysis of the competitive landscape in the warship and naval vessels market with detailed profiles of all major companies, including:",
+    "url": "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape allows stakeholders to understand their competitive environment and provides an insight into the current positions of key players in the market.",
+    "url": "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the warship and naval vessels market include Babcock International Group, General Dynamics, Kawasaki Heavy Industries, Lockheed Martin, Mitsubishi Heavy Industries, CSIC, DSME, Fincantieri, Garden Reach Shipbuilders & Engineers, Hyundai Heavy Industries, Navantia, and Reliance Naval and Engineering Limited, etc.",
+    "url": "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Naval Vessels Market?",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Naval Vessels and Surface Combatants Market Competitive Landscape Analysis",
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "is characterized by intense competition among leading defense contractors focusing on advanced warship platforms. Major players pursue",
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in Naval Vessels and Surface Combatants Market include:",
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Market Share Distribution",
+    "url": "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "The United States is the dominant player, with significant contributions from companies like Lockheed Martin and General Dynamics. Canada also plays a vital role, focusing on modernization and fleet expansion. The competitive landscape is characterized by a mix of established defense contractors and emerging firms, all vying for contracts to enhance naval capabilities.",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Naval Vessels and Surface Combatants Market include",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Naval Vessels and Surface Combatants Market?",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Lockheed Martin, BAE Systems, General Dynamics, Thales Group, Northrop Grumman, Navantia, DCNS, Huntington Ingalls Industries, and Fincantieri.",
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2021年 JMUと今治造船が共同出資会社「日本シップヤード（NSY）」を設立",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 今治造船がJMUへの出資比率を60％まで引き上げ、子会社化",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に業界2位のジャパンマリンユナイテッド（JMU）と共同出資で、日本シップヤード（NSY）を設立し、LNG船を除く一般商船・海洋浮体構造物の設計・営業機能を統合しました",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2026年にはJMUへの出資比率を60％まで引き上げて子会社化し、日本の造船業界再編をリードしています",
+    "url": "https://deallab.info/shipbuilder/",
+    "pass": 3
+   },
+   {
+    "quote": "海軍艦艇および水上戦闘艦艇市場における主要な投資および資金調達活動、2026年",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年、両社は共同出資の商船設計・営業会社",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "pass": 3
+   },
+   {
+    "quote": "海洋船舶市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Naval programs are especially consequential because their funding is committed well before commissioning and sustains design, construction, weapons integration, and maintenance work over long periods. The FY2026 U.S. submission illustrates the scale of this capital intensity, combining Columbia- and Virginia-class procurement with carrier funding and advance procurement.",
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America marine vessel market held a significant share in 2025. The growth of the market in the region is driven by the region’s increasing investments in naval modernization and offshore energy infrastructure. The region benefits from a robust shipbuilding industry, advanced defense technologies, and a strong presence of key OEMs and defense contractors.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2025, the Australian government confirmed an AUD $11.1 billion investment to accelerate the construction of its new general-purpose frigate fleet, expanding the total order to eleven vessels to enhance anti-submarine warfare capabilities.",
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Naval Vessels and Surface Combatants Market, 2026",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2026, Hanwha Ocean announced an investment to expand smart naval shipbuilding facilities and strengthen production capacity for next-generation naval vessels and export programs.",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2025, the company secured funding for the construction of new naval vessels under European defense modernization initiatives, supporting advanced surface combatant production capabilities.",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, Navantia secured government funding to accelerate the construction of next-generation frigates and modernize naval shipbuilding infrastructure under Spain's naval fleet renewal program.",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "The coast guard segment is expected to grow at a CAGR of 5.9% during the forecast period, driven by growing investments in maritime border security, fisheries protection, anti-smuggling operations, disaster response, and exclusive economic zone (EEZ) surveillance. Expanding maritime law enforcement responsibilities are expected to support steady segment growth.",
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "In short, the naval vessels and surface combatants market is evolving from hardware-centric procurement to capability-driven investment. And that shift will define how this space grows through 2030.",
+    "url": "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial vessels segment accounted for a share of 67.84% in 2025 due to the increasing demand for container ships, bulk carriers, tankers, and passenger vessels supporting global maritime trade. Continuous investments in fuel-efficient and low-emission commercial fleets further support the segment's market leadership.",
+    "url": "https://straitsresearch.com/report/marine-vessel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The alternative fuel propulsion segment is expected to grow at a CAGR of 8.14% during the forecast period due to increasing adoption of LNG, methanol, ammonia, hydrogen, and hybrid-electric propulsion technologies. Stringent emission regulations and growing investments in decarbonized shipping are accelerating the deployment of alternative-fuel-powered vessels.",
+    "url": "https://straitsresearch.com/report/marine-vessel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The offshore energy segment is expected to grow at a CAGR of 6.18% during the forecast period, fueled by increasing investments in offshore wind farms, floating production systems, subsea infrastructure, and offshore oil & gas developments.",
+    "url": "https://straitsresearch.com/report/marine-vessel-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, the U.S. government implemented the National Defense Authorization Act, which allocates approximately USD 800 billion for defense spending, including significant investments in naval vessel procurement and modernization. This regulation aims to enhance the operational readiness and technological edge of the U.S. Navy .",
+    "url": "https://www.kenresearch.com/global-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.3.2 Increased Investment in R&D",
+    "url": "https://www.kenresearch.com/global-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6 By Investment Source",
+    "url": "https://www.kenresearch.com/global-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.1 Government Funding",
+    "url": "https://www.kenresearch.com/global-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.2 Private Investments",
+    "url": "https://www.kenresearch.com/global-naval-vessels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The combat operations segment held a dominant revenue share of approximately 43% in 2025, supported by increasing naval combat missions and force projection requirements. Surface combatants optimized for high-intensity warfare continue to attract significant defense investments, sustaining this segment’s dominance in the Naval Vessels and Surface Combatants Market.",
+    "url": "https://www.snsinsider.com/reports/naval-vessels-and-surface-combatants-market-9663",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.8",
+    "url": "https://newscast.jp/news/2608518",
+    "quote": "艦艇の市場規模は2030年に2556億米ドルに達し、年平均成長率（CAGR）16.8％で成長すると予測 | NEWSCAST"
+   },
+   {
+    "value": "2.93",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "世界の造船市場規模は、2025年には1,610億5,000万米ドルと評価され、2026年の1,657億7,000万米ドルから2034年には2,088億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.93%となる見込みです"
+   },
+   {
+    "value": "4.93",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "アジア太平洋地域：年平均成長率4.93%で圧倒的な成長を遂げる地域"
+   },
+   {
+    "value": "4.80",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "ヨーロッパ：年平均成長率4.80%の成長地域"
+   },
+   {
+    "value": "12.6",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "世界の海軍艦艇および水上戦闘艦艇市場規模は、2025年には1,181億7,000万米ドルと評価され、2026年の1,330億6,000万米ドルから2034年には3,438億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は12.6%となる見込みです"
+   },
+   {
+    "value": "6.4",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "フリゲート艦セグメントは、費用対効果が高く多目的に運用可能な水上戦闘艦への需要の高まりを背景に、予測期間中に年平均成長率（CAGR）6.4%を記録すると予想されている"
+   },
+   {
+    "value": "6.7",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "極超音速ミサイル、長距離精密兵器、そして進化する航空脅威の配備を背景に、防空・ミサイル防衛戦闘兵器分野は予測期間中に年平均成長率（CAGR）6.7%で成長すると予測されています"
+   },
+   {
+    "value": "5.9",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "沿岸警備隊部門は、海上国境警備、漁業保護、密輸対策、災害対応、排他的経済水域（EEZ）監視への投資拡大を背景に、予測期間中に年平均成長率（CAGR）5.9%で成長すると見込まれています"
+   },
+   {
+    "value": "7.1",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "ハイブリッドおよび統合型電気推進システム分野は、燃費向上、音響特性の低減、艦載発電能力の強化、次世代指向性エネルギー兵器への対応といった需要の高まりを背景に、予測期間中に年平均成長率（CAGR）7.1%で成長すると予測されています"
+   },
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "世界の海軍艦艇市場は、2025年に1,158億米ドルと評価され、2026年の1,219億米ドルから2035年までに2,248億米ドルへ拡大すると予測されており、2026年から2035年にかけての年平均成長率（CAGR）は7%となる見込みです"
+   },
+   {
+    "value": "6.44",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "市場シェアは、年平均成長率（CAGR）6.44%で成長するものの、他の艦艇タイプの成長率がより高いため、2035年には約43.50%まで低下すると予測される"
+   },
+   {
+    "value": "7.16",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "潜水艦は2025年の市場収益の約32.62%を占め、2035年には約33.00%に達すると予測され、年平均成長率（CAGR）7.16%で拡大すると見込まれます"
+   },
+   {
+    "value": "7.13",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "北米は最大の地域市場であり、市場規模は 2025年の 500.9億米ドルから 2035年には 981.6億米ドルへ拡大し、年平均成長率（CAGR）は 7.13%となる"
+   },
+   {
+    "value": "6.42",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "欧州の市場規模は、2025年の 243.4億米ドルから 2035年には 446.4億米ドルへ拡大し、CAGRは 6.42%となる"
+   },
+   {
+    "value": "7.73",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "アジア太平洋は最も成長の速い地域であり、市場規模は 2025年の 318.8億米ドルから 2035年には 660.4億米ドルへ拡大し、CAGRは 7.73%となる"
+   },
+   {
+    "value": "3.8",
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "quote": "海軍艦艇市場は、2025年723億米ドルから2035年には1,044億米ドルへ拡大し、CAGR約3.8%で成長"
+   },
+   {
+    "value": "6.3",
+    "url": "https://newscast.jp/news/6756490",
+    "quote": "世界の海軍艦艇市場は、2025年から2030年にかけて242億3,200万米ドルの成長が見込まれており、予測期間中のCAGRは6.3％と予測されています"
+   },
+   {
+    "value": "4.40",
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "quote": "市場規模は2025年に18億5,000万米ドル、2035年には28億5,000万米ドルに達すると予測され、2026～2035年の年平均成長率（CAGR）は4.40％である"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "52.4",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "アジア太平洋地域は、2025年に市場シェア52.4%を占め、造船市場を牽引しました"
+   },
+   {
+    "value": "4.93",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "アジア太平洋地域の造船市場シェアは、予測期間中に年平均成長率（CAGR）4.93%で成長すると予想されています"
+   },
+   {
+    "value": "43.1",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "さらに、中国工業情報化部（MIIT）によると、中国は納入注文と受注残高の面で世界市場においてそれぞれ43.1%、48.8%、44.7%という大きなシェアを占めている"
+   },
+   {
+    "value": "48.8",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "さらに、中国工業情報化部（MIIT）によると、中国は納入注文と受注残高の面で世界市場においてそれぞれ43.1%、48.8%、44.7%という大きなシェアを占めている"
+   },
+   {
+    "value": "44.7",
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "quote": "さらに、中国工業情報化部（MIIT）によると、中国は納入注文と受注残高の面で世界市場においてそれぞれ43.1%、48.8%、44.7%という大きなシェアを占めている"
+   },
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "北米は、2025年に36.4%の市場シェアを占め、海軍艦艇および水上戦闘艦艇市場を牽引しました"
+   },
+   {
+    "value": "31.8",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "艦種別に見ると、駆逐艦は2025年時点で全体の31.8%を占める見込みであり、これは駆逐艦の広範な配備によるものです"
+   },
+   {
+    "value": "42.6",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "能力別に見ると、多目的戦闘艦艇セグメントは2025年時点で42.6%のシェアを占める見込みです"
+   },
+   {
+    "value": "84.9",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "エンドユーザー別に見ると、2025年には海軍部門が全体の84.9%を占めた"
+   },
+   {
+    "value": "78.4",
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "quote": "推進方式別に見ると、2025年には従来型推進方式が全体の78.4%を占めた"
+   },
+   {
+    "value": "71",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "quote": "によると、かつて首位を走っていた日本は2024年時点で、世界3位のポジション（中国：約71%、韓国約14%、日本約8%）と、シェアは縮小しています"
+   },
+   {
+    "value": "14",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "quote": "によると、かつて首位を走っていた日本は2024年時点で、世界3位のポジション（中国：約71%、韓国約14%、日本約8%）と、シェアは縮小しています"
+   },
+   {
+    "value": "8",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "quote": "によると、かつて首位を走っていた日本は2024年時点で、世界3位のポジション（中国：約71%、韓国約14%、日本約8%）と、シェアは縮小しています"
+   },
+   {
+    "value": "44",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "quote": "とくに中国はここ2年でシェアを44%から71%へと大幅に伸ばしており、世界の船舶供給をコントロールしかねない規模になっています"
+   },
+   {
+    "value": "36",
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "quote": "今治造船： 328万総トン（国内シェア36％）"
+   },
+   {
+    "value": "71",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "quote": "が71%を占めています"
+   },
+   {
+    "value": "8",
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "quote": "世界受注シェア8%に低下"
+   },
+   {
+    "value": "９９.６",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "我が国の貿易の９９.６％を海上輸送が占め、国内貨物輸送の約４割（産業基礎物資の約８割）を海上輸送に依存"
+   },
+   {
+    "value": "１９",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "日本のシェアは１９％となっている"
+   },
+   {
+    "value": "45",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "韓国シェア 45%"
+   },
+   {
+    "value": "26",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "中国シェア 26%"
+   },
+   {
+    "value": "19",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "日本シェア 19%"
+   },
+   {
+    "value": "90",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "2019年３月末時点での外国人就労者数（造船特定活動）は2,873人であり、職種は溶接が約90％を占めている"
+   },
+   {
+    "value": "30",
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "quote": "我が国造船業が、今後とも我が国の輸出拡大・地方創生に貢献していくため、2025年の世界の新造船建造シェア30％獲得を目"
+   },
+   {
+    "value": "8.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "General Dynamics Corporation は、2025年に 8.2%を超える市場シェアを占め、市場をリードしました"
+   },
+   {
+    "value": "22.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "が含まれ、これらの企業が占める市場シェアは2025年に合計 22.7%に達しました"
+   },
+   {
+    "value": "46.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "航空母艦、駆逐艦、フリゲート、コルベットを含む水上戦闘艦は、2025年の市場収益の約46.8%を占める"
+   },
+   {
+    "value": "6.44",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "市場シェアは、年平均成長率（CAGR）6.44%で成長するものの、他の艦艇タイプの成長率がより高いため、2035年には約43.50%まで低下すると予測される"
+   },
+   {
+    "value": "43.50",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "市場シェアは、年平均成長率（CAGR）6.44%で成長するものの、他の艦艇タイプの成長率がより高いため、2035年には約43.50%まで低下すると予測される"
+   },
+   {
+    "value": "32.62",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "潜水艦は2025年の市場収益の約32.62%を占め、2035年には約33.00%に達すると予測され、年平均成長率（CAGR）7.16%で拡大すると見込まれます"
+   },
+   {
+    "value": "33.00",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "潜水艦は2025年の市場収益の約32.62%を占め、2035年には約33.00%に達すると予測され、年平均成長率（CAGR）7.16%で拡大すると見込まれます"
+   },
+   {
+    "value": "7.16",
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "quote": "潜水艦は2025年の市場収益の約32.62%を占め、2035年には約33.00%に達すると予測され、年平均成長率（CAGR）7.16%で拡大すると見込まれます"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/news/2608518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/commercial-vessel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/commercial-shipbuilding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/shipbuilder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smbiz.asahi.com/article/16263543",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://geopinning.space/industry/japan-shipbuilding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/common/001295634.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6756490",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9465387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/marine-vessels-market-74199246.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stanford.edu/~kostasb/research/fragmentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/marine-vessel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-naval-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/naval-vessels-and-surface-combatants-market-9663",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "艦艇 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/news/2608518",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "https://straitsresearch.com/jp/report/shipbuilding-market",
+    "https://www.gminsights.com/ja/industry-analysis/commercial-vessel-market",
+    "https://www.theinsightpartners.com/ja/reports/commercial-shipbuilding-market",
+    "https://www.sphericalinsights.com/jp/reports/asia-pacific-shipbuilding-market",
+    "https://www.reportocean.co.jp/industry-reports/shipbuilding-market",
+    "https://www.researchnester.jp/industry-reports/japan-shipbuilding-market/61",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7114%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E6%85%A3%E6%80%A7%E8%88%AA%E6%B3%95%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99%E3%82%8B%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-7517506882672951296-fxuae",
+    "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market"
+   ]
+  },
+  {
+   "query": "艦艇 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/shipbuilder/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E8%BB%8D%E8%89%A6%E8%89%87%E3%81%8A%E3%82%88%E3%81%B3%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F%E5%B8%82%E5%A0%B4-102695",
+    "https://straitsresearch.com/jp/report/naval-vessels-and-surface-combatants-market",
+    "https://smbiz.asahi.com/article/16263543",
+    "https://geopinning.space/industry/japan-shipbuilding/",
+    "https://www.mlit.go.jp/common/001295634.pdf",
+    "https://mecha-career.com/blog/about-introducing-ship-parts-industry/",
+    "https://www.gii.co.jp/report/moi2124201-shipbuilding-market-share-analysis-industry-trends.html",
+    "https://isnews.jp/archives/780",
+    "https://www.fortunebusinessinsights.com/jp/海軍艦艇および水上戦闘機市場-102695"
+   ]
+  },
+  {
+   "query": "艦艇 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/naval-vessels-market",
+    "https://www.reportocean.co.jp/industry-reports/naval-vessels-market",
+    "https://newscast.jp/news/6756490",
+    "https://www.atpress.ne.jp/news/9465387",
+    "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/naval-vessels-market",
+    "https://www.mlit.go.jp/common/001295634.pdf",
+    "https://note.com/brave_avocet318/n/nf6dfd8157863",
+    "https://baike.baidu.com/ja/item/2025%E5%B9%B4%E9%80%A0%E8%88%B9%E6%A5%AD%E7%B5%8C%E6%B8%88%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90/2285663",
+    "https://www.mlit.go.jp/maritime/maritime_fr1_000098.html"
+   ]
+  },
+  {
+   "query": "naval vessels market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "https://www.expertmarketresearch.com/reports/naval-vessels-market",
+    "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "https://www.linkedin.com/pulse/market-dynamics-trends-in-depth-look-warships-naval-vessels-projected-bkupc",
+    "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "https://www.reanin.com/reports/naval-vessels-market"
+   ]
+  },
+  {
+   "query": "naval vessels market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "https://www.marketsandmarkets.com/Market-Reports/marine-vessels-market-74199246.html",
+    "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "https://www.facebook.com/groups/131404503668890/posts/3820389071437063/",
+    "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "https://www.reanin.com/reports/naval-vessels-and-surface-combatants-market",
+    "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "https://www.thebusinessresearchcompany.com/report/naval-vessels-and-surface-combatants-global-market-report"
+   ]
+  },
+  {
+   "query": "naval vessels market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://straitsresearch.com/report/naval-vessels-and-surface-combatants-market",
+    "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "https://www.marketsandmarkets.com/Market-Reports/marine-vessels-market-74199246.html",
+    "https://www.strategicmarketresearch.com/market-report/naval-vessels-and-surface-combatants-market",
+    "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "https://stanford.edu/~kostasb/research/fragmentation/"
+   ]
+  },
+  {
+   "query": "naval vessels market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/naval-vessels-and-surface-combatants-market-102695",
+    "https://www.mordorintelligence.com/industry-reports/naval-vessels-market",
+    "https://www.technavio.com/report/naval-vessels-market-analysis",
+    "https://www.grandviewresearch.com/industry-analysis/marine-vessel-market-report",
+    "https://www.marketresearchfuture.com/reports/naval-vessels-and-surface-combatants-market-16135",
+    "https://www.marketdataforecast.com/market-reports/naval-vessels-market",
+    "https://www.imarcgroup.com/warship-naval-vessels-market",
+    "https://straitsresearch.com/report/marine-vessel-market",
+    "https://www.gminsights.com/industry-analysis/naval-vessels-market",
+    "https://www.kenresearch.com/global-naval-vessels-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

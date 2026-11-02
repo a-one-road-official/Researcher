@@ -1,0 +1,894 @@
+{
+ "name": "伊藤忠丸紅鉄鋼",
+ "aliases": [
+  "Marubeni-Itochu Steel",
+  "MISI"
+ ],
+ "context": "鉄鋼商社",
+ "researched_at": "2026-11-02T17:05:14.394511+00:00",
+ "official_url": "https://www.benichu.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2001年10月1日",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2001年10月1日",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体人員: 1,086名 (2026年4月1日現在) 連結人員: 10,737名（2026年4月1日現在)",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単体人員: 1,086名 (2026年4月1日現在) 連結人員: 10,737名（2026年4月1日現在)",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役 兼 常務執行役員（営業担当：鋼材第二本部、自動車鋼材本部、鋼管本部）",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役 兼 常務執行役員（営業担当：鋼材第一本部、鋼材第三本部、インキュベーション室）",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（鋼材第一本部長）",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（鋼材第二本部長）",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（鋼材第三本部長）",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（自動車鋼材本部長）",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "MIステンレスセンターと万世鋼機が統合し、MI万世ステンレス設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インド・JSWスチール社と鋼材加工会社JSW MI Steel Service Center設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・河南省に宝鋼集団と合弁で自動車用鋼材加工センターMI BAO Metal Processing Zhengzhou設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・上海市にイタリア・EURO GROUPと合弁でモーター発電機用ラミネーション製品販売会社EURO-MISI LAMINATIONS（SHANGHAI）設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "米国会社傘下の鋼材加工センター3社を統合し、MISA Metal Processingを設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに自動車用鋼材加工センターMI STEEL PROCESSING INDIA設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "パキスタンに鋼材加工センターMID Pakistan Coil Center設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国湖北省武漢市に武漢舟越汽車材料有限公司と合弁で自動車用鋼板及びアルミのコイルセンター「武漢紅忠澤金属製品有限公司」を設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役 兼 常務執行役員（営業担当：鋼材第二本部、自動車鋼材本部、鋼管本部）",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役 兼 常務執行役員（営業担当：鋼材第一本部、鋼材第三本部、インキュベーション室）",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（鋼材第一本部長）",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（鋼材第二本部長）",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（鋼材第三本部長）",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員（自動車鋼材本部長）",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "MIステンレスセンターと万世鋼機が統合し、MI万世ステンレス設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インド・JSWスチール社と鋼材加工会社JSW MI Steel Service Center設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・河南省に宝鋼集団と合弁で自動車用鋼材加工センターMI BAO Metal Processing Zhengzhou設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・上海市にイタリア・EURO GROUPと合弁でモーター発電機用ラミネーション製品販売会社EURO-MISI LAMINATIONS（SHANGHAI）設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "米国会社傘下の鋼材加工センター3社を統合し、MISA Metal Processingを設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに自動車用鋼材加工センターMI STEEL PROCESSING INDIA設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "パキスタンに鋼材加工センターMID Pakistan Coil Center設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国湖北省武漢市に武漢舟越汽車材料有限公司と合弁で自動車用鋼板及びアルミのコイルセンター「武漢紅忠澤金属製品有限公司」を設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼を扱う商社の仕事と聞いて、多くの人が「鉄鋼メーカーから鉄板やパイプなどの鉄鋼製品を仕入れ、鉄を素材にして製品を作る企業に販売する」といった、とてもシンプルなビジネスモデルを思い浮かべると思います",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "社会・産業の変化の中で、満たされないニーズに対して、情報の収集・分析、原材料調達、製品販売、物流手配、資金調達、人材育成などの機能をフルに活用することにより、ニーズを満たすための新たな商品・サービス開発と事業化を支援・運営する",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズの情報収集・分析などを通じた新たな市場の構築、新技術の紹介や導入先企業の発掘、取引先が開発した新規商品の拡販など、様々な開拓を行う",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社の持つ各種機能を組み合わせ、情報収集、企画・立案、パートナーの選定、資金調達、原料・資機材の調達、製品販売先の開拓などを包括的に遂行し、プロジェクトを牽引する",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 １０年先を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／北米で川下事業拡張検討／新興向け出資、ＤＸ化提案加速 | 鉄鋼・非鉄金属業界の専門紙「日刊産業新聞」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属ニュース",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄・非鉄金属リサイクル",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼・ステンレス",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄ニュースのジャンル",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ地金・二次合金",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル・チタン",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタル他",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄二・三次加工",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属スクラップ",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄団体・官公庁",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "伸銅協会 データ拠点向け需要堅調 海外との競争激化も",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄ニュース",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "NSRは、イベリア半島の7カ所にカラー鋼板や亜鉛鉄板など建設鋼材の製造・加工・販売拠点を持ち、年間100万トン規模のサプライチェーンを構築している",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "「先行して買収した英国の建設・インフラ・エネルギー用鋼材の加工・流通企業、バークレイ＆マシソン（B＆M）を通じて、アンガス社の全株式を24年10月に取得した",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国の鋼材輸出の影響を受けにくい政治事情もあって、需給がバランスし、マーケットは安定している",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地高炉大手のJSWスチールとは自動車鋼板用のコイルセンターを4カ所で展開しているが、年間取扱量が100万トンを超えて、追加の設備投資が検討課題になっている",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内の鋼材需要の縮小を見据え、メーカー系、商社系、オーナー系を問わず健全な市場を維持するための加工・物流機能の再編を進めていく」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "CDBSのパートナーで大手鋼材流通のワージントン・インダストリーズとUSスチールが共同運営するコイルセンター事業群のうち、ミシガン州のジャクソン工場を22年に買収しており、USスチールとの関係はさらに深まっている」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "――第7次中計の3年間の連結純利益は626億円、955億円、803億円で、為替や鋼材価格にある前提を置いた基礎収益力を分析し、第8次中計では基礎収益力で200億円の上積みを目指している",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "北米の鋼管市況の下落と建材事業の減益、中国のデフレ輸出による海外鋼材市況の下落などが重なった",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "ところが現地鉄鋼メーカーの1－3月の業績が原料安要因で改善しており、中国の安値輸出と海外鋼材市況低迷はしばらく続く可能性がある",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属市場価格",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄相場配信",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋼材第二本部",
+    "url": "https://www.misi-recruit.com/business/department/interview08.html",
+    "pass": 3
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコ・アグアスカリエンテス州に自動車向けコイルセンターMI Metal Processing Mexicana設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インド・JSWスチール社と鋼材加工会社JSW MI Steel Service Center設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "米国のブランキング加工会社RSDC of Michiganを100％子会社化",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・河南省に宝鋼集団と合弁で自動車用鋼材加工センターMI BAO Metal Processing Zhengzhou設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシアの金属加工会社Anshin Precision Industriesを子会社化",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "米国会社傘下の鋼材加工センター3社を統合し、MISA Metal Processingを設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに自動車用鋼材加工センターMI STEEL PROCESSING INDIA設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "パキスタンに鋼材加工センターMID Pakistan Coil Center設立",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "英国の建材加工・販売会社Barclay & Mathieson Limited社を買収",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Worthington Specialty Processing社ジャクソン工場を買収",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼製品等の輸出入および販売、加工、サプライチェーンマネジメント、鉄鋼関連業界への投資",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコ・アグアスカリエンテス州に自動車向けコイルセンターMI Metal Processing Mexicana設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インド・JSWスチール社と鋼材加工会社JSW MI Steel Service Center設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "米国のブランキング加工会社RSDC of Michiganを100％子会社化",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・河南省に宝鋼集団と合弁で自動車用鋼材加工センターMI BAO Metal Processing Zhengzhou設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシアの金属加工会社Anshin Precision Industriesを子会社化",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "米国会社傘下の鋼材加工センター3社を統合し、MISA Metal Processingを設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "インドに自動車用鋼材加工センターMI STEEL PROCESSING INDIA設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "パキスタンに鋼材加工センターMID Pakistan Coil Center設立",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "英国の建材加工・販売会社Barclay & Mathieson Limited社を買収",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "Worthington Specialty Processing社ジャクソン工場を買収",
+    "url": "https://www.benichu.com/corporate/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "非鉄二・三次加工",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄物産 スロバキア社子会社化 欧州で鋼材加工拠点取得",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "NSRは、イベリア半島の7カ所にカラー鋼板や亜鉛鉄板など建設鋼材の製造・加工・販売拠点を持ち、年間100万トン規模のサプライチェーンを構築している",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "――スコットランドの厚板加工会社を買収した",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "「先行して買収した英国の建設・インフラ・エネルギー用鋼材の加工・流通企業、バークレイ＆マシソン（B＆M）を通じて、アンガス社の全株式を24年10月に取得した",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "アンガス社は、グラスゴー近郊の拠点に、最新鋭の厚板加工設備を保有し、高強度鋼板の加工・在庫販売を行っている",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内の鋼材需要の縮小を見据え、メーカー系、商社系、オーナー系を問わず健全な市場を維持するための加工・物流機能の再編を進めていく」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存取引については、加工・物流を含めコストが大幅に上がっている",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "コスト削減など自助努力を重ねる一方で、健全なサプライチェーンを維持・拡充するため適正な加工賃や物流費についてはご負担いただくよう丁寧な説明を続けていく」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工や物流でスポットに特別対応をすることがあるが、それらは無償のサービスではなく、付加価値であることへの理解と対価を求めていく」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略―加速する脱炭素・市場開拓―／伊藤忠丸紅鉄鋼 石谷誠社長／電磁鋼板の加工・流通強化／インド機能拡充、車需要捉える",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "※2 コイルセンター：コイルと呼ばれる鉄の薄い板を巻き取った母材を様々な形に加工する拠点",
+    "url": "https://www.misi-recruit.com/business/department/interview08.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社では、様々な需要家・業界で使用されている鉄という素材を通じて、グリーンインフラ・環境対応車普及・CCUS（Carbon Capture, Utilization and Storage）といった分野への貢献を目指すとともに、産業構造の変化に伴う本質的な課題にまで踏み込み、付加価値の高いソリューション提供に取り組んでいます",
+    "url": "https://www.benichu.com/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "offers a wide range of services to our customers.",
+    "url": "https://www.benichu.com/en/csr_en/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "We are using cookies to improve our services and to provide a more suitable services to our customers' interests and needs. Please refer to",
+    "url": "https://www.benichu.com/en/csr_en/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "このような数々の機能を有機的に組み合わせることによって、総合商社同様、顧客に質の高いソリューションを提供すること、それがMISIのビジネスです",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "単純に「右から左へ」モノを流すのではなく、多くの情報を集めてあらゆる需要家と供給家のニーズを正確に把握し、そのニーズに対して総合商社が持つ物流機能や金融機能をはじめとする様々な機能を駆使することで、両者のニーズを繋ぎ合わせ、付加価値のあるモノ・仕組みを提供することによって収益を生み出します",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社機能を駆使することで付加価値をつけ、需要家と供給家の間に生まれるニーズのギャップを埋め、より高い価値を生み出し利益を上げています",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "銀行などの金融機関とは異なる商社独自の金融機能を提供しており、例えば、取引先に対する立替与信、債務保証、融資、プロジェクトファイナンスなどがある",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のニーズに合わせた、きめ細かな搬入・仕分け・配送など全体最適の物流システムを実現する",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズの情報収集・分析などを通じた新たな市場の構築、新技術の紹介や導入先企業の発掘、取引先が開発した新規商品の拡販など、様々な開拓を行う",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社の持つ各種機能を組み合わせ、情報収集、企画・立案、パートナーの選定、資金調達、原料・資機材の調達、製品販売先の開拓などを包括的に遂行し、プロジェクトを牽引する",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "「社員には目線を上げて、取引先の経営層と需給や業界構造の変化に関する議論を重ねながら信頼関係を構築し、事業投融資や合弁事業の機会創出に取り組んでいくよう指示している",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、ITツールによる業務改革を推進する狙いで立ち上げた社内コンテスト『BPR（ビジネス・プロセス・リエンジニアリング）CUP』による成果が大きく広がっており、取引先の業務改善にも寄与する提案を高く評価している",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "輝け 若手／（11）／大成興業 本社営業部／藤井龍士さん（25歳）／顧客からの感謝に達成感",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外貿易を担当していると、時折顧客の姿が見えにくくなる時があります",
+    "url": "https://www.misi-recruit.com/business/department/interview08.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "was launched in September 2023 as a collaborative service with NTT DOCOMO BUSINESS, Inc. (NTT DOCOMO BUSINESS) and WasteBox Inc. (WasteBox). By combining the expertise of MISI, a leading player in the steel distribution segment, NTT DOCOMO BUSINESS, a major telecommunications company, and WasteBox, a pioneer in CO",
+    "url": "https://www.benichu.com/en/csr_en/environment/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼株式会社",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼を扱う商社の仕事と聞いて、多くの人が「鉄鋼メーカーから鉄板やパイプなどの鉄鋼製品を仕入れ、鉄を素材にして製品を作る企業に販売する」といった、とてもシンプルなビジネスモデルを思い浮かべると思います",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "確かに、このビジネスモデルは鉄鋼を扱う全ての商社に当てはまりますが、MISIのビジネスはそれだけには留まりません",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、MISIのビジネスモデルやMISIが提供している商社機能の一部を紹介していきます",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "BUSINESS MODEL",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業投資に対する社員の意識改革を全社運動として展開し、ビジネスモデルを大きく転換させていく」",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "アンガス社は、グラスゴー近郊の拠点に、最新鋭の厚板加工設備を保有し、高強度鋼板の加工・在庫販売を行っている",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略―需給・収益構造対策― 伊藤忠丸紅鉄鋼 石谷誠社長／国内流通機能見直し急ぐ／米・欧阿中東の収益基盤を拡充",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 — ビジネスモデル ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 misi-recruit.com https://www.misi-recruit.com > business > company",
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠丸紅鉄鋼 の「企業分析［強み・弱み・展望］」 OpenWork — 伊藤忠丸紅鉄鋼 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 伊藤忠丸紅鉄鋼",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G0dN&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 構造 変化を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... — 商社の経営戦略 構造 変化を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... japanmetal.com https://www.japanmetal.com > news-to20260713149921",
+    "url": "https://www.japanmetal.com/news-to20260713149921.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 - 伊藤忠丸紅鉄鋼 株式会社 — 事業内容 - 伊藤忠丸紅鉄鋼 株式会社 伊藤忠丸紅鉄鋼株式会社 https://www.benichu.com > business",
+    "url": "https://www.benichu.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠丸紅鉄鋼 とは？総合商社系鉄鋼商社の特徴を解説 — 伊藤忠丸紅鉄鋼 とは？総合商社系鉄鋼商社の特徴を解説 shousha.net https://shousha.net > 専門商社",
+    "url": "https://shousha.net/marubeni-itochu-steel/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 - 伊藤忠丸紅鉄鋼 株式会社 — 決算 情報 - 伊藤忠丸紅鉄鋼 株式会社 伊藤忠丸紅鉄鋼株式会社 https://www.benichu.com > news > financial",
+    "url": "https://www.benichu.com/news/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 決算 報告 資料 - 伊藤忠丸紅鉄鋼 — 2025年度 決算 報告 資料 - 伊藤忠丸紅鉄鋼 伊藤忠丸紅鉄鋼株式会社 PDF https://www.benichu.com > images > news",
+    "url": "https://www.benichu.com/wp/images/news/20260501-P-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 上半期 決算 報告 資料 - 伊藤忠丸紅鉄鋼 — 2025年度 上半期 決算 報告 資料 - 伊藤忠丸紅鉄鋼 伊藤忠丸紅鉄鋼株式会社 PDF https://www.benichu.com > news > 251105-PPT",
+    "url": "https://www.benichu.com/wp/images/news/251105-PPT.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商社の経営戦略 10年先を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... — 商社の経営戦略 10年先を見据えて／ 伊藤忠丸紅鉄鋼 石谷誠 ... japanmetal.com https://www.japanmetal.com > news-to20250627144399",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "荷宮 亜梨子 ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 — 荷宮 亜梨子 ｜ BUSINESS ｜ 伊藤忠丸紅鉄鋼 株式会社 misi-recruit.com https://www.misi-recruit.com > department > interview08",
+    "url": "https://www.misi-recruit.com/business/department/interview08.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・役員・組織 - 伊藤忠丸紅鉄鋼 株式会社 — 会社概要・役員・組織 - 伊藤忠丸紅鉄鋼 株式会社 伊藤忠丸紅鉄鋼株式会社 https://www.benichu.com > organization",
+    "url": "https://www.benichu.com/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "【 伊藤忠丸紅鉄鋼 】商社はモノを作っていない。だから自分で ... — 【 伊藤忠丸紅鉄鋼 】商社はモノを作っていない。だから自分で ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=rE3fPyQzbYU",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter1 石黒 基二郎 ｜ TURNING POINT - 伊藤忠丸紅鉄鋼 — Chapter1 石黒 基二郎 ｜ TURNING POINT - 伊藤忠丸紅鉄鋼 misi-recruit.com https://www.misi-recruit.com > chapter01_ep01",
+    "url": "https://www.misi-recruit.com/turning_point/chapter01_ep01.html",
+    "pass": 3
+   },
+   {
+    "quote": "News Release — News Release 伊藤忠丸紅鉄鋼株式会社 PDF https://www.benichu.com > images > news",
+    "url": "https://www.benichu.com/wp/images/news/press260501E-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FY2024 First Half Financial Results Report Marubeni-Itochu ... — FY2024 First Half Financial Results Report Marubeni-Itochu ... 伊藤忠丸紅鉄鋼株式会社 PDF https://www.benichu.com > images > news",
+    "url": "https://www.benichu.com/wp/images/news/20241106-2.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "本年度はトレードを起点とした成長投資案件の発掘を続け、リスク管理をさらに徹底し、新たに既存取引の利益率改善に取り組む",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "――商社にとって売上総利益率はひとつの経営指標となる",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "「米国鉄鋼流通大手のワージントンやリライアンスは総利益率が20％を超えている",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高が3兆円を超えており、総利益率を1％改善すれば300億円超の利益回復が可能となる",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "――商社にとって売上総利益率はひとつの経営指標となる",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "History",
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.benichu.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.benichu.com/organization/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.benichu.com/csr/environment/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.benichu.com/corporate/organization/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.benichu.com/en/csr_en/environment/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.benichu.com/ch/csr_ch/environment_ch/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.benichu.com/wp/images/news/oshirase-j.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.benichu.com/wp/images/2026/01/d7517103ce4c4a34ca2b452811ded151-1.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.misi-recruit.com/business/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000G0dN&q_no=9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japanmetal.com/news-to20250627144399.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misi-recruit.com/business/department/interview08.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itochu.co.jp/en/ir/financial_statements/2025/__icsFiles/afieldfile/2025/02/10/25_3rd_02_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "伊藤忠丸紅鉄鋼 ビジネスモデル 収益構造",
+   "results": [
+    "https://www.misi-recruit.com/business/company.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G0dN&q_no=9",
+    "https://www.japanmetal.com/news-to20260713149921.html",
+    "https://www.benichu.com/business/",
+    "https://shousha.net/marubeni-itochu-steel/",
+    "https://gaishishukatsu.com/archives/151b708ca6674413bf608338298fcf75",
+    "https://note.com/shyuukatu_gy/n/n0cc9d0083294",
+    "https://www.benichu.com/corporate/philosophy/",
+    "https://kigyobunseki.com/company/itochu-marubeni-steel",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/09/13/104500"
+   ]
+  },
+  {
+   "query": "伊藤忠丸紅鉄鋼 決算説明資料 セグメント",
+   "results": [
+    "https://www.benichu.com/news/financial/",
+    "https://www.benichu.com/wp/images/news/20260501-P-2.pdf",
+    "https://www.benichu.com/wp/images/news/251105-PPT.pdf",
+    "https://www.itochu.co.jp/ja/ir/financial_statements/2026/index.html",
+    "https://www.marubeni.com/jp/ir/",
+    "https://www.benichu.com/banner/",
+    "https://www.benichu.com/organization/",
+    "https://edinetdb.jp/company/E06249/ir-docs/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S1007YVI.pdf",
+    "https://kaijiwire.jp/companies/7010001075892"
+   ]
+  },
+  {
+   "query": "伊藤忠丸紅鉄鋼 社長 インタビュー",
+   "results": [
+    "https://www.japanmetal.com/news-to20250627144399.html",
+    "https://www.misi-recruit.com/business/department/interview08.html",
+    "https://www.benichu.com/organization/",
+    "https://www.youtube.com/watch?v=rE3fPyQzbYU",
+    "https://www.misi-recruit.com/turning_point/chapter01_ep01.html",
+    "https://www.youtube.com/watch?v=a7E_IcC7mu0",
+    "https://www.japanmetal.com/news-to20230404125990.html",
+    "https://www.youtube.com/channel/UC18bpLgWAqSAxuMdqt-bAxQ",
+    "https://kigyobunseki.com/company/itochu-marubeni-steel",
+    "https://www.japanmetaldaily.com/articles/-/125505"
+   ]
+  },
+  {
+   "query": "伊藤忠丸紅鉄鋼 business model revenue gross margin",
+   "results": [
+    "https://www.benichu.com/wp/images/news/press260501E-1.pdf",
+    "https://www.itochu.co.jp/en/ir/financial_statements/2025/__icsFiles/afieldfile/2025/02/10/25_3rd_02_e.pdf",
+    "https://www.benichu.com/wp/images/news/20241106-2.pdf",
+    "https://umbrex.com/resources/company-profiles/itochu-corp/",
+    "https://www.marubeni.com/en/news/2026/release/20260805E.pdf",
+    "https://www.itochu.co.jp/en/files/ar2024E_06.pdf",
+    "https://www.benichu.com/en/business_en/",
+    "https://www.itochu.co.jp/en/files/FIR2025E.pdf",
+    "https://www.marubeni.com/en/ir/reports/integrated_report/pdf/2025_en_06.pdf",
+    "https://kaijiwire.jp/kokoku/01a077f1-c5c6-7555-8e7e-8ee52ee12443"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部5頁・検索4回）"
+ }
+}

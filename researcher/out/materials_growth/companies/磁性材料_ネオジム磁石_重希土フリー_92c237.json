@@ -1,0 +1,1826 @@
+{
+ "name": "磁性材料（ネオジム磁石・重希土フリー）",
+ "en": "rare earth free magnet",
+ "aliases": [
+  "neodymium magnet",
+  "NdFeB",
+  "heavy rare earth free magnet",
+  "ネオジム磁石"
+ ],
+ "context": "モーター",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:55:58.830333+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ達するとの予測のもと、単なる素材供給市場から、電動化・省エネルギー化・産業自動化を支える戦略的な材料市場へと、その重要性をさらに高めていくと考えられる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年まで緩やかな拡大が見込まれる一方、市場成長をそのまま企業収益の拡大と捉えることはできません",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の26億米ドルから2035年には34億米ドルへと、10年間で約8億米ドル増加する予測である",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ達するとの予測のもと、単なる素材供給市場から、電動化・省エネルギー化・産業自動化を支える戦略的な材料市場へと、その重要性をさらに高めていくと考えられる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年まで緩やかな拡大が見込まれる一方、市場成長をそのまま企業収益の拡大と捉えることはできません",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため経営層にとって日本磁石市場の2035年展望を理解することは、単なる市場規模予測を確認することではなく、自社がどの用途・技術・顧客領域に資本を配分し、どのサプライチェーンリスクを低減し、どの高付加価値領域で競争優位を構築するかを判断するための戦略的インプットとして重要性を増しています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "フラーレン市場は2035年に9億7,035万米ドル規模へ、CAGR 6.02％を記録｜抗酸化成分・次世代スキンケア・電子材料への応用が市場成長を後押し",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "ビューファインダー市場は2035年に29億米ドルへ拡大、CAGR 5.5％で進むカメラ光学技術の進化と高精度撮影需要",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の永久磁石市場は、希土類鉱業、精製、高性能磁石製造における中国の圧倒的な地位を背景に、2025年には178億2000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの永久磁石市場は、電気自動車製造、再生可能エネルギー設備の設置、産業オートメーションの急速な成長に牽引され、2025年には14億3000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の永久磁石市場は、高性能磁性材料、精密製造、先進的な自動車技術における日本のリーダーシップに支えられ、2025年には22億4000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の永久磁石市場は、予測期間中に年平均成長率（CAGR）9.12%で成長すると予想されており、地域市場の中で最も急速に成長する市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の永久磁石市場は、電気自動車製造の拡大、風力発電プロジェクトの導入拡大、国内の希土類加工インフラへの投資増加を背景に、2025年には27億1000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの永久磁石市場は、重要鉱物資源開発の拡大、クリーンエネルギー投資の増加、電動輸送への需要の高まりに支えられ、2025年には4億8000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.34%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、電動車の駆動モーターの世界市場は 2030 年において、2020 年の約５倍の２",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "兆円を超える市場規模となることが予測されている9",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 国内の洋上風力発電の市場規模予測は2020 年度20 億円から2030 年度9,200 億円にまで増加することの試算もある",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2005年の永久磁石の国内市場規模は、約929億円という実績で、希土類磁石は約645億円、出荷金額全体の70％を占め、このうち95％がネオジム系の希土類磁石である",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExは、電動モビリティ、風力エネルギー、ロボティクス分野での需要増加に伴い、希土類磁石の世界的な生産量が急増し、2036年には年間収益が92億ドル規模に達すると予測しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "磁性材料市場：市場規模・成長と2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "磁性材料市場規模と予測（2021年～2034年）、世界および地域別の成長機会分析、地域別分析（北米、欧州、アジア太平洋、南米・中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "磁性材料市場規模は、2025年の370億9,000万米ドルから2034年には714億米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年から2034年にかけて年平均成長率（CAGR）7.55%を記録すると推定されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2025",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 37.09 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模別 2034",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 71.4 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "磁石の日本市場（2026年～2034年）、市場規模（フェライト、ネオジム鉄ホウ素（NdFeB）、アルミニウムニッケルコバルト（AlNiCo）、サマリウムコバルト（SmCo）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "磁石の日本市場（2026年～2034年）、市場規模（フェライト、ネオジム鉄ホウ素（NdFeB）、アルミニウムニッケルコバルト（AlNiCo）、サマリウムコバルト（SmCo）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本の磁石市場規模は26億米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度内に岐阜県中津川工場に約15億円を投じ、磁石の生産設備を導入します",
+    "url": "https://www.neomag.jp/mag_navi/column/world034.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2030年度までに総額50億円を投資し生産能力を強化します",
+    "url": "https://www.neomag.jp/mag_navi/column/world034.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場が2025年の26億米ドルから2035年に34億米ドルへ拡大する見通しのなか、企業にとって重要なのは市場全体の成長率だけではなく、どの磁石カテゴリー・用途・技術領域で平均を上回る成長機会が生まれるのかを特定し、研究開発投資、設備投資、製品ラインアップ、顧客開拓を連動させることです",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "これは、電気自動車およびハイブリッド車、エレクトロニクス、ロボット工学、産業用オートメーション、再生可能エネルギーシステムにおける磁石需要の高まりに支えられ、2026年から2035年にかけて年平均成長率（CAGR）3.00％で拡大すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた日本磁石市場は、EV、産業ロボット、再生可能エネルギー、高効率家電など複数の需要分野に支えられ、緩やかながら持続的な拡大が予測される",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年の26億米ドルから2035年には34億米ドルへ拡大し、2026～2035年にCAGR 3.00％で成長すると予測されており、今後の市場発展を評価するうえでは、単純な数量成長だけでなく、どの最終産業が高機能磁石への需要を生み出すのかを把握することが企業戦略上の重要な論点となります",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本磁石市場を評価する際には、自動車やロボットなどの完成品市場の成長率だけを見るのではなく、電動化・自動化によって1台・1システム当たりの磁石使用量や高性能磁石の採用機会がどのように変化するかを分析することが、2035年までの需要ポテンシャルを見極めるうえで重要になります",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場が2025年の26億米ドルから2035年に34億米ドルへ拡大する見通しのなか、企業にとって重要なのは市場全体の成長率だけではなく、どの磁石カテゴリー・用途・技術領域で平均を上回る成長機会が生まれるのかを特定し、研究開発投資、設備投資、製品ラインアップ、顧客開拓を連動させることです",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月、ニロン・マグネティックス社は、希土類元素を含まない永久磁石の生産を大幅に拡大するため、米国に最大18億米ドルを投じて大規模生産施設を建設する計画を発表した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月、ノベオン・マグネティックスは、米国における希土類永久磁石の製造能力を拡大し、自動車、産業、防衛用途向けの国内サプライチェーンを強化するために、2億1500万米ドルを調達した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "19 この報告書において、商務省が永久磁石について通商拡大法第232 条調査を行うか検討する旨の記載があり、商務省が、232 条調査に",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、米国においては、永久磁石について、通商拡大法第 232 条に基づき調査を実施する",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の 2030 年の世界需要は、2020 年に対して約２倍以上と急拡大することが",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20数年前に開発されてから生産は拡大の一途をたどり、現在、出荷金額ではフェライト磁石を抜いて最大のシェアを占めるまで成長している",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場では2004年は希土類磁石の成長がめざましく、生産量は前年比79%増の27,000トンに達している",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "その内訳は、ネオジム焼結磁石の生産量は前年同期比83%増の25,000トン、ネオジムボンド磁石の生産量は前年比15%増の1,600トン、サマリウム・コバルト磁石の生産量は前年同期比95%増の400トンである",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "供給の先行きが不透明な中でも、希土類磁石の年間需要は今後10年でほぼ倍増すると見られており、希土類磁石市場が発展を遂げるための土台は整っています",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカは既に世界の希土類酸化物の11%を生産しており、下流の精製能力や磁石生産能力の拡大に向けた取り組みを進めています",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechExでは、アメリカの磁石生産能力が2036年までに5.9倍に拡大すると予測しています",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "このパートナーシップにおいて、MPマテリアルズは磁石製造施設を新たに建設し、2030年までに最大生産能力を年間1万トンにまで拡大させる見通しです",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "欧州重要原材料法（CRMA）の施行を受けて、2030年までに域内需要の40%の希土類を域内で加工するという目標を達成すべく取り組みが進められていることから、域内の磁石生産能力は2036年までに3.1倍に増大する見通しです",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026年から2034年にかけて年平均成長率（CAGR）7.55%を記録すると推定されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なCAGR (2026 - 2034)",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、この市場が2034年までに34億米ドルに達し、2026年から2034年の間に3.00%の年平均成長率（CAGR）で成長すると予測しています",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Rare Earth Magnet Market Size was estimated at 27.78 USD Billion in 2024. The Rare Earth Magnet industry is projected to grow from 29.71 USD Billion in 2025 to 58.01 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 6.92% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "The rare earth magnet market size is projected to grow at 6.92% CAGR from 2025 to 2035, driven by advancements in",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Rare Earth Magnet Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Rare Earth Magnet Market during the forecast period 2025 - 2035 is 6.92%.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "The Permanent Magnet Market was valued at USD 14.38 billion in 2025, is projected to reach USD 16.71 billion in 2026, is expected to grow at an 11.8% CAGR (2026–2035), and is projected to reach USD 45.60 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.8% CAGR automotive segment 2026–2035; BEV sub-segment projected to USD 14.28B by 2035",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.0% CAGR offshore wind segment 2026–2035; PMSG adoption rises as turbine ratings scale past 5 MW",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mexico represented 30.2% of Latin American demand in 2025 and is projected to grow at an approximately 13.3% CAGR (2026–2035). Its role in North American automotive supply chains gives demand greater connection to OEM production planning than to domestic consumer adoption alone. That position can make Mexico a practical beneficiary of nearshoring and regional component localization.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE represented 17.6% of Middle East & Africa demand in 2025 and is projected to grow at an approximately 22.7% CAGR (2026–2035). Clean-energy investment and advanced-manufacturing development support the country's above-average outlook. Its role as a regional technology and logistics hub may also strengthen demand for industrial automation and equipment components.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 45.60 billion by 2035, growing at a CAGR of 11.8% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Permanent Rare Earth Magnets Market was estimated at 20.09 USD Billion in 2024. The Permanent Rare Earth Magnets industry is projected to grow from 21.27 USD Billion in 2025 to 37.71 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 5.89% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "The Permanent Rare Earth Magnets Market is projected to grow at a 5.89% CAGR from 2025 to 2035, driven by advancements in electric vehicles, renewable energy, and consumer electronics.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Permanent Rare Earth Magnets Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the market during this period is 5.89%.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, registering a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 7.0% | USD Billion",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and is forecast to grow at a CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global heavy rare earth-free magnet revenue in 2025 and is projected to grow at a CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global market share in 2025 and is growing at",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025, with a relatively premium value contribution and a forecast CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025 and a forecast CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、高性能磁石の開発、垂直統合された希土類サプライチェーン、精密な製造能力、および研究開発への継続的な投資を通じて競争しています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境についても、市場構造、主要企業のポジショニング、トップの成功戦略、競争ダッシュボード、企業評価象限などを含む包括的な分析が提供されています",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、全ての主要企業に関する詳細なプロファイルも掲載されています",
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Rare Earth Magnet Market include",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Rare Earth Magnet Market?",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include China Northern Rare Earth Group, Shin-Etsu Chemical, and Hitachi Metals, among others.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in permanent magnet market?",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in permanent magnet market include Shin-Etsu Chemical Co., Ltd., Proterial Ltd., TDK Corporation, Zhong Ke San Huan, JL MAG Rare-Earth Co., Ltd..",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. is home to key players like MP Materials and General Motors, which are investing heavily in rare earth magnet production. Canada is also emerging as a significant player with Lynas Corporation. The competitive landscape is characterized by a focus on innovation and sustainability, with companies striving to reduce environmental impacts while meeting growing demand.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Germany leads in production and innovation, with companies like Shin-Etsu Chemical and Hitachi Metals establishing strong footholds. France is also investing in rare earth magnet technologies, enhancing its competitive landscape. The presence of key players and supportive regulations are propelling Europe towards a sustainable future in rare earth magnet production.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "and high-performance magnets. The competitive landscape is marked by major players such as China Northern Rare Earth Group and Toshiba Corporation, which are continuously innovating to meet global demand while addressing environmental concerns.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "South Africa is leading the charge with initiatives to develop its rare earth resources, while Morocco is also making strides in this sector. The competitive landscape is still developing, with local and international players looking to capitalize on the region's untapped potential in rare earth magnet production.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Permanent Rare Earth Magnets Market include",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "What role do key players like Lynas Corporation and MP Materials play in the market?",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Key players such as Lynas Corporation and MP Materials are instrumental in driving innovation and market growth.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, TDK Corporation, and Shin-Etsu Chemical led the competitive landscape",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the major players in the heavy rare earth-free magnet market?",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players / Examples",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Arnold Magnetic Technologies, ADAMS Magnetic Products Co., Bunting Magnetics Co., Eclipse Magnetics Ltd. (Spear & Jackson), Ningbo Ninggang Permanent Magnetic Materials Co., Ltd., Ningbo Ketian Magnet Co. Ltd., Thomas & Skinner Inc., and others.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the Rare Earth Magnet market include Arnold Magnetic Technologies, ADAMS Magnetic Products Co., Bunting Magnetics Co., Eclipse Magnetics Ltd. (Spear & Jackson), Ningbo Ninggang Permanent Magnetic Materials Co., Ltd., Ningbo Ketian Magnet Co. Ltd., Thomas & Skinner Inc., and others.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場が、電動化と産業の高度化を背景に新たな成長段階を迎えようとしている",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、自動車産業の電動化、製造現場の省人化、エネルギー効率の改善が進むなか、磁石に求められる性能と調達条件が大きく変化している",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は、既存産業における安定した需要を基盤としながら、次世代モビリティや高度な産業機器向けの需要拡大によって成長すると見込まれる",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は、日本磁石市場の中長期的な需要を左右する主要分野の一つである",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場において、ネオジム磁石などの希土類永久磁石は、高性能モーターや精密機器に不可欠な材料として重要性を増している",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車産業における電動化の進展に加え、ロボット工学、工場自動化、精密機械、クリーンエネルギー技術への投資が、高性能永久磁石に対する持続的な需要を生み出しています",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "• Shin-Etsu Chemical Co., Ltd.",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "• TDK Corporation",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場が、電動化と産業の高度化を背景に新たな成長段階を迎えようとしている",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査によると、日本磁石市場は2025年の26億米ドルから2035年には34億米ドルに拡大し、2026年から2035年の予測期間に年平均成長率（CAGR）3.00％で成長する見通しである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、自動車産業の電動化、製造現場の省人化、エネルギー効率の改善が進むなか、磁石に求められる性能と調達条件が大きく変化している",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場はなぜ2035年まで成長を続けるのか――成熟した製造業市場に生まれる新たな需要と高付加価値化の機会",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は、既存産業における安定した需要を基盤としながら、次世代モビリティや高度な産業機器向けの需要拡大によって成長すると見込まれる",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は、日本磁石市場の中長期的な需要を左右する主要分野の一つである",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場において、ネオジム磁石などの希土類永久磁石は、高性能モーターや精密機器に不可欠な材料として重要性を増している",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本磁石市場は2025年に26億米ドルの規模となり、2035年までに34億米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車産業における電動化の進展に加え、ロボット工学、工場自動化、精密機械、クリーンエネルギー技術への投資が、高性能永久磁石に対する持続的な需要を生み出しています",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "• Shin-Etsu Chemical Co., Ltd.",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "• TDK Corporation",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "日本永久磁石市場分析",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の永久磁石市場は、高性能磁性材料、精密製造、先進的な自動車技術における日本のリーダーシップに支えられ、2025年には22億4000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料革新と次世代磁石技術への継続的な投資は、日本がプレミアム永久磁石の主要生産国としての地位をさらに強化するでしょう",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Proterial, Ltd.(Japan)",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Daido Steel Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Astemo, Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Proterial, Ltd.(Japan) · TDK Corporation (Japan) · Shin-Etsu Chemical Co., Ltd. (Japan) · VACUUMSCHMELZE GmbH & Co. KG (Germany) · Arnold Magnetic Technologies (US)",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場をリードする企業は、プロテリアル株式会社、TDK株式会社、信越化学工業株式会社です",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "れが発生する等の事態が生じたこと、永久磁石の生産企業が主に中国、日本の２か国に偏っ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "石製造が可能な中国企業が大幅な生産能力増強 を行うことにより日本のシェアが低下し続",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "久磁石の日本における用途としては、現在、自動車（43％） 、産業機械（23％） 、ＨＤＤ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるエネルギーミックスに占める割合のうち風力発電は2019 年 0.7％から2030 年に５％まで増加させるこ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ては、日本が一定のシェア及び強みを有する分野だが、海外メーカーは、コスト競争力を",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の世界市場 （生産量） における日本企業のシェアは、2021 年において、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ーについて、2020 年の世界シェア（生産台数）において日本企業が約半数を占めてい",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動モーターは日本企業のネオジム磁石が搭載されていると考えられること、海外自動",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "車メーカーでも日本企業の磁石利用もあることから、電動車駆動モーターにおいては、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自国内で実施できる国であり、日本企業よりも低コストで永久磁石を製造することが",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しており、このままでは 2025 年には日本企業の世界シェアは 10％を下回ることが予",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "過去 10 年以上、日本におけるサマリウム需要が 80 トン程度14とされていることか",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、日本におけるサマリウムコバルトの 生産量は、多くても数百トンで横ばいになっ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に中国及び日本であり、中国は、自国内で一貫して製造できることから 、そのコス",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の年間生産量は、2,400 トンとされており16、日本のシェアは、10％を下回っていると",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代から70年代にかけて、より小さく、より強力な磁石が求められるようになり、希土類のサマリウムを原料とするサマリウム・コバルト磁石が開発された（1967年に米・デイトン大学、1973年に信越化学工業）",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "サマリウム・コバルト磁石の用途が広がるにつれて、更に強い磁力を持った磁石の研究が進み、1983年に開発（住友特殊金属：現NEOMAX）されたのがネオジウム・鉄・ボロンを主成分とするネオジム磁石である",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "希土類磁石の世界市場における日本メーカーのシェアは高く、生産量の約50％強を占めているとみられ、その生産量は約13,000～14,000トン程度と推定される",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、地球温暖化対策で風力発電機の永久磁石化が進行しているが、特に日本において小型から大型のものまで永久磁石発電機の採用が進み、今後の成長が期待できる分野となっている",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "表4 永久磁石の売上高推移（資料：日本電子材料工業会）",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、ネオジム・鉄・ホウ素（NdFeB）セグメントは、その極めて高い磁力、コンパクトなサイズ、および小型化と高効率化された用途への適性を背景に、日本の磁石市場を独占しました",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の規模、シェア、トレンド分析レポート：タイプ別（ネオジム鉄ホウ素（NdFeB）、サマリウムコバルト（SmCo）、フェライト、アルニコ）、材料別（希土類磁石、結合磁性材料、フェライト磁石、ネオジム（NdFeB）、サマリウムコバルト（SmCo）、フェライト（セラミック））、エンドユーザー別（自動車、再生可能エネルギー、産業、家電、航空宇宙・防衛、医療、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に74.68%の市場シェアを占め、永久磁石市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム鉄ホウ素（NdFeB）セグメントは、その優れた磁気強度、高いエネルギー密度、および小型アプリケーションにおける優れた性能により、2025年には67.8%のシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "希土類磁石分野は、その優れた磁力、コンパクトなサイズ、そして電気自動車、風力タービン、産業オートメーション、家電製品などにおける幅広い用途により、2025年には73.5%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、永久磁石同期モーターを使用する電気自動車およびハイブリッド車の生産増加により、2025年には34.7%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）によると、中国は世界の希土類鉱業の約70％、希土類処理能力の約90％を占めており、永久磁石生産におけるリーダーシップを確固たるものにしている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の永久磁石市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に74.68%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "める電気自動動車のシェアについて2021 年は約８％に過ぎないが、2025 年で約 16％、2030 年では約 33％となることが試算されている",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるエネルギーミックスに占める割合のうち風力発電は2019 年 0.7％から2030 年に５％まで増加させるこ",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石の世界市場 （生産量） における日本企業のシェアは、2021 年において、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約 15％、ドイツ企業のシェアは、約１％、残りを中国企業が占めている状況にあり、",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ーについて、2020 年の世界シェア（生産台数）において日本企業が約半数を占めてい",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しており、このままでは 2025 年には日本企業の世界シェアは 10％を下回ることが予",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の年間生産量は、2,400 トンとされており16、日本のシェアは、10％を下回っていると",
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20数年前に開発されてから生産は拡大の一途をたどり、現在、出荷金額ではフェライト磁石を抜いて最大のシェアを占めるまで成長している",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年の永久磁石の国内市場規模は、約929億円という実績で、希土類磁石は約645億円、出荷金額全体の70％を占め、このうち95％がネオジム系の希土類磁石である",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "希土類磁石の世界市場における日本メーカーのシェアは高く、生産量の約50％強を占めているとみられ、その生産量は約13,000～14,000トン程度と推定される",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "次いで、家電、音響がそれぞれ13％を占めるが、家電は省エネ対応でエアコンのコンプレッサなどに採用され、音響はスピーカやヘッドフォンで伸びている",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車が11％を占めているが、地球温暖化対策として永久磁石式モータ・発電機がHEV車に搭載され今後の成長分野である",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "図3 ネオジム磁石用途別シェア（2005年）（日本メタル経済研究所データを参考に作成）",
+    "url": "https://cmcre.com/archives/530/",
+    "pass": 3
+   },
+   {
+    "quote": "、産業オートメーション、家電製品、風力エネルギーの分野でクリティカルマテリアルとされている希土類磁石は、2025年には世界の生産量の90%を中国が占める見込みです",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "2025年を見ると、世界の希土類精鉱の酸化物分離プロセスでは88%を中国が占めており、続く上位の生産国と比較しても重量ベース生産量の差は桁違いです",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "材料コストはネオジム磁石の総生産コストの55%以上を占めており、耐熱性と飽和保磁力の向上を目的として使用する重希土類（ジスプロシウムとテルビウム）の価格はそれぞれ250ドル/kg、880ドル/kgを上回ります",
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 75-80% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "China accounted for more than 70% of global rare-earth extraction and 87% of all processing in 2024, including sole commercial production of dysprosium and terbium",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolitical-risk premium embedded; ex-China diversification moderates but does not eliminate concentration risk through 2035",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Corporation accounted for 5.2% of market revenue in 2025. Its portfolio across NdFeB and ferrite materials provides exposure to automotive, electronics, and industrial customers, helping it balance rare-earth-linked performance categories with applications where ferrite retains a durable role.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the permanent magnet market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is witnessing significant growth in the Permanent Rare Earth Magnets Market, driven by increasing demand in electric vehicles and renewable energy sectors. The U.S. holds the largest market share at approximately 45%, followed by Canada at around 25%. Regulatory support for sustainable mining practices and domestic production is further catalyzing market expansion.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "Sintered Magnets are expected to dominate, with a valuation projected between 10.0 and 19.0 USD Billion.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the global heavy rare earth-free magnet market in 2025, contributing",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global market share in 2025 and is growing at",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "segment was the undisputed market leader by product type in 2025, commanding a revenue share of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025, with a relatively premium value contribution and a forecast CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025 and a forecast CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025, is uniquely strategically sensitive and is growing at a CAGR of",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": ", a subsidiary of Neo Performance Materials, dominates the global market for rapidly quenched NdFeB magnet powder, which is used in bonded magnet production. Magnequench has been actively developing HREE-free bonded magnet powder formulations optimized for injection-molded applications in automotive sensors and consumer electronics, with commercial launches planned for late 2026.",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.2 Global Heavy Rare Earth-Free Magnet Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "NdFeB magnets dominate the magnet type at 85.0% in 2025, while China commands a dominant 55.0% regional share in 2025, reflecting its vertically integrated rare earth supply chain.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "NdFeB magnets dominate the magnet type at 85.0% in 2025, owing to their unmatched magnetic energy product and broad applicability across EV motors, electronics, power generators, and wind applications. SmCo magnets (15.0%) command premium pricing in high-temperature and mission-critical defense, aerospace, and medical device applications where no viable substitute exists.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "dominate because of their superior energy product (up to 52 MGOe), enabling compact motor designs critical for EV range optimization, drone efficiency, and miniaturized electronics. Growing global EV penetration, driven by regulatory mandates across the EU, China, and USA, reinforces NdFeB magnet market leadership through the forecast period.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "China currently dominates the Rare Earth Magnet market, accounting for a share of 55.0%. China's vertically integrated rare earth supply chain, dominant EV production, and large-scale sintered NdFeB magnet manufacturing infrastructure underpin this commanding regional position.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月には、JOGMECと岩谷産業がフランスのCaremagによるレアアース精製事業への出資と長期供給契約を発表した",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場における主要な投資および資金調達活動、2026年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Department of Energy selected rare earth processing projects in Louisiana and Oklahoma for USD 134 million in funding. The projects focus on recovering rare earth elements from waste streams and strengthening the domestic supply chain for rare earth magnet manufacturing.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE represented 17.6% of Middle East & Africa demand in 2025 and is projected to grow at an approximately 22.7% CAGR (2026–2035). Clean-energy investment and advanced-manufacturing development support the country's above-average outlook. Its role as a regional technology and logistics hub may also strengthen demand for industrial automation and equipment components.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The US Department of Defense announced strategic funding support to North America's largest rare earth producer, MP Materials, including capital investment exceeding $400 million and NdPr price floor commitments, to bolster domestic rare earth magnet supply.",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034, underpinned by continued manufacturing scale-up, infrastructure investment, and the region's central role in global electronics supply chains.",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "is a dominant global supplier of NdFeB magnet materials and in 2025 invested in expanded capacity for its proprietary grain-boundary diffusion technology, which reduces HREE content in NdFeB grades by up to 50% while maintaining equivalent coercivity, effectively bridging the market between conventional NdFeB and fully HREE-free alternatives.",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (18.2%), Europe (14.6%), and the USA (12.2%) follow, driven by high-performance specialty magnet demand, EV drivetrain localization initiatives, and strategic supply chain diversification investments in response to China's April 2025 export controls on NdFeB and SmCo magnet materials.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "The US DoD's USD 400 million commitment to MP Materials in 2025, EU Critical Raw Materials Act provisions, and Japan's rare earth stockpiling programs are catalyzing new magnet manufacturing capacity outside China, creating greenfield investment opportunities.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Growing end-of-life EV and wind turbine volumes are creating a scalable rare earth magnet recycling market. By 2040, an estimated 240,000 tonnes shortage in rare earth magnets is projected, driving commercial recycling urgency and investment.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Growing environmental concerns and strategic supply security imperatives are converging to accelerate rare earth magnet recycling. The US Department of Energy has committed research funding to domestic recycling programs. As EV and wind turbine end-of-life volumes grow through the 2030s, recycled rare earth content will become a meaningful supply component.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and aerospace SmCo demand; EV transition; USD 400M DoD investment in domestic rare earth magnet supply chain resilience in 2025",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2021, Ningbo Jintian Copper Group invested approximately 600 million yuan to develop a high-performance rare earth permanent magnet materials and devices project, aimed at expanding production capacity and meeting rising demand from high-end downstream industries.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, reflecting consistent demand from global electrification, renewable energy, and industrial automation investment.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "China's April 2025 export controls on NdFeB and SmCo magnet materials caused immediate supply disruptions, triggering a 660% export surge to the USA in June 2025 following trade negotiations. The controls have accelerated strategic investment in ex-China rare earth magnet supply chains across the USA, Europe, Japan, and Australia.",
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "磁性材料市場 の 規模 、シェアおよび調査レポート 2025年 ... — 磁性材料市場 の 規模 、シェアおよび調査レポート 2025年 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "磁性材料市場 の規模、シェアおよび調査レポート 2025年 ... — 磁性材料市場 の規模、シェアおよび調査レポート 2025年 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "熱間加工 ネオジム磁石 - NeoMag — 熱間加工 ネオジム磁石 - NeoMag ネオマグ株式会社 https://www.neomag.jp > mag_navi > column > world034",
+    "url": "https://www.neomag.jp/mag_navi/column/world034.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.00",
+    "url": "https://newscast.jp/smart/news/9399503",
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | NEWSCAST"
+   },
+   {
+    "value": "3.00",
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "quote": "日本磁石市場は2035年に34億米ドルへ拡大、CAGR 3.00％、電動車・再生可能エネルギー・高性能磁性材料の需要が市場成長を牽引 | 株式会社レポートオーシャン"
+   },
+   {
+    "value": "8.34",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです"
+   },
+   {
+    "value": "7.55",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "quote": "市場は2026年から2034年にかけて年平均成長率（CAGR）7.55%を記録すると推定されています"
+   },
+   {
+    "value": "6.92",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "quote": "As per Market Research Future analysis, the Rare Earth Magnet Market Size was estimated at 27.78 USD Billion in 2024. The Rare Earth Magnet industry is projected to grow from 29.71 USD Billion in 2025 to 58.01 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 6.92% during the f"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "quote": "The market is projected to reach USD 45.60 billion by 2035, growing at a CAGR of 11.8% from 2026 to 2035."
+   },
+   {
+    "value": "5.89",
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "quote": "As per Market Research Future analysis, the Permanent Rare Earth Magnets Market was estimated at 20.09 USD Billion in 2024. The Permanent Rare Earth Magnets industry is projected to grow from 21.27 USD Billion in 2025 to 37.71 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 5"
+   },
+   {
+    "value": "7.0",
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "quote": "CAGR: 7.0% | USD Billion"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "37.09",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "quote": "US$ 37.09 Billion"
+   },
+   {
+    "value": "71.4",
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "quote": "US$ 71.4 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/9399503",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9399503",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/anzen_anshin/02-10_20231020_meti_8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cmcre.com/archives/530/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3762300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zhmag.com/japanese/characteristics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/news/press/AA5_101765.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proterial.com/press/2025/n0722b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neomag.jp/mag_navi/column/world034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5207/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/rare-earth-magnets-market-119249",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/North-America",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/rare-earth-elements-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/rare-earth-magnet-market-102834",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/rare-earth-magnets-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newsobserver.com/news/business/article312755377.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://vulcanelements.com/company/updates/rare-earth-magnet-maker-key-for-pentagon-policy-wins-new-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsj.com/business/rare-earth-magnet-startups-seal-1-4-billion-deal-with-trump-administration-8184b9ae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bloomberg.com/news/articles/2026-01-15/trump-national-security-mandate-boosts-us-rare-earth-startups",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "磁性材料（ネオジム磁石・重希土フリー） 市場規模 年平均成長率",
+   "results": [
+    "https://newscast.jp/smart/news/9399503",
+    "https://www.atpress.ne.jp/news/9399503",
+    "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market",
+    "https://www8.cao.go.jp/cstp/anzen_anshin/02-10_20231020_meti_8.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-119249",
+    "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "https://www.reportocean.co.jp/industry-reports/japan-magnet-market",
+    "https://www.zionmarketresearch.com/ja/report/permanent-magnet-market",
+    "https://www.marketreport.jp/magnetic-materials-market"
+   ]
+  },
+  {
+   "query": "磁性材料（ネオジム磁石・重希土フリー） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www8.cao.go.jp/cstp/anzen_anshin/02-10_20231020_meti_8.pdf",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "https://cmcre.com/archives/530/",
+    "https://www.mordorintelligence.com/ja/industry-reports/magnetic-materials-market",
+    "https://newscast.jp/smart/news/9399503",
+    "https://www.idtechex.com/ja/research-article/how-technology-innovations-are-driving-rare-earth-magnet-market-growth/33835",
+    "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "https://www.theinsightpartners.com/ja/reports/magnetic-materials-market",
+    "https://www.atpress.ne.jp/news/3762300"
+   ]
+  },
+  {
+   "query": "磁性材料（ネオジム磁石・重希土フリー） 参入 企業 国内",
+   "results": [
+    "https://www8.cao.go.jp/cstp/anzen_anshin/02-10_20231020_meti_8.pdf",
+    "https://www.zhmag.com/japanese/characteristics.html",
+    "https://www.nedo.go.jp/news/press/AA5_101765.html",
+    "https://www.meti.go.jp/policy/economy/economic_security/magnet/magnet_hoshin_260331.pdf",
+    "https://www.proterial.com/press/2025/n0722b.html",
+    "https://www.neomag.jp/mag_navi/column/world034.html",
+    "https://metoree.com/categories/5207/",
+    "https://engineer-education.com/neodymium-alternative-technology/",
+    "https://mono.ipros.com/cg1/%E7%A3%81%E7%9F%B3/%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9/",
+    "https://www.sagami-magnet.co.jp/2026/08/24/15917"
+   ]
+  },
+  {
+   "query": "rare earth free magnet market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/rare-earth-magnets-market-119249",
+    "https://www.marketresearchfuture.com/reports/rare-earth-magnet-market-25256",
+    "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/North-America",
+    "https://www.grandviewresearch.com/industry-analysis/rare-earth-elements-market",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-rare-earth-free-permanent-magnet-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "https://www.persistencemarketresearch.com/market-research/rare-earth-magnets-market.asp",
+    "https://www.adlittle.com/sites/default/files/viewpoints/ADL%20Future%20outlook%20rare%20earth%20magnets%202026.pdf",
+    "https://www.expertmarketresearch.com/reports/rare-earth-magnet-market"
+   ]
+  },
+  {
+   "query": "rare earth free magnet market key players competitive landscape",
+   "results": [
+    "https://www.fortunebusinessinsights.com/rare-earth-magnets-market-119249",
+    "https://www.businessresearchinsights.com/market-reports/rare-earth-magnet-market-102834",
+    "https://www.mordorintelligence.com/industry-reports/rare-earth-magnets-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/rare-earth-magnets-market/North-America",
+    "https://www.marketresearchfuture.com/reports/permanent-rare-earth-magnets-market-39996",
+    "https://www.linkedin.com/pulse/north-america-rare-earth-magnet-market-share-exclusive-efjkc",
+    "https://dataintelo.com/report/heavy-rare-earth-free-magnet-market",
+    "https://www.imarcgroup.com/rare-earth-magnet-manufacturing-plant",
+    "https://www.iea.org/reports/rare-earth-elements/executive-summary",
+    "https://dataintelo.com/report/rare-earth-free-permanent-magnet-market"
+   ]
+  },
+  {
+   "query": "rare earth free magnet startup funding 2025",
+   "results": [
+    "https://www.newsobserver.com/news/business/article312755377.html",
+    "https://vulcanelements.com/company/updates/rare-earth-magnet-maker-key-for-pentagon-policy-wins-new-funding",
+    "https://www.wsj.com/business/rare-earth-magnet-startups-seal-1-4-billion-deal-with-trump-administration-8184b9ae",
+    "https://www.linkedin.com/posts/jeffcooper_us-awards-14b-to-rare-earth-startups-for-activity-7391294346483945472-g8B6",
+    "https://www.bloomberg.com/news/articles/2026-01-15/trump-national-security-mandate-boosts-us-rare-earth-startups",
+    "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "https://peterson.ventureradar.com/funding/rare%20earth%20elements",
+    "https://netzeroinsights.com/resources/rare-earth-magnet-recycling-startups/",
+    "https://greenstocksresearch.com/rare-earths-stocks/",
+    "https://nironmagnetics.com/niron-magnetics-awarded-52-million-to-advance-us-rare-earth-free-magnet-manufacturing/"
+   ]
+  }
+ ],
+ "missing": {}
+}

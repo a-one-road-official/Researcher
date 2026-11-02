@@ -1,0 +1,810 @@
+{
+ "name": "ダブルスタンダード",
+ "aliases": [],
+ "context": "証券コード3925／情報・通信業／プライム（内国株式）／2026.03期 売上高7,011百万円 営業利益率24.6%",
+ "researched_at": "2026-11-02T16:59:45.256944+00:00",
+ "official_url": "https://dsc-nightstore.com/",
+ "identified_by": "search:yahoo_jp:ダブルスタンダード",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2012年 （平成24年） 6月6日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "企業向けビッグデータの生成・提供 データ生成過程で培った技術を活用したサービス企画・システム開発",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,997,206千円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "51名（正社員27名）※2017年3月末時点",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "すべてのサービスを一時停止させていただいております",
+    "url": "https://dsc-nightstore.com/",
+    "pass": 1
+   },
+   {
+    "quote": "最近は動画配信サービスがいろいろと増えてきたので、YouTubeに費やす時間も減ったかもしれませんね",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "でもこれって、サービス提供者にとって、典型的な「ダブルスタンダード」のビジネスモデルだと気づきましたか？",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "主要なサービス内容は、企業が日々蓄積している雑多なデータ（紙の申込書、名刺、ウェブサイト上の非構造化テキストデータなど）を、AIと独自のアルゴリズムを用いてクレンジングし、正確で統合されたデータベースを構築して顧客企業に提供することである",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "ビッグデータ分析およびAIソリューション市場全体は、企業のDX投資の加速を背景に年平均成長率が二桁に達する成長産業である",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "競合としては、高度なAI技術を活用したソリューションを提供するPKSHA Technologyや、広範な企業のDX支援を行うチェンジホールディングス、さらには労働集約的なデータ入力代行を強みとするBPO（ビジネス・プロセス・アウトソーシング）企業などが挙げられる 4",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダードが過去において築き上げてきた独自のポジションは、純粋な先端AIアルゴリズムの研究開発に特化するのではなく、実際のビジネス現場で求められる「データクレンジング」という泥臭くも不可欠な工程において、高い精度と処理速度を提供する実務特化型のサービスプロバイダーであるという点にあった",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "多額の有形固定資産の維持更新を必要としないソフトウェア・サービス業の強力なキャッシュ創出能力が如実に表れている",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "四半期ベースで営業利益が前年比35.3%も減少するという異常事態は、単なる景気の波によるものではなく、同社が提供してきたデータクレンジングサービスの技術的優位性や顧客に対する価格決定力が、構造的に毀損し始めている可能性を強く示唆している",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣が危機感をバネにし、同社が長年蓄積してきた「特定業種（不動産・金融等）特有の泥臭い業務ドメイン知識」をフル活用して、汎用AIでは代替できない「特定業務特化型の高度なAIエージェントサービス」へのピボット（事業転換）を成功させた場合",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://double-std.com/ir_news/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産データ提供サービス",
+    "url": "https://double-std.com/ir_news/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://double-std.com/ir_news/library/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産データ提供サービス",
+    "url": "https://double-std.com/ir_news/library/",
+    "pass": 3
+   },
+   {
+    "quote": "データ生成過程で培った技術を活用したサービス企画・システム開発",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "3月 - サービス企画開発事業第一弾「情報変更検知システム」の提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダード、AI搭載型OCRを用いた新サービスを開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "AIOCRサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "eKYCサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "公的個人認証サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "データソリューション",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境のもと、当社はこれまで培ってきたデータ生成・分析技術、業務改善に関する知見、顧客企業の課題に向き合う提案力を生かし、顧客企業の事業成長に直結する先端テクノロジーを各種活用したサービスの提供を推進しております",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、創業来拡大を続けている従来のビッグデータ活用サービスはもちろん、構築されたビッグデータ処理基盤に存在する多くの技術要素を応用転用したDX支援領域の拡大や新サービスの開発を継続実施し、より多様な業界・企業に対して価値提供を行える体制を構築してまいります",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためにも、ソリューション開発のヒントは「現場にある」という観点から、顧客企業の現場課題に真摯に向き合いながら、顧客企業にとって「真に価値を提供できる業者」であり続けます",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産データ提供サービス",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ダブルスタンダードなビジネスモデル – 株式会社プロスキャリア",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダードなビジネスモデル",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "でもこれって、サービス提供者にとって、典型的な「ダブルスタンダード」のビジネスモデルだと気づきましたか？",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "YouTubeの収益モデル",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "これが、YouTubeの「ダブルスタンダード」なビジネスモデルです",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "なお、この「ダブルスタンダード」なビジネスモデルは、もっと広く捉えれば「フリーミアム」にすごく近いです",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、フリーミアムのビジネスモデルの本質は、「フリープラン」で基本的な機能が使えて、「プレミアムプラン」に入るともっと便利な「機能」にグレードアップできるというステップアップ型なので、ダブルスタンダードとは似て非なるものです",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルと収益源",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "まず、対象企業のビジネスモデルが投資家の「理解の輪（Circle of Competence）」に収まるかを検証する",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダードのビジネスモデルは、本質的には「企業のビッグデータ生成と利活用を支援するB2Bデータプロセッシング事業」と定義することができる",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスにおける収益構造は、大きく二つのフェーズから成り立っていると推測される",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの最大の魅力は、一度顧客の基幹業務（例えば、不動産会社の物件情報入力の自動化や、金融機関の顧客審査プロセスの自動化など）に深く組み込まれると、毎月安定したストック収益を生み出す点にある",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のスイッチングコストが極めて高いストック型のビジネスモデルであるにもかかわらず、これほどの短期間で大幅な減収減益に陥るということは、通常の景気循環では説明がつかない",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "今回のケースにおいては、AI技術のパラダイムシフトに伴うビジネスモデルの構造的な劣化リスクを極めて重く見て、最も厳格な",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ユーザーもそんなすぐに離れていかないでしょう",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "そして広告の配信先である「無料版ユーザー」の属性も、かなり細かく絞ってターゲティングできます",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "月額1550円のプレミアムプランに入るユーザーは、YouTube広告は「邪魔」な存在だと思っているからです",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー視点からすればそうなんですが、このプランをYouTube（Google）側が提供していることに違和感を持ちませんか？",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "前の説明では、企業に対して「YouTube広告」はターゲット層を絞って配信できる素晴らしい広告なんですよ！と言って販売しているのにも関わらず、ユーザーに対しては、「邪魔な広告」を排除するために、「プレミアムプラン」に入りませんか？と言っています",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、Googleとしては、自社の一番の売りである「広告」を、ユーザーにとっては「邪魔」な存在だと思っているわけです",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "主要なサービス内容は、企業が日々蓄積している雑多なデータ（紙の申込書、名刺、ウェブサイト上の非構造化テキストデータなど）を、AIと独自のアルゴリズムを用いてクレンジングし、正確で統合されたデータベースを構築して顧客企業に提供することである",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの最大の魅力は、一度顧客の基幹業務（例えば、不動産会社の物件情報入力の自動化や、金融機関の顧客審査プロセスの自動化など）に深く組み込まれると、毎月安定したストック収益を生み出す点にある",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のスイッチングコストが極めて高いストック型のビジネスモデルであるにもかかわらず、これほどの短期間で大幅な減収減益に陥るということは、通常の景気循環では説明がつかない",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "この事象は、スイッチングコストを上回るほどの圧倒的なコストメリットや技術的優位性を提示した競合他社（あるいは顧客企業自身による汎用AIを用いた内製化）によって、収益の柱となっていた大口顧客を喪失したか、あるいは既存顧客からの契約更新時に激しい単価引き下げ圧力を受け、価格決定力を喪失していることを示唆している",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "第1四半期および第2四半期において、売上高が2桁減、営業利益が35%以上減少するという、企業にとって劇的かつ構造的な業績悪化に見舞われているにもかかわらず、その背景にある真の理由（特定の大口顧客の喪失によるものなのか、AI台頭による不可逆的な価格競争の激化なのか）について、投資家が納得できるレベルの定性的な説明が十分になされているとは言い難い",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "四半期ベースで営業利益が前年比35.3%も減少するという異常事態は、単なる景気の波によるものではなく、同社が提供してきたデータクレンジングサービスの技術的優位性や顧客に対する価格決定力が、構造的に毀損し始めている可能性を強く示唆している",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "大規模言語モデル（LLM）やマルチモーダルAIがAPI経由でさらに安価かつ高性能に提供されることで、顧客企業によるデータ処理の内製化が一気に進むシナリオ",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "1月 - ビッグデータ関連事業第一弾「競合企業－顧客獲得状況分析データ生成」の提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に選ばれ続ける、",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2012年の創業以来、「ビッグデータを活用した事業支援カンパニー」として、顧客企業の営業支援、業務改善、マーケティング支援を通じ、企業価値の向上に貢献してまいりました",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境のもと、当社はこれまで培ってきたデータ生成・分析技術、業務改善に関する知見、顧客企業の課題に向き合う提案力を生かし、顧客企業の事業成長に直結する先端テクノロジーを各種活用したサービスの提供を推進しております",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためにも、ソリューション開発のヒントは「現場にある」という観点から、顧客企業の現場課題に真摯に向き合いながら、顧客企業にとって「真に価値を提供できる業者」であり続けます",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "また、株主の皆様、お取引先様、協力会社様、社員をはじめとするすべてのステークホルダーとの信頼関係を大切にし、持続的な企業価値向上と社会への貢献に努めてまいります",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "プレミアムは、月額1550円支払う代わりに、広告は一切表示されません",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "月額1550円のプレミアムプランに入るユーザーは、YouTube広告は「邪魔」な存在だと思っているからです",
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "その後、保守的な前提に基づく割引キャッシュフロー（DCF）法を用いて本質的価値を算出し、現在の市場価格との乖離から安全余裕率を導き出す",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "第二のフェーズは、システム導入後に発生する運用・保守および従量課金による継続的収益（リカーリングレベニュー）である",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "毎月のデータ処理量に応じた従量課金、あるいは月額固定のライセンスや保守費用がこれに該当する",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの最大の魅力は、一度顧客の基幹業務（例えば、不動産会社の物件情報入力の自動化や、金融機関の顧客審査プロセスの自動化など）に深く組み込まれると、毎月安定したストック収益を生み出す点にある",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のスイッチングコストが極めて高いストック型のビジネスモデルであるにもかかわらず、これほどの短期間で大幅な減収減益に陥るということは、通常の景気循環では説明がつかない",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "この事象は、スイッチングコストを上回るほどの圧倒的なコストメリットや技術的優位性を提示した競合他社（あるいは顧客企業自身による汎用AIを用いた内製化）によって、収益の柱となっていた大口顧客を喪失したか、あるいは既存顧客からの契約更新時に激しい単価引き下げ圧力を受け、価格決定力を喪失していることを示唆している",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "一部のデータプロバイダ（AlphaSpread社など）による機械的な算定では、ベースケースの固有価値は1,349.9円と提示されているが 8、ここではより厳格なバリュー投資のアプローチを用い、保守的な前提条件のもとでDCFモデルを独自に構築し、その価値を検証していく",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "直近の急速な減収減益トレンド、およびAIによる技術的陳腐化リスクを重く受け止め、将来の成長シナリオに対しては極めて保守的な（悲観的とも言える）前提を適用する",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "上記の保守的な前提に基づき、将来キャッシュフローの現在価値を算出する",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "独自の保守的なDCF算定によれば、利益成長をゼロとし、現状の劣化した利益水準が永久に続くという極めて厳しい前提を置いた上でさえ、同社の本質的価値は",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "成長率をゼロと仮定した極めて保守的なシナリオで算出した本質的価値（1,715円）に対し、30%の十分なディスカウントを要求する買付上限価格（1,200円）に現在の株価は達していない",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、同社のデータ処理受託量の激減と大幅な単価下落圧力が継続し、EPSは現在の107円から70円台へと落ち込み、将来的には減配を余儀なくされる致命的なリスクがある",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "マージン推移とセグメント収益性",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ブランド/コスト/スイッチングコスト/無形資産/参入障壁",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "同社は過去数年、自己資本利益率（ROE）が30%を超えるという極めて高い資本効率を維持し、営業利益率においても30%を上回る圧倒的な収益性を誇る優良企業として認知されてきた 1",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、その収益性の低下が単なる一時的なつまずきやマクロ経済の循環によるものではなく、企業の根本的な競争優位性（経済的な堀＝モート）の構造的な劣化に起因するものであれば、それは「バリュートラップ（割安の罠）」となる",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "競合としては、高度なAI技術を活用したソリューションを提供するPKSHA Technologyや、広範な企業のDX支援を行うチェンジホールディングス、さらには労働集約的なデータ入力代行を強みとするBPO（ビジネス・プロセス・アウトソーシング）企業などが挙げられる 4",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは5つの観点からダブルスタンダードの競争優位性を解剖する",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "本業の稼ぐ力を示す営業利益率の推移を追うと、同社が直面している試練の大きさが浮き彫りになる",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "過去数年、同社の営業利益率は安定して高水準を維持してきた",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期の営業利益率は32.3%、2025年3月期は32.5%であった 1",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2026年3月期の通期予想では、売上高7,200百万円に対して営業利益が2,100百万円となり、営業利益率は29.1%へと低下する見込みである 5",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）の実績を見ると、売上高3,060百万円に対し、営業利益はわずか762百万円にとどまっており、中間期時点での営業利益率は24.9%にまで急低下している 2",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、直近の四半期単体（10-12月期など）の動向を示すデータでは、営業利益率が23.7%まで落ち込んでいるとの報告もある 1",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダードの経営トップ（清水康裕氏）は、これまで無謀な多角化や、自己顕示欲を満たすための高値での企業買収（M&A）に走ることなく、自社の強みであるデータクレンジング領域にリソースを集中させ、極めて筋肉質で高収益な体質を築き上げてきた",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、利益創出のエンジンである営業利益率がこのまま低下を続ければ、長期的には配当の維持すら困難になり、株主価値は徐々に削り取られていく危険性を孕んでいる",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率が低下トレンドを脱し、再び30%台へと回復基調を見せた時（新たな付加価値による価格決定力の回復の証明）",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年5月10日 08:42",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在の日本市場において、企業のデジタルトランスフォーメーション（DX）とデータ利活用の重要性はかつてないほど高まっている状況にある",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の実績によれば、本業の儲けを示す営業キャッシュフローが1,994百万円であったのに対し、事業維持のための投資キャッシュフローはわずかマイナス138百万円にとどまっており、結果として1,856百万円という潤沢なフリーキャッシュフローを生み出している 1",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期時点の総資産は6,792百万円であり、そのうち純資産は6,082百万円を占めている 2",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期における同社の総資産利益率（ROA）は23.68%という極めて高い水準を記録した 1",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の通期業績予想では、営業利益が前年比19.4%減の2,100百万円にとどまる見通しとなっている 5",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期の営業利益率は32.3%、2025年3月期は32.5%であった 1",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）の実績を見ると、売上高3,060百万円に対し、営業利益はわずか762百万円にとどまっており、中間期時点での営業利益率は24.9%にまで急低下している 2",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期：40.00円",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期：50.00円",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期：55.00円",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期：60.00円",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期(予)：70.00円 3",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結), 5月 9, 2026にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 第１四半期決算短信〔日本基準〕(連結), 5月 9, 2026にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "2015年12月15日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2012年6月 - 設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2018年6月18日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2012年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2015年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ダブルスタンダードなビジネスモデル – 株式会社プロスキャリア — Jun 6, 2023 · これすごくないですか？ これが、YouTubeの「ダブルスタンダード」なビジネスモデルです。 「フリーミアム」とは違う？ なお、この「ダブルスタンダード」なビジネスモデルは、もっと広く捉えれば「フリーミアム」にすごく近いです。",
+    "url": "https://proscareer.co.jp/ダブルスタンダードなビジネスモデル",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】株式会社ダブルスタンダードは『買い』か？ — 収... — May 10, 2026 · 事業のモートが揺らいでいる一方で、財務諸表から読み取れるダブルスタンダードのバランスシートは極めて強固である。 優れた投資機会を探る上で、強固な財務基盤はダウンサイドリスク（株価の致命的な下落）を限定する最大の防波堤として機能する。",
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ダブルスタンダード｜ビッグデータとAIでDXの未来を創る — 2025/10/08 ダブルスタンダードの本人確認サービス「D-Confia」が12月よりiPhoneの「スマートフォン搭載」に随時対応開始〜アプリ不要、パスワード入力不要で手軽な本人確認が可能に～",
+    "url": "https://double-std.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダード(3925) 売上7,010百万円でも営業利益率24.6%へ低下... — Jun 11, 2026 · ダブルスタンダードには、自社サービスを横展開できる会社としての見方と、顧客ごとの業務課題に合わせて開発・運用する会社としての見方がある。 D-Confia、D-Cleanse、D-Fit、D-Justのようなサービス例は、横展開の可能性を見る材料になる。",
+    "url": "https://note.com/hr793/n/ncd6fea9e81e7",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとIR資料から読み解く注目の成長戦略 株式会社ダブルス... — Feb 2, 2025 · ダブルスタンダードはこれらの要望に対応できる体制をあらかじめ整えており、継続的なコンサルティングも含めたサービスを提供しています。 さらに、導入企業との関係を深めることで、追加導入や新サービスの提案も行いやすくなります。",
+    "url": "https://consovation.com/ビジネスモデルとir資料から読み解く注目の成長戦/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社ダブルスタンダード — 決算説明資料 PDFファイルをご覧になるためには最新のAdobe Readerが必要となります。 Adobe Readerはアドビシステムズのサイトより無償でダウンロードできます。",
+    "url": "https://double-std.com/ir_news/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 株式会社ダブルスタンダード — 株式会社ダブルスタンダード （Double Standard Inc.） 〒106-0032 東京都港区六本木 7-15-9 住友不動産六本木セントラルタワー19 F TEL 03-6384-5411",
+    "url": "https://double-std.com/ir_news/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ダブルスタンダード 決算説明資料 — EDINET DB — EDINET DB > 企業一覧 > 株式会社ダブルスタンダード > IR資料 > 決算説明資料 株式会社ダブルスタンダード — 決算説明資料 四半期決算の説明資料。 経営者による業績解説と短期見通し。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認 ...",
+    "url": "https://edinetdb.jp/company/E31957/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダード（3925）のIR情報・決算資料 | IRBANK — May 27, 2026 · 平成29年3月期第1四半期決算短信〔日本基準〕 (連結)（15:00） 業績予想の修正及び配当予想の修正（15:00） 平成29年3月期第1四半期決算説明資料（15:00） 支配株主等に関するお知らせ（15:00） 財務会計基準機構の加入状況等（15:00）",
+    "url": "https://irbank.net/3925/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【ダブルスタンダード】 [3925]IR情報 中期経営計画や決算短信 | 日経... — ダブルスタンダード 現在値 (15:30)： 1,279 円 前日比： －7 (－0.54％) トップ ニュース チャート 株価 業績・財務 市場予想 企業発情報 企業概要 ...",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3925",
+    "pass": 3
+   },
+   {
+    "quote": "3925 ダブルスタンダード | 事業内容 - 有価証券報告書-第11期 (2022/... — 顧客企業の事業の在り方や業務プロセスを洗い出し、関連する競合のWEBサービスとの差異、顧客あるいは取引先とのビジネスフローを詳細に分析したうえで、時間をかけながら世に無い新たなサービスとして企画立案し、導入いたします。",
+    "url": "https://irbank.net/E31957/business?f=S100R4KL",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダード (企業) - Wikipedia — ダブルスタンダード (企業) ... 株式会社ダブルスタンダード （英：Double Standard Inc. ）は、 東京都 港区 に本社を置く企業向け ビッグデータ の生成・提供事業等を行う企業。 JPX日経中小型株指数 の構成銘柄の一つ [1]。",
+    "url": "https://ja.wikipedia.org/wiki/ダブルスタンダード_(企業)",
+    "pass": 3
+   },
+   {
+    "quote": "社長あいさつ - 株式会社ダブルスタンダード — 株式会社ダブルスタンダードの代表取締役 最高経営責任者（CEO）福永康寛よりご挨拶。 ビッグデータの活用やAI技術の進化、DXの進展を背景に、顧客企業の事業成長と企業価値の向上に貢献する当社の取り組みや想いをご紹介します。",
+    "url": "https://double-std.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルスタンダード代表取締役に福永康寛氏 - 日本経済新聞 — May 27, 2026 · ダブルスタンダード 福永 康寛氏（ふくなが・やすひろ）11年（平23年）パワーテクノロジー（現 システムソフト）入社。17年執行役員。25年 ...",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_X20C26A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "福永 康寛（ダブルスタンダード 社長）の経歴・出身・人となり｜社長J... — ダブルスタンダードの社長は福永 康寛さん。2026年に43歳で就任、1983年生まれ。最初の会社はパワーテクノロジーで、ほかの会社を経て入社した社長です。経歴を有価証券報告書と公式の情報でまとめました。",
+    "url": "https://shachojp.com/p/double-standard",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 - 株式会社ダブルスタンダード — 取締役ファウンダー 最高技術責任者 (CTO) 中島正三 1970年1月24日生",
+    "url": "https://double-std.com/company/officer/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "新会員紹介 | 一般社団法人 日本経済団体連合会 / Keidanren",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dsc-nightstore.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://proscareer.co.jp/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://double-std.com/ir_news/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://double-std.com/ir_news/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mit-hd.co.jp/ir-information/keito/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://double-std.com/company/message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダブルスタンダード",
+   "results": [
+    "https://dsc-nightstore.com/c/brand/dsc",
+    "https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E8%A6%8F%E7%AF%84",
+    "https://zozo.jp/shop/doublestandardclothing/?srsltid=AYCX9vIgiJVb6Zqe9Zewnjr05hLH_7jfIb7W5Cj_p9awKNtwe1zTwkjw",
+    "https://www.instagram.com/doublestandard_official/",
+    "https://www.doublestandard.jp/",
+    "https://salonmode.co.jp/c/brand/doublestandardclothing?srsltid=AYCX9vKhWmOm18IWejSANwRRyk09_diTdE_Xg4Jz4QvT7kvcWL1O0D95",
+    "https://www.facebook.com/doublestandardclothing.1999/",
+    "https://dsc-nightstore.com/c/guide/shoplist",
+    "https://scurvestudio.com/?mode=cate&cbid=2863069&csid=10&srsltid=AYCX9vJp7PJ_-JIPMElawODO5FJblOeqvbhUgxHq0nPBEdF35WCCduRp",
+    "https://ja.wikipedia.org/wiki/ダブルスタンダード"
+   ]
+  },
+  {
+   "query": "ダブルスタンダード ビジネスモデル",
+   "results": [
+    "https://proscareer.co.jp/ダブルスタンダードなビジネスモデル",
+    "https://note.com/open_azalea2045/n/n1e4ab7a745bc",
+    "https://double-std.com/",
+    "https://note.com/hr793/n/ncd6fea9e81e7",
+    "https://consovation.com/ビジネスモデルとir資料から読み解く注目の成長戦/",
+    "https://double-std.com/company/dx/",
+    "https://www.firstcvc.jp/company/double-std.com"
+   ]
+  },
+  {
+   "query": "ダブルスタンダード 決算説明資料",
+   "results": [
+    "https://double-std.com/ir_news/library/presentation/",
+    "https://double-std.com/ir_news/library/",
+    "https://edinetdb.jp/company/E31957/presentations/",
+    "https://irbank.net/3925/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3925",
+    "https://finance.yahoo.co.jp/quote/3925.T/financials",
+    "https://www.buffett-code.com/company/3925/library"
+   ]
+  },
+  {
+   "query": "ダブルスタンダード 事業系統図",
+   "results": [
+    "https://mit-hd.co.jp/ir-information/keito/",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "https://www.nitto-kohki.co.jp/company/chart/",
+    "https://irbank.net/E31957/business?f=S100R4KL",
+    "https://seizo-bu.com/qc-pro/新qc7つ道具の使い方/系統図法の作り方（テンプレート付）と事例を知/",
+    "https://mechanic.chansato.com/system-diagram/",
+    "https://xgrapher.com/articles/systematic"
+   ]
+  },
+  {
+   "query": "ダブルスタンダード 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ダブルスタンダード_(企業)",
+    "https://double-std.com/company/message/",
+    "https://www.nikkei.com/article/DGXZQODZ00003_X20C26A5000000/",
+    "https://shachojp.com/p/double-standard",
+    "https://double-std.com/company/officer/",
+    "https://www.zaikai.jp/articles/detail/1915",
+    "https://japaneseinvestor.jp/jilist/company/70/"
+   ]
+  }
+ ],
+ "missing": {}
+}

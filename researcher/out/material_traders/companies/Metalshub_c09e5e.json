@@ -1,0 +1,817 @@
+{
+ "name": "Metalshub",
+ "aliases": [
+  "Metals Hub"
+ ],
+ "context": "金属素材の取引プラットフォーム（独）",
+ "researched_at": "2026-11-02T16:54:54.719310+00:00",
+ "official_url": "https://www.metals-hub.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify enquiry-to-contract, run auctions, discover new customers and allocate the most suited inventory to optimise your netback across offers. On average companies",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 3 new customers",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub is backed internationally proclaimed investors with significant experience in helping Software as a Service (SaaS) companies create lasting value for its customers.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/raw-materials/steel-iron-scrap/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": ", inviting existing customers alongside new buyers from the Metalshub network. Its first bidding round led to a trial shipment with a Chinese buyer CBL had never worked with before.",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "Growing the counterparty base beyond existing suppliers or customers matters.",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/author/samir-jaber/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/customer-stories/cbl-opens-brazils-first-digital-lithium-sales-channel/",
+    "pass": 1
+   },
+   {
+    "quote": "After a swift onboarding of a few days, CBL published its first Request for Bids (RfB) of battery-grade and of technical-grade lithium carbonate. Invitees included both CBL’s own established customers and new lithium buyers already active on Metalshub’s network.",
+    "url": "https://www.metals-hub.com/en/customer-stories/cbl-opens-brazils-first-digital-lithium-sales-channel/",
+    "pass": 1
+   },
+   {
+    "quote": "“We support Metalshub’s important role in enhancing price transparency in the lithium market, where liquidity is still developing. This partnership allows us to ensure efficient and transparent transactions while preserving the close relationships and proximity we value with our customers.”",
+    "url": "https://www.metals-hub.com/en/customer-stories/cbl-opens-brazils-first-digital-lithium-sales-channel/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/alumina-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Producers already run something close to this by phone. One producer described its process as calling customers, asking what they will pay, then giving everyone the same price. That is a price discovery round with no record. Run as a tender, the same round leaves a record of every bid.",
+    "url": "https://www.metals-hub.com/en/blog/alumina-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/raw-material-multiple-trading-modes/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine deal data with freight, financing, and insurance costs to build netback curves. They show which customers, regions, and channels are actually profitable once costs are counted.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond creating a more audit-proof sales process, digitised enquiries provide a rich dataset for meaningful sales analysis. Visualising incoming enquiries across products, customers, and regions enables sales managers to identify patterns, shifts in demand, and early signals of market changes.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "Analysing enquiry-to-offer-to-deal ratios provides valuable insight into sales execution. It highlights how often enquiries are not pursued, where offers fail to convert, and which customers or products consistently underperform.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "This analysis helps identify which customers, regions, or sales channels consistently deliver higher netbacks and which transactions underperform once costs are taken into account. Comparing netback per unit against market reference prices further sharpens this view, allowing sales managers to assess performance not just in absolute terms, but relative to prevailing market conditions.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "builds on the foundations of the Sales Solution. By consolidating all structured sales data into purpose-built analytics dashboards, sales teams gain full visibility across offers, deals, customers, prices, and costs in one place.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/esg-questionnaire/",
+    "pass": 1
+   },
+   {
+    "quote": "ESG due diligence has moved to the centre of supplier onboarding in the steel industry. Buyers increasingly require structured, documented information on compliance, labour rights, environmental impact, and supply chain risk. For suppliers, this often means responding to similar ESG questionnaires from multiple customers, frequently in slightly different formats.",
+    "url": "https://www.metals-hub.com/en/blog/esg-questionnaire/",
+    "pass": 1
+   },
+   {
+    "quote": "For suppliers, the ESG Questionnaire reduces repetitive administrative work. Many suppliers receive multiple ESG questionnaires from different customers that ask for the same information in different formats. Completing a single standard questionnaire on Metalshub creates one structured source of truth that can be maintained and reused across customer relationships.",
+    "url": "https://www.metals-hub.com/en/blog/esg-questionnaire/",
+    "pass": 1
+   },
+   {
+    "quote": "ESG expectations increasingly shape how suppliers are evaluated and onboarded across the steel value chain. Buyers require structured, reliable information for compliance, risk management, and reporting, while suppliers need an efficient way to provide that information without repeating the same work for multiple customers.",
+    "url": "https://www.metals-hub.com/en/blog/esg-questionnaire/",
+    "pass": 1
+   },
+   {
+    "quote": "A shared ESG questionnaire helps reduce administrative workload across the industry. Suppliers are often asked to fill in numerous similar forms for different customers. Completing one standard questionnaire on Metalshub creates a single, reusable source of ESG information instead of responding to multiple separate requests.",
+    "url": "https://www.metals-hub.com/en/blog/esg-questionnaire/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/metalshub-enables-verified-sustainable-metals-pricing-with-lme/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/customer-stories/french-foundry-manoir-france-sas-realised-a-4x-roi-and-revitalised-its-supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/customer-stories/outokumpu-transforms-global-raw-material-sourcing-with-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/blog/metalshub-launches-open-trading",
+    "pass": 1
+   },
+   {
+    "quote": "“Lithium buyers and sellers have told us they want to see the market as it forms and act on it. Open Trading gives them that, with full control over who they trade with. With tenders, auctions and now an open trading market on one platform, our customers can choose how they trade each product and each deal.”",
+    "url": "https://www.metals-hub.com/en/blog/metalshub-launches-open-trading",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "Metalshub - Platform to Buy, Sell and Trade Raw Materials",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Precious Metals",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "PLATFORM FOR METALS & MINING",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the leading platform to buy and sell raw materials for the metals, mining & recycling industry, trusted by over 3,000 industry participants.",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub Benefits",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Metalshub?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored digital solutions for metals, mining, and recycling, unlocking efficiency, transparency, and growth across industries.",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Base Metals",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Why should I choose Metalshub over other non-industry-focused platforms and software?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "What languages does Metalshub’s platform support?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Where is Metalshub available?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I use Metalshub on mobile devices?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Is Metalshub a marketplace?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Will implementing Metalshub negatively impact my personal relationships to buyers/sellers?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "How much does Metalshub cost?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "How long does implementing Metalshub take?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Metalshub be integrated with other software of my technology stack (e.g. ERP)?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Where is the data stored and handled that I input into Metalshub?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Metalshub buy, sell or trade raw materials itself?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Who owns Metalshub?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Is Metalshub the same as Metals Hub?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "© Metals Hub GmbH",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Iron & Steel Industry Solutions - Metalshub",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Precious Metals",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Outokumpu standardised contract management and sourcing across its global procurement organisation using Metalshub.",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub empowers various industry players to better sell, buy and trade along the iron and steel raw supply chain.",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub has been built with the iron and steel industry in mind. Product shapes, specifications, pricing conventions and much more has been accounted for and can be adjusted to your company’s needs.",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "GlobalOre vs Metalshub for Iron Ore and Raw Material Trading",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Globalrawmaterials Joins Metalshub as Premium Supplier to Reach New Ferroalloy Buyers",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep Platforms for Physical Materials Markets | MetalshubTalks 014 Recap",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "How can Metalshub’s platform benefit me in the iron & steel industry?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "In what languages and countries can I use Metalshub?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "In what currencies can I conduct business on Metalshub?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "What iron & steel raw materials can I buy and sell on Metalshub?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "How many scrap suppliers are already on Metalshub?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Metalshub be integrated with other software of my technology stack (e.g. ERP)?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "Where is the data stored and handled that I input into Metalshub?",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "© Metals Hub GmbH",
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "pass": 1
+   },
+   {
+    "quote": "About Metalshub: Our Mission, Team & Values",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Precious Metals",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Transformative Platform for the Metals, Mining & Recycling Industry",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub provides the leading digital platform to buy, sell and trade raw materials.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "metals",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The world as we know it is intricately woven with the threads of metals and minerals. At Metalshub, we believe digital solutions will help build a more efficient and sustainable future for the whole industry.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our industry significantly impacts the environment, contributing to 15% of global emissions. At Metalshub, we provide decision-makers with tools that seamlessly integrate sustainability data into their workflows.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Commodity prices should be formed from unbiased data. With Metalshub, we help by generating robust, transaction-based data, creating a more fair and transparent industry.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our industry, with its complex global supply chains, has often struggled with maintaining a strong compliance record. At Metalshub, we create the checks and balances to enhance transparency and fairness across the industry.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub is backed internationally proclaimed investors with significant experience in helping Software as a Service (SaaS) companies create lasting value for its customers.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "© Metals Hub GmbH",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub Pricing - Invest in Your Future",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Precious Metals",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "What languages does Metalshub’s software support?",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "In what currencies can I pay for Metalshub?",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "© Metals Hub GmbH",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Iron on Metalshub",
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "pass": 1
+   },
+   {
+    "quote": "Precious Metals",
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "pass": 1
+   },
+   {
+    "quote": "What iron types are frequently traded on Metalshub?",
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "pass": 1
+   },
+   {
+    "quote": "How can Metalshub help in buying and selling iron ore and other iron products?",
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "pass": 1
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "Founded With Passion",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "GlobalOre is a Singapore-based electronic marketplace for physical iron ore. It went live in May 2012, founded by seven industry shareholders: Baosteel, BHP, China Minmetals, Glencore, Rio Tinto, Vale and Valin Steel. BHP announced the project in 2011, modelled on the ownership structure of globalCOAL, the marketplace for physical thermal coal.",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Düsseldorf, the company was founded in 2016 by Dr Frank Jackel and Dr Sebastian Kreft. Both previously ran sales at Anglo American, in ferroalloys and nickel. There, they saw how much raw material trading still relied on phone, email and spreadsheets. Metalshub’s",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "Who founded GlobalOre?",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "GlobalOre launched in 2012, founded by Baosteel, BHP, China Minmetals, Glencore, Rio Tinto, Vale and Valin Steel. Based in Singapore, it describes itself as a neutral marketplace built by the iron ore industry for its own members.",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "Magnetite (Fe₃O₄; ~72% Fe): Magnetite is processed via magnetic separation and is often converted into pellets for use in electric arc furnaces and blast furnaces. It requires more processing than hematite but is highly valued for its iron content and magnetic properties​",
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "pass": 1
+   },
+   {
+    "quote": "Fastmarkets and CRU set no minimum amount of trade data for their alumina indices, and with no new deals, the last price carries over.",
+    "url": "https://www.metals-hub.com/en/blog/alumina-pricing/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "How does membership on GlobalOre work?",
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging Dashboards for Measurable Margin Performance",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "Full visibility across enquiries, offers, and margins lets leaders prioritise resources and direct material to the highest-netback deals.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "Capturing and visualising sales data is essential, but the real value lies in consistently translating this data into decisions that improve margins and execution quality.",
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "pass": 1
+   },
+   {
+    "quote": "In heavy industries like metals and mining, direct procurement dominates the cost base, carrying the primary profit and margin risks because raw materials and energy heavily shape EBITDA.",
+    "url": "https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "While direct procurement influences margin via raw material costs, indirect procurement supports overall profitability by maximising operational efficiency, preventing plant downtime, and maintaining corporate compliance. If administrative or IT systems fail, the plant’s productivity is bottlenecked; if site security or PPE is unavailable, operations must halt for safety compliance.",
+    "url": "https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Software-as-a-Service (SaaS) subscriptions, enterprise hardware, back-office IT services, and ERP integrations.",
+    "url": "https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Distorted Margin Reporting:",
+    "url": "https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Metalshub - Platform to Buy, Sell and Trade Raw Materials — Metalshub - Platform to Buy, Sell and Trade Raw Materials Metals Hub https://www.metals-hub.com > ...",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub | LinkedIn — Metalshub | LinkedIn LinkedIn https://jp.linkedin.com > company > metalshub",
+    "url": "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "pass": 3
+   },
+   {
+    "quote": "LME and Metalshub Developing Trusted Commodity Spot ... — LME and Metalshub Developing Trusted Commodity Spot ... London Metal Exchange https://www.lme.com > lme-digest > l...",
+    "url": "https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub - Valuation, Funding & Investors - PitchBook — Metalshub - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/233432-47",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub Revenue 2025: $6.5M Est. - GetLatka — Metalshub Revenue 2025: $6.5M Est. - GetLatka GetLatka https://getlatka.com > metals-hub",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub - YouTube — Metalshub - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UC3X17hSVldeIPjj7y_6cZcw",
+    "pass": 3
+   },
+   {
+    "quote": "LME CEO on Metalshub Partnership, Aluminum - YouTube — LME CEO on Metalshub Partnership, Aluminum - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "pass": 3
+   },
+   {
+    "quote": "metalshub - Instagram — metalshub - Instagram Instagram https://www.instagram.com > metalshub",
+    "url": "https://www.instagram.com/metalshub/",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub : Revenue , Competitors, Alternatives - Growjo — Metalshub : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Metalshub",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub — venture-backed company profile - Dealroom — Metalshub — venture-backed company profile - Dealroom Dealroom https://dealroom.co > metalshub",
+    "url": "https://dealroom.co/companies/metalshub/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metals-hub.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/industry/iron-and-steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/raw-materials/iron/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/raw-materials/steel-iron-scrap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/globalore-vs-metalshub/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/author/samir-jaber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/customer-stories/cbl-opens-brazils-first-digital-lithium-sales-channel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/alumina-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/raw-material-multiple-trading-modes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/how-can-raw-material-sales-teams-use-enquiry-offer-and-deal-data-to-improve-outcomes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/direct-vs-indirect-procurement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/esg-questionnaire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/metalshub-enables-verified-sustainable-metals-pricing-with-lme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/customer-stories/french-foundry-manoir-france-sas-realised-a-4x-roi-and-revitalised-its-supply-chain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/customer-stories/outokumpu-transforms-global-raw-material-sourcing-with-metalshub/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/blog/metalshub-launches-open-trading",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/toushi/lib/setsumei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UC3X17hSVldeIPjj7y_6cZcw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Metalshub",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metalshub ビジネスモデル 収益構造",
+   "results": [
+    "https://www.metals-hub.com/en/",
+    "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices",
+    "https://pitchbook.com/profiles/company/233432-47",
+    "https://getlatka.com/companies/metals-hub.com",
+    "https://cookai.click/2026/08/07/manufacturing-business-model-design-guide/",
+    "https://www.metals-hub.com/en/about-us/",
+    "https://www.tanabeconsulting.co.jp/vision/column/detail246.html",
+    "https://bbank.jp/blog/president/revenue-model/",
+    "https://vizologi.com/ja/ビジネス戦略キャンバス/metalshub-business-model-canvas/"
+   ]
+  },
+  {
+   "query": "Metalshub 決算説明資料 セグメント",
+   "results": [
+    "https://www.mitsui-kinzoku.com/toushi/lib/setsumei/",
+    "https://www.metals-hub.com/en/",
+    "https://www.smm.co.jp/ir/event/teleconference/pdf/2022/221108_telephone.pdf",
+    "https://www.pub-hub.co.jp/ir/summary.html",
+    "https://peragaru-assets.s3.ap-northeast-1.amazonaws.com/TDNet/5016/140120260805510601.pdf",
+    "https://www.ma-cp.com/ir/settlement/",
+    "https://www.fse.or.jp/files/lis_tkj/26041434402.pdf",
+    "https://ircms.irstreet.com/contents/data_file.php?template=2110&brand=&folder_contents=10513&src_data=502393&filename=pdf_file1.pdf",
+    "https://www.youtube.com/channel/UC3X17hSVldeIPjj7y_6cZcw",
+    "https://www.metals-hub.com/"
+   ]
+  },
+  {
+   "query": "Metalshub 社長 インタビュー",
+   "results": [
+    "https://www.metals-hub.com/en/",
+    "https://www.youtube.com/channel/UC3X17hSVldeIPjj7y_6cZcw",
+    "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "https://www.instagram.com/metalshub/",
+    "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "https://www.lme.com/news/press-releases/2021/lme-collaborates-with-metalshub-in-digital-spot-trading-offering-for-base-metals",
+    "https://startupintros.com/orgs/metalshub",
+    "https://growjo.com/company/Metalshub",
+    "https://www.metals-hub.com/en/about-us/",
+    "https://www.metals-hub.com/en/author/sebastian-kreft/"
+   ]
+  },
+  {
+   "query": "Metalshub business model revenue gross margin",
+   "results": [
+    "https://www.metals-hub.com/en/",
+    "https://growjo.com/company/Metalshub",
+    "https://getlatka.com/companies/metals-hub.com",
+    "https://dealroom.co/companies/metalshub/",
+    "https://pitchbook.com/profiles/company/233432-47",
+    "https://www.macrotrends.net/stocks/charts/CMC/commercial-metals/profit-margins",
+    "https://startupintros.com/orgs/metalshub",
+    "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices",
+    "https://compworth.com/company/metalshub"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）",
+  "利益の源泉": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部4頁・検索4回）"
+ }
+}

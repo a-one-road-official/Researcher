@@ -1,0 +1,1712 @@
+{
+ "name": "定置用蓄電池",
+ "en": "stationary energy storage battery",
+ "aliases": [
+  "蓄電システム",
+  "BESS"
+ ],
+ "context": "2 デジタル・サイバー ④蓄電池",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:52:57.365283+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "当社の定置型蓄電池市場調査によると、市場規模は、2035年末までに2,9080億米ドルに達すると予想されており、2026ー2035年の予測期間中に30％のCAGRで成長します",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "定置用蓄電池市場は、さまざまな要因により急速に拡大していますが、その1つは環境問題への関心の高まりによる再生可能エネルギー源の利用拡大です",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の定置型蓄電池市場は、予測期間中に約33％の最大の市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "北米の定置型蓄電池市場は、予測期間中に約27％の2番目に大きな市場シェアを保持すると考えられています",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 定置型蓄電池市場規模は、2026ー2035 年の予測期間中に 30% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "回答: アジア太平洋地域の市場は、2035 年末までに最大の市場シェアを保持すると予測されており、将来的にはより多くのビジネス チャンスがもたらされます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "系統用定置型蓄電池市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発表した最新レポートによると、世界の系統規模定置型蓄電池市場は2025年に1,198億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）22.8%で拡大し、2035年には9,965億米ドルに達する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力会社、系統運用者、独立系発電事業者が複数時間対応の蓄電設備の調達を拡大するなか、市場規模は2026年に1,573億米ドルに達する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "系統規模定置型蓄電池ストレージ市場規模：電池別、2023〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の系統用定置型蓄電池市場規模、2023～2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の系統規模定置型蓄電池市場は、2025年に世界売上高の19.8%を占め、年平均成長率（CAGR）15.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "アフリカの蓄電市場は2035年までに22 GW/55 GWhに達すると予測され、南アフリカ、エジプト、モロッコ、および蓄電によって高コストなディーゼル発電を代替できるサブサハラ市場が成長を主導する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "系統用定置型蓄電池市場の市場規模は2025年に1,198億米ドルと推定され、2026年には1,573億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には789.9億米ドルと推定される市場規模",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（10億米ドル）",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーESS市場は、2030年までに22.7億米ドル規模へ、CAGR 30.7%で成長すると予測",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模予測（2030年）",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "同社の受注残高は約49億ドルに達しており、その高い需要を示しています",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵用電池市場は、2025年の241億6,000万米ドルから2035年には751億7,000万米ドルへ拡大する見通しであり、2026年から2035年の予測期間における年平均成長率（CAGR）は12.02％と予測されている",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵市場向けの電池市場規模は、2025年に241億6000万米ドルに達し、再生可能エネルギーの導入拡大、送電網の近代化、電化の進展、および信頼性の高いバックアップとエネルギー管理ソリューションへの需要の高まりに支えられ、2035年にかけて大幅に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵用電池市場は、2025年の241億6,000万米ドルから2035年には751億7,000万米ドルへ拡大し、2026～2035年に12.02%のCAGRが見込まれる中、日本でも再生可能エネルギーの導入拡大や電力需要の変化を背景に、蓄電池を単体製品ではなくエネルギーマネジメントシステムの一部として提供する能力が重要になります",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電システムの導入量 2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」蓄電デバイスの市場規模推移・予測の日本における導入容量実績を引用",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数MWh規模のプロジェクトでは、数億円〜10億円を超える投資規模",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "1MWhの大容量システムを導入する場合は、1～1.5億円超の投資規模",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池の市場は、2026年現在、海外メーカーによる「圧倒的なコストダウン」と、国内メーカーによる「高度な制御・安全技術」がしのぎを削る時代となっています",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場においても国内市場と同様、定置用蓄電池の需要が急拡大しており、2022年における市場規模は2兆円以上と推定されています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、2011年に発生した東日本大震災の後は、国による補助金の影響もあり急激に市場規模が拡大しました",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、次世代蓄電池の研究開発を促進するために、2兆円規模の「グリーンイノベーション基⾦事業」を造成し継続支援する方針です",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "主要電池メーカー3社と素材・部品メーカーは、2030年までに研究開発と設備投資に合計40兆ウォン（約3.9兆円）投資する⽅針です",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "一例を挙げると、最⼤⼿電池メーカーであるCATL社に対して、2020年下半期に上半期と⽐較して、76％増の11億元（約200億円）の補助⾦を給付しています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "2033年の定置用ESS世界市場はメーカー出荷容量ベースで、家庭用ESSが53,740MWh、企業・業務用ESSは15,939MWhに成長を予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の定置用蓄電池（Energy Storage System、以下ESS）世界市場規模はメーカー出荷容量ベースで、家庭用ESSが13,687MWh、企業・業務用ESSが5,733MWhであったと推計する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況は継続しており、2025年の定置用蓄電池世界市場規模は、家庭用ESSが前年比113.7％の15,557MWh 、企業・業務用ESSが同113.7％の6,520MWhを見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "pass": 3
+   },
+   {
+    "quote": "​このような背景から、​2033年の定置用蓄電池世界市場規模はメーカー出荷容量ベースで、家庭用ESSが53,740MWh、企業・業務用ESSは15,939MWhになるものと予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "pass": 3
+   },
+   {
+    "quote": "2045年の世界市場を15兆782億円(2025年比3.7倍)と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "2045年の世界市場を15兆782億円(2025年比3.7倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の外資系製薬企業48社の日本における医療用医薬品売上高は844億円(2025年度比107.7%)の見込",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "• リチウムイオン電池（LiB）の世界市場は、2025年の23兆円から、35年に46兆円（約2倍） 、40年に55兆円",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/0007/shiryo03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模と2035年電池市場規模の比率を用いてGlobal Dataの電池需要から推計",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/0007/shiryo03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Share & Trends, 2025 to 2030」、公開情報を基にARTHUR.D.LITTLE作成",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/0007/shiryo03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・主要国別の市場規模予測（2022年～2033年）を最新データで更新",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   },
+   {
+    "quote": "・家庭用ESS市場は2033年に53GWh超へ、インセンティブ制度が需要拡大の原動力に",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   },
+   {
+    "quote": "■定置用蓄電システム向け蓄電池 13兆7,938億円 (3.8倍) 系統用が市場をけん引",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの急増と需給バランスの維持に向け、調整力としての導入が世界的に進んでおり、2025年の市場は5兆246億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、xEVの普及による車載電池の量産化に伴う、共通部材や周辺部材などのLiB調達コストの低下により低価格化が進展し、2045年の市場は13兆7,938億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体としては、容量ベースでは拡大が続くものの、LiBの価格低下の進展や搭載容量は微増もしくは横ばいにとどまることから、金額ベースでの市場は2030年頃がピークになるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Stationary Battery Storage Market Size, Analysis Report 2034",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Stationary Battery Storage Market Size & Share 2025 – 2034",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 264.9 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Stationary Battery Storage Market Size, By Battery, 2022-2034 (USD Billion)",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The stationary battery storage industry reached USD 83.2 billion, USD 166.9 billion and USD 264.9 billion in 2022, 2023 and 2024 respectively.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "For reference over 13.5 million of electric cars were registered newly worldwide, thus assessing 34% YoY growth in the electric cars sector in 2023 and reaching 40 million total number of electric cars on road in the same year.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The grid services application segment accounted for over 65.7% share of stationary battery storage market in 2024. Owing to increasing demand for energy and rising investment into effective grid infrastructure the demand for batteries in grid services also rises. For instance, in 2024 European Union predicted investment of more than USD 547 billion till 2030.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The off grid application segment is set to register over 29.6% CAGR through 2034. The rise in energy demand and increasing electricity networking are driving demand for stationary battery storage in off grid application segment. For instance, off grid solar is expected to provide effective electricity for 398 million individuals by 2030.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "当社の定置型蓄電池市場調査によると、市場規模は、2035年末までに2,9080億米ドルに達すると予想されており、2026ー2035年の予測期間中に30％のCAGRで成長します",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "定置用蓄電池市場は、さまざまな要因により急速に拡大していますが、その1つは環境問題への関心の高まりによる再生可能エネルギー源の利用拡大です",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 定置型蓄電池市場規模は、2026ー2035 年の予測期間中に 30% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発表した最新レポートによると、世界の系統規模定置型蓄電池市場は2025年に1,198億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）22.8%で拡大し、2035年には9,965億米ドルに達する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力会社、系統運用者、独立系発電事業者が複数時間対応の蓄電設備の調達を拡大するなか、市場規模は2026年に1,573億米ドルに達する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの市場拡大を左右するのは、電池セル需要そのものよりも、蓄電資産が系統サービスを複数提供し、契約収入または市場収入を得られるかどうかである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "命令第2222号は、卸売市場への参加対象を、集約された分散型エネルギーリソースに拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "カリフォルニア州法案SB-283は、自治体の管轄にかかわらず、すべての設置施設にBESSの監督を拡大するものであり、規制当局の監視が強まる方向性を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に市場収益の75.5%を占め、2035年まで年平均成長率（CAGR）20.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "の収益の10.5%を占め、年平均成長率（CAGR）25.1%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉛蓄電池は2025年に系統規模定置型蓄電池市場の5.4%のシェアを占め、年平均成長率（CAGR）20.3%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "フロー電池は2025年に系統規模定置型蓄電池市場の売上高の3%を占め、年平均成長率（CAGR）30.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "「その他」カテゴリーは2025年に5.6%のシェアを占め、年平均成長率（CAGR）33.6%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "周波数調整は2025年に系統規模定置型蓄電池市場の売上高の81.7%を占め、年平均成長率（CAGR）22.7%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）23.6%",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）のネットゼロシナリオでは、2030年までにグリッドスケールの蓄電池容量を2022年比で35倍の約970 GWまで拡大する必要がある",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の49.52 GWから2030年には131.75 GWへと、CAGR 21.62%という驚異的なペースで成長すると予測",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーESS市場は、2030年までに22.7億米ドル規模へ、CAGR 30.7%で成長すると予測",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の4.0 GWから2033年には17.8 GWへと、CAGR 18.0%で拡大する見込み",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵用電池市場、2035年に751億7000万米ドルへ拡大｜CAGR 12.02％、再生可能エネルギー導入と電力系統安定化が市場成長を加速 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵用電池市場、2035年に751億7000万米ドルへ拡大｜CAGR 12.02％、再生可能エネルギー導入と電力系統安定化が市場成長を加速",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵用電池市場は、2025年の241億6,000万米ドルから2035年には751億7,000万米ドルへ拡大する見通しであり、2026年から2035年の予測期間における年平均成長率（CAGR）は12.02％と予測されている",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵市場向けの電池市場規模は、2025年に241億6000万米ドルに達し、再生可能エネルギーの導入拡大、送電網の近代化、電化の進展、および信頼性の高いバックアップとエネルギー管理ソリューションへの需要の高まりに支えられ、2035年にかけて大幅に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "定置型エネルギー貯蔵用電池市場が2035年に751億7,000万米ドルへ拡大するという予測は、蓄電技術がエネルギー産業の重要な成長分野となる可能性を示している",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2020 年度の「定置用蓄電システム普及拡大検討会」において、蓄電システムメーカー等の事業の",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ また、 2025 年度の「第 1回 定置用蓄電システム普及拡大検討会」において、業務・産業用蓄電システ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "並みに拡大すると想定し、2040年の導入割合を15％と設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や歯科診療所にも導入が拡大すると想定し、2040年の導入割合を15％と設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年時点で 5.5GWh （1.6GW ※1 ）程度まで拡大する見通し",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 直近の導入拡大傾向の継続を想定した本推計では、２０４０年には家庭用蓄電システムは PV 設置済",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "卸電力市場価格の1日の値差の年平均値[円/kWh/日]",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10.6万円/kWh • 2024年度定置用蓄電システム普及拡大検討会取りまとめ資料における2023年度時点の平均システム価格(工事費含む)",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6万円/kWh • 2020年度定置用蓄電システム普及拡大検討会の結果とりまとめ資料における業務・産業用蓄電システムの2030年度の目標価格から設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "充放電深度 80% • 2024年度定置用蓄電システム普及拡大検討会取りまとめ資料における再エネ併設蓄電システムの収益性評価の算定諸元より設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "容量劣化率 ▲１%/年 • ２０年間で容量劣化が80%まで進むと想定し、年率換算で1%/年と設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "充放電効率 90% • 2024年度定置用蓄電システム普及拡大検討会取りまとめ資料における再エネ併設蓄電システムの収益性評価の算定諸元より設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "BCP価値単価 10,000円/kWh/年 • 2020年度定置用蓄電システム普及拡大検討会の結果とりまとめより設定",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IEA（国際エネルギー機関）の試算によると、蓄電池を含む世界全体のエネルギー貯蔵能力は、2030年に2023年比で約6倍に拡大する見通しとなっています",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では2025年に茨城県常総市のノーバル・ソーラーがCATL製LFP電池を採用した系統用蓄電所を商業運転開始するなど、国内導入実績が拡大しています",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "特に北米市場ではIRA税額控除を活用した価格競争力が武器であり、2026年に50GWh規模のBESSプロジェクト納入を計画するなど、事業拡大の勢いが加速しています",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "は市場拡大が著しく、2025年にはカリフォルニア州を抜いて全米最大の蓄電池市場となりました",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比約3.9倍にまで急膨張",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野では、再生可能エネルギーに必須の系統用蓄電池や、データセンター・5G通信基地局のバックアップ電源としての需要が拡大しており、今後もその需要は高まると予測されています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場においても国内市場と同様、定置用蓄電池の需要が急拡大しており、2022年における市場規模は2兆円以上と推定されています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "EV等の普及に伴い、2015年に42.9GWhだった出荷容量ベースは、2020年には145.5GWhまで拡大しています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "今後のEV市場拡大に従い、2035年には現行の約14.2倍に当たる2070.3GWhにまで急拡大する見込みです",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし中国や韓国がシェアを拡大し、日本の市場シェアは2020年時点で21.1％まで低下しています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "このような状況は継続しており、2025年の定置用蓄電池世界市場規模は、家庭用ESSが前年比113.7％の15,557MWh 、企業・業務用ESSが同113.7％の6,520MWhを見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "pass": 3
+   },
+   {
+    "quote": "基地局分野では、5G整備の活発化、また2030年以降の6G移行でのさらなる市場拡大が想定されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "・家庭用ESS市場は2033年に53GWh超へ、インセンティブ制度が需要拡大の原動力に",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   },
+   {
+    "quote": "・家庭用平均価格は2025年にYoY4％下落、以降も毎年1％前後の価格低下を予想",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026年には需給調整市場における低圧リソースの取引が解禁されDR/VPPリソースとしての活用拡大が期待されるほか、2027年よりZEH基準の要件に蓄電システムの設置が追加される予定のため、新築住宅における導入率上昇が予想され、堅調な市場拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体としては、容量ベースでは拡大が続くものの、LiBの価格低下の進展や搭載容量は微増もしくは横ばいにとどまることから、金額ベースでの市場は2030年頃がピークになるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "UPS/基地局向け蓄電システムとしては、クラウドサービス/デジタル化/AI技術の進展、5Gネットワークの構築などに伴い、データセンター 向けUPSの需要が旺盛であり、今後は5G、6G基地局の建設投資の拡大とともに、バックアップ電源需要の伸びが予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "For reference over 13.5 million of electric cars were registered newly worldwide, thus assessing 34% YoY growth in the electric cars sector in 2023 and reaching 40 million total number of electric cars on road in the same year.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The off grid application segment is set to register over 29.6% CAGR through 2034. The rise in energy demand and increasing electricity networking are driving demand for stationary battery storage in off grid application segment. For instance, off grid solar is expected to provide effective electricity for 398 million individuals by 2030.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "China’s EV selling greatly propelled in 2024, observing a 40% increase from 2023. Furthermore, the investment growth in Indian solar energy sector will simultaneously raise the demand of stationary battery storage. For reference, for first three quarters of 2024, India witnessed 167% YoY growth, i.e. new 16.4 GW solar capacity was added.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 – 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "世界の定置型蓄電池市場調査、規模、シェアと予測 2035年",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "2028 年までに、世界中で発電される電力の 42% 以上が再生可能エネルギーによるものとなり、そのうち太陽光発電と風力発電が全体の 25% を占めるようになります",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "自家消費を含む日本の総発電量に占める再生可能エネルギーの割合は、2022年（暦年）には22.7％と予測されており、前年の22.4％からわずかしか上昇しません",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の定置型蓄電池市場は、予測期間中に約33％の最大の市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "北米の定置型蓄電池市場は、予測期間中に約27％の2番目に大きな市場シェアを保持すると考えられています",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "IEAのデータによると、電力は2018年の20%から2050年までに消費される全エネルギーの50%を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーに基づいて、フローバッテリーセグメントは、予測期間中に約35％の最大の市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションに基づいて、メーターの後ろにある製品は、予測期間中に 55% の市場シェアを保持すると予測されます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "回答: アジア太平洋地域の市場は、2035 年末までに最大の市場シェアを保持すると予測されており、将来的にはより多くのビジネス チャンスがもたらされます",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "系統用定置型蓄電池市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、電力系統規模のプロジェクトが導入量の約80%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "リン酸鉄リチウム（LFP）電池は、コスト、サイクル寿命、運用上の安全性が大規模な定置型設備の要件に適していることから、新規の電力系統規模の導入の約90%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の再生可能エネルギー発電設備の新規導入量は800 GWに達し、その75%を太陽光発電が占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に市場収益の75.5%を占め、2035年まで年平均成長率（CAGR）20.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2030年まで、リチウムイオンは数量ベースで首位を維持する一方、長時間放電用途では相対的なシェアが圧迫される見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "の収益の10.5%を占め、年平均成長率（CAGR）25.1%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉛蓄電池は2025年に系統規模定置型蓄電池市場の5.4%のシェアを占め、年平均成長率（CAGR）20.3%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "フロー電池は2025年に系統規模定置型蓄電池市場の売上高の3%を占め、年平均成長率（CAGR）30.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "「その他」カテゴリーは2025年に5.6%のシェアを占め、年平均成長率（CAGR）33.6%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "周波数調整は2025年に系統規模定置型蓄電池市場の売上高の81.7%を占め、年平均成長率（CAGR）22.7%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "系統規模定置型蓄電池市場の用途別売上高シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には蓄電池収益の80%以上を占めていたアンシラリーサービス市場が、新規参入者の急増により飽和状態",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、世界的に新規導入されたバッテリー貯蔵容量の約80％をユーティリティ規模の設備が占め、残りは主にメーター背後の商用および住宅用システムで構成されていました",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "特にリン酸鉄リチウム（LFP）は、そのコスト面での優位性、熱的特性、および頻繁な充放電サイクルへの適性から注目を集めており、2025年には蓄電池導入の約90％をLFPが占めました",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "特に「エネルギーシフト」への注目が高まっており、2015年には約40％だったエネルギーシフト用途が、2025年までに新規蓄電池プロジェクトの90％以上を占める見込みです",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、周波数調整、ピークシェービング、再生可能エネルギーの時間シフト、およびその他の高速応答型系統サービスに対する旺盛な需要に牽引され、短時間蓄電（4時間未満）セグメントが市場を独占しました",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "連市場の現状と将来展望 2025 」設置パターン別市場シェア及び上グラフ新築着工件数",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ｓ関連市場の現状と将来展望 2025 」設置パターン別市場シェア及び上グラフ前年末",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、目指すべき水準を上位15％が達成できる水準に設定しており、2030年までにこ",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンチマーク制度の目標水準並みである上位15％（約2,200カ所）への導入が進むと",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新築向け蓄電池導入台数 2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」設置パターン別市場シェア「新築・新設PV＋蓄電池セット」の導入台数実績を引用",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電池システム導入台数割合 2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」設置パターン別市場シェア「既築・新設PV＋蓄電池セット」の導入台数実績及び前年末時点PV未設置既築戸建て住宅数から算出",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024まで 実績値 富士経済「エネルギー・大型二次電池・材料の将来展望」シリーズ、「定置用蓄電池・ＥＳＳ関連市場の現状と将来展望2025」設置パターン別市場シェア「既築・蓄電池単独（既設PV あり）」の導入台数実績及び、前年末時点PV既設（PV単独）戸建て住宅数から算出",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池メーカー大手10社を徹底比較！世界シェアや投資で注目の関連銘柄も解説",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池メーカーの世界シェアと市場動向【2026年最新】",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち増加分の約9割を定置用蓄電池が占め、さらにその約8割が系統用および再エネ併設型の大規模蓄電池で構成される見込みです",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、世界シェア上位の海外5社と国内の主要5社、計10社の系統用蓄電池メーカーを比較し、関連する上場銘柄の動向まで一気通貫で整理しました",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電技術の内訳では、リチウムイオン電池が約65.8％と圧倒的なシェアを占める一方、全バナジウム液流電池やフライホイール蓄電など、新型蓄電技術の商用化も進んでいます",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "で上位を占める注目5社",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "系統用蓄電池市場を強力にけん引する、グローバルシェアランキングでも常に上位を維持する海外メーカーの中から、特に注目されている5社は以下の通りです",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "LFP電池（リン酸鉄リチウムイオン電池）を中心に低コスト化を実現し、EV用電池では長期にわたり世界シェアNo.1を維持",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "pass": 3
+   },
+   {
+    "quote": "車載用蓄電池における世界シェアの推移を見てみると、2015年の初期市場において、日本は技術力の高さから40.2％もの市場シェアを獲得していました",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし中国や韓国がシェアを拡大し、日本の市場シェアは2020年時点で21.1％まで低下しています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "定置用蓄電池も同様に、2015年に27.4％だった日本の市場シェアは、2020年には4.5％まで市場シェアを落としています",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "近年シェアを伸ばしている韓国は2021年7月8日、2030年に2次電池の分野で世界トップを目指す「K-バッテリー発展戦略」を発表しました",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の課題は大きく分けて「シェア率の安定と強化・持続可能な電池エコシステム（資源循環の仕組み）強化」の2点です",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "【6/26開催】世界シェアNo.1を生んだ「Mr.電子コンパス」…",
+    "url": "https://www.peaks-media.com/192/",
+    "pass": 3
+   },
+   {
+    "quote": "現状、系統/再エネ併設分野が6割以上を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、Pbは搭載実績や価格競争力などを理由に、長期的にもUPS/基地局分野では6割以上を占めるとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "電池種別では、LiBが現状9割程度を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "電池別では、現状LiBが9割以上を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "電池種別では、Pbの構成比が大きく、全体の8割以上を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "・国別家庭用ESSメーカーシェアの2025年見込値を掲載",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   },
+   {
+    "quote": "また、RFやSiBの採用が増えていき、RFは2割弱、SiBは1割強を占めると予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "長期的にLiBが中心であるが、300kWh未満のシステムではSiBが一定規模を占めるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "The lithium-ion battery segment accounted highest market share over 55% in 2024. Due to rise in usage of EV owing to propelling adoption of green transportation and favorable government policies in the field, the stationary battery storage market is expected to witness increase in demand from automotive sector.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The grid services application segment accounted for over 65.7% share of stationary battery storage market in 2024. Owing to increasing demand for energy and rising investment into effective grid infrastructure the demand for batteries in grid services also rises. For instance, in 2024 European Union predicted investment of more than USD 547 billion till 2030.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 companies including CATL, SK, LG Electronics, Exide Technologies, and Samsung held more than 40% of the market share. A wide range of key players are engaged in stationary battery storage industry and players are generously working to build effective and low cost batteries.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "How much stationary battery storage market share captured by grid services application in 2024?",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "定置型蓄電池 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "pass": 3
+   },
+   {
+    "quote": "市場で事業を展開する主要企業には、BYD Company、CATL、Eos Energy Enterprises、Exide Technologies、Fluence Energy、Form Energy、GS Yuasa International、Hitachi Energy、HOPPECKE Batterien、Invinity Energy Systems、Johnson Controls、LG Energy Solution、Panasonic Corporation、Powin Energy、SAMSUNG SDI、Siemens Energy、SK Innovation、Tesla、Toshiba Corporation、Wartsilaが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力系統向け大規模定置型蓄電池市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "系統用定置型蓄電池市場の主要企業には、CATL、BYD、Exide Technologies、LG Energy Solution、Teslaなどがあり、これらの企業は2025年に合計で29.5%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "pass": 3
+   },
+   {
+    "quote": "国内系統用蓄電池市場の主要プレイヤー5社：",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、2025年の家庭用及び企業・業務用の定置用蓄電池（ESS）世界市場を調査し、設置先別及び需要分野別、電池種別の動向、参入企業動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "・グローバル主要企業の最新動向を記載",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 companies including CATL, SK, LG Electronics, Exide Technologies, and Samsung held more than 40% of the market share. A wide range of key players are engaged in stationary battery storage industry and players are generously working to build effective and low cost batteries.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in stationary battery storage market?",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the stationary battery storage industry include BYD, CATL, Exide, GS Yuasa, Hitachi, Johnson Controls, Leclanche, LG , Panasonic, Samsung, Siemens, SK Innovation, Tesla, Toshiba, Varta.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Assessment",
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the grid-scale battery storage market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the grid-scale battery storage market are NGK Insulators Ltd., BYD Co. Ltd, Sumitomo Electric Industries, Ltd., GS Yuasa Corporation, LG Energy Solution, Panasonic Holdings Corporation, Hitachi Energy Ltd, Fluence, EVE Energy Co., Ltd., CALB USA Inc., Highview Enterprises Ltd., Form Energy, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the major players operating in the stationary energy storage market?",
+    "url": "https://www.precedenceresearch.com/stationary-energy-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the stationary energy storage market are Tesla, Durapower, Exide Technologies, Duracell, Toshiba Corporation, Panasonic Corporation, Samsung SDI, Johnson Controls, Philips, Hoppecke Batteries.",
+    "url": "https://www.precedenceresearch.com/stationary-energy-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Stationary Battery Storage Market",
+    "url": "https://www.futuremarketinsights.com/reports/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Stationary Battery Storage Market Size and Forecast, by Battery (Lithium Ion, Sodium Sulphur, Lead Acid, Flow Battery); Type of Energy Storage (Hydrogen & Ammonia Storage, Gravitational Energy Storage, Compressed Air Energy Storage, Liquid Air Storage, Thermal Energy Storage); Application (Grid Services, Behind the Meter) - Growth Trends, Key Players, Regional Analysis 2026-2035",
+    "url": "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "pass": 3
+   },
+   {
+    "quote": "Get a glimpse of competitive landscape analysis",
+    "url": "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Exide Technologies, Durapower Group, Duracell, INC, Siemens AG, Samsung SDI Co., Ltd, A123 Systems, LLC, LG Chem Ltd., BYD Company Ltd., Lockheed Martin Corporation.",
+    "url": "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "pass": 3
+   },
+   {
+    "quote": "US: 2026 and future outlook - policy, market structure, localization, competitive landscape, and data centers",
+    "url": "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2030年までに、プロジェクトの出資者は化学系の好みではなく、各系統ノードで求められる放電時間と収益源の組み合わせを基準に技術を選ぶようになる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CATLがスペインのGrenergyのOviedoおよびEscuderosプロジェクト向けに締結した1.5 GWhの供給契約は、欧州の蓄電プロジェクトの資金調達において、長期トーリング契約の枠組みが重要であることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "IRAに含まれる、単体の蓄電システムにも適用される30%の投資税額控除（ITC）は、プロジェクトの経済性を劇的に改善し、新たな資金調達モデルを可能にしました",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.tainavi-pp.com/investment/new_grid_storage_station/304/",
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "pass": 3
+   },
+   {
+    "quote": "The grid services application segment accounted for over 65.7% share of stationary battery storage market in 2024. Owing to increasing demand for energy and rising investment into effective grid infrastructure the demand for batteries in grid services also rises. For instance, in 2024 European Union predicted investment of more than USD 547 billion till 2030.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "China’s EV selling greatly propelled in 2024, observing a 40% increase from 2023. Furthermore, the investment growth in Indian solar energy sector will simultaneously raise the demand of stationary battery storage. For reference, for first three quarters of 2024, India witnessed 167% YoY growth, i.e. new 16.4 GW solar capacity was added.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "is India based battery manufacturer, which recorded nearly USD 1,946 million in 2023. The company’s recent investment of more than USD 110 million in its lithium-ion battery manufacturing facility in India for FY 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "In Brazil, the energy storage system market is experiencing substantial growth, fueled by the country's increasing focus on renewable energy sources. According to a recent analysis by Deloitte, Brazil could attract more than $11.1 billion in energy storage investment by 2035 if annual BESS auctions proceed as planned.",
+    "url": "https://www.precedenceresearch.com/stationary-energy-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America market will achieve a 27% share by 2035, driven by the increasing demand for energy storage systems and growing investments in renewable energy infrastructure.",
+    "url": "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "pass": 3
+   },
+   {
+    "quote": "As the demand for renewable energy sources continues to rise, the need for efficient and reliable energy storage solutions like Lithium-Ion batteries is expected to grow, further solidifying their position in the market. Looking ahead to 2025, the market is anticipated to witness continued growth driven by technological advancements and increased investments in energy storage solutions.",
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "pass": 3
+   },
+   {
+    "quote": "As renewable energy adoption increases, the demand for grid services that can handle intermittent energy supplies continues to grow. Looking ahead to 2025, the importance of grid services is expected to remain high, driven by further investments in renewable energy and the ongoing need for efficient grid management solutions.",
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "pass": 3
+   },
+   {
+    "quote": "48E Clean Electricity Investment Tax Credit (ITC) after The OBBBA",
+    "url": "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界の 定置用 蓄電システム 市場 2026-2030年予測 高成長 ... — 世界の 定置用 蓄電システム 市場 2026-2030年予測 高成長 ... エネがえる https://www.enegaeru.com > エネがえるAPI",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "pass": 3
+   },
+   {
+    "quote": "定置用 蓄電システム向け 蓄電池 の 市場 を調査。2045年の世界 ... — 定置用 蓄電システム向け 蓄電池 の 市場 を調査。2045年の世界 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025定置用蓄電池 （ESS） 市場 の現状と将来展望家庭及企業 ... — 2025定置用蓄電池 （ESS） 市場 の現状と将来展望家庭及企業 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > その他 > その他 > その他",
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "22.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "Global Market Insights Inc.が発表した最新レポートによると、世界の系統規模定置型蓄電池市場は2025年に1,198億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）22.8%で拡大し、2035年には9,965億米ドルに達する見通しである"
+   },
+   {
+    "value": "20.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "は2025年に市場収益の75.5%を占め、2035年まで年平均成長率（CAGR）20.8%で成長すると予測される"
+   },
+   {
+    "value": "25.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "の収益の10.5%を占め、年平均成長率（CAGR）25.1%で拡大すると予測される"
+   },
+   {
+    "value": "20.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "鉛蓄電池は2025年に系統規模定置型蓄電池市場の5.4%のシェアを占め、年平均成長率（CAGR）20.3%で成長すると予測される"
+   },
+   {
+    "value": "30.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "フロー電池は2025年に系統規模定置型蓄電池市場の売上高の3%を占め、年平均成長率（CAGR）30.6%で成長すると予測される"
+   },
+   {
+    "value": "33.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "「その他」カテゴリーは2025年に5.6%のシェアを占め、年平均成長率（CAGR）33.6%で拡大すると予測される"
+   },
+   {
+    "value": "22.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "周波数調整は2025年に系統規模定置型蓄電池市場の売上高の81.7%を占め、年平均成長率（CAGR）22.7%で成長すると予測される"
+   },
+   {
+    "value": "23.6",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "quote": "年平均成長率（CAGR）23.6%"
+   },
+   {
+    "value": "21.62",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "quote": "2025年の49.52 GWから2030年には131.75 GWへと、CAGR 21.62%という驚異的なペースで成長すると予測"
+   },
+   {
+    "value": "30.7",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "quote": "バッテリーESS市場は、2030年までに22.7億米ドル規模へ、CAGR 30.7%で成長すると予測"
+   },
+   {
+    "value": "18.0",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "quote": "2024年の4.0 GWから2033年には17.8 GWへと、CAGR 18.0%で拡大する見込み"
+   },
+   {
+    "value": "12.02",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "quote": "定置型エネルギー貯蔵用電池市場、2035年に751億7000万米ドルへ拡大｜CAGR 12.02％、再生可能エネルギー導入と電力系統安定化が市場成長を加速 | NEWSCAST"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "42",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "2028 年までに、世界中で発電される電力の 42% 以上が再生可能エネルギーによるものとなり、そのうち太陽光発電と風力発電が全体の 25% を占めるようになります"
+   },
+   {
+    "value": "25",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "2028 年までに、世界中で発電される電力の 42% 以上が再生可能エネルギーによるものとなり、そのうち太陽光発電と風力発電が全体の 25% を占めるようになります"
+   },
+   {
+    "value": "22.7",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "自家消費を含む日本の総発電量に占める再生可能エネルギーの割合は、2022年（暦年）には22.7％と予測されており、前年の22.4％からわずかしか上昇しません"
+   },
+   {
+    "value": "22.4",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "自家消費を含む日本の総発電量に占める再生可能エネルギーの割合は、2022年（暦年）には22.7％と予測されており、前年の22.4％からわずかしか上昇しません"
+   },
+   {
+    "value": "33",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "アジア太平洋地域の定置型蓄電池市場は、予測期間中に約33％の最大の市場シェアを保持すると予想されます"
+   },
+   {
+    "value": "27",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "北米の定置型蓄電池市場は、予測期間中に約27％の2番目に大きな市場シェアを保持すると考えられています"
+   },
+   {
+    "value": "20",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "IEAのデータによると、電力は2018年の20%から2050年までに消費される全エネルギーの50%を占めると予想されています"
+   },
+   {
+    "value": "50",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "IEAのデータによると、電力は2018年の20%から2050年までに消費される全エネルギーの50%を占めると予想されています"
+   },
+   {
+    "value": "35",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "バッテリーに基づいて、フローバッテリーセグメントは、予測期間中に約35％の最大の市場シェアを保持すると予想されます"
+   },
+   {
+    "value": "55",
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "quote": "アプリケーションに基づいて、メーターの後ろにある製品は、予測期間中に 55% の市場シェアを保持すると予測されます"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "このうち、電力系統規模のプロジェクトが導入量の約80%を占めた"
+   },
+   {
+    "value": "90",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "リン酸鉄リチウム（LFP）電池は、コスト、サイクル寿命、運用上の安全性が大規模な定置型設備の要件に適していることから、新規の電力系統規模の導入の約90%を占める"
+   },
+   {
+    "value": "75",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "2025年の再生可能エネルギー発電設備の新規導入量は800 GWに達し、その75%を太陽光発電が占めた"
+   },
+   {
+    "value": "75.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "は2025年に市場収益の75.5%を占め、2035年まで年平均成長率（CAGR）20.8%で成長すると予測される"
+   },
+   {
+    "value": "20.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "は2025年に市場収益の75.5%を占め、2035年まで年平均成長率（CAGR）20.8%で成長すると予測される"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "の収益の10.5%を占め、年平均成長率（CAGR）25.1%で拡大すると予測される"
+   },
+   {
+    "value": "25.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "の収益の10.5%を占め、年平均成長率（CAGR）25.1%で拡大すると予測される"
+   },
+   {
+    "value": "5.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "鉛蓄電池は2025年に系統規模定置型蓄電池市場の5.4%のシェアを占め、年平均成長率（CAGR）20.3%で成長すると予測される"
+   },
+   {
+    "value": "20.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "鉛蓄電池は2025年に系統規模定置型蓄電池市場の5.4%のシェアを占め、年平均成長率（CAGR）20.3%で成長すると予測される"
+   },
+   {
+    "value": "3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "フロー電池は2025年に系統規模定置型蓄電池市場の売上高の3%を占め、年平均成長率（CAGR）30.6%で成長すると予測される"
+   },
+   {
+    "value": "30.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "フロー電池は2025年に系統規模定置型蓄電池市場の売上高の3%を占め、年平均成長率（CAGR）30.6%で成長すると予測される"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "「その他」カテゴリーは2025年に5.6%のシェアを占め、年平均成長率（CAGR）33.6%で拡大すると予測される"
+   },
+   {
+    "value": "33.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "「その他」カテゴリーは2025年に5.6%のシェアを占め、年平均成長率（CAGR）33.6%で拡大すると予測される"
+   },
+   {
+    "value": "81.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "周波数調整は2025年に系統規模定置型蓄電池市場の売上高の81.7%を占め、年平均成長率（CAGR）22.7%で成長すると予測される"
+   },
+   {
+    "value": "22.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "quote": "周波数調整は2025年に系統規模定置型蓄電池市場の売上高の81.7%を占め、年平均成長率（CAGR）22.7%で成長すると予測される"
+   },
+   {
+    "value": "80",
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "quote": "2022年には蓄電池収益の80%以上を占めていたアンシラリーサービス市場が、新規参入者の急増により飽和状態"
+   },
+   {
+    "value": "80",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "quote": "2025年には、世界的に新規導入されたバッテリー貯蔵容量の約80％をユーティリティ規模の設備が占め、残りは主にメーター背後の商用および住宅用システムで構成されていました"
+   },
+   {
+    "value": "90",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "quote": "特にリン酸鉄リチウム（LFP）は、そのコスト面での優位性、熱的特性、および頻繁な充放電サイクルへの適性から注目を集めており、2025年には蓄電池導入の約90％をLFPが占めました"
+   },
+   {
+    "value": "40",
+    "url": "https://newscast.jp/smart/news/6847501",
+    "quote": "特に「エネルギーシフト」への注目が高まっており、2015年には約40％だったエネルギーシフト用途が、2025年までに新規蓄電池プロジェクトの90％以上を占める見込みです"
+   },
+   {
+    "value": "15",
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "quote": "は、目指すべき水準を上位15％が達成できる水準に設定しており、2030年までにこ"
+   },
+   {
+    "value": "65.8",
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "quote": "蓄電技術の内訳では、リチウムイオン電池が約65.8％と圧倒的なシェアを占める一方、全バナジウム液流電池やフライホイール蓄電など、新型蓄電技術の商用化も進んでいます"
+   },
+   {
+    "value": "40.2",
+    "url": "https://www.peaks-media.com/192/",
+    "quote": "車載用蓄電池における世界シェアの推移を見てみると、2015年の初期市場において、日本は技術力の高さから40.2％もの市場シェアを獲得していました"
+   },
+   {
+    "value": "21.1",
+    "url": "https://www.peaks-media.com/192/",
+    "quote": "しかし中国や韓国がシェアを拡大し、日本の市場シェアは2020年時点で21.1％まで低下しています"
+   },
+   {
+    "value": "27.4",
+    "url": "https://www.peaks-media.com/192/",
+    "quote": "定置用蓄電池も同様に、2015年に27.4％だった日本の市場シェアは、2020年には4.5％まで市場シェアを落としています"
+   },
+   {
+    "value": "4.5",
+    "url": "https://www.peaks-media.com/192/",
+    "quote": "定置用蓄電池も同様に、2015年に27.4％だった日本の市場シェアは、2020年には4.5％まで市場シェアを落としています"
+   },
+   {
+    "value": "55",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "quote": "The lithium-ion battery segment accounted highest market share over 55% in 2024. Due to rise in usage of EV owing to propelling adoption of green transportation and favorable government policies in the field, the stationary battery storage market is expected to witness increase in demand from automo"
+   },
+   {
+    "value": "65.7",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "quote": "The grid services application segment accounted for over 65.7% share of stationary battery storage market in 2024. Owing to increasing demand for energy and rising investment into effective grid infrastructure the demand for batteries in grid services also rises. For instance, in 2024 European Union"
+   },
+   {
+    "value": "40",
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "quote": "Top 5 companies including CATL, SK, LG Electronics, Exide Technologies, and Samsung held more than 40% of the market share. A wide range of key players are engaged in stationary battery storage industry and players are generously working to build effective and low cost batteries."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6847501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaks-media.com/192/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/storage-battery-manufacturer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/categories/3285/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/0007/shiryo03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2001230405/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/stationary-energy-storage-market-110450",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/stationary-energy-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/grid-scale-stationary-battery-storage-083900047.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/battery-energy-storage-system-market-112809494.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/stationary-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/stationary-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/stationary-energy-storage-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/grid-scale-stationary-battery-storage-market-105990",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/stationary-energy-storage-market/1668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/sites/prod/files/2020/12/f81/Energy%20Storage%20Market%20Report%202020_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://market.us/report/stationary-battery-storage-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/stationary-energy-storage-market-12467",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/stationary-energy-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/07/03/top-10-companies-in-the-stationary-industrial-battery-market-2026-market-leaders-powering-global-energy-storage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-stationary-battery-storage-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "定置用蓄電池 市場規模 CAGR",
+   "results": [
+    "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "https://www.gminsights.com/ja/industry-analysis/grid-scale-stationary-battery-storage-market",
+    "https://jp.linkedin.com/pulse/%E5%AE%9A%E7%BD%AE%E5%9E%8B%E8%93%84%E9%9B%BB%E6%B1%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-market%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E6%88%90%E9%95%B7%E6%B4%9E%E5%AF%9F2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%83%B3cagr%E3%81%AF53%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%88%86%E6%9E%90%E3%82%92%E6%8E%B2%E8%BC%89-ux26e",
+    "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "https://newscast.jp/smart/news/6847501",
+    "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/jisedai_kiban/distributed_energy_wg/pdf/002_04_00.pdf",
+    "https://www.atpress.ne.jp/news/6847501",
+    "https://www.sphericalinsights.com/jp/reports/japan-battery-market",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "https://www.globalgrowthinsights.com/jp/market-reports/stationary-battery-storage-market-126664"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 市場 シェア 上位 企業",
+   "results": [
+    "https://www.tainavi-pp.com/investment/new_grid_storage_station/316/",
+    "https://www.k-chikudenchi.com/manufacturer_comparison/",
+    "https://www.peaks-media.com/192/",
+    "https://service.xenobrain.jp/forecastresults/market-size/storage-battery-manufacturer",
+    "https://metoree.com/categories/3285/",
+    "https://solarjournal.jp/policy/46512/",
+    "https://panerou.com/manufacturer/21098/",
+    "https://www.enegaeru.com/biz-lib-strategyidea",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/0007/shiryo03.pdf",
+    "https://www.qyresearch.co.jp/reports/1170390/stationary-battery"
+   ]
+  },
+  {
+   "query": "定置用蓄電池 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/press/press.php/003866?srsltid=AYCX9vKL-RJ0ARXJmtFbWSOrVsdTvt1ji-0MEMC_OJVoNm5DapB2doJI",
+    "https://www.fkg-report.jp/market-trends/2026/3440.html",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/0007/shiryo03.pdf",
+    "https://mono.ipros.com/product/detail/2001230405/",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25092&la=ja",
+    "https://www.researchnester.jp/industry-analysis/stationary-battery-storage-market/78",
+    "https://www.enegaeru.com/globalstationaryenergystoragesystemmarketforecast2026-2030",
+    "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/05208/?ST=msb",
+    "https://www.renewable-ei.org/activities/reports/20250716.php",
+    "https://www.yano.co.jp/press-release/show/press_id/3871"
+   ]
+  },
+  {
+   "query": "stationary energy storage battery market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "https://www.fortunebusinessinsights.com/stationary-energy-storage-market-110450",
+    "https://www.grandviewresearch.com/industry-analysis/grid-scale-battery-storage-market",
+    "https://www.precedenceresearch.com/stationary-energy-storage-market",
+    "https://finance.yahoo.com/energy/articles/grid-scale-stationary-battery-storage-083900047.html",
+    "https://www.stratviewresearch.com/market-reports/stationary-battery-storage-market.html",
+    "https://www.marketresearchfuture.com/reports/stationary-energy-storage-market-12467",
+    "https://www.marketsandmarkets.com/Market-Reports/battery-energy-storage-system-market-112809494.html",
+    "https://www.insightaceanalytic.com/report/stationary-energy-storage-market/1668"
+   ]
+  },
+  {
+   "query": "stationary energy storage battery market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/battery-energy-storage-system-market-112809494.html",
+    "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary",
+    "https://www.futuremarketinsights.com/reports/stationary-battery-storage-market",
+    "https://www.stratviewresearch.com/market-reports/stationary-battery-storage-market.html",
+    "https://www.researchnester.com/reports/stationary-battery-storage-market/5566",
+    "https://www.mordorintelligence.com/industry-reports/stationary-energy-storage-market",
+    "https://www.energy-storage.news/vertically-integrated-cell-bess-suppliers-lose-market-share-as-competition-increases/",
+    "https://www.fortunebusinessinsights.com/stationary-energy-storage-market-110450",
+    "https://www.eia.gov/analysis/studies/electricity/batterystorage/",
+    "https://www.thebusinessresearchcompany.com/report/stationary-energy-storage-global-market-report"
+   ]
+  },
+  {
+   "query": "stationary energy storage battery market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/stationary-energy-storage-market",
+    "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "https://www.fortunebusinessinsights.com/grid-scale-stationary-battery-storage-market-105990",
+    "https://www.insightaceanalytic.com/report/stationary-energy-storage-market/1668",
+    "https://www.energy.gov/sites/prod/files/2020/12/f81/Energy%20Storage%20Market%20Report%202020_0.pdf",
+    "https://market.us/report/stationary-battery-storage-market/",
+    "https://uk.finance.yahoo.com/news/grid-scale-stationary-battery-storage-083900924.html",
+    "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/battery-energy-storage-system-market/us",
+    "https://www.consolidatedcomputing.com/"
+   ]
+  },
+  {
+   "query": "stationary energy storage battery market key companies share 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/stationary-battery-storage-market",
+    "https://www.futuremarketinsights.com/reports/stationary-battery-storage-market",
+    "https://www.fortunebusinessinsights.com/stationary-energy-storage-market-110450",
+    "https://finance.yahoo.com/energy/articles/grid-scale-stationary-battery-storage-083900047.html",
+    "https://www.marketresearchfuture.com/reports/stationary-energy-storage-market-12467",
+    "https://www.iea.org/reports/batteries-and-secure-energy-transitions/executive-summary",
+    "https://www.stratviewresearch.com/market-reports/stationary-battery-storage-market.html",
+    "https://www.idtechex.com/en/research-report/batteries-for-stationary-energy-storage-2027-2037/1175",
+    "https://www.precedenceresearch.com/stationary-energy-storage-market",
+    "https://www.emergenresearch.com/industry-report/stationary-energy-storage-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

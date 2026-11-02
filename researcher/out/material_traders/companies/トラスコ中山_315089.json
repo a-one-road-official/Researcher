@@ -1,0 +1,1224 @@
+{
+ "name": "トラスコ中山",
+ "aliases": [
+  "TRUSCO"
+ ],
+ "context": "工具・副資材の卸（上場）",
+ "researched_at": "2026-11-02T17:07:11.313381+00:00",
+ "official_url": "https://www.trusco.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結3,482名 （2026年9月末時点） （役員８名、社員1,917名、パートタイマー1,557名）",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数(人)",
+    "value": "3,280 3,476 3,482",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "label": "年度末従業員数（人）",
+    "value": "2,906 2,954 3,043 3,184 3,258",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "3,043（2023年12月末時点）",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1959年5月15日",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1964年3月2日",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1964",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "3,200億43百万円（2025年12月期） 3,500億00百万円（2026年12月期計画）",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "86,961 +9.8 178,204 +12.6 266,081 +12.1",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "226,833 -- 246,453 +8.6 268,154 +8.8 295,024 +10.0 320,043 +8.5",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "label": "総資本回転率（回） 売上高/総資本",
+    "value": "1.1 1.1 1.1 1.1 1.1",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "label": "たな卸資産回転率（回） 売上高/たな卸資産",
+    "value": "5.4 5.6 5.6 5.6 5.2",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "label": "対売上高比率（％）",
+    "value": "3.0 — 2.7 — 2.3 — 2.0 — 1.7 —",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "226,833 — 246,453 +8.6 268,154 +8.8 295,024 +10.0 320,043 +8.5",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "226,833 ー 246,453 +8.6 268,154 +8.8 295,024 +10.0 320,043 +8.5",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "3,729社のメーカー様の商品を一元調達できるだけでなく、即日配送やモノづくり現場のユーザー様への直送サービスなどの機能を活用でき、自社のビジネスを拡大することができます",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索から直送サービスまで、モノづくり現場をサポートするサービスをご活用ください",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、夏季休暇や年末年始に発生するユーザー様直送サービスの需要や、地域ごとのユーザー様の稼働状況に合わせた需要にも対応可能となり、社員も有給休暇を活用することで混雑時を避けての帰省や旅行が可能となります",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル全体の省エネ設計",
+    "url": "https://www.trusco.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では豊富な在庫を持つことによる調達の一元化や固定費型物流（リンク）など、ビジネスモデル全体を通じた省エネ設計をはじめ、環境に配慮したPBの企画開発、積極的なリサイクル・リユース・リターナブルを実施しています",
+    "url": "https://www.trusco.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー様直送による環境負荷削減",
+    "url": "https://www.trusco.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な在庫と物流DXが実現した「ユーザー様直送」により、得意先様を経由した2段階配送からユーザー様への直送を実現（848万個/年）",
+    "url": "https://www.trusco.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "日本で長年親しまれているビジネスモデル「置き薬」の工具版です",
+    "url": "https://www.trusco.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン全体の環境負荷軽減に向けた当社独自の取組みとして配送効率が高く、梱包材の削減につながるユーザー様直送の件数やMROストッカーの導入数を環境負荷軽減にまつわる「指標」として捉え、それぞれ「目標」を設定しています",
+    "url": "https://www.trusco.co.jp/sustainability/environment/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー様直送拡大",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・「ニアワセ＋ユーチョク」（荷物詰合わせ＋ユーザー様直送）",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、デジタル化したことでインターネット通販向けの売り上げも急拡大し、後述する「ニアワセ（荷物詰め合わせ）+ユーチョク（ユーザー直送）」や「ユークル（ユーザー商品引き取り）」などの新しいサービスも生まれた",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "一方のユーチョクとは「ユーザーへ直送する」ことで、例えば社外の注文サイトからの受注を、注文サイトを経由することなくユーザーに直接送るサービスだ",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の注文を荷物合わせしてユーザーに直送することで、納期や配送運賃、梱包資材、さらに作業負荷や環境負荷を半減することに成功した",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "物流システムも自前で構築され、ユーザーへの直送など独自の仕組みを作られています",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、卸売りでありながらも、自分たちの顧客のその先のユーザー様へ商品を出荷する「ユーチョク（ユーザー様直送）」や、複数の商品を1つの箱にまとめる「ニアワセ（荷物詰め合わせ）」といったサービスも行い、納期短縮と環境負荷の低減を実現しています",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "5,680社の販売店様へ販売することができるだけでなく、商品データ連携や、在庫保有、カタログ掲載など幅広い販売支援サービスをご提供しています",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3,729社のメーカー様の商品を一元調達できるだけでなく、即日配送やモノづくり現場のユーザー様への直送サービスなどの機能を活用でき、自社のビジネスを拡大することができます",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産現場における商品調達が簡単、便利",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくり現場に必要な商品がなんでも揃い、すぐ届く",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索から直送サービスまで、モノづくり現場をサポートするサービスをご活用ください",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド商品」",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索サイト",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "Where can I buy TRUSCO products?",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "Who do I contact if I have products or brands to sell?",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "商品について",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "TRUSCO製品のCADデータがほしい",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "TRUSCO製品の修理依頼について",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "TRUSCO製品のサンプルもしくはデモ機がほしい",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "トラスコの商品検索サイト",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品の情報公開をはじめ、商品のSDS（安全データシート）や図面などもダウンロードできます",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "商品見積や注文・返品依頼を24時間行うことができ、リアルタイムで在庫を確認することも可能です",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載商品数 42万アイテム",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "おそれいりますが取扱販売店様へお尋ねください",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品を募集しています",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "トラスコはプロ仕様の商品を探しています",
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "商品本部 本部長",
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱いアイテムを増やし、",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外3,729社のメーカー様の418万アイテムもの商品を取扱い、約62万アイテムを在庫",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年版「トラスコ オレンジブック」に商品のCO2排出量を掲載",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーンの効率化を目的に、ユーザー様向けの機能を強化し、ユーザー様が必要な商品を見つけやすく、いつでも簡単に、販売店様経由で購入できる（※）サービスです",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "商品分類別月次売上高",
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報を検索",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "商品分類別売上高",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "商品分類別売上構成比2026年12月期",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "商品検索＆カタログ",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報の取扱い",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "即納こそ最大のサービス",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「究極の即納」",
+    "url": "https://www.trusco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "即納に応える",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な品揃えと在庫でモノづくり現場の即納ニーズに応えています",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "トラスコは日本全国に30か所の物流センターを配置し、物流センターを中心にその周辺事業所でネットワークを構築し、販売店様へ1日2回、ドライバー1本から即日配送する独自のプロツール供給体制を構築しています",
+    "url": "https://www.trusco.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "生産加工用品",
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "生産加工用品",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への即納率を高めるための在庫という考えでやってきましたが、実は「在庫のおかげで」という枕詞で語ることができるように、残業も激減しました",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "トラスコの強み",
+    "url": "https://www.trusco.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率(%)",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率(%)",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "A １.広報ＩＲ課にて、様々な情報を基に独自の技術があるなど強みのある",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.営業利益率や経常利益率といった指標は社内で管理している",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ので、物流や在庫、システムなどの強みをもっと発信すべきではない",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "物流センターを運営する強みを生かし、私が社長就任時の1994年12月に830億円だった売上高は、30年後の2024年12月には2950億円にまで拡大した",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "誰も真似しないことを続けていくと、自分たちの理想とするビジネススタイルを確立でき、結果として合理的な強みになると言うのです",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客第一」と言いながら、在庫回転率などの自社目線の指標を気にして在庫を減らすのは矛盾しています",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、在庫回転率ひとつとっても、それは、お客様が知らなくていいものですし",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "工場や作業現場で利用されているプロツールの総合サイト『トラスコ オレンジブック.Com』のユーザー様向け（会員）購買サイト『トラスコ オレンジブック.Com クロス』をリリース",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率(%)",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率(%)",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "経常利益率(%)",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "四半期/中間/当期純利益率(%)",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "経常利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "当期純利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "ROA 総資本経常利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "ROE 自己資本当期純利益率（％）",
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "A １.利益率の向上は当社としても改革すべき重要な課題であり",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.営業利益率や経常利益率といった指標は社内で管理している",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益率の改善については今後取り組んでいくが、相手先もあるため",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "方で、当社が保有している株式方式のゴルフ会員",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が着目する経営指標は、PER（株価収益率）・PBR（株価純資産倍率）・ROE（自己資本利益率）ではない",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "機関投資家は費用対効果や利益率の向上にこだわるが、世の中には効率が悪くても作るべき商品、行うべきサービスがある",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "業界最後発企業として創業した当社は、枠にとらわれない発想で、「ありたい姿」の実現に向けた事業活動と積極的な設備投資を通じて、お客様の利便性向上に努めてまいりました",
+    "url": "https://www.trusco.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "営目標が当初の予定どおりに進捗しているか取締役",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品等の販売実績が当初の想定を大きく下回った場",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業者である私の父は、損得勘定の「取捨",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "世界初光学単結晶実用化成功の舞台裏と創業者が見据える未来像",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "“フレッシュさ”を徹底追求！創業180年超、老舗企業の新たな挑戦！",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別月次売上高",
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "ルート別売上高構成比2026年12月期",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "商品分類別売上構成比2026年12月期",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "pass": 1
+   },
+   {
+    "quote": "%表示は構成比",
+    "url": "https://www.trusco.co.jp/sustainability/environment/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "の報告セグメントを商品分類別に分解した場合の",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "（2） 当社を主要な取引先（年間取引額が連結売上高",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3） 当社の主要な取引先（年間取引額が連結売上高の",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資材） の卸売業を主な事業としており、顧客と",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、通常、顧客に商品を引き渡した時点で収",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益は、顧客との契約に",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1． 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び連結子会社の売上高は、顧客との契約",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活動に伴い発生するものであり、顧客の信用リス",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先企業等からの依頼により取得したものであ",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売掛金及び電子記録債権に係る顧客の信用リス",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価の把握を行い、取引先企業との関係を勘案して",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を主な事業としており、顧客との契約に基づいて",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のような商品の販売については、通常、顧客に商",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益は、 顧客との契約において約束された対価から、",
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FCC（ファーストコールカンパニー：100年先も顧客から真っ先に声をかけられる会社）の実現を支援する、経営者のための戦略プラットフォーム「",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からの注文をどれだけ在庫から出荷したかを示す「在庫出荷率」である",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "売れ筋以外の在庫も置き、速く安く提供したため、同業ライバル企業までが顧客となった",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2008年には取引先懇親会、2009年には売り出しセールを廃止",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "また、社員は混雑時期を避けて夏休みを取得でき、顧客は営業日が増えることで利便性が向上した",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "そのほかには、取引先との各種会合に参加することで、さまざまな経験をしてもらう",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "世の中・顧客・社員・退職者・株主・機関投資家に媚びる必要はない",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "流行の経営手法や短期的な効率化には目もくれず、「顧客にとっての最善」を徹底的に追求する企業がある",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客第一」と言いながら、在庫回転率などの自社目線の指標を気にして在庫を減らすのは矛盾しています",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "100回の称賛より、顧客からの1回の「ありがとう」",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、卸売りでありながらも、自分たちの顧客のその先のユーザー様へ商品を出荷する「ユーチョク（ユーザー様直送）」や、複数の商品を1つの箱にまとめる「ニアワセ（荷物詰め合わせ）」といったサービスも行い、納期短縮と環境負荷の低減を実現しています",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "「“在庫を抱えたおかげ”で競合他社がすべて顧客に」",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "2.トラスコ中山の原点となった顧客の言葉",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "5.顧客の利便性を追求する",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トラスコ中山 の「教科書にない経営」 - TCG REVIEW — トラスコ中山 の「教科書にない経営」 - TCG REVIEW タナベコンサルティング https://review.tanabeconsulting.co.jp > seminarreport",
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容（ ビジネス フロー）｜TRUSCO トラスコ中山 株式会社 — 事業内容（ ビジネス フロー）｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > business",
+    "url": "https://www.trusco.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "トラスコ中山 （9830）の減益予想に隠された本質。PBR0.85 ... — トラスコ中山 （9830）の減益予想に隠された本質。PBR0.85 ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/hr793/n/nbd611a53edbd",
+    "pass": 3
+   },
+   {
+    "quote": "四半期業績（累計）｜TRUSCO トラスコ中山 株式会社 — 四半期業績（累計）｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > financial > quarterly",
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/2025.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜TRUSCO トラスコ中山 株式会社 — 決算説明資料 ｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library > explanation",
+    "url": "https://www.trusco.co.jp/ir/library/explanation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜TRUSCO トラスコ中山 株式会社 — IRライブラリー｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library",
+    "url": "https://www.trusco.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜TRUSCO トラスコ中山 株式会社 — 決算 短信｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library > statements",
+    "url": "https://www.trusco.co.jp/ir/library/statements/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書｜TRUSCO トラスコ中山 株式会社 — 統合報告書｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > library > eng_report",
+    "url": "https://www.trusco.co.jp/ir/library/eng_report/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜TRUSCO トラスコ中山 株式会社 — IR情報｜TRUSCO トラスコ中山 株式会社 トラスコ中山株式会社 https://www.trusco.co.jp > ...",
+    "url": "https://www.trusco.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "トラスコ中山社長 が語る、AIにも教科書にもない独自哲学と ... — トラスコ中山社長 が語る、AIにも教科書にもない独自哲学と ... ダイヤモンド・ビジョナリー https://www.diamondv.jp > article",
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "pass": 3
+   },
+   {
+    "quote": "トラスコ中山 株式会社 代表取締役 社長 中山哲也 - 社長名鑑 — トラスコ中山 株式会社 代表取締役 社長 中山哲也 - 社長名鑑 社長名鑑 https://shachomeikan.jp > presidents > detail",
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイト企業に成長！ トラスコ中山 の中山哲也 社長 から滲み ... — ホワイト企業に成長！ トラスコ中山 の中山哲也 社長 から滲み ... Kindai Picks https://kindaipicks.com > article",
+    "url": "https://kindaipicks.com/article/002342",
+    "pass": 3
+   },
+   {
+    "quote": "トラスコ中山社長 「多数決が正しいなら経営者は要らない」 — トラスコ中山社長 「多数決が正しいなら経営者は要らない」 日経ビジネス電子版 https://business.nikkei.com > atcl > seminar",
+    "url": "https://business.nikkei.com/atcl/seminar/21nv/00062/072900002/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.trusco.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/financial/monthly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/financial/quarterly/%20",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/financial/settlement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/library/statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/library/newsletter/%20",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/library/securities_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/library/explanation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/library/eng_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/stockinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/stockinfo/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/sustainability/environment/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trusco.co.jp/sustainability/environment/tcfd/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.trusco.co.jp/assets/img/modules/company-outline-area/trusco_integrated_report_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_convocationaccess_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/%E7%AC%AC63%E6%9C%9F%E5%AE%9A%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E6%B1%BA%E8%AD%B0%E3%81%94%E9%80%9A%E7%9F%A5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_q&a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_surveyresults.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_convocation_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_convocation_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trusco.co.jp/ir/meeting/63th_disclosure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.plus500.com/en/newsandmarketinsights/gross-margin-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トラスコ中山 ビジネスモデル 収益構造",
+   "results": [
+    "https://review.tanabeconsulting.co.jp/column/seminarreport/52243/",
+    "https://www.trusco.co.jp/business/",
+    "https://diamond.jp/articles/-/267756",
+    "https://note.com/hr793/n/nbd611a53edbd",
+    "https://www.trusco.co.jp/ir/financial/quarterly/2025.html",
+    "https://kn.itmedia.co.jp/kn/article/2007/27/1200727047/",
+    "https://www.trusco.co.jp/company/president/2023/",
+    "https://www.daiwahouse.co.jp/tochikatsu/souken/business/column/clm27-8.html",
+    "https://www.youtube.com/watch?v=WXJrw2c2jSI",
+    "https://yomitoka.com/company/9830"
+   ]
+  },
+  {
+   "query": "トラスコ中山 決算説明資料 セグメント",
+   "results": [
+    "https://www.trusco.co.jp/ir/library/explanation/",
+    "https://www.trusco.co.jp/ir/library/",
+    "https://www.trusco.co.jp/ir/library/statements/",
+    "https://www.trusco.co.jp/ir/library/eng_report/",
+    "https://www.trusco.co.jp/ir/",
+    "https://www.trusco.co.jp/ir/library/files/%E4%BB%A4%E5%92%8C7%E5%B9%B4%EF%BC%882025%EF%BC%89%2012%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC63%E6%9C%9F%EF%BC%89%E9%80%9A%E6%9C%9F%E3%80%80%E6%B1%BA%E7%AE%97%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E8%B3%87%E6%96%99.pdf",
+    "https://www.trusco.co.jp/ir/library/files/81d2632552db3326f4111d41bc4f7f184d18b584.pdf",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9830",
+    "https://edinetdb.jp/company/E02701/presentations/",
+    "https://japanir.jp/company/company-9830/ir/9830-20261030-01_wp_financial_summary/"
+   ]
+  },
+  {
+   "query": "トラスコ中山 社長 インタビュー",
+   "results": [
+    "https://www.diamondv.jp/article/7YiiRphWvUZSJMj7G4v3ym",
+    "https://shachomeikan.jp/presidents/detail/10062878?page=2",
+    "https://magazine.chichi.co.jp/articles/1751281506/",
+    "https://kindaipicks.com/article/002342",
+    "https://business.nikkei.com/atcl/seminar/21nv/00062/072900002/",
+    "https://www.trusco.co.jp/recruit/message/",
+    "https://idconscious.com/staffblog/%E6%95%99%E7%A7%91%E6%9B%B8%E9%80%9A%E3%82%8A%E3%81%A7%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F%E3%81%AA%E3%82%89%E3%80%81%E4%B8%96%E3%81%AE%E4%B8%AD%E3%81%AF%E6%88%90%E5%8A%9F%E8%80%85%E3%81%A7/",
+    "https://review.tanabeconsulting.co.jp/100fcc/26390/",
+    "https://shachomeikan.jp/presidents/detail/10062878",
+    "https://shachomeikan.jp/presidents/detail/10062878?page=1"
+   ]
+  },
+  {
+   "query": "トラスコ中山 business model revenue gross margin",
+   "results": [
+    "https://us.plus500.com/en/newsandmarketinsights/gross-margin-explained",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.investopedia.com/terms/g/grossmargin.asp",
+    "https://www.vikingmergers.com/blog/gross-margin-vs-net-margin-understanding-business-profitability/",
+    "https://www.salesforce.com/eu/sales/revenue-lifecycle-management/gross-profit-margin/",
+    "https://www.crestmontcapital.com/blog/profit-margin-benchmarks-by-industry",
+    "https://simplydepo.com/industry/profit-margin-formula/",
+    "https://quartr.com/insights/investing/gross-margin-calculations-and-analysis",
+    "https://www.brentwood-growth.com/blog/trades-businesses/are-you-hitting-your-target-margins-a-deep-dive-into-profitability-benchmarks-for-trades-businesses/",
+    "https://www.trusco.co.jp/en/ir/library/"
+   ]
+  }
+ ],
+ "missing": {}
+}

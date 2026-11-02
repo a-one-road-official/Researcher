@@ -1,0 +1,1932 @@
+{
+ "name": "バイオ由来化学品",
+ "en": "bio-based chemicals",
+ "aliases": [
+  "GXケミカル",
+  "グリーンケミカル",
+  "バイオプラスチック"
+ ],
+ "context": "12 GX ⑦GXケミカル",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:58:09.894581+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の再生可能化学品市場規模は、2024年には1,285億米ドルと推定され、2037年末までに4,815億米ドルを超え、2025年から2037年の予測期間中に年平均成長率（CAGR）10.7%で成長すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、持続可能な包装の市場は、2024年に2,700億米ドルを超えると推定され、今後も成長を続け、2034年までに4,900億米ドルに達すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "日本の再生可能化学品市場は、2037年まで安定した成長が見込まれています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能化学品市場規模は2024年に1,285億米ドルがありました",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバイオベース化学品市場規模は、2025年には1,068億米ドルと評価され、2026年の1,159億8,000万米ドルから2034年には2,244億1,000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は8.60%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場はCAGR 8.60%で成長すると予想されますが、サプライチェーンの制約により、この成長率は約1.2パーセントポイント低下し、短期的な成長率は約7.4%になる可能性があります",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のバイオベース化学品市場は、2025年には地域別で最大の38％のシェアを占めると予測されており、これはEUが化石燃料由来の原料への依存度低減に注力していること、バイオ製​​造への投資が増加していること、そして持続可能な化学代替品への需要が高まっていることに支えられている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国のバイオベース化学品市場は、再生可能な原料と持続可能で低炭素な生産への注力により、2026年には53億4000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのバイオベース化学品市場は、強力な化学製造基盤と確立されたバイオテクノロジー分野に支えられ、2025年には170億2000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のバイオベース化学品市場は、予測期間中に年平均成長率（CAGR）10.2%で成長すると予想されており、急速な工業化、豊富なバイオマス資源、グリーン製造を促進する政府の取り組みに支えられ、地域市場の中で最も急速に成長する市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のバイオベース化学品市場は、大規模な化学品製造、豊富なバイオマス資源、バイオベース材料への需要の高まり、そして持続可能な生産に対する政府の支援に支えられ、2025年には119億米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバイオベース化学品市場は、高度なバイオテクノロジー能力と活発な研究開発活動に支えられ、2025年には58億8000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのバイオベース化学品市場は、豊富な農業原料基盤、拡大する化学産業、そして再生可能で持続可能な生産への注力の高まりを背景に、2025年には46億8000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年以降はエチレンや乳酸などが生産増強や参入メーカー増加により、市場は拡大すると予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "139億ドル",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "261億ドル",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品市場は、基礎化学品の統合強化、沿岸クラッカーへの投資、そして政策主導のアップグレードにより、2026年から2035年にかけてアジア太平洋地域をリードすると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "北米の有機化学品市場は、持続可能な生産と厳格な環境基準の発展により、2035年までの予測期間中に27.9%という大幅な収益シェアで成長すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品を含むこのセクターは、米国経済の礎石であり、年間4,860億ドルの生産高を生み出し、52万9,000人以上を直接雇用しています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品市場は、2035年までに着実に成長すると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "USDÂ 120.75 Bn",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 278.49 Bn",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, bio-based chemistry represents only 1 to 2 million tonnes out of some 400 million tonnes produced per year. But it is estimated that it will represent around 15 million tonnes by 2030.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe bio-based chemicalsmarket size has grown strongly in recent years. It will grow from USD 60.38 billion in 2026 to USD 140.64 billion in 2035, expanding at a compound annual growth rate (CAGR) of 9.84% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Bio-based chemical market size is expected to increase from USD 120.75 billion in 2026 to USD 278.49 billion by 2035.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,400",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,800",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,200",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,700",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,200",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,400",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,500",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-Based Chemicals Market Size, Share and Growth 2026-2035",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-Based Chemicals Market Size, Share & Global Forecast 2026-2035",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The Bio-Based Chemicals Market was valued at USD 85.46 Billion in 2025 and is expected to reach USD 244.12 Billion by 2035, growing at a CAGR of 10.1% from 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based chemicals market's growth reflects a structural shift in industrial chemical production. The EU's Green Deal industrial strategy and USDA BioPreferred Program's federal procurement mandates provide both regulatory compulsion and commercial validation for bio-based chemical investment, with USDA data documenting biobased products adding USD 489 billion to the U.S. economy in 2023.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026E: USD 94.10 Billion",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2035: USD 244.12 Billion",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. bio-based chemicals market was valued at approximately USD 26.50 Billion in 2025 and is expected to reach approximately USD 75.68 Billion by 2035, growing at a CAGR of approximately 11.05%.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "USD 85.46 Billion",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2035",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "USD 244.12 Billion",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The Bio-Based Chemicals Market was valued at USD 85.46 Billion in 2025.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Analysis 2026: Revenue, Volume, Market Size, Share, CAGR, Growth Trends, Competitor Analysis, Historic Data, and Forecast to 2034",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Analysis size 2021 was recorded $53900 Million whereas by the end of 2026 it will reach $84320 Million. According to the author, by 2033 Bio-based Chemicals market size will become $157756 Million. Bio-based Chemicals market will be growing at a CAGR of 9.362% during 2026 to 2033. Download a free sample with data verified by Chidanand Bilagi",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Analysis from 2022 to 2034 Containing Market Size, Share along with its CAGR, Forecast and Trends",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 53.9 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 77.1 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 157.76 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 11.91 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 16.54 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 31.87 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "$ 9.65 Billion",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の再生可能化学品市場規模は、2024年には1,285億米ドルと推定され、2037年末までに4,815億米ドルを超え、2025年から2037年の予測期間中に年平均成長率（CAGR）10.7%で成長すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "当初の予測によると、中国の研究開発（R&D）への総投資額は2024年に490億米ドルを超え、前年比8.3%増となりました",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベース化学品市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバイオベース化学品市場規模は、2025年には1,068億米ドルと評価され、2026年の1,159億8,000万米ドルから2034年には2,244億1,000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は8.60%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場はCAGR 8.60%で成長すると予想されますが、サプライチェーンの制約により、この成長率は約1.2パーセントポイント低下し、短期的な成長率は約7.4%になる可能性があります",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオマスの入手可能性の向上、原料調達の多様化、安定した輸送ネットワーク、および加工能力の拡大により供給状況が正常化するにつれて、バイオベース化学品市場の成長率は徐々に8.60%に戻ると予想されます",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月、Tidal Vision社は、キトサンをベースとした化学物質の生産、製造能力、および商業化活動を拡大するため、シリーズBラウンドで1億4,000万米ドルの資金調達に成功しました",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ由来有機酸分野は、再生可能な原料からの生産と環境に優しい化学成分への移行に牽引され、予測期間中に年平均成長率（CAGR）8.7%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ化学品は、新型コロナウイルス感染症の影響で市場の伸びが一時的に鈍化したものの、2021年以降は再び順調に拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2023年以降はエチレンや乳酸などが生産増強や参入メーカー増加により、市場は拡大すると予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、3Dプリンターの溶融樹脂積層方式用のフィラメントとしてABSの代替需要を獲得している他、中国を中心に服や不織布など繊維としての採用が拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2019年頃に一部パイロットレベルであるが生産が開始し、2021年から2022年に採用が拡大している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "規模は2025年に139億米ドルと評価され、2026年から2035年の予測期間中に6.7%のCAGRで成長し、2035年末までに261億米ドルに達すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー情報局（EIA）によると、米国の乾燥天然ガス生産量は2025年第2四半期に平均1日あたり1168億立方フィートに増加し、前年比47億立方フィート増加しました",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "このような原料の豊富な供給は、2035年まで基礎石油化学品が年平均成長率3.5%で成長するという予測を裏付けています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "NITI Aayogの報告書では、2030年までに世界シェアを5～6%に拡大し、2040年までに輸入を実質ゼロにし、セクター価値を1兆米ドルにするという目標が設定されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は安定した成長を遂げており、医薬品、自動車、包装、エレクトロニクス産業における需要により、2035年までに約3.2%のCAGR（年平均成長率）で成長すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、クリーンエネルギーへの連邦政府投資は大幅に増加しており、米国の再生可能エネルギー産業へのグリーンフィールド外国直接投資（FDI）は2023年には262億米ドルに達し、2022年の97億米ドルから倍増以上となっています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、EU財政計画に基づいて運営されるイノベーション基金は、エネルギー集約型産業、水素、再生可能エネルギー、貯蔵エネルギーと再生可能エネルギーの製造部品に関するプロジェクトを拡大するために、2023年に36億ユーロを超える助成金を割り当てました",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "​そのため、足元では生分解性プラスチックの導入も進めつつも、リサイクルが可能なバイオマスナフサ由来やCO2由来のバイオプラスチックの導入を進めることが、日本のバイオプラスチック市場拡大のカギになると考える",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3826?srsltid=AYCX9vLT87n7NSBceXJyqIKTVQjujCQ4EHPfKfvVAC66OXT1P0qjtnI2",
+    "pass": 3
+   },
+   {
+    "quote": "By product category, Polymers for Plastics is expected to grow with the highest CAGR in the market between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the industrial segment is expected to grow at the fastest CAGR in the market between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe bio-based chemicalsmarket size has grown strongly in recent years. It will grow from USD 60.38 billion in 2026 to USD 140.64 billion in 2035, expanding at a compound annual growth rate (CAGR) of 9.84% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Bio-based chemical market is expected to grow at a compound annual growth rate (CAGR) of around 9.73% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Bio-Based Chemicals Market was valued at USD 85.46 Billion in 2025 and is expected to reach USD 244.12 Billion by 2035, growing at a CAGR of 10.1% from 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 10.1% from 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. bio-based chemicals market was valued at approximately USD 26.50 Billion in 2025 and is expected to reach approximately USD 75.68 Billion by 2035, growing at a CAGR of approximately 11.05%.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing regional bio-based chemicals market, with the region projected to expand at a CAGR above 11.4% through 2035, driven by rapid industrialization, the world's largest and fastest-growing consumer markets for bio-based packaging, and government bioeconomy investment programmes across China, India, South Korea, Japan, and Southeast Asian economies.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.1% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR of the Bio-Based Chemicals Market from 2026 to 2035?",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 10.1% from 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Analysis 2026: Revenue, Volume, Market Size, Share, CAGR, Growth Trends, Competitor Analysis, Historic Data, and Forecast to 2034",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Analysis size 2021 was recorded $53900 Million whereas by the end of 2026 it will reach $84320 Million. According to the author, by 2033 Bio-based Chemicals market size will become $157756 Million. Bio-based Chemicals market will be growing at a CAGR of 9.362% during 2026 to 2033. Download a free sample with data verified by Chidanand Bilagi",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025–2033",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Analysis from 2022 to 2034 Containing Market Size, Share along with its CAGR, Forecast and Trends",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2021-2033): 8.544%",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2021-2033): 8.845%",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2021-2033): 9.888%",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2021-2033): 9.719%",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2021-2033): 9.564%",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2021-2033): 8.661%",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global bio-based chemicals market is poised for strong growth, with a projected CAGR of 9.362%, driven by a worldwide push for sustainability and stricter environmental laws.",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 6.2%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.2% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Volume in kilotons; revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global bio-based platform chemicals Market is expected to grow at a compound annual growth rate of 6.2% from 2026 to 2033, reaching USD 24.8 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "As per MRFR analysis, the Bio-Based Chemicals Market Size was estimated at 104.39 USD Billion in 2024. The Bio-Based Chemicals industry is projected to grow from 113.06 USD Billion in 2025 to 250.99 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 8.3% during the forecast period 2025 - 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "The Bio-Based Chemicals Market is projected to grow at an 8.3% CAGR from 2025 to 2035, driven by sustainability initiatives, regulatory support, and technological advancements.",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Bio-Based Chemicals Market from 2025 to 2035 is 8.3%.",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035):",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, adding USD 11.8 billion in new revenue and advancing at a CAGR of",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.9% CAGR",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based platform chemicals market is expected to grow at a 5.9% CAGR between 2025 and 2035.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based Chemicals Market Size, Share | CAGR of 11.6%",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "a CAGR of 11.6%",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "再生可能化学品市場調査、規模、シェア、傾向、予測2037年",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に再生可能化学品産業のシェア45.9%を獲得し、市場をリードすると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "アルコールセグメントは、2037年までに約39.9%のシェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別では、石油化学セグメントは2037年末までに35.9%のシェアを占めると見込まれます",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の再生可能化学品産業は、2037年まで大きな市場シェアを維持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベース化学品市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベース化学品市場の規模、シェア、トレンド分析レポート：製品タイプ別（バイオベースアルコール、バイオベース有機酸、バイオベース溶剤、バイオベース界面活性剤、その他）、原料タイプ別（糖類作物、デンプン作物、植物油、リグノセルロース系バイオマス、その他）、製造技術別（発酵、酵素変換、化学変換、その他）、用途別（包装、工業用化学品、消費財、その他）、最終用途産業別（化学製造、食品・飲料、パーソナルケア・化粧品、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に38%のシェアを占め、バイオベース化学品市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベースアルコールセグメントは、石油由来アルコールの再生可能な代替品に対する需要により、2025年には22%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "糖類作物セグメントは、サトウキビやテンサイなどの糖分を豊富に含む原料がバイオベース化学品の製造に利用できることから、2025年には24%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "発酵分野は、再生可能な原料をバイオアルコール、有機酸、その他の化学物質に変換する用途が広く普及していることから、2025年には市場全体の36%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "包装分野は、包装生産における持続可能な素材と再生可能な化学原料への需要の高まりにより、2025年には市場全体の19%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "化学製造分野は、溶剤、アルコール、有機酸、ポリマー、その他の化学中間体の製造に再生可能な原料を使用していることから、2025年には市場全体の25%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のバイオベース化学品市場は、2025年には地域別で最大の38％のシェアを占めると予測されており、これはEUが化石燃料由来の原料への依存度低減に注力していること、バイオ製​​造への投資が増加していること、そして持続可能な化学代替品への需要が高まっていることに支えられている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "BASF SE、Dow Inc.、Evonik Industries AG、DuPont de Nemours Inc.、三菱ケミカルグループ株式会社などの主要企業が、世界のバイオベース化学品市場シェアの約28～30%を占めている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年において、バイオベース化学品市場で最大のシェアを占める地域はどこでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "中でも飲料用PETボトルなどに使用されるMR-PETの割合が高く、ボトル類需要の約60%を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "産業・工業用は、塗料や接着剤・粘着剤向けのバイオPUが最も多く、50%以上を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "次いでパレットなどの物流資材向けが多いMR-PPが約30%を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "軟包装フィルムは、レジ袋やごみ袋を中心に採用されるMR-PEが50%弱を占め、バイオPE、でんぷん系はそれぞれ17%であり、3樹脂で80%以上を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "MR-PETが需要の70%以上を占める他、生分解性により採用されるPLAが20%弱となっている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "中でもPLAの需要が最も多く、約85%を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品市場の規模とシェア、2035年の成長予測",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品市場の規模とシェア（原料タイプ別（基礎石油化学品、中間体・溶剤、ポリマー・樹脂）、生産タイプ、用途別） - 世界の需給分析、成長予測、統計レポート2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに32.4％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国EPAの2020年化学物質データ報告によると、上位10セクターが報告された化学物質生産量全体の98%以上を占め、石油・石炭製品製造と化学品製造がそれぞれ64%と14%を占めています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "上位50種の化学物質は総生産量の約64%を占め、亜硫酸液、石油残渣、灯油といった主要化学物質の生産量は年間1,000億ポンドを超えています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "自家生産型セグメントは、予測期間中に有機化学品市場において52.2%という最大のシェアを占めると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品市場における基礎石油化学品セグメントは、2026年から2035年にかけて41.4%という大幅な収益シェアで成長すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "有機化学品市場におけるプラスチックおよびポリマーセグメントは、予測期間中、40.3%の安定した収益シェアで成長する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "地域は、高い工業化率と、中間体、ポリマー、特殊化学品に対する輸出志向の需要の存在により、有機化学品市場において最大の収益シェア32.4%を占めると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "化学産業は2023年に2,200億米ドルと評価され、GDPの約7%を占めますが、そのグローバルバリューチェーンはわずか3～3.5%にとどまっています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "NITI Aayogの報告書では、2030年までに世界シェアを5～6%に拡大し、2040年までに輸入を実質ゼロにし、セクター価値を1兆米ドルにするという目標が設定されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "北米の有機化学品市場は、持続可能な生産と厳格な環境基準の発展により、2035年までの予測期間中に27.9%という大幅な収益シェアで成長すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "この製品により、BASFはパーソナルケアのオーガニック分野で、特にEMEA地域において18%の市場シェアを獲得しました",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "Europe dominated the global market with the largest market share of 50% in 2026.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The agricultural type of application segment dominated the market in 2026. Bio-based chemicals, such as biopesticides and biofertilizers, are in high demand as alternative petrochemical products due to consumer awareness of health and safety. To reduce environmental damage, governments are also imposing strict regulations on pesticides, helping in the adoption of organic farming.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the market with the largest revenue share in 2025, while bio-solvents and bio-surfactants are the fastest growing product types during 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "By Feedstock, sugarcane dominated the market as the largest feedstock source in 2025, while biomass and agricultural waste are the fastest growing feedstocks during the forecast period.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the packaging segment dominated the market with the largest revenue share in 2025, while the agriculture segment is the fastest growing application during 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Which Type segment dominated the Bio-Based Chemicals Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The bioplastics segment dominated the market with the largest revenue share in 2025.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the Bio-Based Chemicals Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the market in 2025.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Country-Specific Insight: Europe's market is led by Germany, which holds about 4.00% of the global market share in 2025, thanks to its strong chemical industry and focus on innovation. The UK and France hold significant shares of 2.63% and 2.54% respectively. Other key contributors include Spain (1.69%) and Italy (1.59%), all driven by the EU's Green Deal and circular economy policies.",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Country-Specific Insight: The African market is nascent but holds long-term potential. South Africa is the regional leader, accounting for 0.85% of the global market in 2025, with a focus on converting sugarcane and forestry resources. Nigeria contributes about 0.35% to the global share, with potential in using cassava and palm waste as feedstock.",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Glycerol segment held the largest market share of 23.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based platform chemicals market in North America held a 27.7% share of the global market in 2025, driven by technological advancements, the strong presence of leading bio-based chemical producers, and increasing adoption of sustainable materials across industries. Favorable regulatory initiatives, along with rising investments in",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The glycerol segment dominated the market with a 23.2% revenue share in 2025, primarily due to its abundant and cost-effective availability as a by-product of biodiesel production, ensuring consistent supply at competitive pricing. Its versatile applicability across pharmaceuticals, personal care, food, and industrial sectors significantly enhances its demand and commercial viability.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 33.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "By 2035, the market is expected to achieve substantial growth, positioning itself as a leader in sustainable chemical solutions.",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 65-70% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Tertiary Classification: Regional segmentation shows Asia Pacific's commanding 33.1% position, followed by Europe at 30.9% and North America at 27.6%, demonstrating varied biorefinery specialization levels and renewable infrastructure concentrations.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bio Based Platform Chemicals Market Europe Country Market Share Analysis, 2025 & 2035 | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "France follows with USD 0.9 billion, representing 18.9% of the European market in 2025, driven by comprehensive bio-based chemical production integration and pharmaceutical manufacturing concentration. UK holds USD 0.8 billion with 17.3% market share through established renewable mandate acceptance and chemical facility density.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "34% market share",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Value Gap: What Our Analysis of the S&P 500 Reveals About AI Leaders in Every Sector",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "再生可能化学品市場は、業界の主要企業が製品ラインナップの拡大に向けて多額の研究開発投資を行っていることから、引き続き成長が見込まれます",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能化学品市場の主要企業をご紹介します",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "BASF SE、Dow Inc.、Evonik Industries AG、DuPont de Nemours Inc.、三菱ケミカルグループ株式会社などの主要企業が、世界のバイオベース化学品市場シェアの約28～30%を占めている",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dow Inc.、BASF SE、SABIC、LyondellBasell Industries などがこの市場の主要企業です",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Major Players in the Global Bio-based Chemical Market?",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the Bio-based chemical market include BASF SE, Braskem, DuPont, Cargill, Evonik Industries, Corbion, Mitsubishi Chemical, ADM, Novozymes, NatureWorks, Novamont, Total Corbion PLA, Arkema, Biome Bioplastics, DSM, PTT Global Chemical, and GFBiochemicals Ltd.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-Based Chemicals Market Key Players:",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Global Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Segment Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "South America Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Africa Bio-based Chemicals Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Disruption & Strategic Shifts",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In parallel, the competitive landscape is evolving with the growing presence of specialized biotechnology firms and regional manufacturers such as GFBIOCHEMICALS, PTT Global Chemical Public Company Limited, and Novozymes A/S, which are focusing on niche product development and innovative fermentation technologies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Cargill and dsm-firmenich.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Volume & revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in bio-based platform chemicals market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Bio-Based Chemicals Market include",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Bio-Based Chemicals Market?",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include BASF, DuPont, Cargill, Novozymes, and Braskem.",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Trends include increasing demand for sustainable products and innovations from key players like NatureWorks and Mitsubishi Chemical.",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the Bio-based Platform Chemicals Market",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market leadership is maintained through several critical competitive advantages extending beyond bio-processing capabilities and product portfolios. Global biorefinery networks enable leading players to navigate diverse feedstock requirements and access varied manufacturer segments including pharmaceutical companies, bioplastics producers, and specialty chemical manufacturers.",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Bio-based Platform Chemicals Market",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based chemicals market is highly competitive, with several key players driving innovation and expansion. Companies such as AGAE Technologies and GFBiochemicals Ltd. are at the forefront of developing advanced bio-based technologies, focusing on sustainable chemical production.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "With innovation providing a diverse potential for applications, recent success stories in bio-based chemicals indicate much stronger market readiness for adoption than the previous wave of unsuccessful startups experienced. The three examples below are just a few where demonstrated customer interest and increasing willingness to pay for sustainable materials have led to rapid growth in demand:",
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-Based Platform Chemicals Market Size, Forecast: By Product Type: Bio Glycerol, Bio Glutamic Acid, Bio Itaconic Acid, Bio-3-Hydroxypropionic Acid, Bio Succinic Acid, Others; Regional Analysis; Market Dynamics: SWOT Analysis, Porter’s Five Forces Analysis, Key Indicators for Demand; Competitive Landscape; 2026-2035",
+    "url": "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*",
+    "url": "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other key players in the bio-based platform chemicals market report are DuPont Tate and Lyle Bio Products Company, LLC, Braskem S.A, and Rennovia, Inc., among others.",
+    "url": "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players in this market are Genomatica, Inc., WR Grace & Co-Conn, BASF SE (OTCMKTS: BASFY), Corbion, Rennovia, Inc., DuPont Tate & Lyle Bio Products Company, LLC, and Braskem, amongst others.",
+    "url": "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the biobased chemical industry include:",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the biobased chemicals market?",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Novonesis, Cargill Incorporated, Evonik Industries AG, BASF SE, Renewable Energy Group, Inc., Amyris, Braskem, Corbion, Genomatica, and LanzaTech.",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players operating in the global",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "当初の予測によると、中国の研究開発（R&D）への総投資額は2024年に490億米ドルを超え、前年比8.3%増となりました",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月、Trillium Renewable Chemicals社は、植物由来グリセロールからバイオベースのアクリロニトリルを製造する実証規模の施設開発を支援するため、シリーズB資金調達ラウンドで1,300万米ドルを調達しました",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月、Tidal Vision社は、キトサンをベースとした化学物質の生産、製造能力、および商業化活動を拡大するため、シリーズBラウンドで1億4,000万米ドルの資金調達に成功しました",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is observed to be a dominant player in the market in the Asia Pacific region in the upcoming years. Strict government policies to reduce carbon emission such as China's 2060 carbon neutrality goal is playing a critical role in boosting bio-based chemicals. Also, due to a strong industrial base and high research and development investment, the market further.",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based chemicals market's growth reflects a structural shift in industrial chemical production. The EU's Green Deal industrial strategy and USDA BioPreferred Program's federal procurement mandates provide both regulatory compulsion and commercial validation for bio-based chemical investment, with USDA data documenting biobased products adding USD 489 billion to the U.S. economy in 2023.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing regional bio-based chemicals market, with the region projected to expand at a CAGR above 11.4% through 2035, driven by rapid industrialization, the world's largest and fastest-growing consumer markets for bio-based packaging, and government bioeconomy investment programmes across China, India, South Korea, Japan, and Southeast Asian economies.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil leads Latin American revenues at approximately 43.84% of the regional total. The UAE leads MEA revenues at approximately 22.84% of the regional total through its investment in industrial biotechnology as an economic diversification strategy, with government-supported bio-based chemical production initiatives targeting reduction of petrochemical export dependency.",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "The bio-based platform chemicals market in North America held a 27.7% share of the global market in 2025, driven by technological advancements, the strong presence of leading bio-based chemical producers, and increasing adoption of sustainable materials across industries. Favorable regulatory initiatives, along with rising investments in",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 30 million funding program",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", which aims to make Europe the first climate-neutral continent by 2050. The plan includes significant funding and incentives for industries to shift to bio-based alternatives. The EU has set ambitious targets, such as reducing greenhouse gas emissions by at least",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe holds about 24.3% of the bio-based chemicals market, benefiting from stringent environmental regulations and ambitious sustainability goals, particularly in countries like Germany, France, and the Netherlands. The European Union’s aggressive push towards reducing carbon emissions is driving substantial investment in bio-based chemical production and infrastructure.",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe held market value of USD 41 billion in 2024, led specifically by the trend toward sustainability, government funding, and consumer environmental beliefs.",
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "pass": 3
+   },
+   {
+    "quote": "The shift toward circular economies and tightening regulations on petrochemical waste are driving investment in bio‑based routes, while advances in synthetic biology enable higher yields and lower production costs, positioning the sector for robust growth through 2034.",
+    "url": "https://chemicalresearchinsight.com/2026/10/05/top-10-companies-in-the-biotech-bio-based-chemicals-market-2025-leaders-driving-the-shift-to-sustainable-chemistry/",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-bio-based-chemicals-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "バイオ プラスチック 市場 に関する調査を実施（ 2025 年） — バイオ プラスチック 市場 に関する調査を実施（ 2025 年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3826?srsltid=AYCX9vLT87n7NSBceXJyqIKTVQjujCQ4EHPfKfvVAC66OXT1P0qjtnI2",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - Based Chemicals Market Size , Share and Growth 2026 ... — Bio - Based Chemicals Market Size , Share and Growth 2026 ... SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size , Share | Global Report, 2034 — Bio - based Chemicals Market Size , Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Analysis 2026 — Bio - based Chemicals Market Analysis 2026 Cognitive Market Research and Consulting https://www.cognitivemarketresearch.com > ...",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size , Share | CAGR of 11.6% — Bio - based Chemicals Market Size , Share | CAGR of 11.6% Market.us https://market.us > report > bio-based...",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size, Share & Growth Report 2035 — Bio - based Chemicals Market Size, Share & Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size, Share | Global Report, 2034 — Bio - based Chemicals Market Size, Share | Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - based Chemicals Market Size, Share | CAGR of 11.6% — Bio - based Chemicals Market Size, Share | CAGR of 11.6% Market.us https://market.us > report > bio-based...",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Bio - Based Chemicals Market Size, Share and Growth 2026 ... — Bio - Based Chemicals Market Size, Share and Growth 2026 ... SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.7",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "quote": "世界の再生可能化学品市場規模は、2024年には1,285億米ドルと推定され、2037年末までに4,815億米ドルを超え、2025年から2037年の予測期間中に年平均成長率（CAGR）10.7%で成長すると予想されています"
+   },
+   {
+    "value": "8.60",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "世界のバイオベース化学品市場規模は、2025年には1,068億米ドルと評価され、2026年の1,159億8,000万米ドルから2034年には2,244億1,000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は8.60%となる見込みです"
+   },
+   {
+    "value": "8.7",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "バイオ由来有機酸分野は、再生可能な原料からの生産と環境に優しい化学成分への移行に牽引され、予測期間中に年平均成長率（CAGR）8.7%で成長すると予想されている"
+   },
+   {
+    "value": "3.5",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "このような原料の豊富な供給は、2035年まで基礎石油化学品が年平均成長率3.5%で成長するという予測を裏付けています"
+   },
+   {
+    "value": "9.84",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "quote": "The Europe bio-based chemicalsmarket size has grown strongly in recent years. It will grow from USD 60.38 billion in 2026 to USD 140.64 billion in 2035, expanding at a compound annual growth rate (CAGR) of 9.84% between 2026 and 2035."
+   },
+   {
+    "value": "9.73",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "quote": "The Bio-based chemical market is expected to grow at a compound annual growth rate (CAGR) of around 9.73% from 2026 to 2035."
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "quote": "The Bio-Based Chemicals Market was valued at USD 85.46 Billion in 2025 and is expected to reach USD 244.12 Billion by 2035, growing at a CAGR of 10.1% from 2026 to 2035."
+   },
+   {
+    "value": "11.05",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "quote": "The U.S. bio-based chemicals market was valued at approximately USD 26.50 Billion in 2025 and is expected to reach approximately USD 75.68 Billion by 2035, growing at a CAGR of approximately 11.05%."
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "quote": "Asia Pacific is the fastest-growing regional bio-based chemicals market, with the region projected to expand at a CAGR above 11.4% through 2035, driven by rapid industrialization, the world's largest and fastest-growing consumer markets for bio-based packaging, and government bioeconomy investment p"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "quote": "CAGR of 6.2% from 2026 to 2033"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "quote": "As per MRFR analysis, the Bio-Based Chemicals Market Size was estimated at 104.39 USD Billion in 2024. The Bio-Based Chemicals industry is projected to grow from 113.06 USD Billion in 2025 to 250.99 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 8.3% during the forecast peri"
+   },
+   {
+    "value": "11.6",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "quote": "Bio-based Chemicals Market Size, Share | CAGR of 11.6%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "45.9",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "quote": "アジア太平洋地域は、予測期間中に再生可能化学品産業のシェア45.9%を獲得し、市場をリードすると予想されています"
+   },
+   {
+    "value": "39.9",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "quote": "アルコールセグメントは、2037年までに約39.9%のシェアを獲得すると予測されています"
+   },
+   {
+    "value": "35.9",
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "quote": "アプリケーション別では、石油化学セグメントは2037年末までに35.9%のシェアを占めると見込まれます"
+   },
+   {
+    "value": "38",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "欧州は2025年に38%のシェアを占め、バイオベース化学品市場を牽引しました"
+   },
+   {
+    "value": "22",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "バイオベースアルコールセグメントは、石油由来アルコールの再生可能な代替品に対する需要により、2025年には22%のシェアを占める見込みです"
+   },
+   {
+    "value": "24",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "糖類作物セグメントは、サトウキビやテンサイなどの糖分を豊富に含む原料がバイオベース化学品の製造に利用できることから、2025年には24%のシェアを占める見込みです"
+   },
+   {
+    "value": "36",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "発酵分野は、再生可能な原料をバイオアルコール、有機酸、その他の化学物質に変換する用途が広く普及していることから、2025年には市場全体の36%を占める見込みです"
+   },
+   {
+    "value": "19",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "包装分野は、包装生産における持続可能な素材と再生可能な化学原料への需要の高まりにより、2025年には市場全体の19%を占める見込みです"
+   },
+   {
+    "value": "25",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "化学製造分野は、溶剤、アルコール、有機酸、ポリマー、その他の化学中間体の製造に再生可能な原料を使用していることから、2025年には市場全体の25%を占める見込みです"
+   },
+   {
+    "value": "30",
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "quote": "BASF SE、Dow Inc.、Evonik Industries AG、DuPont de Nemours Inc.、三菱ケミカルグループ株式会社などの主要企業が、世界のバイオベース化学品市場シェアの約28～30%を占めている"
+   },
+   {
+    "value": "60",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "中でも飲料用PETボトルなどに使用されるMR-PETの割合が高く、ボトル類需要の約60%を占める"
+   },
+   {
+    "value": "50",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "産業・工業用は、塗料や接着剤・粘着剤向けのバイオPUが最も多く、50%以上を占める"
+   },
+   {
+    "value": "30",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "次いでパレットなどの物流資材向けが多いMR-PPが約30%を占める"
+   },
+   {
+    "value": "17",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "軟包装フィルムは、レジ袋やごみ袋を中心に採用されるMR-PEが50%弱を占め、バイオPE、でんぷん系はそれぞれ17%であり、3樹脂で80%以上を占める"
+   },
+   {
+    "value": "80",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "軟包装フィルムは、レジ袋やごみ袋を中心に採用されるMR-PEが50%弱を占め、バイオPE、でんぷん系はそれぞれ17%であり、3樹脂で80%以上を占める"
+   },
+   {
+    "value": "70",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "MR-PETが需要の70%以上を占める他、生分解性により採用されるPLAが20%弱となっている"
+   },
+   {
+    "value": "20",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "MR-PETが需要の70%以上を占める他、生分解性により採用されるPLAが20%弱となっている"
+   },
+   {
+    "value": "85",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "quote": "中でもPLAの需要が最も多く、約85%を占める"
+   },
+   {
+    "value": "32.4",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "2035年までに32.4％のシェアを獲得"
+   },
+   {
+    "value": "98",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "例えば、米国EPAの2020年化学物質データ報告によると、上位10セクターが報告された化学物質生産量全体の98%以上を占め、石油・石炭製品製造と化学品製造がそれぞれ64%と14%を占めています"
+   },
+   {
+    "value": "64",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "例えば、米国EPAの2020年化学物質データ報告によると、上位10セクターが報告された化学物質生産量全体の98%以上を占め、石油・石炭製品製造と化学品製造がそれぞれ64%と14%を占めています"
+   },
+   {
+    "value": "14",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "例えば、米国EPAの2020年化学物質データ報告によると、上位10セクターが報告された化学物質生産量全体の98%以上を占め、石油・石炭製品製造と化学品製造がそれぞれ64%と14%を占めています"
+   },
+   {
+    "value": "52.2",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "自家生産型セグメントは、予測期間中に有機化学品市場において52.2%という最大のシェアを占めると予測されています"
+   },
+   {
+    "value": "41.4",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "有機化学品市場における基礎石油化学品セグメントは、2026年から2035年にかけて41.4%という大幅な収益シェアで成長すると予想されています"
+   },
+   {
+    "value": "40.3",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "有機化学品市場におけるプラスチックおよびポリマーセグメントは、予測期間中、40.3%の安定した収益シェアで成長する見込みです"
+   },
+   {
+    "value": "7",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "化学産業は2023年に2,200億米ドルと評価され、GDPの約7%を占めますが、そのグローバルバリューチェーンはわずか3～3.5%にとどまっています"
+   },
+   {
+    "value": "3.5",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "化学産業は2023年に2,200億米ドルと評価され、GDPの約7%を占めますが、そのグローバルバリューチェーンはわずか3～3.5%にとどまっています"
+   },
+   {
+    "value": "6",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "NITI Aayogの報告書では、2030年までに世界シェアを5～6%に拡大し、2040年までに輸入を実質ゼロにし、セクター価値を1兆米ドルにするという目標が設定されています"
+   },
+   {
+    "value": "27.9",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "北米の有機化学品市場は、持続可能な生産と厳格な環境基準の発展により、2035年までの予測期間中に27.9%という大幅な収益シェアで成長すると予想されています"
+   },
+   {
+    "value": "18",
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "quote": "この製品により、BASFはパーソナルケアのオーガニック分野で、特にEMEA地域において18%の市場シェアを獲得しました"
+   },
+   {
+    "value": "50",
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "quote": "Europe dominated the global market with the largest market share of 50% in 2026."
+   },
+   {
+    "value": "4.00",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: Europe's market is led by Germany, which holds about 4.00% of the global market share in 2025, thanks to its strong chemical industry and focus on innovation. The UK and France hold significant shares of 2.63% and 2.54% respectively. Other key contributors include Spain (1."
+   },
+   {
+    "value": "2.63",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: Europe's market is led by Germany, which holds about 4.00% of the global market share in 2025, thanks to its strong chemical industry and focus on innovation. The UK and France hold significant shares of 2.63% and 2.54% respectively. Other key contributors include Spain (1."
+   },
+   {
+    "value": "2.54",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: Europe's market is led by Germany, which holds about 4.00% of the global market share in 2025, thanks to its strong chemical industry and focus on innovation. The UK and France hold significant shares of 2.63% and 2.54% respectively. Other key contributors include Spain (1."
+   },
+   {
+    "value": "1.69",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: Europe's market is led by Germany, which holds about 4.00% of the global market share in 2025, thanks to its strong chemical industry and focus on innovation. The UK and France hold significant shares of 2.63% and 2.54% respectively. Other key contributors include Spain (1."
+   },
+   {
+    "value": "1.59",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: Europe's market is led by Germany, which holds about 4.00% of the global market share in 2025, thanks to its strong chemical industry and focus on innovation. The UK and France hold significant shares of 2.63% and 2.54% respectively. Other key contributors include Spain (1."
+   },
+   {
+    "value": "0.85",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: The African market is nascent but holds long-term potential. South Africa is the regional leader, accounting for 0.85% of the global market in 2025, with a focus on converting sugarcane and forestry resources. Nigeria contributes about 0.35% to the global share, with potent"
+   },
+   {
+    "value": "0.35",
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "quote": "Country-Specific Insight: The African market is nascent but holds long-term potential. South Africa is the regional leader, accounting for 0.85% of the global market in 2025, with a focus on converting sugarcane and forestry resources. Nigeria contributes about 0.35% to the global share, with potent"
+   },
+   {
+    "value": "23.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "quote": "By product: Glycerol segment held the largest market share of 23.2% in 2025."
+   },
+   {
+    "value": "27.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "quote": "The bio-based platform chemicals market in North America held a 27.7% share of the global market in 2025, driven by technological advancements, the strong presence of leading bio-based chemical producers, and increasing adoption of sustainable materials across industries. Favorable regulatory initia"
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "quote": "Asia Pacific dominated with a 33.0% revenue share in 2025."
+   },
+   {
+    "value": "70",
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "quote": "Coverage of manufacturers representing 65-70% of global market share in 2024"
+   },
+   {
+    "value": "33.1",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "quote": "Tertiary Classification: Regional segmentation shows Asia Pacific's commanding 33.1% position, followed by Europe at 30.9% and North America at 27.6%, demonstrating varied biorefinery specialization levels and renewable infrastructure concentrations."
+   },
+   {
+    "value": "30.9",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "quote": "Tertiary Classification: Regional segmentation shows Asia Pacific's commanding 33.1% position, followed by Europe at 30.9% and North America at 27.6%, demonstrating varied biorefinery specialization levels and renewable infrastructure concentrations."
+   },
+   {
+    "value": "27.6",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "quote": "Tertiary Classification: Regional segmentation shows Asia Pacific's commanding 33.1% position, followed by Europe at 30.9% and North America at 27.6%, demonstrating varied biorefinery specialization levels and renewable infrastructure concentrations."
+   },
+   {
+    "value": "18.9",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "quote": "France follows with USD 0.9 billion, representing 18.9% of the European market in 2025, driven by comprehensive bio-based chemical production integration and pharmaceutical manufacturing concentration. UK holds USD 0.8 billion with 17.3% market share through established renewable mandate acceptance "
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "quote": "France follows with USD 0.9 billion, representing 18.9% of the European market in 2025, driven by comprehensive bio-based chemical production integration and pharmaceutical manufacturing concentration. UK holds USD 0.8 billion with 17.3% market share through established renewable mandate acceptance "
+   },
+   {
+    "value": "34",
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "quote": "34% market share"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E5%B8%82%E5%A0%B4-106586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/organic-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/biosurfactants-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/specialty-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/4263873",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/bio-based-chemicals-market-127308",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3826?srsltid=AYCX9vLT87n7NSBceXJyqIKTVQjujCQ4EHPfKfvVAC66OXT1P0qjtnI2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axetimes.com/report/research-about-biomanufacturing-technology-and-market-global-2026-2027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6338426",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/bio-based-chemicals-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/bio-based-platform-chemicals-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/eu-us-bio-based-chemicals-market-109723",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960852422004825",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.joinleland.com/content/item/urn:contentEntry:6890e9070d1a0aae8f324030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S073497502030032X",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/08/04/top-10-companies-in-the-specialty-bio-based-chemicals-market-2025-market-leaders-powering-global-innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/10/05/top-10-companies-in-the-biotech-bio-based-chemicals-market-2025-leaders-driving-the-shift-to-sustainable-chemistry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-bio-based-chemicals-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バイオ由来化学品 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E5%B8%82%E5%A0%B4-106586",
+    "https://www.databridgemarketresearch.com/jp/reports/global-chemicals-market",
+    "https://straitsresearch.com/jp/report/organic-chemicals-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/biosurfactants-market",
+    "https://jp.linkedin.com/pulse/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E7%AF%84%E5%9B%B2%E3%81%8A%E3%82%88%E3%81%B3cagr-144-aldoe",
+    "https://www.researchnester.jp/industry-analysis/renewable-chemicals-market/6681",
+    "https://tomoruba.eiicon.net/blogs/2436",
+    "https://astuteanalytica.jp/industry-report/bio-based-chemicals-market",
+    "https://www.pixiv.net/novel/show.php?id=29484665",
+    "https://www.gminsights.com/ja/industry-analysis/biobased-chemical-market"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E5%B8%82%E5%A0%B4-106586",
+    "https://www.gminsights.com/ja/industry-analysis/specialty-chemicals-market",
+    "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "https://newscast.jp/news/4263873",
+    "https://www.businessresearchinsights.com/jp/market-reports/bio-based-chemicals-market-127308",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_04_00.pdf",
+    "https://service.xenobrain.jp/forecastresults/market-size/basic-chemicals-manufacturers",
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-the-global-bio-based-platform-chemicals-market-2026-2035-spherical-insights-analysis",
+    "https://deallab.info/chemical/"
+   ]
+  },
+  {
+   "query": "バイオ由来化学品 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E5%B8%82%E5%A0%B4-106586",
+    "https://straitsresearch.com/jp/report/bio-based-chemicals-market",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=22095&view_type=2&la=ja",
+    "https://www.researchnester.com/ja/reports/organic-chemicals-market/8034",
+    "https://www.yano.co.jp/press-release/show/press_id/3826?srsltid=AYCX9vLT87n7NSBceXJyqIKTVQjujCQ4EHPfKfvVAC66OXT1P0qjtnI2",
+    "https://axetimes.com/report/research-about-biomanufacturing-technology-and-market-global-2026-2027/",
+    "https://www.businessresearchinsights.com/jp/market-reports/bio-based-chemicals-market-127308",
+    "https://www.atpress.ne.jp/news/6338426",
+    "https://www.ydb.jp/market_reports/C66123100",
+    "https://www.gii.co.jp/report/tbrc1987599-bio-based-chemicals-global-market-report.html"
+   ]
+  },
+  {
+   "query": "bio-based chemicals market size CAGR 2025",
+   "results": [
+    "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://market.us/report/bio-based-chemicals-market/",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://www.mordorintelligence.com/industry-reports/bio-based-platform-chemicals-market",
+    "https://www.marketresearchfuture.com/reports/bio-based-platform-chemicals-market-6604",
+    "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market"
+   ]
+  },
+  {
+   "query": "bio-based chemicals market share top players percent",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://market.us/report/bio-based-chemicals-market/",
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://www.mordorintelligence.com/industry-reports/bio-based-platform-chemicals-market",
+    "https://www.skyquestt.com/report/bio-based-chemicals-market"
+   ]
+  },
+  {
+   "query": "bio-based chemicals market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "https://www.lek.com/insights/chemicals/identifying-growth-opportunities-bio-based-chemicals",
+    "https://www.mordorintelligence.com/industry-reports/bio-based-platform-chemicals-market",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://market.us/report/bio-based-chemicals-market/",
+    "https://www.fortunebusinessinsights.com/eu-us-bio-based-chemicals-market-109723",
+    "https://www.linkedin.com/pulse/global-bio-based-chemicals-market-technology-vr7df",
+    "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "https://www.expertmarketresearch.com/reports/bio-based-platform-chemicals-market",
+    "https://www.sciencedirect.com/science/article/pii/S0960852422004825"
+   ]
+  },
+  {
+   "query": "bio-based chemicals market key companies share 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/bio-based-chemicals-market-5706",
+    "https://www.fortunebusinessinsights.com/bio-based-chemicals-market-106586",
+    "https://www.precedenceresearch.com/bio-based-chemical-market",
+    "https://www.snsinsider.com/reports/bio-based-chemicals-market-5551",
+    "https://www.factmr.com/report/5366/biobased-platform-chemicals-market",
+    "https://www.grandviewresearch.com/industry-analysis/bio-based-platform-chemicals-market",
+    "https://www.cognitivemarketresearch.com/bio-based-chemicals-market-report",
+    "https://www.gminsights.com/industry-analysis/biobased-chemical-market",
+    "https://www.polarismarketresearch.com/industry-analysis/bio-based-chemicals-market",
+    "https://chemicalresearchinsight.com/2026/08/04/top-10-companies-in-the-specialty-bio-based-chemicals-market-2025-market-leaders-powering-global-innovation/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1206 @@
+{
+ "name": "東邦金属",
+ "aliases": [
+  "Toho Kinzoku"
+ ],
+ "context": "タングステン・モリブデン",
+ "researched_at": "2026-11-02T17:11:47.683285+00:00",
+ "official_url": "https://www.tohokinzoku.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1950年（昭和25年）2月3日",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1954年(昭和29年)",
+    "url": "http://www.toho-metal.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "250名（2026年3月末現在）",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "37名（2024年1月現在）",
+    "url": "http://www.toho-metal.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン、モリブデンおよび高融点金属製品の製造販売",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉱山都市土木用工具および超硬合金製品の製造販売",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "前各号の製品製造機械設備の設計、製作、およびその販売",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業沿革 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン 線・棒 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報のカテゴリー",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "モリブデン 線・棒 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン製品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン合金製品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステンヒートシンク",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅タングステン合金",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金製品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン銅合金板 SDS",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "原料から素材加工まで一貫体制",
+    "url": "https://www.tohokinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業沿革 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "門司工場にてタングステン・モリブデン精錬加工の一貫作業による生産を開始",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "寝屋川工場第一期工事完成、門司工場からタングステン加工部門を移管",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "深川工場新加工品工場完成",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン 線・棒 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "延性及び加工性に優れた標準的なドープタングステン",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "モリブデン 線・棒 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "モリブデン線・棒は、高温での機械的強度に優れ、成型加工が容易であるために幅広く用いられています",
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "pass": 1
+   },
+   {
+    "quote": "東邦新規製品のあゆみ | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン精錬加工の一貫作業による生産開始",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "KUMADAI耐熱マグネシウム合金の細線ワイヤー加工で線径30μm達成",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質・環境 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "開示情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "その他PR情報等 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir/pr",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/pr",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/pr",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/pr",
+    "pass": 1
+   },
+   {
+    "quote": "決算情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "pass": 1
+   },
+   {
+    "quote": "有価証券報告書 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_securitiesreport",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン/モリブデン板加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_securitiesreport",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_securitiesreport",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン針加工品",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_securitiesreport",
+    "pass": 1
+   }
+  ],
+  "創業期": [
+   {
+    "quote": "企業沿革 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦金属株式会社",
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 (当初計画 ) 売上高 (実績・見直し計画 )",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 (当初計画 ) 営業利益 (実績・見直し計画 )",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 (当初計画 ) 営業利益率 (実績・見直し計画 )",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 当社は、 本特別委員会の委員として設置当初からこの３名",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、本特別委員会の委員は、設置当初から変更され",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るまでには、当社株式１株当たり1,570 円とする太陽鉱工の当初の提案より、315 円の価",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当初計画数値",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年度～2018年度は、当初計画した通りに推移しました",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東邦金属株式会社 TOHO METAL 1954年創業 ステンレス鋼及び特殊鋼を扱う流通業",
+    "url": "http://www.toho-metal.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦金属は1954年(昭和29年)創業者・加古晃氏によってステンレス鋼および特殊鋼を扱う流通企業として設立以来、半世紀を超える年月が経過いたしました",
+    "url": "http://www.toho-metal.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに信頼されるステンレス流通企業として、創業の原点を大切にしつつ新たな飛翔を実現します",
+    "url": "http://www.toho-metal.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "電球用フィラメントの製造から産声を上げた東邦金属の製品群は、タングステンやモリブデンなどの高融点金属の可能性を拡げ、放射線遮蔽生地、耐熱マグネシウム合金の極細ワイヤーなど、産学連携、企業間共同開発など、旧来の枠組みにとらわれない柔軟なスタイルで不可能を可能にする研究に挑戦、顧客ニーズを先取りする製品の実現を目指し続けています",
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東邦金属は、顧客を重視するとともに、事業活動を通じて地球環境保護を目的とした以下の項目に継続的に取り組みます",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．顧客の立場に立ち、高品質・安定供給の追求",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "・製造技術、管理技術のレベルアップにより、顧客迷惑度ゼロの品質を目指す",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "・精度の高い製品等の顧客情報を入手し、関連部署の連携を図り、どうすればできるか考え、",
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、顧客の立場に立ち、品質向上に継続的に取り組み、常に顧客が期待する水準の品質を提供できるよう努めます",
+    "url": "https://www.tohokinzoku.co.jp/ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、取引先、株主、従業員、地域社会等すべてのステークホルダーとの双方向の対話を通じて、強固な信頼関係の構築を目指します",
+    "url": "https://www.tohokinzoku.co.jp/ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、顧客の立場に立ち、品質向上に継続的に取り組み、常に顧客が期待する水準の品質を提供できるよう努めます",
+    "url": "https://www.tohokinzoku.co.jp/ir/procedures/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、取引先、株主、従業員、地域社会等すべてのステークホルダーとの双方向の対話を通じて、強固な信頼関係の構築を目指します",
+    "url": "https://www.tohokinzoku.co.jp/ir/procedures/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "事業継続リスクの強化 取引先開",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "評価実施と強化 顧客満足 100 ％ 100%",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療用部材 77.8% 顧客在庫調整で需要が低調であった",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体部材 86.8% 顧客在庫調整で需要が低調であった が、下期からは回復傾向に推移した",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出展し、新規顧客数社と検討・試作を",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客と直接の接点がある当社が顧客からのニーズを入手し、その対応において太陽鉱工",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内外の顧客の要望する新規契約関係並びに既存契約の確認、顧客との取引形態の確認等について",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "幅広くコミュニケーションを行い、当社と顧客が安心且つ安全に取引ができる体制の構築が可能",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売先である家電、産業用電気設備及び通信設備・機器に関する市場の特徴として、製品",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術の急速な進展や、顧客ニーズの変化に応じた頻繁な新製品の開発・導入等、製品の改",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と当社がより密に連携し、 情報源の複数化や営業部内の情報共有化を進め、 顧客ニーズへ",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "果的投入を図っていくこと、及び市場や顧客ニーズに合致した製品開発に資すると判断",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活かすことが可能となり、また顧客と直接の接点がある当社が顧客からのニーズを入",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "することができ、 国内外の顧客の要望する新規契約関係並びに既存契約の確認、 顧客との",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引形態の確認等について幅広くコミュニケーションを行い、当社と顧客が安心且つ安",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "太陽鉱工は、当社の主要販売先である家電、産業用電気設備及び通信設備・機器に関す",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る市場の特徴を踏まえると、製品技術の急速な進展や、顧客ニーズの変化に応じた頻繁な",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報源の複数化や営業部内の情報共有化を進め、顧客ニーズへの対応力を強化することで、",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の動きに応じた経営を念頭に、経営資源の効果的投入を図っていくこと、及び市場や顧客",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員の士気、取引先の信用、金融機関との関係についても、十分に説明することで手当",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年度の経営計画に切り替えて活動を行った結果、2019年度で大幅に落ち込んだ需要の回復と取り零していた顧客の納入",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "退等により顧客から当社への期待が",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャパン品質を要望する顧客を取り込",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "営業利益率 (当初計画 ) 営業利益率 (実績・見直し計画 )",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益率 (当初計画 ) 営業利益率 (実績・見直し計画 )",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に強みがあると認識しております",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や研究内容を融合し最適条件を見出すことで、それぞれの強みを活かすことが可能となると考え",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業との信頼関係構築において、学生の就職先として実績があることは大きな強みであると考え",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "匿性の高い情報や研究内容を融合し最適条件を見出すことにより、それぞれの強みを",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みであるAGF工法でリニア",
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "決算 情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦 ... — 決算 情報 | ｜タングステン モリブデン 銅タン 超硬加工の 東邦 ... 東邦金属株式会社 https://www.tohokinzoku.co.jp > ir_finfo",
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "pass": 3
+   },
+   {
+    "quote": "東邦金属 、 社長 に小樋誠二氏 | 人物 ニュース - 日刊工業新聞 — 東邦金属 、 社長 に小樋誠二氏 | 人物 ニュース - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/473528",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 東邦金属 株式会社 TOHO METAL — 会社情報 - 東邦金属 株式会社 TOHO METAL toho-metal.co.jp http://www.toho-metal.co.jp > company",
+    "url": "http://www.toho-metal.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦金属 ・小樋誠二 社長 ／自動車用電極開発に注力／W・Mo ... — 東邦金属 ・小樋誠二 社長 ／自動車用電極開発に注力／W・Mo ... 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄",
+    "url": "https://www.japanmetaldaily.com/articles/-/136156",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 東邦金属工業株式会社 — 会社概要 - 東邦金属工業株式会社 東邦金属工業株式会社 https://www.tohometal.co.jp > company > company",
+    "url": "https://www.tohometal.co.jp/company/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン モリブデン 銅タン 超硬加工の 東邦金属 株式会社 — タングステン モリブデン 銅タン 超硬加工の 東邦金属 株式会社 東邦金属株式会社 https://www.tohokinzoku.co.jp > company > compliance",
+    "url": "https://www.tohokinzoku.co.jp/company/compliance.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tohokinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/midplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/tungsten-wire-bar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-molybdenum/molybdenum-wire-bar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/develop/product-history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/sustainability/quality-environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/pr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_securitiesreport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_shareholdermeeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/ir_cgreport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/procedures/procedures.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/news/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/news/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/company/midplan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/ir/procedures/sustainability",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20260629.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/Revive2026-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240416.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240328.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20240315.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E5%85%AC%E8%A1%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%882022.5.12%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/%E9%81%8E%E5%B9%B4%E5%BA%A6%E3%81%AE%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89%E3%81%AE%E8%A8%82%E6%AD%A3%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%81%AE%E6%8F%90%E5%87%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/wp-content/uploads/tohoIR20251027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jx-nmm.com/company/glance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindmeister.jp/posts/bm-jx-nmm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toho-zinc.co.jp/ir/library/briefing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/473528",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.toho-metal.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/terms/g/grossmargin.asp",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東邦金属 ビジネスモデル 収益構造",
+   "results": [
+    "https://www.jx-nmm.com/company/glance/",
+    "https://mindmeister.jp/posts/bm-jx-nmm",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/industries/other-industrial-products/industries-other-industrial-products-material-2020-04-01-01",
+    "https://finance.logmi.jp/articles/383687",
+    "https://www.47news.jp/13442535.html",
+    "https://note.com/bold_boar6005/n/n132a912f84bb",
+    "https://minkabu.jp/news/4421758",
+    "https://www.tohokinzoku.co.jp/company/concept.html",
+    "https://www.smm.co.jp/ir/library/integrated_report/pdf/2025/2025_section2.pdf",
+    "https://www.tohokinzoku.co.jp/company/ir_finfo"
+   ]
+  },
+  {
+   "query": "東邦金属 決算説明資料 セグメント",
+   "results": [
+    "https://www.tohokinzoku.co.jp/ir/ir_finfo",
+    "https://www.toho-zinc.co.jp/ir/library/briefing.html",
+    "https://www.tohogas.co.jp/corporate-n/ir/document/settlement-accounts/",
+    "https://www.mitsui-kinzoku.com/toushi/lib/setsumei/",
+    "https://www.toho-titanium.co.jp/ir/library/library_setsumei_soukai/",
+    "https://ir.tohohd.co.jp/ja/irfiling/presentation.html",
+    "https://www.tohokinzoku.co.jp/company_ir_bn",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260813519614",
+    "https://www.toho-ace.co.jp/ir/library/",
+    "https://www.tohokinzoku.co.jp/company/ir_finfo"
+   ]
+  },
+  {
+   "query": "東邦金属 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/473528",
+    "http://www.toho-metal.co.jp/company/",
+    "https://www.japanmetaldaily.com/articles/-/136156",
+    "https://www.tohometal.co.jp/company/company.html",
+    "https://www.tohokinzoku.co.jp/company/compliance.html",
+    "https://www.nikkei.com/article/DGKKZO30459620U8A510C1TJ2000/",
+    "https://www.zenchin.com/witht/post-65.php",
+    "https://job.mynavi.jp/27/pc/search/corp57951/outline.html",
+    "https://www.youtube.com/watch?v=D2x1w5zqkQg",
+    "https://www.japanmetal.com/news-t20230424126510.html"
+   ]
+  },
+  {
+   "query": "東邦金属 business model revenue gross margin",
+   "results": [
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.investopedia.com/terms/g/grossmargin.asp",
+    "https://www.abilenesbdc.org/post/profit-margins-by-industry-1",
+    "https://fullratio.com/profit-margin-by-industry",
+    "https://www.brentwood-growth.com/blog/trades-businesses/are-you-hitting-your-target-margins-a-deep-dive-into-profitability-benchmarks-for-trades-businesses/",
+    "https://www.businessbandwidth.com.au/profit-margins-for-trades-businesses-whats-normal-and-whats-not/",
+    "https://www.thefinanceweekly.com/post/average-profit-margin-by-industry",
+    "https://www.postaffiliatepro.com/faq/main-types-of-profit-margins/",
+    "https://getholdings.com/resources/blog/profit-margins-by-industry-benchmarks",
+    "https://kigyobunseki.jp/companies/szz4un/performance/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索4回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索4回）"
+ }
+}

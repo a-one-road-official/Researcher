@@ -1,0 +1,177 @@
+{
+ "name": "OnlineMetals",
+ "aliases": [
+  "Online Metals"
+ ],
+ "context": "小口金属のEC（米）",
+ "researched_at": "2026-11-02T17:08:37.625002+00:00",
+ "official_url": "https://www.onlinemetals.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Our Story - The History of Online Metals | OnlineMetals .com® — Our Story - The History of Online Metals | OnlineMetals .com® Online Metals https://www.onlinemetals.com > our-s...",
+    "url": "https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vLHeQundlm_1uT8xZ7VqlWgMqHNjMVtS9HrVUslkV2sLsVtPYi2",
+    "pass": 3
+   },
+   {
+    "quote": "News & Updates from OnlineMetals .com — News & Updates from OnlineMetals .com Online Metals https://www.onlinemetals.com > news",
+    "url": "https://www.onlinemetals.com/en/news?srsltid=AYCX9vKbOLJs3xu6oQ0wNz0xmN6Orpm1jwI6V2vovzN_lxwF6T0S1Uy4",
+    "pass": 3
+   },
+   {
+    "quote": "Our Story - The History of Online Metals | OnlineMetals .com® — Our Story - The History of Online Metals | OnlineMetals .com® Online Metals https://www.onlinemetals.com > our-s...",
+    "url": "https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vLH1z-RWEGTLiOlt8sFl9Lq_ApvD5dd9yviVwYIRW8QYnmdZHLZ",
+    "pass": 3
+   },
+   {
+    "quote": "OnlineMetals .com - 20 Years of Online Metals — OnlineMetals .com - 20 Years of Online Metals Online Metals https://www.onlinemetals.com > video-collection > video-...",
+    "url": "https://www.onlinemetals.com/en/video-collection/video-20yearsofonlinemetals",
+    "pass": 3
+   },
+   {
+    "quote": "Guide to 6000 Series Aluminum | OnlineMetals .com® — Guide to 6000 Series Aluminum | OnlineMetals .com® Online Metals https://www.onlinemetals.com > video-collection",
+    "url": "https://www.onlinemetals.com/en/video-collection/video-guideto6000series",
+    "pass": 3
+   },
+   {
+    "quote": "OnlineMetals .com - Metal and More - YouTube — OnlineMetals .com - Metal and More - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=RCeqvoTYQbo",
+    "pass": 3
+   },
+   {
+    "quote": "Avoid OnlineMetals .com - dishonest company - General Forum — Avoid OnlineMetals .com - dishonest company - General Forum Chief Delphi https://www.chiefdelphi.com > avoid-...",
+    "url": "https://www.chiefdelphi.com/t/avoid-onlinemetals-com-dishonest-company/156414?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "Online Metals : Trailblazing a slick consumer-grade B2B e ... — Online Metals : Trailblazing a slick consumer-grade B2B e ... SAP https://www.sap.com > asset > 2024/07",
+    "url": "https://www.sap.com/asset/dynamic/2024/07/64705193-cc7e-0010-bca6-c68f7e60039b.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our Story - The History of Online Metals | OnlineMetals .com® — Our Story - The History of Online Metals | OnlineMetals .com® Online Metals https://www.onlinemetals.com > our-s...",
+    "url": "https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vIoRJPFUAmfQNTYUKPNsnHE7B9WkzovbsVT9a__t3SuesoQnLXV",
+    "pass": 3
+   },
+   {
+    "quote": "How Online Metals trailblazed a slick consumer-grade B2B e ... — How Online Metals trailblazed a slick consumer-grade B2B e ... Emarsys https://emarsys.com > success-stories",
+    "url": "https://emarsys.com/why-emarsys/success-stories/how-online-metals-trailblazed-a-slick-consumer-grade-b2b-e-commerce-for-cutting-on-demand-metals-and-plastics/",
+    "pass": 3
+   },
+   {
+    "quote": "How Online Metals became the go-to marketplace for ... - Mirakl — How Online Metals became the go-to marketplace for ... - Mirakl Mirakl https://www.mirakl.com > blogs > ho...",
+    "url": "https://www.mirakl.com/blogs/b2b/how-online-metals-became-the-go-to-marketplace-for-metals-and-plastics/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.onlinemetals.com/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://start-link.jp/hubspot-ai/management/business-strategy/business-model-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/toushi/lib/setsumei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2511267670wl2H2H7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sap.com/asset/dynamic/2024/07/64705193-cc7e-0010-bca6-c68f7e60039b.html",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "OnlineMetals ビジネスモデル 収益構造",
+   "results": [
+    "https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vLHeQundlm_1uT8xZ7VqlWgMqHNjMVtS9HrVUslkV2sLsVtPYi2",
+    "https://start-link.jp/hubspot-ai/management/business-strategy/business-model-design",
+    "https://bbank.jp/blog/president/revenue-model/",
+    "https://www.tanabeconsulting.co.jp/finance/column/detail62.html",
+    "https://monstar-lab.com/dx/solution/about-businessmodel/",
+    "https://www.digitalcommerce360.com/2024/05/31/onlinemetals-com-grows-as-a-metals-and-plastics-marketplace/",
+    "https://bizzine.jp/article/detail/148",
+    "https://kaikeijin-course.jp/2025/01/20/67370/",
+    "https://engineer.toggle.co.jp/chapter-1-toggle-holdings-engineer-101/ji-chu-yan-xiu/no-1",
+    "https://www.onlinemetals.com/en/become-a-marketplace-seller"
+   ]
+  },
+  {
+   "query": "OnlineMetals 決算説明資料 セグメント",
+   "results": [
+    "https://www.mitsui-kinzoku.com/toushi/lib/setsumei/",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2511267670wl2H2H7.pdf",
+    "https://www.ir.daidometal.com/library/",
+    "https://www.onlinemetals.com/en/news?srsltid=AYCX9vKbOLJs3xu6oQ0wNz0xmN6Orpm1jwI6V2vovzN_lxwF6T0S1Uy4",
+    "https://www.ma-cp.com/ir/settlement/",
+    "https://ir-compass.com/docs/market-environment/",
+    "https://www.jem-net.co.jp/ir/ir-library/tanshin",
+    "https://peragaru-assets.s3.ap-northeast-1.amazonaws.com/TDNet/5016/140120260805510601.pdf",
+    "https://contents.xj-storage.jp/xcontents/AS92613/09d49a4f/f6db/4650/b0a3/274790e60b8a/140120260814520759.pdf",
+    "https://www.digitalgrid.com/ir/library/presentation/"
+   ]
+  },
+  {
+   "query": "OnlineMetals 社長 インタビュー",
+   "results": [
+    "https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vLH1z-RWEGTLiOlt8sFl9Lq_ApvD5dd9yviVwYIRW8QYnmdZHLZ",
+    "https://www.onlinemetals.com/en/video-collection/video-20yearsofonlinemetals",
+    "https://www.onlinemetals.com/en/video-collection/video-guideto6000series",
+    "https://www.youtube.com/watch?v=RCeqvoTYQbo",
+    "https://www.chiefdelphi.com/t/avoid-onlinemetals-com-dishonest-company/156414?page=2",
+    "https://www.digitalcommerce360.com/2024/05/31/onlinemetals-com-grows-as-a-metals-and-plastics-marketplace/",
+    "https://www.onlinemetals.com/en/our-standards?srsltid=AYCX9vLZxJB9BS6pyEH1jnk8H2aWxFau2HWVRn5-Cz-NMhcuL5QqXEfD",
+    "https://www.linkedin.com/company/onlinemetals",
+    "https://diysolarforum.com/threads/good-experience-with-onlinemetals-com.56097/",
+    "https://www.linkedin.com/in/john-byrum"
+   ]
+  },
+  {
+   "query": "OnlineMetals business model revenue gross margin",
+   "results": [
+    "https://www.sap.com/asset/dynamic/2024/07/64705193-cc7e-0010-bca6-c68f7e60039b.html",
+    "https://www.onlinemetals.com/en/our-story?srsltid=AYCX9vIoRJPFUAmfQNTYUKPNsnHE7B9WkzovbsVT9a__t3SuesoQnLXV",
+    "https://emarsys.com/why-emarsys/success-stories/how-online-metals-trailblazed-a-slick-consumer-grade-b2b-e-commerce-for-cutting-on-demand-metals-and-plastics/",
+    "https://www.mirakl.com/blogs/b2b/how-online-metals-became-the-go-to-marketplace-for-metals-and-plastics/",
+    "https://www.macrotrends.net/stocks/charts/CMC/commercial-metals/profit-margins",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://www.zoominfo.com/c/online-metals/565805354",
+    "https://www.digitalcommerce360.com/2024/05/31/onlinemetals-com-grows-as-a-metals-and-plastics-marketplace/",
+    "https://www.brentwood-growth.com/blog/trades-businesses/are-you-hitting-your-target-margins-a-deep-dive-into-profitability-benchmarks-for-trades-businesses/",
+    "https://gripsintelligence.com/insights/retailers/onlinemetals.com"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "誰に": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "何を": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "加工・付加価値": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "利益の源泉": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）",
+  "創業期": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索4回）"
+ }
+}

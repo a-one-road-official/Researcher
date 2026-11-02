@@ -1,0 +1,1517 @@
+{
+ "name": "シグマクシス・ホールディングス",
+ "aliases": [],
+ "context": "証券コード6088／サービス業／プライム（内国株式）／2026.03期 売上高23,831百万円 営業利益率25.4%",
+ "researched_at": "2026-11-02T16:57:47.316049+00:00",
+ "official_url": "https://www.sigmaxyz.com/",
+ "identified_by": "search:yahoo_jp:シグマクシス・ホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2008年5月9日",
+    "url": "https://www.sigmaxyz.com/ja/company/about.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高(百万円)",
+    "value": "15,654 17,334 22,410 26,293 23,831",
+    "url": "https://www.sigmaxyz.com/ja/ir/financial_info/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "*売上高占有率",
+    "value": "連結売上高より連結対象外となった子会社の売上を除いた額に対する占有率",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクロボティクス株式会社様「物流自動化ソリューション導入のご支援」",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械製造業C社様「サービスロボット事業の構想策定および製品開発・事業化支援」",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流自動化ソリューション導入のご支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスロボット事業の構想策定および製品開発・事業化支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康領域の顧客サービスビジネス「まち健」の新規事業立ち上げ・推進支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIを活用したシステム保守サービス高度化のご支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社 様",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "Co-CIOサービス：IT・デジタル活用の高度化に向けたIT組織変革支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "XRグラスメーカーの事業立ち上げ・商品開発支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Co-CIOサービス」によるIT組織体制改革・業務改善の支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "「生成AI研究ラボ」生成AIサービス導入",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "先端的サービスの開発・構築等に関する調査事業への参画",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング サービス",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "経営チームの Superhuman化 プログラム | コンサルティング サービス | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画や事業企画・サービス開発などの",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング サービス",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "パブリック・クラウドを活用した業務・システムの標準化 | コンサルティング サービス | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "「SAP Appreciation for Partner Excellence」は、SAPソリューション分野における実績や導入プロジェクトの創出価値などを総合的に評価し、優れた成果を挙げたパートナー企業をSAPジャパンが選出するプログラムです",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "その過程ではSAPの国内外のサービス部門との連携のみならず、SAP開発部門とも連携し、当初SAP S/4HANACloudで不足していた機能を標準機能として開発することで、アドオン開発も抑え、クリーンコアを実現したことを高く評価",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合商社、金融、運輸、食品、製薬、小売り等の幅広い業界に対する、経理財務を中心としたコンサルティングサービスを提供",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "商社、金融、自動車、情報通信、不動産、運輸などの幅広い業界に対し、基幹業務改革およびシステム導入に関わるコンサルティング・サービスを提供",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合商社、運輸、通信、メディア等の業界に対する、会計・財務領域の業務改革・システム導入を中心としたコンサルティングサービスを提供",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、SAPプロダクトやソリューションの最新情報を発信する社外コミュニティ活動の推進にも取り組んでいる",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング サービス",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI 時代の経営#02 | 経営チームの Superhuman化 プログラム | コンサルティング サービス | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman/superhuman-interview02.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman/superhuman-interview02.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後もこの基盤を活用し、さらなる顧客サービスの向上を実現されていく商船三井様に、シグマクシスは引き続きシェルパとして伴走してまいります",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ITコンサルティング・サービスにおける連携強化を目的として、株式会社インターネットイニシアティブが資本参加",
+    "url": "https://www.sigmaxyz.com/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ITサービスにおける連携強化を目的として、株式会社インテックが資本参加",
+    "url": "https://www.sigmaxyz.com/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱商事グループのITサービス及びコンサルティング・サービス事業の強化を目的として、東京都港区赤坂に三菱商事株式会社及びRHJ International Saによる合弁で設立",
+    "url": "https://www.sigmaxyz.com/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/financial_info/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社シグマクシス・ホールディングス（以下当社）は、金融商品取引法、その他の法令および当社の有価証券を上場している金融商品取引所の定める適時開示規則に沿って情報開示を行います",
+    "url": "https://www.sigmaxyz.com/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/announce.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス、AIソリューションを提供する ギリア株式会社に出資 ～パートナーシップ契約も締結、AIサービス提供を加速～",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス、AIを活用した ドキュメント自動入力プラットフォームサービス 「ディープシグマDPA」を活用し、 みずほフィナンシャルグループの業務効率を向上",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシスとUEI、AIを活用したドキュメント自動入力プラットフォームサービス「ディープシグマDPA」を開発、シグマクシスがサービス提供を開始",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス Google Cloud Platform サービスパートナー契約を締結",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス イノベーション・バリュー・インスティテュート（IVI）と 日本初の認定サービスプロバイダー契約を締結",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス 自律学習型のIT運用管理自動化ソリューションを提供する米IPsoft社と協業を開始",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス サイバーセキュリティソリューションを提供する 米Easy Solutions社と包括的提携契約を締結",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱商事の建設業界向け クラウド型システムサービス事業の新会社へ出資",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ビジネスブレイン太田昭和の子会社との包括サービスの提供に係る合弁契約に関するお知らせ",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/financial_info.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20250502530518.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流自動化ソリューション導入のご支援 ソフトバンクロボティクス株式会社様 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case43.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "シグマクシスがご支援したプロジェクト事例をご紹介します",
+    "url": "https://www.sigmaxyz.com/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事例紹介追加：株式会社商船三井様「ドキュメンテーション業務デジタル化のご支援」",
+    "url": "https://www.sigmaxyz.com/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "決してAIに置き換わることのない人財とは、AIをパートナーにして、自らの知見とネットワークそして高度な経営力を活かして仲間を巻き込み、事業変革を推し進めていくことができる人財です",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "「SAP Appreciation for Partner Excellence」は、SAPソリューション分野における実績や導入プロジェクトの創出価値などを総合的に評価し、優れた成果を挙げたパートナー企業をSAPジャパンが選出するプログラムです",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "Project of the Year対象プロジェクト紹介動画",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "「SAP Appreciation for Partner Excellence 2026」表彰式にて放映された、プロジェクトの紹介動画がSAPジャパンの公式YouTubeで公開されています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "SAP Japan Partner Kick-off Meeting 2026：「プロジェクト・オブ・ザ・イヤー」選出プロジェクトのご紹介",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "「SAP Award of Excellence」表彰式にて放映された、プロジェクトの紹介動画がSAPジャパンの公式YouTubeで公開されています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "SAP Japan Partner Summit 2025：「プロジェクト・オブ・ザ・イヤー」受賞プロジェクトのご紹介",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "ドキュメンテーション業務デジタル化のご支援 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため顧客、代理店、港湾関係者との連絡には複数の手段が用いられ、また、業務拠点が分散していたため、担当者が有する知見の共有や業務プロセスの標準化が課題となっていました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした背景により始まった本プロジェクトでは、船会社、本船の入出港に伴う手続きや船積書類の取り扱いを代行する代理店、貨物の積み下ろし等を行う荷役業者、荷主である自動車メーカーや中古車輸出事業者等といった、多様なステークホルダーが船積書類のやりとりをデジタルで行えるWebポータル（MOL ACE Portal）を構築しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシスのGen-AX社「X-Ghostパートナープログラム」加盟について",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス、ユナイテッドアローズ、博報堂ＤＹメディアパートナーズ 試着シェアアプリ「fitom」を提供する合弁事業を開始",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス、AIソリューションを提供する ギリア株式会社に出資 ～パートナーシップ契約も締結、AIサービス提供を加速～",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシスと米DataRobot社日本初のコンサルティングパートナー契約を締結",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシス Google Cloud Platform サービスパートナー契約を締結",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "IBM Watsonエコシステムプログラムを提供（ソフトバンク株式会社発表）※シグマクシス エコシステムパートナーとして参画",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介ムービーを追加しました",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流自動化ソリューション導入のご支援 ソフトバンクロボティクス株式会社様 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case43.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスロボット事業の構想策定および製品開発・事業化支援 機械製造業C社様 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシスは、2016年より次世代ロボット領域における本格的な活動を開始し、製造業向けの業務支援ロボット事業の立ち上げ支援や精密制御技術を活かしたロボットサービス開発、小売業向けのロボット・AIを活用した未来店舗づくり、ラボラトリーロボタイゼーションサービス開発、ヒューマノイドロボット研究など、ロボティクスおよびフィジカルAI領域における実績を、多数積み上げてきました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域循環型社会・エネルギー事業の構想策定および実行支援 株式会社エヌ・ティ・ティ エムイー様 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case41.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康領域の顧客サービスビジネス「まち健」の新規事業立ち上げ・推進支援 エイチ・ツー・オー リテイリング株式会社様 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "同社はこのビジネスモデルの確立に向け、デジタル技術を既存の店舗やサービスと融合させることで、顧客一人ひとりと繋がるダイレクトなコミュニケーションの実現に取り組んでいます",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "リアル店舗を通じて積み上げてきた顧客接点を活かし、「コミュニケーションリテイラー」の具体化のために顧客サービスビジネスでさらなる成長を目指すH2O様の取り組みに、シグマクシスは引き続き伴走してまいります",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外拠点への業務移管を目的としたプロセス標準化・可視化のご支援 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case39.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外決済システムの国際標準（ISO20022）対応および大規模システム刷新のご支援 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case38.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシ ップを 活 用し て",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 資本提携等の戦略的パートナーシップ強化",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資本提携等の戦略的パートナーシップ強化",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発、小売業向けのロボット・ AI を活用した未来店舗づくり、ラボラトリーロボタイゼー",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（のちにＰｗＣコンサルテイング株式会社に社名変更）常務取締役マネージングパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9D%91%E9%9A%86%E4%B8%80",
+    "pass": 3
+   },
+   {
+    "quote": "2008年 株式会社シグマクシス（現シグマクシス・ホールディングス）設立 同社取締役パートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9D%91%E9%9A%86%E4%B8%80",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第１四半期決算補足資料 音声解説動画",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算補足資料",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第4四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第4四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 通期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第4四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年、シグマクシスに入社",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月からは、生成AIをはじめとする最先端テクノロジーを用いた自社の生産性向上をミッションとする専門チームのリードに就任",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年、シグマクシスに新卒で入社",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年、シグマクシスに新卒で入社",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日時点",
+    "url": "https://www.sigmaxyz.com/ja/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年5月9日",
+    "url": "https://www.sigmaxyz.com/ja/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | 株式会社シグマクシス・ホールディングス",
+    "url": "https://www.sigmaxyz.com/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第4四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第4四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 通期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第4四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年3月期『ありたい姿』",
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.sigmaxyz.com/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期通期 決算発表",
+    "url": "https://www.sigmaxyz.com/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期 決算発表",
+    "url": "https://www.sigmaxyz.com/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期 決算発表",
+    "url": "https://www.sigmaxyz.com/ja/ir/calendar.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "健康領域の顧客サービスビジネス「まち健」の新規事業立ち上げ・推進支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、業務の変更にはシステムユーザーの調整や代替プロセスの設計、社内決裁など多くの時間がかかるため、システムを業務に合わせる方が現実的だったからです",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、業務の標準化には現場の理解と協力が不可欠であり、チェンジマネジメントの視点からシステムユーザーの意識改革と適応支援が重要です",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため顧客、代理店、港湾関係者との連絡には複数の手段が用いられ、また、業務拠点が分散していたため、担当者が有する知見の共有や業務プロセスの標準化が課題となっていました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、顧客との接点をデジタル化するとともに、分散していた情報の一元管理を実現しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "本取り組みにより、商船三井様は情報交換とデータ管理の一元化を実現するとともに、Webポータルを通じた顧客接点のデジタル化と業務標準化の基盤を構築しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後もこの基盤を活用し、さらなる顧客サービスの向上を実現されていく商船三井様に、シグマクシスは引き続きシェルパとして伴走してまいります",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後ますますニーズが高まる同領域の知見と実績を生かし、シグマクシスは多様な業界のお客様のロボット技術活用およびロボット業界参入を支援し、日本の産業競争力の向上に貢献してまいります",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エヌ・ティ・ティ エムイー様（以下、NTT-ME様）は、NTT東日本グループのパーパスである「地域循環型社会の共創」のもと、『「これからのつなぐ」を創る』をミッションに掲げ、お客様や地域社会へ安心・安全・信頼のサービスを提供する「総合エンジニアリング企業」です",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case41.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康領域の顧客サービスビジネス「まち健」の新規事業立ち上げ・推進支援 エイチ・ツー・オー リテイリング株式会社様 | 事例紹介 | 事業 | 株式会社シグマクシス | sx",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康領域の顧客サービスビジネス「まち健」の新規事業立ち上げ・推進支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "同社はこのビジネスモデルの確立に向け、デジタル技術を既存の店舗やサービスと融合させることで、顧客一人ひとりと繋がるダイレクトなコミュニケーションの実現に取り組んでいます",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、そこから得られるデータを活用し、顧客起点で新たなマーケットを生み出すことで、顧客のLife Time Valueの最大化と「顧客サービス事業」の拡大を目指しています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客サービス事業」としての取り組みの第1弾として、2023年に食領域のサービス「まちうま」を展開",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪府高槻市から試験運用を開始し、2025年9月時点で、会員数は約10万人と、地域密着アプリとして浸透しつつあります",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこでH2O様は、小売事業で培ってきた顧客とのリアルな接点という強みを活かし、「健康をおもしろく」をコンセプトに情報を伝え、顧客の声も取り込みながら、日常生活の延長に自然な形で健康への意識を組み入れ、行動変容のきっかけにつなげることを目指しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて「まち健」アプリにユーザー登録することで、イベントでの健康チェック結果の記録や、貯まったポイントをギフト交換や寄付などに利用できるサービスを提供",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "リアル店舗を通じて積み上げてきた顧客接点を活かし、「コミュニケーションリテイラー」の具体化のために顧客サービスビジネスでさらなる成長を目指すH2O様の取り組みに、シグマクシスは引き続き伴走してまいります",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康領域の顧客サービスビジネス「まち健」の新規事業立ち上げ・推進支援 エイチ・ツー・オー リテイリング株式会社様",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、エンドユーザーや複数ベンダー間の調整を行い、発生する課題を解決するなど、テスト品質の均一化および向上に貢献しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case38.html",
+    "pass": 1
+   },
+   {
+    "quote": "ト へ の 集 中 を 緩 和 し、 顧客層を拡大",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客ポートフォリオの再編",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 相互の顧客ベースの拡大",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 健康領域の顧客サービスビジネス「まち健」の新規事業立ち上",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も 多様な業界のお客様のロボット技術活用および",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "登山家に寄り添い、登頂から下山まで支えるシェルパのように、当社グループはお客様",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の経営理念や価値",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資能力を活かし、お客様との共同出資など資本を活用した価値共創を推進する",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「人財」が持つ価値を最大限に引き出し お客様と 価値を共創する企業 へ",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との価値共創の実現、",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 顧客層の拡大",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客セグメントの多様化",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客層の拡大",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 事業投資（M&A、お客様とのJVなど）",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ AI活用の前提 （良質なデータ基盤／ System of Record）としてSaaS ERP導入やデータ基盤整備 ・標準化（AI Ready 化）の顧客需要が拡大中",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３つの変革）を掲げ、お客様の戦略策定から実行、成果の実現に至るまで常に伴走する「戦略実現のシェルパ」",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業別では運輸、情報通信、小売、金融、建設、商社を中心とした顧客への基幹システムの",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "生成AIを活用したシステム保守サービス高度化のご支援",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、基幹システムの老朽化やIT人財不足が深刻化し、既存システムの運用・保守コストが企業の負担となっています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "運用・保守コストの削減",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシスは、大手メーカー C社様のサービスロボット事業の立ち上げに際し、事業性評価から、製品コンセプト・仕様の具体化、保守・メンテナンススキームの確立、持続的な収益化に向けた成長プラン、ビジネスモデル設計までを一貫して支援しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、複数ベンダーが関わる開発体制のプロジェクト・マネジメントや、保守・サービス品質保証(SLA)体制の整備まで幅広く支援し、具体的な事業計画の策定に貢献しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、今後の制度変更へのスムーズな対応や保守コストの低減、開発の標準化や効率化などが見込まれます",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case38.html",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 人月・工数に依拠しない成功報酬型提案の推進",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 生成AIを活用したシステム保守サービス高度化のご支援",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "評価から製品コンセプト・仕様の具体化、保守・メンテナンススキームの確立、持続的な収",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、複数ベンダーが関わる開発体制のプロジェクト・マネジメントや、保守・",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 成功報酬型のプライシング",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9D%91%E9%9A%86%E4%B8%80",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "そしてこのループを高速で回し続ける経営チームの力量こそが、他社が追随できない、圧倒的な成長と収益構造を生み出すエンジンとなるのです",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "pass": 1
+   },
+   {
+    "quote": "シグマクシスは、大手メーカー C社様のサービスロボット事業の立ち上げに際し、事業性評価から、製品コンセプト・仕様の具体化、保守・メンテナンススキームの確立、持続的な収益化に向けた成長プラン、ビジネスモデル設計までを一貫して支援しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "pass": 1
+   },
+   {
+    "quote": "百貨店、スーパーマーケットなど小売業を中核に事業を展開するエイチ・ツー・オー リテイリング株式会社様（以下、H2O様）は、長期事業構想において、H2Oグループの目指すビジネスモデルを「コミュニケーションリテイラー」と掲げています",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "同社はこのビジネスモデルの確立に向け、デジタル技術を既存の店舗やサービスと融合させることで、顧客一人ひとりと繋がるダイレクトなコミュニケーションの実現に取り組んでいます",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "益化に向けた成長プラン、ビジネスモデル設計までを一貫して支援し た",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "自社の強みを力に、人と組織を変え続けるダイナミズムを併せ持つ",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman/superhuman-interview02.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこでH2O様は、小売事業で培ってきた顧客とのリアルな接点という強みを活かし、「健康をおもしろく」をコンセプトに情報を伝え、顧客の声も取り込みながら、日常生活の延長に自然な形で健康への意識を組み入れ、行動変容のきっかけにつなげることを目指しました",
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "pass": 1
+   },
+   {
+    "quote": "（売上総利益率）",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「提供価値の高度化」「事業モデルの転換」を通じて、当社の持つ強みを発揮する 機会",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメントの多様化",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… ８",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは「コンサルティング事業」の単一セグメントであるため、記載を省略しております",
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容 | 事業を知る | 株式会社 シグマクシス 新卒採用 — 事業内容 | 事業を知る | 株式会社 シグマクシス 新卒採用 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > recruit > works",
+    "url": "https://www.sigmaxyz.com/recruit/works.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングと事業開発・運営を両立する ビジネスモデル ... — コンサルティングと事業開発・運営を両立する ビジネスモデル ... 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > information",
+    "url": "https://www.sigmaxyz.com/sx/ja/information/20210914103052.html",
+    "pass": 3
+   },
+   {
+    "quote": "シグマクシス ・ ホールディングス 【6088】の事業内容 — シグマクシス ・ ホールディングス 【6088】の事業内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6088/business",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・ 説明 会 資料 | IR 資料 室 - シグマクシス — 決算 短信・ 説明 会 資料 | IR 資料 室 - シグマクシス 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > library > result",
+    "url": "https://www.sigmaxyz.com/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 株式会社 シグマクシス ・ ホールディングス — IR | 株式会社 シグマクシス ・ ホールディングス 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > ...",
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | IR | 株式会社 シグマクシス ・ ホールディングス — IRニュース | IR | 株式会社 シグマクシス ・ ホールディングス 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > news",
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 シグマクシス ・ ホールディングス 】[6088]IR情報 中期経営 ... — 【 シグマクシス ・ ホールディングス 】[6088]IR情報 中期経営 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6088",
+    "pass": 3
+   },
+   {
+    "quote": "シグマクシス ・ ホールディングス 【6088】の最新 決算 発表 - 株探 — シグマクシス ・ ホールディングス 【6088】の最新 決算 発表 - 株探 株探 https://kabutan.jp > ... > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=6088",
+    "pass": 3
+   },
+   {
+    "quote": "グループの 事業 | シグマクシス ・グループ | 株式会社 ... — グループの 事業 | シグマクシス ・グループ | 株式会社 ... 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > group > system",
+    "url": "https://www.sigmaxyz.com/ja/group/system.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社 シグマクシス ・ ホールディングス — 企業情報 | 株式会社 シグマクシス ・ ホールディングス 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > company",
+    "url": "https://www.sigmaxyz.com/ja/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "シグマクシス ・グループ | 株式会社 シグマクシス ... — シグマクシス ・グループ | 株式会社 シグマクシス ... 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > group",
+    "url": "https://www.sigmaxyz.com/ja/group.html",
+    "pass": 3
+   },
+   {
+    "quote": "シグマクシス ・ ホールディングス 【6088】の 事業 内容 — シグマクシス ・ ホールディングス 【6088】の 事業 内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6088/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容 | 事業 を知る | 株式会社 シグマクシス 新卒採用 — 事業 内容 | 事業 を知る | 株式会社 シグマクシス 新卒採用 株式会社シグマクシス・ホールディングス https://www.sigmaxyz.com > recruit > works",
+    "url": "https://www.sigmaxyz.com/recruit/works.html",
+    "pass": 3
+   },
+   {
+    "quote": "富村隆一 - Wikipedia — 2020年 株式会社ベクトル取締役。 2021年 株式会社シグマクシス・ホールディングス代表取締役社長。 2024年同社会長、株式会社シグマクシス取締役会長、インフォコム株式会社取締役。 2025年 株式会社アムタス（現めちゃコミック）取締役。",
+    "url": "https://ja.wikipedia.org/wiki/富村隆一",
+    "pass": 3
+   },
+   {
+    "quote": "リーダーシップチーム | 企業情報 | 株式会社シグマクシス | sx — 2021年10月、シグマクシス代表取締役 共同代表に就任し、2022年6月、シグマクシス・ホールディングス取締役に就任。 2023年6月より、シグマクシス 代表取締役社長に就任（シグマクシス・ホールディングス 代表取締役社長を兼任）。 上田 悦史 Yoshihito Ueda",
+    "url": "https://www.sigmaxyz.com/sx/ja/company/professional.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sigmaxyz.com/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/saas.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/theme/superhuman/superhuman-interview02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case44.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/financial_info/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/financial_info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20250502530518.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case43.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case42.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case41.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case40.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case39.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/case38.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260827526886/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260805509378/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507035/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260803507034/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260722597307/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260721596374/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260716594956/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/ja/ir/news/auto_20260713592264/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/promos1/0/binaryNodeName/visual-index.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/promos1/0/binaryNodeName/visual-case.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/main/011115/teaserItems1/0/image/logo-mol.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/main/011114/teaserItems1/0/image/case43_278_136.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/main/011113/teaserItems1/0/image/case42_278_136.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/main/011111/teaserItems1/0/image/case41_278_136.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/main/011112/teaserItems1/0/image/H2_278_136.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigmaxyz.com/sx/ja/business/case/main/011110/teaserItems1/0/image/logo-mol.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%80%89%E9%87%8D%E8%8B%B1%E6%A8%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9D%91%E9%9A%86%E4%B8%80",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シグマクシス・ホールディングス",
+   "results": [
+    "https://www.sigmaxyz.com/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6088",
+    "https://kabutan.jp/stock/?code=6088",
+    "https://minkabu.jp/stock/6088",
+    "https://my-vision.co.jp/consultant/general/firms/sigmaxyz",
+    "https://www.sigmaxyz.com/ja/index.html",
+    "https://www.sigmaxyz.com/ja/company/about.html",
+    "https://finance.yahoo.co.jp/quote/6088.T",
+    "https://www.nikkei.com/nkd/company/?scode=6088",
+    "https://shikiho.toyokeizai.net/stocks/6088/corporate"
+   ]
+  },
+  {
+   "query": "シグマクシス・ホールディングス ビジネスモデル",
+   "results": [
+    "https://www.sigmaxyz.com/recruit/works.html",
+    "https://www.sigmaxyz.com/sx/ja/information/20210914103052.html",
+    "https://kitaishihon.com/company/6088/business",
+    "https://www.bizreach.jp/job-feed/public-advertising/rfctigd/",
+    "https://my-vision.co.jp/consultant/general/firms/sigmaxyz",
+    "https://note.com/hr793/n/n008dd3a06d3b",
+    "https://www.crex-data.com/company/6088",
+    "https://info.fujico.co.jp/executive/sigmaxyz/",
+    "https://www.sigmaxyz.com/",
+    "https://consovation.com/シグマクシス・ホールディングスのビジネスモデ/"
+   ]
+  },
+  {
+   "query": "シグマクシス・ホールディングス 決算説明資料",
+   "results": [
+    "https://www.sigmaxyz.com/ja/ir/library/result.html",
+    "https://www.sigmaxyz.com/ja/ir.html",
+    "https://www.sigmaxyz.com/ja/ir/news.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6088",
+    "https://kabutan.jp/stock/finance?code=6088",
+    "https://www.sigmaxyz.com/ja/ir/library/securities.html",
+    "https://data.swcms.net/file/sigmaxyz-clump/dam/jcr:9e7495ab-4304-4af3-bc74-29684a7bde83/140120260803507034.pdf",
+    "https://finance.logmi.jp/articles/384633",
+    "https://design-sli.de/slide/16341"
+   ]
+  },
+  {
+   "query": "シグマクシス・ホールディングス 事業系統図",
+   "results": [
+    "https://www.sigmaxyz.com/ja/group/system.html",
+    "https://www.sigmaxyz.com/ja/company.html",
+    "https://www.sigmaxyz.com/ja/group.html",
+    "https://kitaishihon.com/company/6088/business",
+    "https://www.sigmaxyz.com/recruit/works.html",
+    "https://data.swcms.net/file/sigmaxyz-clump/dam/jcr:6b840a23-729d-44e7-9e08-dbac8cae52b8/140120240507582492.pdf",
+    "https://landsknecht.jp/firm/sigmaxyz/",
+    "https://finance.logmi.jp/articles/380590",
+    "https://my-vision.co.jp/consultant/general/firms/sigmaxyz",
+    "https://www.sigmaxyz.com/ja/index.html"
+   ]
+  },
+  {
+   "query": "シグマクシス・ホールディングス 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/倉重英樹",
+    "https://ja.wikipedia.org/wiki/富村隆一",
+    "https://career-incubation.co.jp/consulting/interview/partner/sigmaxyz/004435.html",
+    "https://www.sigmaxyz.com/sx/ja/company/professional.html",
+    "https://fortna.co.jp/sigmaxyz_interview4/",
+    "https://www.nikkei.com/article/DGXZQODZ00029_X20C23A6000000/",
+    "https://www.sigmaxyz.com/ja/company/professional.html"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

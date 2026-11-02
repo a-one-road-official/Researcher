@@ -1,0 +1,904 @@
+{
+ "name": "日本電子材料",
+ "aliases": [],
+ "context": "証券コード6855／電気機器／スタンダード（内国株式）／2026.03期 売上高29,366百万円 営業利益率24.7%",
+ "researched_at": "2026-11-02T16:57:59.721339+00:00",
+ "official_url": "http://www.jem-net.co.jp/",
+ "identified_by": "search:ddgs:google:日本電子材料",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1960年4月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "カンチレバー型プローブカード（Cタイプ）、アドバンストプローブカード（Mタイプ、Ｖタイプ） フィラメント、電子ビーム溶接機用陰極、各種ヒーター等",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （百万円）",
+    "value": "23,599 20,781 17,461 23,829 29,366",
+    "url": "https://www.jem-net.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "label": "売上高 （百万円）",
+    "value": "19,880 16,770 14,341 20,240 24,938",
+    "url": "https://www.jem-net.co.jp/ir/highlight",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "発行価格等の決定に関するお知らせ（金融商品取引法第15条第５項に基づく公表文）",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン・自動車・サーバー等、数多くの製品を支えている半導体",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "利益面につきましても、高付加価値製品を中心とした売上高の増加により、国内工場の高い稼働率が継続する見通しであることから、当初予想を大きく上回る見通しとなりました",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/stock1",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/stock2",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/meeting",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/tanshin",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/kessanhosoku",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/kessansetumeikai",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/yuka",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/chuki",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/jigyou",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/tuuchi",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/ir-library/faq",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/ir/koukoku",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/environment/kankyo",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/environment/hinshitsu",
+    "pass": 1
+   },
+   {
+    "quote": "1.顧客サービスの充実 （Customer Satisfaction）",
+    "url": "https://www.jem-net.co.jp/environment/hinshitsu",
+    "pass": 1
+   },
+   {
+    "quote": "4.製品評価／解析技術の向上 （Analyze Products）",
+    "url": "https://www.jem-net.co.jp/environment/hinshitsu",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.jem-net.co.jp/contact/cmenu/contact1",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から個人情報をご提供していただき、お客様へのサービスにご利用させていただく場合があります",
+    "url": "https://www.jem-net.co.jp/contact/cmenu/contact1",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益 2,797 4,560 1,762 63.0 高付加価値製品を中心とした売上高の増加と国内工場の高い稼働率により、",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益面につきましても、高付加価値製品を中心とした売上高の増加と国内工場の高い稼働率により、前年同四",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 574 512",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益面につきましても、高付加価値製品を中心とした売上高の増加により、国内工場の高い稼働率が継続する見",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807shusei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、商品の納品等につきましては、担当よりお客様へ個別にご連絡いたします",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/270731kumamotojishin2.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "指名委員会及び報酬委員会の設置に関するお知らせ",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "包括クロスライセンス契約の解約のお知らせ",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社概要・沿革・組織図",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月25日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算補足資料を開示しました",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信を開示しました",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第２四半期連結累計期間及び通期連結業績予想並びに剰余金の配当（中間配当）予想の修正に関するお知らせ",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震について（続報）",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月24日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月26日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年６月26日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月3日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月22日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月19日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期通期決算説明会資料を開示しました",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月14日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度通期決算補足資料を開示しました",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信を開示しました",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月3日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月25日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月10日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月25日",
+    "url": "https://www.jem-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・組織図 - 日本電子材料株式会社",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・組織図",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1960年4月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1960年 4月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1962年 6月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1970年 4月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1985年 11月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1987年 5月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1988年 6月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1993年 10月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1994年 9月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1996年 5月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1998年 4月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1998年 8月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1998年 12月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "1999年 10月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2001年 7月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2003年 7月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2003年 9月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2004年 4月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2004年 12月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 2月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 3月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 3月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2007年 8月",
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・組織図",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日に発生しました令和8年熊本地震により、被害にあわれた方々には、心よりお見舞い申し上げます",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期連結累計期間（2026年4月1日～2026年6月30日）は、メモリー向けプローブカードの拡販が大きく進んだことに加え、為替相場が円安方向に進行したこともあり、売上高は前年同四半期を大きく上回りました",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期配当予想につきましては、第２四半期末は普通配当60円、期末40円、年間100円としております",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 連結業績予想（2026年４月１日～2027年３月31日）",
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・組織図",
+    "url": "https://www.jem-net.co.jp/ir/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・組織図",
+    "url": "https://www.jem-net.co.jp/ir/stock1",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日",
+    "url": "https://www.jem-net.co.jp/ir/stock1",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革・組織図",
+    "url": "https://www.jem-net.co.jp/ir/stock2",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は品質第一主義のもと、品質マネージメントシステムを構築し、常に改善/改革を通じて最高の顧客満足を達成する",
+    "url": "https://www.jem-net.co.jp/environment/hinshitsu",
+    "pass": 1
+   },
+   {
+    "quote": "1.顧客サービスの充実 （Customer Satisfaction）",
+    "url": "https://www.jem-net.co.jp/environment/hinshitsu",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトは、お客様の個人情報について、お客様の承諾が無い限り第三者に開示、提供を一切いたしません",
+    "url": "https://www.jem-net.co.jp/contact/cmenu/contact1",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から個人情報をご提供していただき、お客様へのサービスにご利用させていただく場合があります",
+    "url": "https://www.jem-net.co.jp/contact/cmenu/contact1",
+    "pass": 1
+   },
+   {
+    "quote": "また、商 品の納品等への影響が判明した場合は、 担当よりお客様へ個別にご連絡",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 5,381 55 5,437 ― 5,437",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 9,593 48 9,641 ― 9,641",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、商品の納品等につきましては、担当よりお客様へ個別にご連絡いたします",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/270731kumamotojishin2.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "金額 構成比(%) 金額 構成比(%)",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………P.７",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別の業績は次のとおりです",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、売上高は9,593百万円（前年同四半期比78.3％増）、セグメント利益は3,624百万円（前年同四半",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電子管部品関連事業につきましては、売上高48百万円（前年同四半期比12.9％減）、セグメント利益は１百万",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,918 2 1,920 △ 445 1,475",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に報告セグメントに帰属しない当社の総務・経理部門等の管理部門に係る費用であります",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 3,624 1 3,625 △ 531 3,094",
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jem-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-msg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/stock1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/stock2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/meeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-schedule",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/tanshin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/kessanhosoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/kessansetumeikai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/yuka",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/chuki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/jigyou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/tuuchi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/ir-library/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/ir/koukoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/environment/kankyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/environment/hinshitsu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/contact/cmenu/contact1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/270930Thaisuigai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260925_jinjiido.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qhosoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807_261qtanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260807shusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/270731kumamotojishin2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/270728kumamotojishin2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/images/top/pdf/2026/260724_jotoseigenkanryo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://math.stackexchange.com/questions/349721/square-root-of-positive-definite-matrix",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://math.stackexchange.com/questions/189130/prove-that-if-n-is-not-the-square-of-a-natural-number-then-sqrtn-is-irra",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://forums.tdiclub.com/index.php?threads/nuisance-code-p2564.508690/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forums.tdiclub.com/index.php?threads/dreaded-wheel-speed-sensor.522262/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seniorly.com/skilled-nursing-facility/new-york/brooklyn/downtown-brooklyn-nursing-rehabilitation-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dbnrc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://walrus.com/questions/prednisone-not-working-for-gout-attack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://walrus.com/questions/can-you-take-trulance-and-linzess-together",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本電子材料",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本電子材料",
+    "http://www.jem-net.co.jp/",
+    "https://www.jem-net.co.jp/profile/outline",
+    "https://finance.yahoo.co.jp/quote/6855.T",
+    "https://r.nikkei.com/nkd/company/?scode=6855",
+    "https://kabutan.jp/stock/?code=6855",
+    "https://aiinfra-lab.com/ai-company/382/",
+    "https://r.nikkei.com/nkd/company/gaiyo/?scode=6855",
+    "https://m.youtube.com/watch?v=6VPAdsKyIak",
+    "https://finance.yahoo.co.jp/quote/6855.T/financials"
+   ]
+  },
+  {
+   "query": "日本電子材料 ビジネスモデル",
+   "results": [
+    "https://math.stackexchange.com/questions/349721/square-root-of-positive-definite-matrix",
+    "https://math.stackexchange.com/questions/189130/prove-that-if-n-is-not-the-square-of-a-natural-number-then-sqrtn-is-irra",
+    "https://math.stackexchange.com/questions/3162030/evaluate-the-line-integral-of-a-vector-field-around-a-square",
+    "https://math.stackexchange.com/questions/305997/does-the-square-of-uniform-distribution-have-density-function",
+    "https://math.stackexchange.com/questions/218770/when-does-a-square-matrix-have-an-lu-decomposition",
+    "https://math.stackexchange.com/questions/537286/prove-that-if-n-is-a-perfect-square-then-n2-is-not-a-perfect-square",
+    "https://math.stackexchange.com/questions/1838178/infinite-square-grid-of-resistors",
+    "https://math.stackexchange.com/questions/84495/computational-complexity-of-least-square-regression-operation",
+    "https://math.stackexchange.com/questions/1604224/permutations-and-combinations-textbook-recommendations",
+    "https://math.stackexchange.com/questions/25779/rigorously-proving-that-a-change-of-basis-matrix-is-always-invertible"
+   ]
+  },
+  {
+   "query": "日本電子材料 決算説明資料",
+   "results": [
+    "https://forums.tdiclub.com/index.php?threads/nuisance-code-p2564.508690/",
+    "https://forums.tdiclub.com/index.php?threads/dreaded-wheel-speed-sensor.522262/",
+    "https://forums.tdiclub.com/index.php?threads/check-engine-light-p2002.479568/",
+    "https://forums.tdiclub.com/index.php?threads/question-on-the-dsg-tiptronic-in-a-06-jetta.363278/",
+    "https://forums.tdiclub.com/index.php?threads/rcd-310-to-rcd-510-conversion-possible.365718/",
+    "https://forums.tdiclub.com/index.php?threads/bew-tune-options.538753/",
+    "https://forums.tdiclub.com/index.php?threads/radiator-cooling-fan-problem-in-2012-jetta.343537/",
+    "https://forums.tdiclub.com/index.php?threads/p154f-code.542170/",
+    "https://forums.tdiclub.com/index.php?threads/tdi-fuel-filter-change-bleed-question.488778/",
+    "https://forums.tdiclub.com/index.php?threads/should-i-use-winter-tires-on-gravel-roads.220019/"
+   ]
+  },
+  {
+   "query": "日本電子材料 事業系統図",
+   "results": [
+    "https://www.seniorly.com/skilled-nursing-facility/new-york/brooklyn/downtown-brooklyn-nursing-rehabilitation-center",
+    "https://dbnrc.com/",
+    "https://health.usnews.com/best-nursing-homes/area/ny/downtown-brooklyn-nursing-rehabilitation-center-335625",
+    "https://www.medicarelist.com/nursing-home/center-for-nursing-and-rehabilitation-s-n-f-brooklyn-ny/",
+    "https://npino.com/nursing-home/1952334518-center-for-nursing-",
+    "https://nursinghomegrade.com/facility/335625-downtown-brooklyn-nursing-rehabilitation-center",
+    "https://opengovny.com/health-facility/1408",
+    "https://dbnrc.com/admissions/",
+    "https://www.nursinghomes.us/facility/downtown-brooklyn-nursing-rehabilitation-center-335625",
+    "https://profiles.health.ny.gov/nursing_home/view/150712"
+   ]
+  },
+  {
+   "query": "日本電子材料 社長 インタビュー",
+   "results": [
+    "https://walrus.com/questions/prednisone-not-working-for-gout-attack",
+    "https://walrus.com/questions/can-you-take-trulance-and-linzess-together",
+    "https://www.walrus.com/questions/does-seroquel-quetiapine-affect-rem-sleep",
+    "https://walrus.com/questions/cold-medications-safe-to-take-with-saphris-seroquel-lithium-and-depakote",
+    "https://www.walrus.com/questions/how-to-taper-seroquel-quetiapine",
+    "https://www.walrus.com/questions/how-long-does-vyvanse-stay-in-your-system",
+    "https://www.walrus.com/questions/list-of-drugs-that-can-cause-a-false-positive-for-marijuana",
+    "https://www.walrus.com/questions/what-can-cause-a-false-positive-for-a-benzo",
+    "https://www.walrus.com/questions/methadone-and-false-positives-on-urine-drug-tests",
+    "https://www.walrus.com/articles/what-medications-interact-with-celexa"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部8頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部8頁・検索5回）"
+ }
+}

@@ -1,0 +1,2449 @@
+{
+ "name": "ファインデックス",
+ "aliases": [],
+ "context": "証券コード3649／情報・通信業／プライム（内国株式）／2025.12期 売上高6,110百万円 営業利益率29.3%",
+ "researched_at": "2026-11-02T16:49:54.530558+00:00",
+ "official_url": "https://findex.co.jp/",
+ "identified_by": "search:yahoo_jp:ファインデックス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和60年1月26日",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1985年1月",
+    "url": "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "353名（連結：360名）（2026年4月1日現在）",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "307人（2023年4月1日、連結）",
+    "url": "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "システム開発事業",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "システム開発事業",
+    "url": "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （百万円）",
+    "value": "6,109 6,209 6,960 7,480 8,070 8,520",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "label": "通期売上高",
+    "value": "4,968,885 4,541,242 5,191,735 5,841,379 6,109,941 6,209,000",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高 (千円)",
+    "value": "4,968,885 4,541,242 5,191,735 5,841,379 6,109,941",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高経常利益率 (％)",
+    "value": "19.0 23.2 29.4 26.4 30.1",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高当期純利益率 (％)",
+    "value": "12.8 15.9 20.4 19.9 20.6",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "5,841,379 6,109,941",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "45億円",
+    "url": "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療文書作成サービス",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIを活用した医療文書向け文章生成ソリューション「CocktailAI」の有用性評価論文が、国際学術誌「PLOS Digital Health」に掲載されました",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックスソリューションを取り扱う代理店の情報を",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックス製品を一緒に導入していくパートナーを",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品·サービス専用サイト開設のお知らせ",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品·サービスに関する情報は、専用サイトへ移行いたしました",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIを活用した医療文書向け文章生成ソリューション「CocktailAI」の有用性評価論文が、国際学術誌「PLOS Digital Health」に掲載されました",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の一部Webサービスで利用しているプログラミング言語「PHP」において重大な脆弱性が発表されたことを受け、当社ではお客様のシステムおよび情報資産を保護するための緊急セキュリティ対応を実施いたしました",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "※製品のお問い合わせはページ下部「製品に関するお問い合わせ（製品サイト）」よりお願いします",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "安全性の確認が完了次第、速やかにサービスを再開いたしますので、何卒ご理解とご協力を賜りますようお願い申し上げます",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "病院ソリューション部長",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックスは、「価値ある技術創造で社会を豊かにする」企業理念を実現するために、医療現場や世の中のニーズ・シーズを的確に把握し、それを解決する高品質なソリューションを逸早く開発し提供していくことが不可欠であると考え、次の基本方針を定めております",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックスは、今後ますます高度化していく医療システム、情報システムの世界にあって常に最新の技術と情報に基づいた製品を提供し続けるために、",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療・法律・情報技術などのあらゆる分野の最新情報を収集し、製品化していくことを心がけています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "「世の中で必要とされていること」や「まだ世の中にない新しい発想・技術」を探し続けることで、当社にしか生み出すことができないソリューションを常に提供する「オンリーワン」な企業でありつづけたいと考えています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "独創的な製品開発の根幹だと考えています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックスの販売活動においては、なによりもまずお客様にとって使いやすく便利であることを第一に、常に期待を上回る製品を提供することを大切にしています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の企業理念を共有できる販売パートナー様のネットワークを広げていくことで、より多くのお客様に当社製品をご利用いただくことが可能となり、当社製品の利用を通じて社会に貢献できるものと考えています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品及び製品",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/stock/basic.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/stock/basic.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/stock/procedure.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/data/p_notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/data/p_notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "※株式会社プロネクサスが運営する電子公告掲載サービス「KeeProve Master PLUS」でご覧いただけます",
+    "url": "https://findex.co.jp/ir/data/p_notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://findex.co.jp/ir/data/securities.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックスソリューションを取り扱う代理店の情報を",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックス製品を一緒に導入していくパートナーを",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "企業紹介資料",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "◆ 資料請求・デモのお申込み・代理店に関するお問い合わせ：",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "企業紹介資料",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の企業理念を共有できる販売パートナー様のネットワークを広げていくことで、より多くのお客様に当社製品をご利用いただくことが可能となり、当社製品の利用を通じて社会に貢献できるものと考えています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（医療システム）",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店一覧（視線分析型視野計 GAP）",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療システム代理店",
+    "url": "https://findex.co.jp/ir/stock/basic.html",
+    "pass": 1
+   },
+   {
+    "quote": "公共ソリューション代理店",
+    "url": "https://findex.co.jp/ir/stock/basic.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年12月期 第2四半期決算説明会の全文書き起こしを掲載しました",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明資料を掲載しました",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 半期報告書を掲載しました",
+    "url": "https://findex.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明会の全文書き起こしを掲載しました",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明資料を掲載しました",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 半期報告書を掲載しました",
+    "url": "https://findex.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和60年1月26日",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日付",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月12日更新（PDF：2.07MB）",
+    "url": "https://findex.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜ファインデックス",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月1日より、所定労働時間を1日あたり8時間から7.5時間に変更",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年予想",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期",
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月26日（木曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月27日（木曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月27日（水曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月28日（火曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月29日（火曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月26日（金曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月27日（金曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月27日（水曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月28日（水曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月28日（火曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月29日（火曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月30日（月曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年9月29日開催 臨時株主総会",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年9月29日（月曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月28日（金曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月28日（木曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月29日（木曜日）午前10時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月30日（水曜日）午前11時",
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第3四半期決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社の一部Webサービスで利用しているプログラミング言語「PHP」において重大な脆弱性が発表されたことを受け、当社ではお客様のシステムおよび情報資産を保護するための緊急セキュリティ対応を実施いたしました",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "停止期間中にお問い合わせやデモ申込、資料請求等をご希望のお客様におかれましては、お手数ですが内容に応じた下記メールアドレスまで直接ご連絡いただきますようお願い申し上げます",
+    "url": "https://findex.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の「期待以上」のものを",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインデックスの販売活動においては、なによりもまずお客様にとって使いやすく便利であることを第一に、常に期待を上回る製品を提供することを大切にしています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の企業理念を共有できる販売パートナー様のネットワークを広げていくことで、より多くのお客様に当社製品をご利用いただくことが可能となり、当社製品の利用を通じて社会に貢献できるものと考えています",
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域社会や取引先、顧客に対しても健康経営の重要性を発信し、健康づくりの普及に貢献します",
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー数の増加に伴って急成長している",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約８割がユーザー",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内の大学大規模病院のほとんどにお客様となっていただき、当社のシステムをお使いいただいてい",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここもお客様からの評判が非常に良く、順調に伸びているところです",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様は順調に増えていますし、ストックの部分もきちんと伸びていると言えるかと思います",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いくつかの自治体案件を落札しており、 これからお客様の数もどんどん増えてくるという流れになっています",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー種類別 売上構成比（％）販売・サービス種類別 売上構成比（％）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それと、右のエンドユーザー種類別 売上構成比の円グラフをご覧いただくと、大規模病院55%、中規模病院",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ですので、中規模病院や小規模病院のお客様がどんどん増えてくるというのが、これからの",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DocuMaker Office 総利用者数推移（人）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の数もどんどん増え",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "伸び続けておりますし、お客様の数も圧倒的に増えております",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、然るべきタイミングで新しいお客様の",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入先一例 ユーザーアカウント数",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "にいるエンドユーザーがさまざまに利用していきます",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様が本レポート",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "および本レポートに記載の情報をいかなる目的で使用する場合においても、お客様の判断と責任において",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "使用するものであり、使用の結果として、お客様になんらかの損害が発生した場合でも、フィスコは、理",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約８割がユーザー",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー種類別 売上構成比（％）販売・サービス種類別 売上構成比（％）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "DocuMaker Office 総利用者数推移（人）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "導入先一例 ユーザーアカウント数",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "偏重の度合いは、主要顧客である",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "参考資料導入実績と、セグメント別システム利用ユーザー数の増減（2026年6月末現在）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "「新しい発想・技術の探求」を基に「モノ創りの喜びを感じられる研究開発」を推進し、「お客様の期待を上回",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社のクリニック顧客の多くは収益性が高く経営状況の良い診療科が多",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "く、また病院顧客においても急性期病院が中心であることから、安定した顧客基盤のもと堅実なビジネス運営を実",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、国が推進する電子カルテ情報共有サービスにおける医療データ連携では、顧客のニーズ",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活用ノウハウを共有する場としてユーザー会を開催し、「CocktailAI」の継続的な価値向上に努めております",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス開始以来、自治体向けパッケージは累計66件、医療機関向けパッケージは累計14件が稼働し、総利用者",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス開始以来の解約数は０件を維持し、昨年に引き続き順調に顧客基盤を",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,856,080 243,710 25,812 3,125,603 3,125,603",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,908,009 172,812 64,593 3,145,415 3,145,415",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 2,856,080 243,710 25,812 3,125,603",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,856,080 243,710 25,812 3,125,603",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの売上高は、主に顧客との契約から認識した収益であり、当社グループの報告セグメントを収益認",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 2,908,009 172,812 64,593 3,145,415",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,908,009 172,812 64,593 3,145,415",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DocuMaker Office は、直感的なユーザーイン",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "医療業界の中でも大規模病院はオンプレ運用率が９割超であるため、顧客のDXフェーズに寄り添ったクラウドシフトを徹底",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザー継続率は99%と高水準を維持するとともに、多くの大規模医療機関への",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "操作性が高くユーザーの好みに合わせてカスタマイズできる",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "対象ユーザー：",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "導入先一例 ユーザーアカウント数",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "事業別売上比率 ユーザー層と導入実績",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療システム事業の利益率は高く顧客基盤も強固、解約率は創業以来常に2.0%以下",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クラウドシフトによる収益の安定化、顧客提供価値の最大化、情報オペレーションの最適化を三位一体で推進",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のDXフェーズに寄り添ったクラウドシフトを徹底",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は「新しい発想・技術の探求」を基に「モノ創りの喜びを感じられる研究開発」を推進し、「お客様の期待を上回り、社会の発展に貢献する製",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の「DocuMaker Office」は、直感的なユーザーインターフェースと柔軟なカスタマイズ性が高く評価され、多くの導入実績があります",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "約5,500億円と莫大な市場規模の中で、当社は主に大規模病院を中心に存在感を高めると同時に、ユーザー継続率は98.2パーセントと高い水準を維持しています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "電子カルテ研究開発のビジネスモデルが「平成14、15年度愛媛県アクティブベンチャー支援事業」に採択される",
+    "url": "https://findex.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "• 医療機関内外のDXを推進し、医療セクターのビジネスモデルに変革をもたらすソリューションが豊富",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "少数精鋭で高利益率なビジネスモデルを展開",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "更新するビジネスモデル",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "安定したビジネスモデルで",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益モデルの確立",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2つ目は、少数精鋭で高利益率なビジネスモデルを構築していることです",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルについては、安定した売上サイクルであることが特徴です",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境の変化に対応しながら、ビジネスモデルを強化し、主力製品のさらなる拡販を進めています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "証券会社によって口座の開設方法、必要な書類、手数料などが異なるため、詳細は各証券会社のウェブサイトをご覧いただくか、直接お問い合わせください",
+    "url": "https://findex.co.jp/ir/investors/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "・\u0007 同社はセグメント区分を、医療機関向けに医療データ管理システムなど各種システムの開発・販売・保守等を",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行う医療ビジネス、官公庁・自治体向けに公文書管理システムの開発・販売・保守等を行う公共ビジネス、視",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "線分析型視野計の開発・販売・保守等及び医療データプラットフォーム事業 （2025年11月事業開始） を行うヘ",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売増加に伴う個別カスタマイズ工数の削減、導入数増加に伴うストック型収益 （保守・サポート等） の増加な",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在リカーリングサービス、月額課金のモデルですが、このマイナスの理由は、前年の上期に大規模な導入案",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様は順調に増えていますし、ストックの部分もきちんと伸びていると言えるかと思います",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収入は堅調に推移したものの、",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 受注高および受注残高には、ストック収益である保守サービス・SaaS利用料を含んでおりません",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 売上高には保守サービス・SaaS利用料を含みます",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 保守サービス、クラウドサービスの医療セグメントにおけるストック収入の割合は 31.9 ％へ上昇（前年は 29.8 ％）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高に占める利用料モデルの推移（百万円）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高に占める利用料モデルの推移をご覧いただいても、ずっと伸びています",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月額課金の形で",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その中で、それぞれの利用料や加工費用",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収入は堅調に推移したものの、",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "※ 受注高および受注残高には、ストック収益である保守サービス・SaaS利用料を含んでおりません",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "※ 売上高には保守サービス・SaaS利用料を含みます",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "• 保守サービス、クラウドサービスの医療セグメントにおけるストック収入の割合は 31.9％へ上昇（前年は 29.8％）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "売上高に占める利用料モデルの推移（百万円）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "※保守サービスの製品割合を各製品に配賦",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "ストックビジネスの",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "診療所向け電子カルテ「REMORA」の他社からのリプレイス需要の拡大や、保守サービス・サービス利用料からな",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る利益率の高いストック型収益が売上高の30％を超え、営業利益率も向上した結果、増収増益となりました",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年にあった大型案件売上の反動により減収減益となりましたが、ストック収入による安定収益比率は増加しており",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から構築開始予定の大型案件の商談も複数進行しており、これまでの提案力と安定した導入・保守の実績が次の商",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビスの向上を目的に保守プランの提供を開始し、各販売代理店に対するインセンティブプランを導入するなど、販",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 41,376 62,602",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "初期導入費用に加え、年間保守サポート料が安",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "クラーク数や端末数によってライセンス数の増減にも対",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "医療システム事業の利益率は高く顧客基盤も強固、解約率は創業以来常に2.0%以下",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 医療・公共のリカーリング売上を基盤に、",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック収益比率：2030年に40.0％以上",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング収益の比率を高めることで、医療システム更新サイク",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フロー収益 ストック収益",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ストック収益はメンテナンス・サポートを含む",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "具体的な資本コストに関しては、過去に株価変動が大きかったことを理由に、株式ベータが高いことなどを考慮して、保守的に10％程度と仮定して",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役の基本報酬は、月額の固定報酬とし、当社の業績、役位、職責、在任年数などを総合的に勘案のうえ、人事報酬委員会（委員長は",
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第１条 当会社の株式および新株予約権に関する取扱いならびに手数料、株主の権利行",
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 16 条 単元未満株式の買取単価は、前条の請求が、第２条に定める株主名簿管理人事",
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 前項による買取単価に、買取請求株式数を乗じた額をもって買取価格とする",
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第5章 手数料",
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 20 条 当会社の株式の取扱いに関する手数料は、無料とする",
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 株主等が証券会社等または機構に対して支払う手数料は、株主等の負担とする",
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取り、その他株式ならびに新株予約権に関する取扱いおよび手数料は、法令また",
+    "url": "https://findex.co.jp/ir/data/pdf/articles_20230315.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、初期導入時のまとまった売上に加え、年間の保守・サポート料が安定した収益源となります",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "公共ビジネスでは、当社として初めて東京23区への製品導入が決定し、板橋区の文書管理システム再構築および運用保守業務を受託しました",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、これらは月額利用のストック型ビジネスであるため、当期の売上への寄与は限定的です",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "画像ファイリングシステムの「Claioシリーズ」が売上全体の35パーセントと最も大きな割合を占め、次いで保守サービスが30パーセントとなっています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "右上のグラフは、売上高に占める月額利用料の推移を示しています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期の月額利用料は3,800万円と、ストック型収益の積み上げが進んでいます",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "また、計画値は保守的に設定しており、各セグメントの新規ビジネスにかかる業績は、現時点では計画値に織り込んでいません",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "・\u0007 同社はセグメント区分を、医療機関向けに医療データ管理システムなど各種システムの開発・販売・保守等を",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高をセグメント別に見ると、医療ビジネスは前期比4.2％減の54.51億円を計画",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "03 H1FY2026 セグメント別の状況/",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本日は、事業概要、上期の業績ハイライト、セグメント別の状況という流れでご説明してまいります",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それぞれの事業セグメントの概要をキーワードで申し上げますと、1つは、眼科の電子カルテであるREMORA",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益の増減益要因（ 百万円） 営業利益のセグメント別増減要因 （百万円 ）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別に見ますと、先",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "H1FY2026 セグメント別の状況",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それでは、セグメント別のご説明をいたします",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年12月期 各セグメントの売上高計画値と事業戦略",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,829 百万円 YoY +2.2 ％ セグメント 別 事業戦略",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その中で、それぞれのセグメントの上",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー種類別 売上構成比（％）販売・サービス種類別 売上構成比（％）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 保守サービス、クラウドサービスの医療セグメントにおけるストック収入の割合は 31.9 ％へ上昇（前年は 29.8 ％）",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その内容で特筆すべき点はどこかと言いますと、販売・サービス種類別 売上構成比の円グラフの、当年",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それと、右のエンドユーザー種類別 売上構成比の円グラフをご覧いただくと、大規模病院55%、中規模病院",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ FY22に公共セグメントを遡及して算定",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ヘルステックセグメントの赤字幅が大幅縮小",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "03 H1FY2026 セグメント別の状況/",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益の増減益要因 （百万円 ） 営業利益のセグメント別増減要因 （百万円 ）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "H1FY2026 セグメント別の状況",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "2026年12月期 各セグメントの売上高計画値と事業戦略",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 1,829 百万円 YoY +2.2 ％ セグメント 別 事業戦略",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー種類別 売上構成比（％）販売・サービス種類別 売上構成比（％）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "• 保守サービス、クラウドサービスの医療セグメントにおけるストック収入の割合は 31.9％へ上昇（前年は 29.8％）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "※ FY22に公共セグメントを遡及して算定",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "ヘルステックセグメントの赤字幅が大幅縮小",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "参考資料導入実績と、セグメント別システム利用ユーザー数の増減（2026年6月末現在）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "1施設当たり平均パッケージ数医療代理店売上高の推移（百万円） 医療システム製品別売上構成比（％）",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間のセグメント別（連結）の経営成績は、以下のとおりです",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療ビジネスセグメントの主力製品は、医療機関のDXを支援する画像ファイリングシステム「Claio」や文書作",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当セグメントの経営成績は、売上高2,908,009千円（前年同期比1.8％増）、営業利益",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公共ビジネスセグメントの主力製品はSaaS型ソリューション「DocuMaker Office」です",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間では、自治体向けパッケージが11件、医療機関向けパッケージが１件稼働し、当セグメント",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ヘルステックビジネスセグメントは、視線分析型視野計「GAP」（注１）及び「GAP-screener」（注２）の開発・",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より医療データプラットフォーム事業の売上を当セグメントに含めていることから、当セグメントの経営成績は、",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 中間連結損益",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）セグメント利益又は損失の合計額は、中間連結損益計算書の営業利益と一致しております",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの売上高は、主に顧客との契約から認識した収益であり、当社グループの報告セグメントを収益認",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別売上比率",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "事業別売上比率 ユーザー層と導入実績",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独自性を生かした既存事業のアクセレレーションと新規事業創出事業セグメント別 売上高と営業利益の予測",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別売上比率は、2024年度は医療ビジネスが売上の大半を占めており、次いで公共ビジネス、ヘルステックビジネスとなっています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、公共ビジネスの成長が顕著です",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期累計では、公共ビジネスセグメントおよび子会社フィッティングクラウドの増収増益がグループ全体の増収増益に寄与しました",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の売上高です",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の営業利益の内訳です",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益の予想は公表していないため進捗率は記載していませんが、安定的な収益水準を維持しています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期累計の代理店売上高は、前期の8億8,700万円から今期は8億8,000万円、売上比率はともに21.9パーセントと横ばいでした",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "医療システムの製品別売上構成比です",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、先行投資の影響で赤字が続いていますが、第3四半期時点では収益改善が進んでいます",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "また、計画値は保守的に設定しており、各セグメントの新規ビジネスにかかる業績は、現時点では計画値に織り込んでいません",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、医療ビジネスが前期の54億9,500万円から1.0パーセント増の55億5,000万円、公共ビジネスが前期の2億9,000万円から28.5パーセント増の3億7,200万円、ヘルステックビジネスは前期の5,700万円から75.8パーセント増の1億円を計画しています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "医療ビジネスと公共ビジネスの営業利益率は主力製品の順調な拡大、パッケージ",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 医療ビジネスにおける営業利益率",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レーションを強みに、電子カルテデ",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は28.2％と高水準",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高要因 粗利率要因 販管費要因 H1FY2026",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は 32.5 ％（前年同期 32.7 ％）と高水準を維持",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ここを当社の強みとして、これから",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファインデックスの圧倒的な競争優位性は、全国の病院との密接なリレーションにあり",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これが当社の強みです",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "せるというところが当社の強みであると言えると思います",
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 医療ビジネスにおける営業利益率",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "レーションを強みに、電子カルテデ",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は28.2％と高水準",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "売上高要因 粗利率要因 販管費要因 H1FY2026",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は 32.5％（前年同期 32.7％）と高水準を維持",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "ファインデックスの圧倒的な競争優位性は、全国の病院との密接なリレーションにあり",
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "pass": 2
+   },
+   {
+    "quote": "る利益率の高いストック型収益が売上高の30％を超え、営業利益率も向上した結果、増収増益となりました",
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社概要と当社の強み",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "自治体DX市場において安定的な成長と高収益を",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "クロスセル構造の強み",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "pass": 2
+   },
+   {
+    "quote": "更なる成長と高収益化へのシナリオ",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 高い参入障壁と専門性に裏打ちされた高",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法規制の高い参入障壁により、RWD利活用において圧倒的なマーケットポジションを確立",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高度な医療情報処理技術によるデータ加工の強みで、認定事業以外の",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の圧倒的な競争優位性",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "04: 成長戦略③ 既存事業 - 更なる事業の安定性向上と高収益化",
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社概要と当社の強み",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "まず、会社概要と当社の強みについてご説明します",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "スライド右側には当社の強みを記載しています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "これらを通じて、自治体DX市場において安定的な成長と高収益の実現を目指します",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "これらの革新的アプローチは、世界的な高齢社会における予防医療の鍵を握る技術として、社会に対して大きな健康インパクトをもたらすとともに、当社にとって中長期的に高収益を生む成長エンジンとなることを見込んでいます",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "競争入札の場では、当社製品の機能性の高さと豊富な導入実績を強みに提案を行っています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "クロスセル構造においても強みを持っています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "当年度は第4四半期にもさらなる積み上がりを見込んでおり、高利益率サービスの拡大や製品構成の変化による粗利率の改善を背景に、通期業績予想の達成に向けて順調に推移しています",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 - 株式会社ファインデックス FINDEX Inc. — 事業紹介 - 株式会社ファインデックス FINDEX Inc. findex.co.jp https://findex.co.jp > recruit > business",
+    "url": "https://findex.co.jp/recruit/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファインデックス 、大学病院 8割導入の製品を核に医療 DX ... — ファインデックス 、大学病院 8割導入の製品を核に医療 DX ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383561",
+    "pass": 3
+   },
+   {
+    "quote": "企業紹介資料 - 株式会社 ファインデックス FINDEX Inc. — 企業紹介資料 - 株式会社 ファインデックス FINDEX Inc. findex.co.jp PDF https://findex.co.jp > pdf > company_profile",
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ファインデックス ［3649］東証1部 NS - YouTube — ファインデックス ［3649］東証1部 NS - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=-Tsq-K9MzaA",
+    "pass": 3
+   },
+   {
+    "quote": "ファインデックス 【3649】の企業情報 - キタイシホン — ファインデックス 【3649】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top",
+    "url": "https://kitaishihon.com/company/3649/top",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - ファインデックス — 決算説明資料 - ファインデックス findex.co.jp https://findex.co.jp > data > briefing",
+    "url": "https://findex.co.jp/ir/data/briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - ファインデックス — IR 資料 - ファインデックス findex.co.jp https://findex.co.jp > data",
+    "url": "https://findex.co.jp/ir/data/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファインデックス [3649]：2026年12月期 第2四半期 決算説明 ... — ファインデックス [3649]：2026年12月期 第2四半期 決算説明 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260813519350/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファインデックス 個人投資家向け 説明 会【IR広告】 — 株式会社 ファインデックス 個人投資家向け 説明 会【IR広告】 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ZKlKM6y0_sw",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - 株式会社ファインデックス FINDEX Inc. — IRニュース - 株式会社ファインデックス FINDEX Inc. findex.co.jp https://findex.co.jp > press",
+    "url": "https://findex.co.jp/ir/press/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 - 株式会社ファインデックス FINDEX Inc. — 事業 紹介 - 株式会社ファインデックス FINDEX Inc. findex.co.jp https://findex.co.jp > recruit > business",
+    "url": "https://findex.co.jp/recruit/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ファインデックス FINDEX Inc. — 会社概要 - 株式会社ファインデックス FINDEX Inc. findex.co.jp https://findex.co.jp > company",
+    "url": "https://findex.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファインデックス | Chiyoda-ku Tokyo - Facebook — 株式会社 ファインデックス | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > findex",
+    "url": "https://www.facebook.com/findex.jp/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "ファインデックス 【3649】 : 株価・チャート・企業概要 — ファインデックス 【3649】 : 株価・チャート・企業概要 投資情報のフィスコ https://web.fisco.jp > platform > companies",
+    "url": "https://web.fisco.jp/platform/companies/0364900",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー - ファインデックス — 社員 インタビュー - ファインデックス findex.co.jp https://findex.co.jp > recruit > interview",
+    "url": "https://findex.co.jp/recruit/interview/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 相原輝夫 ファインデックス社長 — 編集長 インタビュー 相原輝夫 ファインデックス社長 週刊エコノミスト https://www.weekly-economist.com > aibara_teruo",
+    "url": "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "pass": 3
+   },
+   {
+    "quote": "ファインデックス 社長 相原輝夫さん 「なくなれば医療が混乱 ... — ファインデックス 社長 相原輝夫さん 「なくなれば医療が混乱 ... 愛媛新聞 https://www.ehime-np.co.jp > article > news202509220009",
+    "url": "https://www.ehime-np.co.jp/article/news202509220009",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファインデックス の社員 インタビュー - Green — 株式会社 ファインデックス の社員 インタビュー - Green 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/8632/interview",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://findex.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/management/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/management/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/management/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/management/health.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/finance/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/finance/balance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/finance/profit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/finance/cashflow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/stock/basic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/stock/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/stock/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/stock/procedure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/p_notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/briefing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/investors/event.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/investors/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://findex.co.jp/ir/data/pdf/transcription_20260831.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/pdf/briefing_20260813.pdf?2608",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/pdf/securities_20260813.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/pdf/company_profile.pdf?2603",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/management/pdf/plan_2026-2030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/management/pdf/governance_202603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/stock/pdf/rule_20220610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://findex.co.jp/ir/data/pdf/articles_20230315.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/383561",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ファインデックス",
+   "results": [
+    "https://findex.co.jp/",
+    "https://www.instagram.com/findex_official/",
+    "https://www.nikkei.com/nkd/company/?scode=3649",
+    "https://it-place-ehime.jp/company/48",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://ja.wikipedia.org/wiki/ファインデックス",
+    "https://findex.co.jp/company/index.html",
+    "https://findix.co.jp/company/company_profile/",
+    "https://jp.linkedin.com/company/findexinc",
+    "https://products.findex.co.jp/"
+   ]
+  },
+  {
+   "query": "ファインデックス ビジネスモデル",
+   "results": [
+    "https://findex.co.jp/recruit/business/index.html",
+    "https://finance.logmi.jp/articles/383561",
+    "https://findex.co.jp/ir/pdf/company_profile.pdf",
+    "https://www.youtube.com/watch?v=-Tsq-K9MzaA",
+    "https://kitaishihon.com/company/3649/top",
+    "https://findex-investor-3649.notion.site/2b99d79c3feb80feb165cd73b4e6a255",
+    "https://www.facebook.com/findex.jp/?locale=ja_JP",
+    "https://www.jt-tsushin.jp/companies/findex",
+    "https://hrmos.co/pages/findex"
+   ]
+  },
+  {
+   "query": "ファインデックス 決算説明資料",
+   "results": [
+    "https://findex.co.jp/ir/data/briefing.html",
+    "https://findex.co.jp/ir/data/index.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260813519350/",
+    "https://www.youtube.com/watch?v=ZKlKM6y0_sw",
+    "https://findex.co.jp/ir/press/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3649",
+    "https://findex.co.jp/ir/data/result.html",
+    "https://landix.jp/ir/presentations/",
+    "https://f-code.co.jp/ir/library/briefing-list/",
+    "https://findex.co.jp/ir/index.html"
+   ]
+  },
+  {
+   "query": "ファインデックス 事業系統図",
+   "results": [
+    "https://findex.co.jp/recruit/business/index.html",
+    "https://findex.co.jp/company/",
+    "https://kitaishihon.com/company/3649/top",
+    "https://www.facebook.com/findex.jp/?locale=ja_JP",
+    "https://web.fisco.jp/platform/companies/0364900",
+    "https://www.buffett-code.com/company/3649/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://findex-investor-3649.notion.site/info",
+    "https://www.openwork.jp/a0C1000000XzNvc/compa/a0910000003mkGx/"
+   ]
+  },
+  {
+   "query": "ファインデックス 社長 インタビュー",
+   "results": [
+    "https://findex.co.jp/recruit/interview/index.html",
+    "https://www.weekly-economist.com/interview/aibara_teruo/",
+    "https://www.ehime-np.co.jp/article/news202509220009",
+    "https://www.kabutecho.com/interview/%E5%8C%BB%E7%99%82%E3%83%BB%E5%85%AC%E5%85%B1%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E9%A0%98%E5%9F%9F%E3%81%A7%E9%96%8B%E7%99%BA%E3%81%AB%E5%BC%B7%E3%81%BF-%E9%81%8E%E5%8E%BB/",
+    "https://www.green-japan.com/company/8632/interview",
+    "https://findex.co.jp/recruit/interview/interview_cs.html",
+    "https://x.com/FINDEX_jp/status/2008425800463474711",
+    "https://it-place-ehime.jp/company/interview/48",
+    "https://www.ai-work.jp/maruwakari/detail.php?id=158"
+   ]
+  }
+ ],
+ "missing": {}
+}

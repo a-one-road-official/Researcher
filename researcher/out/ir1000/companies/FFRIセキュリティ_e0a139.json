@@ -1,0 +1,1526 @@
+{
+ "name": "ＦＦＲＩセキュリティ",
+ "aliases": [],
+ "context": "証券コード3692／情報・通信業／グロース（内国株式）／2026.03期 売上高4,349百万円 営業利益率31.4%",
+ "researched_at": "2026-11-02T16:57:06.476408+00:00",
+ "official_url": "https://www.ffri.jp/",
+ "identified_by": "search:yahoo_jp:FFRIセキュリティ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2007年7月3日",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2020年3月1日",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2026年1月",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2003年8月",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2019年1月",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンピュータセキュリティの研究、コンサルティング、情報提供、教育 ネットワークシステムの研究、コンサルティング、情報提供、教育 コンピュータソフトウェア及びコンピュータプログラムの企画、開発、検証、販売、リース、保守、管理、運営及びこれらに関する著作権、出版権、特許権、実用新案権、商標権、意匠権等の財産権取得、譲渡、貸与及び管理 コンピュータハードウェアの企画、開発、製造、検査、販売、リース、保守、管理及び運営 労働者派遣事業 上記事業に関連する一切の業務",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "セキュリティ教育 脆弱性診断 ペネトレーションテスト 請負開発 その他セキュリティ・サービスの提供",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "コンピュータのソフトウェア、ハードウェアの企画、開発、販売 コンピュータの周辺装置及び部品の輸出入及び販売 コンピュータシステムの企画、開発、販売及び保守に関する業務 デジタル音声著作物及びデジタル映像著作物の企画及び販売 グラフィックデザイン、コンピュータグラフィックの企画及び制作 コンピュータ、コンピュータシステム使用者に対する教育、研修及び支援 コンピュータに関するソフトウェアの設計技術者の派遣 労働者派遣事業　(許可番号：派14-301700 平成30年1月)",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "サイバーセキュリティに関する教育・研修の実施、研究開発など",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アラート監視やインシデント初動対応および調査を提供し、セキュリティ体制に不安を抱えるお客様の課題を解決します",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "【検討中のお客様】",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "【ご使用中のお客様】",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "対象ユーザー",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "※既存のお客様（2017年4月10日以前に「FFRI yarai analyzer Professional」をご購入いただいたお客様）においては、",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "新規のお客様における各サポート期間＋6ヶ月の月末まで延長してサポートいたします",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "当社はサイバーセキュリティの基礎技術の研究開発及びセキュリティ製品・サービスの提供を行っており、そのビジネスにおける信頼性を維持することの重要性は顧客のみならず、社会的にも極めて重大なものである",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "当社の最大の責務は顧客の情報の機密を高い水準で保持し、かつ、日々発生する新たなセキュリティ脅威に対抗し、コンピューター社会の健全な運営に寄与することである",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社のサイバーセキュリティ事業は顧客、そして社会からの信頼に応えることにより成り立っていることをすべての社員が認識しなければならない",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "当社に顧客から預託された情報を守り事業を継続するために、情報処理施設及び関連する設備を事故・災害及び外部の妨害から厳重に保護する",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/contact/ir_contact/ir_mail",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/top/ir_pr",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir/ir_greeting",
+    "pass": 1
+   },
+   {
+    "quote": "海外でも高い評価を受けておりますが、これらの研究から得られた知見やノウハウを製品やサービスとしてお客様にご提供しております",
+    "url": "https://www.ffri.jp/company/ir/ir_greeting",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir/stock_info",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir/public_notice",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、",
+    "url": "https://www.ffri.jp/company/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/contact/ir_contact",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のセキュリティ運用をサポート",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "企業規模や業種を問わず、幅広い企業・組織のお客様のご支援を手掛けております",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "※当社サポートサービスでは、FFRI yarai analyzer Professionalを用いてお客様が解析したファイルについて、過検出の判定も含めてマルウェア解析に関する回答は実施しておりません",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それは、「顧客にとって不可欠な価値を提供し、その対価として持続的に利益を上げることができるか」という一点に尽きます",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発からサポートまで一貫して国内で行う体制は、経済安全保障を重視する顧客にとって何物にも代えがたい価値を持ちます 16",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "このように、一度導入されれば顧客は簡単には離れられない、非常に「粘着質」なビジネスなのです",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "顧客集中リスク",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "マルウェア解析サービス",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニングサービス",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールサービス",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】製品の脆弱性対応",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品はこちら",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスはこちら",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティ製品・サービス条項一覧",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入実績・サービス提供実績",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品・サービスのお問い合わせ",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人・小規模事業者向け製品のお問い合わせ",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マルウェア解析サービス",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニングサービス",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールサービス",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】製品の脆弱性対応",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "・ウイルスバスタービジネスセキュリティサービス",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "※上記製品と同居できる FFRI yarai のバージョンは製品ごとに異なります",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティ製品・サービス条項一覧",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "導入実績・サービス提供実績",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品・サービスのお問い合わせ",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "個人・小規模事業者向け製品のお問い合わせ",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "マルウェア解析サービス",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニングサービス",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールサービス",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】製品の脆弱性対応",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "FFRI yaraiは官公庁や金融機関、ライフラインを支える重要システムに数多く採用される、日本を代表するセキュリティ製品です",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "主要ウイルス対策ベンダー製品",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "※FFRI yarai とは対象製品が異なります",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティ製品・サービス条項一覧",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "導入実績・サービス提供実績",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品・サービスのお問い合わせ",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "個人・小規模事業者向け製品のお問い合わせ",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "マルウェア解析サービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニングサービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールサービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】製品の脆弱性対応",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "必要なサービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "Workstationサービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "Windows Management Instrumentationサービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "製品特性上のご注意（過検出・競合発生について）",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ヒューリスティック検出技術（プログラムの挙動・振る舞いを見て悪意を判断する）を用いてマルウェアの検出を行う製品です",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "（ライセンス認証、製品アップデート時）",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ウイルスバスター ビジネスセキュリティサービス",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "※記載されていないウイルス対策ソフト（バージョン情報含む）と同居した場合、本製品・ウイルス対策ソフト及びPCが正常に動作しない可能性がありますので、同居はご遠慮ください",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "その他、記載されている会社名、商品名は、各社の商標または登録商標です",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトに記載されている製品名などには必ずしも商標表示（™,®）を付記していません",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティ製品・サービス条項一覧",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "導入実績・サービス提供実績",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け製品・サービスのお問い合わせ",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "個人・小規模事業者向け製品のお問い合わせ",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "マルウェア解析サービス",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニングサービス",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールサービス",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "【重要】製品の脆弱性対応",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "FFRI yarai analyzer Professional 製品概要",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】FFRI yarai analyzer Professionalの下位製品『FFRI yarai analyzer』は2027年1月までに販売とサポートを終了いたします",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "FFRI yarai analyzer Professional 製品基本情報",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "YAController（ホストOS）における次のOSについては、該当OSをサポートしているVMware製品(VMware Workstation / VMware vSphere)及び、Broadcom社の関連モジュール(VMware PowerCLI)が存在する場合はMicrosoftのサポート終了日までサポートいたします",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "※上記VMware製品およびBroadcom社の関連モジュールのサポートOSによって、記載よりも早期にサポートを終了する場合があります",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティ製品・サービス条項一覧",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナーの個別見積もり",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "FFRI オンライン・ショップ(直販)",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "FFRI yarai 販売パートナー経由",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "FFRI yarai 販売パートナー様",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "（受付時間は各販売パートナー様により異なります",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/contact/ir_contact/ir_mail",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/top/ir_pr",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir/ir_greeting",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir/stock_info",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir/public_notice",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/contact/ir_contact",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "指名手配写真では、",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、国内 20 以上の販売パートナーよ",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売パートナー https://www.ffri.jp/partners",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "詳しくは販売店までお問い合わせください",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売パートナーやOEM提供（他社ブランドでの販売）が中心です 5",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、政府主導の重要技術育成プログラム（K Program）に主要な役割で参画している事実は、彼らが単なる一民間企業ではなく、国家戦略のパートナーとして認められていることを示しています 19",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "FFRI yaraiのご紹介 - YouTube, 9月 29, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "-ＦＦＲＩセキュリティの強み-",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/contact/ir_contact/ir_mail",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/top/ir_pr",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir/ir_greeting",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir/stock_info",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir/public_notice",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/contact/ir_contact",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み - ＦＦＲＩセキュリティ",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "≫ ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの3つの強み",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも3つの強みを特徴としています",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "» ＦＦＲＩセキュリティの強み",
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "pass": 1
+   },
+   {
+    "quote": "ブランド/コスト/スイッチングコスト/無形資産/参入障壁",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "彼らは、自らの強みが最も活きる、特別な領域で独自の地位を築いています",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "高い参入障壁:",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ビジネスが成長すればするほど、その競争優位性も強化されていくという、自己強化型の素晴らしい構造です",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "直近の四半期（2026年3月期第1四半期）では、営業利益率が前年同期の0.4%から29.5%へと劇的に改善しました 30",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": ": 「純国産」という強力な無形資産を武器に、国家安全保障という参入障壁の極めて高い市場で独自の地位を確立しています",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "サービスと製品が相互に強め合う好循環は、持続的な競争優位性の源泉です",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "四半期ごとの売上高成長率と営業利益率の推移",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＦＲＩセキュリティの強み, 9月 29, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "詳細なシステム要件・同居可能なウイルス対策ソフトは、ご購入いただいたライセンス証明書記載の「カスタマーサポートページ」に掲載している「FFRI yarai システム要件ガイド」及び「FFRI yarai 同居可能なウイルス対策ソフト一覧」をご参照ください",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "詳細なシステム要件は、ご購入いただいたライセンス証明書記載の「カスタマーサポートページ」に掲載している「FFRI yarai システム要件ガイド」をご参照ください",
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "※購入ライセンス数により、ボリュームディスカウントあり",
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "pass": 1
+   },
+   {
+    "quote": "（ライセンス認証、製品アップデート時）",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "コンピュータソフトウェア及びコンピュータプログラムの企画、開発、検証、販売、リース、保守、管理、運営及びこれらに関する著作権、出版権、特許権、実用新案権、商標権、意匠権等の財産権取得、譲渡、貸与及び管理",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "コンピュータハードウェアの企画、開発、製造、検査、販売、リース、保守、管理及び運営",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "コンピュータシステムの企画、開発、販売及び保守に関する業務",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "※解析環境上のOS / アプリケーションのライセンスは別途必要",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■サブスクリプション型で導入可能",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売り切り型の他、月額ごとの料金プランでイニシャルコストを",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは、通期の会社予想すら保守的である可能性を示唆しています",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、さらなる価格下落のリスクを抑えつつ、平均購入単価を有利にすることができます",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年12月15日",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2028年12月14日",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月10日",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月21日",
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月2日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2028年12月14日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月10日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月21日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2020年1月14日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月7日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月10日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月11日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2031年10月13日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月31日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月11日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月31日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月10日",
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "pass": 1
+   },
+   {
+    "quote": "2007年7月3日",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 4月7日",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月1日",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2003年8月",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2019年1月",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 通期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第3四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 通期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 通期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 通期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 通期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期決算発表表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 通期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期決算発表",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2009年にリリース",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年3月版(OneNoteファイル形式Downloader) 2023/3 2021/10",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年11月版 2022/11 2021/10",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年6月版 2022/6 2021/5",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月現在",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_HB_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月現在",
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月30日 06:47",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は前期比24.2%増、そして今期（2026年3月期）の会社予想は40.2%増と、成長が一段とギアを上げています 8",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月期 決算短信補足説明資料, 9月 29, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月期 第1四半期決算短信〔日本基準〕（連結）, 9月 29, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年3月期 決算短信〔日本基準〕（連結）, 9月 29, 2025にアクセス、",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "しかし、私はこの会社を単なる「ハイテク企業」としてではなく、デジタル社会における「警備会社」や「錠前屋」のような、古くから存在する、シンプルで力強いビジネスモデルを持つ企業として捉えています",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルと収益源",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "これは、一度開発したソフトウェア製品の追加的な販売コストは低いため、売上の増加が直接利益の増加に繋がりやすいという、優れたビジネスモデルの証左です",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   },
+   {
+    "quote": "卓越したビジネスモデル",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "したがって、最も重要で利益率の高い市場セグメントにおいては、競合企業のリストは見た目よりもずっと短くなります",
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社情報 - FFRIセキュリティ — 会社情報 - FFRIセキュリティ 株式会社ＦＦＲＩセキュリティ https://www.ffri.jp > company",
+    "url": "https://www.ffri.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - FFRIセキュリティ — 会社概要 - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > 会社情報",
+    "url": "https://www.ffri.jp/company/overview",
+    "pass": 3
+   },
+   {
+    "quote": "FFRIセキュリティ （3692）の将来性は？業績や事業内容から ... — FFRIセキュリティ （3692）の将来性は？業績や事業内容から ... かぶリッジ https://kabu.bridge-salon.jp > ffri-stock",
+    "url": "https://kabu.bridge-salon.jp/ffri-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 FFRIセキュリティ -純国産サイバーセキュリティ ... — 株式会社 FFRIセキュリティ -純国産サイバーセキュリティ ... ＦＦＲＩ https://www.ffri.jp",
+    "url": "https://www.ffri.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 - 株式会社FFRIセキュリティ — 決算説明 会 - 株式会社FFRIセキュリティ 株式会社ＦＦＲＩセキュリティ https://www.ffri.jp > 会社情報 > IR情報",
+    "url": "https://www.ffri.jp/company/ir/financial-results-briefing",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - FFRIセキュリティ — IRカレンダー - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > 会社情報 > IR情報",
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "pass": 3
+   },
+   {
+    "quote": "FFRIセキュリティ のIR 資料 - 3692 / グロース / 情報・通信業 — FFRIセキュリティ のIR 資料 - 3692 / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3692/library",
+    "pass": 3
+   },
+   {
+    "quote": "FFRIセキュリティ グル－プの会社概要 | マイナビ2028 — FFRIセキュリティ グル－プの会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp275434 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp275434/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "FFRIセキュリティ 【3692】の 事業 内容 - キタイシホン — FFRIセキュリティ 【3692】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3692/business",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 05 - FFRIセキュリティ — 社員 インタビュー 05 - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > 採用情報",
+    "url": "https://www.ffri.jp/recruit/person-05",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 07 - FFRIセキュリティ — 社員 インタビュー 07 - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > 採用情報",
+    "url": "https://www.ffri.jp/recruit/person-07",
+    "pass": 3
+   },
+   {
+    "quote": "代表からみなさまへ - FFRIセキュリティ — 代表からみなさまへ - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > ... > ＦＦＲＩセキュリティについて",
+    "url": "https://www.ffri.jp/company/ffri/greeting",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー トップページ - FFRIセキュリティ — インタビュー トップページ - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > 採用情報",
+    "url": "https://www.ffri.jp/recruit/interview",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ffri.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/products/products_yarai/yarai_requirement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/products/yaraihb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/products/yaraihb/yaraihb_requirement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/products/yarai_analyzer_pro/yarai_analyzer_pro_requirement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/contact/ir_contact/ir_mail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/top/ir_pr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir/ir_greeting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir/stock_info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir/public_notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/contact/ir_contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ffri.jp/company/ffri/speciality",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/yarai_brochure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_HB_Catalog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ffri.jp/assets/files/products/ctrg/FFRIyarai_AP_Catalog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ffri.jp/assets/files/company/map_marunouch_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ffri.jp/wp-content/themes/ffri/images/yarai-hb.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ffri.jp/wp-content/themes/ffri/images/support.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei-note.wizbiz.jp/58-1/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "FFRIセキュリティ",
+   "results": [
+    "https://www.ffri.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=3692",
+    "https://www.youtube.com/channel/UCDaLz8I1B2MVmxuLhnmfd5g",
+    "https://kabutan.jp/stock/?code=3692",
+    "https://finance.yahoo.co.jp/quote/3692.T",
+    "https://finance.yahoo.co.jp/quote/3692.T/profile",
+    "https://www.ebc.com/jp/forex/314322.html",
+    "https://kabu.bridge-salon.jp/ffri-stock/",
+    "https://minkabu.jp/stock/3692/news",
+    "https://www.ffri.jp/en"
+   ]
+  },
+  {
+   "query": "FFRIセキュリティ ビジネスモデル",
+   "results": [
+    "https://note.com/open_azalea2045/n/neb8c182f13e6",
+    "https://www.ffri.jp/company",
+    "https://www.ffri.jp/company/overview",
+    "https://kabu.bridge-salon.jp/ffri-stock/",
+    "https://www.ffri.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp275434/outline.html",
+    "https://envalith.com/ja/companies/3692/overview",
+    "https://www.ffri.jp/blog",
+    "https://paiza.jp/recruiters/918",
+    "https://consovation.com/魅力的なビジネスモデルとir資料から探るffriセキュ/"
+   ]
+  },
+  {
+   "query": "FFRIセキュリティ 決算説明資料",
+   "results": [
+    "https://www.ffri.jp/company/ir/financial-results-briefing",
+    "https://www.ffri.jp/company/ir/calendar",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260716595299/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260515/20260422508470.pdf",
+    "https://www.buffett-code.com/company/3692/library",
+    "https://kitaishihon.com/company/3692/ir-library",
+    "https://finance.matsui.co.jp/stock/3692/settlement/index",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260716595299",
+    "https://finance.yahoo.co.jp/quote/3692.T/financials",
+    "https://www.ffri.jp/company/ir/library"
+   ]
+  },
+  {
+   "query": "FFRIセキュリティ 事業系統図",
+   "results": [
+    "https://www.ffri.jp/company/overview",
+    "https://www.ffri.jp/",
+    "https://www.ffri.jp/company",
+    "https://job.mynavi.jp/28/pc/search/corp275434/outline.html",
+    "https://kitaishihon.com/company/3692/business",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250627/20250627502301.pdf",
+    "https://www.ffri.jp/recruit/outline",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3692",
+    "https://www.ffri.jp/company/ffri",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250627502301/"
+   ]
+  },
+  {
+   "query": "FFRIセキュリティ 社長 インタビュー",
+   "results": [
+    "https://www.ffri.jp/recruit/person-05",
+    "https://keiei-note.wizbiz.jp/58-1/",
+    "https://www.ffri.jp/recruit/person-07",
+    "https://www.ffri.jp/company/ffri/greeting",
+    "https://www.ffri.jp/recruit/interview",
+    "https://paiza.jp/recruiters/918",
+    "https://www.ffri.jp/recruit/person-02",
+    "https://www.youtube.com/watch?v=El0J-7L_9A4",
+    "https://www.ffri.jp/recruit/person-06"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像6件／外部2頁・検索5回）"
+ }
+}

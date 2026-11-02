@@ -1,0 +1,1113 @@
+{
+ "name": "マリオン",
+ "aliases": [],
+ "context": "証券コード3494／不動産業／スタンダード（内国株式）／2025.09期 売上高3,254百万円 営業利益率26.9%",
+ "researched_at": "2026-11-02T17:02:26.517824+00:00",
+ "official_url": "https://www.mullion.co.jp/",
+ "identified_by": "search:yahoo_jp:マリオン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1986年11月",
+    "url": "https://www.mullion.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "不動産を保有・管理・賃貸することで、お客様にここちよい居住空間をつくり出しています",
+    "url": "https://www.mullion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "安心できる将来像と快適な老後に備えて、お客様に評価いただけるサービスを提供してまいります",
+    "url": "https://www.mullion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は不動産の付加価値をお客様にお届けするために以下の２つの事業を展開しております",
+    "url": "https://www.mullion.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏を中心とした全国主要都市に所有する不動産を賃貸する不動産賃貸事業と所有する不動産を証券化し、お客様に提供する不動産証券化事業の２つの事業を展開しています",
+    "url": "https://www.mullion.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産を保有・管理・賃貸することで、お客様に心地よい居住空間作りのお手伝いをしています",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "安心できる将来に備えて、お客様にご評価いただけるサービスで貢献しています",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業来、当社は “公的なサービスを補完するような、不動産から生成される付加価値をお客様にお届けすること” をVisionとして掲げてまいりました",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "四谷近隣物件のお客様向けサービスとして平日の朝、霞が関の官庁街までお送りしています",
+    "url": "https://www.mullion.co.jp/business/rent.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産投資は難しい、少額からはじめたいというお客様にむけた不動産証券化商品です",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は不動産特定共同事業契約の事業者である株式会社マリオンと不動産特定共同事業契約（匿名組合型）を締結します",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社マリオンは匿名組合損益より、お客様に対して分配金を支払います",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.mullion.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は、利用者ご自身の責任とご判断において行われるようお願いいたします",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "快適な暮らしのための不動産賃貸関連サービスを提供します",
+    "url": "https://www.mullion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "安心できる将来像と快適な老後に備えて、お客様に評価いただけるサービスを提供してまいります",
+    "url": "https://www.mullion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産証券化商品の",
+    "url": "https://www.mullion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第二種金融商品取引業者登録 関東財務局長（金商）第1502号",
+    "url": "https://www.mullion.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、法律に基づいて、不動産証券化商品を組成し展開することで、公的な社会保障制度を補完する、サプリメントを供給しております",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "安心できる将来に備えて、お客様にご評価いただけるサービスで貢献しています",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、不動産の賃貸料から生成されるマリオンのサービスを以て、年金・医療・介護・環境のサプリメントとなし、あなたの人生をサポートします",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産のサービスで、",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業来、当社は “公的なサービスを補完するような、不動産から生成される付加価値をお客様にお届けすること” をVisionとして掲げてまいりました",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後もこの基本方針を堅持し、地域社会の活性化につながるようなサービスを提供してまいります",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産賃貸業の実績に加え、地方公共団体入居者様への独自サービスを展開することでさらなる信頼を獲得し、当社の不動産賃貸事業におけるコアコンピタンスのひとつとなっております",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産証券化商品の",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産クラウドファンディングの黎明期からサービスを展開しています",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで販売してきた商品の元本割れなどは一度もなく、信頼を獲得しております",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産証券化商品マリオンボンド1号（六本木）の組成・販売を開始",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "第二種金融商品取引業者登録（関東財務局長（金商）第1502号）",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターネットによる申込みが可能な不動産証券化商品サラリーマンボンド1号 （練馬）の組成・販売を開始",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産証券化商品「i-Bond」の組成・販売開始",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "四谷近隣物件のお客様向けサービスとして平日の朝、霞が関の官庁街までお送りしています",
+    "url": "https://www.mullion.co.jp/business/rent.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2004年に不動産特定共同事業（第1号）の許可（東京都知事許可）を取得し、不動産証券化商品の組成・販売を開始しました",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産証券化商品の募集規模",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産投資は難しい、少額からはじめたいというお客様にむけた不動産証券化商品です",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "「i-Bond」サービスサイト",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "※i-Bondは運用期間が無期限の商品です",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "不動産証券化商品 過去実績",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たち株式会社マリオンは、1986年の創業以来「不動産賃貸事業」を基盤として、これに「不動産証券化事業」「不動産売買」を加えた3つの事業要素を循環させる新しい価値を生み出す「不動産賃貸関連サービス」の展開に注力してまいりました",
+    "url": "https://www.mullion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "マリオンのサービス",
+    "url": "https://www.mullion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の公告は、株式会社プロネクサスが運営する電子公告掲載サービス『KeeProve Master』によってご覧頂いております",
+    "url": "https://www.mullion.co.jp/ir/publicnotice.html",
+    "pass": 1
+   },
+   {
+    "quote": "当会社は、金融商品取引法等の関連法令や東京証券取引所の定める規則に則った適時適切な情報開示を行います",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法等に基づく情報開示は、金融庁の提供する「金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム（EDINET）」を用いて行います",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "当会社は、情報開示を行うに当り、金融商品取引法に定められたフェア・ディスクロージャー・ルールを遵守し、特定の資本市場参加者のみに選択的に開示することなきよう配慮するとともに、公平な情報開示の実現に努めます",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "存在意義・目的は、「私たちは、不動産の賃貸料から生成されるマリオンのサービスを以って、年金・医療・介護・環境のサプリメントとなし、あなたの人生をサポートします",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "夜間は運行していませんが、朝は送客サービスを提供しています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、研修生は2年で交替となるため、冷蔵庫・洗濯機・電子レンジといった家電製品をすべて無料で貸し出しています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "現在当社が扱っている商品「i-Bond」は、先ほどお話ししたとおり、現物不動産を小口証券化したものです",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "そうすることにより、分配金を受け取ることができる商品です",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "商品の変遷ですが、22年前の「マリオンボンド」から始まり、「サラリーマンボンド」を経て進化し、現在の「i-Bond」となりました",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンについては後ほどご説明しますが、ブロックチェーンを用いることで「i-Bond」が投資商品になります",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "このため、この商品の販売は、当社だけでなく証券会社でも行われることになります",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「第2の置き場」である投資については、例えば投資信託、株式といった商品はボラティリティがあり、価値が上下するため、価格の変動に対する不安が生じます",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "「i-Bond」は投資商品というよりも、お金の置き場として考えていただくといいかと思います",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、昨年11月に金融商品取引法の一部が改正され、不動産をトークン化することが可能となりました",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "トークンをより具体的にわかりやすくお伝えすると、企業が発行しているポイントや商品券のようなものだと考えていただければよいかと思います",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "不動産証券化サービスについてです",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "第二種金融商品取引業におけるセキュリティ・トークン（ST） 取扱い申請準備に関するお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "商品相場 “本筋”を読む",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "「金利は1.5%とほかの投資商品と比べると低い」",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "居住用不動産は賃金上昇に比例して賃貸料も上がり、インフレに強い商品といえる」",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "証券会社の皆さまに売っていただけるような商品にしたい",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "「安定した賃貸収入がベースにあり、増加関数は今はi-Bondという商品",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には当社の持つ不動産から生み出すサービスによって社会インフラを構築していきたい」",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.mullion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マリオンの強み",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1986年11月",
+    "url": "https://www.mullion.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年の創業以来、不動産賃貸・管理を当社のコアビジネスとし、首都圏を中心に主要都市において不動産賃貸業を展開しております",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年からは、オンラインでいつでも入出金受付ができる「i-Bond」を展開",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "1947年2月生まれ",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年11月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年 7月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 3月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 6月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年 9月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 6月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 1月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年 6月",
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社マリオン",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年11月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年6月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年9月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年4月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年1月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年9月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年7月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年2月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年9月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年9月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月",
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月には、金融庁長官・国土交通大臣許可（第1号～第4号、電子取引業務を含む）を取得し、申込から契約までをWEB上で完結する「i-Bond」の販売を開始しています",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 6月14日 施行",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年12月20日 改正",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年 4月22日 改正",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 7月 1日 改正",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年 8月16日 改正",
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の沿革については「",
+    "url": "https://www.mullion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 セグメント別業績（売上高）",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期 通期業績ハイライト",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期通期 貸借対照表",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月 通期業績予想",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期 活動実績について①",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期 活動実績について",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "沿革についてです",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のうちにライセンスを取得し、発売したいと考えています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期の通期業績は、売上高が32億5,400万円、営業利益が8億7,500万円、経常利益が6億6,500万円、純利益が4億6,000万円という結果となりました",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度で、12施設へ総額600万円程度の助成を行いました",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "2026年９月期 第３四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月9日",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "いつでも入出金の受付可能、手数料無料",
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引単価は何株でしょうか？",
+    "url": "https://www.mullion.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンスについては、不動産業および金融業に関わるライセンスをほぼすべて保有しています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "不動産特定共同事業法という法律に基づいて作られていますが、これは国土交通省のライセンスで、複数の投資家から出資を募り、不動産を取得・運営し、その収益を分配するための法律です",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のうちにライセンスを取得し、発売したいと考えています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "入出金時の手数料はゼロです",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "大事な点として、先ほどライセンスの登録についてお話ししましたが、不正出金の防止対策を進めています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社の商標登録でもある「リアルエステートクラウドファンディング」の領域で、当社のビジネスモデル特許に基づく仕組みも駆使して、新しい概念による「お金 第3の置き場」を創造・開拓し、株主・投資家の皆さまはもとより、広く社会に貢献してまいりたいと考えています",
+    "url": "https://www.mullion.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "マリオン（3494）の財務情報ならログミーFinance マリオン、トークン発行体事業へビジネスモデルを一部変更 ブロックチェーンを活用した不動産のトークン化を推進 - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "当社の収益構造",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "マリオン、トークン発行体事業へビジネスモデルを一部変更 ブロックチェーンを活用した不動産のトークン化を推進",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "今回、不動産のデジタル化を進めることで、「何年から何年まで」という運用期限がないビジネスモデルを構築しました",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "和田興産、2Qは当初予想を上回る進捗で中間配当を増配 中期経営計画では収益構造の転換など経営基盤の強靭化を図る",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "次に、不動産証券化事業についてご紹介します",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場紹介",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "2025年9月期 セグメント別業績（売上高）",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別に見ると、賃貸事業で全体の約48パーセント、売買事業／証券発行事業で全体の約52パーセントを占めており、ほぼ半分ずつとなっています",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "マリオン 、トークン発行体事業へ ビジネスモデル を一部変更 ... — マリオン 、トークン発行体事業へ ビジネスモデル を一部変更 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383392",
+    "pass": 3
+   },
+   {
+    "quote": "マリオン・マクガバン: 本 - Amazon.co.jp — マリオン・マクガバン: 本 - Amazon.co.jp Amazon.jp https://www.amazon.co.jp > 本-マリオン・マクガバン",
+    "url": "https://www.amazon.co.jp/%E6%9C%AC-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%AC%E3%83%90%E3%83%B3/s?rh=n%3A465392%2Cp_27%3A%25E3%2583%259E%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25BB%25E3%2583%259E%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%2590%25E3%2583%25B3",
+    "pass": 3
+   },
+   {
+    "quote": "マリオン とは — マリオン とは 株式会社マリオン https://www.mullion.co.jp > aboutus",
+    "url": "https://www.mullion.co.jp/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "マリオン (3494) の企業概要・業績・財務・IR資料 — マリオン (3494) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/3494",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マリオン への出資及び業務提携に関するお知らせ — 株式会社 マリオン への出資及び業務提携に関するお知らせ SBIホールディングス https://www.sbigroup.co.jp > news",
+    "url": "https://www.sbigroup.co.jp/news/2017/1003_10823.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - 株式会社マリオン — 決算説明 会 資料 - 株式会社マリオン 株式会社マリオン https://www.mullion.co.jp > library > presentation",
+    "url": "https://www.mullion.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 マリオン 】[3494]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 マリオン 】[3494]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 株式会社マリオン — IRライブラリ - 株式会社マリオン 株式会社マリオン https://www.mullion.co.jp > library",
+    "url": "https://www.mullion.co.jp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マリオン 決算説明資料 - EDINET DB — 株式会社 マリオン 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社マリオン > IR資料",
+    "url": "https://edinetdb.jp/company/E34271/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - 株式会社 マリオン — 組織図 - 株式会社 マリオン marion.ne.jp https://www.marion.ne.jp > company > organizationchart",
+    "url": "https://www.marion.ne.jp/company/organizationchart/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社マリオン — 会社情報 - 株式会社マリオン 株式会社マリオン https://www.mullion.co.jp > business",
+    "url": "https://www.mullion.co.jp/business",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 マリオン 、不動産賃貸 事業 ・不動産証券化 事業 の ... — 【QAあり】 マリオン 、不動産賃貸 事業 ・不動産証券化 事業 の ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382019",
+    "pass": 3
+   },
+   {
+    "quote": "お金第3の置き場｜株式会社 マリオン - i-Bond — お金第3の置き場｜株式会社 マリオン - i-Bond i-bond.jp https://www.i-bond.jp > faq > 事業者である株式会社マリ...",
+    "url": "https://www.i-bond.jp/faq/%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 マリオン 、安定収益を生み出す不動産賃貸 事業 に ... — 【QAあり】 マリオン 、安定収益を生み出す不動産賃貸 事業 に ... みんかぶ https://minkabu.jp > ニュース",
+    "url": "https://minkabu.jp/news/3955319",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社マリオン — 会社概要 - 株式会社マリオン 株式会社マリオン https://www.mullion.co.jp > company > profile",
+    "url": "https://www.mullion.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "相場の福の神 藤本誠之が聞く! マリオン 福田敬司代表取締役 社長 — 相場の福の神 藤本誠之が聞く! マリオン 福田敬司代表取締役 社長 日本証券新聞 https://www.nsjournal.jp > 相場の福の神-藤本誠之が聞く...",
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マリオン 第39回定時株主総会(2025年12 ... - YouTube — 株式会社 マリオン 第39回定時株主総会(2025年12 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=b7VzWYTKtTU",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 マリオン 代表取締役 社長 福田 敬司 — 業界毎特集記事－株式会社 マリオン 代表取締役 社長 福田 敬司 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2479",
+    "pass": 3
+   },
+   {
+    "quote": "代表ご挨拶 - 株式会社 マリオン — 代表ご挨拶 - 株式会社 マリオン marion.ne.jp https://www.marion.ne.jp > company > message",
+    "url": "https://www.marion.ne.jp/company/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mullion.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/company/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/rent.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/bond.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/publicnotice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/schedule.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mullion.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mullion.co.jp/common/img/mm-business-img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/common/img/mm-business-img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/img/img02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/img/img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/common/img/mm-business-img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/common/img/mm-business-img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/img/rent01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mullion.co.jp/business/img/rent02.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/383392",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E6%9C%AC-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%AC%E3%83%90%E3%83%B3/s?rh=n%3A465392%2Cp_27%3A%25E3%2583%259E%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25BB%25E3%2583%259E%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%2590%25E3%2583%25B3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marion.ne.jp/company/organizationchart/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マリオン",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3",
+    "https://dic.pixiv.net/a/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3",
+    "https://www.mullion.co.jp/",
+    "https://www.marion.co.jp/",
+    "https://www.marion.ne.jp/company/character/",
+    "https://www.intercom.co.jp/malion/",
+    "https://ja.wikipedia.org/wiki/MARRION",
+    "https://www.reddit.com/r/namenerds/comments/mtqu40/thoughts_on_marion/?tl=ja",
+    "https://ja.wikipedia.org/wiki/マリオン",
+    "https://www.asahi.com/articles/ASVBX0S8HVBXUCVL01DM.html"
+   ]
+  },
+  {
+   "query": "マリオン ビジネスモデル",
+   "results": [
+    "https://finance.logmi.jp/articles/383392",
+    "https://www.amazon.co.jp/%E6%9C%AC-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%AC%E3%83%90%E3%83%B3/s?rh=n%3A465392%2Cp_27%3A%25E3%2583%259E%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25BB%25E3%2583%259E%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%2590%25E3%2583%25B3",
+    "https://www.mullion.co.jp/aboutus.html",
+    "https://www.crex-data.com/company/3494",
+    "https://www.sbigroup.co.jp/news/2017/1003_10823.html",
+    "https://jp.linkedin.com/pulse/architect-opportunity-how-marion-bekoe-redefining-journey-bekoe-hboye?tl=ja",
+    "https://edinetdb.jp/company/E34271/presentations/",
+    "https://www.ficc.jp/case/marion-crepes/",
+    "https://www.i-bond.jp/faq/%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99/",
+    "https://consovation.com/株式会社マリオンの魅力を徹底解剖-ビジネスモデ/"
+   ]
+  },
+  {
+   "query": "マリオン 決算説明資料",
+   "results": [
+    "https://www.mullion.co.jp/ir/library/presentation.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3494",
+    "https://www.mullion.co.jp/ir/library",
+    "https://edinetdb.jp/company/E34271/presentations/",
+    "https://am-bition.jp/ir/presentation/en/",
+    "https://shikiho.toyokeizai.net/stocks/3494/corporate",
+    "https://finance.logmi.jp/articles/383392",
+    "https://mullionfoundation.com/information/",
+    "https://irbank.net/3494/ir",
+    "https://treelazy.com/stock-jp/3494/conference"
+   ]
+  },
+  {
+   "query": "マリオン 事業系統図",
+   "results": [
+    "https://www.marion.ne.jp/company/organizationchart/",
+    "https://www.mullion.co.jp/business",
+    "https://finance.logmi.jp/articles/382019",
+    "https://www.i-bond.jp/faq/%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99/",
+    "https://minkabu.jp/news/3955319",
+    "https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_domestic&cat1=domestic&cat2=none&dir=info&file=domestic_info180809_01.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100KFB7.pdf",
+    "https://shikiho.toyokeizai.net/stocks/3494/corporate",
+    "https://www.mullion.co.jp/ir/message.html",
+    "https://www.mullion.co.jp/"
+   ]
+  },
+  {
+   "query": "マリオン 社長 インタビュー",
+   "results": [
+    "https://www.mullion.co.jp/company/profile.html",
+    "https://www.nsjournal.jp/%E7%9B%B8%E5%A0%B4%E3%81%AE%E7%A6%8F%E3%81%AE%E7%A5%9E-%E8%97%A4%E6%9C%AC%E8%AA%A0%E4%B9%8B%E3%81%8C%E8%81%9E%E3%81%8F-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3-%E7%A6%8F%E7%94%B0%E6%95%AC%E5%8F%B8/",
+    "https://www.youtube.com/watch?v=b7VzWYTKtTU",
+    "https://shachomeikan.jp/industry_article/2479",
+    "https://www.marion.ne.jp/company/message/",
+    "https://www.i-bond.jp/news/3%E6%9C%8830%E6%97%A5%E3%80%8C%E7%A4%BE%E9%95%B7%E3%82%A6%E3%82%A7%E3%83%93%E3%83%8A%E3%83%BC%E3%80%8D%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "https://in-shoku.info/foodfighters/vol461.html",
+    "https://www.ficc.jp/inside/20250326/",
+    "https://www.nikkei.com/article/DGXMZO34726900Z20C18A8000000/",
+    "https://www.mullion.co.jp/company/officer.html"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部5頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部5頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部5頁・検索5回）"
+ }
+}

@@ -1,0 +1,1778 @@
+{
+ "name": "地熱発電",
+ "en": "geothermal power",
+ "aliases": [
+  "次世代地熱",
+  "超臨界地熱"
+ ],
+ "context": "12 GX ④次世代型地熱",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:58:04.074891+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "地熱発電市場は、2025年に88億7,000万米ドルと評価され、2026年には95億1,000万米ドルに成長し、CAGR 7.90％で推移し、2032年までに151億2,000万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/2743708",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模とシェア、市場動向レポート 2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.の最近の調査によると、地熱エネルギー市場は2025年に669億米ドルと推定された",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年の679億米ドルから2035年までに1,096億米ドルへ拡大し、年平均成長率（CAGR）は5.5%になると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模（国別）、2023～2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年の625億米ドルから、2024年には653億米ドル、2025年には669億米ドルへと拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "シングルフラッシュ地熱エネルギー市場は2025年に35.9%のシェアを占め、2035年までに410億米ドルを超える見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国地熱エネルギー市場規模、2023〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の地熱エネルギー市場は一貫して成長しており、累積市場規模は2023年の153億米ドルから2024年には154億米ドル、2025年には155億米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2026",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模、シェア、トレンド分析レポート：発電所別（乾式蒸気発電所、フラッシュ蒸気発電所、バイナリーサイクル発電所）、エンドユーザー別（住宅用、非住宅用）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の地熱エネルギー市場規模は、2025年には90億3000万米ドルと評価され、2026年の97億8000万米ドルから2034年には185億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間、地熱市場はヨーロッパ全域に集中しており、年間成長率は10%を超えています",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、IRENAによると、ヨーロッパの地熱地域冷暖房市場は2023年に拡大すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.3%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "電解槽市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電ポンプ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Geothermal Energy Marketsize は、2024 年に USD 9.75 Billion から 2035 年までに USD 15.78 Billion から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Geothermal Energy Market size は、2024 年に USD 9.75 Billion から 2035 年までに、予測期間 2025～2035 で 4.47 % の CAGR で成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギーの市場は、2024年のUSD 9.75億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025〜2035の間の4.47パーセントのCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な地熱エネルギー市場規模は、2035年までにUSD 15.78億に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月、経済産業省は次世代地熱発電技術の開発事業に対し、総額1,102億円を補助し、2030年代早期の実用化を目指すことを発表しました",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3.日本/世界市場規模推移及び予測",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3.日本/世界市場規模推移及び予測（2025/2026/2027/2030/2040/2050年度） 7",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）タイプ別（次世代型/従来型）市場規模 7",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2050年度の国内市場を3,524億円(2025年度比15.2倍)と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2050年度の国内市場を3,524億円(2025年度比15.2倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、経済産業省が次世代型地熱発電技術の開発事業に対し、グリーンイノベーション基金を活用して2030年度までに総額1,102億円の費用を補助し、2030年代早期の実用化を目指すことを発表しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年代には商用ベースの次世代型地熱発電システムが複数竣工し、2050年度には次世代型で3,047億円の市場が予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年の国内市場を108兆4,700億円と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2031年のディスプレイデバイスの世界市場を21兆2,327億円(2025年比114.2%)、ディスプレイ関連部材の世界市場を3兆2,879億円(2025年比113.9%)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電市場は、2032年までにCAGR 7.81%で151億2,000万米ドルの成長が予測されています",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "十分な蒸気が噴出するかどうかは掘削して確かめなければならず、初期調査だけでも10億円以上かかるとも言われている",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Size, Share, Trends, Report 2035",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8.42 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "USD 21.22 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": ". Private capital followed: venture funding into next-generation subsurface heat developers exceeded USD 1.1 billion between 2023 and 2025",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Binary cycle installations accounted for USD 2.26 billion of 2025 value, driven by medium-temperature resource access.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial process heat contributed USD 1.04 billion in 2025 as food, paper and chemical plants sought firm thermal supply.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "North America generated USD 2.07 billion in 2025.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size and Forecast (2021–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Horizontal laterals, zipper fracturing and real-time downhole telemetry migrated from unconventional oil into hot dry rock development after 2021. Demonstration wells drilled in Nevada between 2022 and 2024 cut per-well cost from roughly USD 9.4 million to USD 4.8 million across four iterations, a 49% reduction driven almost entirely by learning-curve effects rather than new hardware",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": ". Municipal utilities in Munich, Paris and Copenhagen responded by committing to convert existing distribution assets rather than build new ones, which preserves roughly 70% of installed network capital. Munich's Stadtwerke alone budgeted EUR 1 billion toward carbon-neutral heat supply by 2035, with subsurface sources carrying the largest single share.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly one in four exploration wells fails to deliver commercial flow rates, and each dry hole consumes USD 5–8 million with no recoverable asset",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Overnight capital cost for conventional geothermal ranges between USD 3,400 and USD 6,200 per kilowatt depending on well depth and reservoir enthalpy, well above utility-scale solar",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "地熱発電市場は、2025年に88億7,000万米ドルと評価され、2026年には95億1,000万米ドルに成長し、CAGR 7.90％で推移し、2032年までに151億2,000万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/2743708",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 7.90%",
+    "url": "https://newscast.jp/news/2743708",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは7.90%です",
+    "url": "https://newscast.jp/news/2743708",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年の679億米ドルから2035年までに1,096億米ドルへ拡大し、年平均成長率（CAGR）は5.5%になると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "これとは別に、ミュンヘンのStadtwerke Münchenは2024年、地熱を利用した地域熱供給の拡大に向けて連邦政府から5,220万米ドルの助成を受け、電力・公益事業者や自治体による複数年にわたる整備を後押しした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国エネルギー省（DOE）の支援を受けた「2025年米国地熱市場レポート」によると、OrmatとCalpineは引き続き主要事業者であり、米国の地熱発電設備容量の大半を合わせて占める一方、新たな電力購入契約（PPA）を通じた商業活動も拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年の625億米ドルから、2024年には653億米ドル、2025年には669億米ドルへと拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の地熱エネルギー市場規模は、2025年には90億3000万米ドルと評価され、2026年の97億8000万米ドルから2034年には185億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、再生可能エネルギー分野における政府資金の増加と継続的な技術開発は、今後5年間で魅力的な市場拡大の機会をもたらすと考えられます",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）8.6%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは予測期間中に年平均成長率（CAGR）9.0%を示すと予想されています",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間、地熱市場はヨーロッパ全域に集中しており、年間成長率は10%を超えています",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、IRENAによると、ヨーロッパの地熱地域冷暖房市場は2023年に拡大すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "PT Pertamina Geothermal Energy (PGE)は、3つの地熱開発プロジェクトが最大4億7787万米ドルの国際融資を確保し、インドネシアにおける地熱発電能力の継続的な拡大を支援すると発表した",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mercury NZ Limitedは、Ngā TamarikiおよびRotokawa地熱地帯における評価掘削に7,500万ニュージーランドドルを投じることで、地熱事業拡大戦略の次の段階を発表した",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場の規模は、2026年には97億8000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）8.3%で成長し、2034年には185億1000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、Global Geothermal Energy Market size は、2024 年に USD 9.75 Billion から 2035 年までに、予測期間 2025～2035 で 4.47 % の CAGR で成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025〜2035の間の4.47パーセントのCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場では、IEAが2025年の次世代型地熱発電向け投資額が前年比80％増と急成長していると発表、米国では2026年にもgoogle用DC向けで世界初の商用機（100MW）が稼働予定であり、日本の商社・エネルギー関連企業からの出資や提携も相次いでいます",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "次世代型は、2026年に本格的な開発が進み、以降、市場拡大が続くと予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電市場は、2032年までにCAGR 7.81%で151億2,000万米ドルの成長が予測されています",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 7.81%",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは7.81%です",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、深部地熱の利用拡大を目指す多くの国で実証が加速しており、米国ではFervo Energy（ファーボ・エナジー）が油井開発技術を活用した実証に成功、Googleが24時間再エネ調達の一環として出資している",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "メリットは、高出力・高効率で、1地点あたりの発電能力が飛躍的に拡大することや、既存の地熱発電所の寿命延長や発電量増強にも応用可能なことなどが挙げられる",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年平均相場：79.69円",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年平均相場：109.15円",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年平均相場：152.08円（対2011年 1.91倍、対2019年 1.39倍)",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率（15年平均）① % 95.3～96.4 95.62",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発電時間利用率（15年平均）② % 87 88.7 9MW以上の発電所（11基）の平均",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "歴日利用率（15年平均） % 83～84 84.81 ①×②",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産井減衰率（30MW未満） %/年 3 4.1 6発電所15年平均",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産井減衰率（30MW以上） %/年 5 5.1 6発電所15年平均",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15年平均発電コスト 円/kWh 13.7 19.3 21.9",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30年平均発電コスト 円/kWh 9.3 13.0 16.5",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産井減衰率（前年比） %/年 法人税実効税率 % 30",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "還元井減衰率（前年比） %/年 一般管理費率 % 8",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発電原価（15年平均） 円/kWh 23.47 21.89 19.18 14.98 12.81",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発電原価（15年平均） 円/kWh 33.22 32.01 27.83 21.91 19.87",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Enhanced Geothermal Systems represent the fastest-expanding technology class at a 17.5% CAGR through 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "and cooling is advancing at a 13.5% CAGR, the quickest of any application.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa is scaling at a 12.4% CAGR, the second-fastest regional trajectory.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "8.9% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "10.8% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "12.1% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "13.4% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "12.8% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "13.6% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "9.4% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "11.8% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "14.2% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "17.5% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global geothermal energy market size was valued at USD 7.9 billion in 2025 and is projected to grow from USD 8.2 billion in 2026 to USD 10.8 billion in 2033, at a CAGR of 4.2% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 30.0% in 2025. Several factors drive the growing demand for geothermal energy.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Europe (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 4.2%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "is expected to grow at the fastest CAGR during the forecast period. Chile’s abundant geothermal potential can provide a suitable option to diversify the country’s power generation mix. Moreover, Chile’s Energy Policy, which aims to generate 70% of the country’s electricity from renewables by 2050, is expected to increase further the use of geothermal energy in the coming years.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "地熱発電市場における主要企業はどこですか？",
+    "url": "https://newscast.jp/news/2743708",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場で事業を展開する主要企業は以下のとおりである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Ansaldo Energia、Calpine、Contact Energy、Energy Development Corporation、Enel Green Power、Enertime、Exergy International、First Gen、Fuji Electric、GE Vernova、Halliburton、KenGen、Mitsubishi Heavy Industries、Ormat Technologies、Pertamina Geothermal Energy、Reykjavik Geothermal、SLB、Star Energy、Toshiba、Turbodenが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、ABB Limited、Aboitiz Power Corporation、Calpine Corporation、ENEL Green Power SpA、Energy Development Corporationである",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業業績",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "7.国内主要参入企業・シェア構造（2025年度実績）",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "8.国内外主要参入企業の動向/出資・提携関係",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "7.国内主要参入企業・シェア構造（2025年度実績） 20",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2）国内主要参入企業のシェア構造（累計実績） 22",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "8.国内外主要参入企業の動向/出資・提携関係 24",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要企業の参入状況や新規の取り組み、アライアンス動向、主要プロジェクトなどについて整理しました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電市場における主要企業はどこですか？",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies are adopting several organic and inorganic growth strategies, such as new Technology development, mergers & acquisitions, and joint ventures, to maintain and expand their market share.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the geothermal energy market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Turboden S.p.A., SLB, Baker Hughes Company, Atlas Copco AB, EXERGY INTERNATIONAL SRL, TOSHIBA CORPORATION, MITSUBISHI HEAVY INDUSTRIES, LTD., General Electric Company, Ansaldo Energia, Ormat, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which Startups Are Driving Innovation in the Geothermal Energy Market?",
+    "url": "https://www.skyquestt.com/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Energy Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Exhibit: Data Table: Emerging startups details)",
+    "url": "https://www.skyquestt.com/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Geothermal Electricity Plant Operation Market Size & Share Analysis - Emerging Trends, Growth Opportunities, Competitive Landscape, and Forecasts (2025 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-geothermal-electricity-plant-operation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-geothermal-electricity-plant-operation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-geothermal-electricity-plant-operation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players Outlook",
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal startups are experiencing development boost as engineers establish modern drilling techniques, AI-based resource discovery companies, closed loop geothermal facilities constructors and enhanced geothermal technology producers.",
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the major players operating in the geothermal power market?",
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the geothermal power market are Calpine, Ormat Technologies Inc., Enel Green Power North America Inc., Gradient Resources, Toshiba International Corp., EthosEnergy Group, ThermaSource LLC, Terra-Gen Power LLC, Chevron Corp., Berkshire Hathaway Inc., U.S. Geothermal Inc.",
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "地熱エネルギー市場規模とシェア、市場動向レポート 2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pertamina Geothermal Energyは、2025年に10%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ThinkGeoEnergyによると、世界の地熱発電設備容量は2024年末の16,873 MWから2025年末には17,173 MWに増加し、上位10カ国が設備容量全体の93%超を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国エネルギー省（DOE）の支援を受けた「2025年米国地熱市場レポート」によると、OrmatとCalpineは引き続き主要事業者であり、米国の地熱発電設備容量の大半を合わせて占める一方、新たな電力購入契約（PPA）を通じた商業活動も拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、エネルギー・天然資源省によると、2025年12月末時点で、同国には地熱発電所が68カ所あり、地熱は発電量の3.2%を占めていた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場の売上高シェア（技術別）、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "シングルフラッシュ地熱エネルギー市場は2025年に35.9%のシェアを占め、2035年までに410億米ドルを超える見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、EPRAの「2025年6月30日終了年度エネルギー・石油統計報告書」によると、電源構成の80.17%を再生可能エネルギーが占め、地熱は39.51%で引き続き最大の電源であり、設備容量でも最大の割合を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上位5社であるPertamina Geothermal Energy、Ormat Technologies、Energy Development Corporation (EDC)、Star Energy、Calpineは、2025年の世界市場シェアの約34%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア10％超",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地熱エネルギー市場規模、シェア、トレンド分析レポート：発電所別（乾式蒸気発電所、フラッシュ蒸気発電所、バイナリーサイクル発電所）、エンドユーザー別（住宅用、非住宅用）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に39.5%の市場シェアを占め、地熱エネルギー市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア39.5%で地熱エネルギー市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）8.6%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の地熱エネルギー市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で39.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "分散型太陽光発電市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽電池封止材市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "有機ランキンサイクル市場の規模、シェア、成長、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "電解槽市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電ポンプ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界トップクラスの累計84台・3,469MWの地熱タービンを受注（2000年以降世界シェアトップ）",
+    "url": "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士電機は、これまで国内外で84台（国内9台）、3,469MWの地熱蒸気タービン発電設備を受注しており、2000年以降の受注実績は世界シェア1位（36％）です",
+    "url": "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電でニッポンはブレイク〜世界シェア７割強の力を今こそ見せつけろ - セミコンポータル",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電でニッポンはブレイク〜世界シェア７割強の力を今こそ見せつけろ",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電はかつて世界でもトップクラスであったが、シェアは後退し中国（シェアはなんと50%近い）の後塵を拝している",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界トップは三菱重工業であり2位は東芝、3位は富士電機とメダル独占状態で、日本勢全体の世界シェアは多分7割強に達するだろう",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3位:2025年CIS売上高トップは市場シェア50%のソニー、なぜTSMCと合弁するの?",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5位:SPI会員限定Free Webinar『出そろった半導体上位各社の2026年上期決算と戦略』",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6位:最新DRAMランキング、トップスリーのシェア低下、中国CXMT急成長",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに先立って導入目標およびロードマップを含む中間取りまとめを発表しており、次世代地熱ポテンシャル（77GW）のうち、2035ー2050年に経済性に優れる上位10％（約7.7GW）、2040年までに約1.4GWの開発を目指すとしています",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "7.国内主要参入企業・シェア構造（2025年度実績）",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "7.国内主要参入企業・シェア構造（2025年度実績） 20",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2）国内主要参入企業のシェア構造（累計実績） 22",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3）主要発電事業者・シェア構造（FIT/FIPのみ） 23",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "新設ベースでは、2030年代中頃には次世代型が従来型を上回り、地熱発電開発技術の主流として定着し、2050年には新規開発案件の大部分を占めるとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来型地熱発電のタービン製造においては、日本企業が世界シェアの7割を占めるなど、強みもある",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 自立化のためには、地熱発電所の調査・建設費の30～40%を占める掘削",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Flash steam configurations captured 44.2% of installed value in the Geothermal Power Market in 2025, retaining leadership on the strength of proven high-enthalpy reservoirs.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Binary cycle installations accounted for USD 2.26 billion of 2025 value, driven by medium-temperature resource access.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "concentrations of around 200 mg/L, and direct extraction pilots running since 2023 have shown recovery rates more than 90% at bench and demonstration size",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": ". For a capital-intensive technology where financing cost drives a large share of levelized economics, that differential compounds meaningfully across a 30-year asset life and partially offsets the drilling risk premium documented in Section 5.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific anchors the Geothermal Power Market because the Ring of Fire concentrates the world's best high-enthalpy reservoirs across Indonesia, the Philippines and New Zealand. Indonesia's state operator listed on the domestic exchange in 2023, raising roughly USD 597 million earmarked for capacity expansion toward 1.7 GW",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Chitranshi is a Team Leader in the Chemicals & Materials (CnM) and Energy & Power (EnP) domains, with 6+ years of experience in market research. She leads and mentors teams to deliver cross-domain projects that equip clients with actionable insights and growth strategies.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "The global geothermal energy market size was valued at USD 7.9 billion in 2025 and is projected to grow from USD 8.2 billion in 2026 to USD 10.8 billion in 2033, at a CAGR of 4.2% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 30.0% in 2025. Several factors drive the growing demand for geothermal energy.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By technology: The binary cycle power plants segment held the largest market share of around 30.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By power: The above 5 MW segment held the largest market share of over 55.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: The residential segment held the largest market share of around 40.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The residential segment led the market with the largest revenue share of around 40.0% in 2025, driven by strong demand for residential cooling and heating applications, offering homeowners a renewable alternative to traditional",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for the largest market share of over 25.0% in the Asia pacific in 2025. Major heat pump manufacturers are shifting or expanding their production capacity to China to leverage low labor costs. Moreover, China's membership in the Trans-Pacific Partnership Agreement is projected to influence the market growth in the country positively.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for the largest market share of over 25.0% in Europe. The demand for geothermal heat pumps in the country is anticipated to be driven by key application sectors, including residential, industrial, and commercial. Technological advancements in the superior performance of geothermal heat pumps are expected to boost market growth over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for the largest revenue share of over 35.0% in Central & South America. The growing focus on environmentally friendly, natural-resource-based technologies, coupled with rising energy demand, is expected to drive market growth over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with an approximately 30.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The binary cycle power plants segment accounted for the largest revenue share, at approximately 30.0%, in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "held a dominant market position, capturing more than a 59.4% share of the global geothermal power market.",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Flash Steam Power Stations dominate with 59.4% in 2024 due to high energy efficiency and wide deployment in geothermal-rich regions.",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "例えば、ThinkGeoEnergyによると、インドネシアのエネルギー・鉱物資源省はCOP29で、グリーンフィールドおよびブラウンフィールド案件を含む12件の地熱発電プロジェクトを提示し、必要投資額を約21.4億米ドルと見積もった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、HEZ Enerjiは、先行する一部運転開始を経て、2025年10月にアイドゥン県の24 MW Morali地熱発電所がフル稼働に達したと発表し、総投資額は約1億米ドル、ORC技術が供給されたとしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場では、IEAが2025年の次世代型地熱発電向け投資額が前年比80％増と急成長していると発表、米国では2026年にもgoogle用DC向けで世界初の商用機（100MW）が稼働予定であり、日本の商社・エネルギー関連企業からの出資や提携も相次いでいます",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "8.国内外主要参入企業の動向/出資・提携関係",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "8.国内外主要参入企業の動向/出資・提携関係 24",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "pass": 3
+   },
+   {
+    "quote": "中部電力や鹿島建設など日本企業が出資したことで話題になった、カナダのスタートアップEavor（エバー）はこの方式での開発を進めており、ドイツのゲレッツリードで建設中のサイトは筆者が訪ねた2025年9月時点で、もう数カ月以内に運転開始が期待されるとのことであった",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、深部地熱の利用拡大を目指す多くの国で実証が加速しており、米国ではFervo Energy（ファーボ・エナジー）が油井開発技術を活用した実証に成功、Googleが24時間再エネ調達の一環として出資している",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "マサチューセッツ工科大学発のスタートアップであるQuaise Energy（クエイズ・エナジー）は、ミリ波掘削技術を活用して深部の高温岩体での地熱開発に挑戦しており、三菱商事が2024年2月に同社に出資している",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "（出典：資源エネルギー庁次世代型地熱推進官民協議会第1回 中部電力提出資料）",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "資源エネルギー庁［2024］ 第96回 調達価格等算定委員会 日本地熱協会提出資料",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "JOGMEC［2025］資源エネルギー庁次世代型地熱推進官民協議会 第1回 JOGMEC提出資料",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱商事［2025］資源エネルギー庁次世代型地熱推進官民協議会第2回 三菱商事提出資料",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "中部電力［2025］資源エネルギー庁次世代型地熱推進官民協議会第1回 中部電力提出資料",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "九電みらいエナジー株式会社［2025］資源エネルギー庁次世代型地熱推進官民協議会 第1回九電みらいエナジー株式会社提出資料",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "【建設費（補助金控除前）】 【初期投資額（補助金控除後）】 5",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モデルケース（30MW）の建設費及び初期投資額",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資額（補助金控除後） 百万円 8,866 11,990 15,796 24,287 35,737",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "初期投資額（補助金控除後） 百万円 15,925 21,621 27,485 40,895 59,120",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ". Private capital followed: venture funding into next-generation subsurface heat developers exceeded USD 1.1 billion between 2023 and 2025",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": ". The Geothermal Power Market benefits twice: the premium improves project economics, and the credit quality of investment-grade technology counterparties lowers debt cost by an estimated 90–130 basis points relative to merchant exposure.",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Transferability provisions in the Inflation Reduction Act let developers sell tax credits for cash, which matters enormously for a sector where sponsors historically lacked tax appetite. Observed transfer pricing settled around 92–95 cents on the dollar during 2024–2025, converting a 30% investment credit into near-equivalent equity",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Bar chart showing private capital investments in the millions from 2021-2025 comparing equity and debt for Fervo, Sage, Eavor, XGS, and Greenfire.",
+    "url": "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Superhot geothermal can produce 5–10 times more energy per well than conventional systems. NLR estimates that harnessing heat from superhot resources shallower than 10 km could supply up to 50% of current global electricity demand. DOE's Geothermal Technologies Office (GTO) is funding research to de-risk superhot exploration and demonstrate superhot EGS at Oregon's Newberry Volcano.",
+    "url": "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "National energy strategies clearly reflect this shift. The U.S. Department of Energy announced in 2023 a funding program of",
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "depending on depth and location. For a typical commercial plant requiring multiple wells, upfront investment quickly rises above USD 100 million, which is challenging for countries with limited access to low-cost financing.",
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Geotermica del Norte Which is a joint venture between ENAP and Enel green Power Chile. This joint venture built a third generation unit of 33 megawatts at Cerro Pabellon . There's an investment of about U.S. dollar 100 million in the construction of this new unit.",
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. Increased Investment and Research",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "地熱発電 でニッポンはブレイク～世界 シェア 7割強の力を今 ... — 地熱発電 でニッポンはブレイク～世界 シェア 7割強の力を今 ... セミコンポータル https://www.semiconportal.com > 120330-geothermal",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "pass": 3
+   },
+   {
+    "quote": "地熱発電 システムの 市場 を調査。2050年度の国内 市場 を3524 ... — 地熱発電 システムの 市場 を調査。2050年度の国内 市場 を3524 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代 地熱発電 技術への取り組み — 次世代 地熱発電 技術への取り組み NPO法人 国際環境経済研究所 https://ieei.or.jp > 2026/01 > takeuchi_260115",
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Size , Share, Trends, Report 2035 — Geothermal Power Market Size , Share, Trends, Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Size , Share | CAGR of 4.0% — Geothermal Power Market Size , Share | CAGR of 4.0% Market.us https://market.us > report > global-ge...",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Companies, Size & Trends 2026 ... — Geothermal Power Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Size , Share, Growth, Forecast, 2034 — Geothermal Power Market Size , Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > g...",
+    "url": "https://straitsresearch.com/report/geothermal-power-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Size, Share, Trends, Report 2035 — Geothermal Power Market Size, Share, Trends, Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   },
+   {
+    "quote": "Geothermal Power Market Size, Share , Trends, Report 2035 — Geothermal Power Market Size, Share , Trends, Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.90",
+    "url": "https://newscast.jp/news/2743708",
+    "quote": "地熱発電市場は、2025年に88億7,000万米ドルと評価され、2026年には95億1,000万米ドルに成長し、CAGR 7.90％で推移し、2032年までに151億2,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "市場規模は2026年の679億米ドルから2035年までに1,096億米ドルへ拡大し、年平均成長率（CAGR）は5.5%になると予測されている"
+   },
+   {
+    "value": "8.3",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "quote": "世界の地熱エネルギー市場規模は、2025年には90億3000万米ドルと評価され、2026年の97億8000万米ドルから2034年には185億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.3%となる見込みです"
+   },
+   {
+    "value": "8.6",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "quote": "北米は世界市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）8.6%で成長すると見込まれています"
+   },
+   {
+    "value": "9.0",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "quote": "ヨーロッパは予測期間中に年平均成長率（CAGR）9.0%を示すと予想されています"
+   },
+   {
+    "value": "7.81",
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "quote": "地熱発電市場は、2032年までにCAGR 7.81%で151億2,000万米ドルの成長が予測されています"
+   },
+   {
+    "value": "4.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "The global geothermal energy market size was valued at USD 7.9 billion in 2025 and is projected to grow from USD 8.2 billion in 2026 to USD 10.8 billion in 2033, at a CAGR of 4.2% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 30.0% in 2025. Several factors d"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "Pertamina Geothermal Energyは、2025年に10%を超える市場シェアを獲得し、市場をリードした"
+   },
+   {
+    "value": "93",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "例えば、ThinkGeoEnergyによると、世界の地熱発電設備容量は2024年末の16,873 MWから2025年末には17,173 MWに増加し、上位10カ国が設備容量全体の93%超を占めた"
+   },
+   {
+    "value": "3.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "例えば、エネルギー・天然資源省によると、2025年12月末時点で、同国には地熱発電所が68カ所あり、地熱は発電量の3.2%を占めていた"
+   },
+   {
+    "value": "35.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "シングルフラッシュ地熱エネルギー市場は2025年に35.9%のシェアを占め、2035年までに410億米ドルを超える見込みである"
+   },
+   {
+    "value": "80.17",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "例えば、EPRAの「2025年6月30日終了年度エネルギー・石油統計報告書」によると、電源構成の80.17%を再生可能エネルギーが占め、地熱は39.51%で引き続き最大の電源であり、設備容量でも最大の割合を占めている"
+   },
+   {
+    "value": "39.51",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "例えば、EPRAの「2025年6月30日終了年度エネルギー・石油統計報告書」によると、電源構成の80.17%を再生可能エネルギーが占め、地熱は39.51%で引き続き最大の電源であり、設備容量でも最大の割合を占めている"
+   },
+   {
+    "value": "34",
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "quote": "上位5社であるPertamina Geothermal Energy、Ormat Technologies、Energy Development Corporation (EDC)、Star Energy、Calpineは、2025年の世界市場シェアの約34%を占める"
+   },
+   {
+    "value": "39.5",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "quote": "北米は、2025年に39.5%の市場シェアを占め、地熱エネルギー市場を牽引しました"
+   },
+   {
+    "value": "8.6",
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "quote": "北米は世界市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）8.6%で成長すると見込まれています"
+   },
+   {
+    "value": "36",
+    "url": "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "quote": "富士電機は、これまで国内外で84台（国内9台）、3,469MWの地熱蒸気タービン発電設備を受注しており、2000年以降の受注実績は世界シェア1位（36％）です"
+   },
+   {
+    "value": "50",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "quote": "太陽光発電はかつて世界でもトップクラスであったが、シェアは後退し中国（シェアはなんと50%近い）の後塵を拝している"
+   },
+   {
+    "value": "10",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "quote": "これに先立って導入目標およびロードマップを含む中間取りまとめを発表しており、次世代地熱ポテンシャル（77GW）のうち、2035ー2050年に経済性に優れる上位10％（約7.7GW）、2040年までに約1.4GWの開発を目指すとしています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "quote": "✓ 自立化のためには、地熱発電所の調査・建設費の30～40%を占める掘削"
+   },
+   {
+    "value": "44.2",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "quote": "Flash steam configurations captured 44.2% of installed value in the Geothermal Power Market in 2025, retaining leadership on the strength of proven high-enthalpy reservoirs."
+   },
+   {
+    "value": "90",
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "quote": "concentrations of around 200 mg/L, and direct extraction pilots running since 2023 have shown recovery rates more than 90% at bench and demonstration size"
+   },
+   {
+    "value": "4.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "The global geothermal energy market size was valued at USD 7.9 billion in 2025 and is projected to grow from USD 8.2 billion in 2026 to USD 10.8 billion in 2033, at a CAGR of 4.2% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 30.0% in 2025. Several factors d"
+   },
+   {
+    "value": "30.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "The global geothermal energy market size was valued at USD 7.9 billion in 2025 and is projected to grow from USD 8.2 billion in 2026 to USD 10.8 billion in 2033, at a CAGR of 4.2% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 30.0% in 2025. Several factors d"
+   },
+   {
+    "value": "55.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "By power: The above 5 MW segment held the largest market share of over 55.0% in 2025."
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "By application: The residential segment held the largest market share of around 40.0% in 2025."
+   },
+   {
+    "value": "25.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "accounted for the largest market share of over 25.0% in the Asia pacific in 2025. Major heat pump manufacturers are shifting or expanding their production capacity to China to leverage low labor costs. Moreover, China's membership in the Trans-Pacific Partnership Agreement is projected to influence "
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "quote": "accounted for the largest revenue share of over 35.0% in Central & South America. The growing focus on environmentally friendly, natural-resource-based technologies, coupled with rising energy demand, is expected to drive market growth over the forecast period."
+   },
+   {
+    "value": "59.4",
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "quote": "held a dominant market position, capturing more than a 59.4% share of the global geothermal power market."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-106341",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/geothermal-energy-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2743708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/178",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chinetsukyokai.com/information/sekai.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5893568",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/geothermal-energy-market-106341",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-geothermal-power-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy.gov/hgeo/geothermal/market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geothermal-energy-market-205152720.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/geothermal-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/geothermal-energy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/the-future-of-geothermal-energy/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/us-geothermal-electricity-plant-operation-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/united-kingdom-geothermal-energy-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-geothermal-power-generation-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/geothermal-power-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iea.org/commentaries/investment-in-next-generation-geothermal-is-surging-policies-are-key-to-further-growth",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://netzeroinsights.com/resources/investment-trends-geothermal-energy-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.egec.org/media-publications/egec-market-report-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.nlr.gov/docs/fy26osti/91898.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "地熱発電 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-106341",
+    "https://www.mordorintelligence.com/ja/industry-reports/geothermal-energy-market",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC42%E3%81%AEcagr%E3%82%92%E6%8C%81%E3%81%A4%E5%9C%B0%E7%86%B1%E6%8E%98%E5%89%8A%E3%83%AA%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A9%B3%E7%B4%B0%E3%81%AA%E5%88%86%E6%9E%90%E3%81%A8%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A%E3%81%AE%E3%81%9F-7491619060330336256-slrse",
+    "https://newscast.jp/news/2743708",
+    "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "https://straitsresearch.com/jp/report/geothermal-energy-market",
+    "https://violation417.inkrich.com/posts/155/",
+    "https://www.innovations-i.com/release/1617395.html",
+    "https://journal.jogmec.go.jp/geothermal/learn/plant-foreign/index.html",
+    "https://straitsresearch.com/jp/report/geothermal-power-market"
+   ]
+  },
+  {
+   "query": "地熱発電 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fujielectric.co.jp/about/example/detail/solution_geothermal_power.html",
+    "https://www.buffett-code.com/industries/178",
+    "https://www.semiconportal.com/archive/blog/insiders/izumiya/120330-geothermal.html",
+    "https://jp.linkedin.com/pulse/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB%E6%96%BD%E8%A8%AD%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-pharmanavigator-insights-lab-xpb7e",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9C%B0%E7%86%B1%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4-106341",
+    "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-geothermal-energy-in-2025-watch-list-statistics-report-2024-2035",
+    "https://www.chinetsukyokai.com/information/sekai.html",
+    "https://strainer.jp/tags/geothermal",
+    "https://journal.jogmec.go.jp/geothermal/learn/plant-foreign/index.html",
+    "https://www.fortunebusinessinsights.com/jp/地熱エネルギー市場-106341"
+   ]
+  },
+  {
+   "query": "地熱発電 市場 前年比 2025",
+   "results": [
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112603927&la=ja",
+    "https://www.fkg-report.jp/market-trends/2026/3429.html",
+    "https://www.atpress.ne.jp/news/5893568",
+    "https://ieei.or.jp/2026/01/takeuchi_260115/",
+    "https://www.meti.go.jp/shingikai/santeii/pdf/106_02_00.pdf",
+    "https://pps-net.org/column/14820",
+    "https://www.mordorintelligence.com/ja/industry-reports/geothermal-energy-market",
+    "https://www.isep.or.jp/archives/library/15738",
+    "https://www.gminsights.com/ja/industry-analysis/geothermal-energy-market",
+    "https://www.nikkei.com/article/DGXZRSP713819_U6A011C2000000/"
+   ]
+  },
+  {
+   "query": "geothermal power market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "https://www.fortunebusinessinsights.com/geothermal-energy-market-106341",
+    "https://market.us/report/global-geothermal-power-market/",
+    "https://www.energy.gov/hgeo/geothermal/market-report",
+    "https://www.precedenceresearch.com/geothermal-power-market",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-geothermal-power-equipment-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.alliedmarketresearch.com/geothermal-power-market",
+    "https://www.egec.org/media-publications/egec-market-report-2025/",
+    "https://www.imarcgroup.com/geothermal-power-market"
+   ]
+  },
+  {
+   "query": "geothermal power market share top players percent",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "https://www.marketsandmarkets.com/Market-Reports/geothermal-energy-market-205152720.html",
+    "https://straitsresearch.com/report/geothermal-power-market",
+    "https://www.skyquestt.com/report/geothermal-energy-market",
+    "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "https://market.us/report/global-geothermal-power-market/",
+    "https://www.iea.org/reports/the-future-of-geothermal-energy/executive-summary",
+    "https://www.linkedin.com/pulse/top-30-north-america-geothermal-power-market-companies-jgt7f",
+    "https://energydigital.com/top10/top-10-geothermal-energy-companies",
+    "https://www.fortunebusinessinsights.com/geothermal-energy-market-106341"
+   ]
+  },
+  {
+   "query": "geothermal power market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.psmarketresearch.com/market-analysis/us-geothermal-electricity-plant-operation-market-report",
+    "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "https://www.fortunebusinessinsights.com/geothermal-energy-market-106341",
+    "https://www.mordorintelligence.com/industry-reports/united-kingdom-geothermal-energy-market",
+    "https://www.iea.org/reports/the-future-of-geothermal-energy/executive-summary",
+    "https://market.us/report/global-geothermal-power-generation-market/",
+    "https://www.precedenceresearch.com/geothermal-power-market",
+    "https://www.linkedin.com/pulse/trending-report-enhanced-geothermal-system-lbdxf/",
+    "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "geothermal power market key companies share 2025",
+   "results": [
+    "https://www.nlr.gov/geothermal/2025-us-geothermal-market-report",
+    "https://www.marketresearchfuture.com/reports/geothermal-power-market-8731",
+    "https://www.iea.org/commentaries/investment-in-next-generation-geothermal-is-surging-policies-are-key-to-further-growth",
+    "https://www.energy.gov/hgeo/geothermal/market-report",
+    "https://www.fortunebusinessinsights.com/geothermal-energy-market-106341",
+    "https://netzeroinsights.com/resources/investment-trends-geothermal-energy-2025/",
+    "https://www.grandviewresearch.com/industry-analysis/geothermal-energy-market-report",
+    "https://www.egec.org/media-publications/egec-market-report-2025/",
+    "https://www.psmarketresearch.com/market-analysis/us-geothermal-electricity-plant-operation-market-report",
+    "https://docs.nlr.gov/docs/fy26osti/91898.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

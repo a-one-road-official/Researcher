@@ -1,0 +1,391 @@
+{
+ "name": "UACJトレーディング",
+ "aliases": [
+  "UACJ Trading"
+ ],
+ "context": "アルミ商社（UACJ系）",
+ "researched_at": "2026-11-02T17:04:24.042481+00:00",
+ "official_url": "https://www.uacj-trading.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2014年6月",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1947年11月",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "当社のビジネスモデルは？",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "人々の暮らしを彩るモノづくりを幅広くサポートする事業領域、ビジネスモデルを紹介します",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "会社を知る | UACJトレーディング 採用サイト｜非鉄金属専門商社でキャリアを拓く",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウムをはじめ非鉄金属に捉われない様々な素材及び製品を取り扱っております",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客様の製品開発・設計段階から携わるため、一般的な取引関係の枠を超えた開発パートナーとして課題や問題点の解決、",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世の中に新たな製品を送り出す一翼を担います",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "特定領域における専門的な知見や経験を活かし、商品の流通に付加価値を与えることができる点が特徴です",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界を舞台に、多彩な製品と事業領域でビジネスを創造できることが当社の強みです",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数・取扱高",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "社員数は約140名で取扱高は1,000億円以上！成長したいあなたに",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外取扱高比率",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界トップクラスのアルミ圧延メーカーであるUACJの製品のみならず、国内外の様々な製品・サービスを付加価値とともに提供することで、UACJトレーディングは日常のあらゆるシーンで豊かな暮らしに貢献しています",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | UACJトレーディング 採用サイト｜非鉄金属専門商社でキャリアを拓く",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミでかなえる軽やかな世界",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミでかなえる軽やかな世界 トップ",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界をリードする「アルミニウム総合メーカー」",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な社会に貢献するアルミニウム",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 トップ",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "UACJの素材・製品ブランド",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ素材・製品ブランド ALmitas+（アルミタス）",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境配慮 アルミ素材・製品ブランド",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品から探す（製品一覧）",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "UACJオリジナル製品",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウムの基礎知識​",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "このたびの現地法人設立により、米国における顧客と地域への密着度をさらに向上させ、自動車関連部材、IT関連部材などの非鉄金属材料および加工製品についての営業活動強化をはかります",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルミの基礎知識",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報の取扱いについて",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   }
+  ],
+  "加工・付加価値": [
+   {
+    "quote": "素材に加工や表面処理などの＋αを加え、より付加価値の高い提案を行うことでお客様の要求に積極的に応えております",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "UACJ Trading & Processing America,Inc.",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "このたびの現地法人設立により、米国における顧客と地域への密着度をさらに向上させ、自動車関連部材、IT関連部材などの非鉄金属材料および加工製品についての営業活動強化をはかります",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客のグローバル事業展開および現地調達の支援を行う拠点として、加工、在庫機能のコーディネート役としての体制整備も進めてまいります",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "UACJトレーディングの強み",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "世界を舞台に、多彩な製品と事業領域でビジネスを創造できることが当社の強みです",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社を知る | UACJトレーディング 採用サイト｜非鉄金属専門 ... — 会社を知る | UACJトレーディング 採用サイト｜非鉄金属専門 ... 株式会社UACJトレーディング https://utr.uacj-group.com > recruit > newgrads > about",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "pass": 3
+   },
+   {
+    "quote": "#19690 決算分析 : 株式会社 UACJトレーディング 第83期決算 ... — #19690 決算分析 : 株式会社 UACJトレーディング 第83期決算 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/08/19",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/08/19/171500",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 UACJトレーディング による米国の現地法人設立 ... — 株式会社 UACJトレーディング による米国の現地法人設立 ... 株式会社UACJ https://www.uacj.co.jp > リリース・お知らせ",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "資料ライブラリ - 株式会社UACJトレーディング — 資料ライブラリ - 株式会社UACJトレーディング 株式会社UACJトレーディング https://utr.uacj-group.com > library",
+    "url": "https://utr.uacj-group.com/library/",
+    "pass": 3
+   },
+   {
+    "quote": "#19690 決算 分析 : 株式会社 UACJトレーディング 第83期 決算 ... — #19690 決算 分析 : 株式会社 UACJトレーディング 第83期 決算 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/08/19",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/08/19/171500",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 | UACJトレーディング 採用サイト｜非鉄金属専門 ... — 新卒採用 | UACJトレーディング 採用サイト｜非鉄金属専門 ... 株式会社UACJトレーディング https://utr.uacj-group.com > recruit > newgrads",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属専門商社でキャリアを拓く — 非鉄金属専門商社でキャリアを拓く 株式会社UACJトレーディング https://utr.uacj-group.com > ホーム > 仕事を知る",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/interview/interview-06/",
+    "pass": 3
+   },
+   {
+    "quote": "UACJトレーディング ・加藤将人氏／新領域参入で顧客開拓 ... — UACJトレーディング ・加藤将人氏／新領域参入で顧客開拓 ... 日刊鉄鋼新聞 Japan Metal Daily https://www.japanmetaldaily.com > 非鉄",
+    "url": "https://www.japanmetaldaily.com/articles/-/263157",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客の声を汲み取り、",
+    "url": "https://utr.uacj-group.com/recruit/newgrads/",
+    "pass": 3
+   },
+   {
+    "quote": "このたびの現地法人設立により、米国における顧客と地域への密着度をさらに向上させ、自動車関連部材、IT関連部材などの非鉄金属材料および加工製品についての営業活動強化をはかります",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客のグローバル事業展開および現地調達の支援を行う拠点として、加工、在庫機能のコーディネート役としての体制整備も進めてまいります",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   },
+   {
+    "quote": "UACJは今後も、顧客ニーズに迅速に応えるグローバルサプライチェーン構築へ向け、より一層尽力してまいります",
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.uacj-trading.co.jp",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/ir/policy/midterm_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://utr.uacj-group.com/recruit/newgrads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/release/20140807.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/english/ir/finance/chart.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uacj.co.jp/english/ir/library/pdf/2024/05_2024uacjr_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "UACJトレーディング ビジネスモデル 収益構造",
+   "results": [
+    "https://utr.uacj-group.com/recruit/newgrads/about/",
+    "https://www.uacj.co.jp/ir/policy/midterm_plan.html",
+    "https://www.uacj.co.jp/ir/assets/00_3.pdf",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/08/19/171500",
+    "https://www.uacj.co.jp/release/20140807.html",
+    "https://www.jftc.or.jp/shosha/businessmodel.html",
+    "https://compalyze.co.jp/company/2120001065573",
+    "https://www.uacj.co.jp/ir/assets/UACJ_Report2026_J_web_print_2.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC089QA0Y3A201C2000000/",
+    "https://kaijiwire.jp/kokoku/019f75d5-c457-7dc9-9cb5-2e06f0fa7e10"
+   ]
+  },
+  {
+   "query": "UACJトレーディング 決算説明資料 セグメント",
+   "results": [
+    "https://www.uacj.co.jp/ir/library/index.html",
+    "https://www.uacj.co.jp/ir/index.html",
+    "https://www.uacj.co.jp/ir/library/presentation.html",
+    "https://utr.uacj-group.com/library/",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/08/19/171500",
+    "https://www.uacj.co.jp/ir/library/factbook.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251111/20251111595143.pdf",
+    "https://edinetdb.jp/company/E01330/ir-docs/",
+    "https://prtimes.com/finance/2120001065573/settlement",
+    "https://www.uacj.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "UACJトレーディング 社長 インタビュー",
+   "results": [
+    "https://utr.uacj-group.com/recruit/newgrads/",
+    "https://www.uacj.co.jp/release/20140807.html",
+    "https://utr.uacj-group.com/recruit/newgrads/interview/interview-06/",
+    "https://www.japanmetal.com/news-h20260227147882.html",
+    "https://www.japanmetaldaily.com/articles/-/263157",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000lMD2O",
+    "https://ja.wikipedia.org/wiki/UACJ%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/060900669/",
+    "https://www.youtube.com/watch?v=KvzQfGMWrlQ",
+    "https://ja.wikipedia.org/wiki/UACJトレーディング"
+   ]
+  },
+  {
+   "query": "UACJトレーディング business model revenue gross margin",
+   "results": [
+    "https://www.uacj.co.jp/english/ir/finance/chart.html",
+    "https://www.uacj.co.jp/english/ir/library/pdf/2024/05_2024uacjr_1.pdf",
+    "https://www.venasolutions.com/blog/average-profit-margin-by-industry",
+    "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html",
+    "https://finance.yahoo.com/quote/5741.T/key-statistics/",
+    "https://www.uacj.co.jp/english/ir/",
+    "https://fullratio.com/profit-margin-by-industry",
+    "https://www.abilenesbdc.org/post/profit-margins-by-industry-1",
+    "https://www.uacj.co.jp/english/ir/library/pdf/2025/irday_250527_07.pdf",
+    "https://firmnavi.com/en/companies/g132-313"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）",
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）",
+  "創業期": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索4回）"
+ }
+}

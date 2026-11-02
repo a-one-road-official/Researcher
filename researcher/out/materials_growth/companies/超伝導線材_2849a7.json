@@ -1,0 +1,2060 @@
+{
+ "name": "超伝導線材",
+ "en": "superconducting wire",
+ "aliases": [
+  "HTS tape",
+  "REBCO",
+  "high temperature superconductor",
+  "超電導線材"
+ ],
+ "context": "核融合・送電",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:15:02.901065+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "超伝導材料市場規模・予測レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Material Market Size, by Material Type, 2025 & 2035 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "NbTiの2025年の市場規模は3億6,400万米ドルで、2026〜2035年の年平均成長率（CAGR）は1.9%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nb3Snの市場規模は、2026〜2035年に年平均成長率（CAGR）11.0%で拡大し、2035年までに3億1,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "LTS — その他の2025年の市場規模は1,300万米ドルで、2035年には市場の1.2%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "REBCO/YBCOは、2035年までに市場規模が7億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）16.3%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "BSCCOは2025年に2,100万米ドルの市場規模を記録し、2035年には1,800万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "研究段階・新興材料は、2025年に900万米ドルの市場規模を記録し、2026〜2035年に年平均成長率（CAGR）30.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "線材・テープは2025年に4億9,000万米ドルの市場規模を記録し、2035年には市場の47.8%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療画像診断（MRI/NMR）は2025年に2億7,800万米ドルの市場規模となり、2035年には市場の19.3%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送分野は2025年に2,200万米ドルの市場規模となり、2026〜2035年に年平均成長率（CAGR）14.5%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の超電導材料市場は2025年に1億8,000万米ドルの売上高を生み出し、2035年までに市場全体の19.6%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ビスマス系超電導線の世界市場（2026年～2032年）、市場規模（BSCCO、ReBCO、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "ビスマス系超電導線の世界市場（2026年～2032年）、市場規模（BSCCO、ReBCO、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "世界のビスマス系超電導線市場規模は、2025年の3億8,700万米ドルから2032年には6億3,800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "米国におけるビスマス系超電導線市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "中国のビスマス系超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "ビスマス系超電導線の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、2021年から2026年までの地域別および国・地域別のビスマス系超電導線世界歴史的市場規模のレビューが記載されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別の市場規模予測、年間収益予測が示されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "世界の超伝導材料市場規模は、2025年には101億5000万米ドルと評価され、2026年の112億8000万米ドルから2034年には262億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場規模は、2026年には112億8000万米ドルと評価され、2034年までに262億8000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%です",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.15%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体変圧器市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "スピーカー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "KNX製品市場規模、シェア、成長率、分析、レポート（2034年）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "水素検知市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "NbTi超電導線の世界市場（2026年～2032年）、市場規模（マルチフィラメント、ファインフィラメント）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "NbTi超電導線の世界市場（2026年～2032年）、市場規模（マルチフィラメント、ファインフィラメント）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "世界のNbTi超電導線市場規模は、2025年の4億2,300万米ドルから2032年には7億1,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.9%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "米国のNbTi超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "中国のNbTi超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のNbTi超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "高温超伝導線材市場は、2032年までにCAGR9.83％で16億8,425万米ドル成長すると予測されています",
+    "url": "https://newscast.jp/news/6099628",
+    "pass": 3
+   },
+   {
+    "quote": "世界の超電導線材の市場規模は、2025年に17億9,704万6,000米ドルと推計され、予測期間中にCAGR9.26%で成長し、2030年には27億9,862万2,000米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,950 換算",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,550 換算",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,950 換算",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材の市場規模、シェア、成長分析：タイプ別、地域別－業界予測（2026～2033年）",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線市場は2025年に14億5,000万米ドルと評価され、2026年には15億8,000万米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場規模：線材タイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "高温超伝導線材の市場規模は2025年に4億9,300万米ドルとなり、2026〜2035年に年平均成長率（CAGR）約12.9%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "中温超伝導線材は2025年の売上高の2.0%を占め、2035年には市場規模が7,500万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "MRI向け線材の市場規模は2025年に4億9,000万米ドルとなり、2035年には10億2,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー用途は2026〜2035年に年平均成長率（CAGR）約11.9%で拡大すると予測され、2025年の市場規模は3億400万米ドルであった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合向け線材の需要は2026〜2035年に年平均成長率（CAGR）約12.0%で拡大し、2035年には市場規模が5億2,400万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米の超電導線材市場は世界全体の売上高の39.0%を占め、2035年には14億6,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "また、2026年から2035年にかけて年平均成長率（CAGR）9.4%で拡大し、2035年には18億4,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "民間の核融合事業者による Nb3Sn および REBCO の調達は段階的に拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体で 9.4% の CAGR を達成するには、REBCO および MgB₂ の生産量拡大が NbTi の成長減速を補う必要がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "NbTiの2025年の市場規模は3億6,400万米ドルで、2026〜2035年の年平均成長率（CAGR）は1.9%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nb3Snの市場規模は、2026〜2035年に年平均成長率（CAGR）11.0%で拡大し、2035年までに3億1,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "REBCO/YBCOは、2035年までに市場規模が7億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）16.3%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のビスマス系超電導線市場規模は、2025年の3億8,700万米ドルから2032年には6億3,800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "米国におけるビスマス系超電導線市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "中国のビスマス系超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "ビスマス系超電導線の欧州市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の超伝導材料市場規模は、2025年には101億5000万米ドルと評価され、2026年の112億8000万米ドルから2034年には262億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "SuperPower Inc.は、核融合エネルギー、電力網、研究用途における需要の高まりに対応するため、第2世代（2G）高温超伝導（HTS）ワイヤの生産を拡大した",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場規模は、2026年には112億8000万米ドルと評価され、2034年までに262億8000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%です",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.15%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体変圧器市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "スピーカー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "KNX製品市場規模、シェア、成長率、分析、レポート（2034年）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロ電気機械システム市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のNbTi超電導線市場規模は、2025年の4億2,300万米ドルから2032年には7億1,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.9%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "米国のNbTi超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "中国のNbTi超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のNbTi超電導線市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "高温超伝導線材市場は、2032年までにCAGR9.83％で16億8,425万米ドル成長すると予測されています",
+    "url": "https://newscast.jp/news/6099628",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 9.83%",
+    "url": "https://newscast.jp/news/6099628",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは9.83%です",
+    "url": "https://newscast.jp/news/6099628",
+    "pass": 3
+   },
+   {
+    "quote": "世界の超電導線材の市場規模は、2025年に17億9,704万6,000米ドルと推計され、予測期間中にCAGR9.26%で成長し、2030年には27億9,862万2,000米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均成長率約10%で拡大し、2035年には37億4,000万米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022〜2025年の実績期間における世界の超電導線売上高の動向に関するGMIの評価によると、市場の年平均成長率（CAGR）は9.6%を記録した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "高温超伝導線材の市場規模は2025年に4億9,300万米ドルとなり、2026〜2035年に年平均成長率（CAGR）約12.9%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー用途は2026〜2035年に年平均成長率（CAGR）約11.9%で拡大すると予測され、2025年の市場規模は3億400万米ドルであった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "核融合向け線材の需要は2026〜2035年に年平均成長率（CAGR）約12.0%で拡大し、2035年には市場規模が5億2,400万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "電力網向け線材需要は、2035年までに3億3,600万米ドルに達し、2026〜2035年に約12.4%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング向け線材需要は、2025年の売上高シェア7.0%から拡大し、2035年までに5億6,100万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛向け線材需要は、2025年の市場シェア6.0%から拡大し、2035年までに1億8,700万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途は、2035年までに市場売上高の5.0%を占め、2026〜2035年に約13.9%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Superconducting Wire Market was valued at USD 1.45 billion in 2025 and is projected to grow to USD 1.58 billion in 2026, advancing at a compound annual growth rate of approximately 10% from 2026 to 2035, to reach USD 3.74 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on GMI's assessment of global superconducting wire revenue trends over the 2022–2025 historic period, the market recorded a CAGR of 9.6%, reflecting durable demand from MRI system manufacturing, accelerator and research programs, and the early commercial ramp of quantum computing hardware—conditions that align closely with the demand profile supporting GMI's 2026–2035 forecast trajectory.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to expand at an approximately 18.5% CAGR (2026–2035) and reach USD 76 million by 2035. India's growth reflects expanding diagnostic capacity, research investment, and growing national interest in quantum technologies. The opportunity starts from a developing base, making practical procurement capacity and project execution more important than headline program announcements.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 3.74 billion by 2035, growing at a CAGR of 10% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Superconducting Wire Market Size was estimated at 1.32 USD Billion in 2024. The superconducting wire industry is projected to grow from 1.434 USD Billion in 2025 to 3.272 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 8% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Superconducting Wire Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Superconducting Wire Market during the forecast period 2025 - 2035 is 8.6%.",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size, Share | CAGR of 9.6%",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025 - 2035",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.6%,",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.6%",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In the year 2025, the Superconducting Wire Market was valued at USD 1.51 billion. The size of this market is expected to increase to USD 2.92 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 9.9%.",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2034",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR) of 10.58%",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "High-Temperature Superconductor (HTS - CAGR of 14.3%)",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power (CAGR of 13.8%)",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global superconducting wire market size was valued at USD 1.31 billion in 2025 and is anticipated to reach USD 1.45 billion in 2026 and USD 3.24 billion by 2034, growing at a CAGR of 10.58% during the forecast period from 2026 to 2034.",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.1% CAGR",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "これらの用途に参入するには、材料供給企業が純度、表面品質、成膜の均一性に関する厳しい仕様を満たす必要があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導材料市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導材料市場の主要企業には、住友電気工業、Western Superconducting Technologies（WST）、SuperPower Inc.（Fujikura）、LS Cable & System、Nexansなどが挙げられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ビスマス系超電導線の世界的な主要企業には、AMSC、古河電気工業、ブルカー、フジクラ、住友電気工業などが含まれます",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、ビスマス系超電導線のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界のビスマス系超電導線市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産地域分布、販売地域、提供する製品タイプに関する情報、市場集中度分析（競合状況分析、CR3、CR5、CR10の集中度とその期間）、新製品と潜在的な新規参入企業、および市場のM&A活動と戦略についても言及されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、ビスマス系超電導線市場の主要企業に関する詳細な分析が個別に記載されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アメリカン・スーパーコンダクター・コーポレーションやマサチューセッツ工科大学（MIT）といった主要企業や研究機関の存在は、超伝導材料の開発と商業化のための強固なエコシステムを育み、市場の成長をさらに促進している",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、NbTi超電導線ポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なNbTi超電導線市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、新製品や潜在的な新規参入者、市場のM&A活動と戦略についても言及されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、富士クラ、古河電気工業、ブルカー、ルヴァータ、サムドン、スーパーコン、スーパーパワー、キスワイヤーアドバンステクノロジーといった主要企業の詳細な分析が記載されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "競合情勢：世界の主要企業が採用している戦略的動きを理解し、適切な戦略による市場浸透の可能性を理解することができます",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界および市場考察、事業機会評価、製品需要予測、市場参入戦略、地理的拡大、設備投資の決定、規制の枠組みと影響、新製品開発、競合の影響",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と戦略分析",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "認定サイクルの長期化が続けば、新規参入が制限され、能力拡大への対応速度も抑えられるため、既存メーカーの価格決定力が維持される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア開発がより体系的な製造へと移行するなか、純度、熱特性、パッケージングの要件を満たせるサプライヤーは、従来の磁石プログラムとは異なる需要チャネルに参入できる可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業分野の参入は、長期にわたる認定プロセス、制限された調達経路、システムレベルでの検証の必要性によって制約される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場の主要企業には、Sumitomo Electric Industries、Bruker Energy & Supercon Technologies（BEST）、Luvata / Mitsubishi Materials、中国企業（SHSC、BSCCO、INEST）、Fujikura / SuperPowerなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in superconducting wire market?",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in superconducting wire market include Sumitomo Electric Industries, Bruker Energy & Supercon Technologies (BEST), Luvata / Mitsubishi Materials, Chinese Players (SHSC, BSCCO, INEST), Fujikura / SuperPower.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Superconducting Wire Market include",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in the Superconducting Wire Market?",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Superconducting Wire Market include American Superconductor Corporation, Superconductor Technologies Inc., and Bruker Corporation.",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market, including",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wires Market Competitive Landscape Analysis",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in Superconducting Wire Market include:",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional, and Country Level Analysis; Segment-Level Analysis; DROC; PESTLE Analysis; Porter’s Five Forces Analysis; Competitive Landscape; Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "LEADING PLAYERS IN THE SUPERCONDUCTING WIRE MARKET",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in the superconducting wire market?",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Supercon Inc., Furukawa Electric, Sumitomo Electric, Bruker Energy & Supercon Technologies, and American Superconductor Corporation.",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "And third, commercial R&D in quantum computing is moving from labs to startups. Firms like IBM, Google, and D-Wave are investing heavily in superconducting qubits — all of which rely on ultra-low temperature, zero-resistance wire frameworks.",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Technology Startups",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. is also aggressively exploring onshore manufacturing to reduce reliance on Asian HTS imports — a dynamic that could benefit startups like MetOx .",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Startups and Cryogenic Labs",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hospitals & Imaging Centers, Grid Operators, Research Labs, Quantum Startups, Defense Agencies",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. Who are the major players in the superconducting wire market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include AMSC, Sumitomo Electric, Furukawa Electric, Bruker (BEST), SuperOx, and MetOx.",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "• Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "• Competitive Landscape by Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "住友電気工業は、2025年に33.1%超の市場シェアを占め、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業、Western Superconducting Technologies（WST）、SuperPower Inc.（Fujikura）、LS Cable & System、Nexans",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に8,600万米ドルに達し、2035年には2億6,700万米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "従来型と先進型の超伝導線材用途の両方に対応できる日本の能力は、需要が高温超伝導（HTS）材料へと移行するなかで、戦略的な柔軟性をもたらしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industriesは、2025年に市場売上高の33.1%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachiは、エネルギー、医療、研究インフラに関連する超伝導材料の技術力とサプライチェーン上の関係を維持しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社の現在の事業機会は、日本の機関市場および産業市場で特殊な磁石技術が引き続き必要とされていることに左右されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Superconductor Technologyは、特に医療・研究用磁石分野で確立された日本のNbTi供給関係を担っており、この分野では認定実績が商業上引き続き重要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導材料市場の主要企業には、住友電気工業、Western Superconducting Technologies（WST）、SuperPower Inc.（Fujikura）、LS Cable & System、Nexansなどが挙げられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ビスマス系超電導線の世界的な主要企業には、AMSC、古河電気工業、ブルカー、フジクラ、住友電気工業などが含まれます",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国、日本、韓国、東南アジア、インド、オーストラリア、台湾といった各地域・国の市場状況についても個別に言及されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "AMSC、Furukawa、Bruker、Fujikura、Sumitomo Electric、SuNam、SHSC、Innost、THEVA、STI、Sam Dongといった各企業について、企業情報、ビスマス系超電導線の製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、および最新の動向が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：ビスマス系超電導線の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "日本や中国はマグレブ技術の導入をリードしており、日本のSCMaglevや中国の上海マグレブはその代表的な例です",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Ltd.",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries Ltd.",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "American Superconductor Co. · evico GmbH · Hitachi Ltd. · Superconductor Technologies Inc. · Hyper Tech Research Inc.",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場をリードする企業は、American Superconductor Co.、evico GmbH、Hitachi Ltd.、Superconductor Technologies Inc.、Hyper Tech Research Inc.などである",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要なNbTi超電導線メーカーには、フジクラ、古河電気工業、ブルカー、ルヴァタ、サムドンなどが含まれます",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までのAPACにおける地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の販売量と収益、タイプ別の販売量、アプリケーション別の販売量が詳細に示されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、富士クラ、古河電気工業、ブルカー、ルヴァータ、サムドン、スーパーコン、スーパーパワー、キスワイヤーアドバンステクノロジーといった主要企業の詳細な分析が記載されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：NbTi超電導線の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://newscast.jp/news/6099628",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インド、オーストラリアがエレクトロニクス、電力機器、鉄道、核融合、先端材料の強力なエコシステムを兼ね備えています",
+    "url": "https://newscast.jp/news/6099628",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd.",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industriesは、2025年に16%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries、Bruker Energy & Supercon Technologies (BEST)、Luvata / Mitsubishi Materials、中国企業（SHSC、BSCCO、INEST）、Fujikura / SuperPower",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2025年にアジア太平洋地域の売上高の28.9%を占め、2035年には2億4,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたる超電導分野の専門知識、確立された線材製造基盤、先進輸送および核融合関連の取り組みへの参画が、日本の市場における役割を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industriesは、2025年に市場売上高の約16%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の参加企業には、American Superconductor、Fujikura Ltd.、Furukawa Electric Co. Ltd.、High Temperature Superconductors Inc.、Hitachi Limited、HTS-110 Limited、LS Electric、MetOx Technologies、New England Tubing Technologies、Nexans、Prysmian、Sam Dong Co. Ltd、SuNAM Co. Ltd.、Supercon Inc.、SuperPower Inc.、THEVA、Western Superconducting Technologies Co. Ltd.が含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWCCとFaraday Factory Japan、データセンター向けケーブルに関する覚書に署名（2026年8月4日）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWCC CorporationとFaraday Factory Japanは、データセンター用途の超伝導ケーブルの商業供給を推進するための覚書を締結した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Faraday Factory Japanとの覚書",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場の主要企業には、Sumitomo Electric Industries、Bruker Energy & Supercon Technologies（BEST）、Luvata / Mitsubishi Materials、中国企業（SHSC、BSCCO、INEST）、Fujikura / SuperPowerなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材｜All to brighten the world 古河電工",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工の超電導の研究は1963年に始まり、現在はMRIをはじめとする医療機器やフュージョンエネルギー（核融合によるエネルギー）・高エネルギー物理といった先端分野に向けて、超電導線材の開発・製造を行っている",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工の線材は、超電導層を高強度の金属で包んだ構造で、大電流を安定して流すことができ、高い信頼性を持つ",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材には液体ヘリウム温度（約4K、マイナス269℃）で超電導状態になる低温型と、液体窒素温度（約77K、マイナス196℃）で超電導状態になる高温型の2種類があり、古河電工ではその両方を取り扱っている",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工の超電導線材の開発は、1963年に始まりました",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "私自身、学生時代から超電導の研究に取り組んできましたが、長らく超電導線材分野を牽引してきた古河電工で研究ができることに、身が引き締まる思いです",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "私が古河電工を志望した理由は、高専時代からずっと続けてきた超電導の研究にあります",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな未来を目指して、古河電工はこれからも「All to brighten the world」を体現していく",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "日本が得意とする素材開発と機器開発の両輪で世界一の高温超伝導サプライチェーンを目指す",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、世界的に技術開発競争が激化するフュージョンエネルギーの最重要分野である超伝導マグネット開発において、Helical Fusionによる製造・実証を推進し、日本企業による素材開発から装置製作までのサプライチェーン強化に貢献します",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "もあり、今後自動車産業のように日本が世界をリードする巨大産業を創出できる可能性がある一方、国際的な開発競争も激化しています",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "これまで日本企業は超伝導テープ線材開発のグローバルリーダーとして存在感を発揮してきました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "更に、高度な加工技術を持つ日本のものづくり企業、そしてフジクラのように高性能な材料の開発知見・量産体制を誇るサプライヤー企業と強力な連携体制を構築することが重要であり、今回の調達合意も開発への強力な追い風となります",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・関西万博連動イベント「Swiss-Japan Energy Days 2025」に登壇しました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級のエネルギーの展示会「SMART ENERGY WEEK」で基調講演に登壇・ブース出展しました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "日本初の核融合の大型展示会「FUSION POWER WORLD」で講演・ブース展示を行いました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "NTT東日本のクラウドソリューション導入事例として、AWS活用事例が紹介されました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "次世代クリーンエネルギーの実用化に向け、Helical Fusionとアオキスーパーが日本初のフュージョンエネルギーによる電力売買契約を締結",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "2月28日のJapan Energy Summitに当社代表取締役の田口が登壇いたします",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞に掲載されました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "超伝導材料市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業は、2025年に33.1%超の市場シェアを占め、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は合計で、2025年に52.9%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "NbTi は2025年に超電導材料の総売上の48.5%を占めた一方、最終市場である MRI の更新サイクルは成熟段階に入っている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "LTS — その他の2025年の市場規模は1,300万米ドルで、2035年には市場の1.2%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "MgB₂は2025年に市場売上高の7.7%を占め、2035年には1億5,500万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の高温超伝導体（HTS）は、2025年に市場売上高の1.7%を占め、2035年には2,200万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "線材・テープは2025年に4億9,000万米ドルの市場規模を記録し、2035年には市場の47.8%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルク材料は2025年に市場売上高の6.9%を占め、2035年には9.5%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他は2025年に市場売上高の5.6%を占め、2035年には4.1%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療画像診断（MRI/NMR）は2025年に2億7,800万米ドルの市場規模となり、2035年には市場の19.3%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "また、ビスマス系超電導線のタイプ別（BSCCO、ReBCO、その他）のセグメント分析が示されており、2021年から2026年までのタイプ別の世界販売市場シェア、収益と市場シェア、および販売価格が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アプリケーション別（電力設備、産業用モーター、医療、その他）のセグメント分析も含まれており、同じく2021年から2026年までのアプリケーション別の世界販売市場シェア、収益と市場シェア、および販売価格が要約されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の年間販売量と販売市場シェア、年間収益と収益市場シェア、および販売価格が分析されています",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導材料市場の規模、シェア、トレンド分析レポート：製品タイプ別（低温超伝導材料（LTS）、高温超伝導材料（HTS））、用途別（磁気共鳴画像診断（MRI）、電力システム、粒子加速器、その他）、エンドユーザー別（ヘルスケア、エネルギー、輸送、エレクトロニクス、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に36.5%の市場シェアを占め、超伝導材料市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体変圧器市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "スピーカー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "KNX製品市場規模、シェア、成長率、分析、レポート（2034年）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロ電気機械システム市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "水素検知市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "また、NbTi超電導線がタイプ別（多芯線、細線）に分類され、2021年から2026年までの世界販売量市場シェア、収益市場シェア、販売価格がタイプ別に分析されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの各企業の年間販売量とその市場シェア、年間収益とその市場シェア、販売価格がデータとして提供されています",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導ワイヤー：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材の市場規模、シェア、成長分析：タイプ別、地域別－業界予測（2026～2033年）",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導ワイヤ：世界市場シェアとランキング、総売上高および需要予測（2025年～2031年）",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場- 世界の産業規模、シェア、動向、機会、予測、セグメント別、用途別、材料タイプ別、エンドユーザー産業別、形態別、地域別、競合別、2020-2030年",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "pass": 3
+   },
+   {
+    "quote": "超伝導線材市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industriesは、2025年に16%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "低温セグメントは2025年に超電導線材市場の売上高の64.0%を占め、2035年までに20.6億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "中温超伝導線材は2025年の売上高の2.0%を占め、2035年には市場規模が7,500万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は2025年の市場売上高の42.0%を占め、2035年には13億1,000万米ドルの売上高を生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材市場の用途別シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング向け線材需要は、2025年の売上高シェア7.0%から拡大し、2035年までに5億6,100万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛向け線材需要は、2025年の市場シェア6.0%から拡大し、2035年までに1億8,700万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途は、2035年までに市場売上高の5.0%を占め、2026〜2035年に約13.9%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別超電導線材市場シェア（2025年・2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米の超電導線材市場は世界全体の売上高の39.0%を占め、2035年には14億6,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、英国は欧州売上高の18.6%を占め、2035年にはその割合が20.0%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、アジア太平洋地域の超電導線材市場は世界全体の売上高の27.0%を占め、2026〜2035年に約10.9%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の2025年の売上高は1億9,500万米ドルで、2035年にはアジア太平洋地域の売上高の49.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1981年にクライオポンプの製造・販売を事業の軸としてスタートし、有機ELディスプレイや照明、半導体、パワーデバイス、センサー、光学膜など多種多様な製造及び研究設備にご採用頂き、長年多くのシェアを維持してきました",
+    "url": "https://www.csj.or.jp/caj/supporting_member/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan accounted for 28.9% share of Asia Pacific revenue in 2025 and is projected to reach USD 240 million by 2035. Japan's longstanding superconductivity expertise, established wire-manufacturing base, and participation in advanced transport and fusion initiatives underpin its market role. Demand is supported by technical continuity, although major project procurement can produce uneven timing.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa accounted for 5.0% of global revenue in 2025 and is projected to reach USD 182 million by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia accounted for 19.4% of Middle East & Africa revenue in 2025 and is projected to reach USD 36 million by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Superconducting Wire Market share structure is moderately concentrated, with the top five participants accounting for approximately 44% of revenue in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the superconducting wire market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct dominates with 68.0% due to strong buyer preference for customized supply and technical support.",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe dominates with 43.9% due to strong medical, research, and energy technology demand.",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominates the market with over 35% share, driven by demand for",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. Which region dominates the superconducting wire market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "超電導線材 の 市場規模 ・シェア | 成長 レポート [2034] — 超電導線材 の 市場規模 ・シェア | 成長 レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 力",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4-111019",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材 市場規模・予測レポート 2026〜2035年 — 超電導線材 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > superco...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "超電導線材 ｜All to brighten the world 古河電工 — 超電導線材 ｜All to brighten the world 古河電工 古河電気工業株式会社 https://www.furukawaelectric.com > interview03",
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Report 2025 - MarketsandMarkets — Superconducting Wire Market Report 2025 - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/superconducting-wire-market-226116096.html",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size , Forecasts Report 2026-2035 — Superconducting Wire Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > superc...",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size , Growth Analysis 2035 — Superconducting Wire Market Size , Growth Analysis 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size , Share | CAGR of 9.6% — Superconducting Wire Market Size , Share | CAGR of 9.6% Market.us https://market.us > report > supercond...",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market to Reach USD 3.4 Billion by ... — Superconducting Wire Market to Reach USD 3.4 Billion by ... LinkedIn https://www.linkedin.com > pulse > s...",
+    "url": "https://www.linkedin.com/pulse/superconducting-wire-market-reach-usd-34-billion-2035-growing-hrekf",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size, Growth Analysis 2035 — Superconducting Wire Market Size, Growth Analysis 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "pass": 3
+   },
+   {
+    "quote": "India Superconducting Wire Market (2025-2030) — India Superconducting Wire Market (2025-2030) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/superconducting-wire-market/india",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size, Share | CAGR of 9.6% — Superconducting Wire Market Size, Share | CAGR of 9.6% Market.us https://market.us > report > supercond...",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Global Companies in Superconducting Wire Market ... — Top 50 Global Companies in Superconducting Wire Market ... Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-global-companies-in-superconducting-wire-market-2025-strategic-overview-and-future-trends-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Wire Market Size And Share Report, 2030 — Superconducting Wire Market Size And Share Report, 2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ダボスで「Litestream Impact Investment Gathering During World Economic Forum 2025」に登壇します",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズA エクステンションラウンドで約8.7億円の資金調達完了を発表しました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "成毛眞氏、藤野英人氏、Sony Innovation Fundなどから6,500万円の資金調達を実施しました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "seedラウンドにて約８億円の資金調達を実施いたしました",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の商用利用可能な核融合炉実現を目指すHelical Fusion、2030年代に「実用発電」を達成する「Helix Program」および資金調達を発表",
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "pass": 3
+   },
+   {
+    "quote": "Global quantum computing sector received USD 1.59 billion in investment in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market was valued at USD 523 million in 2025 and is projected to reach USD 1.37 billion by 2035. The country combines clinical imaging demand with accelerator, national laboratory, and quantum-computing activity. Its breadth of end markets supports diversified demand, though larger research and fusion orders remain sensitive to public funding and project schedules.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to expand at an approximately 18.5% CAGR (2026–2035) and reach USD 76 million by 2035. India's growth reflects expanding diagnostic capacity, research investment, and growing national interest in quantum technologies. The opportunity starts from a developing base, making practical procurement capacity and project execution more important than headline program announcements.",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth is driven by grid modernization, clean-energy integration, and higher investment in advanced conductors. IEA’s Electricity 2026 report noted that more than",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", storage, and large-load projects were stalled in grid queues worldwide, while annual grid investment must rise by about 50% from today’s",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CERN reported in February 2026 that High-Luminosity LHC work included niobium-tin superconducting magnets for advanced accelerator applications. Europe’s power-grid investment needs also supported future demand, as Reuters reported in September 2025 that the EU requires",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America (holding a dominant 35.3% share in 2025 supported by advanced healthcare infrastructure and defense funding)",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is anticipated to witness a CAGR of 9.1% over the forecast period. It is expected to be driven by the energy transmission and nuclear energy funding projects that are in place within the U.S.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This number includes all funds raised by the Company in this round on Netcapital. This is an offering of Common Stock, under registration exemption 4(a)(6), in Cutting Edge Superconductors, Inc. . This offering must reach its target of at least $10,000 by its offering deadline of January 29, 2027 at 11:59pm ET. If this offering does not reach its",
+    "url": "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to announce that Cutting Edge Superconductors has now raised over $400,000.",
+    "url": "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "pass": 3
+   },
+   {
+    "quote": "We would like to remind you that the minimum investment amount to receive a custom Adidas T-shirt featuring our company logo was reduced to $500.",
+    "url": "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "pass": 3
+   },
+   {
+    "quote": "We have reduced the minimum investment amount to $500 to receive an Adidas T‑shirt featuring our company logo.",
+    "url": "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to share that we have prepared Adidas T-shirts featuring our company logo for all investments of $1,000 or more.",
+    "url": "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "pass": 3
+   },
+   {
+    "quote": "HOUSTON WINS $5 MILLION IN DOE FUNDING FOR HIGH PERFORMANCE SUPERCONDUCTING TAPE PROJECTS",
+    "url": "https://stories.uh.edu/2024-doe-funding-superconductivity/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Department of Energy recently announced a $10 million investment in three projects to develop novel technologies to manufacture high-performance superconducting tapes in the United States. Two of the projects are built on the foundations of cutting-edge research from the University of Houston.",
+    "url": "https://stories.uh.edu/2024-doe-funding-superconductivity/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Houston-based MetOx Technologies Inc. received $3 million in funding for its project “MetOx Low Cost MOCVD” to advance proprietary manufacturing technology for its HTS wire. The project aims to improve equipment throughput, material efficiency and tape performance – resulting in a more cost-effective HTS product for the renewable power generation and transmissions markets.",
+    "url": "https://stories.uh.edu/2024-doe-funding-superconductivity/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "9.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "quote": "また、2026年から2035年にかけて年平均成長率（CAGR）9.4%で拡大し、2035年には18億4,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "1.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "quote": "NbTiの2025年の市場規模は3億6,400万米ドルで、2026〜2035年の年平均成長率（CAGR）は1.9%と予測される"
+   },
+   {
+    "value": "11.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "quote": "Nb3Snの市場規模は、2026〜2035年に年平均成長率（CAGR）11.0%で拡大し、2035年までに3億1,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "16.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "quote": "REBCO/YBCOは、2035年までに市場規模が7億4,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）16.3%で拡大すると予測されています"
+   },
+   {
+    "value": "7.6",
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "quote": "世界のビスマス系超電導線市場規模は、2025年の3億8,700万米ドルから2032年には6億3,800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.6%で成長すると見込まれています"
+   },
+   {
+    "value": "11.15",
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "quote": "世界の超伝導材料市場規模は、2025年には101億5000万米ドルと評価され、2026年の112億8000万米ドルから2034年には262億8000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.15%となる見込みです"
+   },
+   {
+    "value": "7.9",
+    "url": "https://newscast.jp/smart/news/1296262",
+    "quote": "世界のNbTi超電導線市場規模は、2025年の4億2,300万米ドルから2032年には7億1,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.9%で成長すると見込まれています"
+   },
+   {
+    "value": "9.83",
+    "url": "https://newscast.jp/news/6099628",
+    "quote": "高温超伝導線材市場は、2032年までにCAGR9.83％で16億8,425万米ドル成長すると予測されています"
+   },
+   {
+    "value": "9.26",
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "quote": "世界の超電導線材の市場規模は、2025年に17億9,704万6,000米ドルと推計され、予測期間中にCAGR9.26%で成長し、2030年には27億9,862万2,000米ドルに達すると予測されています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "quote": "2026年から2035年にかけて年平均成長率約10%で拡大し、2035年には37億4,000万米ドルに達する見込みである"
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "quote": "2022〜2025年の実績期間における世界の超電導線売上高の動向に関するGMIの評価によると、市場の年平均成長率（CAGR）は9.6%を記録した"
+   },
+   {
+    "value": "12.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "quote": "高温超伝導線材の市場規模は2025年に4億9,300万米ドルとなり、2026〜2035年に年平均成長率（CAGR）約12.9%で拡大すると予測される"
+   },
+   {
+    "value": "11.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "quote": "エネルギー用途は2026〜2035年に年平均成長率（CAGR）約11.9%で拡大すると予測され、2025年の市場規模は3億400万米ドルであった"
+   },
+   {
+    "value": "12.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "quote": "核融合向け線材の需要は2026〜2035年に年平均成長率（CAGR）約12.0%で拡大し、2035年には市場規模が5億2,400万米ドルに達すると予測される"
+   },
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "quote": "The Superconducting Wire Market was valued at USD 1.45 billion in 2025 and is projected to grow to USD 1.58 billion in 2026, advancing at a compound annual growth rate of approximately 10% from 2026 to 2035, to reach USD 3.74 billion by 2035."
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "quote": "Based on GMI's assessment of global superconducting wire revenue trends over the 2022–2025 historic period, the market recorded a CAGR of 9.6%, reflecting durable demand from MRI system manufacturing, accelerator and research programs, and the early commercial ramp of quantum computing hardware—cond"
+   },
+   {
+    "value": "8",
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "quote": "As per Market Research Future analysis, the Superconducting Wire Market Size was estimated at 1.32 USD Billion in 2024. The superconducting wire industry is projected to grow from 1.434 USD Billion in 2025 to 3.272 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 8% during the"
+   },
+   {
+    "value": "9.6",
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "quote": "Superconducting Wire Market Size, Share | CAGR of 9.6%"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "quote": "In the year 2025, the Superconducting Wire Market was valued at USD 1.51 billion. The size of this market is expected to increase to USD 2.92 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 9.9%."
+   },
+   {
+    "value": "10.58",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "quote": "CAGR) of 10.58%"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "quote": "High-Temperature Superconductor (HTS - CAGR of 14.3%)"
+   },
+   {
+    "value": "13.8",
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "quote": "Energy & Power (CAGR of 13.8%)"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4-111019",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4338898",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1296262",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6099628",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/superconducting-wire-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/superconducting-cables-market-105098",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%AB%98%E6%B8%A9%E8%B6%85%E9%9B%BB%E5%B0%8E%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%B8%82%E5%A0%B4-101299",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/6096/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.furukawaelectric.com/cm/interview03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.csj.or.jp/caj/supporting_member/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/superconducting-wire-market-226116096.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/superconducting-wire-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/superconducting-wire-market-111019",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reanin.com/reports/superconducting-wires-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/superconducting-wire-market/india",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-50-global-companies-in-superconducting-wire-market-2025-strategic-overview-and-future-trends-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/isentroniq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stories.uh.edu/2024-doe-funding-superconductivity/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantumcomputingreport.com/isentroniq-raises-e7-5m-8-7m-usd-to-advance-wiring-technology-for-superconducting-qubits/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "超伝導線材 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4-111019",
+    "https://www.atpress.ne.jp/news/4338898",
+    "https://straitsresearch.com/jp/report/superconducting-materials-market",
+    "https://jp.linkedin.com/pulse/in-depth-%E9%AB%98%E6%B8%A9%E8%B6%85%E9%9B%BB%E5%B0%8E%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-market-report-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%8A%E3%82%88%E3%81%B3%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7cagr-7lwye",
+    "https://newscast.jp/smart/news/1296262",
+    "https://www.sphericalinsights.com/jp/reports/superconducting-wire-market",
+    "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "https://japan.zdnet.com/release/31217906/",
+    "https://www.mordorintelligence.com/ja/industry-reports/superconducting-wire-market"
+   ]
+  },
+  {
+   "query": "超伝導線材 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/superconducting-materials-market",
+    "https://newscast.jp/news/6099628",
+    "https://www.atpress.ne.jp/news/4338898",
+    "https://www.sphericalinsights.com/jp/reports/superconducting-wire-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/superconducting-cables-market-105098",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%AB%98%E6%B8%A9%E8%B6%85%E9%9B%BB%E5%B0%8E%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%B8%82%E5%A0%B4-101299",
+    "https://www.gii.co.jp/report/ksi1627594-global-superconducting-wire-market-forecasts-from.html",
+    "https://www.gminsights.com/ja/industry-analysis/high-temperature-superconductors-market",
+    "https://www.marketreportsworld.com/jp/market-reports/superconductive-wire-market-14717995",
+    "https://www.fuji-keizai.co.jp/report/"
+   ]
+  },
+  {
+   "query": "超伝導線材 参入 企業 国内",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/superconducting-wire-market",
+    "https://metoree.com/categories/6096/",
+    "https://www.furukawaelectric.com/cm/interview03/",
+    "https://www.helicalfusion.com/post/%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%99%AE%E5%8F%8A%E3%81%AE%E9%8D%B5%E3%80%8C%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%80%8D%E5%9F%BA%E5%B9%B9%E6%9D%90%E6%96%99%E3%82%92%E3%83%95%E3%82%B8%E3%82%AF%E3%83%A9%E3%81%8B%E3%82%89%E8%BF%BD%E5%8A%A0%E8%AA%BF%E9%81%94%E3%80%81%E6%88%A6%E7%95%A5%E7%89%A9%E8%B3%87%E3%81%AE%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%A7%8B%E7%AF%89%E3%81%B8",
+    "https://www.csj.or.jp/caj/supporting_member/index.html",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%AB%98%E6%B8%A9%E8%B6%85%E9%9B%BB%E5%B0%8E%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%B8%82%E5%A0%B4-101299",
+    "https://www.fujikura.co.jp/products/superconductors/",
+    "https://bunken.rtri.or.jp/doc/fileDown.jsp?RairacID=0001003431",
+    "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC062QO0W6A300C2000000",
+    "https://note.com/yhresearch_news/n/nd0e02a445790"
+   ]
+  },
+  {
+   "query": "superconducting wire market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/superconducting-wire-market-226116096.html",
+    "https://www.gminsights.com/industry-analysis/superconducting-wire-market",
+    "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "https://market.us/report/superconducting-wire-market/",
+    "https://www.fortunebusinessinsights.com/superconducting-wire-market-111019",
+    "https://www.linkedin.com/pulse/superconducting-wire-market-reach-usd-34-billion-2035-growing-hrekf",
+    "https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report",
+    "https://www.businessmarketinsights.com/reports/superconducting-wire-market",
+    "https://www.sphericalinsights.com/blogs/top-50-global-companies-in-superconducting-wire-market-2025-strategic-overview-and-future-trends-2024-2035",
+    "https://www.mordorintelligence.com/industry-reports/superconducting-wire-market"
+   ]
+  },
+  {
+   "query": "superconducting wire market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/superconducting-wire-market-7307",
+    "https://www.fortunebusinessinsights.com/superconducting-wire-market-111019",
+    "https://www.reanin.com/reports/superconducting-wires-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/superconducting-wire-market/india",
+    "https://www.linkedin.com/pulse/superconducting-wire-industry-insights-report-analyzing-market-ilgge",
+    "https://market.us/report/superconducting-wire-market/",
+    "https://www.marketdataforecast.com/market-reports/superconducting-wire-market",
+    "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report",
+    "https://www.mordorintelligence.com/industry-reports/superconducting-wire-market"
+   ]
+  },
+  {
+   "query": "superconducting wire startup funding 2025",
+   "results": [
+    "https://www.strategicmarketresearch.com/market-report/superconducting-wire-market",
+    "https://netcapital.com/companies/cuttingedgesuperconductorsinc",
+    "https://www.sphericalinsights.com/blogs/top-50-global-companies-in-superconducting-wire-market-2025-strategic-overview-and-future-trends-2024-2035",
+    "https://startupintros.com/orgs/isentroniq",
+    "https://www.grandviewresearch.com/industry-analysis/superconducting-wire-market-report",
+    "https://stories.uh.edu/2024-doe-funding-superconductivity/index.html",
+    "https://quantumcomputingreport.com/isentroniq-raises-e7-5m-8-7m-usd-to-advance-wiring-technology-for-superconducting-qubits/",
+    "https://www.sec.gov/Archives/edgar/data/1621902/000166919125000223/offeringstatement.pdf",
+    "https://www.fortunebusinessinsights.com/superconducting-wire-market-111019",
+    "https://www.datacenterdynamics.com/en/news/veir-raises-75m-to-pilot-superconducting-transmission-solution-at-data-centers/"
+   ]
+  }
+ ],
+ "missing": {}
+}

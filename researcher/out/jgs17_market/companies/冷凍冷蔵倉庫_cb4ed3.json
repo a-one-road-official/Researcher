@@ -1,0 +1,1927 @@
+{
+ "name": "冷凍冷蔵倉庫",
+ "en": "cold storage",
+ "aliases": [
+  "コールドチェーン"
+ ],
+ "context": "15 港湾ロジ ③次世代型倉庫",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:02:40.808754+00:00",
+ "evidence": {
+  "成長率": [
+   {
+    "quote": "例えば、ある調査会社の推計では、2024年における市場規模はおよそ200億米ドル台とされ、2030年前後に向けて年平均約6%で成長すると見込まれています（※1）",
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "別の調査においても、市場規模は2024年時点で200億米ドル前後とされ、年率4〜5%程度で拡大するとの見通しです（※2）",
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は、すでに一定の規模に達した成熟市場とされる一方で、後述する食品ECや医薬品の需要拡大を背景に、今後も着実な成長が見込まれています（数値は各調査会社の2024〜2025年時点の推計）",
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査では、世界市場は2024年時点で数千億米ドル規模とされ、今後も年平均二桁台で拡大すると予測されています（※）",
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に13.15%の年間平均成長率(CAGR)で、2022年の1,205億ドルから2032年までに4,146億ドルに成長すると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2022-2032 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CCを要する冷凍食品の需要拡大（図表2）や、食",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "冷凍冷蔵倉庫の需要が急拡大している背景には、大きく2つの社会的変化がある",
+    "url": "https://www.jll.com/ja-jp/insights/cold-storage-supply-shortage-japan",
+    "pass": 3
+   },
+   {
+    "quote": "1つは、冷凍食品の日常化と品質向上による消費量拡大",
+    "url": "https://www.jll.com/ja-jp/insights/cold-storage-supply-shortage-japan",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）は12.3％を",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、消費者が免疫力を高めるためにより健康的な食品を求めたため、生鮮食品の売上は2020年の初期に前年比で20％以上増加した",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月2日に発表されたこの買収は、リネージュ・ロジスティクスの欧州市場における拡大戦略における重要なマイルストーンとなる",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間：2025年～2032年 CAGR：",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2031年までの米国冷蔵市場のCAGRは何ですか?",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の冷蔵倉庫市場規模は、2025年には1,742億8,000万米ドルと評価され、2026年の2,042億6,000万米ドルから2034年には7,271億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、Ocadoの温度管理された顧客配送センターは、地域配送能力の拡大を目的として設計されており、ブリストルの施設は容量を40%増加させています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "生鮮食品向けの温度管理輸送と統合流通ネットワークの拡大を背景に、予測期間中に年平均成長率（CAGR）13.9%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品市場は、ワクチン、生物製剤、特殊医薬品、その他のデリケートな医薬品の温度管理保管に対する需要の高まりを背景に、予測期間中に年平均成長率（CAGR）15.2%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "民間部門は、専門的な冷蔵保管施設、柔軟な容量、および技術を活用した温度管理オペレーションへの民間投資に牽引され、予測期間中に年平均成長率（CAGR）13.1%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の冷蔵倉庫市場は、予測期間中に年平均成長率（CAGR）15.3%で成長すると予想されており、地域市場の中で最も急速に成長している地域となっています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "販売地向け公共型食品冷蔵倉庫を中心とした中国の冷蔵倉庫総容量は、2億6700万立方メートルとなり、前年比5.53％増加した",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": "都市別では、南寧の空室率が32％と前年比7ポイント上昇したのに対し、厦門は28％と8ポイント低下した",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": "特に、食品ECや外食産業の拡大により、24時間対応や多温度帯管理、ピッキング自動化などのニーズが高まっています",
+    "url": "https://makasenahare.biz/logistics/warehousing/cold/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Deep-frozen storage (below −18°C) is expanding at a CAGR of 13.1%, reflecting surging demand for biologic drug storage and premium frozen food categories.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical and healthcare applications are growing at a CAGR of 14.8%, the fastest among all end-use segments.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": ". Specialized pharmaceutical cold storage commands revenue per pallet position 2–3 times higher than food-grade facilities. Operators who invest in validated environments, real-time temperature logging, and regulatory audit readiness can capture premium pricing in a sub-segment growing at nearly 15% CAGR.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 13.2% (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 11.8% (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 9.8%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 10.8%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 15.6%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 10.2%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 11.4%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 13.5%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 13.1%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 14.8%",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "The global cold storage market size is valued at USD 214.04 billion in 2026 and is anticipated to reach USD 462.63 billion by 2035 and is poised to grow at a CAGR of 9.38% from 2026 to 2035.The cold storage market is driven by rising demand for frozen foods, pharmaceutical storage, e-commerce expansion, advanced refrigeration technologies, and global trade.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is estimated to expand the fastest CAGR of 10.46% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.38%",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "size reached USD 54.3 billion in 2025 and is predicted to be worth around USD 126.23 billion by 2035, growing at a CAGR of 8.8% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific cold storage market size was valued USD 35520.82 million in 2024 and expected to reach around USD 97,364.2 million by 2034 with a CAGR of 11.86% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America cold strorage market size was valued USD 59,324.9 million in 2024 and is projected to hit around USD 1,48,652.7 million by 2034 with a registered CAGR of 10.75% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe cold storage market size was valued USD 43,403.7 million in 2024 and is increasing over USD 1,09,823.8 million by 2033 with a CAGR of 10.87% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: What will be the CAGR of global cold storage market?",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global cold storage market is expected to grow at a CAGR of 9.38% over the forecast period 2026 to 2035",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.6% from 2026 to 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 13.6%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.6% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. cold storage market is expected to grow at a compound annual growth rate of 13.6% from 2026 to 2033 to reach USD 135.84 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.4%",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The market previously advanced at a historical CAGR of 7.1% between 2020 and 2025, climbing from US$31.0 billion in 2020. Demand for temperature-controlled warehousing is being propelled primarily by the structural shift toward online grocery fulfilment, sustained frozen food consumption, and the build-out of pharmaceutical cold chains.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Southwest is the fastest-growing region at a 9.4% CAGR (2026-2033), propelled by Texas border produce imports through Laredo and Pharr and Dallas-Fort Worth's rapid rise as a national food distribution hub.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceuticals is the fastest-growing application at a 10.2% CAGR (2026-2033), as FDA-approved biologics, vaccines, and GLP-1 therapies require validated 2°C to 8°C and ultra-low temperature storage capacity.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Frozen storage also offers operators superior economics, as products tolerate longer dwell times and higher stacking densities than chilled goods. The chilled segment (0°C to 15°C) is the fastest-growing, estimated at a 9.3% CAGR (2026-2033), supported by fresh produce e-commerce, dairy products, ready-to-eat meals, and pharmaceutical products requiring 2°C to 8°C conditions.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2025-2032.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "コールドチェーン物流市場 サイズとシェア 2026-2035",
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "1パレット・1日単位から使えるシェア型のスポット保管サービス「",
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の冷蔵倉庫市場 規模、シェア、トレンド、予測 - 2032",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の冷蔵倉庫市場 規模、シェア、および新型コロナウイルス感染症の影響分析、倉庫タイプ別(公共、民間、準民間)、温度別(冷蔵、冷凍)、建設タイプ別(バルク保管、生産店舗、港湾)、用途別(食品および飲料、医薬品)および地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、2022 ～ 2032 年の分析と予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.4％、上位10社の合算は32.5％、上位20社では43.0％",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位企業による占有率は2015 年以降、減",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "605 32.5% 4.7上位10社",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊原料はなお４割程度を占めている",
+    "url": "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位20社合計",
+    "url": "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業冷蔵倉庫設備能力上位20社と兼業",
+    "url": "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米国の冷蔵倉庫市場規模、シェア、分析、2025-2032年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米国冷蔵倉庫市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ別では、冷蔵倉庫セグメントが2025年に59.3%と最も高い市場シェアを占めると推定される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、食品・飲料分野が2025年に38.6％と最も高い市場シェアを占めると推定される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫市場の規模、シェア、トレンド分析レポート：タイプ別（冷蔵倉庫、コールドチェーン物流）、用途別（食品・飲料、医薬品、化学薬品、その他）、所有形態別（民間、公共）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に35.8%の市場シェアを占め、冷蔵倉庫市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫は、食品、医薬品、その他の温度に敏感な商品など、生鮮食品向けの大規模な温度管理保管を提供できる能力により、2025年には市場シェアの58.4%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品・飲料分野は、流通ネットワーク全体で肉、魚介類、乳製品、冷凍食品、果物、野菜、飲料などを保存するための温度管理保管の必要性が継続的にあるため、2025年には市場シェアの61.5%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には民間部門が市場シェアの68.5%を占める見込みであり、これは投資の柔軟性の向上、運用管理の容易さ、そして民間事業者が顧客固有の保管要件に合わせた専門施設を開発できる能力によって支えられている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の冷蔵倉庫市場は、2025年には地域別シェアで35.8%と最大となり、これは同地域の広範な冷蔵食品流通ネットワークと確立された温度管理物流インフラを反映している",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の冷蔵倉庫市場は、食品、飼料、飲料の輸入が2025年には678億ポンドに達し、2024年から実質で4.8%増加すると見込まれており、生鮮果物と野菜が150億ポンドを占め、冷蔵倉庫と流通の需要が維持されています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の冷蔵倉庫市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に35.8%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラストマイル配送市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "フォークリフト市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナデポサービス市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "年間の建設プロジェクトは539件に上り、このうちコールドチェーン物流関連が206件と全体の38.22％を占めた",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": "需給を地域別にみると、華東、華北、華南の3地域で貸出量の7割超を占めた",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": "一方、借り需要も84％以上が同3地域に集中し、華東は全国の約半分を占めた",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": "中国物流上位50社の売上高、14年度は5.5％増加",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": "2026年最新の冷蔵倉庫業界ランキングでは、ニチレイ、マルハニチロ、横浜冷凍、C&Fロジホールディングス、ホウスイなど大手企業が上位を占めています",
+    "url": "https://makasenahare.biz/logistics/warehousing/cold/",
+    "pass": 3
+   },
+   {
+    "quote": "Frozen storage (−18°C to 0°C) captures the largest share of the Cold Storage Market at approximately 42% of global revenue, driven by processed food and seafood trade volumes.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "North America holds a 35% share of the Cold Storage Market, with the United States accounting for over 80% of regional revenue.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "The IEA estimates that refrigeration accounts for approximately 17% of global electricity consumption, with cold storage facilities representing a disproportionate share of industrial demand",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "35% market share (2025)",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "The United States dominates the North American Cold Storage Market with over 4.3 billion cubic feet of refrigerated warehouse capacity spread across approximately 1,500 facilities",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "32% market share",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "68% market share",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "5% market share",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "45% market share",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "By Warehouse Type, the private segment has held the largest market share of 63.65% in 2025.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the fish, meat, and seafood segment had the largest market share of 31.69% in 2025.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By storage, the facilities/services segment accounted for the largest share of 92.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By temperature range, the frozen (-18°C to -25°C) segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the food & beverages segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The facilities/services segment accounted for the largest share of 92.1% in 2025. The increasing need for outsourced temperature-controlled warehousing solutions across the food, beverage,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The frozen (-18°C to -25°C) segment accounted for the largest share in 2025, supported by sustained demand for long-shelf-life products such as",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The food & beverages segment dominated the market in 2025. The growth of cold storage in the food & beverage segment is driven by rising consumer demand for frozen foods,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The facilities/services segment accounted for the largest share of 92.1% in 2025. The facilities and services segment continues to dominate the U.S. cold storage market, driven by rising demand for end-to-end temperature-controlled logistics, increasing complexity in food supply chains, and the rapid expansion of e-commerce grocery fulfillment",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Refrigerated warehouses dominate the material type category with an 82% share in 2026, as roughly 3.7 billion cubic feet of USDA-tracked capacity anchors national food inventories and",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The pharmaceutical cold chain represents the highest-value frontier for temperature-controlled storage providers. The U.S. Food and Drug Administration (FDA) approved 50 novel drugs in 2024, a large share of them biologics, cell and gene therapies, and GLP-1 injectables that require strict 2°C to 8°C or ultra-low temperature handling.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The refrigerated warehouse segment dominates the material type category with an estimated 82% share of the U.S. cold storage market in 2026. Large-footprint refrigerated warehouses remain the backbone of the national food system because they consolidate multi-temperature chambers, blast freezing, and value-added services under one roof.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominates the demand for Cold Storage market in 2025?",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Southwest U.S. dominates the market with",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By storage type: Facilities/services segment held the largest market share of 89.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By temperature range: Frozen (-18°c to -25°c) segment held the largest market share of 63.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Food & beverages segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "世界の冷蔵倉庫市場規模は2032年までに4,146億ドル相当に",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に13.15%の年間平均成長率(CAGR)で、2022年の1,205億ドルから2032年までに4,146億ドルに成長すると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2022:",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "1,205億ドル",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "4,146億ドル",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の冷蔵倉庫市場規模、シェア、分析、2025-2032年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "[米国の冷蔵倉庫市場は、生鮮食品に対する需要の高まりと食品廃棄物削減への関心の高まりにより、今後5年間は安定した成長が見込まれる",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米国の低温貯蔵市場規模は2024年にUSD 41.38 bnで推定され、2023年にUSD 92.04 bnに達すると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米国冷蔵市場は、2024年から2031年にかけて12.1%を予定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の冷蔵倉庫市場規模は、2025年には1,742億8,000万米ドルと評価され、2026年の2,042億6,000万米ドルから2034年には7,271億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品市場は、ワクチン、生物製剤、特殊医薬品、その他のデリケートな医薬品の温度管理保管に対する需要の高まりを背景に、予測期間中に年平均成長率（CAGR）15.2%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の冷蔵倉庫市場は、2025年には地域別シェアで35.8%と最大となり、これは同地域の広範な冷蔵食品流通ネットワークと確立された温度管理物流インフラを反映している",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の冷蔵倉庫市場は、鶏肉の生産と消費の増加予測によって支えられており、米国農務省（USDA）はブロイラーの生産量が2026年の479億ポンドから2034年には534億ポンドに増加し、一人当たりの鶏肉消費量が103.6ポンドから110.4ポンドに増加すると予測しており、温度管理倉庫の需要が継続すると見込まれている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの冷蔵倉庫市場は、カナダ農務・農産食品省が2028年までに農業および農産食品の輸出額を1100億ドル、同分野の収益を2500億ドルにすることを目標としていることから恩恵を受けており、温度管理された保管および流通能力に対する将来の需要を支えている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の冷蔵倉庫市場は、予測期間中に年平均成長率（CAGR）15.3%で成長すると予想されており、地域市場の中で最も急速に成長している地域となっています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の冷蔵倉庫市場は、コールドチェーンインフラと物流活動の拡大に支えられており、冷蔵倉庫容量は2025年には2億6,700万立方メートルに達し、前年比5.53%増加、コールドチェーン物流需要は3億8,140万トンに達し、4.5%増加しており、温度管理された施設に対する需要が高まっています",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの冷蔵倉庫市場は、食品・飲料、農産物、水産物の輸出額を合わせて5年以内に1,000億米ドルを達成するという目標の恩恵を受けており、温度管理された保管・流通インフラに対する将来的な需要を支えている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の冷蔵倉庫市場は、2025年食料・農業・農村基本計画の恩恵を受けている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の冷蔵倉庫市場は、2025年11月までの実績である123億4000万米ドルに対し、政府が掲げる2030年までのKフード輸出額210億米ドルという目標を上回り、冷蔵倉庫や輸出志向型のコールドチェーン物流に対する将来的な需要を支えている",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年までの市場規模予測と成長要因",
+    "url": "https://makasenahare.biz/logistics/warehousing/cold/",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫市場は、2026年に向けて着実な成長が見込まれています",
+    "url": "https://makasenahare.biz/logistics/warehousing/cold/",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Size, Share & Global Report 2035",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "USD 185.0 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "USD 501.0 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": ". Governments across North America, Europe, and Asia have collectively committed over USD 12 billion in public-private cold chain infrastructure programs since 2022",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Chilled storage (0°C to 5°C) is valued at approximately USD 59.2 billion in 2025, underpinned by fresh produce and dairy distribution.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is on track to add approximately USD 95 billion in incremental market value between 2026 and 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Europe's Cold Storage Market is valued at approximately USD 51.8 billion in 2025, supported by the EU Green Deal's industrial decarbonization incentives.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Size and Forecast (2021–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "The FDA's updated Drug Supply Chain Security Act (DSCSA) enforcement timeline and the EU's GDP Annex 15 qualification requirements have pushed pharmaceutical manufacturers and third-party logistics providers to invest roughly USD 4.2 billion in GxP-compliant cold storage between 2023 and 2025",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "India's Pradhan Mantri Kisan SAMPADA Yojana allocated INR 6,000 crore (approximately USD 720 million) specifically for integrated cold chain development, targeting a 50% reduction in post-harvest losses for fruits and vegetables by 2028",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": ". China's Ministry of Commerce cold chain action plan calls for adding 40 million tons of cold storage capacity during the 14th Five-Year Plan period. These government programs directly expand the addressable Cold Storage Market by creating greenfield capacity in regions where organized cold chain penetration remains below 15%.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": ". Retrofit and replacement costs average EUR 1.2 million per facility, driving a wave of capital expenditure across approximately 7,000 Cold Storage Market facilities in the EU-27 through 2030.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cold Storage Market Size in 2026?",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 214.04 Bn",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 462.63 Bn",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global cold storage market size is valued at USD 214.04 billion in 2026 and is anticipated to reach USD 462.63 billion by 2035 and is poised to grow at a CAGR of 9.38% from 2026 to 2035.The cold storage market is driven by rising demand for frozen foods, pharmaceutical storage, e-commerce expansion, advanced refrigeration technologies, and global trade.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": ", the company was able to reduce its annual electricity consumption by 33 million kilowatt-hours, which saved them around US$4 million while maintaining required temperature standards.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 188.81 Billion",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 214.04 Billion",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2035",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 462.63 Billion",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cold Storage Market Revenue, By Warehouse Type, 2022-2024 (USD Million)",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cold Storage Market Revenue, By Temperature Type, 2022-2024 (USD Million)",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Cold Storage Market Revenue, By Application, 2022-2024 (USD Million)",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Cold Storage Market Size, Share | Industry Report 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Cold Storage Market Size, Share, Industry Report 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 48.23 billion in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "to reach USD 135.84 billion by 2033,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size: USD 48.23 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033 Projected Market Size: USD 135.84 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業、最新動向、競争インテリジェンス",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "投資回収期間が長く、安定した供給契約が不確実なため、新規参入企業や小規模事業者がこうした投資を正当化するのは困難である",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "貴社リストに掲載されている主要企業は、Lineage Logistics Holdings, LLC、Americold Logistics, LLC、Preferred Freezer Services、およびKloosterboer Groupです",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Startups in the cold storage market have become a major source of innovation through the development of AI-enabled cold chain analytics, temperature-monitoring applications, and automated storage solutions, which are helping to improve operational efficiencies while reducing risk.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Share Insights",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 4: Who are the major players operating in the cold storage market?",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the cold storage market are Americold Logistics, Lineage Logistics Holdings, Nichirei Corporation, Burris Logistics, Agro Merchants Group, Kloosterboer, United States Cold Storage, Tippmann Group, VersaCold Logistics Services.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in U.S. cold storage market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the U.S. cold storage market include AmericoldLogistics, Inc.; AGRO Merchants Group North America; Burris Logistics; Henningsen Cold Storage Co.; Lineage Logistics Holdings, LLC; Nordic Logistics; Preferred Freezer Services; VersaCold Logistics Services; United States Cold Storage; Wabash National Corporation",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Cold Storage market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Lineage Logistics, Americold, US Cold Storage, Inc., Interstate Warehousing, Inc., and FreezPak Logistics are the leading players in U.S. cold storage market.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Cold Storage Market",
+    "url": "https://www.futuremarketinsights.com/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies operating in the cold storage industry include Americold Logistics, Inc., LINEAGE LOGISTICS HOLDING, LLC, and Burris Logistics, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the cold storage market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the cold storage market include Americold Logistics, Inc.; LINEAGE LOGISTICS HOLDING, LLC; United States Cold Storage; Burris Logistics; NewCold; NICHIREI CORPORATION; Tippmann Group; CONESTOGA COLD STORAGE; FreezPak Logistics; and Confederation Freezers.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market, Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "B1. Company Profiles: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. Revenue per pallet / CBM benchmarking across leading players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "B5. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "Power System Simulator Market Size by Modules, Offering, End User, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the cold storage market?",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in this market are Americold Logistics, LLC, Lineage Logistics Holdings, LLC, Forte Cold Storage.",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cold storage market is highly fragmented, yet rapidly consolidating through mergers and global capacity expansions. Competition is being shaped not only by facility volume and location coverage, but increasingly by energy efficiency, automation levels, and digital visibility. Below are key players shaping the competitive landscape:",
+    "url": "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: Who are the major players in the cold storage market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "A3: Leading players include Lineage Logistics, Americold, NewCold, US Cold Storage, and Nichirei.",
+    "url": "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-cold-storage-market-in-the-world-in-2025-market-research-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CHAPTER 9 - Competitive Landscape",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Overview",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides detailed cross-comparison of key players across 10 performance parameters to identify competitive strengths and weaknesses.",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.verifiedmarketresearch.com/blog/leading-cold-storage-companies/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "食品を対象とした物流事業の一部を2024年4月に統合することで合意し、両社出資 の合弁会社エル・プラッ",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "物流戦略に合わせ、賃貸・借地・分譲・出資と4つの事業スキームから提案するDプロジェクトをはじめ、環境を考えたディーズ スマート ロジスティクスなど、付加価値を高める取り組みをおこなっています",
+    "url": "https://www.col-logi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・会社設立：1972年、水産、港運、冷蔵3業界の共同出資",
+    "url": "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 会社設立：1967年、冷蔵倉庫業を中心とした13社の共同出資",
+    "url": "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "25年の関連投資額は4854億元で、同2.38％増と伸び率は鈍化した",
+    "url": "https://www.logi-today.com/910896",
+    "pass": 3
+   },
+   {
+    "quote": ", while the Farm-to-Fork Strategy's target of halving food waste by 2030 is catalyzing investment in post-harvest cold chain infrastructure across Southern and Eastern Europe. The Netherlands and Belgium serve as critical gateway nodes for temperature-sensitive goods entering the EU via the Port of Rotterdam and Antwerp-Bruges.",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Vision 2030 food security investments",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": ". As the demand for refrigerated products transportation grows, so does the demand for value-added services like repacking and consolidation. Because of these higher expectations, 3PLs have a poorer return on investment for cold storage and must enhance their processes and facilities to stay viable.",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "the U.S. Department of Agriculture (USDA) and the U.S. Department of Health and Human Services (HHS) announced up to US$ 15 million in funding, including a US$ 7.5 million USDA grant program, to expand cold storage and distribution capacity for emergency food assistance organisations.",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Niche segment: Roughly 250 to 300 million cubic feet of refrigerated space in public warehouses nationwide (approx. 625 million sq ft of cold/frozen space including private facilities). This is <2% of total U.S. industrial real estate inventory by area. The sector historically saw <0.5% of CRE investment volume, though that is rising.",
+    "url": "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "Looking ahead, the refrigerated storage sector is positioned for steady expansion and significant evolution over the next decade. The strategic outlook is underpinned by structural growth drivers, rapid technology integration, and an investment landscape that continues to mature. Key elements of the 5 to 10 year outlook include:",
+    "url": "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "Americold Realty Trust announced a US$250 million investment for new cold storage facilities across the U.S., aimed at increasing warehouse capacity and serving growing demand from frozen and fresh food sectors.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "16.7. Regional investment attractiveness index (scoring model)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "19.7. Investment vs ROI in digital infrastructure",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "A23. Investment & ROI Feasibility Analysis",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "23.6. Investment attractiveness by segment (F&B vs pharma)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "23.7. Private equity & REIT investment trends in cold storage",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "24.8. Regulatory impact on sustainability investments and operating costs",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "25.7. Sustainability-driven investment trends",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "2.6. ESG, energy cost inflation, and sustainability mandates shaping infrastructure investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "C12. Investment & M&A Strategy",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "12.4. Investment in green energy and sustainable cold storage infrastructure",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "pass": 3
+   },
+   {
+    "quote": "The private sector accounted for a market share of 68.5% in 2025, supported by greater investment flexibility, operational control, and the ability of private operators to develop specialized facilities aligned with customer-specific storage requirements.",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The private sector is expected to grow at a CAGR of 13.1% during the forecast period, propelled by private-sector investment in specialized cold-storage facilities, flexible capacity, and technology-enabled temperature-controlled operations.",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "France’s cold storage market is supported by the fruit and vegetable sovereignty plan, which targets a 5-percentage-point improvement in domestic fruit and vegetable self-sufficiency by 2030 and a 10-point increase by 2035, encouraging investment in production, handling, and temperature-controlled storage capacity.",
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "announced a $127 million investment",
+    "url": "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lineage reported USD 141 Mn of recurring global-warehousing maintenance capital expenditure in 2025; refrigeration assets require continuing investment after opening.",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The investment case should separately test handling and storage because Lineage reported USD 2,060 Mn of storage revenue in 2025 alongside its service revenue.",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Specialized assets are needed for products specifying -90°C to -60°C; investment should follow contracted product requirements.",
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "コールドチェーンの現状と展望 ―国内食品流通における高度 ... — コールドチェーンの現状と展望 ―国内食品流通における高度 ... MITSUI & CO., LTD. PDF https://www.mitsui.com > 20241121_takashima",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "冷凍冷蔵倉庫 会社のおすすめ物流倉庫3社を紹介｜COLLOGI — 冷凍冷蔵倉庫 会社のおすすめ物流倉庫3社を紹介｜COLLOGI COLLOGI https://www.col-logi.com",
+    "url": "https://www.col-logi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Size , Share & Global Report 2035 — Cold Storage Market Size , Share & Global Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Companies, Size & Trends 2026-2035 — Cold Storage Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Cold Storage Market Size , Share | Industry Report 2033 — U.S. Cold Storage Market Size , Share | Industry Report 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "H1 2025 U.S. Cold Storage Market Overview - Newmark — H1 2025 U.S. Cold Storage Market Overview - Newmark Newmark https://www.nmrk.com > Insights",
+    "url": "https://www.nmrk.com/insights/market-report/h125-u-s-cold-storage-market-overview",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Cold Storage Market Size , Trends & Insights to 2033 — U.S. Cold Storage Market Size , Trends & Insights to 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Size , Trends & Industry Growth 2031 — Cold Storage Market Size , Trends & Industry Growth 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Forecast and Outlook 2026 to 2036 — Cold Storage Market Forecast and Outlook 2026 to 2036 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Size , Share & Trends Report 2026-2033 — Cold Storage Market Size , Share & Trends Report 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Cold Storage Market Size, Trends & Insights to 2033 — U.S. Cold Storage Market Size, Trends & Insights to 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Companies , Size & Trends 2026-2035 — Cold Storage Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Market Size, Share & Trends Report 2026-2033 — Cold Storage Market Size, Share & Trends Report 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "quote": "（CAGR）は12.3％を"
+   },
+   {
+    "value": "17.2",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "世界の冷蔵倉庫市場規模は、2025年には1,742億8,000万米ドルと評価され、2026年の2,042億6,000万米ドルから2034年には7,271億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.2%となる見込みです"
+   },
+   {
+    "value": "13.9",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "生鮮食品向けの温度管理輸送と統合流通ネットワークの拡大を背景に、予測期間中に年平均成長率（CAGR）13.9%で成長すると予想されている"
+   },
+   {
+    "value": "15.2",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "医薬品市場は、ワクチン、生物製剤、特殊医薬品、その他のデリケートな医薬品の温度管理保管に対する需要の高まりを背景に、予測期間中に年平均成長率（CAGR）15.2%で成長すると予想されています"
+   },
+   {
+    "value": "13.1",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "民間部門は、専門的な冷蔵保管施設、柔軟な容量、および技術を活用した温度管理オペレーションへの民間投資に牽引され、予測期間中に年平均成長率（CAGR）13.1%で成長すると予想されている"
+   },
+   {
+    "value": "15.3",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "アジア太平洋地域の冷蔵倉庫市場は、予測期間中に年平均成長率（CAGR）15.3%で成長すると予想されており、地域市場の中で最も急速に成長している地域となっています"
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "Deep-frozen storage (below −18°C) is expanding at a CAGR of 13.1%, reflecting surging demand for biologic drug storage and premium frozen food categories."
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "Pharmaceutical and healthcare applications are growing at a CAGR of 14.8%, the fastest among all end-use segments."
+   },
+   {
+    "value": "13.2",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 13.2% (2026–2035)"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 11.8% (2026–2035)"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 9.8%"
+   },
+   {
+    "value": "10.8",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 10.8%"
+   },
+   {
+    "value": "15.6",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 15.6%"
+   },
+   {
+    "value": "10.2",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 10.2%"
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 11.4%"
+   },
+   {
+    "value": "13.5",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "CAGR 13.5%"
+   },
+   {
+    "value": "9.38",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "The global cold storage market size is valued at USD 214.04 billion in 2026 and is anticipated to reach USD 462.63 billion by 2035 and is poised to grow at a CAGR of 9.38% from 2026 to 2035.The cold storage market is driven by rising demand for frozen foods, pharmaceutical storage, e-commerce expans"
+   },
+   {
+    "value": "10.46",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "Asia Pacific is estimated to expand the fastest CAGR of 10.46% between 2026 and 2035."
+   },
+   {
+    "value": "8.8",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "size reached USD 54.3 billion in 2025 and is predicted to be worth around USD 126.23 billion by 2035, growing at a CAGR of 8.8% from 2026 to 2035."
+   },
+   {
+    "value": "11.86",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "The Asia Pacific cold storage market size was valued USD 35520.82 million in 2024 and expected to reach around USD 97,364.2 million by 2034 with a CAGR of 11.86% from 2026 to 2035."
+   },
+   {
+    "value": "10.75",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "The North America cold strorage market size was valued USD 59,324.9 million in 2024 and is projected to hit around USD 1,48,652.7 million by 2034 with a registered CAGR of 10.75% from 2026 to 2035."
+   },
+   {
+    "value": "10.87",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "The Europe cold storage market size was valued USD 43,403.7 million in 2024 and is increasing over USD 1,09,823.8 million by 2033 with a CAGR of 10.87% from 2026 to 2035."
+   },
+   {
+    "value": "13.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "quote": "CAGR of 13.6% from 2026 to 2033."
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "quote": "CAGR of 8.4%"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "quote": "The market previously advanced at a historical CAGR of 7.1% between 2020 and 2025, climbing from US$31.0 billion in 2020. Demand for temperature-controlled warehousing is being propelled primarily by the structural shift toward online grocery fulfilment, sustained frozen food consumption, and the bu"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "8.4",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "quote": "8.4％、上位10社の合算は32.5％、上位20社では43.0％"
+   },
+   {
+    "value": "32.5",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "quote": "8.4％、上位10社の合算は32.5％、上位20社では43.0％"
+   },
+   {
+    "value": "43.0",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "quote": "8.4％、上位10社の合算は32.5％、上位20社では43.0％"
+   },
+   {
+    "value": "59.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "quote": "タイプ別では、冷蔵倉庫セグメントが2025年に59.3%と最も高い市場シェアを占めると推定される"
+   },
+   {
+    "value": "38.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "quote": "用途別では、食品・飲料分野が2025年に38.6％と最も高い市場シェアを占めると推定される"
+   },
+   {
+    "value": "35.8",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "北米は2025年に35.8%の市場シェアを占め、冷蔵倉庫市場を牽引しました"
+   },
+   {
+    "value": "58.4",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "冷蔵倉庫は、食品、医薬品、その他の温度に敏感な商品など、生鮮食品向けの大規模な温度管理保管を提供できる能力により、2025年には市場シェアの58.4%を占める見込みです"
+   },
+   {
+    "value": "61.5",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "食品・飲料分野は、流通ネットワーク全体で肉、魚介類、乳製品、冷凍食品、果物、野菜、飲料などを保存するための温度管理保管の必要性が継続的にあるため、2025年には市場シェアの61.5%を占める見込みです"
+   },
+   {
+    "value": "68.5",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "2025年には民間部門が市場シェアの68.5%を占める見込みであり、これは投資の柔軟性の向上、運用管理の容易さ、そして民間事業者が顧客固有の保管要件に合わせた専門施設を開発できる能力によって支えられている"
+   },
+   {
+    "value": "4.8",
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "quote": "英国の冷蔵倉庫市場は、食品、飼料、飲料の輸入が2025年には678億ポンドに達し、2024年から実質で4.8%増加すると見込まれており、生鮮果物と野菜が150億ポンドを占め、冷蔵倉庫と流通の需要が維持されています"
+   },
+   {
+    "value": "38.22",
+    "url": "https://www.logi-today.com/910896",
+    "quote": "年間の建設プロジェクトは539件に上り、このうちコールドチェーン物流関連が206件と全体の38.22％を占めた"
+   },
+   {
+    "value": "84",
+    "url": "https://www.logi-today.com/910896",
+    "quote": "一方、借り需要も84％以上が同3地域に集中し、華東は全国の約半分を占めた"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.logi-today.com/910896",
+    "quote": "中国物流上位50社の売上高、14年度は5.5％増加"
+   },
+   {
+    "value": "42",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "Frozen storage (−18°C to 0°C) captures the largest share of the Cold Storage Market at approximately 42% of global revenue, driven by processed food and seafood trade volumes."
+   },
+   {
+    "value": "35",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "North America holds a 35% share of the Cold Storage Market, with the United States accounting for over 80% of regional revenue."
+   },
+   {
+    "value": "80",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "North America holds a 35% share of the Cold Storage Market, with the United States accounting for over 80% of regional revenue."
+   },
+   {
+    "value": "17",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "The IEA estimates that refrigeration accounts for approximately 17% of global electricity consumption, with cold storage facilities representing a disproportionate share of industrial demand"
+   },
+   {
+    "value": "32",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "32% market share"
+   },
+   {
+    "value": "68",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "68% market share"
+   },
+   {
+    "value": "5",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "5% market share"
+   },
+   {
+    "value": "45",
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "quote": "45% market share"
+   },
+   {
+    "value": "63.65",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "By Warehouse Type, the private segment has held the largest market share of 63.65% in 2025."
+   },
+   {
+    "value": "31.69",
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "quote": "By Application, the fish, meat, and seafood segment had the largest market share of 31.69% in 2025."
+   },
+   {
+    "value": "92.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "quote": "By storage, the facilities/services segment accounted for the largest share of 92.1% in 2025."
+   },
+   {
+    "value": "82",
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "quote": "Refrigerated warehouses dominate the material type category with an 82% share in 2026, as roughly 3.7 billion cubic feet of USDA-tracked capacity anchors national food inventories and"
+   },
+   {
+    "value": "89.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "quote": "By storage type: Facilities/services segment held the largest market share of 89.3% in 2025."
+   },
+   {
+    "value": "63.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "quote": "By temperature range: Frozen (-18°c to -25°c) segment held the largest market share of 63.0% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.globalresearch.co.jp/reports/japan-cold-storage-market-mrf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/upload/investigate/docs/5f4ed9956f1e93f5076e0ea70bcb5d65.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/2518760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukamototeisou.jp/column/ec-logi/refrigerated-warehouse-industry-ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.col-logi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/3099874c-5bf1-4cff-8393-33ab12a3f9a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.com/ja-jp/insights/cold-storage-supply-shortage-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logi-today.com/910896",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://makasenahare.biz/logistics/warehousing/cold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nmrk.com/insights/market-report/h125-u-s-cold-storage-market-overview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/cold-storage-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avisonyoung.us/sightline/-/article/2021/08/26/rising-supply-demand-disparity-in-the-u-s-cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/united-states-cold-storage-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rolandberger.com/en/Insights/Publications/Cold-storage-warehousing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gcca.org/resource/top-25-lists/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/cold-storage-market-116433",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-cold-storage-market-in-the-world-in-2025-market-research-report-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-cold-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketresearch.com/blog/leading-cold-storage-companies/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "冷凍冷蔵倉庫 市場規模 CAGR",
+   "results": [
+    "https://www.globalresearch.co.jp/reports/japan-cold-storage-market-mrf/",
+    "https://x-network.co.jp/column/refrigerated-and-frozen-warehouse-market-size/",
+    "https://jp.linkedin.com/pulse/%E5%85%A8%E7%90%83%E3%81%AE%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E7%94%A8%E5%86%B7%E5%87%8D%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AA%BF%E6%9F%BB%E3%81%A7%E3%81%9D%E3%81%AE%E5%B8%82%E5%A0%B4-7508497585213440001-0kyqe",
+    "https://www.sphericalinsights.com/jp/reports/cold-storage-market",
+    "https://www.dbj.jp/upload/investigate/docs/5f4ed9956f1e93f5076e0ea70bcb5d65.pdf",
+    "https://newscast.jp/smart/news/2518760",
+    "https://www.yano.co.jp/press-release/show/press_id/4061?srsltid=AYCX9vLLsPQUxmVCYrt3qFJH6AwQtMX8PtuErrZdzJ_oqaZBXVABNGMw",
+    "https://www.smtri.jp/report_column/report/2023_03_29_5829.html",
+    "https://www.logi-today.com/862863",
+    "https://www.fortunebusinessinsights.com/jp/冷蔵倉庫市場-116433"
+   ]
+  },
+  {
+   "query": "冷凍冷蔵倉庫 市場 シェア 上位 企業",
+   "results": [
+    "https://tsukamototeisou.jp/column/ec-logi/refrigerated-warehouse-industry-ranking/",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/11/25/20241121_takashima.pdf",
+    "https://www.col-logi.com/",
+    "https://www.mlit.go.jp/seisakutokatsu/freight/content/001851409.pdf",
+    "https://baseconnect.in/companies/keyword/3099874c-5bf1-4cff-8393-33ab12a3f9a1",
+    "https://ccreb-gateway.jp/reports/refrigerated-warehouse/",
+    "https://mono.ipros.com/cg2/%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB/",
+    "https://fujilogi.net/blogs/column/fujilogi-columnt-322?srsltid=AYCX9vIuPzsaVlpwwQJsvExqEyuF7wePliNCXSRiZCLl9y8dvXUAnG6U",
+    "https://www.logi-today.com/862863",
+    "https://www.decisionsadvisors.com/ja/insights/japan-refrigerated-warehouse-market"
+   ]
+  },
+  {
+   "query": "冷凍冷蔵倉庫 市場 前年比 2025",
+   "results": [
+    "https://www.jll.com/ja-jp/insights/cold-storage-supply-shortage-japan",
+    "https://www.coherentmarketinsights.com/ja/%E7%B1%B3%E5%9B%BD%E5%86%B7%E8%94%B5%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4",
+    "https://straitsresearch.com/jp/report/cold-storage-market",
+    "https://www.dbj.jp/upload/investigate/docs/5f4ed9956f1e93f5076e0ea70bcb5d65.pdf",
+    "https://www.logi-today.com/910896",
+    "https://newscast.jp/smart/news/2518760",
+    "https://www.globalresearch.co.jp/reports/japan-cold-storage-market-mrf/",
+    "https://makasenahare.biz/logistics/warehousing/cold/",
+    "https://www.makoto-service.jp/blog/category1/207750",
+    "https://www.jarw.or.jp/statistics/date/2025"
+   ]
+  },
+  {
+   "query": "cold storage market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "https://www.precedenceresearch.com/cold-storage-market",
+    "https://www.grandviewresearch.com/industry-analysis/us-cold-storage-market",
+    "https://www.nmrk.com/insights/market-report/h125-u-s-cold-storage-market-overview",
+    "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "https://www.ibisworld.com/united-states/industry/refrigerated-storage/1225/",
+    "https://www.mordorintelligence.com/industry-reports/cold-storage-market",
+    "https://www.fortunebusinessinsights.com/cold-storage-market-116433",
+    "https://uk.finance.yahoo.com/news/cold-storage-market-growth-analysis-080600834.html",
+    "https://www.grandviewresearch.com/industry-analysis/cold-storage-market"
+   ]
+  },
+  {
+   "query": "cold storage market share top players percent",
+   "results": [
+    "https://www.precedenceresearch.com/cold-storage-market",
+    "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "https://www.mordorintelligence.com/industry-reports/cold-storage-market",
+    "https://www.futuremarketinsights.com/reports/cold-storage-market",
+    "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "https://www.avisonyoung.us/sightline/-/article/2021/08/26/rising-supply-demand-disparity-in-the-u-s-cold-storage-market",
+    "https://market.us/report/cold-storage-market/",
+    "https://www.fortunebusinessinsights.com/cold-storage-market-116433",
+    "https://www.verifiedmarketresearch.com/blog/leading-cold-storage-companies/"
+   ]
+  },
+  {
+   "query": "cold storage market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.maximizemarketresearch.com/market-report/global-cold-storage-market/17444/",
+    "https://straitsresearch.com/report/cold-storage-market",
+    "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "https://www.strategicmarketresearch.com/market-report/cold-storage-market",
+    "https://www.linkedin.com/pulse/competitive-landscape-cold-store-market-analyzing-strengths-weaknesses-mdc9e",
+    "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "https://www.mordorintelligence.com/industry-reports/united-states-cold-storage-market",
+    "https://www.rolandberger.com/en/Insights/Publications/Cold-storage-warehousing.html",
+    "https://www.precedenceresearch.com/cold-chain-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "cold storage market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/cold-storage-market",
+    "https://www.grandviewresearch.com/industry-analysis/cold-storage-market",
+    "https://www.nmrk.com/insights/market-report/h125-u-s-cold-storage-market-overview",
+    "https://www.persistencemarketresearch.com/market-research/us-cold-storage-market.asp",
+    "https://www.mmcginvest.com/post/refrigerated-storage-industry-analysis-in-the-us-current-market-and-outlook",
+    "https://www.gcca.org/resource/top-25-lists/",
+    "https://www.fortunebusinessinsights.com/cold-storage-market-116433",
+    "https://www.marketresearchfuture.com/reports/cold-storage-market-9995",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-cold-storage-market-in-the-world-in-2025-market-research-report-2024-2035",
+    "https://www.mordorintelligence.com/industry-reports/united-states-cold-storage-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

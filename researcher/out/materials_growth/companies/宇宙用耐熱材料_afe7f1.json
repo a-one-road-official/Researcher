@@ -1,0 +1,1486 @@
+{
+ "name": "宇宙用耐熱材料",
+ "en": "thermal protection system materials",
+ "aliases": [
+  "TPS",
+  "ablative",
+  "耐熱材"
+ ],
+ "context": "宇宙",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:04:11.894121+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "高度な宇宙用複合材料市場は、2035年にに5,741.23百万米ドル、CAGR約12.09%で成長中、",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "高度な宇宙用複合材料市場規模、シェア、競争環境、トレンド分析レポート、プラットフォーム別、コンポーネント別、材料別、製造プロセス別、サービス別： 2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "最近の市場分析によると、高度な宇宙用複合材料市場は2024年の13億980万米ドルから2033年までに55億1120万米ドルへ成長し、2025年から2033年にかけて年平均成長率（CAGR）11.94％で拡大すると予測されている",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までに55億1120万米ドルへの成長が見込まれるこの市場は、技術の最前線であるだけでなく、航空宇宙産業が長期的な持続可能性と効率性目標を達成するための重要な道筋でもある",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用セラミックマトリックス複合材料の世界市場（2026年～2032年）、市場規模（酸化物、炭化ケイ素、炭素、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用セラミックマトリックス複合材料の世界市場（2026年～2032年）、市場規模（酸化物、炭化ケイ素、炭素、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地理的地域別および国/地域別の市場規模（年間販売量と年間収益）の歴史的データが提供されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までのグローバル市場規模の予測として、地域別の年間販売量と年間収益の予測が含まれます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "LPI世界再使用型宇宙機熱防護材料レポートによると、2025年の世界再使用型宇宙機熱防護材料市場規模は235.60百万ドルであり、2026年には283.20百万ドル、2032年には812.36百万ドルに増加する見通しです",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、再使用型宇宙機熱防護材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、再使用型宇宙機熱防護材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域における再使用型宇宙機熱防護材料市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、再使用型宇宙機熱防護材料の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "宇部興産、航空宇宙用の耐熱材料を量産 100億円投資 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "宇部興産、航空宇宙用の耐熱材料を量産 100億円投資",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "総投資額は約100億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "原子力発電所など産業用の需要も取り込み、16年度までに年300億円の事業に成長させる",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Insulation Material Market Size, Share, Trends 2036",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 83.32 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 143.67 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 78.9 billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 83.3 billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 143.7 billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 78.90 Billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 143.67 Billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 60.36 Billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Reusable Spacecraft Thermal Protection Materials market was valued at US$ 235 million in 2025 and is anticipated to reach US$ 812 million by 2032, at a CAGR of 19.2% from 2026 to 2032.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Anti-Adhesive Paper Market to Reach USD 16,022 Million by 2032, Driven by Rising …",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Ion Coating Machine Market 2026-2032 | Global Market Size, Historical Trends and …",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Contactless Biometric Devices Market to Reach USD 42,422 Million by 2032 at 6.5% …",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.8 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.2 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermal interface material market is expected to expand from USD 3.8 billion in 2026 to USD 6.2 billion by 2036. The market is anticipated to register a 5.1% CAGR during the forecast period. Electronics and semiconductor applications are likely to lead with a 52.4% share. Thermal pads are projected to account for 38.6% of material type demand in 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.8 Billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.2 Billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.8 billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.2 billion",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Billion) Analysis, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Current and Future Market Size Value (USD Billion) Projections, 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Billion) Analysis By Application Type, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD $4,150",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "High-Temperature Composite Materials Market Size, Trends, Analysis, and Outlook By Temperature Range (High temperature, Ultra-high temperature), By Matrix (Polymer matrix, Ceramic matrix, Metal matrix), By Application (Aerospace & Defense, Transportation, Energy, Electronics, Others), by Country, Segment, and Companies, 2024-2032",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "USD $3,980",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for Thermal Protection Systems for Spacecraft will reach US$90 million in 2035, a CAGR of 3.3% compared with 2024.",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   },
+   {
+    "quote": "USD, Area (m2)",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Protection Systems for Spacecraft are forecast to be a US$90 million market by 2035.",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "高度な宇宙用複合材料市場は、2035年にに5,741.23百万米ドル、CAGR約12.09%で成長中、",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "長率（CAGR）が 12.09％で",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "最近の市場分析によると、高度な宇宙用複合材料市場は2024年の13億980万米ドルから2033年までに55億1120万米ドルへ成長し、2025年から2033年にかけて年平均成長率（CAGR）11.94％で拡大すると予測されている",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "• 炭素繊維強化ポリマー、熱可塑性複合材料、およびハイブリッド複合材料の技術進歩は、2025年から2033年までの予測期間中に予測される11.94％のCAGRを推進する上で、どのような役割を果たしますか?",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 機種別供給から高頻度再使用需要へ市場が拡大",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "需要面では、打上げ・帰還頻度の上昇、機体1基当たりの再使用回数増加、TPS部品の点検・交換需要、商業帰還カプセルや防衛・極超音速案件の拡大が成長を牽引します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 競争軸は材料性能から認定・供給力へ拡大",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、再使用型宇宙機熱防護材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、再使用型宇宙機熱防護材料の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2026-end and grow at a",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.6%",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Thermal Insulation Material Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is projected to grow at 7.6% through 2036. Growth reflects large scale manufacturing capacity, rapid industrialization, and government investment in production modernization.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to grow at 7.0% through 2036. Growth reflects expanding industrial capacity, growing domestic consumption, and government led infrastructure development programs.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Korea is projected to grow at 5.2% through 2036. Growth reflects technology driven demand, advanced manufacturing infrastructure, and quality focused procurement.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USA is projected to grow at 5.0% through 2036. Growth reflects advanced regulatory frameworks, mature end use industries, and emphasis on quality and compliance standards.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany is projected to grow at 4.8% through 2036. Growth reflects advanced manufacturing infrastructure, stringent regulatory standards, and emphasis on quality and precision.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is projected to grow at 4.6% through 2036. Growth reflects the country's Building Energy Efficiency Act requirements, seismic retrofit insulation demand, and ZEH (Net Zero Energy House) construction program promoting high performance thermal envelope specifications.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 83.32 billion to USD 143.67 billion, at a CAGR of 5.6%",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Reusable Spacecraft Thermal Protection Materials market was valued at US$ 235 million in 2025 and is anticipated to reach US$ 812 million by 2032, at a CAGR of 19.2% from 2026 to 2032.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Global Workforce Management Software Market reports provide CAGR Value 2018-2025 and in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Trends and Forecast.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermal interface material market is expected to expand from USD 3.8 billion in 2026 to USD 6.2 billion by 2036. The market is anticipated to register a 5.1% CAGR during the forecast period. Electronics and semiconductor applications are likely to lead with a 52.4% share. Thermal pads are projected to account for 38.6% of material type demand in 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2026-2036)",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Material Market CAGR (%) By Country, 2026-2036",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to expand at a 5.1% CAGR during the 2026 to 2036 period.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for Thermal Protection Systems for Spacecraft will reach US$90 million in 2035, a CAGR of 3.3% compared with 2024.",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、航空宇宙用セラミックマトリックス複合材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の航空宇宙用セラミックマトリックス複合材料市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、競争環境、CR3、CR5、CR10比率（2024-2026年）による市場集中度分析、新製品と潜在的な新規参入者、市場のM&A活動と戦略も詳細に分析されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、GE Aviation、Safran、Rolls-Royce Group、CoorsTek、COI Ceramics、BJS Ceramics GmbH、Composites Horizons、Ultramet、WPX Faser Keramik、Applied Thin Films、Walter E. C. Pritzkow Spezialkeramikといった主要企業に関する個別の詳細な分析が提供されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では、主要企業が低密度・高耐熱材料、C/C・CMCの緻密化、高放射率・耐酸化コーティング、複雑形状のニアネットシェイプ成形、迅速な点検・補修、案件レベルのロット一貫性に投資しています",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "韓国 炭素複合材と先進加工を基盤に地域サプライチェーンへ参入",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "1.7 高参入障壁の中、再使用・保守性・軽量化が主方向",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "一方、技術、認定、資本の参入障壁は高いままです",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "材料は高温、酸化、衝撃、振動、繰り返し熱サイクルで安定性能を維持する必要があり、研究室レベルの材料性能だけでは飛行案件への参入条件を満たしません",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、再使用型宇宙機熱防護材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "東芝、工場廃熱発電で出力10%増 他社撤退の市場に参入",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "The market for thermal insulation material continues to grow supported by structural demand drivers, regulatory frameworks and evolving end use requirements. Cost, scale and complexity of compliance are constraints that shape the competitive landscape, steering growth to established players with integrated capabilities.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Strategic Positioning",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Thermal Insulation Material Market",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Thermal Insulation Material Market",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Players/Startups",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape assessment including market positioning and strategic benchmarking.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "ᗒ Granular regional insights cover five major markets (North America, Europe, APAC, South America, and MEA) with in‐depth analysis of 20+ countries. Each region's dominant products, competitive landscape, and downstream demand trends are clearly detailed.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ᗒ Who Are the Global Key Players in This Reusable Spacecraft Thermal Protection Materials Market? What's Their Company Profile, Their Product Information, and Contact Information?",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Report Overview: It provides a quick look at product and application segments of the global Reusable Spacecraft Thermal Protection Materials market, major players, study objectives, years considered, and research scope.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Production by Regions: This section throws light on import and export scenarios, leading players, production value growth rate, and production growth rate of all regions included in the Reusable Spacecraft Thermal Protection Materials report.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Analysis: The Reusable Spacecraft Thermal Protection Materials report here discusses about the key strategic initiatives considered by the key players to sustain their hold. This analysis will surely help the competitors in planning their activities ahead.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Workforce Management Software Market Report provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The Workforce Management Software market analysis is provided for the international markets including development trends, competitive landscape analysis, and",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Competitive Landscape of the Thermal Interface Material Market Globally?",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Thermal Interface Material Market",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 Competitive Landscape Overview",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 Market Share Analysis of Key Players",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx's research includes coverage of several key players and projects in space crew and cargo transfer vehicles, a key application of TPS. Source: IDTechEx.",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "この成長は、この地域内にロッキード・マーチン、ノースロップ・グラマン、東レ・アドバンスト・コンポジット、ヘクセル・コーポレーションといった主要な先端複合材料プロバイダーが存在すること、また政府や軍関係者による宇宙探査プログラムも市場機会を開拓していることに起因しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "Toray Advanced Composites",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "対象国・地域の追加（日本国内の地域別分析など）",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "レポート言語： 英語、日本語",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN : 03-6899-2648",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "• Toray Advanced Composites",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Site URL:",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "https://japaninsights.jp/",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/company/reportoceanjapan/",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "日本リサーチ",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "日本レポート市場",
+    "url": "https://newscast.jp/news/5913925",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の販売量と収益、タイプ別、用途別の販売量が示されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：航空宇宙用セラミックマトリックス複合材料の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、長い伝統を誇る日本の繊維技術から生まれた「ニチビアルフ」は、宇宙開発の未来を照らす先端技術です",
+    "url": "https://kosmos-jpn.com/page/heat-resistant-fiber",
+    "pass": 3
+   },
+   {
+    "quote": "日本初！耐熱チタン合金で航空宇宙用材料規格｢AEROSPACE MATERIAL SPECIFICATION｣に登録 | プレスリリース | 企業情報 | 大同特殊鋼",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る大同特殊鋼",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼技報",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本初！耐熱チタン合金で航空宇宙用材料規格｢AEROSPACE MATERIAL SPECIFICATION｣に登録",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本初！耐熱チタン合金で航空宇宙用材料規格",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼株式会社（本社：名古屋市東区／社長：石黒 武）が開発した耐熱チタン合金DAT54（以下、DAT54）が、日本で開発された耐熱チタン合金として初めてアメリカの航空宇宙用材料規格(AMS：AEROSPACE MATERIAL SPECIFICATION)に登録されました",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本 IHI AerospaceなどのC/C、帰還カプセル、ロケット耐熱材料の長期蓄積を持ち、高信頼・少量・高認定市場を形成",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "宇部興産、航空宇宙用の耐熱材料を量産 100億円投資 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株ランキング",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本株サマリー",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメント日本",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "今野真二「日本語日記」",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日立・プリファードネットワークスなどに 日経優秀製品賞が決定",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "「ごみ」が日本を救う",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、廃エアコンからレアアース 再資源化で新規調達35％削減",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人は睡眠不足 第一人者が語る「科学的に見て正しい」睡眠との付き合い方",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社の関連サイト",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "NATIONAL GEOGRAPHIC 日本版",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "Channel JAPAN",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社について",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Analysis of Thermal Insulation Material Market in Japan",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is projected to grow at 4.6% through 2036. Growth reflects the country's Building Energy Efficiency Act requirements, seismic retrofit insulation demand, and ZEH (Net Zero Energy House) construction program promoting high performance thermal envelope specifications.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Building Energy Efficiency Act and 2025 insulation performance standards create compliance driven demand for high R value insulation across residential and commercial construction.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Seismic retrofit programs combining structural reinforcement with thermal insulation upgrades generate procurement across Japan's pre 1981 building stock.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, South Korea, USA, Germany, Japan, UK, 30 plus countries",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "What Factors are Shaping Thermal Interface Material Sales in Japan?",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sales of thermal interface materials in Japan are increasing as manufacturers expand electronics facilities and quality improvement capabilities aligned with automotive electronics and industrial equipment needs. Growth at",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical Co.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "China, South Korea, Japan, USA, Germany, and 40+ countries",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Henkel AG; 3M Company; Dow Inc.; Parker Hannifin Corporation; Laird Technologies; Shin-Etsu Chemical Co.; Momentive Performance Materials; Bergquist Company; Others",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The fastest-growing markets include China, South Korea, Japan, the United States, and Germany, backed by semiconductor expansion, electric vehicle production, and advanced electronics manufacturing.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, Hyundai Motor Group and Toray Industries, Inc. signed a Strategic Joint Development Agreement to collaborate on advanced materials and components innovation, aiming to set new standards in future mobility.",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "14.3.2 Japan",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "17.9 Toray Industries, Inc.",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "17.12 Mitsubishi Chemical Group Corporation",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "ASIA (Japan and Korea):",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "pass": 3
+   },
+   {
+    "quote": "High Temperature Material Systems (HTMS) is already working with automotive, aerospace and other manufacturers and exporting to Europe and Japan, less than a year after securing funding to help commercialize its technology.",
+    "url": "https://www.azom.com/news.aspx?newsID=65748",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemicals - Center for Advanced Materials",
+    "url": "https://www.mrl.ucsb.edu/research/seminars/thermal-protection-systems",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "高度な宇宙用複合材料市場規模、シェア、競争環境、トレンド分析レポート、プラットフォーム別、コンポーネント別、材料別、製造プロセス別、サービス別： 2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米は高度な宇宙用複合材料市場を独占し、予測期間中もその存在感を維持すると予想されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、酸化物、炭化ケイ素、炭素、その他といったタイプ別のセグメント分析では、2021年から2026年までの販売市場シェア、収益と市場シェア、販売価格が示されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、商業と軍事といった用途別のセグメント分析でも、2021年から2026年までの販売市場シェア、収益と市場シェア、販売価格が詳細に分析されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の航空宇宙用セラミックマトリックス複合材料の年間販売量と販売市場シェア、年間収益と収益市場シェア、および販売価格が提供されます",
+    "url": "https://newscast.jp/news/2571748",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、再使用型宇宙機熱防護材料の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、再使用型宇宙機熱防護材料の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/9425603",
+    "pass": 3
+   },
+   {
+    "quote": "by 2036. Plastic Foam Insulation will dominate with a 36.0% share, while Low Temperature Insulation will lead with a 46.0% share.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Low Temperature Insulation holds 46.0% of the temperature range segment, reflecting concentrated demand in established product configurations with proven end use performance.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Plastic foam insulation accounts for 36.0% of product demand in 2026. The concentration is a function of proven procurement trends and steady end-use demand in major application segments.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Low Temperature Insulation to account for 46.0% of temperature range demand in 2026. The concentration results from established procurement patterns and consistent end use requirements in the major application areas.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Insulation Material Market Europe Country Market Share Analysis, 2026 & 2036",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Workforce Management Software Market reports provide CAGR Value 2018-2025 and in-depth analysis of Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Trends and Forecast.",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Material Market Share (%) By Application Type, 2026",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Material Market Share (%) By Material Type, 2026",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Material Market Share (%) By Country, 2026",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 Market Share Analysis of Key Players",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "航空 宇宙材料市場規模 ・シェア 2026年〜2031年 — 航空 宇宙材料市場規模 ・シェア 2026年〜2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aerospace-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空 宇宙用 半製品ゴム 材料市場 の詳細分析 2026-2033 - LinkedIn — 航空 宇宙用 半製品ゴム 材料市場 の詳細分析 2026-2033 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 航空宇宙用半製品ゴム...",
+    "url": "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E5%8D%8A%E8%A3%BD%E5%93%81%E3%82%B4%E3%83%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90-2026-2033%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%96%E7%95%8C%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7%E7%8E%874%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-4rhie",
+    "pass": 3
+   },
+   {
+    "quote": "航空 宇宙用 複合 材料 の 市場規模 、シェア、 成長 2034 年 — 航空 宇宙用 複合 材料 の 市場規模 、シェア、 成長 2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102680",
+    "pass": 3
+   },
+   {
+    "quote": "航空 宇宙用 複合 材料市場 規模 予測 レポート2035 — 航空 宇宙用 複合 材料市場 規模 予測 レポート2035 Research Nester https://www.researchnester.com > reports > aerospace-co...",
+    "url": "https://www.researchnester.com/ja/reports/aerospace-composites-market/3822",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空 宇宙 複合 材料市場 戦略的展望と成長2034 — 日本航空 宇宙 複合 材料市場 戦略的展望と成長2034 IMARC Group https://www.imarcgroup.com > Aerospace and Defense",
+    "url": "https://www.imarcgroup.com/report/ja/japan-aerospace-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空 宇宙用 複合 材料市場 | 業界シェア 市場 規模 成長性 2026 — 航空 宇宙用 複合 材料市場 | 業界シェア 市場 規模 成長性 2026 グローバルインフォメーション https://www.gii.co.jp > ... > 航空宇宙 > 宇宙産業",
+    "url": "https://www.gii.co.jp/report/moi2121305-aerospace-composites-market-share-analysis.html?",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基複合 材料 （ CMC ） 市場 サイズとシェア 2026-2035 — セラミック基複合 材料 （ CMC ） 市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > ceramic...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本初！ 耐熱 チタン合金で航空 宇宙用材料 規格｢AEROSPACE ... — 日本初！ 耐熱 チタン合金で航空 宇宙用材料 規格｢AEROSPACE ... 大同特殊鋼 https://www.daido.co.jp > about > release > 0626_ams",
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "pass": 3
+   },
+   {
+    "quote": "汎用製品･ 材料 は 宇宙 環境にどこまで耐えられるのか？ — 汎用製品･ 材料 は 宇宙 環境にどこまで耐えられるのか？ 株式会社ケミトックス https://www.chemitox.co.jp > 2022_ctx_webinar_14",
+    "url": "https://www.chemitox.co.jp/2022_ctx_webinar_14",
+    "pass": 3
+   },
+   {
+    "quote": "宇部興産、航空 宇宙用 の 耐熱材料 を量産 100億円投資 — 宇部興産、航空 宇宙用 の 耐熱材料 を量産 100億円投資 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevationSpaceと豊田自動織機、大気圏再突入システム 用耐熱 ... — ElevationSpaceと豊田自動織機、大気圏再突入システム 用耐熱 ... 株式会社 豊田自動織機 https://www.toyota-shokki.co.jp > news > 2025/04/16",
+    "url": "https://www.toyota-shokki.co.jp/news/2025/04/16/008791/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Insulation Material Market Size , Share, Trends 2036 — Thermal Insulation Material Market Size , Share, Trends 2036 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size Report, 2026-2033 — Thermal Interface Materials Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size to Worth USD 13.64 ... — Thermal Interface Materials Market Size to Worth USD 13.64 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Reusable Spacecraft Thermal Protection Materials Market 2026 : — Reusable Spacecraft Thermal Protection Materials Market 2026 : openPR.com https://www.openpr.com > news > reu...",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size, Share, Report, 2034 — Thermal Interface Materials Market Size, Share, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "China 7.6% shows robust structural demand underpinning increasing end use capacity, and regulatory investment and modernization of procurement.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "India at 7.0% reflects strong structural demand supported by expanding end use capacity, regulatory investment, and procurement modernization.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Korea at 5.2% reflects strong structural demand supported by expanding end use capacity, regulatory investment, and procurement modernization.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is projected to grow at 7.6% through 2036. Growth reflects large scale manufacturing capacity, rapid industrialization, and government investment in production modernization.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "3. World Bank. (2025). Global Infrastructure Investment Data. World Bank.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is projected to grow at 7.6% through 2036, reflecting expanding production capacity, increasing domestic consumption, and government led investment in quality infrastructure.",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.4 Growth Opportunities and Investment Hotspots",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "16.4 Capacity Expansion and Investments",
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "pass": 3
+   },
+   {
+    "quote": "The company raised £1.3 m in September 2025 in a round led by South West Investment Fund and Midlands Engine Investment Fund II, through fund managers Maven Capital Partners and Mercia Ventures, alongside SFC Capital, DeepTech Labs and the US venture fund Plug and Play.",
+    "url": "https://www.azom.com/news.aspx?newsID=65748",
+    "pass": 3
+   },
+   {
+    "quote": "The company is due to start exporting to the Middle East and the US in the coming months and is preparing for a Series A funding round in the year ahead. Ultimately, it aims to build a UK supply chain for high-performance materials and expects to create more than 40 new jobs over the next three years.",
+    "url": "https://www.azom.com/news.aspx?newsID=65748",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.09",
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "quote": "高度な宇宙用複合材料市場は、2035年にに5,741.23百万米ドル、CAGR約12.09%で成長中、"
+   },
+   {
+    "value": "11.94",
+    "url": "https://newscast.jp/news/5913925",
+    "quote": "最近の市場分析によると、高度な宇宙用複合材料市場は2024年の13億980万米ドルから2033年までに55億1120万米ドルへ成長し、2025年から2033年にかけて年平均成長率（CAGR）11.94％で拡大すると予測されている"
+   },
+   {
+    "value": "12.5",
+    "url": "https://newscast.jp/news/2571748",
+    "quote": "世界の航空宇宙用セラミックマトリックス複合材料（CMC）市場規模は、2025年の13億2100万米ドルから2032年には29億6800万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）12.5％で成長すると見込まれています"
+   },
+   {
+    "value": "19.20",
+    "url": "https://newscast.jp/news/9425603",
+    "quote": "LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "CAGR of 5.6%"
+   },
+   {
+    "value": "19.2",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "quote": "The global Reusable Spacecraft Thermal Protection Materials market was valued at US$ 235 million in 2025 and is anticipated to reach US$ 812 million by 2032, at a CAGR of 19.2% from 2026 to 2032."
+   },
+   {
+    "value": "3.3",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "quote": "The global market for Thermal Protection Systems for Spacecraft will reach US$90 million in 2035, a CAGR of 3.3% compared with 2024."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "235.60",
+    "url": "https://newscast.jp/news/9425603",
+    "quote": "LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます"
+   },
+   {
+    "value": "812.36",
+    "url": "https://newscast.jp/news/9425603",
+    "quote": "LP Information調査チームの「世界再使用型宇宙機熱防護材料市場の成長予測2026～2032」によれば、2025年の世界の再使用型宇宙機熱防護材料市場規模は約US$235.60 Millionで、2032年には約US$812.36 Millionに達し、2026～2032年のCAGRは約19.20%と予測されます"
+   },
+   {
+    "value": "83.32",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 83.32 Bn"
+   },
+   {
+    "value": "143.67",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 143.67 Bn"
+   },
+   {
+    "value": "78.9",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 78.9 billion"
+   },
+   {
+    "value": "83.3",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 83.3 billion"
+   },
+   {
+    "value": "143.7",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 143.7 billion"
+   },
+   {
+    "value": "78.90",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 78.90 Billion"
+   },
+   {
+    "value": "60.36",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "quote": "USD 60.36 Billion"
+   },
+   {
+    "value": "235",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "quote": "The global Reusable Spacecraft Thermal Protection Materials market was valued at US$ 235 million in 2025 and is anticipated to reach US$ 812 million by 2032, at a CAGR of 19.2% from 2026 to 2032."
+   },
+   {
+    "value": "812",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "quote": "The global Reusable Spacecraft Thermal Protection Materials market was valued at US$ 235 million in 2025 and is anticipated to reach US$ 812 million by 2032, at a CAGR of 19.2% from 2026 to 2032."
+   },
+   {
+    "value": "16,022",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "quote": "Anti-Adhesive Paper Market to Reach USD 16,022 Million by 2032, Driven by Rising …"
+   },
+   {
+    "value": "42,422",
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "quote": "Contactless Biometric Devices Market to Reach USD 42,422 Million by 2032 at 6.5% …"
+   },
+   {
+    "value": "3.8",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "quote": "USD 3.8 Bn"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "quote": "USD 6.2 Bn"
+   },
+   {
+    "value": "90",
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "quote": "The global market for Thermal Protection Systems for Spacecraft will reach US$90 million in 2035, a CAGR of 3.3% compared with 2024."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aerospace-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/aerospace-plastics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/5913925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102680",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/aerospace-composites-market/3822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-aerospace-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi2121305-aerospace-composites-market-share-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2571748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=19021&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kosmos-jpn.com/page/heat-resistant-fiber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9425603",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chemitox.co.jp/2022_ctx_webinar_14",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/aerospace-and-defense-thermal-management-systems-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/automotive-thermal-management-market-228170865.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-reusable-spacecraft-thermal-protection-materials-market-strategic-research-report?srsltid=AYCX9vK3fGgOLdvMLQEu-RUyI6iP8ZEDheceRUjQqLjwtPXeSN0hMe3g",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/thermal-management-market-3201",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbir.gov/topics/12150",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azom.com/news.aspx?newsID=65748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrl.ucsb.edu/research/seminars/thermal-protection-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trellis.net/article/thermal-energy-startups-could-benefit-new-federal-funds/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "宇宙用耐熱材料 市場規模 年平均成長率",
+   "results": [
+    "https://www.reportocean.co.jp/industry-reports/advanced-space-composites-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/aerospace-materials-market",
+    "https://straitsresearch.com/jp/report/aerospace-plastics-market",
+    "https://newscast.jp/news/5913925",
+    "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E5%8D%8A%E8%A3%BD%E5%93%81%E3%82%B4%E3%83%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90-2026-2033%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%96%E7%95%8C%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7%E7%8E%874%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC-4rhie",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102680",
+    "https://www.atpress.ne.jp/news/3935294",
+    "https://www.sphericalinsights.com/jp/reports/aerospace-materials-market",
+    "https://prtimes.jp/main/html/rd/p/000003706.000067400.html",
+    "https://newscast.jp/smart/news/7262823"
+   ]
+  },
+  {
+   "query": "宇宙用耐熱材料 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.researchnester.com/ja/reports/aerospace-composites-market/3822",
+    "https://www.imarcgroup.com/report/ja/japan-aerospace-composites-market",
+    "https://www.gii.co.jp/report/moi2121305-aerospace-composites-market-share-analysis.html?",
+    "https://newscast.jp/news/2571748",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=19021&la=ja",
+    "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "https://www.atpress.ne.jp/news/2571748",
+    "https://straitsresearch.com/jp/report/ceramic-matrix-composites-market",
+    "https://www.yano.co.jp/press/press.php/002600?srsltid=AYCX9vLaIRlpUpEzQv1t6CzCkKbVZh20Jpa-v7_PvjDTwNy8JgHfGn9_",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "宇宙用耐熱材料 参入 企業 国内",
+   "results": [
+    "https://kosmos-jpn.com/page/heat-resistant-fiber",
+    "https://www.daido.co.jp/about/release/2018/0626_ams.html",
+    "https://newscast.jp/news/9425603",
+    "https://www.chemitox.co.jp/2022_ctx_webinar_14",
+    "https://www.nikkei.com/article/DGXNZO19210470R01C10A2TJ2000/",
+    "https://www.toyota-shokki.co.jp/news/2025/04/16/008791/index.html",
+    "https://www.atpress.ne.jp/news/3620484",
+    "https://www.kenkai.jaxa.jp/research/pastres/material.html",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102680",
+    "https://www.ibismaterials.com/jp/category/宇宙/"
+   ]
+  },
+  {
+   "query": "thermal protection system materials market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/aerospace-and-defense-thermal-management-systems-market",
+    "https://www.futuremarketinsights.com/reports/thermal-insulation-material-market",
+    "https://www.marketsandmarkets.com/Market-Reports/automotive-thermal-management-market-228170865.html",
+    "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "https://www.marketresearchreports.com/reports/global-reusable-spacecraft-thermal-protection-materials-market-strategic-research-report?srsltid=AYCX9vK3fGgOLdvMLQEu-RUyI6iP8ZEDheceRUjQqLjwtPXeSN0hMe3g",
+    "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "https://www.marketresearchfuture.com/reports/thermal-systems-market-17190",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-thermal-protector-market-2026-2035-spherical-insights-analysis",
+    "https://www.fortunebusinessinsights.com/thermal-management-system-market-108692",
+    "https://growthmarketreports.com/report/thermal-protection-system-market"
+   ]
+  },
+  {
+   "query": "thermal protection system materials market key players competitive landscape",
+   "results": [
+    "https://www.openpr.com/news/4653058/reusable-spacecraft-thermal-protection-materials-market-2026",
+    "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "https://www.marketresearchfuture.com/reports/thermal-management-market-3201",
+    "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "https://www.linkedin.com/pulse/detailed-examination-thermal-control-materials-market-size-jo2tf",
+    "https://www.futuremarketinsights.com/reports/thermal-interface-materials-market",
+    "https://www.marketresearch.com/Stratistics-Market-Research-Consulting-v4058/Advanced-Thermal-Protection-Systems-Forecasts-45970364/",
+    "https://www.skyquestt.com/report/thermal-management-components-market",
+    "https://www.mordorintelligence.com/industry-reports/thermal-spray-materials-market",
+    "https://growthmarketreports.com/report/thermal-protection-system-market"
+   ]
+  },
+  {
+   "query": "thermal protection system materials startup funding 2025",
+   "results": [
+    "https://www.idtechex.com/en/research-report/heat-shields-and-thermal-protection-systems-for-spacecraft/1085",
+    "https://www.sbir.gov/topics/12150",
+    "https://www.youtube.com/watch?v=ONngXvdMQSw",
+    "https://www.azom.com/news.aspx?newsID=65748",
+    "https://www.mrl.ucsb.edu/research/seminars/thermal-protection-systems",
+    "https://trellis.net/article/thermal-energy-startups-could-benefit-new-federal-funds/",
+    "https://www.nasa.gov/ames/entry-systems-and-technology-division/thermal-protection-materials-branch/",
+    "https://energycapitalhtx.com/houston-energy-startups-q1-q2-2026-funding",
+    "https://www.facebook.com/WevolverApp/posts/nasa-engineer-matthew-switzer-shows-us-thermal-protection-materials-built-to-wit/1540611544759617/",
+    "https://www.business-money.com/announcements/west-midlands-based-supermaterials-startup-targets-us-with-launch-of-silicon-valley-office/"
+   ]
+  }
+ ],
+ "missing": {}
+}

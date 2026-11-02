@@ -1,0 +1,1770 @@
+{
+ "name": "窒化ケイ素（Si3N4）セラミックス",
+ "en": "silicon nitride ceramic",
+ "aliases": [
+  "Si3N4 substrate",
+  "silicon nitride",
+  "窒化ケイ素"
+ ],
+ "context": "放熱・ベアリング",
+ "kind": "market",
+ "researched_at": "2026-11-02T16:51:21.339277+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "窒化ケイ素の市場規模は、2035年末までに303百万米ドルに達すると予想され、2024―2036年の予測期間中に6.85％のCAGRで拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本地域を除くアジア太平洋地域の市場は、2035年末までに1,650億米ドルの最大の市場シェアを保持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域の市場は、2036 年末までに 690 億米ドルという大きなシェアを占めると見込まれています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 市場は、2022－2035 年の予測期間にわたって約 6.85% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 日本を除くアジア太平洋地域の市場は、2036年末までに最大の市場シェアを獲得すると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "ベアリングセグメントは、2036 年末までに最大の市場規模を獲得すると予想されており、大幅な成長の機会が見られます",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルセラミックス市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：材料別（アルミナセラミックス、チタン酸塩セラミックス、ジルコン酸塩セラミックス、フェライトセラミックス、その他）、製品タイプ別（モノリシックセラミックス、セラミックマトリックス複合材料、セラミックコーティング）、用途別（電気機器、触媒担体、電子機器、摩耗部品、エンジン部品、フィルター、バイオセラミックス、その他）、最終用途産業別（電気・電子機器、自動車、産業、医療、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のテクニカルセラミックス市場は、2025年には121億3000万米ドルと評価され、2034年までに157億9000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術セラミックスの世界市場規模は、2025年には121億3000万米ドルと評価された",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "年間市場規模は2034年までに157億9000万米ドルに達すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2034年までの潜在市場規模（TAM）は、約1,267億3,000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は予測期間中に年平均成長率（CAGR）2.97%を記録すると予想されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルセラミックス市場は、2026年から2034年にかけて年平均成長率（CAGR）3.36%で成長すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百万米ドルへ拡大 (2026年10月29日掲載) - ライブドアニュース",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百…",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百万米ドルへ拡大",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "借金1500万円から累計2億円の男",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "熊谷代表 80億円要求に謝罪会見",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板市場2026-2032：世界市場規模、成長、動向、予測の最新分析 | NEWSCAST",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板市場2026-2032：世界市場規模、成長、動向、予測の最新分析",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "LP Information調査チームの最新レポートである「世界ベア窒化ケイ素 (Si3N4) セラミック基板市場の成長予測2026～2032」によると、2025年から2031年の予測期間中のCAGRが17.0%で、2031年までにグローバルベア窒化ケイ素 (Si3N4) セラミック基板市場規模は6.14億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるベア窒化ケイ素 (Si3N4) セラミック基板市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "世界のベア窒化ケイ素（Si3N4）セラミック基板の市場規模は、2023年に1億2,953万米ドルとなりました",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に19.31％のCAGRで拡大し、2030年までに5億1,559万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "北米のベア窒化ケイ素（Si3N4）セラミック基板の市場規模は、2023年に134万米ドルとなりました",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に6.9％のCAGRで拡大し、2030年までに241万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋のベア窒化ケイ素（Si3N4）セラミック基板の市場規模は、2023年に9,284万米ドルとなりました",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に20.33％のCAGRで拡大し、2030年には3億9,409万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のベア窒化ケイ素（Si3N4）セラミック基板の市場規模は、2023年に3,531万米ドルとなりました",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に16.62％のCAGRで拡大し、2030年までに1億1,899万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のベア窒化ケイ素（Si3N4）セラミック基板の市場規模予測",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,950 換算",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,925 換算",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,900 換算",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Ceramics Market Size, Share Report, 2026-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 119.4 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 124.1 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 159.4 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 119.4 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 124.1 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 159.4 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Material Outlook (Revenue, USD Million, 2021-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Product Outlook (Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size, Share | CAGR of 7.4%",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 275.5 Million",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 134.9 Million",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 45.3 Mn.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 134.9",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "million in 2024.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 275.5",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "窒化ケイ素の市場規模は、2035年末までに303百万米ドルに達すると予想され、2024―2036年の予測期間中に6.85％のCAGRで拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "Lithoz GmbH は WendtIndia Ltd と販売協力契約を締結し、2023 年 1 月中に亜大陸の急速に成長する 3D プリンティング市場で戦略的に事業を拡大します",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 市場は、2022－2035 年の予測期間にわたって約 6.85% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "2026年～2034年の年平均成長率（CAGR）",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026年から2034年にかけて年平均成長率（CAGR）2.97%を記録すると推定されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は予測期間中に年平均成長率（CAGR）2.97%を記録すると予想されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の年間平均成長率（2026年～2034年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルセラミックス市場は、2026年から2034年にかけて年平均成長率（CAGR）3.36%で成長すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百万米ドルへ拡大 (2026年10月29日掲載) - ライブドアニュース",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模、2026年285百万米ドルへ拡大",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "2025〜2031年の年平均成長率は17.0%で2031年に6.14億米ドルに達する",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "LP Information調査チームの最新レポートである「世界ベア窒化ケイ素 (Si3N4) セラミック基板市場の成長予測2026～2032」によると、2025年から2031年の予測期間中のCAGRが17.0%で、2031年までにグローバルベア窒化ケイ素 (Si3N4) セラミック基板市場規模は6.14億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に19.31％のCAGRで拡大し、2030年までに5億1,559万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に6.9％のCAGRで拡大し、2030年までに241万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に20.33％のCAGRで拡大し、2030年には3億9,409万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2030年の予測期間中に16.62％のCAGRで拡大し、2030年までに1億1,899万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material: Titanate segment is anticipated to register at the fastest CAGR of 4.2% from 2026 to 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 3.6%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominates the global advanced ceramics market with the largest revenue share of 40.6% in 2025 and is anticipated to grow at the fastest CAGR of 4.2% during the forecast period, supported by rapid industrialization, large-scale electronics manufacturing, and expanding automotive and healthcare sectors.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 3.6% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global advanced ceramics market is expected to grow at a compound annual growth rate of 3.6% from 2026 to 2033 to reach USD 159.3 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size, Share | CAGR of 7.4%",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, and is projected to grow at a",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.4%",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Silicon Nitride Market is estimated to be valued at USD 145.7 million in 2025 and is projected to reach USD 289.2 million by 2035, registering a compound annual growth rate (CAGR) of 7.1% over the forecast period.",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "The silicon nitride market is expected to grow at a 7.1% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global silicon nitride precision ceramic ball market is expected to grow with a CAGR of 4.8% from 2025 to 2031. The major drivers for this market are the increasing demand for high-precision bearing components, the rising use in electric vehicle drivetrains, and the growing adoption across aerospace & semiconductor applications.",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Q.2. Which segments will grow at a faster pace and why?",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Q.3. Which region will grow at a faster pace and why?",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 1.1: Growth Rate (%, 2023-2024) and CAGR (%, 2025-2031) of the Silicon Nitride Precision Ceramic Ball Market by Type and Application",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 4.2: Market Size and CAGR of Various Type in the Global Silicon Nitride Precision Ceramic Ball Market (2019-2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 4.3: Market Size and CAGR of Various Type in the Global Silicon Nitride Precision Ceramic Ball Market (2025-2031)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 5.2: Market Size and CAGR of Various Application in the Global Silicon Nitride Precision Ceramic Ball Market (2019-2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 5.3: Market Size and CAGR of Various Application in the Global Silicon Nitride Precision Ceramic Ball Market (2025-2031)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 6.1: Market Size and CAGR of Various Regions in the Global Silicon Nitride Precision Ceramic Ball Market (2019-2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 6.2: Market Size and CAGR of Various Regions in the Global Silicon Nitride Precision Ceramic Ball Market (2025-2031)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 7.3: Market Size and CAGR of Various Type in the North American Silicon Nitride Precision Ceramic Ball Market (2019-2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 7.4: Market Size and CAGR of Various Type in the North American Silicon Nitride Precision Ceramic Ball Market (2025-2031)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 7.5: Market Size and CAGR of Various Application in the North American Silicon Nitride Precision Ceramic Ball Market (2019-2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 7.6: Market Size and CAGR of Various Application in the North American Silicon Nitride Precision Ceramic Ball Market (2025-2031)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Table 8.3: Market Size and CAGR of Various Type in the European Silicon Nitride Precision Ceramic Ball Market (2019-2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Ceramic Silicon Nitride Powder Market Size is projected To Grow from USD 371.24 Million in 2024 to USD 723.55 Million by 2035, at a CAGR of 6.25% during the forecast period 2025–2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The Market is Going to Expand at a CAGR of 6.25% between 2025 and 2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, expanding at a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 6.9% | USD Billion",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "of revenue in 2025 and is expected to grow at a CAGR of approximately",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 revenue, includes industrial machinery, defense, and research institute procurement, and is expected to grow steadily at a CAGR of approximately",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is the projected CAGR for the silicon nitride powder market through 2034?",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.8% CAGR",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size and YoY Growth Rate, 2026-2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026 – 2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場の主要企業の包括的な分析",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "3M、CoorsTek Inc.、CeramTec GmbH、京セラ株式会社、Morgan Advanced Materials plc、Saint-Gobain、Paul Rauschert GmbH and Co. KG.、STC Material Solutions、Elan Technology、Boschなどは、技術セラミックス市場で事業を展開する主要企業の一部である",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素（Si3N4）セラミック基板の世界の主要企業は、Denka、Proterial、Toshiba、Maruwa、Kyocera、Weihai Yuanhuanなどが含まれます",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、ベア窒化ケイ素（Si3N4）セラミック基板の世界市場を包括的に紹介することを目的としており、ベア窒化ケイ素（Si3N4）セラミック基板の地域別・国別、タイプ別、用途別の分析とともに、総販売量、収益、価格、主要企業の市場シェア、ランキングに焦点を当てています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、世界のベア窒化ケイ素（Si3N4）セラミック基板市場について調査し、市場の概要とともに、タイプ別、用途別、地域別の動向、および市場に参入する企業のプロファイルなどを提供しています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include KYOCERA Corporation, CoorsTek Inc., and others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in advanced ceramics market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the advanced ceramics market are 3M; AGC Ceramics Co., Ltd.; CeramTec GmbH; CoorsTek Inc.; Elan Technology; KYOCERA Corporation; Morgan Advanced Materials; Murata Manufacturing Co., Ltd.; Nishimura Advanced Ceramics Co., Ltd.; Ortech Advanced Ceramics, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in The Industry",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Silicon Nitride Market:",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Silicon Nitride Market",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the silicon nitride precision ceramic ball companies profiled in this report include:",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Analysis: This includes M&A, new product development, and competitive landscape of the silicon nitride precision ceramic ball market.",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Q.9. Who are the major players in this market? What strategic initiatives are key players pursuing for business growth?",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "13. Company Profiles of the Leading Players Across the Value Chain",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth interviews of the major players in the market",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "UBE Industries, Ltd. led the competitive landscape with the broadest product portfolio globally",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the Silicon Nitride Market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "3M, UBE Industries, Denka Company Limited, AlzChem Group AG, KYOCERA Corporation, CeramTec, CoorsTek, Toshiba Materials Co., Vesta Ceramics, Morgan Advanced Materials, Rogers Corporation, Reade International Corp are the major players.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "経済見通し：日本",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済回復の限界",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本を除くアジア太平洋地域 市場価値 (千米ドル) および量 (トン) 現在および将来の予測、2022-2035 年",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本 市場価値 (千米ドル) および量 (トン) 現在および将来の予測、2022-2035 年",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本を除くアジア太平洋地域",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本 窒化ケイ素市場評価、ビジネス視点、地域別予測、",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本 窒化ケイ素市場評価、ビジネス視点、タイプ別予測、",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本 窒化ケイ素市場評価、ビジネス視点、用途別予測、",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本 窒化ケイ素市場評価、ビジネス視点、最終用途産業別予測、",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "KYOCERA Corporation",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本を除くアジア太平洋地域の市場予測",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本地域を除くアジア太平洋地域の市場は、2035年末までに1,650億米ドルの最大の市場シェアを保持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデキストリン市場",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 日本を除くアジア太平洋地域の市場は、2036年末までに最大の市場シェアを獲得すると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、3M、CoorsTek Inc.、CeramTec GmbH、KYOCERA Corporation、Morgan Advanced Materials plc、Saint-Gobain、Paul Rauschert GmbH and Co. KG.、STC Material Solutions、Elan Technology、Boschといった業界参加企業を紹介するとともに、競争戦略とイノベーションの動向を分析しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ株式会社",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "3M、CoorsTek Inc.、CeramTec GmbH、京セラ株式会社、Morgan Advanced Materials plc、Saint-Gobain、Paul Rauschert GmbH and Co. KG.、STC Material Solutions、Elan Technology、Boschなどは、技術セラミックス市場で事業を展開する主要企業の一部である",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "台湾 観光地で日本人男性が不明",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "ひろゆき氏私見「劣化した日本」",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "元AV女優の日本人DJを搬送 香港",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "スペイン列車事故 日本人1人死亡",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "スペイン事故 日本人の死亡確認",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "スペイン追突 日本人犠牲を確認",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "アンソロピック 日本で資金調達",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省山間地域の養殖キャビア、日本市場に進出",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "台湾と日本、包括的な貿易取り決め締結を協議＝メディア報道 林佳竜外相、実現に前向き",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州最強クラスの攻撃陣vs日本代表の守護神 バルセロナ撃破の鍵を握るGK鈴木彩艶にスペインメディアも注目「ヴィラが番狂わせを起こすための重要な存在」",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationのトップ企業研究センターによると、ベア窒化ケイ素 (Si3N4) セラミック基板の世界的な主要製造業者には、Nittera、MARUWA、Japan Fine Ceramics、Denka、Proterial、Sinoma Advanced Nitride Ceramics、Zhejiang Polyhedron New Material、Jiangsu Fulehua Semiconductor Technology、Kyocera、Boson Materialなどが含まれている",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場では、日本企業が引き続き優位なポジションを占めている",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "次いでMARUWA、Japan Fine Ceramics、Denka、Proterial（旧日立金属）などが続き、高品質・高信頼のブランドを背景に自動車OEMやパワーモジュールメーカーとの長期供給契約を拡大している",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "また、KyoceraやBoson Material、Fujian Zingin New Materialなどが特定用途向けに独自技術を展開し、各社は高熱伝導・低欠陥率・薄型化技術の開発競争を繰り広げている",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場においても、電装部品サプライチェーンの再構築や国内製造回帰の動きが見られ、信頼性を重視する顧客層を中心に採用が拡大している",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素 Si3N4 [SNP] - 日本ファインセラミックス｜先端産業のパートナー",
+    "url": "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ファインセラミックス株式会社",
+    "url": "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "© JAPAN FINE CERAMICS CO.,LTD. All Rights Reserved.",
+    "url": "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素（Si3N4）セラミック基板の世界の主要企業は、Denka、Proterial、Toshiba、Maruwa、Kyocera、Weihai Yuanhuanなどが含まれます",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Fine Ceramics",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素 Si3N4 | ファインセラミックス｜京セラ",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【京セラファインセラミックスの強み】",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【京セラグループとしての強み】",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る京セラ",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ独自の加工法により、さらに精密な加工も可能です",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ファインセラミックス株式会社",
+    "url": "https://mono.ipros.com/cg2/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include KYOCERA Corporation, CoorsTek Inc., and others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "KYOCERA Corporation",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing Co., Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; Italy; China; India; Japan; Brazil; Argentina; Saudi Arabia; UAE; Egypt",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "3M; AGC Ceramics Co., Ltd.; CeramTec GmbH; CoorsTek Inc.; Elan Technology; KYOCERA Corporation; Morgan Advanced Materials; Murata Manufacturing Co., Ltd.; Nishimura Advanced Ceramics Co., Ltd.; Ortech Advanced Ceramics; Saint-Gobain",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the advanced ceramics market are 3M; AGC Ceramics Co., Ltd.; CeramTec GmbH; CoorsTek Inc.; Elan Technology; KYOCERA Corporation; Morgan Advanced Materials; Murata Manufacturing Co., Ltd.; Nishimura Advanced Ceramics Co., Ltd.; Ortech Advanced Ceramics, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the total global consumption, commanding the largest share of global consumption and production. This prominence is supported by concentrated manufacturing capabilities in China, Japan, South Korea, and India, where industrial adoption spans electronics, photovoltaics, and advanced ceramics applications.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan and South Korea contribute advanced fabrication expertise, especially for semiconductors and electronics, reinforcing the region’s material demand base. Asia Pacific’s combination of industrial scale, diversified applications, and technology focus substantiates its role as the largest regional market for silicon nitride.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "KYOCERA Corporation",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "– China, Japan, South Korea, India, ASEAN & Rest of APAC;",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Denka Company Limited, UBE Corporation, Saint-Gobain, Precision Ceramics, Alzchem Group, KYOCERA Corporation, 3M Company, Niterra Materials Corporation, Morgan Advanced Materials plc, CoorsTek, Paul Rauschert GmbH & Co. KG, Reade Advanced Materials, and Other Players.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "KYOCERA Corporation, UBE Corporation, Denka Company Limited, AlzChem Group AG, H.C. Starck Tungsten GmbH, 3M, CeramTec GmbH, Morgan Advanced Materials, TOSHIBA CORPORATION, Rogers Corporation, Reade",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "KYOCERA Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "世界の窒化ケイ素市場調査、規模、シェアと予測、2036年",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "市場における主要な競合他社の市場シェア (%)、2023年",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "日本地域を除くアジア太平洋地域の市場は、2035年末までに1,650億米ドルの最大の市場シェアを保持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域の市場は、2036 年末までに 690 億米ドルという大きなシェアを占めると見込まれています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "2016年にはガソリン車が販売台数に占める割合は22％となり、2010年の3.3％から増加しました",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションに関しては、ベアリングセグメントが 2035 年末までに 135百万米ドルの最大の市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "タイプに基づいて、反応結合窒化ケイ素セグメントは、予測期間中に 7.03% の最大の市場シェアを保持する予定です",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 日本を除くアジア太平洋地域の市場は、2036年末までに最大の市場シェアを獲得すると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルセラミックス市場の範囲、シェア、および2034年までの潜在力",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "テクニカルセラミックス市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：材料別（アルミナセラミックス、チタン酸塩セラミックス、ジルコン酸塩セラミックス、フェライトセラミックス、その他）、製品タイプ別（モノリシックセラミックス、セラミックマトリックス複合材料、セラミックコーティング）、用途別（電気機器、触媒担体、電子機器、摩耗部品、エンジン部品、フィルター、バイオセラミックス、その他）、最終用途産業別（電気・電子機器、自動車、産業、医療、その他）、地域別（北米、欧州、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "上位10社が2024年に約92.0%のシェアを占め日系のNitteraが首位である",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "廃校舎のシェアハウス 家賃2.5万",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界のトップ10企業は売上の観点から約92.0%の市場シェアを持っていた",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、ベア窒化ケイ素 (Si3N4) セラミック基板の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: ベア窒化ケイ素（Si3N4）セラミック基板の世界市場：市場シェアとランキング、全体売上と需要予測（2024年～2030年）",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素（Si3N4）セラミック基板の世界市場：市場シェアとランキング、全体売上と需要予測（2024年～2030年）",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "Bare Silicon Nitride (Si3N4) Ceramic Substrates- Global Market Share and Ranking, Overall Sales and Demand Forecast 2024-2030",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、世界の大手5社が収益ベースで約94.23%のシェアを占めています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、ベア窒化ケイ素（Si3N4）セラミック基板の世界市場を包括的に紹介することを目的としており、ベア窒化ケイ素（Si3N4）セラミック基板の地域別・国別、タイプ別、用途別の分析とともに、総販売量、収益、価格、主要企業の市場シェア、ランキングに焦点を当てています",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素セラミック基板：世界市場シェアとランキング、総売上高および需要予測2025-2031年",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベア窒化ケイ素（Si3N4）セラミック基板の世界市場：市場シェアとランキング、全体売上と需要予測（2025年～2031年）",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Monolithic segment led the market with the largest market revenue share of 78.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Electrical & electronics segment led the market with the largest revenue share of 56.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominates the global advanced ceramics market with the largest revenue share of 40.6% in 2025 and is anticipated to grow at the fastest CAGR of 4.2% during the forecast period, supported by rapid industrialization, large-scale electronics manufacturing, and expanding automotive and healthcare sectors.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market in Asia Pacific dominated with a revenue share of 40.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The alumina segment led the market with the largest revenue share of 33.9% in 2025, owing to its wide-ranging applicability, cost-effectiveness, and favorable mechanical and thermal properties.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Monolithic accounted for the largest market revenue share of over 78.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the market share, primarily due to manufacturing practicality and cost efficiency. RBSN is produced by nitriding compacted silicon powder, a process that occurs at lower pressures and avoids the need for expensive hot-pressing equipment or sintering aids. This enables near-net-shape fabrication with minimal shrinkage (often below 1%), reducing machining requirements and material waste.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "China accounted for more than 70% of the total global estimated production of silicon materials in 2023.",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q.10. What are some of the competing products in this market and how big of a threat do they pose for loss of market share by material or product substitution?",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "11.4 Market Share Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 11.2: Market Share (%) of Top Players in the Global Silicon Nitride Precision Ceramic Ball Market (2024)",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "pass": 3
+   },
+   {
+    "quote": "of global market share in 2025, underpinned by Germany's machine tool and automotive sectors, France's aerospace industry, and growing renewable energy deployments across the continent. Key European producers including AlzChem Group AG and CeramTec GmbH are expanding production of specialty grades for",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon nitride powder (Si3N4) is a synthetic inorganic ceramic precursor material produced through direct nitridation of silicon metal, carbothermal reduction of silica, or imide decomposition routes, yielding alpha-phase or beta-phase dominated powders with specific surface areas typically ranging from",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "application segment represented the largest share of the silicon nitride powder market by application in 2025, accounting for approximately",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.2 Global Silicon Nitride Powder Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "8. Which region dominates the silicon nitride powder market and why?",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of Type, Sintered silicon nitride (SSN), estimated to dominate the market revenue share 2026.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界の 窒化ケイ素市場 調査、 規模 、シェアと予測、2036年 — 世界の 窒化ケイ素市場 調査、 規模 、シェアと予測、2036年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素市場規模 、シェア |業界レポート [2026-2034] — 窒化ケイ素市場規模 、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "pass": 3
+   },
+   {
+    "quote": "ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板の世界 市場規模 — ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板の世界 市場規模 ライブドアニュース https://news.livedoor.com > プレスリリース",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "pass": 3
+   },
+   {
+    "quote": "ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板 市場 2026-2032：世界 ... — ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板 市場 2026-2032：世界 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素市場 規模、シェア |業界レポート [2026-2034] — 窒化ケイ素市場 規模、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 窒化ケイ素市場 調査、規模、シェアと 予測 、2036年 — 世界の 窒化ケイ素市場 調査、規模、シェアと 予測 、2036年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素 Si 3 N 4 [SNP] - 日本ファインセラミックス — 窒化ケイ素 Si 3 N 4 [SNP] - 日本ファインセラミックス 日本ファインセラミックス https://www.japan-fc.co.jp > cate01 > cate0101 > si3n4-1",
+    "url": "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベア 窒化ケイ素 （ Si3N4 ） セラミック 基板の世界 市場 — ベア 窒化ケイ素 （ Si3N4 ） セラミック 基板の世界 市場 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > report > qyr1609524-bare-silicon-...",
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素 Si3N4 | ファイン セラミックス - 京セラ — 窒化ケイ素 Si3N4 | ファイン セラミックス - 京セラ 京セラ株式会社 https://www.kyocera.co.jp > ... > セラミックスの材料",
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ケイ素 市場規模、シェア |業界レポート [2026-2034] — 窒化ケイ素 市場規模、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "pass": 3
+   },
+   {
+    "quote": "ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板市場2026-2032：世界 ... — ベア 窒化ケイ素 ( Si3N4 ) セラミック 基板市場2026-2032：世界 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/7290928",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の電動化を支える 窒化ケイ素セラミックス 製品 - 東芝 — 自動車の電動化を支える 窒化ケイ素セラミックス 製品 - 東芝 東芝 PDF https://www.global.toshiba > dam > review > 2023/01",
+    "url": "https://www.global.toshiba/content/dam/toshiba/jp/technology/corporate/review/2023/01/a11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size , Share | Industry Report [2026-2034] — Silicon Nitride Market Size , Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/silicon-nitride-market-100932",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Ceramics Market Size : $ 6.33 Bn (2035) — Silicon Nitride Ceramics Market Size : $ 6.33 Bn (2035) Vantage Market Research https://www.vantagemarketresearch.com > ...",
+    "url": "https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vL1g_bVB6ba1Cg7HJjXXAnzcWBzuHtaO3RCmNXb5WUR050dzO3h",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size , Share | CAGR of 7.4% — Silicon Nitride Market Size , Share | CAGR of 7.4% Market.us https://market.us > report > global-sili...",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market | Global Market Analysis Report - 2035 — Silicon Nitride Market | Global Market Analysis Report - 2035 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Ceramics Market Size: $ 6.33 Bn (2035) — Silicon Nitride Ceramics Market Size: $ 6.33 Bn (2035) Vantage Market Research https://www.vantagemarketresearch.com > ...",
+    "url": "https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vJtRZn9XxrcMQO_dLFHsu-AUALggLHGxWnY4fyETn0r-K1Yl-Ze",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size, Share | CAGR of 7.4% — Silicon Nitride Market Size, Share | CAGR of 7.4% Market.us https://market.us > report > global-sili...",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size, Share | Industry Report [2026-2034] — Silicon Nitride Market Size, Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/silicon-nitride-market-100932",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in Ceramic Silicon Nitride Powder Market ... — Top 20 Companies in Ceramic Silicon Nitride Powder Market ... Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Nitride Market Size and YoY Growth Rate, 2026-2033 — Silicon Nitride Market Size and YoY Growth Rate, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > industry-reports",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "2.97",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "quote": "また、2026年から2034年にかけて年平均成長率（CAGR）2.97%を記録すると推定されています"
+   },
+   {
+    "value": "3.36",
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "quote": "テクニカルセラミックス市場は、2026年から2034年にかけて年平均成長率（CAGR）3.36%で成長すると予測されている"
+   },
+   {
+    "value": "17.0",
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "quote": "2025〜2031年の年平均成長率は17.0%で2031年に6.14億米ドルに達する"
+   },
+   {
+    "value": "17.0",
+    "url": "https://newscast.jp/news/7290928",
+    "quote": "LP Information調査チームの最新レポートである「世界ベア窒化ケイ素 (Si3N4) セラミック基板市場の成長予測2026～2032」によると、2025年から2031年の予測期間中のCAGRが17.0%で、2031年までにグローバルベア窒化ケイ素 (Si3N4) セラミック基板市場規模は6.14億米ドルに達すると予測されている"
+   },
+   {
+    "value": "4.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "quote": "By material: Titanate segment is anticipated to register at the fastest CAGR of 4.2% from 2026 to 2033."
+   },
+   {
+    "value": "3.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "quote": "CAGR of 3.6% from 2026 to 2033"
+   },
+   {
+    "value": "7.4",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "quote": "Silicon Nitride Market Size, Share | CAGR of 7.4%"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "quote": "The Silicon Nitride Market is estimated to be valued at USD 145.7 million in 2025 and is projected to reach USD 289.2 million by 2035, registering a compound annual growth rate (CAGR) of 7.1% over the forecast period."
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "quote": "The global silicon nitride precision ceramic ball market is expected to grow with a CAGR of 4.8% from 2025 to 2031. The major drivers for this market are the increasing demand for high-precision bearing components, the rising use in electric vehicle drivetrains, and the growing adoption across aeros"
+   },
+   {
+    "value": "6.25",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Ceramic Silicon Nitride Powder Market Size is projected To Grow from USD 371.24 Million in 2024 to USD 723.55 Million by 2035, at a CAGR of 6.25% during the forecast period 2025–2035."
+   },
+   {
+    "value": "6.9",
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "quote": "CAGR: 6.9% | USD Billion"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "119.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "quote": "Market size in 2025: USD 119.4 billion"
+   },
+   {
+    "value": "124.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "quote": "Estimated market size in 2026: USD 124.1 billion"
+   },
+   {
+    "value": "159.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "quote": "Projected market size by 2033: USD 159.4 billion"
+   },
+   {
+    "value": "275.5",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "quote": "USD 275.5 Million"
+   },
+   {
+    "value": "134.9",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "quote": "USD 134.9 Million"
+   },
+   {
+    "value": "45.3",
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "quote": "USD 45.3 Mn."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/silicon-nitride-ceramic-products-market-115795",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7290928",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/silicon-nitride-ceramic-substrate-market-122924",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomoruba.eiicon.net/blogs/79770",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.toshiba/content/dam/toshiba/jp/technology/corporate/review/2023/01/a11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/categories/6723/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doujinsangyo.jp/siliconnitride/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/silicon-nitride-market-100932",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vL1g_bVB6ba1Cg7HJjXXAnzcWBzuHtaO3RCmNXb5WUR050dzO3h",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-silicon-nitride-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vJtRZn9XxrcMQO_dLFHsu-AUALggLHGxWnY4fyETn0r-K1Yl-Ze",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/ceramic-substrate-market-6683833.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/market-reports/silicon-nitride-market-115234",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/silicon-nitride-ceramic-substrate-market-110998",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/ceramic",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "窒化ケイ素（Si3N4）セラミックス 市場規模 年平均成長率",
+   "results": [
+    "https://www.marketgrowthreports.com/jp/market-reports/silicon-nitride-ceramic-products-market-115795",
+    "https://jp.linkedin.com/pulse/%E7%AA%92%E5%8C%96%E7%89%A9%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-market-research-report2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E6%8E%A8%E5%AE%9A%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr7%E3%81%A7%E6%8E%A8%E7%A7%BB%E3%81%99%E3%82%8B%E6%88%90%E9%95%B7%E8%BB%8C%E9%81%93%E8%A6%8B%E9%80%9A%E3%81%97-q0fue",
+    "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "https://www.theinsightpartners.com/ja/reports/technical-ceramics-market",
+    "https://news.livedoor.com/pr_topics/detail/32683515/",
+    "https://www.coherentmarketinsights.com/ja/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4",
+    "https://straitsresearch.com/jp/report/ceramic-substrates-market",
+    "https://www.global.toshiba/content/dam/toshiba/jp/technology/corporate/review/2023/01/a11.pdf",
+    "https://www.rbbtoday.com/release/dreamnews/20261029/1391000.html"
+   ]
+  },
+  {
+   "query": "窒化ケイ素（Si3N4）セラミックス 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://newscast.jp/news/7290928",
+    "https://www.marketgrowthreports.com/jp/market-reports/silicon-nitride-ceramic-substrate-market-122924",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "https://www.researchnester.jp/industry-analysis/silicon-nitride-market/3109",
+    "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "https://www.gii.co.jp/report/qyr1609524-bare-silicon-nitride-si3n4-ceramic-substrates.html",
+    "https://tomoruba.eiicon.net/blogs/79770",
+    "https://www.atpress.ne.jp/news/9740595",
+    "https://www.marketreportsworld.com/jp/market-reports/silicon-nitride-ceramic-substrate-market-14720641",
+    "https://www.nikkei.com/article/DGXZRSP699104_W5A101C2000000/"
+   ]
+  },
+  {
+   "query": "窒化ケイ素（Si3N4）セラミックス 参入 企業 国内",
+   "results": [
+    "https://www.japan-fc.co.jp/products/cate01/cate0101/si3n4-1.html",
+    "https://www.kyocera.co.jp/prdct/fc/material-property/material/silicon_nitride/index.html",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%B8%82%E5%A0%B4-100932",
+    "https://mono.ipros.com/cg2/%E7%AA%92%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0/",
+    "https://newscast.jp/news/7290928",
+    "https://www.global.toshiba/content/dam/toshiba/jp/technology/corporate/review/2023/01/a11.pdf",
+    "https://metoree.com/categories/6723/",
+    "https://doujinsangyo.jp/siliconnitride/",
+    "https://www.goodfellow-japan.jp/jp/blog/silicon-nitride-si3n4.htm"
+   ]
+  },
+  {
+   "query": "silicon nitride ceramic market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/silicon-nitride-market-100932",
+    "https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vL1g_bVB6ba1Cg7HJjXXAnzcWBzuHtaO3RCmNXb5WUR050dzO3h",
+    "https://www.grandviewresearch.com/industry-analysis/advanced-ceramics-market",
+    "https://market.us/report/global-silicon-nitride-market/",
+    "https://www.linkedin.com/pulse/silicon-nitride-ceramic-market-size-demand-drivers-v6oyf",
+    "https://www.futuremarketinsights.com/reports/silicon-nitride-market",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "https://www.precedenceresearch.com/advanced-ceramics-market",
+    "https://www.marketresearchfuture.com/reports/advanced-ceramics-market-1604",
+    "https://www.verifiedmarketreports.com/product/silicon-nitride-ceramics-market/"
+   ]
+  },
+  {
+   "query": "silicon nitride ceramic market key players competitive landscape",
+   "results": [
+    "https://www.vantagemarketresearch.com/silicon-nitride-ceramics-market?srsltid=AYCX9vJtRZn9XxrcMQO_dLFHsu-AUALggLHGxWnY4fyETn0r-K1Yl-Ze",
+    "https://market.us/report/global-silicon-nitride-market/",
+    "https://www.fortunebusinessinsights.com/industry-reports/silicon-nitride-market-100932",
+    "https://www.linkedin.com/pulse/silicon-nitride-ceramic-products-market-study-offers-insightful-fpnfe",
+    "https://www.researchandmarkets.com/reports/6223055/silicon-nitride-precision-ceramic-ball-market?srsltid=AYCX9vILEWjG77RV_5Bfa1qIBXLBxT7SfgT3pxH0aXT9UTdc35Uedtgp",
+    "https://www.marketsandmarkets.com/Market-Reports/ceramic-substrate-market-6683833.html",
+    "https://www.marketgrowthreports.com/market-reports/silicon-nitride-market-115234",
+    "https://www.linkedin.com/pulse/silicon-nitride-ceramic-market-size-demand-drivers-v6oyf",
+    "https://www.businessresearchinsights.com/market-reports/silicon-nitride-ceramic-substrate-market-110998",
+    "https://www.verifiedmarketreports.com/product/silicon-nitride-ceramics-market/"
+   ]
+  },
+  {
+   "query": "silicon nitride ceramic startup funding 2025",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-ceramic-silicon-nitride-powder-market-2025-2032-spherical-insights-analysis",
+    "https://dataintelo.com/report/global-silicon-nitride-powder-market",
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://www.coherentmarketinsights.com/industry-reports/silicon-nitride-market",
+    "https://startupintros.com/orgs/ceramic",
+    "https://solinide.com/swedish-deep-tech-company-solinide-raises-4m-euro-to-commercialize-photonic-chip-technology-for-ai-data-centres/",
+    "https://www.ceramic-solutions.com/Silicon-Nitride/383.html",
+    "https://www.sciencedirect.com/science/article/pii/S2238785423032507",
+    "https://bioutah.org/sintx-technologies-signs-supply-agreement-with-evonik-to-manufacture-silicon-nitride-peek-compound-for-ai-assisted-3d-printed-patient-specific-implants/",
+    "https://chemicalresearchinsight.com/2026/03/28/top-10-companies-in-the-silicon-nitride-ceramic-products-industry-2026-advanced-materials-leaders-driving-global-innovation/"
+   ]
+  }
+ ],
+ "missing": {}
+}
