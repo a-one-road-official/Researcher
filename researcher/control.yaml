@@ -4,7 +4,7 @@
 # shards = 同時に回す本数、per_run = 1本が1回で調べる社数。
 topics:
   am_trade: {run: false, shards: 6, per_run: 12}
-  jgs17_market: {run: false, shards: 10, per_run: 4}
+  jgs17_market: {run: true, shards: 6, per_run: 7}
   deal_size: {run: false, shards: 4, per_run: 3}
   bundle_bench: {run: false, shards: 3, per_run: 3}
   ir1000: {run: true, shards: 12, per_run: 8}
